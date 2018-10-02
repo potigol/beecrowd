@@ -1,0 +1,12 @@
+# vim: syntax=python
+# Potigol 0.9.15
+
+total = leia_inteiro
+valores = [100, 50, 20, 10, 5, 2, 1]
+var resto := total
+escreva total
+para valor em valores gere
+  n = resto div valor
+  escreva "{n} nota(s) de R"+ "$ "+"{valor},00"
+  resto := resto mod valor
+fim
