@@ -1,2 +1,3 @@
+# vim: syntax=python
 # Potigol 0.9.15
 escreva "X = {leia_inteiro + leia_inteiro}"
