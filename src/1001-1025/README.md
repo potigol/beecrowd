@@ -29,3 +29,10 @@
   - [ ] 1025
   
 {% gist 5555251 %}
+
+{% https://github.com/potigol/URI-Potigol/blob/master/src/1001-1025/1001.poti %}
+
+{% gist https://github.com/potigol/URI-Potigol/blob/master/src/1001-1025/1001.poti %}
+
+
+{% github https://github.com/potigol/URI-Potigol/blob/master/src/1001-1025/1001.poti %}
