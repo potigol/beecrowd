@@ -1,4 +1,2 @@
-# vim: syntax=python
-# Potigol 0.9.15
 a, b = leia_inteiro
 escreva "X = {a + b}"
