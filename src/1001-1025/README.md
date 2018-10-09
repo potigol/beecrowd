@@ -30,6 +30,10 @@
   
 {% gist 5555251 %}
 
+<script src="https://gist.github.com/benbalter/5555251.js"></script>
+
+<script src="https://github.com/potigol/URI-Potigol/blob/master/src/1001-1025/1001.poti"></script>
+
 {% https://github.com/potigol/URI-Potigol/blob/master/src/1001-1025/1001.poti %}
 
 {% gist https://github.com/potigol/URI-Potigol/blob/master/src/1001-1025/1001.poti %}
