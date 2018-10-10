@@ -1,4 +1,3 @@
-# vim: syntax=python
 # Potigol 0.9.15
 
 total = leia_inteiro
@@ -7,6 +6,6 @@ var resto := total
 escreva total
 para valor em valores gere
   n = resto div valor
-  escreva "{n} nota(s) de R"+ "$ "+"{valor},00"
+  escreva "{n} nota(s) de R$ {valor},00"
   resto := resto mod valor
 fim
