@@ -14,6 +14,6 @@ Contribua para este projeto com soluções para os problemas.
  - Faça o download da linguagem Potigol http://potigol.github.io
  - Faça um fork deste projeto
  - Escolha e resolva algum problema ainda não resolvido
- - Teste a sua solução no URI Online Judge usando o script [Potigol2Scala](https://github.com/potigol/potigol2scala)
- - Se a solução for aceita pelo UOJ faça um pull request
+ - **OPCIONAL** Teste a sua solução no URI Online Judge usando o script [Potigol2Scala](https://github.com/potigol/potigol2scala)
+ - Faça um pull request
 
