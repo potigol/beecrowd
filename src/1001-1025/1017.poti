@@ -1,0 +1,3 @@
+t = leia_inteiro
+vm = leia_inteiro
+escreva (vm * t / 12) formato "%.3f"

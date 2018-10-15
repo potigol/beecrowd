@@ -1,0 +1,14 @@
+x = leia_reais(" ")
+a, b, c = x[1], x[2], x[3]
+triangulo = a * c / 2
+circulo = 3.14159 * c ^ 2
+trapezio = (a + b) / 2 * c
+quadrado = b * b
+retangulo = a * b
+
+escreva "TRIANGULO: {triangulo formato "%.3f"}
+        |CIRCULO: {circulo formato "%.3f"}
+        |TRAPEZIO: {trapezio formato "%.3f"}
+        |QUADRADO: {quadrado formato "%.3f"}
+        |RETANGULO: {retangulo formato "%.3f"}"
+
