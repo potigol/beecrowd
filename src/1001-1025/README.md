@@ -3,7 +3,7 @@
 [Descrição dos problemas](https://www.urionlinejudge.com.br/judge/pt/problems/all?page=1)
 
   - [x] [1001](1001.md)
-  - [ ] 1002
+  - [x] [1002](1002.poti)
   - [ ] 1003
   - [ ] 1004
   - [ ] 1005
