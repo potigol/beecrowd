@@ -1,0 +1,3 @@
+x = leia_real
+area = (x * x) * 3.14159
+escreva "A={area formato "%.4f"}"
