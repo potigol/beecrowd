@@ -16,11 +16,13 @@ Soluções dos problemas do [URI Online Judge](https://www.urionlinejudge.com.br
 
 Contribua para este projeto com soluções para os problemas.
 
-### Como
+### Como contribuir ...
 
  - Faça o download da linguagem Potigol http://potigol.github.io
  - Faça um fork deste projeto
  - Escolha e resolva algum problema ainda não resolvido
+ - Se estiver usando o editor do Potigol aperte ctrl-F para formatar o código
+ - Coloque o seu código na pasta correspondente
  - **OPCIONAL** Teste a sua solução no URI Online Judge usando o script [Potigol2Scala](https://github.com/potigol/potigol2scala)
  - Faça um pull request
 
