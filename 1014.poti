@@ -1,0 +1,4 @@
+distancia_total = leia_inteiro
+combustivel_gasto = leia_real
+consumo = (distancia_total / combustivel_gasto)
+escreva "{consumo formato "%.3f"} km/l"
