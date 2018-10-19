@@ -1,0 +1,5 @@
+a = leia_real
+b = leia_real
+c = leia_real
+media = (a * 2 + b * 3 + c * 5) / (2 + 3 + 5)
+escreva "MEDIA = {media formato "%.1f"}"
