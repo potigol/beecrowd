@@ -1,0 +1,7 @@
+distancia = leia_inteiro
+x = 60
+y = 90
+diferencia = 30
+tempo = 60
+tempo_gasto = (tempo * distancia) / diferencia
+escreva "{tempo_gasto formato "%.0f"} minutos"
