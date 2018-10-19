@@ -2,5 +2,5 @@ a = leia_inteiro
 b = leia_inteiro
 c = leia_inteiro
 d = leia_inteiro
-f = a * b - c * d
-escreva "DIFERENCA = {f}"
+diferenca = (a * b - c * d)
+escreva "DIFERENCA = {diferenca}"
