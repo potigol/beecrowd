@@ -1,0 +1,4 @@
+a=leia_inteiro
+b=leia_inteiro
+c= a + b
+escreva "SOMA = {c}" 
