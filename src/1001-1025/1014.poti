@@ -1,5 +1,5 @@
-a=leia_inteiro
-b=leia_real
-t=a/b
-to=t formato "%.3f"
+a = leia_inteiro
+b = leia_real
+t = a / b
+to = t formato "%.3f"
 escreva "{to} km/l"
