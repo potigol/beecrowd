@@ -1,0 +1,4 @@
+r = leia_inteiro
+pi = 3.14159
+volume = (4.0 / 3.0) * pi * (r * r * r)
+escreva "VOLUME = {volume formato "%.3f"}"
