@@ -3,3 +3,7 @@ diferencia = 30
 tempo = 60
 tempo_gasto = (tempo * distancia) / diferencia
 escreva "{tempo_gasto formato "%.0f"} minutos"
+
+# Alternativa
+# a = leia_inteiro
+# escreva "{a*2} minutos"
