@@ -4,6 +4,6 @@ se ((a < b + c) e (b < a + c) e (c < a + b)) então
   perimetro = a + b + c
   escreva "Perimetro = {perimetro formato "%.1f"}"
 senão
-  area = (a + b) * c div 2
+  area = (a + b) * c / 2
   escreva "Area = {area formato "%.1f"}"
 fim
