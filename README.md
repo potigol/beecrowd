@@ -3,7 +3,7 @@ Soluções dos problemas do [URI Online Judge](https://www.urionlinejudge.com.br
 
 ## Problemas
 
-[1001 - 1025](src/1001-1025) [1026 - 1050](src/1026-1050)
+[1001 - 1025](src/1001-1025)|[1026 - 1050](src/1026-1050)
 
 ## Contribua
 
