@@ -1,0 +1,26 @@
+var valor := leia_real
+escreva("NOTAS:")
+escreva("{(valor div 100).piso formato "%.0f"} nota(s) de RS 100.00")
+var novo_valor := valor mod 100
+escreva ("{(novo_valor div 50).piso formato "%.0f"} nota(s) de RS 50.00")
+valor := novo_valor mod 50
+escreva("{(valor div 20).piso formato "%.0f"} nota(s) de RS 20.00")
+novo_valor := valor mod 20
+escreva("{(novo_valor div 10).piso formato "%.0f"} nota(s) de RS 10.00")
+valor := novo_valor mod 10
+escreva("{(valor div 5).piso formato "%.0f"} nota(s) de RS 5.00")
+novo_valor := valor mod 5
+escreva("{(valor div 2).piso formato "%.0f"} nota(s) de RS 2.00")
+valor := novo_valor mod 2
+escreva("MOEDAS:")
+escreva("{(valor div 1).piso formato "%.0f"} moeda(s) de RS 1.00")
+novo_valor := valor mod 1
+escreva("{(novo_valor * 2).piso formato "%.0f"} moeda(s) de RS 0.50")
+valor := novo_valor mod 0.50
+escreva("{(valor*4).piso formato "%.0f"} moeda(s) de RS 0.25")
+novo_valor := valor mod 0.25
+escreva("{(novo_valor * 10).piso formato "%.0f"} moeda(s) de RS 0.10")
+valor := novo_valor mod 0.10
+escreva("{(valor*20).piso formato "%.0f"} moeda(s) de RS 0.05")
+novo_valor := valor mod 0.05
+escreva("{(valor*100).piso formato "%.0f"} moeda(s) de RS 0.01")
