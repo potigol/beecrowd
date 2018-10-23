@@ -2,7 +2,7 @@
 
 [Descrição dos problemas](https://www.urionlinejudge.com.br/judge/pt/problems/all?page=1)
 
-  - [x] [1001](1001.md)
+  - [x] [1001](1001.poti)
   - [x] [1002](1002.poti)
   - [X] [1003](1003.poti)
   - [X] [1004](1004.poti)
@@ -20,9 +20,9 @@
   - [X] [1016](1016.poti)
   - [X] [1017](1017.poti)
   - [X] [1018](1018.poti)
-  - [ ] 1019
+  - [X] [1019](1019.poti)
   - [X] [1020](1020.poti)
-  - [ ] 1021
+  - [X] [1021](1021.poti)
   - [ ] 1022
   - [ ] 1023
   - [ ] 1024
