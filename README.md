@@ -8,7 +8,9 @@ Soluções dos problemas do [URI Online Judge](https://www.urionlinejudge.com.br
 1051 - 1075 |
 1076 - 1100 |
 1101 - 1125 |
-1126 - 1150
+1126 - 1150 |
+1151 - 1175 |
+1176 - 1200
 
 
 
