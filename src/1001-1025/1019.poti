@@ -1,0 +1,5 @@
+a=leia_inteiro
+b=a div 3600
+c=(a mod 3600) div 60
+d= a mod 60
+escreva"{b}:{c}:{d}"
