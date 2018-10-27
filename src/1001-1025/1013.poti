@@ -1,0 +1,7 @@
+# Utilizando a formula pedida na questão...
+maior(x, y:Inteiro): Inteiro
+	retorne ((x+y+abs(x-y))/2).inteiro
+fim
+
+numeros = leia_inteiros(3)
+escreva "{maior(numeros[1], maior(numeros[2], numeros[3]))} eh o maior"
