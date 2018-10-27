@@ -1,0 +1,31 @@
+mdc(x: Inteiro, y: Inteiro): Inteiro
+    se y == 0 então 
+    	x 
+    senão 
+    	mdc(y, x mod y) 
+    fim
+fim
+
+repetições = leia_inteiro
+var controle = 0
+enquanto controle < repetições faça
+  controle := controle + 1
+  entrada = leia_texto.divida(" ")
+  n1, d1, operacao, n2, d2 = entrada[1].inteiro, entrada[3].inteiro, entrada[4], entrada[5].inteiro, entrada[7].inteiro
+  var numerador, denominador = 0,0
+  se operacao == "+" então
+      numerador := (n1*d2 + n2*d1)
+	denominador := (d1*d2)
+  senãose operacao == "-" então
+	numerador := (n1*d2 - n2*d1)
+	denominador := (d1*d2)
+  senãose operacao == "/" então
+	numerador := (n1*d2)
+	denominador := (n2*d1)
+  senãose operacao == "*" então
+	numerador := (n1*n2)
+	denominador := (d1*d2)
+  fim
+  mdcOperação = mdc(numerador,denominador)
+  escreva "{numerador}/{denominador} = {(numerador/mdcOperação).inteiro}/{(denominador/mdcOperação).inteiro}"
+fim
