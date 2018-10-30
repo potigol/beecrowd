@@ -1,0 +1,6 @@
+a = leia_inteiro
+b = leia_inteiro
+c = leia_inteiro
+d = leia_inteiro
+diferenca = (a * b - c * d)
+escreva "DIFERENCA = {diferenca}"

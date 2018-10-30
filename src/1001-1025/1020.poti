@@ -1,0 +1,7 @@
+a = leia_inteiro
+b = a div 365
+c = (a mod 365) mod 30
+d = (a mod 365) div 30
+escreva "{b} ano(s)"
+escreva "{d} mes(es)"
+escreva "{c} dia(s)"

@@ -1,0 +1,7 @@
+x = leia_inteiros(" ")
+a, b, c, d = x[1], x[2], x[3], x[4]
+se ((b > c e d > a) e (c + d) > (a + b) e (c > 0 e d > 0) e (a mod 2 == 0)) então
+  escreva "Valores aceitos"
+senão
+  escreva "Valores nao aceitos"
+fim
