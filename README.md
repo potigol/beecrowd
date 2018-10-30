@@ -12,8 +12,6 @@ Soluções dos problemas do [URI Online Judge](https://www.urionlinejudge.com.br
 1151 - 1175 |
 1176 - 1200
 
-
-
 ## Contribua
 
 Contribua para este projeto com soluções para os problemas.
