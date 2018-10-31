@@ -1,6 +1,6 @@
 # Utilizando a formula pedida na questão...
 maior(x, y:Inteiro): Inteiro
-	retorne ((x+y+abs(x-y))/2).inteiro
+	retorne (x+y+abs(x-y)) div 2
 fim
 
 numeros = leia_inteiros(3)
