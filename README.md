@@ -12,6 +12,13 @@ Soluções dos problemas do [URI Online Judge](https://www.urionlinejudge.com.br
 1151 - 1175 |
 1176 - 1200
 
+### Problema da Maratona de Programação
+
+[2018 Final](https://www.urionlinejudge.com.br/judge/pt/problems/origin/167) |
+[2018 Regional](https://www.urionlinejudge.com.br/judge/pt/problems/origin/165) |
+[2017 Final](https://www.urionlinejudge.com.br/judge/pt/problems/origin/152) |
+[2017 Regional](https://www.urionlinejudge.com.br/judge/pt/problems/origin/148)
+
 ## Contribua
 
 Contribua para este projeto com soluções para os problemas.
