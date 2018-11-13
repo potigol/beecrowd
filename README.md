@@ -12,6 +12,12 @@ Soluções dos problemas do [URI Online Judge](https://www.urionlinejudge.com.br
 1151 - 1175 |
 1176 - 1200
 
+2801 - 2825 |
+2826 - 2850 |
+2851 - 2875 |
+[2876 - 2900](src/2876-2900) |
+2901 - 2925
+
 ### Problema da Maratona de Programação
 
 [2018 Final](https://www.urionlinejudge.com.br/judge/pt/problems/origin/167) |
