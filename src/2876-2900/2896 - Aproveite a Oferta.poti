@@ -1,0 +1,7 @@
+t = leia_inteiro
+para i de 1 até t faça
+  entrada = leia_inteiros(" ")
+  n, k = entrada[1], entrada[2]
+  g = n mod k + n div k
+  escreva g
+fim
