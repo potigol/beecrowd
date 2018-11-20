@@ -1,4 +1,4 @@
-# Problemas 1001-1025 #1
+# Problemas 1001-1025
 
 [Descrição dos problemas](https://www.urionlinejudge.com.br/judge/pt/problems/all?page=1)
 
@@ -24,7 +24,7 @@
   - [X] [1019](1019.poti)
   - [X] [1020](1020.poti)
   - [X] [1021](1021.poti)
-  - [X] 1022
+  - [X] [1022](1022.poti)
   - [ ] 1023
   - [ ] 1024
   - [ ] 1025
