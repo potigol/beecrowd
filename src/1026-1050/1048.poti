@@ -1,0 +1,16 @@
+sal = leia_real
+var novosal := 0.0
+se sal > 0
+	novosal := sal * 1.15
+senaose sal > 400
+	novosal := sal * 1.12
+senaose sal > 800
+	novosal := sal * 1.10
+senaose sal > 1200
+	novosal := sal * 1.07
+senaose sal > 2000
+	novosal := sal * 1.04
+fim
+escreva ("Novo salario: {novosal formato "%.2f"}")
+escreva ("Reajuste ganho: {novosal-sal formato "%.2f"}")
+escreva ("'Em percentual: {(novosal/sal-1)*100 formato "%.2f"} %")
