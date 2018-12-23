@@ -1,0 +1,12 @@
+a = leia_real
+se a >= 0 e a <= 25
+	escreva "Intervalo [0,25]"
+senaose a > 25 e a <= 50
+	escreva "Intervalo (25,50]"
+senaose a > 50 e a <= 75
+	escreva "Intervalo (50,75]"
+senaose a > 75 e a <= 100
+	escreva "Intervalo (75,100]"
+senao
+  	escreva "Fora de intervalo"
+fim
