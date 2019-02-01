@@ -1,41 +1,41 @@
 # Iniciante
 
-  - [x] [1001](https://www.urionlinejudge.com.br/judge/pt/problems/view/1001) - [Extremamente Básico](src/100101-1002001001.poti)
-  - [x] [1002](https://www.urionlinejudge.com.br/judge/pt/problems/view/1002) - [Área do Círculo](src/100201-1003001002.poti)
-  - [x] [1003](https://www.urionlinejudge.com.br/judge/pt/problems/view/1003) - [Soma Simples](src/100301-1004001003.poti)
-  - [x] [1004](https://www.urionlinejudge.com.br/judge/pt/problems/view/1004) - [Produto Simples](src/100401-1005001004.poti)
-  - [x] [1005](https://www.urionlinejudge.com.br/judge/pt/problems/view/1005) - [Média 1](src/100501-1006001005.poti)
-  - [x] [1006](https://www.urionlinejudge.com.br/judge/pt/problems/view/1006) - [Média 2](src/100601-1007001006.poti)
-  - [x] [1007](https://www.urionlinejudge.com.br/judge/pt/problems/view/1007) - [Diferença](src/100701-1008001007.poti)
-  - [x] [1008](https://www.urionlinejudge.com.br/judge/pt/problems/view/1008) - [Salário](src/100801-1009001008.poti)
-  - [x] [1009](https://www.urionlinejudge.com.br/judge/pt/problems/view/1009) - [Salário com Bônus](src/100901-1010001009.poti)
-  - [x] [1010](https://www.urionlinejudge.com.br/judge/pt/problems/view/1010) - [Cálculo Simples](src/101001-1011001010.poti)
-  - [x] [1011](https://www.urionlinejudge.com.br/judge/pt/problems/view/1011) - [Esfera](src/101101-1012001011.poti)
-  - [x] [1012](https://www.urionlinejudge.com.br/judge/pt/problems/view/1012) - [Área](src/101201-1013001012.poti)
-  - [x] [1013](https://www.urionlinejudge.com.br/judge/pt/problems/view/1013) - [O Maior](src/101301-1014001013.poti)
-  - [x] [1014](https://www.urionlinejudge.com.br/judge/pt/problems/view/1014) - [Consumo](src/101401-1015001014.poti)
-  - [x] [1015](https://www.urionlinejudge.com.br/judge/pt/problems/view/1015) - [Distância Entre Dois Pontos](src/101501-1016001015.poti)
-  - [x] [1016](https://www.urionlinejudge.com.br/judge/pt/problems/view/1016) - [Distância](src/101601-1017001016.poti)
-  - [x] [1017](https://www.urionlinejudge.com.br/judge/pt/problems/view/1017) - [Gasto de Combustível](src/101701-1018001017.poti)
-  - [x] [1018](https://www.urionlinejudge.com.br/judge/pt/problems/view/1018) - [Cédulas](src/101801-1019001018.poti)
-  - [x] [1019](https://www.urionlinejudge.com.br/judge/pt/problems/view/1019) - [Conversão de Tempo](src/101901-1020001019.poti)
-  - [x] [1020](https://www.urionlinejudge.com.br/judge/pt/problems/view/1020) - [Idade em Dias](src/102001-1021001020.poti)
-  - [x] [1021](https://www.urionlinejudge.com.br/judge/pt/problems/view/1021) - [Notas e Moedas](src/102101-1022001021.poti)
-  - [x] [1035](https://www.urionlinejudge.com.br/judge/pt/problems/view/1035) - [Teste de Seleção 1](src/103501-1036001035.poti)
+  - [x] [1001](https://www.urionlinejudge.com.br/judge/pt/problems/view/1001) - [Extremamente Básico](src/1001-1100/1001.poti)
+  - [x] [1002](https://www.urionlinejudge.com.br/judge/pt/problems/view/1002) - [Área do Círculo](src/1001-1100/1002.poti)
+  - [x] [1003](https://www.urionlinejudge.com.br/judge/pt/problems/view/1003) - [Soma Simples](src/1001-1100/1003.poti)
+  - [x] [1004](https://www.urionlinejudge.com.br/judge/pt/problems/view/1004) - [Produto Simples](src/1001-1100/1004.poti)
+  - [x] [1005](https://www.urionlinejudge.com.br/judge/pt/problems/view/1005) - [Média 1](src/1001-1100/1005.poti)
+  - [x] [1006](https://www.urionlinejudge.com.br/judge/pt/problems/view/1006) - [Média 2](src/1001-1100/1006.poti)
+  - [x] [1007](https://www.urionlinejudge.com.br/judge/pt/problems/view/1007) - [Diferença](src/1001-1100/1007.poti)
+  - [x] [1008](https://www.urionlinejudge.com.br/judge/pt/problems/view/1008) - [Salário](src/1001-1100/1008.poti)
+  - [x] [1009](https://www.urionlinejudge.com.br/judge/pt/problems/view/1009) - [Salário com Bônus](src/1001-1100/1009.poti)
+  - [x] [1010](https://www.urionlinejudge.com.br/judge/pt/problems/view/1010) - [Cálculo Simples](src/1001-1100/1010.poti)
+  - [x] [1011](https://www.urionlinejudge.com.br/judge/pt/problems/view/1011) - [Esfera](src/1001-1100/1011.poti)
+  - [x] [1012](https://www.urionlinejudge.com.br/judge/pt/problems/view/1012) - [Área](src/1001-1100/1012.poti)
+  - [x] [1013](https://www.urionlinejudge.com.br/judge/pt/problems/view/1013) - [O Maior](src/1001-1100/1013.poti)
+  - [x] [1014](https://www.urionlinejudge.com.br/judge/pt/problems/view/1014) - [Consumo](src/1001-1100/1014.poti)
+  - [x] [1015](https://www.urionlinejudge.com.br/judge/pt/problems/view/1015) - [Distância Entre Dois Pontos](src/1001-1100/1015.poti)
+  - [x] [1016](https://www.urionlinejudge.com.br/judge/pt/problems/view/1016) - [Distância](src/1001-1100/1016.poti)
+  - [x] [1017](https://www.urionlinejudge.com.br/judge/pt/problems/view/1017) - [Gasto de Combustível](src/1001-1100/1017.poti)
+  - [x] [1018](https://www.urionlinejudge.com.br/judge/pt/problems/view/1018) - [Cédulas](src/1001-1100/1018.poti)
+  - [x] [1019](https://www.urionlinejudge.com.br/judge/pt/problems/view/1019) - [Conversão de Tempo](src/1001-1100/1019.poti)
+  - [x] [1020](https://www.urionlinejudge.com.br/judge/pt/problems/view/1020) - [Idade em Dias](src/1001-1100/1020.poti)
+  - [x] [1021](https://www.urionlinejudge.com.br/judge/pt/problems/view/1021) - [Notas e Moedas](src/1001-1100/1021.poti)
+  - [x] [1035](https://www.urionlinejudge.com.br/judge/pt/problems/view/1035) - [Teste de Seleção 1](src/1001-1100/1035.poti)
   - [ ] [1036](https://www.urionlinejudge.com.br/judge/pt/problems/view/1036) - Fórmula de Bhaskara
-  - [x] [1037](https://www.urionlinejudge.com.br/judge/pt/problems/view/1037) - [Intervalo](src/103701-1038001037.poti)
+  - [x] [1037](https://www.urionlinejudge.com.br/judge/pt/problems/view/1037) - [Intervalo](src/1001-1100/1037.poti)
   - [ ] [1038](https://www.urionlinejudge.com.br/judge/pt/problems/view/1038) - Lanche
   - [ ] [1040](https://www.urionlinejudge.com.br/judge/pt/problems/view/1040) - Média 3
   - [ ] [1041](https://www.urionlinejudge.com.br/judge/pt/problems/view/1041) - Coordenadas de um Ponto
   - [ ] [1042](https://www.urionlinejudge.com.br/judge/pt/problems/view/1042) - Sort Simples
-  - [x] [1043](https://www.urionlinejudge.com.br/judge/pt/problems/view/1043) - [Triângulo](src/104301-1044001043.poti)
+  - [x] [1043](https://www.urionlinejudge.com.br/judge/pt/problems/view/1043) - [Triângulo](src/1001-1100/1043.poti)
   - [ ] [1044](https://www.urionlinejudge.com.br/judge/pt/problems/view/1044) - Múltiplos
   - [ ] [1045](https://www.urionlinejudge.com.br/judge/pt/problems/view/1045) - Tipos de Triângulos
   - [ ] [1046](https://www.urionlinejudge.com.br/judge/pt/problems/view/1046) - Tempo de Jogo
   - [ ] [1047](https://www.urionlinejudge.com.br/judge/pt/problems/view/1047) - Tempo de Jogo com Minutos
-  - [x] [1048](https://www.urionlinejudge.com.br/judge/pt/problems/view/1048) - [Aumento de Salário](src/104801-1049001048.poti)
+  - [x] [1048](https://www.urionlinejudge.com.br/judge/pt/problems/view/1048) - [Aumento de Salário](src/1001-1100/1048.poti)
   - [ ] [1049](https://www.urionlinejudge.com.br/judge/pt/problems/view/1049) - Animal
-  - [x] [1050](https://www.urionlinejudge.com.br/judge/pt/problems/view/1050) - [DDD](src/105001-1051001050.poti)
+  - [x] [1050](https://www.urionlinejudge.com.br/judge/pt/problems/view/1050) - [DDD](src/1001-1100/1050.poti)
   - [ ] [1051](https://www.urionlinejudge.com.br/judge/pt/problems/view/1051) - Imposto de Renda
   - [ ] [1052](https://www.urionlinejudge.com.br/judge/pt/problems/view/1052) - Mês
   - [ ] [1059](https://www.urionlinejudge.com.br/judge/pt/problems/view/1059) - Números Pares
@@ -303,5 +303,5 @@
   - [ ] [2863](https://www.urionlinejudge.com.br/judge/pt/problems/view/2863) - Umil Bolt
   - [ ] [2867](https://www.urionlinejudge.com.br/judge/pt/problems/view/2867) - Dígitos
   - [ ] [2869](https://www.urionlinejudge.com.br/judge/pt/problems/view/2869) - Falando em Divisor...
-  - [x] [2879](https://www.urionlinejudge.com.br/judge/pt/problems/view/2879) - [Desvendando Monty Hall](src/287901-2880002879.poti)
-  - [x] [2896](https://www.urionlinejudge.com.br/judge/pt/problems/view/2896) - [Aproveite a Oferta](src/289601-2897002896.poti)
+  - [x] [2879](https://www.urionlinejudge.com.br/judge/pt/problems/view/2879) - [Desvendando Monty Hall](src/2801-2900/2879.poti)
+  - [x] [2896](https://www.urionlinejudge.com.br/judge/pt/problems/view/2896) - [Aproveite a Oferta](src/2801-2900/2896.poti)

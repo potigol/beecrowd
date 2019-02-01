@@ -29,7 +29,7 @@ object Build extends App {
         case p if (check(x)) =>
           s"  - [x] [${p.get.number}](https://www.urionlinejudge.com.br/judge/pt/problems/view/${p.get.number}) - [${p.get.name}](${p.get.number}.poti)"
         case p =>
-        s"  - [ ] [${p.get.number}](https://www.urionlinejudge.com.br/judge/pt/problems/view/${p.get.number}) - ${p.get.name}"
+          s"  - [ ] [${p.get.number}](https://www.urionlinejudge.com.br/judge/pt/problems/view/${p.get.number}) - ${p.get.name}"
       }
     }
     import java.io.PrintWriter
@@ -42,7 +42,7 @@ object Build extends App {
     val bd = b(d).sortBy(_.number)
     val f = bd.map {
       case p if check(p.number) =>
-        s"  - [x] [${p.number}](https://www.urionlinejudge.com.br/judge/pt/problems/view/${p.number}) - [${p.name}](src/${p.number * 100 + 1}-${p.number * 100 + 100}${p.number}.poti)"
+        s"  - [x] [${p.number}](https://www.urionlinejudge.com.br/judge/pt/problems/view/${p.number}) - [${p.name}](src/${p.number / 100 * 100 + 1}-${(p.number / 100 + 1) * 100}/${p.number}.poti)"
       case p =>
         s"  - [ ] [${p.number}](https://www.urionlinejudge.com.br/judge/pt/problems/view/${p.number}) - ${p.name}"
     }
