@@ -1,0 +1,102 @@
+# 2401-2500
+
+  - [ ] [2401](https://www.urionlinejudge.com.br/judge/pt/problems/view/2401) - Calculadora
+  - [ ] [2402](https://www.urionlinejudge.com.br/judge/pt/problems/view/2402) - Selos
+  - [ ] [2403](https://www.urionlinejudge.com.br/judge/pt/problems/view/2403) - Escalonamento Ótimo
+  - [ ] [2404](https://www.urionlinejudge.com.br/judge/pt/problems/view/2404) - Reduzindo Detalhes em um Mapa
+  - [ ] [2405](https://www.urionlinejudge.com.br/judge/pt/problems/view/2405) - Colorindo
+  - [ ] [2406](https://www.urionlinejudge.com.br/judge/pt/problems/view/2406) - Expressões
+  - [ ] [2407](https://www.urionlinejudge.com.br/judge/pt/problems/view/2407) - Quadrado Mágico
+  - [ ] [2408](https://www.urionlinejudge.com.br/judge/pt/problems/view/2408) - Vice-Campeão
+  - [ ] [2409](https://www.urionlinejudge.com.br/judge/pt/problems/view/2409) - Colchão
+  - [ ] [2410](https://www.urionlinejudge.com.br/judge/pt/problems/view/2410) - Frequencia na Aula
+  - [ ] [2411](https://www.urionlinejudge.com.br/judge/pt/problems/view/2411) - O Tabuleiro Esburacado
+  - [ ] [2412](https://www.urionlinejudge.com.br/judge/pt/problems/view/2412) - Tarzan
+  - [ ] [2413](https://www.urionlinejudge.com.br/judge/pt/problems/view/2413) - Busca na Internet
+  - [ ] [2414](https://www.urionlinejudge.com.br/judge/pt/problems/view/2414) - Desafio do Maior Número
+  - [ ] [2415](https://www.urionlinejudge.com.br/judge/pt/problems/view/2415) - Consecutivos
+  - [ ] [2416](https://www.urionlinejudge.com.br/judge/pt/problems/view/2416) - Corrida
+  - [ ] [2417](https://www.urionlinejudge.com.br/judge/pt/problems/view/2417) - Campeonato
+  - [ ] [2418](https://www.urionlinejudge.com.br/judge/pt/problems/view/2418) - Carnaval
+  - [ ] [2419](https://www.urionlinejudge.com.br/judge/pt/problems/view/2419) - Costa
+  - [ ] [2420](https://www.urionlinejudge.com.br/judge/pt/problems/view/2420) - Guerra por Território
+  - [ ] [2421](https://www.urionlinejudge.com.br/judge/pt/problems/view/2421) - Álbum de Fotos
+  - [ ] [2422](https://www.urionlinejudge.com.br/judge/pt/problems/view/2422) - Soma das Casas
+  - [ ] [2423](https://www.urionlinejudge.com.br/judge/pt/problems/view/2423) - Receita de Bolo
+  - [ ] [2424](https://www.urionlinejudge.com.br/judge/pt/problems/view/2424) - Tira-teima
+  - [ ] [2425](https://www.urionlinejudge.com.br/judge/pt/problems/view/2425) - Banco
+  - [ ] [2426](https://www.urionlinejudge.com.br/judge/pt/problems/view/2426) - Bomba
+  - [ ] [2427](https://www.urionlinejudge.com.br/judge/pt/problems/view/2427) - Chocolate
+  - [ ] [2428](https://www.urionlinejudge.com.br/judge/pt/problems/view/2428) - Capital
+  - [ ] [2429](https://www.urionlinejudge.com.br/judge/pt/problems/view/2429) - Rodovia
+  - [ ] [2430](https://www.urionlinejudge.com.br/judge/pt/problems/view/2430) - Catálogo de Músicas
+  - [ ] [2431](https://www.urionlinejudge.com.br/judge/pt/problems/view/2431) - Lençol
+  - [ ] [2432](https://www.urionlinejudge.com.br/judge/pt/problems/view/2432) - Tiro ao Alvo
+  - [ ] [2433](https://www.urionlinejudge.com.br/judge/pt/problems/view/2433) - Vende-se
+  - [ ] [2434](https://www.urionlinejudge.com.br/judge/pt/problems/view/2434) - Saldo do Vovô
+  - [ ] [2435](https://www.urionlinejudge.com.br/judge/pt/problems/view/2435) - Corrida
+  - [ ] [2436](https://www.urionlinejudge.com.br/judge/pt/problems/view/2436) - Robô
+  - [ ] [2437](https://www.urionlinejudge.com.br/judge/pt/problems/view/2437) - Distância de Manhattan
+  - [ ] [2438](https://www.urionlinejudge.com.br/judge/pt/problems/view/2438) - Quadradinho de 8
+  - [ ] [2439](https://www.urionlinejudge.com.br/judge/pt/problems/view/2439) - Cachecol da Vovó Vitória
+  - [ ] [2440](https://www.urionlinejudge.com.br/judge/pt/problems/view/2440) - Famílias de Troia
+  - [ ] [2441](https://www.urionlinejudge.com.br/judge/pt/problems/view/2441) - Janela
+  - [ ] [2442](https://www.urionlinejudge.com.br/judge/pt/problems/view/2442) - Plantação
+  - [ ] [2443](https://www.urionlinejudge.com.br/judge/pt/problems/view/2443) - Soma de Frações
+  - [ ] [2444](https://www.urionlinejudge.com.br/judge/pt/problems/view/2444) - Volume da TV
+  - [ ] [2445](https://www.urionlinejudge.com.br/judge/pt/problems/view/2445) - Polígono
+  - [ ] [2446](https://www.urionlinejudge.com.br/judge/pt/problems/view/2446) - Troco
+  - [ ] [2447](https://www.urionlinejudge.com.br/judge/pt/problems/view/2447) - Torneio
+  - [ ] [2448](https://www.urionlinejudge.com.br/judge/pt/problems/view/2448) - Carteiro
+  - [ ] [2449](https://www.urionlinejudge.com.br/judge/pt/problems/view/2449) - Fechadura
+  - [ ] [2450](https://www.urionlinejudge.com.br/judge/pt/problems/view/2450) - Matriz Escada
+  - [ ] [2451](https://www.urionlinejudge.com.br/judge/pt/problems/view/2451) - PacMan
+  - [ ] [2452](https://www.urionlinejudge.com.br/judge/pt/problems/view/2452) - Semente
+  - [ ] [2453](https://www.urionlinejudge.com.br/judge/pt/problems/view/2453) - Língua do P
+  - [ ] [2454](https://www.urionlinejudge.com.br/judge/pt/problems/view/2454) - Flíper
+  - [ ] [2455](https://www.urionlinejudge.com.br/judge/pt/problems/view/2455) - Gangorra
+  - [ ] [2456](https://www.urionlinejudge.com.br/judge/pt/problems/view/2456) - Cartas
+  - [ ] [2457](https://www.urionlinejudge.com.br/judge/pt/problems/view/2457) - Letras
+  - [ ] [2458](https://www.urionlinejudge.com.br/judge/pt/problems/view/2458) - Setas
+  - [ ] [2459](https://www.urionlinejudge.com.br/judge/pt/problems/view/2459) - Copa do Mundo
+  - [ ] [2460](https://www.urionlinejudge.com.br/judge/pt/problems/view/2460) - Fila
+  - [ ] [2461](https://www.urionlinejudge.com.br/judge/pt/problems/view/2461) - Blefe
+  - [ ] [2462](https://www.urionlinejudge.com.br/judge/pt/problems/view/2462) - Voo
+  - [ ] [2463](https://www.urionlinejudge.com.br/judge/pt/problems/view/2463) - Corredor
+  - [ ] [2464](https://www.urionlinejudge.com.br/judge/pt/problems/view/2464) - Decifra
+  - [ ] [2465](https://www.urionlinejudge.com.br/judge/pt/problems/view/2465) - Passa Bolinha
+  - [ ] [2466](https://www.urionlinejudge.com.br/judge/pt/problems/view/2466) - Sinuca
+  - [ ] [2467](https://www.urionlinejudge.com.br/judge/pt/problems/view/2467) - Frequência
+  - [ ] [2468](https://www.urionlinejudge.com.br/judge/pt/problems/view/2468) - Mapa
+  - [ ] [2469](https://www.urionlinejudge.com.br/judge/pt/problems/view/2469) - Notas
+  - [ ] [2470](https://www.urionlinejudge.com.br/judge/pt/problems/view/2470) - Jogo da Memória
+  - [ ] [2471](https://www.urionlinejudge.com.br/judge/pt/problems/view/2471) - Quadrado
+  - [ ] [2472](https://www.urionlinejudge.com.br/judge/pt/problems/view/2472) - Tapetes
+  - [ ] [2473](https://www.urionlinejudge.com.br/judge/pt/problems/view/2473) - Loteria
+  - [ ] [2474](https://www.urionlinejudge.com.br/judge/pt/problems/view/2474) - Burlando o Sistema
+  - [ ] [2475](https://www.urionlinejudge.com.br/judge/pt/problems/view/2475) - Confecção de Presentes
+  - [ ] [2476](https://www.urionlinejudge.com.br/judge/pt/problems/view/2476) - Entregas do Noel
+  - [ ] [2477](https://www.urionlinejudge.com.br/judge/pt/problems/view/2477) - Rede de Distribuição
+  - [ ] [2478](https://www.urionlinejudge.com.br/judge/pt/problems/view/2478) - Acerte o Presente
+  - [ ] [2479](https://www.urionlinejudge.com.br/judge/pt/problems/view/2479) - Ordenando a Lista de Crianças do Papai Noel
+  - [ ] [2480](https://www.urionlinejudge.com.br/judge/pt/problems/view/2480) - Luzes Vermelhas
+  - [ ] [2481](https://www.urionlinejudge.com.br/judge/pt/problems/view/2481) - É Uma Cilada Bino
+  - [ ] [2482](https://www.urionlinejudge.com.br/judge/pt/problems/view/2482) - Etiquetas de Noel
+  - [ ] [2483](https://www.urionlinejudge.com.br/judge/pt/problems/view/2483) - Feliz Nataaal!
+  - [ ] [2484](https://www.urionlinejudge.com.br/judge/pt/problems/view/2484) - Abracadabra
+  - [ ] [2485](https://www.urionlinejudge.com.br/judge/pt/problems/view/2485) - Bicho da Goiaba
+  - [ ] [2486](https://www.urionlinejudge.com.br/judge/pt/problems/view/2486) - C Mais ou Menos?
+  - [ ] [2487](https://www.urionlinejudge.com.br/judge/pt/problems/view/2487) - Do Lado Escuro do Código
+  - [ ] [2488](https://www.urionlinejudge.com.br/judge/pt/problems/view/2488) - É Na Batida do Cavalo!
+  - [ ] [2489](https://www.urionlinejudge.com.br/judge/pt/problems/view/2489) - Flecha no Coelho
+  - [ ] [2490](https://www.urionlinejudge.com.br/judge/pt/problems/view/2490) - Garoto Ixpertinho
+  - [ ] [2491](https://www.urionlinejudge.com.br/judge/pt/problems/view/2491) - Habay e Robfilho – Os Fujões
+  - [ ] [2492](https://www.urionlinejudge.com.br/judge/pt/problems/view/2492) - Ilhas Isoladas
+  - [ ] [2493](https://www.urionlinejudge.com.br/judge/pt/problems/view/2493) - Jogo do Operador
+  - [ ] [2494](https://www.urionlinejudge.com.br/judge/pt/problems/view/2494) - Canetas
+  - [ ] [2495](https://www.urionlinejudge.com.br/judge/pt/problems/view/2495) - Onde Está Minha Caneta?
+  - [ ] [2496](https://www.urionlinejudge.com.br/judge/pt/problems/view/2496) - A Única Chance
+  - [ ] [2497](https://www.urionlinejudge.com.br/judge/pt/problems/view/2497) - Contando Ciclos
+  - [ ] [2498](https://www.urionlinejudge.com.br/judge/pt/problems/view/2498) - Ajude Vânia
+  - [ ] [2499](https://www.urionlinejudge.com.br/judge/pt/problems/view/2499) - Triângulo Interno
+  - [ ] [2500](https://www.urionlinejudge.com.br/judge/pt/problems/view/2500) - William Xorando

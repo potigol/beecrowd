@@ -1,0 +1,102 @@
+# 1301-1400
+
+  - [ ] [1301](https://www.urionlinejudge.com.br/judge/pt/problems/view/1301) - Produto do Intervalo
+  - [ ] [1302](https://www.urionlinejudge.com.br/judge/pt/problems/view/1302) - Juntando Casais
+  - [ ] [1303](https://www.urionlinejudge.com.br/judge/pt/problems/view/1303) - Spurs Rocks
+  - [ ] [1304](https://www.urionlinejudge.com.br/judge/pt/problems/view/1304) - Velocidade Média
+  - [ ] [1305](https://www.urionlinejudge.com.br/judge/pt/problems/view/1305) - Arredondamento por Valor de Corte
+  - [ ] [1306](https://www.urionlinejudge.com.br/judge/pt/problems/view/1306) - Numerando Estradas
+  - [ ] [1307](https://www.urionlinejudge.com.br/judge/pt/problems/view/1307) - Tudo o que Você Precisa é Amor
+  - [ ] [1308](https://www.urionlinejudge.com.br/judge/pt/problems/view/1308) - Guerreiros Etruscos Nunca Jogam Xadrez
+  - [ ] [1309](https://www.urionlinejudge.com.br/judge/pt/problems/view/1309) - Formatação Monetária
+  - [ ] [1310](https://www.urionlinejudge.com.br/judge/pt/problems/view/1310) - Lucro
+  - [ ] [1311](https://www.urionlinejudge.com.br/judge/pt/problems/view/1311) - Companheiros de Exército
+  - [ ] [1312](https://www.urionlinejudge.com.br/judge/pt/problems/view/1312) - Empilhamento de Bolas
+  - [ ] [1313](https://www.urionlinejudge.com.br/judge/pt/problems/view/1313) - Dicionário Portuñol
+  - [ ] [1314](https://www.urionlinejudge.com.br/judge/pt/problems/view/1314) - Labirintos de Cerca Viva
+  - [ ] [1315](https://www.urionlinejudge.com.br/judge/pt/problems/view/1315) - Não tão Convexo
+  - [ ] [1316](https://www.urionlinejudge.com.br/judge/pt/problems/view/1316) - Compra Livre de Impostos
+  - [ ] [1317](https://www.urionlinejudge.com.br/judge/pt/problems/view/1317) - Eu Odeio SPAM, Mas Algumas Pessoas Amam
+  - [ ] [1318](https://www.urionlinejudge.com.br/judge/pt/problems/view/1318) - Bilhetes Falsos
+  - [ ] [1319](https://www.urionlinejudge.com.br/judge/pt/problems/view/1319) - Garota Hiperativa
+  - [ ] [1320](https://www.urionlinejudge.com.br/judge/pt/problems/view/1320) - Metrô Engenhoso
+  - [ ] [1321](https://www.urionlinejudge.com.br/judge/pt/problems/view/1321) - Jollo
+  - [ ] [1322](https://www.urionlinejudge.com.br/judge/pt/problems/view/1322) - Desejos das Crianças
+  - [ ] [1323](https://www.urionlinejudge.com.br/judge/pt/problems/view/1323) - Feynman
+  - [ ] [1324](https://www.urionlinejudge.com.br/judge/pt/problems/view/1324) - Bóson de Higgs
+  - [ ] [1325](https://www.urionlinejudge.com.br/judge/pt/problems/view/1325) - Mapas Bolha
+  - [ ] [1326](https://www.urionlinejudge.com.br/judge/pt/problems/view/1326) - Química
+  - [ ] [1327](https://www.urionlinejudge.com.br/judge/pt/problems/view/1327) - Drop Out
+  - [ ] [1328](https://www.urionlinejudge.com.br/judge/pt/problems/view/1328) - Vá com Calma
+  - [ ] [1329](https://www.urionlinejudge.com.br/judge/pt/problems/view/1329) - Cara ou Coroa
+  - [ ] [1330](https://www.urionlinejudge.com.br/judge/pt/problems/view/1330) - A Terra Herdada por Tio Tom
+  - [ ] [1331](https://www.urionlinejudge.com.br/judge/pt/problems/view/1331) - Blocos
+  - [ ] [1332](https://www.urionlinejudge.com.br/judge/pt/problems/view/1332) - Um-Dois-Três
+  - [ ] [1333](https://www.urionlinejudge.com.br/judge/pt/problems/view/1333) - Os Doces de Candy
+  - [ ] [1334](https://www.urionlinejudge.com.br/judge/pt/problems/view/1334) - Poluição Elétrica
+  - [ ] [1335](https://www.urionlinejudge.com.br/judge/pt/problems/view/1335) - Recuperação de Arquivos
+  - [ ] [1336](https://www.urionlinejudge.com.br/judge/pt/problems/view/1336) - Cerca do Jardim
+  - [ ] [1337](https://www.urionlinejudge.com.br/judge/pt/problems/view/1337) - Poker do Rei
+  - [ ] [1338](https://www.urionlinejudge.com.br/judge/pt/problems/view/1338) - It-Miha
+  - [ ] [1339](https://www.urionlinejudge.com.br/judge/pt/problems/view/1339) - O Cubo Mágico do Avô
+  - [ ] [1340](https://www.urionlinejudge.com.br/judge/pt/problems/view/1340) - Eu Posso Adivinhar a Estrutura de Dados!
+  - [ ] [1341](https://www.urionlinejudge.com.br/judge/pt/problems/view/1341) - Crianças em uma Grade
+  - [ ] [1342](https://www.urionlinejudge.com.br/judge/pt/problems/view/1342) - Dado
+  - [ ] [1343](https://www.urionlinejudge.com.br/judge/pt/problems/view/1343) - Runner Pawns
+  - [ ] [1344](https://www.urionlinejudge.com.br/judge/pt/problems/view/1344) - Parceiros de Telecomunicação
+  - [ ] [1345](https://www.urionlinejudge.com.br/judge/pt/problems/view/1345) - Região Segura
+  - [ ] [1346](https://www.urionlinejudge.com.br/judge/pt/problems/view/1346) - Brincadeira de Criança
+  - [ ] [1347](https://www.urionlinejudge.com.br/judge/pt/problems/view/1347) - Mina Kriptonita
+  - [ ] [1348](https://www.urionlinejudge.com.br/judge/pt/problems/view/1348) - X-Mart
+  - [ ] [1349](https://www.urionlinejudge.com.br/judge/pt/problems/view/1349) - Efeito Ruído
+  - [ ] [1350](https://www.urionlinejudge.com.br/judge/pt/problems/view/1350) - Esta Sentença é Falsa
+  - [ ] [1351](https://www.urionlinejudge.com.br/judge/pt/problems/view/1351) - Supermercado
+  - [ ] [1352](https://www.urionlinejudge.com.br/judge/pt/problems/view/1352) - Loteria Quadrada
+  - [ ] [1353](https://www.urionlinejudge.com.br/judge/pt/problems/view/1353) - Super Poker
+  - [ ] [1354](https://www.urionlinejudge.com.br/judge/pt/problems/view/1354) - Um Quadrado Grande, Por Favor
+  - [ ] [1355](https://www.urionlinejudge.com.br/judge/pt/problems/view/1355) - Compressor
+  - [ ] [1356](https://www.urionlinejudge.com.br/judge/pt/problems/view/1356) - Júpiter Ataca!
+  - [ ] [1357](https://www.urionlinejudge.com.br/judge/pt/problems/view/1357) - Em Braille
+  - [ ] [1358](https://www.urionlinejudge.com.br/judge/pt/problems/view/1358) - Cortando Extremidades
+  - [ ] [1359](https://www.urionlinejudge.com.br/judge/pt/problems/view/1359) - Taxa de Divisão de Terreno
+  - [ ] [1360](https://www.urionlinejudge.com.br/judge/pt/problems/view/1360) - Truque de Mágica
+  - [ ] [1361](https://www.urionlinejudge.com.br/judge/pt/problems/view/1361) - Desenhando o Edifício
+  - [ ] [1362](https://www.urionlinejudge.com.br/judge/pt/problems/view/1362) - Minha Camiseta Me Serve
+  - [ ] [1363](https://www.urionlinejudge.com.br/judge/pt/problems/view/1363) - Competição de Placas de Carros
+  - [ ] [1364](https://www.urionlinejudge.com.br/judge/pt/problems/view/1364) - Emoticons :-)
+  - [ ] [1365](https://www.urionlinejudge.com.br/judge/pt/problems/view/1365) - Procurando Assentos
+  - [ ] [1366](https://www.urionlinejudge.com.br/judge/pt/problems/view/1366) - Jogo de Varetas
+  - [ ] [1367](https://www.urionlinejudge.com.br/judge/pt/problems/view/1367) - Ajude!
+  - [ ] [1368](https://www.urionlinejudge.com.br/judge/pt/problems/view/1368) - Cubos Coloridos
+  - [ ] [1369](https://www.urionlinejudge.com.br/judge/pt/problems/view/1369) - Gerente de Espaço
+  - [ ] [1370](https://www.urionlinejudge.com.br/judge/pt/problems/view/1370) - Regata de Cientistas
+  - [ ] [1371](https://www.urionlinejudge.com.br/judge/pt/problems/view/1371) - Fechem as Portas!
+  - [ ] [1372](https://www.urionlinejudge.com.br/judge/pt/problems/view/1372) - Doces
+  - [ ] [1373](https://www.urionlinejudge.com.br/judge/pt/problems/view/1373) - Sequências de DNA
+  - [ ] [1374](https://www.urionlinejudge.com.br/judge/pt/problems/view/1374) - Eletricidade
+  - [ ] [1375](https://www.urionlinejudge.com.br/judge/pt/problems/view/1375) - Painel de Posições
+  - [ ] [1376](https://www.urionlinejudge.com.br/judge/pt/problems/view/1376) - Irmãos
+  - [ ] [1377](https://www.urionlinejudge.com.br/judge/pt/problems/view/1377) - Recuperador de Arquivos
+  - [ ] [1378](https://www.urionlinejudge.com.br/judge/pt/problems/view/1378) - Triângulos Isósceles
+  - [ ] [1379](https://www.urionlinejudge.com.br/judge/pt/problems/view/1379) - Problema com Mediana e Média
+  - [ ] [1380](https://www.urionlinejudge.com.br/judge/pt/problems/view/1380) - Crescimento das Populações de Bacilos
+  - [ ] [1381](https://www.urionlinejudge.com.br/judge/pt/problems/view/1381) - Equações Diofantinas
+  - [ ] [1382](https://www.urionlinejudge.com.br/judge/pt/problems/view/1382) - Elementar, meu Caro Watson!
+  - [ ] [1383](https://www.urionlinejudge.com.br/judge/pt/problems/view/1383) - Sudoku
+  - [ ] [1384](https://www.urionlinejudge.com.br/judge/pt/problems/view/1384) - Sapo Preguiçoso
+  - [ ] [1385](https://www.urionlinejudge.com.br/judge/pt/problems/view/1385) - Recuperação de Relatório
+  - [ ] [1386](https://www.urionlinejudge.com.br/judge/pt/problems/view/1386) - Códigos Ambíguos
+  - [ ] [1387](https://www.urionlinejudge.com.br/judge/pt/problems/view/1387) - Og
+  - [ ] [1388](https://www.urionlinejudge.com.br/judge/pt/problems/view/1388) - Onde Estão as Bolhas?
+  - [ ] [1389](https://www.urionlinejudge.com.br/judge/pt/problems/view/1389) - O Problema do Sapateiro Viajante
+  - [ ] [1390](https://www.urionlinejudge.com.br/judge/pt/problems/view/1390) - Bases
+  - [ ] [1391](https://www.urionlinejudge.com.br/judge/pt/problems/view/1391) - Quase Menor Caminho
+  - [ ] [1392](https://www.urionlinejudge.com.br/judge/pt/problems/view/1392) - Conta de Luz
+  - [ ] [1393](https://www.urionlinejudge.com.br/judge/pt/problems/view/1393) - Lajotas Hexagonais
+  - [ ] [1394](https://www.urionlinejudge.com.br/judge/pt/problems/view/1394) - Hooligan
+  - [ ] [1395](https://www.urionlinejudge.com.br/judge/pt/problems/view/1395) - Números e Operações
+  - [ ] [1396](https://www.urionlinejudge.com.br/judge/pt/problems/view/1396) - Hoje tem Prova da Cris!
+  - [ ] [1397](https://www.urionlinejudge.com.br/judge/pt/problems/view/1397) - Jogo do Maior
+  - [ ] [1398](https://www.urionlinejudge.com.br/judge/pt/problems/view/1398) - Oceano Profundo! Faça-o Raso!!
+  - [ ] [1399](https://www.urionlinejudge.com.br/judge/pt/problems/view/1399) - Transformador de Matriz
+  - [ ] [1400](https://www.urionlinejudge.com.br/judge/pt/problems/view/1400) - Jogo - Contando

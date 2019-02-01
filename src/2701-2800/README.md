@@ -1,0 +1,102 @@
+# 2701-2800
+
+  - [ ] [2701](https://www.urionlinejudge.com.br/judge/pt/problems/view/2701) - Portas da Incerteza
+  - [ ] [2702](https://www.urionlinejudge.com.br/judge/pt/problems/view/2702) - Escolha Difícil
+  - [ ] [2703](https://www.urionlinejudge.com.br/judge/pt/problems/view/2703) - Estradas Imperiais
+  - [ ] [2704](https://www.urionlinejudge.com.br/judge/pt/problems/view/2704) - Sapo Saltador
+  - [ ] [2705](https://www.urionlinejudge.com.br/judge/pt/problems/view/2705) - Mantenha Coberto
+  - [ ] [2706](https://www.urionlinejudge.com.br/judge/pt/problems/view/2706) - Linearville
+  - [ ] ~2707~
+  - [ ] [2708](https://www.urionlinejudge.com.br/judge/pt/problems/view/2708) - Turistas no Parque Huacachina
+  - [ ] [2709](https://www.urionlinejudge.com.br/judge/pt/problems/view/2709) - As Moedas de Robbie
+  - [ ] [2710](https://www.urionlinejudge.com.br/judge/pt/problems/view/2710) - Jogo da Matriz
+  - [ ] [2711](https://www.urionlinejudge.com.br/judge/pt/problems/view/2711) - Destravando o Celular
+  - [ ] [2712](https://www.urionlinejudge.com.br/judge/pt/problems/view/2712) - Rodízio Veicular
+  - [ ] [2713](https://www.urionlinejudge.com.br/judge/pt/problems/view/2713) - O Mago é Implacável!
+  - [ ] [2714](https://www.urionlinejudge.com.br/judge/pt/problems/view/2714) - Minha Senha Provisória
+  - [ ] [2715](https://www.urionlinejudge.com.br/judge/pt/problems/view/2715) - Dividindo os Trabalhos I
+  - [ ] [2716](https://www.urionlinejudge.com.br/judge/pt/problems/view/2716) - Dividindo os Trabalhos II
+  - [ ] [2717](https://www.urionlinejudge.com.br/judge/pt/problems/view/2717) - Tempo do Duende
+  - [ ] [2718](https://www.urionlinejudge.com.br/judge/pt/problems/view/2718) - Luzes de Natal
+  - [ ] [2719](https://www.urionlinejudge.com.br/judge/pt/problems/view/2719) - Quantas Viagens Fará o Noel?
+  - [ ] [2720](https://www.urionlinejudge.com.br/judge/pt/problems/view/2720) - Presentes Grandes
+  - [ ] [2721](https://www.urionlinejudge.com.br/judge/pt/problems/view/2721) - Indecisão das Renas
+  - [ ] [2722](https://www.urionlinejudge.com.br/judge/pt/problems/view/2722) - Pegadinha de Evergreen
+  - [ ] [2723](https://www.urionlinejudge.com.br/judge/pt/problems/view/2723) - Equilibrando Presentes
+  - [ ] [2724](https://www.urionlinejudge.com.br/judge/pt/problems/view/2724) - Ajude Patatatitu
+  - [ ] [2725](https://www.urionlinejudge.com.br/judge/pt/problems/view/2725) - Vila Natalina
+  - [ ] [2726](https://www.urionlinejudge.com.br/judge/pt/problems/view/2726) - Trenó Lotado
+  - [ ] [2727](https://www.urionlinejudge.com.br/judge/pt/problems/view/2727) - Código Secreto
+  - [ ] [2728](https://www.urionlinejudge.com.br/judge/pt/problems/view/2728) - Grace Hopper, a Vovó do Cobol
+  - [ ] [2729](https://www.urionlinejudge.com.br/judge/pt/problems/view/2729) - Lista de Compras
+  - [ ] [2730](https://www.urionlinejudge.com.br/judge/pt/problems/view/2730) - Pares Pareados
+  - [ ] [2731](https://www.urionlinejudge.com.br/judge/pt/problems/view/2731) - Programação de Viagem
+  - [ ] [2732](https://www.urionlinejudge.com.br/judge/pt/problems/view/2732) - Reino De Alice
+  - [ ] [2733](https://www.urionlinejudge.com.br/judge/pt/problems/view/2733) - O Armário da Leitora
+  - [ ] [2734](https://www.urionlinejudge.com.br/judge/pt/problems/view/2734) - Trocando Presentes
+  - [ ] [2735](https://www.urionlinejudge.com.br/judge/pt/problems/view/2735) - O Presente de Nina
+  - [ ] [2736](https://www.urionlinejudge.com.br/judge/pt/problems/view/2736) - Números de Avalon
+  - [ ] [2737](https://www.urionlinejudge.com.br/judge/pt/problems/view/2737) - Advogados
+  - [ ] [2738](https://www.urionlinejudge.com.br/judge/pt/problems/view/2738) - Concurso
+  - [ ] [2739](https://www.urionlinejudge.com.br/judge/pt/problems/view/2739) - Dia de Pagamento
+  - [ ] [2740](https://www.urionlinejudge.com.br/judge/pt/problems/view/2740) - Liga
+  - [ ] [2741](https://www.urionlinejudge.com.br/judge/pt/problems/view/2741) - Notas dos Alunos
+  - [ ] [2742](https://www.urionlinejudge.com.br/judge/pt/problems/view/2742) - O Multiverso de Richard
+  - [ ] [2743](https://www.urionlinejudge.com.br/judge/pt/problems/view/2743) - Quantidade de Caracteres
+  - [ ] [2744](https://www.urionlinejudge.com.br/judge/pt/problems/view/2744) - Senhas
+  - [ ] [2745](https://www.urionlinejudge.com.br/judge/pt/problems/view/2745) - Taxas
+  - [ ] [2746](https://www.urionlinejudge.com.br/judge/pt/problems/view/2746) - Virus
+  - [ ] [2747](https://www.urionlinejudge.com.br/judge/pt/problems/view/2747) - Saída 1
+  - [ ] [2748](https://www.urionlinejudge.com.br/judge/pt/problems/view/2748) - Saída 2
+  - [ ] [2749](https://www.urionlinejudge.com.br/judge/pt/problems/view/2749) - Saída 3
+  - [ ] [2750](https://www.urionlinejudge.com.br/judge/pt/problems/view/2750) - Saída 4
+  - [ ] [2751](https://www.urionlinejudge.com.br/judge/pt/problems/view/2751) - Saída 5
+  - [ ] [2752](https://www.urionlinejudge.com.br/judge/pt/problems/view/2752) - Saída 6
+  - [ ] [2753](https://www.urionlinejudge.com.br/judge/pt/problems/view/2753) - Saída 7
+  - [ ] [2754](https://www.urionlinejudge.com.br/judge/pt/problems/view/2754) - Saída 8
+  - [ ] [2755](https://www.urionlinejudge.com.br/judge/pt/problems/view/2755) - Saída 9
+  - [ ] [2756](https://www.urionlinejudge.com.br/judge/pt/problems/view/2756) - Saída 10
+  - [ ] [2757](https://www.urionlinejudge.com.br/judge/pt/problems/view/2757) - Entrada e Saída de Números Inteiros
+  - [ ] [2758](https://www.urionlinejudge.com.br/judge/pt/problems/view/2758) - Entrada e Saída de Números Reais
+  - [ ] [2759](https://www.urionlinejudge.com.br/judge/pt/problems/view/2759) - Entrada e Saída de Carácter
+  - [ ] [2760](https://www.urionlinejudge.com.br/judge/pt/problems/view/2760) - Entrada e Saída de String
+  - [ ] [2761](https://www.urionlinejudge.com.br/judge/pt/problems/view/2761) - Entrada e Saída de Vários Tipos
+  - [ ] [2762](https://www.urionlinejudge.com.br/judge/pt/problems/view/2762) - Entrada e Saída 6
+  - [ ] [2763](https://www.urionlinejudge.com.br/judge/pt/problems/view/2763) - Entrada e Saída CPF
+  - [ ] [2764](https://www.urionlinejudge.com.br/judge/pt/problems/view/2764) - Entrada e Saída de Data
+  - [ ] [2765](https://www.urionlinejudge.com.br/judge/pt/problems/view/2765) - Entrada e Saída com Virgula
+  - [ ] [2766](https://www.urionlinejudge.com.br/judge/pt/problems/view/2766) - Entrada e Saída Lendo e Pulando Nomes
+  - [ ] [2767](https://www.urionlinejudge.com.br/judge/pt/problems/view/2767) - Festa
+  - [ ] [2768](https://www.urionlinejudge.com.br/judge/pt/problems/view/2768) - Grafo do Dabriel
+  - [ ] [2769](https://www.urionlinejudge.com.br/judge/pt/problems/view/2769) - Linha de Montagem
+  - [ ] [2770](https://www.urionlinejudge.com.br/judge/pt/problems/view/2770) - Tamanho da Placa
+  - [ ] [2771](https://www.urionlinejudge.com.br/judge/pt/problems/view/2771) - Média
+  - [ ] [2772](https://www.urionlinejudge.com.br/judge/pt/problems/view/2772) - Plantação
+  - [ ] [2773](https://www.urionlinejudge.com.br/judge/pt/problems/view/2773) - Menor Caminho
+  - [ ] [2774](https://www.urionlinejudge.com.br/judge/pt/problems/view/2774) - Precisão do Sensor
+  - [ ] [2775](https://www.urionlinejudge.com.br/judge/pt/problems/view/2775) - Preparando a Produção
+  - [ ] [2776](https://www.urionlinejudge.com.br/judge/pt/problems/view/2776) - Promoções
+  - [ ] [2777](https://www.urionlinejudge.com.br/judge/pt/problems/view/2777) - Subsets do Dabriel
+  - [ ] [2778](https://www.urionlinejudge.com.br/judge/pt/problems/view/2778) - Matriz do Dabriel
+  - [ ] [2779](https://www.urionlinejudge.com.br/judge/pt/problems/view/2779) - Álbum da Copa
+  - [ ] [2780](https://www.urionlinejudge.com.br/judge/pt/problems/view/2780) - Basquete de Robôs
+  - [ ] [2781](https://www.urionlinejudge.com.br/judge/pt/problems/view/2781) - Câmara de Compensação
+  - [ ] [2782](https://www.urionlinejudge.com.br/judge/pt/problems/view/2782) - Escadinha
+  - [ ] [2783](https://www.urionlinejudge.com.br/judge/pt/problems/view/2783) - Figurinhas da Copa
+  - [ ] [2784](https://www.urionlinejudge.com.br/judge/pt/problems/view/2784) - Ilhas
+  - [ ] [2785](https://www.urionlinejudge.com.br/judge/pt/problems/view/2785) - Pirâmide
+  - [ ] [2786](https://www.urionlinejudge.com.br/judge/pt/problems/view/2786) - Piso da Escola
+  - [ ] [2787](https://www.urionlinejudge.com.br/judge/pt/problems/view/2787) - Xadrez
+  - [ ] [2788](https://www.urionlinejudge.com.br/judge/pt/problems/view/2788) - Aula
+  - [ ] [2789](https://www.urionlinejudge.com.br/judge/pt/problems/view/2789) - Crise Hídrica
+  - [ ] [2790](https://www.urionlinejudge.com.br/judge/pt/problems/view/2790) - Dados
+  - [ ] [2791](https://www.urionlinejudge.com.br/judge/pt/problems/view/2791) - Feijão
+  - [ ] [2792](https://www.urionlinejudge.com.br/judge/pt/problems/view/2792) - Golnaldinho
+  - [ ] [2793](https://www.urionlinejudge.com.br/judge/pt/problems/view/2793) - HM
+  - [ ] [2794](https://www.urionlinejudge.com.br/judge/pt/problems/view/2794) - Montes Claros
+  - [ ] [2795](https://www.urionlinejudge.com.br/judge/pt/problems/view/2795) - Palíndromo
+  - [ ] [2796](https://www.urionlinejudge.com.br/judge/pt/problems/view/2796) - Planta da Casa
+  - [ ] [2797](https://www.urionlinejudge.com.br/judge/pt/problems/view/2797) - Aplicando Prova
+  - [ ] [2798](https://www.urionlinejudge.com.br/judge/pt/problems/view/2798) - Lero-Lero da Mineira
+  - [ ] [2799](https://www.urionlinejudge.com.br/judge/pt/problems/view/2799) - Coral Nortista
+  - [ ] [2800](https://www.urionlinejudge.com.br/judge/pt/problems/view/2800) - Brincando de Consultas

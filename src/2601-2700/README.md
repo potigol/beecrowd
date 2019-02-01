@@ -1,0 +1,102 @@
+# 2601-2700
+
+  - [ ] [2601](https://www.urionlinejudge.com.br/judge/pt/problems/view/2601) - Tustin e Seu Dado Antigo
+  - [ ] [2602](https://www.urionlinejudge.com.br/judge/pt/problems/view/2602) - Select Básico
+  - [ ] [2603](https://www.urionlinejudge.com.br/judge/pt/problems/view/2603) - Endereço dos Clientes
+  - [ ] [2604](https://www.urionlinejudge.com.br/judge/pt/problems/view/2604) - Menores que 10 ou Maiores que 100
+  - [ ] [2605](https://www.urionlinejudge.com.br/judge/pt/problems/view/2605) - Representantes Executivos
+  - [ ] [2606](https://www.urionlinejudge.com.br/judge/pt/problems/view/2606) - Categorias
+  - [ ] [2607](https://www.urionlinejudge.com.br/judge/pt/problems/view/2607) - Cidades em Ordem Alfabética
+  - [ ] [2608](https://www.urionlinejudge.com.br/judge/pt/problems/view/2608) - Maior e Menor Preço
+  - [ ] [2609](https://www.urionlinejudge.com.br/judge/pt/problems/view/2609) - Produtos por Categorias
+  - [ ] [2610](https://www.urionlinejudge.com.br/judge/pt/problems/view/2610) - Valor Médio dos Produtos
+  - [ ] [2611](https://www.urionlinejudge.com.br/judge/pt/problems/view/2611) - Filmes de Ação
+  - [ ] [2612](https://www.urionlinejudge.com.br/judge/pt/problems/view/2612) - Os Atores Silva
+  - [ ] [2613](https://www.urionlinejudge.com.br/judge/pt/problems/view/2613) - Filmes em Promoção
+  - [ ] [2614](https://www.urionlinejudge.com.br/judge/pt/problems/view/2614) - Locações de Setembro
+  - [ ] [2615](https://www.urionlinejudge.com.br/judge/pt/problems/view/2615) - Expandindo o Negocio
+  - [ ] [2616](https://www.urionlinejudge.com.br/judge/pt/problems/view/2616) - Nenhuma Locação
+  - [ ] [2617](https://www.urionlinejudge.com.br/judge/pt/problems/view/2617) - Fornecedor Ajax SA
+  - [ ] [2618](https://www.urionlinejudge.com.br/judge/pt/problems/view/2618) - Produtos Importados
+  - [ ] [2619](https://www.urionlinejudge.com.br/judge/pt/problems/view/2619) - Super Luxo
+  - [ ] [2620](https://www.urionlinejudge.com.br/judge/pt/problems/view/2620) - Pedidos no Primeiro Semestre
+  - [ ] [2621](https://www.urionlinejudge.com.br/judge/pt/problems/view/2621) - Quantidades Entre 10 e 20
+  - [ ] [2622](https://www.urionlinejudge.com.br/judge/pt/problems/view/2622) - Pessoas jurídicas
+  - [ ] [2623](https://www.urionlinejudge.com.br/judge/pt/problems/view/2623) - Categorias com Vários Produtos
+  - [ ] [2624](https://www.urionlinejudge.com.br/judge/pt/problems/view/2624) - Quantidades de Cidades por Clientes
+  - [ ] [2625](https://www.urionlinejudge.com.br/judge/pt/problems/view/2625) - Máscara de CPF
+  - [ ] [2626](https://www.urionlinejudge.com.br/judge/pt/problems/view/2626) - Turma do JB6
+  - [ ] [2627](https://www.urionlinejudge.com.br/judge/pt/problems/view/2627) - Bonde de Autômatos
+  - [ ] [2628](https://www.urionlinejudge.com.br/judge/pt/problems/view/2628) - Caça ao Tesouro
+  - [ ] [2629](https://www.urionlinejudge.com.br/judge/pt/problems/view/2629) - Rodoido
+  - [ ] [2630](https://www.urionlinejudge.com.br/judge/pt/problems/view/2630) - Escala de Cinza
+  - [ ] [2631](https://www.urionlinejudge.com.br/judge/pt/problems/view/2631) - Formando Duplas
+  - [ ] [2632](https://www.urionlinejudge.com.br/judge/pt/problems/view/2632) - Magic and Sword
+  - [ ] [2633](https://www.urionlinejudge.com.br/judge/pt/problems/view/2633) - Churras no Yuri
+  - [ ] [2634](https://www.urionlinejudge.com.br/judge/pt/problems/view/2634) - Em Prol da Ciência
+  - [ ] [2635](https://www.urionlinejudge.com.br/judge/pt/problems/view/2635) - Navegador Web
+  - [ ] [2636](https://www.urionlinejudge.com.br/judge/pt/problems/view/2636) - 3-RSA
+  - [ ] [2637](https://www.urionlinejudge.com.br/judge/pt/problems/view/2637) - Casa do Batera
+  - [ ] ~2638~
+  - [ ] [2639](https://www.urionlinejudge.com.br/judge/pt/problems/view/2639) - Cluedo
+  - [ ] [2640](https://www.urionlinejudge.com.br/judge/pt/problems/view/2640) - Missão Improvável
+  - [ ] [2641](https://www.urionlinejudge.com.br/judge/pt/problems/view/2641) - Dinheiro por Nada
+  - [ ] ~2642~
+  - [ ] [2643](https://www.urionlinejudge.com.br/judge/pt/problems/view/2643) - Posterizar
+  - [ ] [2644](https://www.urionlinejudge.com.br/judge/pt/problems/view/2644) - Replicate Replicate Rfplicbte
+  - [ ] [2645](https://www.urionlinejudge.com.br/judge/pt/problems/view/2645) - Scenery
+  - [ ] [2646](https://www.urionlinejudge.com.br/judge/pt/problems/view/2646) - Secret Chamber at Mount Rushmore
+  - [ ] ~2647~
+  - [ ] [2648](https://www.urionlinejudge.com.br/judge/pt/problems/view/2648) - Tarot Sham Boast
+  - [ ] ~2649~
+  - [ ] [2650](https://www.urionlinejudge.com.br/judge/pt/problems/view/2650) - Construindo Muralhas
+  - [ ] [2651](https://www.urionlinejudge.com.br/judge/pt/problems/view/2651) - Link Bolado
+  - [ ] [2652](https://www.urionlinejudge.com.br/judge/pt/problems/view/2652) - Quantas Árvores?
+  - [ ] [2653](https://www.urionlinejudge.com.br/judge/pt/problems/view/2653) - Dijkstra
+  - [ ] [2654](https://www.urionlinejudge.com.br/judge/pt/problems/view/2654) - Godofor
+  - [ ] [2655](https://www.urionlinejudge.com.br/judge/pt/problems/view/2655) - Trilha Perigosa
+  - [ ] [2656](https://www.urionlinejudge.com.br/judge/pt/problems/view/2656) - Rhombus
+  - [ ] [2657](https://www.urionlinejudge.com.br/judge/pt/problems/view/2657) - Sensate
+  - [ ] [2658](https://www.urionlinejudge.com.br/judge/pt/problems/view/2658) - Acordes Intergaláticos
+  - [ ] [2659](https://www.urionlinejudge.com.br/judge/pt/problems/view/2659) - Brincadeira
+  - [ ] [2660](https://www.urionlinejudge.com.br/judge/pt/problems/view/2660) - Cigarras Periódicas
+  - [ ] [2661](https://www.urionlinejudge.com.br/judge/pt/problems/view/2661) - Despojados
+  - [ ] [2662](https://www.urionlinejudge.com.br/judge/pt/problems/view/2662) - Escala Musical
+  - [ ] [2663](https://www.urionlinejudge.com.br/judge/pt/problems/view/2663) - Fase
+  - [ ] [2664](https://www.urionlinejudge.com.br/judge/pt/problems/view/2664) - Ginástica
+  - [ ] [2665](https://www.urionlinejudge.com.br/judge/pt/problems/view/2665) - Hipercampo
+  - [ ] [2666](https://www.urionlinejudge.com.br/judge/pt/problems/view/2666) - Imposto Real
+  - [ ] [2667](https://www.urionlinejudge.com.br/judge/pt/problems/view/2667) - Jogo de Boca
+  - [ ] [2668](https://www.urionlinejudge.com.br/judge/pt/problems/view/2668) - K-ésimo
+  - [ ] [2669](https://www.urionlinejudge.com.br/judge/pt/problems/view/2669) - Laboratório de Biotecnologia
+  - [ ] [2670](https://www.urionlinejudge.com.br/judge/pt/problems/view/2670) - Máquina de Café
+  - [ ] [2671](https://www.urionlinejudge.com.br/judge/pt/problems/view/2671) - Decodificando o Texto
+  - [ ] [2672](https://www.urionlinejudge.com.br/judge/pt/problems/view/2672) - Máscara de Rede
+  - [ ] [2673](https://www.urionlinejudge.com.br/judge/pt/problems/view/2673) - Resistores Série e Paralelo
+  - [ ] [2674](https://www.urionlinejudge.com.br/judge/pt/problems/view/2674) - Super Primos: Ativar!
+  - [ ] [2675](https://www.urionlinejudge.com.br/judge/pt/problems/view/2675) - Rouba Monte
+  - [ ] [2676](https://www.urionlinejudge.com.br/judge/pt/problems/view/2676) - Cidade no Centro
+  - [ ] [2677](https://www.urionlinejudge.com.br/judge/pt/problems/view/2677) - Par ou Ímpar
+  - [ ] [2678](https://www.urionlinejudge.com.br/judge/pt/problems/view/2678) - Discagem de Voz
+  - [ ] [2679](https://www.urionlinejudge.com.br/judge/pt/problems/view/2679) - Sucessor Par
+  - [ ] [2680](https://www.urionlinejudge.com.br/judge/pt/problems/view/2680) - Folha de Pagamentos
+  - [ ] [2681](https://www.urionlinejudge.com.br/judge/pt/problems/view/2681) - Macacos da Torre de Hanoi
+  - [ ] [2682](https://www.urionlinejudge.com.br/judge/pt/problems/view/2682) - Detector de Falhas
+  - [ ] [2683](https://www.urionlinejudge.com.br/judge/pt/problems/view/2683) - Espaço de Projeto
+  - [ ] [2684](https://www.urionlinejudge.com.br/judge/pt/problems/view/2684) - Ajude o Professor Webscript!!
+  - [ ] [2685](https://www.urionlinejudge.com.br/judge/pt/problems/view/2685) - A Mudança
+  - [ ] [2686](https://www.urionlinejudge.com.br/judge/pt/problems/view/2686) - A Mudança Continua!!
+  - [ ] [2687](https://www.urionlinejudge.com.br/judge/pt/problems/view/2687) - Dominação Bacteriana
+  - [ ] [2688](https://www.urionlinejudge.com.br/judge/pt/problems/view/2688) - Escolhendo um Lugar
+  - [ ] [2689](https://www.urionlinejudge.com.br/judge/pt/problems/view/2689) - Jogo do Mião
+  - [ ] [2690](https://www.urionlinejudge.com.br/judge/pt/problems/view/2690) - Nova Senha RA
+  - [ ] [2691](https://www.urionlinejudge.com.br/judge/pt/problems/view/2691) - O Matemático
+  - [ ] [2692](https://www.urionlinejudge.com.br/judge/pt/problems/view/2692) - Teclado Zoeiro
+  - [ ] [2693](https://www.urionlinejudge.com.br/judge/pt/problems/view/2693) - Van
+  - [ ] [2694](https://www.urionlinejudge.com.br/judge/pt/problems/view/2694) - Problema com a Calculadora
+  - [ ] [2695](https://www.urionlinejudge.com.br/judge/pt/problems/view/2695) - Arrumando Lajotas
+  - [ ] ~2696~
+  - [ ] [2697](https://www.urionlinejudge.com.br/judge/pt/problems/view/2697) - Sequencia Completa de Naebbirac
+  - [ ] [2698](https://www.urionlinejudge.com.br/judge/pt/problems/view/2698) - Dispositivo Assombrado
+  - [ ] [2699](https://www.urionlinejudge.com.br/judge/pt/problems/view/2699) - Enigma
+  - [ ] [2700](https://www.urionlinejudge.com.br/judge/pt/problems/view/2700) - Angariando Fundos
