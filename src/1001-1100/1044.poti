@@ -1,0 +1,7 @@
+ent = leia_inteiros(" ")
+a, b = ent[1], ent[2]
+se a mod b == 0 ou b mod a == 0 então
+  escreva "Sao Multiplos"
+senão
+  escreva "Nao sao Multiplos"
+fim

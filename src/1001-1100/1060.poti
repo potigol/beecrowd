@@ -1,0 +1,2 @@
+n = leia_inteiros(6).selecione(_ > 0).tamanho
+escreva "{n} valores positivos"

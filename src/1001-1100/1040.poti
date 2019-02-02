@@ -1,0 +1,25 @@
+notas = leia_reais(" ")
+pesos = [2, 3, 4, 1]
+var media := 0.0
+para i de 1 até 4 faça
+  media := media + notas[i] * pesos[i]
+fim
+media := media.inteiro / 10
+escreva "Media: {media formato "%.1f"}"
+se media >= 7.0 então
+  escreva "Aluno aprovado."
+senãose media < 5.0 então
+  escreva "Aluno reprovado."
+senão
+  escreva "Aluno em exame."
+  exame = leia_real
+  escreva "Nota do exame: {exame formato "%.1f"}"
+  final = (media + exame) / 2
+  se final >= 5.0 então
+    escreva "Aluno aprovado."
+  senão
+    escreva "Aluno reprovado"
+  fim
+  escreva "Media final: {final formato "%.1f"}"
+fim
+

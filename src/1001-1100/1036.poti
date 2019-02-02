@@ -1,0 +1,9 @@
+valores = leia_reais(" ")
+a, b, c = valores[1], valores[2], valores[3]
+delta = b ^ 2 - 4 * a * c
+se a == 0 ou delta < 0 então
+  escreva "Impossivel calcular"
+senão
+  escreva "R1 = {((-b) + raiz(delta)) / (2 * a) formato "%.5f"}"
+  escreva "R2 = {((-b) - raiz(delta)) / (2 * a) formato "%.5f"}"
+fim

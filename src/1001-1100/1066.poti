@@ -1,0 +1,14 @@
+numeros = leia_inteiros(5)
+par(n: Inteiro) = n mod 2 == 0
+positivo(n: Inteiro) = n > 0
+negativo(n: Inteiro) = n < 0
+
+pares = numeros.selecione(par).tamanho
+impares = 5 - pares
+positivos = numeros.selecione(positivo).tamanho
+negativos = numeros.selecione(negativo).tamanho
+
+escreva "{pares} valor(es) par(es)"
+escreva "{impares} valor(es) impar(es)"
+escreva "{positivos} valor(es) positivo(s)"
+escreva "{negativos} valor(es) negativo(s)"

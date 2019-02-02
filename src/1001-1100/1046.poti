@@ -1,0 +1,6 @@
+entrada = leia_inteiros(" ")
+inicio = entrada[1]
+final =  entrada[2]
+d = final - inicio
+duracao = se d > 0 então d senão d + 24 fim
+escreva "O JOGO DUROU {duracao} HORA(S)"

@@ -22,9 +22,9 @@
   - [x] [1020](https://www.urionlinejudge.com.br/judge/pt/problems/view/1020) - [Idade em Dias](src/1001-1100/1020.poti)
   - [x] [1021](https://www.urionlinejudge.com.br/judge/pt/problems/view/1021) - [Notas e Moedas](src/1001-1100/1021.poti)
   - [x] [1035](https://www.urionlinejudge.com.br/judge/pt/problems/view/1035) - [Teste de Seleção 1](src/1001-1100/1035.poti)
-  - [ ] [1036](https://www.urionlinejudge.com.br/judge/pt/problems/view/1036) - Fórmula de Bhaskara
+  - [x] [1036](https://www.urionlinejudge.com.br/judge/pt/problems/view/1036) - [Fórmula de Bhaskara](src/1001-1100/1036.poti)
   - [x] [1037](https://www.urionlinejudge.com.br/judge/pt/problems/view/1037) - [Intervalo](src/1001-1100/1037.poti)
-  - [ ] [1038](https://www.urionlinejudge.com.br/judge/pt/problems/view/1038) - Lanche
+  - [x] [1038](https://www.urionlinejudge.com.br/judge/pt/problems/view/1038) - [Lanche](src/1001-1100/1038.poti)
   - [ ] [1040](https://www.urionlinejudge.com.br/judge/pt/problems/view/1040) - Média 3
   - [ ] [1041](https://www.urionlinejudge.com.br/judge/pt/problems/view/1041) - Coordenadas de um Ponto
   - [ ] [1042](https://www.urionlinejudge.com.br/judge/pt/problems/view/1042) - Sort Simples

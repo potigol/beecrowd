@@ -1,0 +1,4 @@
+n = leia_inteiro
+para i de 1 até n passo 2 faça
+  escreva i
+fim

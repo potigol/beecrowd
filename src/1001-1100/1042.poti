@@ -1,0 +1,4 @@
+n = leia_inteiros(" ")
+escreva n.ordene.junte("\n")
+escreva ""
+escreva n.junte("\n")

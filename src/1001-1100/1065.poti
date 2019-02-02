@@ -1,0 +1,2 @@
+pares = leia_inteiros(5).selecione(n => n mod 2 == 0).tamanho
+escreva "{pares} valores pares"

@@ -1,0 +1,5 @@
+n = leia_inteiro
+inicio = se n mod 2 == 1 então n senão n + 1 fim
+para i de 0 até 5 faça
+  escreva inicio + i * 2
+fim

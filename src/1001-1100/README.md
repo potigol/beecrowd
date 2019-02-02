@@ -35,9 +35,9 @@
   - [ ] [1033](https://www.urionlinejudge.com.br/judge/pt/problems/view/1033) - Quantas Chamadas Recursivas?
   - [ ] [1034](https://www.urionlinejudge.com.br/judge/pt/problems/view/1034) - Festival de Estátuas de Gelo
   - [x] [1035](https://www.urionlinejudge.com.br/judge/pt/problems/view/1035) - [Teste de Seleção 1](1035.poti)
-  - [ ] [1036](https://www.urionlinejudge.com.br/judge/pt/problems/view/1036) - Fórmula de Bhaskara
+  - [x] [1036](https://www.urionlinejudge.com.br/judge/pt/problems/view/1036) - [Fórmula de Bhaskara](1036.poti)
   - [x] [1037](https://www.urionlinejudge.com.br/judge/pt/problems/view/1037) - [Intervalo](1037.poti)
-  - [ ] [1038](https://www.urionlinejudge.com.br/judge/pt/problems/view/1038) - Lanche
+  - [x] [1038](https://www.urionlinejudge.com.br/judge/pt/problems/view/1038) - [Lanche](1038.poti)
   - [ ] [1039](https://www.urionlinejudge.com.br/judge/pt/problems/view/1039) - Flores de Fogo
   - [ ] [1040](https://www.urionlinejudge.com.br/judge/pt/problems/view/1040) - Média 3
   - [ ] [1041](https://www.urionlinejudge.com.br/judge/pt/problems/view/1041) - Coordenadas de um Ponto

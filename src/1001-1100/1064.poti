@@ -1,0 +1,4 @@
+n = leia_reais(6).selecione(_ > 0)
+escreva "{n.tamanho} valores positivos"
+media = n.injete(0.0)(_ + _) / n.tamanho
+escreva media formato "%.1f"

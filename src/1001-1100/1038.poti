@@ -1,0 +1,4 @@
+entrada = leia_inteiros(2)
+preco = [4.0,4.5,5.0,2.0,1.5]
+valor = preco[entrada[1]]*entrada[2]
+escreva "Total: R$ " + (valor formato "%.2f")
