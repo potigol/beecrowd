@@ -1,40 +1,40 @@
-# Problemas2901 a 3000
+# Problemas 2901 a 3000
 
-  - [ ] [2901](https://www.urionlinejudge.com.br/judge/pt/problems/view/2901) - Vôlei Marciano
-  - [ ] [2902](https://www.urionlinejudge.com.br/judge/pt/problems/view/2902) - Rouba Monte
-  - [ ] [2903](https://www.urionlinejudge.com.br/judge/pt/problems/view/2903) - A Symmetrical Pizza
-  - [ ] [2904](https://www.urionlinejudge.com.br/judge/pt/problems/view/2904) - Building a Field
-  - [ ] [2905](https://www.urionlinejudge.com.br/judge/pt/problems/view/2905) - Cheap Trips
-  - [ ] [2906](https://www.urionlinejudge.com.br/judge/pt/problems/view/2906) - Database of Clients
-  - [ ] [2907](https://www.urionlinejudge.com.br/judge/pt/problems/view/2907) - Escape, Polygon!
-  - [ ] [2908](https://www.urionlinejudge.com.br/judge/pt/problems/view/2908) - Fantastic Beasts
-  - [ ] [2909](https://www.urionlinejudge.com.br/judge/pt/problems/view/2909) - Gathering Red-Black Fruits
-  - [ ] [2910](https://www.urionlinejudge.com.br/judge/pt/problems/view/2910) - Highway Decommission
-  - [ ] [2911](https://www.urionlinejudge.com.br/judge/pt/problems/view/2911) - Ink Colors
-  - [ ] [2912](https://www.urionlinejudge.com.br/judge/pt/problems/view/2912) - Jeopardized Election
-  - [ ] [2913](https://www.urionlinejudge.com.br/judge/pt/problems/view/2913) - KryptoLocker Ate my Homework
-  - [ ] [2914](https://www.urionlinejudge.com.br/judge/pt/problems/view/2914) - Looking for the Risk Factor
-  - [ ] [2915](https://www.urionlinejudge.com.br/judge/pt/problems/view/2915) - Mount Marathon
-  - [ ] [2916](https://www.urionlinejudge.com.br/judge/pt/problems/view/2916) - A Nota
-  - [ ] [2917](https://www.urionlinejudge.com.br/judge/pt/problems/view/2917) - Barbante
-  - [ ] ~2918~
-  - [ ] ~2919~
-  - [ ] ~2920~
-  - [ ] ~2921~
-  - [ ] ~2922~
-  - [ ] ~2923~
-  - [ ] ~2924~
-  - [ ] ~2925~
-  - [ ] ~2926~
-  - [ ] ~2927~
-  - [ ] ~2928~
-  - [ ] ~2929~
-  - [ ] ~2930~
-  - [ ] ~2931~
-  - [ ] ~2932~
-  - [ ] ~2933~
-  - [ ] ~2934~
-  - [ ] ~2935~
+  - [ ] [2901](https://www.urionlinejudge.com.br/judge/pt/problems/view/2901) - Vôlei Marciano *Ad-Hoc*
+  - [ ] [2902](https://www.urionlinejudge.com.br/judge/pt/problems/view/2902) - Rouba Monte *Ad-Hoc*
+  - [ ] [2903](https://www.urionlinejudge.com.br/judge/pt/problems/view/2903) - A Symmetrical Pizza *Ad-Hoc*
+  - [ ] [2904](https://www.urionlinejudge.com.br/judge/pt/problems/view/2904) - Building a Field *Ad-Hoc*
+  - [ ] [2905](https://www.urionlinejudge.com.br/judge/pt/problems/view/2905) - Cheap Trips *Ad-Hoc*
+  - [ ] [2906](https://www.urionlinejudge.com.br/judge/pt/problems/view/2906) - Database of Clients *Ad-Hoc*
+  - [ ] [2907](https://www.urionlinejudge.com.br/judge/pt/problems/view/2907) - Escape, Polygon! *Ad-Hoc*
+  - [ ] [2908](https://www.urionlinejudge.com.br/judge/pt/problems/view/2908) - Fantastic Beasts *Ad-Hoc*
+  - [ ] [2909](https://www.urionlinejudge.com.br/judge/pt/problems/view/2909) - Gathering Red-Black Fruits *Ad-Hoc*
+  - [ ] [2910](https://www.urionlinejudge.com.br/judge/pt/problems/view/2910) - Highway Decommission *Ad-Hoc*
+  - [ ] [2911](https://www.urionlinejudge.com.br/judge/pt/problems/view/2911) - Ink Colors *Ad-Hoc*
+  - [ ] [2912](https://www.urionlinejudge.com.br/judge/pt/problems/view/2912) - Jeopardized Election *Ad-Hoc*
+  - [ ] [2913](https://www.urionlinejudge.com.br/judge/pt/problems/view/2913) - KryptoLocker Ate my Homework *Ad-Hoc*
+  - [ ] [2914](https://www.urionlinejudge.com.br/judge/pt/problems/view/2914) - Looking for the Risk Factor *Ad-Hoc*
+  - [ ] [2915](https://www.urionlinejudge.com.br/judge/pt/problems/view/2915) - Mount Marathon *Ad-Hoc*
+  - [ ] [2916](https://www.urionlinejudge.com.br/judge/pt/problems/view/2916) - A Nota *Estruturas e Bibliotecas*
+  - [ ] [2917](https://www.urionlinejudge.com.br/judge/pt/problems/view/2917) - Barbante *Paradigmas*
+  - [ ] [2918](https://www.urionlinejudge.com.br/judge/pt/problems/view/2918) - Dígitos Inteligentes *Paradigmas*
+  - [ ] [2919](https://www.urionlinejudge.com.br/judge/pt/problems/view/2919) - Melhor Ordem *Paradigmas*
+  - [ ] [2920](https://www.urionlinejudge.com.br/judge/pt/problems/view/2920) - Número Pequeno *Paradigmas*
+  - [ ] [2921](https://www.urionlinejudge.com.br/judge/pt/problems/view/2921) - Quadros Alienígenas *Paradigmas*
+  - [ ] [2922](https://www.urionlinejudge.com.br/judge/pt/problems/view/2922) - Salas De Aula *Ad-Hoc*
+  - [ ] [2923](https://www.urionlinejudge.com.br/judge/pt/problems/view/2923) - Birinho *Ad-Hoc*
+  - [ ] [2924](https://www.urionlinejudge.com.br/judge/pt/problems/view/2924) - BigInt *Ad-Hoc*
+  - [ ] [2925](https://www.urionlinejudge.com.br/judge/pt/problems/view/2925) - Sequência IccanobiF *Ad-Hoc*
+  - [ ] [2926](https://www.urionlinejudge.com.br/judge/pt/problems/view/2926) - Então é Natal! *Ad-Hoc*
+  - [ ] [2927](https://www.urionlinejudge.com.br/judge/pt/problems/view/2927) - Imprevistos Natalinos *Ad-Hoc*
+  - [ ] [2928](https://www.urionlinejudge.com.br/judge/pt/problems/view/2928) - Cruzando Lagos *Ad-Hoc*
+  - [ ] [2929](https://www.urionlinejudge.com.br/judge/pt/problems/view/2929) - Menor da Pilha *Estruturas e Bibliotecas*
+  - [ ] [2930](https://www.urionlinejudge.com.br/judge/pt/problems/view/2930) - TCC da Depressão Natalino *Iniciante*
+  - [ ] [2931](https://www.urionlinejudge.com.br/judge/pt/problems/view/2931) - Presentes Suspeitos *Ad-Hoc*
+  - [ ] [2932](https://www.urionlinejudge.com.br/judge/pt/problems/view/2932) - Renas do Papai Noel *Paradigmas*
+  - [ ] [2933](https://www.urionlinejudge.com.br/judge/pt/problems/view/2933) - Passeio de Trenó pela Terra *Grafos*
+  - [ ] [2934](https://www.urionlinejudge.com.br/judge/pt/problems/view/2934) - Noel e Suas Renas *Paradigmas*
+  - [ ] [2935](https://www.urionlinejudge.com.br/judge/pt/problems/view/2935) - DNA Élfico *Ad-Hoc*
   - [ ] ~2936~
   - [ ] ~2937~
   - [ ] ~2938~

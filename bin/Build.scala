@@ -20,24 +20,27 @@ object Build extends App {
   val b = a.groupBy(_.category)
   val c = b.keySet
 
+// Lista Geral
   for (i <- 10 to 29) {
     val d = for (j <- 1 to 100) yield {
       val x = i * 100 + j
       val p = a.find(_.number == x)
       p match {
         case None => s"  - [ ] ~${x}~"
-        case p if (check(x)) =>
-          s"  - [x] [${p.get.number}](https://www.urionlinejudge.com.br/judge/pt/problems/view/${p.get.number}) - [${p.get.name}](${p.get.number}.poti)"
-        case p =>
-          s"  - [ ] [${p.get.number}](https://www.urionlinejudge.com.br/judge/pt/problems/view/${p.get.number}) - ${p.get.name}"
+        case Some(p) if (check(x)) =>
+          s"  - [x] [${p.number}](https://www.urionlinejudge.com.br/judge/pt/problems/view/${p.number}) - [${p.name}](${p.number}.poti) *${p.category}*"
+        case Some(p) =>
+          s"  - [ ] [${p.number}](https://www.urionlinejudge.com.br/judge/pt/problems/view/${p.number}) - ${p.name} *${p.category}*"
       }
     }
     import java.io.PrintWriter
     new PrintWriter(s"../src/${i * 100 + 1}-${i * 100 + 100}/README.md") {
-      write("# Problemas" + s"${i * 100 + 1} a ${i * 100 + 100}" + "\n\n" + d.mkString("\n"))
+      write("# Problemas " + s"${i * 100 + 1} a ${i * 100 + 100}" + "\n\n" + d.mkString("\n"))
       close
     }
   }
+
+// Lista por categoria
   for (d <- c) {
     val bd = b(d).sortBy(_.number)
     var count = 0

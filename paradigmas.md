@@ -1,4 +1,4 @@
-# Paradigmas (0 / 182)
+# Paradigmas (0 / 188)
 
   - [ ] [1027](https://www.urionlinejudge.com.br/judge/pt/problems/view/1027) - Onda Crítica
   - [ ] [1029](https://www.urionlinejudge.com.br/judge/pt/problems/view/1029) - Fibonacci, Quantas Chamadas?
@@ -182,3 +182,9 @@
   - [ ] [2888](https://www.urionlinejudge.com.br/judge/pt/problems/view/2888) - Modificando SAT
   - [ ] [2895](https://www.urionlinejudge.com.br/judge/pt/problems/view/2895) - Velhas Balanças
   - [ ] [2917](https://www.urionlinejudge.com.br/judge/pt/problems/view/2917) - Barbante
+  - [ ] [2918](https://www.urionlinejudge.com.br/judge/pt/problems/view/2918) - Dígitos Inteligentes
+  - [ ] [2919](https://www.urionlinejudge.com.br/judge/pt/problems/view/2919) - Melhor Ordem
+  - [ ] [2920](https://www.urionlinejudge.com.br/judge/pt/problems/view/2920) - Número Pequeno
+  - [ ] [2921](https://www.urionlinejudge.com.br/judge/pt/problems/view/2921) - Quadros Alienígenas
+  - [ ] [2932](https://www.urionlinejudge.com.br/judge/pt/problems/view/2932) - Renas do Papai Noel
+  - [ ] [2934](https://www.urionlinejudge.com.br/judge/pt/problems/view/2934) - Noel e Suas Renas

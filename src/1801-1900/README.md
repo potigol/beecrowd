@@ -1,102 +1,102 @@
-# Problemas1801 a 1900
+# Problemas 1801 a 1900
 
-  - [ ] [1801](https://www.urionlinejudge.com.br/judge/pt/problems/view/1801) - Brincando com Números
-  - [ ] [1802](https://www.urionlinejudge.com.br/judge/pt/problems/view/1802) - Catálogo de Livros
-  - [ ] [1803](https://www.urionlinejudge.com.br/judge/pt/problems/view/1803) - Matring
-  - [ ] [1804](https://www.urionlinejudge.com.br/judge/pt/problems/view/1804) - Precisa-se de Matemáticos em Marte
-  - [ ] [1805](https://www.urionlinejudge.com.br/judge/pt/problems/view/1805) - Soma Natural
-  - [ ] [1806](https://www.urionlinejudge.com.br/judge/pt/problems/view/1806) - Agente 004
-  - [ ] [1807](https://www.urionlinejudge.com.br/judge/pt/problems/view/1807) - Triângulo Trinomial, a Vingança
-  - [ ] [1808](https://www.urionlinejudge.com.br/judge/pt/problems/view/1808) - O Retorno do Rei
-  - [ ] [1809](https://www.urionlinejudge.com.br/judge/pt/problems/view/1809) - Agentes Secretos
-  - [ ] [1810](https://www.urionlinejudge.com.br/judge/pt/problems/view/1810) - Beverly Hills, Century City
-  - [ ] [1811](https://www.urionlinejudge.com.br/judge/pt/problems/view/1811) - O Óscar Vai Para...
-  - [ ] [1812](https://www.urionlinejudge.com.br/judge/pt/problems/view/1812) - Um Cluster Para Evitar Enchentes
-  - [ ] [1813](https://www.urionlinejudge.com.br/judge/pt/problems/view/1813) - Anacrônico?
-  - [ ] [1814](https://www.urionlinejudge.com.br/judge/pt/problems/view/1814) - DNA Storage?
-  - [ ] [1815](https://www.urionlinejudge.com.br/judge/pt/problems/view/1815) - Drunk People?
-  - [ ] [1816](https://www.urionlinejudge.com.br/judge/pt/problems/view/1816) - Vikings em Praga?
-  - [ ] [1817](https://www.urionlinejudge.com.br/judge/pt/problems/view/1817) - Arqueólogos de Tsing Ling
-  - [ ] [1818](https://www.urionlinejudge.com.br/judge/pt/problems/view/1818) - Centro de Convenções
-  - [ ] [1819](https://www.urionlinejudge.com.br/judge/pt/problems/view/1819) - Estimando a Produção
-  - [ ] [1820](https://www.urionlinejudge.com.br/judge/pt/problems/view/1820) - Grupos da Universidade de Sing Pil
-  - [ ] [1821](https://www.urionlinejudge.com.br/judge/pt/problems/view/1821) - Miai Chinês
-  - [ ] [1822](https://www.urionlinejudge.com.br/judge/pt/problems/view/1822) - Obras da China
-  - [ ] [1823](https://www.urionlinejudge.com.br/judge/pt/problems/view/1823) - O Penúltimo Imperador
-  - [ ] [1824](https://www.urionlinejudge.com.br/judge/pt/problems/view/1824) - Sapos de Tsé-Tsé
-  - [ ] [1825](https://www.urionlinejudge.com.br/judge/pt/problems/view/1825) - Formigando
-  - [ ] [1826](https://www.urionlinejudge.com.br/judge/pt/problems/view/1826) - A Linguagem é Infinita?
-  - [ ] [1827](https://www.urionlinejudge.com.br/judge/pt/problems/view/1827) - Matriz Quadrada IV
-  - [ ] [1828](https://www.urionlinejudge.com.br/judge/pt/problems/view/1828) - Bazinga!
-  - [ ] [1829](https://www.urionlinejudge.com.br/judge/pt/problems/view/1829) - Jogo do Maior Número
-  - [ ] [1830](https://www.urionlinejudge.com.br/judge/pt/problems/view/1830) - Caixas de Bombons
-  - [ ] [1831](https://www.urionlinejudge.com.br/judge/pt/problems/view/1831) - Dia Difícil de Trabalho
-  - [ ] [1832](https://www.urionlinejudge.com.br/judge/pt/problems/view/1832) - EBCDIC
-  - [ ] [1833](https://www.urionlinejudge.com.br/judge/pt/problems/view/1833) - Decoração Natalina
-  - [ ] [1834](https://www.urionlinejudge.com.br/judge/pt/problems/view/1834) - Vogons!
-  - [ ] [1835](https://www.urionlinejudge.com.br/judge/pt/problems/view/1835) - Promessa de Campanha
-  - [ ] [1836](https://www.urionlinejudge.com.br/judge/pt/problems/view/1836) - Pokémon!
-  - [ ] [1837](https://www.urionlinejudge.com.br/judge/pt/problems/view/1837) - Prefácio
-  - [ ] [1838](https://www.urionlinejudge.com.br/judge/pt/problems/view/1838) - A Pedra Filosofal
-  - [ ] [1839](https://www.urionlinejudge.com.br/judge/pt/problems/view/1839) - A Câmara Secreta
-  - [ ] [1840](https://www.urionlinejudge.com.br/judge/pt/problems/view/1840) - O Prisioneiro de Azkaban
-  - [ ] [1841](https://www.urionlinejudge.com.br/judge/pt/problems/view/1841) - O Cálice de Fogo
-  - [ ] [1842](https://www.urionlinejudge.com.br/judge/pt/problems/view/1842) - A Ordem da Fênix
-  - [ ] [1843](https://www.urionlinejudge.com.br/judge/pt/problems/view/1843) - O Enigma do Príncipe
-  - [ ] [1844](https://www.urionlinejudge.com.br/judge/pt/problems/view/1844) - As Relíquias da Morte
-  - [ ] [1845](https://www.urionlinejudge.com.br/judge/pt/problems/view/1845) - Efílogo
-  - [ ] [1846](https://www.urionlinejudge.com.br/judge/pt/problems/view/1846) - Numero Para Nome
-  - [ ] [1847](https://www.urionlinejudge.com.br/judge/pt/problems/view/1847) - Bem-vindos e Bem-vindas ao Inverno!
-  - [ ] [1848](https://www.urionlinejudge.com.br/judge/pt/problems/view/1848) - Corvo Contador
-  - [ ] [1849](https://www.urionlinejudge.com.br/judge/pt/problems/view/1849) - Dracarys!
-  - [ ] [1850](https://www.urionlinejudge.com.br/judge/pt/problems/view/1850) - O Labirinto de Ninguém
-  - [ ] [1851](https://www.urionlinejudge.com.br/judge/pt/problems/view/1851) - Como Treinar Seu Dragão
-  - [ ] [1852](https://www.urionlinejudge.com.br/judge/pt/problems/view/1852) - Lobos Stark
-  - [ ] [1853](https://www.urionlinejudge.com.br/judge/pt/problems/view/1853) - O Jogo da Confiança de Daenerys
-  - [ ] [1854](https://www.urionlinejudge.com.br/judge/pt/problems/view/1854) - Inverno em Winterfell
-  - [ ] [1855](https://www.urionlinejudge.com.br/judge/pt/problems/view/1855) - Mapa do Meistre
-  - [ ] [1856](https://www.urionlinejudge.com.br/judge/pt/problems/view/1856) - A Lista da Morte de Arya
-  - [ ] [1857](https://www.urionlinejudge.com.br/judge/pt/problems/view/1857) - Prelúdio de um Casamento Vermelho
-  - [ ] [1858](https://www.urionlinejudge.com.br/judge/pt/problems/view/1858) - A Resposta de Theon
-  - [ ] [1859](https://www.urionlinejudge.com.br/judge/pt/problems/view/1859) - Arqueologia Congelante
-  - [ ] [1860](https://www.urionlinejudge.com.br/judge/pt/problems/view/1860) - A Caminhada da Vergonha de Cersei
-  - [ ] [1861](https://www.urionlinejudge.com.br/judge/pt/problems/view/1861) - O Hall dos Assassinos
-  - [ ] [1862](https://www.urionlinejudge.com.br/judge/pt/problems/view/1862) - Casas de Westeros
-  - [ ] [1863](https://www.urionlinejudge.com.br/judge/pt/problems/view/1863) - O Contra-ataque de Ramsay
-  - [ ] [1864](https://www.urionlinejudge.com.br/judge/pt/problems/view/1864) - Nossos Dias Nunca Voltarão
-  - [ ] [1865](https://www.urionlinejudge.com.br/judge/pt/problems/view/1865) - Mjölnir
-  - [ ] [1866](https://www.urionlinejudge.com.br/judge/pt/problems/view/1866) - Conta
-  - [ ] [1867](https://www.urionlinejudge.com.br/judge/pt/problems/view/1867) - Maior Número de Um Algarismo
-  - [ ] [1868](https://www.urionlinejudge.com.br/judge/pt/problems/view/1868) - Espiral Quadrada
-  - [ ] [1869](https://www.urionlinejudge.com.br/judge/pt/problems/view/1869) - Base 32
-  - [ ] [1870](https://www.urionlinejudge.com.br/judge/pt/problems/view/1870) - Ventiladores e Balões
-  - [ ] [1871](https://www.urionlinejudge.com.br/judge/pt/problems/view/1871) - Zero vale Zero
-  - [ ] [1872](https://www.urionlinejudge.com.br/judge/pt/problems/view/1872) - Palíndromo Real
-  - [ ] [1873](https://www.urionlinejudge.com.br/judge/pt/problems/view/1873) - Pedra-papel-tesoura-lagarto-Spock
-  - [ ] [1874](https://www.urionlinejudge.com.br/judge/pt/problems/view/1874) - Empurrando Blocos
-  - [ ] [1875](https://www.urionlinejudge.com.br/judge/pt/problems/view/1875) - Tribol
-  - [ ] [1876](https://www.urionlinejudge.com.br/judge/pt/problems/view/1876) - Rabiola
-  - [ ] [1877](https://www.urionlinejudge.com.br/judge/pt/problems/view/1877) - O Castelo de Neve de Sansa
-  - [ ] [1878](https://www.urionlinejudge.com.br/judge/pt/problems/view/1878) - Torneios em Sequência
-  - [ ] [1879](https://www.urionlinejudge.com.br/judge/pt/problems/view/1879) - Bridge
-  - [ ] [1880](https://www.urionlinejudge.com.br/judge/pt/problems/view/1880) - Renzo e a Decoração Capicuânica
-  - [ ] [1881](https://www.urionlinejudge.com.br/judge/pt/problems/view/1881) - Competição de Robótica
-  - [ ] [1882](https://www.urionlinejudge.com.br/judge/pt/problems/view/1882) - Passeios Aleatórios pela Tailândia
-  - [ ] [1883](https://www.urionlinejudge.com.br/judge/pt/problems/view/1883) - Fuga de Ayutthaya
-  - [ ] [1884](https://www.urionlinejudge.com.br/judge/pt/problems/view/1884) - Lutando Contra os Rajasi
-  - [ ] [1885](https://www.urionlinejudge.com.br/judge/pt/problems/view/1885) - Loteria Tailandesa
-  - [ ] [1886](https://www.urionlinejudge.com.br/judge/pt/problems/view/1886) - Resguardando os Templos
-  - [ ] [1887](https://www.urionlinejudge.com.br/judge/pt/problems/view/1887) - As Vias Férreas Kunming-Cingapura
-  - [ ] [1888](https://www.urionlinejudge.com.br/judge/pt/problems/view/1888) - Os chedis de Kamphaeng Phet
-  - [ ] [1889](https://www.urionlinejudge.com.br/judge/pt/problems/view/1889) - Treinando com as Larvas de Phuket
-  - [ ] [1890](https://www.urionlinejudge.com.br/judge/pt/problems/view/1890) - Emplacando os Tuk-tuks
-  - [ ] [1891](https://www.urionlinejudge.com.br/judge/pt/problems/view/1891) - Removendo Moedas no Kem Kradãn
-  - [ ] [1892](https://www.urionlinejudge.com.br/judge/pt/problems/view/1892) - Calouro Vence Veterano?
-  - [ ] [1893](https://www.urionlinejudge.com.br/judge/pt/problems/view/1893) - Fases da Lua
-  - [ ] [1894](https://www.urionlinejudge.com.br/judge/pt/problems/view/1894) - Filogenia
-  - [ ] [1895](https://www.urionlinejudge.com.br/judge/pt/problems/view/1895) - Jogo do Limite
-  - [ ] [1896](https://www.urionlinejudge.com.br/judge/pt/problems/view/1896) - É Hora do Duelo!
-  - [ ] [1897](https://www.urionlinejudge.com.br/judge/pt/problems/view/1897) - Jogo Esperto
-  - [ ] [1898](https://www.urionlinejudge.com.br/judge/pt/problems/view/1898) - Soma de Propina
-  - [ ] [1899](https://www.urionlinejudge.com.br/judge/pt/problems/view/1899) - Acerte o Alvo!
-  - [ ] [1900](https://www.urionlinejudge.com.br/judge/pt/problems/view/1900) - Sequências Nulas
+  - [ ] [1801](https://www.urionlinejudge.com.br/judge/pt/problems/view/1801) - Brincando com Números *Matemática*
+  - [ ] [1802](https://www.urionlinejudge.com.br/judge/pt/problems/view/1802) - Catálogo de Livros *Ad-Hoc*
+  - [ ] [1803](https://www.urionlinejudge.com.br/judge/pt/problems/view/1803) - Matring *Strings*
+  - [ ] [1804](https://www.urionlinejudge.com.br/judge/pt/problems/view/1804) - Precisa-se de Matemáticos em Marte *Estruturas e Bibliotecas*
+  - [ ] [1805](https://www.urionlinejudge.com.br/judge/pt/problems/view/1805) - Soma Natural *Matemática*
+  - [ ] [1806](https://www.urionlinejudge.com.br/judge/pt/problems/view/1806) - Agente 004 *Grafos*
+  - [ ] [1807](https://www.urionlinejudge.com.br/judge/pt/problems/view/1807) - Triângulo Trinomial, a Vingança *Matemática*
+  - [ ] [1808](https://www.urionlinejudge.com.br/judge/pt/problems/view/1808) - O Retorno do Rei *Ad-Hoc*
+  - [ ] [1809](https://www.urionlinejudge.com.br/judge/pt/problems/view/1809) - Agentes Secretos *Ad-Hoc*
+  - [ ] [1810](https://www.urionlinejudge.com.br/judge/pt/problems/view/1810) - Beverly Hills, Century City *Paradigmas*
+  - [ ] [1811](https://www.urionlinejudge.com.br/judge/pt/problems/view/1811) - O Óscar Vai Para... *Ad-Hoc*
+  - [ ] [1812](https://www.urionlinejudge.com.br/judge/pt/problems/view/1812) - Um Cluster Para Evitar Enchentes *Matemática*
+  - [ ] [1813](https://www.urionlinejudge.com.br/judge/pt/problems/view/1813) - Anacrônico? *Grafos*
+  - [ ] [1814](https://www.urionlinejudge.com.br/judge/pt/problems/view/1814) - DNA Storage? *Ad-Hoc*
+  - [ ] [1815](https://www.urionlinejudge.com.br/judge/pt/problems/view/1815) - Drunk People? *Matemática*
+  - [ ] [1816](https://www.urionlinejudge.com.br/judge/pt/problems/view/1816) - Vikings em Praga? *Ad-Hoc*
+  - [ ] [1817](https://www.urionlinejudge.com.br/judge/pt/problems/view/1817) - Arqueólogos de Tsing Ling *Ad-Hoc*
+  - [ ] [1818](https://www.urionlinejudge.com.br/judge/pt/problems/view/1818) - Centro de Convenções *Geometria Computacional*
+  - [ ] [1819](https://www.urionlinejudge.com.br/judge/pt/problems/view/1819) - Estimando a Produção *Matemática*
+  - [ ] [1820](https://www.urionlinejudge.com.br/judge/pt/problems/view/1820) - Grupos da Universidade de Sing Pil *Ad-Hoc*
+  - [ ] [1821](https://www.urionlinejudge.com.br/judge/pt/problems/view/1821) - Miai Chinês *Grafos*
+  - [ ] [1822](https://www.urionlinejudge.com.br/judge/pt/problems/view/1822) - Obras da China *Paradigmas*
+  - [ ] [1823](https://www.urionlinejudge.com.br/judge/pt/problems/view/1823) - O Penúltimo Imperador *Grafos*
+  - [ ] [1824](https://www.urionlinejudge.com.br/judge/pt/problems/view/1824) - Sapos de Tsé-Tsé *Ad-Hoc*
+  - [ ] [1825](https://www.urionlinejudge.com.br/judge/pt/problems/view/1825) - Formigando *Geometria Computacional*
+  - [ ] [1826](https://www.urionlinejudge.com.br/judge/pt/problems/view/1826) - A Linguagem é Infinita? *Grafos*
+  - [ ] [1827](https://www.urionlinejudge.com.br/judge/pt/problems/view/1827) - Matriz Quadrada IV *Iniciante*
+  - [ ] [1828](https://www.urionlinejudge.com.br/judge/pt/problems/view/1828) - Bazinga! *Iniciante*
+  - [ ] [1829](https://www.urionlinejudge.com.br/judge/pt/problems/view/1829) - Jogo do Maior Número *Matemática*
+  - [ ] [1830](https://www.urionlinejudge.com.br/judge/pt/problems/view/1830) - Caixas de Bombons *Matemática*
+  - [ ] [1831](https://www.urionlinejudge.com.br/judge/pt/problems/view/1831) - Dia Difícil de Trabalho *Matemática*
+  - [ ] [1832](https://www.urionlinejudge.com.br/judge/pt/problems/view/1832) - EBCDIC *Ad-Hoc*
+  - [ ] [1833](https://www.urionlinejudge.com.br/judge/pt/problems/view/1833) - Decoração Natalina *Paradigmas*
+  - [ ] [1834](https://www.urionlinejudge.com.br/judge/pt/problems/view/1834) - Vogons! *Geometria Computacional*
+  - [ ] [1835](https://www.urionlinejudge.com.br/judge/pt/problems/view/1835) - Promessa de Campanha *Grafos*
+  - [ ] [1836](https://www.urionlinejudge.com.br/judge/pt/problems/view/1836) - Pokémon! *Ad-Hoc*
+  - [ ] [1837](https://www.urionlinejudge.com.br/judge/pt/problems/view/1837) - Prefácio *Iniciante*
+  - [ ] [1838](https://www.urionlinejudge.com.br/judge/pt/problems/view/1838) - A Pedra Filosofal *Paradigmas*
+  - [ ] [1839](https://www.urionlinejudge.com.br/judge/pt/problems/view/1839) - A Câmara Secreta *Matemática*
+  - [ ] [1840](https://www.urionlinejudge.com.br/judge/pt/problems/view/1840) - O Prisioneiro de Azkaban *Ad-Hoc*
+  - [ ] [1841](https://www.urionlinejudge.com.br/judge/pt/problems/view/1841) - O Cálice de Fogo *Matemática*
+  - [ ] [1842](https://www.urionlinejudge.com.br/judge/pt/problems/view/1842) - A Ordem da Fênix *Strings*
+  - [ ] [1843](https://www.urionlinejudge.com.br/judge/pt/problems/view/1843) - O Enigma do Príncipe *Paradigmas*
+  - [ ] [1844](https://www.urionlinejudge.com.br/judge/pt/problems/view/1844) - As Relíquias da Morte *Geometria Computacional*
+  - [ ] [1845](https://www.urionlinejudge.com.br/judge/pt/problems/view/1845) - Efílogo *Ad-Hoc*
+  - [ ] [1846](https://www.urionlinejudge.com.br/judge/pt/problems/view/1846) - Numero Para Nome *Strings*
+  - [ ] [1847](https://www.urionlinejudge.com.br/judge/pt/problems/view/1847) - Bem-vindos e Bem-vindas ao Inverno! *Iniciante*
+  - [ ] [1848](https://www.urionlinejudge.com.br/judge/pt/problems/view/1848) - Corvo Contador *Iniciante*
+  - [ ] [1849](https://www.urionlinejudge.com.br/judge/pt/problems/view/1849) - Dracarys! *Ad-Hoc*
+  - [ ] [1850](https://www.urionlinejudge.com.br/judge/pt/problems/view/1850) - O Labirinto de Ninguém *Grafos*
+  - [ ] [1851](https://www.urionlinejudge.com.br/judge/pt/problems/view/1851) - Como Treinar Seu Dragão *Estruturas e Bibliotecas*
+  - [ ] [1852](https://www.urionlinejudge.com.br/judge/pt/problems/view/1852) - Lobos Stark *Paradigmas*
+  - [ ] [1853](https://www.urionlinejudge.com.br/judge/pt/problems/view/1853) - O Jogo da Confiança de Daenerys *Strings*
+  - [ ] [1854](https://www.urionlinejudge.com.br/judge/pt/problems/view/1854) - Inverno em Winterfell *Estruturas e Bibliotecas*
+  - [ ] [1855](https://www.urionlinejudge.com.br/judge/pt/problems/view/1855) - Mapa do Meistre *Grafos*
+  - [ ] [1856](https://www.urionlinejudge.com.br/judge/pt/problems/view/1856) - A Lista da Morte de Arya *Estruturas e Bibliotecas*
+  - [ ] [1857](https://www.urionlinejudge.com.br/judge/pt/problems/view/1857) - Prelúdio de um Casamento Vermelho *Geometria Computacional*
+  - [ ] [1858](https://www.urionlinejudge.com.br/judge/pt/problems/view/1858) - A Resposta de Theon *Iniciante*
+  - [ ] [1859](https://www.urionlinejudge.com.br/judge/pt/problems/view/1859) - Arqueologia Congelante *Strings*
+  - [ ] [1860](https://www.urionlinejudge.com.br/judge/pt/problems/view/1860) - A Caminhada da Vergonha de Cersei *Paradigmas*
+  - [ ] [1861](https://www.urionlinejudge.com.br/judge/pt/problems/view/1861) - O Hall dos Assassinos *Estruturas e Bibliotecas*
+  - [ ] [1862](https://www.urionlinejudge.com.br/judge/pt/problems/view/1862) - Casas de Westeros *Grafos*
+  - [ ] [1863](https://www.urionlinejudge.com.br/judge/pt/problems/view/1863) - O Contra-ataque de Ramsay *Estruturas e Bibliotecas*
+  - [ ] [1864](https://www.urionlinejudge.com.br/judge/pt/problems/view/1864) - Nossos Dias Nunca Voltarão *Iniciante*
+  - [ ] [1865](https://www.urionlinejudge.com.br/judge/pt/problems/view/1865) - Mjölnir *Iniciante*
+  - [ ] [1866](https://www.urionlinejudge.com.br/judge/pt/problems/view/1866) - Conta *Iniciante*
+  - [ ] [1867](https://www.urionlinejudge.com.br/judge/pt/problems/view/1867) - Maior Número de Um Algarismo *Ad-Hoc*
+  - [ ] [1868](https://www.urionlinejudge.com.br/judge/pt/problems/view/1868) - Espiral Quadrada *Strings*
+  - [ ] [1869](https://www.urionlinejudge.com.br/judge/pt/problems/view/1869) - Base 32 *Matemática*
+  - [ ] [1870](https://www.urionlinejudge.com.br/judge/pt/problems/view/1870) - Ventiladores e Balões *Ad-Hoc*
+  - [ ] [1871](https://www.urionlinejudge.com.br/judge/pt/problems/view/1871) - Zero vale Zero *Strings*
+  - [ ] [1872](https://www.urionlinejudge.com.br/judge/pt/problems/view/1872) - Palíndromo Real *Matemática*
+  - [ ] [1873](https://www.urionlinejudge.com.br/judge/pt/problems/view/1873) - Pedra-papel-tesoura-lagarto-Spock *Strings*
+  - [ ] [1874](https://www.urionlinejudge.com.br/judge/pt/problems/view/1874) - Empurrando Blocos *Estruturas e Bibliotecas*
+  - [ ] [1875](https://www.urionlinejudge.com.br/judge/pt/problems/view/1875) - Tribol *Geometria Computacional*
+  - [ ] [1876](https://www.urionlinejudge.com.br/judge/pt/problems/view/1876) - Rabiola *Ad-Hoc*
+  - [ ] [1877](https://www.urionlinejudge.com.br/judge/pt/problems/view/1877) - O Castelo de Neve de Sansa *Ad-Hoc*
+  - [ ] [1878](https://www.urionlinejudge.com.br/judge/pt/problems/view/1878) - Torneios em Sequência *Paradigmas*
+  - [ ] [1879](https://www.urionlinejudge.com.br/judge/pt/problems/view/1879) - Bridge *Ad-Hoc*
+  - [ ] [1880](https://www.urionlinejudge.com.br/judge/pt/problems/view/1880) - Renzo e a Decoração Capicuânica *Ad-Hoc*
+  - [ ] [1881](https://www.urionlinejudge.com.br/judge/pt/problems/view/1881) - Competição de Robótica *Ad-Hoc*
+  - [ ] [1882](https://www.urionlinejudge.com.br/judge/pt/problems/view/1882) - Passeios Aleatórios pela Tailândia *Ad-Hoc*
+  - [ ] [1883](https://www.urionlinejudge.com.br/judge/pt/problems/view/1883) - Fuga de Ayutthaya *Grafos*
+  - [ ] [1884](https://www.urionlinejudge.com.br/judge/pt/problems/view/1884) - Lutando Contra os Rajasi *Ad-Hoc*
+  - [ ] [1885](https://www.urionlinejudge.com.br/judge/pt/problems/view/1885) - Loteria Tailandesa *Ad-Hoc*
+  - [ ] [1886](https://www.urionlinejudge.com.br/judge/pt/problems/view/1886) - Resguardando os Templos *Ad-Hoc*
+  - [ ] [1887](https://www.urionlinejudge.com.br/judge/pt/problems/view/1887) - As Vias Férreas Kunming-Cingapura *Ad-Hoc*
+  - [ ] [1888](https://www.urionlinejudge.com.br/judge/pt/problems/view/1888) - Os chedis de Kamphaeng Phet *Ad-Hoc*
+  - [ ] [1889](https://www.urionlinejudge.com.br/judge/pt/problems/view/1889) - Treinando com as Larvas de Phuket *Ad-Hoc*
+  - [ ] [1890](https://www.urionlinejudge.com.br/judge/pt/problems/view/1890) - Emplacando os Tuk-tuks *Ad-Hoc*
+  - [ ] [1891](https://www.urionlinejudge.com.br/judge/pt/problems/view/1891) - Removendo Moedas no Kem Kradãn *Ad-Hoc*
+  - [ ] [1892](https://www.urionlinejudge.com.br/judge/pt/problems/view/1892) - Calouro Vence Veterano? *Paradigmas*
+  - [ ] [1893](https://www.urionlinejudge.com.br/judge/pt/problems/view/1893) - Fases da Lua *Ad-Hoc*
+  - [ ] [1894](https://www.urionlinejudge.com.br/judge/pt/problems/view/1894) - Filogenia *Grafos*
+  - [ ] [1895](https://www.urionlinejudge.com.br/judge/pt/problems/view/1895) - Jogo do Limite *Ad-Hoc*
+  - [ ] [1896](https://www.urionlinejudge.com.br/judge/pt/problems/view/1896) - É Hora do Duelo! *Ad-Hoc*
+  - [ ] [1897](https://www.urionlinejudge.com.br/judge/pt/problems/view/1897) - Jogo Esperto *Estruturas e Bibliotecas*
+  - [ ] [1898](https://www.urionlinejudge.com.br/judge/pt/problems/view/1898) - Soma de Propina *Strings*
+  - [ ] [1899](https://www.urionlinejudge.com.br/judge/pt/problems/view/1899) - Acerte o Alvo! *Ad-Hoc*
+  - [ ] [1900](https://www.urionlinejudge.com.br/judge/pt/problems/view/1900) - Sequências Nulas *Paradigmas*

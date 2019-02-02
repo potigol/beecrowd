@@ -1,102 +1,102 @@
-# Problemas1501 a 1600
+# Problemas 1501 a 1600
 
-  - [ ] [1501](https://www.urionlinejudge.com.br/judge/pt/problems/view/1501) - Quantos Zeros e Quantos Dígitos?
-  - [ ] [1502](https://www.urionlinejudge.com.br/judge/pt/problems/view/1502) - Travessia
-  - [ ] [1503](https://www.urionlinejudge.com.br/judge/pt/problems/view/1503) - Maior Palíndromo Comum Você Deve Encontrar
-  - [ ] [1504](https://www.urionlinejudge.com.br/judge/pt/problems/view/1504) - Curo Railroad
-  - [ ] [1505](https://www.urionlinejudge.com.br/judge/pt/problems/view/1505) - Curo Factories
-  - [ ] [1506](https://www.urionlinejudge.com.br/judge/pt/problems/view/1506) - Rabito e Bones
-  - [ ] [1507](https://www.urionlinejudge.com.br/judge/pt/problems/view/1507) - Subsequências
-  - [ ] [1508](https://www.urionlinejudge.com.br/judge/pt/problems/view/1508) - Raio Laser
-  - [ ] [1509](https://www.urionlinejudge.com.br/judge/pt/problems/view/1509) - Contando Ambiguidades
-  - [ ] [1510](https://www.urionlinejudge.com.br/judge/pt/problems/view/1510) - O Passeio Turístico
-  - [ ] [1511](https://www.urionlinejudge.com.br/judge/pt/problems/view/1511) - Tabuleiro GCD
-  - [ ] [1512](https://www.urionlinejudge.com.br/judge/pt/problems/view/1512) - Azulejos
-  - [ ] [1513](https://www.urionlinejudge.com.br/judge/pt/problems/view/1513) - Cavalo
-  - [ ] [1514](https://www.urionlinejudge.com.br/judge/pt/problems/view/1514) - Competição
-  - [ ] [1515](https://www.urionlinejudge.com.br/judge/pt/problems/view/1515) - Hello Galaxy
-  - [ ] [1516](https://www.urionlinejudge.com.br/judge/pt/problems/view/1516) - Imagem
-  - [ ] [1517](https://www.urionlinejudge.com.br/judge/pt/problems/view/1517) - Maçãs
-  - [ ] [1518](https://www.urionlinejudge.com.br/judge/pt/problems/view/1518) - Tartarugas
-  - [ ] [1519](https://www.urionlinejudge.com.br/judge/pt/problems/view/1519) - Abreviações
-  - [ ] [1520](https://www.urionlinejudge.com.br/judge/pt/problems/view/1520) - Parafusos e Porcas
-  - [ ] [1521](https://www.urionlinejudge.com.br/judge/pt/problems/view/1521) - O Culpado
-  - [ ] [1522](https://www.urionlinejudge.com.br/judge/pt/problems/view/1522) - Jogo das Pilhas
-  - [ ] [1523](https://www.urionlinejudge.com.br/judge/pt/problems/view/1523) - Estacionamento Linear
-  - [ ] [1524](https://www.urionlinejudge.com.br/judge/pt/problems/view/1524) - Fila do Bandejão
-  - [ ] [1525](https://www.urionlinejudge.com.br/judge/pt/problems/view/1525) - Gruntz
-  - [ ] [1526](https://www.urionlinejudge.com.br/judge/pt/problems/view/1526) - Transportando Lanches
-  - [ ] [1527](https://www.urionlinejudge.com.br/judge/pt/problems/view/1527) - Guildas
-  - [ ] [1528](https://www.urionlinejudge.com.br/judge/pt/problems/view/1528) - Cordas Emaranhadas
-  - [ ] [1529](https://www.urionlinejudge.com.br/judge/pt/problems/view/1529) - Max, o Louco
-  - [ ] [1530](https://www.urionlinejudge.com.br/judge/pt/problems/view/1530) - Quantas Substrings?
-  - [ ] [1531](https://www.urionlinejudge.com.br/judge/pt/problems/view/1531) - Fibonacci de Novo!
-  - [ ] [1532](https://www.urionlinejudge.com.br/judge/pt/problems/view/1532) - Arremesso de Bolas
-  - [ ] [1533](https://www.urionlinejudge.com.br/judge/pt/problems/view/1533) - Detetive Watson
-  - [ ] [1534](https://www.urionlinejudge.com.br/judge/pt/problems/view/1534) - Matriz 123
-  - [ ] [1535](https://www.urionlinejudge.com.br/judge/pt/problems/view/1535) - Números Casal-Solteirão-Solteirona
-  - [ ] [1536](https://www.urionlinejudge.com.br/judge/pt/problems/view/1536) - Libertadores
-  - [ ] [1537](https://www.urionlinejudge.com.br/judge/pt/problems/view/1537) - Fila do Banco
-  - [ ] [1538](https://www.urionlinejudge.com.br/judge/pt/problems/view/1538) - Sequência Alienígena
-  - [ ] [1539](https://www.urionlinejudge.com.br/judge/pt/problems/view/1539) - Empresa de Telecom
-  - [ ] [1540](https://www.urionlinejudge.com.br/judge/pt/problems/view/1540) - Planejando a Energia
-  - [ ] [1541](https://www.urionlinejudge.com.br/judge/pt/problems/view/1541) - Construindo Casas
-  - [ ] [1542](https://www.urionlinejudge.com.br/judge/pt/problems/view/1542) - Lendo Livros
-  - [ ] [1543](https://www.urionlinejudge.com.br/judge/pt/problems/view/1543) - Quadro Premiado
-  - [ ] [1544](https://www.urionlinejudge.com.br/judge/pt/problems/view/1544) - O Último Dígito Não-Zero
-  - [ ] [1545](https://www.urionlinejudge.com.br/judge/pt/problems/view/1545) - Cartões II
-  - [ ] [1546](https://www.urionlinejudge.com.br/judge/pt/problems/view/1546) - Feedback
-  - [ ] [1547](https://www.urionlinejudge.com.br/judge/pt/problems/view/1547) - Adivinha
-  - [ ] [1548](https://www.urionlinejudge.com.br/judge/pt/problems/view/1548) - Fila do Recreio
-  - [ ] [1549](https://www.urionlinejudge.com.br/judge/pt/problems/view/1549) - Dividindo a Coca
-  - [ ] [1550](https://www.urionlinejudge.com.br/judge/pt/problems/view/1550) - Inversão
-  - [ ] [1551](https://www.urionlinejudge.com.br/judge/pt/problems/view/1551) - Frase Completa
-  - [ ] [1552](https://www.urionlinejudge.com.br/judge/pt/problems/view/1552) - Resgate em Queda Livre
-  - [ ] [1553](https://www.urionlinejudge.com.br/judge/pt/problems/view/1553) - Perguntas mais Frequentes
-  - [ ] [1554](https://www.urionlinejudge.com.br/judge/pt/problems/view/1554) - Bilhar N+1
-  - [ ] [1555](https://www.urionlinejudge.com.br/judge/pt/problems/view/1555) - Funções
-  - [ ] [1556](https://www.urionlinejudge.com.br/judge/pt/problems/view/1556) - Removendo Letras
-  - [ ] [1557](https://www.urionlinejudge.com.br/judge/pt/problems/view/1557) - Matriz Quadrada III
-  - [ ] [1558](https://www.urionlinejudge.com.br/judge/pt/problems/view/1558) - Soma de Dois Quadrados
-  - [ ] [1559](https://www.urionlinejudge.com.br/judge/pt/problems/view/1559) - 2048
-  - [ ] [1560](https://www.urionlinejudge.com.br/judge/pt/problems/view/1560) - Energia dos Triângulos
-  - [ ] [1561](https://www.urionlinejudge.com.br/judge/pt/problems/view/1561) - Relógio Binário
-  - [ ] [1562](https://www.urionlinejudge.com.br/judge/pt/problems/view/1562) - Escolhendo as Duplas
-  - [ ] [1563](https://www.urionlinejudge.com.br/judge/pt/problems/view/1563) - O Grande Problema
-  - [ ] [1564](https://www.urionlinejudge.com.br/judge/pt/problems/view/1564) - Vai Ter Copa?
-  - [ ] [1565](https://www.urionlinejudge.com.br/judge/pt/problems/view/1565) - Ligue os Pontos
-  - [ ] [1566](https://www.urionlinejudge.com.br/judge/pt/problems/view/1566) - Altura
-  - [ ] [1567](https://www.urionlinejudge.com.br/judge/pt/problems/view/1567) - (2/3/4)-D Sqr/Rects/Cubes/Boxes?
-  - [ ] [1568](https://www.urionlinejudge.com.br/judge/pt/problems/view/1568) - {soma+=i++} até N
-  - [ ] [1569](https://www.urionlinejudge.com.br/judge/pt/problems/view/1569) - Sobe e Desce
-  - [ ] [1570](https://www.urionlinejudge.com.br/judge/pt/problems/view/1570) - Um Dia na Terra da Matemática
-  - [ ] [1571](https://www.urionlinejudge.com.br/judge/pt/problems/view/1571) - Um Quadrado &amp; Triângulos Equiláteros
-  - [ ] [1572](https://www.urionlinejudge.com.br/judge/pt/problems/view/1572) - O Torneio Surreal
-  - [ ] [1573](https://www.urionlinejudge.com.br/judge/pt/problems/view/1573) - Fábrica de Chocolate
-  - [ ] [1574](https://www.urionlinejudge.com.br/judge/pt/problems/view/1574) - Instruções do Robô
-  - [ ] [1575](https://www.urionlinejudge.com.br/judge/pt/problems/view/1575) - Perseguindo Don Giovanni
-  - [ ] [1576](https://www.urionlinejudge.com.br/judge/pt/problems/view/1576) - O Problema da Linha do Horizonte
-  - [ ] [1577](https://www.urionlinejudge.com.br/judge/pt/problems/view/1577) - Polígonos Regulares Construtíveis
-  - [ ] [1578](https://www.urionlinejudge.com.br/judge/pt/problems/view/1578) - Matriz de Quadrados
-  - [ ] [1579](https://www.urionlinejudge.com.br/judge/pt/problems/view/1579) - Transporte de Painéis Solares
-  - [ ] [1580](https://www.urionlinejudge.com.br/judge/pt/problems/view/1580) - Quid Est Veritas? Est Vir Qui Adest!
-  - [ ] [1581](https://www.urionlinejudge.com.br/judge/pt/problems/view/1581) - Conversa Internacional
-  - [ ] [1582](https://www.urionlinejudge.com.br/judge/pt/problems/view/1582) - O Teorema de Pitágoras
-  - [ ] [1583](https://www.urionlinejudge.com.br/judge/pt/problems/view/1583) - Contaminação
-  - [ ] [1584](https://www.urionlinejudge.com.br/judge/pt/problems/view/1584) - Espertofone
-  - [ ] [1585](https://www.urionlinejudge.com.br/judge/pt/problems/view/1585) - Fazendo Pandorgas
-  - [ ] [1586](https://www.urionlinejudge.com.br/judge/pt/problems/view/1586) - Cabo de Guerra
-  - [ ] [1587](https://www.urionlinejudge.com.br/judge/pt/problems/view/1587) - BIT Park
-  - [ ] [1588](https://www.urionlinejudge.com.br/judge/pt/problems/view/1588) - Ajude a Federação
-  - [ ] [1589](https://www.urionlinejudge.com.br/judge/pt/problems/view/1589) - Bob Conduite
-  - [ ] [1590](https://www.urionlinejudge.com.br/judge/pt/problems/view/1590) - Cuarenta e Dois
-  - [ ] [1591](https://www.urionlinejudge.com.br/judge/pt/problems/view/1591) - Dia da Vovó
-  - [ ] [1592](https://www.urionlinejudge.com.br/judge/pt/problems/view/1592) - Elias e Golias
-  - [ ] [1593](https://www.urionlinejudge.com.br/judge/pt/problems/view/1593) - Função Binária
-  - [ ] [1594](https://www.urionlinejudge.com.br/judge/pt/problems/view/1594) - Guloso
-  - [ ] [1595](https://www.urionlinejudge.com.br/judge/pt/problems/view/1595) - Humm.. Andar ou Correr.. Eis a Questão
-  - [ ] [1596](https://www.urionlinejudge.com.br/judge/pt/problems/view/1596) - Torneio de Yusuf II
-  - [ ] [1597](https://www.urionlinejudge.com.br/judge/pt/problems/view/1597) - Desmascarando o Empregado do Sultão
-  - [ ] [1598](https://www.urionlinejudge.com.br/judge/pt/problems/view/1598) - O Verdadeiro Valor dos Tapetes
-  - [ ] [1599](https://www.urionlinejudge.com.br/judge/pt/problems/view/1599) - Picos do Átlas
-  - [ ] [1600](https://www.urionlinejudge.com.br/judge/pt/problems/view/1600) - O Gato do Zelador do Armazém
+  - [ ] [1501](https://www.urionlinejudge.com.br/judge/pt/problems/view/1501) - Quantos Zeros e Quantos Dígitos? *Matemática*
+  - [ ] [1502](https://www.urionlinejudge.com.br/judge/pt/problems/view/1502) - Travessia *Grafos*
+  - [ ] [1503](https://www.urionlinejudge.com.br/judge/pt/problems/view/1503) - Maior Palíndromo Comum Você Deve Encontrar *Strings*
+  - [ ] [1504](https://www.urionlinejudge.com.br/judge/pt/problems/view/1504) - Curo Railroad *Geometria Computacional*
+  - [ ] [1505](https://www.urionlinejudge.com.br/judge/pt/problems/view/1505) - Curo Factories *Matemática*
+  - [ ] [1506](https://www.urionlinejudge.com.br/judge/pt/problems/view/1506) - Rabito e Bones *Grafos*
+  - [ ] [1507](https://www.urionlinejudge.com.br/judge/pt/problems/view/1507) - Subsequências *Estruturas e Bibliotecas*
+  - [ ] [1508](https://www.urionlinejudge.com.br/judge/pt/problems/view/1508) - Raio Laser *Ad-Hoc*
+  - [ ] [1509](https://www.urionlinejudge.com.br/judge/pt/problems/view/1509) - Contando Ambiguidades *Paradigmas*
+  - [ ] [1510](https://www.urionlinejudge.com.br/judge/pt/problems/view/1510) - O Passeio Turístico *Paradigmas*
+  - [ ] [1511](https://www.urionlinejudge.com.br/judge/pt/problems/view/1511) - Tabuleiro GCD *Estruturas e Bibliotecas*
+  - [ ] [1512](https://www.urionlinejudge.com.br/judge/pt/problems/view/1512) - Azulejos *Matemática*
+  - [ ] [1513](https://www.urionlinejudge.com.br/judge/pt/problems/view/1513) - Cavalo *Paradigmas*
+  - [ ] [1514](https://www.urionlinejudge.com.br/judge/pt/problems/view/1514) - Competição *Ad-Hoc*
+  - [ ] [1515](https://www.urionlinejudge.com.br/judge/pt/problems/view/1515) - Hello Galaxy *Ad-Hoc*
+  - [ ] [1516](https://www.urionlinejudge.com.br/judge/pt/problems/view/1516) - Imagem *Strings*
+  - [ ] [1517](https://www.urionlinejudge.com.br/judge/pt/problems/view/1517) - Maçãs *Paradigmas*
+  - [ ] [1518](https://www.urionlinejudge.com.br/judge/pt/problems/view/1518) - Tartarugas *Ad-Hoc*
+  - [ ] [1519](https://www.urionlinejudge.com.br/judge/pt/problems/view/1519) - Abreviações *Strings*
+  - [ ] [1520](https://www.urionlinejudge.com.br/judge/pt/problems/view/1520) - Parafusos e Porcas *Estruturas e Bibliotecas*
+  - [ ] [1521](https://www.urionlinejudge.com.br/judge/pt/problems/view/1521) - O Culpado *Ad-Hoc*
+  - [ ] [1522](https://www.urionlinejudge.com.br/judge/pt/problems/view/1522) - Jogo das Pilhas *Paradigmas*
+  - [ ] [1523](https://www.urionlinejudge.com.br/judge/pt/problems/view/1523) - Estacionamento Linear *Estruturas e Bibliotecas*
+  - [ ] [1524](https://www.urionlinejudge.com.br/judge/pt/problems/view/1524) - Fila do Bandejão *Paradigmas*
+  - [ ] [1525](https://www.urionlinejudge.com.br/judge/pt/problems/view/1525) - Gruntz *Grafos*
+  - [ ] [1526](https://www.urionlinejudge.com.br/judge/pt/problems/view/1526) - Transportando Lanches *Matemática*
+  - [ ] [1527](https://www.urionlinejudge.com.br/judge/pt/problems/view/1527) - Guildas *Estruturas e Bibliotecas*
+  - [ ] [1528](https://www.urionlinejudge.com.br/judge/pt/problems/view/1528) - Cordas Emaranhadas *Ad-Hoc*
+  - [ ] [1529](https://www.urionlinejudge.com.br/judge/pt/problems/view/1529) - Max, o Louco *Grafos*
+  - [ ] [1530](https://www.urionlinejudge.com.br/judge/pt/problems/view/1530) - Quantas Substrings? *Strings*
+  - [ ] [1531](https://www.urionlinejudge.com.br/judge/pt/problems/view/1531) - Fibonacci de Novo! *Matemática*
+  - [ ] [1532](https://www.urionlinejudge.com.br/judge/pt/problems/view/1532) - Arremesso de Bolas *Ad-Hoc*
+  - [ ] [1533](https://www.urionlinejudge.com.br/judge/pt/problems/view/1533) - Detetive Watson *Ad-Hoc*
+  - [ ] [1534](https://www.urionlinejudge.com.br/judge/pt/problems/view/1534) - Matriz 123 *Iniciante*
+  - [ ] [1535](https://www.urionlinejudge.com.br/judge/pt/problems/view/1535) - Números Casal-Solteirão-Solteirona *Estruturas e Bibliotecas*
+  - [ ] [1536](https://www.urionlinejudge.com.br/judge/pt/problems/view/1536) - Libertadores *Ad-Hoc*
+  - [ ] [1537](https://www.urionlinejudge.com.br/judge/pt/problems/view/1537) - Fila do Banco *Matemática*
+  - [ ] [1538](https://www.urionlinejudge.com.br/judge/pt/problems/view/1538) - Sequência Alienígena *Estruturas e Bibliotecas*
+  - [ ] [1539](https://www.urionlinejudge.com.br/judge/pt/problems/view/1539) - Empresa de Telecom *Grafos*
+  - [ ] [1540](https://www.urionlinejudge.com.br/judge/pt/problems/view/1540) - Planejando a Energia *Ad-Hoc*
+  - [ ] [1541](https://www.urionlinejudge.com.br/judge/pt/problems/view/1541) - Construindo Casas *Iniciante*
+  - [ ] [1542](https://www.urionlinejudge.com.br/judge/pt/problems/view/1542) - Lendo Livros *Ad-Hoc*
+  - [ ] [1543](https://www.urionlinejudge.com.br/judge/pt/problems/view/1543) - Quadro Premiado *Paradigmas*
+  - [ ] [1544](https://www.urionlinejudge.com.br/judge/pt/problems/view/1544) - O Último Dígito Não-Zero *Matemática*
+  - [ ] [1545](https://www.urionlinejudge.com.br/judge/pt/problems/view/1545) - Cartões II *Paradigmas*
+  - [ ] [1546](https://www.urionlinejudge.com.br/judge/pt/problems/view/1546) - Feedback *Ad-Hoc*
+  - [ ] [1547](https://www.urionlinejudge.com.br/judge/pt/problems/view/1547) - Adivinha *Ad-Hoc*
+  - [ ] [1548](https://www.urionlinejudge.com.br/judge/pt/problems/view/1548) - Fila do Recreio *Estruturas e Bibliotecas*
+  - [ ] [1549](https://www.urionlinejudge.com.br/judge/pt/problems/view/1549) - Dividindo a Coca *Geometria Computacional*
+  - [ ] [1550](https://www.urionlinejudge.com.br/judge/pt/problems/view/1550) - Inversão *Grafos*
+  - [ ] [1551](https://www.urionlinejudge.com.br/judge/pt/problems/view/1551) - Frase Completa *Strings*
+  - [ ] [1552](https://www.urionlinejudge.com.br/judge/pt/problems/view/1552) - Resgate em Queda Livre *Grafos*
+  - [ ] [1553](https://www.urionlinejudge.com.br/judge/pt/problems/view/1553) - Perguntas mais Frequentes *Ad-Hoc*
+  - [ ] [1554](https://www.urionlinejudge.com.br/judge/pt/problems/view/1554) - Bilhar N+1 *Matemática*
+  - [ ] [1555](https://www.urionlinejudge.com.br/judge/pt/problems/view/1555) - Funções *Matemática*
+  - [ ] [1556](https://www.urionlinejudge.com.br/judge/pt/problems/view/1556) - Removendo Letras *Strings*
+  - [ ] [1557](https://www.urionlinejudge.com.br/judge/pt/problems/view/1557) - Matriz Quadrada III *Iniciante*
+  - [ ] [1558](https://www.urionlinejudge.com.br/judge/pt/problems/view/1558) - Soma de Dois Quadrados *Ad-Hoc*
+  - [ ] [1559](https://www.urionlinejudge.com.br/judge/pt/problems/view/1559) - 2048 *Ad-Hoc*
+  - [ ] [1560](https://www.urionlinejudge.com.br/judge/pt/problems/view/1560) - Energia dos Triângulos *Geometria Computacional*
+  - [ ] [1561](https://www.urionlinejudge.com.br/judge/pt/problems/view/1561) - Relógio Binário *Ad-Hoc*
+  - [ ] [1562](https://www.urionlinejudge.com.br/judge/pt/problems/view/1562) - Escolhendo as Duplas *Grafos*
+  - [ ] [1563](https://www.urionlinejudge.com.br/judge/pt/problems/view/1563) - O Grande Problema *Matemática*
+  - [ ] [1564](https://www.urionlinejudge.com.br/judge/pt/problems/view/1564) - Vai Ter Copa? *Iniciante*
+  - [ ] [1565](https://www.urionlinejudge.com.br/judge/pt/problems/view/1565) - Ligue os Pontos *Paradigmas*
+  - [ ] [1566](https://www.urionlinejudge.com.br/judge/pt/problems/view/1566) - Altura *Estruturas e Bibliotecas*
+  - [ ] [1567](https://www.urionlinejudge.com.br/judge/pt/problems/view/1567) - (2/3/4)-D Sqr/Rects/Cubes/Boxes? *Matemática*
+  - [ ] [1568](https://www.urionlinejudge.com.br/judge/pt/problems/view/1568) - {soma+=i++} até N *Matemática*
+  - [ ] [1569](https://www.urionlinejudge.com.br/judge/pt/problems/view/1569) - Sobe e Desce *Ad-Hoc*
+  - [ ] [1570](https://www.urionlinejudge.com.br/judge/pt/problems/view/1570) - Um Dia na Terra da Matemática *Matemática*
+  - [ ] [1571](https://www.urionlinejudge.com.br/judge/pt/problems/view/1571) - Um Quadrado &amp; Triângulos Equiláteros *Geometria Computacional*
+  - [ ] [1572](https://www.urionlinejudge.com.br/judge/pt/problems/view/1572) - O Torneio Surreal *Matemática*
+  - [ ] [1573](https://www.urionlinejudge.com.br/judge/pt/problems/view/1573) - Fábrica de Chocolate *Ad-Hoc*
+  - [ ] [1574](https://www.urionlinejudge.com.br/judge/pt/problems/view/1574) - Instruções do Robô *Ad-Hoc*
+  - [ ] [1575](https://www.urionlinejudge.com.br/judge/pt/problems/view/1575) - Perseguindo Don Giovanni *Ad-Hoc*
+  - [ ] [1576](https://www.urionlinejudge.com.br/judge/pt/problems/view/1576) - O Problema da Linha do Horizonte *Ad-Hoc*
+  - [ ] [1577](https://www.urionlinejudge.com.br/judge/pt/problems/view/1577) - Polígonos Regulares Construtíveis *Matemática*
+  - [ ] [1578](https://www.urionlinejudge.com.br/judge/pt/problems/view/1578) - Matriz de Quadrados *Ad-Hoc*
+  - [ ] [1579](https://www.urionlinejudge.com.br/judge/pt/problems/view/1579) - Transporte de Painéis Solares *Paradigmas*
+  - [ ] [1580](https://www.urionlinejudge.com.br/judge/pt/problems/view/1580) - Quid Est Veritas? Est Vir Qui Adest! *Matemática*
+  - [ ] [1581](https://www.urionlinejudge.com.br/judge/pt/problems/view/1581) - Conversa Internacional *Strings*
+  - [ ] [1582](https://www.urionlinejudge.com.br/judge/pt/problems/view/1582) - O Teorema de Pitágoras *Matemática*
+  - [ ] [1583](https://www.urionlinejudge.com.br/judge/pt/problems/view/1583) - Contaminação *Ad-Hoc*
+  - [ ] [1584](https://www.urionlinejudge.com.br/judge/pt/problems/view/1584) - Espertofone *Grafos*
+  - [ ] [1585](https://www.urionlinejudge.com.br/judge/pt/problems/view/1585) - Fazendo Pandorgas *Ad-Hoc*
+  - [ ] [1586](https://www.urionlinejudge.com.br/judge/pt/problems/view/1586) - Cabo de Guerra *Strings*
+  - [ ] [1587](https://www.urionlinejudge.com.br/judge/pt/problems/view/1587) - BIT Park *Estruturas e Bibliotecas*
+  - [ ] [1588](https://www.urionlinejudge.com.br/judge/pt/problems/view/1588) - Ajude a Federação *Ad-Hoc*
+  - [ ] [1589](https://www.urionlinejudge.com.br/judge/pt/problems/view/1589) - Bob Conduite *Iniciante*
+  - [ ] [1590](https://www.urionlinejudge.com.br/judge/pt/problems/view/1590) - Cuarenta e Dois *Paradigmas*
+  - [ ] [1591](https://www.urionlinejudge.com.br/judge/pt/problems/view/1591) - Dia da Vovó *Ad-Hoc*
+  - [ ] [1592](https://www.urionlinejudge.com.br/judge/pt/problems/view/1592) - Elias e Golias *Grafos*
+  - [ ] [1593](https://www.urionlinejudge.com.br/judge/pt/problems/view/1593) - Função Binária *Ad-Hoc*
+  - [ ] [1594](https://www.urionlinejudge.com.br/judge/pt/problems/view/1594) - Guloso *Estruturas e Bibliotecas*
+  - [ ] [1595](https://www.urionlinejudge.com.br/judge/pt/problems/view/1595) - Humm.. Andar ou Correr.. Eis a Questão *Paradigmas*
+  - [ ] [1596](https://www.urionlinejudge.com.br/judge/pt/problems/view/1596) - Torneio de Yusuf II *Paradigmas*
+  - [ ] [1597](https://www.urionlinejudge.com.br/judge/pt/problems/view/1597) - Desmascarando o Empregado do Sultão *Paradigmas*
+  - [ ] [1598](https://www.urionlinejudge.com.br/judge/pt/problems/view/1598) - O Verdadeiro Valor dos Tapetes *Paradigmas*
+  - [ ] [1599](https://www.urionlinejudge.com.br/judge/pt/problems/view/1599) - Picos do Átlas *Paradigmas*
+  - [ ] [1600](https://www.urionlinejudge.com.br/judge/pt/problems/view/1600) - O Gato do Zelador do Armazém *Paradigmas*

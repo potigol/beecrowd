@@ -1,4 +1,4 @@
-# Ad-Hoc (10 / 624)
+# Ad-Hoc (10 / 633)
 
   - [ ] [1026](https://www.urionlinejudge.com.br/judge/pt/problems/view/1026) - Carrega ou não Carrega?
   - [ ] [1030](https://www.urionlinejudge.com.br/judge/pt/problems/view/1030) - A Lenda de Flavious Josephus
@@ -614,6 +614,15 @@
   - [ ] [2913](https://www.urionlinejudge.com.br/judge/pt/problems/view/2913) - KryptoLocker Ate my Homework
   - [ ] [2914](https://www.urionlinejudge.com.br/judge/pt/problems/view/2914) - Looking for the Risk Factor
   - [ ] [2915](https://www.urionlinejudge.com.br/judge/pt/problems/view/2915) - Mount Marathon
+  - [ ] [2922](https://www.urionlinejudge.com.br/judge/pt/problems/view/2922) - Salas De Aula
+  - [ ] [2923](https://www.urionlinejudge.com.br/judge/pt/problems/view/2923) - Birinho
+  - [ ] [2924](https://www.urionlinejudge.com.br/judge/pt/problems/view/2924) - BigInt
+  - [ ] [2925](https://www.urionlinejudge.com.br/judge/pt/problems/view/2925) - Sequência IccanobiF
+  - [ ] [2926](https://www.urionlinejudge.com.br/judge/pt/problems/view/2926) - Então é Natal!
+  - [ ] [2927](https://www.urionlinejudge.com.br/judge/pt/problems/view/2927) - Imprevistos Natalinos
+  - [ ] [2928](https://www.urionlinejudge.com.br/judge/pt/problems/view/2928) - Cruzando Lagos
+  - [ ] [2931](https://www.urionlinejudge.com.br/judge/pt/problems/view/2931) - Presentes Suspeitos
+  - [ ] [2935](https://www.urionlinejudge.com.br/judge/pt/problems/view/2935) - DNA Élfico
   - [x] [1794](https://www.urionlinejudge.com.br/judge/pt/problems/view/1794) - [Lavanderia](src/1701-1800/1794.poti)
   - [x] [2345](https://www.urionlinejudge.com.br/judge/pt/problems/view/2345) - [Assigning Teams](src/2301-2400/2345.poti)
   - [x] [2397](https://www.urionlinejudge.com.br/judge/pt/problems/view/2397) - [Triângulos](src/2301-2400/2397.poti)
