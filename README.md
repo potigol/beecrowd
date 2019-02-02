@@ -34,12 +34,10 @@ Soluções dos problemas do [URI Online Judge](https://www.urionlinejudge.com.br
 [2801 - 2900](src/2801-2900) |
 [2901 - 3000](src/2901-3000) 
 
-### Problema da Maratona de Programação
+### Competições de Programação
 
-[2018 Final](https://www.urionlinejudge.com.br/judge/pt/problems/origin/167) |
-[2018 Regional](https://www.urionlinejudge.com.br/judge/pt/problems/origin/165) |
-[2017 Final](https://www.urionlinejudge.com.br/judge/pt/problems/origin/152) |
-[2017 Regional](https://www.urionlinejudge.com.br/judge/pt/problems/origin/148)
+  - [Maratona de Programação da SBC/ACM](maratona.md)
+  - [Olimpíada Brasileira de Programação](obi.md)
 
 ## Contribua
 
