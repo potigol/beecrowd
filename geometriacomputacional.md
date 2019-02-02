@@ -1,72 +1,72 @@
 # Geometria Computacional (0 / 70)
 
-  - [ ] [2891](https://www.urionlinejudge.com.br/judge/pt/problems/view/2891) - Um Problema com Final Feliz
-  - [ ] [2840](https://www.urionlinejudge.com.br/judge/pt/problems/view/2840) - Balão++
-  - [ ] [2773](https://www.urionlinejudge.com.br/judge/pt/problems/view/2773) - Menor Caminho
-  - [ ] [2665](https://www.urionlinejudge.com.br/judge/pt/problems/view/2665) - Hipercampo
-  - [ ] [2561](https://www.urionlinejudge.com.br/judge/pt/problems/view/2561) - Tesouro
-  - [ ] [2541](https://www.urionlinejudge.com.br/judge/pt/problems/view/2541) - Ingrest
-  - [ ] [2525](https://www.urionlinejudge.com.br/judge/pt/problems/view/2525) - Cacheiro Viajante
-  - [ ] [2521](https://www.urionlinejudge.com.br/judge/pt/problems/view/2521) - Pergunte à Geógrafa
-  - [ ] [2518](https://www.urionlinejudge.com.br/judge/pt/problems/view/2518) - Escada do DINF
-  - [ ] [2517](https://www.urionlinejudge.com.br/judge/pt/problems/view/2517) - Desafio PoGro
-  - [ ] [2362](https://www.urionlinejudge.com.br/judge/pt/problems/view/2362) - Invasão Alienígena
-  - [ ] [2245](https://www.urionlinejudge.com.br/judge/pt/problems/view/2245) - Kit de Encolhimento de Polígonos
-  - [ ] [2158](https://www.urionlinejudge.com.br/judge/pt/problems/view/2158) - Ajudando o Tio Cláudio
-  - [ ] [2104](https://www.urionlinejudge.com.br/judge/pt/problems/view/2104) - Lasers
-  - [ ] [2094](https://www.urionlinejudge.com.br/judge/pt/problems/view/2094) - Flores
-  - [ ] [2083](https://www.urionlinejudge.com.br/judge/pt/problems/view/2083) - Beira da Estrada
-  - [ ] [2045](https://www.urionlinejudge.com.br/judge/pt/problems/view/2045) - Defendendo Alamo
-  - [ ] [2043](https://www.urionlinejudge.com.br/judge/pt/problems/view/2043) - Montanha Alta
-  - [ ] [1991](https://www.urionlinejudge.com.br/judge/pt/problems/view/1991) - Fábrica de Pontes
-  - [ ] [1982](https://www.urionlinejudge.com.br/judge/pt/problems/view/1982) - Novos Computadores
-  - [ ] [1971](https://www.urionlinejudge.com.br/judge/pt/problems/view/1971) - Insurreição
-  - [ ] [1938](https://www.urionlinejudge.com.br/judge/pt/problems/view/1938) - Praça do Retângulo
-  - [ ] [1875](https://www.urionlinejudge.com.br/judge/pt/problems/view/1875) - Tribol
-  - [ ] [1857](https://www.urionlinejudge.com.br/judge/pt/problems/view/1857) - Prelúdio de um Casamento Vermelho
-  - [ ] [1844](https://www.urionlinejudge.com.br/judge/pt/problems/view/1844) - As Relíquias da Morte
-  - [ ] [1834](https://www.urionlinejudge.com.br/judge/pt/problems/view/1834) - Vogons!
-  - [ ] [1825](https://www.urionlinejudge.com.br/judge/pt/problems/view/1825) - Formigando
-  - [ ] [1818](https://www.urionlinejudge.com.br/judge/pt/problems/view/1818) - Centro de Convenções
-  - [ ] [1797](https://www.urionlinejudge.com.br/judge/pt/problems/view/1797) - Ferozes e Curiosos
-  - [ ] [1783](https://www.urionlinejudge.com.br/judge/pt/problems/view/1783) - Ih, Ferrou, um Buraco Negro!
-  - [ ] [1748](https://www.urionlinejudge.com.br/judge/pt/problems/view/1748) - Cerque Os Vegetais
-  - [ ] [1730](https://www.urionlinejudge.com.br/judge/pt/problems/view/1730) - Global Roaming
-  - [ ] [1721](https://www.urionlinejudge.com.br/judge/pt/problems/view/1721) - Equidistância
-  - [ ] [1693](https://www.urionlinejudge.com.br/judge/pt/problems/view/1693) - Apenas Outro Problema de Física
-  - [ ] [1679](https://www.urionlinejudge.com.br/judge/pt/problems/view/1679) - Bebida, com Gelo
-  - [ ] [1665](https://www.urionlinejudge.com.br/judge/pt/problems/view/1665) - Decorando a Parede
-  - [ ] [1651](https://www.urionlinejudge.com.br/judge/pt/problems/view/1651) - Cilindro
-  - [ ] [1646](https://www.urionlinejudge.com.br/judge/pt/problems/view/1646) - Floresta
-  - [ ] [1631](https://www.urionlinejudge.com.br/judge/pt/problems/view/1631) - O Fantástico Bolo de Bobby
-  - [ ] [1613](https://www.urionlinejudge.com.br/judge/pt/problems/view/1613) - Goemon em Apuros
-  - [ ] [1571](https://www.urionlinejudge.com.br/judge/pt/problems/view/1571) - Um Quadrado &amp; Triângulos Equiláteros
-  - [ ] [1560](https://www.urionlinejudge.com.br/judge/pt/problems/view/1560) - Energia dos Triângulos
-  - [ ] [1549](https://www.urionlinejudge.com.br/judge/pt/problems/view/1549) - Dividindo a Coca
-  - [ ] [1504](https://www.urionlinejudge.com.br/judge/pt/problems/view/1504) - Curo Railroad
-  - [ ] [1497](https://www.urionlinejudge.com.br/judge/pt/problems/view/1497) - Esconde-Esconde
-  - [ ] [1468](https://www.urionlinejudge.com.br/judge/pt/problems/view/1468) - Balão
-  - [ ] [1464](https://www.urionlinejudge.com.br/judge/pt/problems/view/1464) - Camadas de Cebola
-  - [ ] [1455](https://www.urionlinejudge.com.br/judge/pt/problems/view/1455) - Final do ICPC
-  - [ ] [1446](https://www.urionlinejudge.com.br/judge/pt/problems/view/1446) - Diagrama de Venn?
-  - [ ] [1411](https://www.urionlinejudge.com.br/judge/pt/problems/view/1411) - Encolhendo Polígonos
-  - [ ] [1370](https://www.urionlinejudge.com.br/judge/pt/problems/view/1370) - Regata de Cientistas
-  - [ ] [1358](https://www.urionlinejudge.com.br/judge/pt/problems/view/1358) - Cortando Extremidades
-  - [ ] [1345](https://www.urionlinejudge.com.br/judge/pt/problems/view/1345) - Região Segura
-  - [ ] [1336](https://www.urionlinejudge.com.br/judge/pt/problems/view/1336) - Cerca do Jardim
-  - [ ] [1315](https://www.urionlinejudge.com.br/judge/pt/problems/view/1315) - Não tão Convexo
-  - [ ] [1296](https://www.urionlinejudge.com.br/judge/pt/problems/view/1296) - Medianas
-  - [ ] [1295](https://www.urionlinejudge.com.br/judge/pt/problems/view/1295) - Problema dos Pares Mais Próximos
-  - [ ] [1294](https://www.urionlinejudge.com.br/judge/pt/problems/view/1294) - A Maior e Menor Caixa
-  - [ ] [1293](https://www.urionlinejudge.com.br/judge/pt/problems/view/1293) - Romeu e Julieta!
-  - [ ] [1292](https://www.urionlinejudge.com.br/judge/pt/problems/view/1292) - Problema com um Pentágono
-  - [ ] [1291](https://www.urionlinejudge.com.br/judge/pt/problems/view/1291) - Será Isso Integração?
-  - [ ] [1268](https://www.urionlinejudge.com.br/judge/pt/problems/view/1268) - Missão Impossível
-  - [ ] [1223](https://www.urionlinejudge.com.br/judge/pt/problems/view/1223) - Tobogan de Bolinhas
-  - [ ] [1204](https://www.urionlinejudge.com.br/judge/pt/problems/view/1204) - Myachowski, o Futebol Russo
-  - [ ] [1137](https://www.urionlinejudge.com.br/judge/pt/problems/view/1137) - Pontos Cocirculares
-  - [ ] [1126](https://www.urionlinejudge.com.br/judge/pt/problems/view/1126) - Guerra nas Estrelas
-  - [ ] [1124](https://www.urionlinejudge.com.br/judge/pt/problems/view/1124) - Elevador
-  - [ ] [1108](https://www.urionlinejudge.com.br/judge/pt/problems/view/1108) - Torres de Telefonia Celular
-  - [ ] [1102](https://www.urionlinejudge.com.br/judge/pt/problems/view/1102) - Ataque Fulminante
   - [ ] [1039](https://www.urionlinejudge.com.br/judge/pt/problems/view/1039) - Flores de Fogo
+  - [ ] [1102](https://www.urionlinejudge.com.br/judge/pt/problems/view/1102) - Ataque Fulminante
+  - [ ] [1108](https://www.urionlinejudge.com.br/judge/pt/problems/view/1108) - Torres de Telefonia Celular
+  - [ ] [1124](https://www.urionlinejudge.com.br/judge/pt/problems/view/1124) - Elevador
+  - [ ] [1126](https://www.urionlinejudge.com.br/judge/pt/problems/view/1126) - Guerra nas Estrelas
+  - [ ] [1137](https://www.urionlinejudge.com.br/judge/pt/problems/view/1137) - Pontos Cocirculares
+  - [ ] [1204](https://www.urionlinejudge.com.br/judge/pt/problems/view/1204) - Myachowski, o Futebol Russo
+  - [ ] [1223](https://www.urionlinejudge.com.br/judge/pt/problems/view/1223) - Tobogan de Bolinhas
+  - [ ] [1268](https://www.urionlinejudge.com.br/judge/pt/problems/view/1268) - Missão Impossível
+  - [ ] [1291](https://www.urionlinejudge.com.br/judge/pt/problems/view/1291) - Será Isso Integração?
+  - [ ] [1292](https://www.urionlinejudge.com.br/judge/pt/problems/view/1292) - Problema com um Pentágono
+  - [ ] [1293](https://www.urionlinejudge.com.br/judge/pt/problems/view/1293) - Romeu e Julieta!
+  - [ ] [1294](https://www.urionlinejudge.com.br/judge/pt/problems/view/1294) - A Maior e Menor Caixa
+  - [ ] [1295](https://www.urionlinejudge.com.br/judge/pt/problems/view/1295) - Problema dos Pares Mais Próximos
+  - [ ] [1296](https://www.urionlinejudge.com.br/judge/pt/problems/view/1296) - Medianas
+  - [ ] [1315](https://www.urionlinejudge.com.br/judge/pt/problems/view/1315) - Não tão Convexo
+  - [ ] [1336](https://www.urionlinejudge.com.br/judge/pt/problems/view/1336) - Cerca do Jardim
+  - [ ] [1345](https://www.urionlinejudge.com.br/judge/pt/problems/view/1345) - Região Segura
+  - [ ] [1358](https://www.urionlinejudge.com.br/judge/pt/problems/view/1358) - Cortando Extremidades
+  - [ ] [1370](https://www.urionlinejudge.com.br/judge/pt/problems/view/1370) - Regata de Cientistas
+  - [ ] [1411](https://www.urionlinejudge.com.br/judge/pt/problems/view/1411) - Encolhendo Polígonos
+  - [ ] [1446](https://www.urionlinejudge.com.br/judge/pt/problems/view/1446) - Diagrama de Venn?
+  - [ ] [1455](https://www.urionlinejudge.com.br/judge/pt/problems/view/1455) - Final do ICPC
+  - [ ] [1464](https://www.urionlinejudge.com.br/judge/pt/problems/view/1464) - Camadas de Cebola
+  - [ ] [1468](https://www.urionlinejudge.com.br/judge/pt/problems/view/1468) - Balão
+  - [ ] [1497](https://www.urionlinejudge.com.br/judge/pt/problems/view/1497) - Esconde-Esconde
+  - [ ] [1504](https://www.urionlinejudge.com.br/judge/pt/problems/view/1504) - Curo Railroad
+  - [ ] [1549](https://www.urionlinejudge.com.br/judge/pt/problems/view/1549) - Dividindo a Coca
+  - [ ] [1560](https://www.urionlinejudge.com.br/judge/pt/problems/view/1560) - Energia dos Triângulos
+  - [ ] [1571](https://www.urionlinejudge.com.br/judge/pt/problems/view/1571) - Um Quadrado &amp; Triângulos Equiláteros
+  - [ ] [1613](https://www.urionlinejudge.com.br/judge/pt/problems/view/1613) - Goemon em Apuros
+  - [ ] [1631](https://www.urionlinejudge.com.br/judge/pt/problems/view/1631) - O Fantástico Bolo de Bobby
+  - [ ] [1646](https://www.urionlinejudge.com.br/judge/pt/problems/view/1646) - Floresta
+  - [ ] [1651](https://www.urionlinejudge.com.br/judge/pt/problems/view/1651) - Cilindro
+  - [ ] [1665](https://www.urionlinejudge.com.br/judge/pt/problems/view/1665) - Decorando a Parede
+  - [ ] [1679](https://www.urionlinejudge.com.br/judge/pt/problems/view/1679) - Bebida, com Gelo
+  - [ ] [1693](https://www.urionlinejudge.com.br/judge/pt/problems/view/1693) - Apenas Outro Problema de Física
+  - [ ] [1721](https://www.urionlinejudge.com.br/judge/pt/problems/view/1721) - Equidistância
+  - [ ] [1730](https://www.urionlinejudge.com.br/judge/pt/problems/view/1730) - Global Roaming
+  - [ ] [1748](https://www.urionlinejudge.com.br/judge/pt/problems/view/1748) - Cerque Os Vegetais
+  - [ ] [1783](https://www.urionlinejudge.com.br/judge/pt/problems/view/1783) - Ih, Ferrou, um Buraco Negro!
+  - [ ] [1797](https://www.urionlinejudge.com.br/judge/pt/problems/view/1797) - Ferozes e Curiosos
+  - [ ] [1818](https://www.urionlinejudge.com.br/judge/pt/problems/view/1818) - Centro de Convenções
+  - [ ] [1825](https://www.urionlinejudge.com.br/judge/pt/problems/view/1825) - Formigando
+  - [ ] [1834](https://www.urionlinejudge.com.br/judge/pt/problems/view/1834) - Vogons!
+  - [ ] [1844](https://www.urionlinejudge.com.br/judge/pt/problems/view/1844) - As Relíquias da Morte
+  - [ ] [1857](https://www.urionlinejudge.com.br/judge/pt/problems/view/1857) - Prelúdio de um Casamento Vermelho
+  - [ ] [1875](https://www.urionlinejudge.com.br/judge/pt/problems/view/1875) - Tribol
+  - [ ] [1938](https://www.urionlinejudge.com.br/judge/pt/problems/view/1938) - Praça do Retângulo
+  - [ ] [1971](https://www.urionlinejudge.com.br/judge/pt/problems/view/1971) - Insurreição
+  - [ ] [1982](https://www.urionlinejudge.com.br/judge/pt/problems/view/1982) - Novos Computadores
+  - [ ] [1991](https://www.urionlinejudge.com.br/judge/pt/problems/view/1991) - Fábrica de Pontes
+  - [ ] [2043](https://www.urionlinejudge.com.br/judge/pt/problems/view/2043) - Montanha Alta
+  - [ ] [2045](https://www.urionlinejudge.com.br/judge/pt/problems/view/2045) - Defendendo Alamo
+  - [ ] [2083](https://www.urionlinejudge.com.br/judge/pt/problems/view/2083) - Beira da Estrada
+  - [ ] [2094](https://www.urionlinejudge.com.br/judge/pt/problems/view/2094) - Flores
+  - [ ] [2104](https://www.urionlinejudge.com.br/judge/pt/problems/view/2104) - Lasers
+  - [ ] [2158](https://www.urionlinejudge.com.br/judge/pt/problems/view/2158) - Ajudando o Tio Cláudio
+  - [ ] [2245](https://www.urionlinejudge.com.br/judge/pt/problems/view/2245) - Kit de Encolhimento de Polígonos
+  - [ ] [2362](https://www.urionlinejudge.com.br/judge/pt/problems/view/2362) - Invasão Alienígena
+  - [ ] [2517](https://www.urionlinejudge.com.br/judge/pt/problems/view/2517) - Desafio PoGro
+  - [ ] [2518](https://www.urionlinejudge.com.br/judge/pt/problems/view/2518) - Escada do DINF
+  - [ ] [2521](https://www.urionlinejudge.com.br/judge/pt/problems/view/2521) - Pergunte à Geógrafa
+  - [ ] [2525](https://www.urionlinejudge.com.br/judge/pt/problems/view/2525) - Cacheiro Viajante
+  - [ ] [2541](https://www.urionlinejudge.com.br/judge/pt/problems/view/2541) - Ingrest
+  - [ ] [2561](https://www.urionlinejudge.com.br/judge/pt/problems/view/2561) - Tesouro
+  - [ ] [2665](https://www.urionlinejudge.com.br/judge/pt/problems/view/2665) - Hipercampo
+  - [ ] [2773](https://www.urionlinejudge.com.br/judge/pt/problems/view/2773) - Menor Caminho
+  - [ ] [2840](https://www.urionlinejudge.com.br/judge/pt/problems/view/2840) - Balão++
+  - [ ] [2891](https://www.urionlinejudge.com.br/judge/pt/problems/view/2891) - Um Problema com Final Feliz
