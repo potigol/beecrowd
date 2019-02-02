@@ -25,27 +25,27 @@
   - [x] [1036](https://www.urionlinejudge.com.br/judge/pt/problems/view/1036) - [Fórmula de Bhaskara](src/1001-1100/1036.poti)
   - [x] [1037](https://www.urionlinejudge.com.br/judge/pt/problems/view/1037) - [Intervalo](src/1001-1100/1037.poti)
   - [x] [1038](https://www.urionlinejudge.com.br/judge/pt/problems/view/1038) - [Lanche](src/1001-1100/1038.poti)
-  - [ ] [1040](https://www.urionlinejudge.com.br/judge/pt/problems/view/1040) - Média 3
-  - [ ] [1041](https://www.urionlinejudge.com.br/judge/pt/problems/view/1041) - Coordenadas de um Ponto
-  - [ ] [1042](https://www.urionlinejudge.com.br/judge/pt/problems/view/1042) - Sort Simples
+  - [x] [1040](https://www.urionlinejudge.com.br/judge/pt/problems/view/1040) - [Média 3](src/1001-1100/1040.poti)
+  - [x] [1041](https://www.urionlinejudge.com.br/judge/pt/problems/view/1041) - [Coordenadas de um Ponto](src/1001-1100/1041.poti)
+  - [x] [1042](https://www.urionlinejudge.com.br/judge/pt/problems/view/1042) - [Sort Simples](src/1001-1100/1042.poti)
   - [x] [1043](https://www.urionlinejudge.com.br/judge/pt/problems/view/1043) - [Triângulo](src/1001-1100/1043.poti)
-  - [ ] [1044](https://www.urionlinejudge.com.br/judge/pt/problems/view/1044) - Múltiplos
+  - [x] [1044](https://www.urionlinejudge.com.br/judge/pt/problems/view/1044) - [Múltiplos](src/1001-1100/1044.poti)
   - [ ] [1045](https://www.urionlinejudge.com.br/judge/pt/problems/view/1045) - Tipos de Triângulos
-  - [ ] [1046](https://www.urionlinejudge.com.br/judge/pt/problems/view/1046) - Tempo de Jogo
+  - [x] [1046](https://www.urionlinejudge.com.br/judge/pt/problems/view/1046) - [Tempo de Jogo](src/1001-1100/1046.poti)
   - [ ] [1047](https://www.urionlinejudge.com.br/judge/pt/problems/view/1047) - Tempo de Jogo com Minutos
   - [x] [1048](https://www.urionlinejudge.com.br/judge/pt/problems/view/1048) - [Aumento de Salário](src/1001-1100/1048.poti)
   - [ ] [1049](https://www.urionlinejudge.com.br/judge/pt/problems/view/1049) - Animal
   - [x] [1050](https://www.urionlinejudge.com.br/judge/pt/problems/view/1050) - [DDD](src/1001-1100/1050.poti)
   - [ ] [1051](https://www.urionlinejudge.com.br/judge/pt/problems/view/1051) - Imposto de Renda
-  - [ ] [1052](https://www.urionlinejudge.com.br/judge/pt/problems/view/1052) - Mês
-  - [ ] [1059](https://www.urionlinejudge.com.br/judge/pt/problems/view/1059) - Números Pares
-  - [ ] [1060](https://www.urionlinejudge.com.br/judge/pt/problems/view/1060) - Números Positivos
+  - [x] [1052](https://www.urionlinejudge.com.br/judge/pt/problems/view/1052) - [Mês](src/1001-1100/1052.poti)
+  - [x] [1059](https://www.urionlinejudge.com.br/judge/pt/problems/view/1059) - [Números Pares](src/1001-1100/1059.poti)
+  - [x] [1060](https://www.urionlinejudge.com.br/judge/pt/problems/view/1060) - [Números Positivos](src/1001-1100/1060.poti)
   - [ ] [1061](https://www.urionlinejudge.com.br/judge/pt/problems/view/1061) - Tempo de um Evento
-  - [ ] [1064](https://www.urionlinejudge.com.br/judge/pt/problems/view/1064) - Positivos e Média
-  - [ ] [1065](https://www.urionlinejudge.com.br/judge/pt/problems/view/1065) - Pares entre Cinco Números
-  - [ ] [1066](https://www.urionlinejudge.com.br/judge/pt/problems/view/1066) - Pares, Ímpares, Positivos e Negativos
-  - [ ] [1067](https://www.urionlinejudge.com.br/judge/pt/problems/view/1067) - Números Ímpares
-  - [ ] [1070](https://www.urionlinejudge.com.br/judge/pt/problems/view/1070) - Seis Números Ímpares
+  - [x] [1064](https://www.urionlinejudge.com.br/judge/pt/problems/view/1064) - [Positivos e Média](src/1001-1100/1064.poti)
+  - [x] [1065](https://www.urionlinejudge.com.br/judge/pt/problems/view/1065) - [Pares entre Cinco Números](src/1001-1100/1065.poti)
+  - [x] [1066](https://www.urionlinejudge.com.br/judge/pt/problems/view/1066) - [Pares, Ímpares, Positivos e Negativos](src/1001-1100/1066.poti)
+  - [x] [1067](https://www.urionlinejudge.com.br/judge/pt/problems/view/1067) - [Números Ímpares](src/1001-1100/1067.poti)
+  - [x] [1070](https://www.urionlinejudge.com.br/judge/pt/problems/view/1070) - [Seis Números Ímpares](src/1001-1100/1070.poti)
   - [ ] [1071](https://www.urionlinejudge.com.br/judge/pt/problems/view/1071) - Soma de Impares Consecutivos I
   - [ ] [1072](https://www.urionlinejudge.com.br/judge/pt/problems/view/1072) - Intervalo 2
   - [ ] [1073](https://www.urionlinejudge.com.br/judge/pt/problems/view/1073) - Quadrado de Pares
