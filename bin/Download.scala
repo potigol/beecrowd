@@ -6,7 +6,7 @@ object Download extends App {
   def get(page: Int = 1) = {
     val ur = io.Source.fromURL(s"https://www.urionlinejudge.com.br/judge/pt/problems/all?page=${page}").getLines()
     val a = ur.map(_.trim).dropWhile(_ != "<tbody>").drop(1).takeWhile(_ != "</tbody>").filter(_ != "").grouped(13)
-    val c = for (b <- a if b.size>7) yield {
+    val c = for (b <- a if b(1).startsWith("<td class")) yield {
       Problem(
         b(2).drop(33).take(4).toInt,
         b(6).drop(39).takeWhile(_ != '<'),
@@ -14,7 +14,7 @@ object Download extends App {
     }
     c
   }
-  val all = for (i <- 1 to 76) yield {
+  val all = for (i <- 1 to 77) yield {
     println(i)
     get(i)
   }

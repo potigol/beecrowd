@@ -1898,3 +1898,21 @@
 2915	Mount Marathon	Ad-Hoc
 2916	A Nota	Estruturas e Bibliotecas
 2917	Barbante	Paradigmas
+2918	Dígitos Inteligentes	Paradigmas
+2919	Melhor Ordem	Paradigmas
+2920	Número Pequeno	Paradigmas
+2921	Quadros Alienígenas	Paradigmas
+2922	Salas De Aula	Ad-Hoc
+2923	Birinho	Ad-Hoc
+2924	BigInt	Ad-Hoc
+2925	Sequência IccanobiF	Ad-Hoc
+2926	Então é Natal!	Ad-Hoc
+2927	Imprevistos Natalinos	Ad-Hoc
+2928	Cruzando Lagos	Ad-Hoc
+2929	Menor da Pilha	Estruturas e Bibliotecas
+2930	TCC da Depressão Natalino	Iniciante
+2931	Presentes Suspeitos	Ad-Hoc
+2932	Renas do Papai Noel	Paradigmas
+2933	Passeio de Trenó pela Terra	Grafos
+2934	Noel e Suas Renas	Paradigmas
+2935	DNA Élfico	Ad-Hoc
