@@ -1,0 +1,3 @@
+para i em [1, 3, 5, 7, 9], j em [6, 5, 4] faça
+  escreva "I={i} J={i+j}"
+fim

@@ -1,0 +1,9 @@
+musicas = ["PROXYCITY","P.Y.N.G.","DNSUEY!","SERVERS",
+"HOST!","CRIPTONIZE","OFFLINE DAY","SALT","ANSWER!",
+"RAR?","WIFI ANTENNAS"]
+n = leia_inteiro
+para i de 1 até n faça
+  teclas = leia_inteiros(" ")
+  soma = teclas[1] + teclas[2] + 1
+  escreva musicas[soma]
+fim

@@ -1,0 +1,3 @@
+n = leia_inteiro
+fat = (para i de 1 até n gere i fim).injete(1)(_ * _)
+escreva fat

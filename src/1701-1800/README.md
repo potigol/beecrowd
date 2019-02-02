@@ -94,7 +94,7 @@
   - [ ] [1792](https://www.urionlinejudge.com.br/judge/pt/problems/view/1792) - Ataque Programado *Grafos*
   - [ ] [1793](https://www.urionlinejudge.com.br/judge/pt/problems/view/1793) - Escada Rolante *Ad-Hoc*
   - [x] [1794](https://www.urionlinejudge.com.br/judge/pt/problems/view/1794) - [Lavanderia](1794.poti) *Ad-Hoc*
-  - [ ] [1795](https://www.urionlinejudge.com.br/judge/pt/problems/view/1795) - Triângulo Trinomial *Matemática*
+  - [x] [1795](https://www.urionlinejudge.com.br/judge/pt/problems/view/1795) - [Triângulo Trinomial](1795.poti) *Matemática*
   - [ ] [1796](https://www.urionlinejudge.com.br/judge/pt/problems/view/1796) - Economia Brasileira *Ad-Hoc*
   - [ ] [1797](https://www.urionlinejudge.com.br/judge/pt/problems/view/1797) - Ferozes e Curiosos *Geometria Computacional*
   - [ ] [1798](https://www.urionlinejudge.com.br/judge/pt/problems/view/1798) - Cortando Canos *Paradigmas*

@@ -1,0 +1,11 @@
+n = leia_inteiro
+para i de 1 até n faça
+  x = leia_inteiro
+  se x ==  0 então
+    escreva "NULL"
+  senão
+    r = se x mod 2 == 0 então "EVEN" senão "ODD" fim
+    s = se x > 0 então "POSITIVE" senão "NEGATIVE" fim
+    escreva "{r} {s}"
+  fim
+fim

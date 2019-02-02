@@ -82,7 +82,7 @@
   - [ ] [2480](https://www.urionlinejudge.com.br/judge/pt/problems/view/2480) - Luzes Vermelhas *Paradigmas*
   - [ ] [2481](https://www.urionlinejudge.com.br/judge/pt/problems/view/2481) - É Uma Cilada Bino *Paradigmas*
   - [ ] [2482](https://www.urionlinejudge.com.br/judge/pt/problems/view/2482) - Etiquetas de Noel *Estruturas e Bibliotecas*
-  - [ ] [2483](https://www.urionlinejudge.com.br/judge/pt/problems/view/2483) - Feliz Nataaal! *Iniciante*
+  - [x] [2483](https://www.urionlinejudge.com.br/judge/pt/problems/view/2483) - [Feliz Nataaal!](2483.poti) *Iniciante*
   - [ ] [2484](https://www.urionlinejudge.com.br/judge/pt/problems/view/2484) - Abracadabra *Strings*
   - [ ] [2485](https://www.urionlinejudge.com.br/judge/pt/problems/view/2485) - Bicho da Goiaba *Grafos*
   - [ ] [2486](https://www.urionlinejudge.com.br/judge/pt/problems/view/2486) - C Mais ou Menos? *Iniciante*

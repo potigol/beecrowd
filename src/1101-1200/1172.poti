@@ -1,0 +1,5 @@
+vetor = leia_inteiros(10)
+resultado = vetor.mapeie(n => se n<=0 então 1 senão n fim)
+para i de 1 até resultado.tamanho faça
+  escreva "X[{i-1}] = {resultado[i]}"
+fim

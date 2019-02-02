@@ -1,0 +1,8 @@
+n = leia_inteiro
+
+var fracao := 0.0
+para i de 1 até n faça
+  fracao := 1 / (6 + fracao)
+fim
+
+escreva (3 + fracao) formato "%.10f"

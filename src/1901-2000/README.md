@@ -28,8 +28,8 @@
   - [ ] [1926](https://www.urionlinejudge.com.br/judge/pt/problems/view/1926) - Marianne e os Primos Gêmeos *Matemática*
   - [ ] [1927](https://www.urionlinejudge.com.br/judge/pt/problems/view/1927) - Tapioca e a Chuva de Trufas *Paradigmas*
   - [ ] [1928](https://www.urionlinejudge.com.br/judge/pt/problems/view/1928) - Jogo da Memória *Grafos*
-  - [ ] [1929](https://www.urionlinejudge.com.br/judge/pt/problems/view/1929) - Triângulo *Iniciante*
-  - [ ] [1930](https://www.urionlinejudge.com.br/judge/pt/problems/view/1930) - Tomadas *Iniciante*
+  - [x] [1929](https://www.urionlinejudge.com.br/judge/pt/problems/view/1929) - [Triângulo](1929.poti) *Iniciante*
+  - [x] [1930](https://www.urionlinejudge.com.br/judge/pt/problems/view/1930) - [Tomadas](1930.poti) *Iniciante*
   - [ ] [1931](https://www.urionlinejudge.com.br/judge/pt/problems/view/1931) - Mania de Par *Grafos*
   - [ ] [1932](https://www.urionlinejudge.com.br/judge/pt/problems/view/1932) - Bolsa de Valores *Ad-Hoc*
   - [ ] [1933](https://www.urionlinejudge.com.br/judge/pt/problems/view/1933) - Tri-du *Iniciante*

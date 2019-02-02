@@ -1,0 +1,4 @@
+n = leia_inteiro
+para i de 2 até 10000 passo n faça
+  escreva i
+fim

@@ -36,16 +36,16 @@
   - [ ] [2734](https://www.urionlinejudge.com.br/judge/pt/problems/view/2734) - Trocando Presentes *Estruturas e Bibliotecas*
   - [ ] [2735](https://www.urionlinejudge.com.br/judge/pt/problems/view/2735) - O Presente de Nina *Matemática*
   - [ ] [2736](https://www.urionlinejudge.com.br/judge/pt/problems/view/2736) - Números de Avalon *Ad-Hoc*
-  - [ ] 2737 - ~Advogados~ *SQL*
-  - [ ] 2738 - ~Concurso~ *SQL*
-  - [ ] 2739 - ~Dia de Pagamento~ *SQL*
-  - [ ] 2740 - ~Liga~ *SQL*
-  - [ ] 2741 - ~Notas dos Alunos~ *SQL*
-  - [ ] 2742 - ~O Multiverso de Richard~ *SQL*
-  - [ ] 2743 - ~Quantidade de Caracteres~ *SQL*
-  - [ ] 2744 - ~Senhas~ *SQL*
-  - [ ] 2745 - ~Taxas~ *SQL*
-  - [ ] 2746 - ~Virus~ *SQL*
+  - [ ] ~2737~ - *SQL*
+  - [ ] ~2738~ - *SQL*
+  - [ ] ~2739~ - *SQL*
+  - [ ] ~2740~ - *SQL*
+  - [ ] ~2741~ - *SQL*
+  - [ ] ~2742~ - *SQL*
+  - [ ] ~2743~ - *SQL*
+  - [ ] ~2744~ - *SQL*
+  - [ ] ~2745~ - *SQL*
+  - [ ] ~2746~ - *SQL*
   - [ ] [2747](https://www.urionlinejudge.com.br/judge/pt/problems/view/2747) - Saída 1 *Iniciante*
   - [ ] [2748](https://www.urionlinejudge.com.br/judge/pt/problems/view/2748) - Saída 2 *Iniciante*
   - [ ] [2749](https://www.urionlinejudge.com.br/judge/pt/problems/view/2749) - Saída 3 *Iniciante*
@@ -64,7 +64,7 @@
   - [ ] [2762](https://www.urionlinejudge.com.br/judge/pt/problems/view/2762) - Entrada e Saída 6 *Iniciante*
   - [ ] [2763](https://www.urionlinejudge.com.br/judge/pt/problems/view/2763) - Entrada e Saída CPF *Iniciante*
   - [ ] [2764](https://www.urionlinejudge.com.br/judge/pt/problems/view/2764) - Entrada e Saída de Data *Iniciante*
-  - [ ] [2765](https://www.urionlinejudge.com.br/judge/pt/problems/view/2765) - Entrada e Saída com Virgula *Iniciante*
+  - [x] [2765](https://www.urionlinejudge.com.br/judge/pt/problems/view/2765) - [Entrada e Saída com Virgula](2765.poti) *Iniciante*
   - [ ] [2766](https://www.urionlinejudge.com.br/judge/pt/problems/view/2766) - Entrada e Saída Lendo e Pulando Nomes *Iniciante*
   - [ ] [2767](https://www.urionlinejudge.com.br/judge/pt/problems/view/2767) - Festa *Matemática*
   - [ ] [2768](https://www.urionlinejudge.com.br/judge/pt/problems/view/2768) - Grafo do Dabriel *Grafos*

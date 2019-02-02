@@ -1,0 +1,8 @@
+para i de 0 até 1,
+     p em ["", ".2", ".4", ".6", ".8"],
+     j de 1 até 3 faça
+  escreva "I={i}{p} J={i+j}{p}"
+fim
+escreva "I=2 J=3"
+escreva "I=2 J=4"
+escreva "I=2 J=5"

@@ -1,0 +1,4 @@
+num = leia_inteiros(20)
+para i de 0 até 19 faça
+  escreva "N[{i}] = {num[20-i]}"
+fim

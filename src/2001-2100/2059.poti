@@ -1,0 +1,12 @@
+in = leia_inteiros(" ")
+p = in[1] == 1
+par = (in[2] + in[3]) mod 2 == 0
+r = in[4] == 1
+a = in[5] == 1
+jog2 = (r e a) ou (não r e não a e p <> par)
+
+se jog2 então
+  escreva "Jogador 2 ganha!"
+senão
+  escreva "Jogador 1 ganha!"
+fim

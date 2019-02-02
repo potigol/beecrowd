@@ -1,0 +1,6 @@
+var fib := [1, 0]
+enquanto fib.tamanho < 50 faça
+  fib := (fib[1] + fib[2]) :: fib
+fim
+n = leia_inteiro
+escreva fib.inverta.pegue(n).junte(" ")

@@ -1,0 +1,9 @@
+var n := leia_inteiros(" ")
+enquanto n[1] <> n[2] faça
+  se n[1] > n[2] então
+    escreva "Decrescente"
+  senão
+    escreva "Crescente"
+  fim
+  n := leia_inteiros(" ")
+fim

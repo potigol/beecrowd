@@ -1,0 +1,6 @@
+n = leia_inteiros(" ").ordene
+se n[1]+n[2] > n[3] ou n[2] + n[3] > n[4] então
+  escreva "S"
+senão
+  escreva "N"
+fim

@@ -1,0 +1,7 @@
+var x := leia_inteiro
+enquanto x <> 0 faça
+  inicio = se x mod 2 == 0 então x senão x + 1 fim
+  soma = 5 * inicio + 20
+  escreva soma
+  x := leia_inteiro
+fim

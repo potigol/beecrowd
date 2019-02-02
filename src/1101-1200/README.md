@@ -12,8 +12,8 @@
   - [ ] [1110](https://www.urionlinejudge.com.br/judge/pt/problems/view/1110) - Jogando Cartas Fora *Estruturas e Bibliotecas*
   - [ ] [1111](https://www.urionlinejudge.com.br/judge/pt/problems/view/1111) - Desrugenstein *Grafos*
   - [ ] [1112](https://www.urionlinejudge.com.br/judge/pt/problems/view/1112) - Schweisen *Estruturas e Bibliotecas*
-  - [ ] [1113](https://www.urionlinejudge.com.br/judge/pt/problems/view/1113) - Crescente e Decrescente *Iniciante*
-  - [ ] [1114](https://www.urionlinejudge.com.br/judge/pt/problems/view/1114) - Senha Fixa *Iniciante*
+  - [x] [1113](https://www.urionlinejudge.com.br/judge/pt/problems/view/1113) - [Crescente e Decrescente](1113.poti) *Iniciante*
+  - [x] [1114](https://www.urionlinejudge.com.br/judge/pt/problems/view/1114) - [Senha Fixa](1114.poti) *Iniciante*
   - [ ] [1115](https://www.urionlinejudge.com.br/judge/pt/problems/view/1115) - Quadrante *Iniciante*
   - [ ] [1116](https://www.urionlinejudge.com.br/judge/pt/problems/view/1116) - Dividindo X por Y *Iniciante*
   - [ ] [1117](https://www.urionlinejudge.com.br/judge/pt/problems/view/1117) - Validação de Nota *Iniciante*
@@ -41,7 +41,7 @@
   - [ ] [1139](https://www.urionlinejudge.com.br/judge/pt/problems/view/1139) - Necessidades Elétricas *Ad-Hoc*
   - [ ] [1140](https://www.urionlinejudge.com.br/judge/pt/problems/view/1140) - Flores Florescem da França *Ad-Hoc*
   - [ ] [1141](https://www.urionlinejudge.com.br/judge/pt/problems/view/1141) - Cultivando Strings *Strings*
-  - [ ] [1142](https://www.urionlinejudge.com.br/judge/pt/problems/view/1142) - PUM *Iniciante*
+  - [x] [1142](https://www.urionlinejudge.com.br/judge/pt/problems/view/1142) - [PUM](1142.poti) *Iniciante*
   - [ ] [1143](https://www.urionlinejudge.com.br/judge/pt/problems/view/1143) - Quadrado e ao Cubo *Iniciante*
   - [ ] [1144](https://www.urionlinejudge.com.br/judge/pt/problems/view/1144) - Sequência Lógica *Iniciante*
   - [ ] [1145](https://www.urionlinejudge.com.br/judge/pt/problems/view/1145) - Sequência Lógica 2 *Iniciante*
@@ -50,15 +50,15 @@
   - [ ] [1148](https://www.urionlinejudge.com.br/judge/pt/problems/view/1148) - Países em Guerra *Grafos*
   - [ ] [1149](https://www.urionlinejudge.com.br/judge/pt/problems/view/1149) - Somando Inteiros Consecutivos *Iniciante*
   - [ ] [1150](https://www.urionlinejudge.com.br/judge/pt/problems/view/1150) - Ultrapassando Z *Iniciante*
-  - [ ] [1151](https://www.urionlinejudge.com.br/judge/pt/problems/view/1151) - Fibonacci Fácil *Iniciante*
+  - [x] [1151](https://www.urionlinejudge.com.br/judge/pt/problems/view/1151) - [Fibonacci Fácil](1151.poti) *Iniciante*
   - [ ] [1152](https://www.urionlinejudge.com.br/judge/pt/problems/view/1152) - Estradas Escuras *Grafos*
-  - [ ] [1153](https://www.urionlinejudge.com.br/judge/pt/problems/view/1153) - Fatorial Simples *Iniciante*
+  - [x] [1153](https://www.urionlinejudge.com.br/judge/pt/problems/view/1153) - [Fatorial Simples](1153.poti) *Iniciante*
   - [ ] [1154](https://www.urionlinejudge.com.br/judge/pt/problems/view/1154) - Idades *Iniciante*
   - [ ] [1155](https://www.urionlinejudge.com.br/judge/pt/problems/view/1155) - Sequência S *Iniciante*
   - [ ] [1156](https://www.urionlinejudge.com.br/judge/pt/problems/view/1156) - Sequência S II *Iniciante*
-  - [ ] [1157](https://www.urionlinejudge.com.br/judge/pt/problems/view/1157) - Divisores I *Iniciante*
+  - [x] [1157](https://www.urionlinejudge.com.br/judge/pt/problems/view/1157) - [Divisores I](1157.poti) *Iniciante*
   - [ ] [1158](https://www.urionlinejudge.com.br/judge/pt/problems/view/1158) - Soma de Ímpares Consecutivos III *Iniciante*
-  - [ ] [1159](https://www.urionlinejudge.com.br/judge/pt/problems/view/1159) - Soma de Pares Consecutivos *Iniciante*
+  - [x] [1159](https://www.urionlinejudge.com.br/judge/pt/problems/view/1159) - [Soma de Pares Consecutivos](1159.poti) *Iniciante*
   - [ ] [1160](https://www.urionlinejudge.com.br/judge/pt/problems/view/1160) - Crescimento Populacional *Iniciante*
   - [ ] [1161](https://www.urionlinejudge.com.br/judge/pt/problems/view/1161) - Soma de Fatoriais *Matemática*
   - [ ] [1162](https://www.urionlinejudge.com.br/judge/pt/problems/view/1162) - Organizador de Vagões *Estruturas e Bibliotecas*
@@ -71,15 +71,15 @@
   - [ ] [1169](https://www.urionlinejudge.com.br/judge/pt/problems/view/1169) - Trigo no Tabuleiro *Matemática*
   - [ ] [1170](https://www.urionlinejudge.com.br/judge/pt/problems/view/1170) - Blobs *Matemática*
   - [ ] [1171](https://www.urionlinejudge.com.br/judge/pt/problems/view/1171) - Frequência de Números *Ad-Hoc*
-  - [ ] [1172](https://www.urionlinejudge.com.br/judge/pt/problems/view/1172) - Substituição em Vetor I *Iniciante*
-  - [ ] [1173](https://www.urionlinejudge.com.br/judge/pt/problems/view/1173) - Preenchimento de Vetor I *Iniciante*
-  - [ ] [1174](https://www.urionlinejudge.com.br/judge/pt/problems/view/1174) - Seleçao em Vetor I *Iniciante*
-  - [ ] [1175](https://www.urionlinejudge.com.br/judge/pt/problems/view/1175) - Troca em Vetor I *Iniciante*
+  - [x] [1172](https://www.urionlinejudge.com.br/judge/pt/problems/view/1172) - [Substituição em Vetor I](1172.poti) *Iniciante*
+  - [x] [1173](https://www.urionlinejudge.com.br/judge/pt/problems/view/1173) - [Preenchimento de Vetor I](1173.poti) *Iniciante*
+  - [x] [1174](https://www.urionlinejudge.com.br/judge/pt/problems/view/1174) - [Seleçao em Vetor I](1174.poti) *Iniciante*
+  - [x] [1175](https://www.urionlinejudge.com.br/judge/pt/problems/view/1175) - [Troca em Vetor I](1175.poti) *Iniciante*
   - [ ] [1176](https://www.urionlinejudge.com.br/judge/pt/problems/view/1176) - Fibonacci em Vetor *Iniciante*
-  - [ ] [1177](https://www.urionlinejudge.com.br/judge/pt/problems/view/1177) - Preenchimento de Vetor II *Iniciante*
-  - [ ] [1178](https://www.urionlinejudge.com.br/judge/pt/problems/view/1178) - Preenchimento de Vetor III *Iniciante*
+  - [x] [1177](https://www.urionlinejudge.com.br/judge/pt/problems/view/1177) - [Preenchimento de Vetor II](1177.poti) *Iniciante*
+  - [x] [1178](https://www.urionlinejudge.com.br/judge/pt/problems/view/1178) - [Preenchimento de Vetor III](1178.poti) *Iniciante*
   - [ ] [1179](https://www.urionlinejudge.com.br/judge/pt/problems/view/1179) - Preenchimento de Vetor IV *Iniciante*
-  - [ ] [1180](https://www.urionlinejudge.com.br/judge/pt/problems/view/1180) - Menor e Posição *Iniciante*
+  - [x] [1180](https://www.urionlinejudge.com.br/judge/pt/problems/view/1180) - [Menor e Posição](1180.poti) *Iniciante*
   - [ ] [1181](https://www.urionlinejudge.com.br/judge/pt/problems/view/1181) - Linha na Matriz *Iniciante*
   - [ ] [1182](https://www.urionlinejudge.com.br/judge/pt/problems/view/1182) - Coluna na Matriz *Iniciante*
   - [ ] [1183](https://www.urionlinejudge.com.br/judge/pt/problems/view/1183) - Acima da Diagonal Principal *Iniciante*

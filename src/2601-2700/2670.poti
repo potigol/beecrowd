@@ -1,0 +1,9 @@
+a, b, c = leia_inteiro
+t1 = 2 * b + 4 * c
+t2 = 2 * a + 2 * c
+t3 = 4 * a + 2 * b
+menor = se t1 <= t2 e t1 <= t3 então t1
+        senãose t2 <= t3       então t2
+                               senão t3
+        fim
+escreva menor

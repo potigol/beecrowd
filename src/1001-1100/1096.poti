@@ -1,0 +1,3 @@
+para i em [1, 3, 5, 7, 9], j em [7, 6, 5] faça
+  escreva "I={i} J={j}"
+fim

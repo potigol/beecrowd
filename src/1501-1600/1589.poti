@@ -1,0 +1,5 @@
+t = leia_inteiro
+para i de 1 até t faça
+  r = leia_inteiros(" ")
+  escreva r[1]+r[2]
+fim

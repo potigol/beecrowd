@@ -1,0 +1,7 @@
+n = leia_inteiro
+num = leia_inteiros(" ")
+menor = num.ordene.primeiro
+posição = num.posição(menor) - 1
+
+escreva "Menor valor: {menor}"
+escreva "Posicao: {posição}"

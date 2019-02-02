@@ -70,16 +70,16 @@
   - [ ] [1068](https://www.urionlinejudge.com.br/judge/pt/problems/view/1068) - Balanço de Parênteses I *Estruturas e Bibliotecas*
   - [ ] [1069](https://www.urionlinejudge.com.br/judge/pt/problems/view/1069) - Diamantes e Areia *Estruturas e Bibliotecas*
   - [x] [1070](https://www.urionlinejudge.com.br/judge/pt/problems/view/1070) - [Seis Números Ímpares](1070.poti) *Iniciante*
-  - [ ] [1071](https://www.urionlinejudge.com.br/judge/pt/problems/view/1071) - Soma de Impares Consecutivos I *Iniciante*
-  - [ ] [1072](https://www.urionlinejudge.com.br/judge/pt/problems/view/1072) - Intervalo 2 *Iniciante*
-  - [ ] [1073](https://www.urionlinejudge.com.br/judge/pt/problems/view/1073) - Quadrado de Pares *Iniciante*
-  - [ ] [1074](https://www.urionlinejudge.com.br/judge/pt/problems/view/1074) - Par ou Ímpar *Iniciante*
-  - [ ] [1075](https://www.urionlinejudge.com.br/judge/pt/problems/view/1075) - Resto 2 *Iniciante*
+  - [x] [1071](https://www.urionlinejudge.com.br/judge/pt/problems/view/1071) - [Soma de Impares Consecutivos I](1071.poti) *Iniciante*
+  - [x] [1072](https://www.urionlinejudge.com.br/judge/pt/problems/view/1072) - [Intervalo 2](1072.poti) *Iniciante*
+  - [x] [1073](https://www.urionlinejudge.com.br/judge/pt/problems/view/1073) - [Quadrado de Pares](1073.poti) *Iniciante*
+  - [x] [1074](https://www.urionlinejudge.com.br/judge/pt/problems/view/1074) - [Par ou Ímpar](1074.poti) *Iniciante*
+  - [x] [1075](https://www.urionlinejudge.com.br/judge/pt/problems/view/1075) - [Resto 2](1075.poti) *Iniciante*
   - [ ] [1076](https://www.urionlinejudge.com.br/judge/pt/problems/view/1076) - Desenhando Labirintos *Grafos*
   - [ ] [1077](https://www.urionlinejudge.com.br/judge/pt/problems/view/1077) - Infixa para Posfixa *Estruturas e Bibliotecas*
-  - [ ] [1078](https://www.urionlinejudge.com.br/judge/pt/problems/view/1078) - Tabuada *Iniciante*
+  - [x] [1078](https://www.urionlinejudge.com.br/judge/pt/problems/view/1078) - [Tabuada](1078.poti) *Iniciante*
   - [ ] [1079](https://www.urionlinejudge.com.br/judge/pt/problems/view/1079) - Médias Ponderadas *Iniciante*
-  - [ ] [1080](https://www.urionlinejudge.com.br/judge/pt/problems/view/1080) - Maior e Posição *Iniciante*
+  - [x] [1080](https://www.urionlinejudge.com.br/judge/pt/problems/view/1080) - [Maior e Posição](1080.poti) *Iniciante*
   - [ ] [1081](https://www.urionlinejudge.com.br/judge/pt/problems/view/1081) - DFSr - Hierarquia de Profundidade *Grafos*
   - [ ] [1082](https://www.urionlinejudge.com.br/judge/pt/problems/view/1082) - Componentes Conexos *Grafos*
   - [ ] [1083](https://www.urionlinejudge.com.br/judge/pt/problems/view/1083) - LEXSIM - Avaliador Lexico e Sintático *Estruturas e Bibliotecas*
@@ -94,9 +94,9 @@
   - [ ] [1092](https://www.urionlinejudge.com.br/judge/pt/problems/view/1092) - Maior Subseqüência Crescente *Ad-Hoc*
   - [ ] [1093](https://www.urionlinejudge.com.br/judge/pt/problems/view/1093) - Vampiros *Matemática*
   - [ ] [1094](https://www.urionlinejudge.com.br/judge/pt/problems/view/1094) - Experiências *Iniciante*
-  - [ ] [1095](https://www.urionlinejudge.com.br/judge/pt/problems/view/1095) - Sequencia IJ 1 *Iniciante*
-  - [ ] [1096](https://www.urionlinejudge.com.br/judge/pt/problems/view/1096) - Sequencia IJ 2 *Iniciante*
-  - [ ] [1097](https://www.urionlinejudge.com.br/judge/pt/problems/view/1097) - Sequencia IJ 3 *Iniciante*
-  - [ ] [1098](https://www.urionlinejudge.com.br/judge/pt/problems/view/1098) - Sequencia IJ 4 *Iniciante*
+  - [x] [1095](https://www.urionlinejudge.com.br/judge/pt/problems/view/1095) - [Sequencia IJ 1](1095.poti) *Iniciante*
+  - [x] [1096](https://www.urionlinejudge.com.br/judge/pt/problems/view/1096) - [Sequencia IJ 2](1096.poti) *Iniciante*
+  - [x] [1097](https://www.urionlinejudge.com.br/judge/pt/problems/view/1097) - [Sequencia IJ 3](1097.poti) *Iniciante*
+  - [x] [1098](https://www.urionlinejudge.com.br/judge/pt/problems/view/1098) - [Sequencia IJ 4](1098.poti) *Iniciante*
   - [ ] [1099](https://www.urionlinejudge.com.br/judge/pt/problems/view/1099) - Soma de Ímpares Consecutivos II *Iniciante*
   - [ ] [1100](https://www.urionlinejudge.com.br/judge/pt/problems/view/1100) - Movimentos do Cavalo *Grafos*

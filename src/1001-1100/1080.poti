@@ -1,0 +1,7 @@
+números = leia_inteiros(100)
+
+maior = números.ordene.último
+posição = números.posição(maior)
+
+escreva maior
+escreva posição

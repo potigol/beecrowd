@@ -1,4 +1,4 @@
-# Matemática (2 / 211)
+# Matemática (3 / 211)
 
   - [ ] [1028](https://www.urionlinejudge.com.br/judge/pt/problems/view/1028) - Figurinhas
   - [ ] [1093](https://www.urionlinejudge.com.br/judge/pt/problems/view/1093) - Vampiros
@@ -114,7 +114,6 @@
   - [ ] [1761](https://www.urionlinejudge.com.br/judge/pt/problems/view/1761) - Decoração Natalina
   - [ ] [1776](https://www.urionlinejudge.com.br/judge/pt/problems/view/1776) - Baile de Formatura
   - [ ] [1785](https://www.urionlinejudge.com.br/judge/pt/problems/view/1785) - Kaprekar
-  - [ ] [1795](https://www.urionlinejudge.com.br/judge/pt/problems/view/1795) - Triângulo Trinomial
   - [ ] [1801](https://www.urionlinejudge.com.br/judge/pt/problems/view/1801) - Brincando com Números
   - [ ] [1805](https://www.urionlinejudge.com.br/judge/pt/problems/view/1805) - Soma Natural
   - [ ] [1807](https://www.urionlinejudge.com.br/judge/pt/problems/view/1807) - Triângulo Trinomial, a Vingança
@@ -209,5 +208,6 @@
   - [ ] [2886](https://www.urionlinejudge.com.br/judge/pt/problems/view/2886) - Kepler
   - [ ] [2890](https://www.urionlinejudge.com.br/judge/pt/problems/view/2890) - Colorindo Tetraedros
   - [ ] [2892](https://www.urionlinejudge.com.br/judge/pt/problems/view/2892) - Treino No Velódromo
+  - [x] [1795](https://www.urionlinejudge.com.br/judge/pt/problems/view/1795) - [Triângulo Trinomial](src/1701-1800/1795.poti)
   - [x] [2661](https://www.urionlinejudge.com.br/judge/pt/problems/view/2661) - [Despojados](src/2601-2700/2661.poti)
   - [x] [2667](https://www.urionlinejudge.com.br/judge/pt/problems/view/2667) - [Jogo de Boca](src/2601-2700/2667.poti)

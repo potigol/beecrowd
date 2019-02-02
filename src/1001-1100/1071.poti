@@ -1,0 +1,8 @@
+limites = leia_inteiros(2).ordene
+var soma := 0
+para n de limites[1] + 1 até limites[2] - 1 faça
+  se n mod 2 <> 0 então
+    soma := soma + n
+  fim
+fim
+escreva soma

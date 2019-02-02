@@ -1,0 +1,6 @@
+v = leia_inteiro
+var n := v
+para i de 0 até 9 faça
+  escreva "N[{i}] = {n}"
+  n := 2 * n
+fim

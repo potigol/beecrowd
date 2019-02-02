@@ -1,0 +1,2 @@
+i = leia_inteiro
+escreva "Feliz nat{"a"*i}l!"

@@ -1,0 +1,6 @@
+var n := leia_inteiro
+enquanto n <> 2002 faça
+  escreva "Senha Invalida"
+  n := leia_inteiro
+fim
+escreva "Acesso Permitido"

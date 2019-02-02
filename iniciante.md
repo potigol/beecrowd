@@ -1,27 +1,14 @@
-# Iniciante (43 / 306)
+# Iniciante (81 / 306)
 
   - [ ] [1045](https://www.urionlinejudge.com.br/judge/pt/problems/view/1045) - Tipos de Triângulos
   - [ ] [1047](https://www.urionlinejudge.com.br/judge/pt/problems/view/1047) - Tempo de Jogo com Minutos
   - [ ] [1049](https://www.urionlinejudge.com.br/judge/pt/problems/view/1049) - Animal
   - [ ] [1051](https://www.urionlinejudge.com.br/judge/pt/problems/view/1051) - Imposto de Renda
   - [ ] [1061](https://www.urionlinejudge.com.br/judge/pt/problems/view/1061) - Tempo de um Evento
-  - [ ] [1071](https://www.urionlinejudge.com.br/judge/pt/problems/view/1071) - Soma de Impares Consecutivos I
-  - [ ] [1072](https://www.urionlinejudge.com.br/judge/pt/problems/view/1072) - Intervalo 2
-  - [ ] [1073](https://www.urionlinejudge.com.br/judge/pt/problems/view/1073) - Quadrado de Pares
-  - [ ] [1074](https://www.urionlinejudge.com.br/judge/pt/problems/view/1074) - Par ou Ímpar
-  - [ ] [1075](https://www.urionlinejudge.com.br/judge/pt/problems/view/1075) - Resto 2
-  - [ ] [1078](https://www.urionlinejudge.com.br/judge/pt/problems/view/1078) - Tabuada
   - [ ] [1079](https://www.urionlinejudge.com.br/judge/pt/problems/view/1079) - Médias Ponderadas
-  - [ ] [1080](https://www.urionlinejudge.com.br/judge/pt/problems/view/1080) - Maior e Posição
   - [ ] [1094](https://www.urionlinejudge.com.br/judge/pt/problems/view/1094) - Experiências
-  - [ ] [1095](https://www.urionlinejudge.com.br/judge/pt/problems/view/1095) - Sequencia IJ 1
-  - [ ] [1096](https://www.urionlinejudge.com.br/judge/pt/problems/view/1096) - Sequencia IJ 2
-  - [ ] [1097](https://www.urionlinejudge.com.br/judge/pt/problems/view/1097) - Sequencia IJ 3
-  - [ ] [1098](https://www.urionlinejudge.com.br/judge/pt/problems/view/1098) - Sequencia IJ 4
   - [ ] [1099](https://www.urionlinejudge.com.br/judge/pt/problems/view/1099) - Soma de Ímpares Consecutivos II
   - [ ] [1101](https://www.urionlinejudge.com.br/judge/pt/problems/view/1101) - Sequência de Números e Soma
-  - [ ] [1113](https://www.urionlinejudge.com.br/judge/pt/problems/view/1113) - Crescente e Decrescente
-  - [ ] [1114](https://www.urionlinejudge.com.br/judge/pt/problems/view/1114) - Senha Fixa
   - [ ] [1115](https://www.urionlinejudge.com.br/judge/pt/problems/view/1115) - Quadrante
   - [ ] [1116](https://www.urionlinejudge.com.br/judge/pt/problems/view/1116) - Dividindo X por Y
   - [ ] [1117](https://www.urionlinejudge.com.br/judge/pt/problems/view/1117) - Validação de Nota
@@ -30,33 +17,21 @@
   - [ ] [1132](https://www.urionlinejudge.com.br/judge/pt/problems/view/1132) - Múltiplos de 13
   - [ ] [1133](https://www.urionlinejudge.com.br/judge/pt/problems/view/1133) - Resto da Divisão
   - [ ] [1134](https://www.urionlinejudge.com.br/judge/pt/problems/view/1134) - Tipo de Combustível
-  - [ ] [1142](https://www.urionlinejudge.com.br/judge/pt/problems/view/1142) - PUM
   - [ ] [1143](https://www.urionlinejudge.com.br/judge/pt/problems/view/1143) - Quadrado e ao Cubo
   - [ ] [1144](https://www.urionlinejudge.com.br/judge/pt/problems/view/1144) - Sequência Lógica
   - [ ] [1145](https://www.urionlinejudge.com.br/judge/pt/problems/view/1145) - Sequência Lógica 2
   - [ ] [1146](https://www.urionlinejudge.com.br/judge/pt/problems/view/1146) - Sequências Crescentes
   - [ ] [1149](https://www.urionlinejudge.com.br/judge/pt/problems/view/1149) - Somando Inteiros Consecutivos
   - [ ] [1150](https://www.urionlinejudge.com.br/judge/pt/problems/view/1150) - Ultrapassando Z
-  - [ ] [1151](https://www.urionlinejudge.com.br/judge/pt/problems/view/1151) - Fibonacci Fácil
-  - [ ] [1153](https://www.urionlinejudge.com.br/judge/pt/problems/view/1153) - Fatorial Simples
   - [ ] [1154](https://www.urionlinejudge.com.br/judge/pt/problems/view/1154) - Idades
   - [ ] [1155](https://www.urionlinejudge.com.br/judge/pt/problems/view/1155) - Sequência S
   - [ ] [1156](https://www.urionlinejudge.com.br/judge/pt/problems/view/1156) - Sequência S II
-  - [ ] [1157](https://www.urionlinejudge.com.br/judge/pt/problems/view/1157) - Divisores I
   - [ ] [1158](https://www.urionlinejudge.com.br/judge/pt/problems/view/1158) - Soma de Ímpares Consecutivos III
-  - [ ] [1159](https://www.urionlinejudge.com.br/judge/pt/problems/view/1159) - Soma de Pares Consecutivos
   - [ ] [1160](https://www.urionlinejudge.com.br/judge/pt/problems/view/1160) - Crescimento Populacional
   - [ ] [1164](https://www.urionlinejudge.com.br/judge/pt/problems/view/1164) - Número Perfeito
   - [ ] [1165](https://www.urionlinejudge.com.br/judge/pt/problems/view/1165) - Número Primo
-  - [ ] [1172](https://www.urionlinejudge.com.br/judge/pt/problems/view/1172) - Substituição em Vetor I
-  - [ ] [1173](https://www.urionlinejudge.com.br/judge/pt/problems/view/1173) - Preenchimento de Vetor I
-  - [ ] [1174](https://www.urionlinejudge.com.br/judge/pt/problems/view/1174) - Seleçao em Vetor I
-  - [ ] [1175](https://www.urionlinejudge.com.br/judge/pt/problems/view/1175) - Troca em Vetor I
   - [ ] [1176](https://www.urionlinejudge.com.br/judge/pt/problems/view/1176) - Fibonacci em Vetor
-  - [ ] [1177](https://www.urionlinejudge.com.br/judge/pt/problems/view/1177) - Preenchimento de Vetor II
-  - [ ] [1178](https://www.urionlinejudge.com.br/judge/pt/problems/view/1178) - Preenchimento de Vetor III
   - [ ] [1179](https://www.urionlinejudge.com.br/judge/pt/problems/view/1179) - Preenchimento de Vetor IV
-  - [ ] [1180](https://www.urionlinejudge.com.br/judge/pt/problems/view/1180) - Menor e Posição
   - [ ] [1181](https://www.urionlinejudge.com.br/judge/pt/problems/view/1181) - Linha na Matriz
   - [ ] [1182](https://www.urionlinejudge.com.br/judge/pt/problems/view/1182) - Coluna na Matriz
   - [ ] [1183](https://www.urionlinejudge.com.br/judge/pt/problems/view/1183) - Acima da Diagonal Principal
@@ -73,7 +48,6 @@
   - [ ] [1541](https://www.urionlinejudge.com.br/judge/pt/problems/view/1541) - Construindo Casas
   - [ ] [1557](https://www.urionlinejudge.com.br/judge/pt/problems/view/1557) - Matriz Quadrada III
   - [ ] [1564](https://www.urionlinejudge.com.br/judge/pt/problems/view/1564) - Vai Ter Copa?
-  - [ ] [1589](https://www.urionlinejudge.com.br/judge/pt/problems/view/1589) - Bob Conduite
   - [ ] [1759](https://www.urionlinejudge.com.br/judge/pt/problems/view/1759) - Ho Ho Ho
   - [ ] [1789](https://www.urionlinejudge.com.br/judge/pt/problems/view/1789) - A Corrida de Lesmas
   - [ ] [1827](https://www.urionlinejudge.com.br/judge/pt/problems/view/1827) - Matriz Quadrada IV
@@ -88,8 +62,6 @@
   - [ ] [1914](https://www.urionlinejudge.com.br/judge/pt/problems/view/1914) - De Quem é a Vez?
   - [ ] [1921](https://www.urionlinejudge.com.br/judge/pt/problems/view/1921) - Guilherme e Suas Pipas
   - [ ] [1924](https://www.urionlinejudge.com.br/judge/pt/problems/view/1924) - Vitória e a Indecisão
-  - [ ] [1929](https://www.urionlinejudge.com.br/judge/pt/problems/view/1929) - Triângulo
-  - [ ] [1930](https://www.urionlinejudge.com.br/judge/pt/problems/view/1930) - Tomadas
   - [ ] [1933](https://www.urionlinejudge.com.br/judge/pt/problems/view/1933) - Tri-du
   - [ ] [1957](https://www.urionlinejudge.com.br/judge/pt/problems/view/1957) - Converter para Hexadecimal
   - [ ] [1958](https://www.urionlinejudge.com.br/judge/pt/problems/view/1958) - Notação Científica
@@ -108,7 +80,6 @@
   - [ ] [2029](https://www.urionlinejudge.com.br/judge/pt/problems/view/2029) - Reservatório de Mel
   - [ ] [2031](https://www.urionlinejudge.com.br/judge/pt/problems/view/2031) - Pedra, Papel, Ataque Aéreo
   - [ ] [2057](https://www.urionlinejudge.com.br/judge/pt/problems/view/2057) - Fuso Horário
-  - [ ] [2059](https://www.urionlinejudge.com.br/judge/pt/problems/view/2059) - Ímpar, Par ou Roubo
   - [ ] [2060](https://www.urionlinejudge.com.br/judge/pt/problems/view/2060) - Desafio de Bino
   - [ ] [2061](https://www.urionlinejudge.com.br/judge/pt/problems/view/2061) - As Abas de Péricles
   - [ ] [2126](https://www.urionlinejudge.com.br/judge/pt/problems/view/2126) - Procurando Subsequências
@@ -120,7 +91,6 @@
   - [ ] [2152](https://www.urionlinejudge.com.br/judge/pt/problems/view/2152) - Pepe, Já Tirei a Vela!
   - [ ] [2159](https://www.urionlinejudge.com.br/judge/pt/problems/view/2159) - Número Aproximado de Primos
   - [ ] [2160](https://www.urionlinejudge.com.br/judge/pt/problems/view/2160) - Nome no Formulário
-  - [ ] [2161](https://www.urionlinejudge.com.br/judge/pt/problems/view/2161) - Raiz Quadrada de 10
   - [ ] [2162](https://www.urionlinejudge.com.br/judge/pt/problems/view/2162) - Picos e Vales
   - [ ] [2163](https://www.urionlinejudge.com.br/judge/pt/problems/view/2163) - O Despertar da Força
   - [ ] [2164](https://www.urionlinejudge.com.br/judge/pt/problems/view/2164) - Fibonacci Rápido
@@ -134,13 +104,11 @@
   - [ ] [2221](https://www.urionlinejudge.com.br/judge/pt/problems/view/2221) - Batalha de Pomekons
   - [ ] [2222](https://www.urionlinejudge.com.br/judge/pt/problems/view/2222) - Brincando com Conjuntos
   - [ ] [2234](https://www.urionlinejudge.com.br/judge/pt/problems/view/2234) - Cachorros-Quentes
-  - [ ] [2235](https://www.urionlinejudge.com.br/judge/pt/problems/view/2235) - Andando no Tempo
   - [ ] [2310](https://www.urionlinejudge.com.br/judge/pt/problems/view/2310) - Voleibol
   - [ ] [2311](https://www.urionlinejudge.com.br/judge/pt/problems/view/2311) - Saltos Ornamentais
   - [ ] [2313](https://www.urionlinejudge.com.br/judge/pt/problems/view/2313) - Qual Triângulo
   - [ ] [2334](https://www.urionlinejudge.com.br/judge/pt/problems/view/2334) - Patinhos
   - [ ] [2338](https://www.urionlinejudge.com.br/judge/pt/problems/view/2338) - Morse
-  - [ ] [2483](https://www.urionlinejudge.com.br/judge/pt/problems/view/2483) - Feliz Nataaal!
   - [ ] [2486](https://www.urionlinejudge.com.br/judge/pt/problems/view/2486) - C Mais ou Menos?
   - [ ] [2493](https://www.urionlinejudge.com.br/judge/pt/problems/view/2493) - Jogo do Operador
   - [ ] [2502](https://www.urionlinejudge.com.br/judge/pt/problems/view/2502) - Decifrando a Carta Criptografada
@@ -157,8 +125,6 @@
   - [ ] [2551](https://www.urionlinejudge.com.br/judge/pt/problems/view/2551) - Novo Recorde
   - [ ] [2552](https://www.urionlinejudge.com.br/judge/pt/problems/view/2552) - PãodeQuejoSweeper
   - [ ] [2554](https://www.urionlinejudge.com.br/judge/pt/problems/view/2554) - Pizza Antes de BH
-  - [ ] [2581](https://www.urionlinejudge.com.br/judge/pt/problems/view/2581) - I am Toorg!
-  - [ ] [2582](https://www.urionlinejudge.com.br/judge/pt/problems/view/2582) - System of a Download
   - [ ] [2626](https://www.urionlinejudge.com.br/judge/pt/problems/view/2626) - Turma do JB6
   - [ ] [2630](https://www.urionlinejudge.com.br/judge/pt/problems/view/2630) - Escala de Cinza
   - [ ] [2631](https://www.urionlinejudge.com.br/judge/pt/problems/view/2631) - Formando Duplas
@@ -174,8 +140,6 @@
   - [ ] [2646](https://www.urionlinejudge.com.br/judge/pt/problems/view/2646) - Secret Chamber at Mount Rushmore
   - [ ] [2648](https://www.urionlinejudge.com.br/judge/pt/problems/view/2648) - Tarot Sham Boast
   - [ ] [2653](https://www.urionlinejudge.com.br/judge/pt/problems/view/2653) - Dijkstra
-  - [ ] [2663](https://www.urionlinejudge.com.br/judge/pt/problems/view/2663) - Fase
-  - [ ] [2670](https://www.urionlinejudge.com.br/judge/pt/problems/view/2670) - Máquina de Café
   - [ ] [2674](https://www.urionlinejudge.com.br/judge/pt/problems/view/2674) - Super Primos: Ativar!
   - [ ] [2684](https://www.urionlinejudge.com.br/judge/pt/problems/view/2684) - Ajude o Professor Webscript!!
   - [ ] [2685](https://www.urionlinejudge.com.br/judge/pt/problems/view/2685) - A Mudança
@@ -222,7 +186,6 @@
   - [ ] [2762](https://www.urionlinejudge.com.br/judge/pt/problems/view/2762) - Entrada e Saída 6
   - [ ] [2763](https://www.urionlinejudge.com.br/judge/pt/problems/view/2763) - Entrada e Saída CPF
   - [ ] [2764](https://www.urionlinejudge.com.br/judge/pt/problems/view/2764) - Entrada e Saída de Data
-  - [ ] [2765](https://www.urionlinejudge.com.br/judge/pt/problems/view/2765) - Entrada e Saída com Virgula
   - [ ] [2766](https://www.urionlinejudge.com.br/judge/pt/problems/view/2766) - Entrada e Saída Lendo e Pulando Nomes
   - [ ] [2769](https://www.urionlinejudge.com.br/judge/pt/problems/view/2769) - Linha de Montagem
   - [ ] [2770](https://www.urionlinejudge.com.br/judge/pt/problems/view/2770) - Tamanho da Placa
@@ -260,7 +223,6 @@
   - [ ] [2861](https://www.urionlinejudge.com.br/judge/pt/problems/view/2861) - A Saída
   - [ ] [2862](https://www.urionlinejudge.com.br/judge/pt/problems/view/2862) - Inseto!
   - [ ] [2863](https://www.urionlinejudge.com.br/judge/pt/problems/view/2863) - Umil Bolt
-  - [ ] [2867](https://www.urionlinejudge.com.br/judge/pt/problems/view/2867) - Dígitos
   - [ ] [2869](https://www.urionlinejudge.com.br/judge/pt/problems/view/2869) - Falando em Divisor...
   - [ ] [2930](https://www.urionlinejudge.com.br/judge/pt/problems/view/2930) - TCC da Depressão Natalino
   - [x] [1001](https://www.urionlinejudge.com.br/judge/pt/problems/view/1001) - [Extremamente Básico](src/1001-1100/1001.poti)
@@ -304,5 +266,43 @@
   - [x] [1066](https://www.urionlinejudge.com.br/judge/pt/problems/view/1066) - [Pares, Ímpares, Positivos e Negativos](src/1001-1100/1066.poti)
   - [x] [1067](https://www.urionlinejudge.com.br/judge/pt/problems/view/1067) - [Números Ímpares](src/1001-1100/1067.poti)
   - [x] [1070](https://www.urionlinejudge.com.br/judge/pt/problems/view/1070) - [Seis Números Ímpares](src/1001-1100/1070.poti)
+  - [x] [1071](https://www.urionlinejudge.com.br/judge/pt/problems/view/1071) - [Soma de Impares Consecutivos I](src/1001-1100/1071.poti)
+  - [x] [1072](https://www.urionlinejudge.com.br/judge/pt/problems/view/1072) - [Intervalo 2](src/1001-1100/1072.poti)
+  - [x] [1073](https://www.urionlinejudge.com.br/judge/pt/problems/view/1073) - [Quadrado de Pares](src/1001-1100/1073.poti)
+  - [x] [1074](https://www.urionlinejudge.com.br/judge/pt/problems/view/1074) - [Par ou Ímpar](src/1001-1100/1074.poti)
+  - [x] [1075](https://www.urionlinejudge.com.br/judge/pt/problems/view/1075) - [Resto 2](src/1001-1100/1075.poti)
+  - [x] [1078](https://www.urionlinejudge.com.br/judge/pt/problems/view/1078) - [Tabuada](src/1001-1100/1078.poti)
+  - [x] [1080](https://www.urionlinejudge.com.br/judge/pt/problems/view/1080) - [Maior e Posição](src/1001-1100/1080.poti)
+  - [x] [1095](https://www.urionlinejudge.com.br/judge/pt/problems/view/1095) - [Sequencia IJ 1](src/1001-1100/1095.poti)
+  - [x] [1096](https://www.urionlinejudge.com.br/judge/pt/problems/view/1096) - [Sequencia IJ 2](src/1001-1100/1096.poti)
+  - [x] [1097](https://www.urionlinejudge.com.br/judge/pt/problems/view/1097) - [Sequencia IJ 3](src/1001-1100/1097.poti)
+  - [x] [1098](https://www.urionlinejudge.com.br/judge/pt/problems/view/1098) - [Sequencia IJ 4](src/1001-1100/1098.poti)
+  - [x] [1113](https://www.urionlinejudge.com.br/judge/pt/problems/view/1113) - [Crescente e Decrescente](src/1101-1200/1113.poti)
+  - [x] [1114](https://www.urionlinejudge.com.br/judge/pt/problems/view/1114) - [Senha Fixa](src/1101-1200/1114.poti)
+  - [x] [1142](https://www.urionlinejudge.com.br/judge/pt/problems/view/1142) - [PUM](src/1101-1200/1142.poti)
+  - [x] [1151](https://www.urionlinejudge.com.br/judge/pt/problems/view/1151) - [Fibonacci Fácil](src/1101-1200/1151.poti)
+  - [x] [1153](https://www.urionlinejudge.com.br/judge/pt/problems/view/1153) - [Fatorial Simples](src/1101-1200/1153.poti)
+  - [x] [1157](https://www.urionlinejudge.com.br/judge/pt/problems/view/1157) - [Divisores I](src/1101-1200/1157.poti)
+  - [x] [1159](https://www.urionlinejudge.com.br/judge/pt/problems/view/1159) - [Soma de Pares Consecutivos](src/1101-1200/1159.poti)
+  - [x] [1172](https://www.urionlinejudge.com.br/judge/pt/problems/view/1172) - [Substituição em Vetor I](src/1101-1200/1172.poti)
+  - [x] [1173](https://www.urionlinejudge.com.br/judge/pt/problems/view/1173) - [Preenchimento de Vetor I](src/1101-1200/1173.poti)
+  - [x] [1174](https://www.urionlinejudge.com.br/judge/pt/problems/view/1174) - [Seleçao em Vetor I](src/1101-1200/1174.poti)
+  - [x] [1175](https://www.urionlinejudge.com.br/judge/pt/problems/view/1175) - [Troca em Vetor I](src/1101-1200/1175.poti)
+  - [x] [1177](https://www.urionlinejudge.com.br/judge/pt/problems/view/1177) - [Preenchimento de Vetor II](src/1101-1200/1177.poti)
+  - [x] [1178](https://www.urionlinejudge.com.br/judge/pt/problems/view/1178) - [Preenchimento de Vetor III](src/1101-1200/1178.poti)
+  - [x] [1180](https://www.urionlinejudge.com.br/judge/pt/problems/view/1180) - [Menor e Posição](src/1101-1200/1180.poti)
+  - [x] [1589](https://www.urionlinejudge.com.br/judge/pt/problems/view/1589) - [Bob Conduite](src/1501-1600/1589.poti)
+  - [x] [1929](https://www.urionlinejudge.com.br/judge/pt/problems/view/1929) - [Triângulo](src/1901-2000/1929.poti)
+  - [x] [1930](https://www.urionlinejudge.com.br/judge/pt/problems/view/1930) - [Tomadas](src/1901-2000/1930.poti)
+  - [x] [2059](https://www.urionlinejudge.com.br/judge/pt/problems/view/2059) - [Ímpar, Par ou Roubo](src/2001-2100/2059.poti)
+  - [x] [2161](https://www.urionlinejudge.com.br/judge/pt/problems/view/2161) - [Raiz Quadrada de 10](src/2101-2200/2161.poti)
+  - [x] [2235](https://www.urionlinejudge.com.br/judge/pt/problems/view/2235) - [Andando no Tempo](src/2201-2300/2235.poti)
+  - [x] [2483](https://www.urionlinejudge.com.br/judge/pt/problems/view/2483) - [Feliz Nataaal!](src/2401-2500/2483.poti)
+  - [x] [2581](https://www.urionlinejudge.com.br/judge/pt/problems/view/2581) - [I am Toorg!](src/2501-2600/2581.poti)
+  - [x] [2582](https://www.urionlinejudge.com.br/judge/pt/problems/view/2582) - [System of a Download](src/2501-2600/2582.poti)
+  - [x] [2663](https://www.urionlinejudge.com.br/judge/pt/problems/view/2663) - [Fase](src/2601-2700/2663.poti)
+  - [x] [2670](https://www.urionlinejudge.com.br/judge/pt/problems/view/2670) - [Máquina de Café](src/2601-2700/2670.poti)
+  - [x] [2765](https://www.urionlinejudge.com.br/judge/pt/problems/view/2765) - [Entrada e Saída com Virgula](src/2701-2800/2765.poti)
+  - [x] [2867](https://www.urionlinejudge.com.br/judge/pt/problems/view/2867) - [Dígitos](src/2801-2900/2867.poti)
   - [x] [2879](https://www.urionlinejudge.com.br/judge/pt/problems/view/2879) - [Desvendando Monty Hall](src/2801-2900/2879.poti)
   - [x] [2896](https://www.urionlinejudge.com.br/judge/pt/problems/view/2896) - [Aproveite a Oferta](src/2801-2900/2896.poti)

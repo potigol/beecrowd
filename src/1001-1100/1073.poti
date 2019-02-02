@@ -1,0 +1,4 @@
+n = leia_inteiro
+para i de 2 até n passo 2 faça
+  escreva "{i}^2 = {i*i}"
+fim

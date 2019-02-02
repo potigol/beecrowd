@@ -1,0 +1,8 @@
+c = leia_inteiro
+para i de 1 até c faça
+  entrada = leia_inteiros(" ")
+  n, m = entrada[1], entrada[2]
+  r = n ^ m
+  x = (r formato "%e").descarte_enquanto(_ <> '+').descarte(1).inteiro + 1
+  escreva x
+fim

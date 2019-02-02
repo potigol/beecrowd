@@ -1,0 +1,5 @@
+n, k = leia_inteiro
+numeros = leia_inteiros(n).ordene.inverta
+minimo = numeros[k]
+s = numeros.pegue_enquanto(num => num >= minimo).tamanho
+escreva s

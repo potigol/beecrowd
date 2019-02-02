@@ -1,0 +1,7 @@
+x = leia_inteiros(" ")
+a, b, c = x[1], x[2], x[3]
+se a + b == c ou a == b + c ou b == a + c ou a == b ou a == c ou b == c então
+  escreva "S"
+senão
+  escreva "N"
+fim

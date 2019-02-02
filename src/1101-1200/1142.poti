@@ -1,0 +1,4 @@
+n = leia_inteiro
+para i de 1 até n faça
+  escreva "{i*4-3} {i*4-2} {i*4-1} PUM"
+fim

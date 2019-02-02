@@ -66,7 +66,7 @@
   - [ ] [2864](https://www.urionlinejudge.com.br/judge/pt/problems/view/2864) - Qual é a Altura? *Matemática*
   - [ ] [2865](https://www.urionlinejudge.com.br/judge/pt/problems/view/2865) - Palíndromo Binário *Ad-Hoc*
   - [ ] [2866](https://www.urionlinejudge.com.br/judge/pt/problems/view/2866) - Criptotexto *Strings*
-  - [ ] [2867](https://www.urionlinejudge.com.br/judge/pt/problems/view/2867) - Dígitos *Iniciante*
+  - [x] [2867](https://www.urionlinejudge.com.br/judge/pt/problems/view/2867) - [Dígitos](2867.poti) *Iniciante*
   - [ ] [2868](https://www.urionlinejudge.com.br/judge/pt/problems/view/2868) - Errrou! *Ad-Hoc*
   - [ ] [2869](https://www.urionlinejudge.com.br/judge/pt/problems/view/2869) - Falando em Divisor... *Iniciante*
   - [ ] [2870](https://www.urionlinejudge.com.br/judge/pt/problems/view/2870) - Jogo do Mapa *Grafos*

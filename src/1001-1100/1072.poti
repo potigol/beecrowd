@@ -1,0 +1,5 @@
+n = leia_inteiro
+numeros = leia_inteiros(n)
+in = numeros.selecione(n => n>= 10 e n <= 20).tamanho
+escreva "{in} in"
+escreva "{n - in } out"
