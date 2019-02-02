@@ -27,6 +27,9 @@ object Build extends App {
       val p = a.find(_.number == x)
       p match {
         case None => s"  - [ ] ~${x}~"
+        case Some(p) if p.category == "SQL" =>
+          s"  - [ ] ${p.number} - ~${p.name}~ *${p.category}*"
+
         case Some(p) if (check(x)) =>
           s"  - [x] [${p.number}](https://www.urionlinejudge.com.br/judge/pt/problems/view/${p.number}) - [${p.name}](${p.number}.poti) *${p.category}*"
         case Some(p) =>

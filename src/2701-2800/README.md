@@ -36,16 +36,16 @@
   - [ ] [2734](https://www.urionlinejudge.com.br/judge/pt/problems/view/2734) - Trocando Presentes *Estruturas e Bibliotecas*
   - [ ] [2735](https://www.urionlinejudge.com.br/judge/pt/problems/view/2735) - O Presente de Nina *Matemática*
   - [ ] [2736](https://www.urionlinejudge.com.br/judge/pt/problems/view/2736) - Números de Avalon *Ad-Hoc*
-  - [ ] [2737](https://www.urionlinejudge.com.br/judge/pt/problems/view/2737) - Advogados *SQL*
-  - [ ] [2738](https://www.urionlinejudge.com.br/judge/pt/problems/view/2738) - Concurso *SQL*
-  - [ ] [2739](https://www.urionlinejudge.com.br/judge/pt/problems/view/2739) - Dia de Pagamento *SQL*
-  - [ ] [2740](https://www.urionlinejudge.com.br/judge/pt/problems/view/2740) - Liga *SQL*
-  - [ ] [2741](https://www.urionlinejudge.com.br/judge/pt/problems/view/2741) - Notas dos Alunos *SQL*
-  - [ ] [2742](https://www.urionlinejudge.com.br/judge/pt/problems/view/2742) - O Multiverso de Richard *SQL*
-  - [ ] [2743](https://www.urionlinejudge.com.br/judge/pt/problems/view/2743) - Quantidade de Caracteres *SQL*
-  - [ ] [2744](https://www.urionlinejudge.com.br/judge/pt/problems/view/2744) - Senhas *SQL*
-  - [ ] [2745](https://www.urionlinejudge.com.br/judge/pt/problems/view/2745) - Taxas *SQL*
-  - [ ] [2746](https://www.urionlinejudge.com.br/judge/pt/problems/view/2746) - Virus *SQL*
+  - [ ] 2737 - ~Advogados~ *SQL*
+  - [ ] 2738 - ~Concurso~ *SQL*
+  - [ ] 2739 - ~Dia de Pagamento~ *SQL*
+  - [ ] 2740 - ~Liga~ *SQL*
+  - [ ] 2741 - ~Notas dos Alunos~ *SQL*
+  - [ ] 2742 - ~O Multiverso de Richard~ *SQL*
+  - [ ] 2743 - ~Quantidade de Caracteres~ *SQL*
+  - [ ] 2744 - ~Senhas~ *SQL*
+  - [ ] 2745 - ~Taxas~ *SQL*
+  - [ ] 2746 - ~Virus~ *SQL*
   - [ ] [2747](https://www.urionlinejudge.com.br/judge/pt/problems/view/2747) - Saída 1 *Iniciante*
   - [ ] [2748](https://www.urionlinejudge.com.br/judge/pt/problems/view/2748) - Saída 2 *Iniciante*
   - [ ] [2749](https://www.urionlinejudge.com.br/judge/pt/problems/view/2749) - Saída 3 *Iniciante*

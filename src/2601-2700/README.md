@@ -1,30 +1,30 @@
 # Problemas 2601 a 2700
 
   - [ ] [2601](https://www.urionlinejudge.com.br/judge/pt/problems/view/2601) - Tustin e Seu Dado Antigo *Ad-Hoc*
-  - [ ] [2602](https://www.urionlinejudge.com.br/judge/pt/problems/view/2602) - Select Básico *SQL*
-  - [ ] [2603](https://www.urionlinejudge.com.br/judge/pt/problems/view/2603) - Endereço dos Clientes *SQL*
-  - [ ] [2604](https://www.urionlinejudge.com.br/judge/pt/problems/view/2604) - Menores que 10 ou Maiores que 100 *SQL*
-  - [ ] [2605](https://www.urionlinejudge.com.br/judge/pt/problems/view/2605) - Representantes Executivos *SQL*
-  - [ ] [2606](https://www.urionlinejudge.com.br/judge/pt/problems/view/2606) - Categorias *SQL*
-  - [ ] [2607](https://www.urionlinejudge.com.br/judge/pt/problems/view/2607) - Cidades em Ordem Alfabética *SQL*
-  - [ ] [2608](https://www.urionlinejudge.com.br/judge/pt/problems/view/2608) - Maior e Menor Preço *SQL*
-  - [ ] [2609](https://www.urionlinejudge.com.br/judge/pt/problems/view/2609) - Produtos por Categorias *SQL*
-  - [ ] [2610](https://www.urionlinejudge.com.br/judge/pt/problems/view/2610) - Valor Médio dos Produtos *SQL*
-  - [ ] [2611](https://www.urionlinejudge.com.br/judge/pt/problems/view/2611) - Filmes de Ação *SQL*
-  - [ ] [2612](https://www.urionlinejudge.com.br/judge/pt/problems/view/2612) - Os Atores Silva *SQL*
-  - [ ] [2613](https://www.urionlinejudge.com.br/judge/pt/problems/view/2613) - Filmes em Promoção *SQL*
-  - [ ] [2614](https://www.urionlinejudge.com.br/judge/pt/problems/view/2614) - Locações de Setembro *SQL*
-  - [ ] [2615](https://www.urionlinejudge.com.br/judge/pt/problems/view/2615) - Expandindo o Negocio *SQL*
-  - [ ] [2616](https://www.urionlinejudge.com.br/judge/pt/problems/view/2616) - Nenhuma Locação *SQL*
-  - [ ] [2617](https://www.urionlinejudge.com.br/judge/pt/problems/view/2617) - Fornecedor Ajax SA *SQL*
-  - [ ] [2618](https://www.urionlinejudge.com.br/judge/pt/problems/view/2618) - Produtos Importados *SQL*
-  - [ ] [2619](https://www.urionlinejudge.com.br/judge/pt/problems/view/2619) - Super Luxo *SQL*
-  - [ ] [2620](https://www.urionlinejudge.com.br/judge/pt/problems/view/2620) - Pedidos no Primeiro Semestre *SQL*
-  - [ ] [2621](https://www.urionlinejudge.com.br/judge/pt/problems/view/2621) - Quantidades Entre 10 e 20 *SQL*
-  - [ ] [2622](https://www.urionlinejudge.com.br/judge/pt/problems/view/2622) - Pessoas jurídicas *SQL*
-  - [ ] [2623](https://www.urionlinejudge.com.br/judge/pt/problems/view/2623) - Categorias com Vários Produtos *SQL*
-  - [ ] [2624](https://www.urionlinejudge.com.br/judge/pt/problems/view/2624) - Quantidades de Cidades por Clientes *SQL*
-  - [ ] [2625](https://www.urionlinejudge.com.br/judge/pt/problems/view/2625) - Máscara de CPF *SQL*
+  - [ ] 2602 - ~Select Básico~ *SQL*
+  - [ ] 2603 - ~Endereço dos Clientes~ *SQL*
+  - [ ] 2604 - ~Menores que 10 ou Maiores que 100~ *SQL*
+  - [ ] 2605 - ~Representantes Executivos~ *SQL*
+  - [ ] 2606 - ~Categorias~ *SQL*
+  - [ ] 2607 - ~Cidades em Ordem Alfabética~ *SQL*
+  - [ ] 2608 - ~Maior e Menor Preço~ *SQL*
+  - [ ] 2609 - ~Produtos por Categorias~ *SQL*
+  - [ ] 2610 - ~Valor Médio dos Produtos~ *SQL*
+  - [ ] 2611 - ~Filmes de Ação~ *SQL*
+  - [ ] 2612 - ~Os Atores Silva~ *SQL*
+  - [ ] 2613 - ~Filmes em Promoção~ *SQL*
+  - [ ] 2614 - ~Locações de Setembro~ *SQL*
+  - [ ] 2615 - ~Expandindo o Negocio~ *SQL*
+  - [ ] 2616 - ~Nenhuma Locação~ *SQL*
+  - [ ] 2617 - ~Fornecedor Ajax SA~ *SQL*
+  - [ ] 2618 - ~Produtos Importados~ *SQL*
+  - [ ] 2619 - ~Super Luxo~ *SQL*
+  - [ ] 2620 - ~Pedidos no Primeiro Semestre~ *SQL*
+  - [ ] 2621 - ~Quantidades Entre 10 e 20~ *SQL*
+  - [ ] 2622 - ~Pessoas jurídicas~ *SQL*
+  - [ ] 2623 - ~Categorias com Vários Produtos~ *SQL*
+  - [ ] 2624 - ~Quantidades de Cidades por Clientes~ *SQL*
+  - [ ] 2625 - ~Máscara de CPF~ *SQL*
   - [ ] [2626](https://www.urionlinejudge.com.br/judge/pt/problems/view/2626) - Turma do JB6 *Iniciante*
   - [ ] [2627](https://www.urionlinejudge.com.br/judge/pt/problems/view/2627) - Bonde de Autômatos *Ad-Hoc*
   - [ ] [2628](https://www.urionlinejudge.com.br/judge/pt/problems/view/2628) - Caça ao Tesouro *Ad-Hoc*
