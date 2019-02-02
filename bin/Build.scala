@@ -48,7 +48,7 @@ object Build extends App {
         s"  - [x] [${p.number}](https://www.urionlinejudge.com.br/judge/pt/problems/view/${p.number}) - [${p.name}](src/${p.number / 100 * 100 + 1}-${(p.number / 100 + 1) * 100}/${p.number}.poti)"
       case p =>
         s"  - [ ] [${p.number}](https://www.urionlinejudge.com.br/judge/pt/problems/view/${p.number}) - ${p.name}"
-    }
+    }.sorted.reverse
     import java.io.PrintWriter
     new PrintWriter("../" + clean(d) + ".md") {
       write("# " + d + s" (${count} / ${bd.length})\n\n" + f.mkString("\n"))
