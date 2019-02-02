@@ -1,0 +1,9 @@
+n = leia_inteiro
+para i de 1 até n faça
+  s = leia_texto
+  a = s.descarte(2).inteiro
+  b = s.descarte(5).inteiro
+  c = s.descarte(11).inteiro
+  soma = a + b + c
+  escreva soma
+fim

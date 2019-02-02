@@ -90,7 +90,7 @@
   - [ ] [2153](https://www.urionlinejudge.com.br/judge/pt/problems/view/2153) - Sanduicheiche
   - [ ] [2157](https://www.urionlinejudge.com.br/judge/pt/problems/view/2157) - Sequência Espelho
   - [ ] [2174](https://www.urionlinejudge.com.br/judge/pt/problems/view/2174) - Coleção de Pomekon
-  - [ ] [2242](https://www.urionlinejudge.com.br/judge/pt/problems/view/2242) - Huaauhahhuahau
+  - [x] [2242](https://www.urionlinejudge.com.br/judge/pt/problems/view/2242) - [Huaauhahhuahau](src/2201-2300/2242.poti)
   - [ ] [2253](https://www.urionlinejudge.com.br/judge/pt/problems/view/2253) - Validador de Senhas
   - [ ] [2292](https://www.urionlinejudge.com.br/judge/pt/problems/view/2292) - Painel LED
   - [ ] [2314](https://www.urionlinejudge.com.br/judge/pt/problems/view/2314) - Indentador
@@ -111,7 +111,7 @@
   - [ ] [2678](https://www.urionlinejudge.com.br/judge/pt/problems/view/2678) - Discagem de Voz
   - [ ] [2691](https://www.urionlinejudge.com.br/judge/pt/problems/view/2691) - O Matemático
   - [ ] [2692](https://www.urionlinejudge.com.br/judge/pt/problems/view/2692) - Teclado Zoeiro
-  - [ ] [2694](https://www.urionlinejudge.com.br/judge/pt/problems/view/2694) - Problema com a Calculadora
+  - [x] [2694](https://www.urionlinejudge.com.br/judge/pt/problems/view/2694) - [Problema com a Calculadora](src/2601-2700/2694.poti)
   - [ ] [2697](https://www.urionlinejudge.com.br/judge/pt/problems/view/2697) - Sequencia Completa de Naebbirac
   - [ ] [2714](https://www.urionlinejudge.com.br/judge/pt/problems/view/2714) - Minha Senha Provisória
   - [ ] [2722](https://www.urionlinejudge.com.br/judge/pt/problems/view/2722) - Pegadinha de Evergreen

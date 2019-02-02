@@ -1,0 +1,6 @@
+n = leia_inteiro
+a = 0::leia_inteiros(n) + [0]
+para i de 2 até a.tamanho - 1 faça
+  soma = a[i-1] + a[i] + a[i+1]
+  escreva soma
+fim

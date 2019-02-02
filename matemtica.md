@@ -188,8 +188,8 @@
   - [ ] [2597](https://www.urionlinejudge.com.br/judge/pt/problems/view/2597) - Xenlongão
   - [ ] [2598](https://www.urionlinejudge.com.br/judge/pt/problems/view/2598) - Colocando Radares
   - [ ] [2660](https://www.urionlinejudge.com.br/judge/pt/problems/view/2660) - Cigarras Periódicas
-  - [ ] [2661](https://www.urionlinejudge.com.br/judge/pt/problems/view/2661) - Despojados
-  - [ ] [2667](https://www.urionlinejudge.com.br/judge/pt/problems/view/2667) - Jogo de Boca
+  - [x] [2661](https://www.urionlinejudge.com.br/judge/pt/problems/view/2661) - [Despojados](src/2601-2700/2661.poti)
+  - [x] [2667](https://www.urionlinejudge.com.br/judge/pt/problems/view/2667) - [Jogo de Boca](src/2601-2700/2667.poti)
   - [ ] [2668](https://www.urionlinejudge.com.br/judge/pt/problems/view/2668) - K-ésimo
   - [ ] [2680](https://www.urionlinejudge.com.br/judge/pt/problems/view/2680) - Folha de Pagamentos
   - [ ] [2681](https://www.urionlinejudge.com.br/judge/pt/problems/view/2681) - Macacos da Torre de Hanoi

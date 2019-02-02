@@ -1,0 +1,28 @@
+descolado(x: Real) = se x == 1.0 então falso senão
+  var i := 2
+  r = raiz(x).inteiro
+  var primo, resultado := verdadeiro
+  enquanto i <= r e resultado faça
+    se x mod i^2 == 0.0 então
+      resultado := falso
+    senãose x mod i == 0.0
+      primo := falso
+    fim
+    i := i + 1
+  fim
+  resultado e primo
+fim
+
+n = leia_real
+var resp := 0
+para i de 1 até raiz(n).inteiro faça
+  se n mod i == 0.0 então
+    se descolado(i) então
+      resp := resp + 1
+    fim
+    se i <> n/i e descolado(n/i) então
+      resp := resp + 1
+    fim
+  fim
+fim
+escreva (2^resp - resp - 1).arredonde

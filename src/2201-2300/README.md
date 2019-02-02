@@ -41,7 +41,7 @@
   - [ ] [2239](https://www.urionlinejudge.com.br/judge/pt/problems/view/2239) - Estatística Hexa
   - [ ] [2240](https://www.urionlinejudge.com.br/judge/pt/problems/view/2240) - Fundindo Árvores
   - [ ] [2241](https://www.urionlinejudge.com.br/judge/pt/problems/view/2241) - Go--
-  - [ ] [2242](https://www.urionlinejudge.com.br/judge/pt/problems/view/2242) - Huaauhahhuahau
+  - [x] [2242](https://www.urionlinejudge.com.br/judge/pt/problems/view/2242) - [Huaauhahhuahau](2242.poti)
   - [ ] [2243](https://www.urionlinejudge.com.br/judge/pt/problems/view/2243) - Isósceles
   - [ ] [2244](https://www.urionlinejudge.com.br/judge/pt/problems/view/2244) - Jogos Olímpicos
   - [ ] [2245](https://www.urionlinejudge.com.br/judge/pt/problems/view/2245) - Kit de Encolhimento de Polígonos

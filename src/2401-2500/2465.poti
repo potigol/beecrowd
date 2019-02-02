@@ -1,0 +1,20 @@
+n = leia_inteiro
+a = leia_inteiros(" ")
+matriz = Lista.imutavel(n, leia_inteiros(" "))
+marcado = Matriz.mutavel(n, n, falso)
+var bandeiras := 0
+
+marcar(x, y: Inteiro): Unit
+  marcado[x][y] := verdadeiro
+  bandeiras := bandeiras + 1
+  vizinhos = [Tupla(x - 1, y), Tupla(x + 1, y), Tupla(x, y - 1), Tupla(x, y + 1)]
+  para a em vizinhos faça
+    i, j = a.primeiro, a.segundo
+    se i >= 1 e i <= n e j >= 1 e j <= n e matriz[x][y] <= matriz[i][j] e não marcado[i][j] então
+      marcar(i, j)
+    fim
+  fim
+fim
+
+marcar(a[1], a[2])
+escreva bandeiras

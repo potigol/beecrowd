@@ -1,0 +1,6 @@
+x = leia_inteiros(" ").ordene
+se x[1] * x[4] == x[2] * x[3] então
+  escreva "S"
+senão
+  escreva "N"
+fim

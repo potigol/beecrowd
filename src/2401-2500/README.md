@@ -27,13 +27,13 @@
   - [ ] [2425](https://www.urionlinejudge.com.br/judge/pt/problems/view/2425) - Banco
   - [ ] [2426](https://www.urionlinejudge.com.br/judge/pt/problems/view/2426) - Bomba
   - [ ] [2427](https://www.urionlinejudge.com.br/judge/pt/problems/view/2427) - Chocolate
-  - [ ] [2428](https://www.urionlinejudge.com.br/judge/pt/problems/view/2428) - Capital
+  - [x] [2428](https://www.urionlinejudge.com.br/judge/pt/problems/view/2428) - [Capital](2428.poti)
   - [ ] [2429](https://www.urionlinejudge.com.br/judge/pt/problems/view/2429) - Rodovia
   - [ ] [2430](https://www.urionlinejudge.com.br/judge/pt/problems/view/2430) - Catálogo de Músicas
   - [ ] [2431](https://www.urionlinejudge.com.br/judge/pt/problems/view/2431) - Lençol
   - [ ] [2432](https://www.urionlinejudge.com.br/judge/pt/problems/view/2432) - Tiro ao Alvo
   - [ ] [2433](https://www.urionlinejudge.com.br/judge/pt/problems/view/2433) - Vende-se
-  - [ ] [2434](https://www.urionlinejudge.com.br/judge/pt/problems/view/2434) - Saldo do Vovô
+  - [x] [2434](https://www.urionlinejudge.com.br/judge/pt/problems/view/2434) - [Saldo do Vovô](2434.poti)
   - [ ] [2435](https://www.urionlinejudge.com.br/judge/pt/problems/view/2435) - Corrida
   - [ ] [2436](https://www.urionlinejudge.com.br/judge/pt/problems/view/2436) - Robô
   - [ ] [2437](https://www.urionlinejudge.com.br/judge/pt/problems/view/2437) - Distância de Manhattan
@@ -64,15 +64,15 @@
   - [ ] [2462](https://www.urionlinejudge.com.br/judge/pt/problems/view/2462) - Voo
   - [ ] [2463](https://www.urionlinejudge.com.br/judge/pt/problems/view/2463) - Corredor
   - [ ] [2464](https://www.urionlinejudge.com.br/judge/pt/problems/view/2464) - Decifra
-  - [ ] [2465](https://www.urionlinejudge.com.br/judge/pt/problems/view/2465) - Passa Bolinha
-  - [ ] [2466](https://www.urionlinejudge.com.br/judge/pt/problems/view/2466) - Sinuca
+  - [x] [2465](https://www.urionlinejudge.com.br/judge/pt/problems/view/2465) - [Passa Bolinha](2465.poti)
+  - [x] [2466](https://www.urionlinejudge.com.br/judge/pt/problems/view/2466) - [Sinuca](2466.poti)
   - [ ] [2467](https://www.urionlinejudge.com.br/judge/pt/problems/view/2467) - Frequência
   - [ ] [2468](https://www.urionlinejudge.com.br/judge/pt/problems/view/2468) - Mapa
   - [ ] [2469](https://www.urionlinejudge.com.br/judge/pt/problems/view/2469) - Notas
   - [ ] [2470](https://www.urionlinejudge.com.br/judge/pt/problems/view/2470) - Jogo da Memória
   - [ ] [2471](https://www.urionlinejudge.com.br/judge/pt/problems/view/2471) - Quadrado
   - [ ] [2472](https://www.urionlinejudge.com.br/judge/pt/problems/view/2472) - Tapetes
-  - [ ] [2473](https://www.urionlinejudge.com.br/judge/pt/problems/view/2473) - Loteria
+  - [x] [2473](https://www.urionlinejudge.com.br/judge/pt/problems/view/2473) - [Loteria](2473.poti)
   - [ ] [2474](https://www.urionlinejudge.com.br/judge/pt/problems/view/2474) - Burlando o Sistema
   - [ ] [2475](https://www.urionlinejudge.com.br/judge/pt/problems/view/2475) - Confecção de Presentes
   - [ ] [2476](https://www.urionlinejudge.com.br/judge/pt/problems/view/2476) - Entregas do Noel

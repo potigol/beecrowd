@@ -1,0 +1,6 @@
+n = leia_texto
+var s := 0
+para i de 1 até n.tamanho faça
+  s := s + (n[i]-'0')
+fim
+escreva s mod 3

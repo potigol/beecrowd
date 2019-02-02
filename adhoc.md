@@ -181,7 +181,7 @@
   - [ ] [1787](https://www.urionlinejudge.com.br/judge/pt/problems/view/1787) - URI
   - [ ] [1791](https://www.urionlinejudge.com.br/judge/pt/problems/view/1791) - Descobrindo uma Matriz
   - [ ] [1793](https://www.urionlinejudge.com.br/judge/pt/problems/view/1793) - Escada Rolante
-  - [ ] [1794](https://www.urionlinejudge.com.br/judge/pt/problems/view/1794) - Lavanderia
+  - [x] [1794](https://www.urionlinejudge.com.br/judge/pt/problems/view/1794) - [Lavanderia](src/1701-1800/1794.poti)
   - [ ] [1796](https://www.urionlinejudge.com.br/judge/pt/problems/view/1796) - Economia Brasileira
   - [ ] [1800](https://www.urionlinejudge.com.br/judge/pt/problems/view/1800) - Onde Estão Minhas Chaves
   - [ ] [1802](https://www.urionlinejudge.com.br/judge/pt/problems/view/1802) - Catálogo de Livros
@@ -397,7 +397,7 @@
   - [ ] [2342](https://www.urionlinejudge.com.br/judge/pt/problems/view/2342) - Overflow
   - [ ] [2343](https://www.urionlinejudge.com.br/judge/pt/problems/view/2343) - Caçadores de Mitos
   - [ ] [2344](https://www.urionlinejudge.com.br/judge/pt/problems/view/2344) - Notas da Prova
-  - [ ] [2345](https://www.urionlinejudge.com.br/judge/pt/problems/view/2345) - Assigning Teams
+  - [x] [2345](https://www.urionlinejudge.com.br/judge/pt/problems/view/2345) - [Assigning Teams](src/2301-2400/2345.poti)
   - [ ] [2346](https://www.urionlinejudge.com.br/judge/pt/problems/view/2346) - Back to the Future
   - [ ] [2347](https://www.urionlinejudge.com.br/judge/pt/problems/view/2347) - Counting Self-Rotating Subsets
   - [ ] [2348](https://www.urionlinejudge.com.br/judge/pt/problems/view/2348) - Dating On-Line
@@ -440,9 +440,9 @@
   - [ ] [2394](https://www.urionlinejudge.com.br/judge/pt/problems/view/2394) - Corrida 1
   - [ ] [2395](https://www.urionlinejudge.com.br/judge/pt/problems/view/2395) - Transporte de Contêineres
   - [ ] [2396](https://www.urionlinejudge.com.br/judge/pt/problems/view/2396) - Corrida
-  - [ ] [2397](https://www.urionlinejudge.com.br/judge/pt/problems/view/2397) - Triângulos
+  - [x] [2397](https://www.urionlinejudge.com.br/judge/pt/problems/view/2397) - [Triângulos](src/2301-2400/2397.poti)
   - [ ] [2398](https://www.urionlinejudge.com.br/judge/pt/problems/view/2398) - Caça ao Tesouro
-  - [ ] [2399](https://www.urionlinejudge.com.br/judge/pt/problems/view/2399) - Campo Minado
+  - [x] [2399](https://www.urionlinejudge.com.br/judge/pt/problems/view/2399) - [Campo Minado](src/2301-2400/2399.poti)
   - [ ] [2400](https://www.urionlinejudge.com.br/judge/pt/problems/view/2400) - Balé
   - [ ] [2401](https://www.urionlinejudge.com.br/judge/pt/problems/view/2401) - Calculadora
   - [ ] [2402](https://www.urionlinejudge.com.br/judge/pt/problems/view/2402) - Selos
@@ -469,12 +469,12 @@
   - [ ] [2425](https://www.urionlinejudge.com.br/judge/pt/problems/view/2425) - Banco
   - [ ] [2426](https://www.urionlinejudge.com.br/judge/pt/problems/view/2426) - Bomba
   - [ ] [2427](https://www.urionlinejudge.com.br/judge/pt/problems/view/2427) - Chocolate
-  - [ ] [2428](https://www.urionlinejudge.com.br/judge/pt/problems/view/2428) - Capital
+  - [x] [2428](https://www.urionlinejudge.com.br/judge/pt/problems/view/2428) - [Capital](src/2401-2500/2428.poti)
   - [ ] [2430](https://www.urionlinejudge.com.br/judge/pt/problems/view/2430) - Catálogo de Músicas
   - [ ] [2431](https://www.urionlinejudge.com.br/judge/pt/problems/view/2431) - Lençol
   - [ ] [2432](https://www.urionlinejudge.com.br/judge/pt/problems/view/2432) - Tiro ao Alvo
   - [ ] [2433](https://www.urionlinejudge.com.br/judge/pt/problems/view/2433) - Vende-se
-  - [ ] [2434](https://www.urionlinejudge.com.br/judge/pt/problems/view/2434) - Saldo do Vovô
+  - [x] [2434](https://www.urionlinejudge.com.br/judge/pt/problems/view/2434) - [Saldo do Vovô](src/2401-2500/2434.poti)
   - [ ] [2435](https://www.urionlinejudge.com.br/judge/pt/problems/view/2435) - Corrida
   - [ ] [2436](https://www.urionlinejudge.com.br/judge/pt/problems/view/2436) - Robô
   - [ ] [2437](https://www.urionlinejudge.com.br/judge/pt/problems/view/2437) - Distância de Manhattan
@@ -503,15 +503,15 @@
   - [ ] [2462](https://www.urionlinejudge.com.br/judge/pt/problems/view/2462) - Voo
   - [ ] [2463](https://www.urionlinejudge.com.br/judge/pt/problems/view/2463) - Corredor
   - [ ] [2464](https://www.urionlinejudge.com.br/judge/pt/problems/view/2464) - Decifra
-  - [ ] [2465](https://www.urionlinejudge.com.br/judge/pt/problems/view/2465) - Passa Bolinha
-  - [ ] [2466](https://www.urionlinejudge.com.br/judge/pt/problems/view/2466) - Sinuca
+  - [x] [2465](https://www.urionlinejudge.com.br/judge/pt/problems/view/2465) - [Passa Bolinha](src/2401-2500/2465.poti)
+  - [x] [2466](https://www.urionlinejudge.com.br/judge/pt/problems/view/2466) - [Sinuca](src/2401-2500/2466.poti)
   - [ ] [2467](https://www.urionlinejudge.com.br/judge/pt/problems/view/2467) - Frequência
   - [ ] [2468](https://www.urionlinejudge.com.br/judge/pt/problems/view/2468) - Mapa
   - [ ] [2469](https://www.urionlinejudge.com.br/judge/pt/problems/view/2469) - Notas
   - [ ] [2470](https://www.urionlinejudge.com.br/judge/pt/problems/view/2470) - Jogo da Memória
   - [ ] [2471](https://www.urionlinejudge.com.br/judge/pt/problems/view/2471) - Quadrado
   - [ ] [2472](https://www.urionlinejudge.com.br/judge/pt/problems/view/2472) - Tapetes
-  - [ ] [2473](https://www.urionlinejudge.com.br/judge/pt/problems/view/2473) - Loteria
+  - [x] [2473](https://www.urionlinejudge.com.br/judge/pt/problems/view/2473) - [Loteria](src/2401-2500/2473.poti)
   - [ ] [2478](https://www.urionlinejudge.com.br/judge/pt/problems/view/2478) - Acerte o Presente
   - [ ] [2479](https://www.urionlinejudge.com.br/judge/pt/problems/view/2479) - Ordenando a Lista de Crianças do Papai Noel
   - [ ] [2487](https://www.urionlinejudge.com.br/judge/pt/problems/view/2487) - Do Lado Escuro do Código
@@ -563,7 +563,7 @@
   - [ ] [2672](https://www.urionlinejudge.com.br/judge/pt/problems/view/2672) - Máscara de Rede
   - [ ] [2673](https://www.urionlinejudge.com.br/judge/pt/problems/view/2673) - Resistores Série e Paralelo
   - [ ] [2675](https://www.urionlinejudge.com.br/judge/pt/problems/view/2675) - Rouba Monte
-  - [ ] [2679](https://www.urionlinejudge.com.br/judge/pt/problems/view/2679) - Sucessor Par
+  - [x] [2679](https://www.urionlinejudge.com.br/judge/pt/problems/view/2679) - [Sucessor Par](src/2601-2700/2679.poti)
   - [ ] [2682](https://www.urionlinejudge.com.br/judge/pt/problems/view/2682) - Detector de Falhas
   - [ ] [2693](https://www.urionlinejudge.com.br/judge/pt/problems/view/2693) - Van
   - [ ] [2719](https://www.urionlinejudge.com.br/judge/pt/problems/view/2719) - Quantas Viagens Fará o Noel?

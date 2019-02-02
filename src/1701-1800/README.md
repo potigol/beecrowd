@@ -93,7 +93,7 @@
   - [ ] [1791](https://www.urionlinejudge.com.br/judge/pt/problems/view/1791) - Descobrindo uma Matriz
   - [ ] [1792](https://www.urionlinejudge.com.br/judge/pt/problems/view/1792) - Ataque Programado
   - [ ] [1793](https://www.urionlinejudge.com.br/judge/pt/problems/view/1793) - Escada Rolante
-  - [ ] [1794](https://www.urionlinejudge.com.br/judge/pt/problems/view/1794) - Lavanderia
+  - [x] [1794](https://www.urionlinejudge.com.br/judge/pt/problems/view/1794) - [Lavanderia](1794.poti)
   - [ ] [1795](https://www.urionlinejudge.com.br/judge/pt/problems/view/1795) - Triângulo Trinomial
   - [ ] [1796](https://www.urionlinejudge.com.br/judge/pt/problems/view/1796) - Economia Brasileira
   - [ ] [1797](https://www.urionlinejudge.com.br/judge/pt/problems/view/1797) - Ferozes e Curiosos

@@ -1,0 +1,7 @@
+a = leia_texto
+b = a.selecione(c => "aeiou".contém(c))
+se b == b.inverta então
+  escreva "S"
+senão
+  escreva "N"
+fim

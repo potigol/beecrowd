@@ -1,0 +1,10 @@
+lados = leia_inteiros(" ").ordene
+a, b, c = lados[1], lados[2], lados[3]
+
+d = c * c - (a * a + b * b)
+escolha d
+  caso d se d >= 2 * a * b => escreva "n"
+  caso d se d > 0          => escreva "o"
+  caso d se d < 0          => escreva "a"
+  caso _                   => escreva "r"
+fim

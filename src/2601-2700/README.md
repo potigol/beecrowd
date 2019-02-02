@@ -60,13 +60,13 @@
   - [ ] [2658](https://www.urionlinejudge.com.br/judge/pt/problems/view/2658) - Acordes Intergaláticos
   - [ ] [2659](https://www.urionlinejudge.com.br/judge/pt/problems/view/2659) - Brincadeira
   - [ ] [2660](https://www.urionlinejudge.com.br/judge/pt/problems/view/2660) - Cigarras Periódicas
-  - [ ] [2661](https://www.urionlinejudge.com.br/judge/pt/problems/view/2661) - Despojados
+  - [x] [2661](https://www.urionlinejudge.com.br/judge/pt/problems/view/2661) - [Despojados](2661.poti)
   - [ ] [2662](https://www.urionlinejudge.com.br/judge/pt/problems/view/2662) - Escala Musical
   - [ ] [2663](https://www.urionlinejudge.com.br/judge/pt/problems/view/2663) - Fase
   - [ ] [2664](https://www.urionlinejudge.com.br/judge/pt/problems/view/2664) - Ginástica
   - [ ] [2665](https://www.urionlinejudge.com.br/judge/pt/problems/view/2665) - Hipercampo
   - [ ] [2666](https://www.urionlinejudge.com.br/judge/pt/problems/view/2666) - Imposto Real
-  - [ ] [2667](https://www.urionlinejudge.com.br/judge/pt/problems/view/2667) - Jogo de Boca
+  - [x] [2667](https://www.urionlinejudge.com.br/judge/pt/problems/view/2667) - [Jogo de Boca](2667.poti)
   - [ ] [2668](https://www.urionlinejudge.com.br/judge/pt/problems/view/2668) - K-ésimo
   - [ ] [2669](https://www.urionlinejudge.com.br/judge/pt/problems/view/2669) - Laboratório de Biotecnologia
   - [ ] [2670](https://www.urionlinejudge.com.br/judge/pt/problems/view/2670) - Máquina de Café
@@ -78,7 +78,7 @@
   - [ ] [2676](https://www.urionlinejudge.com.br/judge/pt/problems/view/2676) - Cidade no Centro
   - [ ] [2677](https://www.urionlinejudge.com.br/judge/pt/problems/view/2677) - Par ou Ímpar
   - [ ] [2678](https://www.urionlinejudge.com.br/judge/pt/problems/view/2678) - Discagem de Voz
-  - [ ] [2679](https://www.urionlinejudge.com.br/judge/pt/problems/view/2679) - Sucessor Par
+  - [x] [2679](https://www.urionlinejudge.com.br/judge/pt/problems/view/2679) - [Sucessor Par](2679.poti)
   - [ ] [2680](https://www.urionlinejudge.com.br/judge/pt/problems/view/2680) - Folha de Pagamentos
   - [ ] [2681](https://www.urionlinejudge.com.br/judge/pt/problems/view/2681) - Macacos da Torre de Hanoi
   - [ ] [2682](https://www.urionlinejudge.com.br/judge/pt/problems/view/2682) - Detector de Falhas
@@ -93,7 +93,7 @@
   - [ ] [2691](https://www.urionlinejudge.com.br/judge/pt/problems/view/2691) - O Matemático
   - [ ] [2692](https://www.urionlinejudge.com.br/judge/pt/problems/view/2692) - Teclado Zoeiro
   - [ ] [2693](https://www.urionlinejudge.com.br/judge/pt/problems/view/2693) - Van
-  - [ ] [2694](https://www.urionlinejudge.com.br/judge/pt/problems/view/2694) - Problema com a Calculadora
+  - [x] [2694](https://www.urionlinejudge.com.br/judge/pt/problems/view/2694) - [Problema com a Calculadora](2694.poti)
   - [ ] [2695](https://www.urionlinejudge.com.br/judge/pt/problems/view/2695) - Arrumando Lajotas
   - [ ] ~2696~
   - [ ] [2697](https://www.urionlinejudge.com.br/judge/pt/problems/view/2697) - Sequencia Completa de Naebbirac

@@ -1,0 +1,12 @@
+x = leia_inteiros(" ")
+n = x[1]
+var saldo := x[2]
+mov = leia_inteiros(n)
+var menor := saldo
+para i em mov faça
+  saldo := saldo + i
+  se saldo < menor então
+    menor := saldo
+  fim
+fim
+escreva menor

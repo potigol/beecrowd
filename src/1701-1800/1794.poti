@@ -1,0 +1,9 @@
+n = leia_inteiro
+l = leia_inteiros(" ")
+s = leia_inteiros(" ")
+
+se (l[1] <= n) e (n <= l[2]) e (s[1] <= n) e (n <= s[2]) então
+  escreva "possivel"
+senão
+  escreva "impossivel"
+fim

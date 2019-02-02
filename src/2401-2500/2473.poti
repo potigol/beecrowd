@@ -1,0 +1,5 @@
+aposta, sorteio = leia_inteiros(" ")
+acertos = para i em aposta,
+               j em sorteio se i == j gere i fim
+resposta = ["azar", "azar", "azar", "terno", "quadra", "quina", "sena"]
+escreva resposta[acertos.tamanho + 1]

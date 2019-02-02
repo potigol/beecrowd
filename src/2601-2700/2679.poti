@@ -1,0 +1,6 @@
+n = leia_inteiro
+se n mod 2 == 0 então
+  escreva n + 2
+senão
+  escreva n + 1
+fim

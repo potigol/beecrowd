@@ -1,0 +1,13 @@
+leia_inteiro
+var linha := leia_inteiros(" ")
+
+enquanto linha.tamanho > 1 faça
+  linha := para i de 2 até linha.tamanho gere
+    linha[i - 1] * linha[i]
+  fim
+fim
+
+escolha linha[1]
+  caso -1 => escreva "branca"
+  caso  1 => escreva "preta"
+fim

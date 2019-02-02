@@ -44,7 +44,7 @@
   - [ ] [2342](https://www.urionlinejudge.com.br/judge/pt/problems/view/2342) - Overflow
   - [ ] [2343](https://www.urionlinejudge.com.br/judge/pt/problems/view/2343) - Caçadores de Mitos
   - [ ] [2344](https://www.urionlinejudge.com.br/judge/pt/problems/view/2344) - Notas da Prova
-  - [ ] [2345](https://www.urionlinejudge.com.br/judge/pt/problems/view/2345) - Assigning Teams
+  - [x] [2345](https://www.urionlinejudge.com.br/judge/pt/problems/view/2345) - [Assigning Teams](2345.poti)
   - [ ] [2346](https://www.urionlinejudge.com.br/judge/pt/problems/view/2346) - Back to the Future
   - [ ] [2347](https://www.urionlinejudge.com.br/judge/pt/problems/view/2347) - Counting Self-Rotating Subsets
   - [ ] [2348](https://www.urionlinejudge.com.br/judge/pt/problems/view/2348) - Dating On-Line
@@ -96,7 +96,7 @@
   - [ ] [2394](https://www.urionlinejudge.com.br/judge/pt/problems/view/2394) - Corrida 1
   - [ ] [2395](https://www.urionlinejudge.com.br/judge/pt/problems/view/2395) - Transporte de Contêineres
   - [ ] [2396](https://www.urionlinejudge.com.br/judge/pt/problems/view/2396) - Corrida
-  - [ ] [2397](https://www.urionlinejudge.com.br/judge/pt/problems/view/2397) - Triângulos
+  - [x] [2397](https://www.urionlinejudge.com.br/judge/pt/problems/view/2397) - [Triângulos](2397.poti)
   - [ ] [2398](https://www.urionlinejudge.com.br/judge/pt/problems/view/2398) - Caça ao Tesouro
-  - [ ] [2399](https://www.urionlinejudge.com.br/judge/pt/problems/view/2399) - Campo Minado
+  - [x] [2399](https://www.urionlinejudge.com.br/judge/pt/problems/view/2399) - [Campo Minado](2399.poti)
   - [ ] [2400](https://www.urionlinejudge.com.br/judge/pt/problems/view/2400) - Balé
