@@ -1,4 +1,4 @@
-# 2501-2600
+# Problemas2501 a 2600
 
   - [ ] [2501](https://www.urionlinejudge.com.br/judge/pt/problems/view/2501) - Fatores Permitidos
   - [ ] [2502](https://www.urionlinejudge.com.br/judge/pt/problems/view/2502) - Decifrando a Carta Criptografada

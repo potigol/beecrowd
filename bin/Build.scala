@@ -34,21 +34,24 @@ object Build extends App {
     }
     import java.io.PrintWriter
     new PrintWriter(s"../src/${i * 100 + 1}-${i * 100 + 100}/README.md") {
-      write("# " + s"${i * 100 + 1}-${i * 100 + 100}" + "\n\n" + d.mkString("\n"))
+      write("# Problemas" + s"${i * 100 + 1} a ${i * 100 + 100}" + "\n\n" + d.mkString("\n"))
       close
     }
   }
   for (d <- c) {
     val bd = b(d).sortBy(_.number)
+    var count = 0
+
     val f = bd.map {
       case p if check(p.number) =>
+        count = count + 1
         s"  - [x] [${p.number}](https://www.urionlinejudge.com.br/judge/pt/problems/view/${p.number}) - [${p.name}](src/${p.number / 100 * 100 + 1}-${(p.number / 100 + 1) * 100}/${p.number}.poti)"
       case p =>
         s"  - [ ] [${p.number}](https://www.urionlinejudge.com.br/judge/pt/problems/view/${p.number}) - ${p.name}"
     }
     import java.io.PrintWriter
     new PrintWriter("../" + clean(d) + ".md") {
-      write("# " + d + "\n\n" + f.mkString("\n"))
+      write("# " + d + s" (${count} / ${bd.length})\n\n" + f.mkString("\n"))
       close
     }
   }

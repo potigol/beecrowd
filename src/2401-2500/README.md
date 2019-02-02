@@ -1,4 +1,4 @@
-# 2401-2500
+# Problemas2401 a 2500
 
   - [ ] [2401](https://www.urionlinejudge.com.br/judge/pt/problems/view/2401) - Calculadora
   - [ ] [2402](https://www.urionlinejudge.com.br/judge/pt/problems/view/2402) - Selos

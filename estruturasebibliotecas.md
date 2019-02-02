@@ -1,4 +1,4 @@
-# Estruturas e Bibliotecas
+# Estruturas e Bibliotecas (1 / 140)
 
   - [x] [1022](https://www.urionlinejudge.com.br/judge/pt/problems/view/1022) - [TDA Racional](src/1001-1100/1022.poti)
   - [ ] [1025](https://www.urionlinejudge.com.br/judge/pt/problems/view/1025) - Onde está o Mármore?

@@ -1,4 +1,4 @@
-# 2201-2300
+# Problemas2201 a 2300
 
   - [ ] [2201](https://www.urionlinejudge.com.br/judge/pt/problems/view/2201) - Pyramids
   - [ ] [2202](https://www.urionlinejudge.com.br/judge/pt/problems/view/2202) - Trash Removal

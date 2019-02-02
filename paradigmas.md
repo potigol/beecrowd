@@ -1,4 +1,4 @@
-# Paradigmas
+# Paradigmas (0 / 182)
 
   - [ ] [1027](https://www.urionlinejudge.com.br/judge/pt/problems/view/1027) - Onda Crítica
   - [ ] [1029](https://www.urionlinejudge.com.br/judge/pt/problems/view/1029) - Fibonacci, Quantas Chamadas?

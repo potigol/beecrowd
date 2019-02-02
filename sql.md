@@ -1,4 +1,4 @@
-# SQL
+# SQL (0 / 34)
 
   - [ ] [2602](https://www.urionlinejudge.com.br/judge/pt/problems/view/2602) - Select Básico
   - [ ] [2603](https://www.urionlinejudge.com.br/judge/pt/problems/view/2603) - Endereço dos Clientes

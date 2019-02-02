@@ -1,4 +1,4 @@
-# 1501-1600
+# Problemas1501 a 1600
 
   - [ ] [1501](https://www.urionlinejudge.com.br/judge/pt/problems/view/1501) - Quantos Zeros e Quantos Dígitos?
   - [ ] [1502](https://www.urionlinejudge.com.br/judge/pt/problems/view/1502) - Travessia

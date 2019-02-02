@@ -1,4 +1,4 @@
-# Strings
+# Strings (3 / 121)
 
   - [ ] [1024](https://www.urionlinejudge.com.br/judge/pt/problems/view/1024) - Criptografia
   - [ ] [1120](https://www.urionlinejudge.com.br/judge/pt/problems/view/1120) - Revisão de Contrato

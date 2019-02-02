@@ -1,4 +1,4 @@
-# Geometria Computacional
+# Geometria Computacional (0 / 70)
 
   - [ ] [1039](https://www.urionlinejudge.com.br/judge/pt/problems/view/1039) - Flores de Fogo
   - [ ] [1102](https://www.urionlinejudge.com.br/judge/pt/problems/view/1102) - Ataque Fulminante
