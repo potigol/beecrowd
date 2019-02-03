@@ -26,9 +26,9 @@ object Build extends App {
       val x = i * 100 + j
       val p = a.find(_.number == x)
       p match {
-        case None => s"  - [ ] ~${x}~"
+        case None => s"  - [ ] ~~${x}] ~"
         case Some(p) if p.category == "SQL" =>
-          s"  - [ ] ~${p.number}~ - *${p.category}*"
+          s"  - [ ] ~~${p.number}~~ - *${p.category}*"
 
         case Some(p) if (check(x)) =>
           s"  - [x] [${p.number}](https://www.urionlinejudge.com.br/judge/pt/problems/view/${p.number}) - [${p.name}](https://github.com/potigol/URI-Potigol/blob/master/src/${p.number / 100 * 100 + 1}-${(p.number / 100 + 1) * 100}/${p.number}.poti) *${p.category}*"
@@ -87,7 +87,7 @@ object Build extends App {
       s = s + (pi match {
         case None => s"  - [ ] ~~${x}~~ \n"
         case Some(p) if (check(x)) =>
-          s"  - [x] [${p.number}](https://www.urionlinejudge.com.br/judge/pt/problems/view/${p.number}) - [${p.name}](src/${p.number / 100 * 100 + 1}-${(p.number / 100 + 1) * 100}/${p.number}.poti) *${p.category}*\n"
+          s"  - [x] [${p.number}](https://www.urionlinejudge.com.br/judge/pt/problems/view/${p.number}) - [${p.name}](https://github.com/potigol/URI-Potigol/blob/master/src/${p.number / 100 * 100 + 1}-${(p.number / 100 + 1) * 100}/${p.number}.poti) *${p.category}*\n"
         case Some(p) =>
           s"  - [ ] [${p.number}](https://www.urionlinejudge.com.br/judge/pt/problems/view/${p.number}) - ${p.name} *${p.category}*\n"
       })
