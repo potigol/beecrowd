@@ -140,4 +140,4 @@
   - [ ] [2893](https://www.urionlinejudge.com.br/judge/pt/problems/view/2893) - Fibonac^{k}i
   - [ ] [2916](https://www.urionlinejudge.com.br/judge/pt/problems/view/2916) - A Nota
   - [ ] [2929](https://www.urionlinejudge.com.br/judge/pt/problems/view/2929) - Menor da Pilha
-  - [x] [1022](https://www.urionlinejudge.com.br/judge/pt/problems/view/1022) - [TDA Racional](src/1001-1100/1022.poti)
+  - [x] [1022](https://www.urionlinejudge.com.br/judge/pt/problems/view/1022) - [TDA Racional](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1022.poti)

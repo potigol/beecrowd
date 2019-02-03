@@ -88,7 +88,7 @@
   - [ ] [1586](https://www.urionlinejudge.com.br/judge/pt/problems/view/1586) - Cabo de Guerra *Strings*
   - [ ] [1587](https://www.urionlinejudge.com.br/judge/pt/problems/view/1587) - BIT Park *Estruturas e Bibliotecas*
   - [ ] [1588](https://www.urionlinejudge.com.br/judge/pt/problems/view/1588) - Ajude a Federação *Ad-Hoc*
-  - [x] [1589](https://www.urionlinejudge.com.br/judge/pt/problems/view/1589) - [Bob Conduite](1589.poti) *Iniciante*
+  - [x] [1589](https://www.urionlinejudge.com.br/judge/pt/problems/view/1589) - [Bob Conduite](https://github.com/potigol/URI-Potigol/blob/master/src/1501-1600/1589.poti) *Iniciante*
   - [ ] [1590](https://www.urionlinejudge.com.br/judge/pt/problems/view/1590) - Cuarenta e Dois *Paradigmas*
   - [ ] [1591](https://www.urionlinejudge.com.br/judge/pt/problems/view/1591) - Dia da Vovó *Ad-Hoc*
   - [ ] [1592](https://www.urionlinejudge.com.br/judge/pt/problems/view/1592) - Elias e Golias *Grafos*

@@ -60,16 +60,16 @@
   - [ ] [2658](https://www.urionlinejudge.com.br/judge/pt/problems/view/2658) - Acordes Intergaláticos *Estruturas e Bibliotecas*
   - [ ] [2659](https://www.urionlinejudge.com.br/judge/pt/problems/view/2659) - Brincadeira *Ad-Hoc*
   - [ ] [2660](https://www.urionlinejudge.com.br/judge/pt/problems/view/2660) - Cigarras Periódicas *Matemática*
-  - [x] [2661](https://www.urionlinejudge.com.br/judge/pt/problems/view/2661) - [Despojados](2661.poti) *Matemática*
+  - [x] [2661](https://www.urionlinejudge.com.br/judge/pt/problems/view/2661) - [Despojados](https://github.com/potigol/URI-Potigol/blob/master/src/2601-2700/2661.poti) *Matemática*
   - [ ] [2662](https://www.urionlinejudge.com.br/judge/pt/problems/view/2662) - Escala Musical *Ad-Hoc*
-  - [x] [2663](https://www.urionlinejudge.com.br/judge/pt/problems/view/2663) - [Fase](2663.poti) *Iniciante*
+  - [x] [2663](https://www.urionlinejudge.com.br/judge/pt/problems/view/2663) - [Fase](https://github.com/potigol/URI-Potigol/blob/master/src/2601-2700/2663.poti) *Iniciante*
   - [ ] [2664](https://www.urionlinejudge.com.br/judge/pt/problems/view/2664) - Ginástica *Paradigmas*
   - [ ] [2665](https://www.urionlinejudge.com.br/judge/pt/problems/view/2665) - Hipercampo *Geometria Computacional*
   - [ ] [2666](https://www.urionlinejudge.com.br/judge/pt/problems/view/2666) - Imposto Real *Grafos*
-  - [x] [2667](https://www.urionlinejudge.com.br/judge/pt/problems/view/2667) - [Jogo de Boca](2667.poti) *Matemática*
+  - [x] [2667](https://www.urionlinejudge.com.br/judge/pt/problems/view/2667) - [Jogo de Boca](https://github.com/potigol/URI-Potigol/blob/master/src/2601-2700/2667.poti) *Matemática*
   - [ ] [2668](https://www.urionlinejudge.com.br/judge/pt/problems/view/2668) - K-ésimo *Matemática*
   - [ ] [2669](https://www.urionlinejudge.com.br/judge/pt/problems/view/2669) - Laboratório de Biotecnologia *Strings*
-  - [x] [2670](https://www.urionlinejudge.com.br/judge/pt/problems/view/2670) - [Máquina de Café](2670.poti) *Iniciante*
+  - [x] [2670](https://www.urionlinejudge.com.br/judge/pt/problems/view/2670) - [Máquina de Café](https://github.com/potigol/URI-Potigol/blob/master/src/2601-2700/2670.poti) *Iniciante*
   - [ ] [2671](https://www.urionlinejudge.com.br/judge/pt/problems/view/2671) - Decodificando o Texto *Estruturas e Bibliotecas*
   - [ ] [2672](https://www.urionlinejudge.com.br/judge/pt/problems/view/2672) - Máscara de Rede *Ad-Hoc*
   - [ ] [2673](https://www.urionlinejudge.com.br/judge/pt/problems/view/2673) - Resistores Série e Paralelo *Ad-Hoc*
@@ -78,7 +78,7 @@
   - [ ] [2676](https://www.urionlinejudge.com.br/judge/pt/problems/view/2676) - Cidade no Centro *Grafos*
   - [ ] [2677](https://www.urionlinejudge.com.br/judge/pt/problems/view/2677) - Par ou Ímpar *Paradigmas*
   - [ ] [2678](https://www.urionlinejudge.com.br/judge/pt/problems/view/2678) - Discagem de Voz *Strings*
-  - [x] [2679](https://www.urionlinejudge.com.br/judge/pt/problems/view/2679) - [Sucessor Par](2679.poti) *Ad-Hoc*
+  - [x] [2679](https://www.urionlinejudge.com.br/judge/pt/problems/view/2679) - [Sucessor Par](https://github.com/potigol/URI-Potigol/blob/master/src/2601-2700/2679.poti) *Ad-Hoc*
   - [ ] [2680](https://www.urionlinejudge.com.br/judge/pt/problems/view/2680) - Folha de Pagamentos *Matemática*
   - [ ] [2681](https://www.urionlinejudge.com.br/judge/pt/problems/view/2681) - Macacos da Torre de Hanoi *Matemática*
   - [ ] [2682](https://www.urionlinejudge.com.br/judge/pt/problems/view/2682) - Detector de Falhas *Ad-Hoc*
@@ -93,7 +93,7 @@
   - [ ] [2691](https://www.urionlinejudge.com.br/judge/pt/problems/view/2691) - O Matemático *Strings*
   - [ ] [2692](https://www.urionlinejudge.com.br/judge/pt/problems/view/2692) - Teclado Zoeiro *Strings*
   - [ ] [2693](https://www.urionlinejudge.com.br/judge/pt/problems/view/2693) - Van *Ad-Hoc*
-  - [x] [2694](https://www.urionlinejudge.com.br/judge/pt/problems/view/2694) - [Problema com a Calculadora](2694.poti) *Strings*
+  - [x] [2694](https://www.urionlinejudge.com.br/judge/pt/problems/view/2694) - [Problema com a Calculadora](https://github.com/potigol/URI-Potigol/blob/master/src/2601-2700/2694.poti) *Strings*
   - [ ] [2695](https://www.urionlinejudge.com.br/judge/pt/problems/view/2695) - Arrumando Lajotas *Iniciante*
   - [ ] ~2696~
   - [ ] [2697](https://www.urionlinejudge.com.br/judge/pt/problems/view/2697) - Sequencia Completa de Naebbirac *Strings*

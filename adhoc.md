@@ -623,13 +623,13 @@
   - [ ] [2928](https://www.urionlinejudge.com.br/judge/pt/problems/view/2928) - Cruzando Lagos
   - [ ] [2931](https://www.urionlinejudge.com.br/judge/pt/problems/view/2931) - Presentes Suspeitos
   - [ ] [2935](https://www.urionlinejudge.com.br/judge/pt/problems/view/2935) - DNA Élfico
-  - [x] [1794](https://www.urionlinejudge.com.br/judge/pt/problems/view/1794) - [Lavanderia](src/1701-1800/1794.poti)
-  - [x] [2345](https://www.urionlinejudge.com.br/judge/pt/problems/view/2345) - [Assigning Teams](src/2301-2400/2345.poti)
-  - [x] [2397](https://www.urionlinejudge.com.br/judge/pt/problems/view/2397) - [Triângulos](src/2301-2400/2397.poti)
-  - [x] [2399](https://www.urionlinejudge.com.br/judge/pt/problems/view/2399) - [Campo Minado](src/2301-2400/2399.poti)
-  - [x] [2428](https://www.urionlinejudge.com.br/judge/pt/problems/view/2428) - [Capital](src/2401-2500/2428.poti)
-  - [x] [2434](https://www.urionlinejudge.com.br/judge/pt/problems/view/2434) - [Saldo do Vovô](src/2401-2500/2434.poti)
-  - [x] [2465](https://www.urionlinejudge.com.br/judge/pt/problems/view/2465) - [Passa Bolinha](src/2401-2500/2465.poti)
-  - [x] [2466](https://www.urionlinejudge.com.br/judge/pt/problems/view/2466) - [Sinuca](src/2401-2500/2466.poti)
-  - [x] [2473](https://www.urionlinejudge.com.br/judge/pt/problems/view/2473) - [Loteria](src/2401-2500/2473.poti)
-  - [x] [2679](https://www.urionlinejudge.com.br/judge/pt/problems/view/2679) - [Sucessor Par](src/2601-2700/2679.poti)
+  - [x] [1794](https://www.urionlinejudge.com.br/judge/pt/problems/view/1794) - [Lavanderia](https://github.com/potigol/URI-Potigol/blob/master/src/1701-1800/1794.poti)
+  - [x] [2345](https://www.urionlinejudge.com.br/judge/pt/problems/view/2345) - [Assigning Teams](https://github.com/potigol/URI-Potigol/blob/master/src/2301-2400/2345.poti)
+  - [x] [2397](https://www.urionlinejudge.com.br/judge/pt/problems/view/2397) - [Triângulos](https://github.com/potigol/URI-Potigol/blob/master/src/2301-2400/2397.poti)
+  - [x] [2399](https://www.urionlinejudge.com.br/judge/pt/problems/view/2399) - [Campo Minado](https://github.com/potigol/URI-Potigol/blob/master/src/2301-2400/2399.poti)
+  - [x] [2428](https://www.urionlinejudge.com.br/judge/pt/problems/view/2428) - [Capital](https://github.com/potigol/URI-Potigol/blob/master/src/2401-2500/2428.poti)
+  - [x] [2434](https://www.urionlinejudge.com.br/judge/pt/problems/view/2434) - [Saldo do Vovô](https://github.com/potigol/URI-Potigol/blob/master/src/2401-2500/2434.poti)
+  - [x] [2465](https://www.urionlinejudge.com.br/judge/pt/problems/view/2465) - [Passa Bolinha](https://github.com/potigol/URI-Potigol/blob/master/src/2401-2500/2465.poti)
+  - [x] [2466](https://www.urionlinejudge.com.br/judge/pt/problems/view/2466) - [Sinuca](https://github.com/potigol/URI-Potigol/blob/master/src/2401-2500/2466.poti)
+  - [x] [2473](https://www.urionlinejudge.com.br/judge/pt/problems/view/2473) - [Loteria](https://github.com/potigol/URI-Potigol/blob/master/src/2401-2500/2473.poti)
+  - [x] [2679](https://www.urionlinejudge.com.br/judge/pt/problems/view/2679) - [Sucessor Par](https://github.com/potigol/URI-Potigol/blob/master/src/2601-2700/2679.poti)

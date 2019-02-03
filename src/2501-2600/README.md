@@ -80,8 +80,8 @@
   - [ ] [2578](https://www.urionlinejudge.com.br/judge/pt/problems/view/2578) - Ontarama Meraini *Ad-Hoc*
   - [ ] [2579](https://www.urionlinejudge.com.br/judge/pt/problems/view/2579) - Nagol *Ad-Hoc*
   - [ ] [2580](https://www.urionlinejudge.com.br/judge/pt/problems/view/2580) - Mestre Pokémon Ho *Ad-Hoc*
-  - [x] [2581](https://www.urionlinejudge.com.br/judge/pt/problems/view/2581) - [I am Toorg!](2581.poti) *Iniciante*
-  - [x] [2582](https://www.urionlinejudge.com.br/judge/pt/problems/view/2582) - [System of a Download](2582.poti) *Iniciante*
+  - [x] [2581](https://www.urionlinejudge.com.br/judge/pt/problems/view/2581) - [I am Toorg!](https://github.com/potigol/URI-Potigol/blob/master/src/2501-2600/2581.poti) *Iniciante*
+  - [x] [2582](https://www.urionlinejudge.com.br/judge/pt/problems/view/2582) - [System of a Download](https://github.com/potigol/URI-Potigol/blob/master/src/2501-2600/2582.poti) *Iniciante*
   - [ ] [2583](https://www.urionlinejudge.com.br/judge/pt/problems/view/2583) - Chirrin Chirrion *Strings*
   - [ ] [2584](https://www.urionlinejudge.com.br/judge/pt/problems/view/2584) - Pentágono *Matemática*
   - [ ] [2585](https://www.urionlinejudge.com.br/judge/pt/problems/view/2585) - Dominó Incompleto *Grafos*

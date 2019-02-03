@@ -27,13 +27,13 @@
   - [ ] [2425](https://www.urionlinejudge.com.br/judge/pt/problems/view/2425) - Banco *Ad-Hoc*
   - [ ] [2426](https://www.urionlinejudge.com.br/judge/pt/problems/view/2426) - Bomba *Ad-Hoc*
   - [ ] [2427](https://www.urionlinejudge.com.br/judge/pt/problems/view/2427) - Chocolate *Ad-Hoc*
-  - [x] [2428](https://www.urionlinejudge.com.br/judge/pt/problems/view/2428) - [Capital](2428.poti) *Ad-Hoc*
+  - [x] [2428](https://www.urionlinejudge.com.br/judge/pt/problems/view/2428) - [Capital](https://github.com/potigol/URI-Potigol/blob/master/src/2401-2500/2428.poti) *Ad-Hoc*
   - [ ] [2429](https://www.urionlinejudge.com.br/judge/pt/problems/view/2429) - Rodovia *Grafos*
   - [ ] [2430](https://www.urionlinejudge.com.br/judge/pt/problems/view/2430) - Catálogo de Músicas *Ad-Hoc*
   - [ ] [2431](https://www.urionlinejudge.com.br/judge/pt/problems/view/2431) - Lençol *Ad-Hoc*
   - [ ] [2432](https://www.urionlinejudge.com.br/judge/pt/problems/view/2432) - Tiro ao Alvo *Ad-Hoc*
   - [ ] [2433](https://www.urionlinejudge.com.br/judge/pt/problems/view/2433) - Vende-se *Ad-Hoc*
-  - [x] [2434](https://www.urionlinejudge.com.br/judge/pt/problems/view/2434) - [Saldo do Vovô](2434.poti) *Ad-Hoc*
+  - [x] [2434](https://www.urionlinejudge.com.br/judge/pt/problems/view/2434) - [Saldo do Vovô](https://github.com/potigol/URI-Potigol/blob/master/src/2401-2500/2434.poti) *Ad-Hoc*
   - [ ] [2435](https://www.urionlinejudge.com.br/judge/pt/problems/view/2435) - Corrida *Ad-Hoc*
   - [ ] [2436](https://www.urionlinejudge.com.br/judge/pt/problems/view/2436) - Robô *Ad-Hoc*
   - [ ] [2437](https://www.urionlinejudge.com.br/judge/pt/problems/view/2437) - Distância de Manhattan *Ad-Hoc*
@@ -64,15 +64,15 @@
   - [ ] [2462](https://www.urionlinejudge.com.br/judge/pt/problems/view/2462) - Voo *Ad-Hoc*
   - [ ] [2463](https://www.urionlinejudge.com.br/judge/pt/problems/view/2463) - Corredor *Ad-Hoc*
   - [ ] [2464](https://www.urionlinejudge.com.br/judge/pt/problems/view/2464) - Decifra *Ad-Hoc*
-  - [x] [2465](https://www.urionlinejudge.com.br/judge/pt/problems/view/2465) - [Passa Bolinha](2465.poti) *Ad-Hoc*
-  - [x] [2466](https://www.urionlinejudge.com.br/judge/pt/problems/view/2466) - [Sinuca](2466.poti) *Ad-Hoc*
+  - [x] [2465](https://www.urionlinejudge.com.br/judge/pt/problems/view/2465) - [Passa Bolinha](https://github.com/potigol/URI-Potigol/blob/master/src/2401-2500/2465.poti) *Ad-Hoc*
+  - [x] [2466](https://www.urionlinejudge.com.br/judge/pt/problems/view/2466) - [Sinuca](https://github.com/potigol/URI-Potigol/blob/master/src/2401-2500/2466.poti) *Ad-Hoc*
   - [ ] [2467](https://www.urionlinejudge.com.br/judge/pt/problems/view/2467) - Frequência *Ad-Hoc*
   - [ ] [2468](https://www.urionlinejudge.com.br/judge/pt/problems/view/2468) - Mapa *Ad-Hoc*
   - [ ] [2469](https://www.urionlinejudge.com.br/judge/pt/problems/view/2469) - Notas *Ad-Hoc*
   - [ ] [2470](https://www.urionlinejudge.com.br/judge/pt/problems/view/2470) - Jogo da Memória *Ad-Hoc*
   - [ ] [2471](https://www.urionlinejudge.com.br/judge/pt/problems/view/2471) - Quadrado *Ad-Hoc*
   - [ ] [2472](https://www.urionlinejudge.com.br/judge/pt/problems/view/2472) - Tapetes *Ad-Hoc*
-  - [x] [2473](https://www.urionlinejudge.com.br/judge/pt/problems/view/2473) - [Loteria](2473.poti) *Ad-Hoc*
+  - [x] [2473](https://www.urionlinejudge.com.br/judge/pt/problems/view/2473) - [Loteria](https://github.com/potigol/URI-Potigol/blob/master/src/2401-2500/2473.poti) *Ad-Hoc*
   - [ ] [2474](https://www.urionlinejudge.com.br/judge/pt/problems/view/2474) - Burlando o Sistema *Matemática*
   - [ ] [2475](https://www.urionlinejudge.com.br/judge/pt/problems/view/2475) - Confecção de Presentes *Paradigmas*
   - [ ] [2476](https://www.urionlinejudge.com.br/judge/pt/problems/view/2476) - Entregas do Noel *Grafos*
@@ -82,7 +82,7 @@
   - [ ] [2480](https://www.urionlinejudge.com.br/judge/pt/problems/view/2480) - Luzes Vermelhas *Paradigmas*
   - [ ] [2481](https://www.urionlinejudge.com.br/judge/pt/problems/view/2481) - É Uma Cilada Bino *Paradigmas*
   - [ ] [2482](https://www.urionlinejudge.com.br/judge/pt/problems/view/2482) - Etiquetas de Noel *Estruturas e Bibliotecas*
-  - [x] [2483](https://www.urionlinejudge.com.br/judge/pt/problems/view/2483) - [Feliz Nataaal!](2483.poti) *Iniciante*
+  - [x] [2483](https://www.urionlinejudge.com.br/judge/pt/problems/view/2483) - [Feliz Nataaal!](https://github.com/potigol/URI-Potigol/blob/master/src/2401-2500/2483.poti) *Iniciante*
   - [ ] [2484](https://www.urionlinejudge.com.br/judge/pt/problems/view/2484) - Abracadabra *Strings*
   - [ ] [2485](https://www.urionlinejudge.com.br/judge/pt/problems/view/2485) - Bicho da Goiaba *Grafos*
   - [ ] [2486](https://www.urionlinejudge.com.br/judge/pt/problems/view/2486) - C Mais ou Menos? *Iniciante*

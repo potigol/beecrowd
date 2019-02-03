@@ -208,6 +208,6 @@
   - [ ] [2886](https://www.urionlinejudge.com.br/judge/pt/problems/view/2886) - Kepler
   - [ ] [2890](https://www.urionlinejudge.com.br/judge/pt/problems/view/2890) - Colorindo Tetraedros
   - [ ] [2892](https://www.urionlinejudge.com.br/judge/pt/problems/view/2892) - Treino No Velódromo
-  - [x] [1795](https://www.urionlinejudge.com.br/judge/pt/problems/view/1795) - [Triângulo Trinomial](src/1701-1800/1795.poti)
-  - [x] [2661](https://www.urionlinejudge.com.br/judge/pt/problems/view/2661) - [Despojados](src/2601-2700/2661.poti)
-  - [x] [2667](https://www.urionlinejudge.com.br/judge/pt/problems/view/2667) - [Jogo de Boca](src/2601-2700/2667.poti)
+  - [x] [1795](https://www.urionlinejudge.com.br/judge/pt/problems/view/1795) - [Triângulo Trinomial](https://github.com/potigol/URI-Potigol/blob/master/src/1701-1800/1795.poti)
+  - [x] [2661](https://www.urionlinejudge.com.br/judge/pt/problems/view/2661) - [Despojados](https://github.com/potigol/URI-Potigol/blob/master/src/2601-2700/2661.poti)
+  - [x] [2667](https://www.urionlinejudge.com.br/judge/pt/problems/view/2667) - [Jogo de Boca](https://github.com/potigol/URI-Potigol/blob/master/src/2601-2700/2667.poti)

@@ -66,7 +66,7 @@
   - [ ] [2864](https://www.urionlinejudge.com.br/judge/pt/problems/view/2864) - Qual é a Altura? *Matemática*
   - [ ] [2865](https://www.urionlinejudge.com.br/judge/pt/problems/view/2865) - Palíndromo Binário *Ad-Hoc*
   - [ ] [2866](https://www.urionlinejudge.com.br/judge/pt/problems/view/2866) - Criptotexto *Strings*
-  - [x] [2867](https://www.urionlinejudge.com.br/judge/pt/problems/view/2867) - [Dígitos](2867.poti) *Iniciante*
+  - [x] [2867](https://www.urionlinejudge.com.br/judge/pt/problems/view/2867) - [Dígitos](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2867.poti) *Iniciante*
   - [ ] [2868](https://www.urionlinejudge.com.br/judge/pt/problems/view/2868) - Errrou! *Ad-Hoc*
   - [ ] [2869](https://www.urionlinejudge.com.br/judge/pt/problems/view/2869) - Falando em Divisor... *Iniciante*
   - [ ] [2870](https://www.urionlinejudge.com.br/judge/pt/problems/view/2870) - Jogo do Mapa *Grafos*
@@ -78,8 +78,8 @@
   - [ ] [2876](https://www.urionlinejudge.com.br/judge/pt/problems/view/2876) - Aventurando-se no Slackline *Ad-Hoc*
   - [ ] [2877](https://www.urionlinejudge.com.br/judge/pt/problems/view/2877) - Bolinhas de Gude *Paradigmas*
   - [ ] [2878](https://www.urionlinejudge.com.br/judge/pt/problems/view/2878) - Cortador de Pizza *Matemática*
-  - [x] [2879](https://www.urionlinejudge.com.br/judge/pt/problems/view/2879) - [Desvendando Monty Hall](2879.poti) *Iniciante*
-  - [x] [2880](https://www.urionlinejudge.com.br/judge/pt/problems/view/2880) - [Enigma](2880.poti) *Strings*
+  - [x] [2879](https://www.urionlinejudge.com.br/judge/pt/problems/view/2879) - [Desvendando Monty Hall](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2879.poti) *Iniciante*
+  - [x] [2880](https://www.urionlinejudge.com.br/judge/pt/problems/view/2880) - [Enigma](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2880.poti) *Strings*
   - [ ] [2881](https://www.urionlinejudge.com.br/judge/pt/problems/view/2881) - Festival *Paradigmas*
   - [ ] [2882](https://www.urionlinejudge.com.br/judge/pt/problems/view/2882) - Gasolina *Paradigmas*
   - [ ] [2883](https://www.urionlinejudge.com.br/judge/pt/problems/view/2883) - Hipótese Policial *Grafos*
@@ -95,7 +95,7 @@
   - [ ] [2893](https://www.urionlinejudge.com.br/judge/pt/problems/view/2893) - Fibonac^{k}i *Estruturas e Bibliotecas*
   - [ ] [2894](https://www.urionlinejudge.com.br/judge/pt/problems/view/2894) - Vírus *Grafos*
   - [ ] [2895](https://www.urionlinejudge.com.br/judge/pt/problems/view/2895) - Velhas Balanças *Paradigmas*
-  - [x] [2896](https://www.urionlinejudge.com.br/judge/pt/problems/view/2896) - [Aproveite a Oferta](2896.poti) *Iniciante*
+  - [x] [2896](https://www.urionlinejudge.com.br/judge/pt/problems/view/2896) - [Aproveite a Oferta](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2896.poti) *Iniciante*
   - [ ] [2897](https://www.urionlinejudge.com.br/judge/pt/problems/view/2897) - Histórico de Comandos *Ad-Hoc*
   - [ ] [2898](https://www.urionlinejudge.com.br/judge/pt/problems/view/2898) - Olimpíadas *Ad-Hoc*
   - [ ] [2899](https://www.urionlinejudge.com.br/judge/pt/problems/view/2899) - Série de Tubos *Ad-Hoc*

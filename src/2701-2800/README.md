@@ -64,7 +64,7 @@
   - [ ] [2762](https://www.urionlinejudge.com.br/judge/pt/problems/view/2762) - Entrada e Saída 6 *Iniciante*
   - [ ] [2763](https://www.urionlinejudge.com.br/judge/pt/problems/view/2763) - Entrada e Saída CPF *Iniciante*
   - [ ] [2764](https://www.urionlinejudge.com.br/judge/pt/problems/view/2764) - Entrada e Saída de Data *Iniciante*
-  - [x] [2765](https://www.urionlinejudge.com.br/judge/pt/problems/view/2765) - [Entrada e Saída com Virgula](2765.poti) *Iniciante*
+  - [x] [2765](https://www.urionlinejudge.com.br/judge/pt/problems/view/2765) - [Entrada e Saída com Virgula](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2765.poti) *Iniciante*
   - [ ] [2766](https://www.urionlinejudge.com.br/judge/pt/problems/view/2766) - Entrada e Saída Lendo e Pulando Nomes *Iniciante*
   - [ ] [2767](https://www.urionlinejudge.com.br/judge/pt/problems/view/2767) - Festa *Matemática*
   - [ ] [2768](https://www.urionlinejudge.com.br/judge/pt/problems/view/2768) - Grafo do Dabriel *Grafos*

@@ -118,6 +118,6 @@
   - [ ] [2824](https://www.urionlinejudge.com.br/judge/pt/problems/view/2824) - Pudim
   - [ ] [2825](https://www.urionlinejudge.com.br/judge/pt/problems/view/2825) - L de Atreus!?
   - [ ] [2866](https://www.urionlinejudge.com.br/judge/pt/problems/view/2866) - Criptotexto
-  - [x] [2242](https://www.urionlinejudge.com.br/judge/pt/problems/view/2242) - [Huaauhahhuahau](src/2201-2300/2242.poti)
-  - [x] [2694](https://www.urionlinejudge.com.br/judge/pt/problems/view/2694) - [Problema com a Calculadora](src/2601-2700/2694.poti)
-  - [x] [2880](https://www.urionlinejudge.com.br/judge/pt/problems/view/2880) - [Enigma](src/2801-2900/2880.poti)
+  - [x] [2242](https://www.urionlinejudge.com.br/judge/pt/problems/view/2242) - [Huaauhahhuahau](https://github.com/potigol/URI-Potigol/blob/master/src/2201-2300/2242.poti)
+  - [x] [2694](https://www.urionlinejudge.com.br/judge/pt/problems/view/2694) - [Problema com a Calculadora](https://github.com/potigol/URI-Potigol/blob/master/src/2601-2700/2694.poti)
+  - [x] [2880](https://www.urionlinejudge.com.br/judge/pt/problems/view/2880) - [Enigma](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2880.poti)

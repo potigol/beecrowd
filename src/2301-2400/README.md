@@ -44,7 +44,7 @@
   - [ ] [2342](https://www.urionlinejudge.com.br/judge/pt/problems/view/2342) - Overflow *Ad-Hoc*
   - [ ] [2343](https://www.urionlinejudge.com.br/judge/pt/problems/view/2343) - Caçadores de Mitos *Ad-Hoc*
   - [ ] [2344](https://www.urionlinejudge.com.br/judge/pt/problems/view/2344) - Notas da Prova *Ad-Hoc*
-  - [x] [2345](https://www.urionlinejudge.com.br/judge/pt/problems/view/2345) - [Assigning Teams](2345.poti) *Ad-Hoc*
+  - [x] [2345](https://www.urionlinejudge.com.br/judge/pt/problems/view/2345) - [Assigning Teams](https://github.com/potigol/URI-Potigol/blob/master/src/2301-2400/2345.poti) *Ad-Hoc*
   - [ ] [2346](https://www.urionlinejudge.com.br/judge/pt/problems/view/2346) - Back to the Future *Ad-Hoc*
   - [ ] [2347](https://www.urionlinejudge.com.br/judge/pt/problems/view/2347) - Counting Self-Rotating Subsets *Ad-Hoc*
   - [ ] [2348](https://www.urionlinejudge.com.br/judge/pt/problems/view/2348) - Dating On-Line *Ad-Hoc*
@@ -96,7 +96,7 @@
   - [ ] [2394](https://www.urionlinejudge.com.br/judge/pt/problems/view/2394) - Corrida 1 *Ad-Hoc*
   - [ ] [2395](https://www.urionlinejudge.com.br/judge/pt/problems/view/2395) - Transporte de Contêineres *Ad-Hoc*
   - [ ] [2396](https://www.urionlinejudge.com.br/judge/pt/problems/view/2396) - Corrida *Ad-Hoc*
-  - [x] [2397](https://www.urionlinejudge.com.br/judge/pt/problems/view/2397) - [Triângulos](2397.poti) *Ad-Hoc*
+  - [x] [2397](https://www.urionlinejudge.com.br/judge/pt/problems/view/2397) - [Triângulos](https://github.com/potigol/URI-Potigol/blob/master/src/2301-2400/2397.poti) *Ad-Hoc*
   - [ ] [2398](https://www.urionlinejudge.com.br/judge/pt/problems/view/2398) - Caça ao Tesouro *Ad-Hoc*
-  - [x] [2399](https://www.urionlinejudge.com.br/judge/pt/problems/view/2399) - [Campo Minado](2399.poti) *Ad-Hoc*
+  - [x] [2399](https://www.urionlinejudge.com.br/judge/pt/problems/view/2399) - [Campo Minado](https://github.com/potigol/URI-Potigol/blob/master/src/2301-2400/2399.poti) *Ad-Hoc*
   - [ ] [2400](https://www.urionlinejudge.com.br/judge/pt/problems/view/2400) - Balé *Ad-Hoc*
