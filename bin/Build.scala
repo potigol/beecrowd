@@ -31,7 +31,7 @@ object Build extends App {
           s"  - [ ] ~${p.number}~ - *${p.category}*"
 
         case Some(p) if (check(x)) =>
-          s"  - [x] [${p.number}](https://www.urionlinejudge.com.br/judge/pt/problems/view/${p.number}) - [${p.name}](${p.number}.poti) *${p.category}*"
+          s"  - [x] [${p.number}](https://www.urionlinejudge.com.br/judge/pt/problems/view/${p.number}) - [${p.name}](https://github.com/potigol/URI-Potigol/blob/master/src/${p.number / 100 * 100 + 1}-${(p.number / 100 + 1) * 100}/${p.number}.poti) *${p.category}*"
         case Some(p) =>
           s"  - [ ] [${p.number}](https://www.urionlinejudge.com.br/judge/pt/problems/view/${p.number}) - ${p.name} *${p.category}*"
       }
@@ -51,7 +51,7 @@ object Build extends App {
     val f = bd.map {
       case p if check(p.number) =>
         count = count + 1
-        s"  - [x] [${p.number}](https://www.urionlinejudge.com.br/judge/pt/problems/view/${p.number}) - [${p.name}](src/${p.number / 100 * 100 + 1}-${(p.number / 100 + 1) * 100}/${p.number}.poti)"
+        s"  - [x] [${p.number}](https://www.urionlinejudge.com.br/judge/pt/problems/view/${p.number}) - [${p.name}](https://github.com/potigol/URI-Potigol/blob/master/src/${p.number / 100 * 100 + 1}-${(p.number / 100 + 1) * 100}/${p.number}.poti)"
       case p =>
         s"  - [ ] [${p.number}](https://www.urionlinejudge.com.br/judge/pt/problems/view/${p.number}) - ${p.name}"
     }.sorted
