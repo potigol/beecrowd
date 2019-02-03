@@ -87,7 +87,7 @@ object Build extends App {
       s = s + (pi match {
         case None => s"  - [ ] ~~${x}~~ \n"
         case Some(p) if (check(x)) =>
-          s"  - [x] [${p.number}](https://www.urionlinejudge.com.br/judge/pt/problems/view/${p.number}) - [${p.name}](${p.number}.poti) *${p.category}*\n"
+          s"  - [x] [${p.number}](https://www.urionlinejudge.com.br/judge/pt/problems/view/${p.number}) - [${p.name}](src/${p.number / 100 * 100 + 1}-${(p.number / 100 + 1) * 100}/${p.number}.poti) *${p.category}*\n"
         case Some(p) =>
           s"  - [ ] [${p.number}](https://www.urionlinejudge.com.br/judge/pt/problems/view/${p.number}) - ${p.name} *${p.category}*\n"
       })
