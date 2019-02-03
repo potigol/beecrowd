@@ -28,8 +28,8 @@
   - [ ] [2876](https://www.urionlinejudge.com.br/judge/pt/problems/view/2876) - Aventurando-se no Slackline *Ad-Hoc*
   - [ ] [2877](https://www.urionlinejudge.com.br/judge/pt/problems/view/2877) - Bolinhas de Gude *Paradigmas*
   - [ ] [2878](https://www.urionlinejudge.com.br/judge/pt/problems/view/2878) - Cortador de Pizza *Matemática*
-  - [x] [2879](https://www.urionlinejudge.com.br/judge/pt/problems/view/2879) - [Desvendando Monty Hall](2879.poti) *Iniciante*
-  - [x] [2880](https://www.urionlinejudge.com.br/judge/pt/problems/view/2880) - [Enigma](2880.poti) *Strings*
+  - [x] [2879](https://www.urionlinejudge.com.br/judge/pt/problems/view/2879) - [Desvendando Monty Hall](src/2801-2900/2879.poti) *Iniciante*
+  - [x] [2880](https://www.urionlinejudge.com.br/judge/pt/problems/view/2880) - [Enigma](src/2801-2900/2880.poti) *Strings*
   - [ ] [2881](https://www.urionlinejudge.com.br/judge/pt/problems/view/2881) - Festival *Paradigmas*
   - [ ] [2882](https://www.urionlinejudge.com.br/judge/pt/problems/view/2882) - Gasolina *Paradigmas*
   - [ ] [2883](https://www.urionlinejudge.com.br/judge/pt/problems/view/2883) - Hipótese Policial *Grafos*
@@ -64,16 +64,16 @@
   - [ ] [2658](https://www.urionlinejudge.com.br/judge/pt/problems/view/2658) - Acordes Intergaláticos *Estruturas e Bibliotecas*
   - [ ] [2659](https://www.urionlinejudge.com.br/judge/pt/problems/view/2659) - Brincadeira *Ad-Hoc*
   - [ ] [2660](https://www.urionlinejudge.com.br/judge/pt/problems/view/2660) - Cigarras Periódicas *Matemática*
-  - [x] [2661](https://www.urionlinejudge.com.br/judge/pt/problems/view/2661) - [Despojados](2661.poti) *Matemática*
+  - [x] [2661](https://www.urionlinejudge.com.br/judge/pt/problems/view/2661) - [Despojados](src/2601-2700/2661.poti) *Matemática*
   - [ ] [2662](https://www.urionlinejudge.com.br/judge/pt/problems/view/2662) - Escala Musical *Ad-Hoc*
-  - [x] [2663](https://www.urionlinejudge.com.br/judge/pt/problems/view/2663) - [Fase](2663.poti) *Iniciante*
+  - [x] [2663](https://www.urionlinejudge.com.br/judge/pt/problems/view/2663) - [Fase](src/2601-2700/2663.poti) *Iniciante*
   - [ ] [2664](https://www.urionlinejudge.com.br/judge/pt/problems/view/2664) - Ginástica *Paradigmas*
   - [ ] [2665](https://www.urionlinejudge.com.br/judge/pt/problems/view/2665) - Hipercampo *Geometria Computacional*
   - [ ] [2666](https://www.urionlinejudge.com.br/judge/pt/problems/view/2666) - Imposto Real *Grafos*
-  - [x] [2667](https://www.urionlinejudge.com.br/judge/pt/problems/view/2667) - [Jogo de Boca](2667.poti) *Matemática*
+  - [x] [2667](https://www.urionlinejudge.com.br/judge/pt/problems/view/2667) - [Jogo de Boca](src/2601-2700/2667.poti) *Matemática*
   - [ ] [2668](https://www.urionlinejudge.com.br/judge/pt/problems/view/2668) - K-ésimo *Matemática*
   - [ ] [2669](https://www.urionlinejudge.com.br/judge/pt/problems/view/2669) - Laboratório de Biotecnologia *Strings*
-  - [x] [2670](https://www.urionlinejudge.com.br/judge/pt/problems/view/2670) - [Máquina de Café](2670.poti) *Iniciante*
+  - [x] [2670](https://www.urionlinejudge.com.br/judge/pt/problems/view/2670) - [Máquina de Café](src/2601-2700/2670.poti) *Iniciante*
 
 
 ## 2016
@@ -98,14 +98,14 @@
 
   - [ ] [2233](https://www.urionlinejudge.com.br/judge/pt/problems/view/2233) - Etiquetas Coloridas *Ad-Hoc*
   - [ ] [2234](https://www.urionlinejudge.com.br/judge/pt/problems/view/2234) - Cachorros-Quentes *Iniciante*
-  - [x] [2235](https://www.urionlinejudge.com.br/judge/pt/problems/view/2235) - [Andando no Tempo](2235.poti) *Iniciante*
+  - [x] [2235](https://www.urionlinejudge.com.br/judge/pt/problems/view/2235) - [Andando no Tempo](src/2201-2300/2235.poti) *Iniciante*
   - [ ] [2236](https://www.urionlinejudge.com.br/judge/pt/problems/view/2236) - Batata Quente *Paradigmas*
   - [ ] [2237](https://www.urionlinejudge.com.br/judge/pt/problems/view/2237) - Containers *Ad-Hoc*
   - [ ] [2238](https://www.urionlinejudge.com.br/judge/pt/problems/view/2238) - Divisores *Matemática*
   - [ ] [2239](https://www.urionlinejudge.com.br/judge/pt/problems/view/2239) - Estatística Hexa *Estruturas e Bibliotecas*
   - [ ] [2240](https://www.urionlinejudge.com.br/judge/pt/problems/view/2240) - Fundindo Árvores *Estruturas e Bibliotecas*
   - [ ] [2241](https://www.urionlinejudge.com.br/judge/pt/problems/view/2241) - Go-- *Estruturas e Bibliotecas*
-  - [x] [2242](https://www.urionlinejudge.com.br/judge/pt/problems/view/2242) - [Huaauhahhuahau](2242.poti) *Strings*
+  - [x] [2242](https://www.urionlinejudge.com.br/judge/pt/problems/view/2242) - [Huaauhahhuahau](src/2201-2300/2242.poti) *Strings*
   - [ ] [2243](https://www.urionlinejudge.com.br/judge/pt/problems/view/2243) - Isósceles *Paradigmas*
   - [ ] [2244](https://www.urionlinejudge.com.br/judge/pt/problems/view/2244) - Jogos Olímpicos *Ad-Hoc*
   - [ ] [2245](https://www.urionlinejudge.com.br/judge/pt/problems/view/2245) - Kit de Encolhimento de Polígonos *Geometria Computacional*
