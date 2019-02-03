@@ -20,7 +20,7 @@ object Build extends App {
   val b = a.groupBy(_.category)
   val c = b.keySet
 
-// Lista Geral
+  // Lista Geral
   for (i <- 10 to 29) {
     val d = for (j <- 1 to 100) yield {
       val x = i * 100 + j
@@ -43,9 +43,9 @@ object Build extends App {
     }
   }
 
-// Lista por categoria
+  // Lista por categoria
   for (d <- c) {
-    val bd = b(d).sortBy(_.number)
+    val bd = b(d) //.sortBy(_.number)
     var count = 0
 
     val f = bd.map {
@@ -60,5 +60,55 @@ object Build extends App {
       write("# " + d + s" (${count} / ${bd.length})\n\n" + f.mkString("\n"))
       close
     }
+  }
+
+  // Lista por competição
+
+  val contest1 = io.Source.fromFile("maratona1.txt").getLines.toList.map {
+    case a =>
+      val b = a.split(" ")
+      val c = b(1).split(",")
+      val d = for (c1 <- c; c2 <- c1.take(4).toInt to c1.takeRight(4).toInt) yield { c2 }
+      b(0).toInt -> d.toList
+  }.toMap
+  val contest2 = io.Source.fromFile("maratona2.txt").getLines.toList.map {
+    case a =>
+      val b = a.split(" ")
+      val c = b(1).split(",")
+      val d = for (c1 <- c; c2 <- c1.take(4).toInt to c1.takeRight(4).toInt) yield { c2 }
+      b(0).toInt -> d.toList
+  }.toMap
+  var s = ""
+  for (year <- 2018 to 2002 by -1) {
+    s = s + s"\n\n## ${year}\n\n"
+    s = s + s"\n\n### Final\n\n"
+    for (y <- contest2.get(year); x <- y) {
+      val pi = a.find(_.number == x)
+      s = s + (pi match {
+        case None => s"  - [ ] ~~${x}~~ \n"
+        case Some(p) if (check(x)) =>
+          s"  - [x] [${p.number}](https://www.urionlinejudge.com.br/judge/pt/problems/view/${p.number}) - [${p.name}](${p.number}.poti) *${p.category}*\n"
+        case Some(p) =>
+          s"  - [ ] [${p.number}](https://www.urionlinejudge.com.br/judge/pt/problems/view/${p.number}) - ${p.name} *${p.category}*\n"
+      })
+    }
+    if (contest1.get(year)!= None){
+    s = s + s"\n\n### Regional\n\n"
+    for (y <- contest1.get(year); x <- y) {
+      val pi = a.find(_.number == x)
+      s = s + (pi match {
+        case None => s"  - [ ] ~~${x}~~ \n"
+        case Some(p) if (check(x)) =>
+          s"  - [x] [${p.number}](https://www.urionlinejudge.com.br/judge/pt/problems/view/${p.number}) - [${p.name}](${p.number}.poti) *${p.category}*\n"
+        case Some(p) =>
+          s"  - [ ] [${p.number}](https://www.urionlinejudge.com.br/judge/pt/problems/view/${p.number}) - ${p.name} *${p.category}*\n"
+      })
+    }
+    }
+  }
+  import java.io.PrintWriter
+  new PrintWriter("../maratona.md") {
+    write("# Maratona de Programação\n\n" + s)
+    close
   }
 }
