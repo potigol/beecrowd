@@ -1,0 +1,5 @@
+n = leia_inteiro
+leia_textos(n)
+para i de 1 até n faça
+  escreva "gzuz"
+fim
