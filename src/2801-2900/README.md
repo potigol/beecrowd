@@ -60,7 +60,7 @@
   - [ ] [2858](https://www.urionlinejudge.com.br/judge/pt/problems/view/2858) - Tabuleiro Infinito *Ad-Hoc*
   - [ ] [2859](https://www.urionlinejudge.com.br/judge/pt/problems/view/2859) - Digit Root *Matemática*
   - [ ] [2860](https://www.urionlinejudge.com.br/judge/pt/problems/view/2860) - A Paz em Spar-Ta *Estruturas e Bibliotecas*
-  - [ ] [2861](https://www.urionlinejudge.com.br/judge/pt/problems/view/2861) - A Saída *Iniciante*
+  - [x] [2861](https://www.urionlinejudge.com.br/judge/pt/problems/view/2861) - [A Saída](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2861.poti) *Iniciante*
   - [ ] [2862](https://www.urionlinejudge.com.br/judge/pt/problems/view/2862) - Inseto! *Iniciante*
   - [ ] [2863](https://www.urionlinejudge.com.br/judge/pt/problems/view/2863) - Umil Bolt *Iniciante*
   - [ ] [2864](https://www.urionlinejudge.com.br/judge/pt/problems/view/2864) - Qual é a Altura? *Matemática*

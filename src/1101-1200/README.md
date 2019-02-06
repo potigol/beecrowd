@@ -67,7 +67,7 @@
   - [ ] [1165](https://www.urionlinejudge.com.br/judge/pt/problems/view/1165) - Número Primo *Iniciante*
   - [ ] [1166](https://www.urionlinejudge.com.br/judge/pt/problems/view/1166) - Torre de Hanoi, Novamente! *Paradigmas*
   - [ ] [1167](https://www.urionlinejudge.com.br/judge/pt/problems/view/1167) - Acampamento de Férias *Estruturas e Bibliotecas*
-  - [ ] [1168](https://www.urionlinejudge.com.br/judge/pt/problems/view/1168) - LED *Strings*
+  - [x] [1168](https://www.urionlinejudge.com.br/judge/pt/problems/view/1168) - [LED](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1168.poti) *Strings*
   - [ ] [1169](https://www.urionlinejudge.com.br/judge/pt/problems/view/1169) - Trigo no Tabuleiro *Matemática*
   - [ ] [1170](https://www.urionlinejudge.com.br/judge/pt/problems/view/1170) - Blobs *Matemática*
   - [ ] [1171](https://www.urionlinejudge.com.br/judge/pt/problems/view/1171) - Frequência de Números *Ad-Hoc*

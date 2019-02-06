@@ -6,7 +6,7 @@
   - [ ] [2704](https://www.urionlinejudge.com.br/judge/pt/problems/view/2704) - Sapo Saltador *Iniciante*
   - [ ] [2705](https://www.urionlinejudge.com.br/judge/pt/problems/view/2705) - Mantenha Coberto *Iniciante*
   - [ ] [2706](https://www.urionlinejudge.com.br/judge/pt/problems/view/2706) - Linearville *Iniciante*
-  - [ ] ~2707~
+  - [ ] ~~2707] ~
   - [ ] [2708](https://www.urionlinejudge.com.br/judge/pt/problems/view/2708) - Turistas no Parque Huacachina *Iniciante*
   - [ ] [2709](https://www.urionlinejudge.com.br/judge/pt/problems/view/2709) - As Moedas de Robbie *Iniciante*
   - [ ] [2710](https://www.urionlinejudge.com.br/judge/pt/problems/view/2710) - Jogo da Matriz *Iniciante*
@@ -36,16 +36,16 @@
   - [ ] [2734](https://www.urionlinejudge.com.br/judge/pt/problems/view/2734) - Trocando Presentes *Estruturas e Bibliotecas*
   - [ ] [2735](https://www.urionlinejudge.com.br/judge/pt/problems/view/2735) - O Presente de Nina *Matemática*
   - [ ] [2736](https://www.urionlinejudge.com.br/judge/pt/problems/view/2736) - Números de Avalon *Ad-Hoc*
-  - [ ] ~2737~ - *SQL*
-  - [ ] ~2738~ - *SQL*
-  - [ ] ~2739~ - *SQL*
-  - [ ] ~2740~ - *SQL*
-  - [ ] ~2741~ - *SQL*
-  - [ ] ~2742~ - *SQL*
-  - [ ] ~2743~ - *SQL*
-  - [ ] ~2744~ - *SQL*
-  - [ ] ~2745~ - *SQL*
-  - [ ] ~2746~ - *SQL*
+  - [ ] ~~2737~~ - *SQL*
+  - [ ] ~~2738~~ - *SQL*
+  - [ ] ~~2739~~ - *SQL*
+  - [ ] ~~2740~~ - *SQL*
+  - [ ] ~~2741~~ - *SQL*
+  - [ ] ~~2742~~ - *SQL*
+  - [ ] ~~2743~~ - *SQL*
+  - [ ] ~~2744~~ - *SQL*
+  - [ ] ~~2745~~ - *SQL*
+  - [ ] ~~2746~~ - *SQL*
   - [ ] [2747](https://www.urionlinejudge.com.br/judge/pt/problems/view/2747) - Saída 1 *Iniciante*
   - [ ] [2748](https://www.urionlinejudge.com.br/judge/pt/problems/view/2748) - Saída 2 *Iniciante*
   - [ ] [2749](https://www.urionlinejudge.com.br/judge/pt/problems/view/2749) - Saída 3 *Iniciante*

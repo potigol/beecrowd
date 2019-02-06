@@ -1,9 +1,8 @@
-# Strings (3 / 121)
+# Strings (4 / 121)
 
   - [ ] [1024](https://www.urionlinejudge.com.br/judge/pt/problems/view/1024) - Criptografia
   - [ ] [1120](https://www.urionlinejudge.com.br/judge/pt/problems/view/1120) - Revisão de Contrato
   - [ ] [1141](https://www.urionlinejudge.com.br/judge/pt/problems/view/1141) - Cultivando Strings
-  - [ ] [1168](https://www.urionlinejudge.com.br/judge/pt/problems/view/1168) - LED
   - [ ] [1222](https://www.urionlinejudge.com.br/judge/pt/problems/view/1222) - Concurso de Contos
   - [ ] [1234](https://www.urionlinejudge.com.br/judge/pt/problems/view/1234) - Sentença Dançante
   - [ ] [1235](https://www.urionlinejudge.com.br/judge/pt/problems/view/1235) - De Dentro para Fora
@@ -118,6 +117,7 @@
   - [ ] [2824](https://www.urionlinejudge.com.br/judge/pt/problems/view/2824) - Pudim
   - [ ] [2825](https://www.urionlinejudge.com.br/judge/pt/problems/view/2825) - L de Atreus!?
   - [ ] [2866](https://www.urionlinejudge.com.br/judge/pt/problems/view/2866) - Criptotexto
+  - [x] [1168](https://www.urionlinejudge.com.br/judge/pt/problems/view/1168) - [LED](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1168.poti)
   - [x] [2242](https://www.urionlinejudge.com.br/judge/pt/problems/view/2242) - [Huaauhahhuahau](https://github.com/potigol/URI-Potigol/blob/master/src/2201-2300/2242.poti)
   - [x] [2694](https://www.urionlinejudge.com.br/judge/pt/problems/view/2694) - [Problema com a Calculadora](https://github.com/potigol/URI-Potigol/blob/master/src/2601-2700/2694.poti)
   - [x] [2880](https://www.urionlinejudge.com.br/judge/pt/problems/view/2880) - [Enigma](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2880.poti)
