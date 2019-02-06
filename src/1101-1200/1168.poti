@@ -1,0 +1,10 @@
+n = leia_inteiro
+leds = [6, 2, 5, 5, 4, 5, 6, 3, 7, 6]
+para i de 1 até n faça
+  num = leia_texto
+  var soma := 0
+  para s em num faça
+    soma := soma + leds[(s - '0').inteiro + 1]
+  fim
+  escreva "{soma} leds"
+fim
