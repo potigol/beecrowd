@@ -1,6 +1,5 @@
 # Iniciante (82 / 306)
 
-## Não Resolvidos
   - [ ] [1045](https://www.urionlinejudge.com.br/judge/pt/problems/view/1045) - Tipos de Triângulos
   - [ ] [1047](https://www.urionlinejudge.com.br/judge/pt/problems/view/1047) - Tempo de Jogo com Minutos
   - [ ] [1049](https://www.urionlinejudge.com.br/judge/pt/problems/view/1049) - Animal
@@ -225,8 +224,6 @@
   - [ ] [2863](https://www.urionlinejudge.com.br/judge/pt/problems/view/2863) - Umil Bolt
   - [ ] [2869](https://www.urionlinejudge.com.br/judge/pt/problems/view/2869) - Falando em Divisor...
   - [ ] [2930](https://www.urionlinejudge.com.br/judge/pt/problems/view/2930) - TCC da Depressão Natalino
-  
-## Resolvidos
   - [x] [1001](https://www.urionlinejudge.com.br/judge/pt/problems/view/1001) - [Extremamente Básico](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1001.poti)
   - [x] [1002](https://www.urionlinejudge.com.br/judge/pt/problems/view/1002) - [Área do Círculo](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1002.poti)
   - [x] [1003](https://www.urionlinejudge.com.br/judge/pt/problems/view/1003) - [Soma Simples](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1003.poti)
