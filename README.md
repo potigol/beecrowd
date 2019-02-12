@@ -45,6 +45,8 @@ Soluções dos problemas do [URI Online Judge](https://www.urionlinejudge.com.br
 
 Contribua para este projeto com soluções para os problemas.
 
+[Veja quem já contribuiu.](https://github.com/potigol/URI-Potigol/graphs/contributors?from=2018-09-30&to=2019-02-12&type=a)
+
 ### Como contribuir ...
 
  - Faça o download da linguagem Potigol http://potigol.github.io
