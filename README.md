@@ -1,6 +1,8 @@
 # URI-Potigol
 Soluções dos problemas do [URI Online Judge](https://www.urionlinejudge.com.br/judge/pt/problems/all) usando a linguagem [Potigol](https://potigol.github.io)
 
+## Problemas por Categoria
+
  - [Iniciante](iniciante.md) Problemas básicos para quem está iniciando na programação...
  - [Ad-hoc](adhoc.md) Problemas de Simulação, Datas e Ad-Hoc no geral...
  - [Strings](strings.md) Palindromos, Frequência, Ad-Hoc, LCS, Manipulação de Strings...
@@ -34,10 +36,10 @@ Soluções dos problemas do [URI Online Judge](https://www.urionlinejudge.com.br
 [2801 - 2900](src/2801-2900) |
 [2901 - 3000](src/2901-3000) 
 
-### Competições de Programação
+## Competições de Programação
 
   - [Maratona de Programação da SBC/ACM](maratona.md)
-  - [Olimpíada Brasileira de Programação](obi.md)
+  - [Olimpíada Brasileira de Informática (OBI)](obi.md)
 
 ## Contribua
 
