@@ -12,6 +12,11 @@ Soluções dos problemas do [URI Online Judge](https://www.urionlinejudge.com.br
  - [Grafos](grafos.md) Flood Fill, MST, SSSP, DAG, Fluxo Máximo, Árvores...
  - [Geometria Computacional](geometriacomputacional.md) Pontos e Linhas, Polígonos...
 
+## Problemas de Competições de Programação
+
+  - [Maratona de Programação da SBC/ACM](maratona.md)
+  - [Olimpíada Brasileira de Informática (OBI)](obi.md)
+
 
 ## Problemas
 
@@ -35,11 +40,6 @@ Soluções dos problemas do [URI Online Judge](https://www.urionlinejudge.com.br
 [2701 - 2800](src/2701-2800) |
 [2801 - 2900](src/2801-2900) |
 [2901 - 3000](src/2901-3000) 
-
-## Competições de Programação
-
-  - [Maratona de Programação da SBC/ACM](maratona.md)
-  - [Olimpíada Brasileira de Informática (OBI)](obi.md)
 
 ## Contribua
 
