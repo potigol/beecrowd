@@ -37,18 +37,18 @@
   - [ ] [2635](https://www.urionlinejudge.com.br/judge/pt/problems/view/2635) - Navegador Web *Iniciante*
   - [ ] [2636](https://www.urionlinejudge.com.br/judge/pt/problems/view/2636) - 3-RSA *Iniciante*
   - [ ] [2637](https://www.urionlinejudge.com.br/judge/pt/problems/view/2637) - Casa do Batera *Iniciante*
-  - [ ] ~~2638] ~
+  - [ ] ~~2638~~
   - [ ] [2639](https://www.urionlinejudge.com.br/judge/pt/problems/view/2639) - Cluedo *Iniciante*
   - [ ] [2640](https://www.urionlinejudge.com.br/judge/pt/problems/view/2640) - Missão Improvável *Iniciante*
   - [ ] [2641](https://www.urionlinejudge.com.br/judge/pt/problems/view/2641) - Dinheiro por Nada *Ad-Hoc*
-  - [ ] ~~2642] ~
+  - [ ] ~~2642~~
   - [ ] [2643](https://www.urionlinejudge.com.br/judge/pt/problems/view/2643) - Posterizar *Iniciante*
   - [ ] [2644](https://www.urionlinejudge.com.br/judge/pt/problems/view/2644) - Replicate Replicate Rfplicbte *Ad-Hoc*
   - [ ] [2645](https://www.urionlinejudge.com.br/judge/pt/problems/view/2645) - Scenery *Ad-Hoc*
   - [ ] [2646](https://www.urionlinejudge.com.br/judge/pt/problems/view/2646) - Secret Chamber at Mount Rushmore *Iniciante*
-  - [ ] ~~2647] ~
+  - [ ] ~~2647~~
   - [ ] [2648](https://www.urionlinejudge.com.br/judge/pt/problems/view/2648) - Tarot Sham Boast *Iniciante*
-  - [ ] ~~2649] ~
+  - [ ] ~~2649~~
   - [ ] [2650](https://www.urionlinejudge.com.br/judge/pt/problems/view/2650) - Construindo Muralhas *Ad-Hoc*
   - [ ] [2651](https://www.urionlinejudge.com.br/judge/pt/problems/view/2651) - Link Bolado *Strings*
   - [ ] [2652](https://www.urionlinejudge.com.br/judge/pt/problems/view/2652) - Quantas Árvores? *Grafos*
@@ -95,7 +95,7 @@
   - [ ] [2693](https://www.urionlinejudge.com.br/judge/pt/problems/view/2693) - Van *Ad-Hoc*
   - [x] [2694](https://www.urionlinejudge.com.br/judge/pt/problems/view/2694) - [Problema com a Calculadora](https://github.com/potigol/URI-Potigol/blob/master/src/2601-2700/2694.poti) *Strings*
   - [ ] [2695](https://www.urionlinejudge.com.br/judge/pt/problems/view/2695) - Arrumando Lajotas *Iniciante*
-  - [ ] ~~2696] ~
+  - [ ] ~~2696~~
   - [ ] [2697](https://www.urionlinejudge.com.br/judge/pt/problems/view/2697) - Sequencia Completa de Naebbirac *Strings*
   - [ ] [2698](https://www.urionlinejudge.com.br/judge/pt/problems/view/2698) - Dispositivo Assombrado *Iniciante*
   - [ ] [2699](https://www.urionlinejudge.com.br/judge/pt/problems/view/2699) - Enigma *Iniciante*

@@ -6,7 +6,7 @@
   - [ ] [2704](https://www.urionlinejudge.com.br/judge/pt/problems/view/2704) - Sapo Saltador *Iniciante*
   - [ ] [2705](https://www.urionlinejudge.com.br/judge/pt/problems/view/2705) - Mantenha Coberto *Iniciante*
   - [ ] [2706](https://www.urionlinejudge.com.br/judge/pt/problems/view/2706) - Linearville *Iniciante*
-  - [ ] ~~2707] ~
+  - [ ] ~~2707~~
   - [ ] [2708](https://www.urionlinejudge.com.br/judge/pt/problems/view/2708) - Turistas no Parque Huacachina *Iniciante*
   - [ ] [2709](https://www.urionlinejudge.com.br/judge/pt/problems/view/2709) - As Moedas de Robbie *Iniciante*
   - [ ] [2710](https://www.urionlinejudge.com.br/judge/pt/problems/view/2710) - Jogo da Matriz *Iniciante*

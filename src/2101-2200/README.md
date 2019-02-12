@@ -97,6 +97,6 @@
   - [ ] [2195](https://www.urionlinejudge.com.br/judge/pt/problems/view/2195) - Chips Challenge *Ad-Hoc*
   - [ ] [2196](https://www.urionlinejudge.com.br/judge/pt/problems/view/2196) - Coffee Central *Ad-Hoc*
   - [ ] [2197](https://www.urionlinejudge.com.br/judge/pt/problems/view/2197) - Machine Works *Ad-Hoc*
-  - [ ] ~~2198] ~
+  - [ ] ~~2198~~
   - [ ] [2199](https://www.urionlinejudge.com.br/judge/pt/problems/view/2199) - Mining Your Own Business *Ad-Hoc*
   - [ ] [2200](https://www.urionlinejudge.com.br/judge/pt/problems/view/2200) - Mummy Madness *Ad-Hoc*

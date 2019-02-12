@@ -7,7 +7,7 @@ object Build extends App {
 
   def clean(s: String) = s.toLowerCase.filter(p => p >= 'a' && p <= 'z')
 
-  def check(n: Int) = new java.io.File(s"../src/${dir(n)}/${n}.poti").exists
+  def check(n: Int) = new java.io.File(s"../src/${dir(n)}/${n}.${extension}").exists
 
   val problems = io.Source.fromFile("problems.txt").getLines.toList
   val a = problems.map { a =>
@@ -20,44 +20,42 @@ object Build extends App {
   val prefix =  "https://www.urionlinejudge.com.br/judge/pt/problems/view"
   val code = "https://github.com/potigol/URI-Potigol/blob/master/src"
   def dir(n: Int) = s"${n / 100 * 100 + 1}-${(n / 100 + 1) * 100}"
+  val extension = "poti"
+
+  def line(x: Int, cat: Boolean = true) = a.find(_.number == x) match {
+    case None => s"  - [ ] ~~${x}~~"
+    case Some(p) if p.category == "SQL" =>
+      s"  - [ ] ~~${p.number}~~ - *${p.category}*"
+    case Some(p) if (check(x)) =>
+      s"  - [x] [${p.number}](${prefix}/${p.number}) - [${p.name}](${code}/${dir(p.number)}/${p.number}.${extension}) *${if(cat) p.category else " "}*"
+    case Some(p) =>
+            s"  - [ ] [${p.number}](${prefix}/${p.number}) - ${p.name} *${if(cat) p.category else " "}*"
+  }
+
+  def save(name: String, title: String, content: String) = new PrintWriter(name) {
+    write(s"# ${title}\n\n${content}")
+    close
+  }
 
   // Lista Geral
   for (i <- 10 to 29) {
-    val d = for (j <- 1 to 100; x = i * 100 + j) yield {
-      a.find(_.number == x) match {
-        case None => s"  - [ ] ~~${x}] ~"
-        case Some(p) if p.category == "SQL" =>
-          s"  - [ ] ~~${p.number}~~ - *${p.category}*"
-        case Some(p) if (check(x)) =>
-          s"  - [x] [${p.number}](${prefix}/${p.number}) - [${p.name}](${code}/${dir(p.number)}/${p.number}.poti) *${p.category}*"
-        case Some(p) =>
-          s"  - [ ] [${p.number}](${prefix}/${p.number}) - ${p.name} *${p.category}*"
-      }
-    }
-    import java.io.PrintWriter
-    new PrintWriter(s"../src/${dir(i*100+1)}/README.md") {
-      write("# Problemas " + s"${dir(i*100+1).replace("-", " a ")}" + "\n\n" + d.mkString("\n"))
-      close
-    }
+    val d = for (j <- 1 to 100; x = i * 100 + j) yield line(x)
+    save(s"../src/${dir(i*100+1)}/README.md", s"Problemas ${dir(i*100+1).replace("-", " a ")}", d.mkString("\n"))
   }
 
   // Lista por categoria
   for (d <- c) {
-    val bd = b(d) //.sortBy(_.number)
+    val bd = b(d)
     var count = 0
 
     val f = bd.map {
       case p if check(p.number) =>
         count = count + 1
-        s"  - [x] [${p.number}](${prefix}/${p.number}) - [${p.name}](${code}/${dir(p.number)}/${p.number}.poti)"
+        s"  - [x] [${p.number}](${prefix}/${p.number}) - [${p.name}](${code}/${dir(p.number)}/${p.number}.${extension})"
       case p =>
         s"  - [ ] [${p.number}](${prefix}/${p.number}) - ${p.name}"
     }.sorted
-    import java.io.PrintWriter
-    new PrintWriter("../" + clean(d) + ".md") {
-      write(s"# ${d} (${count} / ${bd.length})\n\n${f.mkString("\n")}")
-      close
-    }
+    save(s"../${clean(d)}.md", s"${d} (${count} / ${bd.length})", f.mkString("\n"))
   }
 
   def getContest(s: String) = io.Source.fromFile(s).getLines.toList.map {
@@ -77,31 +75,25 @@ object Build extends App {
     s = s + s"\n\n## ${year}\n\n"
     s = s + s"\n\n### Final\n\n"
     for (y <- contest2.get(year); x <- y) {
-      val pi = a.find(_.number == x)
-      s = s + (pi match {
-        case None => s"  - [ ] ~~${x}~~ \n"
-        case Some(p) if (check(x)) =>
-          s"  - [x] [${p.number}](${prefix}/${p.number}) - [${p.name}](${code}/${dir(p.number)}/${p.number}.poti) *${p.category}*\n"
-        case Some(p) =>
-          s"  - [ ] [${p.number}](${prefix}/${p.number}) - ${p.name} *${p.category}*\n"
-      })
+      s = s + line(x) +"\n"
     }
     if (contest1.get(year)!= None){
-    s = s + s"\n\n### Regional\n\n"
-    for (y <- contest1.get(year); x <- y) {
-      val pi = a.find(_.number == x)
-      s = s + (pi match {
-        case None => s"  - [ ] ~~${x}~~ \n"
-        case Some(p) if (check(x)) =>
-        s"  - [x] [${p.number}](${prefix}/${p.number}) - [${p.name}](src/${dir(p.number)}/${p.number}.poti) *${p.category}*\n"
-        case Some(p) =>
-          s"  - [ ] [${p.number}](${prefix}/${p.number}) - ${p.name} *${p.category}*\n"
-      })
-    }
+      s = s + s"\n\n### Regional\n\n"
+      for (y <- contest1.get(year); x <- y) {
+        s = s + line(x) +"\n"
+      }
     }
   }
-  new PrintWriter("../maratona.md") {
-    write("# Maratona de Programação\n\n" + s)
-    close
+  save("../maratona.md", "Maratona de Programação", s)
+
+  val contest3 = getContest("obi.txt")
+  s = ""
+  for (year <- contest3.keys.toList.sorted.reverse) {
+    s = s + s"\n\n## ${year}\n\n"
+    for (y <- contest3.get(year); x <- y) {
+      s = s + line(x) +"\n"
+    }
   }
+  save("../obi.md", "Olimpiada Brasileira de Informática", s)
+
 }

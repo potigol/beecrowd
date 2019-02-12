@@ -5,7 +5,7 @@
   - [ ] [2203](https://www.urionlinejudge.com.br/judge/pt/problems/view/2203) - Tempestade de Corvos *Iniciante*
   - [ ] [2204](https://www.urionlinejudge.com.br/judge/pt/problems/view/2204) - Pare A Bomba! *Matemática*
   - [ ] [2205](https://www.urionlinejudge.com.br/judge/pt/problems/view/2205) - Asteroid Rangers *Ad-Hoc*
-  - [ ] ~~2206] ~
+  - [ ] ~~2206~~
   - [ ] [2207](https://www.urionlinejudge.com.br/judge/pt/problems/view/2207) - Bus Tour *Ad-Hoc*
   - [ ] [2208](https://www.urionlinejudge.com.br/judge/pt/problems/view/2208) - Fibonacci Words *Ad-Hoc*
   - [ ] [2209](https://www.urionlinejudge.com.br/judge/pt/problems/view/2209) - Infiltration *Ad-Hoc*
@@ -55,7 +55,7 @@
   - [ ] [2253](https://www.urionlinejudge.com.br/judge/pt/problems/view/2253) - Validador de Senhas *Strings*
   - [ ] [2254](https://www.urionlinejudge.com.br/judge/pt/problems/view/2254) - Bem-me-quer, Malmequer Japonês *Ad-Hoc*
   - [ ] [2255](https://www.urionlinejudge.com.br/judge/pt/problems/view/2255) - Self-Assembly *Ad-Hoc*
-  - [ ] ~~2256] ~
+  - [ ] ~~2256~~
   - [ ] [2257](https://www.urionlinejudge.com.br/judge/pt/problems/view/2257) - Surely You Congest *Ad-Hoc*
   - [ ] [2258](https://www.urionlinejudge.com.br/judge/pt/problems/view/2258) - Factors *Ad-Hoc*
   - [ ] [2259](https://www.urionlinejudge.com.br/judge/pt/problems/view/2259) - Harvard *Ad-Hoc*
@@ -63,20 +63,20 @@
   - [ ] [2261](https://www.urionlinejudge.com.br/judge/pt/problems/view/2261) - Map Tiles *Ad-Hoc*
   - [ ] [2262](https://www.urionlinejudge.com.br/judge/pt/problems/view/2262) - Matryoshka *Ad-Hoc*
   - [ ] [2263](https://www.urionlinejudge.com.br/judge/pt/problems/view/2263) - Pirate Chest *Ad-Hoc*
-  - [ ] ~~2264] ~
+  - [ ] ~~2264~~
   - [ ] [2265](https://www.urionlinejudge.com.br/judge/pt/problems/view/2265) - Up a Tree *Ad-Hoc*
   - [ ] [2266](https://www.urionlinejudge.com.br/judge/pt/problems/view/2266) - Baggage *Ad-Hoc*
-  - [ ] ~~2267] ~
+  - [ ] ~~2267~~
   - [ ] [2268](https://www.urionlinejudge.com.br/judge/pt/problems/view/2268) - Crane Balancing *Ad-Hoc*
-  - [ ] ~~2269] ~
+  - [ ] ~~2269~~
   - [ ] [2270](https://www.urionlinejudge.com.br/judge/pt/problems/view/2270) - Maze Reduction *Ad-Hoc*
-  - [ ] ~~2271] ~
+  - [ ] ~~2271~~
   - [ ] [2272](https://www.urionlinejudge.com.br/judge/pt/problems/view/2272) - Metal Processing Plant *Ad-Hoc*
-  - [ ] ~~2273] ~
-  - [ ] ~~2274] ~
+  - [ ] ~~2273~~
+  - [ ] ~~2274~~
   - [ ] [2275](https://www.urionlinejudge.com.br/judge/pt/problems/view/2275) - Skiing *Ad-Hoc*
   - [ ] [2276](https://www.urionlinejudge.com.br/judge/pt/problems/view/2276) - Surveillance *Ad-Hoc*
-  - [ ] ~~2277] ~
+  - [ ] ~~2277~~
   - [ ] [2278](https://www.urionlinejudge.com.br/judge/pt/problems/view/2278) - Amalgamated Artichokes *Ad-Hoc*
   - [ ] [2279](https://www.urionlinejudge.com.br/judge/pt/problems/view/2279) - Asteroids *Ad-Hoc*
   - [ ] [2280](https://www.urionlinejudge.com.br/judge/pt/problems/view/2280) - Catering *Ad-Hoc*
