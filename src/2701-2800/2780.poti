@@ -1,0 +1,8 @@
+d = leia_inteiro
+se d <= 800 então
+  escreva 1
+senãose d <= 1400 então
+  escreva 2
+senão
+  escreva 3
+fim
