@@ -5,14 +5,14 @@
 ## 2018
 
   - [ ] [2779](https://www.urionlinejudge.com.br/judge/pt/problems/view/2779) - Álbum da Copa *Iniciante*
-  - [ ] [2780](https://www.urionlinejudge.com.br/judge/pt/problems/view/2780) - Basquete de Robôs *Iniciante*
+  - [x] [2780](https://www.urionlinejudge.com.br/judge/pt/problems/view/2780) - [Basquete de Robôs](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2780.poti) *Iniciante*
   - [ ] [2781](https://www.urionlinejudge.com.br/judge/pt/problems/view/2781) - Câmara de Compensação *Iniciante*
   - [ ] [2782](https://www.urionlinejudge.com.br/judge/pt/problems/view/2782) - Escadinha *Iniciante*
   - [ ] [2783](https://www.urionlinejudge.com.br/judge/pt/problems/view/2783) - Figurinhas da Copa *Iniciante*
   - [ ] [2784](https://www.urionlinejudge.com.br/judge/pt/problems/view/2784) - Ilhas *Iniciante*
   - [ ] [2785](https://www.urionlinejudge.com.br/judge/pt/problems/view/2785) - Pirâmide *Iniciante*
   - [ ] [2786](https://www.urionlinejudge.com.br/judge/pt/problems/view/2786) - Piso da Escola *Iniciante*
-  - [ ] [2787](https://www.urionlinejudge.com.br/judge/pt/problems/view/2787) - Xadrez *Iniciante*
+  - [x] [2787](https://www.urionlinejudge.com.br/judge/pt/problems/view/2787) - [Xadrez](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2787.poti) *Iniciante*
   - [ ] [2830](https://www.urionlinejudge.com.br/judge/pt/problems/view/2830) - Copa *Ad-Hoc*
   - [ ] [2831](https://www.urionlinejudge.com.br/judge/pt/problems/view/2831) - Pesos *Ad-Hoc*
   - [ ] [2832](https://www.urionlinejudge.com.br/judge/pt/problems/view/2832) - Cápsulas *Ad-Hoc*
@@ -21,7 +21,7 @@
   - [ ] [2835](https://www.urionlinejudge.com.br/judge/pt/problems/view/2835) - Elevador *Ad-Hoc*
   - [ ] [2836](https://www.urionlinejudge.com.br/judge/pt/problems/view/2836) - Wifi *Ad-Hoc*
   - [ ] [2837](https://www.urionlinejudge.com.br/judge/pt/problems/view/2837) - Sequência *Ad-Hoc*
-  - [ ] [2850](https://www.urionlinejudge.com.br/judge/pt/problems/view/2850) - Papagaio Poliglota *Iniciante*
+  - [x] [2850](https://www.urionlinejudge.com.br/judge/pt/problems/view/2850) - [Papagaio Poliglota](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2850.poti) *Iniciante*
   - [ ] [2851](https://www.urionlinejudge.com.br/judge/pt/problems/view/2851) - Desafio de Rangel *Ad-Hoc*
   - [ ] [2852](https://www.urionlinejudge.com.br/judge/pt/problems/view/2852) - Troca de Mensagens *Iniciante*
   - [ ] [2853](https://www.urionlinejudge.com.br/judge/pt/problems/view/2853) - Invenções de Bibika *Ad-Hoc*

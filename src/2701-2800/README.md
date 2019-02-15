@@ -79,14 +79,14 @@
   - [ ] [2777](https://www.urionlinejudge.com.br/judge/pt/problems/view/2777) - Subsets do Dabriel *Matemática*
   - [ ] [2778](https://www.urionlinejudge.com.br/judge/pt/problems/view/2778) - Matriz do Dabriel *Paradigmas*
   - [ ] [2779](https://www.urionlinejudge.com.br/judge/pt/problems/view/2779) - Álbum da Copa *Iniciante*
-  - [ ] [2780](https://www.urionlinejudge.com.br/judge/pt/problems/view/2780) - Basquete de Robôs *Iniciante*
+  - [x] [2780](https://www.urionlinejudge.com.br/judge/pt/problems/view/2780) - [Basquete de Robôs](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2780.poti) *Iniciante*
   - [ ] [2781](https://www.urionlinejudge.com.br/judge/pt/problems/view/2781) - Câmara de Compensação *Iniciante*
   - [ ] [2782](https://www.urionlinejudge.com.br/judge/pt/problems/view/2782) - Escadinha *Iniciante*
   - [ ] [2783](https://www.urionlinejudge.com.br/judge/pt/problems/view/2783) - Figurinhas da Copa *Iniciante*
   - [ ] [2784](https://www.urionlinejudge.com.br/judge/pt/problems/view/2784) - Ilhas *Iniciante*
   - [ ] [2785](https://www.urionlinejudge.com.br/judge/pt/problems/view/2785) - Pirâmide *Iniciante*
   - [ ] [2786](https://www.urionlinejudge.com.br/judge/pt/problems/view/2786) - Piso da Escola *Iniciante*
-  - [ ] [2787](https://www.urionlinejudge.com.br/judge/pt/problems/view/2787) - Xadrez *Iniciante*
+  - [x] [2787](https://www.urionlinejudge.com.br/judge/pt/problems/view/2787) - [Xadrez](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2787.poti) *Iniciante*
   - [ ] [2788](https://www.urionlinejudge.com.br/judge/pt/problems/view/2788) - Aula *Ad-Hoc*
   - [ ] [2789](https://www.urionlinejudge.com.br/judge/pt/problems/view/2789) - Crise Hídrica *Ad-Hoc*
   - [ ] [2790](https://www.urionlinejudge.com.br/judge/pt/problems/view/2790) - Dados *Ad-Hoc*

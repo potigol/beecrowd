@@ -1,4 +1,4 @@
-# Iniciante (82 / 306)
+# Iniciante (85 / 306)
 
   - [ ] [1045](https://www.urionlinejudge.com.br/judge/pt/problems/view/1045) - Tipos de Triângulos
   - [ ] [1047](https://www.urionlinejudge.com.br/judge/pt/problems/view/1047) - Tempo de Jogo com Minutos
@@ -194,14 +194,12 @@
   - [ ] [2775](https://www.urionlinejudge.com.br/judge/pt/problems/view/2775) - Preparando a Produção
   - [ ] [2776](https://www.urionlinejudge.com.br/judge/pt/problems/view/2776) - Promoções
   - [ ] [2779](https://www.urionlinejudge.com.br/judge/pt/problems/view/2779) - Álbum da Copa
-  - [ ] [2780](https://www.urionlinejudge.com.br/judge/pt/problems/view/2780) - Basquete de Robôs
   - [ ] [2781](https://www.urionlinejudge.com.br/judge/pt/problems/view/2781) - Câmara de Compensação
   - [ ] [2782](https://www.urionlinejudge.com.br/judge/pt/problems/view/2782) - Escadinha
   - [ ] [2783](https://www.urionlinejudge.com.br/judge/pt/problems/view/2783) - Figurinhas da Copa
   - [ ] [2784](https://www.urionlinejudge.com.br/judge/pt/problems/view/2784) - Ilhas
   - [ ] [2785](https://www.urionlinejudge.com.br/judge/pt/problems/view/2785) - Pirâmide
   - [ ] [2786](https://www.urionlinejudge.com.br/judge/pt/problems/view/2786) - Piso da Escola
-  - [ ] [2787](https://www.urionlinejudge.com.br/judge/pt/problems/view/2787) - Xadrez
   - [ ] [2791](https://www.urionlinejudge.com.br/judge/pt/problems/view/2791) - Feijão
   - [ ] [2802](https://www.urionlinejudge.com.br/judge/pt/problems/view/2802) - Dividindo Círculos
   - [ ] [2804](https://www.urionlinejudge.com.br/judge/pt/problems/view/2804) - Ferrovias
@@ -217,7 +215,6 @@
   - [ ] [2841](https://www.urionlinejudge.com.br/judge/pt/problems/view/2841) - Dabriel e Sua Festa
   - [ ] [2845](https://www.urionlinejudge.com.br/judge/pt/problems/view/2845) - Festa no Polo Norte
   - [ ] [2846](https://www.urionlinejudge.com.br/judge/pt/problems/view/2846) - Fibonot
-  - [ ] [2850](https://www.urionlinejudge.com.br/judge/pt/problems/view/2850) - Papagaio Poliglota
   - [ ] [2852](https://www.urionlinejudge.com.br/judge/pt/problems/view/2852) - Troca de Mensagens
   - [ ] [2855](https://www.urionlinejudge.com.br/judge/pt/problems/view/2855) - Números de Sorte
   - [ ] [2862](https://www.urionlinejudge.com.br/judge/pt/problems/view/2862) - Inseto!
@@ -302,6 +299,9 @@
   - [x] [2663](https://www.urionlinejudge.com.br/judge/pt/problems/view/2663) - [Fase](https://github.com/potigol/URI-Potigol/blob/master/src/2601-2700/2663.poti)
   - [x] [2670](https://www.urionlinejudge.com.br/judge/pt/problems/view/2670) - [Máquina de Café](https://github.com/potigol/URI-Potigol/blob/master/src/2601-2700/2670.poti)
   - [x] [2765](https://www.urionlinejudge.com.br/judge/pt/problems/view/2765) - [Entrada e Saída com Virgula](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2765.poti)
+  - [x] [2780](https://www.urionlinejudge.com.br/judge/pt/problems/view/2780) - [Basquete de Robôs](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2780.poti)
+  - [x] [2787](https://www.urionlinejudge.com.br/judge/pt/problems/view/2787) - [Xadrez](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2787.poti)
+  - [x] [2850](https://www.urionlinejudge.com.br/judge/pt/problems/view/2850) - [Papagaio Poliglota](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2850.poti)
   - [x] [2861](https://www.urionlinejudge.com.br/judge/pt/problems/view/2861) - [A Saída](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2861.poti)
   - [x] [2867](https://www.urionlinejudge.com.br/judge/pt/problems/view/2867) - [Dígitos](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2867.poti)
   - [x] [2879](https://www.urionlinejudge.com.br/judge/pt/problems/view/2879) - [Desvendando Monty Hall](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2879.poti)

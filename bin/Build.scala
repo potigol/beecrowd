@@ -17,10 +17,12 @@ object Build extends App {
 
   val b = a.groupBy(_.category)
   val c = b.keySet
-  val prefix =  "https://www.urionlinejudge.com.br/judge/pt/problems/view"
-  val code = "https://github.com/potigol/URI-Potigol/blob/master/src"
+  val config = (for(l<-io.Source.fromFile("config.txt").getLines; List(a,b)=l.split("=").toList) yield (a,b)).toMap
+  val prefix = config("prefix")
+  val code = config("code")
+  val extension = config("extension")
+
   def dir(n: Int) = s"${n / 100 * 100 + 1}-${(n / 100 + 1) * 100}"
-  val extension = "poti"
 
   def line(x: Int, cat: Boolean = true) = a.find(_.number == x) match {
     case None => s"  - [ ] ~~${x}~~"

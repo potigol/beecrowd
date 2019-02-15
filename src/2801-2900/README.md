@@ -49,7 +49,7 @@
   - [ ] [2847](https://www.urionlinejudge.com.br/judge/pt/problems/view/2847) - Papel, Tesoura, I Love You! *Ad-Hoc*
   - [ ] [2848](https://www.urionlinejudge.com.br/judge/pt/problems/view/2848) - Rangel e o Jogo do Vetor I *Estruturas e Bibliotecas*
   - [ ] [2849](https://www.urionlinejudge.com.br/judge/pt/problems/view/2849) - Rangel e o Jogo do Vetor II *Estruturas e Bibliotecas*
-  - [ ] [2850](https://www.urionlinejudge.com.br/judge/pt/problems/view/2850) - Papagaio Poliglota *Iniciante*
+  - [x] [2850](https://www.urionlinejudge.com.br/judge/pt/problems/view/2850) - [Papagaio Poliglota](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2850.poti) *Iniciante*
   - [ ] [2851](https://www.urionlinejudge.com.br/judge/pt/problems/view/2851) - Desafio de Rangel *Ad-Hoc*
   - [ ] [2852](https://www.urionlinejudge.com.br/judge/pt/problems/view/2852) - Troca de Mensagens *Iniciante*
   - [ ] [2853](https://www.urionlinejudge.com.br/judge/pt/problems/view/2853) - Invenções de Bibika *Ad-Hoc*
