@@ -1,0 +1,11 @@
+nulo = None.orNull
+var a := leia_texto
+enquanto a <> nulo faça
+  escolha a[1]
+    caso 'e' => escreva "ingles"
+    caso 'd' => escreva "frances"
+    caso 'n' => escreva "portugues"
+    caso  _  => escreva "caiu"
+  fim
+  a := leia_texto
+fim
