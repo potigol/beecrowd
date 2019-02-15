@@ -1,0 +1,2 @@
+l, c = leia_inteiro
+escreva (l + c + 1) mod 2
