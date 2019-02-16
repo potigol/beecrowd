@@ -6,7 +6,7 @@
 
 
 
-### Final
+### 2ª Fase
 
   - [ ] [2903](https://www.urionlinejudge.com.br/judge/pt/problems/view/2903) - A Symmetrical Pizza *Ad-Hoc*
   - [ ] [2904](https://www.urionlinejudge.com.br/judge/pt/problems/view/2904) - Building a Field *Ad-Hoc*
@@ -23,7 +23,7 @@
   - [ ] [2915](https://www.urionlinejudge.com.br/judge/pt/problems/view/2915) - Mount Marathon *Ad-Hoc*
 
 
-### Regional
+### 1ª Fase
 
   - [ ] [2876](https://www.urionlinejudge.com.br/judge/pt/problems/view/2876) - Aventurando-se no Slackline *Ad-Hoc*
   - [ ] [2877](https://www.urionlinejudge.com.br/judge/pt/problems/view/2877) - Bolinhas de Gude *Paradigmas*
@@ -44,7 +44,7 @@
 
 
 
-### Final
+### 2ª Fase
 
   - [ ] [2695](https://www.urionlinejudge.com.br/judge/pt/problems/view/2695) - Arrumando Lajotas *Iniciante*
   - [ ] [2697](https://www.urionlinejudge.com.br/judge/pt/problems/view/2697) - Sequencia Completa de Naebbirac *Strings*
@@ -59,7 +59,7 @@
   - [ ] [2706](https://www.urionlinejudge.com.br/judge/pt/problems/view/2706) - Linearville *Iniciante*
 
 
-### Regional
+### 1ª Fase
 
   - [ ] [2658](https://www.urionlinejudge.com.br/judge/pt/problems/view/2658) - Acordes Intergaláticos *Estruturas e Bibliotecas*
   - [ ] [2659](https://www.urionlinejudge.com.br/judge/pt/problems/view/2659) - Brincadeira *Ad-Hoc*
@@ -80,7 +80,7 @@
 
 
 
-### Final
+### 2ª Fase
 
   - [x] [2345](https://www.urionlinejudge.com.br/judge/pt/problems/view/2345) - [Assigning Teams](https://github.com/potigol/URI-Potigol/blob/master/src/2301-2400/2345.poti) *Ad-Hoc*
   - [ ] [2346](https://www.urionlinejudge.com.br/judge/pt/problems/view/2346) - Back to the Future *Ad-Hoc*
@@ -94,7 +94,7 @@
   - [ ] [2354](https://www.urionlinejudge.com.br/judge/pt/problems/view/2354) - Kill the Werewolf *Ad-Hoc*
 
 
-### Regional
+### 1ª Fase
 
   - [ ] [2233](https://www.urionlinejudge.com.br/judge/pt/problems/view/2233) - Etiquetas Coloridas *Ad-Hoc*
   - [ ] [2234](https://www.urionlinejudge.com.br/judge/pt/problems/view/2234) - Cachorros-Quentes *Iniciante*
@@ -116,7 +116,7 @@
 
 
 
-### Final
+### 2ª Fase
 
   - [ ] [2006](https://www.urionlinejudge.com.br/judge/pt/problems/view/2006) - Identificando o Chá *Iniciante*
   - [ ] [2007](https://www.urionlinejudge.com.br/judge/pt/problems/view/2007) - Falha Ao Cercar Legumes *Matemática*
@@ -131,7 +131,7 @@
   - [ ] [2016](https://www.urionlinejudge.com.br/judge/pt/problems/view/2016) - D como em Daedalus *Ad-Hoc*
 
 
-### Regional
+### 1ª Fase
 
   - [ ] [1931](https://www.urionlinejudge.com.br/judge/pt/problems/view/1931) - Mania de Par *Grafos*
   - [ ] [1932](https://www.urionlinejudge.com.br/judge/pt/problems/view/1932) - Bolsa de Valores *Ad-Hoc*
@@ -151,7 +151,7 @@
 
 
 
-### Final
+### 2ª Fase
 
   - [ ] [1743](https://www.urionlinejudge.com.br/judge/pt/problems/view/1743) - Máquina de Verificação Automatizada *Ad-Hoc*
   - [ ] [1744](https://www.urionlinejudge.com.br/judge/pt/problems/view/1744) - Pedras Pretas e Brancas *Paradigmas*
@@ -167,7 +167,7 @@
   - [ ] [1808](https://www.urionlinejudge.com.br/judge/pt/problems/view/1808) - O Retorno do Rei *Ad-Hoc*
 
 
-### Regional
+### 1ª Fase
 
   - [ ] [1708](https://www.urionlinejudge.com.br/judge/pt/problems/view/1708) - Volta *Ad-Hoc*
   - [ ] [1709](https://www.urionlinejudge.com.br/judge/pt/problems/view/1709) - Baralho Embaralhado *Estruturas e Bibliotecas*
@@ -186,7 +186,7 @@
 
 
 
-### Final
+### 2ª Fase
 
   - [ ] [1490](https://www.urionlinejudge.com.br/judge/pt/problems/view/1490) - Torres que Atacam *Grafos*
   - [ ] [1491](https://www.urionlinejudge.com.br/judge/pt/problems/view/1491) - Linguagem de Blogger *Strings*
@@ -200,7 +200,7 @@
   - [ ] [1499](https://www.urionlinejudge.com.br/judge/pt/problems/view/1499) - Junte Dois Reinos *Grafos*
 
 
-### Regional
+### 1ª Fase
 
   - [ ] [1467](https://www.urionlinejudge.com.br/judge/pt/problems/view/1467) - Zerinho ou Um *Ad-Hoc*
   - [ ] [1468](https://www.urionlinejudge.com.br/judge/pt/problems/view/1468) - Balão *Geometria Computacional*
@@ -218,7 +218,7 @@
 
 
 
-### Final
+### 2ª Fase
 
   - [ ] [1282](https://www.urionlinejudge.com.br/judge/pt/problems/view/1282) - Organizando Pacotes *Paradigmas*
   - [ ] [1283](https://www.urionlinejudge.com.br/judge/pt/problems/view/1283) - Caixas e Pedras *Paradigmas*
@@ -232,7 +232,7 @@
   - [ ] [1302](https://www.urionlinejudge.com.br/judge/pt/problems/view/1302) - Juntando Casais *Grafos*
 
 
-### Regional
+### 1ª Fase
 
   - [ ] [1222](https://www.urionlinejudge.com.br/judge/pt/problems/view/1222) - Concurso de Contos *Strings*
   - [ ] [1223](https://www.urionlinejudge.com.br/judge/pt/problems/view/1223) - Tobogan de Bolinhas *Geometria Computacional*
@@ -252,7 +252,7 @@
 
 
 
-### Final
+### 2ª Fase
 
   - [ ] [1311](https://www.urionlinejudge.com.br/judge/pt/problems/view/1311) - Companheiros de Exército *Ad-Hoc*
   - [ ] [1312](https://www.urionlinejudge.com.br/judge/pt/problems/view/1312) - Empilhamento de Bolas *Paradigmas*
@@ -269,7 +269,7 @@
   - [ ] [1441](https://www.urionlinejudge.com.br/judge/pt/problems/view/1441) - Sequências de Granizo *Ad-Hoc*
 
 
-### Regional
+### 1ª Fase
 
   - [ ] [1242](https://www.urionlinejudge.com.br/judge/pt/problems/view/1242) - Ácido Ribonucleico Alienígena *Estruturas e Bibliotecas*
   - [ ] [1245](https://www.urionlinejudge.com.br/judge/pt/problems/view/1245) - Botas Perdidas *Ad-Hoc*
@@ -285,7 +285,7 @@
 
 
 
-### Final
+### 2ª Fase
 
   - [ ] [1135](https://www.urionlinejudge.com.br/judge/pt/problems/view/1135) - Colônia de Formigas *Grafos*
   - [ ] [1136](https://www.urionlinejudge.com.br/judge/pt/problems/view/1136) - Bingo! *Ad-Hoc*
@@ -302,7 +302,7 @@
   - [ ] [1429](https://www.urionlinejudge.com.br/judge/pt/problems/view/1429) - Fatorial de Novo! *Matemática*
 
 
-### Regional
+### 1ª Fase
 
   - [ ] [1120](https://www.urionlinejudge.com.br/judge/pt/problems/view/1120) - Revisão de Contrato *Strings*
   - [ ] [1121](https://www.urionlinejudge.com.br/judge/pt/problems/view/1121) - Robô Colecionador *Ad-Hoc*
@@ -321,7 +321,7 @@
 
 
 
-### Final
+### 2ª Fase
 
   - [ ] [1376](https://www.urionlinejudge.com.br/judge/pt/problems/view/1376) - Irmãos *Matemática*
   - [ ] [1377](https://www.urionlinejudge.com.br/judge/pt/problems/view/1377) - Recuperador de Arquivos *Strings*
@@ -337,7 +337,7 @@
   - [ ] [1460](https://www.urionlinejudge.com.br/judge/pt/problems/view/1460) - Parreiral *Ad-Hoc*
 
 
-### Regional
+### 1ª Fase
 
   - [ ] [1102](https://www.urionlinejudge.com.br/judge/pt/problems/view/1102) - Ataque Fulminante *Geometria Computacional*
   - [ ] [1103](https://www.urionlinejudge.com.br/judge/pt/problems/view/1103) - Alarme Despertador *Ad-Hoc*
@@ -353,7 +353,7 @@
 
 
 
-### Final
+### 2ª Fase
 
   - [ ] [1323](https://www.urionlinejudge.com.br/judge/pt/problems/view/1323) - Feynman *Matemática*
   - [ ] [1324](https://www.urionlinejudge.com.br/judge/pt/problems/view/1324) - Bóson de Higgs *Matemática*
@@ -368,7 +368,7 @@
   - [ ] [1439](https://www.urionlinejudge.com.br/judge/pt/problems/view/1439) - Bora Bora *Estruturas e Bibliotecas*
 
 
-### Regional
+### 1ª Fase
 
   - [ ] [1084](https://www.urionlinejudge.com.br/judge/pt/problems/view/1084) - Apagando e Ganhando *Paradigmas*
   - [ ] [1085](https://www.urionlinejudge.com.br/judge/pt/problems/view/1085) - Babel *Grafos*
@@ -386,7 +386,7 @@
 
 
 
-### Final
+### 2ª Fase
 
   - [ ] [1363](https://www.urionlinejudge.com.br/judge/pt/problems/view/1363) - Competição de Placas de Carros *Ad-Hoc*
   - [ ] [1364](https://www.urionlinejudge.com.br/judge/pt/problems/view/1364) - Emoticons :-) *Strings*
@@ -400,7 +400,7 @@
   - [ ] [1417](https://www.urionlinejudge.com.br/judge/pt/problems/view/1417) - Liga da Justiça *Grafos*
 
 
-### Regional
+### 1ª Fase
 
   - [ ] [1388](https://www.urionlinejudge.com.br/judge/pt/problems/view/1388) - Onde Estão as Bolhas? *Estruturas e Bibliotecas*
   - [ ] [1408](https://www.urionlinejudge.com.br/judge/pt/problems/view/1408) - Mário *Paradigmas*
@@ -418,7 +418,7 @@
 
 
 
-### Final
+### 2ª Fase
 
   - [ ] [1325](https://www.urionlinejudge.com.br/judge/pt/problems/view/1325) - Mapas Bolha *Paradigmas*
   - [ ] [1384](https://www.urionlinejudge.com.br/judge/pt/problems/view/1384) - Sapo Preguiçoso *Grafos*
@@ -430,7 +430,7 @@
   - [ ] [1485](https://www.urionlinejudge.com.br/judge/pt/problems/view/1485) - Roleta Turca *Paradigmas*
 
 
-### Regional
+### 1ª Fase
 
   - [ ] [1371](https://www.urionlinejudge.com.br/judge/pt/problems/view/1371) - Fechem as Portas! *Matemática*
   - [ ] [1404](https://www.urionlinejudge.com.br/judge/pt/problems/view/1404) - MegaDamas *Ad-Hoc*
@@ -443,7 +443,7 @@
 
 
 
-### Final
+### 2ª Fase
 
   - [ ] [1265](https://www.urionlinejudge.com.br/judge/pt/problems/view/1265) - DJ da Computação *Paradigmas*
   - [ ] [1266](https://www.urionlinejudge.com.br/judge/pt/problems/view/1266) - Tornado! *Ad-Hoc*
@@ -456,7 +456,7 @@
   - [ ] [1275](https://www.urionlinejudge.com.br/judge/pt/problems/view/1275) - Light Up *Grafos*
 
 
-### Regional
+### 1ª Fase
 
   - [ ] [1368](https://www.urionlinejudge.com.br/judge/pt/problems/view/1368) - Cubos Coloridos *Ad-Hoc*
   - [ ] [1369](https://www.urionlinejudge.com.br/judge/pt/problems/view/1369) - Gerente de Espaço *Ad-Hoc*
@@ -469,7 +469,7 @@
 
 
 
-### Final
+### 2ª Fase
 
   - [ ] [1358](https://www.urionlinejudge.com.br/judge/pt/problems/view/1358) - Cortando Extremidades *Geometria Computacional*
   - [ ] [1359](https://www.urionlinejudge.com.br/judge/pt/problems/view/1359) - Taxa de Divisão de Terreno *Ad-Hoc*
@@ -479,7 +479,7 @@
   - [ ] [1482](https://www.urionlinejudge.com.br/judge/pt/problems/view/1482) - Noite no Museu *Grafos*
 
 
-### Regional
+### 1ª Fase
 
   - [ ] [1290](https://www.urionlinejudge.com.br/judge/pt/problems/view/1290) - Caixas Muito Especiais *Ad-Hoc*
   - [ ] [1326](https://www.urionlinejudge.com.br/judge/pt/problems/view/1326) - Química *Estruturas e Bibliotecas*
@@ -495,7 +495,7 @@
 
 
 
-### Final
+### 2ª Fase
 
   - [ ] [1342](https://www.urionlinejudge.com.br/judge/pt/problems/view/1342) - Dado *Ad-Hoc*
   - [ ] [1343](https://www.urionlinejudge.com.br/judge/pt/problems/view/1343) - Runner Pawns *Ad-Hoc*
@@ -511,7 +511,7 @@
 
 
 
-### Final
+### 2ª Fase
 
   - [ ] [1315](https://www.urionlinejudge.com.br/judge/pt/problems/view/1315) - Não tão Convexo *Geometria Computacional*
   - [ ] [1316](https://www.urionlinejudge.com.br/judge/pt/problems/view/1316) - Compra Livre de Impostos *Matemática*

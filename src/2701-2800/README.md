@@ -46,8 +46,8 @@
   - [ ] ~~2744~~ - *SQL*
   - [ ] ~~2745~~ - *SQL*
   - [ ] ~~2746~~ - *SQL*
-  - [ ] [2747](https://www.urionlinejudge.com.br/judge/pt/problems/view/2747) - Saída 1 *Iniciante*
-  - [ ] [2748](https://www.urionlinejudge.com.br/judge/pt/problems/view/2748) - Saída 2 *Iniciante*
+  - [x] [2747](https://www.urionlinejudge.com.br/judge/pt/problems/view/2747) - [Saída 1](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2747.poti) *Iniciante*
+  - [x] [2748](https://www.urionlinejudge.com.br/judge/pt/problems/view/2748) - [Saída 2](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2748.poti) *Iniciante*
   - [ ] [2749](https://www.urionlinejudge.com.br/judge/pt/problems/view/2749) - Saída 3 *Iniciante*
   - [ ] [2750](https://www.urionlinejudge.com.br/judge/pt/problems/view/2750) - Saída 4 *Iniciante*
   - [ ] [2751](https://www.urionlinejudge.com.br/judge/pt/problems/view/2751) - Saída 5 *Iniciante*

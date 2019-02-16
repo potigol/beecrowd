@@ -1,0 +1,5 @@
+a, b, c = leia_texto
+escreva "{a}{b}{c}"
+escreva "{b}{c}{a}"
+escreva "{c}{a}{b}"
+escreva "{a.pegue(10)}{b.pegue(10)}{c.pegue(10)}"

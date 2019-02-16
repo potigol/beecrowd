@@ -1,0 +1,2 @@
+n, m = leia_inteiro
+escreva n - m

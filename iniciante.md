@@ -1,4 +1,4 @@
-# Iniciante (85 / 306)
+# Iniciante (87 / 306)
 
   - [ ] [1045](https://www.urionlinejudge.com.br/judge/pt/problems/view/1045) - Tipos de Triângulos
   - [ ] [1047](https://www.urionlinejudge.com.br/judge/pt/problems/view/1047) - Tempo de Jogo com Minutos
@@ -168,8 +168,6 @@
   - [ ] [2721](https://www.urionlinejudge.com.br/judge/pt/problems/view/2721) - Indecisão das Renas
   - [ ] [2724](https://www.urionlinejudge.com.br/judge/pt/problems/view/2724) - Ajude Patatatitu
   - [ ] [2727](https://www.urionlinejudge.com.br/judge/pt/problems/view/2727) - Código Secreto
-  - [ ] [2747](https://www.urionlinejudge.com.br/judge/pt/problems/view/2747) - Saída 1
-  - [ ] [2748](https://www.urionlinejudge.com.br/judge/pt/problems/view/2748) - Saída 2
   - [ ] [2749](https://www.urionlinejudge.com.br/judge/pt/problems/view/2749) - Saída 3
   - [ ] [2750](https://www.urionlinejudge.com.br/judge/pt/problems/view/2750) - Saída 4
   - [ ] [2751](https://www.urionlinejudge.com.br/judge/pt/problems/view/2751) - Saída 5
@@ -298,6 +296,8 @@
   - [x] [2582](https://www.urionlinejudge.com.br/judge/pt/problems/view/2582) - [System of a Download](https://github.com/potigol/URI-Potigol/blob/master/src/2501-2600/2582.poti)
   - [x] [2663](https://www.urionlinejudge.com.br/judge/pt/problems/view/2663) - [Fase](https://github.com/potigol/URI-Potigol/blob/master/src/2601-2700/2663.poti)
   - [x] [2670](https://www.urionlinejudge.com.br/judge/pt/problems/view/2670) - [Máquina de Café](https://github.com/potigol/URI-Potigol/blob/master/src/2601-2700/2670.poti)
+  - [x] [2747](https://www.urionlinejudge.com.br/judge/pt/problems/view/2747) - [Saída 1](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2747.poti)
+  - [x] [2748](https://www.urionlinejudge.com.br/judge/pt/problems/view/2748) - [Saída 2](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2748.poti)
   - [x] [2765](https://www.urionlinejudge.com.br/judge/pt/problems/view/2765) - [Entrada e Saída com Virgula](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2765.poti)
   - [x] [2780](https://www.urionlinejudge.com.br/judge/pt/problems/view/2780) - [Basquete de Robôs](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2780.poti)
   - [x] [2787](https://www.urionlinejudge.com.br/judge/pt/problems/view/2787) - [Xadrez](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2787.poti)

@@ -39,6 +39,38 @@ object Build extends App {
     close
   }
 
+  def duasfases(c1: String, c2: String, file: String, title: String) = {
+    val contest1 = getContest(c1)
+    val contest2 = getContest(c2)
+    var s = ""
+    for (year <- contest2.keys.toList.sorted.reverse) {
+      s = s + s"\n\n## ${year}\n\n"
+      s = s + s"\n\n### 2ª Fase\n\n"
+      for (y <- contest2.get(year); x <- y) {
+        s = s + line(x) +"\n"
+      }
+      if (contest1.get(year)!= None){
+        s = s + s"\n\n### 1ª Fase\n\n"
+        for (y <- contest1.get(year); x <- y) {
+          s = s + line(x) +"\n"
+        }
+      }
+    }
+    save(file, title, s)
+  }
+
+  def umafase(c1: String, file: String, title: String) = {
+    val contest3 = getContest(c1)
+    var s = ""
+    for (year <- contest3.keys.toList.sorted.reverse) {
+      s = s + s"\n\n## ${year}\n\n"
+      for (y <- contest3.get(year); x <- y) {
+        s = s + line(x) +"\n"
+      }
+    }
+    save(file, title, s)
+  }
+
   // Lista Geral
   for (i <- 10 to 29) {
     val d = for (j <- 1 to 100; x = i * 100 + j) yield line(x)
@@ -70,32 +102,8 @@ object Build extends App {
 
   // Lista por competição
 
-  val contest1 = getContest("maratona1.txt")
-  val contest2 = getContest("maratona2.txt")
-  var s = ""
-  for (year <- contest2.keys.toList.sorted.reverse) {
-    s = s + s"\n\n## ${year}\n\n"
-    s = s + s"\n\n### Final\n\n"
-    for (y <- contest2.get(year); x <- y) {
-      s = s + line(x) +"\n"
-    }
-    if (contest1.get(year)!= None){
-      s = s + s"\n\n### Regional\n\n"
-      for (y <- contest1.get(year); x <- y) {
-        s = s + line(x) +"\n"
-      }
-    }
-  }
-  save("../maratona.md", "Maratona de Programação", s)
 
-  val contest3 = getContest("obi.txt")
-  s = ""
-  for (year <- contest3.keys.toList.sorted.reverse) {
-    s = s + s"\n\n## ${year}\n\n"
-    for (y <- contest3.get(year); x <- y) {
-      s = s + line(x) +"\n"
-    }
-  }
-  save("../obi.md", "Olimpiada Brasileira de Informática", s)
-
+  // Principal
+  duasfases("maratona1.txt", "maratona2.txt", "../maratona.md", "Maratona de Programação")
+  umafase("obi.txt", "../obi.md", "Olimpiada Brasileira de Informática")
 }
