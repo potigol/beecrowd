@@ -1,0 +1,4 @@
+entrada = leia_inteiros(" ")
+c = entrada[1]
+n = entrada[2]
+escreva c mod n

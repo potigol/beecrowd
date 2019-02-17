@@ -1,4 +1,4 @@
-# Ad-Hoc (10 / 633)
+# Ad-Hoc (15 / 633)
 
   - [ ] [1026](https://www.urionlinejudge.com.br/judge/pt/problems/view/1026) - Carrega ou não Carrega?
   - [ ] [1030](https://www.urionlinejudge.com.br/judge/pt/problems/view/1030) - A Lenda de Flavious Josephus
@@ -265,7 +265,6 @@
   - [ ] [2041](https://www.urionlinejudge.com.br/judge/pt/problems/view/2041) - Sequência de Gödelito
   - [ ] [2051](https://www.urionlinejudge.com.br/judge/pt/problems/view/2051) - Mapas de Karnaugh I
   - [ ] [2054](https://www.urionlinejudge.com.br/judge/pt/problems/view/2054) - Last Year at Marienbad
-  - [ ] [2058](https://www.urionlinejudge.com.br/judge/pt/problems/view/2058) - Triângulos e Polígonos Regulares
   - [ ] [2070](https://www.urionlinejudge.com.br/judge/pt/problems/view/2070) - Contando Sequências Boladas
   - [ ] [2078](https://www.urionlinejudge.com.br/judge/pt/problems/view/2078) - Paz Verde! Hipocrisia Mundial!
   - [ ] [2090](https://www.urionlinejudge.com.br/judge/pt/problems/view/2090) - Fui ao Mercado e Comprei...
@@ -415,10 +414,8 @@
   - [ ] [2371](https://www.urionlinejudge.com.br/judge/pt/problems/view/2371) - Batalha Naval
   - [ ] [2372](https://www.urionlinejudge.com.br/judge/pt/problems/view/2372) - Reunião
   - [ ] [2373](https://www.urionlinejudge.com.br/judge/pt/problems/view/2373) - Garçom
-  - [ ] [2374](https://www.urionlinejudge.com.br/judge/pt/problems/view/2374) - Pneu
   - [ ] [2375](https://www.urionlinejudge.com.br/judge/pt/problems/view/2375) - Sedex
   - [ ] [2376](https://www.urionlinejudge.com.br/judge/pt/problems/view/2376) - Copa do Mundo
-  - [ ] [2377](https://www.urionlinejudge.com.br/judge/pt/problems/view/2377) - Pedágio
   - [ ] [2378](https://www.urionlinejudge.com.br/judge/pt/problems/view/2378) - Elevador
   - [ ] [2379](https://www.urionlinejudge.com.br/judge/pt/problems/view/2379) - Dança Indígena
   - [ ] [2380](https://www.urionlinejudge.com.br/judge/pt/problems/view/2380) - Fusões
@@ -436,7 +433,6 @@
   - [ ] [2392](https://www.urionlinejudge.com.br/judge/pt/problems/view/2392) - Pulo do Sapo
   - [ ] [2393](https://www.urionlinejudge.com.br/judge/pt/problems/view/2393) - O Mar não está para Peixe
   - [ ] [2394](https://www.urionlinejudge.com.br/judge/pt/problems/view/2394) - Corrida 1
-  - [ ] [2395](https://www.urionlinejudge.com.br/judge/pt/problems/view/2395) - Transporte de Contêineres
   - [ ] [2396](https://www.urionlinejudge.com.br/judge/pt/problems/view/2396) - Corrida
   - [ ] [2398](https://www.urionlinejudge.com.br/judge/pt/problems/view/2398) - Caça ao Tesouro
   - [ ] [2400](https://www.urionlinejudge.com.br/judge/pt/problems/view/2400) - Balé
@@ -454,7 +450,6 @@
   - [ ] [2413](https://www.urionlinejudge.com.br/judge/pt/problems/view/2413) - Busca na Internet
   - [ ] [2414](https://www.urionlinejudge.com.br/judge/pt/problems/view/2414) - Desafio do Maior Número
   - [ ] [2415](https://www.urionlinejudge.com.br/judge/pt/problems/view/2415) - Consecutivos
-  - [ ] [2416](https://www.urionlinejudge.com.br/judge/pt/problems/view/2416) - Corrida
   - [ ] [2417](https://www.urionlinejudge.com.br/judge/pt/problems/view/2417) - Campeonato
   - [ ] [2418](https://www.urionlinejudge.com.br/judge/pt/problems/view/2418) - Carnaval
   - [ ] [2420](https://www.urionlinejudge.com.br/judge/pt/problems/view/2420) - Guerra por Território
@@ -624,9 +619,14 @@
   - [ ] [2931](https://www.urionlinejudge.com.br/judge/pt/problems/view/2931) - Presentes Suspeitos
   - [ ] [2935](https://www.urionlinejudge.com.br/judge/pt/problems/view/2935) - DNA Élfico
   - [x] [1794](https://www.urionlinejudge.com.br/judge/pt/problems/view/1794) - [Lavanderia](https://github.com/potigol/URI-Potigol/blob/master/src/1701-1800/1794.poti)
+  - [x] [2058](https://www.urionlinejudge.com.br/judge/pt/problems/view/2058) - [Triângulos e Polígonos Regulares](https://github.com/potigol/URI-Potigol/blob/master/src/2001-2100/2058.poti)
   - [x] [2345](https://www.urionlinejudge.com.br/judge/pt/problems/view/2345) - [Assigning Teams](https://github.com/potigol/URI-Potigol/blob/master/src/2301-2400/2345.poti)
+  - [x] [2374](https://www.urionlinejudge.com.br/judge/pt/problems/view/2374) - [Pneu](https://github.com/potigol/URI-Potigol/blob/master/src/2301-2400/2374.poti)
+  - [x] [2377](https://www.urionlinejudge.com.br/judge/pt/problems/view/2377) - [Pedágio](https://github.com/potigol/URI-Potigol/blob/master/src/2301-2400/2377.poti)
+  - [x] [2395](https://www.urionlinejudge.com.br/judge/pt/problems/view/2395) - [Transporte de Contêineres](https://github.com/potigol/URI-Potigol/blob/master/src/2301-2400/2395.poti)
   - [x] [2397](https://www.urionlinejudge.com.br/judge/pt/problems/view/2397) - [Triângulos](https://github.com/potigol/URI-Potigol/blob/master/src/2301-2400/2397.poti)
   - [x] [2399](https://www.urionlinejudge.com.br/judge/pt/problems/view/2399) - [Campo Minado](https://github.com/potigol/URI-Potigol/blob/master/src/2301-2400/2399.poti)
+  - [x] [2416](https://www.urionlinejudge.com.br/judge/pt/problems/view/2416) - [Corrida](https://github.com/potigol/URI-Potigol/blob/master/src/2401-2500/2416.poti)
   - [x] [2428](https://www.urionlinejudge.com.br/judge/pt/problems/view/2428) - [Capital](https://github.com/potigol/URI-Potigol/blob/master/src/2401-2500/2428.poti)
   - [x] [2434](https://www.urionlinejudge.com.br/judge/pt/problems/view/2434) - [Saldo do Vovô](https://github.com/potigol/URI-Potigol/blob/master/src/2401-2500/2434.poti)
   - [x] [2465](https://www.urionlinejudge.com.br/judge/pt/problems/view/2465) - [Passa Bolinha](https://github.com/potigol/URI-Potigol/blob/master/src/2401-2500/2465.poti)

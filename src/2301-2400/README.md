@@ -73,10 +73,10 @@
   - [ ] [2371](https://www.urionlinejudge.com.br/judge/pt/problems/view/2371) - Batalha Naval *Ad-Hoc*
   - [ ] [2372](https://www.urionlinejudge.com.br/judge/pt/problems/view/2372) - Reunião *Ad-Hoc*
   - [ ] [2373](https://www.urionlinejudge.com.br/judge/pt/problems/view/2373) - Garçom *Ad-Hoc*
-  - [ ] [2374](https://www.urionlinejudge.com.br/judge/pt/problems/view/2374) - Pneu *Ad-Hoc*
+  - [x] [2374](https://www.urionlinejudge.com.br/judge/pt/problems/view/2374) - [Pneu](https://github.com/potigol/URI-Potigol/blob/master/src/2301-2400/2374.poti) *Ad-Hoc*
   - [ ] [2375](https://www.urionlinejudge.com.br/judge/pt/problems/view/2375) - Sedex *Ad-Hoc*
   - [ ] [2376](https://www.urionlinejudge.com.br/judge/pt/problems/view/2376) - Copa do Mundo *Ad-Hoc*
-  - [ ] [2377](https://www.urionlinejudge.com.br/judge/pt/problems/view/2377) - Pedágio *Ad-Hoc*
+  - [x] [2377](https://www.urionlinejudge.com.br/judge/pt/problems/view/2377) - [Pedágio](https://github.com/potigol/URI-Potigol/blob/master/src/2301-2400/2377.poti) *Ad-Hoc*
   - [ ] [2378](https://www.urionlinejudge.com.br/judge/pt/problems/view/2378) - Elevador *Ad-Hoc*
   - [ ] [2379](https://www.urionlinejudge.com.br/judge/pt/problems/view/2379) - Dança Indígena *Ad-Hoc*
   - [ ] [2380](https://www.urionlinejudge.com.br/judge/pt/problems/view/2380) - Fusões *Ad-Hoc*
@@ -94,7 +94,7 @@
   - [ ] [2392](https://www.urionlinejudge.com.br/judge/pt/problems/view/2392) - Pulo do Sapo *Ad-Hoc*
   - [ ] [2393](https://www.urionlinejudge.com.br/judge/pt/problems/view/2393) - O Mar não está para Peixe *Ad-Hoc*
   - [ ] [2394](https://www.urionlinejudge.com.br/judge/pt/problems/view/2394) - Corrida 1 *Ad-Hoc*
-  - [ ] [2395](https://www.urionlinejudge.com.br/judge/pt/problems/view/2395) - Transporte de Contêineres *Ad-Hoc*
+  - [x] [2395](https://www.urionlinejudge.com.br/judge/pt/problems/view/2395) - [Transporte de Contêineres](https://github.com/potigol/URI-Potigol/blob/master/src/2301-2400/2395.poti) *Ad-Hoc*
   - [ ] [2396](https://www.urionlinejudge.com.br/judge/pt/problems/view/2396) - Corrida *Ad-Hoc*
   - [x] [2397](https://www.urionlinejudge.com.br/judge/pt/problems/view/2397) - [Triângulos](https://github.com/potigol/URI-Potigol/blob/master/src/2301-2400/2397.poti) *Ad-Hoc*
   - [ ] [2398](https://www.urionlinejudge.com.br/judge/pt/problems/view/2398) - Caça ao Tesouro *Ad-Hoc*

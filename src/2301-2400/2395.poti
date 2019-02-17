@@ -1,0 +1,3 @@
+c = leia_inteiros(" ")
+n = leia_inteiros(" ")
+escreva (n[1] div c[1]) * (n[2] div c[2]) * (n[3] div c[3])

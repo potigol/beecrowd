@@ -1,0 +1,5 @@
+a, b, c = leia_inteiro
+escreva "A = {a}, B = {b}, C = {c}"
+escreva "A = {a formato "%10d"}, B = {b formato "%10d"}, C = {c formato "%10d"}"
+escreva "A = {a formato "%010d"}, B = {b formato "%010d"}, C = {c formato "%010d"}"
+escreva "A = {a formato "%-10d"}, B = {b formato "%-10d"}, C = {c formato "%-10d"}"

@@ -58,11 +58,11 @@
   - [ ] [1956](https://www.urionlinejudge.com.br/judge/pt/problems/view/1956) - Acácias *Grafos*
   - [ ] [1957](https://www.urionlinejudge.com.br/judge/pt/problems/view/1957) - Converter para Hexadecimal *Iniciante*
   - [ ] [1958](https://www.urionlinejudge.com.br/judge/pt/problems/view/1958) - Notação Científica *Iniciante*
-  - [ ] [1959](https://www.urionlinejudge.com.br/judge/pt/problems/view/1959) - Polígonos Regulares Simples *Iniciante*
+  - [x] [1959](https://www.urionlinejudge.com.br/judge/pt/problems/view/1959) - [Polígonos Regulares Simples](https://github.com/potigol/URI-Potigol/blob/master/src/1901-2000/1959.poti) *Iniciante*
   - [ ] [1960](https://www.urionlinejudge.com.br/judge/pt/problems/view/1960) - Numeração Romana para Números de Página *Iniciante*
   - [ ] [1961](https://www.urionlinejudge.com.br/judge/pt/problems/view/1961) - Pula Sapo *Iniciante*
   - [ ] [1962](https://www.urionlinejudge.com.br/judge/pt/problems/view/1962) - Há Muito, Muito Tempo Atrás *Iniciante*
-  - [ ] [1963](https://www.urionlinejudge.com.br/judge/pt/problems/view/1963) - O Filme *Iniciante*
+  - [x] [1963](https://www.urionlinejudge.com.br/judge/pt/problems/view/1963) - [O Filme](https://github.com/potigol/URI-Potigol/blob/master/src/1901-2000/1963.poti) *Iniciante*
   - [ ] [1964](https://www.urionlinejudge.com.br/judge/pt/problems/view/1964) - A Ira de Khan *Ad-Hoc*
   - [ ] [1965](https://www.urionlinejudge.com.br/judge/pt/problems/view/1965) - A Procura por Spock *Ad-Hoc*
   - [ ] [1966](https://www.urionlinejudge.com.br/judge/pt/problems/view/1966) - A Volta para Casa *Ad-Hoc*

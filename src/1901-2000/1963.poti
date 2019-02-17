@@ -1,0 +1,5 @@
+entrada = leia_reais(" ")
+a = entrada[1]
+b = entrada[2]
+c = (b / a - 1) * 100
+escreva "{c formato "%.2f"}%"

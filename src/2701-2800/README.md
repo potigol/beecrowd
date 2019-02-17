@@ -48,18 +48,18 @@
   - [ ] ~~2746~~ - *SQL*
   - [x] [2747](https://www.urionlinejudge.com.br/judge/pt/problems/view/2747) - [Saída 1](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2747.poti) *Iniciante*
   - [x] [2748](https://www.urionlinejudge.com.br/judge/pt/problems/view/2748) - [Saída 2](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2748.poti) *Iniciante*
-  - [ ] [2749](https://www.urionlinejudge.com.br/judge/pt/problems/view/2749) - Saída 3 *Iniciante*
+  - [x] [2749](https://www.urionlinejudge.com.br/judge/pt/problems/view/2749) - [Saída 3](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2749.poti) *Iniciante*
   - [ ] [2750](https://www.urionlinejudge.com.br/judge/pt/problems/view/2750) - Saída 4 *Iniciante*
   - [ ] [2751](https://www.urionlinejudge.com.br/judge/pt/problems/view/2751) - Saída 5 *Iniciante*
   - [ ] [2752](https://www.urionlinejudge.com.br/judge/pt/problems/view/2752) - Saída 6 *Iniciante*
   - [ ] [2753](https://www.urionlinejudge.com.br/judge/pt/problems/view/2753) - Saída 7 *Iniciante*
   - [ ] [2754](https://www.urionlinejudge.com.br/judge/pt/problems/view/2754) - Saída 8 *Iniciante*
   - [ ] [2755](https://www.urionlinejudge.com.br/judge/pt/problems/view/2755) - Saída 9 *Iniciante*
-  - [ ] [2756](https://www.urionlinejudge.com.br/judge/pt/problems/view/2756) - Saída 10 *Iniciante*
-  - [ ] [2757](https://www.urionlinejudge.com.br/judge/pt/problems/view/2757) - Entrada e Saída de Números Inteiros *Iniciante*
+  - [x] [2756](https://www.urionlinejudge.com.br/judge/pt/problems/view/2756) - [Saída 10](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2756.poti) *Iniciante*
+  - [x] [2757](https://www.urionlinejudge.com.br/judge/pt/problems/view/2757) - [Entrada e Saída de Números Inteiros](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2757.poti) *Iniciante*
   - [ ] [2758](https://www.urionlinejudge.com.br/judge/pt/problems/view/2758) - Entrada e Saída de Números Reais *Iniciante*
   - [ ] [2759](https://www.urionlinejudge.com.br/judge/pt/problems/view/2759) - Entrada e Saída de Carácter *Iniciante*
-  - [ ] [2760](https://www.urionlinejudge.com.br/judge/pt/problems/view/2760) - Entrada e Saída de String *Iniciante*
+  - [x] [2760](https://www.urionlinejudge.com.br/judge/pt/problems/view/2760) - [Entrada e Saída de String](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2760.poti) *Iniciante*
   - [ ] [2761](https://www.urionlinejudge.com.br/judge/pt/problems/view/2761) - Entrada e Saída de Vários Tipos *Iniciante*
   - [ ] [2762](https://www.urionlinejudge.com.br/judge/pt/problems/view/2762) - Entrada e Saída 6 *Iniciante*
   - [ ] [2763](https://www.urionlinejudge.com.br/judge/pt/problems/view/2763) - Entrada e Saída CPF *Iniciante*
@@ -85,7 +85,7 @@
   - [ ] [2783](https://www.urionlinejudge.com.br/judge/pt/problems/view/2783) - Figurinhas da Copa *Iniciante*
   - [ ] [2784](https://www.urionlinejudge.com.br/judge/pt/problems/view/2784) - Ilhas *Iniciante*
   - [ ] [2785](https://www.urionlinejudge.com.br/judge/pt/problems/view/2785) - Pirâmide *Iniciante*
-  - [ ] [2786](https://www.urionlinejudge.com.br/judge/pt/problems/view/2786) - Piso da Escola *Iniciante*
+  - [x] [2786](https://www.urionlinejudge.com.br/judge/pt/problems/view/2786) - [Piso da Escola](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2786.poti) *Iniciante*
   - [x] [2787](https://www.urionlinejudge.com.br/judge/pt/problems/view/2787) - [Xadrez](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2787.poti) *Iniciante*
   - [ ] [2788](https://www.urionlinejudge.com.br/judge/pt/problems/view/2788) - Aula *Ad-Hoc*
   - [ ] [2789](https://www.urionlinejudge.com.br/judge/pt/problems/view/2789) - Crise Hídrica *Ad-Hoc*

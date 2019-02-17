@@ -1,0 +1,4 @@
+entrada = leia_inteiros(" ")
+a = entrada[1]
+b = entrada[2]
+escreva (a / b) formato "%.2f"

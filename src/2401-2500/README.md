@@ -15,7 +15,7 @@
   - [ ] [2413](https://www.urionlinejudge.com.br/judge/pt/problems/view/2413) - Busca na Internet *Ad-Hoc*
   - [ ] [2414](https://www.urionlinejudge.com.br/judge/pt/problems/view/2414) - Desafio do Maior Número *Ad-Hoc*
   - [ ] [2415](https://www.urionlinejudge.com.br/judge/pt/problems/view/2415) - Consecutivos *Ad-Hoc*
-  - [ ] [2416](https://www.urionlinejudge.com.br/judge/pt/problems/view/2416) - Corrida *Ad-Hoc*
+  - [x] [2416](https://www.urionlinejudge.com.br/judge/pt/problems/view/2416) - [Corrida](https://github.com/potigol/URI-Potigol/blob/master/src/2401-2500/2416.poti) *Ad-Hoc*
   - [ ] [2417](https://www.urionlinejudge.com.br/judge/pt/problems/view/2417) - Campeonato *Ad-Hoc*
   - [ ] [2418](https://www.urionlinejudge.com.br/judge/pt/problems/view/2418) - Carnaval *Ad-Hoc*
   - [ ] [2419](https://www.urionlinejudge.com.br/judge/pt/problems/view/2419) - Costa *Grafos*

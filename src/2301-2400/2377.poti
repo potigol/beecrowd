@@ -1,0 +1,9 @@
+linha1, linha2 = leia_inteiros(" ")
+l = linha1[1]
+d = linha1[2]
+k = linha2[1]
+p = linha2[2]
+
+pedagios = l div d
+custo = l * k + pedagios * p
+escreva custo

@@ -57,7 +57,7 @@
   - [ ] [2055](https://www.urionlinejudge.com.br/judge/pt/problems/view/2055) - Lisp é Melhor que Java, C e C++ *Strings*
   - [ ] [2056](https://www.urionlinejudge.com.br/judge/pt/problems/view/2056) - O Cubo *Grafos*
   - [ ] [2057](https://www.urionlinejudge.com.br/judge/pt/problems/view/2057) - Fuso Horário *Iniciante*
-  - [ ] [2058](https://www.urionlinejudge.com.br/judge/pt/problems/view/2058) - Triângulos e Polígonos Regulares *Ad-Hoc*
+  - [x] [2058](https://www.urionlinejudge.com.br/judge/pt/problems/view/2058) - [Triângulos e Polígonos Regulares](https://github.com/potigol/URI-Potigol/blob/master/src/2001-2100/2058.poti) *Ad-Hoc*
   - [x] [2059](https://www.urionlinejudge.com.br/judge/pt/problems/view/2059) - [Ímpar, Par ou Roubo](https://github.com/potigol/URI-Potigol/blob/master/src/2001-2100/2059.poti) *Iniciante*
   - [ ] [2060](https://www.urionlinejudge.com.br/judge/pt/problems/view/2060) - Desafio de Bino *Iniciante*
   - [ ] [2061](https://www.urionlinejudge.com.br/judge/pt/problems/view/2061) - As Abas de Péricles *Iniciante*

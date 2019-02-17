@@ -97,7 +97,7 @@
 ### 1ª Fase
 
   - [ ] [2233](https://www.urionlinejudge.com.br/judge/pt/problems/view/2233) - Etiquetas Coloridas *Ad-Hoc*
-  - [ ] [2234](https://www.urionlinejudge.com.br/judge/pt/problems/view/2234) - Cachorros-Quentes *Iniciante*
+  - [x] [2234](https://www.urionlinejudge.com.br/judge/pt/problems/view/2234) - [Cachorros-Quentes](https://github.com/potigol/URI-Potigol/blob/master/src/2201-2300/2234.poti) *Iniciante*
   - [x] [2235](https://www.urionlinejudge.com.br/judge/pt/problems/view/2235) - [Andando no Tempo](https://github.com/potigol/URI-Potigol/blob/master/src/2201-2300/2235.poti) *Iniciante*
   - [ ] [2236](https://www.urionlinejudge.com.br/judge/pt/problems/view/2236) - Batata Quente *Paradigmas*
   - [ ] [2237](https://www.urionlinejudge.com.br/judge/pt/problems/view/2237) - Containers *Ad-Hoc*
