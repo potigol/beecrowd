@@ -77,7 +77,7 @@
   - [x] [2434](https://www.urionlinejudge.com.br/judge/pt/problems/view/2434) - [Saldo do Vovô](https://github.com/potigol/URI-Potigol/blob/master/src/2401-2500/2434.poti) *Ad-Hoc*
   - [ ] [2435](https://www.urionlinejudge.com.br/judge/pt/problems/view/2435) - Corrida *Ad-Hoc*
   - [ ] [2436](https://www.urionlinejudge.com.br/judge/pt/problems/view/2436) - Robô *Ad-Hoc*
-  - [ ] [2437](https://www.urionlinejudge.com.br/judge/pt/problems/view/2437) - Distância de Manhattan *Ad-Hoc*
+  - [x] [2437](https://www.urionlinejudge.com.br/judge/pt/problems/view/2437) - [Distância de Manhattan](https://github.com/potigol/URI-Potigol/blob/master/src/2401-2500/2437.poti) *Ad-Hoc*
   - [ ] [2438](https://www.urionlinejudge.com.br/judge/pt/problems/view/2438) - Quadradinho de 8 *Ad-Hoc*
   - [ ] [2439](https://www.urionlinejudge.com.br/judge/pt/problems/view/2439) - Cachecol da Vovó Vitória *Ad-Hoc*
   - [ ] [2440](https://www.urionlinejudge.com.br/judge/pt/problems/view/2440) - Famílias de Troia *Grafos*
@@ -159,3 +159,98 @@
   - [ ] [2388](https://www.urionlinejudge.com.br/judge/pt/problems/view/2388) - Tacógrafo *Ad-Hoc*
   - [ ] [2389](https://www.urionlinejudge.com.br/judge/pt/problems/view/2389) - Floresta *Ad-Hoc*
   - [ ] [2390](https://www.urionlinejudge.com.br/judge/pt/problems/view/2390) - Escada Rolante *Ad-Hoc*
+
+
+## 2009
+
+  - [ ] [2339](https://www.urionlinejudge.com.br/judge/pt/problems/view/2339) - Aviões de Papel *Ad-Hoc*
+  - [ ] [2340](https://www.urionlinejudge.com.br/judge/pt/problems/view/2340) - Feira de Bactérias *Ad-Hoc*
+  - [ ] [2341](https://www.urionlinejudge.com.br/judge/pt/problems/view/2341) - Número de Envelopes *Ad-Hoc*
+  - [ ] [2342](https://www.urionlinejudge.com.br/judge/pt/problems/view/2342) - Overflow *Ad-Hoc*
+  - [ ] [2343](https://www.urionlinejudge.com.br/judge/pt/problems/view/2343) - Caçadores de Mitos *Ad-Hoc*
+  - [ ] [2344](https://www.urionlinejudge.com.br/judge/pt/problems/view/2344) - Notas da Prova *Ad-Hoc*
+  - [ ] [2366](https://www.urionlinejudge.com.br/judge/pt/problems/view/2366) - Maratona *Ad-Hoc*
+  - [ ] [2367](https://www.urionlinejudge.com.br/judge/pt/problems/view/2367) - Competição de Chocolate *Ad-Hoc*
+  - [ ] [2368](https://www.urionlinejudge.com.br/judge/pt/problems/view/2368) - Simulador *Ad-Hoc*
+
+
+## 2007
+
+  - [ ] [2321](https://www.urionlinejudge.com.br/judge/pt/problems/view/2321) - Detectando Colisões *Ad-Hoc*
+  - [ ] [2322](https://www.urionlinejudge.com.br/judge/pt/problems/view/2322) - Peça Perdida *Ad-Hoc*
+  - [ ] [2323](https://www.urionlinejudge.com.br/judge/pt/problems/view/2323) - Móbile *Ad-Hoc*
+  - [ ] [2324](https://www.urionlinejudge.com.br/judge/pt/problems/view/2324) - Pastas *Ad-Hoc*
+  - [ ] [2325](https://www.urionlinejudge.com.br/judge/pt/problems/view/2325) - Repositórios *Ad-Hoc*
+  - [ ] [2326](https://www.urionlinejudge.com.br/judge/pt/problems/view/2326) - Sacoleiro *Ad-Hoc*
+  - [ ] [2327](https://www.urionlinejudge.com.br/judge/pt/problems/view/2327) - Quadrados *Ad-Hoc*
+  - [ ] [2328](https://www.urionlinejudge.com.br/judge/pt/problems/view/2328) - Chocolate *Ad-Hoc*
+  - [ ] [2329](https://www.urionlinejudge.com.br/judge/pt/problems/view/2329) - Pão a Metro *Ad-Hoc*
+  - [ ] [2330](https://www.urionlinejudge.com.br/judge/pt/problems/view/2330) - Telemarketing *Ad-Hoc*
+  - [ ] [2331](https://www.urionlinejudge.com.br/judge/pt/problems/view/2331) - Uiquipédia *Ad-Hoc*
+  - [ ] [2332](https://www.urionlinejudge.com.br/judge/pt/problems/view/2332) - Jogo do Labirinto *Ad-Hoc*
+  - [ ] [2333](https://www.urionlinejudge.com.br/judge/pt/problems/view/2333) - Pizza *Ad-Hoc*
+
+
+## 2006
+
+  - [ ] [2302](https://www.urionlinejudge.com.br/judge/pt/problems/view/2302) - Conversa não tão Secreta *Ad-Hoc*
+  - [ ] [2303](https://www.urionlinejudge.com.br/judge/pt/problems/view/2303) - Margaridas *Ad-Hoc*
+  - [ ] [2304](https://www.urionlinejudge.com.br/judge/pt/problems/view/2304) - Banco Imobiliário *Ad-Hoc*
+  - [ ] [2305](https://www.urionlinejudge.com.br/judge/pt/problems/view/2305) - Colheita de Caju *Ad-Hoc*
+  - [ ] [2306](https://www.urionlinejudge.com.br/judge/pt/problems/view/2306) - Escada Perfeita *Ad-Hoc*
+  - [ ] [2307](https://www.urionlinejudge.com.br/judge/pt/problems/view/2307) - Jogo de Cartas *Ad-Hoc*
+  - [ ] [2308](https://www.urionlinejudge.com.br/judge/pt/problems/view/2308) - Museu *Ad-Hoc*
+  - [ ] [2309](https://www.urionlinejudge.com.br/judge/pt/problems/view/2309) - Truco *Ad-Hoc*
+  - [ ] [2316](https://www.urionlinejudge.com.br/judge/pt/problems/view/2316) - Autorama *Ad-Hoc*
+  - [ ] [2317](https://www.urionlinejudge.com.br/judge/pt/problems/view/2317) - Lobo Mau *Ad-Hoc*
+  - [ ] [2318](https://www.urionlinejudge.com.br/judge/pt/problems/view/2318) - Quadrado Mágico *Ad-Hoc*
+  - [ ] [2319](https://www.urionlinejudge.com.br/judge/pt/problems/view/2319) - Penalidade Mínima *Ad-Hoc*
+  - [ ] [2320](https://www.urionlinejudge.com.br/judge/pt/problems/view/2320) - Subsequência *Ad-Hoc*
+
+
+## 2005
+
+  - [ ] [2293](https://www.urionlinejudge.com.br/judge/pt/problems/view/2293) - Campo de Minhocas *Ad-Hoc*
+  - [ ] [2294](https://www.urionlinejudge.com.br/judge/pt/problems/view/2294) - Duende Perdido *Ad-Hoc*
+  - [ ] [2295](https://www.urionlinejudge.com.br/judge/pt/problems/view/2295) - Frota de Táxi *Ad-Hoc*
+  - [ ] [2296](https://www.urionlinejudge.com.br/judge/pt/problems/view/2296) - Trilhas *Ad-Hoc*
+  - [ ] [2297](https://www.urionlinejudge.com.br/judge/pt/problems/view/2297) - Bafo *Ad-Hoc*
+  - [ ] [2298](https://www.urionlinejudge.com.br/judge/pt/problems/view/2298) - Mini-Poker *Ad-Hoc*
+  - [ ] [2299](https://www.urionlinejudge.com.br/judge/pt/problems/view/2299) - Pedido de Desculpas *Ad-Hoc*
+  - [ ] [2300](https://www.urionlinejudge.com.br/judge/pt/problems/view/2300) - Transmissão de Energia *Grafos*
+  - [ ] [2301](https://www.urionlinejudge.com.br/judge/pt/problems/view/2301) - Vivo ou Morto *Ad-Hoc*
+
+
+## 2004
+
+  - [ ] [2285](https://www.urionlinejudge.com.br/judge/pt/problems/view/2285) - Palíndrome *Ad-Hoc*
+  - [ ] [2286](https://www.urionlinejudge.com.br/judge/pt/problems/view/2286) - Par ou Ímpar *Ad-Hoc*
+  - [ ] [2287](https://www.urionlinejudge.com.br/judge/pt/problems/view/2287) - Proteja sua Senha *Ad-Hoc*
+  - [ ] [2288](https://www.urionlinejudge.com.br/judge/pt/problems/view/2288) - TV da Vovó *Ad-Hoc*
+
+
+## 2003
+
+  - [ ] [2247](https://www.urionlinejudge.com.br/judge/pt/problems/view/2247) - Cofrinhos da Vó Vitória *Ad-Hoc*
+  - [ ] [2248](https://www.urionlinejudge.com.br/judge/pt/problems/view/2248) - Estágio *Ad-Hoc*
+  - [ ] [2249](https://www.urionlinejudge.com.br/judge/pt/problems/view/2249) - Número de Erdos *Ad-Hoc*
+  - [ ] [2250](https://www.urionlinejudge.com.br/judge/pt/problems/view/2250) - Tetris *Ad-Hoc*
+  - [ ] [2251](https://www.urionlinejudge.com.br/judge/pt/problems/view/2251) - Torres de Hanói *Ad-Hoc*
+
+
+## 2002
+
+  - [ ] [2227](https://www.urionlinejudge.com.br/judge/pt/problems/view/2227) - Aeroporto *Ad-Hoc*
+  - [ ] [2228](https://www.urionlinejudge.com.br/judge/pt/problems/view/2228) - Caça ao Tesouro *Ad-Hoc*
+  - [ ] [2229](https://www.urionlinejudge.com.br/judge/pt/problems/view/2229) - Dobradura *Ad-Hoc*
+  - [ ] [2230](https://www.urionlinejudge.com.br/judge/pt/problems/view/2230) - Pedágio *Ad-Hoc*
+  - [ ] [2231](https://www.urionlinejudge.com.br/judge/pt/problems/view/2231) - Temperatura Lunar *Ad-Hoc*
+
+
+## 2000
+
+  - [ ] [2187](https://www.urionlinejudge.com.br/judge/pt/problems/view/2187) - Bits Trocados *Ad-Hoc*
+  - [ ] [2188](https://www.urionlinejudge.com.br/judge/pt/problems/view/2188) - Macaco-prego *Ad-Hoc*
+  - [ ] [2189](https://www.urionlinejudge.com.br/judge/pt/problems/view/2189) - Quermesse *Ad-Hoc*
+  - [ ] [2190](https://www.urionlinejudge.com.br/judge/pt/problems/view/2190) - Rede Ótica *Grafos*
+  - [ ] [2191](https://www.urionlinejudge.com.br/judge/pt/problems/view/2191) - Saldo de Gols *Ad-Hoc*

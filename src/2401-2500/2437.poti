@@ -1,0 +1,7 @@
+entrada = leia_inteiros(" ")
+xm = entrada[1]
+ym = entrada[2]
+xr = entrada[3]
+yr = entrada[4]
+a = abs(xm - xr) + abs(ym - yr)
+escreva a

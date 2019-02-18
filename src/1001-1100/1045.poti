@@ -1,0 +1,26 @@
+entrada = leia_reais(" ").ordene
+a = entrada[3]
+b = entrada[2]
+c = entrada[1]
+a2 = a * a
+b2 = b * b
+c2 = c * c
+
+se a >= b + c então
+  escreva "NAO FORMA TRIANGULO"
+senão
+  se a2 == b2 + c2 então
+    escreva "TRIANGULO RETANGULO"
+  fim
+  se a2 > b2 + c2 então
+    escreva "TRIANGULO OBTUSANGULO"
+  fim
+  se a2 < b2 + c2 então
+    escreva "TRIANGULO ACUTANGULO"
+  fim
+  se a == b e b == c então
+    escreva "TRIANGULO EQUILATERO"
+  senãose a == b ou a == c ou b == c então
+    escreva "TRIANGULO ISOSCELES"
+  fim
+fim

@@ -1,0 +1,13 @@
+entrada = leia_inteiros(" ")
+h1 = entrada[1]
+m1 = entrada[2]
+h2 = entrada[3]
+m2 = entrada[4]
+t1 = h1 * 60 + m1
+t2 = h2 * 60 + m2
+t = se t2 >t1 então t2 - t1 senão t2 - t1 + 24 * 60 fim
+
+h = t div 60
+m = t mod 60
+
+escreva "O JOGO DUROU {h} HORA(S) E {m} MINUTO(S)"

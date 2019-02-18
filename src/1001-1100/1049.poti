@@ -1,0 +1,31 @@
+palavra1, palavra2, palavra3 = leia_texto
+
+se palavra1 == "vertebrado" então
+  se palavra2 == "ave" então
+    se palavra3 == "carnivoro" então
+      escreva "aguia"
+    senão
+      escreva "pomba"
+    fim
+  senão
+    se palavra3 == "onivoro" então
+      escreva "homem"
+    senão
+      escreva "vaca"
+    fim
+  fim
+senão
+  se palavra2 == "inseto" então
+    se palavra3 == "hematofago" então
+      escreva "pulga"
+    senão
+      escreva "lagarta"
+    fim
+  senão
+    se palavra3 == "hematofago" então
+      escreva "sanguessuga"
+    senão
+      escreva "minhoca"
+    fim
+  fim
+fim

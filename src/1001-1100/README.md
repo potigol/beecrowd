@@ -44,11 +44,11 @@
   - [x] [1042](https://www.urionlinejudge.com.br/judge/pt/problems/view/1042) - [Sort Simples](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1042.poti) *Iniciante*
   - [x] [1043](https://www.urionlinejudge.com.br/judge/pt/problems/view/1043) - [Triângulo](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1043.poti) *Iniciante*
   - [x] [1044](https://www.urionlinejudge.com.br/judge/pt/problems/view/1044) - [Múltiplos](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1044.poti) *Iniciante*
-  - [ ] [1045](https://www.urionlinejudge.com.br/judge/pt/problems/view/1045) - Tipos de Triângulos *Iniciante*
+  - [x] [1045](https://www.urionlinejudge.com.br/judge/pt/problems/view/1045) - [Tipos de Triângulos](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1045.poti) *Iniciante*
   - [x] [1046](https://www.urionlinejudge.com.br/judge/pt/problems/view/1046) - [Tempo de Jogo](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1046.poti) *Iniciante*
-  - [ ] [1047](https://www.urionlinejudge.com.br/judge/pt/problems/view/1047) - Tempo de Jogo com Minutos *Iniciante*
+  - [x] [1047](https://www.urionlinejudge.com.br/judge/pt/problems/view/1047) - [Tempo de Jogo com Minutos](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1047.poti) *Iniciante*
   - [x] [1048](https://www.urionlinejudge.com.br/judge/pt/problems/view/1048) - [Aumento de Salário](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1048.poti) *Iniciante*
-  - [ ] [1049](https://www.urionlinejudge.com.br/judge/pt/problems/view/1049) - Animal *Iniciante*
+  - [x] [1049](https://www.urionlinejudge.com.br/judge/pt/problems/view/1049) - [Animal](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1049.poti) *Iniciante*
   - [x] [1050](https://www.urionlinejudge.com.br/judge/pt/problems/view/1050) - [DDD](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1050.poti) *Iniciante*
   - [ ] [1051](https://www.urionlinejudge.com.br/judge/pt/problems/view/1051) - Imposto de Renda *Iniciante*
   - [x] [1052](https://www.urionlinejudge.com.br/judge/pt/problems/view/1052) - [Mês](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1052.poti) *Iniciante*

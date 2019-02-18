@@ -1,8 +1,5 @@
-# Iniciante (95 / 306)
+# Iniciante (98 / 306)
 
-  - [ ] [1045](https://www.urionlinejudge.com.br/judge/pt/problems/view/1045) - Tipos de Triângulos
-  - [ ] [1047](https://www.urionlinejudge.com.br/judge/pt/problems/view/1047) - Tempo de Jogo com Minutos
-  - [ ] [1049](https://www.urionlinejudge.com.br/judge/pt/problems/view/1049) - Animal
   - [ ] [1051](https://www.urionlinejudge.com.br/judge/pt/problems/view/1051) - Imposto de Renda
   - [ ] [1061](https://www.urionlinejudge.com.br/judge/pt/problems/view/1061) - Tempo de um Evento
   - [ ] [1079](https://www.urionlinejudge.com.br/judge/pt/problems/view/1079) - Médias Ponderadas
@@ -241,8 +238,11 @@
   - [x] [1042](https://www.urionlinejudge.com.br/judge/pt/problems/view/1042) - [Sort Simples](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1042.poti)
   - [x] [1043](https://www.urionlinejudge.com.br/judge/pt/problems/view/1043) - [Triângulo](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1043.poti)
   - [x] [1044](https://www.urionlinejudge.com.br/judge/pt/problems/view/1044) - [Múltiplos](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1044.poti)
+  - [x] [1045](https://www.urionlinejudge.com.br/judge/pt/problems/view/1045) - [Tipos de Triângulos](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1045.poti)
   - [x] [1046](https://www.urionlinejudge.com.br/judge/pt/problems/view/1046) - [Tempo de Jogo](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1046.poti)
+  - [x] [1047](https://www.urionlinejudge.com.br/judge/pt/problems/view/1047) - [Tempo de Jogo com Minutos](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1047.poti)
   - [x] [1048](https://www.urionlinejudge.com.br/judge/pt/problems/view/1048) - [Aumento de Salário](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1048.poti)
+  - [x] [1049](https://www.urionlinejudge.com.br/judge/pt/problems/view/1049) - [Animal](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1049.poti)
   - [x] [1050](https://www.urionlinejudge.com.br/judge/pt/problems/view/1050) - [DDD](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1050.poti)
   - [x] [1052](https://www.urionlinejudge.com.br/judge/pt/problems/view/1052) - [Mês](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1052.poti)
   - [x] [1059](https://www.urionlinejudge.com.br/judge/pt/problems/view/1059) - [Números Pares](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1059.poti)
