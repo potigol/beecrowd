@@ -1,0 +1,18 @@
+entrada1, entrada2 = leia_inteiros(" ")
+ca = entrada1[1]
+ba = entrada1[2]
+pa = entrada1[3]
+cr = entrada2[1]
+br = entrada2[2]
+pr = entrada2[3]
+var resposta := 0
+se cr > ca então
+  resposta := resposta + (cr - ca)
+fim
+se br > ba então
+  resposta := resposta + (br - ba)
+fim
+se pr > pa então
+  resposta := resposta + (pr - pa)
+fim
+escreva resposta

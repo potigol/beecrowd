@@ -1,0 +1,9 @@
+var x, y := leia_inteiro
+se x > y então
+  x, y := y, x
+fim
+para i de x + 1 até y - 1 faça
+  se i mod 5 == 2 ou i mod 5 == 3 então
+    escreva i
+  fim
+fim

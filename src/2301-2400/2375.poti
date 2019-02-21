@@ -1,0 +1,12 @@
+n = leia_inteiro
+entrada = leia_inteiros(" ")
+
+a = entrada[1]
+b = entrada[2]
+c = entrada[3]
+
+se n <= a e n <= b e n <= c então
+  escreva "S"
+senão
+  escreva "N"
+fim

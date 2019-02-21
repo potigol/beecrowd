@@ -1,0 +1,13 @@
+n = leia_inteiro
+para i de 1 até n faça
+  linha = leia_texto.divida(" ").ordene
+  var ultimo := ""
+  var lista := [""].cauda
+  para item em linha faça
+    se item <> ultimo então
+      lista := lista + [item]
+      ultimo := item
+    fim
+  fim
+  escreva lista.junte(" ")
+fim

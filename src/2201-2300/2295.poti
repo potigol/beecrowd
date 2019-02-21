@@ -1,0 +1,12 @@
+entrada = leia_reais(" ")
+a = entrada[1]
+g = entrada[2]
+ra = entrada[3]
+rg = entrada[4]
+va = ra / a
+vg = rg / g
+se va > vg então
+  escreva "A"
+senão
+  escreva "G"
+fim

@@ -1,0 +1,11 @@
+entrada1, entrada2 = leia_inteiros(" ").ordene
+a = entrada1[1]
+b = entrada1[2]
+c = entrada1[3]
+h = entrada2[1]
+l = entrada2[2]
+se l > b e h > a então
+  escreva "S"
+senão
+  escreva "N"
+fim

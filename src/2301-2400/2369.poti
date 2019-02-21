@@ -1,0 +1,12 @@
+n = leia_inteiro
+var conta := 7
+se n > 10 então
+  conta := conta + (n - 10)
+fim
+se n > 30 então
+  conta := conta + (n - 30)
+fim
+se n > 100 então
+  conta := conta + (n - 100) * 3
+fim
+escreva conta

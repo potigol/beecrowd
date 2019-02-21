@@ -1,0 +1,11 @@
+entrada = leia_inteiros(" ")
+p = entrada[1]
+r = entrada[2]
+
+se p == 0 então
+  escreva "C"
+senãose r == 0 então
+  escreva "B"
+senão
+  escreva "A"
+fim

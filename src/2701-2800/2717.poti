@@ -1,0 +1,10 @@
+n = leia_inteiro
+entrada = leia_inteiros(" ")
+a = entrada[1]
+b = entrada[2]
+
+se a + b > n então
+  escreva "Deixa para amanha!"
+senão
+  escreva "Farei hoje!"
+fim

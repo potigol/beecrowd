@@ -1,0 +1,15 @@
+n = leia_inteiro
+para i de 1 até n faça
+  x = leia_inteiro
+  var primo := verdadeiro
+  para j de 2 até raiz(x).inteiro faça
+    se x mod j == 0 então
+      primo := falso
+    fim
+  fim
+  se primo então
+    escreva "{x} eh primo"
+  senão
+    escreva "{x} nao eh primo"
+  fim
+fim

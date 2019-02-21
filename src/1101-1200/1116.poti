@@ -1,0 +1,11 @@
+n = leia_inteiro
+para i de 1 até n faça
+  entrada = leia_inteiros(" ")
+  x = entrada[1]
+  y = entrada[2]
+  se y == 0 então
+    escreva "divisao impossivel"
+  senão
+    escreva (x / y) formato "%.1f"
+  fim
+fim

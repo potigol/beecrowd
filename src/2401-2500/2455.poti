@@ -1,0 +1,16 @@
+entrada = leia_inteiros(" ")
+p1 = entrada[1]
+c1 = entrada[2]
+p2 = entrada[3]
+c2 = entrada[4]
+
+lado1 = p1 * c1
+lado2 = p2 * c2
+
+se lado1 == lado2 então
+  escreva 0
+senãose lado2 > lado1 então
+  escreva 1
+senão
+  escreva -1
+fim
