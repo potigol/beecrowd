@@ -68,13 +68,13 @@
   - [ ] [2366](https://www.urionlinejudge.com.br/judge/pt/problems/view/2366) - Maratona *Ad-Hoc*
   - [ ] [2367](https://www.urionlinejudge.com.br/judge/pt/problems/view/2367) - Competição de Chocolate *Ad-Hoc*
   - [ ] [2368](https://www.urionlinejudge.com.br/judge/pt/problems/view/2368) - Simulador *Ad-Hoc*
-  - [ ] [2369](https://www.urionlinejudge.com.br/judge/pt/problems/view/2369) - Conta de Água *Ad-Hoc*
+  - [x] [2369](https://www.urionlinejudge.com.br/judge/pt/problems/view/2369) - [Conta de Água](https://github.com/potigol/URI-Potigol/blob/master/src/2301-2400/2369.poti) *Ad-Hoc*
   - [ ] [2370](https://www.urionlinejudge.com.br/judge/pt/problems/view/2370) - Times *Ad-Hoc*
   - [ ] [2371](https://www.urionlinejudge.com.br/judge/pt/problems/view/2371) - Batalha Naval *Ad-Hoc*
   - [ ] [2372](https://www.urionlinejudge.com.br/judge/pt/problems/view/2372) - Reunião *Ad-Hoc*
   - [ ] [2373](https://www.urionlinejudge.com.br/judge/pt/problems/view/2373) - Garçom *Ad-Hoc*
   - [x] [2374](https://www.urionlinejudge.com.br/judge/pt/problems/view/2374) - [Pneu](https://github.com/potigol/URI-Potigol/blob/master/src/2301-2400/2374.poti) *Ad-Hoc*
-  - [ ] [2375](https://www.urionlinejudge.com.br/judge/pt/problems/view/2375) - Sedex *Ad-Hoc*
+  - [x] [2375](https://www.urionlinejudge.com.br/judge/pt/problems/view/2375) - [Sedex](https://github.com/potigol/URI-Potigol/blob/master/src/2301-2400/2375.poti) *Ad-Hoc*
   - [ ] [2376](https://www.urionlinejudge.com.br/judge/pt/problems/view/2376) - Copa do Mundo *Ad-Hoc*
   - [x] [2377](https://www.urionlinejudge.com.br/judge/pt/problems/view/2377) - [Pedágio](https://github.com/potigol/URI-Potigol/blob/master/src/2301-2400/2377.poti) *Ad-Hoc*
   - [ ] [2378](https://www.urionlinejudge.com.br/judge/pt/problems/view/2378) - Elevador *Ad-Hoc*

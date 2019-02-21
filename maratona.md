@@ -52,7 +52,7 @@
   - [ ] [2699](https://www.urionlinejudge.com.br/judge/pt/problems/view/2699) - Enigma *Iniciante*
   - [ ] [2700](https://www.urionlinejudge.com.br/judge/pt/problems/view/2700) - Angariando Fundos *Iniciante*
   - [ ] [2701](https://www.urionlinejudge.com.br/judge/pt/problems/view/2701) - Portas da Incerteza *Iniciante*
-  - [ ] [2702](https://www.urionlinejudge.com.br/judge/pt/problems/view/2702) - Escolha Difícil *Iniciante*
+  - [x] [2702](https://www.urionlinejudge.com.br/judge/pt/problems/view/2702) - [Escolha Difícil](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2702.poti) *Iniciante*
   - [ ] [2703](https://www.urionlinejudge.com.br/judge/pt/problems/view/2703) - Estradas Imperiais *Iniciante*
   - [ ] [2704](https://www.urionlinejudge.com.br/judge/pt/problems/view/2704) - Sapo Saltador *Iniciante*
   - [ ] [2705](https://www.urionlinejudge.com.br/judge/pt/problems/view/2705) - Mantenha Coberto *Iniciante*

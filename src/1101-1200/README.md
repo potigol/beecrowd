@@ -15,7 +15,7 @@
   - [x] [1113](https://www.urionlinejudge.com.br/judge/pt/problems/view/1113) - [Crescente e Decrescente](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1113.poti) *Iniciante*
   - [x] [1114](https://www.urionlinejudge.com.br/judge/pt/problems/view/1114) - [Senha Fixa](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1114.poti) *Iniciante*
   - [ ] [1115](https://www.urionlinejudge.com.br/judge/pt/problems/view/1115) - Quadrante *Iniciante*
-  - [ ] [1116](https://www.urionlinejudge.com.br/judge/pt/problems/view/1116) - Dividindo X por Y *Iniciante*
+  - [x] [1116](https://www.urionlinejudge.com.br/judge/pt/problems/view/1116) - [Dividindo X por Y](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1116.poti) *Iniciante*
   - [ ] [1117](https://www.urionlinejudge.com.br/judge/pt/problems/view/1117) - Validação de Nota *Iniciante*
   - [ ] [1118](https://www.urionlinejudge.com.br/judge/pt/problems/view/1118) - Várias Notas Com Validação *Iniciante*
   - [ ] [1119](https://www.urionlinejudge.com.br/judge/pt/problems/view/1119) - A Fila de Desempregados *Estruturas e Bibliotecas*
@@ -32,7 +32,7 @@
   - [ ] [1130](https://www.urionlinejudge.com.br/judge/pt/problems/view/1130) - Jogo da Velha *Ad-Hoc*
   - [ ] [1131](https://www.urionlinejudge.com.br/judge/pt/problems/view/1131) - Grenais *Iniciante*
   - [ ] [1132](https://www.urionlinejudge.com.br/judge/pt/problems/view/1132) - Múltiplos de 13 *Iniciante*
-  - [ ] [1133](https://www.urionlinejudge.com.br/judge/pt/problems/view/1133) - Resto da Divisão *Iniciante*
+  - [x] [1133](https://www.urionlinejudge.com.br/judge/pt/problems/view/1133) - [Resto da Divisão](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1133.poti) *Iniciante*
   - [ ] [1134](https://www.urionlinejudge.com.br/judge/pt/problems/view/1134) - Tipo de Combustível *Iniciante*
   - [ ] [1135](https://www.urionlinejudge.com.br/judge/pt/problems/view/1135) - Colônia de Formigas *Grafos*
   - [ ] [1136](https://www.urionlinejudge.com.br/judge/pt/problems/view/1136) - Bingo! *Ad-Hoc*
@@ -64,7 +64,7 @@
   - [ ] [1162](https://www.urionlinejudge.com.br/judge/pt/problems/view/1162) - Organizador de Vagões *Estruturas e Bibliotecas*
   - [ ] [1163](https://www.urionlinejudge.com.br/judge/pt/problems/view/1163) - Angry Ducks *Matemática*
   - [ ] [1164](https://www.urionlinejudge.com.br/judge/pt/problems/view/1164) - Número Perfeito *Iniciante*
-  - [ ] [1165](https://www.urionlinejudge.com.br/judge/pt/problems/view/1165) - Número Primo *Iniciante*
+  - [x] [1165](https://www.urionlinejudge.com.br/judge/pt/problems/view/1165) - [Número Primo](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1165.poti) *Iniciante*
   - [ ] [1166](https://www.urionlinejudge.com.br/judge/pt/problems/view/1166) - Torre de Hanoi, Novamente! *Paradigmas*
   - [ ] [1167](https://www.urionlinejudge.com.br/judge/pt/problems/view/1167) - Acampamento de Férias *Estruturas e Bibliotecas*
   - [x] [1168](https://www.urionlinejudge.com.br/judge/pt/problems/view/1168) - [LED](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1168.poti) *Strings*

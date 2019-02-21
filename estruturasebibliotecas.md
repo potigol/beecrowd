@@ -1,4 +1,4 @@
-# Estruturas e Bibliotecas (1 / 141)
+# Estruturas e Bibliotecas (2 / 141)
 
   - [ ] [1025](https://www.urionlinejudge.com.br/judge/pt/problems/view/1025) - Onde está o Mármore?
   - [ ] [1062](https://www.urionlinejudge.com.br/judge/pt/problems/view/1062) - Trilhos
@@ -126,7 +126,6 @@
   - [ ] [2656](https://www.urionlinejudge.com.br/judge/pt/problems/view/2656) - Rhombus
   - [ ] [2658](https://www.urionlinejudge.com.br/judge/pt/problems/view/2658) - Acordes Intergaláticos
   - [ ] [2671](https://www.urionlinejudge.com.br/judge/pt/problems/view/2671) - Decodificando o Texto
-  - [ ] [2729](https://www.urionlinejudge.com.br/judge/pt/problems/view/2729) - Lista de Compras
   - [ ] [2734](https://www.urionlinejudge.com.br/judge/pt/problems/view/2734) - Trocando Presentes
   - [ ] [2800](https://www.urionlinejudge.com.br/judge/pt/problems/view/2800) - Brincando de Consultas
   - [ ] [2805](https://www.urionlinejudge.com.br/judge/pt/problems/view/2805) - Binarizando a Matriz
@@ -141,3 +140,4 @@
   - [ ] [2916](https://www.urionlinejudge.com.br/judge/pt/problems/view/2916) - A Nota
   - [ ] [2929](https://www.urionlinejudge.com.br/judge/pt/problems/view/2929) - Menor da Pilha
   - [x] [1022](https://www.urionlinejudge.com.br/judge/pt/problems/view/1022) - [TDA Racional](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1022.poti)
+  - [x] [2729](https://www.urionlinejudge.com.br/judge/pt/problems/view/2729) - [Lista de Compras](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2729.poti)

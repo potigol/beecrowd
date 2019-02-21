@@ -1,7 +1,7 @@
 # Problemas 2701 a 2800
 
   - [ ] [2701](https://www.urionlinejudge.com.br/judge/pt/problems/view/2701) - Portas da Incerteza *Iniciante*
-  - [ ] [2702](https://www.urionlinejudge.com.br/judge/pt/problems/view/2702) - Escolha Difícil *Iniciante*
+  - [x] [2702](https://www.urionlinejudge.com.br/judge/pt/problems/view/2702) - [Escolha Difícil](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2702.poti) *Iniciante*
   - [ ] [2703](https://www.urionlinejudge.com.br/judge/pt/problems/view/2703) - Estradas Imperiais *Iniciante*
   - [ ] [2704](https://www.urionlinejudge.com.br/judge/pt/problems/view/2704) - Sapo Saltador *Iniciante*
   - [ ] [2705](https://www.urionlinejudge.com.br/judge/pt/problems/view/2705) - Mantenha Coberto *Iniciante*
@@ -16,7 +16,7 @@
   - [ ] [2714](https://www.urionlinejudge.com.br/judge/pt/problems/view/2714) - Minha Senha Provisória *Strings*
   - [ ] [2715](https://www.urionlinejudge.com.br/judge/pt/problems/view/2715) - Dividindo os Trabalhos I *Iniciante*
   - [ ] [2716](https://www.urionlinejudge.com.br/judge/pt/problems/view/2716) - Dividindo os Trabalhos II *Paradigmas*
-  - [ ] [2717](https://www.urionlinejudge.com.br/judge/pt/problems/view/2717) - Tempo do Duende *Iniciante*
+  - [x] [2717](https://www.urionlinejudge.com.br/judge/pt/problems/view/2717) - [Tempo do Duende](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2717.poti) *Iniciante*
   - [ ] [2718](https://www.urionlinejudge.com.br/judge/pt/problems/view/2718) - Luzes de Natal *Iniciante*
   - [ ] [2719](https://www.urionlinejudge.com.br/judge/pt/problems/view/2719) - Quantas Viagens Fará o Noel? *Ad-Hoc*
   - [ ] [2720](https://www.urionlinejudge.com.br/judge/pt/problems/view/2720) - Presentes Grandes *Iniciante*
@@ -28,7 +28,7 @@
   - [ ] [2726](https://www.urionlinejudge.com.br/judge/pt/problems/view/2726) - Trenó Lotado *Matemática*
   - [ ] [2727](https://www.urionlinejudge.com.br/judge/pt/problems/view/2727) - Código Secreto *Iniciante*
   - [ ] [2728](https://www.urionlinejudge.com.br/judge/pt/problems/view/2728) - Grace Hopper, a Vovó do Cobol *Strings*
-  - [ ] [2729](https://www.urionlinejudge.com.br/judge/pt/problems/view/2729) - Lista de Compras *Estruturas e Bibliotecas*
+  - [x] [2729](https://www.urionlinejudge.com.br/judge/pt/problems/view/2729) - [Lista de Compras](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2729.poti) *Estruturas e Bibliotecas*
   - [ ] [2730](https://www.urionlinejudge.com.br/judge/pt/problems/view/2730) - Pares Pareados *Ad-Hoc*
   - [ ] [2731](https://www.urionlinejudge.com.br/judge/pt/problems/view/2731) - Programação de Viagem *Grafos*
   - [ ] [2732](https://www.urionlinejudge.com.br/judge/pt/problems/view/2732) - Reino De Alice *Grafos*

@@ -94,7 +94,7 @@
   - [ ] [2292](https://www.urionlinejudge.com.br/judge/pt/problems/view/2292) - Painel LED *Strings*
   - [ ] [2293](https://www.urionlinejudge.com.br/judge/pt/problems/view/2293) - Campo de Minhocas *Ad-Hoc*
   - [ ] [2294](https://www.urionlinejudge.com.br/judge/pt/problems/view/2294) - Duende Perdido *Ad-Hoc*
-  - [ ] [2295](https://www.urionlinejudge.com.br/judge/pt/problems/view/2295) - Frota de Táxi *Ad-Hoc*
+  - [x] [2295](https://www.urionlinejudge.com.br/judge/pt/problems/view/2295) - [Frota de Táxi](https://github.com/potigol/URI-Potigol/blob/master/src/2201-2300/2295.poti) *Ad-Hoc*
   - [ ] [2296](https://www.urionlinejudge.com.br/judge/pt/problems/view/2296) - Trilhas *Ad-Hoc*
   - [ ] [2297](https://www.urionlinejudge.com.br/judge/pt/problems/view/2297) - Bafo *Ad-Hoc*
   - [ ] [2298](https://www.urionlinejudge.com.br/judge/pt/problems/view/2298) - Mini-Poker *Ad-Hoc*
