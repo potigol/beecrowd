@@ -1,0 +1,9 @@
+n = leia_inteiro
+nums = leia_inteiros(" ").inverta.mapeie(i => (i + '0').caractere) #.junte("")
+var lasts := ""
+list = para i em nums gere
+  a = lasts.descarte_enquanto(i >= _)
+  lasts := i + a
+  se a.tamanho == 0 então "*" senão a[1] - '0' fim
+fim
+escreva list.inverta.junte(" ")

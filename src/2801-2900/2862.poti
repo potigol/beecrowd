@@ -1,0 +1,9 @@
+c = leia_inteiro
+para i de 1 até c faça
+  n = leia_inteiro
+  se n > 8000 então
+    escreva "Mais de 8000!"
+  senão
+    escreva "Inseto!"
+  fim
+fim

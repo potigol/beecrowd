@@ -61,7 +61,7 @@
   - [ ] [2459](https://www.urionlinejudge.com.br/judge/pt/problems/view/2459) - Copa do Mundo *Ad-Hoc*
   - [ ] [2460](https://www.urionlinejudge.com.br/judge/pt/problems/view/2460) - Fila *Ad-Hoc*
   - [ ] [2461](https://www.urionlinejudge.com.br/judge/pt/problems/view/2461) - Blefe *Ad-Hoc*
-  - [x] [2462](https://www.urionlinejudge.com.br/judge/pt/problems/view/2462) - [Voo](https://github.com/potigol/URI-Potigol/blob/master/src/2401-2500/2462.poti) *Ad-Hoc*
+  - [ ] [2462](https://www.urionlinejudge.com.br/judge/pt/problems/view/2462) - Voo *Ad-Hoc*
   - [ ] [2463](https://www.urionlinejudge.com.br/judge/pt/problems/view/2463) - Corredor *Ad-Hoc*
   - [ ] [2464](https://www.urionlinejudge.com.br/judge/pt/problems/view/2464) - Decifra *Ad-Hoc*
   - [x] [2465](https://www.urionlinejudge.com.br/judge/pt/problems/view/2465) - [Passa Bolinha](https://github.com/potigol/URI-Potigol/blob/master/src/2401-2500/2465.poti) *Ad-Hoc*

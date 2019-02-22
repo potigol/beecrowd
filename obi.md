@@ -22,11 +22,11 @@
   - [ ] [2836](https://www.urionlinejudge.com.br/judge/pt/problems/view/2836) - Wifi *Ad-Hoc*
   - [ ] [2837](https://www.urionlinejudge.com.br/judge/pt/problems/view/2837) - Sequência *Ad-Hoc*
   - [x] [2850](https://www.urionlinejudge.com.br/judge/pt/problems/view/2850) - [Papagaio Poliglota](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2850.poti) *Iniciante*
-  - [ ] [2851](https://www.urionlinejudge.com.br/judge/pt/problems/view/2851) - Desafio de Rangel *Ad-Hoc*
+  - [x] [2851](https://www.urionlinejudge.com.br/judge/pt/problems/view/2851) - [Desafio de Rangel](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2851.poti) *Ad-Hoc*
   - [ ] [2852](https://www.urionlinejudge.com.br/judge/pt/problems/view/2852) - Troca de Mensagens *Iniciante*
   - [ ] [2853](https://www.urionlinejudge.com.br/judge/pt/problems/view/2853) - Invenções de Bibika *Ad-Hoc*
   - [ ] [2854](https://www.urionlinejudge.com.br/judge/pt/problems/view/2854) - Árvore Genealógica *Grafos*
-  - [ ] [2855](https://www.urionlinejudge.com.br/judge/pt/problems/view/2855) - Números de Sorte *Iniciante*
+  - [x] [2855](https://www.urionlinejudge.com.br/judge/pt/problems/view/2855) - [Números de Sorte](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2855.poti) *Iniciante*
   - [ ] [2856](https://www.urionlinejudge.com.br/judge/pt/problems/view/2856) - Viagem do Pão de Queijo *Paradigmas*
   - [ ] [2857](https://www.urionlinejudge.com.br/judge/pt/problems/view/2857) - Fluxo nos Vagões *Estruturas e Bibliotecas*
   - [ ] [2858](https://www.urionlinejudge.com.br/judge/pt/problems/view/2858) - Tabuleiro Infinito *Ad-Hoc*
@@ -51,7 +51,7 @@
   - [ ] [2459](https://www.urionlinejudge.com.br/judge/pt/problems/view/2459) - Copa do Mundo *Ad-Hoc*
   - [ ] [2460](https://www.urionlinejudge.com.br/judge/pt/problems/view/2460) - Fila *Ad-Hoc*
   - [ ] [2461](https://www.urionlinejudge.com.br/judge/pt/problems/view/2461) - Blefe *Ad-Hoc*
-  - [x] [2462](https://www.urionlinejudge.com.br/judge/pt/problems/view/2462) - [Voo](https://github.com/potigol/URI-Potigol/blob/master/src/2401-2500/2462.poti) *Ad-Hoc*
+  - [ ] [2462](https://www.urionlinejudge.com.br/judge/pt/problems/view/2462) - Voo *Ad-Hoc*
   - [ ] [2463](https://www.urionlinejudge.com.br/judge/pt/problems/view/2463) - Corredor *Ad-Hoc*
   - [ ] [2464](https://www.urionlinejudge.com.br/judge/pt/problems/view/2464) - Decifra *Ad-Hoc*
   - [x] [2465](https://www.urionlinejudge.com.br/judge/pt/problems/view/2465) - [Passa Bolinha](https://github.com/potigol/URI-Potigol/blob/master/src/2401-2500/2465.poti) *Ad-Hoc*

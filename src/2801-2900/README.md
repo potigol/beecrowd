@@ -50,18 +50,18 @@
   - [ ] [2848](https://www.urionlinejudge.com.br/judge/pt/problems/view/2848) - Rangel e o Jogo do Vetor I *Estruturas e Bibliotecas*
   - [ ] [2849](https://www.urionlinejudge.com.br/judge/pt/problems/view/2849) - Rangel e o Jogo do Vetor II *Estruturas e Bibliotecas*
   - [x] [2850](https://www.urionlinejudge.com.br/judge/pt/problems/view/2850) - [Papagaio Poliglota](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2850.poti) *Iniciante*
-  - [ ] [2851](https://www.urionlinejudge.com.br/judge/pt/problems/view/2851) - Desafio de Rangel *Ad-Hoc*
+  - [x] [2851](https://www.urionlinejudge.com.br/judge/pt/problems/view/2851) - [Desafio de Rangel](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2851.poti) *Ad-Hoc*
   - [ ] [2852](https://www.urionlinejudge.com.br/judge/pt/problems/view/2852) - Troca de Mensagens *Iniciante*
   - [ ] [2853](https://www.urionlinejudge.com.br/judge/pt/problems/view/2853) - Invenções de Bibika *Ad-Hoc*
   - [ ] [2854](https://www.urionlinejudge.com.br/judge/pt/problems/view/2854) - Árvore Genealógica *Grafos*
-  - [ ] [2855](https://www.urionlinejudge.com.br/judge/pt/problems/view/2855) - Números de Sorte *Iniciante*
+  - [x] [2855](https://www.urionlinejudge.com.br/judge/pt/problems/view/2855) - [Números de Sorte](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2855.poti) *Iniciante*
   - [ ] [2856](https://www.urionlinejudge.com.br/judge/pt/problems/view/2856) - Viagem do Pão de Queijo *Paradigmas*
   - [ ] [2857](https://www.urionlinejudge.com.br/judge/pt/problems/view/2857) - Fluxo nos Vagões *Estruturas e Bibliotecas*
   - [ ] [2858](https://www.urionlinejudge.com.br/judge/pt/problems/view/2858) - Tabuleiro Infinito *Ad-Hoc*
   - [ ] [2859](https://www.urionlinejudge.com.br/judge/pt/problems/view/2859) - Digit Root *Matemática*
   - [ ] [2860](https://www.urionlinejudge.com.br/judge/pt/problems/view/2860) - A Paz em Spar-Ta *Estruturas e Bibliotecas*
   - [x] [2861](https://www.urionlinejudge.com.br/judge/pt/problems/view/2861) - [A Saída](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2861.poti) *Iniciante*
-  - [ ] [2862](https://www.urionlinejudge.com.br/judge/pt/problems/view/2862) - Inseto! *Iniciante*
+  - [x] [2862](https://www.urionlinejudge.com.br/judge/pt/problems/view/2862) - [Inseto!](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2862.poti) *Iniciante*
   - [ ] [2863](https://www.urionlinejudge.com.br/judge/pt/problems/view/2863) - Umil Bolt *Iniciante*
   - [ ] [2864](https://www.urionlinejudge.com.br/judge/pt/problems/view/2864) - Qual é a Altura? *Matemática*
   - [ ] [2865](https://www.urionlinejudge.com.br/judge/pt/problems/view/2865) - Palíndromo Binário *Ad-Hoc*
