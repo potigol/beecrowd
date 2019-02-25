@@ -1,4 +1,4 @@
-# Iniciante (105 / 306)
+# Iniciante (106 / 306)
 
   - [ ] [1051](https://www.urionlinejudge.com.br/judge/pt/problems/view/1051) - Imposto de Renda
   - [ ] [1061](https://www.urionlinejudge.com.br/judge/pt/problems/view/1061) - Tempo de um Evento
@@ -6,7 +6,6 @@
   - [ ] [1094](https://www.urionlinejudge.com.br/judge/pt/problems/view/1094) - Experiências
   - [ ] [1099](https://www.urionlinejudge.com.br/judge/pt/problems/view/1099) - Soma de Ímpares Consecutivos II
   - [ ] [1101](https://www.urionlinejudge.com.br/judge/pt/problems/view/1101) - Sequência de Números e Soma
-  - [ ] [1115](https://www.urionlinejudge.com.br/judge/pt/problems/view/1115) - Quadrante
   - [ ] [1117](https://www.urionlinejudge.com.br/judge/pt/problems/view/1117) - Validação de Nota
   - [ ] [1118](https://www.urionlinejudge.com.br/judge/pt/problems/view/1118) - Várias Notas Com Validação
   - [ ] [1131](https://www.urionlinejudge.com.br/judge/pt/problems/view/1131) - Grenais
@@ -258,6 +257,7 @@
   - [x] [1098](https://www.urionlinejudge.com.br/judge/pt/problems/view/1098) - [Sequencia IJ 4](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1098.poti)
   - [x] [1113](https://www.urionlinejudge.com.br/judge/pt/problems/view/1113) - [Crescente e Decrescente](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1113.poti)
   - [x] [1114](https://www.urionlinejudge.com.br/judge/pt/problems/view/1114) - [Senha Fixa](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1114.poti)
+  - [x] [1115](https://www.urionlinejudge.com.br/judge/pt/problems/view/1115) - [Quadrante](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1115.poti)
   - [x] [1116](https://www.urionlinejudge.com.br/judge/pt/problems/view/1116) - [Dividindo X por Y](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1116.poti)
   - [x] [1133](https://www.urionlinejudge.com.br/judge/pt/problems/view/1133) - [Resto da Divisão](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1133.poti)
   - [x] [1142](https://www.urionlinejudge.com.br/judge/pt/problems/view/1142) - [PUM](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1142.poti)

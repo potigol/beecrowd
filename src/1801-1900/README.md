@@ -66,7 +66,7 @@
   - [ ] [1864](https://www.urionlinejudge.com.br/judge/pt/problems/view/1864) - Nossos Dias Nunca Voltarão *Iniciante*
   - [ ] [1865](https://www.urionlinejudge.com.br/judge/pt/problems/view/1865) - Mjölnir *Iniciante*
   - [ ] [1866](https://www.urionlinejudge.com.br/judge/pt/problems/view/1866) - Conta *Iniciante*
-  - [ ] [1867](https://www.urionlinejudge.com.br/judge/pt/problems/view/1867) - Maior Número de Um Algarismo *Ad-Hoc*
+  - [x] [1867](https://www.urionlinejudge.com.br/judge/pt/problems/view/1867) - [Maior Número de Um Algarismo](https://github.com/potigol/URI-Potigol/blob/master/src/1801-1900/1867.poti) *Ad-Hoc*
   - [ ] [1868](https://www.urionlinejudge.com.br/judge/pt/problems/view/1868) - Espiral Quadrada *Strings*
   - [ ] [1869](https://www.urionlinejudge.com.br/judge/pt/problems/view/1869) - Base 32 *Matemática*
   - [ ] [1870](https://www.urionlinejudge.com.br/judge/pt/problems/view/1870) - Ventiladores e Balões *Ad-Hoc*

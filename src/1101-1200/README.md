@@ -14,7 +14,7 @@
   - [ ] [1112](https://www.urionlinejudge.com.br/judge/pt/problems/view/1112) - Schweisen *Estruturas e Bibliotecas*
   - [x] [1113](https://www.urionlinejudge.com.br/judge/pt/problems/view/1113) - [Crescente e Decrescente](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1113.poti) *Iniciante*
   - [x] [1114](https://www.urionlinejudge.com.br/judge/pt/problems/view/1114) - [Senha Fixa](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1114.poti) *Iniciante*
-  - [ ] [1115](https://www.urionlinejudge.com.br/judge/pt/problems/view/1115) - Quadrante *Iniciante*
+  - [x] [1115](https://www.urionlinejudge.com.br/judge/pt/problems/view/1115) - [Quadrante](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1115.poti) *Iniciante*
   - [x] [1116](https://www.urionlinejudge.com.br/judge/pt/problems/view/1116) - [Dividindo X por Y](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1116.poti) *Iniciante*
   - [ ] [1117](https://www.urionlinejudge.com.br/judge/pt/problems/view/1117) - Validação de Nota *Iniciante*
   - [ ] [1118](https://www.urionlinejudge.com.br/judge/pt/problems/view/1118) - Várias Notas Com Validação *Iniciante*

@@ -1,0 +1,21 @@
+var entrada := leia_texto.divida(" ")
+enquanto entrada <> ["0", "0"] faça
+  var a, b := 0
+  para i em entrada[1] faça
+    a := a + (i - '0')
+    se a > 9 então a:= a - 9 fim
+  fim
+  para i em entrada[2] faça
+    b := b + (i - '0')
+    se b > 9 então b:= b - 9 fim
+  fim
+
+  se a > b então
+    escreva 1
+  senãose b > a então
+    escreva 2
+  senão
+    escreva 0
+  fim
+  entrada := leia_texto.divida(" ")
+fim

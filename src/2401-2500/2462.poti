@@ -1,0 +1,15 @@
+entrada = leia_texto.divida(" ").mapeie(_.divida(":").mapeie(_.inteiro))
+h1, m1 = entrada[1][1], entrada[1][2]
+h2, m2 = entrada[2][1], entrada[2][2]
+h3, m3 = entrada[3][1], entrada[3][2]
+h4, m4 = entrada[4][1], entrada[4][2]
+t1, t2, t3, t4 = (h1*60)+m1, (h2*60)+m2, (h3*60)+m3, (h4*60)+m4
+
+d1 = se t1 > t2 então 1440 - t1 + t2 senão t2 - t1 fim
+
+d2 = se t3 > t4 então 1440 - t3 + t4 senão t4 - t3 fim
+  
+voo_hr = (d1 + d2) div 2 - (se d1 + d2 > 1440 então 720 senão 0 fim)
+fus_diferent = d1 - voo_hr - (se d1 - voo_hr > 720 então 1440 senão 0 fim)
+
+escreva "{voo_hr} {fus_diferent div 60}"

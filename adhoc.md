@@ -1,4 +1,4 @@
-# Ad-Hoc (23 / 633)
+# Ad-Hoc (25 / 633)
 
   - [ ] [1026](https://www.urionlinejudge.com.br/judge/pt/problems/view/1026) - Carrega ou não Carrega?
   - [ ] [1030](https://www.urionlinejudge.com.br/judge/pt/problems/view/1030) - A Lenda de Flavious Josephus
@@ -197,7 +197,6 @@
   - [ ] [1840](https://www.urionlinejudge.com.br/judge/pt/problems/view/1840) - O Prisioneiro de Azkaban
   - [ ] [1845](https://www.urionlinejudge.com.br/judge/pt/problems/view/1845) - Efílogo
   - [ ] [1849](https://www.urionlinejudge.com.br/judge/pt/problems/view/1849) - Dracarys!
-  - [ ] [1867](https://www.urionlinejudge.com.br/judge/pt/problems/view/1867) - Maior Número de Um Algarismo
   - [ ] [1870](https://www.urionlinejudge.com.br/judge/pt/problems/view/1870) - Ventiladores e Balões
   - [ ] [1876](https://www.urionlinejudge.com.br/judge/pt/problems/view/1876) - Rabiola
   - [ ] [1877](https://www.urionlinejudge.com.br/judge/pt/problems/view/1877) - O Castelo de Neve de Sansa
@@ -482,7 +481,6 @@
   - [ ] [2459](https://www.urionlinejudge.com.br/judge/pt/problems/view/2459) - Copa do Mundo
   - [ ] [2460](https://www.urionlinejudge.com.br/judge/pt/problems/view/2460) - Fila
   - [ ] [2461](https://www.urionlinejudge.com.br/judge/pt/problems/view/2461) - Blefe
-  - [ ] [2462](https://www.urionlinejudge.com.br/judge/pt/problems/view/2462) - Voo
   - [ ] [2463](https://www.urionlinejudge.com.br/judge/pt/problems/view/2463) - Corredor
   - [ ] [2464](https://www.urionlinejudge.com.br/judge/pt/problems/view/2464) - Decifra
   - [ ] [2467](https://www.urionlinejudge.com.br/judge/pt/problems/view/2467) - Frequência
@@ -611,6 +609,7 @@
   - [ ] [2931](https://www.urionlinejudge.com.br/judge/pt/problems/view/2931) - Presentes Suspeitos
   - [ ] [2935](https://www.urionlinejudge.com.br/judge/pt/problems/view/2935) - DNA Élfico
   - [x] [1794](https://www.urionlinejudge.com.br/judge/pt/problems/view/1794) - [Lavanderia](https://github.com/potigol/URI-Potigol/blob/master/src/1701-1800/1794.poti)
+  - [x] [1867](https://www.urionlinejudge.com.br/judge/pt/problems/view/1867) - [Maior Número de Um Algarismo](https://github.com/potigol/URI-Potigol/blob/master/src/1801-1900/1867.poti)
   - [x] [2058](https://www.urionlinejudge.com.br/judge/pt/problems/view/2058) - [Triângulos e Polígonos Regulares](https://github.com/potigol/URI-Potigol/blob/master/src/2001-2100/2058.poti)
   - [x] [2295](https://www.urionlinejudge.com.br/judge/pt/problems/view/2295) - [Frota de Táxi](https://github.com/potigol/URI-Potigol/blob/master/src/2201-2300/2295.poti)
   - [x] [2345](https://www.urionlinejudge.com.br/judge/pt/problems/view/2345) - [Assigning Teams](https://github.com/potigol/URI-Potigol/blob/master/src/2301-2400/2345.poti)
@@ -628,6 +627,7 @@
   - [x] [2437](https://www.urionlinejudge.com.br/judge/pt/problems/view/2437) - [Distância de Manhattan](https://github.com/potigol/URI-Potigol/blob/master/src/2401-2500/2437.poti)
   - [x] [2454](https://www.urionlinejudge.com.br/judge/pt/problems/view/2454) - [Flíper](https://github.com/potigol/URI-Potigol/blob/master/src/2401-2500/2454.poti)
   - [x] [2455](https://www.urionlinejudge.com.br/judge/pt/problems/view/2455) - [Gangorra](https://github.com/potigol/URI-Potigol/blob/master/src/2401-2500/2455.poti)
+  - [x] [2462](https://www.urionlinejudge.com.br/judge/pt/problems/view/2462) - [Voo](https://github.com/potigol/URI-Potigol/blob/master/src/2401-2500/2462.poti)
   - [x] [2465](https://www.urionlinejudge.com.br/judge/pt/problems/view/2465) - [Passa Bolinha](https://github.com/potigol/URI-Potigol/blob/master/src/2401-2500/2465.poti)
   - [x] [2466](https://www.urionlinejudge.com.br/judge/pt/problems/view/2466) - [Sinuca](https://github.com/potigol/URI-Potigol/blob/master/src/2401-2500/2466.poti)
   - [x] [2473](https://www.urionlinejudge.com.br/judge/pt/problems/view/2473) - [Loteria](https://github.com/potigol/URI-Potigol/blob/master/src/2401-2500/2473.poti)

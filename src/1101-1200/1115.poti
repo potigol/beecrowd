@@ -1,0 +1,14 @@
+var entrada := leia_inteiros(" ")
+enquanto entrada[1] * entrada[2] <> 0 faça
+  x, y = entrada[1], entrada[2]
+  se x > 0 e y > 0 então
+    escreva "primeiro"
+  senãose x < 0 e y > 0 então
+    escreva "segundo"
+  senãose x < 0 então
+    escreva "terceiro"
+  senão
+    escreva "quarto"
+  fim
+  entrada := leia_inteiros(" ")
+fim
