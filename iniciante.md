@@ -1,7 +1,6 @@
-# Iniciante (106 / 306)
+# Iniciante (108 / 306)
 
   - [ ] [1051](https://www.urionlinejudge.com.br/judge/pt/problems/view/1051) - Imposto de Renda
-  - [ ] [1061](https://www.urionlinejudge.com.br/judge/pt/problems/view/1061) - Tempo de um Evento
   - [ ] [1079](https://www.urionlinejudge.com.br/judge/pt/problems/view/1079) - Médias Ponderadas
   - [ ] [1094](https://www.urionlinejudge.com.br/judge/pt/problems/view/1094) - Experiências
   - [ ] [1099](https://www.urionlinejudge.com.br/judge/pt/problems/view/1099) - Soma de Ímpares Consecutivos II
@@ -196,7 +195,6 @@
   - [ ] [2845](https://www.urionlinejudge.com.br/judge/pt/problems/view/2845) - Festa no Polo Norte
   - [ ] [2846](https://www.urionlinejudge.com.br/judge/pt/problems/view/2846) - Fibonot
   - [ ] [2852](https://www.urionlinejudge.com.br/judge/pt/problems/view/2852) - Troca de Mensagens
-  - [ ] [2855](https://www.urionlinejudge.com.br/judge/pt/problems/view/2855) - Números de Sorte
   - [ ] [2863](https://www.urionlinejudge.com.br/judge/pt/problems/view/2863) - Umil Bolt
   - [ ] [2869](https://www.urionlinejudge.com.br/judge/pt/problems/view/2869) - Falando em Divisor...
   - [ ] [2930](https://www.urionlinejudge.com.br/judge/pt/problems/view/2930) - TCC da Depressão Natalino
@@ -239,6 +237,7 @@
   - [x] [1052](https://www.urionlinejudge.com.br/judge/pt/problems/view/1052) - [Mês](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1052.poti)
   - [x] [1059](https://www.urionlinejudge.com.br/judge/pt/problems/view/1059) - [Números Pares](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1059.poti)
   - [x] [1060](https://www.urionlinejudge.com.br/judge/pt/problems/view/1060) - [Números Positivos](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1060.poti)
+  - [x] [1061](https://www.urionlinejudge.com.br/judge/pt/problems/view/1061) - [Tempo de um Evento](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1061.poti)
   - [x] [1064](https://www.urionlinejudge.com.br/judge/pt/problems/view/1064) - [Positivos e Média](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1064.poti)
   - [x] [1065](https://www.urionlinejudge.com.br/judge/pt/problems/view/1065) - [Pares entre Cinco Números](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1065.poti)
   - [x] [1066](https://www.urionlinejudge.com.br/judge/pt/problems/view/1066) - [Pares, Ímpares, Positivos e Negativos](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1066.poti)
@@ -301,6 +300,7 @@
   - [x] [2786](https://www.urionlinejudge.com.br/judge/pt/problems/view/2786) - [Piso da Escola](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2786.poti)
   - [x] [2787](https://www.urionlinejudge.com.br/judge/pt/problems/view/2787) - [Xadrez](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2787.poti)
   - [x] [2850](https://www.urionlinejudge.com.br/judge/pt/problems/view/2850) - [Papagaio Poliglota](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2850.poti)
+  - [x] [2855](https://www.urionlinejudge.com.br/judge/pt/problems/view/2855) - [Números de Sorte](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2855.poti)
   - [x] [2861](https://www.urionlinejudge.com.br/judge/pt/problems/view/2861) - [A Saída](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2861.poti)
   - [x] [2862](https://www.urionlinejudge.com.br/judge/pt/problems/view/2862) - [Inseto!](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2862.poti)
   - [x] [2867](https://www.urionlinejudge.com.br/judge/pt/problems/view/2867) - [Dígitos](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2867.poti)
