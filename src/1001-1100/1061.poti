@@ -1,0 +1,23 @@
+entrada = leia_textos(4)
+d1 = entrada[1].divida(" ")[2].inteiro
+h1 = entrada[2].pegue(2).inteiro
+m1 = entrada[2].descarte(5).pegue(2).inteiro
+s1 = entrada[2].descarte(10).inteiro
+d2 = entrada[3].divida(" ")[2].inteiro
+h2 = entrada[4].pegue(2).inteiro
+m2 = entrada[4].descarte(5).pegue(2).inteiro
+s2 = entrada[4].descarte(10).inteiro
+
+t1 = ((d1 * 24 + h1) * 60 + m1) * 60 + s1
+t2 = ((d2 * 24 + h2) * 60 + m2) * 60 + s2
+
+t = t2 - t1
+d = t div (24 * 3600)
+h = t mod (24 * 3600) div 3600
+m = t mod 3600 div 60
+s = t mod 60
+
+escreva "{d} dia(s)"
+escreva "{h} hora(s)"
+escreva "{m} minuto(s)"
+escreva "{s} segundo(s)"
