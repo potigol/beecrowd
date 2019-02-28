@@ -40,7 +40,7 @@
   - [ ] [1438](https://www.urionlinejudge.com.br/judge/pt/problems/view/1438) - Desempilhando Caixas *Ad-Hoc*
   - [ ] [1439](https://www.urionlinejudge.com.br/judge/pt/problems/view/1439) - Bora Bora *Estruturas e Bibliotecas*
   - [ ] [1440](https://www.urionlinejudge.com.br/judge/pt/problems/view/1440) - Praça de Alimentação *Ad-Hoc*
-  - [ ] [1441](https://www.urionlinejudge.com.br/judge/pt/problems/view/1441) - Sequências de Granizo *Ad-Hoc*
+  - [x] [1441](https://www.urionlinejudge.com.br/judge/pt/problems/view/1441) - [Sequências de Granizo](https://github.com/potigol/URI-Potigol/blob/master/src/1401-1500/1441.poti) *Ad-Hoc*
   - [ ] [1442](https://www.urionlinejudge.com.br/judge/pt/problems/view/1442) - Desvio de Rua *Grafos*
   - [ ] [1443](https://www.urionlinejudge.com.br/judge/pt/problems/view/1443) - Engarrafamento *Ad-Hoc*
   - [ ] [1444](https://www.urionlinejudge.com.br/judge/pt/problems/view/1444) - Corrida dos Marrecos *Matemática*

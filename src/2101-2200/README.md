@@ -87,7 +87,7 @@
   - [ ] [2185](https://www.urionlinejudge.com.br/judge/pt/problems/view/2185) - Brincando com Pomekons *Estruturas e Bibliotecas*
   - [ ] [2186](https://www.urionlinejudge.com.br/judge/pt/problems/view/2186) - Bino, Prant e a Indecisao *Estruturas e Bibliotecas*
   - [ ] [2187](https://www.urionlinejudge.com.br/judge/pt/problems/view/2187) - Bits Trocados *Ad-Hoc*
-  - [ ] [2188](https://www.urionlinejudge.com.br/judge/pt/problems/view/2188) - Macaco-prego *Ad-Hoc*
+  - [x] [2188](https://www.urionlinejudge.com.br/judge/pt/problems/view/2188) - [Macaco-prego](https://github.com/potigol/URI-Potigol/blob/master/src/2101-2200/2188.poti) *Ad-Hoc*
   - [ ] [2189](https://www.urionlinejudge.com.br/judge/pt/problems/view/2189) - Quermesse *Ad-Hoc*
   - [ ] [2190](https://www.urionlinejudge.com.br/judge/pt/problems/view/2190) - Rede Ótica *Grafos*
   - [ ] [2191](https://www.urionlinejudge.com.br/judge/pt/problems/view/2191) - Saldo de Gols *Ad-Hoc*

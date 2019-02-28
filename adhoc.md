@@ -1,4 +1,4 @@
-# Ad-Hoc (25 / 633)
+# Ad-Hoc (28 / 633)
 
   - [ ] [1026](https://www.urionlinejudge.com.br/judge/pt/problems/view/1026) - Carrega ou não Carrega?
   - [ ] [1030](https://www.urionlinejudge.com.br/judge/pt/problems/view/1030) - A Lenda de Flavious Josephus
@@ -10,7 +10,6 @@
   - [ ] [1090](https://www.urionlinejudge.com.br/judge/pt/problems/view/1090) - Set
   - [ ] [1091](https://www.urionlinejudge.com.br/judge/pt/problems/view/1091) - Divisão da Nlogônia
   - [ ] [1092](https://www.urionlinejudge.com.br/judge/pt/problems/view/1092) - Maior Subseqüência Crescente
-  - [ ] [1103](https://www.urionlinejudge.com.br/judge/pt/problems/view/1103) - Alarme Despertador
   - [ ] [1104](https://www.urionlinejudge.com.br/judge/pt/problems/view/1104) - Troca de Cartas
   - [ ] [1105](https://www.urionlinejudge.com.br/judge/pt/problems/view/1105) - Sub-prime
   - [ ] [1107](https://www.urionlinejudge.com.br/judge/pt/problems/view/1107) - Escultura à Laser
@@ -89,7 +88,6 @@
   - [ ] [1437](https://www.urionlinejudge.com.br/judge/pt/problems/view/1437) - Esquerda, Volver!
   - [ ] [1438](https://www.urionlinejudge.com.br/judge/pt/problems/view/1438) - Desempilhando Caixas
   - [ ] [1440](https://www.urionlinejudge.com.br/judge/pt/problems/view/1440) - Praça de Alimentação
-  - [ ] [1441](https://www.urionlinejudge.com.br/judge/pt/problems/view/1441) - Sequências de Granizo
   - [ ] [1443](https://www.urionlinejudge.com.br/judge/pt/problems/view/1443) - Engarrafamento
   - [ ] [1445](https://www.urionlinejudge.com.br/judge/pt/problems/view/1445) - Quem Vai à Festa?
   - [ ] [1453](https://www.urionlinejudge.com.br/judge/pt/problems/view/1453) - Palavras-Cruzadas Sem Palavras
@@ -283,7 +281,6 @@
   - [ ] [2178](https://www.urionlinejudge.com.br/judge/pt/problems/view/2178) - Lagoa Azul
   - [ ] [2179](https://www.urionlinejudge.com.br/judge/pt/problems/view/2179) - Batuke
   - [ ] [2187](https://www.urionlinejudge.com.br/judge/pt/problems/view/2187) - Bits Trocados
-  - [ ] [2188](https://www.urionlinejudge.com.br/judge/pt/problems/view/2188) - Macaco-prego
   - [ ] [2189](https://www.urionlinejudge.com.br/judge/pt/problems/view/2189) - Quermesse
   - [ ] [2191](https://www.urionlinejudge.com.br/judge/pt/problems/view/2191) - Saldo de Gols
   - [ ] [2192](https://www.urionlinejudge.com.br/judge/pt/problems/view/2192) - To Add or to Multiply
@@ -608,9 +605,12 @@
   - [ ] [2928](https://www.urionlinejudge.com.br/judge/pt/problems/view/2928) - Cruzando Lagos
   - [ ] [2931](https://www.urionlinejudge.com.br/judge/pt/problems/view/2931) - Presentes Suspeitos
   - [ ] [2935](https://www.urionlinejudge.com.br/judge/pt/problems/view/2935) - DNA Élfico
+  - [x] [1103](https://www.urionlinejudge.com.br/judge/pt/problems/view/1103) - [Alarme Despertador](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1103.poti)
+  - [x] [1441](https://www.urionlinejudge.com.br/judge/pt/problems/view/1441) - [Sequências de Granizo](https://github.com/potigol/URI-Potigol/blob/master/src/1401-1500/1441.poti)
   - [x] [1794](https://www.urionlinejudge.com.br/judge/pt/problems/view/1794) - [Lavanderia](https://github.com/potigol/URI-Potigol/blob/master/src/1701-1800/1794.poti)
   - [x] [1867](https://www.urionlinejudge.com.br/judge/pt/problems/view/1867) - [Maior Número de Um Algarismo](https://github.com/potigol/URI-Potigol/blob/master/src/1801-1900/1867.poti)
   - [x] [2058](https://www.urionlinejudge.com.br/judge/pt/problems/view/2058) - [Triângulos e Polígonos Regulares](https://github.com/potigol/URI-Potigol/blob/master/src/2001-2100/2058.poti)
+  - [x] [2188](https://www.urionlinejudge.com.br/judge/pt/problems/view/2188) - [Macaco-prego](https://github.com/potigol/URI-Potigol/blob/master/src/2101-2200/2188.poti)
   - [x] [2295](https://www.urionlinejudge.com.br/judge/pt/problems/view/2295) - [Frota de Táxi](https://github.com/potigol/URI-Potigol/blob/master/src/2201-2300/2295.poti)
   - [x] [2345](https://www.urionlinejudge.com.br/judge/pt/problems/view/2345) - [Assigning Teams](https://github.com/potigol/URI-Potigol/blob/master/src/2301-2400/2345.poti)
   - [x] [2369](https://www.urionlinejudge.com.br/judge/pt/problems/view/2369) - [Conta de Água](https://github.com/potigol/URI-Potigol/blob/master/src/2301-2400/2369.poti)

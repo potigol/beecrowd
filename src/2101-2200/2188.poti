@@ -1,0 +1,22 @@
+var teste := 0
+var n := leia_inteiro
+enquanto n > 0 faça
+  var x, v := -10000
+  var y, u :=  10000
+  para i de 1 até n faça
+    entrada = leia_inteiros(" ")
+    se entrada[1] > x então x := entrada[1] fim
+    se entrada[2] < y então y := entrada[2] fim
+    se entrada[3] < u então u := entrada[3] fim
+    se entrada[4] > v então v := entrada[4] fim
+  fim
+  teste := teste + 1
+  escreva "Teste {teste}"
+  se x < u e v < y então
+    escreva "{x} {y} {u} {v}"
+  senão
+    escreva "nenhum"
+  fim
+  escreva ""
+  n := leia_inteiro
+fim

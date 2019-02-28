@@ -2,7 +2,7 @@
 
   - [ ] [1101](https://www.urionlinejudge.com.br/judge/pt/problems/view/1101) - Sequência de Números e Soma *Iniciante*
   - [ ] [1102](https://www.urionlinejudge.com.br/judge/pt/problems/view/1102) - Ataque Fulminante *Geometria Computacional*
-  - [ ] [1103](https://www.urionlinejudge.com.br/judge/pt/problems/view/1103) - Alarme Despertador *Ad-Hoc*
+  - [x] [1103](https://www.urionlinejudge.com.br/judge/pt/problems/view/1103) - [Alarme Despertador](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1103.poti) *Ad-Hoc*
   - [ ] [1104](https://www.urionlinejudge.com.br/judge/pt/problems/view/1104) - Troca de Cartas *Ad-Hoc*
   - [ ] [1105](https://www.urionlinejudge.com.br/judge/pt/problems/view/1105) - Sub-prime *Ad-Hoc*
   - [ ] [1106](https://www.urionlinejudge.com.br/judge/pt/problems/view/1106) - Dragster *Paradigmas*

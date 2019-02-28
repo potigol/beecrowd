@@ -1,0 +1,10 @@
+var entrada := leia_inteiros(" ")
+enquanto entrada <> [0,0,0,0] faça
+  h1 = entrada[1]
+  m1 = entrada[2]
+  h2 = entrada[3]
+  m2 = entrada[4]
+  tempo = ((24 + h2 - h1) * 60 + m2 - m1) mod (24 * 60)
+  escreva tempo
+  entrada := leia_inteiros(" ")
+fim
