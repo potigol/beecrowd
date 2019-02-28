@@ -1,0 +1,12 @@
+var maior := leia_inteiro
+enquanto maior > 0 faça
+  var h := maior
+  enquanto h > 1 faça
+    se h > maior então
+      maior := h
+    fim
+    h := se h mod 2 == 0 então h div 2 senão 3 * h + 1 fim
+  fim
+  escreva maior
+  maior := leia_inteiro
+fim

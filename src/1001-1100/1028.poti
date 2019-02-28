@@ -1,0 +1,13 @@
+n = leia_inteiro
+para i de 1 até n faça
+  entrada = leia_inteiros(" ")
+  var f1, f2 := entrada[1], entrada[2]
+  enquanto f1 > 1 faça
+    se f1 > f2 então
+      f1 := f1 mod f2
+    senão
+      f1, f2 := f2, f1
+    fim
+  fim
+  escreva f2
+fim

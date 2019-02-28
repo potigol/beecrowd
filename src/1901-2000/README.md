@@ -83,7 +83,7 @@
   - [ ] [1981](https://www.urionlinejudge.com.br/judge/pt/problems/view/1981) - Embaralhando de Novo *Ad-Hoc*
   - [ ] [1982](https://www.urionlinejudge.com.br/judge/pt/problems/view/1982) - Novos Computadores *Geometria Computacional*
   - [ ] [1983](https://www.urionlinejudge.com.br/judge/pt/problems/view/1983) - O Escolhido *Iniciante*
-  - [ ] [1984](https://www.urionlinejudge.com.br/judge/pt/problems/view/1984) - O Enigma do Pronalândia *Iniciante*
+  - [x] [1984](https://www.urionlinejudge.com.br/judge/pt/problems/view/1984) - [O Enigma do Pronalândia](https://github.com/potigol/URI-Potigol/blob/master/src/1901-2000/1984.poti) *Iniciante*
   - [ ] [1985](https://www.urionlinejudge.com.br/judge/pt/problems/view/1985) - MacPRONALTS *Iniciante*
   - [ ] [1986](https://www.urionlinejudge.com.br/judge/pt/problems/view/1986) - Perdido em Marte *Ad-Hoc*
   - [ ] [1987](https://www.urionlinejudge.com.br/judge/pt/problems/view/1987) - Divisibilidade Por 3 *Ad-Hoc*

@@ -266,7 +266,7 @@
   - [ ] [1356](https://www.urionlinejudge.com.br/judge/pt/problems/view/1356) - Júpiter Ataca! *Estruturas e Bibliotecas*
   - [ ] [1357](https://www.urionlinejudge.com.br/judge/pt/problems/view/1357) - Em Braille *Ad-Hoc*
   - [ ] [1419](https://www.urionlinejudge.com.br/judge/pt/problems/view/1419) - Bakugan *Ad-Hoc*
-  - [ ] [1441](https://www.urionlinejudge.com.br/judge/pt/problems/view/1441) - Sequências de Granizo *Ad-Hoc*
+  - [x] [1441](https://www.urionlinejudge.com.br/judge/pt/problems/view/1441) - [Sequências de Granizo](https://github.com/potigol/URI-Potigol/blob/master/src/1401-1500/1441.poti) *Ad-Hoc*
 
 
 ### 1ª Fase
@@ -340,7 +340,7 @@
 ### 1ª Fase
 
   - [ ] [1102](https://www.urionlinejudge.com.br/judge/pt/problems/view/1102) - Ataque Fulminante *Geometria Computacional*
-  - [ ] [1103](https://www.urionlinejudge.com.br/judge/pt/problems/view/1103) - Alarme Despertador *Ad-Hoc*
+  - [x] [1103](https://www.urionlinejudge.com.br/judge/pt/problems/view/1103) - [Alarme Despertador](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1103.poti) *Ad-Hoc*
   - [ ] [1104](https://www.urionlinejudge.com.br/judge/pt/problems/view/1104) - Troca de Cartas *Ad-Hoc*
   - [ ] [1105](https://www.urionlinejudge.com.br/judge/pt/problems/view/1105) - Sub-prime *Ad-Hoc*
   - [ ] [1106](https://www.urionlinejudge.com.br/judge/pt/problems/view/1106) - Dragster *Paradigmas*
