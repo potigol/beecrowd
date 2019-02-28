@@ -57,7 +57,7 @@
   - [ ] [1855](https://www.urionlinejudge.com.br/judge/pt/problems/view/1855) - Mapa do Meistre *Grafos*
   - [ ] [1856](https://www.urionlinejudge.com.br/judge/pt/problems/view/1856) - A Lista da Morte de Arya *Estruturas e Bibliotecas*
   - [ ] [1857](https://www.urionlinejudge.com.br/judge/pt/problems/view/1857) - Prelúdio de um Casamento Vermelho *Geometria Computacional*
-  - [ ] [1858](https://www.urionlinejudge.com.br/judge/pt/problems/view/1858) - A Resposta de Theon *Iniciante*
+  - [x] [1858](https://www.urionlinejudge.com.br/judge/pt/problems/view/1858) - [A Resposta de Theon](https://github.com/potigol/URI-Potigol/blob/master/src/1801-1900/1858.poti) *Iniciante*
   - [ ] [1859](https://www.urionlinejudge.com.br/judge/pt/problems/view/1859) - Arqueologia Congelante *Strings*
   - [ ] [1860](https://www.urionlinejudge.com.br/judge/pt/problems/view/1860) - A Caminhada da Vergonha de Cersei *Paradigmas*
   - [ ] [1861](https://www.urionlinejudge.com.br/judge/pt/problems/view/1861) - O Hall dos Assassinos *Estruturas e Bibliotecas*
