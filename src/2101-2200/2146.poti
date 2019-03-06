@@ -1,0 +1,5 @@
+var n := leia_texto
+enquanto n <> None.orNull faça
+  escreva n.inteiro - 1
+  n := leia_texto
+fim

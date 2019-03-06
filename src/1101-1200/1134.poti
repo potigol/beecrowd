@@ -1,0 +1,15 @@
+var n := leia_inteiro
+var cont1, cont2, cont3 := 0
+enquanto n <> 4 faça
+  escolha n
+    caso 1 => cont1 := cont1 + 1
+    caso 2 => cont2 := cont2 + 1
+    caso 3 => cont3 := cont3 + 1
+    caso _ =>
+  fim
+  n := leia_inteiro
+fim
+escreva "MUITO OBRIGADO"
+escreva "Alcool: {cont1}"
+escreva "Gasolina: {cont2}"
+escreva "Diesel: {cont3}"

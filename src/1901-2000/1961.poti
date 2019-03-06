@@ -1,0 +1,15 @@
+entrada = leia_inteiros(" ")
+linha = leia_inteiros(" ")
+p = entrada[1]
+n = entrada[2]
+var gameover := falso
+para i de 2 até n faça
+  se linha[i-1] - linha[i] > p ou linha[i] - linha[i-1] > p então
+    gameover := verdadeiro
+  fim
+fim
+se gameover então
+  escreva "GAME OVER"
+senão
+  escreva "YOU WIN"
+fim

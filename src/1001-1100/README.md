@@ -78,7 +78,7 @@
   - [ ] [1076](https://www.urionlinejudge.com.br/judge/pt/problems/view/1076) - Desenhando Labirintos *Grafos*
   - [ ] [1077](https://www.urionlinejudge.com.br/judge/pt/problems/view/1077) - Infixa para Posfixa *Estruturas e Bibliotecas*
   - [x] [1078](https://www.urionlinejudge.com.br/judge/pt/problems/view/1078) - [Tabuada](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1078.poti) *Iniciante*
-  - [ ] [1079](https://www.urionlinejudge.com.br/judge/pt/problems/view/1079) - Médias Ponderadas *Iniciante*
+  - [x] [1079](https://www.urionlinejudge.com.br/judge/pt/problems/view/1079) - [Médias Ponderadas](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1079.poti) *Iniciante*
   - [x] [1080](https://www.urionlinejudge.com.br/judge/pt/problems/view/1080) - [Maior e Posição](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1080.poti) *Iniciante*
   - [ ] [1081](https://www.urionlinejudge.com.br/judge/pt/problems/view/1081) - DFSr - Hierarquia de Profundidade *Grafos*
   - [ ] [1082](https://www.urionlinejudge.com.br/judge/pt/problems/view/1082) - Componentes Conexos *Grafos*

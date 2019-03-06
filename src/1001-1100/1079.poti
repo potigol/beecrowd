@@ -1,0 +1,6 @@
+n = leia_inteiro
+para i de 1 até n faça
+  entrada = leia_reais(" ")
+  media = (entrada[1] * 2 + entrada[2] * 3 + entrada[3] * 5) / 10
+  escreva media formato "%.1f"
+fim
