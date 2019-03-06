@@ -1,0 +1,9 @@
+n = leia_inteiro
+numeros = leia_inteiros(" ")
+var menor := 1
+para i de 2 até n faça
+  se numeros[i] < numeros[menor] então
+    menor := i
+  fim
+fim
+escreva menor

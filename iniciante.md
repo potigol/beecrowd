@@ -1,7 +1,6 @@
-# Iniciante (110 / 306)
+# Iniciante (112 / 306)
 
   - [ ] [1051](https://www.urionlinejudge.com.br/judge/pt/problems/view/1051) - Imposto de Renda
-  - [ ] [1061](https://www.urionlinejudge.com.br/judge/pt/problems/view/1061) - Tempo de um Evento
   - [ ] [1094](https://www.urionlinejudge.com.br/judge/pt/problems/view/1094) - Experiências
   - [ ] [1099](https://www.urionlinejudge.com.br/judge/pt/problems/view/1099) - Soma de Ímpares Consecutivos II
   - [ ] [1101](https://www.urionlinejudge.com.br/judge/pt/problems/view/1101) - Sequência de Números e Soma
@@ -46,7 +45,6 @@
   - [ ] [1837](https://www.urionlinejudge.com.br/judge/pt/problems/view/1837) - Prefácio
   - [ ] [1847](https://www.urionlinejudge.com.br/judge/pt/problems/view/1847) - Bem-vindos e Bem-vindas ao Inverno!
   - [ ] [1848](https://www.urionlinejudge.com.br/judge/pt/problems/view/1848) - Corvo Contador
-  - [ ] [1858](https://www.urionlinejudge.com.br/judge/pt/problems/view/1858) - A Resposta de Theon
   - [ ] [1864](https://www.urionlinejudge.com.br/judge/pt/problems/view/1864) - Nossos Dias Nunca Voltarão
   - [ ] [1865](https://www.urionlinejudge.com.br/judge/pt/problems/view/1865) - Mjölnir
   - [ ] [1866](https://www.urionlinejudge.com.br/judge/pt/problems/view/1866) - Conta
@@ -235,6 +233,7 @@
   - [x] [1052](https://www.urionlinejudge.com.br/judge/pt/problems/view/1052) - [Mês](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1052.poti)
   - [x] [1059](https://www.urionlinejudge.com.br/judge/pt/problems/view/1059) - [Números Pares](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1059.poti)
   - [x] [1060](https://www.urionlinejudge.com.br/judge/pt/problems/view/1060) - [Números Positivos](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1060.poti)
+  - [x] [1061](https://www.urionlinejudge.com.br/judge/pt/problems/view/1061) - [Tempo de um Evento](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1061.poti)
   - [x] [1064](https://www.urionlinejudge.com.br/judge/pt/problems/view/1064) - [Positivos e Média](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1064.poti)
   - [x] [1065](https://www.urionlinejudge.com.br/judge/pt/problems/view/1065) - [Pares entre Cinco Números](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1065.poti)
   - [x] [1066](https://www.urionlinejudge.com.br/judge/pt/problems/view/1066) - [Pares, Ímpares, Positivos e Negativos](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1066.poti)
@@ -272,6 +271,7 @@
   - [x] [1178](https://www.urionlinejudge.com.br/judge/pt/problems/view/1178) - [Preenchimento de Vetor III](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1178.poti)
   - [x] [1180](https://www.urionlinejudge.com.br/judge/pt/problems/view/1180) - [Menor e Posição](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1180.poti)
   - [x] [1589](https://www.urionlinejudge.com.br/judge/pt/problems/view/1589) - [Bob Conduite](https://github.com/potigol/URI-Potigol/blob/master/src/1501-1600/1589.poti)
+  - [x] [1858](https://www.urionlinejudge.com.br/judge/pt/problems/view/1858) - [A Resposta de Theon](https://github.com/potigol/URI-Potigol/blob/master/src/1801-1900/1858.poti)
   - [x] [1929](https://www.urionlinejudge.com.br/judge/pt/problems/view/1929) - [Triângulo](https://github.com/potigol/URI-Potigol/blob/master/src/1901-2000/1929.poti)
   - [x] [1930](https://www.urionlinejudge.com.br/judge/pt/problems/view/1930) - [Tomadas](https://github.com/potigol/URI-Potigol/blob/master/src/1901-2000/1930.poti)
   - [x] [1959](https://www.urionlinejudge.com.br/judge/pt/problems/view/1959) - [Polígonos Regulares Simples](https://github.com/potigol/URI-Potigol/blob/master/src/1901-2000/1959.poti)
