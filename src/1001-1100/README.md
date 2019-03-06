@@ -28,7 +28,7 @@
   - [ ] [1026](https://www.urionlinejudge.com.br/judge/pt/problems/view/1026) - Carrega ou não Carrega? *Ad-Hoc*
   - [ ] [1027](https://www.urionlinejudge.com.br/judge/pt/problems/view/1027) - Onda Crítica *Paradigmas*
   - [x] [1028](https://www.urionlinejudge.com.br/judge/pt/problems/view/1028) - [Figurinhas](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1028.poti) *Matemática*
-  - [ ] [1029](https://www.urionlinejudge.com.br/judge/pt/problems/view/1029) - Fibonacci, Quantas Chamadas? *Paradigmas*
+  - [x] [1029](https://www.urionlinejudge.com.br/judge/pt/problems/view/1029) - [Fibonacci, Quantas Chamadas?](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1029.poti) *Paradigmas*
   - [ ] [1030](https://www.urionlinejudge.com.br/judge/pt/problems/view/1030) - A Lenda de Flavious Josephus *Ad-Hoc*
   - [ ] [1031](https://www.urionlinejudge.com.br/judge/pt/problems/view/1031) - Crise de Energia *Ad-Hoc*
   - [ ] [1032](https://www.urionlinejudge.com.br/judge/pt/problems/view/1032) - O Primo de Josephus *Ad-Hoc*

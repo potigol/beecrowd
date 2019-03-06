@@ -1,0 +1,16 @@
+
+var fib := [1, 1]
+enquanto fib.tamanho < 38 faça
+  fib := (fib[1] + fib[2]) :: fib
+fim
+
+var calls := [2, 0]
+enquanto calls.tamanho < 38 faça
+  calls := (calls[1] + calls[2] + 2) :: calls
+fim
+
+n = leia_inteiro
+para i de 1 até n faça
+  a = leia_inteiro
+  escreva "fib({a}) = {calls[-a]} calls = {fib[-a]}"
+fim
