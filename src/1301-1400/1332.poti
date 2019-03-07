@@ -1,0 +1,11 @@
+n = leia_inteiro
+para i de 1 até n faça
+   a = leia_texto
+   se a.tamanho==5 então
+     escreva 3
+   senãose [a[1]=='o', a[2]=='n', a[3]=='e'].selecione(a => a).tamanho >= 2 então
+     escreva 1
+   senão
+     escreva 2
+   fim
+fim
