@@ -89,7 +89,7 @@ object Build extends App {
       case p =>
         s"  - [ ] [${p.number}](${prefix}/${p.number}) - ${p.name}"
     }.sorted
-    save(s"../${clean(d)}.md", s"${d} (${count} / ${bd.length})", f.mkString("\n"))
+    save(s"../categorias/${clean(d)}.md", s"${d} (${count} / ${bd.length})", f.mkString("\n"))
   }
 
   def getContest(s: String) = io.Source.fromFile(s).getLines.toList.map {
@@ -104,6 +104,6 @@ object Build extends App {
 
 
   // Principal
-  duasfases("maratona1.txt", "maratona2.txt", "../maratona.md", "Maratona de Programação")
-  umafase("obi.txt", "../obi.md", "Olimpiada Brasileira de Informática")
+  duasfases("maratona1.txt", "maratona2.txt", "../categorias/maratona.md", "Maratona de Programação")
+  umafase("obi.txt", "../categorias/obi.md", "Olimpiada Brasileira de Informática")
 }
