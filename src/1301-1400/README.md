@@ -31,7 +31,7 @@
   - [ ] [1329](https://www.urionlinejudge.com.br/judge/pt/problems/view/1329) - Cara ou Coroa *Ad-Hoc*
   - [ ] [1330](https://www.urionlinejudge.com.br/judge/pt/problems/view/1330) - A Terra Herdada por Tio Tom *Grafos*
   - [ ] [1331](https://www.urionlinejudge.com.br/judge/pt/problems/view/1331) - Blocos *Ad-Hoc*
-  - [ ] [1332](https://www.urionlinejudge.com.br/judge/pt/problems/view/1332) - Um-Dois-Três *Strings*
+  - [x] [1332](https://www.urionlinejudge.com.br/judge/pt/problems/view/1332) - [Um-Dois-Três](https://github.com/potigol/URI-Potigol/blob/master/src/1301-1400/1332.poti) *Strings*
   - [ ] [1333](https://www.urionlinejudge.com.br/judge/pt/problems/view/1333) - Os Doces de Candy *Ad-Hoc*
   - [ ] [1334](https://www.urionlinejudge.com.br/judge/pt/problems/view/1334) - Poluição Elétrica *Grafos*
   - [ ] [1335](https://www.urionlinejudge.com.br/judge/pt/problems/view/1335) - Recuperação de Arquivos *Strings*

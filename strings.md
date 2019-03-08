@@ -1,4 +1,4 @@
-# Strings (4 / 121)
+# Strings (5 / 121)
 
   - [ ] [1024](https://www.urionlinejudge.com.br/judge/pt/problems/view/1024) - Criptografia
   - [ ] [1120](https://www.urionlinejudge.com.br/judge/pt/problems/view/1120) - Revisão de Contrato
@@ -28,7 +28,6 @@
   - [ ] [1287](https://www.urionlinejudge.com.br/judge/pt/problems/view/1287) - Processador Amigável de Inteiros
   - [ ] [1305](https://www.urionlinejudge.com.br/judge/pt/problems/view/1305) - Arredondamento por Valor de Corte
   - [ ] [1313](https://www.urionlinejudge.com.br/judge/pt/problems/view/1313) - Dicionário Portuñol
-  - [ ] [1332](https://www.urionlinejudge.com.br/judge/pt/problems/view/1332) - Um-Dois-Três
   - [ ] [1335](https://www.urionlinejudge.com.br/judge/pt/problems/view/1335) - Recuperação de Arquivos
   - [ ] [1341](https://www.urionlinejudge.com.br/judge/pt/problems/view/1341) - Crianças em uma Grade
   - [ ] [1355](https://www.urionlinejudge.com.br/judge/pt/problems/view/1355) - Compressor
@@ -118,6 +117,7 @@
   - [ ] [2825](https://www.urionlinejudge.com.br/judge/pt/problems/view/2825) - L de Atreus!?
   - [ ] [2866](https://www.urionlinejudge.com.br/judge/pt/problems/view/2866) - Criptotexto
   - [x] [1168](https://www.urionlinejudge.com.br/judge/pt/problems/view/1168) - [LED](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1168.poti)
+  - [x] [1332](https://www.urionlinejudge.com.br/judge/pt/problems/view/1332) - [Um-Dois-Três](https://github.com/potigol/URI-Potigol/blob/master/src/1301-1400/1332.poti)
   - [x] [2242](https://www.urionlinejudge.com.br/judge/pt/problems/view/2242) - [Huaauhahhuahau](https://github.com/potigol/URI-Potigol/blob/master/src/2201-2300/2242.poti)
   - [x] [2694](https://www.urionlinejudge.com.br/judge/pt/problems/view/2694) - [Problema com a Calculadora](https://github.com/potigol/URI-Potigol/blob/master/src/2601-2700/2694.poti)
   - [x] [2880](https://www.urionlinejudge.com.br/judge/pt/problems/view/2880) - [Enigma](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2880.poti)

@@ -21,17 +21,6 @@
   - [ ] [2835](https://www.urionlinejudge.com.br/judge/pt/problems/view/2835) - Elevador *Ad-Hoc*
   - [ ] [2836](https://www.urionlinejudge.com.br/judge/pt/problems/view/2836) - Wifi *Ad-Hoc*
   - [ ] [2837](https://www.urionlinejudge.com.br/judge/pt/problems/view/2837) - Sequência *Ad-Hoc*
-  - [x] [2850](https://www.urionlinejudge.com.br/judge/pt/problems/view/2850) - [Papagaio Poliglota](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2850.poti) *Iniciante*
-  - [x] [2851](https://www.urionlinejudge.com.br/judge/pt/problems/view/2851) - [Desafio de Rangel](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2851.poti) *Ad-Hoc*
-  - [ ] [2852](https://www.urionlinejudge.com.br/judge/pt/problems/view/2852) - Troca de Mensagens *Iniciante*
-  - [ ] [2853](https://www.urionlinejudge.com.br/judge/pt/problems/view/2853) - Invenções de Bibika *Ad-Hoc*
-  - [ ] [2854](https://www.urionlinejudge.com.br/judge/pt/problems/view/2854) - Árvore Genealógica *Grafos*
-  - [ ] [2855](https://www.urionlinejudge.com.br/judge/pt/problems/view/2855) - Números de Sorte *Iniciante*
-  - [ ] [2856](https://www.urionlinejudge.com.br/judge/pt/problems/view/2856) - Viagem do Pão de Queijo *Paradigmas*
-  - [ ] [2857](https://www.urionlinejudge.com.br/judge/pt/problems/view/2857) - Fluxo nos Vagões *Estruturas e Bibliotecas*
-  - [ ] [2858](https://www.urionlinejudge.com.br/judge/pt/problems/view/2858) - Tabuleiro Infinito *Ad-Hoc*
-  - [ ] [2859](https://www.urionlinejudge.com.br/judge/pt/problems/view/2859) - Digit Root *Matemática*
-  - [ ] [2860](https://www.urionlinejudge.com.br/judge/pt/problems/view/2860) - A Paz em Spar-Ta *Estruturas e Bibliotecas*
 
 
 ## 2014
