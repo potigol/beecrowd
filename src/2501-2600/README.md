@@ -86,7 +86,7 @@
   - [ ] [2584](https://www.urionlinejudge.com.br/judge/pt/problems/view/2584) - Pentágono *Matemática*
   - [ ] [2585](https://www.urionlinejudge.com.br/judge/pt/problems/view/2585) - Dominó Incompleto *Grafos*
   - [ ] [2586](https://www.urionlinejudge.com.br/judge/pt/problems/view/2586) - Cubonacci *Ad-Hoc*
-  - [ ] [2587](https://www.urionlinejudge.com.br/judge/pt/problems/view/2587) - Jetiqui *Strings*
+  - [x] [2587](https://www.urionlinejudge.com.br/judge/pt/problems/view/2587) - [Jetiqui](https://github.com/potigol/URI-Potigol/blob/master/src/2501-2600/2587.poti) *Strings*
   - [ ] [2588](https://www.urionlinejudge.com.br/judge/pt/problems/view/2588) - Jogo dos Palíndromos *Strings*
   - [ ] [2589](https://www.urionlinejudge.com.br/judge/pt/problems/view/2589) - Maior Distância Entre Primos Consecutivos *Matemática*
   - [ ] [2590](https://www.urionlinejudge.com.br/judge/pt/problems/view/2590) - Sete *Ad-Hoc*

@@ -1,0 +1,11 @@
+n = leia_inteiro
+x = Lista.mutável(2000, 0)
+para i de 1 até n faça
+  a = leia_inteiro
+  x[a] := x[a] + 1
+fim
+para i de 1 até 2000 faça
+  se x[i] > 0 então
+    escreva "{i} aparece {x[i]} vez(es)"
+  fim
+fim

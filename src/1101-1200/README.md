@@ -70,7 +70,7 @@
   - [x] [1168](https://www.urionlinejudge.com.br/judge/pt/problems/view/1168) - [LED](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1168.poti) *Strings*
   - [ ] [1169](https://www.urionlinejudge.com.br/judge/pt/problems/view/1169) - Trigo no Tabuleiro *Matemática*
   - [ ] [1170](https://www.urionlinejudge.com.br/judge/pt/problems/view/1170) - Blobs *Matemática*
-  - [ ] [1171](https://www.urionlinejudge.com.br/judge/pt/problems/view/1171) - Frequência de Números *Ad-Hoc*
+  - [x] [1171](https://www.urionlinejudge.com.br/judge/pt/problems/view/1171) - [Frequência de Números](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1171.poti) *Ad-Hoc*
   - [x] [1172](https://www.urionlinejudge.com.br/judge/pt/problems/view/1172) - [Substituição em Vetor I](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1172.poti) *Iniciante*
   - [x] [1173](https://www.urionlinejudge.com.br/judge/pt/problems/view/1173) - [Preenchimento de Vetor I](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1173.poti) *Iniciante*
   - [x] [1174](https://www.urionlinejudge.com.br/judge/pt/problems/view/1174) - [Seleçao em Vetor I](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1174.poti) *Iniciante*
@@ -80,7 +80,7 @@
   - [x] [1178](https://www.urionlinejudge.com.br/judge/pt/problems/view/1178) - [Preenchimento de Vetor III](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1178.poti) *Iniciante*
   - [ ] [1179](https://www.urionlinejudge.com.br/judge/pt/problems/view/1179) - Preenchimento de Vetor IV *Iniciante*
   - [x] [1180](https://www.urionlinejudge.com.br/judge/pt/problems/view/1180) - [Menor e Posição](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1180.poti) *Iniciante*
-  - [ ] [1181](https://www.urionlinejudge.com.br/judge/pt/problems/view/1181) - Linha na Matriz *Iniciante*
+  - [x] [1181](https://www.urionlinejudge.com.br/judge/pt/problems/view/1181) - [Linha na Matriz](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1181.poti) *Iniciante*
   - [ ] [1182](https://www.urionlinejudge.com.br/judge/pt/problems/view/1182) - Coluna na Matriz *Iniciante*
   - [ ] [1183](https://www.urionlinejudge.com.br/judge/pt/problems/view/1183) - Acima da Diagonal Principal *Iniciante*
   - [ ] [1184](https://www.urionlinejudge.com.br/judge/pt/problems/view/1184) - Abaixo da Diagonal Principal *Iniciante*

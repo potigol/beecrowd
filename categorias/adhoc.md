@@ -1,4 +1,4 @@
-# Ad-Hoc (28 / 633)
+# Ad-Hoc (29 / 633)
 
   - [ ] [1026](https://www.urionlinejudge.com.br/judge/pt/problems/view/1026) - Carrega ou não Carrega?
   - [ ] [1030](https://www.urionlinejudge.com.br/judge/pt/problems/view/1030) - A Lenda de Flavious Josephus
@@ -25,7 +25,6 @@
   - [ ] [1139](https://www.urionlinejudge.com.br/judge/pt/problems/view/1139) - Necessidades Elétricas
   - [ ] [1140](https://www.urionlinejudge.com.br/judge/pt/problems/view/1140) - Flores Florescem da França
   - [ ] [1147](https://www.urionlinejudge.com.br/judge/pt/problems/view/1147) - Fuga do Cavalo
-  - [ ] [1171](https://www.urionlinejudge.com.br/judge/pt/problems/view/1171) - Frequência de Números
   - [ ] [1192](https://www.urionlinejudge.com.br/judge/pt/problems/view/1192) - O jogo Matemático de Paula
   - [ ] [1196](https://www.urionlinejudge.com.br/judge/pt/problems/view/1196) - WERTYU
   - [ ] [1206](https://www.urionlinejudge.com.br/judge/pt/problems/view/1206) - Desafio de São Petersburgo
@@ -606,6 +605,7 @@
   - [ ] [2931](https://www.urionlinejudge.com.br/judge/pt/problems/view/2931) - Presentes Suspeitos
   - [ ] [2935](https://www.urionlinejudge.com.br/judge/pt/problems/view/2935) - DNA Élfico
   - [x] [1103](https://www.urionlinejudge.com.br/judge/pt/problems/view/1103) - [Alarme Despertador](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1103.poti)
+  - [x] [1171](https://www.urionlinejudge.com.br/judge/pt/problems/view/1171) - [Frequência de Números](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1171.poti)
   - [x] [1441](https://www.urionlinejudge.com.br/judge/pt/problems/view/1441) - [Sequências de Granizo](https://github.com/potigol/URI-Potigol/blob/master/src/1401-1500/1441.poti)
   - [x] [1794](https://www.urionlinejudge.com.br/judge/pt/problems/view/1794) - [Lavanderia](https://github.com/potigol/URI-Potigol/blob/master/src/1701-1800/1794.poti)
   - [x] [1867](https://www.urionlinejudge.com.br/judge/pt/problems/view/1867) - [Maior Número de Um Algarismo](https://github.com/potigol/URI-Potigol/blob/master/src/1801-1900/1867.poti)

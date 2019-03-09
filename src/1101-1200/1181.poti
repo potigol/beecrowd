@@ -1,0 +1,12 @@
+l = leia_inteiro
+t = leia_texto
+numeros = leia_reais(144)
+var soma := 0.0
+para i de l*12 + 1 até (l+1)*12 gere
+  soma := soma + numeros[i]
+fim
+se t == "S" então
+  escreva soma formato "%.1f"
+senão
+  escreva (soma / 12) formato "%.1f"
+fim
