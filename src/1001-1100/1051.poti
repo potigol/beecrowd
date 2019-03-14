@@ -1,0 +1,17 @@
+salario = leia_real
+
+se salario <= 2000 então
+	escreva "Isento"
+senãose salario <= 3000 então
+	resto = salario - 2000
+	resultado = resto * 0.08
+	escreva "R$$ {resultado formato "%.2f"}"
+senãose salario < 4500 então
+	resto = salario - 3000
+	resultado = (resto * 0.18) + (1000 * 0.08)
+  escreva "R$$ {resultado formato "%.2f"}"
+senão
+	resto = salario - 4500
+	resultado = (resto * 0.28) + (1500 * 0.18) + (1000 * 0.08)
+  escreva "R$$ {resultado formato "%.2f"}"
+fim

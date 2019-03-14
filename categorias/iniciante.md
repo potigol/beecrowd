@@ -1,6 +1,5 @@
-# Iniciante (115 / 306)
+# Iniciante (116 / 306)
 
-  - [ ] [1051](https://www.urionlinejudge.com.br/judge/pt/problems/view/1051) - Imposto de Renda
   - [ ] [1094](https://www.urionlinejudge.com.br/judge/pt/problems/view/1094) - Experiências
   - [ ] [1099](https://www.urionlinejudge.com.br/judge/pt/problems/view/1099) - Soma de Ímpares Consecutivos II
   - [ ] [1101](https://www.urionlinejudge.com.br/judge/pt/problems/view/1101) - Sequência de Números e Soma
@@ -227,6 +226,7 @@
   - [x] [1048](https://www.urionlinejudge.com.br/judge/pt/problems/view/1048) - [Aumento de Salário](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1048.poti)
   - [x] [1049](https://www.urionlinejudge.com.br/judge/pt/problems/view/1049) - [Animal](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1049.poti)
   - [x] [1050](https://www.urionlinejudge.com.br/judge/pt/problems/view/1050) - [DDD](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1050.poti)
+  - [x] [1051](https://www.urionlinejudge.com.br/judge/pt/problems/view/1051) - [Imposto de Renda](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1051.poti)
   - [x] [1052](https://www.urionlinejudge.com.br/judge/pt/problems/view/1052) - [Mês](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1052.poti)
   - [x] [1059](https://www.urionlinejudge.com.br/judge/pt/problems/view/1059) - [Números Pares](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1059.poti)
   - [x] [1060](https://www.urionlinejudge.com.br/judge/pt/problems/view/1060) - [Números Positivos](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1060.poti)
