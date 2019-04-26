@@ -1,0 +1,15 @@
+escreva "Informe o grau de inclinação da Terra (0 até 360 graus)"
+grau = leia_inteiro
+
+  se grau >= 0 e grau < 90 ou grau <= 360 e grau > 270 então
+      escreva "Bom Dia!!"
+
+  senãose grau == 90 então
+      escreva "Boa Tarde!!"
+
+  senãose grau == 270 então
+      escreva "De Madrugada!!"
+
+  senãose grau > 90 e grau < 270 então
+      escreva "Boa Noite!!"
+fim
