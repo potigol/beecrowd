@@ -1,0 +1,82 @@
+escreva "Informe o grau de inclinação da Terra (0 até 360 graus)"
+graus = leia_real
+var horas = 0
+var minutos = 0
+var segundos = 0
+
+  se graus >= 0 e graus < 90 então
+      escreva "Bom Dia!!"
+      horas := (((360 + graus * 4)/60)).inteiro
+      minutos := ((((((360 + graus * 4)/60).real - horas)).arredonde(2) * 60).piso).inteiro
+      segundos := ((((((((360 + graus * 4)/60).real - horas)).arredonde(2) * 60).piso).real - minutos) * 60).inteiro
+    se segundos >= 60 então
+        minutos := minutos + (segundos/60).inteiro
+        segundos := segundos - (((segundos/60).inteiro) * 60)
+    fim
+    se minutos >= 60 então
+        horas := horas + (minutos/60).inteiro
+        minutos := minutos - (((minutos/60).inteiro) * 60)
+    fim
+      escreva "São {horas}:{minutos}:{segundos}"
+
+  senãose graus >= 345 e graus <= 360 então
+      escreva "Bom Dia!!"
+      horas := ((((graus - 270) * 4)/60)).inteiro
+      minutos := (((((((graus - 270) * 4)/60).real - horas)).arredonde(2) * 60).piso).inteiro
+      segundos := (((((((((graus - 270) * 4)/60).real - horas)).arredonde(2) * 60).piso).real - minutos) * 60).inteiro
+            se segundos >= 60 então
+              minutos := minutos + (segundos/60).inteiro
+              segundos := segundos - (((segundos/60).inteiro) * 60)
+            fim
+            se minutos >= 60 então
+              horas := horas + (minutos/60).inteiro
+              minutos := minutos - (((minutos/60).inteiro) * 60)
+            fim
+      escreva "São {horas}:{minutos}:{segundos}"
+
+  senãose graus >= 90 e graus < 180 então
+      escreva "Boa Tarde!!"
+      horas := (((720 + ((graus - 90) * 4))/60)).inteiro
+      minutos := ((((((720 + ((graus - 90) * 4))/60).real - horas)).arredonde(2) * 60).piso).inteiro
+      segundos := ((((((((720 + ((graus - 90) * 4))/60).real - horas)).arredonde(2) * 60).piso).real - minutos) * 60).inteiro
+            se segundos >= 60 então
+              minutos := minutos + (segundos/60).inteiro
+              segundos := segundos - (((segundos/60).inteiro) * 60)
+            fim
+            se minutos >= 60 então
+              horas := horas + (minutos/60).inteiro
+              minutos := minutos - (((minutos/60).inteiro) * 60)
+            fim
+      escreva "São {horas}:{minutos}:{segundos}"
+
+  senãose graus >= 270 e graus < 345 então
+      escreva "De Madrugada!!"
+      horas := ((((graus - 270) * 4)/60)).inteiro
+      minutos := (((((((graus - 270) * 4)/60).real - horas)).arredonde(2) * 60).piso).inteiro
+      segundos := (((((((((graus - 270) * 4)/60).real - horas)).arredonde(2) * 60).piso).real - minutos) * 60).inteiro
+            se segundos >= 60 então
+              minutos := minutos + (segundos/60).inteiro
+              segundos := segundos - (((segundos/60).inteiro) * 60)
+            fim
+            se minutos >= 60 então
+              horas := horas + (minutos/60).inteiro
+              minutos := minutos - (((minutos/60).inteiro) * 60)
+            fim
+      escreva "São {horas}:{minutos}:{segundos}"
+
+
+  senãose graus >= 180 e graus < 270 então
+      escreva "Boa Noite!!"
+      horas := (((1080 + ((graus - 180) * 4))/60)).inteiro
+      minutos := ((((((1080 + ((graus - 180) * 4))/60).real - horas)).arredonde(2) * 60).piso).inteiro
+      segundos := (((((((1080 + ((graus - 180) * 4))/60).real - horas).arredonde(2) * 60).piso).real - minutos) * 60).inteiro
+            se segundos >= 60 então
+              minutos := minutos + (segundos/60).inteiro
+              segundos := segundos - (((segundos/60).inteiro) * 60)
+            fim
+            se minutos >= 60 então
+              horas := horas + (minutos/60).inteiro
+              minutos := minutos - (((minutos/60).inteiro) * 60)
+            fim
+      escreva "São {horas}:{minutos}:{segundos}"
+fim
