@@ -1,9 +1,11 @@
 # escreva "Informe o grau de inclinação da Terra (0 até 360 graus)"
-graus = leia_real
-var horas = 0
-var minutos = 0
-var segundos = 0
+var graus := leia_real
+var horas := 0
+var minutos := 0
+var segundos := 0
+nulo = None.orNull
 
+enquanto graus <> nulo faça
   se graus >= 0 e graus < 90 então
       escreva "Bom Dia!!"
       horas := (((360 + graus * 4)/60)).inteiro
@@ -79,4 +81,6 @@ var segundos = 0
               minutos := minutos - (((minutos/60).inteiro) * 60)
             fim
       escreva "São {horas}:{minutos}:{segundos}"
+  fim
+  graus := leia_real
 fim
