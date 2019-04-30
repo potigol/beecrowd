@@ -9,8 +9,8 @@ enquanto graus <> nulo faça
   se graus >= 0 e graus < 90 então
       escreva "Bom Dia!!"
       horas := (((360 + graus * 4)/60)).inteiro
-      minutos := ((((((360 + graus * 4)/60).real - horas)).arredonde(2) * 60).piso).inteiro
-      segundos := ((((((((360 + graus * 4)/60).real - horas)).arredonde(2) * 60).piso).real - minutos) * 60).inteiro
+      minutos := ((((((360 + graus * 4)/60).real - horas)).arredonde(2) * 60).arredonde).inteiro
+      segundos := ((((((((360 + graus * 4)/60).real - horas)).arredonde(2) * 60).arredonde).real - minutos) * 60).inteiro
     se segundos >= 60 então
         minutos := minutos + (segundos/60).inteiro
         segundos := segundos - (((segundos/60).inteiro) * 60)
@@ -24,8 +24,8 @@ enquanto graus <> nulo faça
   senãose graus >= 345 e graus <= 360 então
       escreva "Bom Dia!!"
       horas := ((((graus - 270) * 4)/60)).inteiro
-      minutos := (((((((graus - 270) * 4)/60).real - horas)).arredonde(2) * 60).piso).inteiro
-      segundos := (((((((((graus - 270) * 4)/60).real - horas)).arredonde(2) * 60).piso).real - minutos) * 60).inteiro
+      minutos := (((((((graus - 270) * 4)/60).real - horas)).arredonde(2) * 60).arredonde).inteiro
+      segundos := (((((((((graus - 270) * 4)/60).real - horas)).arredonde(2) * 60).arredonde).real - minutos) * 60).inteiro
             se segundos >= 60 então
               minutos := minutos + (segundos/60).inteiro
               segundos := segundos - (((segundos/60).inteiro) * 60)
@@ -39,8 +39,8 @@ enquanto graus <> nulo faça
   senãose graus >= 90 e graus < 180 então
       escreva "Boa Tarde!!"
       horas := (((720 + ((graus - 90) * 4))/60)).inteiro
-      minutos := ((((((720 + ((graus - 90) * 4))/60).real - horas)).arredonde(2) * 60).piso).inteiro
-      segundos := ((((((((720 + ((graus - 90) * 4))/60).real - horas)).arredonde(2) * 60).piso).real - minutos) * 60).inteiro
+      minutos := ((((((720 + ((graus - 90) * 4))/60).real - horas)).arredonde(2) * 60).arredonde).inteiro
+      segundos := ((((((((720 + ((graus - 90) * 4))/60).real - horas)).arredonde(2) * 60).arredonde).real - minutos) * 60).inteiro
             se segundos >= 60 então
               minutos := minutos + (segundos/60).inteiro
               segundos := segundos - (((segundos/60).inteiro) * 60)
@@ -54,8 +54,8 @@ enquanto graus <> nulo faça
   senãose graus >= 270 e graus < 345 então
       escreva "De Madrugada!!"
       horas := ((((graus - 270) * 4)/60)).inteiro
-      minutos := (((((((graus - 270) * 4)/60).real - horas)).arredonde(2) * 60).piso).inteiro
-      segundos := (((((((((graus - 270) * 4)/60).real - horas)).arredonde(2) * 60).piso).real - minutos) * 60).inteiro
+      minutos := (((((((graus - 270) * 4)/60).real - horas)).arredonde(2) * 60).arredonde).inteiro
+      segundos := (((((((((graus - 270) * 4)/60).real - horas)).arredonde(2) * 60).arredonde).real - minutos) * 60).inteiro
             se segundos >= 60 então
               minutos := minutos + (segundos/60).inteiro
               segundos := segundos - (((segundos/60).inteiro) * 60)
@@ -70,8 +70,8 @@ enquanto graus <> nulo faça
   senãose graus >= 180 e graus < 270 então
       escreva "Boa Noite!!"
       horas := (((1080 + ((graus - 180) * 4))/60)).inteiro
-      minutos := ((((((1080 + ((graus - 180) * 4))/60).real - horas)).arredonde(2) * 60).piso).inteiro
-      segundos := (((((((1080 + ((graus - 180) * 4))/60).real - horas).arredonde(2) * 60).piso).real - minutos) * 60).inteiro
+      minutos := ((((((1080 + ((graus - 180) * 4))/60).real - horas)).arredonde(2) * 60).arredonde).inteiro
+      segundos := (((((((1080 + ((graus - 180) * 4))/60).real - horas).arredonde(2) * 60).arredonde).real - minutos) * 60).inteiro
             se segundos >= 60 então
               minutos := minutos + (segundos/60).inteiro
               segundos := segundos - (((segundos/60).inteiro) * 60)
