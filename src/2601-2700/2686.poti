@@ -1,4 +1,4 @@
-escreva "Informe o grau de inclinação da Terra (0 até 360 graus)"
+# escreva "Informe o grau de inclinação da Terra (0 até 360 graus)"
 graus = leia_real
 var horas = 0
 var minutos = 0
