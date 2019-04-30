@@ -1,6 +1,8 @@
 # escreva "Informe o grau de inclinação da Terra (0 até 360 graus)"
-grau = leia_inteiro
+var grau := leia_real
+nulo = None.orNull
 
+enquanto grau <> nulo faça
   se grau >= 0 e grau < 90 ou grau <= 360 e grau > 270 então
       escreva "Bom Dia!!"
 
@@ -12,4 +14,6 @@ grau = leia_inteiro
 
   senãose grau > 90 e grau < 270 então
       escreva "Boa Noite!!"
+  fim
+  grau := leia_real
 fim
