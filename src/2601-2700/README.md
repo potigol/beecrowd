@@ -84,8 +84,8 @@
   - [ ] [2682](https://www.urionlinejudge.com.br/judge/pt/problems/view/2682) - Detector de Falhas *Ad-Hoc*
   - [ ] [2683](https://www.urionlinejudge.com.br/judge/pt/problems/view/2683) - Espaço de Projeto *Grafos*
   - [ ] [2684](https://www.urionlinejudge.com.br/judge/pt/problems/view/2684) - Ajude o Professor Webscript!! *Iniciante*
-  - [x] ~~2685~~ - [A Mudança](https://www.urionlinejudge.com.br/judge/pt/problems/view/2685) *Iniciante*
-  - [x] ~~2686~~ - [A Mudança Continua!!](https://www.urionlinejudge.com.br/judge/pt/problems/view/2686) *Iniciante*
+  - [x] [2685](https://www.urionlinejudge.com.br/judge/pt/problems/view/2685) - [A Mudança] () *Iniciante*
+  - [x] [2686](https://www.urionlinejudge.com.br/judge/pt/problems/view/2686) - [A Mudança Continua!!] () *Iniciante*
   - [ ] [2687](https://www.urionlinejudge.com.br/judge/pt/problems/view/2687) - Dominação Bacteriana *Iniciante*
   - [ ] [2688](https://www.urionlinejudge.com.br/judge/pt/problems/view/2688) - Escolhendo um Lugar *Grafos*
   - [ ] [2689](https://www.urionlinejudge.com.br/judge/pt/problems/view/2689) - Jogo do Mião *Iniciante*
