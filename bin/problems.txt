@@ -1916,3 +1916,10 @@
 2933	Passeio de Trenó pela Terra	Grafos
 2934	Noel e Suas Renas	Paradigmas
 2935	DNA Élfico	Ad-Hoc
+2936	Quanta Mandioca?	Iniciante
+2937	Cobra Norato	Iniciante
+2938	Jaçanã	Iniciante
+2939	Casais	Iniciante
+2940	Máquina do Tempo Quebrada	Iniciante
+2941	Fibra Ótica	Iniciante
+2942	Mistura de Bits	Iniciante

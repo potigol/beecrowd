@@ -1,11 +1,10 @@
-# Iniciante (116 / 306)
+# Iniciante (118 / 313)
 
   - [ ] [1094](https://www.urionlinejudge.com.br/judge/pt/problems/view/1094) - Experiências
   - [ ] [1099](https://www.urionlinejudge.com.br/judge/pt/problems/view/1099) - Soma de Ímpares Consecutivos II
   - [ ] [1101](https://www.urionlinejudge.com.br/judge/pt/problems/view/1101) - Sequência de Números e Soma
   - [ ] [1118](https://www.urionlinejudge.com.br/judge/pt/problems/view/1118) - Várias Notas Com Validação
   - [ ] [1131](https://www.urionlinejudge.com.br/judge/pt/problems/view/1131) - Grenais
-  - [ ] [1132](https://www.urionlinejudge.com.br/judge/pt/problems/view/1132) - Múltiplos de 13
   - [ ] [1143](https://www.urionlinejudge.com.br/judge/pt/problems/view/1143) - Quadrado e ao Cubo
   - [ ] [1144](https://www.urionlinejudge.com.br/judge/pt/problems/view/1144) - Sequência Lógica
   - [ ] [1145](https://www.urionlinejudge.com.br/judge/pt/problems/view/1145) - Sequência Lógica 2
@@ -122,7 +121,6 @@
   - [ ] [2653](https://www.urionlinejudge.com.br/judge/pt/problems/view/2653) - Dijkstra
   - [ ] [2674](https://www.urionlinejudge.com.br/judge/pt/problems/view/2674) - Super Primos: Ativar!
   - [ ] [2684](https://www.urionlinejudge.com.br/judge/pt/problems/view/2684) - Ajude o Professor Webscript!!
-  - [ ] [2685](https://www.urionlinejudge.com.br/judge/pt/problems/view/2685) - A Mudança
   - [ ] [2686](https://www.urionlinejudge.com.br/judge/pt/problems/view/2686) - A Mudança Continua!!
   - [ ] [2687](https://www.urionlinejudge.com.br/judge/pt/problems/view/2687) - Dominação Bacteriana
   - [ ] [2689](https://www.urionlinejudge.com.br/judge/pt/problems/view/2689) - Jogo do Mião
@@ -190,6 +188,13 @@
   - [ ] [2863](https://www.urionlinejudge.com.br/judge/pt/problems/view/2863) - Umil Bolt
   - [ ] [2869](https://www.urionlinejudge.com.br/judge/pt/problems/view/2869) - Falando em Divisor...
   - [ ] [2930](https://www.urionlinejudge.com.br/judge/pt/problems/view/2930) - TCC da Depressão Natalino
+  - [ ] [2936](https://www.urionlinejudge.com.br/judge/pt/problems/view/2936) - Quanta Mandioca?
+  - [ ] [2937](https://www.urionlinejudge.com.br/judge/pt/problems/view/2937) - Cobra Norato
+  - [ ] [2938](https://www.urionlinejudge.com.br/judge/pt/problems/view/2938) - Jaçanã
+  - [ ] [2939](https://www.urionlinejudge.com.br/judge/pt/problems/view/2939) - Casais
+  - [ ] [2940](https://www.urionlinejudge.com.br/judge/pt/problems/view/2940) - Máquina do Tempo Quebrada
+  - [ ] [2941](https://www.urionlinejudge.com.br/judge/pt/problems/view/2941) - Fibra Ótica
+  - [ ] [2942](https://www.urionlinejudge.com.br/judge/pt/problems/view/2942) - Mistura de Bits
   - [x] [1001](https://www.urionlinejudge.com.br/judge/pt/problems/view/1001) - [Extremamente Básico](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1001.poti)
   - [x] [1002](https://www.urionlinejudge.com.br/judge/pt/problems/view/1002) - [Área do Círculo](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1002.poti)
   - [x] [1003](https://www.urionlinejudge.com.br/judge/pt/problems/view/1003) - [Soma Simples](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1003.poti)
@@ -253,6 +258,7 @@
   - [x] [1115](https://www.urionlinejudge.com.br/judge/pt/problems/view/1115) - [Quadrante](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1115.poti)
   - [x] [1116](https://www.urionlinejudge.com.br/judge/pt/problems/view/1116) - [Dividindo X por Y](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1116.poti)
   - [x] [1117](https://www.urionlinejudge.com.br/judge/pt/problems/view/1117) - [Validação de Nota](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1117.poti)
+  - [x] [1132](https://www.urionlinejudge.com.br/judge/pt/problems/view/1132) - [Múltiplos de 13](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1132.poti)
   - [x] [1133](https://www.urionlinejudge.com.br/judge/pt/problems/view/1133) - [Resto da Divisão](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1133.poti)
   - [x] [1134](https://www.urionlinejudge.com.br/judge/pt/problems/view/1134) - [Tipo de Combustível](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1134.poti)
   - [x] [1142](https://www.urionlinejudge.com.br/judge/pt/problems/view/1142) - [PUM](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1142.poti)
@@ -287,6 +293,7 @@
   - [x] [2582](https://www.urionlinejudge.com.br/judge/pt/problems/view/2582) - [System of a Download](https://github.com/potigol/URI-Potigol/blob/master/src/2501-2600/2582.poti)
   - [x] [2663](https://www.urionlinejudge.com.br/judge/pt/problems/view/2663) - [Fase](https://github.com/potigol/URI-Potigol/blob/master/src/2601-2700/2663.poti)
   - [x] [2670](https://www.urionlinejudge.com.br/judge/pt/problems/view/2670) - [Máquina de Café](https://github.com/potigol/URI-Potigol/blob/master/src/2601-2700/2670.poti)
+  - [x] [2685](https://www.urionlinejudge.com.br/judge/pt/problems/view/2685) - [A Mudança](https://github.com/potigol/URI-Potigol/blob/master/src/2601-2700/2685.poti)
   - [x] [2702](https://www.urionlinejudge.com.br/judge/pt/problems/view/2702) - [Escolha Difícil](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2702.poti)
   - [x] [2717](https://www.urionlinejudge.com.br/judge/pt/problems/view/2717) - [Tempo do Duende](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2717.poti)
   - [x] [2747](https://www.urionlinejudge.com.br/judge/pt/problems/view/2747) - [Saída 1](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2747.poti)
