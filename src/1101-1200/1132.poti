@@ -1,0 +1,7 @@
+a, b = leia_inteiro
+p = se a<b então 1 senão -1 fim
+var soma := 0
+para i de a até b passo p se i mod 13 <> 0 faça
+  soma := soma + i
+fim
+escreva soma

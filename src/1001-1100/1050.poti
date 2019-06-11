@@ -1,20 +1,13 @@
 ddd = leia_inteiro
-se ddd == 61
-	escreva "Brasilia"
-senaose ddd == 71
-	escreva "Salvador"
-senaose ddd == 11
-	escreva "Sao Paulo"
-senaose ddd == 21
-	escreva "Rio de Janeiro"
-senaose ddd == 32
-	escreva "Juiz de Fora"
-senaose ddd == 19
-	escreva "Campinas"
-senaose ddd == 27
-	escreva "Vitoria"
-senaose ddd == 31
-	escreva "Belo Horizonte"
-senao
-  	escreva "DDD nao cadastrado"
+cidade = escolha ddd
+  caso 61 => "Brasilia"
+  caso 71 => "Salvador"
+  caso 11 => "Sao Paulo"
+  caso 21 => "Rio de Janeiro"
+  caso 32 => "Juiz de Fora"
+  caso 19 => "Campinas"
+  caso 27 => "Vitoria"
+  caso 31 => "Belo Horizonte"
+  caso _  => "DDD nao cadastrado"
 fim
+escreva cidade
