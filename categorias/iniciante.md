@@ -1,9 +1,7 @@
-# Iniciante (114 / 306)
+# Iniciante (117 / 306)
 
-  - [ ] [1051](https://www.urionlinejudge.com.br/judge/pt/problems/view/1051) - Imposto de Renda
   - [ ] [1094](https://www.urionlinejudge.com.br/judge/pt/problems/view/1094) - Experiências
   - [ ] [1099](https://www.urionlinejudge.com.br/judge/pt/problems/view/1099) - Soma de Ímpares Consecutivos II
-  - [ ] [1117](https://www.urionlinejudge.com.br/judge/pt/problems/view/1117) - Validação de Nota
   - [ ] [1118](https://www.urionlinejudge.com.br/judge/pt/problems/view/1118) - Várias Notas Com Validação
   - [ ] [1131](https://www.urionlinejudge.com.br/judge/pt/problems/view/1131) - Grenais
   - [ ] [1132](https://www.urionlinejudge.com.br/judge/pt/problems/view/1132) - Múltiplos de 13
@@ -147,7 +145,6 @@
   - [ ] [2721](https://www.urionlinejudge.com.br/judge/pt/problems/view/2721) - Indecisão das Renas
   - [ ] [2724](https://www.urionlinejudge.com.br/judge/pt/problems/view/2724) - Ajude Patatatitu
   - [ ] [2727](https://www.urionlinejudge.com.br/judge/pt/problems/view/2727) - Código Secreto
-  - [ ] [2750](https://www.urionlinejudge.com.br/judge/pt/problems/view/2750) - Saída 4
   - [ ] [2751](https://www.urionlinejudge.com.br/judge/pt/problems/view/2751) - Saída 5
   - [ ] [2752](https://www.urionlinejudge.com.br/judge/pt/problems/view/2752) - Saída 6
   - [ ] [2753](https://www.urionlinejudge.com.br/judge/pt/problems/view/2753) - Saída 7
@@ -228,6 +225,7 @@
   - [x] [1048](https://www.urionlinejudge.com.br/judge/pt/problems/view/1048) - [Aumento de Salário](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1048.poti)
   - [x] [1049](https://www.urionlinejudge.com.br/judge/pt/problems/view/1049) - [Animal](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1049.poti)
   - [x] [1050](https://www.urionlinejudge.com.br/judge/pt/problems/view/1050) - [DDD](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1050.poti)
+  - [x] [1051](https://www.urionlinejudge.com.br/judge/pt/problems/view/1051) - [Imposto de Renda](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1051.poti)
   - [x] [1052](https://www.urionlinejudge.com.br/judge/pt/problems/view/1052) - [Mês](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1052.poti)
   - [x] [1059](https://www.urionlinejudge.com.br/judge/pt/problems/view/1059) - [Números Pares](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1059.poti)
   - [x] [1060](https://www.urionlinejudge.com.br/judge/pt/problems/view/1060) - [Números Positivos](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1060.poti)
@@ -254,6 +252,7 @@
   - [x] [1114](https://www.urionlinejudge.com.br/judge/pt/problems/view/1114) - [Senha Fixa](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1114.poti)
   - [x] [1115](https://www.urionlinejudge.com.br/judge/pt/problems/view/1115) - [Quadrante](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1115.poti)
   - [x] [1116](https://www.urionlinejudge.com.br/judge/pt/problems/view/1116) - [Dividindo X por Y](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1116.poti)
+  - [x] [1117](https://www.urionlinejudge.com.br/judge/pt/problems/view/1117) - [Validação de Nota](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1117.poti)
   - [x] [1133](https://www.urionlinejudge.com.br/judge/pt/problems/view/1133) - [Resto da Divisão](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1133.poti)
   - [x] [1134](https://www.urionlinejudge.com.br/judge/pt/problems/view/1134) - [Tipo de Combustível](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1134.poti)
   - [x] [1142](https://www.urionlinejudge.com.br/judge/pt/problems/view/1142) - [PUM](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1142.poti)
@@ -293,6 +292,7 @@
   - [x] [2747](https://www.urionlinejudge.com.br/judge/pt/problems/view/2747) - [Saída 1](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2747.poti)
   - [x] [2748](https://www.urionlinejudge.com.br/judge/pt/problems/view/2748) - [Saída 2](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2748.poti)
   - [x] [2749](https://www.urionlinejudge.com.br/judge/pt/problems/view/2749) - [Saída 3](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2749.poti)
+  - [x] [2750](https://www.urionlinejudge.com.br/judge/pt/problems/view/2750) - [Saída 4](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2750.poti)
   - [x] [2756](https://www.urionlinejudge.com.br/judge/pt/problems/view/2756) - [Saída 10](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2756.poti)
   - [x] [2757](https://www.urionlinejudge.com.br/judge/pt/problems/view/2757) - [Entrada e Saída de Números Inteiros](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2757.poti)
   - [x] [2760](https://www.urionlinejudge.com.br/judge/pt/problems/view/2760) - [Entrada e Saída de String](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2760.poti)

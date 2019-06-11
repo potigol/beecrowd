@@ -50,7 +50,7 @@
   - [x] [1048](https://www.urionlinejudge.com.br/judge/pt/problems/view/1048) - [Aumento de Salário](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1048.poti) *Iniciante*
   - [x] [1049](https://www.urionlinejudge.com.br/judge/pt/problems/view/1049) - [Animal](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1049.poti) *Iniciante*
   - [x] [1050](https://www.urionlinejudge.com.br/judge/pt/problems/view/1050) - [DDD](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1050.poti) *Iniciante*
-  - [ ] [1051](https://www.urionlinejudge.com.br/judge/pt/problems/view/1051) - Imposto de Renda *Iniciante*
+  - [x] [1051](https://www.urionlinejudge.com.br/judge/pt/problems/view/1051) - [Imposto de Renda](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1051.poti) *Iniciante*
   - [x] [1052](https://www.urionlinejudge.com.br/judge/pt/problems/view/1052) - [Mês](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1052.poti) *Iniciante*
   - [ ] [1053](https://www.urionlinejudge.com.br/judge/pt/problems/view/1053) - Desenho Contínuo *Grafos*
   - [ ] [1054](https://www.urionlinejudge.com.br/judge/pt/problems/view/1054) - Sapo Dinâmico *Paradigmas*

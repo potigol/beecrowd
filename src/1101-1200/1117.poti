@@ -1,0 +1,12 @@
+var soma := 0.0
+var válidas := 0
+enquanto válidas < 2 faça
+  n = leia_real
+  se n >= 0.0 e n <= 10.0 então
+    soma := soma + n
+    válidas := válidas + 1
+  senão
+    escreva "nota invalida"
+  fim
+fim
+escreva "media = {(soma / 2) formato "%.2f"}"
