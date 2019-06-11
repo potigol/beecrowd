@@ -1,9 +1,8 @@
-# Iniciante (113 / 306)
+# Iniciante (114 / 306)
 
   - [ ] [1051](https://www.urionlinejudge.com.br/judge/pt/problems/view/1051) - Imposto de Renda
   - [ ] [1094](https://www.urionlinejudge.com.br/judge/pt/problems/view/1094) - Experiências
   - [ ] [1099](https://www.urionlinejudge.com.br/judge/pt/problems/view/1099) - Soma de Ímpares Consecutivos II
-  - [ ] [1101](https://www.urionlinejudge.com.br/judge/pt/problems/view/1101) - Sequência de Números e Soma
   - [ ] [1117](https://www.urionlinejudge.com.br/judge/pt/problems/view/1117) - Validação de Nota
   - [ ] [1118](https://www.urionlinejudge.com.br/judge/pt/problems/view/1118) - Várias Notas Com Validação
   - [ ] [1131](https://www.urionlinejudge.com.br/judge/pt/problems/view/1131) - Grenais
@@ -250,6 +249,7 @@
   - [x] [1096](https://www.urionlinejudge.com.br/judge/pt/problems/view/1096) - [Sequencia IJ 2](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1096.poti)
   - [x] [1097](https://www.urionlinejudge.com.br/judge/pt/problems/view/1097) - [Sequencia IJ 3](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1097.poti)
   - [x] [1098](https://www.urionlinejudge.com.br/judge/pt/problems/view/1098) - [Sequencia IJ 4](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1098.poti)
+  - [x] [1101](https://www.urionlinejudge.com.br/judge/pt/problems/view/1101) - [Sequência de Números e Soma](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1101.poti)
   - [x] [1113](https://www.urionlinejudge.com.br/judge/pt/problems/view/1113) - [Crescente e Decrescente](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1113.poti)
   - [x] [1114](https://www.urionlinejudge.com.br/judge/pt/problems/view/1114) - [Senha Fixa](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1114.poti)
   - [x] [1115](https://www.urionlinejudge.com.br/judge/pt/problems/view/1115) - [Quadrante](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1115.poti)

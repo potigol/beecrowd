@@ -1,0 +1,12 @@
+var entrada := leia_inteiros(" ")
+enquanto entrada[1] > 0 e entrada[2] > 0 faça
+  a = se entrada[1] < entrada[2] então entrada[1] senão entrada[2] fim
+  b = se entrada[1] < entrada[2] então entrada[2] senão entrada[1] fim
+  var soma := 0
+  para i de a até b faça
+    imprima "{i} "
+    soma := soma + i
+  fim
+  escreva "Sum={soma}"
+  entrada := leia_inteiros(" ")
+fim
