@@ -1,0 +1,5 @@
+data = leia_texto.divida("/")
+dd, mm, aa = data[1], data[2], data[3]
+escreva "{mm}/{dd}/{aa}"
+escreva "{aa}/{mm}/{dd}"
+escreva "{dd}-{mm}-{aa}"

@@ -1,0 +1,17 @@
+n = leia_inteiro
+para i de 1 até n faça
+  placa = leia_texto.lista
+  se placa.tamanho <> 8 ou placa[4] <> '-' ou
+     placa.pegue(3).mapeie(a => a<'A' ou a >'Z').injete(falso)((a,b) => a ou b) ou
+     placa.descarte(4).mapeie(a => a<'0' ou a >'9').injete(falso)((a,b) => a ou b) então
+       escreva "FAILURE"
+  senão
+    ultimo = placa.descarte(7).junte("").inteiro 
+    se      ultimo==1 ou ultimo==2 então escreva "MONDAY"
+    senãose ultimo==3 ou ultimo==4 então escreva "TUESDAY"
+    senãose ultimo==5 ou ultimo==6 então escreva "WEDNESDAY"
+    senãose ultimo==7 ou ultimo==8 então escreva "THURSDAY"
+    senão                                escreva "FRIDAY"
+    fim
+  fim
+fim

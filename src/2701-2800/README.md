@@ -11,7 +11,7 @@
   - [ ] [2709](https://www.urionlinejudge.com.br/judge/pt/problems/view/2709) - As Moedas de Robbie *Iniciante*
   - [ ] [2710](https://www.urionlinejudge.com.br/judge/pt/problems/view/2710) - Jogo da Matriz *Iniciante*
   - [ ] [2711](https://www.urionlinejudge.com.br/judge/pt/problems/view/2711) - Destravando o Celular *Matemática*
-  - [ ] [2712](https://www.urionlinejudge.com.br/judge/pt/problems/view/2712) - Rodízio Veicular *Iniciante*
+  - [x] [2712](https://www.urionlinejudge.com.br/judge/pt/problems/view/2712) - [Rodízio Veicular](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2712.poti) *Iniciante*
   - [ ] [2713](https://www.urionlinejudge.com.br/judge/pt/problems/view/2713) - O Mago é Implacável! *Paradigmas*
   - [ ] [2714](https://www.urionlinejudge.com.br/judge/pt/problems/view/2714) - Minha Senha Provisória *Strings*
   - [ ] [2715](https://www.urionlinejudge.com.br/judge/pt/problems/view/2715) - Dividindo os Trabalhos I *Iniciante*
@@ -52,9 +52,9 @@
   - [x] [2750](https://www.urionlinejudge.com.br/judge/pt/problems/view/2750) - [Saída 4](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2750.poti) *Iniciante*
   - [ ] [2751](https://www.urionlinejudge.com.br/judge/pt/problems/view/2751) - Saída 5 *Iniciante*
   - [ ] [2752](https://www.urionlinejudge.com.br/judge/pt/problems/view/2752) - Saída 6 *Iniciante*
-  - [ ] [2753](https://www.urionlinejudge.com.br/judge/pt/problems/view/2753) - Saída 7 *Iniciante*
+  - [x] [2753](https://www.urionlinejudge.com.br/judge/pt/problems/view/2753) - [Saída 7](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2753.poti) *Iniciante*
   - [ ] [2754](https://www.urionlinejudge.com.br/judge/pt/problems/view/2754) - Saída 8 *Iniciante*
-  - [ ] [2755](https://www.urionlinejudge.com.br/judge/pt/problems/view/2755) - Saída 9 *Iniciante*
+  - [x] [2755](https://www.urionlinejudge.com.br/judge/pt/problems/view/2755) - [Saída 9](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2755.poti) *Iniciante*
   - [x] [2756](https://www.urionlinejudge.com.br/judge/pt/problems/view/2756) - [Saída 10](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2756.poti) *Iniciante*
   - [x] [2757](https://www.urionlinejudge.com.br/judge/pt/problems/view/2757) - [Entrada e Saída de Números Inteiros](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2757.poti) *Iniciante*
   - [ ] [2758](https://www.urionlinejudge.com.br/judge/pt/problems/view/2758) - Entrada e Saída de Números Reais *Iniciante*
@@ -62,10 +62,10 @@
   - [x] [2760](https://www.urionlinejudge.com.br/judge/pt/problems/view/2760) - [Entrada e Saída de String](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2760.poti) *Iniciante*
   - [ ] [2761](https://www.urionlinejudge.com.br/judge/pt/problems/view/2761) - Entrada e Saída de Vários Tipos *Iniciante*
   - [ ] [2762](https://www.urionlinejudge.com.br/judge/pt/problems/view/2762) - Entrada e Saída 6 *Iniciante*
-  - [ ] [2763](https://www.urionlinejudge.com.br/judge/pt/problems/view/2763) - Entrada e Saída CPF *Iniciante*
-  - [ ] [2764](https://www.urionlinejudge.com.br/judge/pt/problems/view/2764) - Entrada e Saída de Data *Iniciante*
+  - [x] [2763](https://www.urionlinejudge.com.br/judge/pt/problems/view/2763) - [Entrada e Saída CPF](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2763.poti) *Iniciante*
+  - [x] [2764](https://www.urionlinejudge.com.br/judge/pt/problems/view/2764) - [Entrada e Saída de Data](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2764.poti) *Iniciante*
   - [x] [2765](https://www.urionlinejudge.com.br/judge/pt/problems/view/2765) - [Entrada e Saída com Virgula](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2765.poti) *Iniciante*
-  - [ ] [2766](https://www.urionlinejudge.com.br/judge/pt/problems/view/2766) - Entrada e Saída Lendo e Pulando Nomes *Iniciante*
+  - [x] [2766](https://www.urionlinejudge.com.br/judge/pt/problems/view/2766) - [Entrada e Saída Lendo e Pulando Nomes](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2766.poti) *Iniciante*
   - [ ] [2767](https://www.urionlinejudge.com.br/judge/pt/problems/view/2767) - Festa *Matemática*
   - [ ] [2768](https://www.urionlinejudge.com.br/judge/pt/problems/view/2768) - Grafo do Dabriel *Grafos*
   - [ ] [2769](https://www.urionlinejudge.com.br/judge/pt/problems/view/2769) - Linha de Montagem *Iniciante*
