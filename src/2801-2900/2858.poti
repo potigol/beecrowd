@@ -1,0 +1,18 @@
+entrada = leia_inteiros(" ")
+dir, esq = entrada[1], entrada[2]
+
+var n := dir
+var cont := 1
+enquanto n > 1 ou n < -1 faça
+  se n >= esq - 1 então
+    n := n - esq
+  senão
+    n := n + dir
+  fim
+  cont := cont + 1
+fim
+se n==0 então
+  escreva "IMPOSSIVEL"
+senão
+  escreva cont
+fim

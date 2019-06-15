@@ -75,7 +75,7 @@
   - [x] [1173](https://www.urionlinejudge.com.br/judge/pt/problems/view/1173) - [Preenchimento de Vetor I](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1173.poti) *Iniciante*
   - [x] [1174](https://www.urionlinejudge.com.br/judge/pt/problems/view/1174) - [Seleçao em Vetor I](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1174.poti) *Iniciante*
   - [x] [1175](https://www.urionlinejudge.com.br/judge/pt/problems/view/1175) - [Troca em Vetor I](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1175.poti) *Iniciante*
-  - [ ] [1176](https://www.urionlinejudge.com.br/judge/pt/problems/view/1176) - Fibonacci em Vetor *Iniciante*
+  - [x] [1176](https://www.urionlinejudge.com.br/judge/pt/problems/view/1176) - [Fibonacci em Vetor](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1176.poti) *Iniciante*
   - [x] [1177](https://www.urionlinejudge.com.br/judge/pt/problems/view/1177) - [Preenchimento de Vetor II](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1177.poti) *Iniciante*
   - [x] [1178](https://www.urionlinejudge.com.br/judge/pt/problems/view/1178) - [Preenchimento de Vetor III](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1178.poti) *Iniciante*
   - [ ] [1179](https://www.urionlinejudge.com.br/judge/pt/problems/view/1179) - Preenchimento de Vetor IV *Iniciante*

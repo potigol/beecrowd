@@ -1,0 +1,11 @@
+n = leia_inteiro
+lista = leia_inteiros(" ")
+m2 = lista.selecione(x => x mod 2 == 0).tamanho
+m3 = lista.selecione(x => x mod 3 == 0).tamanho
+m4 = lista.selecione(x => x mod 4 == 0).tamanho
+m5 = lista.selecione(x => x mod 5 == 0).tamanho
+
+escreva "{m2} Multiplo(s) de 2"
+escreva "{m3} Multiplo(s) de 3"
+escreva "{m4} Multiplo(s) de 4"
+escreva "{m5} Multiplo(s) de 5"
