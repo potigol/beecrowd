@@ -59,7 +59,7 @@
   - [x] [1157](https://www.urionlinejudge.com.br/judge/pt/problems/view/1157) - [Divisores I](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1157.poti) *Iniciante*
   - [ ] [1158](https://www.urionlinejudge.com.br/judge/pt/problems/view/1158) - Soma de Ímpares Consecutivos III *Iniciante*
   - [x] [1159](https://www.urionlinejudge.com.br/judge/pt/problems/view/1159) - [Soma de Pares Consecutivos](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1159.poti) *Iniciante*
-  - [ ] [1160](https://www.urionlinejudge.com.br/judge/pt/problems/view/1160) - Crescimento Populacional *Iniciante*
+  - [x] [1160](https://www.urionlinejudge.com.br/judge/pt/problems/view/1160) - [Crescimento Populacional](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1160.poti) *Iniciante*
   - [ ] [1161](https://www.urionlinejudge.com.br/judge/pt/problems/view/1161) - Soma de Fatoriais *Matemática*
   - [ ] [1162](https://www.urionlinejudge.com.br/judge/pt/problems/view/1162) - Organizador de Vagões *Estruturas e Bibliotecas*
   - [ ] [1163](https://www.urionlinejudge.com.br/judge/pt/problems/view/1163) - Angry Ducks *Matemática*

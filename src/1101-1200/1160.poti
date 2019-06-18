@@ -1,0 +1,17 @@
+n = leia_inteiro
+para i de 1 até n faça
+  linha = leia_textos(" ")
+  var pa, pb := linha[1].inteiro, linha[2].inteiro
+  g1, g2 = 1 + linha[3].real/100, 1 + linha[4].real/100
+  var ano := 0
+  enquanto ano <= 100 e pa <= pb faça
+    ano := ano + 1
+    pa := (pa * g1).inteiro
+    pb := (pb * g2).inteiro
+  fim
+  se ano > 100 então
+    escreva "Mais de 1 seculo."
+  senão
+    escreva "{ano} anos."
+  fim
+fim
