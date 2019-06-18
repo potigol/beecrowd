@@ -1,0 +1,11 @@
+entrada = leia_texto
+a = entrada.pegue(3)
+b = entrada.descarte(4).pegue(3)
+c = entrada.descarte(8).pegue(3)
+d = entrada.descarte(12)
+
+escreva a
+escreva b
+escreva c
+escreva d
+

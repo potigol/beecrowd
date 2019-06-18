@@ -1,0 +1,5 @@
+nomes = leia_textos(10)
+escreva nomes[3]
+escreva nomes[7]
+escreva nomes[9]
+

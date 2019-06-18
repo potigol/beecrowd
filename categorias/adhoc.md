@@ -1,4 +1,4 @@
-# Ad-Hoc (29 / 633)
+# Ad-Hoc (30 / 633)
 
   - [ ] [1026](https://www.urionlinejudge.com.br/judge/pt/problems/view/1026) - Carrega ou não Carrega?
   - [ ] [1030](https://www.urionlinejudge.com.br/judge/pt/problems/view/1030) - A Lenda de Flavious Josephus
@@ -568,7 +568,6 @@
   - [ ] [2844](https://www.urionlinejudge.com.br/judge/pt/problems/view/2844) - Escrita Rápida, o Duelo
   - [ ] [2847](https://www.urionlinejudge.com.br/judge/pt/problems/view/2847) - Papel, Tesoura, I Love You!
   - [ ] [2853](https://www.urionlinejudge.com.br/judge/pt/problems/view/2853) - Invenções de Bibika
-  - [ ] [2858](https://www.urionlinejudge.com.br/judge/pt/problems/view/2858) - Tabuleiro Infinito
   - [ ] [2865](https://www.urionlinejudge.com.br/judge/pt/problems/view/2865) - Palíndromo Binário
   - [ ] [2868](https://www.urionlinejudge.com.br/judge/pt/problems/view/2868) - Errrou!
   - [ ] [2871](https://www.urionlinejudge.com.br/judge/pt/problems/view/2871) - Colheita de Café
@@ -633,3 +632,4 @@
   - [x] [2473](https://www.urionlinejudge.com.br/judge/pt/problems/view/2473) - [Loteria](https://github.com/potigol/URI-Potigol/blob/master/src/2401-2500/2473.poti)
   - [x] [2679](https://www.urionlinejudge.com.br/judge/pt/problems/view/2679) - [Sucessor Par](https://github.com/potigol/URI-Potigol/blob/master/src/2601-2700/2679.poti)
   - [x] [2851](https://www.urionlinejudge.com.br/judge/pt/problems/view/2851) - [Desafio de Rangel](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2851.poti)
+  - [x] [2858](https://www.urionlinejudge.com.br/judge/pt/problems/view/2858) - [Tabuleiro Infinito](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2858.poti)

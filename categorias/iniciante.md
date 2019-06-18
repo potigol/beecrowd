@@ -1,8 +1,7 @@
-# Iniciante (118 / 313)
+# Iniciante (126 / 313)
 
   - [ ] [1094](https://www.urionlinejudge.com.br/judge/pt/problems/view/1094) - Experiências
   - [ ] [1099](https://www.urionlinejudge.com.br/judge/pt/problems/view/1099) - Soma de Ímpares Consecutivos II
-  - [ ] [1101](https://www.urionlinejudge.com.br/judge/pt/problems/view/1101) - Sequência de Números e Soma
   - [ ] [1118](https://www.urionlinejudge.com.br/judge/pt/problems/view/1118) - Várias Notas Com Validação
   - [ ] [1131](https://www.urionlinejudge.com.br/judge/pt/problems/view/1131) - Grenais
   - [ ] [1143](https://www.urionlinejudge.com.br/judge/pt/problems/view/1143) - Quadrado e ao Cubo
@@ -16,7 +15,6 @@
   - [ ] [1156](https://www.urionlinejudge.com.br/judge/pt/problems/view/1156) - Sequência S II
   - [ ] [1158](https://www.urionlinejudge.com.br/judge/pt/problems/view/1158) - Soma de Ímpares Consecutivos III
   - [ ] [1164](https://www.urionlinejudge.com.br/judge/pt/problems/view/1164) - Número Perfeito
-  - [ ] [1176](https://www.urionlinejudge.com.br/judge/pt/problems/view/1176) - Fibonacci em Vetor
   - [ ] [1179](https://www.urionlinejudge.com.br/judge/pt/problems/view/1179) - Preenchimento de Vetor IV
   - [ ] [1182](https://www.urionlinejudge.com.br/judge/pt/problems/view/1182) - Coluna na Matriz
   - [ ] [1183](https://www.urionlinejudge.com.br/judge/pt/problems/view/1183) - Acima da Diagonal Principal
@@ -60,7 +58,6 @@
   - [ ] [2029](https://www.urionlinejudge.com.br/judge/pt/problems/view/2029) - Reservatório de Mel
   - [ ] [2031](https://www.urionlinejudge.com.br/judge/pt/problems/view/2031) - Pedra, Papel, Ataque Aéreo
   - [ ] [2057](https://www.urionlinejudge.com.br/judge/pt/problems/view/2057) - Fuso Horário
-  - [ ] [2060](https://www.urionlinejudge.com.br/judge/pt/problems/view/2060) - Desafio de Bino
   - [ ] [2061](https://www.urionlinejudge.com.br/judge/pt/problems/view/2061) - As Abas de Péricles
   - [ ] [2126](https://www.urionlinejudge.com.br/judge/pt/problems/view/2126) - Procurando Subsequências
   - [ ] [2139](https://www.urionlinejudge.com.br/judge/pt/problems/view/2139) - Natal de Pedrinho
@@ -137,7 +134,6 @@
   - [ ] [2708](https://www.urionlinejudge.com.br/judge/pt/problems/view/2708) - Turistas no Parque Huacachina
   - [ ] [2709](https://www.urionlinejudge.com.br/judge/pt/problems/view/2709) - As Moedas de Robbie
   - [ ] [2710](https://www.urionlinejudge.com.br/judge/pt/problems/view/2710) - Jogo da Matriz
-  - [ ] [2712](https://www.urionlinejudge.com.br/judge/pt/problems/view/2712) - Rodízio Veicular
   - [ ] [2715](https://www.urionlinejudge.com.br/judge/pt/problems/view/2715) - Dividindo os Trabalhos I
   - [ ] [2718](https://www.urionlinejudge.com.br/judge/pt/problems/view/2718) - Luzes de Natal
   - [ ] [2720](https://www.urionlinejudge.com.br/judge/pt/problems/view/2720) - Presentes Grandes
@@ -146,16 +142,11 @@
   - [ ] [2727](https://www.urionlinejudge.com.br/judge/pt/problems/view/2727) - Código Secreto
   - [ ] [2751](https://www.urionlinejudge.com.br/judge/pt/problems/view/2751) - Saída 5
   - [ ] [2752](https://www.urionlinejudge.com.br/judge/pt/problems/view/2752) - Saída 6
-  - [ ] [2753](https://www.urionlinejudge.com.br/judge/pt/problems/view/2753) - Saída 7
   - [ ] [2754](https://www.urionlinejudge.com.br/judge/pt/problems/view/2754) - Saída 8
-  - [ ] [2755](https://www.urionlinejudge.com.br/judge/pt/problems/view/2755) - Saída 9
   - [ ] [2758](https://www.urionlinejudge.com.br/judge/pt/problems/view/2758) - Entrada e Saída de Números Reais
   - [ ] [2759](https://www.urionlinejudge.com.br/judge/pt/problems/view/2759) - Entrada e Saída de Carácter
   - [ ] [2761](https://www.urionlinejudge.com.br/judge/pt/problems/view/2761) - Entrada e Saída de Vários Tipos
   - [ ] [2762](https://www.urionlinejudge.com.br/judge/pt/problems/view/2762) - Entrada e Saída 6
-  - [ ] [2763](https://www.urionlinejudge.com.br/judge/pt/problems/view/2763) - Entrada e Saída CPF
-  - [ ] [2764](https://www.urionlinejudge.com.br/judge/pt/problems/view/2764) - Entrada e Saída de Data
-  - [ ] [2766](https://www.urionlinejudge.com.br/judge/pt/problems/view/2766) - Entrada e Saída Lendo e Pulando Nomes
   - [ ] [2769](https://www.urionlinejudge.com.br/judge/pt/problems/view/2769) - Linha de Montagem
   - [ ] [2770](https://www.urionlinejudge.com.br/judge/pt/problems/view/2770) - Tamanho da Placa
   - [ ] [2772](https://www.urionlinejudge.com.br/judge/pt/problems/view/2772) - Plantação
@@ -253,6 +244,7 @@
   - [x] [1096](https://www.urionlinejudge.com.br/judge/pt/problems/view/1096) - [Sequencia IJ 2](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1096.poti)
   - [x] [1097](https://www.urionlinejudge.com.br/judge/pt/problems/view/1097) - [Sequencia IJ 3](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1097.poti)
   - [x] [1098](https://www.urionlinejudge.com.br/judge/pt/problems/view/1098) - [Sequencia IJ 4](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1098.poti)
+  - [x] [1101](https://www.urionlinejudge.com.br/judge/pt/problems/view/1101) - [Sequência de Números e Soma](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1101.poti)
   - [x] [1113](https://www.urionlinejudge.com.br/judge/pt/problems/view/1113) - [Crescente e Decrescente](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1113.poti)
   - [x] [1114](https://www.urionlinejudge.com.br/judge/pt/problems/view/1114) - [Senha Fixa](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1114.poti)
   - [x] [1115](https://www.urionlinejudge.com.br/judge/pt/problems/view/1115) - [Quadrante](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1115.poti)
@@ -272,6 +264,7 @@
   - [x] [1173](https://www.urionlinejudge.com.br/judge/pt/problems/view/1173) - [Preenchimento de Vetor I](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1173.poti)
   - [x] [1174](https://www.urionlinejudge.com.br/judge/pt/problems/view/1174) - [Seleçao em Vetor I](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1174.poti)
   - [x] [1175](https://www.urionlinejudge.com.br/judge/pt/problems/view/1175) - [Troca em Vetor I](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1175.poti)
+  - [x] [1176](https://www.urionlinejudge.com.br/judge/pt/problems/view/1176) - [Fibonacci em Vetor](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1176.poti)
   - [x] [1177](https://www.urionlinejudge.com.br/judge/pt/problems/view/1177) - [Preenchimento de Vetor II](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1177.poti)
   - [x] [1178](https://www.urionlinejudge.com.br/judge/pt/problems/view/1178) - [Preenchimento de Vetor III](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1178.poti)
   - [x] [1180](https://www.urionlinejudge.com.br/judge/pt/problems/view/1180) - [Menor e Posição](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1180.poti)
@@ -285,6 +278,7 @@
   - [x] [1963](https://www.urionlinejudge.com.br/judge/pt/problems/view/1963) - [O Filme](https://github.com/potigol/URI-Potigol/blob/master/src/1901-2000/1963.poti)
   - [x] [1984](https://www.urionlinejudge.com.br/judge/pt/problems/view/1984) - [O Enigma do Pronalândia](https://github.com/potigol/URI-Potigol/blob/master/src/1901-2000/1984.poti)
   - [x] [2059](https://www.urionlinejudge.com.br/judge/pt/problems/view/2059) - [Ímpar, Par ou Roubo](https://github.com/potigol/URI-Potigol/blob/master/src/2001-2100/2059.poti)
+  - [x] [2060](https://www.urionlinejudge.com.br/judge/pt/problems/view/2060) - [Desafio de Bino](https://github.com/potigol/URI-Potigol/blob/master/src/2001-2100/2060.poti)
   - [x] [2146](https://www.urionlinejudge.com.br/judge/pt/problems/view/2146) - [Senha](https://github.com/potigol/URI-Potigol/blob/master/src/2101-2200/2146.poti)
   - [x] [2161](https://www.urionlinejudge.com.br/judge/pt/problems/view/2161) - [Raiz Quadrada de 10](https://github.com/potigol/URI-Potigol/blob/master/src/2101-2200/2161.poti)
   - [x] [2234](https://www.urionlinejudge.com.br/judge/pt/problems/view/2234) - [Cachorros-Quentes](https://github.com/potigol/URI-Potigol/blob/master/src/2201-2300/2234.poti)
@@ -295,15 +289,21 @@
   - [x] [2663](https://www.urionlinejudge.com.br/judge/pt/problems/view/2663) - [Fase](https://github.com/potigol/URI-Potigol/blob/master/src/2601-2700/2663.poti)
   - [x] [2670](https://www.urionlinejudge.com.br/judge/pt/problems/view/2670) - [Máquina de Café](https://github.com/potigol/URI-Potigol/blob/master/src/2601-2700/2670.poti)
   - [x] [2702](https://www.urionlinejudge.com.br/judge/pt/problems/view/2702) - [Escolha Difícil](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2702.poti)
+  - [x] [2712](https://www.urionlinejudge.com.br/judge/pt/problems/view/2712) - [Rodízio Veicular](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2712.poti)
   - [x] [2717](https://www.urionlinejudge.com.br/judge/pt/problems/view/2717) - [Tempo do Duende](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2717.poti)
   - [x] [2747](https://www.urionlinejudge.com.br/judge/pt/problems/view/2747) - [Saída 1](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2747.poti)
   - [x] [2748](https://www.urionlinejudge.com.br/judge/pt/problems/view/2748) - [Saída 2](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2748.poti)
   - [x] [2749](https://www.urionlinejudge.com.br/judge/pt/problems/view/2749) - [Saída 3](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2749.poti)
   - [x] [2750](https://www.urionlinejudge.com.br/judge/pt/problems/view/2750) - [Saída 4](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2750.poti)
+  - [x] [2753](https://www.urionlinejudge.com.br/judge/pt/problems/view/2753) - [Saída 7](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2753.poti)
+  - [x] [2755](https://www.urionlinejudge.com.br/judge/pt/problems/view/2755) - [Saída 9](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2755.poti)
   - [x] [2756](https://www.urionlinejudge.com.br/judge/pt/problems/view/2756) - [Saída 10](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2756.poti)
   - [x] [2757](https://www.urionlinejudge.com.br/judge/pt/problems/view/2757) - [Entrada e Saída de Números Inteiros](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2757.poti)
   - [x] [2760](https://www.urionlinejudge.com.br/judge/pt/problems/view/2760) - [Entrada e Saída de String](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2760.poti)
+  - [x] [2763](https://www.urionlinejudge.com.br/judge/pt/problems/view/2763) - [Entrada e Saída CPF](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2763.poti)
+  - [x] [2764](https://www.urionlinejudge.com.br/judge/pt/problems/view/2764) - [Entrada e Saída de Data](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2764.poti)
   - [x] [2765](https://www.urionlinejudge.com.br/judge/pt/problems/view/2765) - [Entrada e Saída com Virgula](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2765.poti)
+  - [x] [2766](https://www.urionlinejudge.com.br/judge/pt/problems/view/2766) - [Entrada e Saída Lendo e Pulando Nomes](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2766.poti)
   - [x] [2780](https://www.urionlinejudge.com.br/judge/pt/problems/view/2780) - [Basquete de Robôs](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2780.poti)
   - [x] [2786](https://www.urionlinejudge.com.br/judge/pt/problems/view/2786) - [Piso da Escola](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2786.poti)
   - [x] [2787](https://www.urionlinejudge.com.br/judge/pt/problems/view/2787) - [Xadrez](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2787.poti)
