@@ -1,19 +1,20 @@
-# escreva "Informe o grau de inclinação da Terra (0 até 360 graus)"
-var grau := leia_real
+var entrada := leia_texto
 nulo = None.orNull
 
-enquanto grau <> nulo faça
-  se grau >= 0 e grau < 90 ou grau <= 360 e grau > 270 então
+enquanto entrada <> nulo faça
+  grau = entrada.real mod 360
+  se grau < 90 então
       escreva "Bom Dia!!"
 
-  senãose grau == 90 então
+  senãose grau < 180 então
       escreva "Boa Tarde!!"
 
-  senãose grau == 270 então
-      escreva "De Madrugada!!"
-
-  senãose grau > 90 e grau < 270 então
+  senãose grau < 270 então
       escreva "Boa Noite!!"
+
+  senão
+      escreva "De Madrugada!!"
   fim
-  grau := leia_real
+  entrada := leia_texto
 fim
+

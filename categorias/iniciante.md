@@ -1,4 +1,4 @@
-# Iniciante (128 / 313)
+# Iniciante (130 / 313)
 
   - [ ] [1094](https://www.urionlinejudge.com.br/judge/pt/problems/view/1094) - Experiências
   - [ ] [1099](https://www.urionlinejudge.com.br/judge/pt/problems/view/1099) - Soma de Ímpares Consecutivos II
@@ -116,8 +116,6 @@
   - [ ] [2653](https://www.urionlinejudge.com.br/judge/pt/problems/view/2653) - Dijkstra
   - [ ] [2674](https://www.urionlinejudge.com.br/judge/pt/problems/view/2674) - Super Primos: Ativar!
   - [ ] [2684](https://www.urionlinejudge.com.br/judge/pt/problems/view/2684) - Ajude o Professor Webscript!!
-  - [ ] [2685](https://www.urionlinejudge.com.br/judge/pt/problems/view/2685) - A Mudança
-  - [ ] [2686](https://www.urionlinejudge.com.br/judge/pt/problems/view/2686) - A Mudança Continua!!
   - [ ] [2687](https://www.urionlinejudge.com.br/judge/pt/problems/view/2687) - Dominação Bacteriana
   - [ ] [2689](https://www.urionlinejudge.com.br/judge/pt/problems/view/2689) - Jogo do Mião
   - [ ] [2690](https://www.urionlinejudge.com.br/judge/pt/problems/view/2690) - Nova Senha RA
@@ -288,6 +286,8 @@
   - [x] [2582](https://www.urionlinejudge.com.br/judge/pt/problems/view/2582) - [System of a Download](https://github.com/potigol/URI-Potigol/blob/master/src/2501-2600/2582.poti)
   - [x] [2663](https://www.urionlinejudge.com.br/judge/pt/problems/view/2663) - [Fase](https://github.com/potigol/URI-Potigol/blob/master/src/2601-2700/2663.poti)
   - [x] [2670](https://www.urionlinejudge.com.br/judge/pt/problems/view/2670) - [Máquina de Café](https://github.com/potigol/URI-Potigol/blob/master/src/2601-2700/2670.poti)
+  - [x] [2685](https://www.urionlinejudge.com.br/judge/pt/problems/view/2685) - [A Mudança](https://github.com/potigol/URI-Potigol/blob/master/src/2601-2700/2685.poti)
+  - [x] [2686](https://www.urionlinejudge.com.br/judge/pt/problems/view/2686) - [A Mudança Continua!!](https://github.com/potigol/URI-Potigol/blob/master/src/2601-2700/2686.poti)
   - [x] [2702](https://www.urionlinejudge.com.br/judge/pt/problems/view/2702) - [Escolha Difícil](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2702.poti)
   - [x] [2712](https://www.urionlinejudge.com.br/judge/pt/problems/view/2712) - [Rodízio Veicular](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2712.poti)
   - [x] [2717](https://www.urionlinejudge.com.br/judge/pt/problems/view/2717) - [Tempo do Duende](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2717.poti)
