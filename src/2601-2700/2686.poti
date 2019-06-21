@@ -22,4 +22,3 @@ enquanto entrada <> nulo faça
   escreva "{horas formato "%02d"}:{minutos formato "%02d"}:{segundos formato "%02d"}"
   entrada := leia_texto
 fim
-

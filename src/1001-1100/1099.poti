@@ -1,0 +1,14 @@
+n = leia_inteiro
+para i de 1 até n faça
+  entrada = leia_inteiros(" ").ordene
+  a = entrada[1]
+  b = entrada[2]
+  x = se a mod 2 == 0 então a + 1 senão a + 2 fim
+  y = se b mod 2 == 0 então b - 1 senão b - 2 fim
+  se x > y então
+    escreva 0
+  senão
+    soma = ((y - x + 2) * (x + y)) div 4
+    escreva soma
+  fim
+fim

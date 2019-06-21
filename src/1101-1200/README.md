@@ -44,7 +44,7 @@
   - [x] [1142](https://www.urionlinejudge.com.br/judge/pt/problems/view/1142) - [PUM](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1142.poti) *Iniciante*
   - [ ] [1143](https://www.urionlinejudge.com.br/judge/pt/problems/view/1143) - Quadrado e ao Cubo *Iniciante*
   - [ ] [1144](https://www.urionlinejudge.com.br/judge/pt/problems/view/1144) - Sequência Lógica *Iniciante*
-  - [ ] [1145](https://www.urionlinejudge.com.br/judge/pt/problems/view/1145) - Sequência Lógica 2 *Iniciante*
+  - [x] [1145](https://www.urionlinejudge.com.br/judge/pt/problems/view/1145) - [Sequência Lógica 2](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1145.poti) *Iniciante*
   - [x] [1146](https://www.urionlinejudge.com.br/judge/pt/problems/view/1146) - [Sequências Crescentes](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1146.poti) *Iniciante*
   - [ ] [1147](https://www.urionlinejudge.com.br/judge/pt/problems/view/1147) - Fuga do Cavalo *Ad-Hoc*
   - [ ] [1148](https://www.urionlinejudge.com.br/judge/pt/problems/view/1148) - Países em Guerra *Grafos*

@@ -1,0 +1,12 @@
+entrada = leia_inteiros(" ")
+x = entrada[1]
+y = entrada[2]
+
+para i de 1 até y faça
+  imprima i
+  se i mod x == 0 ou i == y então
+    escreva ""
+  senão
+    imprima " "
+  fim
+fim

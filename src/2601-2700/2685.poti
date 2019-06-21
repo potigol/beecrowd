@@ -17,4 +17,3 @@ enquanto entrada <> nulo faça
   fim
   entrada := leia_texto
 fim
-
