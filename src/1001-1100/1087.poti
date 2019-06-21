@@ -1,0 +1,13 @@
+var in := leia_inteiros(" ")
+enquanto in[1] <> 0 faça
+  dx = (in[1] - in[3]).abs
+  dy = (in[2] - in[4]).abs
+  se dx == 0 e dy == 0 então
+    escreva 0
+  senãose dx == dy ou dx == 0 ou dy == 0 então
+    escreva 1
+  senão
+    escreva 2
+  fim
+  in := leia_inteiros(" ")
+fim

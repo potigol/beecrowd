@@ -370,10 +370,10 @@
 
 ### 1ª Fase
 
-  - [ ] [1084](https://www.urionlinejudge.com.br/judge/pt/problems/view/1084) - Apagando e Ganhando *Paradigmas*
+  - [x] [1084](https://www.urionlinejudge.com.br/judge/pt/problems/view/1084) - [Apagando e Ganhando](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1084.poti) *Paradigmas*
   - [ ] [1085](https://www.urionlinejudge.com.br/judge/pt/problems/view/1085) - Babel *Grafos*
   - [ ] [1086](https://www.urionlinejudge.com.br/judge/pt/problems/view/1086) - O Salão do Clube *Ad-Hoc*
-  - [ ] [1087](https://www.urionlinejudge.com.br/judge/pt/problems/view/1087) - Dama *Ad-Hoc*
+  - [x] [1087](https://www.urionlinejudge.com.br/judge/pt/problems/view/1087) - [Dama](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1087.poti) *Ad-Hoc*
   - [ ] [1088](https://www.urionlinejudge.com.br/judge/pt/problems/view/1088) - Bolhas e Baldes *Estruturas e Bibliotecas*
   - [ ] [1089](https://www.urionlinejudge.com.br/judge/pt/problems/view/1089) - Loop Musical *Ad-Hoc*
   - [ ] [1090](https://www.urionlinejudge.com.br/judge/pt/problems/view/1090) - Set *Ad-Hoc*

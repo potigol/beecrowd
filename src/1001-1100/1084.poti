@@ -1,0 +1,16 @@
+var entrada := leia_inteiros(" ")
+enquanto entrada <> [0, 0] faça
+  var d := entrada[2]
+  linha = leia_texto
+  var s := ['a']
+  para i de 1 até linha.tamanho faça
+    enquanto d > 0 e s.cabeça < linha[i] faça
+      s := s.cauda
+      d := d - 1
+    fim
+    s := linha[i] :: s
+  fim
+  s := s.descarte(d)
+  escreva s.inverta.descarte(1).junte("")
+  entrada := leia_inteiros(" ")
+fim

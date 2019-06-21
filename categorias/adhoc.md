@@ -1,11 +1,10 @@
-# Ad-Hoc (30 / 633)
+# Ad-Hoc (31 / 633)
 
   - [ ] [1026](https://www.urionlinejudge.com.br/judge/pt/problems/view/1026) - Carrega ou não Carrega?
   - [ ] [1030](https://www.urionlinejudge.com.br/judge/pt/problems/view/1030) - A Lenda de Flavious Josephus
   - [ ] [1031](https://www.urionlinejudge.com.br/judge/pt/problems/view/1031) - Crise de Energia
   - [ ] [1032](https://www.urionlinejudge.com.br/judge/pt/problems/view/1032) - O Primo de Josephus
   - [ ] [1086](https://www.urionlinejudge.com.br/judge/pt/problems/view/1086) - O Salão do Clube
-  - [ ] [1087](https://www.urionlinejudge.com.br/judge/pt/problems/view/1087) - Dama
   - [ ] [1089](https://www.urionlinejudge.com.br/judge/pt/problems/view/1089) - Loop Musical
   - [ ] [1090](https://www.urionlinejudge.com.br/judge/pt/problems/view/1090) - Set
   - [ ] [1091](https://www.urionlinejudge.com.br/judge/pt/problems/view/1091) - Divisão da Nlogônia
@@ -603,6 +602,7 @@
   - [ ] [2928](https://www.urionlinejudge.com.br/judge/pt/problems/view/2928) - Cruzando Lagos
   - [ ] [2931](https://www.urionlinejudge.com.br/judge/pt/problems/view/2931) - Presentes Suspeitos
   - [ ] [2935](https://www.urionlinejudge.com.br/judge/pt/problems/view/2935) - DNA Élfico
+  - [x] [1087](https://www.urionlinejudge.com.br/judge/pt/problems/view/1087) - [Dama](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1087.poti)
   - [x] [1103](https://www.urionlinejudge.com.br/judge/pt/problems/view/1103) - [Alarme Despertador](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1103.poti)
   - [x] [1171](https://www.urionlinejudge.com.br/judge/pt/problems/view/1171) - [Frequência de Números](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1171.poti)
   - [x] [1441](https://www.urionlinejudge.com.br/judge/pt/problems/view/1441) - [Sequências de Granizo](https://github.com/potigol/URI-Potigol/blob/master/src/1401-1500/1441.poti)
