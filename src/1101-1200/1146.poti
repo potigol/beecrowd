@@ -1,0 +1,6 @@
+lista = para i de 1 até 10000 gere i fim
+var n := leia_inteiro
+enquanto n <> 0 faça
+  escreva lista.pegue(n).junte(" ")
+  n := leia_inteiro
+fim

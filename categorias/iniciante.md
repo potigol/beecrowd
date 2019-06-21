@@ -1,4 +1,4 @@
-# Iniciante (126 / 313)
+# Iniciante (128 / 313)
 
   - [ ] [1094](https://www.urionlinejudge.com.br/judge/pt/problems/view/1094) - Experiências
   - [ ] [1099](https://www.urionlinejudge.com.br/judge/pt/problems/view/1099) - Soma de Ímpares Consecutivos II
@@ -7,7 +7,6 @@
   - [ ] [1143](https://www.urionlinejudge.com.br/judge/pt/problems/view/1143) - Quadrado e ao Cubo
   - [ ] [1144](https://www.urionlinejudge.com.br/judge/pt/problems/view/1144) - Sequência Lógica
   - [ ] [1145](https://www.urionlinejudge.com.br/judge/pt/problems/view/1145) - Sequência Lógica 2
-  - [ ] [1146](https://www.urionlinejudge.com.br/judge/pt/problems/view/1146) - Sequências Crescentes
   - [ ] [1149](https://www.urionlinejudge.com.br/judge/pt/problems/view/1149) - Somando Inteiros Consecutivos
   - [ ] [1150](https://www.urionlinejudge.com.br/judge/pt/problems/view/1150) - Ultrapassando Z
   - [ ] [1154](https://www.urionlinejudge.com.br/judge/pt/problems/view/1154) - Idades
@@ -254,6 +253,7 @@
   - [x] [1133](https://www.urionlinejudge.com.br/judge/pt/problems/view/1133) - [Resto da Divisão](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1133.poti)
   - [x] [1134](https://www.urionlinejudge.com.br/judge/pt/problems/view/1134) - [Tipo de Combustível](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1134.poti)
   - [x] [1142](https://www.urionlinejudge.com.br/judge/pt/problems/view/1142) - [PUM](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1142.poti)
+  - [x] [1146](https://www.urionlinejudge.com.br/judge/pt/problems/view/1146) - [Sequências Crescentes](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1146.poti)
   - [x] [1151](https://www.urionlinejudge.com.br/judge/pt/problems/view/1151) - [Fibonacci Fácil](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1151.poti)
   - [x] [1153](https://www.urionlinejudge.com.br/judge/pt/problems/view/1153) - [Fatorial Simples](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1153.poti)
   - [x] [1157](https://www.urionlinejudge.com.br/judge/pt/problems/view/1157) - [Divisores I](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1157.poti)
