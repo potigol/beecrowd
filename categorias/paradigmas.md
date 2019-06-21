@@ -1,4 +1,4 @@
-# Paradigmas (1 / 188)
+# Paradigmas (2 / 188)
 
   - [ ] [1027](https://www.urionlinejudge.com.br/judge/pt/problems/view/1027) - Onda Crítica
   - [ ] [1033](https://www.urionlinejudge.com.br/judge/pt/problems/view/1033) - Quantas Chamadas Recursivas?
@@ -6,7 +6,6 @@
   - [ ] [1054](https://www.urionlinejudge.com.br/judge/pt/problems/view/1054) - Sapo Dinâmico
   - [ ] [1055](https://www.urionlinejudge.com.br/judge/pt/problems/view/1055) - Soma Permutada Elegante
   - [ ] [1058](https://www.urionlinejudge.com.br/judge/pt/problems/view/1058) - Zonas de Ataque Independentes
-  - [ ] [1084](https://www.urionlinejudge.com.br/judge/pt/problems/view/1084) - Apagando e Ganhando
   - [ ] [1106](https://www.urionlinejudge.com.br/judge/pt/problems/view/1106) - Dragster
   - [ ] [1166](https://www.urionlinejudge.com.br/judge/pt/problems/view/1166) - Torre de Hanoi, Novamente!
   - [ ] [1203](https://www.urionlinejudge.com.br/judge/pt/problems/view/1203) - Pontes de São Petersburgo
@@ -188,3 +187,4 @@
   - [ ] [2932](https://www.urionlinejudge.com.br/judge/pt/problems/view/2932) - Renas do Papai Noel
   - [ ] [2934](https://www.urionlinejudge.com.br/judge/pt/problems/view/2934) - Noel e Suas Renas
   - [x] [1029](https://www.urionlinejudge.com.br/judge/pt/problems/view/1029) - [Fibonacci, Quantas Chamadas?](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1029.poti)
+  - [x] [1084](https://www.urionlinejudge.com.br/judge/pt/problems/view/1084) - [Apagando e Ganhando](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1084.poti)
