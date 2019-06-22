@@ -42,12 +42,12 @@
   - [ ] [2940](https://www.urionlinejudge.com.br/judge/pt/problems/view/2940) - Máquina do Tempo Quebrada *Iniciante*
   - [ ] [2941](https://www.urionlinejudge.com.br/judge/pt/problems/view/2941) - Fibra Ótica *Iniciante*
   - [ ] [2942](https://www.urionlinejudge.com.br/judge/pt/problems/view/2942) - Mistura de Bits *Iniciante*
-  - [ ] ~~2943~~
-  - [ ] ~~2944~~
-  - [ ] ~~2945~~
-  - [ ] ~~2946~~
-  - [ ] ~~2947~~
-  - [ ] ~~2948~~
+  - [ ] [2943](https://www.urionlinejudge.com.br/judge/pt/problems/view/2943) - Smider Pan *Ad-Hoc*
+  - [ ] [2944](https://www.urionlinejudge.com.br/judge/pt/problems/view/2944) - Emergência em Manaus *Ad-Hoc*
+  - [ ] [2945](https://www.urionlinejudge.com.br/judge/pt/problems/view/2945) - Monitor *Ad-Hoc*
+  - [ ] [2946](https://www.urionlinejudge.com.br/judge/pt/problems/view/2946) - Dabriel e a Divisibilidade *Ad-Hoc*
+  - [ ] [2947](https://www.urionlinejudge.com.br/judge/pt/problems/view/2947) - Gabarito *Ad-Hoc*
+  - [ ] [2948](https://www.urionlinejudge.com.br/judge/pt/problems/view/2948) - Plantação de Açaí *Ad-Hoc*
   - [ ] ~~2949~~
   - [ ] ~~2950~~
   - [ ] ~~2951~~

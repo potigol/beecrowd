@@ -1,4 +1,4 @@
-# Ad-Hoc (31 / 633)
+# Ad-Hoc (31 / 639)
 
   - [ ] [1026](https://www.urionlinejudge.com.br/judge/pt/problems/view/1026) - Carrega ou não Carrega?
   - [ ] [1030](https://www.urionlinejudge.com.br/judge/pt/problems/view/1030) - A Lenda de Flavious Josephus
@@ -602,6 +602,12 @@
   - [ ] [2928](https://www.urionlinejudge.com.br/judge/pt/problems/view/2928) - Cruzando Lagos
   - [ ] [2931](https://www.urionlinejudge.com.br/judge/pt/problems/view/2931) - Presentes Suspeitos
   - [ ] [2935](https://www.urionlinejudge.com.br/judge/pt/problems/view/2935) - DNA Élfico
+  - [ ] [2943](https://www.urionlinejudge.com.br/judge/pt/problems/view/2943) - Smider Pan
+  - [ ] [2944](https://www.urionlinejudge.com.br/judge/pt/problems/view/2944) - Emergência em Manaus
+  - [ ] [2945](https://www.urionlinejudge.com.br/judge/pt/problems/view/2945) - Monitor
+  - [ ] [2946](https://www.urionlinejudge.com.br/judge/pt/problems/view/2946) - Dabriel e a Divisibilidade
+  - [ ] [2947](https://www.urionlinejudge.com.br/judge/pt/problems/view/2947) - Gabarito
+  - [ ] [2948](https://www.urionlinejudge.com.br/judge/pt/problems/view/2948) - Plantação de Açaí
   - [x] [1087](https://www.urionlinejudge.com.br/judge/pt/problems/view/1087) - [Dama](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1087.poti)
   - [x] [1103](https://www.urionlinejudge.com.br/judge/pt/problems/view/1103) - [Alarme Despertador](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1103.poti)
   - [x] [1171](https://www.urionlinejudge.com.br/judge/pt/problems/view/1171) - [Frequência de Números](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1171.poti)
