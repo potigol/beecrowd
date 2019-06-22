@@ -1,0 +1,19 @@
+var resposta := "1"
+enquanto resposta == "1" faça
+  var n1, n2 := leia_real
+  enquanto n1<0 ou n1>10 faça
+    escreva "nota invalida"
+    n1 := leia_real
+  fim
+  enquanto n2<0 ou n2>10 faça
+    escreva "nota invalida"
+    n2 := leia_real
+  fim
+  escreva "media = {(n1 + n2) / 2 formato "%.2f"}"
+
+  resposta := ""
+  enquanto resposta <> "1" e resposta <> "2" faça
+    escreva "novo calculo (1-sim 2-nao)"
+    resposta := leia_texto
+  fim
+fim

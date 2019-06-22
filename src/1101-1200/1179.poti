@@ -1,0 +1,26 @@
+esvaziar(a: Lista[Inteiro], nome: Texto)
+  l = a.inverta
+  para i de 1 até l.tamanho faça
+    escreva "{nome}[{i-1}] = {l[i]}"
+  fim
+fim
+
+num = leia_inteiros(15)
+var par, impar = [0].cauda
+para n em num faça
+  se n mod 2 == 0 então
+    par := n :: par
+  senão
+    impar := n :: impar
+  fim
+  se par.tamanho >= 5 então
+    esvaziar(par, "par")
+    par := [0].cauda
+  fim
+  se impar.tamanho >= 5 então
+    esvaziar(impar, "impar")
+    impar := [0].cauda
+  fim
+fim
+esvaziar(impar, "impar")
+esvaziar(par, "par")

@@ -1,0 +1,20 @@
+n = leia_inteiro
+var coelhos, sapos, ratos := 0
+para i de 1 até n faça
+  entrada = leia_textos(" ")
+  qtd = entrada[1].inteiro
+  tpo = entrada[2]
+  escolha tpo
+    caso "C" => coelhos := coelhos + qtd
+    caso "S" => sapos   := sapos   + qtd
+    caso "R" => ratos   := ratos   + qtd
+  fim
+fim
+cobaias = coelhos + sapos + ratos
+escreva "Total: {cobaias} cobaias"
+escreva "Total de coelhos: {coelhos}"
+escreva "Total de ratos: {ratos}"
+escreva "Total de sapos: {sapos}"
+escreva "Percentual de coelhos: {coelhos * 100 / cobaias formato "%.2f"} %"
+escreva "Percentual de ratos: {ratos * 100 / cobaias formato "%.2f"} %"
+escreva "Percentual de sapos: {sapos * 100 / cobaias formato "%.2f"} %"

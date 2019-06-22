@@ -1,9 +1,5 @@
-# Iniciante (132 / 313)
+# Iniciante (139 / 313)
 
-  - [ ] [1094](https://www.urionlinejudge.com.br/judge/pt/problems/view/1094) - Experiências
-  - [ ] [1118](https://www.urionlinejudge.com.br/judge/pt/problems/view/1118) - Várias Notas Com Validação
-  - [ ] [1131](https://www.urionlinejudge.com.br/judge/pt/problems/view/1131) - Grenais
-  - [ ] [1143](https://www.urionlinejudge.com.br/judge/pt/problems/view/1143) - Quadrado e ao Cubo
   - [ ] [1144](https://www.urionlinejudge.com.br/judge/pt/problems/view/1144) - Sequência Lógica
   - [ ] [1149](https://www.urionlinejudge.com.br/judge/pt/problems/view/1149) - Somando Inteiros Consecutivos
   - [ ] [1150](https://www.urionlinejudge.com.br/judge/pt/problems/view/1150) - Ultrapassando Z
@@ -12,8 +8,6 @@
   - [ ] [1156](https://www.urionlinejudge.com.br/judge/pt/problems/view/1156) - Sequência S II
   - [ ] [1158](https://www.urionlinejudge.com.br/judge/pt/problems/view/1158) - Soma de Ímpares Consecutivos III
   - [ ] [1164](https://www.urionlinejudge.com.br/judge/pt/problems/view/1164) - Número Perfeito
-  - [ ] [1179](https://www.urionlinejudge.com.br/judge/pt/problems/view/1179) - Preenchimento de Vetor IV
-  - [ ] [1182](https://www.urionlinejudge.com.br/judge/pt/problems/view/1182) - Coluna na Matriz
   - [ ] [1183](https://www.urionlinejudge.com.br/judge/pt/problems/view/1183) - Acima da Diagonal Principal
   - [ ] [1184](https://www.urionlinejudge.com.br/judge/pt/problems/view/1184) - Abaixo da Diagonal Principal
   - [ ] [1185](https://www.urionlinejudge.com.br/judge/pt/problems/view/1185) - Acima da Diagonal Secundária
@@ -40,7 +34,6 @@
   - [ ] [1866](https://www.urionlinejudge.com.br/judge/pt/problems/view/1866) - Conta
   - [ ] [1914](https://www.urionlinejudge.com.br/judge/pt/problems/view/1914) - De Quem é a Vez?
   - [ ] [1921](https://www.urionlinejudge.com.br/judge/pt/problems/view/1921) - Guilherme e Suas Pipas
-  - [ ] [1924](https://www.urionlinejudge.com.br/judge/pt/problems/view/1924) - Vitória e a Indecisão
   - [ ] [1933](https://www.urionlinejudge.com.br/judge/pt/problems/view/1933) - Tri-du
   - [ ] [1957](https://www.urionlinejudge.com.br/judge/pt/problems/view/1957) - Converter para Hexadecimal
   - [ ] [1958](https://www.urionlinejudge.com.br/judge/pt/problems/view/1958) - Notação Científica
@@ -235,6 +228,7 @@
   - [x] [1078](https://www.urionlinejudge.com.br/judge/pt/problems/view/1078) - [Tabuada](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1078.poti)
   - [x] [1079](https://www.urionlinejudge.com.br/judge/pt/problems/view/1079) - [Médias Ponderadas](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1079.poti)
   - [x] [1080](https://www.urionlinejudge.com.br/judge/pt/problems/view/1080) - [Maior e Posição](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1080.poti)
+  - [x] [1094](https://www.urionlinejudge.com.br/judge/pt/problems/view/1094) - [Experiências](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1094.poti)
   - [x] [1095](https://www.urionlinejudge.com.br/judge/pt/problems/view/1095) - [Sequencia IJ 1](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1095.poti)
   - [x] [1096](https://www.urionlinejudge.com.br/judge/pt/problems/view/1096) - [Sequencia IJ 2](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1096.poti)
   - [x] [1097](https://www.urionlinejudge.com.br/judge/pt/problems/view/1097) - [Sequencia IJ 3](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1097.poti)
@@ -246,10 +240,13 @@
   - [x] [1115](https://www.urionlinejudge.com.br/judge/pt/problems/view/1115) - [Quadrante](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1115.poti)
   - [x] [1116](https://www.urionlinejudge.com.br/judge/pt/problems/view/1116) - [Dividindo X por Y](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1116.poti)
   - [x] [1117](https://www.urionlinejudge.com.br/judge/pt/problems/view/1117) - [Validação de Nota](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1117.poti)
+  - [x] [1118](https://www.urionlinejudge.com.br/judge/pt/problems/view/1118) - [Várias Notas Com Validação](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1118.poti)
+  - [x] [1131](https://www.urionlinejudge.com.br/judge/pt/problems/view/1131) - [Grenais](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1131.poti)
   - [x] [1132](https://www.urionlinejudge.com.br/judge/pt/problems/view/1132) - [Múltiplos de 13](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1132.poti)
   - [x] [1133](https://www.urionlinejudge.com.br/judge/pt/problems/view/1133) - [Resto da Divisão](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1133.poti)
   - [x] [1134](https://www.urionlinejudge.com.br/judge/pt/problems/view/1134) - [Tipo de Combustível](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1134.poti)
   - [x] [1142](https://www.urionlinejudge.com.br/judge/pt/problems/view/1142) - [PUM](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1142.poti)
+  - [x] [1143](https://www.urionlinejudge.com.br/judge/pt/problems/view/1143) - [Quadrado e ao Cubo](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1143.poti)
   - [x] [1145](https://www.urionlinejudge.com.br/judge/pt/problems/view/1145) - [Sequência Lógica 2](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1145.poti)
   - [x] [1146](https://www.urionlinejudge.com.br/judge/pt/problems/view/1146) - [Sequências Crescentes](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1146.poti)
   - [x] [1151](https://www.urionlinejudge.com.br/judge/pt/problems/view/1151) - [Fibonacci Fácil](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1151.poti)
@@ -265,10 +262,13 @@
   - [x] [1176](https://www.urionlinejudge.com.br/judge/pt/problems/view/1176) - [Fibonacci em Vetor](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1176.poti)
   - [x] [1177](https://www.urionlinejudge.com.br/judge/pt/problems/view/1177) - [Preenchimento de Vetor II](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1177.poti)
   - [x] [1178](https://www.urionlinejudge.com.br/judge/pt/problems/view/1178) - [Preenchimento de Vetor III](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1178.poti)
+  - [x] [1179](https://www.urionlinejudge.com.br/judge/pt/problems/view/1179) - [Preenchimento de Vetor IV](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1179.poti)
   - [x] [1180](https://www.urionlinejudge.com.br/judge/pt/problems/view/1180) - [Menor e Posição](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1180.poti)
   - [x] [1181](https://www.urionlinejudge.com.br/judge/pt/problems/view/1181) - [Linha na Matriz](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1181.poti)
+  - [x] [1182](https://www.urionlinejudge.com.br/judge/pt/problems/view/1182) - [Coluna na Matriz](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1182.poti)
   - [x] [1589](https://www.urionlinejudge.com.br/judge/pt/problems/view/1589) - [Bob Conduite](https://github.com/potigol/URI-Potigol/blob/master/src/1501-1600/1589.poti)
   - [x] [1858](https://www.urionlinejudge.com.br/judge/pt/problems/view/1858) - [A Resposta de Theon](https://github.com/potigol/URI-Potigol/blob/master/src/1801-1900/1858.poti)
+  - [x] [1924](https://www.urionlinejudge.com.br/judge/pt/problems/view/1924) - [Vitória e a Indecisão](https://github.com/potigol/URI-Potigol/blob/master/src/1901-2000/1924.poti)
   - [x] [1929](https://www.urionlinejudge.com.br/judge/pt/problems/view/1929) - [Triângulo](https://github.com/potigol/URI-Potigol/blob/master/src/1901-2000/1929.poti)
   - [x] [1930](https://www.urionlinejudge.com.br/judge/pt/problems/view/1930) - [Tomadas](https://github.com/potigol/URI-Potigol/blob/master/src/1901-2000/1930.poti)
   - [x] [1959](https://www.urionlinejudge.com.br/judge/pt/problems/view/1959) - [Polígonos Regulares Simples](https://github.com/potigol/URI-Potigol/blob/master/src/1901-2000/1959.poti)

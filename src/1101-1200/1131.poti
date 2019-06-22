@@ -1,0 +1,27 @@
+var inter, gremio, empate := 0
+var novo := "1"
+enquanto novo == "1" faça
+  gols = leia_inteiros(" ")
+  se gols[1] > gols[2] então
+    inter := inter + 1
+  senãose gols[2] > gols[1] então
+    gremio := gremio + 1
+  senão
+    empate := empate + 1
+  fim
+  escreva "Novo grenal (1-sim 2-nao)"
+  novo := leia_texto
+fim
+grenais = inter + gremio + empate
+
+escreva "{grenais} grenais"
+escreva "Inter:{inter}"
+escreva "Gremio:{gremio}"
+escreva "Empates:{empate}"
+se inter > gremio então
+  escreva "Inter venceu mais"
+senãose gremio > inter então
+  escreva "Gremio venceu mais"
+senão
+  escreva "Nao houve vencedor"
+fim

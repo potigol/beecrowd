@@ -93,7 +93,7 @@
   - [ ] [1091](https://www.urionlinejudge.com.br/judge/pt/problems/view/1091) - Divisão da Nlogônia *Ad-Hoc*
   - [ ] [1092](https://www.urionlinejudge.com.br/judge/pt/problems/view/1092) - Maior Subseqüência Crescente *Ad-Hoc*
   - [ ] [1093](https://www.urionlinejudge.com.br/judge/pt/problems/view/1093) - Vampiros *Matemática*
-  - [ ] [1094](https://www.urionlinejudge.com.br/judge/pt/problems/view/1094) - Experiências *Iniciante*
+  - [x] [1094](https://www.urionlinejudge.com.br/judge/pt/problems/view/1094) - [Experiências](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1094.poti) *Iniciante*
   - [x] [1095](https://www.urionlinejudge.com.br/judge/pt/problems/view/1095) - [Sequencia IJ 1](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1095.poti) *Iniciante*
   - [x] [1096](https://www.urionlinejudge.com.br/judge/pt/problems/view/1096) - [Sequencia IJ 2](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1096.poti) *Iniciante*
   - [x] [1097](https://www.urionlinejudge.com.br/judge/pt/problems/view/1097) - [Sequencia IJ 3](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1097.poti) *Iniciante*

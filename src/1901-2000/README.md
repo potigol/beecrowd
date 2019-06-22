@@ -23,7 +23,7 @@
   - [ ] [1921](https://www.urionlinejudge.com.br/judge/pt/problems/view/1921) - Guilherme e Suas Pipas *Iniciante*
   - [ ] [1922](https://www.urionlinejudge.com.br/judge/pt/problems/view/1922) - Diego e o Jogo do Martelo *Paradigmas*
   - [ ] [1923](https://www.urionlinejudge.com.br/judge/pt/problems/view/1923) - Rerisson e o Churrasco *Grafos*
-  - [ ] [1924](https://www.urionlinejudge.com.br/judge/pt/problems/view/1924) - Vitória e a Indecisão *Iniciante*
+  - [x] [1924](https://www.urionlinejudge.com.br/judge/pt/problems/view/1924) - [Vitória e a Indecisão](https://github.com/potigol/URI-Potigol/blob/master/src/1901-2000/1924.poti) *Iniciante*
   - [ ] [1925](https://www.urionlinejudge.com.br/judge/pt/problems/view/1925) - Ordan e as Novinhas *Grafos*
   - [ ] [1926](https://www.urionlinejudge.com.br/judge/pt/problems/view/1926) - Marianne e os Primos Gêmeos *Matemática*
   - [ ] [1927](https://www.urionlinejudge.com.br/judge/pt/problems/view/1927) - Tapioca e a Chuva de Trufas *Paradigmas*

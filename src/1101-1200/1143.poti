@@ -1,0 +1,4 @@
+n = leia_inteiro
+para i de 1 até n faça
+  escreva "{i} {i*i} {i*i*i}"
+fim
