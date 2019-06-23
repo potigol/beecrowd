@@ -1,0 +1,7 @@
+n = leia_inteiro
+para a de 1 até n faça
+  b = a * a
+  c = b * a
+  escreva "{a} {b} {c}"
+  escreva "{a} {b+1} {c+1}"
+fim

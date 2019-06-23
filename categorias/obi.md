@@ -86,7 +86,7 @@
   - [ ] [2410](https://www.urionlinejudge.com.br/judge/pt/problems/view/2410) - Frequencia na Aula *Ad-Hoc*
   - [ ] [2411](https://www.urionlinejudge.com.br/judge/pt/problems/view/2411) - O Tabuleiro Esburacado *Ad-Hoc*
   - [ ] [2412](https://www.urionlinejudge.com.br/judge/pt/problems/view/2412) - Tarzan *Ad-Hoc*
-  - [ ] [2413](https://www.urionlinejudge.com.br/judge/pt/problems/view/2413) - Busca na Internet *Ad-Hoc*
+  - [x] [2413](https://www.urionlinejudge.com.br/judge/pt/problems/view/2413) - [Busca na Internet](https://github.com/potigol/URI-Potigol/blob/master/src/2401-2500/2413.poti) *Ad-Hoc*
   - [ ] [2414](https://www.urionlinejudge.com.br/judge/pt/problems/view/2414) - Desafio do Maior Número *Ad-Hoc*
   - [ ] [2415](https://www.urionlinejudge.com.br/judge/pt/problems/view/2415) - Consecutivos *Ad-Hoc*
   - [x] [2416](https://www.urionlinejudge.com.br/judge/pt/problems/view/2416) - [Corrida](https://github.com/potigol/URI-Potigol/blob/master/src/2401-2500/2416.poti) *Ad-Hoc*

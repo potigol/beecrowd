@@ -68,7 +68,7 @@
   - [ ] [2566](https://www.urionlinejudge.com.br/judge/pt/problems/view/2566) - Viagem Para BH *Grafos*
   - [ ] [2567](https://www.urionlinejudge.com.br/judge/pt/problems/view/2567) - Virus *Ad-Hoc*
   - [ ] [2568](https://www.urionlinejudge.com.br/judge/pt/problems/view/2568) - Ações *Ad-Hoc*
-  - [ ] [2569](https://www.urionlinejudge.com.br/judge/pt/problems/view/2569) - A Bruxa do 7 x 1 *Ad-Hoc*
+  - [x] [2569](https://www.urionlinejudge.com.br/judge/pt/problems/view/2569) - [A Bruxa do 7 x 1](https://github.com/potigol/URI-Potigol/blob/master/src/2501-2600/2569.poti) *Ad-Hoc*
   - [ ] [2570](https://www.urionlinejudge.com.br/judge/pt/problems/view/2570) - Californication *Ad-Hoc*
   - [ ] [2571](https://www.urionlinejudge.com.br/judge/pt/problems/view/2571) - Doador *Ad-Hoc*
   - [ ] [2572](https://www.urionlinejudge.com.br/judge/pt/problems/view/2572) - Escalação *Ad-Hoc*

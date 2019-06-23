@@ -1,0 +1,6 @@
+n = leia_inteiro
+lista = leia_textos(n).mapeie(a => a.divida(" "))
+nomes = lista.mapeie(a => a[2]).ordene
+comportados = lista.selecione(a => a[1] == "+").tamanho
+escreva nomes.junte("\n")
+escreva "Se comportaram: {comportados} | Nao se comportaram: {n - comportados}"

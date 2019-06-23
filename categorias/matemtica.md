@@ -1,4 +1,4 @@
-# Matemática (4 / 211)
+# Matemática (6 / 211)
 
   - [ ] [1093](https://www.urionlinejudge.com.br/judge/pt/problems/view/1093) - Vampiros
   - [ ] [1161](https://www.urionlinejudge.com.br/judge/pt/problems/view/1161) - Soma de Fatoriais
@@ -109,7 +109,6 @@
   - [ ] [1745](https://www.urionlinejudge.com.br/judge/pt/problems/view/1745) - Contando Substhreengs
   - [ ] [1754](https://www.urionlinejudge.com.br/judge/pt/problems/view/1754) - A Sala do Tempo
   - [ ] [1756](https://www.urionlinejudge.com.br/judge/pt/problems/view/1756) - Algoritmo Genético
-  - [ ] [1760](https://www.urionlinejudge.com.br/judge/pt/problems/view/1760) - Floco de Neve de Koch
   - [ ] [1761](https://www.urionlinejudge.com.br/judge/pt/problems/view/1761) - Decoração Natalina
   - [ ] [1776](https://www.urionlinejudge.com.br/judge/pt/problems/view/1776) - Baile de Formatura
   - [ ] [1785](https://www.urionlinejudge.com.br/judge/pt/problems/view/1785) - Kaprekar
@@ -199,7 +198,6 @@
   - [ ] [2819](https://www.urionlinejudge.com.br/judge/pt/problems/view/2819) - Cartas Para o Noel
   - [ ] [2820](https://www.urionlinejudge.com.br/judge/pt/problems/view/2820) - Os Dígitos de Bruna
   - [ ] [2822](https://www.urionlinejudge.com.br/judge/pt/problems/view/2822) - Meu Primeiro Grafinho
-  - [ ] [2839](https://www.urionlinejudge.com.br/judge/pt/problems/view/2839) - As Meias de Rangel
   - [ ] [2859](https://www.urionlinejudge.com.br/judge/pt/problems/view/2859) - Digit Root
   - [ ] [2864](https://www.urionlinejudge.com.br/judge/pt/problems/view/2864) - Qual é a Altura?
   - [ ] [2873](https://www.urionlinejudge.com.br/judge/pt/problems/view/2873) - Pirâmide
@@ -208,6 +206,8 @@
   - [ ] [2890](https://www.urionlinejudge.com.br/judge/pt/problems/view/2890) - Colorindo Tetraedros
   - [ ] [2892](https://www.urionlinejudge.com.br/judge/pt/problems/view/2892) - Treino No Velódromo
   - [x] [1028](https://www.urionlinejudge.com.br/judge/pt/problems/view/1028) - [Figurinhas](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1028.poti)
+  - [x] [1760](https://www.urionlinejudge.com.br/judge/pt/problems/view/1760) - [Floco de Neve de Koch](https://github.com/potigol/URI-Potigol/blob/master/src/1701-1800/1760.poti)
   - [x] [1795](https://www.urionlinejudge.com.br/judge/pt/problems/view/1795) - [Triângulo Trinomial](https://github.com/potigol/URI-Potigol/blob/master/src/1701-1800/1795.poti)
   - [x] [2661](https://www.urionlinejudge.com.br/judge/pt/problems/view/2661) - [Despojados](https://github.com/potigol/URI-Potigol/blob/master/src/2601-2700/2661.poti)
   - [x] [2667](https://www.urionlinejudge.com.br/judge/pt/problems/view/2667) - [Jogo de Boca](https://github.com/potigol/URI-Potigol/blob/master/src/2601-2700/2667.poti)
+  - [x] [2839](https://www.urionlinejudge.com.br/judge/pt/problems/view/2839) - [As Meias de Rangel](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2839.poti)

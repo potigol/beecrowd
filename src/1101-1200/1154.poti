@@ -1,0 +1,8 @@
+var idade := leia_inteiro
+var soma, n := 0
+enquanto idade >= 0 faça
+  soma := soma + idade
+  n := n + 1
+  idade := leia_inteiro
+fim
+escreva soma / n formato "%.2f"

@@ -59,7 +59,7 @@
   - [ ] [1757](https://www.urionlinejudge.com.br/judge/pt/problems/view/1757) - Viagem Barril *Grafos*
   - [ ] [1758](https://www.urionlinejudge.com.br/judge/pt/problems/view/1758) - Pontos Extras *Ad-Hoc*
   - [ ] [1759](https://www.urionlinejudge.com.br/judge/pt/problems/view/1759) - Ho Ho Ho *Iniciante*
-  - [ ] [1760](https://www.urionlinejudge.com.br/judge/pt/problems/view/1760) - Floco de Neve de Koch *Matemática*
+  - [x] [1760](https://www.urionlinejudge.com.br/judge/pt/problems/view/1760) - [Floco de Neve de Koch](https://github.com/potigol/URI-Potigol/blob/master/src/1701-1800/1760.poti) *Matemática*
   - [ ] [1761](https://www.urionlinejudge.com.br/judge/pt/problems/view/1761) - Decoração Natalina *Matemática*
   - [ ] [1762](https://www.urionlinejudge.com.br/judge/pt/problems/view/1762) - Trenós do Papai Noel *Estruturas e Bibliotecas*
   - [ ] [1763](https://www.urionlinejudge.com.br/judge/pt/problems/view/1763) - Tradutor do Papai Noel *Estruturas e Bibliotecas*

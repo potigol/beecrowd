@@ -12,7 +12,7 @@
   - [ ] [2410](https://www.urionlinejudge.com.br/judge/pt/problems/view/2410) - Frequencia na Aula *Ad-Hoc*
   - [ ] [2411](https://www.urionlinejudge.com.br/judge/pt/problems/view/2411) - O Tabuleiro Esburacado *Ad-Hoc*
   - [ ] [2412](https://www.urionlinejudge.com.br/judge/pt/problems/view/2412) - Tarzan *Ad-Hoc*
-  - [ ] [2413](https://www.urionlinejudge.com.br/judge/pt/problems/view/2413) - Busca na Internet *Ad-Hoc*
+  - [x] [2413](https://www.urionlinejudge.com.br/judge/pt/problems/view/2413) - [Busca na Internet](https://github.com/potigol/URI-Potigol/blob/master/src/2401-2500/2413.poti) *Ad-Hoc*
   - [ ] [2414](https://www.urionlinejudge.com.br/judge/pt/problems/view/2414) - Desafio do Maior Número *Ad-Hoc*
   - [ ] [2415](https://www.urionlinejudge.com.br/judge/pt/problems/view/2415) - Consecutivos *Ad-Hoc*
   - [x] [2416](https://www.urionlinejudge.com.br/judge/pt/problems/view/2416) - [Corrida](https://github.com/potigol/URI-Potigol/blob/master/src/2401-2500/2416.poti) *Ad-Hoc*
@@ -78,7 +78,7 @@
   - [ ] [2476](https://www.urionlinejudge.com.br/judge/pt/problems/view/2476) - Entregas do Noel *Grafos*
   - [ ] [2477](https://www.urionlinejudge.com.br/judge/pt/problems/view/2477) - Rede de Distribuição *Grafos*
   - [ ] [2478](https://www.urionlinejudge.com.br/judge/pt/problems/view/2478) - Acerte o Presente *Ad-Hoc*
-  - [ ] [2479](https://www.urionlinejudge.com.br/judge/pt/problems/view/2479) - Ordenando a Lista de Crianças do Papai Noel *Ad-Hoc*
+  - [x] [2479](https://www.urionlinejudge.com.br/judge/pt/problems/view/2479) - [Ordenando a Lista de Crianças do Papai Noel](https://github.com/potigol/URI-Potigol/blob/master/src/2401-2500/2479.poti) *Ad-Hoc*
   - [ ] [2480](https://www.urionlinejudge.com.br/judge/pt/problems/view/2480) - Luzes Vermelhas *Paradigmas*
   - [ ] [2481](https://www.urionlinejudge.com.br/judge/pt/problems/view/2481) - É Uma Cilada Bino *Paradigmas*
   - [ ] [2482](https://www.urionlinejudge.com.br/judge/pt/problems/view/2482) - Etiquetas de Noel *Estruturas e Bibliotecas*

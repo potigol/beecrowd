@@ -1,0 +1,6 @@
+var l := leia_inteiro
+enquanto l <> 0 faça
+  area = l ^ 2 * 0.6928203230275509
+  escreva area formato "%.2f"
+  l := leia_inteiro
+fim

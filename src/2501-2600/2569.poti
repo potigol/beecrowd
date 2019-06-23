@@ -1,0 +1,5 @@
+entrada = leia_textos(" ")
+a = entrada[1].mapeie(a => se a == '7' então '0' senão a fim).inteiro
+b = entrada[3].mapeie(a => se a == '7' então '0' senão a fim).inteiro
+c = se entrada[2] == "+" então a + b senão a * b fim
+escreva c.texto.mapeie(a => se a == '7' então '0' senão a fim).inteiro

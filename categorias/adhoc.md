@@ -1,4 +1,4 @@
-# Ad-Hoc (31 / 639)
+# Ad-Hoc (34 / 639)
 
   - [ ] [1026](https://www.urionlinejudge.com.br/judge/pt/problems/view/1026) - Carrega ou não Carrega?
   - [ ] [1030](https://www.urionlinejudge.com.br/judge/pt/problems/view/1030) - A Lenda de Flavious Josephus
@@ -437,7 +437,6 @@
   - [ ] [2410](https://www.urionlinejudge.com.br/judge/pt/problems/view/2410) - Frequencia na Aula
   - [ ] [2411](https://www.urionlinejudge.com.br/judge/pt/problems/view/2411) - O Tabuleiro Esburacado
   - [ ] [2412](https://www.urionlinejudge.com.br/judge/pt/problems/view/2412) - Tarzan
-  - [ ] [2413](https://www.urionlinejudge.com.br/judge/pt/problems/view/2413) - Busca na Internet
   - [ ] [2414](https://www.urionlinejudge.com.br/judge/pt/problems/view/2414) - Desafio do Maior Número
   - [ ] [2415](https://www.urionlinejudge.com.br/judge/pt/problems/view/2415) - Consecutivos
   - [ ] [2417](https://www.urionlinejudge.com.br/judge/pt/problems/view/2417) - Campeonato
@@ -485,7 +484,6 @@
   - [ ] [2471](https://www.urionlinejudge.com.br/judge/pt/problems/view/2471) - Quadrado
   - [ ] [2472](https://www.urionlinejudge.com.br/judge/pt/problems/view/2472) - Tapetes
   - [ ] [2478](https://www.urionlinejudge.com.br/judge/pt/problems/view/2478) - Acerte o Presente
-  - [ ] [2479](https://www.urionlinejudge.com.br/judge/pt/problems/view/2479) - Ordenando a Lista de Crianças do Papai Noel
   - [ ] [2487](https://www.urionlinejudge.com.br/judge/pt/problems/view/2487) - Do Lado Escuro do Código
   - [ ] [2500](https://www.urionlinejudge.com.br/judge/pt/problems/view/2500) - William Xorando
   - [ ] [2504](https://www.urionlinejudge.com.br/judge/pt/problems/view/2504) - Biorritmo
@@ -504,7 +502,6 @@
   - [ ] [2565](https://www.urionlinejudge.com.br/judge/pt/problems/view/2565) - Tubos de Ensaio
   - [ ] [2567](https://www.urionlinejudge.com.br/judge/pt/problems/view/2567) - Virus
   - [ ] [2568](https://www.urionlinejudge.com.br/judge/pt/problems/view/2568) - Ações
-  - [ ] [2569](https://www.urionlinejudge.com.br/judge/pt/problems/view/2569) - A Bruxa do 7 x 1
   - [ ] [2570](https://www.urionlinejudge.com.br/judge/pt/problems/view/2570) - Californication
   - [ ] [2571](https://www.urionlinejudge.com.br/judge/pt/problems/view/2571) - Doador
   - [ ] [2572](https://www.urionlinejudge.com.br/judge/pt/problems/view/2572) - Escalação
@@ -626,6 +623,7 @@
   - [x] [2397](https://www.urionlinejudge.com.br/judge/pt/problems/view/2397) - [Triângulos](https://github.com/potigol/URI-Potigol/blob/master/src/2301-2400/2397.poti)
   - [x] [2399](https://www.urionlinejudge.com.br/judge/pt/problems/view/2399) - [Campo Minado](https://github.com/potigol/URI-Potigol/blob/master/src/2301-2400/2399.poti)
   - [x] [2409](https://www.urionlinejudge.com.br/judge/pt/problems/view/2409) - [Colchão](https://github.com/potigol/URI-Potigol/blob/master/src/2401-2500/2409.poti)
+  - [x] [2413](https://www.urionlinejudge.com.br/judge/pt/problems/view/2413) - [Busca na Internet](https://github.com/potigol/URI-Potigol/blob/master/src/2401-2500/2413.poti)
   - [x] [2416](https://www.urionlinejudge.com.br/judge/pt/problems/view/2416) - [Corrida](https://github.com/potigol/URI-Potigol/blob/master/src/2401-2500/2416.poti)
   - [x] [2428](https://www.urionlinejudge.com.br/judge/pt/problems/view/2428) - [Capital](https://github.com/potigol/URI-Potigol/blob/master/src/2401-2500/2428.poti)
   - [x] [2434](https://www.urionlinejudge.com.br/judge/pt/problems/view/2434) - [Saldo do Vovô](https://github.com/potigol/URI-Potigol/blob/master/src/2401-2500/2434.poti)
@@ -636,6 +634,8 @@
   - [x] [2465](https://www.urionlinejudge.com.br/judge/pt/problems/view/2465) - [Passa Bolinha](https://github.com/potigol/URI-Potigol/blob/master/src/2401-2500/2465.poti)
   - [x] [2466](https://www.urionlinejudge.com.br/judge/pt/problems/view/2466) - [Sinuca](https://github.com/potigol/URI-Potigol/blob/master/src/2401-2500/2466.poti)
   - [x] [2473](https://www.urionlinejudge.com.br/judge/pt/problems/view/2473) - [Loteria](https://github.com/potigol/URI-Potigol/blob/master/src/2401-2500/2473.poti)
+  - [x] [2479](https://www.urionlinejudge.com.br/judge/pt/problems/view/2479) - [Ordenando a Lista de Crianças do Papai Noel](https://github.com/potigol/URI-Potigol/blob/master/src/2401-2500/2479.poti)
+  - [x] [2569](https://www.urionlinejudge.com.br/judge/pt/problems/view/2569) - [A Bruxa do 7 x 1](https://github.com/potigol/URI-Potigol/blob/master/src/2501-2600/2569.poti)
   - [x] [2679](https://www.urionlinejudge.com.br/judge/pt/problems/view/2679) - [Sucessor Par](https://github.com/potigol/URI-Potigol/blob/master/src/2601-2700/2679.poti)
   - [x] [2851](https://www.urionlinejudge.com.br/judge/pt/problems/view/2851) - [Desafio de Rangel](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2851.poti)
   - [x] [2858](https://www.urionlinejudge.com.br/judge/pt/problems/view/2858) - [Tabuleiro Infinito](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2858.poti)

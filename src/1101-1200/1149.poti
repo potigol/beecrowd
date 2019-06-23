@@ -1,0 +1,4 @@
+num = leia_inteiros(" ").selecione(a => a > 0)
+a = num[1]
+n = num[2]
+escreva a * n + n * (n-1) div 2
