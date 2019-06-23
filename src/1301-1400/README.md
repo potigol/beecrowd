@@ -82,7 +82,7 @@
   - [ ] [1380](https://www.urionlinejudge.com.br/judge/pt/problems/view/1380) - Crescimento das Populações de Bacilos *Matemática*
   - [ ] [1381](https://www.urionlinejudge.com.br/judge/pt/problems/view/1381) - Equações Diofantinas *Matemática*
   - [ ] [1382](https://www.urionlinejudge.com.br/judge/pt/problems/view/1382) - Elementar, meu Caro Watson! *Estruturas e Bibliotecas*
-  - [ ] [1383](https://www.urionlinejudge.com.br/judge/pt/problems/view/1383) - Sudoku *Ad-Hoc*
+  - [x] [1383](https://www.urionlinejudge.com.br/judge/pt/problems/view/1383) - [Sudoku](https://github.com/potigol/URI-Potigol/blob/master/src/1301-1400/1383.poti) *Ad-Hoc*
   - [ ] [1384](https://www.urionlinejudge.com.br/judge/pt/problems/view/1384) - Sapo Preguiçoso *Grafos*
   - [ ] [1385](https://www.urionlinejudge.com.br/judge/pt/problems/view/1385) - Recuperação de Relatório *Strings*
   - [ ] [1386](https://www.urionlinejudge.com.br/judge/pt/problems/view/1386) - Códigos Ambíguos *Strings*

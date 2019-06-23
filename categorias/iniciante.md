@@ -1,10 +1,5 @@
-# Iniciante (142 / 313)
+# Iniciante (147 / 313)
 
-  - [ ] [1150](https://www.urionlinejudge.com.br/judge/pt/problems/view/1150) - Ultrapassando Z
-  - [ ] [1155](https://www.urionlinejudge.com.br/judge/pt/problems/view/1155) - Sequência S
-  - [ ] [1156](https://www.urionlinejudge.com.br/judge/pt/problems/view/1156) - Sequência S II
-  - [ ] [1158](https://www.urionlinejudge.com.br/judge/pt/problems/view/1158) - Soma de Ímpares Consecutivos III
-  - [ ] [1164](https://www.urionlinejudge.com.br/judge/pt/problems/view/1164) - Número Perfeito
   - [ ] [1183](https://www.urionlinejudge.com.br/judge/pt/problems/view/1183) - Acima da Diagonal Principal
   - [ ] [1184](https://www.urionlinejudge.com.br/judge/pt/problems/view/1184) - Abaixo da Diagonal Principal
   - [ ] [1185](https://www.urionlinejudge.com.br/judge/pt/problems/view/1185) - Acima da Diagonal Secundária
@@ -248,12 +243,17 @@
   - [x] [1145](https://www.urionlinejudge.com.br/judge/pt/problems/view/1145) - [Sequência Lógica 2](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1145.poti)
   - [x] [1146](https://www.urionlinejudge.com.br/judge/pt/problems/view/1146) - [Sequências Crescentes](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1146.poti)
   - [x] [1149](https://www.urionlinejudge.com.br/judge/pt/problems/view/1149) - [Somando Inteiros Consecutivos](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1149.poti)
+  - [x] [1150](https://www.urionlinejudge.com.br/judge/pt/problems/view/1150) - [Ultrapassando Z](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1150.poti)
   - [x] [1151](https://www.urionlinejudge.com.br/judge/pt/problems/view/1151) - [Fibonacci Fácil](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1151.poti)
   - [x] [1153](https://www.urionlinejudge.com.br/judge/pt/problems/view/1153) - [Fatorial Simples](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1153.poti)
   - [x] [1154](https://www.urionlinejudge.com.br/judge/pt/problems/view/1154) - [Idades](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1154.poti)
+  - [x] [1155](https://www.urionlinejudge.com.br/judge/pt/problems/view/1155) - [Sequência S](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1155.poti)
+  - [x] [1156](https://www.urionlinejudge.com.br/judge/pt/problems/view/1156) - [Sequência S II](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1156.poti)
   - [x] [1157](https://www.urionlinejudge.com.br/judge/pt/problems/view/1157) - [Divisores I](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1157.poti)
+  - [x] [1158](https://www.urionlinejudge.com.br/judge/pt/problems/view/1158) - [Soma de Ímpares Consecutivos III](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1158.poti)
   - [x] [1159](https://www.urionlinejudge.com.br/judge/pt/problems/view/1159) - [Soma de Pares Consecutivos](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1159.poti)
   - [x] [1160](https://www.urionlinejudge.com.br/judge/pt/problems/view/1160) - [Crescimento Populacional](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1160.poti)
+  - [x] [1164](https://www.urionlinejudge.com.br/judge/pt/problems/view/1164) - [Número Perfeito](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1164.poti)
   - [x] [1165](https://www.urionlinejudge.com.br/judge/pt/problems/view/1165) - [Número Primo](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1165.poti)
   - [x] [1172](https://www.urionlinejudge.com.br/judge/pt/problems/view/1172) - [Substituição em Vetor I](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1172.poti)
   - [x] [1173](https://www.urionlinejudge.com.br/judge/pt/problems/view/1173) - [Preenchimento de Vetor I](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1173.poti)

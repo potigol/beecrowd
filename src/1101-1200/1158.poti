@@ -1,0 +1,7 @@
+n = leia_inteiro
+para i de 1 até n faça
+  entrada = leia_inteiros(" ")
+  x = entrada[1].inteiro div 2 * 2 + 1
+  y = entrada[2].inteiro
+  escreva (x + y - 1)* y
+fim

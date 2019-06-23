@@ -1,0 +1,10 @@
+var x, z := leia_inteiro
+enquanto x>=z faça
+  z := leia_inteiro
+fim
+var i := 0
+enquanto x <= z faça
+  z := z - (i + x)
+  i := i + 1
+fim
+escreva i + 1

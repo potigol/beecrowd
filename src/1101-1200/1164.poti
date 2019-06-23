@@ -1,0 +1,17 @@
+n = leia_inteiro
+para i de 1 até n faça
+  a = leia_inteiro
+  var soma := 1
+  rz = raiz(a).inteiro
+  para j de 2 até rz se a mod j == 0 faça
+    soma := soma + j + a div j
+  fim
+  se rz * rz == a então
+    soma := soma - rz
+  fim
+  se soma == a então
+    escreva "{a} eh perfeito"
+  senão
+    escreva "{a} nao eh perfeito"
+  fim
+fim
