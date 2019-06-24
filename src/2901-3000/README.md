@@ -35,13 +35,13 @@
   - [ ] [2933](https://www.urionlinejudge.com.br/judge/pt/problems/view/2933) - Passeio de Trenó pela Terra *Grafos*
   - [ ] [2934](https://www.urionlinejudge.com.br/judge/pt/problems/view/2934) - Noel e Suas Renas *Paradigmas*
   - [ ] [2935](https://www.urionlinejudge.com.br/judge/pt/problems/view/2935) - DNA Élfico *Ad-Hoc*
-  - [ ] [2936](https://www.urionlinejudge.com.br/judge/pt/problems/view/2936) - Quanta Mandioca? *Iniciante*
-  - [ ] [2937](https://www.urionlinejudge.com.br/judge/pt/problems/view/2937) - Cobra Norato *Iniciante*
-  - [ ] [2938](https://www.urionlinejudge.com.br/judge/pt/problems/view/2938) - Jaçanã *Iniciante*
-  - [ ] [2939](https://www.urionlinejudge.com.br/judge/pt/problems/view/2939) - Casais *Iniciante*
-  - [ ] [2940](https://www.urionlinejudge.com.br/judge/pt/problems/view/2940) - Máquina do Tempo Quebrada *Iniciante*
-  - [ ] [2941](https://www.urionlinejudge.com.br/judge/pt/problems/view/2941) - Fibra Ótica *Iniciante*
-  - [ ] [2942](https://www.urionlinejudge.com.br/judge/pt/problems/view/2942) - Mistura de Bits *Iniciante*
+  - [ ] [2936](https://www.urionlinejudge.com.br/judge/pt/problems/view/2936) - Quanta Mandioca? *Ad-Hoc*
+  - [ ] [2937](https://www.urionlinejudge.com.br/judge/pt/problems/view/2937) - Cobra Norato *Ad-Hoc*
+  - [ ] [2938](https://www.urionlinejudge.com.br/judge/pt/problems/view/2938) - Jaçanã *Ad-Hoc*
+  - [ ] [2939](https://www.urionlinejudge.com.br/judge/pt/problems/view/2939) - Casais *Ad-Hoc*
+  - [ ] [2940](https://www.urionlinejudge.com.br/judge/pt/problems/view/2940) - Máquina do Tempo Quebrada *Ad-Hoc*
+  - [ ] [2941](https://www.urionlinejudge.com.br/judge/pt/problems/view/2941) - Fibra Ótica *Ad-Hoc*
+  - [ ] [2942](https://www.urionlinejudge.com.br/judge/pt/problems/view/2942) - Mistura de Bits *Ad-Hoc*
   - [ ] [2943](https://www.urionlinejudge.com.br/judge/pt/problems/view/2943) - Smider Pan *Ad-Hoc*
   - [ ] [2944](https://www.urionlinejudge.com.br/judge/pt/problems/view/2944) - Emergência em Manaus *Ad-Hoc*
   - [ ] [2945](https://www.urionlinejudge.com.br/judge/pt/problems/view/2945) - Monitor *Ad-Hoc*

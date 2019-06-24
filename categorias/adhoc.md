@@ -1,4 +1,4 @@
-# Ad-Hoc (35 / 639)
+# Ad-Hoc (35 / 646)
 
   - [ ] [1026](https://www.urionlinejudge.com.br/judge/pt/problems/view/1026) - Carrega ou não Carrega?
   - [ ] [1030](https://www.urionlinejudge.com.br/judge/pt/problems/view/1030) - A Lenda de Flavious Josephus
@@ -598,6 +598,13 @@
   - [ ] [2928](https://www.urionlinejudge.com.br/judge/pt/problems/view/2928) - Cruzando Lagos
   - [ ] [2931](https://www.urionlinejudge.com.br/judge/pt/problems/view/2931) - Presentes Suspeitos
   - [ ] [2935](https://www.urionlinejudge.com.br/judge/pt/problems/view/2935) - DNA Élfico
+  - [ ] [2936](https://www.urionlinejudge.com.br/judge/pt/problems/view/2936) - Quanta Mandioca?
+  - [ ] [2937](https://www.urionlinejudge.com.br/judge/pt/problems/view/2937) - Cobra Norato
+  - [ ] [2938](https://www.urionlinejudge.com.br/judge/pt/problems/view/2938) - Jaçanã
+  - [ ] [2939](https://www.urionlinejudge.com.br/judge/pt/problems/view/2939) - Casais
+  - [ ] [2940](https://www.urionlinejudge.com.br/judge/pt/problems/view/2940) - Máquina do Tempo Quebrada
+  - [ ] [2941](https://www.urionlinejudge.com.br/judge/pt/problems/view/2941) - Fibra Ótica
+  - [ ] [2942](https://www.urionlinejudge.com.br/judge/pt/problems/view/2942) - Mistura de Bits
   - [ ] [2943](https://www.urionlinejudge.com.br/judge/pt/problems/view/2943) - Smider Pan
   - [ ] [2944](https://www.urionlinejudge.com.br/judge/pt/problems/view/2944) - Emergência em Manaus
   - [ ] [2945](https://www.urionlinejudge.com.br/judge/pt/problems/view/2945) - Monitor
