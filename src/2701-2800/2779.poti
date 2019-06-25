@@ -1,0 +1,11 @@
+n, m = leia_inteiro
+figurinha = Lista.mutável(n, verdadeiro)
+var falta := n
+para i de 1 até m faça
+  num = leia_inteiro
+  se figurinha[num] então
+    figurinha[num] := falso
+    falta := falta - 1
+  fim
+fim
+escreva falta
