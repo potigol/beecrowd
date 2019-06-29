@@ -1,0 +1,7 @@
+n = leia_inteiro
+var iccanobif := se n > 1 então [1, 1] senão [1] fim
+para i de 3 até n faça
+  a, b = iccanobif[1], iccanobif[2]
+  iccanobif := (a + b) :: iccanobif
+fim
+escreva iccanobif.junte(" ")

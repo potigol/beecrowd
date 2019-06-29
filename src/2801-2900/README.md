@@ -6,7 +6,7 @@
   - [ ] [2804](https://www.urionlinejudge.com.br/judge/pt/problems/view/2804) - Ferrovias *Iniciante*
   - [ ] [2805](https://www.urionlinejudge.com.br/judge/pt/problems/view/2805) - Binarizando a Matriz *Estruturas e Bibliotecas*
   - [ ] [2806](https://www.urionlinejudge.com.br/judge/pt/problems/view/2806) - Ingredientes Típicos *Ad-Hoc*
-  - [ ] [2807](https://www.urionlinejudge.com.br/judge/pt/problems/view/2807) - Iccanobif *Iniciante*
+  - [x] [2807](https://www.urionlinejudge.com.br/judge/pt/problems/view/2807) - [Iccanobif](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2807.poti) *Iniciante*
   - [ ] [2808](https://www.urionlinejudge.com.br/judge/pt/problems/view/2808) - Mais Cavalos *Iniciante*
   - [ ] [2809](https://www.urionlinejudge.com.br/judge/pt/problems/view/2809) - K-ésimo Caminho *Grafos*
   - [ ] [2810](https://www.urionlinejudge.com.br/judge/pt/problems/view/2810) - Combate à Dengue 2.0 *Grafos*
