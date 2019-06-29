@@ -20,7 +20,7 @@
   - [ ] [2718](https://www.urionlinejudge.com.br/judge/pt/problems/view/2718) - Luzes de Natal *Iniciante*
   - [ ] [2719](https://www.urionlinejudge.com.br/judge/pt/problems/view/2719) - Quantas Viagens Fará o Noel? *Ad-Hoc*
   - [ ] [2720](https://www.urionlinejudge.com.br/judge/pt/problems/view/2720) - Presentes Grandes *Iniciante*
-  - [ ] [2721](https://www.urionlinejudge.com.br/judge/pt/problems/view/2721) - Indecisão das Renas *Iniciante*
+  - [x] [2721](https://www.urionlinejudge.com.br/judge/pt/problems/view/2721) - [Indecisão das Renas](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2721.poti) *Iniciante*
   - [ ] [2722](https://www.urionlinejudge.com.br/judge/pt/problems/view/2722) - Pegadinha de Evergreen *Strings*
   - [ ] [2723](https://www.urionlinejudge.com.br/judge/pt/problems/view/2723) - Equilibrando Presentes *Paradigmas*
   - [ ] [2724](https://www.urionlinejudge.com.br/judge/pt/problems/view/2724) - Ajude Patatatitu *Iniciante*

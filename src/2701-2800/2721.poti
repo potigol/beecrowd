@@ -1,0 +1,4 @@
+renas = "Dasher Dancer Prancer Vixen Comet Cupid Donner Blitzen Rudolph".divida(" ")
+votos = leia_inteiros(" ").injete(0)((a, b) => a + b)
+rena = se votos mod 9 == 0 então 9 senão votos mod 9 fim
+escreva renas[rena]
