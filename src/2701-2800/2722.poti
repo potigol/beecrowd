@@ -1,0 +1,9 @@
+n = leia_inteiro
+para i de 1 até n faça
+  a, b = leia_texto
+  para j de 0 até a.tamanho passo 2 faça
+    imprima a.descarte(j).pegue(2)
+    imprima b.descarte(j).pegue(2)
+  fim
+  escreva ""
+fim

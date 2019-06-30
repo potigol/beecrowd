@@ -17,11 +17,11 @@
   - [ ] [2715](https://www.urionlinejudge.com.br/judge/pt/problems/view/2715) - Dividindo os Trabalhos I *Iniciante*
   - [ ] [2716](https://www.urionlinejudge.com.br/judge/pt/problems/view/2716) - Dividindo os Trabalhos II *Paradigmas*
   - [x] [2717](https://www.urionlinejudge.com.br/judge/pt/problems/view/2717) - [Tempo do Duende](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2717.poti) *Iniciante*
-  - [ ] [2718](https://www.urionlinejudge.com.br/judge/pt/problems/view/2718) - Luzes de Natal *Iniciante*
+  - [x] [2718](https://www.urionlinejudge.com.br/judge/pt/problems/view/2718) - [Luzes de Natal](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2718.poti) *Iniciante*
   - [ ] [2719](https://www.urionlinejudge.com.br/judge/pt/problems/view/2719) - Quantas Viagens Fará o Noel? *Ad-Hoc*
   - [ ] [2720](https://www.urionlinejudge.com.br/judge/pt/problems/view/2720) - Presentes Grandes *Iniciante*
   - [x] [2721](https://www.urionlinejudge.com.br/judge/pt/problems/view/2721) - [Indecisão das Renas](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2721.poti) *Iniciante*
-  - [ ] [2722](https://www.urionlinejudge.com.br/judge/pt/problems/view/2722) - Pegadinha de Evergreen *Strings*
+  - [x] [2722](https://www.urionlinejudge.com.br/judge/pt/problems/view/2722) - [Pegadinha de Evergreen](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2722.poti) *Strings*
   - [ ] [2723](https://www.urionlinejudge.com.br/judge/pt/problems/view/2723) - Equilibrando Presentes *Paradigmas*
   - [ ] [2724](https://www.urionlinejudge.com.br/judge/pt/problems/view/2724) - Ajude Patatatitu *Iniciante*
   - [ ] [2725](https://www.urionlinejudge.com.br/judge/pt/problems/view/2725) - Vila Natalina *Grafos*

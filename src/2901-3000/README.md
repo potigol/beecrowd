@@ -38,7 +38,7 @@
   - [ ] [2936](https://www.urionlinejudge.com.br/judge/pt/problems/view/2936) - Quanta Mandioca? *Ad-Hoc*
   - [ ] [2937](https://www.urionlinejudge.com.br/judge/pt/problems/view/2937) - Cobra Norato *Ad-Hoc*
   - [ ] [2938](https://www.urionlinejudge.com.br/judge/pt/problems/view/2938) - Jaçanã *Ad-Hoc*
-  - [ ] [2939](https://www.urionlinejudge.com.br/judge/pt/problems/view/2939) - Casais *Ad-Hoc*
+  - [x] [2939](https://www.urionlinejudge.com.br/judge/pt/problems/view/2939) - [Casais](https://github.com/potigol/URI-Potigol/blob/master/src/2901-3000/2939.poti) *Ad-Hoc*
   - [ ] [2940](https://www.urionlinejudge.com.br/judge/pt/problems/view/2940) - Máquina do Tempo Quebrada *Ad-Hoc*
   - [ ] [2941](https://www.urionlinejudge.com.br/judge/pt/problems/view/2941) - Fibra Ótica *Ad-Hoc*
   - [ ] [2942](https://www.urionlinejudge.com.br/judge/pt/problems/view/2942) - Mistura de Bits *Ad-Hoc*

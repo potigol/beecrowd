@@ -1,0 +1,7 @@
+n = leia_inteiro
+para i de 1 até n faça
+  a = leia_texto
+  b = BigInt(a).toLong.toBinaryString
+  x = b.divida("0").injete("")((r,s) => se r > s então r senao s fim).tamanho
+  escreva x
+fim
