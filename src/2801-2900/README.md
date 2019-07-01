@@ -54,7 +54,7 @@
   - [ ] [2852](https://www.urionlinejudge.com.br/judge/pt/problems/view/2852) - Troca de Mensagens *Iniciante*
   - [ ] [2853](https://www.urionlinejudge.com.br/judge/pt/problems/view/2853) - Invenções de Bibika *Ad-Hoc*
   - [ ] [2854](https://www.urionlinejudge.com.br/judge/pt/problems/view/2854) - Árvore Genealógica *Grafos*
-  - [x] [2855](https://www.urionlinejudge.com.br/judge/pt/problems/view/2855) - [Números de Sorte](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2855.poti) *Iniciante*
+  - [ ] [2855](https://www.urionlinejudge.com.br/judge/pt/problems/view/2855) - Números de Sorte *Iniciante*
   - [ ] [2856](https://www.urionlinejudge.com.br/judge/pt/problems/view/2856) - Viagem do Pão de Queijo *Paradigmas*
   - [ ] [2857](https://www.urionlinejudge.com.br/judge/pt/problems/view/2857) - Fluxo nos Vagões *Estruturas e Bibliotecas*
   - [x] [2858](https://www.urionlinejudge.com.br/judge/pt/problems/view/2858) - [Tabuleiro Infinito](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2858.poti) *Ad-Hoc*

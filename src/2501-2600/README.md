@@ -22,7 +22,7 @@
   - [ ] [2520](https://www.urionlinejudge.com.br/judge/pt/problems/view/2520) - O Último Analógimôn *Iniciante*
   - [ ] [2521](https://www.urionlinejudge.com.br/judge/pt/problems/view/2521) - Pergunte à Geógrafa *Geometria Computacional*
   - [ ] [2522](https://www.urionlinejudge.com.br/judge/pt/problems/view/2522) - Rede do DINF *Grafos*
-  - [ ] [2523](https://www.urionlinejudge.com.br/judge/pt/problems/view/2523) - A Mensagem de Will *Iniciante*
+  - [x] [2523](https://www.urionlinejudge.com.br/judge/pt/problems/view/2523) - [A Mensagem de Will](https://github.com/potigol/URI-Potigol/blob/master/src/2501-2600/2523.poti) *Iniciante*
   - [ ] [2524](https://www.urionlinejudge.com.br/judge/pt/problems/view/2524) - Balas de Morango *Paradigmas*
   - [ ] [2525](https://www.urionlinejudge.com.br/judge/pt/problems/view/2525) - Cacheiro Viajante *Geometria Computacional*
   - [ ] [2526](https://www.urionlinejudge.com.br/judge/pt/problems/view/2526) - Cardápio *Estruturas e Bibliotecas*
