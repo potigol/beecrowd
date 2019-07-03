@@ -65,7 +65,7 @@
   - [ ] [1863](https://www.urionlinejudge.com.br/judge/pt/problems/view/1863) - O Contra-ataque de Ramsay *Estruturas e Bibliotecas*
   - [ ] [1864](https://www.urionlinejudge.com.br/judge/pt/problems/view/1864) - Nossos Dias Nunca Voltarão *Iniciante*
   - [ ] [1865](https://www.urionlinejudge.com.br/judge/pt/problems/view/1865) - Mjölnir *Iniciante*
-  - [ ] [1866](https://www.urionlinejudge.com.br/judge/pt/problems/view/1866) - Conta *Iniciante*
+  - [x] [1866](https://www.urionlinejudge.com.br/judge/pt/problems/view/1866) - [Conta](https://github.com/potigol/URI-Potigol/blob/master/src/1801-1900/1866.poti) *Iniciante*
   - [x] [1867](https://www.urionlinejudge.com.br/judge/pt/problems/view/1867) - [Maior Número de Um Algarismo](https://github.com/potigol/URI-Potigol/blob/master/src/1801-1900/1867.poti) *Ad-Hoc*
   - [ ] [1868](https://www.urionlinejudge.com.br/judge/pt/problems/view/1868) - Espiral Quadrada *Strings*
   - [ ] [1869](https://www.urionlinejudge.com.br/judge/pt/problems/view/1869) - Base 32 *Matemática*
