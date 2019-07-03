@@ -1,0 +1,11 @@
+p = leia_textos(" ")
+p1 = p[1]
+p2 = p[2]
+
+d1 = p1[1].inteiro - p2[1].inteiro
+d2 = p1[2].inteiro - p2[2].inteiro
+se (d1 * d2).abs == 2 então
+  escreva "VALIDO"
+senão
+  escreva "INVALIDO"
+fim
