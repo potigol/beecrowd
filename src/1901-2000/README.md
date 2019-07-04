@@ -32,7 +32,7 @@
   - [x] [1930](https://www.urionlinejudge.com.br/judge/pt/problems/view/1930) - [Tomadas](https://github.com/potigol/URI-Potigol/blob/master/src/1901-2000/1930.poti) *Iniciante*
   - [ ] [1931](https://www.urionlinejudge.com.br/judge/pt/problems/view/1931) - Mania de Par *Grafos*
   - [ ] [1932](https://www.urionlinejudge.com.br/judge/pt/problems/view/1932) - Bolsa de Valores *Ad-Hoc*
-  - [ ] [1933](https://www.urionlinejudge.com.br/judge/pt/problems/view/1933) - Tri-du *Iniciante*
+  - [x] [1933](https://www.urionlinejudge.com.br/judge/pt/problems/view/1933) - [Tri-du](https://github.com/potigol/URI-Potigol/blob/master/src/1901-2000/1933.poti) *Iniciante*
   - [ ] [1934](https://www.urionlinejudge.com.br/judge/pt/problems/view/1934) - Quebra-cabeça *Ad-Hoc*
   - [ ] [1935](https://www.urionlinejudge.com.br/judge/pt/problems/view/1935) - Espiral *Ad-Hoc*
   - [ ] [1936](https://www.urionlinejudge.com.br/judge/pt/problems/view/1936) - Fatorial *Ad-Hoc*

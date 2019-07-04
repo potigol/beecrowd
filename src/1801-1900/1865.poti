@@ -1,0 +1,9 @@
+n = leia_inteiro
+para i de 1 até n faça
+  nome = leia_textos(" ").cabeça
+  se nome == "Thor" então
+    escreva "Y"
+  senão
+    escreva "N"
+  fim
+fim

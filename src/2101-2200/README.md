@@ -67,7 +67,7 @@
   - [ ] [2165](https://www.urionlinejudge.com.br/judge/pt/problems/view/2165) - Tuitando *Iniciante*
   - [ ] [2166](https://www.urionlinejudge.com.br/judge/pt/problems/view/2166) - Raiz Quadrada de 2 *Iniciante*
   - [ ] [2167](https://www.urionlinejudge.com.br/judge/pt/problems/view/2167) - Falha do Motor *Iniciante*
-  - [ ] [2168](https://www.urionlinejudge.com.br/judge/pt/problems/view/2168) - Crepúsculo em Portland *Iniciante*
+  - [x] [2168](https://www.urionlinejudge.com.br/judge/pt/problems/view/2168) - [Crepúsculo em Portland](https://github.com/potigol/URI-Potigol/blob/master/src/2101-2200/2168.poti) *Iniciante*
   - [ ] [2169](https://www.urionlinejudge.com.br/judge/pt/problems/view/2169) - Ajude o Leonardo! *Paradigmas*
   - [ ] [2170](https://www.urionlinejudge.com.br/judge/pt/problems/view/2170) - Juros do Projeto *Matemática*
   - [ ] [2171](https://www.urionlinejudge.com.br/judge/pt/problems/view/2171) - Dividindo com Fink *Ad-Hoc*
@@ -75,7 +75,7 @@
   - [ ] [2173](https://www.urionlinejudge.com.br/judge/pt/problems/view/2173) - Caixa Dois *Grafos*
   - [ ] [2174](https://www.urionlinejudge.com.br/judge/pt/problems/view/2174) - Coleção de Pomekon *Strings*
   - [ ] [2175](https://www.urionlinejudge.com.br/judge/pt/problems/view/2175) - Qual o Mais Rápido? *Ad-Hoc*
-  - [ ] [2176](https://www.urionlinejudge.com.br/judge/pt/problems/view/2176) - Paridade *Iniciante*
+  - [x] [2176](https://www.urionlinejudge.com.br/judge/pt/problems/view/2176) - [Paridade](https://github.com/potigol/URI-Potigol/blob/master/src/2101-2200/2176.poti) *Iniciante*
   - [ ] [2177](https://www.urionlinejudge.com.br/judge/pt/problems/view/2177) - Rio 2016 *Matemática*
   - [ ] [2178](https://www.urionlinejudge.com.br/judge/pt/problems/view/2178) - Lagoa Azul *Ad-Hoc*
   - [ ] [2179](https://www.urionlinejudge.com.br/judge/pt/problems/view/2179) - Batuke *Ad-Hoc*

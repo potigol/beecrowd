@@ -1,0 +1,4 @@
+n = leia_inteiro
+nums = leia_inteiros(" ")
+c = nums.selecione(_ == n).tamanho
+escreva c

@@ -5,7 +5,7 @@
   - [ ] [2003](https://www.urionlinejudge.com.br/judge/pt/problems/view/2003) - Domingo de Manhã *Iniciante*
   - [ ] [2004](https://www.urionlinejudge.com.br/judge/pt/problems/view/2004) - Enisvaldo Com Fome *Ad-Hoc*
   - [ ] [2005](https://www.urionlinejudge.com.br/judge/pt/problems/view/2005) - Fracil Bolado *Ad-Hoc*
-  - [ ] [2006](https://www.urionlinejudge.com.br/judge/pt/problems/view/2006) - Identificando o Chá *Iniciante*
+  - [x] [2006](https://www.urionlinejudge.com.br/judge/pt/problems/view/2006) - [Identificando o Chá](https://github.com/potigol/URI-Potigol/blob/master/src/2001-2100/2006.poti) *Iniciante*
   - [ ] [2007](https://www.urionlinejudge.com.br/judge/pt/problems/view/2007) - Falha Ao Cercar Legumes *Matemática*
   - [ ] [2008](https://www.urionlinejudge.com.br/judge/pt/problems/view/2008) - Expondo a Corrupção *Ad-Hoc*
   - [ ] [2009](https://www.urionlinejudge.com.br/judge/pt/problems/view/2009) - Apenas um Pouco Classificadas *Ad-Hoc*
@@ -56,7 +56,7 @@
   - [ ] [2054](https://www.urionlinejudge.com.br/judge/pt/problems/view/2054) - Last Year at Marienbad *Ad-Hoc*
   - [ ] [2055](https://www.urionlinejudge.com.br/judge/pt/problems/view/2055) - Lisp é Melhor que Java, C e C++ *Strings*
   - [ ] [2056](https://www.urionlinejudge.com.br/judge/pt/problems/view/2056) - O Cubo *Grafos*
-  - [ ] [2057](https://www.urionlinejudge.com.br/judge/pt/problems/view/2057) - Fuso Horário *Iniciante*
+  - [x] [2057](https://www.urionlinejudge.com.br/judge/pt/problems/view/2057) - [Fuso Horário](https://github.com/potigol/URI-Potigol/blob/master/src/2001-2100/2057.poti) *Iniciante*
   - [x] [2058](https://www.urionlinejudge.com.br/judge/pt/problems/view/2058) - [Triângulos e Polígonos Regulares](https://github.com/potigol/URI-Potigol/blob/master/src/2001-2100/2058.poti) *Ad-Hoc*
   - [x] [2059](https://www.urionlinejudge.com.br/judge/pt/problems/view/2059) - [Ímpar, Par ou Roubo](https://github.com/potigol/URI-Potigol/blob/master/src/2001-2100/2059.poti) *Iniciante*
   - [x] [2060](https://www.urionlinejudge.com.br/judge/pt/problems/view/2060) - [Desafio de Bino](https://github.com/potigol/URI-Potigol/blob/master/src/2001-2100/2060.poti) *Iniciante*

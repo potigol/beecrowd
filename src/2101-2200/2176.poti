@@ -1,0 +1,3 @@
+a = leia_texto
+imprima a
+escreva a.selecione(_ == '1').tamanho mod 2

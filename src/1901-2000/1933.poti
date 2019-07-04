@@ -1,0 +1,7 @@
+s = leia_inteiros(" ")
+a, b = s[1], s[2]
+se a > b então
+  escreva a
+senão
+  escreva b
+fim

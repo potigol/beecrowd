@@ -1,0 +1,4 @@
+a, b, c = leia_texto
+escreva "A = {a}, B = {b}, C = {c}"
+escreva "A = {b}, B = {c}, C = {a}"
+escreva "A = {c}, B = {a}, C = {b}"
