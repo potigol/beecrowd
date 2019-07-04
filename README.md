@@ -44,13 +44,13 @@ Soluções dos problemas do [URI Online Judge](https://www.urionlinejudge.com.br
 [2801 - 2900](src/2801-2900) |
 [2901 - 3000](src/2901-3000) 
 
-## Contribua
+## Participe
 
-Contribua para este projeto com soluções para os problemas.
+Participe deste projeto com soluções para os problemas.
 
 [Veja quem já contribuiu.](https://github.com/potigol/URI-Potigol/graphs/contributors?from=2018-09-30&to=2019-02-12&type=a)
 
-### Como contribuir ...
+### Como participar ...
 
  - Faça o download da linguagem Potigol http://potigol.github.io
  - Faça um fork deste projeto
