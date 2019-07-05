@@ -1,0 +1,6 @@
+n = leia_texto
+se n.tamanho <= 140 então
+  escreva "TWEET"
+senão
+  escreva "MUTE"
+fim

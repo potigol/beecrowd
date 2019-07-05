@@ -1,0 +1,4 @@
+n = leia_inteiro
+r5 = 5 ^ 0.5
+fib = (((1 + r5) / 2) ^ n - ((1 - r5) / 2) ^ n) / r5
+escreva "{fib formato "%.1f"}"

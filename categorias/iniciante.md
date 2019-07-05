@@ -44,8 +44,6 @@
   - [ ] [2160](https://www.urionlinejudge.com.br/judge/pt/problems/view/2160) - Nome no Formulário
   - [ ] [2162](https://www.urionlinejudge.com.br/judge/pt/problems/view/2162) - Picos e Vales
   - [ ] [2163](https://www.urionlinejudge.com.br/judge/pt/problems/view/2163) - O Despertar da Força
-  - [ ] [2164](https://www.urionlinejudge.com.br/judge/pt/problems/view/2164) - Fibonacci Rápido
-  - [ ] [2165](https://www.urionlinejudge.com.br/judge/pt/problems/view/2165) - Tuitando
   - [ ] [2166](https://www.urionlinejudge.com.br/judge/pt/problems/view/2166) - Raiz Quadrada de 2
   - [ ] [2167](https://www.urionlinejudge.com.br/judge/pt/problems/view/2167) - Falha do Motor
   - [ ] [2172](https://www.urionlinejudge.com.br/judge/pt/problems/view/2172) - Evento
@@ -139,7 +137,9 @@
   - [ ] [2845](https://www.urionlinejudge.com.br/judge/pt/problems/view/2845) - Festa no Polo Norte
   - [ ] [2846](https://www.urionlinejudge.com.br/judge/pt/problems/view/2846) - Fibonot
   - [ ] [2852](https://www.urionlinejudge.com.br/judge/pt/problems/view/2852) - Troca de Mensagens
+  - [ ] [2855](https://www.urionlinejudge.com.br/judge/pt/problems/view/2855) - Números de Sorte
   - [ ] [2863](https://www.urionlinejudge.com.br/judge/pt/problems/view/2863) - Umil Bolt
+  - [ ] [2869](https://www.urionlinejudge.com.br/judge/pt/problems/view/2869) - Falando em Divisor...
   - [ ] [2930](https://www.urionlinejudge.com.br/judge/pt/problems/view/2930) - TCC da Depressão Natalino
   - [x] [1001](https://www.urionlinejudge.com.br/judge/pt/problems/view/1001) - [Extremamente Básico](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1001.poti)
   - [x] [1002](https://www.urionlinejudge.com.br/judge/pt/problems/view/1002) - [Área do Círculo](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1002.poti)
@@ -261,6 +261,8 @@
   - [x] [2060](https://www.urionlinejudge.com.br/judge/pt/problems/view/2060) - [Desafio de Bino](https://github.com/potigol/URI-Potigol/blob/master/src/2001-2100/2060.poti)
   - [x] [2146](https://www.urionlinejudge.com.br/judge/pt/problems/view/2146) - [Senha](https://github.com/potigol/URI-Potigol/blob/master/src/2101-2200/2146.poti)
   - [x] [2161](https://www.urionlinejudge.com.br/judge/pt/problems/view/2161) - [Raiz Quadrada de 10](https://github.com/potigol/URI-Potigol/blob/master/src/2101-2200/2161.poti)
+  - [x] [2164](https://www.urionlinejudge.com.br/judge/pt/problems/view/2164) - [Fibonacci Rápido](https://github.com/potigol/URI-Potigol/blob/master/src/2101-2200/2164.poti)
+  - [x] [2165](https://www.urionlinejudge.com.br/judge/pt/problems/view/2165) - [Tuitando](https://github.com/potigol/URI-Potigol/blob/master/src/2101-2200/2165.poti)
   - [x] [2168](https://www.urionlinejudge.com.br/judge/pt/problems/view/2168) - [Crepúsculo em Portland](https://github.com/potigol/URI-Potigol/blob/master/src/2101-2200/2168.poti)
   - [x] [2176](https://www.urionlinejudge.com.br/judge/pt/problems/view/2176) - [Paridade](https://github.com/potigol/URI-Potigol/blob/master/src/2101-2200/2176.poti)
   - [x] [2234](https://www.urionlinejudge.com.br/judge/pt/problems/view/2234) - [Cachorros-Quentes](https://github.com/potigol/URI-Potigol/blob/master/src/2201-2300/2234.poti)
@@ -299,10 +301,8 @@
   - [x] [2807](https://www.urionlinejudge.com.br/judge/pt/problems/view/2807) - [Iccanobif](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2807.poti)
   - [x] [2808](https://www.urionlinejudge.com.br/judge/pt/problems/view/2808) - [Mais Cavalos](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2808.poti)
   - [x] [2850](https://www.urionlinejudge.com.br/judge/pt/problems/view/2850) - [Papagaio Poliglota](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2850.poti)
-  - [x] [2855](https://www.urionlinejudge.com.br/judge/pt/problems/view/2855) - [Números de Sorte](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2855.poti)
   - [x] [2861](https://www.urionlinejudge.com.br/judge/pt/problems/view/2861) - [A Saída](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2861.poti)
   - [x] [2862](https://www.urionlinejudge.com.br/judge/pt/problems/view/2862) - [Inseto!](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2862.poti)
   - [x] [2867](https://www.urionlinejudge.com.br/judge/pt/problems/view/2867) - [Dígitos](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2867.poti)
-  - [x] [2869](https://www.urionlinejudge.com.br/judge/pt/problems/view/2869) - [Falando em Divisor...](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2869.poti)
   - [x] [2879](https://www.urionlinejudge.com.br/judge/pt/problems/view/2879) - [Desvendando Monty Hall](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2879.poti)
   - [x] [2896](https://www.urionlinejudge.com.br/judge/pt/problems/view/2896) - [Aproveite a Oferta](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2896.poti)

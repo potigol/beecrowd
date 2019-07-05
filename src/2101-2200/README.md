@@ -63,8 +63,8 @@
   - [x] [2161](https://www.urionlinejudge.com.br/judge/pt/problems/view/2161) - [Raiz Quadrada de 10](https://github.com/potigol/URI-Potigol/blob/master/src/2101-2200/2161.poti) *Iniciante*
   - [ ] [2162](https://www.urionlinejudge.com.br/judge/pt/problems/view/2162) - Picos e Vales *Iniciante*
   - [ ] [2163](https://www.urionlinejudge.com.br/judge/pt/problems/view/2163) - O Despertar da Força *Iniciante*
-  - [ ] [2164](https://www.urionlinejudge.com.br/judge/pt/problems/view/2164) - Fibonacci Rápido *Iniciante*
-  - [ ] [2165](https://www.urionlinejudge.com.br/judge/pt/problems/view/2165) - Tuitando *Iniciante*
+  - [x] [2164](https://www.urionlinejudge.com.br/judge/pt/problems/view/2164) - [Fibonacci Rápido](https://github.com/potigol/URI-Potigol/blob/master/src/2101-2200/2164.poti) *Iniciante*
+  - [x] [2165](https://www.urionlinejudge.com.br/judge/pt/problems/view/2165) - [Tuitando](https://github.com/potigol/URI-Potigol/blob/master/src/2101-2200/2165.poti) *Iniciante*
   - [ ] [2166](https://www.urionlinejudge.com.br/judge/pt/problems/view/2166) - Raiz Quadrada de 2 *Iniciante*
   - [ ] [2167](https://www.urionlinejudge.com.br/judge/pt/problems/view/2167) - Falha do Motor *Iniciante*
   - [x] [2168](https://www.urionlinejudge.com.br/judge/pt/problems/view/2168) - [Crepúsculo em Portland](https://github.com/potigol/URI-Potigol/blob/master/src/2101-2200/2168.poti) *Iniciante*
