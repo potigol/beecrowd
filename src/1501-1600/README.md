@@ -56,7 +56,7 @@
   - [ ] [1554](https://www.urionlinejudge.com.br/judge/pt/problems/view/1554) - Bilhar N+1 *Matemática*
   - [ ] [1555](https://www.urionlinejudge.com.br/judge/pt/problems/view/1555) - Funções *Matemática*
   - [ ] [1556](https://www.urionlinejudge.com.br/judge/pt/problems/view/1556) - Removendo Letras *Strings*
-  - [ ] [1557](https://www.urionlinejudge.com.br/judge/pt/problems/view/1557) - Matriz Quadrada III *Iniciante*
+  - [x] [1557](https://www.urionlinejudge.com.br/judge/pt/problems/view/1557) - [Matriz Quadrada III](https://github.com/potigol/URI-Potigol/blob/master/src/1501-1600/1557.poti) *Iniciante*
   - [ ] [1558](https://www.urionlinejudge.com.br/judge/pt/problems/view/1558) - Soma de Dois Quadrados *Ad-Hoc*
   - [ ] [1559](https://www.urionlinejudge.com.br/judge/pt/problems/view/1559) - 2048 *Ad-Hoc*
   - [ ] [1560](https://www.urionlinejudge.com.br/judge/pt/problems/view/1560) - Energia dos Triângulos *Geometria Computacional*

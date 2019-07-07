@@ -90,7 +90,7 @@
   - [ ] [2788](https://www.urionlinejudge.com.br/judge/pt/problems/view/2788) - Aula *Ad-Hoc*
   - [ ] [2789](https://www.urionlinejudge.com.br/judge/pt/problems/view/2789) - Crise Hídrica *Ad-Hoc*
   - [ ] [2790](https://www.urionlinejudge.com.br/judge/pt/problems/view/2790) - Dados *Ad-Hoc*
-  - [ ] [2791](https://www.urionlinejudge.com.br/judge/pt/problems/view/2791) - Feijão *Iniciante*
+  - [x] [2791](https://www.urionlinejudge.com.br/judge/pt/problems/view/2791) - [Feijão](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2791.poti) *Iniciante*
   - [ ] [2792](https://www.urionlinejudge.com.br/judge/pt/problems/view/2792) - Golnaldinho *Ad-Hoc*
   - [ ] [2793](https://www.urionlinejudge.com.br/judge/pt/problems/view/2793) - HM *Ad-Hoc*
   - [ ] [2794](https://www.urionlinejudge.com.br/judge/pt/problems/view/2794) - Montes Claros *Ad-Hoc*

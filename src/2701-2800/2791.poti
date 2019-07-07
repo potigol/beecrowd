@@ -1,0 +1,7 @@
+a = leia_texto
+escolha a
+  caso "1 0 0 0" => escreva 1
+  caso "0 1 0 0" => escreva 2
+  caso "0 0 1 0" => escreva 3
+  caso _         => escreva 4
+fim

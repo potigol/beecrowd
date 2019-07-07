@@ -1,0 +1,14 @@
+pot = para i de 0 até 38 gere (2 ^ i).inteiro fim
+var n := leia_inteiro
+enquanto n > 0 faça
+  tam = "%{pot[2 * n - 1].texto.tamanho}d"
+  para i de 1 até n faça
+    imprima pot[i] formato tam
+    para j de 2 até n faça
+      imprima " {pot[i + j - 1] formato tam}"
+    fim
+    escreva ""
+  fim
+  escreva ""
+  n := leia_inteiro
+fim

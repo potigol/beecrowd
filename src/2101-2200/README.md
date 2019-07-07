@@ -39,7 +39,7 @@
   - [ ] [2137](https://www.urionlinejudge.com.br/judge/pt/problems/view/2137) - A Biblioteca do Senhor Severino *Strings*
   - [ ] [2138](https://www.urionlinejudge.com.br/judge/pt/problems/view/2138) - Dígito Mais Frequente *Ad-Hoc*
   - [ ] [2139](https://www.urionlinejudge.com.br/judge/pt/problems/view/2139) - Natal de Pedrinho *Iniciante*
-  - [ ] [2140](https://www.urionlinejudge.com.br/judge/pt/problems/view/2140) - Duas Notas *Iniciante*
+  - [x] [2140](https://www.urionlinejudge.com.br/judge/pt/problems/view/2140) - [Duas Notas](https://github.com/potigol/URI-Potigol/blob/master/src/2101-2200/2140.poti) *Iniciante*
   - [ ] [2141](https://www.urionlinejudge.com.br/judge/pt/problems/view/2141) - P4 Simplificado *Ad-Hoc*
   - [ ] [2142](https://www.urionlinejudge.com.br/judge/pt/problems/view/2142) - Pegue o Pombo! *Ad-Hoc*
   - [ ] [2143](https://www.urionlinejudge.com.br/judge/pt/problems/view/2143) - A Volta do Radar *Iniciante*

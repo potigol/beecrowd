@@ -1,0 +1,11 @@
+trocos = [4, 10, 20, 40, 50, 200, 7, 12, 22, 52, 102, 15, 25,
+          55, 105, 30, 60, 110, 70, 120, 150]
+var a:= leia_inteiros(" ")
+enquanto a <> [0,0] faça
+  se trocos.contém(a[2]-a[1]) então
+    escreva "possible"
+  senão
+    escreva "impossible"
+  fim
+  a := leia_inteiros(" ")
+fim
