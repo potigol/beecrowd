@@ -82,14 +82,14 @@
   - [x] [1180](https://www.urionlinejudge.com.br/judge/pt/problems/view/1180) - [Menor e Posição](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1180.poti) *Iniciante*
   - [x] [1181](https://www.urionlinejudge.com.br/judge/pt/problems/view/1181) - [Linha na Matriz](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1181.poti) *Iniciante*
   - [x] [1182](https://www.urionlinejudge.com.br/judge/pt/problems/view/1182) - [Coluna na Matriz](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1182.poti) *Iniciante*
-  - [ ] [1183](https://www.urionlinejudge.com.br/judge/pt/problems/view/1183) - Acima da Diagonal Principal *Iniciante*
-  - [ ] [1184](https://www.urionlinejudge.com.br/judge/pt/problems/view/1184) - Abaixo da Diagonal Principal *Iniciante*
-  - [ ] [1185](https://www.urionlinejudge.com.br/judge/pt/problems/view/1185) - Acima da Diagonal Secundária *Iniciante*
-  - [ ] [1186](https://www.urionlinejudge.com.br/judge/pt/problems/view/1186) - Abaixo da Diagonal Secundária *Iniciante*
-  - [ ] [1187](https://www.urionlinejudge.com.br/judge/pt/problems/view/1187) - Área Superior *Iniciante*
-  - [ ] [1188](https://www.urionlinejudge.com.br/judge/pt/problems/view/1188) - Área Inferior *Iniciante*
-  - [ ] [1189](https://www.urionlinejudge.com.br/judge/pt/problems/view/1189) - Área Esquerda *Iniciante*
-  - [ ] [1190](https://www.urionlinejudge.com.br/judge/pt/problems/view/1190) - Área Direita *Iniciante*
+  - [x] [1183](https://www.urionlinejudge.com.br/judge/pt/problems/view/1183) - [Acima da Diagonal Principal](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1183.poti) *Iniciante*
+  - [x] [1184](https://www.urionlinejudge.com.br/judge/pt/problems/view/1184) - [Abaixo da Diagonal Principal](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1184.poti) *Iniciante*
+  - [x] [1185](https://www.urionlinejudge.com.br/judge/pt/problems/view/1185) - [Acima da Diagonal Secundária](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1185.poti) *Iniciante*
+  - [x] [1186](https://www.urionlinejudge.com.br/judge/pt/problems/view/1186) - [Abaixo da Diagonal Secundária](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1186.poti) *Iniciante*
+  - [x] [1187](https://www.urionlinejudge.com.br/judge/pt/problems/view/1187) - [Área Superior](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1187.poti) *Iniciante*
+  - [x] [1188](https://www.urionlinejudge.com.br/judge/pt/problems/view/1188) - [Área Inferior](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1188.poti) *Iniciante*
+  - [x] [1189](https://www.urionlinejudge.com.br/judge/pt/problems/view/1189) - [Área Esquerda](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1189.poti) *Iniciante*
+  - [x] [1190](https://www.urionlinejudge.com.br/judge/pt/problems/view/1190) - [Área Direita](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1190.poti) *Iniciante*
   - [ ] [1191](https://www.urionlinejudge.com.br/judge/pt/problems/view/1191) - Recuperação da Árvore *Grafos*
   - [ ] [1192](https://www.urionlinejudge.com.br/judge/pt/problems/view/1192) - O jogo Matemático de Paula *Ad-Hoc*
   - [ ] [1193](https://www.urionlinejudge.com.br/judge/pt/problems/view/1193) - Conversão entre Bases *Matemática*

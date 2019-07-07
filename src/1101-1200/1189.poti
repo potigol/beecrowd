@@ -1,0 +1,11 @@
+o = leia_texto
+nums = leia_reais(144)
+var soma := 0.0
+para j de 1 até 12, i de j até 11-j faça
+  soma := soma + nums[i * 12 + j]
+fim
+se o == "S" então
+  escreva soma formato "%.1f"
+senão
+  escreva soma / 30 formato "%.1f"
+fim

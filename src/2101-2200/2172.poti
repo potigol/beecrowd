@@ -1,0 +1,5 @@
+var entrada := leia_inteiros(" ")
+enquanto entrada[2] <> 0 faça
+  escreva entrada[1] * entrada[2]
+  entrada := leia_inteiros(" ")
+fim

@@ -1,0 +1,6 @@
+n = leia_inteiro
+var r := 0.0
+para i de 1 até n faça
+  r := 1 / (2 + r)
+fim
+escreva (r + 1) formato "%.10f"

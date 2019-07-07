@@ -65,13 +65,13 @@
   - [ ] [2163](https://www.urionlinejudge.com.br/judge/pt/problems/view/2163) - O Despertar da Força *Iniciante*
   - [x] [2164](https://www.urionlinejudge.com.br/judge/pt/problems/view/2164) - [Fibonacci Rápido](https://github.com/potigol/URI-Potigol/blob/master/src/2101-2200/2164.poti) *Iniciante*
   - [x] [2165](https://www.urionlinejudge.com.br/judge/pt/problems/view/2165) - [Tuitando](https://github.com/potigol/URI-Potigol/blob/master/src/2101-2200/2165.poti) *Iniciante*
-  - [ ] [2166](https://www.urionlinejudge.com.br/judge/pt/problems/view/2166) - Raiz Quadrada de 2 *Iniciante*
+  - [x] [2166](https://www.urionlinejudge.com.br/judge/pt/problems/view/2166) - [Raiz Quadrada de 2](https://github.com/potigol/URI-Potigol/blob/master/src/2101-2200/2166.poti) *Iniciante*
   - [ ] [2167](https://www.urionlinejudge.com.br/judge/pt/problems/view/2167) - Falha do Motor *Iniciante*
   - [x] [2168](https://www.urionlinejudge.com.br/judge/pt/problems/view/2168) - [Crepúsculo em Portland](https://github.com/potigol/URI-Potigol/blob/master/src/2101-2200/2168.poti) *Iniciante*
   - [ ] [2169](https://www.urionlinejudge.com.br/judge/pt/problems/view/2169) - Ajude o Leonardo! *Paradigmas*
   - [ ] [2170](https://www.urionlinejudge.com.br/judge/pt/problems/view/2170) - Juros do Projeto *Matemática*
   - [ ] [2171](https://www.urionlinejudge.com.br/judge/pt/problems/view/2171) - Dividindo com Fink *Ad-Hoc*
-  - [ ] [2172](https://www.urionlinejudge.com.br/judge/pt/problems/view/2172) - Evento *Iniciante*
+  - [x] [2172](https://www.urionlinejudge.com.br/judge/pt/problems/view/2172) - [Evento](https://github.com/potigol/URI-Potigol/blob/master/src/2101-2200/2172.poti) *Iniciante*
   - [ ] [2173](https://www.urionlinejudge.com.br/judge/pt/problems/view/2173) - Caixa Dois *Grafos*
   - [ ] [2174](https://www.urionlinejudge.com.br/judge/pt/problems/view/2174) - Coleção de Pomekon *Strings*
   - [ ] [2175](https://www.urionlinejudge.com.br/judge/pt/problems/view/2175) - Qual o Mais Rápido? *Ad-Hoc*

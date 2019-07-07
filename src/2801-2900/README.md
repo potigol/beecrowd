@@ -68,7 +68,7 @@
   - [ ] [2866](https://www.urionlinejudge.com.br/judge/pt/problems/view/2866) - Criptotexto *Strings*
   - [x] [2867](https://www.urionlinejudge.com.br/judge/pt/problems/view/2867) - [Dígitos](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2867.poti) *Iniciante*
   - [ ] [2868](https://www.urionlinejudge.com.br/judge/pt/problems/view/2868) - Errrou! *Ad-Hoc*
-  - [ ] [2869](https://www.urionlinejudge.com.br/judge/pt/problems/view/2869) - Falando em Divisor... *Iniciante*
+  - [x] [2869](https://www.urionlinejudge.com.br/judge/pt/problems/view/2869) - [Falando em Divisor...](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2869.poti) *Iniciante*
   - [ ] [2870](https://www.urionlinejudge.com.br/judge/pt/problems/view/2870) - Jogo do Mapa *Grafos*
   - [ ] [2871](https://www.urionlinejudge.com.br/judge/pt/problems/view/2871) - Colheita de Café *Ad-Hoc*
   - [ ] [2872](https://www.urionlinejudge.com.br/judge/pt/problems/view/2872) - Protocolo TCP/IP *Estruturas e Bibliotecas*
