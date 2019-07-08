@@ -1,0 +1,11 @@
+n = leia_inteiro
+para i de 1 até n faça
+  s = leia_texto
+  num = s.descarte(2).descarte_enquanto(_ == '0')
+  se s.tamanho == 20 e s.pegue(2) == "RA" e
+      num.selecione(a => a >= '0' e a <= '9') == num então
+    escreva num
+  senão
+    escreva "INVALID DATA"
+  fim
+fim

@@ -13,7 +13,7 @@
   - [ ] [2711](https://www.urionlinejudge.com.br/judge/pt/problems/view/2711) - Destravando o Celular *Matemática*
   - [x] [2712](https://www.urionlinejudge.com.br/judge/pt/problems/view/2712) - [Rodízio Veicular](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2712.poti) *Iniciante*
   - [ ] [2713](https://www.urionlinejudge.com.br/judge/pt/problems/view/2713) - O Mago é Implacável! *Paradigmas*
-  - [ ] [2714](https://www.urionlinejudge.com.br/judge/pt/problems/view/2714) - Minha Senha Provisória *Strings*
+  - [x] [2714](https://www.urionlinejudge.com.br/judge/pt/problems/view/2714) - [Minha Senha Provisória](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2714.poti) *Strings*
   - [ ] [2715](https://www.urionlinejudge.com.br/judge/pt/problems/view/2715) - Dividindo os Trabalhos I *Iniciante*
   - [ ] [2716](https://www.urionlinejudge.com.br/judge/pt/problems/view/2716) - Dividindo os Trabalhos II *Paradigmas*
   - [x] [2717](https://www.urionlinejudge.com.br/judge/pt/problems/view/2717) - [Tempo do Duende](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2717.poti) *Iniciante*

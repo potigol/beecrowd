@@ -50,7 +50,7 @@
   - [ ] [1548](https://www.urionlinejudge.com.br/judge/pt/problems/view/1548) - Fila do Recreio *Estruturas e Bibliotecas*
   - [ ] [1549](https://www.urionlinejudge.com.br/judge/pt/problems/view/1549) - Dividindo a Coca *Geometria Computacional*
   - [ ] [1550](https://www.urionlinejudge.com.br/judge/pt/problems/view/1550) - Inversão *Grafos*
-  - [ ] [1551](https://www.urionlinejudge.com.br/judge/pt/problems/view/1551) - Frase Completa *Strings*
+  - [x] [1551](https://www.urionlinejudge.com.br/judge/pt/problems/view/1551) - [Frase Completa](https://github.com/potigol/URI-Potigol/blob/master/src/1501-1600/1551.poti) *Strings*
   - [ ] [1552](https://www.urionlinejudge.com.br/judge/pt/problems/view/1552) - Resgate em Queda Livre *Grafos*
   - [ ] [1553](https://www.urionlinejudge.com.br/judge/pt/problems/view/1553) - Perguntas mais Frequentes *Ad-Hoc*
   - [ ] [1554](https://www.urionlinejudge.com.br/judge/pt/problems/view/1554) - Bilhar N+1 *Matemática*

@@ -37,7 +37,7 @@
   - [ ] [1235](https://www.urionlinejudge.com.br/judge/pt/problems/view/1235) - De Dentro para Fora *Strings*
   - [ ] [1236](https://www.urionlinejudge.com.br/judge/pt/problems/view/1236) - Compactação de Nulos e Brancos *Estruturas e Bibliotecas*
   - [ ] [1237](https://www.urionlinejudge.com.br/judge/pt/problems/view/1237) - Comparação de Substring *Strings*
-  - [ ] [1238](https://www.urionlinejudge.com.br/judge/pt/problems/view/1238) - Combinador *Strings*
+  - [x] [1238](https://www.urionlinejudge.com.br/judge/pt/problems/view/1238) - [Combinador](https://github.com/potigol/URI-Potigol/blob/master/src/1201-1300/1238.poti) *Strings*
   - [ ] [1239](https://www.urionlinejudge.com.br/judge/pt/problems/view/1239) - Atalhos Bloggo *Strings*
   - [ ] [1240](https://www.urionlinejudge.com.br/judge/pt/problems/view/1240) - Encaixa ou Não I *Matemática*
   - [ ] [1241](https://www.urionlinejudge.com.br/judge/pt/problems/view/1241) - Encaixa ou Não II *Strings*

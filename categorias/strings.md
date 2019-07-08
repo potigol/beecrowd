@@ -1,4 +1,4 @@
-# Strings (7 / 121)
+# Strings (10 / 121)
 
   - [ ] [1024](https://www.urionlinejudge.com.br/judge/pt/problems/view/1024) - Criptografia
   - [ ] [1120](https://www.urionlinejudge.com.br/judge/pt/problems/view/1120) - Revisão de Contrato
@@ -7,7 +7,6 @@
   - [ ] [1234](https://www.urionlinejudge.com.br/judge/pt/problems/view/1234) - Sentença Dançante
   - [ ] [1235](https://www.urionlinejudge.com.br/judge/pt/problems/view/1235) - De Dentro para Fora
   - [ ] [1237](https://www.urionlinejudge.com.br/judge/pt/problems/view/1237) - Comparação de Substring
-  - [ ] [1238](https://www.urionlinejudge.com.br/judge/pt/problems/view/1238) - Combinador
   - [ ] [1239](https://www.urionlinejudge.com.br/judge/pt/problems/view/1239) - Atalhos Bloggo
   - [ ] [1241](https://www.urionlinejudge.com.br/judge/pt/problems/view/1241) - Encaixa ou Não II
   - [ ] [1243](https://www.urionlinejudge.com.br/judge/pt/problems/view/1243) - O Quão Fácil é...
@@ -46,7 +45,6 @@
   - [ ] [1516](https://www.urionlinejudge.com.br/judge/pt/problems/view/1516) - Imagem
   - [ ] [1519](https://www.urionlinejudge.com.br/judge/pt/problems/view/1519) - Abreviações
   - [ ] [1530](https://www.urionlinejudge.com.br/judge/pt/problems/view/1530) - Quantas Substrings?
-  - [ ] [1551](https://www.urionlinejudge.com.br/judge/pt/problems/view/1551) - Frase Completa
   - [ ] [1556](https://www.urionlinejudge.com.br/judge/pt/problems/view/1556) - Removendo Letras
   - [ ] [1581](https://www.urionlinejudge.com.br/judge/pt/problems/view/1581) - Conversa Internacional
   - [ ] [1586](https://www.urionlinejudge.com.br/judge/pt/problems/view/1586) - Cabo de Guerra
@@ -108,16 +106,18 @@
   - [ ] [2691](https://www.urionlinejudge.com.br/judge/pt/problems/view/2691) - O Matemático
   - [ ] [2692](https://www.urionlinejudge.com.br/judge/pt/problems/view/2692) - Teclado Zoeiro
   - [ ] [2697](https://www.urionlinejudge.com.br/judge/pt/problems/view/2697) - Sequencia Completa de Naebbirac
-  - [ ] [2714](https://www.urionlinejudge.com.br/judge/pt/problems/view/2714) - Minha Senha Provisória
   - [ ] [2728](https://www.urionlinejudge.com.br/judge/pt/problems/view/2728) - Grace Hopper, a Vovó do Cobol
   - [ ] [2815](https://www.urionlinejudge.com.br/judge/pt/problems/view/2815) - Digitador Gago
   - [ ] [2824](https://www.urionlinejudge.com.br/judge/pt/problems/view/2824) - Pudim
   - [ ] [2825](https://www.urionlinejudge.com.br/judge/pt/problems/view/2825) - L de Atreus!?
   - [ ] [2866](https://www.urionlinejudge.com.br/judge/pt/problems/view/2866) - Criptotexto
   - [x] [1168](https://www.urionlinejudge.com.br/judge/pt/problems/view/1168) - [LED](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1168.poti)
+  - [x] [1238](https://www.urionlinejudge.com.br/judge/pt/problems/view/1238) - [Combinador](https://github.com/potigol/URI-Potigol/blob/master/src/1201-1300/1238.poti)
   - [x] [1332](https://www.urionlinejudge.com.br/judge/pt/problems/view/1332) - [Um-Dois-Três](https://github.com/potigol/URI-Potigol/blob/master/src/1301-1400/1332.poti)
+  - [x] [1551](https://www.urionlinejudge.com.br/judge/pt/problems/view/1551) - [Frase Completa](https://github.com/potigol/URI-Potigol/blob/master/src/1501-1600/1551.poti)
   - [x] [2242](https://www.urionlinejudge.com.br/judge/pt/problems/view/2242) - [Huaauhahhuahau](https://github.com/potigol/URI-Potigol/blob/master/src/2201-2300/2242.poti)
   - [x] [2587](https://www.urionlinejudge.com.br/judge/pt/problems/view/2587) - [Jetiqui](https://github.com/potigol/URI-Potigol/blob/master/src/2501-2600/2587.poti)
   - [x] [2694](https://www.urionlinejudge.com.br/judge/pt/problems/view/2694) - [Problema com a Calculadora](https://github.com/potigol/URI-Potigol/blob/master/src/2601-2700/2694.poti)
+  - [x] [2714](https://www.urionlinejudge.com.br/judge/pt/problems/view/2714) - [Minha Senha Provisória](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2714.poti)
   - [x] [2722](https://www.urionlinejudge.com.br/judge/pt/problems/view/2722) - [Pegadinha de Evergreen](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2722.poti)
   - [x] [2880](https://www.urionlinejudge.com.br/judge/pt/problems/view/2880) - [Enigma](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2880.poti)

@@ -1,7 +1,6 @@
-# Matemática (6 / 211)
+# Matemática (7 / 211)
 
   - [ ] [1093](https://www.urionlinejudge.com.br/judge/pt/problems/view/1093) - Vampiros
-  - [ ] [1161](https://www.urionlinejudge.com.br/judge/pt/problems/view/1161) - Soma de Fatoriais
   - [ ] [1163](https://www.urionlinejudge.com.br/judge/pt/problems/view/1163) - Angry Ducks
   - [ ] [1169](https://www.urionlinejudge.com.br/judge/pt/problems/view/1169) - Trigo no Tabuleiro
   - [ ] [1170](https://www.urionlinejudge.com.br/judge/pt/problems/view/1170) - Blobs
@@ -206,6 +205,7 @@
   - [ ] [2890](https://www.urionlinejudge.com.br/judge/pt/problems/view/2890) - Colorindo Tetraedros
   - [ ] [2892](https://www.urionlinejudge.com.br/judge/pt/problems/view/2892) - Treino No Velódromo
   - [x] [1028](https://www.urionlinejudge.com.br/judge/pt/problems/view/1028) - [Figurinhas](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1028.poti)
+  - [x] [1161](https://www.urionlinejudge.com.br/judge/pt/problems/view/1161) - [Soma de Fatoriais](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1161.poti)
   - [x] [1760](https://www.urionlinejudge.com.br/judge/pt/problems/view/1760) - [Floco de Neve de Koch](https://github.com/potigol/URI-Potigol/blob/master/src/1701-1800/1760.poti)
   - [x] [1795](https://www.urionlinejudge.com.br/judge/pt/problems/view/1795) - [Triângulo Trinomial](https://github.com/potigol/URI-Potigol/blob/master/src/1701-1800/1795.poti)
   - [x] [2661](https://www.urionlinejudge.com.br/judge/pt/problems/view/2661) - [Despojados](https://github.com/potigol/URI-Potigol/blob/master/src/2601-2700/2661.poti)

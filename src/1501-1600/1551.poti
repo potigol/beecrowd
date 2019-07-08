@@ -1,0 +1,13 @@
+n = leia_inteiro
+para i de 1 até n faça
+  letras = Lista.mutável(26, 0)
+  s = leia_texto.selecione(c => c >= 'a' e c <= 'z').lista
+  para c em s faça
+    letras[c - 'a' + 1] := 1
+  fim
+  escolha letras.selecione(_ == 1).tamanho
+    caso 26          => escreva "frase completa"
+    caso x se x > 13 => escreva "frase quase completa"
+    caso _           => escreva "frase mal elaborada"
+  fim
+fim

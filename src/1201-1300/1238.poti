@@ -1,0 +1,10 @@
+f(a, b: Texto): Texto =
+  se      a == "" então b
+  senãose b == "" então a
+  senão "{a.cabeça}{b.cabeça}{f(a.cauda, b.cauda)}" fim
+
+n = leia_inteiro
+para i de 1 até n faça
+  s = leia_textos(" ")
+  escreva f(s[1], s[2])
+fim
