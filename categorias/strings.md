@@ -1,4 +1,4 @@
-# Strings (10 / 121)
+# Strings (11 / 121)
 
   - [ ] [1024](https://www.urionlinejudge.com.br/judge/pt/problems/view/1024) - Criptografia
   - [ ] [1120](https://www.urionlinejudge.com.br/judge/pt/problems/view/1120) - Revisão de Contrato
@@ -15,7 +15,6 @@
   - [ ] [1253](https://www.urionlinejudge.com.br/judge/pt/problems/view/1253) - Cifra de César
   - [ ] [1254](https://www.urionlinejudge.com.br/judge/pt/problems/view/1254) - Substituição de Tag
   - [ ] [1255](https://www.urionlinejudge.com.br/judge/pt/problems/view/1255) - Frequência de Letras
-  - [ ] [1257](https://www.urionlinejudge.com.br/judge/pt/problems/view/1257) - Array Hash
   - [ ] [1262](https://www.urionlinejudge.com.br/judge/pt/problems/view/1262) - Leitura Múltipla
   - [ ] [1263](https://www.urionlinejudge.com.br/judge/pt/problems/view/1263) - Aliteração
   - [ ] [1272](https://www.urionlinejudge.com.br/judge/pt/problems/view/1272) - Mensagem Oculta
@@ -113,6 +112,7 @@
   - [ ] [2866](https://www.urionlinejudge.com.br/judge/pt/problems/view/2866) - Criptotexto
   - [x] [1168](https://www.urionlinejudge.com.br/judge/pt/problems/view/1168) - [LED](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1168.poti)
   - [x] [1238](https://www.urionlinejudge.com.br/judge/pt/problems/view/1238) - [Combinador](https://github.com/potigol/URI-Potigol/blob/master/src/1201-1300/1238.poti)
+  - [x] [1257](https://www.urionlinejudge.com.br/judge/pt/problems/view/1257) - [Array Hash](https://github.com/potigol/URI-Potigol/blob/master/src/1201-1300/1257.poti)
   - [x] [1332](https://www.urionlinejudge.com.br/judge/pt/problems/view/1332) - [Um-Dois-Três](https://github.com/potigol/URI-Potigol/blob/master/src/1301-1400/1332.poti)
   - [x] [1551](https://www.urionlinejudge.com.br/judge/pt/problems/view/1551) - [Frase Completa](https://github.com/potigol/URI-Potigol/blob/master/src/1501-1600/1551.poti)
   - [x] [2242](https://www.urionlinejudge.com.br/judge/pt/problems/view/2242) - [Huaauhahhuahau](https://github.com/potigol/URI-Potigol/blob/master/src/2201-2300/2242.poti)

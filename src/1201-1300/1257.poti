@@ -1,0 +1,12 @@
+n = leia_inteiro
+para i de 1 até n faça
+  l = leia_inteiro
+  var soma := 0
+  para j de 0 até l-1 faça
+    s = leia_texto.lista.mapeie(c => c - 'A')
+    para k de 0 até s.tamanho - 1 faça
+      soma := soma + s[k+1] + k + j
+    fim
+  fim
+  escreva soma
+fim

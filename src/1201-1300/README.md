@@ -56,7 +56,7 @@
   - [ ] [1254](https://www.urionlinejudge.com.br/judge/pt/problems/view/1254) - Substituição de Tag *Strings*
   - [ ] [1255](https://www.urionlinejudge.com.br/judge/pt/problems/view/1255) - Frequência de Letras *Strings*
   - [ ] [1256](https://www.urionlinejudge.com.br/judge/pt/problems/view/1256) - Tabelas Hash *Estruturas e Bibliotecas*
-  - [ ] [1257](https://www.urionlinejudge.com.br/judge/pt/problems/view/1257) - Array Hash *Strings*
+  - [x] [1257](https://www.urionlinejudge.com.br/judge/pt/problems/view/1257) - [Array Hash](https://github.com/potigol/URI-Potigol/blob/master/src/1201-1300/1257.poti) *Strings*
   - [ ] [1258](https://www.urionlinejudge.com.br/judge/pt/problems/view/1258) - Camisetas *Estruturas e Bibliotecas*
   - [ ] [1259](https://www.urionlinejudge.com.br/judge/pt/problems/view/1259) - Pares e Ímpares *Estruturas e Bibliotecas*
   - [ ] [1260](https://www.urionlinejudge.com.br/judge/pt/problems/view/1260) - Espécies de Madeira *Estruturas e Bibliotecas*
