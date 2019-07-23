@@ -1,0 +1,11 @@
+n = leia_inteiro
+letras = ["ISblv","EOYcmw","FPZdnx","JTeoy", "DNXfpz", "AKUgq", "CMWhr", "BLVis", "HRjt", "GQaku"]
+para i de 1 até n faça
+  s = leia_texto.selecione(_ <> ' ').pegue(12)
+  para k em s, j de 1 até 10 faça
+    se letras[j].contém(k) então
+      imprima j mod 10
+    fim
+  fim
+  escreva ""
+fim

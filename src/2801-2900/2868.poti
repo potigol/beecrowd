@@ -1,0 +1,14 @@
+n = leia_inteiro
+para i de 1 até n faça
+  s = leia_textos(" ")
+  a = s[1].inteiro
+  b = s[3].inteiro
+  c = s[5].inteiro
+  d = escolha s[2]
+    caso "+" => a + b
+    caso "-" => a - b
+    caso _   => a * b
+  fim
+  diff = (d - c).abs
+  escreva "E{"r"*diff}ou!"
+fim

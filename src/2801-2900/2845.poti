@@ -1,0 +1,14 @@
+n = leia_inteiro
+a = leia_inteiros(" ").ordene
+maior = a[-1]
+var ns := para x em a.descarte(1).pegue(20),
+               y de (maior div x + 1) * x até maior + 500 passo x gere y fim.ordene
+
+var m := maior + 1
+enquanto ns.tamanho > 1 e m >= ns[1] faça
+  ns := ns.cauda
+  se m == ns[1] então
+    m := m + 1
+  fim
+fim
+escreva m

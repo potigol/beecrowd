@@ -42,7 +42,7 @@
   - [ ] [2540](https://www.urionlinejudge.com.br/judge/pt/problems/view/2540) - Impeachment do Líder *Iniciante*
   - [ ] [2541](https://www.urionlinejudge.com.br/judge/pt/problems/view/2541) - Ingrest *Geometria Computacional*
   - [ ] [2542](https://www.urionlinejudge.com.br/judge/pt/problems/view/2542) - Iu-Di-Oh! *Iniciante*
-  - [ ] [2543](https://www.urionlinejudge.com.br/judge/pt/problems/view/2543) - Jogatina UFPR *Iniciante*
+  - [x] [2543](https://www.urionlinejudge.com.br/judge/pt/problems/view/2543) - [Jogatina UFPR](https://github.com/potigol/URI-Potigol/blob/master/src/2501-2600/2543.poti) *Iniciante*
   - [ ] [2544](https://www.urionlinejudge.com.br/judge/pt/problems/view/2544) - Kage Bunshin no Jutsu *Iniciante*
   - [ ] [2545](https://www.urionlinejudge.com.br/judge/pt/problems/view/2545) - Manyfile *Grafos*
   - [ ] [2546](https://www.urionlinejudge.com.br/judge/pt/problems/view/2546) - Mesada *Estruturas e Bibliotecas*

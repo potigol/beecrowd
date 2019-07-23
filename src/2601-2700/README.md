@@ -86,10 +86,10 @@
   - [ ] [2684](https://www.urionlinejudge.com.br/judge/pt/problems/view/2684) - Ajude o Professor Webscript!! *Iniciante*
   - [x] [2685](https://www.urionlinejudge.com.br/judge/pt/problems/view/2685) - [A Mudança](https://github.com/potigol/URI-Potigol/blob/master/src/2601-2700/2685.poti) *Iniciante*
   - [x] [2686](https://www.urionlinejudge.com.br/judge/pt/problems/view/2686) - [A Mudança Continua!!](https://github.com/potigol/URI-Potigol/blob/master/src/2601-2700/2686.poti) *Iniciante*
-  - [ ] [2687](https://www.urionlinejudge.com.br/judge/pt/problems/view/2687) - Dominação Bacteriana *Iniciante*
+  - [x] [2687](https://www.urionlinejudge.com.br/judge/pt/problems/view/2687) - [Dominação Bacteriana](https://github.com/potigol/URI-Potigol/blob/master/src/2601-2700/2687.poti) *Iniciante*
   - [ ] [2688](https://www.urionlinejudge.com.br/judge/pt/problems/view/2688) - Escolhendo um Lugar *Grafos*
   - [ ] [2689](https://www.urionlinejudge.com.br/judge/pt/problems/view/2689) - Jogo do Mião *Iniciante*
-  - [ ] [2690](https://www.urionlinejudge.com.br/judge/pt/problems/view/2690) - Nova Senha RA *Iniciante*
+  - [x] [2690](https://www.urionlinejudge.com.br/judge/pt/problems/view/2690) - [Nova Senha RA](https://github.com/potigol/URI-Potigol/blob/master/src/2601-2700/2690.poti) *Iniciante*
   - [ ] [2691](https://www.urionlinejudge.com.br/judge/pt/problems/view/2691) - O Matemático *Strings*
   - [ ] [2692](https://www.urionlinejudge.com.br/judge/pt/problems/view/2692) - Teclado Zoeiro *Strings*
   - [ ] [2693](https://www.urionlinejudge.com.br/judge/pt/problems/view/2693) - Van *Ad-Hoc*

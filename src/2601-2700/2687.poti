@@ -1,0 +1,21 @@
+q = leia_inteiro
+para i de 1 até q faça
+  l = leia_inteiro
+  grid = para j de 1 até l gere leia_inteiros(" ").mutável fim.mutável
+  var pontos = Lista(0, 0)
+  para j de 1 até l faça
+    pontos := [100 + j, 100 * l + j, 100 * j + 1, 100 * j + l] + pontos
+  fim
+  var area := l * l / 2
+  enquanto pontos.tamanho > 0 faça
+    ponto = pontos.cabeça
+    pontos := pontos.cauda
+    x, y = ponto div 100, ponto mod 100
+    se x > 0 e y > 0 e x <= l e y <= l e grid[x][y] == 0 então
+      area := area - 0.5
+      grid[x][y] := -1
+      pontos := [ponto - 100, ponto + 100, ponto + 1, ponto - 1] + pontos
+    fim
+  fim
+  escreva area formato "%.2f"
+fim

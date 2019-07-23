@@ -1,0 +1,18 @@
+n = leia_inteiro
+var casa, escritorio, cont:= 0
+para i de 1 até n faça
+  dia = leia_textos(" ")
+  se dia[1] == "chuva" então
+    cont := cont -1
+    se casa < -cont então
+      casa := -cont
+    fim
+  fim
+  se dia[2] == "chuva" então
+    cont := cont + 1
+    se escritorio < cont então
+      escritorio := cont
+    fim
+  fim
+fim
+escreva "{casa} {escritorio}"

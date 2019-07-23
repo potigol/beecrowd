@@ -1,0 +1,10 @@
+var a := leia_inteiro
+enquanto a > 0 faça
+  n = leia_reais(" ")
+  tam = n.tamanho
+  media = (n.injete(BigDecimal(0.0))(_ + _ ) / tam).toDouble
+  soma  = n.mapeie(i => (i - media) ^2).injete(BigDecimal(0.0))(_ + _)
+  sigma = (soma / (tam - 1)).toDouble ^ 0.5
+  escreva sigma formato "%.5f"
+  a := leia_inteiro
+fim

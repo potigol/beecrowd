@@ -12,7 +12,7 @@
   - [ ] [2810](https://www.urionlinejudge.com.br/judge/pt/problems/view/2810) - Combate à Dengue 2.0 *Grafos*
   - [ ] [2811](https://www.urionlinejudge.com.br/judge/pt/problems/view/2811) - Sibi-Xor *Paradigmas*
   - [ ] [2812](https://www.urionlinejudge.com.br/judge/pt/problems/view/2812) - Laércio *Iniciante*
-  - [ ] [2813](https://www.urionlinejudge.com.br/judge/pt/problems/view/2813) - Evitando Chuva *Iniciante*
+  - [x] [2813](https://www.urionlinejudge.com.br/judge/pt/problems/view/2813) - [Evitando Chuva](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2813.poti) *Iniciante*
   - [ ] [2814](https://www.urionlinejudge.com.br/judge/pt/problems/view/2814) - Música Alta *Ad-Hoc*
   - [ ] [2815](https://www.urionlinejudge.com.br/judge/pt/problems/view/2815) - Digitador Gago *Strings*
   - [ ] [2816](https://www.urionlinejudge.com.br/judge/pt/problems/view/2816) - Palíndromo do Dabriel *Grafos*
@@ -44,7 +44,7 @@
   - [ ] [2842](https://www.urionlinejudge.com.br/judge/pt/problems/view/2842) - Dabriel e Suas Strings *Paradigmas*
   - [ ] [2843](https://www.urionlinejudge.com.br/judge/pt/problems/view/2843) - Escrita Rápida, a Competição *Ad-Hoc*
   - [ ] [2844](https://www.urionlinejudge.com.br/judge/pt/problems/view/2844) - Escrita Rápida, o Duelo *Ad-Hoc*
-  - [ ] [2845](https://www.urionlinejudge.com.br/judge/pt/problems/view/2845) - Festa no Polo Norte *Iniciante*
+  - [x] [2845](https://www.urionlinejudge.com.br/judge/pt/problems/view/2845) - [Festa no Polo Norte](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2845.poti) *Iniciante*
   - [ ] [2846](https://www.urionlinejudge.com.br/judge/pt/problems/view/2846) - Fibonot *Iniciante*
   - [ ] [2847](https://www.urionlinejudge.com.br/judge/pt/problems/view/2847) - Papel, Tesoura, I Love You! *Ad-Hoc*
   - [ ] [2848](https://www.urionlinejudge.com.br/judge/pt/problems/view/2848) - Rangel e o Jogo do Vetor I *Estruturas e Bibliotecas*
@@ -67,7 +67,7 @@
   - [ ] [2865](https://www.urionlinejudge.com.br/judge/pt/problems/view/2865) - Palíndromo Binário *Ad-Hoc*
   - [ ] [2866](https://www.urionlinejudge.com.br/judge/pt/problems/view/2866) - Criptotexto *Strings*
   - [x] [2867](https://www.urionlinejudge.com.br/judge/pt/problems/view/2867) - [Dígitos](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2867.poti) *Iniciante*
-  - [ ] [2868](https://www.urionlinejudge.com.br/judge/pt/problems/view/2868) - Errrou! *Ad-Hoc*
+  - [x] [2868](https://www.urionlinejudge.com.br/judge/pt/problems/view/2868) - [Errrou!](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2868.poti) *Ad-Hoc*
   - [x] [2869](https://www.urionlinejudge.com.br/judge/pt/problems/view/2869) - [Falando em Divisor...](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2869.poti) *Iniciante*
   - [ ] [2870](https://www.urionlinejudge.com.br/judge/pt/problems/view/2870) - Jogo do Mapa *Grafos*
   - [ ] [2871](https://www.urionlinejudge.com.br/judge/pt/problems/view/2871) - Colheita de Café *Ad-Hoc*

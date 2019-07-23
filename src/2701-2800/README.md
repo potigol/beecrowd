@@ -26,7 +26,7 @@
   - [ ] [2724](https://www.urionlinejudge.com.br/judge/pt/problems/view/2724) - Ajude Patatatitu *Iniciante*
   - [ ] [2725](https://www.urionlinejudge.com.br/judge/pt/problems/view/2725) - Vila Natalina *Grafos*
   - [ ] [2726](https://www.urionlinejudge.com.br/judge/pt/problems/view/2726) - Trenó Lotado *Matemática*
-  - [ ] [2727](https://www.urionlinejudge.com.br/judge/pt/problems/view/2727) - Código Secreto *Iniciante*
+  - [x] [2727](https://www.urionlinejudge.com.br/judge/pt/problems/view/2727) - [Código Secreto](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2727.poti) *Iniciante*
   - [ ] [2728](https://www.urionlinejudge.com.br/judge/pt/problems/view/2728) - Grace Hopper, a Vovó do Cobol *Strings*
   - [x] [2729](https://www.urionlinejudge.com.br/judge/pt/problems/view/2729) - [Lista de Compras](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2729.poti) *Estruturas e Bibliotecas*
   - [ ] [2730](https://www.urionlinejudge.com.br/judge/pt/problems/view/2730) - Pares Pareados *Ad-Hoc*
@@ -73,7 +73,7 @@
   - [ ] [2771](https://www.urionlinejudge.com.br/judge/pt/problems/view/2771) - Média *Ad-Hoc*
   - [ ] [2772](https://www.urionlinejudge.com.br/judge/pt/problems/view/2772) - Plantação *Iniciante*
   - [ ] [2773](https://www.urionlinejudge.com.br/judge/pt/problems/view/2773) - Menor Caminho *Geometria Computacional*
-  - [ ] [2774](https://www.urionlinejudge.com.br/judge/pt/problems/view/2774) - Precisão do Sensor *Iniciante*
+  - [x] [2774](https://www.urionlinejudge.com.br/judge/pt/problems/view/2774) - [Precisão do Sensor](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2774.poti) *Iniciante*
   - [ ] [2775](https://www.urionlinejudge.com.br/judge/pt/problems/view/2775) - Preparando a Produção *Iniciante*
   - [ ] [2776](https://www.urionlinejudge.com.br/judge/pt/problems/view/2776) - Promoções *Iniciante*
   - [ ] [2777](https://www.urionlinejudge.com.br/judge/pt/problems/view/2777) - Subsets do Dabriel *Matemática*
