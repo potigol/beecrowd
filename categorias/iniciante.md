@@ -1,4 +1,4 @@
-# Iniciante (187 / 306)
+# Iniciante (188 / 306)
 
   - [ ] [1435](https://www.urionlinejudge.com.br/judge/pt/problems/view/1435) - Matriz Quadrada I
   - [ ] [1478](https://www.urionlinejudge.com.br/judge/pt/problems/view/1478) - Matriz Quadrada II
@@ -114,7 +114,6 @@
   - [ ] [2828](https://www.urionlinejudge.com.br/judge/pt/problems/view/2828) - Anagramas
   - [ ] [2829](https://www.urionlinejudge.com.br/judge/pt/problems/view/2829) - Maiúsculas, Por Quê?
   - [ ] [2841](https://www.urionlinejudge.com.br/judge/pt/problems/view/2841) - Dabriel e Sua Festa
-  - [ ] [2846](https://www.urionlinejudge.com.br/judge/pt/problems/view/2846) - Fibonot
   - [ ] [2852](https://www.urionlinejudge.com.br/judge/pt/problems/view/2852) - Troca de Mensagens
   - [ ] [2855](https://www.urionlinejudge.com.br/judge/pt/problems/view/2855) - Números de Sorte
   - [ ] [2863](https://www.urionlinejudge.com.br/judge/pt/problems/view/2863) - Umil Bolt
@@ -299,6 +298,7 @@
   - [x] [2808](https://www.urionlinejudge.com.br/judge/pt/problems/view/2808) - [Mais Cavalos](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2808.poti)
   - [x] [2813](https://www.urionlinejudge.com.br/judge/pt/problems/view/2813) - [Evitando Chuva](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2813.poti)
   - [x] [2845](https://www.urionlinejudge.com.br/judge/pt/problems/view/2845) - [Festa no Polo Norte](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2845.poti)
+  - [x] [2846](https://www.urionlinejudge.com.br/judge/pt/problems/view/2846) - [Fibonot](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2846.poti)
   - [x] [2850](https://www.urionlinejudge.com.br/judge/pt/problems/view/2850) - [Papagaio Poliglota](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2850.poti)
   - [x] [2861](https://www.urionlinejudge.com.br/judge/pt/problems/view/2861) - [A Saída](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2861.poti)
   - [x] [2862](https://www.urionlinejudge.com.br/judge/pt/problems/view/2862) - [Inseto!](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2862.poti)

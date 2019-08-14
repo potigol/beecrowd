@@ -1,0 +1,17 @@
+var fib := [2, 1]
+enquanto fib.cabeça < 200000 faça
+  fib := (fib[2]+fib[1]) :: fib
+fim
+fib := fib.inverta
+n = leia_inteiro
+var c := 0
+para i de 1 até 100100 faça
+  se fib[1] == i então
+    fib := fib.cauda
+  senão
+    c := c + 1
+    se c == n então
+      escreva i
+    fim
+  fim
+fim
