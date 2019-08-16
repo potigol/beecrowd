@@ -25,7 +25,7 @@
   - [ ] [2823](https://www.urionlinejudge.com.br/judge/pt/problems/view/2823) - Eearliest Deadline First *Iniciante*
   - [ ] [2824](https://www.urionlinejudge.com.br/judge/pt/problems/view/2824) - Pudim *Strings*
   - [ ] [2825](https://www.urionlinejudge.com.br/judge/pt/problems/view/2825) - L de Atreus!? *Strings*
-  - [ ] [2826](https://www.urionlinejudge.com.br/judge/pt/problems/view/2826) - Léxico *Iniciante*
+  - [x] [2826](https://www.urionlinejudge.com.br/judge/pt/problems/view/2826) - [Léxico](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2826.poti) *Iniciante*
   - [ ] [2827](https://www.urionlinejudge.com.br/judge/pt/problems/view/2827) - Contador de Tokens *Iniciante*
   - [ ] [2828](https://www.urionlinejudge.com.br/judge/pt/problems/view/2828) - Anagramas *Iniciante*
   - [ ] [2829](https://www.urionlinejudge.com.br/judge/pt/problems/view/2829) - Maiúsculas, Por Quê? *Iniciante*

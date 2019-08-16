@@ -1,11 +1,11 @@
 entrada = leia_reais(" ")
 x, y = entrada[1], entrada[2]
-escolha Tupla(x,y)
-  caso Tupla(0.0, 0.0)        => escreva "Origem"
-  caso Tupla(_, 0.0)          => escreva "Eixo X"
-  caso Tupla(0.0, _)          => escreva "Eixo Y"
-  caso _ se x > 0.0 e y > 0.0 => escreva "Q1"
-  caso _ se y > 0.0           => escreva "Q2"
-  caso _ se x < 0.0           => escreva "Q3"
-  caso _                      => escreva "Q4"
+escolha (x, y)
+  caso (0.0, 0.0)              => escreva "Origem"
+  caso (_, 0.0)                => escreva "Eixo X"
+  caso (0.0, _)                => escreva "Eixo Y"
+  caso (x, y) se x > 0 e y > 0 => escreva "Q1"
+  caso (_, y) se y > 0         => escreva "Q2"
+  caso (x, _) se x < 0         => escreva "Q3"
+  caso _                       => escreva "Q4"
 fim

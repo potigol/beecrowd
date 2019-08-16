@@ -1,4 +1,4 @@
-# Iniciante (188 / 306)
+# Iniciante (189 / 306)
 
   - [ ] [1435](https://www.urionlinejudge.com.br/judge/pt/problems/view/1435) - Matriz Quadrada I
   - [ ] [1478](https://www.urionlinejudge.com.br/judge/pt/problems/view/1478) - Matriz Quadrada II
@@ -109,7 +109,6 @@
   - [ ] [2804](https://www.urionlinejudge.com.br/judge/pt/problems/view/2804) - Ferrovias
   - [ ] [2812](https://www.urionlinejudge.com.br/judge/pt/problems/view/2812) - Laércio
   - [ ] [2823](https://www.urionlinejudge.com.br/judge/pt/problems/view/2823) - Eearliest Deadline First
-  - [ ] [2826](https://www.urionlinejudge.com.br/judge/pt/problems/view/2826) - Léxico
   - [ ] [2827](https://www.urionlinejudge.com.br/judge/pt/problems/view/2827) - Contador de Tokens
   - [ ] [2828](https://www.urionlinejudge.com.br/judge/pt/problems/view/2828) - Anagramas
   - [ ] [2829](https://www.urionlinejudge.com.br/judge/pt/problems/view/2829) - Maiúsculas, Por Quê?
@@ -297,6 +296,7 @@
   - [x] [2807](https://www.urionlinejudge.com.br/judge/pt/problems/view/2807) - [Iccanobif](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2807.poti)
   - [x] [2808](https://www.urionlinejudge.com.br/judge/pt/problems/view/2808) - [Mais Cavalos](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2808.poti)
   - [x] [2813](https://www.urionlinejudge.com.br/judge/pt/problems/view/2813) - [Evitando Chuva](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2813.poti)
+  - [x] [2826](https://www.urionlinejudge.com.br/judge/pt/problems/view/2826) - [Léxico](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2826.poti)
   - [x] [2845](https://www.urionlinejudge.com.br/judge/pt/problems/view/2845) - [Festa no Polo Norte](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2845.poti)
   - [x] [2846](https://www.urionlinejudge.com.br/judge/pt/problems/view/2846) - [Fibonot](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2846.poti)
   - [x] [2850](https://www.urionlinejudge.com.br/judge/pt/problems/view/2850) - [Papagaio Poliglota](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2850.poti)

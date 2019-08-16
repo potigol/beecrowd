@@ -1,0 +1,8 @@
+a, b = leia_texto
+se a < b então
+  escreva a
+  escreva b
+senão
+  escreva b
+  escreva a
+fim
