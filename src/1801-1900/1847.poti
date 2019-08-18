@@ -1,0 +1,8 @@
+a = leia_inteiros(" ")
+x, y, z = a[1], a[2], a[3]
+d1, d2 = y - x, z - y
+se d2 > d1 ou (d2 == d1 e y > x) então
+  escreva ":)"
+senão
+  escreva ":("
+fim

@@ -46,7 +46,7 @@
   - [ ] [1844](https://www.urionlinejudge.com.br/judge/pt/problems/view/1844) - As Relíquias da Morte *Geometria Computacional*
   - [ ] [1845](https://www.urionlinejudge.com.br/judge/pt/problems/view/1845) - Efílogo *Ad-Hoc*
   - [ ] [1846](https://www.urionlinejudge.com.br/judge/pt/problems/view/1846) - Numero Para Nome *Strings*
-  - [ ] [1847](https://www.urionlinejudge.com.br/judge/pt/problems/view/1847) - Bem-vindos e Bem-vindas ao Inverno! *Iniciante*
+  - [x] [1847](https://www.urionlinejudge.com.br/judge/pt/problems/view/1847) - [Bem-vindos e Bem-vindas ao Inverno!](https://github.com/potigol/URI-Potigol/blob/master/src/1801-1900/1847.poti) *Iniciante*
   - [ ] [1848](https://www.urionlinejudge.com.br/judge/pt/problems/view/1848) - Corvo Contador *Iniciante*
   - [ ] [1849](https://www.urionlinejudge.com.br/judge/pt/problems/view/1849) - Dracarys! *Ad-Hoc*
   - [ ] [1850](https://www.urionlinejudge.com.br/judge/pt/problems/view/1850) - O Labirinto de Ninguém *Grafos*
