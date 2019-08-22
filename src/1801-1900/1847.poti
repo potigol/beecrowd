@@ -1,7 +1,7 @@
 a = leia_inteiros(" ")
-x, y, z = a[1], a[2], a[3]
-d1, d2 = y - x, z - y
-se d2 > d1 ou (d2 == d1 e y > x) então
+x = a[2] - a[1]
+y = a[3] - a[2]
+se y > x ou (x == y e x > 0) então
   escreva ":)"
 senão
   escreva ":("

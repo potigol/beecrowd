@@ -485,7 +485,7 @@
   - [ ] [1326](https://www.urionlinejudge.com.br/judge/pt/problems/view/1326) - Química *Estruturas e Bibliotecas*
   - [ ] [1327](https://www.urionlinejudge.com.br/judge/pt/problems/view/1327) - Drop Out *Ad-Hoc*
   - [ ] [1328](https://www.urionlinejudge.com.br/judge/pt/problems/view/1328) - Vá com Calma *Grafos*
-  - [ ] [1329](https://www.urionlinejudge.com.br/judge/pt/problems/view/1329) - Cara ou Coroa *Ad-Hoc*
+  - [x] [1329](https://www.urionlinejudge.com.br/judge/pt/problems/view/1329) - [Cara ou Coroa](https://github.com/potigol/URI-Potigol/blob/master/src/1301-1400/1329.poti) *Ad-Hoc*
   - [ ] [1367](https://www.urionlinejudge.com.br/judge/pt/problems/view/1367) - Ajude! *Strings*
   - [ ] [1413](https://www.urionlinejudge.com.br/judge/pt/problems/view/1413) - Apresse-se! *Grafos*
   - [ ] [1434](https://www.urionlinejudge.com.br/judge/pt/problems/view/1434) - Patrulheiros Romanos *Matemática*

@@ -28,7 +28,7 @@
   - [ ] [1326](https://www.urionlinejudge.com.br/judge/pt/problems/view/1326) - Química *Estruturas e Bibliotecas*
   - [ ] [1327](https://www.urionlinejudge.com.br/judge/pt/problems/view/1327) - Drop Out *Ad-Hoc*
   - [ ] [1328](https://www.urionlinejudge.com.br/judge/pt/problems/view/1328) - Vá com Calma *Grafos*
-  - [ ] [1329](https://www.urionlinejudge.com.br/judge/pt/problems/view/1329) - Cara ou Coroa *Ad-Hoc*
+  - [x] [1329](https://www.urionlinejudge.com.br/judge/pt/problems/view/1329) - [Cara ou Coroa](https://github.com/potigol/URI-Potigol/blob/master/src/1301-1400/1329.poti) *Ad-Hoc*
   - [ ] [1330](https://www.urionlinejudge.com.br/judge/pt/problems/view/1330) - A Terra Herdada por Tio Tom *Grafos*
   - [ ] [1331](https://www.urionlinejudge.com.br/judge/pt/problems/view/1331) - Blocos *Ad-Hoc*
   - [x] [1332](https://www.urionlinejudge.com.br/judge/pt/problems/view/1332) - [Um-Dois-Três](https://github.com/potigol/URI-Potigol/blob/master/src/1301-1400/1332.poti) *Strings*

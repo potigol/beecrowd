@@ -1,0 +1,7 @@
+var n := leia_inteiro
+enquanto n > 0 faça
+  mary = leia_texto.selecione( _ == '0').tamanho
+  john = n - mary
+  escreva "Mary won {mary} times and John won {john} times"
+  n := leia_inteiro
+fim
