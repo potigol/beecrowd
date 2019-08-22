@@ -16,7 +16,7 @@
   - [ ] [2214](https://www.urionlinejudge.com.br/judge/pt/problems/view/2214) - Shortest Flight Path *Ad-Hoc*
   - [ ] [2215](https://www.urionlinejudge.com.br/judge/pt/problems/view/2215) - Stacking Plates *Ad-Hoc*
   - [ ] [2216](https://www.urionlinejudge.com.br/judge/pt/problems/view/2216) - Takeover Wars *Ad-Hoc*
-  - [ ] [2217](https://www.urionlinejudge.com.br/judge/pt/problems/view/2217) - Nove *Ad-Hoc*
+  - [x] [2217](https://www.urionlinejudge.com.br/judge/pt/problems/view/2217) - [Nove](https://github.com/potigol/URI-Potigol/blob/master/src/2201-2300/2217.poti) *Ad-Hoc*
   - [ ] [2218](https://www.urionlinejudge.com.br/judge/pt/problems/view/2218) - O Temível Evil-Son *Matemática*
   - [ ] [2219](https://www.urionlinejudge.com.br/judge/pt/problems/view/2219) - Passando Pelos PokeStops *Ad-Hoc*
   - [ ] [2220](https://www.urionlinejudge.com.br/judge/pt/problems/view/2220) - Ajudando Gust-Avô *Paradigmas*

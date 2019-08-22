@@ -1,4 +1,4 @@
-# Ad-Hoc (38 / 646)
+# Ad-Hoc (39 / 646)
 
   - [ ] [1026](https://www.urionlinejudge.com.br/judge/pt/problems/view/1026) - Carrega ou não Carrega?
   - [ ] [1030](https://www.urionlinejudge.com.br/judge/pt/problems/view/1030) - A Lenda de Flavious Josephus
@@ -300,7 +300,6 @@
   - [ ] [2214](https://www.urionlinejudge.com.br/judge/pt/problems/view/2214) - Shortest Flight Path
   - [ ] [2215](https://www.urionlinejudge.com.br/judge/pt/problems/view/2215) - Stacking Plates
   - [ ] [2216](https://www.urionlinejudge.com.br/judge/pt/problems/view/2216) - Takeover Wars
-  - [ ] [2217](https://www.urionlinejudge.com.br/judge/pt/problems/view/2217) - Nove
   - [ ] [2219](https://www.urionlinejudge.com.br/judge/pt/problems/view/2219) - Passando Pelos PokeStops
   - [ ] [2227](https://www.urionlinejudge.com.br/judge/pt/problems/view/2227) - Aeroporto
   - [ ] [2228](https://www.urionlinejudge.com.br/judge/pt/problems/view/2228) - Caça ao Tesouro
@@ -618,6 +617,7 @@
   - [x] [1867](https://www.urionlinejudge.com.br/judge/pt/problems/view/1867) - [Maior Número de Um Algarismo](https://github.com/potigol/URI-Potigol/blob/master/src/1801-1900/1867.poti)
   - [x] [2058](https://www.urionlinejudge.com.br/judge/pt/problems/view/2058) - [Triângulos e Polígonos Regulares](https://github.com/potigol/URI-Potigol/blob/master/src/2001-2100/2058.poti)
   - [x] [2188](https://www.urionlinejudge.com.br/judge/pt/problems/view/2188) - [Macaco-prego](https://github.com/potigol/URI-Potigol/blob/master/src/2101-2200/2188.poti)
+  - [x] [2217](https://www.urionlinejudge.com.br/judge/pt/problems/view/2217) - [Nove](https://github.com/potigol/URI-Potigol/blob/master/src/2201-2300/2217.poti)
   - [x] [2295](https://www.urionlinejudge.com.br/judge/pt/problems/view/2295) - [Frota de Táxi](https://github.com/potigol/URI-Potigol/blob/master/src/2201-2300/2295.poti)
   - [x] [2345](https://www.urionlinejudge.com.br/judge/pt/problems/view/2345) - [Assigning Teams](https://github.com/potigol/URI-Potigol/blob/master/src/2301-2400/2345.poti)
   - [x] [2369](https://www.urionlinejudge.com.br/judge/pt/problems/view/2369) - [Conta de Água](https://github.com/potigol/URI-Potigol/blob/master/src/2301-2400/2369.poti)
