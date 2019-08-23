@@ -27,7 +27,7 @@
   - [ ] [1825](https://www.urionlinejudge.com.br/judge/pt/problems/view/1825) - Formigando *Geometria Computacional*
   - [ ] [1826](https://www.urionlinejudge.com.br/judge/pt/problems/view/1826) - A Linguagem é Infinita? *Grafos*
   - [ ] [1827](https://www.urionlinejudge.com.br/judge/pt/problems/view/1827) - Matriz Quadrada IV *Iniciante*
-  - [ ] [1828](https://www.urionlinejudge.com.br/judge/pt/problems/view/1828) - Bazinga! *Iniciante*
+  - [x] [1828](https://www.urionlinejudge.com.br/judge/pt/problems/view/1828) - [Bazinga!](https://github.com/potigol/URI-Potigol/blob/master/src/1801-1900/1828.poti) *Iniciante*
   - [ ] [1829](https://www.urionlinejudge.com.br/judge/pt/problems/view/1829) - Jogo do Maior Número *Matemática*
   - [ ] [1830](https://www.urionlinejudge.com.br/judge/pt/problems/view/1830) - Caixas de Bombons *Matemática*
   - [ ] [1831](https://www.urionlinejudge.com.br/judge/pt/problems/view/1831) - Dia Difícil de Trabalho *Matemática*

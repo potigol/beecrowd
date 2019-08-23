@@ -1,0 +1,17 @@
+t = leia_inteiro
+nomes = ["tesoura", "papel", "pedra", "lagarto", "Spock"]
+para i de 1 até t faça
+  s = leia_textos(" ")
+  a = nomes.posição(s[1])
+  b = nomes.posição(s[2])
+  c = (b - a + 5) mod 5
+  resultado =
+    se c == 0 então
+      "De novo"
+    senãose c mod 2 == 1 então
+      "Bazinga"
+    senão
+      "Raj trapaceou"
+    fim
+  escreva "Caso #{i}: {resultado}!"
+fim
