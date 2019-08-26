@@ -1,0 +1,9 @@
+n = leia_inteiro
+a = leia_inteiros(" ")
+var queda := 0
+para i de 2 até n se queda == 0 faça
+  se a[i]< a[i-1] então
+    queda := i
+  fim
+fim
+escreva queda

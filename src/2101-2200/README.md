@@ -66,7 +66,7 @@
   - [x] [2164](https://www.urionlinejudge.com.br/judge/pt/problems/view/2164) - [Fibonacci Rápido](https://github.com/potigol/URI-Potigol/blob/master/src/2101-2200/2164.poti) *Iniciante*
   - [x] [2165](https://www.urionlinejudge.com.br/judge/pt/problems/view/2165) - [Tuitando](https://github.com/potigol/URI-Potigol/blob/master/src/2101-2200/2165.poti) *Iniciante*
   - [x] [2166](https://www.urionlinejudge.com.br/judge/pt/problems/view/2166) - [Raiz Quadrada de 2](https://github.com/potigol/URI-Potigol/blob/master/src/2101-2200/2166.poti) *Iniciante*
-  - [ ] [2167](https://www.urionlinejudge.com.br/judge/pt/problems/view/2167) - Falha do Motor *Iniciante*
+  - [x] [2167](https://www.urionlinejudge.com.br/judge/pt/problems/view/2167) - [Falha do Motor](https://github.com/potigol/URI-Potigol/blob/master/src/2101-2200/2167.poti) *Iniciante*
   - [x] [2168](https://www.urionlinejudge.com.br/judge/pt/problems/view/2168) - [Crepúsculo em Portland](https://github.com/potigol/URI-Potigol/blob/master/src/2101-2200/2168.poti) *Iniciante*
   - [ ] [2169](https://www.urionlinejudge.com.br/judge/pt/problems/view/2169) - Ajude o Leonardo! *Paradigmas*
   - [ ] [2170](https://www.urionlinejudge.com.br/judge/pt/problems/view/2170) - Juros do Projeto *Matemática*

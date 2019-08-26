@@ -1,0 +1,13 @@
+qt = leia_inteiro
+
+para i de 1 até qt faça
+  nomes = leia_textos(" ")
+  a = leia_inteiros(" ")
+  par = (a[1] + a[2]) mod 2 == 0
+  se (par e nomes[2] == "PAR") ou
+     (não par e nomes[2] <> "PAR") então
+    escreva nomes[1]
+  senão
+    escreva nomes[3]
+  fim
+fim

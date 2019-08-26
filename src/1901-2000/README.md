@@ -13,7 +13,7 @@
   - [ ] [1911](https://www.urionlinejudge.com.br/judge/pt/problems/view/1911) - Ajude Girafales *Estruturas e Bibliotecas*
   - [ ] [1912](https://www.urionlinejudge.com.br/judge/pt/problems/view/1912) - Ajude Seu Madruga *Paradigmas*
   - [ ] [1913](https://www.urionlinejudge.com.br/judge/pt/problems/view/1913) - Ajude o Sr. Barriga *Paradigmas*
-  - [ ] [1914](https://www.urionlinejudge.com.br/judge/pt/problems/view/1914) - De Quem é a Vez? *Iniciante*
+  - [x] [1914](https://www.urionlinejudge.com.br/judge/pt/problems/view/1914) - [De Quem é a Vez?](https://github.com/potigol/URI-Potigol/blob/master/src/1901-2000/1914.poti) *Iniciante*
   - [ ] [1915](https://www.urionlinejudge.com.br/judge/pt/problems/view/1915) - Ajude Chaves *Grafos*
   - [ ] [1916](https://www.urionlinejudge.com.br/judge/pt/problems/view/1916) - Banco de Horas de Jaiminho *Ad-Hoc*
   - [ ] [1917](https://www.urionlinejudge.com.br/judge/pt/problems/view/1917) - Ajude o Chapolin Colorado! *Ad-Hoc*

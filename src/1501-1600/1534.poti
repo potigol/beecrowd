@@ -1,0 +1,10 @@
+var n := leia_inteiro
+enquanto n > 0 faça
+  mat = para i de 1 até n gere
+    para j de 1 até n gere
+      se i + j == n + 1 então 2 senãose i == j então 1 senão 3 fim
+    fim.junte("")
+  fim
+  escreva mat.junte("\n")
+  n := leia_inteiro
+fim

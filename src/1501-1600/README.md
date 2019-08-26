@@ -33,7 +33,7 @@
   - [ ] [1531](https://www.urionlinejudge.com.br/judge/pt/problems/view/1531) - Fibonacci de Novo! *Matemática*
   - [ ] [1532](https://www.urionlinejudge.com.br/judge/pt/problems/view/1532) - Arremesso de Bolas *Ad-Hoc*
   - [ ] [1533](https://www.urionlinejudge.com.br/judge/pt/problems/view/1533) - Detetive Watson *Ad-Hoc*
-  - [ ] [1534](https://www.urionlinejudge.com.br/judge/pt/problems/view/1534) - Matriz 123 *Iniciante*
+  - [x] [1534](https://www.urionlinejudge.com.br/judge/pt/problems/view/1534) - [Matriz 123](https://github.com/potigol/URI-Potigol/blob/master/src/1501-1600/1534.poti) *Iniciante*
   - [ ] [1535](https://www.urionlinejudge.com.br/judge/pt/problems/view/1535) - Números Casal-Solteirão-Solteirona *Estruturas e Bibliotecas*
   - [ ] [1536](https://www.urionlinejudge.com.br/judge/pt/problems/view/1536) - Libertadores *Ad-Hoc*
   - [ ] [1537](https://www.urionlinejudge.com.br/judge/pt/problems/view/1537) - Fila do Banco *Matemática*
@@ -63,7 +63,7 @@
   - [ ] [1561](https://www.urionlinejudge.com.br/judge/pt/problems/view/1561) - Relógio Binário *Ad-Hoc*
   - [ ] [1562](https://www.urionlinejudge.com.br/judge/pt/problems/view/1562) - Escolhendo as Duplas *Grafos*
   - [ ] [1563](https://www.urionlinejudge.com.br/judge/pt/problems/view/1563) - O Grande Problema *Matemática*
-  - [ ] [1564](https://www.urionlinejudge.com.br/judge/pt/problems/view/1564) - Vai Ter Copa? *Iniciante*
+  - [x] [1564](https://www.urionlinejudge.com.br/judge/pt/problems/view/1564) - [Vai Ter Copa?](https://github.com/potigol/URI-Potigol/blob/master/src/1501-1600/1564.poti) *Iniciante*
   - [ ] [1565](https://www.urionlinejudge.com.br/judge/pt/problems/view/1565) - Ligue os Pontos *Paradigmas*
   - [ ] [1566](https://www.urionlinejudge.com.br/judge/pt/problems/view/1566) - Altura *Estruturas e Bibliotecas*
   - [ ] [1567](https://www.urionlinejudge.com.br/judge/pt/problems/view/1567) - (2/3/4)-D Sqr/Rects/Cubes/Boxes? *Matemática*

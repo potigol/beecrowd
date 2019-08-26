@@ -1,0 +1,11 @@
+n = leia_inteiro
+para i de 1 até n faça
+  nome = leia_texto
+  gd = leia_real
+  notas = leia_reais(" ")
+            .ordene
+            .descarte(1)
+            .pegue(5)
+  soma = notas.injete(0.0)(_ + _)
+  escreva "{nome} {soma * gd formato "%.2f"}"
+fim
