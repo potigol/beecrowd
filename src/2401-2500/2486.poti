@@ -1,0 +1,26 @@
+var t := leia_inteiro
+enquanto t > 0 faça
+  var total := 0
+  para i de 1 até t faça
+    a = leia_textos(" ")
+    peso = escolha a.descarte(1).junte(" ")
+      caso "suco de laranja" => 120
+      caso "morango fresco"  =>  85
+      caso "mamao"           =>  85
+      caso "goiaba vermelha" =>  70
+      caso "manga"           =>  56
+      caso "laranja"         =>  50
+      caso "brocolis"        =>  34
+      caso _                 =>   0
+    fim
+    total := total + a[1].inteiro * peso
+  fim
+  se total > 130 então
+    escreva "Menos {total - 130} mg"
+  senãose total < 110 então
+    escreva "Mais {110 - total} mg"
+  senão
+    escreva "{total} mg"
+  fim
+  t := leia_inteiro
+fim

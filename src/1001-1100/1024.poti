@@ -1,0 +1,12 @@
+n = leia_inteiro
+para i de 1 até n faça
+  m = leia_texto
+  metade = m.tamanho div 2
+  p1 = para c em m gere
+         se (c >= 'a' e c <= 'z') ou
+            (c >= 'A' e c <= 'Z') então (c + 3).caractere senão c fim
+       fim
+  p2 = p1.inverta
+  p3 = p2.pegue(metade) + p2.descarte(metade).mapeie(c => (c - 1).caractere)
+  escreva p3.junte("")
+fim

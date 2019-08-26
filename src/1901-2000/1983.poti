@@ -1,0 +1,11 @@
+n = leia_inteiro
+var maior_nome, maior_nota := "Minimum note not reached", 8.0
+para i de 1 até n faça
+  a = leia_textos(" ")
+  nome, nota = a[1], a[2].real
+  se nota >= maior_nota então
+    maior_nome := nome
+    maior_nota := nota
+  fim
+fim
+escreva maior_nome

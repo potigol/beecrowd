@@ -85,7 +85,7 @@
   - [x] [2483](https://www.urionlinejudge.com.br/judge/pt/problems/view/2483) - [Feliz Nataaal!](https://github.com/potigol/URI-Potigol/blob/master/src/2401-2500/2483.poti) *Iniciante*
   - [ ] [2484](https://www.urionlinejudge.com.br/judge/pt/problems/view/2484) - Abracadabra *Strings*
   - [ ] [2485](https://www.urionlinejudge.com.br/judge/pt/problems/view/2485) - Bicho da Goiaba *Grafos*
-  - [ ] [2486](https://www.urionlinejudge.com.br/judge/pt/problems/view/2486) - C Mais ou Menos? *Iniciante*
+  - [x] [2486](https://www.urionlinejudge.com.br/judge/pt/problems/view/2486) - [C Mais ou Menos?](https://github.com/potigol/URI-Potigol/blob/master/src/2401-2500/2486.poti) *Iniciante*
   - [ ] [2487](https://www.urionlinejudge.com.br/judge/pt/problems/view/2487) - Do Lado Escuro do Código *Ad-Hoc*
   - [ ] [2488](https://www.urionlinejudge.com.br/judge/pt/problems/view/2488) - É Na Batida do Cavalo! *Estruturas e Bibliotecas*
   - [ ] [2489](https://www.urionlinejudge.com.br/judge/pt/problems/view/2489) - Flecha no Coelho *Matemática*

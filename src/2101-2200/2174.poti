@@ -1,0 +1,9 @@
+n = leia_inteiro
+nomes = leia_textos(n).ordene
+var pokemons := 150
+para i de 2 até n faça
+  se nomes[i] <> nomes[i - 1] então
+    pokemons := pokemons - 1
+  fim
+fim
+escreva "Falta(m) {pokemons} pomekon(s)."
