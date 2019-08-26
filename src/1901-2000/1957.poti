@@ -1,0 +1,9 @@
+var v := leia_inteiro
+var s := ""
+ns = "0123456789ABCDEF"
+enquanto v > 0 faça
+  h = v mod 16
+  s := ns[h+1] + s
+  v := v div 16
+fim
+escreva s

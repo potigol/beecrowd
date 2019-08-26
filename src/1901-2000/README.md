@@ -56,7 +56,7 @@
   - [ ] [1954](https://www.urionlinejudge.com.br/judge/pt/problems/view/1954) - Caminhos Evolucionários Possíveis *Grafos*
   - [ ] [1955](https://www.urionlinejudge.com.br/judge/pt/problems/view/1955) - See World *Grafos*
   - [ ] [1956](https://www.urionlinejudge.com.br/judge/pt/problems/view/1956) - Acácias *Grafos*
-  - [ ] [1957](https://www.urionlinejudge.com.br/judge/pt/problems/view/1957) - Converter para Hexadecimal *Iniciante*
+  - [x] [1957](https://www.urionlinejudge.com.br/judge/pt/problems/view/1957) - [Converter para Hexadecimal](https://github.com/potigol/URI-Potigol/blob/master/src/1901-2000/1957.poti) *Iniciante*
   - [ ] [1958](https://www.urionlinejudge.com.br/judge/pt/problems/view/1958) - Notação Científica *Iniciante*
   - [x] [1959](https://www.urionlinejudge.com.br/judge/pt/problems/view/1959) - [Polígonos Regulares Simples](https://github.com/potigol/URI-Potigol/blob/master/src/1901-2000/1959.poti) *Iniciante*
   - [ ] [1960](https://www.urionlinejudge.com.br/judge/pt/problems/view/1960) - Numeração Romana para Números de Página *Iniciante*
