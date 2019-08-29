@@ -1,4 +1,4 @@
-# Strings (13 / 121)
+# Strings (14 / 121)
 
   - [ ] [1120](https://www.urionlinejudge.com.br/judge/pt/problems/view/1120) - Revisão de Contrato
   - [ ] [1141](https://www.urionlinejudge.com.br/judge/pt/problems/view/1141) - Cultivando Strings
@@ -104,7 +104,6 @@
   - [ ] [2692](https://www.urionlinejudge.com.br/judge/pt/problems/view/2692) - Teclado Zoeiro
   - [ ] [2697](https://www.urionlinejudge.com.br/judge/pt/problems/view/2697) - Sequencia Completa de Naebbirac
   - [ ] [2728](https://www.urionlinejudge.com.br/judge/pt/problems/view/2728) - Grace Hopper, a Vovó do Cobol
-  - [ ] [2815](https://www.urionlinejudge.com.br/judge/pt/problems/view/2815) - Digitador Gago
   - [ ] [2824](https://www.urionlinejudge.com.br/judge/pt/problems/view/2824) - Pudim
   - [ ] [2825](https://www.urionlinejudge.com.br/judge/pt/problems/view/2825) - L de Atreus!?
   - [ ] [2866](https://www.urionlinejudge.com.br/judge/pt/problems/view/2866) - Criptotexto
@@ -120,4 +119,5 @@
   - [x] [2694](https://www.urionlinejudge.com.br/judge/pt/problems/view/2694) - [Problema com a Calculadora](https://github.com/potigol/URI-Potigol/blob/master/src/2601-2700/2694.poti)
   - [x] [2714](https://www.urionlinejudge.com.br/judge/pt/problems/view/2714) - [Minha Senha Provisória](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2714.poti)
   - [x] [2722](https://www.urionlinejudge.com.br/judge/pt/problems/view/2722) - [Pegadinha de Evergreen](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2722.poti)
+  - [x] [2815](https://www.urionlinejudge.com.br/judge/pt/problems/view/2815) - [Digitador Gago](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2815.poti)
   - [x] [2880](https://www.urionlinejudge.com.br/judge/pt/problems/view/2880) - [Enigma](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2880.poti)

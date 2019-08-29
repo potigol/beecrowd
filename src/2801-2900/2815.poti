@@ -1,0 +1,9 @@
+linha = leia_textos(" ")
+saida = para palavra em linha gere
+          se palavra.pegue(2) == palavra.descarte(2).pegue(2) então
+            palavra.descarte(2)
+          senão
+            palavra
+          fim
+        fim
+escreva saida.junte(" ")

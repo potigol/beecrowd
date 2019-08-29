@@ -14,7 +14,7 @@
   - [ ] [2812](https://www.urionlinejudge.com.br/judge/pt/problems/view/2812) - Laércio *Iniciante*
   - [x] [2813](https://www.urionlinejudge.com.br/judge/pt/problems/view/2813) - [Evitando Chuva](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2813.poti) *Iniciante*
   - [ ] [2814](https://www.urionlinejudge.com.br/judge/pt/problems/view/2814) - Música Alta *Ad-Hoc*
-  - [ ] [2815](https://www.urionlinejudge.com.br/judge/pt/problems/view/2815) - Digitador Gago *Strings*
+  - [x] [2815](https://www.urionlinejudge.com.br/judge/pt/problems/view/2815) - [Digitador Gago](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2815.poti) *Strings*
   - [ ] [2816](https://www.urionlinejudge.com.br/judge/pt/problems/view/2816) - Palíndromo do Dabriel *Grafos*
   - [ ] [2817](https://www.urionlinejudge.com.br/judge/pt/problems/view/2817) - Posto do Darlan *Matemática*
   - [ ] [2818](https://www.urionlinejudge.com.br/judge/pt/problems/view/2818) - Jogo Divertido *Paradigmas*
