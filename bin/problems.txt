@@ -1929,3 +1929,16 @@
 2946	Dabriel e a Divisibilidade	Ad-Hoc
 2947	Gabarito	Ad-Hoc
 2948	Plantação de Açaí	Ad-Hoc
+2949	A Sociedade do Anel	Iniciante
+2950	As Duas Torres	Iniciante
+2951	O Retorno do Rei	Iniciante
+2952	A Vida Sustentável	Iniciante
+2953	Mais um Joguinho	Matemática
+2954	O Jogo	Strings
+2955	Truuuuuco!	Matemática
+2956	Derivada de 13 Variáveis	Matemática
+2957	Sir Vô	Ad-Hoc
+2958	O Rolê Bad Vibes	Estruturas e Bibliotecas
+2959	Credo com ParaTudo!	Grafos
+2960	Era Uma Vez…	Strings
+2961	Ô, Que Tanto de Filme!	Estruturas e Bibliotecas

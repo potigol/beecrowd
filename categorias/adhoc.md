@@ -1,4 +1,4 @@
-# Ad-Hoc (39 / 646)
+# Ad-Hoc (39 / 647)
 
   - [ ] [1026](https://www.urionlinejudge.com.br/judge/pt/problems/view/1026) - Carrega ou não Carrega?
   - [ ] [1030](https://www.urionlinejudge.com.br/judge/pt/problems/view/1030) - A Lenda de Flavious Josephus
@@ -607,6 +607,7 @@
   - [ ] [2946](https://www.urionlinejudge.com.br/judge/pt/problems/view/2946) - Dabriel e a Divisibilidade
   - [ ] [2947](https://www.urionlinejudge.com.br/judge/pt/problems/view/2947) - Gabarito
   - [ ] [2948](https://www.urionlinejudge.com.br/judge/pt/problems/view/2948) - Plantação de Açaí
+  - [ ] [2957](https://www.urionlinejudge.com.br/judge/pt/problems/view/2957) - Sir Vô
   - [x] [1087](https://www.urionlinejudge.com.br/judge/pt/problems/view/1087) - [Dama](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1087.poti)
   - [x] [1103](https://www.urionlinejudge.com.br/judge/pt/problems/view/1103) - [Alarme Despertador](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1103.poti)
   - [x] [1171](https://www.urionlinejudge.com.br/judge/pt/problems/view/1171) - [Frequência de Números](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1171.poti)

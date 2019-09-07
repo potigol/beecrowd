@@ -48,19 +48,19 @@
   - [ ] [2946](https://www.urionlinejudge.com.br/judge/pt/problems/view/2946) - Dabriel e a Divisibilidade *Ad-Hoc*
   - [ ] [2947](https://www.urionlinejudge.com.br/judge/pt/problems/view/2947) - Gabarito *Ad-Hoc*
   - [ ] [2948](https://www.urionlinejudge.com.br/judge/pt/problems/view/2948) - Plantação de Açaí *Ad-Hoc*
-  - [ ] ~~2949~~
-  - [ ] ~~2950~~
-  - [ ] ~~2951~~
-  - [ ] ~~2952~~
-  - [ ] ~~2953~~
-  - [ ] ~~2954~~
-  - [ ] ~~2955~~
-  - [ ] ~~2956~~
-  - [ ] ~~2957~~
-  - [ ] ~~2958~~
-  - [ ] ~~2959~~
-  - [ ] ~~2960~~
-  - [ ] ~~2961~~
+  - [ ] [2949](https://www.urionlinejudge.com.br/judge/pt/problems/view/2949) - A Sociedade do Anel *Iniciante*
+  - [ ] [2950](https://www.urionlinejudge.com.br/judge/pt/problems/view/2950) - As Duas Torres *Iniciante*
+  - [ ] [2951](https://www.urionlinejudge.com.br/judge/pt/problems/view/2951) - O Retorno do Rei *Iniciante*
+  - [ ] [2952](https://www.urionlinejudge.com.br/judge/pt/problems/view/2952) - A Vida Sustentável *Iniciante*
+  - [ ] [2953](https://www.urionlinejudge.com.br/judge/pt/problems/view/2953) - Mais um Joguinho *Matemática*
+  - [ ] [2954](https://www.urionlinejudge.com.br/judge/pt/problems/view/2954) - O Jogo *Strings*
+  - [ ] [2955](https://www.urionlinejudge.com.br/judge/pt/problems/view/2955) - Truuuuuco! *Matemática*
+  - [ ] [2956](https://www.urionlinejudge.com.br/judge/pt/problems/view/2956) - Derivada de 13 Variáveis *Matemática*
+  - [ ] [2957](https://www.urionlinejudge.com.br/judge/pt/problems/view/2957) - Sir Vô *Ad-Hoc*
+  - [ ] [2958](https://www.urionlinejudge.com.br/judge/pt/problems/view/2958) - O Rolê Bad Vibes *Estruturas e Bibliotecas*
+  - [ ] [2959](https://www.urionlinejudge.com.br/judge/pt/problems/view/2959) - Credo com ParaTudo! *Grafos*
+  - [ ] [2960](https://www.urionlinejudge.com.br/judge/pt/problems/view/2960) - Era Uma Vez… *Strings*
+  - [ ] [2961](https://www.urionlinejudge.com.br/judge/pt/problems/view/2961) - Ô, Que Tanto de Filme! *Estruturas e Bibliotecas*
   - [ ] ~~2962~~
   - [ ] ~~2963~~
   - [ ] ~~2964~~

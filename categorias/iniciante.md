@@ -1,4 +1,4 @@
-# Iniciante (199 / 306)
+# Iniciante (199 / 310)
 
   - [ ] [1435](https://www.urionlinejudge.com.br/judge/pt/problems/view/1435) - Matriz Quadrada I
   - [ ] [1478](https://www.urionlinejudge.com.br/judge/pt/problems/view/1478) - Matriz Quadrada II
@@ -107,6 +107,10 @@
   - [ ] [2855](https://www.urionlinejudge.com.br/judge/pt/problems/view/2855) - Números de Sorte
   - [ ] [2863](https://www.urionlinejudge.com.br/judge/pt/problems/view/2863) - Umil Bolt
   - [ ] [2930](https://www.urionlinejudge.com.br/judge/pt/problems/view/2930) - TCC da Depressão Natalino
+  - [ ] [2949](https://www.urionlinejudge.com.br/judge/pt/problems/view/2949) - A Sociedade do Anel
+  - [ ] [2950](https://www.urionlinejudge.com.br/judge/pt/problems/view/2950) - As Duas Torres
+  - [ ] [2951](https://www.urionlinejudge.com.br/judge/pt/problems/view/2951) - O Retorno do Rei
+  - [ ] [2952](https://www.urionlinejudge.com.br/judge/pt/problems/view/2952) - A Vida Sustentável
   - [x] [1001](https://www.urionlinejudge.com.br/judge/pt/problems/view/1001) - [Extremamente Básico](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1001.poti)
   - [x] [1002](https://www.urionlinejudge.com.br/judge/pt/problems/view/1002) - [Área do Círculo](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1002.poti)
   - [x] [1003](https://www.urionlinejudge.com.br/judge/pt/problems/view/1003) - [Soma Simples](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1003.poti)

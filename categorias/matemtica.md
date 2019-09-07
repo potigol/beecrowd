@@ -1,4 +1,4 @@
-# Matemática (7 / 211)
+# Matemática (7 / 214)
 
   - [ ] [1093](https://www.urionlinejudge.com.br/judge/pt/problems/view/1093) - Vampiros
   - [ ] [1163](https://www.urionlinejudge.com.br/judge/pt/problems/view/1163) - Angry Ducks
@@ -204,6 +204,9 @@
   - [ ] [2886](https://www.urionlinejudge.com.br/judge/pt/problems/view/2886) - Kepler
   - [ ] [2890](https://www.urionlinejudge.com.br/judge/pt/problems/view/2890) - Colorindo Tetraedros
   - [ ] [2892](https://www.urionlinejudge.com.br/judge/pt/problems/view/2892) - Treino No Velódromo
+  - [ ] [2953](https://www.urionlinejudge.com.br/judge/pt/problems/view/2953) - Mais um Joguinho
+  - [ ] [2955](https://www.urionlinejudge.com.br/judge/pt/problems/view/2955) - Truuuuuco!
+  - [ ] [2956](https://www.urionlinejudge.com.br/judge/pt/problems/view/2956) - Derivada de 13 Variáveis
   - [x] [1028](https://www.urionlinejudge.com.br/judge/pt/problems/view/1028) - [Figurinhas](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1028.poti)
   - [x] [1161](https://www.urionlinejudge.com.br/judge/pt/problems/view/1161) - [Soma de Fatoriais](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1161.poti)
   - [x] [1760](https://www.urionlinejudge.com.br/judge/pt/problems/view/1760) - [Floco de Neve de Koch](https://github.com/potigol/URI-Potigol/blob/master/src/1701-1800/1760.poti)

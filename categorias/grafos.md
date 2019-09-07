@@ -1,4 +1,4 @@
-# Grafos (0 / 214)
+# Grafos (0 / 215)
 
   - [ ] [1053](https://www.urionlinejudge.com.br/judge/pt/problems/view/1053) - Desenho Contínuo
   - [ ] [1056](https://www.urionlinejudge.com.br/judge/pt/problems/view/1056) - Fatores e Múltiplos
@@ -214,3 +214,4 @@
   - [ ] [2887](https://www.urionlinejudge.com.br/judge/pt/problems/view/2887) - Linhas de Metrô
   - [ ] [2894](https://www.urionlinejudge.com.br/judge/pt/problems/view/2894) - Vírus
   - [ ] [2933](https://www.urionlinejudge.com.br/judge/pt/problems/view/2933) - Passeio de Trenó pela Terra
+  - [ ] [2959](https://www.urionlinejudge.com.br/judge/pt/problems/view/2959) - Credo com ParaTudo!

@@ -1,4 +1,4 @@
-# Estruturas e Bibliotecas (2 / 141)
+# Estruturas e Bibliotecas (2 / 143)
 
   - [ ] [1025](https://www.urionlinejudge.com.br/judge/pt/problems/view/1025) - Onde está o Mármore?
   - [ ] [1062](https://www.urionlinejudge.com.br/judge/pt/problems/view/1062) - Trilhos
@@ -139,5 +139,7 @@
   - [ ] [2893](https://www.urionlinejudge.com.br/judge/pt/problems/view/2893) - Fibonac^{k}i
   - [ ] [2916](https://www.urionlinejudge.com.br/judge/pt/problems/view/2916) - A Nota
   - [ ] [2929](https://www.urionlinejudge.com.br/judge/pt/problems/view/2929) - Menor da Pilha
+  - [ ] [2958](https://www.urionlinejudge.com.br/judge/pt/problems/view/2958) - O Rolê Bad Vibes
+  - [ ] [2961](https://www.urionlinejudge.com.br/judge/pt/problems/view/2961) - Ô, Que Tanto de Filme!
   - [x] [1022](https://www.urionlinejudge.com.br/judge/pt/problems/view/1022) - [TDA Racional](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1022.poti)
   - [x] [2729](https://www.urionlinejudge.com.br/judge/pt/problems/view/2729) - [Lista de Compras](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2729.poti)
