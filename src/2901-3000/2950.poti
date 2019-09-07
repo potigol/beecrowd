@@ -1,0 +1,4 @@
+a = leia_inteiros(" ")
+n, x, y = a[1], a[2], a[3]
+icm = n / (x + y)
+escreva icm formato "%.2f"

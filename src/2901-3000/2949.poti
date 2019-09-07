@@ -1,0 +1,18 @@
+n = leia_inteiro
+var anoes, elfos, humanos, magos, hobbits := 0
+para i de 1 até n faça
+  a = leia_textos(" ")[2]
+  escolha a
+    caso "A" => anoes := anoes + 1
+    caso "E" => elfos := elfos + 1
+    caso "H" => humanos := humanos + 1
+    caso "M" => magos := magos + 1
+    caso "X" => hobbits := hobbits + 1
+    caso _   =>
+  fim
+fim
+escreva "{hobbits} Hobbit(s)"
+escreva "{humanos} Humano(s)"
+escreva "{elfos} Elfo(s)"
+escreva "{anoes} Anao(s)"
+escreva "{magos} Mago(s)"

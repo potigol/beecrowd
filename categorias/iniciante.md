@@ -1,4 +1,4 @@
-# Iniciante (199 / 310)
+# Iniciante (201 / 310)
 
   - [ ] [1435](https://www.urionlinejudge.com.br/judge/pt/problems/view/1435) - Matriz Quadrada I
   - [ ] [1478](https://www.urionlinejudge.com.br/judge/pt/problems/view/1478) - Matriz Quadrada II
@@ -107,8 +107,6 @@
   - [ ] [2855](https://www.urionlinejudge.com.br/judge/pt/problems/view/2855) - Números de Sorte
   - [ ] [2863](https://www.urionlinejudge.com.br/judge/pt/problems/view/2863) - Umil Bolt
   - [ ] [2930](https://www.urionlinejudge.com.br/judge/pt/problems/view/2930) - TCC da Depressão Natalino
-  - [ ] [2949](https://www.urionlinejudge.com.br/judge/pt/problems/view/2949) - A Sociedade do Anel
-  - [ ] [2950](https://www.urionlinejudge.com.br/judge/pt/problems/view/2950) - As Duas Torres
   - [ ] [2951](https://www.urionlinejudge.com.br/judge/pt/problems/view/2951) - O Retorno do Rei
   - [ ] [2952](https://www.urionlinejudge.com.br/judge/pt/problems/view/2952) - A Vida Sustentável
   - [x] [1001](https://www.urionlinejudge.com.br/judge/pt/problems/view/1001) - [Extremamente Básico](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1001.poti)
@@ -310,3 +308,5 @@
   - [x] [2869](https://www.urionlinejudge.com.br/judge/pt/problems/view/2869) - [Falando em Divisor...](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2869.poti)
   - [x] [2879](https://www.urionlinejudge.com.br/judge/pt/problems/view/2879) - [Desvendando Monty Hall](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2879.poti)
   - [x] [2896](https://www.urionlinejudge.com.br/judge/pt/problems/view/2896) - [Aproveite a Oferta](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2896.poti)
+  - [x] [2949](https://www.urionlinejudge.com.br/judge/pt/problems/view/2949) - [A Sociedade do Anel](https://github.com/potigol/URI-Potigol/blob/master/src/2901-3000/2949.poti)
+  - [x] [2950](https://www.urionlinejudge.com.br/judge/pt/problems/view/2950) - [As Duas Torres](https://github.com/potigol/URI-Potigol/blob/master/src/2901-3000/2950.poti)
