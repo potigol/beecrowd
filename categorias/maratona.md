@@ -2,6 +2,31 @@
 
 
 
+## 2019
+
+
+
+### 2ª Fase
+
+  - [ ] ~~0~~
+
+
+### 1ª Fase
+
+  - [ ] [2962](https://www.urionlinejudge.com.br/judge/pt/problems/view/2962) - Arte Valiosa *Grafos*
+  - [ ] [2963](https://www.urionlinejudge.com.br/judge/pt/problems/view/2963) - Bobo da Corte *Iniciante*
+  - [ ] [2964](https://www.urionlinejudge.com.br/judge/pt/problems/view/2964) - Cruzamento Perigoso *Ad-Hoc*
+  - [ ] [2965](https://www.urionlinejudge.com.br/judge/pt/problems/view/2965) - Delaçao Premiada *Ad-Hoc*
+  - [ ] [2966](https://www.urionlinejudge.com.br/judge/pt/problems/view/2966) - Exibição de Peixes *Ad-Hoc*
+  - [ ] [2967](https://www.urionlinejudge.com.br/judge/pt/problems/view/2967) - Florestas em Risco *Ad-Hoc*
+  - [ ] [2968](https://www.urionlinejudge.com.br/judge/pt/problems/view/2968) - Hora da Corrida *Iniciante*
+  - [ ] [2969](https://www.urionlinejudge.com.br/judge/pt/problems/view/2969) - Interplanetário *Grafos*
+  - [ ] [2970](https://www.urionlinejudge.com.br/judge/pt/problems/view/2970) - Keep Calm e Venda Balões *Ad-Hoc*
+  - [ ] [2971](https://www.urionlinejudge.com.br/judge/pt/problems/view/2971) - Jogo de Baralho *Ad-Hoc*
+  - [ ] [2972](https://www.urionlinejudge.com.br/judge/pt/problems/view/2972) - Lançando Moedas *Ad-Hoc*
+  - [ ] [2973](https://www.urionlinejudge.com.br/judge/pt/problems/view/2973) - Maratona Brasileira de Comedores de Pipoca *Paradigmas*
+
+
 ## 2018
 
 
