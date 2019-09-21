@@ -61,18 +61,18 @@
   - [ ] [2959](https://www.urionlinejudge.com.br/judge/pt/problems/view/2959) - Credo com ParaTudo! *Grafos*
   - [ ] [2960](https://www.urionlinejudge.com.br/judge/pt/problems/view/2960) - Era Uma Vez… *Strings*
   - [ ] [2961](https://www.urionlinejudge.com.br/judge/pt/problems/view/2961) - Ô, Que Tanto de Filme! *Estruturas e Bibliotecas*
-  - [ ] ~~2962~~
-  - [ ] ~~2963~~
-  - [ ] ~~2964~~
-  - [ ] ~~2965~~
-  - [ ] ~~2966~~
-  - [ ] ~~2967~~
-  - [ ] ~~2968~~
-  - [ ] ~~2969~~
-  - [ ] ~~2970~~
-  - [ ] ~~2971~~
-  - [ ] ~~2972~~
-  - [ ] ~~2973~~
+  - [ ] [2962](https://www.urionlinejudge.com.br/judge/pt/problems/view/2962) - Arte Valiosa *Grafos*
+  - [ ] [2963](https://www.urionlinejudge.com.br/judge/pt/problems/view/2963) - Bobo da Corte *Iniciante*
+  - [ ] [2964](https://www.urionlinejudge.com.br/judge/pt/problems/view/2964) - Cruzamento Perigoso *Ad-Hoc*
+  - [ ] [2965](https://www.urionlinejudge.com.br/judge/pt/problems/view/2965) - Delaçao Premiada *Ad-Hoc*
+  - [ ] [2966](https://www.urionlinejudge.com.br/judge/pt/problems/view/2966) - Exibição de Peixes *Ad-Hoc*
+  - [ ] [2967](https://www.urionlinejudge.com.br/judge/pt/problems/view/2967) - Florestas em Risco *Ad-Hoc*
+  - [ ] [2968](https://www.urionlinejudge.com.br/judge/pt/problems/view/2968) - Hora da Corrida *Iniciante*
+  - [ ] [2969](https://www.urionlinejudge.com.br/judge/pt/problems/view/2969) - Interplanetário *Grafos*
+  - [ ] [2970](https://www.urionlinejudge.com.br/judge/pt/problems/view/2970) - Keep Calm e Venda Balões *Ad-Hoc*
+  - [ ] [2971](https://www.urionlinejudge.com.br/judge/pt/problems/view/2971) - Jogo de Baralho *Ad-Hoc*
+  - [ ] [2972](https://www.urionlinejudge.com.br/judge/pt/problems/view/2972) - Lançando Moedas *Ad-Hoc*
+  - [ ] [2973](https://www.urionlinejudge.com.br/judge/pt/problems/view/2973) - Maratona Brasileira de Comedores de Pipoca *Paradigmas*
   - [ ] ~~2974~~
   - [ ] ~~2975~~
   - [ ] ~~2976~~

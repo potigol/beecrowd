@@ -1942,3 +1942,15 @@
 2959	Credo com ParaTudo!	Grafos
 2960	Era Uma Vez…	Strings
 2961	Ô, Que Tanto de Filme!	Estruturas e Bibliotecas
+2962	Arte Valiosa	Grafos
+2963	Bobo da Corte	Iniciante
+2964	Cruzamento Perigoso	Ad-Hoc
+2965	Delaçao Premiada	Ad-Hoc
+2966	Exibição de Peixes	Ad-Hoc
+2967	Florestas em Risco	Ad-Hoc
+2968	Hora da Corrida	Iniciante
+2969	Interplanetário	Grafos
+2970	Keep Calm e Venda Balões	Ad-Hoc
+2971	Jogo de Baralho	Ad-Hoc
+2972	Lançando Moedas	Ad-Hoc
+2973	Maratona Brasileira de Comedores de Pipoca	Paradigmas
