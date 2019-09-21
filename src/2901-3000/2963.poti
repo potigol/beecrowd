@@ -1,0 +1,7 @@
+n = leia_inteiro
+bobo = leia_inteiro
+var resp := "S"
+para i de 2 até n se leia_inteiro > bobo faça
+  resp := "N"
+fim
+escreva resp
