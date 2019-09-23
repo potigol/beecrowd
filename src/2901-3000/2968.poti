@@ -1,0 +1,5 @@
+a = leia_inteiros(" ")
+n, v = a[1], a[2]
+t = n * v / 10
+saida = para i de 1 até 9 gere (t * i).teto.inteiro fim
+escreva saida.junte(" ")
