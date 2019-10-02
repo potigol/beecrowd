@@ -1,0 +1,18 @@
+var n := leia_inteiro
+
+min(a,b:Integer): Integer = se a > b então b senão a fim
+celula(a, valor:Integer) = se a == 1 então "  {valor}" senão valor formato "%4d" fim
+
+enquanto n <> 0 faça
+    para linha de 1 até n faça
+        para coluna de 1 até n faça
+            a = min(linha, n - linha + 1)
+            b = min(coluna, n - coluna + 1)
+            valor = min(a,b)
+            imprima "{celula(coluna, valor)}"
+        fim
+        escreva ""
+    fim
+    escreva ""
+    n := leia_inteiro
+fim
