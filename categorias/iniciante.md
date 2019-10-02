@@ -1,5 +1,9 @@
 # Iniciante (204 / 312)
 
+<<<<<<< HEAD
+=======
+  - [X] [1435](https://www.urionlinejudge.com.br/judge/pt/problems/view/1435) - Matriz Quadrada I
+>>>>>>> 0a05ce1a0517b50911a8d3a3c49dfee716355618
   - [ ] [1478](https://www.urionlinejudge.com.br/judge/pt/problems/view/1478) - Matriz Quadrada II
   - [ ] [1541](https://www.urionlinejudge.com.br/judge/pt/problems/view/1541) - Construindo Casas
   - [ ] [1789](https://www.urionlinejudge.com.br/judge/pt/problems/view/1789) - A Corrida de Lesmas
