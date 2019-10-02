@@ -1,6 +1,5 @@
-# Iniciante (203 / 312)
+# Iniciante (204 / 312)
 
-  - [ ] [1435](https://www.urionlinejudge.com.br/judge/pt/problems/view/1435) - Matriz Quadrada I
   - [ ] [1478](https://www.urionlinejudge.com.br/judge/pt/problems/view/1478) - Matriz Quadrada II
   - [ ] [1541](https://www.urionlinejudge.com.br/judge/pt/problems/view/1541) - Construindo Casas
   - [ ] [1789](https://www.urionlinejudge.com.br/judge/pt/problems/view/1789) - A Corrida de Lesmas
@@ -217,6 +216,7 @@
   - [x] [1188](https://www.urionlinejudge.com.br/judge/pt/problems/view/1188) - [Área Inferior](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1188.poti)
   - [x] [1189](https://www.urionlinejudge.com.br/judge/pt/problems/view/1189) - [Área Esquerda](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1189.poti)
   - [x] [1190](https://www.urionlinejudge.com.br/judge/pt/problems/view/1190) - [Área Direita](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1190.poti)
+  - [x] [1435](https://www.urionlinejudge.com.br/judge/pt/problems/view/1435) - [Matriz Quadrada I](https://github.com/potigol/URI-Potigol/blob/master/src/1401-1500/1435.poti)
   - [x] [1534](https://www.urionlinejudge.com.br/judge/pt/problems/view/1534) - [Matriz 123](https://github.com/potigol/URI-Potigol/blob/master/src/1501-1600/1534.poti)
   - [x] [1557](https://www.urionlinejudge.com.br/judge/pt/problems/view/1557) - [Matriz Quadrada III](https://github.com/potigol/URI-Potigol/blob/master/src/1501-1600/1557.poti)
   - [x] [1564](https://www.urionlinejudge.com.br/judge/pt/problems/view/1564) - [Vai Ter Copa?](https://github.com/potigol/URI-Potigol/blob/master/src/1501-1600/1564.poti)

@@ -34,7 +34,7 @@
   - [ ] [1432](https://www.urionlinejudge.com.br/judge/pt/problems/view/1432) - Strings Binárias Triple-Free *Paradigmas*
   - [ ] [1433](https://www.urionlinejudge.com.br/judge/pt/problems/view/1433) - O Clube da Divisão *Matemática*
   - [ ] [1434](https://www.urionlinejudge.com.br/judge/pt/problems/view/1434) - Patrulheiros Romanos *Matemática*
-  - [ ] [1435](https://www.urionlinejudge.com.br/judge/pt/problems/view/1435) - Matriz Quadrada I *Iniciante*
+  - [x] [1435](https://www.urionlinejudge.com.br/judge/pt/problems/view/1435) - [Matriz Quadrada I](https://github.com/potigol/URI-Potigol/blob/master/src/1401-1500/1435.poti) *Iniciante*
   - [ ] [1436](https://www.urionlinejudge.com.br/judge/pt/problems/view/1436) - Jogo do Tijolo *Matemática*
   - [ ] [1437](https://www.urionlinejudge.com.br/judge/pt/problems/view/1437) - Esquerda, Volver! *Ad-Hoc*
   - [ ] [1438](https://www.urionlinejudge.com.br/judge/pt/problems/view/1438) - Desempilhando Caixas *Ad-Hoc*
