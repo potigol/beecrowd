@@ -2,7 +2,7 @@
 
   - [ ] [1478](https://www.urionlinejudge.com.br/judge/pt/problems/view/1478) - Matriz Quadrada II
   - [X] [1541](https://www.urionlinejudge.com.br/judge/pt/problems/view/1541) - Construindo Casas
-  - [ ] [1789](https://www.urionlinejudge.com.br/judge/pt/problems/view/1789) - A Corrida de Lesmas
+  - [X] [1789](https://www.urionlinejudge.com.br/judge/pt/problems/view/1789) - A Corrida de Lesmas
   - [ ] [1827](https://www.urionlinejudge.com.br/judge/pt/problems/view/1827) - Matriz Quadrada IV
   - [ ] [1837](https://www.urionlinejudge.com.br/judge/pt/problems/view/1837) - Prefácio
   - [ ] [1848](https://www.urionlinejudge.com.br/judge/pt/problems/view/1848) - Corvo Contador
