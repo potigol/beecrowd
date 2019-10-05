@@ -40,7 +40,7 @@
   - [ ] [1538](https://www.urionlinejudge.com.br/judge/pt/problems/view/1538) - Sequência Alienígena *Estruturas e Bibliotecas*
   - [ ] [1539](https://www.urionlinejudge.com.br/judge/pt/problems/view/1539) - Empresa de Telecom *Grafos*
   - [ ] [1540](https://www.urionlinejudge.com.br/judge/pt/problems/view/1540) - Planejando a Energia *Ad-Hoc*
-  - [ ] [1541](https://www.urionlinejudge.com.br/judge/pt/problems/view/1541) - Construindo Casas *Iniciante*
+  - [x] [1541](https://www.urionlinejudge.com.br/judge/pt/problems/view/1541) - [Construindo Casas](https://github.com/potigol/URI-Potigol/blob/master/src/1501-1600/1541.poti) *Iniciante*
   - [ ] [1542](https://www.urionlinejudge.com.br/judge/pt/problems/view/1542) - Lendo Livros *Ad-Hoc*
   - [ ] [1543](https://www.urionlinejudge.com.br/judge/pt/problems/view/1543) - Quadro Premiado *Paradigmas*
   - [ ] [1544](https://www.urionlinejudge.com.br/judge/pt/problems/view/1544) - O Último Dígito Não-Zero *Matemática*
