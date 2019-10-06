@@ -1,7 +1,9 @@
 K = leia_inteiro
 L = leia_inteiro
 
-se K < 9 e L >= 9 ou L < 9 e K >= 9 então
+se K < 1 ou K > 16 ou K == L ou L < 1 ou L > 16 então
+  escreva ("Entrada inválida!")
+senãose K < 9 e L >= 9 ou L < 9 e K >= 9 então
   escreva ("final")
 senão
   se K > L então
