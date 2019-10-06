@@ -1,0 +1,25 @@
+K = leia_inteiro
+L = leia_inteiro
+
+se K < 9 e L >= 9 ou L < 9 e K >= 9 então
+  escreva ("final")
+senão
+  se K > L então
+    se K >= 5 e L < 5 ou K >= 13 e L >= 9 e L < 13 então
+      escreva ("semifinal")
+    senãose K mod 2 == 0 e L == K - 1 então
+      escreva ("oitavas")
+    senãose K - L == 1 ou K - L == 2 ou K - L == 3 então
+      escreva ("quartas")
+    fim
+  fim
+  se L > K então
+    se L >= 5 e K < 5 ou L >= 13 e K >= 9 e K < 13 então
+      escreva ("semifinal")
+    senãose L mod 2 == 0 e K == L - 1 então
+      escreva ("oitavas")
+    senãose L - K == 1 ou L - K == 2 ou L - K == 3 então
+      escreva ("quartas")
+    fim
+  fim
+fim
