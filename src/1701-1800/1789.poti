@@ -1,0 +1,14 @@
+var n := leia_texto
+
+enquanto n <> None.orNull faça
+    var velocidades := leia_inteiros(" ")
+    var maior_velocidade := velocidades.injete(0)((a, b) => se a > b então a senão b fim)
+
+    escolha maior_velocidade
+        caso velocidade se velocidade < 10 => escreva "{1}"
+        caso velocidade se velocidade < 20 => escreva "{2}"
+        caso _ => escreva "{3}"
+    fim
+
+    n := leia_texto
+fim
