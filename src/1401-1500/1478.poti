@@ -1,0 +1,16 @@
+var n := leia_inteiro
+
+enquanto n <> 0 faça
+    para linha de 1 até n faça
+        imprima linha formato "%3d"
+        para c de linha - 1 até 1 passo -1 faça
+            imprima c formato "%4d"
+        fim
+        para c de 2 até n - linha + 1 faça
+            imprima c formato "%4d"
+        fim
+        escreva ""
+    fim
+    escreva ""
+    n := leia_inteiro
+fim
