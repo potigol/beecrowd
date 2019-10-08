@@ -1,0 +1,6 @@
+x = leia_inteiros(" ")
+a,b = x[1], x[2]
+inferior = a
+superior = b
+soma = (inferior + superior) * (superior - inferior + 1)/2
+escreva {soma}
