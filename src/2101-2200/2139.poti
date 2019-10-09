@@ -1,0 +1,39 @@
+var entrada := leia_texto
+var dias := 0
+
+enquanto (entrada <> None.orNull) faça
+  mes, dia = entrada.divida(" ")[1].inteiro, entrada.divida(" ")[2].inteiro
+
+  escolha mes
+    caso 1 => dias := (31 - dia) + 29 + 31 + 30 + 31 + 30 + 31 + 31 + 30 + 31 + 30 + 25
+    caso 2 => dias := (29 - dia) + 31 + 30 + 31 + 30 + 31 + 31 + 30 + 31 + 30 + 25
+    caso 3 => dias := (31 - dia) + 30 + 31 + 30 + 31 + 31 + 30 + 31 + 30 + 25
+    caso 4 => dias := (30 - dia) + 31 + 30 + 31 + 31 + 30 + 31 + 30 + 25
+    caso 5 => dias := (31 - dia) + 30 + 31 + 31 + 30 + 31 + 30 + 25
+    caso 6 => dias := (30 - dia) + 31 + 31 + 30 + 31 + 30 + 25
+    caso 7 => dias := (31 - dia) + 31 + 30 + 31 + 30 + 25
+    caso 8 => dias := (31 - dia) + 30 + 31 + 30 + 25
+    caso 9 => dias := (30 - dia) + 31 + 30 + 25
+    caso 10 => dias := (31 - dia) + 30 + 25
+    caso 11 => dias := (30 - dia) + 25
+    caso _ => dias := -2
+  fim
+
+  se ((mes == 12) e (dia <= 25)) então
+    dias := 25 - dia
+  senãose ((mes == 12) e (dia > 25)) então
+    dias := -1
+  fim
+
+  se dias == 0 então
+    escreva "E natal!"
+  senãose dias == 1 então
+    escreva "E vespera de natal!"
+  senãose dias == -1 então
+    escreva "Ja passou!"
+  senãose dias > 1 então
+    escreva "Faltam " + dias + " dias para o natal!"
+  fim
+
+  entrada := leia_texto
+fim
