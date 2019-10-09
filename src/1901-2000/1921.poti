@@ -1,0 +1,4 @@
+x = leia_inteiros(" ")
+n = x[1]
+quantidade = (n*(n-3))/2
+escreva {quantidade}
