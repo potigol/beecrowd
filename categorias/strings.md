@@ -1,4 +1,4 @@
-# Strings (14 / 123)
+# Strings (14 / 125)
 
   - [ ] [1120](https://www.urionlinejudge.com.br/judge/pt/problems/view/1120) - Revisão de Contrato
   - [ ] [1141](https://www.urionlinejudge.com.br/judge/pt/problems/view/1141) - Cultivando Strings
@@ -109,6 +109,8 @@
   - [ ] [2866](https://www.urionlinejudge.com.br/judge/pt/problems/view/2866) - Criptotexto
   - [ ] [2954](https://www.urionlinejudge.com.br/judge/pt/problems/view/2954) - O Jogo
   - [ ] [2960](https://www.urionlinejudge.com.br/judge/pt/problems/view/2960) - Era Uma Vez…
+  - [ ] [2974](https://www.urionlinejudge.com.br/judge/pt/problems/view/2974) - Fechadura
+  - [ ] [2975](https://www.urionlinejudge.com.br/judge/pt/problems/view/2975) - Anel
   - [x] [1024](https://www.urionlinejudge.com.br/judge/pt/problems/view/1024) - [Criptografia](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1024.poti)
   - [x] [1168](https://www.urionlinejudge.com.br/judge/pt/problems/view/1168) - [LED](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1168.poti)
   - [x] [1238](https://www.urionlinejudge.com.br/judge/pt/problems/view/1238) - [Combinador](https://github.com/potigol/URI-Potigol/blob/master/src/1201-1300/1238.poti)

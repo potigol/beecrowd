@@ -1954,3 +1954,17 @@
 2971	Jogo de Baralho	Ad-Hoc
 2972	Lançando Moedas	Ad-Hoc
 2973	Maratona Brasileira de Comedores de Pipoca	Paradigmas
+2974	Fechadura	Strings
+2975	Anel	Strings
+2976	Triângulos	Paradigmas
+2977	Romeu e Julieta	Grafos
+2978	Cartão	Matemática
+2979	Torre	Ad-Hoc
+2980	Jogo da Árvore	Grafos
+2981	Vamos Fechar	Matemática
+2982	A Greve para ou Continua?	Iniciante
+2983	Nem tudo é greve	Matemática
+2984	Assuntos Pendentes	Estruturas e Bibliotecas
+2985	Tobias Contra o Relógio	Ad-Hoc
+2986	Nem Tudo é Greve Versão Hard	Matemática
+2987	Balão de Honra	Iniciante

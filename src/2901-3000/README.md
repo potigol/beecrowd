@@ -73,20 +73,20 @@
   - [ ] [2971](https://www.urionlinejudge.com.br/judge/pt/problems/view/2971) - Jogo de Baralho *Ad-Hoc*
   - [ ] [2972](https://www.urionlinejudge.com.br/judge/pt/problems/view/2972) - Lançando Moedas *Ad-Hoc*
   - [ ] [2973](https://www.urionlinejudge.com.br/judge/pt/problems/view/2973) - Maratona Brasileira de Comedores de Pipoca *Paradigmas*
-  - [ ] ~~2974~~
-  - [ ] ~~2975~~
-  - [ ] ~~2976~~
-  - [ ] ~~2977~~
-  - [ ] ~~2978~~
-  - [ ] ~~2979~~
-  - [ ] ~~2980~~
-  - [ ] ~~2981~~
-  - [ ] ~~2982~~
-  - [ ] ~~2983~~
-  - [ ] ~~2984~~
-  - [ ] ~~2985~~
-  - [ ] ~~2986~~
-  - [ ] ~~2987~~
+  - [ ] [2974](https://www.urionlinejudge.com.br/judge/pt/problems/view/2974) - Fechadura *Strings*
+  - [ ] [2975](https://www.urionlinejudge.com.br/judge/pt/problems/view/2975) - Anel *Strings*
+  - [ ] [2976](https://www.urionlinejudge.com.br/judge/pt/problems/view/2976) - Triângulos *Paradigmas*
+  - [ ] [2977](https://www.urionlinejudge.com.br/judge/pt/problems/view/2977) - Romeu e Julieta *Grafos*
+  - [ ] [2978](https://www.urionlinejudge.com.br/judge/pt/problems/view/2978) - Cartão *Matemática*
+  - [ ] [2979](https://www.urionlinejudge.com.br/judge/pt/problems/view/2979) - Torre *Ad-Hoc*
+  - [ ] [2980](https://www.urionlinejudge.com.br/judge/pt/problems/view/2980) - Jogo da Árvore *Grafos*
+  - [ ] [2981](https://www.urionlinejudge.com.br/judge/pt/problems/view/2981) - Vamos Fechar *Matemática*
+  - [ ] [2982](https://www.urionlinejudge.com.br/judge/pt/problems/view/2982) - A Greve para ou Continua? *Iniciante*
+  - [ ] [2983](https://www.urionlinejudge.com.br/judge/pt/problems/view/2983) - Nem tudo é greve *Matemática*
+  - [ ] [2984](https://www.urionlinejudge.com.br/judge/pt/problems/view/2984) - Assuntos Pendentes *Estruturas e Bibliotecas*
+  - [ ] [2985](https://www.urionlinejudge.com.br/judge/pt/problems/view/2985) - Tobias Contra o Relógio *Ad-Hoc*
+  - [ ] [2986](https://www.urionlinejudge.com.br/judge/pt/problems/view/2986) - Nem Tudo é Greve Versão Hard *Matemática*
+  - [ ] [2987](https://www.urionlinejudge.com.br/judge/pt/problems/view/2987) - Balão de Honra *Iniciante*
   - [ ] ~~2988~~
   - [ ] ~~2989~~
   - [ ] ~~2990~~
