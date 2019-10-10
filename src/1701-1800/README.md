@@ -88,7 +88,7 @@
   - [ ] [1786](https://www.urionlinejudge.com.br/judge/pt/problems/view/1786) - CPF 2 *Ad-Hoc*
   - [ ] [1787](https://www.urionlinejudge.com.br/judge/pt/problems/view/1787) - URI *Ad-Hoc*
   - [ ] [1788](https://www.urionlinejudge.com.br/judge/pt/problems/view/1788) - Brincando com Números *Paradigmas*
-  - [ ] [1789](https://www.urionlinejudge.com.br/judge/pt/problems/view/1789) - A Corrida de Lesmas *Iniciante*
+  - [x] [1789](https://www.urionlinejudge.com.br/judge/pt/problems/view/1789) - [A Corrida de Lesmas](https://github.com/potigol/URI-Potigol/blob/master/src/1701-1800/1789.poti) *Iniciante*
   - [ ] [1790](https://www.urionlinejudge.com.br/judge/pt/problems/view/1790) - Detectando Pontes *Grafos*
   - [ ] [1791](https://www.urionlinejudge.com.br/judge/pt/problems/view/1791) - Descobrindo uma Matriz *Ad-Hoc*
   - [ ] [1792](https://www.urionlinejudge.com.br/judge/pt/problems/view/1792) - Ataque Programado *Grafos*

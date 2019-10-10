@@ -1,6 +1,6 @@
 var parametros := leia_inteiros(" ")
 enquanto parametros[1] <> 0 faça
-  x = 10 * raiz(parametros[1] * parametros[2] * parametros[3]) / parametros[3]
+  x = 10 * raiz(parametros[1] * parametros[2] / parametros[3])
   escreva x.inteiro
   parametros := leia_inteiros(" ")
 fim

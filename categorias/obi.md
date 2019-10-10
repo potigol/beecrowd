@@ -8,12 +8,12 @@
   - [x] [2780](https://www.urionlinejudge.com.br/judge/pt/problems/view/2780) - [Basquete de Robôs](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2780.poti) *Iniciante*
   - [ ] [2781](https://www.urionlinejudge.com.br/judge/pt/problems/view/2781) - Câmara de Compensação *Iniciante*
   - [ ] [2782](https://www.urionlinejudge.com.br/judge/pt/problems/view/2782) - Escadinha *Iniciante*
-  - [ ] [2783](https://www.urionlinejudge.com.br/judge/pt/problems/view/2783) - Figurinhas da Copa *Iniciante*
+  - [x] [2783](https://www.urionlinejudge.com.br/judge/pt/problems/view/2783) - [Figurinhas da Copa](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2783.poti) *Iniciante*
   - [ ] [2784](https://www.urionlinejudge.com.br/judge/pt/problems/view/2784) - Ilhas *Iniciante*
   - [ ] [2785](https://www.urionlinejudge.com.br/judge/pt/problems/view/2785) - Pirâmide *Iniciante*
   - [x] [2786](https://www.urionlinejudge.com.br/judge/pt/problems/view/2786) - [Piso da Escola](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2786.poti) *Iniciante*
   - [x] [2787](https://www.urionlinejudge.com.br/judge/pt/problems/view/2787) - [Xadrez](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2787.poti) *Iniciante*
-  - [ ] [2830](https://www.urionlinejudge.com.br/judge/pt/problems/view/2830) - Copa *Ad-Hoc*
+  - [x] [2830](https://www.urionlinejudge.com.br/judge/pt/problems/view/2830) - [Copa](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2830.poti) *Ad-Hoc*
   - [ ] [2831](https://www.urionlinejudge.com.br/judge/pt/problems/view/2831) - Pesos *Ad-Hoc*
   - [ ] [2832](https://www.urionlinejudge.com.br/judge/pt/problems/view/2832) - Cápsulas *Ad-Hoc*
   - [ ] [2833](https://www.urionlinejudge.com.br/judge/pt/problems/view/2833) - Campeonato *Ad-Hoc*

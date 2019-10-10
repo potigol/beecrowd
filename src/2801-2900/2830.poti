@@ -1,5 +1,4 @@
-K = leia_inteiro
-L = leia_inteiro
+K, L = leia_inteiro
 
 se K < 1 ou K > 16 ou K == L ou L < 1 ou L > 16 então
   escreva ("Entrada inválida!")

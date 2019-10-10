@@ -29,7 +29,7 @@
   - [ ] [2827](https://www.urionlinejudge.com.br/judge/pt/problems/view/2827) - Contador de Tokens *Iniciante*
   - [ ] [2828](https://www.urionlinejudge.com.br/judge/pt/problems/view/2828) - Anagramas *Iniciante*
   - [ ] [2829](https://www.urionlinejudge.com.br/judge/pt/problems/view/2829) - Maiúsculas, Por Quê? *Iniciante*
-  - [ ] [2830](https://www.urionlinejudge.com.br/judge/pt/problems/view/2830) - Copa *Ad-Hoc*
+  - [x] [2830](https://www.urionlinejudge.com.br/judge/pt/problems/view/2830) - [Copa](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2830.poti) *Ad-Hoc*
   - [ ] [2831](https://www.urionlinejudge.com.br/judge/pt/problems/view/2831) - Pesos *Ad-Hoc*
   - [ ] [2832](https://www.urionlinejudge.com.br/judge/pt/problems/view/2832) - Cápsulas *Ad-Hoc*
   - [ ] [2833](https://www.urionlinejudge.com.br/judge/pt/problems/view/2833) - Campeonato *Ad-Hoc*

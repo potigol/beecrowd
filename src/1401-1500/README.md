@@ -77,7 +77,7 @@
   - [ ] [1475](https://www.urionlinejudge.com.br/judge/pt/problems/view/1475) - Remendo *Paradigmas*
   - [ ] [1476](https://www.urionlinejudge.com.br/judge/pt/problems/view/1476) - Caminhão *Grafos*
   - [ ] [1477](https://www.urionlinejudge.com.br/judge/pt/problems/view/1477) - Homem, Elefante e Rato *Estruturas e Bibliotecas*
-  - [ ] [1478](https://www.urionlinejudge.com.br/judge/pt/problems/view/1478) - Matriz Quadrada II *Iniciante*
+  - [x] [1478](https://www.urionlinejudge.com.br/judge/pt/problems/view/1478) - [Matriz Quadrada II](https://github.com/potigol/URI-Potigol/blob/master/src/1401-1500/1478.poti) *Iniciante*
   - [ ] [1479](https://www.urionlinejudge.com.br/judge/pt/problems/view/1479) - Ajude seu General *Grafos*
   - [ ] [1480](https://www.urionlinejudge.com.br/judge/pt/problems/view/1480) - O Famoso Campo Minado *Ad-Hoc*
   - [ ] [1481](https://www.urionlinejudge.com.br/judge/pt/problems/view/1481) - A Fazenda de Ostras de Zing Zhu *Matemática*

@@ -1,4 +1,4 @@
-# Ad-Hoc (39 / 654)
+# Ad-Hoc (40 / 654)
 
   - [ ] [1026](https://www.urionlinejudge.com.br/judge/pt/problems/view/1026) - Carrega ou não Carrega?
   - [ ] [1030](https://www.urionlinejudge.com.br/judge/pt/problems/view/1030) - A Lenda de Flavious Josephus
@@ -549,7 +549,6 @@
   - [ ] [2803](https://www.urionlinejudge.com.br/judge/pt/problems/view/2803) - Estados do Norte
   - [ ] [2806](https://www.urionlinejudge.com.br/judge/pt/problems/view/2806) - Ingredientes Típicos
   - [ ] [2814](https://www.urionlinejudge.com.br/judge/pt/problems/view/2814) - Música Alta
-  - [ ] [2830](https://www.urionlinejudge.com.br/judge/pt/problems/view/2830) - Copa
   - [ ] [2831](https://www.urionlinejudge.com.br/judge/pt/problems/view/2831) - Pesos
   - [ ] [2832](https://www.urionlinejudge.com.br/judge/pt/problems/view/2832) - Cápsulas
   - [ ] [2833](https://www.urionlinejudge.com.br/judge/pt/problems/view/2833) - Campeonato
@@ -650,6 +649,7 @@
   - [x] [2479](https://www.urionlinejudge.com.br/judge/pt/problems/view/2479) - [Ordenando a Lista de Crianças do Papai Noel](https://github.com/potigol/URI-Potigol/blob/master/src/2401-2500/2479.poti)
   - [x] [2569](https://www.urionlinejudge.com.br/judge/pt/problems/view/2569) - [A Bruxa do 7 x 1](https://github.com/potigol/URI-Potigol/blob/master/src/2501-2600/2569.poti)
   - [x] [2679](https://www.urionlinejudge.com.br/judge/pt/problems/view/2679) - [Sucessor Par](https://github.com/potigol/URI-Potigol/blob/master/src/2601-2700/2679.poti)
+  - [x] [2830](https://www.urionlinejudge.com.br/judge/pt/problems/view/2830) - [Copa](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2830.poti)
   - [x] [2851](https://www.urionlinejudge.com.br/judge/pt/problems/view/2851) - [Desafio de Rangel](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2851.poti)
   - [x] [2858](https://www.urionlinejudge.com.br/judge/pt/problems/view/2858) - [Tabuleiro Infinito](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2858.poti)
   - [x] [2868](https://www.urionlinejudge.com.br/judge/pt/problems/view/2868) - [Errrou!](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2868.poti)
