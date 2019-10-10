@@ -1,0 +1,17 @@
+E = leia_inteiro
+D = leia_inteiro
+
+se E < 0 ou E > 25 ou D < 0 ou D > 25 então
+  escreva ("Valor inválido")
+senãose D >= 24 ou E > D então
+  escreva ("Eu odeio a professora!")
+senãose E <= D - 3 então
+  escreva ("Muito bem! Apresenta antes do Natal!")
+senãose E >= D - 3 então
+  escreva ("Parece o trabalho do meu filho!")
+  se E + 2 < 24 então
+    escreva ("TCC Apresentado!")
+  senão
+    escreva ("Fail! Entao eh nataaaaal!")
+  fim
+fim

@@ -29,7 +29,7 @@
   - [ ] [2927](https://www.urionlinejudge.com.br/judge/pt/problems/view/2927) - Imprevistos Natalinos *Ad-Hoc*
   - [ ] [2928](https://www.urionlinejudge.com.br/judge/pt/problems/view/2928) - Cruzando Lagos *Ad-Hoc*
   - [ ] [2929](https://www.urionlinejudge.com.br/judge/pt/problems/view/2929) - Menor da Pilha *Estruturas e Bibliotecas*
-  - [ ] [2930](https://www.urionlinejudge.com.br/judge/pt/problems/view/2930) - TCC da Depressão Natalino *Iniciante*
+  - [x] [2930](https://www.urionlinejudge.com.br/judge/pt/problems/view/2930) - TCC da Depressão Natalino *Iniciante*
   - [ ] [2931](https://www.urionlinejudge.com.br/judge/pt/problems/view/2931) - Presentes Suspeitos *Ad-Hoc*
   - [ ] [2932](https://www.urionlinejudge.com.br/judge/pt/problems/view/2932) - Renas do Papai Noel *Paradigmas*
   - [ ] [2933](https://www.urionlinejudge.com.br/judge/pt/problems/view/2933) - Passeio de Trenó pela Terra *Grafos*
