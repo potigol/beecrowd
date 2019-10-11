@@ -163,7 +163,7 @@
   - [x] [1933](https://www.urionlinejudge.com.br/judge/pt/problems/view/1933) - [Tri-du](https://github.com/potigol/URI-Potigol/blob/master/src/1901-2000/1933.poti) *Iniciante*
   - [ ] [1934](https://www.urionlinejudge.com.br/judge/pt/problems/view/1934) - Quebra-cabeça *Ad-Hoc*
   - [ ] [1935](https://www.urionlinejudge.com.br/judge/pt/problems/view/1935) - Espiral *Ad-Hoc*
-  - [ ] [1936](https://www.urionlinejudge.com.br/judge/pt/problems/view/1936) - Fatorial *Ad-Hoc*
+  - [x] [1936](https://www.urionlinejudge.com.br/judge/pt/problems/view/1936) - [Fatorial](https://github.com/potigol/URI-Potigol/blob/master/src/1901-2000/1936.poti) *Ad-Hoc*
   - [ ] [1937](https://www.urionlinejudge.com.br/judge/pt/problems/view/1937) - Guardiões Curiosos *Ad-Hoc*
   - [ ] [1938](https://www.urionlinejudge.com.br/judge/pt/problems/view/1938) - Praça do Retângulo *Geometria Computacional*
   - [ ] [1939](https://www.urionlinejudge.com.br/judge/pt/problems/view/1939) - Ominobox *Ad-Hoc*

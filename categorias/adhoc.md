@@ -1,4 +1,4 @@
-# Ad-Hoc (40 / 656)
+# Ad-Hoc (41 / 656)
 
   - [ ] [1026](https://www.urionlinejudge.com.br/judge/pt/problems/view/1026) - Carrega ou não Carrega?
   - [ ] [1030](https://www.urionlinejudge.com.br/judge/pt/problems/view/1030) - A Lenda de Flavious Josephus
@@ -220,7 +220,6 @@
   - [ ] [1932](https://www.urionlinejudge.com.br/judge/pt/problems/view/1932) - Bolsa de Valores
   - [ ] [1934](https://www.urionlinejudge.com.br/judge/pt/problems/view/1934) - Quebra-cabeça
   - [ ] [1935](https://www.urionlinejudge.com.br/judge/pt/problems/view/1935) - Espiral
-  - [ ] [1936](https://www.urionlinejudge.com.br/judge/pt/problems/view/1936) - Fatorial
   - [ ] [1937](https://www.urionlinejudge.com.br/judge/pt/problems/view/1937) - Guardiões Curiosos
   - [ ] [1939](https://www.urionlinejudge.com.br/judge/pt/problems/view/1939) - Ominobox
   - [ ] [1940](https://www.urionlinejudge.com.br/judge/pt/problems/view/1940) - Jogo da Estratégia
@@ -624,6 +623,7 @@
   - [x] [1441](https://www.urionlinejudge.com.br/judge/pt/problems/view/1441) - [Sequências de Granizo](https://github.com/potigol/URI-Potigol/blob/master/src/1401-1500/1441.poti)
   - [x] [1794](https://www.urionlinejudge.com.br/judge/pt/problems/view/1794) - [Lavanderia](https://github.com/potigol/URI-Potigol/blob/master/src/1701-1800/1794.poti)
   - [x] [1867](https://www.urionlinejudge.com.br/judge/pt/problems/view/1867) - [Maior Número de Um Algarismo](https://github.com/potigol/URI-Potigol/blob/master/src/1801-1900/1867.poti)
+  - [x] [1936](https://www.urionlinejudge.com.br/judge/pt/problems/view/1936) - [Fatorial](https://github.com/potigol/URI-Potigol/blob/master/src/1901-2000/1936.poti)
   - [x] [2058](https://www.urionlinejudge.com.br/judge/pt/problems/view/2058) - [Triângulos e Polígonos Regulares](https://github.com/potigol/URI-Potigol/blob/master/src/2001-2100/2058.poti)
   - [x] [2188](https://www.urionlinejudge.com.br/judge/pt/problems/view/2188) - [Macaco-prego](https://github.com/potigol/URI-Potigol/blob/master/src/2101-2200/2188.poti)
   - [x] [2217](https://www.urionlinejudge.com.br/judge/pt/problems/view/2217) - [Nove](https://github.com/potigol/URI-Potigol/blob/master/src/2201-2300/2217.poti)
