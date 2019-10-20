@@ -86,7 +86,7 @@
   - [ ] [1384](https://www.urionlinejudge.com.br/judge/pt/problems/view/1384) - Sapo Preguiçoso *Grafos*
   - [ ] [1385](https://www.urionlinejudge.com.br/judge/pt/problems/view/1385) - Recuperação de Relatório *Strings*
   - [ ] [1386](https://www.urionlinejudge.com.br/judge/pt/problems/view/1386) - Códigos Ambíguos *Strings*
-  - [ ] [1387](https://www.urionlinejudge.com.br/judge/pt/problems/view/1387) - Og *Ad-Hoc*
+  - [x] [1387](https://www.urionlinejudge.com.br/judge/pt/problems/view/1387) - [Og](https://github.com/potigol/URI-Potigol/blob/master/src/1301-1400/1387.poti) *Ad-Hoc*
   - [ ] [1388](https://www.urionlinejudge.com.br/judge/pt/problems/view/1388) - Onde Estão as Bolhas? *Estruturas e Bibliotecas*
   - [ ] [1389](https://www.urionlinejudge.com.br/judge/pt/problems/view/1389) - O Problema do Sapateiro Viajante *Grafos*
   - [ ] [1390](https://www.urionlinejudge.com.br/judge/pt/problems/view/1390) - Bases *Matemática*

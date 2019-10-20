@@ -418,7 +418,7 @@
   - [ ] [1365](https://www.urionlinejudge.com.br/judge/pt/problems/view/1365) - Procurando Assentos *Paradigmas*
   - [ ] [1366](https://www.urionlinejudge.com.br/judge/pt/problems/view/1366) - Jogo de Varetas *Ad-Hoc*
   - [ ] [1386](https://www.urionlinejudge.com.br/judge/pt/problems/view/1386) - Códigos Ambíguos *Strings*
-  - [ ] [1387](https://www.urionlinejudge.com.br/judge/pt/problems/view/1387) - Og *Ad-Hoc*
+  - [x] [1387](https://www.urionlinejudge.com.br/judge/pt/problems/view/1387) - [Og](https://github.com/potigol/URI-Potigol/blob/master/src/1301-1400/1387.poti) *Ad-Hoc*
   - [ ] [1410](https://www.urionlinejudge.com.br/judge/pt/problems/view/1410) - Ele Está Impedido! *Ad-Hoc*
   - [ ] [1415](https://www.urionlinejudge.com.br/judge/pt/problems/view/1415) - Galou Está de Volta! *Grafos*
   - [ ] [1416](https://www.urionlinejudge.com.br/judge/pt/problems/view/1416) - Placar do ICPC *Paradigmas*
