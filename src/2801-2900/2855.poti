@@ -1,0 +1,14 @@
+var sortudos := para i de 1 até 500000 passo 2 gere i fim
+para i de 3 até 552 faça
+  escreva sortudos[i-1]
+  sortudos := para j de 1 até sortudos.tamanho se j mod i <> 0 gere sortudos[j] fim
+fim
+#enquanto sortudos.cabeça < 305000 faça
+#  sortudos := (sortudos.cabeça + i) :: sortudos
+#  i := i + 2
+#fim
+enquanto leia_inteiro > 0 faça
+  nums, m = leia_inteiros(" "), leia_inteiro
+  sorte = para i em sortudos se i == m gere 1 fim
+  se sorte.tamanho > 0 então escreva "Y" senão escreva "N" fim
+fim
