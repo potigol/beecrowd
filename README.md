@@ -42,7 +42,8 @@ Soluções dos problemas do [URI Online Judge](https://www.urionlinejudge.com.br
 [2601 - 2700](src/2601-2700) |
 [2701 - 2800](src/2701-2800) |
 [2801 - 2900](src/2801-2900) |
-[2901 - 3000](src/2901-3000) 
+[2901 - 3000](src/2901-3000) |
+[3001 - 3100](src/3001-3100) 
 
 ## Participe
 

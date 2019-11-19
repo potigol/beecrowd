@@ -8,7 +8,19 @@
 
 ### 2ª Fase
 
-  - [ ] ~~0~~
+  - [ ] [3012](https://www.urionlinejudge.com.br/judge/pt/problems/view/3012) - Algorithm Teaching *Ad-Hoc*
+  - [ ] [3013](https://www.urionlinejudge.com.br/judge/pt/problems/view/3013) - Build the Perfect House *Ad-Hoc*
+  - [ ] [3014](https://www.urionlinejudge.com.br/judge/pt/problems/view/3014) - Cut Inequality Down *Ad-Hoc*
+  - [ ] [3015](https://www.urionlinejudge.com.br/judge/pt/problems/view/3015) - Dazzling Stars *Ad-Hoc*
+  - [ ] [3016](https://www.urionlinejudge.com.br/judge/pt/problems/view/3016) - Eggfruit Cake *Ad-Hoc*
+  - [ ] [3017](https://www.urionlinejudge.com.br/judge/pt/problems/view/3017) - Fabricating Sculptures *Ad-Hoc*
+  - [ ] [3018](https://www.urionlinejudge.com.br/judge/pt/problems/view/3018) - Gluing Pictures *Ad-Hoc*
+  - [ ] [3019](https://www.urionlinejudge.com.br/judge/pt/problems/view/3019) - Hold or Continue? *Ad-Hoc*
+  - [ ] [3020](https://www.urionlinejudge.com.br/judge/pt/problems/view/3020) - Improve SPAM *Ad-Hoc*
+  - [ ] [3021](https://www.urionlinejudge.com.br/judge/pt/problems/view/3021) - Jumping Grasshopper *Ad-Hoc*
+  - [ ] [3022](https://www.urionlinejudge.com.br/judge/pt/problems/view/3022) - Know your Aliens *Ad-Hoc*
+  - [ ] [3023](https://www.urionlinejudge.com.br/judge/pt/problems/view/3023) - Leverage MDT *Ad-Hoc*
+  - [ ] [3024](https://www.urionlinejudge.com.br/judge/pt/problems/view/3024) - Mountain Ranges *Ad-Hoc*
 
 
 ### 1ª Fase

@@ -1,4 +1,4 @@
-# Ad-Hoc (42 / 656)
+# Ad-Hoc (43 / 675)
 
   - [ ] [1026](https://www.urionlinejudge.com.br/judge/pt/problems/view/1026) - Carrega ou não Carrega?
   - [ ] [1030](https://www.urionlinejudge.com.br/judge/pt/problems/view/1030) - A Lenda de Flavious Josephus
@@ -382,7 +382,6 @@
   - [ ] [2341](https://www.urionlinejudge.com.br/judge/pt/problems/view/2341) - Número de Envelopes
   - [ ] [2342](https://www.urionlinejudge.com.br/judge/pt/problems/view/2342) - Overflow
   - [ ] [2343](https://www.urionlinejudge.com.br/judge/pt/problems/view/2343) - Caçadores de Mitos
-  - [ ] [2344](https://www.urionlinejudge.com.br/judge/pt/problems/view/2344) - Notas da Prova
   - [ ] [2346](https://www.urionlinejudge.com.br/judge/pt/problems/view/2346) - Back to the Future
   - [ ] [2347](https://www.urionlinejudge.com.br/judge/pt/problems/view/2347) - Counting Self-Rotating Subsets
   - [ ] [2348](https://www.urionlinejudge.com.br/judge/pt/problems/view/2348) - Dating On-Line
@@ -614,6 +613,25 @@
   - [ ] [2972](https://www.urionlinejudge.com.br/judge/pt/problems/view/2972) - Lançando Moedas
   - [ ] [2979](https://www.urionlinejudge.com.br/judge/pt/problems/view/2979) - Torre
   - [ ] [2985](https://www.urionlinejudge.com.br/judge/pt/problems/view/2985) - Tobias Contra o Relógio
+  - [ ] [3005](https://www.urionlinejudge.com.br/judge/pt/problems/view/3005) - Pilhas de paralelepípedos
+  - [ ] [3006](https://www.urionlinejudge.com.br/judge/pt/problems/view/3006) - Passeio em Copacabana
+  - [ ] [3008](https://www.urionlinejudge.com.br/judge/pt/problems/view/3008) - Numeração com Fósforos
+  - [ ] [3009](https://www.urionlinejudge.com.br/judge/pt/problems/view/3009) - Dominós
+  - [ ] [3010](https://www.urionlinejudge.com.br/judge/pt/problems/view/3010) - Binários Ambíguos
+  - [ ] [3011](https://www.urionlinejudge.com.br/judge/pt/problems/view/3011) - Quebra-Cabeça Algébrico
+  - [ ] [3012](https://www.urionlinejudge.com.br/judge/pt/problems/view/3012) - Algorithm Teaching
+  - [ ] [3013](https://www.urionlinejudge.com.br/judge/pt/problems/view/3013) - Build the Perfect House
+  - [ ] [3014](https://www.urionlinejudge.com.br/judge/pt/problems/view/3014) - Cut Inequality Down
+  - [ ] [3015](https://www.urionlinejudge.com.br/judge/pt/problems/view/3015) - Dazzling Stars
+  - [ ] [3016](https://www.urionlinejudge.com.br/judge/pt/problems/view/3016) - Eggfruit Cake
+  - [ ] [3017](https://www.urionlinejudge.com.br/judge/pt/problems/view/3017) - Fabricating Sculptures
+  - [ ] [3018](https://www.urionlinejudge.com.br/judge/pt/problems/view/3018) - Gluing Pictures
+  - [ ] [3019](https://www.urionlinejudge.com.br/judge/pt/problems/view/3019) - Hold or Continue?
+  - [ ] [3020](https://www.urionlinejudge.com.br/judge/pt/problems/view/3020) - Improve SPAM
+  - [ ] [3021](https://www.urionlinejudge.com.br/judge/pt/problems/view/3021) - Jumping Grasshopper
+  - [ ] [3022](https://www.urionlinejudge.com.br/judge/pt/problems/view/3022) - Know your Aliens
+  - [ ] [3023](https://www.urionlinejudge.com.br/judge/pt/problems/view/3023) - Leverage MDT
+  - [ ] [3024](https://www.urionlinejudge.com.br/judge/pt/problems/view/3024) - Mountain Ranges
   - [x] [1087](https://www.urionlinejudge.com.br/judge/pt/problems/view/1087) - [Dama](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1087.poti)
   - [x] [1103](https://www.urionlinejudge.com.br/judge/pt/problems/view/1103) - [Alarme Despertador](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1103.poti)
   - [x] [1171](https://www.urionlinejudge.com.br/judge/pt/problems/view/1171) - [Frequência de Números](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1171.poti)
@@ -628,6 +646,7 @@
   - [x] [2188](https://www.urionlinejudge.com.br/judge/pt/problems/view/2188) - [Macaco-prego](https://github.com/potigol/URI-Potigol/blob/master/src/2101-2200/2188.poti)
   - [x] [2217](https://www.urionlinejudge.com.br/judge/pt/problems/view/2217) - [Nove](https://github.com/potigol/URI-Potigol/blob/master/src/2201-2300/2217.poti)
   - [x] [2295](https://www.urionlinejudge.com.br/judge/pt/problems/view/2295) - [Frota de Táxi](https://github.com/potigol/URI-Potigol/blob/master/src/2201-2300/2295.poti)
+  - [x] [2344](https://www.urionlinejudge.com.br/judge/pt/problems/view/2344) - [Notas da Prova](https://github.com/potigol/URI-Potigol/blob/master/src/2301-2400/2344.poti)
   - [x] [2345](https://www.urionlinejudge.com.br/judge/pt/problems/view/2345) - [Assigning Teams](https://github.com/potigol/URI-Potigol/blob/master/src/2301-2400/2345.poti)
   - [x] [2369](https://www.urionlinejudge.com.br/judge/pt/problems/view/2369) - [Conta de Água](https://github.com/potigol/URI-Potigol/blob/master/src/2301-2400/2369.poti)
   - [x] [2374](https://www.urionlinejudge.com.br/judge/pt/problems/view/2374) - [Pneu](https://github.com/potigol/URI-Potigol/blob/master/src/2301-2400/2374.poti)

@@ -1,4 +1,4 @@
-# SQL (0 / 34)
+# SQL (0 / 48)
 
   - [ ] [2602](https://www.urionlinejudge.com.br/judge/pt/problems/view/2602) - Select Básico
   - [ ] [2603](https://www.urionlinejudge.com.br/judge/pt/problems/view/2603) - Endereço dos Clientes
@@ -34,3 +34,17 @@
   - [ ] [2744](https://www.urionlinejudge.com.br/judge/pt/problems/view/2744) - Senhas
   - [ ] [2745](https://www.urionlinejudge.com.br/judge/pt/problems/view/2745) - Taxas
   - [ ] [2746](https://www.urionlinejudge.com.br/judge/pt/problems/view/2746) - Virus
+  - [ ] [2988](https://www.urionlinejudge.com.br/judge/pt/problems/view/2988) - Campeonato Cearense
+  - [ ] [2989](https://www.urionlinejudge.com.br/judge/pt/problems/view/2989) - Departamentos e Divisões
+  - [ ] [2990](https://www.urionlinejudge.com.br/judge/pt/problems/view/2990) - CPF dos empregados
+  - [ ] [2991](https://www.urionlinejudge.com.br/judge/pt/problems/view/2991) - Estatísticas dos Departamentos
+  - [ ] [2992](https://www.urionlinejudge.com.br/judge/pt/problems/view/2992) - Divisões com maiores médias salariais
+  - [ ] [2993](https://www.urionlinejudge.com.br/judge/pt/problems/view/2993) - Mais Frequente
+  - [ ] [2994](https://www.urionlinejudge.com.br/judge/pt/problems/view/2994) - Quanto Ganha um Médico?
+  - [ ] [2995](https://www.urionlinejudge.com.br/judge/pt/problems/view/2995) - A Mensagem do Sensor
+  - [ ] [2996](https://www.urionlinejudge.com.br/judge/pt/problems/view/2996) - Entrega de Pacotes
+  - [ ] [2997](https://www.urionlinejudge.com.br/judge/pt/problems/view/2997) - Pagamento dos Empregados
+  - [ ] [2998](https://www.urionlinejudge.com.br/judge/pt/problems/view/2998) - The Payback
+  - [ ] [2999](https://www.urionlinejudge.com.br/judge/pt/problems/view/2999) - Maior Sálario da Divisão
+  - [ ] [3000](https://www.urionlinejudge.com.br/judge/pt/problems/view/3000) - Maiores Salários do Departamento
+  - [ ] [3001](https://www.urionlinejudge.com.br/judge/pt/problems/view/3001) - Update sem Where

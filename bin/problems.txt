@@ -1968,3 +1968,40 @@
 2985	Tobias Contra o Relógio	Ad-Hoc
 2986	Nem Tudo é Greve Versão Hard	Matemática
 2987	Balão de Honra	Iniciante
+2988	Campeonato Cearense	SQL
+2989	Departamentos e Divisões	SQL
+2990	CPF dos empregados	SQL
+2991	Estatísticas dos Departamentos	SQL
+2992	Divisões com maiores médias salariais	SQL
+2993	Mais Frequente	SQL
+2994	Quanto Ganha um Médico?	SQL
+2995	A Mensagem do Sensor	SQL
+2996	Entrega de Pacotes	SQL
+2997	Pagamento dos Empregados	SQL
+2998	The Payback	SQL
+2999	Maior Sálario da Divisão	SQL
+3000	Maiores Salários do Departamento	SQL
+3001	Update sem Where	SQL
+3002	Salve a Lilly!	Matemática
+3003	O Grupinho	Grafos
+3004	Envelopes	Matemática
+3005	Pilhas de paralelepípedos	Ad-Hoc
+3006	Passeio em Copacabana	Ad-Hoc
+3007	Lucas e Frobenius	Matemática
+3008	Numeração com Fósforos	Ad-Hoc
+3009	Dominós	Ad-Hoc
+3010	Binários Ambíguos	Ad-Hoc
+3011	Quebra-Cabeça Algébrico	Ad-Hoc
+3012	Algorithm Teaching	Ad-Hoc
+3013	Build the Perfect House	Ad-Hoc
+3014	Cut Inequality Down	Ad-Hoc
+3015	Dazzling Stars	Ad-Hoc
+3016	Eggfruit Cake	Ad-Hoc
+3017	Fabricating Sculptures	Ad-Hoc
+3018	Gluing Pictures	Ad-Hoc
+3019	Hold or Continue?	Ad-Hoc
+3020	Improve SPAM	Ad-Hoc
+3021	Jumping Grasshopper	Ad-Hoc
+3022	Know your Aliens	Ad-Hoc
+3023	Leverage MDT	Ad-Hoc
+3024	Mountain Ranges	Ad-Hoc

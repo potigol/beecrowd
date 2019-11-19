@@ -1,0 +1,102 @@
+# Problemas 3001 a 3100
+
+  - [ ] ~~3001~~ - *SQL*
+  - [ ] [3002](https://www.urionlinejudge.com.br/judge/pt/problems/view/3002) - Salve a Lilly! *Matemática*
+  - [ ] [3003](https://www.urionlinejudge.com.br/judge/pt/problems/view/3003) - O Grupinho *Grafos*
+  - [ ] [3004](https://www.urionlinejudge.com.br/judge/pt/problems/view/3004) - Envelopes *Matemática*
+  - [ ] [3005](https://www.urionlinejudge.com.br/judge/pt/problems/view/3005) - Pilhas de paralelepípedos *Ad-Hoc*
+  - [ ] [3006](https://www.urionlinejudge.com.br/judge/pt/problems/view/3006) - Passeio em Copacabana *Ad-Hoc*
+  - [ ] [3007](https://www.urionlinejudge.com.br/judge/pt/problems/view/3007) - Lucas e Frobenius *Matemática*
+  - [ ] [3008](https://www.urionlinejudge.com.br/judge/pt/problems/view/3008) - Numeração com Fósforos *Ad-Hoc*
+  - [ ] [3009](https://www.urionlinejudge.com.br/judge/pt/problems/view/3009) - Dominós *Ad-Hoc*
+  - [ ] [3010](https://www.urionlinejudge.com.br/judge/pt/problems/view/3010) - Binários Ambíguos *Ad-Hoc*
+  - [ ] [3011](https://www.urionlinejudge.com.br/judge/pt/problems/view/3011) - Quebra-Cabeça Algébrico *Ad-Hoc*
+  - [ ] [3012](https://www.urionlinejudge.com.br/judge/pt/problems/view/3012) - Algorithm Teaching *Ad-Hoc*
+  - [ ] [3013](https://www.urionlinejudge.com.br/judge/pt/problems/view/3013) - Build the Perfect House *Ad-Hoc*
+  - [ ] [3014](https://www.urionlinejudge.com.br/judge/pt/problems/view/3014) - Cut Inequality Down *Ad-Hoc*
+  - [ ] [3015](https://www.urionlinejudge.com.br/judge/pt/problems/view/3015) - Dazzling Stars *Ad-Hoc*
+  - [ ] [3016](https://www.urionlinejudge.com.br/judge/pt/problems/view/3016) - Eggfruit Cake *Ad-Hoc*
+  - [ ] [3017](https://www.urionlinejudge.com.br/judge/pt/problems/view/3017) - Fabricating Sculptures *Ad-Hoc*
+  - [ ] [3018](https://www.urionlinejudge.com.br/judge/pt/problems/view/3018) - Gluing Pictures *Ad-Hoc*
+  - [ ] [3019](https://www.urionlinejudge.com.br/judge/pt/problems/view/3019) - Hold or Continue? *Ad-Hoc*
+  - [ ] [3020](https://www.urionlinejudge.com.br/judge/pt/problems/view/3020) - Improve SPAM *Ad-Hoc*
+  - [ ] [3021](https://www.urionlinejudge.com.br/judge/pt/problems/view/3021) - Jumping Grasshopper *Ad-Hoc*
+  - [ ] [3022](https://www.urionlinejudge.com.br/judge/pt/problems/view/3022) - Know your Aliens *Ad-Hoc*
+  - [ ] [3023](https://www.urionlinejudge.com.br/judge/pt/problems/view/3023) - Leverage MDT *Ad-Hoc*
+  - [ ] [3024](https://www.urionlinejudge.com.br/judge/pt/problems/view/3024) - Mountain Ranges *Ad-Hoc*
+  - [ ] ~~3025~~
+  - [ ] ~~3026~~
+  - [ ] ~~3027~~
+  - [ ] ~~3028~~
+  - [ ] ~~3029~~
+  - [ ] ~~3030~~
+  - [ ] ~~3031~~
+  - [ ] ~~3032~~
+  - [ ] ~~3033~~
+  - [ ] ~~3034~~
+  - [ ] ~~3035~~
+  - [ ] ~~3036~~
+  - [ ] ~~3037~~
+  - [ ] ~~3038~~
+  - [ ] ~~3039~~
+  - [ ] ~~3040~~
+  - [ ] ~~3041~~
+  - [ ] ~~3042~~
+  - [ ] ~~3043~~
+  - [ ] ~~3044~~
+  - [ ] ~~3045~~
+  - [ ] ~~3046~~
+  - [ ] ~~3047~~
+  - [ ] ~~3048~~
+  - [ ] ~~3049~~
+  - [ ] ~~3050~~
+  - [ ] ~~3051~~
+  - [ ] ~~3052~~
+  - [ ] ~~3053~~
+  - [ ] ~~3054~~
+  - [ ] ~~3055~~
+  - [ ] ~~3056~~
+  - [ ] ~~3057~~
+  - [ ] ~~3058~~
+  - [ ] ~~3059~~
+  - [ ] ~~3060~~
+  - [ ] ~~3061~~
+  - [ ] ~~3062~~
+  - [ ] ~~3063~~
+  - [ ] ~~3064~~
+  - [ ] ~~3065~~
+  - [ ] ~~3066~~
+  - [ ] ~~3067~~
+  - [ ] ~~3068~~
+  - [ ] ~~3069~~
+  - [ ] ~~3070~~
+  - [ ] ~~3071~~
+  - [ ] ~~3072~~
+  - [ ] ~~3073~~
+  - [ ] ~~3074~~
+  - [ ] ~~3075~~
+  - [ ] ~~3076~~
+  - [ ] ~~3077~~
+  - [ ] ~~3078~~
+  - [ ] ~~3079~~
+  - [ ] ~~3080~~
+  - [ ] ~~3081~~
+  - [ ] ~~3082~~
+  - [ ] ~~3083~~
+  - [ ] ~~3084~~
+  - [ ] ~~3085~~
+  - [ ] ~~3086~~
+  - [ ] ~~3087~~
+  - [ ] ~~3088~~
+  - [ ] ~~3089~~
+  - [ ] ~~3090~~
+  - [ ] ~~3091~~
+  - [ ] ~~3092~~
+  - [ ] ~~3093~~
+  - [ ] ~~3094~~
+  - [ ] ~~3095~~
+  - [ ] ~~3096~~
+  - [ ] ~~3097~~
+  - [ ] ~~3098~~
+  - [ ] ~~3099~~
+  - [ ] ~~3100~~

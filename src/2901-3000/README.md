@@ -87,16 +87,16 @@
   - [ ] [2985](https://www.urionlinejudge.com.br/judge/pt/problems/view/2985) - Tobias Contra o Relógio *Ad-Hoc*
   - [ ] [2986](https://www.urionlinejudge.com.br/judge/pt/problems/view/2986) - Nem Tudo é Greve Versão Hard *Matemática*
   - [x] [2987](https://www.urionlinejudge.com.br/judge/pt/problems/view/2987) - [Balão de Honra](https://github.com/potigol/URI-Potigol/blob/master/src/2901-3000/2987.poti) *Iniciante*
-  - [ ] ~~2988~~
-  - [ ] ~~2989~~
-  - [ ] ~~2990~~
-  - [ ] ~~2991~~
-  - [ ] ~~2992~~
-  - [ ] ~~2993~~
-  - [ ] ~~2994~~
-  - [ ] ~~2995~~
-  - [ ] ~~2996~~
-  - [ ] ~~2997~~
-  - [ ] ~~2998~~
-  - [ ] ~~2999~~
-  - [ ] ~~3000~~
+  - [ ] ~~2988~~ - *SQL*
+  - [ ] ~~2989~~ - *SQL*
+  - [ ] ~~2990~~ - *SQL*
+  - [ ] ~~2991~~ - *SQL*
+  - [ ] ~~2992~~ - *SQL*
+  - [ ] ~~2993~~ - *SQL*
+  - [ ] ~~2994~~ - *SQL*
+  - [ ] ~~2995~~ - *SQL*
+  - [ ] ~~2996~~ - *SQL*
+  - [ ] ~~2997~~ - *SQL*
+  - [ ] ~~2998~~ - *SQL*
+  - [ ] ~~2999~~ - *SQL*
+  - [ ] ~~3000~~ - *SQL*
