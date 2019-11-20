@@ -1,0 +1,16 @@
+in = leia_inteiros(" ")
+n, x = in[1], in[2]
+l = leia_inteiros(" ")
+
+var r, p := 1
+
+para i de 2 até n faça
+  se l[i] - l[i-1] <= x então
+    p := p + 1
+    se p > r então r := p fim
+  senão
+    p := 1
+  fim
+fim
+
+escreva r

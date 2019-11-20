@@ -1,0 +1,18 @@
+n = leia_inteiro
+c = Lista.mutável(n, 0)
+para i de 1 até n faça c[i] := leia_inteiro fim
+
+k = leia_inteiro
+
+var min, max := 1, n
+enquanto min < max faça
+  soma = c[min] + c[max]
+  se soma > k então
+    max := max - 1
+  senãose soma < k então
+    min := min + 1
+  senão
+    escreva "{c[min]} {c[max]}"
+    min := max # terminar
+  fim
+fim

@@ -23,7 +23,7 @@
   - [ ] [3021](https://www.urionlinejudge.com.br/judge/pt/problems/view/3021) - Jumping Grasshopper *Ad-Hoc*
   - [ ] [3022](https://www.urionlinejudge.com.br/judge/pt/problems/view/3022) - Know your Aliens *Ad-Hoc*
   - [ ] [3023](https://www.urionlinejudge.com.br/judge/pt/problems/view/3023) - Leverage MDT *Ad-Hoc*
-  - [ ] [3024](https://www.urionlinejudge.com.br/judge/pt/problems/view/3024) - Mountain Ranges *Ad-Hoc*
+  - [x] [3024](https://www.urionlinejudge.com.br/judge/pt/problems/view/3024) - [Mountain Ranges](https://github.com/potigol/URI-Potigol/blob/master/src/3001-3100/3024.poti) *Ad-Hoc*
   - [ ] ~~3025~~
   - [ ] ~~3026~~
   - [ ] ~~3027~~
