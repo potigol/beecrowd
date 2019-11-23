@@ -20,7 +20,7 @@
   - [ ] [1918](https://www.urionlinejudge.com.br/judge/pt/problems/view/1918) - Viagem para Acapulco *Ad-Hoc*
   - [ ] [1919](https://www.urionlinejudge.com.br/judge/pt/problems/view/1919) - Ajude Nhonho *Ad-Hoc*
   - [ ] [1920](https://www.urionlinejudge.com.br/judge/pt/problems/view/1920) - Fonte dos Desejos *Ad-Hoc*
-  - [ ] [1921](https://www.urionlinejudge.com.br/judge/pt/problems/view/1921) - Guilherme e Suas Pipas *Iniciante*
+  - [ ] [1921](https://www.urionlinejudge.com.br/judge/pt/problems/view/1921) - Guilherme e Suas Pipas *Matemática*
   - [ ] [1922](https://www.urionlinejudge.com.br/judge/pt/problems/view/1922) - Diego e o Jogo do Martelo *Paradigmas*
   - [ ] [1923](https://www.urionlinejudge.com.br/judge/pt/problems/view/1923) - Rerisson e o Churrasco *Grafos*
   - [x] [1924](https://www.urionlinejudge.com.br/judge/pt/problems/view/1924) - [Vitória e a Indecisão](https://github.com/potigol/URI-Potigol/blob/master/src/1901-2000/1924.poti) *Iniciante*
@@ -42,7 +42,7 @@
   - [ ] [1940](https://www.urionlinejudge.com.br/judge/pt/problems/view/1940) - Jogo da Estratégia *Ad-Hoc*
   - [ ] [1941](https://www.urionlinejudge.com.br/judge/pt/problems/view/1941) - Palíndromo *Strings*
   - [ ] [1942](https://www.urionlinejudge.com.br/judge/pt/problems/view/1942) - Loteria *Ad-Hoc*
-  - [ ] [1943](https://www.urionlinejudge.com.br/judge/pt/problems/view/1943) - Top N *Ad-Hoc*
+  - [x] [1943](https://www.urionlinejudge.com.br/judge/pt/problems/view/1943) - [Top N](https://github.com/potigol/URI-Potigol/blob/master/src/1901-2000/1943.poti) *Ad-Hoc*
   - [ ] [1944](https://www.urionlinejudge.com.br/judge/pt/problems/view/1944) - BRINDE FACE 2015 *Estruturas e Bibliotecas*
   - [ ] [1945](https://www.urionlinejudge.com.br/judge/pt/problems/view/1945) - Simulador *Ad-Hoc*
   - [ ] [1946](https://www.urionlinejudge.com.br/judge/pt/problems/view/1946) - Pirâmide da Sorte *Matemática*
@@ -84,7 +84,7 @@
   - [ ] [1982](https://www.urionlinejudge.com.br/judge/pt/problems/view/1982) - Novos Computadores *Geometria Computacional*
   - [x] [1983](https://www.urionlinejudge.com.br/judge/pt/problems/view/1983) - [O Escolhido](https://github.com/potigol/URI-Potigol/blob/master/src/1901-2000/1983.poti) *Iniciante*
   - [x] [1984](https://www.urionlinejudge.com.br/judge/pt/problems/view/1984) - [O Enigma do Pronalândia](https://github.com/potigol/URI-Potigol/blob/master/src/1901-2000/1984.poti) *Iniciante*
-  - [ ] [1985](https://www.urionlinejudge.com.br/judge/pt/problems/view/1985) - MacPRONALTS *Iniciante*
+  - [x] [1985](https://www.urionlinejudge.com.br/judge/pt/problems/view/1985) - [MacPRONALTS](https://github.com/potigol/URI-Potigol/blob/master/src/1901-2000/1985.poti) *Iniciante*
   - [ ] [1986](https://www.urionlinejudge.com.br/judge/pt/problems/view/1986) - Perdido em Marte *Ad-Hoc*
   - [ ] [1987](https://www.urionlinejudge.com.br/judge/pt/problems/view/1987) - Divisibilidade Por 3 *Ad-Hoc*
   - [ ] [1988](https://www.urionlinejudge.com.br/judge/pt/problems/view/1988) - Circuitos Turísticos *Grafos*

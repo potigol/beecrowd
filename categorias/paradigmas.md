@@ -1,4 +1,4 @@
-# Paradigmas (2 / 190)
+# Paradigmas (2 / 191)
 
   - [ ] [1027](https://www.urionlinejudge.com.br/judge/pt/problems/view/1027) - Onda Crítica
   - [ ] [1033](https://www.urionlinejudge.com.br/judge/pt/problems/view/1033) - Quantas Chamadas Recursivas?
@@ -172,6 +172,7 @@
   - [ ] [2799](https://www.urionlinejudge.com.br/judge/pt/problems/view/2799) - Coral Nortista
   - [ ] [2811](https://www.urionlinejudge.com.br/judge/pt/problems/view/2811) - Sibi-Xor
   - [ ] [2818](https://www.urionlinejudge.com.br/judge/pt/problems/view/2818) - Jogo Divertido
+  - [ ] [2841](https://www.urionlinejudge.com.br/judge/pt/problems/view/2841) - Dabriel e Sua Festa
   - [ ] [2842](https://www.urionlinejudge.com.br/judge/pt/problems/view/2842) - Dabriel e Suas Strings
   - [ ] [2856](https://www.urionlinejudge.com.br/judge/pt/problems/view/2856) - Viagem do Pão de Queijo
   - [ ] [2877](https://www.urionlinejudge.com.br/judge/pt/problems/view/2877) - Bolinhas de Gude

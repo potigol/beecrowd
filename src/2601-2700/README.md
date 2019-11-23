@@ -32,22 +32,22 @@
   - [ ] [2630](https://www.urionlinejudge.com.br/judge/pt/problems/view/2630) - Escala de Cinza *Iniciante*
   - [ ] [2631](https://www.urionlinejudge.com.br/judge/pt/problems/view/2631) - Formando Duplas *Iniciante*
   - [ ] [2632](https://www.urionlinejudge.com.br/judge/pt/problems/view/2632) - Magic and Sword *Iniciante*
-  - [ ] [2633](https://www.urionlinejudge.com.br/judge/pt/problems/view/2633) - Churras no Yuri *Iniciante*
-  - [ ] [2634](https://www.urionlinejudge.com.br/judge/pt/problems/view/2634) - Em Prol da Ciência *Iniciante*
+  - [ ] [2633](https://www.urionlinejudge.com.br/judge/pt/problems/view/2633) - Churras no Yuri *Estruturas e Bibliotecas*
+  - [ ] [2634](https://www.urionlinejudge.com.br/judge/pt/problems/view/2634) - Em Prol da Ciência *Ad-Hoc*
   - [ ] [2635](https://www.urionlinejudge.com.br/judge/pt/problems/view/2635) - Navegador Web *Iniciante*
-  - [ ] [2636](https://www.urionlinejudge.com.br/judge/pt/problems/view/2636) - 3-RSA *Iniciante*
-  - [ ] [2637](https://www.urionlinejudge.com.br/judge/pt/problems/view/2637) - Casa do Batera *Iniciante*
+  - [ ] [2636](https://www.urionlinejudge.com.br/judge/pt/problems/view/2636) - 3-RSA *Matemática*
+  - [ ] [2637](https://www.urionlinejudge.com.br/judge/pt/problems/view/2637) - Casa do Batera *Grafos*
   - [ ] ~~2638~~
-  - [ ] [2639](https://www.urionlinejudge.com.br/judge/pt/problems/view/2639) - Cluedo *Iniciante*
-  - [ ] [2640](https://www.urionlinejudge.com.br/judge/pt/problems/view/2640) - Missão Improvável *Iniciante*
+  - [ ] [2639](https://www.urionlinejudge.com.br/judge/pt/problems/view/2639) - Cluedo *Ad-Hoc*
+  - [ ] [2640](https://www.urionlinejudge.com.br/judge/pt/problems/view/2640) - Missão Improvável *Geometria Computacional*
   - [ ] [2641](https://www.urionlinejudge.com.br/judge/pt/problems/view/2641) - Dinheiro por Nada *Ad-Hoc*
   - [ ] ~~2642~~
-  - [ ] [2643](https://www.urionlinejudge.com.br/judge/pt/problems/view/2643) - Posterizar *Iniciante*
+  - [ ] [2643](https://www.urionlinejudge.com.br/judge/pt/problems/view/2643) - Posterizar *Ad-Hoc*
   - [ ] [2644](https://www.urionlinejudge.com.br/judge/pt/problems/view/2644) - Replicate Replicate Rfplicbte *Ad-Hoc*
   - [ ] [2645](https://www.urionlinejudge.com.br/judge/pt/problems/view/2645) - Scenery *Ad-Hoc*
   - [ ] [2646](https://www.urionlinejudge.com.br/judge/pt/problems/view/2646) - Secret Chamber at Mount Rushmore *Iniciante*
   - [ ] ~~2647~~
-  - [ ] [2648](https://www.urionlinejudge.com.br/judge/pt/problems/view/2648) - Tarot Sham Boast *Iniciante*
+  - [ ] [2648](https://www.urionlinejudge.com.br/judge/pt/problems/view/2648) - Tarot Sham Boast *Ad-Hoc*
   - [ ] ~~2649~~
   - [ ] [2650](https://www.urionlinejudge.com.br/judge/pt/problems/view/2650) - Construindo Muralhas *Ad-Hoc*
   - [ ] [2651](https://www.urionlinejudge.com.br/judge/pt/problems/view/2651) - Link Bolado *Strings*
@@ -73,7 +73,7 @@
   - [ ] [2671](https://www.urionlinejudge.com.br/judge/pt/problems/view/2671) - Decodificando o Texto *Estruturas e Bibliotecas*
   - [ ] [2672](https://www.urionlinejudge.com.br/judge/pt/problems/view/2672) - Máscara de Rede *Ad-Hoc*
   - [ ] [2673](https://www.urionlinejudge.com.br/judge/pt/problems/view/2673) - Resistores Série e Paralelo *Ad-Hoc*
-  - [ ] [2674](https://www.urionlinejudge.com.br/judge/pt/problems/view/2674) - Super Primos: Ativar! *Iniciante*
+  - [ ] [2674](https://www.urionlinejudge.com.br/judge/pt/problems/view/2674) - Super Primos: Ativar! *Matemática*
   - [ ] [2675](https://www.urionlinejudge.com.br/judge/pt/problems/view/2675) - Rouba Monte *Ad-Hoc*
   - [ ] [2676](https://www.urionlinejudge.com.br/judge/pt/problems/view/2676) - Cidade no Centro *Grafos*
   - [ ] [2677](https://www.urionlinejudge.com.br/judge/pt/problems/view/2677) - Par ou Ímpar *Paradigmas*
@@ -83,18 +83,18 @@
   - [ ] [2681](https://www.urionlinejudge.com.br/judge/pt/problems/view/2681) - Macacos da Torre de Hanoi *Matemática*
   - [ ] [2682](https://www.urionlinejudge.com.br/judge/pt/problems/view/2682) - Detector de Falhas *Ad-Hoc*
   - [ ] [2683](https://www.urionlinejudge.com.br/judge/pt/problems/view/2683) - Espaço de Projeto *Grafos*
-  - [ ] [2684](https://www.urionlinejudge.com.br/judge/pt/problems/view/2684) - Ajude o Professor Webscript!! *Iniciante*
+  - [ ] [2684](https://www.urionlinejudge.com.br/judge/pt/problems/view/2684) - Ajude o Professor Webscript!! *Ad-Hoc*
   - [x] [2685](https://www.urionlinejudge.com.br/judge/pt/problems/view/2685) - [A Mudança](https://github.com/potigol/URI-Potigol/blob/master/src/2601-2700/2685.poti) *Iniciante*
   - [x] [2686](https://www.urionlinejudge.com.br/judge/pt/problems/view/2686) - [A Mudança Continua!!](https://github.com/potigol/URI-Potigol/blob/master/src/2601-2700/2686.poti) *Iniciante*
   - [x] [2687](https://www.urionlinejudge.com.br/judge/pt/problems/view/2687) - [Dominação Bacteriana](https://github.com/potigol/URI-Potigol/blob/master/src/2601-2700/2687.poti) *Iniciante*
   - [ ] [2688](https://www.urionlinejudge.com.br/judge/pt/problems/view/2688) - Escolhendo um Lugar *Grafos*
-  - [ ] [2689](https://www.urionlinejudge.com.br/judge/pt/problems/view/2689) - Jogo do Mião *Iniciante*
-  - [x] [2690](https://www.urionlinejudge.com.br/judge/pt/problems/view/2690) - [Nova Senha RA](https://github.com/potigol/URI-Potigol/blob/master/src/2601-2700/2690.poti) *Iniciante*
+  - [ ] [2689](https://www.urionlinejudge.com.br/judge/pt/problems/view/2689) - Jogo do Mião *Ad-Hoc*
+  - [x] [2690](https://www.urionlinejudge.com.br/judge/pt/problems/view/2690) - [Nova Senha RA](https://github.com/potigol/URI-Potigol/blob/master/src/2601-2700/2690.poti) *Strings*
   - [ ] [2691](https://www.urionlinejudge.com.br/judge/pt/problems/view/2691) - O Matemático *Strings*
   - [ ] [2692](https://www.urionlinejudge.com.br/judge/pt/problems/view/2692) - Teclado Zoeiro *Strings*
   - [ ] [2693](https://www.urionlinejudge.com.br/judge/pt/problems/view/2693) - Van *Ad-Hoc*
   - [x] [2694](https://www.urionlinejudge.com.br/judge/pt/problems/view/2694) - [Problema com a Calculadora](https://github.com/potigol/URI-Potigol/blob/master/src/2601-2700/2694.poti) *Strings*
-  - [ ] [2695](https://www.urionlinejudge.com.br/judge/pt/problems/view/2695) - Arrumando Lajotas *Iniciante*
+  - [ ] [2695](https://www.urionlinejudge.com.br/judge/pt/problems/view/2695) - Arrumando Lajotas *Geometria Computacional*
   - [ ] ~~2696~~
   - [ ] [2697](https://www.urionlinejudge.com.br/judge/pt/problems/view/2697) - Sequencia Completa de Naebbirac *Strings*
   - [ ] [2698](https://www.urionlinejudge.com.br/judge/pt/problems/view/2698) - Dispositivo Assombrado *Iniciante*

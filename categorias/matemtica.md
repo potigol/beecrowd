@@ -1,4 +1,4 @@
-# Matemática (7 / 221)
+# Matemática (8 / 227)
 
   - [ ] [1093](https://www.urionlinejudge.com.br/judge/pt/problems/view/1093) - Vampiros
   - [ ] [1163](https://www.urionlinejudge.com.br/judge/pt/problems/view/1163) - Angry Ducks
@@ -126,6 +126,7 @@
   - [ ] [1872](https://www.urionlinejudge.com.br/judge/pt/problems/view/1872) - Palíndromo Real
   - [ ] [1904](https://www.urionlinejudge.com.br/judge/pt/problems/view/1904) - Par ou Ímpar 2.0
   - [ ] [1909](https://www.urionlinejudge.com.br/judge/pt/problems/view/1909) - Ajude Kiko
+  - [ ] [1921](https://www.urionlinejudge.com.br/judge/pt/problems/view/1921) - Guilherme e Suas Pipas
   - [ ] [1926](https://www.urionlinejudge.com.br/judge/pt/problems/view/1926) - Marianne e os Primos Gêmeos
   - [ ] [1946](https://www.urionlinejudge.com.br/judge/pt/problems/view/1946) - Pirâmide da Sorte
   - [ ] [1949](https://www.urionlinejudge.com.br/judge/pt/problems/view/1949) - Registrador de Deslocamento
@@ -165,6 +166,7 @@
   - [ ] [2180](https://www.urionlinejudge.com.br/judge/pt/problems/view/2180) - Viagem à Marte na Velocidade de Primo
   - [ ] [2204](https://www.urionlinejudge.com.br/judge/pt/problems/view/2204) - Pare A Bomba!
   - [ ] [2218](https://www.urionlinejudge.com.br/judge/pt/problems/view/2218) - O Temível Evil-Son
+  - [ ] [2222](https://www.urionlinejudge.com.br/judge/pt/problems/view/2222) - Brincando com Conjuntos
   - [ ] [2232](https://www.urionlinejudge.com.br/judge/pt/problems/view/2232) - Triângulo de Pascal
   - [ ] [2238](https://www.urionlinejudge.com.br/judge/pt/problems/view/2238) - Divisores
   - [ ] [2291](https://www.urionlinejudge.com.br/judge/pt/problems/view/2291) - Números Divinos
@@ -183,8 +185,10 @@
   - [ ] [2596](https://www.urionlinejudge.com.br/judge/pt/problems/view/2596) - Xenlonguinho
   - [ ] [2597](https://www.urionlinejudge.com.br/judge/pt/problems/view/2597) - Xenlongão
   - [ ] [2598](https://www.urionlinejudge.com.br/judge/pt/problems/view/2598) - Colocando Radares
+  - [ ] [2636](https://www.urionlinejudge.com.br/judge/pt/problems/view/2636) - 3-RSA
   - [ ] [2660](https://www.urionlinejudge.com.br/judge/pt/problems/view/2660) - Cigarras Periódicas
   - [ ] [2668](https://www.urionlinejudge.com.br/judge/pt/problems/view/2668) - K-ésimo
+  - [ ] [2674](https://www.urionlinejudge.com.br/judge/pt/problems/view/2674) - Super Primos: Ativar!
   - [ ] [2680](https://www.urionlinejudge.com.br/judge/pt/problems/view/2680) - Folha de Pagamentos
   - [ ] [2681](https://www.urionlinejudge.com.br/judge/pt/problems/view/2681) - Macacos da Torre de Hanoi
   - [ ] [2711](https://www.urionlinejudge.com.br/judge/pt/problems/view/2711) - Destravando o Celular
@@ -197,6 +201,7 @@
   - [ ] [2819](https://www.urionlinejudge.com.br/judge/pt/problems/view/2819) - Cartas Para o Noel
   - [ ] [2820](https://www.urionlinejudge.com.br/judge/pt/problems/view/2820) - Os Dígitos de Bruna
   - [ ] [2822](https://www.urionlinejudge.com.br/judge/pt/problems/view/2822) - Meu Primeiro Grafinho
+  - [ ] [2828](https://www.urionlinejudge.com.br/judge/pt/problems/view/2828) - Anagramas
   - [ ] [2859](https://www.urionlinejudge.com.br/judge/pt/problems/view/2859) - Digit Root
   - [ ] [2864](https://www.urionlinejudge.com.br/judge/pt/problems/view/2864) - Qual é a Altura?
   - [ ] [2873](https://www.urionlinejudge.com.br/judge/pt/problems/view/2873) - Pirâmide
@@ -221,3 +226,4 @@
   - [x] [2661](https://www.urionlinejudge.com.br/judge/pt/problems/view/2661) - [Despojados](https://github.com/potigol/URI-Potigol/blob/master/src/2601-2700/2661.poti)
   - [x] [2667](https://www.urionlinejudge.com.br/judge/pt/problems/view/2667) - [Jogo de Boca](https://github.com/potigol/URI-Potigol/blob/master/src/2601-2700/2667.poti)
   - [x] [2839](https://www.urionlinejudge.com.br/judge/pt/problems/view/2839) - [As Meias de Rangel](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2839.poti)
+  - [x] [2869](https://www.urionlinejudge.com.br/judge/pt/problems/view/2869) - [Falando em Divisor...](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2869.poti)

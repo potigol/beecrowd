@@ -21,7 +21,7 @@
   - [ ] [2219](https://www.urionlinejudge.com.br/judge/pt/problems/view/2219) - Passando Pelos PokeStops *Ad-Hoc*
   - [ ] [2220](https://www.urionlinejudge.com.br/judge/pt/problems/view/2220) - Ajudando Gust-Avô *Paradigmas*
   - [ ] [2221](https://www.urionlinejudge.com.br/judge/pt/problems/view/2221) - Batalha de Pomekons *Iniciante*
-  - [ ] [2222](https://www.urionlinejudge.com.br/judge/pt/problems/view/2222) - Brincando com Conjuntos *Iniciante*
+  - [ ] [2222](https://www.urionlinejudge.com.br/judge/pt/problems/view/2222) - Brincando com Conjuntos *Matemática*
   - [ ] [2223](https://www.urionlinejudge.com.br/judge/pt/problems/view/2223) - Inventário de Pomekon *Estruturas e Bibliotecas*
   - [ ] [2224](https://www.urionlinejudge.com.br/judge/pt/problems/view/2224) - Torneio de Pomekon *Paradigmas*
   - [ ] [2225](https://www.urionlinejudge.com.br/judge/pt/problems/view/2225) - Penalização *Grafos*

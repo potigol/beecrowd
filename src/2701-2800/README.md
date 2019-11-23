@@ -1,15 +1,15 @@
 # Problemas 2701 a 2800
 
-  - [ ] [2701](https://www.urionlinejudge.com.br/judge/pt/problems/view/2701) - Portas da Incerteza *Iniciante*
+  - [ ] [2701](https://www.urionlinejudge.com.br/judge/pt/problems/view/2701) - Portas da Incerteza *Ad-Hoc*
   - [x] [2702](https://www.urionlinejudge.com.br/judge/pt/problems/view/2702) - [Escolha Difícil](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2702.poti) *Iniciante*
-  - [ ] [2703](https://www.urionlinejudge.com.br/judge/pt/problems/view/2703) - Estradas Imperiais *Iniciante*
-  - [ ] [2704](https://www.urionlinejudge.com.br/judge/pt/problems/view/2704) - Sapo Saltador *Iniciante*
-  - [ ] [2705](https://www.urionlinejudge.com.br/judge/pt/problems/view/2705) - Mantenha Coberto *Iniciante*
-  - [ ] [2706](https://www.urionlinejudge.com.br/judge/pt/problems/view/2706) - Linearville *Iniciante*
+  - [ ] [2703](https://www.urionlinejudge.com.br/judge/pt/problems/view/2703) - Estradas Imperiais *Grafos*
+  - [ ] [2704](https://www.urionlinejudge.com.br/judge/pt/problems/view/2704) - Sapo Saltador *Ad-Hoc*
+  - [ ] [2705](https://www.urionlinejudge.com.br/judge/pt/problems/view/2705) - Mantenha Coberto *Ad-Hoc*
+  - [ ] [2706](https://www.urionlinejudge.com.br/judge/pt/problems/view/2706) - Linearville *Grafos*
   - [ ] ~~2707~~
   - [ ] [2708](https://www.urionlinejudge.com.br/judge/pt/problems/view/2708) - Turistas no Parque Huacachina *Iniciante*
   - [ ] [2709](https://www.urionlinejudge.com.br/judge/pt/problems/view/2709) - As Moedas de Robbie *Iniciante*
-  - [ ] [2710](https://www.urionlinejudge.com.br/judge/pt/problems/view/2710) - Jogo da Matriz *Iniciante*
+  - [ ] [2710](https://www.urionlinejudge.com.br/judge/pt/problems/view/2710) - Jogo da Matriz *Ad-Hoc*
   - [ ] [2711](https://www.urionlinejudge.com.br/judge/pt/problems/view/2711) - Destravando o Celular *Matemática*
   - [x] [2712](https://www.urionlinejudge.com.br/judge/pt/problems/view/2712) - [Rodízio Veicular](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2712.poti) *Iniciante*
   - [ ] [2713](https://www.urionlinejudge.com.br/judge/pt/problems/view/2713) - O Mago é Implacável! *Paradigmas*
@@ -19,7 +19,7 @@
   - [x] [2717](https://www.urionlinejudge.com.br/judge/pt/problems/view/2717) - [Tempo do Duende](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2717.poti) *Iniciante*
   - [x] [2718](https://www.urionlinejudge.com.br/judge/pt/problems/view/2718) - [Luzes de Natal](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2718.poti) *Iniciante*
   - [ ] [2719](https://www.urionlinejudge.com.br/judge/pt/problems/view/2719) - Quantas Viagens Fará o Noel? *Ad-Hoc*
-  - [ ] [2720](https://www.urionlinejudge.com.br/judge/pt/problems/view/2720) - Presentes Grandes *Iniciante*
+  - [ ] [2720](https://www.urionlinejudge.com.br/judge/pt/problems/view/2720) - Presentes Grandes *Estruturas e Bibliotecas*
   - [x] [2721](https://www.urionlinejudge.com.br/judge/pt/problems/view/2721) - [Indecisão das Renas](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2721.poti) *Iniciante*
   - [x] [2722](https://www.urionlinejudge.com.br/judge/pt/problems/view/2722) - [Pegadinha de Evergreen](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2722.poti) *Strings*
   - [ ] [2723](https://www.urionlinejudge.com.br/judge/pt/problems/view/2723) - Equilibrando Presentes *Paradigmas*
@@ -71,7 +71,7 @@
   - [ ] [2769](https://www.urionlinejudge.com.br/judge/pt/problems/view/2769) - Linha de Montagem *Iniciante*
   - [ ] [2770](https://www.urionlinejudge.com.br/judge/pt/problems/view/2770) - Tamanho da Placa *Iniciante*
   - [ ] [2771](https://www.urionlinejudge.com.br/judge/pt/problems/view/2771) - Média *Ad-Hoc*
-  - [ ] [2772](https://www.urionlinejudge.com.br/judge/pt/problems/view/2772) - Plantação *Iniciante*
+  - [ ] [2772](https://www.urionlinejudge.com.br/judge/pt/problems/view/2772) - Plantação *Ad-Hoc*
   - [ ] [2773](https://www.urionlinejudge.com.br/judge/pt/problems/view/2773) - Menor Caminho *Geometria Computacional*
   - [x] [2774](https://www.urionlinejudge.com.br/judge/pt/problems/view/2774) - [Precisão do Sensor](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2774.poti) *Iniciante*
   - [ ] [2775](https://www.urionlinejudge.com.br/judge/pt/problems/view/2775) - Preparando a Produção *Iniciante*

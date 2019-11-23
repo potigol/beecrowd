@@ -1,0 +1,8 @@
+n = leia_inteiro
+var soma := 0.0
+para i de 1 até n faça
+  in = leia_inteiros(" ")
+  p, q = in[1], in[2]
+  soma := soma + (p - 999.5) * q
+fim
+escreva soma formato "%.2f"

@@ -1,4 +1,4 @@
-# Estruturas e Bibliotecas (2 / 144)
+# Estruturas e Bibliotecas (2 / 147)
 
   - [ ] [1025](https://www.urionlinejudge.com.br/judge/pt/problems/view/1025) - Onde está o Mármore?
   - [ ] [1062](https://www.urionlinejudge.com.br/judge/pt/problems/view/1062) - Trilhos
@@ -122,16 +122,19 @@
   - [ ] [2560](https://www.urionlinejudge.com.br/judge/pt/problems/view/2560) - Surf Aquático
   - [ ] [2593](https://www.urionlinejudge.com.br/judge/pt/problems/view/2593) - Eachianos I
   - [ ] [2594](https://www.urionlinejudge.com.br/judge/pt/problems/view/2594) - Eachianos II
+  - [ ] [2633](https://www.urionlinejudge.com.br/judge/pt/problems/view/2633) - Churras no Yuri
   - [ ] [2655](https://www.urionlinejudge.com.br/judge/pt/problems/view/2655) - Trilha Perigosa
   - [ ] [2656](https://www.urionlinejudge.com.br/judge/pt/problems/view/2656) - Rhombus
   - [ ] [2658](https://www.urionlinejudge.com.br/judge/pt/problems/view/2658) - Acordes Intergaláticos
   - [ ] [2671](https://www.urionlinejudge.com.br/judge/pt/problems/view/2671) - Decodificando o Texto
+  - [ ] [2720](https://www.urionlinejudge.com.br/judge/pt/problems/view/2720) - Presentes Grandes
   - [ ] [2734](https://www.urionlinejudge.com.br/judge/pt/problems/view/2734) - Trocando Presentes
   - [ ] [2800](https://www.urionlinejudge.com.br/judge/pt/problems/view/2800) - Brincando de Consultas
   - [ ] [2805](https://www.urionlinejudge.com.br/judge/pt/problems/view/2805) - Binarizando a Matriz
   - [ ] [2821](https://www.urionlinejudge.com.br/judge/pt/problems/view/2821) - Distribuição de Cartas
   - [ ] [2848](https://www.urionlinejudge.com.br/judge/pt/problems/view/2848) - Rangel e o Jogo do Vetor I
   - [ ] [2849](https://www.urionlinejudge.com.br/judge/pt/problems/view/2849) - Rangel e o Jogo do Vetor II
+  - [ ] [2855](https://www.urionlinejudge.com.br/judge/pt/problems/view/2855) - Números de Sorte
   - [ ] [2857](https://www.urionlinejudge.com.br/judge/pt/problems/view/2857) - Fluxo nos Vagões
   - [ ] [2860](https://www.urionlinejudge.com.br/judge/pt/problems/view/2860) - A Paz em Spar-Ta
   - [ ] [2872](https://www.urionlinejudge.com.br/judge/pt/problems/view/2872) - Protocolo TCP/IP

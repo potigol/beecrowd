@@ -4,7 +4,7 @@
   - [ ] [3002](https://www.urionlinejudge.com.br/judge/pt/problems/view/3002) - Salve a Lilly! *Matemática*
   - [ ] [3003](https://www.urionlinejudge.com.br/judge/pt/problems/view/3003) - O Grupinho *Grafos*
   - [ ] [3004](https://www.urionlinejudge.com.br/judge/pt/problems/view/3004) - Envelopes *Matemática*
-  - [ ] [3005](https://www.urionlinejudge.com.br/judge/pt/problems/view/3005) - Pilhas de paralelepípedos *Ad-Hoc*
+  - [x] [3005](https://www.urionlinejudge.com.br/judge/pt/problems/view/3005) - [Pilhas de paralelepípedos](https://github.com/potigol/URI-Potigol/blob/master/src/3001-3100/3005.poti) *Ad-Hoc*
   - [ ] [3006](https://www.urionlinejudge.com.br/judge/pt/problems/view/3006) - Passeio em Copacabana *Ad-Hoc*
   - [ ] [3007](https://www.urionlinejudge.com.br/judge/pt/problems/view/3007) - Lucas e Frobenius *Matemática*
   - [ ] [3008](https://www.urionlinejudge.com.br/judge/pt/problems/view/3008) - Numeração com Fósforos *Ad-Hoc*

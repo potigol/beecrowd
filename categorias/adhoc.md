@@ -1,4 +1,4 @@
-# Ad-Hoc (46 / 675)
+# Ad-Hoc (48 / 686)
 
   - [ ] [1026](https://www.urionlinejudge.com.br/judge/pt/problems/view/1026) - Carrega ou não Carrega?
   - [ ] [1030](https://www.urionlinejudge.com.br/judge/pt/problems/view/1030) - A Lenda de Flavious Josephus
@@ -222,7 +222,6 @@
   - [ ] [1939](https://www.urionlinejudge.com.br/judge/pt/problems/view/1939) - Ominobox
   - [ ] [1940](https://www.urionlinejudge.com.br/judge/pt/problems/view/1940) - Jogo da Estratégia
   - [ ] [1942](https://www.urionlinejudge.com.br/judge/pt/problems/view/1942) - Loteria
-  - [ ] [1943](https://www.urionlinejudge.com.br/judge/pt/problems/view/1943) - Top N
   - [ ] [1945](https://www.urionlinejudge.com.br/judge/pt/problems/view/1945) - Simulador
   - [ ] [1947](https://www.urionlinejudge.com.br/judge/pt/problems/view/1947) - Rota do Taxista
   - [ ] [1953](https://www.urionlinejudge.com.br/judge/pt/problems/view/1953) - Roberto e a Sala Desenfreada
@@ -514,9 +513,13 @@
   - [ ] [2627](https://www.urionlinejudge.com.br/judge/pt/problems/view/2627) - Bonde de Autômatos
   - [ ] [2628](https://www.urionlinejudge.com.br/judge/pt/problems/view/2628) - Caça ao Tesouro
   - [ ] [2629](https://www.urionlinejudge.com.br/judge/pt/problems/view/2629) - Rodoido
+  - [ ] [2634](https://www.urionlinejudge.com.br/judge/pt/problems/view/2634) - Em Prol da Ciência
+  - [ ] [2639](https://www.urionlinejudge.com.br/judge/pt/problems/view/2639) - Cluedo
   - [ ] [2641](https://www.urionlinejudge.com.br/judge/pt/problems/view/2641) - Dinheiro por Nada
+  - [ ] [2643](https://www.urionlinejudge.com.br/judge/pt/problems/view/2643) - Posterizar
   - [ ] [2644](https://www.urionlinejudge.com.br/judge/pt/problems/view/2644) - Replicate Replicate Rfplicbte
   - [ ] [2645](https://www.urionlinejudge.com.br/judge/pt/problems/view/2645) - Scenery
+  - [ ] [2648](https://www.urionlinejudge.com.br/judge/pt/problems/view/2648) - Tarot Sham Boast
   - [ ] [2650](https://www.urionlinejudge.com.br/judge/pt/problems/view/2650) - Construindo Muralhas
   - [ ] [2654](https://www.urionlinejudge.com.br/judge/pt/problems/view/2654) - Godofor
   - [ ] [2659](https://www.urionlinejudge.com.br/judge/pt/problems/view/2659) - Brincadeira
@@ -525,12 +528,19 @@
   - [ ] [2673](https://www.urionlinejudge.com.br/judge/pt/problems/view/2673) - Resistores Série e Paralelo
   - [ ] [2675](https://www.urionlinejudge.com.br/judge/pt/problems/view/2675) - Rouba Monte
   - [ ] [2682](https://www.urionlinejudge.com.br/judge/pt/problems/view/2682) - Detector de Falhas
+  - [ ] [2684](https://www.urionlinejudge.com.br/judge/pt/problems/view/2684) - Ajude o Professor Webscript!!
+  - [ ] [2689](https://www.urionlinejudge.com.br/judge/pt/problems/view/2689) - Jogo do Mião
   - [ ] [2693](https://www.urionlinejudge.com.br/judge/pt/problems/view/2693) - Van
+  - [ ] [2701](https://www.urionlinejudge.com.br/judge/pt/problems/view/2701) - Portas da Incerteza
+  - [ ] [2704](https://www.urionlinejudge.com.br/judge/pt/problems/view/2704) - Sapo Saltador
+  - [ ] [2705](https://www.urionlinejudge.com.br/judge/pt/problems/view/2705) - Mantenha Coberto
+  - [ ] [2710](https://www.urionlinejudge.com.br/judge/pt/problems/view/2710) - Jogo da Matriz
   - [ ] [2719](https://www.urionlinejudge.com.br/judge/pt/problems/view/2719) - Quantas Viagens Fará o Noel?
   - [ ] [2730](https://www.urionlinejudge.com.br/judge/pt/problems/view/2730) - Pares Pareados
   - [ ] [2733](https://www.urionlinejudge.com.br/judge/pt/problems/view/2733) - O Armário da Leitora
   - [ ] [2736](https://www.urionlinejudge.com.br/judge/pt/problems/view/2736) - Números de Avalon
   - [ ] [2771](https://www.urionlinejudge.com.br/judge/pt/problems/view/2771) - Média
+  - [ ] [2772](https://www.urionlinejudge.com.br/judge/pt/problems/view/2772) - Plantação
   - [ ] [2788](https://www.urionlinejudge.com.br/judge/pt/problems/view/2788) - Aula
   - [ ] [2789](https://www.urionlinejudge.com.br/judge/pt/problems/view/2789) - Crise Hídrica
   - [ ] [2790](https://www.urionlinejudge.com.br/judge/pt/problems/view/2790) - Dados
@@ -544,6 +554,7 @@
   - [ ] [2803](https://www.urionlinejudge.com.br/judge/pt/problems/view/2803) - Estados do Norte
   - [ ] [2806](https://www.urionlinejudge.com.br/judge/pt/problems/view/2806) - Ingredientes Típicos
   - [ ] [2814](https://www.urionlinejudge.com.br/judge/pt/problems/view/2814) - Música Alta
+  - [ ] [2829](https://www.urionlinejudge.com.br/judge/pt/problems/view/2829) - Maiúsculas, Por Quê?
   - [ ] [2831](https://www.urionlinejudge.com.br/judge/pt/problems/view/2831) - Pesos
   - [ ] [2832](https://www.urionlinejudge.com.br/judge/pt/problems/view/2832) - Cápsulas
   - [ ] [2833](https://www.urionlinejudge.com.br/judge/pt/problems/view/2833) - Campeonato
@@ -589,7 +600,6 @@
   - [ ] [2928](https://www.urionlinejudge.com.br/judge/pt/problems/view/2928) - Cruzando Lagos
   - [ ] [2931](https://www.urionlinejudge.com.br/judge/pt/problems/view/2931) - Presentes Suspeitos
   - [ ] [2935](https://www.urionlinejudge.com.br/judge/pt/problems/view/2935) - DNA Élfico
-  - [ ] [2936](https://www.urionlinejudge.com.br/judge/pt/problems/view/2936) - Quanta Mandioca?
   - [ ] [2937](https://www.urionlinejudge.com.br/judge/pt/problems/view/2937) - Cobra Norato
   - [ ] [2938](https://www.urionlinejudge.com.br/judge/pt/problems/view/2938) - Jaçanã
   - [ ] [2940](https://www.urionlinejudge.com.br/judge/pt/problems/view/2940) - Máquina do Tempo Quebrada
@@ -611,7 +621,6 @@
   - [ ] [2972](https://www.urionlinejudge.com.br/judge/pt/problems/view/2972) - Lançando Moedas
   - [ ] [2979](https://www.urionlinejudge.com.br/judge/pt/problems/view/2979) - Torre
   - [ ] [2985](https://www.urionlinejudge.com.br/judge/pt/problems/view/2985) - Tobias Contra o Relógio
-  - [ ] [3005](https://www.urionlinejudge.com.br/judge/pt/problems/view/3005) - Pilhas de paralelepípedos
   - [ ] [3006](https://www.urionlinejudge.com.br/judge/pt/problems/view/3006) - Passeio em Copacabana
   - [ ] [3008](https://www.urionlinejudge.com.br/judge/pt/problems/view/3008) - Numeração com Fósforos
   - [ ] [3009](https://www.urionlinejudge.com.br/judge/pt/problems/view/3009) - Dominós
@@ -640,6 +649,7 @@
   - [x] [1794](https://www.urionlinejudge.com.br/judge/pt/problems/view/1794) - [Lavanderia](https://github.com/potigol/URI-Potigol/blob/master/src/1701-1800/1794.poti)
   - [x] [1867](https://www.urionlinejudge.com.br/judge/pt/problems/view/1867) - [Maior Número de Um Algarismo](https://github.com/potigol/URI-Potigol/blob/master/src/1801-1900/1867.poti)
   - [x] [1936](https://www.urionlinejudge.com.br/judge/pt/problems/view/1936) - [Fatorial](https://github.com/potigol/URI-Potigol/blob/master/src/1901-2000/1936.poti)
+  - [x] [1943](https://www.urionlinejudge.com.br/judge/pt/problems/view/1943) - [Top N](https://github.com/potigol/URI-Potigol/blob/master/src/1901-2000/1943.poti)
   - [x] [2058](https://www.urionlinejudge.com.br/judge/pt/problems/view/2058) - [Triângulos e Polígonos Regulares](https://github.com/potigol/URI-Potigol/blob/master/src/2001-2100/2058.poti)
   - [x] [2188](https://www.urionlinejudge.com.br/judge/pt/problems/view/2188) - [Macaco-prego](https://github.com/potigol/URI-Potigol/blob/master/src/2101-2200/2188.poti)
   - [x] [2217](https://www.urionlinejudge.com.br/judge/pt/problems/view/2217) - [Nove](https://github.com/potigol/URI-Potigol/blob/master/src/2201-2300/2217.poti)
@@ -674,4 +684,5 @@
   - [x] [2858](https://www.urionlinejudge.com.br/judge/pt/problems/view/2858) - [Tabuleiro Infinito](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2858.poti)
   - [x] [2868](https://www.urionlinejudge.com.br/judge/pt/problems/view/2868) - [Errrou!](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2868.poti)
   - [x] [2939](https://www.urionlinejudge.com.br/judge/pt/problems/view/2939) - [Casais](https://github.com/potigol/URI-Potigol/blob/master/src/2901-3000/2939.poti)
+  - [x] [3005](https://www.urionlinejudge.com.br/judge/pt/problems/view/3005) - [Pilhas de paralelepípedos](https://github.com/potigol/URI-Potigol/blob/master/src/3001-3100/3005.poti)
   - [x] [3024](https://www.urionlinejudge.com.br/judge/pt/problems/view/3024) - [Mountain Ranges](https://github.com/potigol/URI-Potigol/blob/master/src/3001-3100/3024.poti)
