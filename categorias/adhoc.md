@@ -1,4 +1,4 @@
-# Ad-Hoc (48 / 686)
+# Ad-Hoc (48 / 690)
 
   - [ ] [1026](https://www.urionlinejudge.com.br/judge/pt/problems/view/1026) - Carrega ou não Carrega?
   - [ ] [1030](https://www.urionlinejudge.com.br/judge/pt/problems/view/1030) - A Lenda de Flavious Josephus
@@ -638,6 +638,10 @@
   - [ ] [3021](https://www.urionlinejudge.com.br/judge/pt/problems/view/3021) - Jumping Grasshopper
   - [ ] [3022](https://www.urionlinejudge.com.br/judge/pt/problems/view/3022) - Know your Aliens
   - [ ] [3023](https://www.urionlinejudge.com.br/judge/pt/problems/view/3023) - Leverage MDT
+  - [ ] [3025](https://www.urionlinejudge.com.br/judge/pt/problems/view/3025) - Coletor
+  - [ ] [3028](https://www.urionlinejudge.com.br/judge/pt/problems/view/3028) - Bubble Reactor
+  - [ ] [3030](https://www.urionlinejudge.com.br/judge/pt/problems/view/3030) - Transformadores de Salto
+  - [ ] [3032](https://www.urionlinejudge.com.br/judge/pt/problems/view/3032) - Tuplas do Produto
   - [x] [1087](https://www.urionlinejudge.com.br/judge/pt/problems/view/1087) - [Dama](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1087.poti)
   - [x] [1103](https://www.urionlinejudge.com.br/judge/pt/problems/view/1103) - [Alarme Despertador](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1103.poti)
   - [x] [1171](https://www.urionlinejudge.com.br/judge/pt/problems/view/1171) - [Frequência de Números](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1171.poti)

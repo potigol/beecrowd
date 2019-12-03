@@ -1,4 +1,4 @@
-# Matemática (8 / 227)
+# Matemática (8 / 229)
 
   - [ ] [1093](https://www.urionlinejudge.com.br/judge/pt/problems/view/1093) - Vampiros
   - [ ] [1163](https://www.urionlinejudge.com.br/judge/pt/problems/view/1163) - Angry Ducks
@@ -219,6 +219,8 @@
   - [ ] [3002](https://www.urionlinejudge.com.br/judge/pt/problems/view/3002) - Salve a Lilly!
   - [ ] [3004](https://www.urionlinejudge.com.br/judge/pt/problems/view/3004) - Envelopes
   - [ ] [3007](https://www.urionlinejudge.com.br/judge/pt/problems/view/3007) - Lucas e Frobenius
+  - [ ] [3026](https://www.urionlinejudge.com.br/judge/pt/problems/view/3026) - Número Inteiro Periódico
+  - [ ] [3029](https://www.urionlinejudge.com.br/judge/pt/problems/view/3029) - Função Composição
   - [x] [1028](https://www.urionlinejudge.com.br/judge/pt/problems/view/1028) - [Figurinhas](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1028.poti)
   - [x] [1161](https://www.urionlinejudge.com.br/judge/pt/problems/view/1161) - [Soma de Fatoriais](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1161.poti)
   - [x] [1760](https://www.urionlinejudge.com.br/judge/pt/problems/view/1760) - [Floco de Neve de Koch](https://github.com/potigol/URI-Potigol/blob/master/src/1701-1800/1760.poti)

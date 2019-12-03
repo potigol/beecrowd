@@ -1,4 +1,4 @@
-# Grafos (0 / 224)
+# Grafos (0 / 226)
 
   - [ ] [1053](https://www.urionlinejudge.com.br/judge/pt/problems/view/1053) - Desenho Contínuo
   - [ ] [1056](https://www.urionlinejudge.com.br/judge/pt/problems/view/1056) - Fatores e Múltiplos
@@ -224,3 +224,5 @@
   - [ ] [2977](https://www.urionlinejudge.com.br/judge/pt/problems/view/2977) - Romeu e Julieta
   - [ ] [2980](https://www.urionlinejudge.com.br/judge/pt/problems/view/2980) - Jogo da Árvore
   - [ ] [3003](https://www.urionlinejudge.com.br/judge/pt/problems/view/3003) - O Grupinho
+  - [ ] [3027](https://www.urionlinejudge.com.br/judge/pt/problems/view/3027) - Plano de Treino
+  - [ ] [3031](https://www.urionlinejudge.com.br/judge/pt/problems/view/3031) - Xor Spanning Tree
