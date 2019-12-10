@@ -1,0 +1,7 @@
+a = leia_inteiros(5)
+p = [300, 1500, 600, 1000, 150]
+var total := 225
+para i de 1 ate 5 faca
+  total := total + a[i]* p[i]
+fim
+escreva total

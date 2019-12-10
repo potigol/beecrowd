@@ -1,0 +1,7 @@
+a = leia_inteiros(" ")
+x, y = a[1], a[2]
+se x >= 0 e x <= 432 e y >= 0 e y <= 468 entao
+  escreva "dentro"
+senão
+  escreva "fora"
+fim

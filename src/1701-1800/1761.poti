@@ -1,0 +1,9 @@
+var s := leia_texto
+rg =  3.141592654/180
+enquanto s <> None.orNull faca
+  r = s.divida(" ").mapeie(_.real)
+  a, b, c = r[1], r[2], r[3]
+  x = c + b * tg(a * rg)
+  escreva 5 * x formato "%.2f"
+  s := leia_texto
+fim

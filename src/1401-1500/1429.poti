@@ -1,0 +1,12 @@
+f = [1, 2, 6, 24, 120]
+
+var s := leia_texto
+enquanto s <> "0" faca
+  r = s.lista.inverta.mapeie(_.inteiro - '0')
+  var d := 0
+  para i de 1 ate r.tamanho faca
+    d := d + r[i] * f[i]
+  fim
+  escreva d
+  s := leia_texto
+fim

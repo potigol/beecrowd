@@ -60,7 +60,7 @@
   - [ ] [1758](https://www.urionlinejudge.com.br/judge/pt/problems/view/1758) - Pontos Extras *Ad-Hoc*
   - [x] [1759](https://www.urionlinejudge.com.br/judge/pt/problems/view/1759) - [Ho Ho Ho](https://github.com/potigol/URI-Potigol/blob/master/src/1701-1800/1759.poti) *Iniciante*
   - [x] [1760](https://www.urionlinejudge.com.br/judge/pt/problems/view/1760) - [Floco de Neve de Koch](https://github.com/potigol/URI-Potigol/blob/master/src/1701-1800/1760.poti) *Matemática*
-  - [ ] [1761](https://www.urionlinejudge.com.br/judge/pt/problems/view/1761) - Decoração Natalina *Matemática*
+  - [x] [1761](https://www.urionlinejudge.com.br/judge/pt/problems/view/1761) - [Decoração Natalina](https://github.com/potigol/URI-Potigol/blob/master/src/1701-1800/1761.poti) *Matemática*
   - [ ] [1762](https://www.urionlinejudge.com.br/judge/pt/problems/view/1762) - Trenós do Papai Noel *Estruturas e Bibliotecas*
   - [ ] [1763](https://www.urionlinejudge.com.br/judge/pt/problems/view/1763) - Tradutor do Papai Noel *Estruturas e Bibliotecas*
   - [ ] [1764](https://www.urionlinejudge.com.br/judge/pt/problems/view/1764) - Itinerário do Papai Noel *Grafos*

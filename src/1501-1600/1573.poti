@@ -1,0 +1,7 @@
+var s := leia_inteiros(" ")
+enquanto s[1] <> 0 faca
+  a, b, c = s[1], s[2], s[3]
+  x = (a * b * c) ^ (1/3)
+  escreva x.inteiro
+  s := leia_inteiros(" ")
+fim

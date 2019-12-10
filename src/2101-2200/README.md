@@ -46,7 +46,7 @@
   - [ ] [2144](https://www.urionlinejudge.com.br/judge/pt/problems/view/2144) - Bodybuilder *Ad-Hoc*
   - [ ] [2145](https://www.urionlinejudge.com.br/judge/pt/problems/view/2145) - A Vida Amorosa dos Números *Matemática*
   - [x] [2146](https://www.urionlinejudge.com.br/judge/pt/problems/view/2146) - [Senha](https://github.com/potigol/URI-Potigol/blob/master/src/2101-2200/2146.poti) *Iniciante*
-  - [ ] [2147](https://www.urionlinejudge.com.br/judge/pt/problems/view/2147) - Galopeira *Iniciante*
+  - [x] [2147](https://www.urionlinejudge.com.br/judge/pt/problems/view/2147) - [Galopeira](https://github.com/potigol/URI-Potigol/blob/master/src/2101-2200/2147.poti) *Iniciante*
   - [ ] [2148](https://www.urionlinejudge.com.br/judge/pt/problems/view/2148) - Banco de Dados *Matemática*
   - [ ] [2149](https://www.urionlinejudge.com.br/judge/pt/problems/view/2149) - Sequência do Tio Phill Bonati *Matemática*
   - [ ] [2150](https://www.urionlinejudge.com.br/judge/pt/problems/view/2150) - Vogais Alienígenas *Strings*

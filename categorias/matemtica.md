@@ -1,4 +1,4 @@
-# Matemática (8 / 229)
+# Matemática (11 / 229)
 
   - [ ] [1093](https://www.urionlinejudge.com.br/judge/pt/problems/view/1093) - Vampiros
   - [ ] [1163](https://www.urionlinejudge.com.br/judge/pt/problems/view/1163) - Angry Ducks
@@ -49,7 +49,6 @@
   - [ ] [1399](https://www.urionlinejudge.com.br/judge/pt/problems/view/1399) - Transformador de Matriz
   - [ ] [1400](https://www.urionlinejudge.com.br/judge/pt/problems/view/1400) - Jogo - Contando
   - [ ] [1422](https://www.urionlinejudge.com.br/judge/pt/problems/view/1422) - Bactérias
-  - [ ] [1429](https://www.urionlinejudge.com.br/judge/pt/problems/view/1429) - Fatorial de Novo!
   - [ ] [1433](https://www.urionlinejudge.com.br/judge/pt/problems/view/1433) - O Clube da Divisão
   - [ ] [1434](https://www.urionlinejudge.com.br/judge/pt/problems/view/1434) - Patrulheiros Romanos
   - [ ] [1436](https://www.urionlinejudge.com.br/judge/pt/problems/view/1436) - Jogo do Tijolo
@@ -108,7 +107,6 @@
   - [ ] [1745](https://www.urionlinejudge.com.br/judge/pt/problems/view/1745) - Contando Substhreengs
   - [ ] [1754](https://www.urionlinejudge.com.br/judge/pt/problems/view/1754) - A Sala do Tempo
   - [ ] [1756](https://www.urionlinejudge.com.br/judge/pt/problems/view/1756) - Algoritmo Genético
-  - [ ] [1761](https://www.urionlinejudge.com.br/judge/pt/problems/view/1761) - Decoração Natalina
   - [ ] [1776](https://www.urionlinejudge.com.br/judge/pt/problems/view/1776) - Baile de Formatura
   - [ ] [1785](https://www.urionlinejudge.com.br/judge/pt/problems/view/1785) - Kaprekar
   - [ ] [1801](https://www.urionlinejudge.com.br/judge/pt/problems/view/1801) - Brincando com Números
@@ -167,7 +165,6 @@
   - [ ] [2204](https://www.urionlinejudge.com.br/judge/pt/problems/view/2204) - Pare A Bomba!
   - [ ] [2218](https://www.urionlinejudge.com.br/judge/pt/problems/view/2218) - O Temível Evil-Son
   - [ ] [2222](https://www.urionlinejudge.com.br/judge/pt/problems/view/2222) - Brincando com Conjuntos
-  - [ ] [2232](https://www.urionlinejudge.com.br/judge/pt/problems/view/2232) - Triângulo de Pascal
   - [ ] [2238](https://www.urionlinejudge.com.br/judge/pt/problems/view/2238) - Divisores
   - [ ] [2291](https://www.urionlinejudge.com.br/judge/pt/problems/view/2291) - Números Divinos
   - [ ] [2335](https://www.urionlinejudge.com.br/judge/pt/problems/view/2335) - O Desafio de Arquibaldo
@@ -223,8 +220,11 @@
   - [ ] [3029](https://www.urionlinejudge.com.br/judge/pt/problems/view/3029) - Função Composição
   - [x] [1028](https://www.urionlinejudge.com.br/judge/pt/problems/view/1028) - [Figurinhas](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1028.poti)
   - [x] [1161](https://www.urionlinejudge.com.br/judge/pt/problems/view/1161) - [Soma de Fatoriais](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1161.poti)
+  - [x] [1429](https://www.urionlinejudge.com.br/judge/pt/problems/view/1429) - [Fatorial de Novo!](https://github.com/potigol/URI-Potigol/blob/master/src/1401-1500/1429.poti)
   - [x] [1760](https://www.urionlinejudge.com.br/judge/pt/problems/view/1760) - [Floco de Neve de Koch](https://github.com/potigol/URI-Potigol/blob/master/src/1701-1800/1760.poti)
+  - [x] [1761](https://www.urionlinejudge.com.br/judge/pt/problems/view/1761) - [Decoração Natalina](https://github.com/potigol/URI-Potigol/blob/master/src/1701-1800/1761.poti)
   - [x] [1795](https://www.urionlinejudge.com.br/judge/pt/problems/view/1795) - [Triângulo Trinomial](https://github.com/potigol/URI-Potigol/blob/master/src/1701-1800/1795.poti)
+  - [x] [2232](https://www.urionlinejudge.com.br/judge/pt/problems/view/2232) - [Triângulo de Pascal](https://github.com/potigol/URI-Potigol/blob/master/src/2201-2300/2232.poti)
   - [x] [2661](https://www.urionlinejudge.com.br/judge/pt/problems/view/2661) - [Despojados](https://github.com/potigol/URI-Potigol/blob/master/src/2601-2700/2661.poti)
   - [x] [2667](https://www.urionlinejudge.com.br/judge/pt/problems/view/2667) - [Jogo de Boca](https://github.com/potigol/URI-Potigol/blob/master/src/2601-2700/2667.poti)
   - [x] [2839](https://www.urionlinejudge.com.br/judge/pt/problems/view/2839) - [As Meias de Rangel](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2839.poti)

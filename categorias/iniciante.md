@@ -1,4 +1,4 @@
-# Iniciante (211 / 285)
+# Iniciante (213 / 285)
 
   - [ ] [1827](https://www.urionlinejudge.com.br/judge/pt/problems/view/1827) - Matriz Quadrada IV
   - [ ] [1837](https://www.urionlinejudge.com.br/judge/pt/problems/view/1837) - Prefácio
@@ -13,7 +13,6 @@
   - [ ] [2061](https://www.urionlinejudge.com.br/judge/pt/problems/view/2061) - As Abas de Péricles
   - [ ] [2126](https://www.urionlinejudge.com.br/judge/pt/problems/view/2126) - Procurando Subsequências
   - [ ] [2143](https://www.urionlinejudge.com.br/judge/pt/problems/view/2143) - A Volta do Radar
-  - [ ] [2147](https://www.urionlinejudge.com.br/judge/pt/problems/view/2147) - Galopeira
   - [ ] [2152](https://www.urionlinejudge.com.br/judge/pt/problems/view/2152) - Pepe, Já Tirei a Vela!
   - [ ] [2159](https://www.urionlinejudge.com.br/judge/pt/problems/view/2159) - Número Aproximado de Primos
   - [ ] [2160](https://www.urionlinejudge.com.br/judge/pt/problems/view/2160) - Nome no Formulário
@@ -70,7 +69,6 @@
   - [ ] [2823](https://www.urionlinejudge.com.br/judge/pt/problems/view/2823) - Eearliest Deadline First
   - [ ] [2852](https://www.urionlinejudge.com.br/judge/pt/problems/view/2852) - Troca de Mensagens
   - [ ] [2863](https://www.urionlinejudge.com.br/judge/pt/problems/view/2863) - Umil Bolt
-  - [ ] [2936](https://www.urionlinejudge.com.br/judge/pt/problems/view/2936) - Quanta Mandioca?
   - [ ] [2951](https://www.urionlinejudge.com.br/judge/pt/problems/view/2951) - O Retorno do Rei
   - [ ] [2952](https://www.urionlinejudge.com.br/judge/pt/problems/view/2952) - A Vida Sustentável
   - [ ] [2982](https://www.urionlinejudge.com.br/judge/pt/problems/view/2982) - A Greve para ou Continua?
@@ -217,6 +215,7 @@
   - [x] [2139](https://www.urionlinejudge.com.br/judge/pt/problems/view/2139) - [Natal de Pedrinho](https://github.com/potigol/URI-Potigol/blob/master/src/2101-2200/2139.poti)
   - [x] [2140](https://www.urionlinejudge.com.br/judge/pt/problems/view/2140) - [Duas Notas](https://github.com/potigol/URI-Potigol/blob/master/src/2101-2200/2140.poti)
   - [x] [2146](https://www.urionlinejudge.com.br/judge/pt/problems/view/2146) - [Senha](https://github.com/potigol/URI-Potigol/blob/master/src/2101-2200/2146.poti)
+  - [x] [2147](https://www.urionlinejudge.com.br/judge/pt/problems/view/2147) - [Galopeira](https://github.com/potigol/URI-Potigol/blob/master/src/2101-2200/2147.poti)
   - [x] [2161](https://www.urionlinejudge.com.br/judge/pt/problems/view/2161) - [Raiz Quadrada de 10](https://github.com/potigol/URI-Potigol/blob/master/src/2101-2200/2161.poti)
   - [x] [2164](https://www.urionlinejudge.com.br/judge/pt/problems/view/2164) - [Fibonacci Rápido](https://github.com/potigol/URI-Potigol/blob/master/src/2101-2200/2164.poti)
   - [x] [2165](https://www.urionlinejudge.com.br/judge/pt/problems/view/2165) - [Tuitando](https://github.com/potigol/URI-Potigol/blob/master/src/2101-2200/2165.poti)
@@ -280,6 +279,7 @@
   - [x] [2879](https://www.urionlinejudge.com.br/judge/pt/problems/view/2879) - [Desvendando Monty Hall](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2879.poti)
   - [x] [2896](https://www.urionlinejudge.com.br/judge/pt/problems/view/2896) - [Aproveite a Oferta](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2896.poti)
   - [x] [2930](https://www.urionlinejudge.com.br/judge/pt/problems/view/2930) - [TCC da Depressão Natalino](https://github.com/potigol/URI-Potigol/blob/master/src/2901-3000/2930.poti)
+  - [x] [2936](https://www.urionlinejudge.com.br/judge/pt/problems/view/2936) - [Quanta Mandioca?](https://github.com/potigol/URI-Potigol/blob/master/src/2901-3000/2936.poti)
   - [x] [2949](https://www.urionlinejudge.com.br/judge/pt/problems/view/2949) - [A Sociedade do Anel](https://github.com/potigol/URI-Potigol/blob/master/src/2901-3000/2949.poti)
   - [x] [2950](https://www.urionlinejudge.com.br/judge/pt/problems/view/2950) - [As Duas Torres](https://github.com/potigol/URI-Potigol/blob/master/src/2901-3000/2950.poti)
   - [x] [2963](https://www.urionlinejudge.com.br/judge/pt/problems/view/2963) - [Bobo da Corte](https://github.com/potigol/URI-Potigol/blob/master/src/2901-3000/2963.poti)

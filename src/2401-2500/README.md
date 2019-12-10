@@ -23,7 +23,7 @@
   - [ ] [2421](https://www.urionlinejudge.com.br/judge/pt/problems/view/2421) - Álbum de Fotos *Ad-Hoc*
   - [x] [2422](https://www.urionlinejudge.com.br/judge/pt/problems/view/2422) - [Soma das Casas](https://github.com/potigol/URI-Potigol/blob/master/src/2401-2500/2422.poti) *Ad-Hoc*
   - [ ] [2423](https://www.urionlinejudge.com.br/judge/pt/problems/view/2423) - Receita de Bolo *Ad-Hoc*
-  - [ ] [2424](https://www.urionlinejudge.com.br/judge/pt/problems/view/2424) - Tira-teima *Ad-Hoc*
+  - [x] [2424](https://www.urionlinejudge.com.br/judge/pt/problems/view/2424) - [Tira-teima](https://github.com/potigol/URI-Potigol/blob/master/src/2401-2500/2424.poti) *Ad-Hoc*
   - [ ] [2425](https://www.urionlinejudge.com.br/judge/pt/problems/view/2425) - Banco *Ad-Hoc*
   - [ ] [2426](https://www.urionlinejudge.com.br/judge/pt/problems/view/2426) - Bomba *Ad-Hoc*
   - [ ] [2427](https://www.urionlinejudge.com.br/judge/pt/problems/view/2427) - Chocolate *Ad-Hoc*
@@ -63,7 +63,7 @@
   - [ ] [2461](https://www.urionlinejudge.com.br/judge/pt/problems/view/2461) - Blefe *Ad-Hoc*
   - [x] [2462](https://www.urionlinejudge.com.br/judge/pt/problems/view/2462) - [Voo](https://github.com/potigol/URI-Potigol/blob/master/src/2401-2500/2462.poti) *Ad-Hoc*
   - [ ] [2463](https://www.urionlinejudge.com.br/judge/pt/problems/view/2463) - Corredor *Ad-Hoc*
-  - [ ] [2464](https://www.urionlinejudge.com.br/judge/pt/problems/view/2464) - Decifra *Ad-Hoc*
+  - [x] [2464](https://www.urionlinejudge.com.br/judge/pt/problems/view/2464) - [Decifra](https://github.com/potigol/URI-Potigol/blob/master/src/2401-2500/2464.poti) *Ad-Hoc*
   - [x] [2465](https://www.urionlinejudge.com.br/judge/pt/problems/view/2465) - [Passa Bolinha](https://github.com/potigol/URI-Potigol/blob/master/src/2401-2500/2465.poti) *Ad-Hoc*
   - [x] [2466](https://www.urionlinejudge.com.br/judge/pt/problems/view/2466) - [Sinuca](https://github.com/potigol/URI-Potigol/blob/master/src/2401-2500/2466.poti) *Ad-Hoc*
   - [ ] [2467](https://www.urionlinejudge.com.br/judge/pt/problems/view/2467) - Frequência *Ad-Hoc*

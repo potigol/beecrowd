@@ -72,7 +72,7 @@
   - [ ] [1570](https://www.urionlinejudge.com.br/judge/pt/problems/view/1570) - Um Dia na Terra da Matemática *Matemática*
   - [ ] [1571](https://www.urionlinejudge.com.br/judge/pt/problems/view/1571) - Um Quadrado &amp; Triângulos Equiláteros *Geometria Computacional*
   - [ ] [1572](https://www.urionlinejudge.com.br/judge/pt/problems/view/1572) - O Torneio Surreal *Matemática*
-  - [ ] [1573](https://www.urionlinejudge.com.br/judge/pt/problems/view/1573) - Fábrica de Chocolate *Ad-Hoc*
+  - [x] [1573](https://www.urionlinejudge.com.br/judge/pt/problems/view/1573) - [Fábrica de Chocolate](https://github.com/potigol/URI-Potigol/blob/master/src/1501-1600/1573.poti) *Ad-Hoc*
   - [ ] [1574](https://www.urionlinejudge.com.br/judge/pt/problems/view/1574) - Instruções do Robô *Ad-Hoc*
   - [ ] [1575](https://www.urionlinejudge.com.br/judge/pt/problems/view/1575) - Perseguindo Don Giovanni *Ad-Hoc*
   - [ ] [1576](https://www.urionlinejudge.com.br/judge/pt/problems/view/1576) - O Problema da Linha do Horizonte *Ad-Hoc*

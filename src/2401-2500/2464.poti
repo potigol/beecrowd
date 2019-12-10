@@ -1,0 +1,8 @@
+alfa = leia_texto.minusculo
+senha = leia_texto.minusculo
+inicio = 'a' - 1
+original = senha.lista
+            .mapeie(_.inteiro - inicio)
+            .mapeie(alfa[_])
+            .junte("")
+escreva original

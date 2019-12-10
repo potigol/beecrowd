@@ -336,7 +336,7 @@
   - [ ] [1321](https://www.urionlinejudge.com.br/judge/pt/problems/view/1321) - Jollo *Ad-Hoc*
   - [ ] [1322](https://www.urionlinejudge.com.br/judge/pt/problems/view/1322) - Desejos das Crianças *Grafos*
   - [x] [1379](https://www.urionlinejudge.com.br/judge/pt/problems/view/1379) - [Problema com Mediana e Média](https://github.com/potigol/URI-Potigol/blob/master/src/1301-1400/1379.poti) *Ad-Hoc*
-  - [ ] [1429](https://www.urionlinejudge.com.br/judge/pt/problems/view/1429) - Fatorial de Novo! *Matemática*
+  - [x] [1429](https://www.urionlinejudge.com.br/judge/pt/problems/view/1429) - [Fatorial de Novo!](https://github.com/potigol/URI-Potigol/blob/master/src/1401-1500/1429.poti) *Matemática*
 
 
 ### 1ª Fase

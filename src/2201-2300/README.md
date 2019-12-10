@@ -31,7 +31,7 @@
   - [ ] [2229](https://www.urionlinejudge.com.br/judge/pt/problems/view/2229) - Dobradura *Ad-Hoc*
   - [ ] [2230](https://www.urionlinejudge.com.br/judge/pt/problems/view/2230) - Pedágio *Ad-Hoc*
   - [ ] [2231](https://www.urionlinejudge.com.br/judge/pt/problems/view/2231) - Temperatura Lunar *Ad-Hoc*
-  - [ ] [2232](https://www.urionlinejudge.com.br/judge/pt/problems/view/2232) - Triângulo de Pascal *Matemática*
+  - [x] [2232](https://www.urionlinejudge.com.br/judge/pt/problems/view/2232) - [Triângulo de Pascal](https://github.com/potigol/URI-Potigol/blob/master/src/2201-2300/2232.poti) *Matemática*
   - [ ] [2233](https://www.urionlinejudge.com.br/judge/pt/problems/view/2233) - Etiquetas Coloridas *Ad-Hoc*
   - [x] [2234](https://www.urionlinejudge.com.br/judge/pt/problems/view/2234) - [Cachorros-Quentes](https://github.com/potigol/URI-Potigol/blob/master/src/2201-2300/2234.poti) *Iniciante*
   - [x] [2235](https://www.urionlinejudge.com.br/judge/pt/problems/view/2235) - [Andando no Tempo](https://github.com/potigol/URI-Potigol/blob/master/src/2201-2300/2235.poti) *Iniciante*
