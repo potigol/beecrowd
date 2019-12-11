@@ -22,7 +22,7 @@
   - [ ] [1320](https://www.urionlinejudge.com.br/judge/pt/problems/view/1320) - Metrô Engenhoso *Ad-Hoc*
   - [ ] [1321](https://www.urionlinejudge.com.br/judge/pt/problems/view/1321) - Jollo *Ad-Hoc*
   - [ ] [1322](https://www.urionlinejudge.com.br/judge/pt/problems/view/1322) - Desejos das Crianças *Grafos*
-  - [ ] [1323](https://www.urionlinejudge.com.br/judge/pt/problems/view/1323) - Feynman *Matemática*
+  - [x] [1323](https://www.urionlinejudge.com.br/judge/pt/problems/view/1323) - [Feynman](https://github.com/potigol/URI-Potigol/blob/master/src/1301-1400/1323.poti) *Matemática*
   - [ ] [1324](https://www.urionlinejudge.com.br/judge/pt/problems/view/1324) - Bóson de Higgs *Matemática*
   - [ ] [1325](https://www.urionlinejudge.com.br/judge/pt/problems/view/1325) - Mapas Bolha *Paradigmas*
   - [ ] [1326](https://www.urionlinejudge.com.br/judge/pt/problems/view/1326) - Química *Estruturas e Bibliotecas*

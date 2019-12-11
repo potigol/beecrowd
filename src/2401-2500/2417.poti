@@ -1,0 +1,11 @@
+a = leia_inteiros(" ")
+cv, ce, cs, fv, fe, fs = a[1], a[2], a[3], a[4], a[5], a[6]
+c = cv * 3000 + ce * 1000 + cs
+f = fv * 3000 + fe * 1000 + fs
+se c > f entao
+  escreva "C"
+senãose c < f então
+  escreva "F"
+senao
+  escreva "="
+fim

@@ -1,4 +1,4 @@
-# Iniciante (213 / 285)
+# Iniciante (214 / 285)
 
   - [ ] [1827](https://www.urionlinejudge.com.br/judge/pt/problems/view/1827) - Matriz Quadrada IV
   - [ ] [1837](https://www.urionlinejudge.com.br/judge/pt/problems/view/1837) - Prefácio
@@ -10,7 +10,6 @@
   - [ ] [2028](https://www.urionlinejudge.com.br/judge/pt/problems/view/2028) - Sequência de Sequência
   - [ ] [2029](https://www.urionlinejudge.com.br/judge/pt/problems/view/2029) - Reservatório de Mel
   - [ ] [2031](https://www.urionlinejudge.com.br/judge/pt/problems/view/2031) - Pedra, Papel, Ataque Aéreo
-  - [ ] [2061](https://www.urionlinejudge.com.br/judge/pt/problems/view/2061) - As Abas de Péricles
   - [ ] [2126](https://www.urionlinejudge.com.br/judge/pt/problems/view/2126) - Procurando Subsequências
   - [ ] [2143](https://www.urionlinejudge.com.br/judge/pt/problems/view/2143) - A Volta do Radar
   - [ ] [2152](https://www.urionlinejudge.com.br/judge/pt/problems/view/2152) - Pepe, Já Tirei a Vela!
@@ -212,6 +211,7 @@
   - [x] [2057](https://www.urionlinejudge.com.br/judge/pt/problems/view/2057) - [Fuso Horário](https://github.com/potigol/URI-Potigol/blob/master/src/2001-2100/2057.poti)
   - [x] [2059](https://www.urionlinejudge.com.br/judge/pt/problems/view/2059) - [Ímpar, Par ou Roubo](https://github.com/potigol/URI-Potigol/blob/master/src/2001-2100/2059.poti)
   - [x] [2060](https://www.urionlinejudge.com.br/judge/pt/problems/view/2060) - [Desafio de Bino](https://github.com/potigol/URI-Potigol/blob/master/src/2001-2100/2060.poti)
+  - [x] [2061](https://www.urionlinejudge.com.br/judge/pt/problems/view/2061) - [As Abas de Péricles](https://github.com/potigol/URI-Potigol/blob/master/src/2001-2100/2061.poti)
   - [x] [2139](https://www.urionlinejudge.com.br/judge/pt/problems/view/2139) - [Natal de Pedrinho](https://github.com/potigol/URI-Potigol/blob/master/src/2101-2200/2139.poti)
   - [x] [2140](https://www.urionlinejudge.com.br/judge/pt/problems/view/2140) - [Duas Notas](https://github.com/potigol/URI-Potigol/blob/master/src/2101-2200/2140.poti)
   - [x] [2146](https://www.urionlinejudge.com.br/judge/pt/problems/view/2146) - [Senha](https://github.com/potigol/URI-Potigol/blob/master/src/2101-2200/2146.poti)

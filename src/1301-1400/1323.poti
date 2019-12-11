@@ -1,0 +1,9 @@
+var a = Lista(100, 1)
+para i de 2 ate 100 faca
+  a[i] := a[i-1] + i * i
+fim
+var n := leia_inteiro
+enquanto n > 0 faca
+  escreva a[n]
+  n := leia_inteiro
+fim

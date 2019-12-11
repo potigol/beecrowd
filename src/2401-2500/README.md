@@ -13,10 +13,10 @@
   - [ ] [2411](https://www.urionlinejudge.com.br/judge/pt/problems/view/2411) - O Tabuleiro Esburacado *Ad-Hoc*
   - [ ] [2412](https://www.urionlinejudge.com.br/judge/pt/problems/view/2412) - Tarzan *Ad-Hoc*
   - [x] [2413](https://www.urionlinejudge.com.br/judge/pt/problems/view/2413) - [Busca na Internet](https://github.com/potigol/URI-Potigol/blob/master/src/2401-2500/2413.poti) *Ad-Hoc*
-  - [ ] [2414](https://www.urionlinejudge.com.br/judge/pt/problems/view/2414) - Desafio do Maior Número *Ad-Hoc*
+  - [x] [2414](https://www.urionlinejudge.com.br/judge/pt/problems/view/2414) - [Desafio do Maior Número](https://github.com/potigol/URI-Potigol/blob/master/src/2401-2500/2414.poti) *Ad-Hoc*
   - [ ] [2415](https://www.urionlinejudge.com.br/judge/pt/problems/view/2415) - Consecutivos *Ad-Hoc*
   - [x] [2416](https://www.urionlinejudge.com.br/judge/pt/problems/view/2416) - [Corrida](https://github.com/potigol/URI-Potigol/blob/master/src/2401-2500/2416.poti) *Ad-Hoc*
-  - [ ] [2417](https://www.urionlinejudge.com.br/judge/pt/problems/view/2417) - Campeonato *Ad-Hoc*
+  - [x] [2417](https://www.urionlinejudge.com.br/judge/pt/problems/view/2417) - [Campeonato](https://github.com/potigol/URI-Potigol/blob/master/src/2401-2500/2417.poti) *Ad-Hoc*
   - [ ] [2418](https://www.urionlinejudge.com.br/judge/pt/problems/view/2418) - Carnaval *Ad-Hoc*
   - [ ] [2419](https://www.urionlinejudge.com.br/judge/pt/problems/view/2419) - Costa *Grafos*
   - [ ] [2420](https://www.urionlinejudge.com.br/judge/pt/problems/view/2420) - Guerra por Território *Ad-Hoc*

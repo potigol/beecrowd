@@ -1,0 +1,7 @@
+a = leia_inteiros(" ")
+c, p, f = a[1], a[2], a[3]
+se c * f <= p entao
+  escreva "S"
+senão
+  escreva "N"
+fim

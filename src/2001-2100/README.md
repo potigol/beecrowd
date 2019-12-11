@@ -60,7 +60,7 @@
   - [x] [2058](https://www.urionlinejudge.com.br/judge/pt/problems/view/2058) - [Triângulos e Polígonos Regulares](https://github.com/potigol/URI-Potigol/blob/master/src/2001-2100/2058.poti) *Ad-Hoc*
   - [x] [2059](https://www.urionlinejudge.com.br/judge/pt/problems/view/2059) - [Ímpar, Par ou Roubo](https://github.com/potigol/URI-Potigol/blob/master/src/2001-2100/2059.poti) *Iniciante*
   - [x] [2060](https://www.urionlinejudge.com.br/judge/pt/problems/view/2060) - [Desafio de Bino](https://github.com/potigol/URI-Potigol/blob/master/src/2001-2100/2060.poti) *Iniciante*
-  - [ ] [2061](https://www.urionlinejudge.com.br/judge/pt/problems/view/2061) - As Abas de Péricles *Iniciante*
+  - [x] [2061](https://www.urionlinejudge.com.br/judge/pt/problems/view/2061) - [As Abas de Péricles](https://github.com/potigol/URI-Potigol/blob/master/src/2001-2100/2061.poti) *Iniciante*
   - [ ] [2062](https://www.urionlinejudge.com.br/judge/pt/problems/view/2062) - OBI URI *Strings*
   - [ ] [2063](https://www.urionlinejudge.com.br/judge/pt/problems/view/2063) - Caçando Digletts *Matemática*
   - [ ] [2064](https://www.urionlinejudge.com.br/judge/pt/problems/view/2064) - Prant e a Indecisão *Estruturas e Bibliotecas*

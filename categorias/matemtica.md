@@ -1,4 +1,4 @@
-# Matemática (11 / 229)
+# Matemática (12 / 229)
 
   - [ ] [1093](https://www.urionlinejudge.com.br/judge/pt/problems/view/1093) - Vampiros
   - [ ] [1163](https://www.urionlinejudge.com.br/judge/pt/problems/view/1163) - Angry Ducks
@@ -31,7 +31,6 @@
   - [ ] [1308](https://www.urionlinejudge.com.br/judge/pt/problems/view/1308) - Guerreiros Etruscos Nunca Jogam Xadrez
   - [ ] [1309](https://www.urionlinejudge.com.br/judge/pt/problems/view/1309) - Formatação Monetária
   - [ ] [1316](https://www.urionlinejudge.com.br/judge/pt/problems/view/1316) - Compra Livre de Impostos
-  - [ ] [1323](https://www.urionlinejudge.com.br/judge/pt/problems/view/1323) - Feynman
   - [ ] [1324](https://www.urionlinejudge.com.br/judge/pt/problems/view/1324) - Bóson de Higgs
   - [ ] [1338](https://www.urionlinejudge.com.br/judge/pt/problems/view/1338) - It-Miha
   - [ ] [1346](https://www.urionlinejudge.com.br/judge/pt/problems/view/1346) - Brincadeira de Criança
@@ -220,6 +219,7 @@
   - [ ] [3029](https://www.urionlinejudge.com.br/judge/pt/problems/view/3029) - Função Composição
   - [x] [1028](https://www.urionlinejudge.com.br/judge/pt/problems/view/1028) - [Figurinhas](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1028.poti)
   - [x] [1161](https://www.urionlinejudge.com.br/judge/pt/problems/view/1161) - [Soma de Fatoriais](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1161.poti)
+  - [x] [1323](https://www.urionlinejudge.com.br/judge/pt/problems/view/1323) - [Feynman](https://github.com/potigol/URI-Potigol/blob/master/src/1301-1400/1323.poti)
   - [x] [1429](https://www.urionlinejudge.com.br/judge/pt/problems/view/1429) - [Fatorial de Novo!](https://github.com/potigol/URI-Potigol/blob/master/src/1401-1500/1429.poti)
   - [x] [1760](https://www.urionlinejudge.com.br/judge/pt/problems/view/1760) - [Floco de Neve de Koch](https://github.com/potigol/URI-Potigol/blob/master/src/1701-1800/1760.poti)
   - [x] [1761](https://www.urionlinejudge.com.br/judge/pt/problems/view/1761) - [Decoração Natalina](https://github.com/potigol/URI-Potigol/blob/master/src/1701-1800/1761.poti)

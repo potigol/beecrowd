@@ -392,7 +392,7 @@
 
 ### 2ª Fase
 
-  - [ ] [1323](https://www.urionlinejudge.com.br/judge/pt/problems/view/1323) - Feynman *Matemática*
+  - [x] [1323](https://www.urionlinejudge.com.br/judge/pt/problems/view/1323) - [Feynman](https://github.com/potigol/URI-Potigol/blob/master/src/1301-1400/1323.poti) *Matemática*
   - [ ] [1324](https://www.urionlinejudge.com.br/judge/pt/problems/view/1324) - Bóson de Higgs *Matemática*
   - [ ] [1372](https://www.urionlinejudge.com.br/judge/pt/problems/view/1372) - Doces *Paradigmas*
   - [ ] [1373](https://www.urionlinejudge.com.br/judge/pt/problems/view/1373) - Sequências de DNA *Strings*
