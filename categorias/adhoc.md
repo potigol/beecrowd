@@ -1,4 +1,4 @@
-# Ad-Hoc (56 / 690)
+# Ad-Hoc (58 / 690)
 
   - [ ] [1026](https://www.urionlinejudge.com.br/judge/pt/problems/view/1026) - Carrega ou não Carrega?
   - [ ] [1030](https://www.urionlinejudge.com.br/judge/pt/problems/view/1030) - A Lenda de Flavious Josephus
@@ -24,7 +24,6 @@
   - [ ] [1139](https://www.urionlinejudge.com.br/judge/pt/problems/view/1139) - Necessidades Elétricas
   - [ ] [1140](https://www.urionlinejudge.com.br/judge/pt/problems/view/1140) - Flores Florescem da França
   - [ ] [1147](https://www.urionlinejudge.com.br/judge/pt/problems/view/1147) - Fuga do Cavalo
-  - [ ] [1192](https://www.urionlinejudge.com.br/judge/pt/problems/view/1192) - O jogo Matemático de Paula
   - [ ] [1196](https://www.urionlinejudge.com.br/judge/pt/problems/view/1196) - WERTYU
   - [ ] [1206](https://www.urionlinejudge.com.br/judge/pt/problems/view/1206) - Desafio de São Petersburgo
   - [ ] [1209](https://www.urionlinejudge.com.br/judge/pt/problems/view/1209) - Festas de São Petersburgo
@@ -403,7 +402,6 @@
   - [ ] [2383](https://www.urionlinejudge.com.br/judge/pt/problems/view/2383) - Altas Aventuras
   - [ ] [2384](https://www.urionlinejudge.com.br/judge/pt/problems/view/2384) - Tradutor Alienígena
   - [ ] [2385](https://www.urionlinejudge.com.br/judge/pt/problems/view/2385) - Multiplicação de Matrizes
-  - [ ] [2386](https://www.urionlinejudge.com.br/judge/pt/problems/view/2386) - Telescópio
   - [ ] [2387](https://www.urionlinejudge.com.br/judge/pt/problems/view/2387) - Dentista
   - [ ] [2388](https://www.urionlinejudge.com.br/judge/pt/problems/view/2388) - Tacógrafo
   - [ ] [2389](https://www.urionlinejudge.com.br/judge/pt/problems/view/2389) - Floresta
@@ -637,6 +635,7 @@
   - [x] [1087](https://www.urionlinejudge.com.br/judge/pt/problems/view/1087) - [Dama](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1087.poti)
   - [x] [1103](https://www.urionlinejudge.com.br/judge/pt/problems/view/1103) - [Alarme Despertador](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1103.poti)
   - [x] [1171](https://www.urionlinejudge.com.br/judge/pt/problems/view/1171) - [Frequência de Números](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1171.poti)
+  - [x] [1192](https://www.urionlinejudge.com.br/judge/pt/problems/view/1192) - [O jogo Matemático de Paula](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1192.poti)
   - [x] [1329](https://www.urionlinejudge.com.br/judge/pt/problems/view/1329) - [Cara ou Coroa](https://github.com/potigol/URI-Potigol/blob/master/src/1301-1400/1329.poti)
   - [x] [1379](https://www.urionlinejudge.com.br/judge/pt/problems/view/1379) - [Problema com Mediana e Média](https://github.com/potigol/URI-Potigol/blob/master/src/1301-1400/1379.poti)
   - [x] [1383](https://www.urionlinejudge.com.br/judge/pt/problems/view/1383) - [Sudoku](https://github.com/potigol/URI-Potigol/blob/master/src/1301-1400/1383.poti)
@@ -660,6 +659,7 @@
   - [x] [2375](https://www.urionlinejudge.com.br/judge/pt/problems/view/2375) - [Sedex](https://github.com/potigol/URI-Potigol/blob/master/src/2301-2400/2375.poti)
   - [x] [2377](https://www.urionlinejudge.com.br/judge/pt/problems/view/2377) - [Pedágio](https://github.com/potigol/URI-Potigol/blob/master/src/2301-2400/2377.poti)
   - [x] [2381](https://www.urionlinejudge.com.br/judge/pt/problems/view/2381) - [Lista de Chamada](https://github.com/potigol/URI-Potigol/blob/master/src/2301-2400/2381.poti)
+  - [x] [2386](https://www.urionlinejudge.com.br/judge/pt/problems/view/2386) - [Telescópio](https://github.com/potigol/URI-Potigol/blob/master/src/2301-2400/2386.poti)
   - [x] [2395](https://www.urionlinejudge.com.br/judge/pt/problems/view/2395) - [Transporte de Contêineres](https://github.com/potigol/URI-Potigol/blob/master/src/2301-2400/2395.poti)
   - [x] [2397](https://www.urionlinejudge.com.br/judge/pt/problems/view/2397) - [Triângulos](https://github.com/potigol/URI-Potigol/blob/master/src/2301-2400/2397.poti)
   - [x] [2399](https://www.urionlinejudge.com.br/judge/pt/problems/view/2399) - [Campo Minado](https://github.com/potigol/URI-Potigol/blob/master/src/2301-2400/2399.poti)

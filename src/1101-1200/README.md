@@ -91,7 +91,7 @@
   - [x] [1189](https://www.urionlinejudge.com.br/judge/pt/problems/view/1189) - [Área Esquerda](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1189.poti) *Iniciante*
   - [x] [1190](https://www.urionlinejudge.com.br/judge/pt/problems/view/1190) - [Área Direita](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1190.poti) *Iniciante*
   - [ ] [1191](https://www.urionlinejudge.com.br/judge/pt/problems/view/1191) - Recuperação da Árvore *Grafos*
-  - [ ] [1192](https://www.urionlinejudge.com.br/judge/pt/problems/view/1192) - O jogo Matemático de Paula *Ad-Hoc*
+  - [x] [1192](https://www.urionlinejudge.com.br/judge/pt/problems/view/1192) - [O jogo Matemático de Paula](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1192.poti) *Ad-Hoc*
   - [ ] [1193](https://www.urionlinejudge.com.br/judge/pt/problems/view/1193) - Conversão entre Bases *Matemática*
   - [ ] [1194](https://www.urionlinejudge.com.br/judge/pt/problems/view/1194) - Prefixa, Infixa e Posfixa *Grafos*
   - [ ] [1195](https://www.urionlinejudge.com.br/judge/pt/problems/view/1195) - Árvore Binária de Busca *Grafos*

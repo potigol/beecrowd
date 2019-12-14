@@ -143,7 +143,7 @@
   - [ ] [2383](https://www.urionlinejudge.com.br/judge/pt/problems/view/2383) - Altas Aventuras *Ad-Hoc*
   - [ ] [2384](https://www.urionlinejudge.com.br/judge/pt/problems/view/2384) - Tradutor Alienígena *Ad-Hoc*
   - [ ] [2385](https://www.urionlinejudge.com.br/judge/pt/problems/view/2385) - Multiplicação de Matrizes *Ad-Hoc*
-  - [ ] [2386](https://www.urionlinejudge.com.br/judge/pt/problems/view/2386) - Telescópio *Ad-Hoc*
+  - [x] [2386](https://www.urionlinejudge.com.br/judge/pt/problems/view/2386) - [Telescópio](https://github.com/potigol/URI-Potigol/blob/master/src/2301-2400/2386.poti) *Ad-Hoc*
   - [ ] [2387](https://www.urionlinejudge.com.br/judge/pt/problems/view/2387) - Dentista *Ad-Hoc*
   - [ ] [2388](https://www.urionlinejudge.com.br/judge/pt/problems/view/2388) - Tacógrafo *Ad-Hoc*
   - [ ] [2389](https://www.urionlinejudge.com.br/judge/pt/problems/view/2389) - Floresta *Ad-Hoc*

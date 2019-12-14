@@ -1,0 +1,10 @@
+a, n = leia_inteiro
+z = 40000000 / a
+var soma := 0
+para i de 1 ate n faca
+  f = leia_inteiro
+  se f >= z entao
+    soma := soma + 1
+  fim
+fim
+escreva soma

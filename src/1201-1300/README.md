@@ -52,7 +52,7 @@
   - [ ] [1250](https://www.urionlinejudge.com.br/judge/pt/problems/view/1250) - KiloMan *Ad-Hoc*
   - [ ] [1251](https://www.urionlinejudge.com.br/judge/pt/problems/view/1251) - Diga-me a Frequência *Estruturas e Bibliotecas*
   - [ ] [1252](https://www.urionlinejudge.com.br/judge/pt/problems/view/1252) - Sort! Sort!! e Sort!!! *Estruturas e Bibliotecas*
-  - [ ] [1253](https://www.urionlinejudge.com.br/judge/pt/problems/view/1253) - Cifra de César *Strings*
+  - [x] [1253](https://www.urionlinejudge.com.br/judge/pt/problems/view/1253) - [Cifra de César](https://github.com/potigol/URI-Potigol/blob/master/src/1201-1300/1253.poti) *Strings*
   - [ ] [1254](https://www.urionlinejudge.com.br/judge/pt/problems/view/1254) - Substituição de Tag *Strings*
   - [ ] [1255](https://www.urionlinejudge.com.br/judge/pt/problems/view/1255) - Frequência de Letras *Strings*
   - [ ] [1256](https://www.urionlinejudge.com.br/judge/pt/problems/view/1256) - Tabelas Hash *Estruturas e Bibliotecas*
