@@ -32,37 +32,37 @@
   - [ ] [3030](https://www.urionlinejudge.com.br/judge/pt/problems/view/3030) - Transformadores de Salto *Ad-Hoc*
   - [ ] [3031](https://www.urionlinejudge.com.br/judge/pt/problems/view/3031) - Xor Spanning Tree *Grafos*
   - [ ] [3032](https://www.urionlinejudge.com.br/judge/pt/problems/view/3032) - Tuplas do Produto *Ad-Hoc*
-  - [ ] ~~3033~~
-  - [ ] ~~3034~~
-  - [ ] ~~3035~~
-  - [ ] ~~3036~~
-  - [ ] ~~3037~~
-  - [ ] ~~3038~~
-  - [ ] ~~3039~~
-  - [ ] ~~3040~~
+  - [ ] [3033](https://www.urionlinejudge.com.br/judge/pt/problems/view/3033) - Ajude Maria *Ad-Hoc*
+  - [ ] [3034](https://www.urionlinejudge.com.br/judge/pt/problems/view/3034) - O Caso Douglas *Ad-Hoc*
+  - [ ] [3035](https://www.urionlinejudge.com.br/judge/pt/problems/view/3035) - Fabrica de Peças *Ad-Hoc*
+  - [ ] [3036](https://www.urionlinejudge.com.br/judge/pt/problems/view/3036) - Cor da camisa *Matemática*
+  - [ ] [3037](https://www.urionlinejudge.com.br/judge/pt/problems/view/3037) - Jogando dardos por distância *Iniciante*
+  - [ ] [3038](https://www.urionlinejudge.com.br/judge/pt/problems/view/3038) - Carta de Natal Criptografada *Strings*
+  - [ ] [3039](https://www.urionlinejudge.com.br/judge/pt/problems/view/3039) - Brinquedos do Papai Noel *Iniciante*
+  - [ ] [3040](https://www.urionlinejudge.com.br/judge/pt/problems/view/3040) - A Árvore de Natal *Iniciante*
   - [ ] ~~3041~~
   - [ ] ~~3042~~
   - [ ] ~~3043~~
   - [ ] ~~3044~~
   - [ ] ~~3045~~
-  - [ ] ~~3046~~
-  - [ ] ~~3047~~
-  - [ ] ~~3048~~
-  - [ ] ~~3049~~
-  - [ ] ~~3050~~
-  - [ ] ~~3051~~
-  - [ ] ~~3052~~
-  - [ ] ~~3053~~
-  - [ ] ~~3054~~
-  - [ ] ~~3055~~
-  - [ ] ~~3056~~
-  - [ ] ~~3057~~
-  - [ ] ~~3058~~
-  - [ ] ~~3059~~
-  - [ ] ~~3060~~
-  - [ ] ~~3061~~
-  - [ ] ~~3062~~
-  - [ ] ~~3063~~
+  - [ ] [3046](https://www.urionlinejudge.com.br/judge/pt/problems/view/3046) - Dominó *Iniciante*
+  - [ ] [3047](https://www.urionlinejudge.com.br/judge/pt/problems/view/3047) - A idade de Dona Mônica *Iniciante*
+  - [ ] [3048](https://www.urionlinejudge.com.br/judge/pt/problems/view/3048) - Sequência Secreta *Ad-Hoc*
+  - [ ] [3049](https://www.urionlinejudge.com.br/judge/pt/problems/view/3049) - Nota cortada *Matemática*
+  - [ ] [3050](https://www.urionlinejudge.com.br/judge/pt/problems/view/3050) - Distância entre amigos *Ad-Hoc*
+  - [ ] [3051](https://www.urionlinejudge.com.br/judge/pt/problems/view/3051) - Soma *Paradigmas*
+  - [ ] [3052](https://www.urionlinejudge.com.br/judge/pt/problems/view/3052) - Chuva *Ad-Hoc*
+  - [ ] [3053](https://www.urionlinejudge.com.br/judge/pt/problems/view/3053) - Jogo dos copos *Iniciante*
+  - [ ] [3054](https://www.urionlinejudge.com.br/judge/pt/problems/view/3054) - Matriz super-legal *Ad-Hoc*
+  - [ ] [3055](https://www.urionlinejudge.com.br/judge/pt/problems/view/3055) - Nota esquecida *Iniciante*
+  - [ ] [3056](https://www.urionlinejudge.com.br/judge/pt/problems/view/3056) - Ponto do meio *Ad-Hoc*
+  - [ ] [3057](https://www.urionlinejudge.com.br/judge/pt/problems/view/3057) - Detetive *Ad-Hoc*
+  - [ ] [3058](https://www.urionlinejudge.com.br/judge/pt/problems/view/3058) - Supermercado *Ad-Hoc*
+  - [ ] [3059](https://www.urionlinejudge.com.br/judge/pt/problems/view/3059) - Pares de números *Ad-Hoc*
+  - [ ] [3060](https://www.urionlinejudge.com.br/judge/pt/problems/view/3060) - Parcelamento sem juros *Ad-Hoc*
+  - [ ] [3061](https://www.urionlinejudge.com.br/judge/pt/problems/view/3061) - Manchas de pele *Grafos*
+  - [ ] [3062](https://www.urionlinejudge.com.br/judge/pt/problems/view/3062) - Coleção de Upas *Ad-Hoc*
+  - [ ] [3063](https://www.urionlinejudge.com.br/judge/pt/problems/view/3063) - Linhas de Ônibus *Ad-Hoc*
   - [ ] ~~3064~~
   - [ ] ~~3065~~
   - [ ] ~~3066~~

@@ -1,4 +1,4 @@
-# Ad-Hoc (58 / 690)
+# Ad-Hoc (58 / 704)
 
   - [ ] [1026](https://www.urionlinejudge.com.br/judge/pt/problems/view/1026) - Carrega ou não Carrega?
   - [ ] [1030](https://www.urionlinejudge.com.br/judge/pt/problems/view/1030) - A Lenda de Flavious Josephus
@@ -632,6 +632,20 @@
   - [ ] [3028](https://www.urionlinejudge.com.br/judge/pt/problems/view/3028) - Bubble Reactor
   - [ ] [3030](https://www.urionlinejudge.com.br/judge/pt/problems/view/3030) - Transformadores de Salto
   - [ ] [3032](https://www.urionlinejudge.com.br/judge/pt/problems/view/3032) - Tuplas do Produto
+  - [ ] [3033](https://www.urionlinejudge.com.br/judge/pt/problems/view/3033) - Ajude Maria
+  - [ ] [3034](https://www.urionlinejudge.com.br/judge/pt/problems/view/3034) - O Caso Douglas
+  - [ ] [3035](https://www.urionlinejudge.com.br/judge/pt/problems/view/3035) - Fabrica de Peças
+  - [ ] [3048](https://www.urionlinejudge.com.br/judge/pt/problems/view/3048) - Sequência Secreta
+  - [ ] [3050](https://www.urionlinejudge.com.br/judge/pt/problems/view/3050) - Distância entre amigos
+  - [ ] [3052](https://www.urionlinejudge.com.br/judge/pt/problems/view/3052) - Chuva
+  - [ ] [3054](https://www.urionlinejudge.com.br/judge/pt/problems/view/3054) - Matriz super-legal
+  - [ ] [3056](https://www.urionlinejudge.com.br/judge/pt/problems/view/3056) - Ponto do meio
+  - [ ] [3057](https://www.urionlinejudge.com.br/judge/pt/problems/view/3057) - Detetive
+  - [ ] [3058](https://www.urionlinejudge.com.br/judge/pt/problems/view/3058) - Supermercado
+  - [ ] [3059](https://www.urionlinejudge.com.br/judge/pt/problems/view/3059) - Pares de números
+  - [ ] [3060](https://www.urionlinejudge.com.br/judge/pt/problems/view/3060) - Parcelamento sem juros
+  - [ ] [3062](https://www.urionlinejudge.com.br/judge/pt/problems/view/3062) - Coleção de Upas
+  - [ ] [3063](https://www.urionlinejudge.com.br/judge/pt/problems/view/3063) - Linhas de Ônibus
   - [x] [1087](https://www.urionlinejudge.com.br/judge/pt/problems/view/1087) - [Dama](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1087.poti)
   - [x] [1103](https://www.urionlinejudge.com.br/judge/pt/problems/view/1103) - [Alarme Despertador](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1103.poti)
   - [x] [1171](https://www.urionlinejudge.com.br/judge/pt/problems/view/1171) - [Frequência de Números](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1171.poti)

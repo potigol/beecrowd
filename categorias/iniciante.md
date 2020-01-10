@@ -1,4 +1,4 @@
-# Iniciante (214 / 285)
+# Iniciante (214 / 292)
 
   - [ ] [1827](https://www.urionlinejudge.com.br/judge/pt/problems/view/1827) - Matriz Quadrada IV
   - [ ] [1837](https://www.urionlinejudge.com.br/judge/pt/problems/view/1837) - Prefácio
@@ -71,6 +71,13 @@
   - [ ] [2951](https://www.urionlinejudge.com.br/judge/pt/problems/view/2951) - O Retorno do Rei
   - [ ] [2952](https://www.urionlinejudge.com.br/judge/pt/problems/view/2952) - A Vida Sustentável
   - [ ] [2982](https://www.urionlinejudge.com.br/judge/pt/problems/view/2982) - A Greve para ou Continua?
+  - [ ] [3037](https://www.urionlinejudge.com.br/judge/pt/problems/view/3037) - Jogando dardos por distância
+  - [ ] [3039](https://www.urionlinejudge.com.br/judge/pt/problems/view/3039) - Brinquedos do Papai Noel
+  - [ ] [3040](https://www.urionlinejudge.com.br/judge/pt/problems/view/3040) - A Árvore de Natal
+  - [ ] [3046](https://www.urionlinejudge.com.br/judge/pt/problems/view/3046) - Dominó
+  - [ ] [3047](https://www.urionlinejudge.com.br/judge/pt/problems/view/3047) - A idade de Dona Mônica
+  - [ ] [3053](https://www.urionlinejudge.com.br/judge/pt/problems/view/3053) - Jogo dos copos
+  - [ ] [3055](https://www.urionlinejudge.com.br/judge/pt/problems/view/3055) - Nota esquecida
   - [x] [1001](https://www.urionlinejudge.com.br/judge/pt/problems/view/1001) - [Extremamente Básico](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1001.poti)
   - [x] [1002](https://www.urionlinejudge.com.br/judge/pt/problems/view/1002) - [Área do Círculo](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1002.poti)
   - [x] [1003](https://www.urionlinejudge.com.br/judge/pt/problems/view/1003) - [Soma Simples](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1003.poti)

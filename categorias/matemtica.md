@@ -1,4 +1,4 @@
-# Matemática (12 / 229)
+# Matemática (12 / 231)
 
   - [ ] [1093](https://www.urionlinejudge.com.br/judge/pt/problems/view/1093) - Vampiros
   - [ ] [1163](https://www.urionlinejudge.com.br/judge/pt/problems/view/1163) - Angry Ducks
@@ -217,6 +217,8 @@
   - [ ] [3007](https://www.urionlinejudge.com.br/judge/pt/problems/view/3007) - Lucas e Frobenius
   - [ ] [3026](https://www.urionlinejudge.com.br/judge/pt/problems/view/3026) - Número Inteiro Periódico
   - [ ] [3029](https://www.urionlinejudge.com.br/judge/pt/problems/view/3029) - Função Composição
+  - [ ] [3036](https://www.urionlinejudge.com.br/judge/pt/problems/view/3036) - Cor da camisa
+  - [ ] [3049](https://www.urionlinejudge.com.br/judge/pt/problems/view/3049) - Nota cortada
   - [x] [1028](https://www.urionlinejudge.com.br/judge/pt/problems/view/1028) - [Figurinhas](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1028.poti)
   - [x] [1161](https://www.urionlinejudge.com.br/judge/pt/problems/view/1161) - [Soma de Fatoriais](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1161.poti)
   - [x] [1323](https://www.urionlinejudge.com.br/judge/pt/problems/view/1323) - [Feynman](https://github.com/potigol/URI-Potigol/blob/master/src/1301-1400/1323.poti)

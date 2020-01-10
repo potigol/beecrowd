@@ -1,4 +1,4 @@
-# Grafos (0 / 226)
+# Grafos (0 / 227)
 
   - [ ] [1053](https://www.urionlinejudge.com.br/judge/pt/problems/view/1053) - Desenho Contínuo
   - [ ] [1056](https://www.urionlinejudge.com.br/judge/pt/problems/view/1056) - Fatores e Múltiplos
@@ -226,3 +226,4 @@
   - [ ] [3003](https://www.urionlinejudge.com.br/judge/pt/problems/view/3003) - O Grupinho
   - [ ] [3027](https://www.urionlinejudge.com.br/judge/pt/problems/view/3027) - Plano de Treino
   - [ ] [3031](https://www.urionlinejudge.com.br/judge/pt/problems/view/3031) - Xor Spanning Tree
+  - [ ] [3061](https://www.urionlinejudge.com.br/judge/pt/problems/view/3061) - Manchas de pele
