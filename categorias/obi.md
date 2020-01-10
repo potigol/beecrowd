@@ -2,6 +2,28 @@
 
 
 
+## 2019
+
+  - [ ] [3046](https://www.urionlinejudge.com.br/judge/pt/problems/view/3046) - Dominó *Iniciante*
+  - [ ] [3047](https://www.urionlinejudge.com.br/judge/pt/problems/view/3047) - A idade de Dona Mônica *Iniciante*
+  - [ ] [3048](https://www.urionlinejudge.com.br/judge/pt/problems/view/3048) - Sequência Secreta *Ad-Hoc*
+  - [ ] [3049](https://www.urionlinejudge.com.br/judge/pt/problems/view/3049) - Nota cortada *Matemática*
+  - [ ] [3050](https://www.urionlinejudge.com.br/judge/pt/problems/view/3050) - Distância entre amigos *Ad-Hoc*
+  - [ ] [3051](https://www.urionlinejudge.com.br/judge/pt/problems/view/3051) - Soma *Paradigmas*
+  - [ ] [3052](https://www.urionlinejudge.com.br/judge/pt/problems/view/3052) - Chuva *Ad-Hoc*
+  - [ ] [3053](https://www.urionlinejudge.com.br/judge/pt/problems/view/3053) - Jogo dos copos *Iniciante*
+  - [ ] [3054](https://www.urionlinejudge.com.br/judge/pt/problems/view/3054) - Matriz super-legal *Ad-Hoc*
+  - [ ] [3055](https://www.urionlinejudge.com.br/judge/pt/problems/view/3055) - Nota esquecida *Iniciante*
+  - [ ] [3056](https://www.urionlinejudge.com.br/judge/pt/problems/view/3056) - Ponto do meio *Ad-Hoc*
+  - [ ] [3057](https://www.urionlinejudge.com.br/judge/pt/problems/view/3057) - Detetive *Ad-Hoc*
+  - [ ] [3058](https://www.urionlinejudge.com.br/judge/pt/problems/view/3058) - Supermercado *Ad-Hoc*
+  - [ ] [3059](https://www.urionlinejudge.com.br/judge/pt/problems/view/3059) - Pares de números *Ad-Hoc*
+  - [ ] [3060](https://www.urionlinejudge.com.br/judge/pt/problems/view/3060) - Parcelamento sem juros *Ad-Hoc*
+  - [ ] [3061](https://www.urionlinejudge.com.br/judge/pt/problems/view/3061) - Manchas de pele *Grafos*
+  - [ ] [3062](https://www.urionlinejudge.com.br/judge/pt/problems/view/3062) - Coleção de Upas *Ad-Hoc*
+  - [ ] [3063](https://www.urionlinejudge.com.br/judge/pt/problems/view/3063) - Linhas de Ônibus *Ad-Hoc*
+
+
 ## 2018
 
   - [x] [2779](https://www.urionlinejudge.com.br/judge/pt/problems/view/2779) - [Álbum da Copa](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2779.poti) *Iniciante*
