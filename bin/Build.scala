@@ -45,15 +45,17 @@ object Build extends App {
     var s = ""
     for (year <- contest2.keys.toList.sorted.reverse) {
       s = s + s"\n\n## ${year}\n\n"
-      s = s + s"\n\n### 2ª Fase\n\n"
-      for (y <- contest2.get(year); x <- y) {
-        s = s + line(x) +"\n"
-      }
+
       if (contest1.get(year)!= None){
         s = s + s"\n\n### 1ª Fase\n\n"
         for (y <- contest1.get(year); x <- y) {
           s = s + line(x) +"\n"
         }
+      }
+
+      s = s + s"\n\n### 2ª Fase\n\n"
+      for (y <- contest2.get(year); x <- y) {
+        s = s + line(x) +"\n"
       }
     }
     save(file, title, s)
@@ -89,7 +91,8 @@ object Build extends App {
       case p =>
         s"  - [ ] [${p.number}](${prefix}/${p.number}) - ${p.name}"
     }.sorted
-    save(s"../categorias/${clean(d)}.md", s"${d} (${count} / ${bd.length})", f.mkString("\n"))
+    val g = f.mkString("\n").replaceFirst("  \\- \\[x\\]", "## Problemas resolvidos\n  - [x]").replaceFirst("  \\- \\[ \\]", "## Problemas não resolvidos\n  - [ ]")
+    save(s"../categorias/${clean(d)}.md", s"${d} (${count} / ${bd.length})", g)
   }
 
   def getContest(s: String) = io.Source.fromFile(s).getLines.toList.map {

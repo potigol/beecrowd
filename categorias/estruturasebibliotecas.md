@@ -1,5 +1,6 @@
 # Estruturas e Bibliotecas (2 / 147)
 
+## Problemas não resolvidos
   - [ ] [1025](https://www.urionlinejudge.com.br/judge/pt/problems/view/1025) - Onde está o Mármore?
   - [ ] [1062](https://www.urionlinejudge.com.br/judge/pt/problems/view/1062) - Trilhos
   - [ ] [1063](https://www.urionlinejudge.com.br/judge/pt/problems/view/1063) - Trilhos Novamente... Traçando Movimentos
@@ -145,5 +146,6 @@
   - [ ] [2958](https://www.urionlinejudge.com.br/judge/pt/problems/view/2958) - O Rolê Bad Vibes
   - [ ] [2961](https://www.urionlinejudge.com.br/judge/pt/problems/view/2961) - Ô, Que Tanto de Filme!
   - [ ] [2984](https://www.urionlinejudge.com.br/judge/pt/problems/view/2984) - Assuntos Pendentes
+## Problemas resolvidos
   - [x] [1022](https://www.urionlinejudge.com.br/judge/pt/problems/view/1022) - [TDA Racional](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1022.poti)
   - [x] [2729](https://www.urionlinejudge.com.br/judge/pt/problems/view/2729) - [Lista de Compras](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2729.poti)

@@ -1,5 +1,6 @@
 # SQL (0 / 48)
 
+## Problemas não resolvidos
   - [ ] [2602](https://www.urionlinejudge.com.br/judge/pt/problems/view/2602) - Select Básico
   - [ ] [2603](https://www.urionlinejudge.com.br/judge/pt/problems/view/2603) - Endereço dos Clientes
   - [ ] [2604](https://www.urionlinejudge.com.br/judge/pt/problems/view/2604) - Menores que 10 ou Maiores que 100

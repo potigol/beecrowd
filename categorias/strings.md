@@ -1,5 +1,6 @@
 # Strings (16 / 128)
 
+## Problemas não resolvidos
   - [ ] [1120](https://www.urionlinejudge.com.br/judge/pt/problems/view/1120) - Revisão de Contrato
   - [ ] [1141](https://www.urionlinejudge.com.br/judge/pt/problems/view/1141) - Cultivando Strings
   - [ ] [1222](https://www.urionlinejudge.com.br/judge/pt/problems/view/1222) - Concurso de Contos
@@ -112,6 +113,7 @@
   - [ ] [2974](https://www.urionlinejudge.com.br/judge/pt/problems/view/2974) - Fechadura
   - [ ] [2975](https://www.urionlinejudge.com.br/judge/pt/problems/view/2975) - Anel
   - [ ] [3038](https://www.urionlinejudge.com.br/judge/pt/problems/view/3038) - Carta de Natal Criptografada
+## Problemas resolvidos
   - [x] [1024](https://www.urionlinejudge.com.br/judge/pt/problems/view/1024) - [Criptografia](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1024.poti)
   - [x] [1168](https://www.urionlinejudge.com.br/judge/pt/problems/view/1168) - [LED](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1168.poti)
   - [x] [1238](https://www.urionlinejudge.com.br/judge/pt/problems/view/1238) - [Combinador](https://github.com/potigol/URI-Potigol/blob/master/src/1201-1300/1238.poti)
