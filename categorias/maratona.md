@@ -374,7 +374,7 @@
 
   - [ ] [1376](https://www.urionlinejudge.com.br/judge/pt/problems/view/1376) - Irmãos *Matemática*
   - [ ] [1377](https://www.urionlinejudge.com.br/judge/pt/problems/view/1377) - Recuperador de Arquivos *Strings*
-  - [ ] [1378](https://www.urionlinejudge.com.br/judge/pt/problems/view/1378) - Triângulos Isósceles *Ad-Hoc*
+  - [ ] [1378](https://www.urionlinejudge.com.br/judge/pt/problems/view/1378) - Triângulos Isósceles *Geometria Computacional*
   - [ ] [1392](https://www.urionlinejudge.com.br/judge/pt/problems/view/1392) - Conta de Luz *Matemática*
   - [ ] [1393](https://www.urionlinejudge.com.br/judge/pt/problems/view/1393) - Lajotas Hexagonais *Matemática*
   - [ ] [1394](https://www.urionlinejudge.com.br/judge/pt/problems/view/1394) - Hooligan *Grafos*

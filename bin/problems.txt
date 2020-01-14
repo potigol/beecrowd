@@ -374,7 +374,7 @@
 1375	Painel de Posições	Ad-Hoc
 1376	Irmãos	Matemática
 1377	Recuperador de Arquivos	Strings
-1378	Triângulos Isósceles	Ad-Hoc
+1378	Triângulos Isósceles	Geometria Computacional
 1379	Problema com Mediana e Média	Ad-Hoc
 1380	Crescimento das Populações de Bacilos	Matemática
 1381	Equações Diofantinas	Matemática
@@ -581,7 +581,7 @@
 1582	O Teorema de Pitágoras	Matemática
 1583	Contaminação	Ad-Hoc
 1584	Espertofone	Grafos
-1585	Fazendo Pandorgas	Ad-Hoc
+1585	Fazendo Pandorgas	Matemática
 1586	Cabo de Guerra	Strings
 1587	BIT Park	Estruturas e Bibliotecas
 1588	Ajude a Federação	Ad-Hoc
@@ -902,7 +902,7 @@
 1903	Cadeia Alimentar	Grafos
 1904	Par ou Ímpar 2.0	Matemática
 1905	Polícia e Ladrão	Paradigmas
-1906	Senhas de Collatz	Ad-Hoc
+1906	Senhas de Collatz	Grafos
 1907	Coloração de Cenários de Jogos	Grafos
 1908	UFFS Multicampi	Grafos
 1909	Ajude Kiko	Matemática
@@ -943,7 +943,7 @@
 1944	BRINDE FACE 2015	Estruturas e Bibliotecas
 1945	Simulador	Ad-Hoc
 1946	Pirâmide da Sorte	Matemática
-1947	Rota do Taxista	Ad-Hoc
+1947	Rota do Taxista	Grafos
 1948	Compilador	Grafos
 1949	Registrador de Deslocamento	Matemática
 1950	Spöhndriger	Grafos
@@ -971,13 +971,13 @@
 1972	Nêmesis	Grafos
 1973	Jornada nas Estrelas	Iniciante
 1974	Além da Escuridão	Grafos
-1975	Pérolas	Ad-Hoc
+1975	Pérolas	Estruturas e Bibliotecas
 1976	Matrizes	Paradigmas
 1977	Não Posso me Atrasar	Grafos
 1978	Câmeras	Paradigmas
 1979	Salas Separadas	Grafos
 1980	Embaralhando	Ad-Hoc
-1981	Embaralhando de Novo	Ad-Hoc
+1981	Embaralhando de Novo	Matemática
 1982	Novos Computadores	Geometria Computacional
 1983	O Escolhido	Iniciante
 1984	O Enigma do Pronalândia	Iniciante
@@ -1324,13 +1324,13 @@
 2335	O Desafio de Arquibaldo	Matemática
 2336	ABC	Strings
 2337	Pro Habilidade	Matemática
-2338	Morse	Iniciante
+2338	Morse	Estruturas e Bibliotecas
 2339	Aviões de Papel	Ad-Hoc
 2340	Feira de Bactérias	Ad-Hoc
 2341	Número de Envelopes	Ad-Hoc
 2342	Overflow	Ad-Hoc
 2343	Caçadores de Mitos	Ad-Hoc
-2344	Notas da Prova	Ad-Hoc
+2344	Notas da Prova	Iniciante
 2345	Assigning Teams	Ad-Hoc
 2346	Back to the Future	Ad-Hoc
 2347	Counting Self-Rotating Subsets	Ad-Hoc
@@ -1412,7 +1412,7 @@
 2423	Receita de Bolo	Ad-Hoc
 2424	Tira-teima	Ad-Hoc
 2425	Banco	Ad-Hoc
-2426	Bomba	Ad-Hoc
+2426	Bomba	Grafos
 2427	Chocolate	Ad-Hoc
 2428	Capital	Ad-Hoc
 2429	Rodovia	Grafos
@@ -1525,7 +1525,7 @@
 2536	FHBZMIPS	Ad-Hoc
 2537	GigaDrive	Estruturas e Bibliotecas
 2538	Ginásio	Estruturas e Bibliotecas
-2539	High Five	Ad-Hoc
+2539	High Five	Estruturas e Bibliotecas
 2540	Impeachment do Líder	Iniciante
 2541	Ingrest	Geometria Computacional
 2542	Iu-Di-Oh!	Iniciante
@@ -1675,7 +1675,7 @@
 2690	Nova Senha RA	Strings
 2691	O Matemático	Strings
 2692	Teclado Zoeiro	Strings
-2693	Van	Ad-Hoc
+2693	Van	Estruturas e Bibliotecas
 2694	Problema com a Calculadora	Strings
 2695	Arrumando Lajotas	Geometria Computacional
 2697	Sequencia Completa de Naebbirac	Strings
@@ -1917,11 +1917,11 @@
 2934	Noel e Suas Renas	Paradigmas
 2935	DNA Élfico	Ad-Hoc
 2936	Quanta Mandioca?	Iniciante
-2937	Cobra Norato	Ad-Hoc
+2937	Cobra Norato	Matemática
 2938	Jaçanã	Ad-Hoc
-2939	Casais	Ad-Hoc
+2939	Casais	Matemática
 2940	Máquina do Tempo Quebrada	Ad-Hoc
-2941	Fibra Ótica	Ad-Hoc
+2941	Fibra Ótica	Grafos
 2942	Mistura de Bits	Ad-Hoc
 2943	Smider Pan	Ad-Hoc
 2944	Emergência em Manaus	Ad-Hoc
@@ -1945,7 +1945,7 @@
 2962	Arte Valiosa	Grafos
 2963	Bobo da Corte	Iniciante
 2964	Cruzamento Perigoso	Ad-Hoc
-2965	Delaçao Premiada	Ad-Hoc
+2965	Delaçao Premiada	Grafos
 2966	Exibição de Peixes	Ad-Hoc
 2967	Florestas em Risco	Ad-Hoc
 2968	Hora da Corrida	Iniciante

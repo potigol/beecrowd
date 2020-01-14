@@ -1,4 +1,4 @@
-# Ad-Hoc (58 / 704)
+# Ad-Hoc (58 / 700)
 
 ## Problemas não resolvidos
   - [ ] [1026](https://www.urionlinejudge.com.br/judge/pt/problems/view/1026) - Carrega ou não Carrega?
@@ -65,7 +65,6 @@
   - [ ] [1369](https://www.urionlinejudge.com.br/judge/pt/problems/view/1369) - Gerente de Espaço
   - [ ] [1374](https://www.urionlinejudge.com.br/judge/pt/problems/view/1374) - Eletricidade
   - [ ] [1375](https://www.urionlinejudge.com.br/judge/pt/problems/view/1375) - Painel de Posições
-  - [ ] [1378](https://www.urionlinejudge.com.br/judge/pt/problems/view/1378) - Triângulos Isósceles
   - [ ] [1397](https://www.urionlinejudge.com.br/judge/pt/problems/view/1397) - Jogo do Maior
   - [ ] [1403](https://www.urionlinejudge.com.br/judge/pt/problems/view/1403) - Meu Avô é Famoso
   - [ ] [1404](https://www.urionlinejudge.com.br/judge/pt/problems/view/1404) - MegaDamas
@@ -227,7 +226,6 @@
   - [ ] [1964](https://www.urionlinejudge.com.br/judge/pt/problems/view/1964) - A Ira de Khan
   - [ ] [1965](https://www.urionlinejudge.com.br/judge/pt/problems/view/1965) - A Procura por Spock
   - [ ] [1966](https://www.urionlinejudge.com.br/judge/pt/problems/view/1966) - A Volta para Casa
-  - [ ] [1975](https://www.urionlinejudge.com.br/judge/pt/problems/view/1975) - Pérolas
   - [ ] [1980](https://www.urionlinejudge.com.br/judge/pt/problems/view/1980) - Embaralhando
   - [ ] [1981](https://www.urionlinejudge.com.br/judge/pt/problems/view/1981) - Embaralhando de Novo
   - [ ] [1986](https://www.urionlinejudge.com.br/judge/pt/problems/view/1986) - Perdido em Marte
@@ -477,7 +475,6 @@
   - [ ] [2515](https://www.urionlinejudge.com.br/judge/pt/problems/view/2515) - Bolacha
   - [ ] [2530](https://www.urionlinejudge.com.br/judge/pt/problems/view/2530) - Cola
   - [ ] [2536](https://www.urionlinejudge.com.br/judge/pt/problems/view/2536) - FHBZMIPS
-  - [ ] [2539](https://www.urionlinejudge.com.br/judge/pt/problems/view/2539) - High Five
   - [ ] [2548](https://www.urionlinejudge.com.br/judge/pt/problems/view/2548) - Museu Virtual 3D
   - [ ] [2556](https://www.urionlinejudge.com.br/judge/pt/problems/view/2556) - Reinauguração do CEI
   - [ ] [2564](https://www.urionlinejudge.com.br/judge/pt/problems/view/2564) - Troca ou Não Troca
@@ -521,7 +518,6 @@
   - [ ] [2682](https://www.urionlinejudge.com.br/judge/pt/problems/view/2682) - Detector de Falhas
   - [ ] [2684](https://www.urionlinejudge.com.br/judge/pt/problems/view/2684) - Ajude o Professor Webscript!!
   - [ ] [2689](https://www.urionlinejudge.com.br/judge/pt/problems/view/2689) - Jogo do Mião
-  - [ ] [2693](https://www.urionlinejudge.com.br/judge/pt/problems/view/2693) - Van
   - [ ] [2701](https://www.urionlinejudge.com.br/judge/pt/problems/view/2701) - Portas da Incerteza
   - [ ] [2704](https://www.urionlinejudge.com.br/judge/pt/problems/view/2704) - Sapo Saltador
   - [ ] [2705](https://www.urionlinejudge.com.br/judge/pt/problems/view/2705) - Mantenha Coberto

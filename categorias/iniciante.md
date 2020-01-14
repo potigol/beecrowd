@@ -1,4 +1,4 @@
-# Iniciante (214 / 292)
+# Iniciante (214 / 291)
 
 ## Problemas não resolvidos
   - [ ] [1827](https://www.urionlinejudge.com.br/judge/pt/problems/view/1827) - Matriz Quadrada IV
@@ -23,7 +23,6 @@
   - [ ] [2310](https://www.urionlinejudge.com.br/judge/pt/problems/view/2310) - Voleibol
   - [ ] [2313](https://www.urionlinejudge.com.br/judge/pt/problems/view/2313) - Qual Triângulo
   - [ ] [2334](https://www.urionlinejudge.com.br/judge/pt/problems/view/2334) - Patinhos
-  - [ ] [2338](https://www.urionlinejudge.com.br/judge/pt/problems/view/2338) - Morse
   - [ ] [2493](https://www.urionlinejudge.com.br/judge/pt/problems/view/2493) - Jogo do Operador
   - [ ] [2502](https://www.urionlinejudge.com.br/judge/pt/problems/view/2502) - Decifrando a Carta Criptografada
   - [ ] [2510](https://www.urionlinejudge.com.br/judge/pt/problems/view/2510) - Batmain

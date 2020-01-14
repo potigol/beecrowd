@@ -1,4 +1,4 @@
-# Estruturas e Bibliotecas (2 / 147)
+# Estruturas e Bibliotecas (2 / 151)
 
 ## Problemas não resolvidos
   - [ ] [1025](https://www.urionlinejudge.com.br/judge/pt/problems/view/1025) - Onde está o Mármore?
@@ -81,6 +81,7 @@
   - [ ] [1897](https://www.urionlinejudge.com.br/judge/pt/problems/view/1897) - Jogo Esperto
   - [ ] [1911](https://www.urionlinejudge.com.br/judge/pt/problems/view/1911) - Ajude Girafales
   - [ ] [1944](https://www.urionlinejudge.com.br/judge/pt/problems/view/1944) - BRINDE FACE 2015
+  - [ ] [1975](https://www.urionlinejudge.com.br/judge/pt/problems/view/1975) - Pérolas
   - [ ] [2018](https://www.urionlinejudge.com.br/judge/pt/problems/view/2018) - Olimpíadas de Natal
   - [ ] [2020](https://www.urionlinejudge.com.br/judge/pt/problems/view/2020) - Elfos e seus Códigos
   - [ ] [2022](https://www.urionlinejudge.com.br/judge/pt/problems/view/2022) - Presentes de Natal
@@ -106,6 +107,7 @@
   - [ ] [2240](https://www.urionlinejudge.com.br/judge/pt/problems/view/2240) - Fundindo Árvores
   - [ ] [2241](https://www.urionlinejudge.com.br/judge/pt/problems/view/2241) - Go--
   - [ ] [2290](https://www.urionlinejudge.com.br/judge/pt/problems/view/2290) - Números Apaixornados
+  - [ ] [2338](https://www.urionlinejudge.com.br/judge/pt/problems/view/2338) - Morse
   - [ ] [2482](https://www.urionlinejudge.com.br/judge/pt/problems/view/2482) - Etiquetas de Noel
   - [ ] [2488](https://www.urionlinejudge.com.br/judge/pt/problems/view/2488) - É Na Batida do Cavalo!
   - [ ] [2492](https://www.urionlinejudge.com.br/judge/pt/problems/view/2492) - Ilhas Isoladas
@@ -118,6 +120,7 @@
   - [ ] [2531](https://www.urionlinejudge.com.br/judge/pt/problems/view/2531) - Compras em FdI
   - [ ] [2537](https://www.urionlinejudge.com.br/judge/pt/problems/view/2537) - GigaDrive
   - [ ] [2538](https://www.urionlinejudge.com.br/judge/pt/problems/view/2538) - Ginásio
+  - [ ] [2539](https://www.urionlinejudge.com.br/judge/pt/problems/view/2539) - High Five
   - [ ] [2546](https://www.urionlinejudge.com.br/judge/pt/problems/view/2546) - Mesada
   - [ ] [2559](https://www.urionlinejudge.com.br/judge/pt/problems/view/2559) - Sexta-Feira 13
   - [ ] [2560](https://www.urionlinejudge.com.br/judge/pt/problems/view/2560) - Surf Aquático
@@ -128,6 +131,7 @@
   - [ ] [2656](https://www.urionlinejudge.com.br/judge/pt/problems/view/2656) - Rhombus
   - [ ] [2658](https://www.urionlinejudge.com.br/judge/pt/problems/view/2658) - Acordes Intergaláticos
   - [ ] [2671](https://www.urionlinejudge.com.br/judge/pt/problems/view/2671) - Decodificando o Texto
+  - [ ] [2693](https://www.urionlinejudge.com.br/judge/pt/problems/view/2693) - Van
   - [ ] [2720](https://www.urionlinejudge.com.br/judge/pt/problems/view/2720) - Presentes Grandes
   - [ ] [2734](https://www.urionlinejudge.com.br/judge/pt/problems/view/2734) - Trocando Presentes
   - [ ] [2800](https://www.urionlinejudge.com.br/judge/pt/problems/view/2800) - Brincando de Consultas

@@ -37,7 +37,7 @@
   - [ ] [2335](https://www.urionlinejudge.com.br/judge/pt/problems/view/2335) - O Desafio de Arquibaldo *Matemática*
   - [ ] [2336](https://www.urionlinejudge.com.br/judge/pt/problems/view/2336) - ABC *Strings*
   - [ ] [2337](https://www.urionlinejudge.com.br/judge/pt/problems/view/2337) - Pro Habilidade *Matemática*
-  - [ ] [2338](https://www.urionlinejudge.com.br/judge/pt/problems/view/2338) - Morse *Iniciante*
+  - [ ] [2338](https://www.urionlinejudge.com.br/judge/pt/problems/view/2338) - Morse *Estruturas e Bibliotecas*
   - [x] [2339](https://www.urionlinejudge.com.br/judge/pt/problems/view/2339) - [Aviões de Papel](https://github.com/potigol/URI-Potigol/blob/master/src/2301-2400/2339.poti) *Ad-Hoc*
   - [ ] [2340](https://www.urionlinejudge.com.br/judge/pt/problems/view/2340) - Feira de Bactérias *Ad-Hoc*
   - [ ] [2341](https://www.urionlinejudge.com.br/judge/pt/problems/view/2341) - Número de Envelopes *Ad-Hoc*

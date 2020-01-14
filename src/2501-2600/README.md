@@ -38,7 +38,7 @@
   - [ ] [2536](https://www.urionlinejudge.com.br/judge/pt/problems/view/2536) - FHBZMIPS *Ad-Hoc*
   - [ ] [2537](https://www.urionlinejudge.com.br/judge/pt/problems/view/2537) - GigaDrive *Estruturas e Bibliotecas*
   - [ ] [2538](https://www.urionlinejudge.com.br/judge/pt/problems/view/2538) - Ginásio *Estruturas e Bibliotecas*
-  - [ ] [2539](https://www.urionlinejudge.com.br/judge/pt/problems/view/2539) - High Five *Ad-Hoc*
+  - [ ] [2539](https://www.urionlinejudge.com.br/judge/pt/problems/view/2539) - High Five *Estruturas e Bibliotecas*
   - [ ] [2540](https://www.urionlinejudge.com.br/judge/pt/problems/view/2540) - Impeachment do Líder *Iniciante*
   - [ ] [2541](https://www.urionlinejudge.com.br/judge/pt/problems/view/2541) - Ingrest *Geometria Computacional*
   - [ ] [2542](https://www.urionlinejudge.com.br/judge/pt/problems/view/2542) - Iu-Di-Oh! *Iniciante*

@@ -77,7 +77,7 @@
   - [ ] [1375](https://www.urionlinejudge.com.br/judge/pt/problems/view/1375) - Painel de Posições *Ad-Hoc*
   - [ ] [1376](https://www.urionlinejudge.com.br/judge/pt/problems/view/1376) - Irmãos *Matemática*
   - [ ] [1377](https://www.urionlinejudge.com.br/judge/pt/problems/view/1377) - Recuperador de Arquivos *Strings*
-  - [ ] [1378](https://www.urionlinejudge.com.br/judge/pt/problems/view/1378) - Triângulos Isósceles *Ad-Hoc*
+  - [ ] [1378](https://www.urionlinejudge.com.br/judge/pt/problems/view/1378) - Triângulos Isósceles *Geometria Computacional*
   - [x] [1379](https://www.urionlinejudge.com.br/judge/pt/problems/view/1379) - [Problema com Mediana e Média](https://github.com/potigol/URI-Potigol/blob/master/src/1301-1400/1379.poti) *Ad-Hoc*
   - [ ] [1380](https://www.urionlinejudge.com.br/judge/pt/problems/view/1380) - Crescimento das Populações de Bacilos *Matemática*
   - [ ] [1381](https://www.urionlinejudge.com.br/judge/pt/problems/view/1381) - Equações Diofantinas *Matemática*

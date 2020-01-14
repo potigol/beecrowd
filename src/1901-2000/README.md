@@ -74,7 +74,7 @@
   - [ ] [1972](https://www.urionlinejudge.com.br/judge/pt/problems/view/1972) - Nêmesis *Grafos*
   - [ ] [1973](https://www.urionlinejudge.com.br/judge/pt/problems/view/1973) - Jornada nas Estrelas *Iniciante*
   - [ ] [1974](https://www.urionlinejudge.com.br/judge/pt/problems/view/1974) - Além da Escuridão *Grafos*
-  - [ ] [1975](https://www.urionlinejudge.com.br/judge/pt/problems/view/1975) - Pérolas *Ad-Hoc*
+  - [ ] [1975](https://www.urionlinejudge.com.br/judge/pt/problems/view/1975) - Pérolas *Estruturas e Bibliotecas*
   - [ ] [1976](https://www.urionlinejudge.com.br/judge/pt/problems/view/1976) - Matrizes *Paradigmas*
   - [ ] [1977](https://www.urionlinejudge.com.br/judge/pt/problems/view/1977) - Não Posso me Atrasar *Grafos*
   - [ ] [1978](https://www.urionlinejudge.com.br/judge/pt/problems/view/1978) - Câmeras *Paradigmas*

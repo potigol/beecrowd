@@ -1,4 +1,4 @@
-# Geometria Computacional (0 / 72)
+# Geometria Computacional (0 / 73)
 
 ## Problemas não resolvidos
   - [ ] [1039](https://www.urionlinejudge.com.br/judge/pt/problems/view/1039) - Flores de Fogo
@@ -21,6 +21,7 @@
   - [ ] [1345](https://www.urionlinejudge.com.br/judge/pt/problems/view/1345) - Região Segura
   - [ ] [1358](https://www.urionlinejudge.com.br/judge/pt/problems/view/1358) - Cortando Extremidades
   - [ ] [1370](https://www.urionlinejudge.com.br/judge/pt/problems/view/1370) - Regata de Cientistas
+  - [ ] [1378](https://www.urionlinejudge.com.br/judge/pt/problems/view/1378) - Triângulos Isósceles
   - [ ] [1411](https://www.urionlinejudge.com.br/judge/pt/problems/view/1411) - Encolhendo Polígonos
   - [ ] [1446](https://www.urionlinejudge.com.br/judge/pt/problems/view/1446) - Diagrama de Venn?
   - [ ] [1455](https://www.urionlinejudge.com.br/judge/pt/problems/view/1455) - Final do ICPC
