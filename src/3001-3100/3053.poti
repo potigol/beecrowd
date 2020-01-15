@@ -1,0 +1,18 @@
+n = leia_inteiro
+z = leia_texto
+
+var a, b, c := z == "A", z == "B", z == "C"
+
+para i de 1 ate n faça
+  x = leia_inteiro
+  escolha x
+    caso 1 => a, b := b, a
+    caso 2 => b, c := c, b
+    caso _ => a, c := c, a
+  fim
+fim
+
+se      a então escreva "A"
+senãose b então escreva "B"
+senão           escreva "C"
+fim

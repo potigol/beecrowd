@@ -1,4 +1,4 @@
-# Grafos (0 / 227)
+# Grafos (0 / 232)
 
 ## Problemas não resolvidos
   - [ ] [1053](https://www.urionlinejudge.com.br/judge/pt/problems/view/1053) - Desenho Contínuo
@@ -122,6 +122,7 @@
   - [ ] [1894](https://www.urionlinejudge.com.br/judge/pt/problems/view/1894) - Filogenia
   - [ ] [1902](https://www.urionlinejudge.com.br/judge/pt/problems/view/1902) - Sociedade Brasileira Casamenteira
   - [ ] [1903](https://www.urionlinejudge.com.br/judge/pt/problems/view/1903) - Cadeia Alimentar
+  - [ ] [1906](https://www.urionlinejudge.com.br/judge/pt/problems/view/1906) - Senhas de Collatz
   - [ ] [1907](https://www.urionlinejudge.com.br/judge/pt/problems/view/1907) - Coloração de Cenários de Jogos
   - [ ] [1908](https://www.urionlinejudge.com.br/judge/pt/problems/view/1908) - UFFS Multicampi
   - [ ] [1910](https://www.urionlinejudge.com.br/judge/pt/problems/view/1910) - Ajude Clotilde
@@ -130,6 +131,7 @@
   - [ ] [1925](https://www.urionlinejudge.com.br/judge/pt/problems/view/1925) - Ordan e as Novinhas
   - [ ] [1928](https://www.urionlinejudge.com.br/judge/pt/problems/view/1928) - Jogo da Memória
   - [ ] [1931](https://www.urionlinejudge.com.br/judge/pt/problems/view/1931) - Mania de Par
+  - [ ] [1947](https://www.urionlinejudge.com.br/judge/pt/problems/view/1947) - Rota do Taxista
   - [ ] [1948](https://www.urionlinejudge.com.br/judge/pt/problems/view/1948) - Compilador
   - [ ] [1950](https://www.urionlinejudge.com.br/judge/pt/problems/view/1950) - Spöhndriger
   - [ ] [1951](https://www.urionlinejudge.com.br/judge/pt/problems/view/1951) - Validador de Circuitos
@@ -179,6 +181,7 @@
   - [ ] [2359](https://www.urionlinejudge.com.br/judge/pt/problems/view/2359) - Alocando Ambulâncias
   - [ ] [2404](https://www.urionlinejudge.com.br/judge/pt/problems/view/2404) - Reduzindo Detalhes em um Mapa
   - [ ] [2419](https://www.urionlinejudge.com.br/judge/pt/problems/view/2419) - Costa
+  - [ ] [2426](https://www.urionlinejudge.com.br/judge/pt/problems/view/2426) - Bomba
   - [ ] [2429](https://www.urionlinejudge.com.br/judge/pt/problems/view/2429) - Rodovia
   - [ ] [2440](https://www.urionlinejudge.com.br/judge/pt/problems/view/2440) - Famílias de Troia
   - [ ] [2476](https://www.urionlinejudge.com.br/judge/pt/problems/view/2476) - Entregas do Noel
@@ -219,8 +222,10 @@
   - [ ] [2887](https://www.urionlinejudge.com.br/judge/pt/problems/view/2887) - Linhas de Metrô
   - [ ] [2894](https://www.urionlinejudge.com.br/judge/pt/problems/view/2894) - Vírus
   - [ ] [2933](https://www.urionlinejudge.com.br/judge/pt/problems/view/2933) - Passeio de Trenó pela Terra
+  - [ ] [2941](https://www.urionlinejudge.com.br/judge/pt/problems/view/2941) - Fibra Ótica
   - [ ] [2959](https://www.urionlinejudge.com.br/judge/pt/problems/view/2959) - Credo com ParaTudo!
   - [ ] [2962](https://www.urionlinejudge.com.br/judge/pt/problems/view/2962) - Arte Valiosa
+  - [ ] [2965](https://www.urionlinejudge.com.br/judge/pt/problems/view/2965) - Delaçao Premiada
   - [ ] [2969](https://www.urionlinejudge.com.br/judge/pt/problems/view/2969) - Interplanetário
   - [ ] [2977](https://www.urionlinejudge.com.br/judge/pt/problems/view/2977) - Romeu e Julieta
   - [ ] [2980](https://www.urionlinejudge.com.br/judge/pt/problems/view/2980) - Jogo da Árvore

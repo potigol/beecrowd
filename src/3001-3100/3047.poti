@@ -1,0 +1,3 @@
+m, a, b = leia_inteiro
+c = m - (a + b)
+escreva [a, b, c].ordene.último

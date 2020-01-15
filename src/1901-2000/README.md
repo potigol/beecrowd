@@ -5,7 +5,7 @@
   - [ ] [1903](https://www.urionlinejudge.com.br/judge/pt/problems/view/1903) - Cadeia Alimentar *Grafos*
   - [ ] [1904](https://www.urionlinejudge.com.br/judge/pt/problems/view/1904) - Par ou Ímpar 2.0 *Matemática*
   - [ ] [1905](https://www.urionlinejudge.com.br/judge/pt/problems/view/1905) - Polícia e Ladrão *Paradigmas*
-  - [ ] [1906](https://www.urionlinejudge.com.br/judge/pt/problems/view/1906) - Senhas de Collatz *Ad-Hoc*
+  - [ ] [1906](https://www.urionlinejudge.com.br/judge/pt/problems/view/1906) - Senhas de Collatz *Grafos*
   - [ ] [1907](https://www.urionlinejudge.com.br/judge/pt/problems/view/1907) - Coloração de Cenários de Jogos *Grafos*
   - [ ] [1908](https://www.urionlinejudge.com.br/judge/pt/problems/view/1908) - UFFS Multicampi *Grafos*
   - [ ] [1909](https://www.urionlinejudge.com.br/judge/pt/problems/view/1909) - Ajude Kiko *Matemática*
@@ -46,7 +46,7 @@
   - [ ] [1944](https://www.urionlinejudge.com.br/judge/pt/problems/view/1944) - BRINDE FACE 2015 *Estruturas e Bibliotecas*
   - [ ] [1945](https://www.urionlinejudge.com.br/judge/pt/problems/view/1945) - Simulador *Ad-Hoc*
   - [ ] [1946](https://www.urionlinejudge.com.br/judge/pt/problems/view/1946) - Pirâmide da Sorte *Matemática*
-  - [ ] [1947](https://www.urionlinejudge.com.br/judge/pt/problems/view/1947) - Rota do Taxista *Ad-Hoc*
+  - [ ] [1947](https://www.urionlinejudge.com.br/judge/pt/problems/view/1947) - Rota do Taxista *Grafos*
   - [ ] [1948](https://www.urionlinejudge.com.br/judge/pt/problems/view/1948) - Compilador *Grafos*
   - [ ] [1949](https://www.urionlinejudge.com.br/judge/pt/problems/view/1949) - Registrador de Deslocamento *Matemática*
   - [ ] [1950](https://www.urionlinejudge.com.br/judge/pt/problems/view/1950) - Spöhndriger *Grafos*
@@ -80,7 +80,7 @@
   - [ ] [1978](https://www.urionlinejudge.com.br/judge/pt/problems/view/1978) - Câmeras *Paradigmas*
   - [ ] [1979](https://www.urionlinejudge.com.br/judge/pt/problems/view/1979) - Salas Separadas *Grafos*
   - [ ] [1980](https://www.urionlinejudge.com.br/judge/pt/problems/view/1980) - Embaralhando *Ad-Hoc*
-  - [ ] [1981](https://www.urionlinejudge.com.br/judge/pt/problems/view/1981) - Embaralhando de Novo *Ad-Hoc*
+  - [ ] [1981](https://www.urionlinejudge.com.br/judge/pt/problems/view/1981) - Embaralhando de Novo *Matemática*
   - [ ] [1982](https://www.urionlinejudge.com.br/judge/pt/problems/view/1982) - Novos Computadores *Geometria Computacional*
   - [x] [1983](https://www.urionlinejudge.com.br/judge/pt/problems/view/1983) - [O Escolhido](https://github.com/potigol/URI-Potigol/blob/master/src/1901-2000/1983.poti) *Iniciante*
   - [x] [1984](https://www.urionlinejudge.com.br/judge/pt/problems/view/1984) - [O Enigma do Pronalândia](https://github.com/potigol/URI-Potigol/blob/master/src/1901-2000/1984.poti) *Iniciante*

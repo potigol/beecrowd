@@ -1,4 +1,4 @@
-# Matemática (12 / 231)
+# Matemática (13 / 235)
 
 ## Problemas não resolvidos
   - [ ] [1093](https://www.urionlinejudge.com.br/judge/pt/problems/view/1093) - Vampiros
@@ -77,6 +77,7 @@
   - [ ] [1577](https://www.urionlinejudge.com.br/judge/pt/problems/view/1577) - Polígonos Regulares Construtíveis
   - [ ] [1580](https://www.urionlinejudge.com.br/judge/pt/problems/view/1580) - Quid Est Veritas? Est Vir Qui Adest!
   - [ ] [1582](https://www.urionlinejudge.com.br/judge/pt/problems/view/1582) - O Teorema de Pitágoras
+  - [ ] [1585](https://www.urionlinejudge.com.br/judge/pt/problems/view/1585) - Fazendo Pandorgas
   - [ ] [1620](https://www.urionlinejudge.com.br/judge/pt/problems/view/1620) - Triangulação de Delaunay
   - [ ] [1623](https://www.urionlinejudge.com.br/judge/pt/problems/view/1623) - Linguagem
   - [ ] [1624](https://www.urionlinejudge.com.br/judge/pt/problems/view/1624) - Promoção
@@ -131,6 +132,7 @@
   - [ ] [1967](https://www.urionlinejudge.com.br/judge/pt/problems/view/1967) - A Fronteira Final
   - [ ] [1968](https://www.urionlinejudge.com.br/judge/pt/problems/view/1968) - A Terra Desconhecida
   - [ ] [1969](https://www.urionlinejudge.com.br/judge/pt/problems/view/1969) - Generations
+  - [ ] [1981](https://www.urionlinejudge.com.br/judge/pt/problems/view/1981) - Embaralhando de Novo
   - [ ] [1989](https://www.urionlinejudge.com.br/judge/pt/problems/view/1989) - Fazendo Nada
   - [ ] [1990](https://www.urionlinejudge.com.br/judge/pt/problems/view/1990) - Equilíbrio
   - [ ] [1992](https://www.urionlinejudge.com.br/judge/pt/problems/view/1992) - Ganhando Tempo
@@ -206,6 +208,7 @@
   - [ ] [2886](https://www.urionlinejudge.com.br/judge/pt/problems/view/2886) - Kepler
   - [ ] [2890](https://www.urionlinejudge.com.br/judge/pt/problems/view/2890) - Colorindo Tetraedros
   - [ ] [2892](https://www.urionlinejudge.com.br/judge/pt/problems/view/2892) - Treino No Velódromo
+  - [ ] [2937](https://www.urionlinejudge.com.br/judge/pt/problems/view/2937) - Cobra Norato
   - [ ] [2953](https://www.urionlinejudge.com.br/judge/pt/problems/view/2953) - Mais um Joguinho
   - [ ] [2955](https://www.urionlinejudge.com.br/judge/pt/problems/view/2955) - Truuuuuco!
   - [ ] [2956](https://www.urionlinejudge.com.br/judge/pt/problems/view/2956) - Derivada de 13 Variáveis
@@ -233,3 +236,4 @@
   - [x] [2667](https://www.urionlinejudge.com.br/judge/pt/problems/view/2667) - [Jogo de Boca](https://github.com/potigol/URI-Potigol/blob/master/src/2601-2700/2667.poti)
   - [x] [2839](https://www.urionlinejudge.com.br/judge/pt/problems/view/2839) - [As Meias de Rangel](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2839.poti)
   - [x] [2869](https://www.urionlinejudge.com.br/judge/pt/problems/view/2869) - [Falando em Divisor...](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2869.poti)
+  - [x] [2939](https://www.urionlinejudge.com.br/judge/pt/problems/view/2939) - [Casais](https://github.com/potigol/URI-Potigol/blob/master/src/2901-3000/2939.poti)

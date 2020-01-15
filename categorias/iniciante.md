@@ -1,4 +1,4 @@
-# Iniciante (214 / 291)
+# Iniciante (219 / 292)
 
 ## Problemas não resolvidos
   - [ ] [1827](https://www.urionlinejudge.com.br/judge/pt/problems/view/1827) - Matriz Quadrada IV
@@ -74,10 +74,6 @@
   - [ ] [3037](https://www.urionlinejudge.com.br/judge/pt/problems/view/3037) - Jogando dardos por distância
   - [ ] [3039](https://www.urionlinejudge.com.br/judge/pt/problems/view/3039) - Brinquedos do Papai Noel
   - [ ] [3040](https://www.urionlinejudge.com.br/judge/pt/problems/view/3040) - A Árvore de Natal
-  - [ ] [3046](https://www.urionlinejudge.com.br/judge/pt/problems/view/3046) - Dominó
-  - [ ] [3047](https://www.urionlinejudge.com.br/judge/pt/problems/view/3047) - A idade de Dona Mônica
-  - [ ] [3053](https://www.urionlinejudge.com.br/judge/pt/problems/view/3053) - Jogo dos copos
-  - [ ] [3055](https://www.urionlinejudge.com.br/judge/pt/problems/view/3055) - Nota esquecida
 ## Problemas resolvidos
   - [x] [1001](https://www.urionlinejudge.com.br/judge/pt/problems/view/1001) - [Extremamente Básico](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1001.poti)
   - [x] [1002](https://www.urionlinejudge.com.br/judge/pt/problems/view/1002) - [Área do Círculo](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1002.poti)
@@ -235,6 +231,7 @@
   - [x] [2234](https://www.urionlinejudge.com.br/judge/pt/problems/view/2234) - [Cachorros-Quentes](https://github.com/potigol/URI-Potigol/blob/master/src/2201-2300/2234.poti)
   - [x] [2235](https://www.urionlinejudge.com.br/judge/pt/problems/view/2235) - [Andando no Tempo](https://github.com/potigol/URI-Potigol/blob/master/src/2201-2300/2235.poti)
   - [x] [2311](https://www.urionlinejudge.com.br/judge/pt/problems/view/2311) - [Saltos Ornamentais](https://github.com/potigol/URI-Potigol/blob/master/src/2301-2400/2311.poti)
+  - [x] [2344](https://www.urionlinejudge.com.br/judge/pt/problems/view/2344) - [Notas da Prova](https://github.com/potigol/URI-Potigol/blob/master/src/2301-2400/2344.poti)
   - [x] [2483](https://www.urionlinejudge.com.br/judge/pt/problems/view/2483) - [Feliz Nataaal!](https://github.com/potigol/URI-Potigol/blob/master/src/2401-2500/2483.poti)
   - [x] [2486](https://www.urionlinejudge.com.br/judge/pt/problems/view/2486) - [C Mais ou Menos?](https://github.com/potigol/URI-Potigol/blob/master/src/2401-2500/2486.poti)
   - [x] [2523](https://www.urionlinejudge.com.br/judge/pt/problems/view/2523) - [A Mensagem de Will](https://github.com/potigol/URI-Potigol/blob/master/src/2501-2600/2523.poti)
@@ -293,3 +290,7 @@
   - [x] [2963](https://www.urionlinejudge.com.br/judge/pt/problems/view/2963) - [Bobo da Corte](https://github.com/potigol/URI-Potigol/blob/master/src/2901-3000/2963.poti)
   - [x] [2968](https://www.urionlinejudge.com.br/judge/pt/problems/view/2968) - [Hora da Corrida](https://github.com/potigol/URI-Potigol/blob/master/src/2901-3000/2968.poti)
   - [x] [2987](https://www.urionlinejudge.com.br/judge/pt/problems/view/2987) - [Balão de Honra](https://github.com/potigol/URI-Potigol/blob/master/src/2901-3000/2987.poti)
+  - [x] [3046](https://www.urionlinejudge.com.br/judge/pt/problems/view/3046) - [Dominó](https://github.com/potigol/URI-Potigol/blob/master/src/3001-3100/3046.poti)
+  - [x] [3047](https://www.urionlinejudge.com.br/judge/pt/problems/view/3047) - [A idade de Dona Mônica](https://github.com/potigol/URI-Potigol/blob/master/src/3001-3100/3047.poti)
+  - [x] [3053](https://www.urionlinejudge.com.br/judge/pt/problems/view/3053) - [Jogo dos copos](https://github.com/potigol/URI-Potigol/blob/master/src/3001-3100/3053.poti)
+  - [x] [3055](https://www.urionlinejudge.com.br/judge/pt/problems/view/3055) - [Nota esquecida](https://github.com/potigol/URI-Potigol/blob/master/src/3001-3100/3055.poti)

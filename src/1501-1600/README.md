@@ -84,7 +84,7 @@
   - [ ] [1582](https://www.urionlinejudge.com.br/judge/pt/problems/view/1582) - O Teorema de Pitágoras *Matemática*
   - [ ] [1583](https://www.urionlinejudge.com.br/judge/pt/problems/view/1583) - Contaminação *Ad-Hoc*
   - [ ] [1584](https://www.urionlinejudge.com.br/judge/pt/problems/view/1584) - Espertofone *Grafos*
-  - [ ] [1585](https://www.urionlinejudge.com.br/judge/pt/problems/view/1585) - Fazendo Pandorgas *Ad-Hoc*
+  - [ ] [1585](https://www.urionlinejudge.com.br/judge/pt/problems/view/1585) - Fazendo Pandorgas *Matemática*
   - [ ] [1586](https://www.urionlinejudge.com.br/judge/pt/problems/view/1586) - Cabo de Guerra *Strings*
   - [ ] [1587](https://www.urionlinejudge.com.br/judge/pt/problems/view/1587) - BIT Park *Estruturas e Bibliotecas*
   - [ ] [1588](https://www.urionlinejudge.com.br/judge/pt/problems/view/1588) - Ajude a Federação *Ad-Hoc*

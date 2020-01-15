@@ -36,11 +36,11 @@
   - [ ] [2934](https://www.urionlinejudge.com.br/judge/pt/problems/view/2934) - Noel e Suas Renas *Paradigmas*
   - [ ] [2935](https://www.urionlinejudge.com.br/judge/pt/problems/view/2935) - DNA Élfico *Ad-Hoc*
   - [x] [2936](https://www.urionlinejudge.com.br/judge/pt/problems/view/2936) - [Quanta Mandioca?](https://github.com/potigol/URI-Potigol/blob/master/src/2901-3000/2936.poti) *Iniciante*
-  - [ ] [2937](https://www.urionlinejudge.com.br/judge/pt/problems/view/2937) - Cobra Norato *Ad-Hoc*
+  - [ ] [2937](https://www.urionlinejudge.com.br/judge/pt/problems/view/2937) - Cobra Norato *Matemática*
   - [ ] [2938](https://www.urionlinejudge.com.br/judge/pt/problems/view/2938) - Jaçanã *Ad-Hoc*
-  - [x] [2939](https://www.urionlinejudge.com.br/judge/pt/problems/view/2939) - [Casais](https://github.com/potigol/URI-Potigol/blob/master/src/2901-3000/2939.poti) *Ad-Hoc*
+  - [x] [2939](https://www.urionlinejudge.com.br/judge/pt/problems/view/2939) - [Casais](https://github.com/potigol/URI-Potigol/blob/master/src/2901-3000/2939.poti) *Matemática*
   - [ ] [2940](https://www.urionlinejudge.com.br/judge/pt/problems/view/2940) - Máquina do Tempo Quebrada *Ad-Hoc*
-  - [ ] [2941](https://www.urionlinejudge.com.br/judge/pt/problems/view/2941) - Fibra Ótica *Ad-Hoc*
+  - [ ] [2941](https://www.urionlinejudge.com.br/judge/pt/problems/view/2941) - Fibra Ótica *Grafos*
   - [ ] [2942](https://www.urionlinejudge.com.br/judge/pt/problems/view/2942) - Mistura de Bits *Ad-Hoc*
   - [ ] [2943](https://www.urionlinejudge.com.br/judge/pt/problems/view/2943) - Smider Pan *Ad-Hoc*
   - [ ] [2944](https://www.urionlinejudge.com.br/judge/pt/problems/view/2944) - Emergência em Manaus *Ad-Hoc*
@@ -64,7 +64,7 @@
   - [ ] [2962](https://www.urionlinejudge.com.br/judge/pt/problems/view/2962) - Arte Valiosa *Grafos*
   - [x] [2963](https://www.urionlinejudge.com.br/judge/pt/problems/view/2963) - [Bobo da Corte](https://github.com/potigol/URI-Potigol/blob/master/src/2901-3000/2963.poti) *Iniciante*
   - [ ] [2964](https://www.urionlinejudge.com.br/judge/pt/problems/view/2964) - Cruzamento Perigoso *Ad-Hoc*
-  - [ ] [2965](https://www.urionlinejudge.com.br/judge/pt/problems/view/2965) - Delaçao Premiada *Ad-Hoc*
+  - [ ] [2965](https://www.urionlinejudge.com.br/judge/pt/problems/view/2965) - Delaçao Premiada *Grafos*
   - [ ] [2966](https://www.urionlinejudge.com.br/judge/pt/problems/view/2966) - Exibição de Peixes *Ad-Hoc*
   - [ ] [2967](https://www.urionlinejudge.com.br/judge/pt/problems/view/2967) - Florestas em Risco *Ad-Hoc*
   - [x] [2968](https://www.urionlinejudge.com.br/judge/pt/problems/view/2968) - [Hora da Corrida](https://github.com/potigol/URI-Potigol/blob/master/src/2901-3000/2968.poti) *Iniciante*

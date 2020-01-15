@@ -1,4 +1,4 @@
-# Ad-Hoc (58 / 700)
+# Ad-Hoc (56 / 690)
 
 ## Problemas não resolvidos
   - [ ] [1026](https://www.urionlinejudge.com.br/judge/pt/problems/view/1026) - Carrega ou não Carrega?
@@ -118,7 +118,6 @@
   - [ ] [1576](https://www.urionlinejudge.com.br/judge/pt/problems/view/1576) - O Problema da Linha do Horizonte
   - [ ] [1578](https://www.urionlinejudge.com.br/judge/pt/problems/view/1578) - Matriz de Quadrados
   - [ ] [1583](https://www.urionlinejudge.com.br/judge/pt/problems/view/1583) - Contaminação
-  - [ ] [1585](https://www.urionlinejudge.com.br/judge/pt/problems/view/1585) - Fazendo Pandorgas
   - [ ] [1588](https://www.urionlinejudge.com.br/judge/pt/problems/view/1588) - Ajude a Federação
   - [ ] [1591](https://www.urionlinejudge.com.br/judge/pt/problems/view/1591) - Dia da Vovó
   - [ ] [1593](https://www.urionlinejudge.com.br/judge/pt/problems/view/1593) - Função Binária
@@ -207,7 +206,6 @@
   - [ ] [1896](https://www.urionlinejudge.com.br/judge/pt/problems/view/1896) - É Hora do Duelo!
   - [ ] [1899](https://www.urionlinejudge.com.br/judge/pt/problems/view/1899) - Acerte o Alvo!
   - [ ] [1901](https://www.urionlinejudge.com.br/judge/pt/problems/view/1901) - Borboletas
-  - [ ] [1906](https://www.urionlinejudge.com.br/judge/pt/problems/view/1906) - Senhas de Collatz
   - [ ] [1916](https://www.urionlinejudge.com.br/judge/pt/problems/view/1916) - Banco de Horas de Jaiminho
   - [ ] [1917](https://www.urionlinejudge.com.br/judge/pt/problems/view/1917) - Ajude o Chapolin Colorado!
   - [ ] [1918](https://www.urionlinejudge.com.br/judge/pt/problems/view/1918) - Viagem para Acapulco
@@ -221,13 +219,11 @@
   - [ ] [1940](https://www.urionlinejudge.com.br/judge/pt/problems/view/1940) - Jogo da Estratégia
   - [ ] [1942](https://www.urionlinejudge.com.br/judge/pt/problems/view/1942) - Loteria
   - [ ] [1945](https://www.urionlinejudge.com.br/judge/pt/problems/view/1945) - Simulador
-  - [ ] [1947](https://www.urionlinejudge.com.br/judge/pt/problems/view/1947) - Rota do Taxista
   - [ ] [1953](https://www.urionlinejudge.com.br/judge/pt/problems/view/1953) - Roberto e a Sala Desenfreada
   - [ ] [1964](https://www.urionlinejudge.com.br/judge/pt/problems/view/1964) - A Ira de Khan
   - [ ] [1965](https://www.urionlinejudge.com.br/judge/pt/problems/view/1965) - A Procura por Spock
   - [ ] [1966](https://www.urionlinejudge.com.br/judge/pt/problems/view/1966) - A Volta para Casa
   - [ ] [1980](https://www.urionlinejudge.com.br/judge/pt/problems/view/1980) - Embaralhando
-  - [ ] [1981](https://www.urionlinejudge.com.br/judge/pt/problems/view/1981) - Embaralhando de Novo
   - [ ] [1986](https://www.urionlinejudge.com.br/judge/pt/problems/view/1986) - Perdido em Marte
   - [ ] [1987](https://www.urionlinejudge.com.br/judge/pt/problems/view/1987) - Divisibilidade Por 3
   - [ ] [1997](https://www.urionlinejudge.com.br/judge/pt/problems/view/1997) - Branco e Preto
@@ -428,7 +424,6 @@
   - [ ] [2421](https://www.urionlinejudge.com.br/judge/pt/problems/view/2421) - Álbum de Fotos
   - [ ] [2423](https://www.urionlinejudge.com.br/judge/pt/problems/view/2423) - Receita de Bolo
   - [ ] [2425](https://www.urionlinejudge.com.br/judge/pt/problems/view/2425) - Banco
-  - [ ] [2426](https://www.urionlinejudge.com.br/judge/pt/problems/view/2426) - Bomba
   - [ ] [2427](https://www.urionlinejudge.com.br/judge/pt/problems/view/2427) - Chocolate
   - [ ] [2430](https://www.urionlinejudge.com.br/judge/pt/problems/view/2430) - Catálogo de Músicas
   - [ ] [2431](https://www.urionlinejudge.com.br/judge/pt/problems/view/2431) - Lençol
@@ -587,10 +582,8 @@
   - [ ] [2928](https://www.urionlinejudge.com.br/judge/pt/problems/view/2928) - Cruzando Lagos
   - [ ] [2931](https://www.urionlinejudge.com.br/judge/pt/problems/view/2931) - Presentes Suspeitos
   - [ ] [2935](https://www.urionlinejudge.com.br/judge/pt/problems/view/2935) - DNA Élfico
-  - [ ] [2937](https://www.urionlinejudge.com.br/judge/pt/problems/view/2937) - Cobra Norato
   - [ ] [2938](https://www.urionlinejudge.com.br/judge/pt/problems/view/2938) - Jaçanã
   - [ ] [2940](https://www.urionlinejudge.com.br/judge/pt/problems/view/2940) - Máquina do Tempo Quebrada
-  - [ ] [2941](https://www.urionlinejudge.com.br/judge/pt/problems/view/2941) - Fibra Ótica
   - [ ] [2942](https://www.urionlinejudge.com.br/judge/pt/problems/view/2942) - Mistura de Bits
   - [ ] [2943](https://www.urionlinejudge.com.br/judge/pt/problems/view/2943) - Smider Pan
   - [ ] [2944](https://www.urionlinejudge.com.br/judge/pt/problems/view/2944) - Emergência em Manaus
@@ -600,7 +593,6 @@
   - [ ] [2948](https://www.urionlinejudge.com.br/judge/pt/problems/view/2948) - Plantação de Açaí
   - [ ] [2957](https://www.urionlinejudge.com.br/judge/pt/problems/view/2957) - Sir Vô
   - [ ] [2964](https://www.urionlinejudge.com.br/judge/pt/problems/view/2964) - Cruzamento Perigoso
-  - [ ] [2965](https://www.urionlinejudge.com.br/judge/pt/problems/view/2965) - Delaçao Premiada
   - [ ] [2966](https://www.urionlinejudge.com.br/judge/pt/problems/view/2966) - Exibição de Peixes
   - [ ] [2967](https://www.urionlinejudge.com.br/judge/pt/problems/view/2967) - Florestas em Risco
   - [ ] [2970](https://www.urionlinejudge.com.br/judge/pt/problems/view/2970) - Keep Calm e Venda Balões
@@ -663,7 +655,6 @@
   - [x] [2217](https://www.urionlinejudge.com.br/judge/pt/problems/view/2217) - [Nove](https://github.com/potigol/URI-Potigol/blob/master/src/2201-2300/2217.poti)
   - [x] [2295](https://www.urionlinejudge.com.br/judge/pt/problems/view/2295) - [Frota de Táxi](https://github.com/potigol/URI-Potigol/blob/master/src/2201-2300/2295.poti)
   - [x] [2339](https://www.urionlinejudge.com.br/judge/pt/problems/view/2339) - [Aviões de Papel](https://github.com/potigol/URI-Potigol/blob/master/src/2301-2400/2339.poti)
-  - [x] [2344](https://www.urionlinejudge.com.br/judge/pt/problems/view/2344) - [Notas da Prova](https://github.com/potigol/URI-Potigol/blob/master/src/2301-2400/2344.poti)
   - [x] [2345](https://www.urionlinejudge.com.br/judge/pt/problems/view/2345) - [Assigning Teams](https://github.com/potigol/URI-Potigol/blob/master/src/2301-2400/2345.poti)
   - [x] [2369](https://www.urionlinejudge.com.br/judge/pt/problems/view/2369) - [Conta de Água](https://github.com/potigol/URI-Potigol/blob/master/src/2301-2400/2369.poti)
   - [x] [2373](https://www.urionlinejudge.com.br/judge/pt/problems/view/2373) - [Garçom](https://github.com/potigol/URI-Potigol/blob/master/src/2301-2400/2373.poti)
@@ -699,6 +690,5 @@
   - [x] [2851](https://www.urionlinejudge.com.br/judge/pt/problems/view/2851) - [Desafio de Rangel](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2851.poti)
   - [x] [2858](https://www.urionlinejudge.com.br/judge/pt/problems/view/2858) - [Tabuleiro Infinito](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2858.poti)
   - [x] [2868](https://www.urionlinejudge.com.br/judge/pt/problems/view/2868) - [Errrou!](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2868.poti)
-  - [x] [2939](https://www.urionlinejudge.com.br/judge/pt/problems/view/2939) - [Casais](https://github.com/potigol/URI-Potigol/blob/master/src/2901-3000/2939.poti)
   - [x] [3005](https://www.urionlinejudge.com.br/judge/pt/problems/view/3005) - [Pilhas de paralelepípedos](https://github.com/potigol/URI-Potigol/blob/master/src/3001-3100/3005.poti)
   - [x] [3024](https://www.urionlinejudge.com.br/judge/pt/problems/view/3024) - [Mountain Ranges](https://github.com/potigol/URI-Potigol/blob/master/src/3001-3100/3024.poti)

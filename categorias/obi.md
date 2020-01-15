@@ -4,16 +4,16 @@
 
 ## 2019
 
-  - [ ] [3046](https://www.urionlinejudge.com.br/judge/pt/problems/view/3046) - Dominó *Iniciante*
-  - [ ] [3047](https://www.urionlinejudge.com.br/judge/pt/problems/view/3047) - A idade de Dona Mônica *Iniciante*
+  - [x] [3046](https://www.urionlinejudge.com.br/judge/pt/problems/view/3046) - [Dominó](https://github.com/potigol/URI-Potigol/blob/master/src/3001-3100/3046.poti) *Iniciante*
+  - [x] [3047](https://www.urionlinejudge.com.br/judge/pt/problems/view/3047) - [A idade de Dona Mônica](https://github.com/potigol/URI-Potigol/blob/master/src/3001-3100/3047.poti) *Iniciante*
   - [ ] [3048](https://www.urionlinejudge.com.br/judge/pt/problems/view/3048) - Sequência Secreta *Ad-Hoc*
   - [ ] [3049](https://www.urionlinejudge.com.br/judge/pt/problems/view/3049) - Nota cortada *Matemática*
   - [ ] [3050](https://www.urionlinejudge.com.br/judge/pt/problems/view/3050) - Distância entre amigos *Ad-Hoc*
   - [ ] [3051](https://www.urionlinejudge.com.br/judge/pt/problems/view/3051) - Soma *Paradigmas*
   - [ ] [3052](https://www.urionlinejudge.com.br/judge/pt/problems/view/3052) - Chuva *Ad-Hoc*
-  - [ ] [3053](https://www.urionlinejudge.com.br/judge/pt/problems/view/3053) - Jogo dos copos *Iniciante*
+  - [x] [3053](https://www.urionlinejudge.com.br/judge/pt/problems/view/3053) - [Jogo dos copos](https://github.com/potigol/URI-Potigol/blob/master/src/3001-3100/3053.poti) *Iniciante*
   - [ ] [3054](https://www.urionlinejudge.com.br/judge/pt/problems/view/3054) - Matriz super-legal *Ad-Hoc*
-  - [ ] [3055](https://www.urionlinejudge.com.br/judge/pt/problems/view/3055) - Nota esquecida *Iniciante*
+  - [x] [3055](https://www.urionlinejudge.com.br/judge/pt/problems/view/3055) - [Nota esquecida](https://github.com/potigol/URI-Potigol/blob/master/src/3001-3100/3055.poti) *Iniciante*
   - [ ] [3056](https://www.urionlinejudge.com.br/judge/pt/problems/view/3056) - Ponto do meio *Ad-Hoc*
   - [ ] [3057](https://www.urionlinejudge.com.br/judge/pt/problems/view/3057) - Detetive *Ad-Hoc*
   - [ ] [3058](https://www.urionlinejudge.com.br/judge/pt/problems/view/3058) - Supermercado *Ad-Hoc*
@@ -121,7 +121,7 @@
   - [ ] [2423](https://www.urionlinejudge.com.br/judge/pt/problems/view/2423) - Receita de Bolo *Ad-Hoc*
   - [x] [2424](https://www.urionlinejudge.com.br/judge/pt/problems/view/2424) - [Tira-teima](https://github.com/potigol/URI-Potigol/blob/master/src/2401-2500/2424.poti) *Ad-Hoc*
   - [ ] [2425](https://www.urionlinejudge.com.br/judge/pt/problems/view/2425) - Banco *Ad-Hoc*
-  - [ ] [2426](https://www.urionlinejudge.com.br/judge/pt/problems/view/2426) - Bomba *Ad-Hoc*
+  - [ ] [2426](https://www.urionlinejudge.com.br/judge/pt/problems/view/2426) - Bomba *Grafos*
   - [ ] [2427](https://www.urionlinejudge.com.br/judge/pt/problems/view/2427) - Chocolate *Ad-Hoc*
 
 
@@ -179,7 +179,7 @@
   - [ ] [2341](https://www.urionlinejudge.com.br/judge/pt/problems/view/2341) - Número de Envelopes *Ad-Hoc*
   - [ ] [2342](https://www.urionlinejudge.com.br/judge/pt/problems/view/2342) - Overflow *Ad-Hoc*
   - [ ] [2343](https://www.urionlinejudge.com.br/judge/pt/problems/view/2343) - Caçadores de Mitos *Ad-Hoc*
-  - [x] [2344](https://www.urionlinejudge.com.br/judge/pt/problems/view/2344) - [Notas da Prova](https://github.com/potigol/URI-Potigol/blob/master/src/2301-2400/2344.poti) *Ad-Hoc*
+  - [x] [2344](https://www.urionlinejudge.com.br/judge/pt/problems/view/2344) - [Notas da Prova](https://github.com/potigol/URI-Potigol/blob/master/src/2301-2400/2344.poti) *Iniciante*
   - [ ] [2366](https://www.urionlinejudge.com.br/judge/pt/problems/view/2366) - Maratona *Ad-Hoc*
   - [ ] [2367](https://www.urionlinejudge.com.br/judge/pt/problems/view/2367) - Competição de Chocolate *Ad-Hoc*
   - [ ] [2368](https://www.urionlinejudge.com.br/judge/pt/problems/view/2368) - Simulador *Ad-Hoc*
