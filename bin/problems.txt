@@ -2021,6 +2021,8 @@
 3038	Carta de Natal Criptografada	Strings
 3039	Brinquedos do Papai Noel	Iniciante
 3040	A Árvore de Natal	Iniciante
+3041	Distribuição de Artigos	Ad-Hoc
+3042	Desviando de Árvores de Natal	Iniciante
 3046	Dominó	Iniciante
 3047	A idade de Dona Mônica	Iniciante
 3048	Sequência Secreta	Ad-Hoc

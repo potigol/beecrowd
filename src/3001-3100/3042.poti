@@ -1,0 +1,16 @@
+var m := leia_inteiro
+enquanto m > 0 faça
+  var p := 2
+  var cont := 0
+  para i de 1 até m faça
+    linha = leia_texto
+    escolha linha
+      caso "0 1 1" se p <> 1 => cont := cont + abs(p - 1) p := 1
+      caso "1 0 1" se p <> 2 => cont := cont + abs(p - 2) p := 2
+      caso "1 1 0" se p <> 3 => cont := cont + abs(p - 3) p := 3
+      caso _ =>
+    fim
+  fim
+  escreva cont
+  m := leia_inteiro
+fim

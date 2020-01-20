@@ -1,4 +1,4 @@
-# Ad-Hoc (56 / 690)
+# Ad-Hoc (56 / 691)
 
 ## Problemas não resolvidos
   - [ ] [1026](https://www.urionlinejudge.com.br/judge/pt/problems/view/1026) - Carrega ou não Carrega?
@@ -624,6 +624,7 @@
   - [ ] [3033](https://www.urionlinejudge.com.br/judge/pt/problems/view/3033) - Ajude Maria
   - [ ] [3034](https://www.urionlinejudge.com.br/judge/pt/problems/view/3034) - O Caso Douglas
   - [ ] [3035](https://www.urionlinejudge.com.br/judge/pt/problems/view/3035) - Fabrica de Peças
+  - [ ] [3041](https://www.urionlinejudge.com.br/judge/pt/problems/view/3041) - Distribuição de Artigos
   - [ ] [3048](https://www.urionlinejudge.com.br/judge/pt/problems/view/3048) - Sequência Secreta
   - [ ] [3050](https://www.urionlinejudge.com.br/judge/pt/problems/view/3050) - Distância entre amigos
   - [ ] [3052](https://www.urionlinejudge.com.br/judge/pt/problems/view/3052) - Chuva

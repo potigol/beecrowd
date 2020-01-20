@@ -38,10 +38,10 @@
   - [ ] [3036](https://www.urionlinejudge.com.br/judge/pt/problems/view/3036) - Cor da camisa *Matemática*
   - [ ] [3037](https://www.urionlinejudge.com.br/judge/pt/problems/view/3037) - Jogando dardos por distância *Iniciante*
   - [ ] [3038](https://www.urionlinejudge.com.br/judge/pt/problems/view/3038) - Carta de Natal Criptografada *Strings*
-  - [ ] [3039](https://www.urionlinejudge.com.br/judge/pt/problems/view/3039) - Brinquedos do Papai Noel *Iniciante*
-  - [ ] [3040](https://www.urionlinejudge.com.br/judge/pt/problems/view/3040) - A Árvore de Natal *Iniciante*
-  - [ ] ~~3041~~
-  - [ ] ~~3042~~
+  - [x] [3039](https://www.urionlinejudge.com.br/judge/pt/problems/view/3039) - [Brinquedos do Papai Noel](https://github.com/potigol/URI-Potigol/blob/master/src/3001-3100/3039.poti) *Iniciante*
+  - [x] [3040](https://www.urionlinejudge.com.br/judge/pt/problems/view/3040) - [A Árvore de Natal](https://github.com/potigol/URI-Potigol/blob/master/src/3001-3100/3040.poti) *Iniciante*
+  - [ ] [3041](https://www.urionlinejudge.com.br/judge/pt/problems/view/3041) - Distribuição de Artigos *Ad-Hoc*
+  - [x] [3042](https://www.urionlinejudge.com.br/judge/pt/problems/view/3042) - [Desviando de Árvores de Natal](https://github.com/potigol/URI-Potigol/blob/master/src/3001-3100/3042.poti) *Iniciante*
   - [ ] ~~3043~~
   - [ ] ~~3044~~
   - [ ] ~~3045~~

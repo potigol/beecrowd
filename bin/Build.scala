@@ -49,7 +49,7 @@ object Build extends App {
       if (contest1.get(year)!= None){
         s = s + s"\n\n### 1ª Fase\n\n"
         for (y <- contest1.get(year); x <- y) {
-          s = s + line(x) +"\n"
+          s = s + line(x) + "\n"
         }
       }
 
