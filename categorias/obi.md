@@ -47,6 +47,7 @@
 
 ## 2014
 
+  - [ ] [1928](https://www.urionlinejudge.com.br/judge/pt/problems/view/1928) - Jogo da Memória *Grafos*
   - [x] [1929](https://www.urionlinejudge.com.br/judge/pt/problems/view/1929) - [Triângulo](https://github.com/potigol/URI-Potigol/blob/master/src/1901-2000/1929.poti) *Iniciante*
   - [ ] [2448](https://www.urionlinejudge.com.br/judge/pt/problems/view/2448) - Carteiro *Ad-Hoc*
   - [ ] [2449](https://www.urionlinejudge.com.br/judge/pt/problems/view/2449) - Fechadura *Ad-Hoc*
@@ -247,6 +248,10 @@
   - [ ] [2249](https://www.urionlinejudge.com.br/judge/pt/problems/view/2249) - Número de Erdos *Ad-Hoc*
   - [ ] [2250](https://www.urionlinejudge.com.br/judge/pt/problems/view/2250) - Tetris *Ad-Hoc*
   - [ ] [2251](https://www.urionlinejudge.com.br/judge/pt/problems/view/2251) - Torres de Hanói *Ad-Hoc*
+  - [ ] [3043](https://www.urionlinejudge.com.br/judge/pt/problems/view/3043) - Festa Junina *Iniciante*
+  - [ ] [3044](https://www.urionlinejudge.com.br/judge/pt/problems/view/3044) - Manutenção *Iniciante*
+  - [ ] [3045](https://www.urionlinejudge.com.br/judge/pt/problems/view/3045) - Parque Jurássico *Estruturas e Bibliotecas*
+  - [ ] [3064](https://www.urionlinejudge.com.br/judge/pt/problems/view/3064) - Elástico *Iniciante*
 
 
 ## 2002

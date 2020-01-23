@@ -2023,6 +2023,9 @@
 3040	A Árvore de Natal	Iniciante
 3041	Distribuição de Artigos	Ad-Hoc
 3042	Desviando de Árvores de Natal	Iniciante
+3043	Festa Junina	Iniciante
+3044	Manutenção	Iniciante
+3045	Parque Jurássico	Estruturas e Bibliotecas
 3046	Dominó	Iniciante
 3047	A idade de Dona Mônica	Iniciante
 3048	Sequência Secreta	Ad-Hoc
@@ -2041,3 +2044,4 @@
 3061	Manchas de pele	Grafos
 3062	Coleção de Upas	Ad-Hoc
 3063	Linhas de Ônibus	Ad-Hoc
+3064	Elástico	Iniciante

@@ -1,4 +1,4 @@
-# Iniciante (222 / 293)
+# Iniciante (222 / 296)
 
 ## Problemas não resolvidos
   - [ ] [1827](https://www.urionlinejudge.com.br/judge/pt/problems/view/1827) - Matriz Quadrada IV
@@ -72,6 +72,9 @@
   - [ ] [2952](https://www.urionlinejudge.com.br/judge/pt/problems/view/2952) - A Vida Sustentável
   - [ ] [2982](https://www.urionlinejudge.com.br/judge/pt/problems/view/2982) - A Greve para ou Continua?
   - [ ] [3037](https://www.urionlinejudge.com.br/judge/pt/problems/view/3037) - Jogando dardos por distância
+  - [ ] [3043](https://www.urionlinejudge.com.br/judge/pt/problems/view/3043) - Festa Junina
+  - [ ] [3044](https://www.urionlinejudge.com.br/judge/pt/problems/view/3044) - Manutenção
+  - [ ] [3064](https://www.urionlinejudge.com.br/judge/pt/problems/view/3064) - Elástico
 ## Problemas resolvidos
   - [x] [1001](https://www.urionlinejudge.com.br/judge/pt/problems/view/1001) - [Extremamente Básico](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1001.poti)
   - [x] [1002](https://www.urionlinejudge.com.br/judge/pt/problems/view/1002) - [Área do Círculo](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1002.poti)

@@ -1,11 +1,11 @@
 n = leia_inteiro
 
-para i de 1 ate n faca
+para i de 1 até n faça
   a = leia_inteiros(" ")
   h, d, g = a[1], a[2], a[3]
-  se g >= 150 e d >= 50 e h >= 200 e h <= 300   entao
+  se h >= 200 e h <= 300 e d >= 50 e g >= 150 então
     escreva "Sim"
-  senao
+  senão
     escreva "Nao"
   fim
 fim
