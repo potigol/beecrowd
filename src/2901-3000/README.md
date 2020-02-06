@@ -35,7 +35,7 @@
   - [ ] [2933](https://www.urionlinejudge.com.br/judge/pt/problems/view/2933) - Passeio de Trenó pela Terra *Grafos*
   - [ ] [2934](https://www.urionlinejudge.com.br/judge/pt/problems/view/2934) - Noel e Suas Renas *Paradigmas*
   - [ ] [2935](https://www.urionlinejudge.com.br/judge/pt/problems/view/2935) - DNA Élfico *Ad-Hoc*
-  - [x] [2936](https://www.urionlinejudge.com.br/judge/pt/problems/view/2936) - [Quanta Mandioca?](https://github.com/potigol/URI-Potigol/blob/master/src/2901-3000/2936.poti) *Iniciante*
+  - [x] [2936](https://www.urionlinejudge.com.br/judge/pt/problems/view/2936) - [Quanta Mandioca?](https://github.com/potigol/URI-Potigol/blob/master/src/2901-3000/2936.poti) *Iniciante_*
   - [ ] [2937](https://www.urionlinejudge.com.br/judge/pt/problems/view/2937) - Cobra Norato *Matemática*
   - [ ] [2938](https://www.urionlinejudge.com.br/judge/pt/problems/view/2938) - Jaçanã *Ad-Hoc*
   - [x] [2939](https://www.urionlinejudge.com.br/judge/pt/problems/view/2939) - [Casais](https://github.com/potigol/URI-Potigol/blob/master/src/2901-3000/2939.poti) *Matemática*

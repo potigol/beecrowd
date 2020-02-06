@@ -1,4 +1,4 @@
-# Ad-Hoc (56 / 691)
+# Ad-Hoc (56 / 690)
 
 ## Problemas não resolvidos
   - [ ] [1026](https://www.urionlinejudge.com.br/judge/pt/problems/view/1026) - Carrega ou não Carrega?
@@ -83,7 +83,6 @@
   - [ ] [1440](https://www.urionlinejudge.com.br/judge/pt/problems/view/1440) - Praça de Alimentação
   - [ ] [1443](https://www.urionlinejudge.com.br/judge/pt/problems/view/1443) - Engarrafamento
   - [ ] [1445](https://www.urionlinejudge.com.br/judge/pt/problems/view/1445) - Quem Vai à Festa?
-  - [ ] [1453](https://www.urionlinejudge.com.br/judge/pt/problems/view/1453) - Palavras-Cruzadas Sem Palavras
   - [ ] [1459](https://www.urionlinejudge.com.br/judge/pt/problems/view/1459) - Foco
   - [ ] [1460](https://www.urionlinejudge.com.br/judge/pt/problems/view/1460) - Parreiral
   - [ ] [1467](https://www.urionlinejudge.com.br/judge/pt/problems/view/1467) - Zerinho ou Um
