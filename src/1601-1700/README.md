@@ -53,7 +53,7 @@
   - [ ] [1651](https://www.urionlinejudge.com.br/judge/pt/problems/view/1651) - Cilindro *Geometria Computacional*
   - [ ] [1652](https://www.urionlinejudge.com.br/judge/pt/problems/view/1652) - Deli Deli *Ad-Hoc*
   - [ ] [1653](https://www.urionlinejudge.com.br/judge/pt/problems/view/1653) - Expressões *Grafos*
-  - [ ] [1654](https://www.urionlinejudge.com.br/judge/pt/problems/view/1654) - Mercearia *Paradigmas_*
+  - [ ] [1654](https://www.urionlinejudge.com.br/judge/pt/problems/view/1654) - Mercearia *_Paradigmas_x*
   - [ ] [1655](https://www.urionlinejudge.com.br/judge/pt/problems/view/1655) - 106 Milhas Para Chicago *Grafos*
   - [ ] [1656](https://www.urionlinejudge.com.br/judge/pt/problems/view/1656) - Doces do Dia das Bruxas *Matemática*
   - [ ] [1657](https://www.urionlinejudge.com.br/judge/pt/problems/view/1657) - Corretor Automático de Erros de Soletração *Ad-Hoc*
