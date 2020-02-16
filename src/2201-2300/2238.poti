@@ -1,0 +1,11 @@
+s = leia_inteiros(" ")
+a, b, c, d = s[1], s[2], s[3], s[4]
+var n := -1
+var i := a
+enquanto i <= c e n == -1 faca
+  se i mod b <> 0 e c mod i == 0 e d mod i <> 0 entao
+    n := i
+  fim
+  i := i + a
+fim
+escreva n

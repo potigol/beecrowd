@@ -124,7 +124,7 @@
   - [x] [2235](https://www.urionlinejudge.com.br/judge/pt/problems/view/2235) - [Andando no Tempo](https://github.com/potigol/URI-Potigol/blob/master/src/2201-2300/2235.poti) *Iniciante*
   - [ ] [2236](https://www.urionlinejudge.com.br/judge/pt/problems/view/2236) - Batata Quente *Paradigmas*
   - [ ] [2237](https://www.urionlinejudge.com.br/judge/pt/problems/view/2237) - Containers *Ad-Hoc*
-  - [ ] [2238](https://www.urionlinejudge.com.br/judge/pt/problems/view/2238) - Divisores *Matemática*
+  - [x] [2238](https://www.urionlinejudge.com.br/judge/pt/problems/view/2238) - [Divisores](https://github.com/potigol/URI-Potigol/blob/master/src/2201-2300/2238.poti) *Matemática*
   - [ ] [2239](https://www.urionlinejudge.com.br/judge/pt/problems/view/2239) - Estatística Hexa *Estruturas e Bibliotecas*
   - [ ] [2240](https://www.urionlinejudge.com.br/judge/pt/problems/view/2240) - Fundindo Árvores *Estruturas e Bibliotecas*
   - [ ] [2241](https://www.urionlinejudge.com.br/judge/pt/problems/view/2241) - Go-- *Estruturas e Bibliotecas*

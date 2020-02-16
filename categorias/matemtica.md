@@ -1,4 +1,4 @@
-# Matemática (13 / 235)
+# Matemática (14 / 235)
 
 ## Problemas não resolvidos
   - [ ] [1093](https://www.urionlinejudge.com.br/judge/pt/problems/view/1093) - Vampiros
@@ -167,7 +167,6 @@
   - [ ] [2204](https://www.urionlinejudge.com.br/judge/pt/problems/view/2204) - Pare A Bomba!
   - [ ] [2218](https://www.urionlinejudge.com.br/judge/pt/problems/view/2218) - O Temível Evil-Son
   - [ ] [2222](https://www.urionlinejudge.com.br/judge/pt/problems/view/2222) - Brincando com Conjuntos
-  - [ ] [2238](https://www.urionlinejudge.com.br/judge/pt/problems/view/2238) - Divisores
   - [ ] [2291](https://www.urionlinejudge.com.br/judge/pt/problems/view/2291) - Números Divinos
   - [ ] [2335](https://www.urionlinejudge.com.br/judge/pt/problems/view/2335) - O Desafio de Arquibaldo
   - [ ] [2337](https://www.urionlinejudge.com.br/judge/pt/problems/view/2337) - Pro Habilidade
@@ -232,6 +231,7 @@
   - [x] [1761](https://www.urionlinejudge.com.br/judge/pt/problems/view/1761) - [Decoração Natalina](https://github.com/potigol/URI-Potigol/blob/master/src/1701-1800/1761.poti)
   - [x] [1795](https://www.urionlinejudge.com.br/judge/pt/problems/view/1795) - [Triângulo Trinomial](https://github.com/potigol/URI-Potigol/blob/master/src/1701-1800/1795.poti)
   - [x] [2232](https://www.urionlinejudge.com.br/judge/pt/problems/view/2232) - [Triângulo de Pascal](https://github.com/potigol/URI-Potigol/blob/master/src/2201-2300/2232.poti)
+  - [x] [2238](https://www.urionlinejudge.com.br/judge/pt/problems/view/2238) - [Divisores](https://github.com/potigol/URI-Potigol/blob/master/src/2201-2300/2238.poti)
   - [x] [2661](https://www.urionlinejudge.com.br/judge/pt/problems/view/2661) - [Despojados](https://github.com/potigol/URI-Potigol/blob/master/src/2601-2700/2661.poti)
   - [x] [2667](https://www.urionlinejudge.com.br/judge/pt/problems/view/2667) - [Jogo de Boca](https://github.com/potigol/URI-Potigol/blob/master/src/2601-2700/2667.poti)
   - [x] [2839](https://www.urionlinejudge.com.br/judge/pt/problems/view/2839) - [As Meias de Rangel](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2839.poti)
