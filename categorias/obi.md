@@ -168,7 +168,7 @@
   - [ ] [2385](https://www.urionlinejudge.com.br/judge/pt/problems/view/2385) - Multiplicação de Matrizes *Ad-Hoc*
   - [x] [2386](https://www.urionlinejudge.com.br/judge/pt/problems/view/2386) - [Telescópio](https://github.com/potigol/URI-Potigol/blob/master/src/2301-2400/2386.poti) *Ad-Hoc*
   - [ ] [2387](https://www.urionlinejudge.com.br/judge/pt/problems/view/2387) - Dentista *Ad-Hoc*
-  - [ ] [2388](https://www.urionlinejudge.com.br/judge/pt/problems/view/2388) - Tacógrafo *Ad-Hoc*
+  - [x] [2388](https://www.urionlinejudge.com.br/judge/pt/problems/view/2388) - [Tacógrafo](https://github.com/potigol/URI-Potigol/blob/master/src/2301-2400/2388.poti) *Ad-Hoc*
   - [ ] [2389](https://www.urionlinejudge.com.br/judge/pt/problems/view/2389) - Floresta *Ad-Hoc*
   - [ ] [2390](https://www.urionlinejudge.com.br/judge/pt/problems/view/2390) - Escada Rolante *Ad-Hoc*
 

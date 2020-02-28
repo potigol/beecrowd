@@ -69,12 +69,12 @@
   - [ ] [3067](https://www.urionlinejudge.com.br/judge/pt/problems/view/3067) - Dominó *Iniciante*
   - [ ] [3068](https://www.urionlinejudge.com.br/judge/pt/problems/view/3068) - Meteóros *Iniciante*
   - [ ] [3069](https://www.urionlinejudge.com.br/judge/pt/problems/view/3069) - Sorvete *Iniciante*
-  - [ ] ~~3070~~
-  - [ ] ~~3071~~
-  - [ ] ~~3072~~
-  - [ ] ~~3073~~
-  - [ ] ~~3074~~
-  - [ ] ~~3075~~
+  - [ ] [3070](https://www.urionlinejudge.com.br/judge/pt/problems/view/3070) - Autoestradas HyperspaceTM *Iniciante*
+  - [ ] [3071](https://www.urionlinejudge.com.br/judge/pt/problems/view/3071) - Melhor Ranking *Iniciante*
+  - [ ] [3072](https://www.urionlinejudge.com.br/judge/pt/problems/view/3072) - Namoro *Iniciante*
+  - [ ] [3073](https://www.urionlinejudge.com.br/judge/pt/problems/view/3073) - Vetores *Iniciante*
+  - [ ] [3074](https://www.urionlinejudge.com.br/judge/pt/problems/view/3074) - Consultas em uma array *Iniciante*
+  - [ ] [3075](https://www.urionlinejudge.com.br/judge/pt/problems/view/3075) - Cassinos e Viagem *Iniciante*
   - [ ] ~~3076~~
   - [ ] ~~3077~~
   - [ ] ~~3078~~

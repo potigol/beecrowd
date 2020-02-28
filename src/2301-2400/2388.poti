@@ -1,0 +1,8 @@
+n = leia_inteiro
+var soma := 0
+para i de 1 ate n faca
+  linha = leia_inteiros(" ")
+  t, v = linha[1], linha[2]
+  soma := soma + t * v
+fim
+escreva soma

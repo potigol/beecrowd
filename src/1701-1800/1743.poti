@@ -1,0 +1,10 @@
+x, y = leia_texto
+var compativel := verdadeiro
+para i de 1 ate 9 passo 2 faca
+  se x[i] == y[i] entao compativel := falso fim
+fim
+se compativel então
+  escreva "Y"
+senão
+  escreva "N"
+fim

@@ -1,0 +1,7 @@
+n = leia_inteiro
+
+para i de 1 ate n faca
+  a = leia_texto
+  b = a.selecione(_ > 96).inverta
+  escreva b
+fim

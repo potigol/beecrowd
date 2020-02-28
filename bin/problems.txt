@@ -1621,7 +1621,7 @@
 2632	Magic and Sword	Iniciante
 2633	Churras no Yuri	Estruturas e Bibliotecas
 2634	Em Prol da Ciência	Ad-Hoc
-2635	Navegador Web	Iniciante
+2635	Navegador Web	_Iniciante_x
 2636	3-RSA	Matemática
 2637	Casa do Batera	Grafos
 2639	Cluedo	Ad-Hoc
@@ -1916,7 +1916,7 @@
 2933	Passeio de Trenó pela Terra	Grafos
 2934	Noel e Suas Renas	Paradigmas
 2935	DNA Élfico	Ad-Hoc
-2936	Quanta Mandioca?	_Iniciante_x
+2936	Quanta Mandioca?	Iniciante
 2937	Cobra Norato	Matemática
 2938	Jaçanã	Ad-Hoc
 2939	Casais	Matemática
@@ -2050,3 +2050,9 @@
 3067	Dominó	Iniciante
 3068	Meteóros	Iniciante
 3069	Sorvete	Iniciante
+3070	Autoestradas HyperspaceTM	Iniciante
+3071	Melhor Ranking	Iniciante
+3072	Namoro	Iniciante
+3073	Vetores	Iniciante
+3074	Consultas em uma array	Iniciante
+3075	Cassinos e Viagem	Iniciante

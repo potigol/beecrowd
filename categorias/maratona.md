@@ -205,7 +205,7 @@
 
 ### 2ª Fase
 
-  - [ ] [1743](https://www.urionlinejudge.com.br/judge/pt/problems/view/1743) - Máquina de Verificação Automatizada *Ad-Hoc*
+  - [x] [1743](https://www.urionlinejudge.com.br/judge/pt/problems/view/1743) - [Máquina de Verificação Automatizada](https://github.com/potigol/URI-Potigol/blob/master/src/1701-1800/1743.poti) *Ad-Hoc*
   - [ ] [1744](https://www.urionlinejudge.com.br/judge/pt/problems/view/1744) - Pedras Pretas e Brancas *Paradigmas*
   - [ ] [1745](https://www.urionlinejudge.com.br/judge/pt/problems/view/1745) - Contando Substhreengs *Matemática*
   - [ ] [1746](https://www.urionlinejudge.com.br/judge/pt/problems/view/1746) - Dividindo os Nomes *Estruturas e Bibliotecas*

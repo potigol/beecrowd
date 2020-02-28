@@ -1,4 +1,4 @@
-# Ad-Hoc (56 / 690)
+# Ad-Hoc (58 / 690)
 
 ## Problemas não resolvidos
   - [ ] [1026](https://www.urionlinejudge.com.br/judge/pt/problems/view/1026) - Carrega ou não Carrega?
@@ -153,7 +153,6 @@
   - [ ] [1732](https://www.urionlinejudge.com.br/judge/pt/problems/view/1732) - Abelha Maja
   - [ ] [1739](https://www.urionlinejudge.com.br/judge/pt/problems/view/1739) - Sequência de Threebonacci
   - [ ] [1741](https://www.urionlinejudge.com.br/judge/pt/problems/view/1741) - Notação Reversa de João
-  - [ ] [1743](https://www.urionlinejudge.com.br/judge/pt/problems/view/1743) - Máquina de Verificação Automatizada
   - [ ] [1750](https://www.urionlinejudge.com.br/judge/pt/problems/view/1750) - Ajude o Cupido
   - [ ] [1753](https://www.urionlinejudge.com.br/judge/pt/problems/view/1753) - Cavaleiros Da Tàvola Redonda
   - [ ] [1755](https://www.urionlinejudge.com.br/judge/pt/problems/view/1755) - O Troco
@@ -397,7 +396,6 @@
   - [ ] [2384](https://www.urionlinejudge.com.br/judge/pt/problems/view/2384) - Tradutor Alienígena
   - [ ] [2385](https://www.urionlinejudge.com.br/judge/pt/problems/view/2385) - Multiplicação de Matrizes
   - [ ] [2387](https://www.urionlinejudge.com.br/judge/pt/problems/view/2387) - Dentista
-  - [ ] [2388](https://www.urionlinejudge.com.br/judge/pt/problems/view/2388) - Tacógrafo
   - [ ] [2389](https://www.urionlinejudge.com.br/judge/pt/problems/view/2389) - Floresta
   - [ ] [2390](https://www.urionlinejudge.com.br/judge/pt/problems/view/2390) - Escada Rolante
   - [ ] [2391](https://www.urionlinejudge.com.br/judge/pt/problems/view/2391) - Progressões Aritméticas
@@ -646,6 +644,7 @@
   - [x] [1387](https://www.urionlinejudge.com.br/judge/pt/problems/view/1387) - [Og](https://github.com/potigol/URI-Potigol/blob/master/src/1301-1400/1387.poti)
   - [x] [1441](https://www.urionlinejudge.com.br/judge/pt/problems/view/1441) - [Sequências de Granizo](https://github.com/potigol/URI-Potigol/blob/master/src/1401-1500/1441.poti)
   - [x] [1573](https://www.urionlinejudge.com.br/judge/pt/problems/view/1573) - [Fábrica de Chocolate](https://github.com/potigol/URI-Potigol/blob/master/src/1501-1600/1573.poti)
+  - [x] [1743](https://www.urionlinejudge.com.br/judge/pt/problems/view/1743) - [Máquina de Verificação Automatizada](https://github.com/potigol/URI-Potigol/blob/master/src/1701-1800/1743.poti)
   - [x] [1794](https://www.urionlinejudge.com.br/judge/pt/problems/view/1794) - [Lavanderia](https://github.com/potigol/URI-Potigol/blob/master/src/1701-1800/1794.poti)
   - [x] [1867](https://www.urionlinejudge.com.br/judge/pt/problems/view/1867) - [Maior Número de Um Algarismo](https://github.com/potigol/URI-Potigol/blob/master/src/1801-1900/1867.poti)
   - [x] [1936](https://www.urionlinejudge.com.br/judge/pt/problems/view/1936) - [Fatorial](https://github.com/potigol/URI-Potigol/blob/master/src/1901-2000/1936.poti)
@@ -663,6 +662,7 @@
   - [x] [2377](https://www.urionlinejudge.com.br/judge/pt/problems/view/2377) - [Pedágio](https://github.com/potigol/URI-Potigol/blob/master/src/2301-2400/2377.poti)
   - [x] [2381](https://www.urionlinejudge.com.br/judge/pt/problems/view/2381) - [Lista de Chamada](https://github.com/potigol/URI-Potigol/blob/master/src/2301-2400/2381.poti)
   - [x] [2386](https://www.urionlinejudge.com.br/judge/pt/problems/view/2386) - [Telescópio](https://github.com/potigol/URI-Potigol/blob/master/src/2301-2400/2386.poti)
+  - [x] [2388](https://www.urionlinejudge.com.br/judge/pt/problems/view/2388) - [Tacógrafo](https://github.com/potigol/URI-Potigol/blob/master/src/2301-2400/2388.poti)
   - [x] [2395](https://www.urionlinejudge.com.br/judge/pt/problems/view/2395) - [Transporte de Contêineres](https://github.com/potigol/URI-Potigol/blob/master/src/2301-2400/2395.poti)
   - [x] [2397](https://www.urionlinejudge.com.br/judge/pt/problems/view/2397) - [Triângulos](https://github.com/potigol/URI-Potigol/blob/master/src/2301-2400/2397.poti)
   - [x] [2399](https://www.urionlinejudge.com.br/judge/pt/problems/view/2399) - [Campo Minado](https://github.com/potigol/URI-Potigol/blob/master/src/2301-2400/2399.poti)
