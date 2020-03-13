@@ -4,7 +4,7 @@ case class Problem(number: Int, name: String, category: String) {
 
 object Download extends App {
   def get(page: Int = 1) = {
-    val ur = io.Source.fromURL(s"https://www.urionlinejudge.com.br/judge/pt/problems/all?page=${page}").getLines()
+    val ur = io.Source.fromURL(s"https://www.urionlinejudge.com.br/judge/pt/problems/all?page=${page}&limit=100").getLines()
     val a = ur.map(_.trim).dropWhile(_ != "<tbody>").drop(1).takeWhile(_ != "</tbody>").filter(_ != "").grouped(13)
     val c = for (b <- a if b(1).startsWith("<td class")) yield {
       Problem(
@@ -14,8 +14,8 @@ object Download extends App {
     }
     c
   }
-  val all = for (i <- 1 to 77) yield {
-    println(i)
+  val all = for (i <- 1 to 21) yield {
+    println(22-i)
     get(i)
   }
   import java.io.PrintWriter

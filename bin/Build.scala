@@ -55,7 +55,7 @@ object Build extends App {
 
       s = s + s"\n\n### 2ª Fase\n\n"
       for (y <- contest2.get(year); x <- y) {
-        s = s + line(x) +"\n"
+        s = s + line(x) + "\n"
       }
     }
     save(file, title, s)

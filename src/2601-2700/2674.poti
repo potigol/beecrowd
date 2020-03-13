@@ -1,0 +1,9 @@
+var num := para i de 2 ate 9999 gere i fim
+var j := 1
+enquanto j <= num.tamanho faca
+  num := num.selecione(i => i mod num[j] <> 0 ou i == num[j])
+  j := j + 1
+fim
+primos = num
+a = leia_inteiro
+se primos.contem(a) entao escreva "primo" fim

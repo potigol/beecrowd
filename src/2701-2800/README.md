@@ -53,7 +53,7 @@
   - [ ] [2751](https://www.urionlinejudge.com.br/judge/pt/problems/view/2751) - Saída 5 *Iniciante*
   - [x] [2752](https://www.urionlinejudge.com.br/judge/pt/problems/view/2752) - [Saída 6](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2752.poti) *Iniciante*
   - [x] [2753](https://www.urionlinejudge.com.br/judge/pt/problems/view/2753) - [Saída 7](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2753.poti) *Iniciante*
-  - [ ] [2754](https://www.urionlinejudge.com.br/judge/pt/problems/view/2754) - Saída 8 *Iniciante*
+  - [x] [2754](https://www.urionlinejudge.com.br/judge/pt/problems/view/2754) - [Saída 8](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2754.poti) *Iniciante*
   - [x] [2755](https://www.urionlinejudge.com.br/judge/pt/problems/view/2755) - [Saída 9](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2755.poti) *Iniciante*
   - [x] [2756](https://www.urionlinejudge.com.br/judge/pt/problems/view/2756) - [Saída 10](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2756.poti) *Iniciante*
   - [x] [2757](https://www.urionlinejudge.com.br/judge/pt/problems/view/2757) - [Entrada e Saída de Números Inteiros](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2757.poti) *Iniciante*

@@ -267,7 +267,7 @@
 
   - [ ] [3065](https://www.urionlinejudge.com.br/judge/pt/problems/view/3065) - Calculando *Iniciante*
   - [ ] [3066](https://www.urionlinejudge.com.br/judge/pt/problems/view/3066) - Dengue *Iniciante*
-  - [ ] [3067](https://www.urionlinejudge.com.br/judge/pt/problems/view/3067) - Dominó *Iniciante*
+  - [ ] [3067](https://www.urionlinejudge.com.br/judge/pt/problems/view/3067) - Dominó *Grafos*
   - [ ] [3068](https://www.urionlinejudge.com.br/judge/pt/problems/view/3068) - Meteóros *Iniciante*
   - [ ] [3069](https://www.urionlinejudge.com.br/judge/pt/problems/view/3069) - Sorvete *Iniciante*
 

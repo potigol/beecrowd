@@ -66,15 +66,15 @@
   - [ ] [3064](https://www.urionlinejudge.com.br/judge/pt/problems/view/3064) - Elástico *Iniciante*
   - [ ] [3065](https://www.urionlinejudge.com.br/judge/pt/problems/view/3065) - Calculando *Iniciante*
   - [ ] [3066](https://www.urionlinejudge.com.br/judge/pt/problems/view/3066) - Dengue *Iniciante*
-  - [ ] [3067](https://www.urionlinejudge.com.br/judge/pt/problems/view/3067) - Dominó *Iniciante*
+  - [ ] [3067](https://www.urionlinejudge.com.br/judge/pt/problems/view/3067) - Dominó *Grafos*
   - [ ] [3068](https://www.urionlinejudge.com.br/judge/pt/problems/view/3068) - Meteóros *Iniciante*
   - [ ] [3069](https://www.urionlinejudge.com.br/judge/pt/problems/view/3069) - Sorvete *Iniciante*
-  - [ ] [3070](https://www.urionlinejudge.com.br/judge/pt/problems/view/3070) - Autoestradas HyperspaceTM *Iniciante*
-  - [ ] [3071](https://www.urionlinejudge.com.br/judge/pt/problems/view/3071) - Melhor Ranking *Iniciante*
-  - [ ] [3072](https://www.urionlinejudge.com.br/judge/pt/problems/view/3072) - Namoro *Iniciante*
-  - [ ] [3073](https://www.urionlinejudge.com.br/judge/pt/problems/view/3073) - Vetores *Iniciante*
-  - [ ] [3074](https://www.urionlinejudge.com.br/judge/pt/problems/view/3074) - Consultas em uma array *Iniciante*
-  - [ ] [3075](https://www.urionlinejudge.com.br/judge/pt/problems/view/3075) - Cassinos e Viagem *Iniciante*
+  - [ ] [3070](https://www.urionlinejudge.com.br/judge/pt/problems/view/3070) - Autoestradas HyperspaceTM *Grafos*
+  - [ ] [3071](https://www.urionlinejudge.com.br/judge/pt/problems/view/3071) - Melhor Ranking *Ad-Hoc*
+  - [ ] [3072](https://www.urionlinejudge.com.br/judge/pt/problems/view/3072) - Namoro *Grafos*
+  - [ ] [3073](https://www.urionlinejudge.com.br/judge/pt/problems/view/3073) - Vetores *Paradigmas*
+  - [ ] [3074](https://www.urionlinejudge.com.br/judge/pt/problems/view/3074) - Consultas em uma array *Ad-Hoc*
+  - [ ] [3075](https://www.urionlinejudge.com.br/judge/pt/problems/view/3075) - Cassinos e Viagem *Grafos*
   - [ ] ~~3076~~
   - [ ] ~~3077~~
   - [ ] ~~3078~~

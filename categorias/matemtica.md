@@ -1,4 +1,4 @@
-# Matemática (14 / 235)
+# Matemática (16 / 235)
 
 ## Problemas não resolvidos
   - [ ] [1093](https://www.urionlinejudge.com.br/judge/pt/problems/view/1093) - Vampiros
@@ -182,11 +182,9 @@
   - [ ] [2589](https://www.urionlinejudge.com.br/judge/pt/problems/view/2589) - Maior Distância Entre Primos Consecutivos
   - [ ] [2596](https://www.urionlinejudge.com.br/judge/pt/problems/view/2596) - Xenlonguinho
   - [ ] [2597](https://www.urionlinejudge.com.br/judge/pt/problems/view/2597) - Xenlongão
-  - [ ] [2598](https://www.urionlinejudge.com.br/judge/pt/problems/view/2598) - Colocando Radares
   - [ ] [2636](https://www.urionlinejudge.com.br/judge/pt/problems/view/2636) - 3-RSA
   - [ ] [2660](https://www.urionlinejudge.com.br/judge/pt/problems/view/2660) - Cigarras Periódicas
   - [ ] [2668](https://www.urionlinejudge.com.br/judge/pt/problems/view/2668) - K-ésimo
-  - [ ] [2674](https://www.urionlinejudge.com.br/judge/pt/problems/view/2674) - Super Primos: Ativar!
   - [ ] [2680](https://www.urionlinejudge.com.br/judge/pt/problems/view/2680) - Folha de Pagamentos
   - [ ] [2681](https://www.urionlinejudge.com.br/judge/pt/problems/view/2681) - Macacos da Torre de Hanoi
   - [ ] [2711](https://www.urionlinejudge.com.br/judge/pt/problems/view/2711) - Destravando o Celular
@@ -232,8 +230,10 @@
   - [x] [1795](https://www.urionlinejudge.com.br/judge/pt/problems/view/1795) - [Triângulo Trinomial](https://github.com/potigol/URI-Potigol/blob/master/src/1701-1800/1795.poti)
   - [x] [2232](https://www.urionlinejudge.com.br/judge/pt/problems/view/2232) - [Triângulo de Pascal](https://github.com/potigol/URI-Potigol/blob/master/src/2201-2300/2232.poti)
   - [x] [2238](https://www.urionlinejudge.com.br/judge/pt/problems/view/2238) - [Divisores](https://github.com/potigol/URI-Potigol/blob/master/src/2201-2300/2238.poti)
+  - [x] [2598](https://www.urionlinejudge.com.br/judge/pt/problems/view/2598) - [Colocando Radares](https://github.com/potigol/URI-Potigol/blob/master/src/2501-2600/2598.poti)
   - [x] [2661](https://www.urionlinejudge.com.br/judge/pt/problems/view/2661) - [Despojados](https://github.com/potigol/URI-Potigol/blob/master/src/2601-2700/2661.poti)
   - [x] [2667](https://www.urionlinejudge.com.br/judge/pt/problems/view/2667) - [Jogo de Boca](https://github.com/potigol/URI-Potigol/blob/master/src/2601-2700/2667.poti)
+  - [x] [2674](https://www.urionlinejudge.com.br/judge/pt/problems/view/2674) - [Super Primos: Ativar!](https://github.com/potigol/URI-Potigol/blob/master/src/2601-2700/2674.poti)
   - [x] [2839](https://www.urionlinejudge.com.br/judge/pt/problems/view/2839) - [As Meias de Rangel](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2839.poti)
   - [x] [2869](https://www.urionlinejudge.com.br/judge/pt/problems/view/2869) - [Falando em Divisor...](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2869.poti)
   - [x] [2939](https://www.urionlinejudge.com.br/judge/pt/problems/view/2939) - [Casais](https://github.com/potigol/URI-Potigol/blob/master/src/2901-3000/2939.poti)

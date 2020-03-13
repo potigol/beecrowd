@@ -1,4 +1,4 @@
-# Iniciante (223 / 306)
+# Iniciante (224 / 299)
 
 ## Problemas não resolvidos
   - [ ] [1827](https://www.urionlinejudge.com.br/judge/pt/problems/view/1827) - Matriz Quadrada IV
@@ -49,7 +49,6 @@
   - [ ] [2715](https://www.urionlinejudge.com.br/judge/pt/problems/view/2715) - Dividindo os Trabalhos I
   - [ ] [2724](https://www.urionlinejudge.com.br/judge/pt/problems/view/2724) - Ajude Patatatitu
   - [ ] [2751](https://www.urionlinejudge.com.br/judge/pt/problems/view/2751) - Saída 5
-  - [ ] [2754](https://www.urionlinejudge.com.br/judge/pt/problems/view/2754) - Saída 8
   - [ ] [2758](https://www.urionlinejudge.com.br/judge/pt/problems/view/2758) - Entrada e Saída de Números Reais
   - [ ] [2761](https://www.urionlinejudge.com.br/judge/pt/problems/view/2761) - Entrada e Saída de Vários Tipos
   - [ ] [2762](https://www.urionlinejudge.com.br/judge/pt/problems/view/2762) - Entrada e Saída 6
@@ -75,15 +74,8 @@
   - [ ] [3064](https://www.urionlinejudge.com.br/judge/pt/problems/view/3064) - Elástico
   - [ ] [3065](https://www.urionlinejudge.com.br/judge/pt/problems/view/3065) - Calculando
   - [ ] [3066](https://www.urionlinejudge.com.br/judge/pt/problems/view/3066) - Dengue
-  - [ ] [3067](https://www.urionlinejudge.com.br/judge/pt/problems/view/3067) - Dominó
   - [ ] [3068](https://www.urionlinejudge.com.br/judge/pt/problems/view/3068) - Meteóros
   - [ ] [3069](https://www.urionlinejudge.com.br/judge/pt/problems/view/3069) - Sorvete
-  - [ ] [3070](https://www.urionlinejudge.com.br/judge/pt/problems/view/3070) - Autoestradas HyperspaceTM
-  - [ ] [3071](https://www.urionlinejudge.com.br/judge/pt/problems/view/3071) - Melhor Ranking
-  - [ ] [3072](https://www.urionlinejudge.com.br/judge/pt/problems/view/3072) - Namoro
-  - [ ] [3073](https://www.urionlinejudge.com.br/judge/pt/problems/view/3073) - Vetores
-  - [ ] [3074](https://www.urionlinejudge.com.br/judge/pt/problems/view/3074) - Consultas em uma array
-  - [ ] [3075](https://www.urionlinejudge.com.br/judge/pt/problems/view/3075) - Cassinos e Viagem
 ## Problemas resolvidos
   - [x] [1001](https://www.urionlinejudge.com.br/judge/pt/problems/view/1001) - [Extremamente Básico](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1001.poti)
   - [x] [1002](https://www.urionlinejudge.com.br/judge/pt/problems/view/1002) - [Área do Círculo](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1002.poti)
@@ -266,6 +258,7 @@
   - [x] [2750](https://www.urionlinejudge.com.br/judge/pt/problems/view/2750) - [Saída 4](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2750.poti)
   - [x] [2752](https://www.urionlinejudge.com.br/judge/pt/problems/view/2752) - [Saída 6](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2752.poti)
   - [x] [2753](https://www.urionlinejudge.com.br/judge/pt/problems/view/2753) - [Saída 7](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2753.poti)
+  - [x] [2754](https://www.urionlinejudge.com.br/judge/pt/problems/view/2754) - [Saída 8](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2754.poti)
   - [x] [2755](https://www.urionlinejudge.com.br/judge/pt/problems/view/2755) - [Saída 9](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2755.poti)
   - [x] [2756](https://www.urionlinejudge.com.br/judge/pt/problems/view/2756) - [Saída 10](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2756.poti)
   - [x] [2757](https://www.urionlinejudge.com.br/judge/pt/problems/view/2757) - [Entrada e Saída de Números Inteiros](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2757.poti)

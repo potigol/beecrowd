@@ -1,4 +1,4 @@
-# Paradigmas (2 / 191)
+# Paradigmas (2 / 192)
 
 ## Problemas não resolvidos
   - [ ] [1027](https://www.urionlinejudge.com.br/judge/pt/problems/view/1027) - Onda Crítica
@@ -190,6 +190,7 @@
   - [ ] [2973](https://www.urionlinejudge.com.br/judge/pt/problems/view/2973) - Maratona Brasileira de Comedores de Pipoca
   - [ ] [2976](https://www.urionlinejudge.com.br/judge/pt/problems/view/2976) - Triângulos
   - [ ] [3051](https://www.urionlinejudge.com.br/judge/pt/problems/view/3051) - Soma
+  - [ ] [3073](https://www.urionlinejudge.com.br/judge/pt/problems/view/3073) - Vetores
 ## Problemas resolvidos
   - [x] [1029](https://www.urionlinejudge.com.br/judge/pt/problems/view/1029) - [Fibonacci, Quantas Chamadas?](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1029.poti)
   - [x] [1084](https://www.urionlinejudge.com.br/judge/pt/problems/view/1084) - [Apagando e Ganhando](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1084.poti)

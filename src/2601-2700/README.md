@@ -73,7 +73,7 @@
   - [ ] [2671](https://www.urionlinejudge.com.br/judge/pt/problems/view/2671) - Decodificando o Texto *Estruturas e Bibliotecas*
   - [ ] [2672](https://www.urionlinejudge.com.br/judge/pt/problems/view/2672) - Máscara de Rede *Ad-Hoc*
   - [ ] [2673](https://www.urionlinejudge.com.br/judge/pt/problems/view/2673) - Resistores Série e Paralelo *Ad-Hoc*
-  - [ ] [2674](https://www.urionlinejudge.com.br/judge/pt/problems/view/2674) - Super Primos: Ativar! *Matemática*
+  - [x] [2674](https://www.urionlinejudge.com.br/judge/pt/problems/view/2674) - [Super Primos: Ativar!](https://github.com/potigol/URI-Potigol/blob/master/src/2601-2700/2674.poti) *Matemática*
   - [ ] [2675](https://www.urionlinejudge.com.br/judge/pt/problems/view/2675) - Rouba Monte *Ad-Hoc*
   - [ ] [2676](https://www.urionlinejudge.com.br/judge/pt/problems/view/2676) - Cidade no Centro *Grafos*
   - [ ] [2677](https://www.urionlinejudge.com.br/judge/pt/problems/view/2677) - Par ou Ímpar *Paradigmas*

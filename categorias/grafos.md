@@ -1,4 +1,4 @@
-# Grafos (0 / 232)
+# Grafos (0 / 236)
 
 ## Problemas não resolvidos
   - [ ] [1053](https://www.urionlinejudge.com.br/judge/pt/problems/view/1053) - Desenho Contínuo
@@ -233,3 +233,7 @@
   - [ ] [3027](https://www.urionlinejudge.com.br/judge/pt/problems/view/3027) - Plano de Treino
   - [ ] [3031](https://www.urionlinejudge.com.br/judge/pt/problems/view/3031) - Xor Spanning Tree
   - [ ] [3061](https://www.urionlinejudge.com.br/judge/pt/problems/view/3061) - Manchas de pele
+  - [ ] [3067](https://www.urionlinejudge.com.br/judge/pt/problems/view/3067) - Dominó
+  - [ ] [3070](https://www.urionlinejudge.com.br/judge/pt/problems/view/3070) - Autoestradas HyperspaceTM
+  - [ ] [3072](https://www.urionlinejudge.com.br/judge/pt/problems/view/3072) - Namoro
+  - [ ] [3075](https://www.urionlinejudge.com.br/judge/pt/problems/view/3075) - Cassinos e Viagem
