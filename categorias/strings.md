@@ -1,4 +1,4 @@
-# Strings (17 / 128)
+# Strings (18 / 128)
 
 ## Problemas não resolvidos
   - [ ] [1120](https://www.urionlinejudge.com.br/judge/pt/problems/view/1120) - Revisão de Contrato
@@ -48,7 +48,6 @@
   - [ ] [1586](https://www.urionlinejudge.com.br/judge/pt/problems/view/1586) - Cabo de Guerra
   - [ ] [1607](https://www.urionlinejudge.com.br/judge/pt/problems/view/1607) - Avance as Letras
   - [ ] [1629](https://www.urionlinejudge.com.br/judge/pt/problems/view/1629) - DescompactaFACE
-  - [ ] [1632](https://www.urionlinejudge.com.br/judge/pt/problems/view/1632) - Variações
   - [ ] [1664](https://www.urionlinejudge.com.br/judge/pt/problems/view/1664) - Bullshit Bingo
   - [ ] [1667](https://www.urionlinejudge.com.br/judge/pt/problems/view/1667) - HTML
   - [ ] [1686](https://www.urionlinejudge.com.br/judge/pt/problems/view/1686) - Sequência de Palíndromos
@@ -120,6 +119,7 @@
   - [x] [1257](https://www.urionlinejudge.com.br/judge/pt/problems/view/1257) - [Array Hash](https://github.com/potigol/URI-Potigol/blob/master/src/1201-1300/1257.poti)
   - [x] [1332](https://www.urionlinejudge.com.br/judge/pt/problems/view/1332) - [Um-Dois-Três](https://github.com/potigol/URI-Potigol/blob/master/src/1301-1400/1332.poti)
   - [x] [1551](https://www.urionlinejudge.com.br/judge/pt/problems/view/1551) - [Frase Completa](https://github.com/potigol/URI-Potigol/blob/master/src/1501-1600/1551.poti)
+  - [x] [1632](https://www.urionlinejudge.com.br/judge/pt/problems/view/1632) - [Variações](https://github.com/potigol/URI-Potigol/blob/master/src/1601-1700/1632.poti)
   - [x] [2174](https://www.urionlinejudge.com.br/judge/pt/problems/view/2174) - [Coleção de Pomekon](https://github.com/potigol/URI-Potigol/blob/master/src/2101-2200/2174.poti)
   - [x] [2242](https://www.urionlinejudge.com.br/judge/pt/problems/view/2242) - [Huaauhahhuahau](https://github.com/potigol/URI-Potigol/blob/master/src/2201-2300/2242.poti)
   - [x] [2587](https://www.urionlinejudge.com.br/judge/pt/problems/view/2587) - [Jetiqui](https://github.com/potigol/URI-Potigol/blob/master/src/2501-2600/2587.poti)

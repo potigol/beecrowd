@@ -1,8 +1,6 @@
-# Iniciante (224 / 299)
+# Iniciante (226 / 299)
 
 ## Problemas não resolvidos
-  - [ ] [1827](https://www.urionlinejudge.com.br/judge/pt/problems/view/1827) - Matriz Quadrada IV
-  - [ ] [1837](https://www.urionlinejudge.com.br/judge/pt/problems/view/1837) - Prefácio
   - [ ] [1848](https://www.urionlinejudge.com.br/judge/pt/problems/view/1848) - Corvo Contador
   - [ ] [1958](https://www.urionlinejudge.com.br/judge/pt/problems/view/1958) - Notação Científica
   - [ ] [1960](https://www.urionlinejudge.com.br/judge/pt/problems/view/1960) - Numeração Romana para Números de Página
@@ -194,7 +192,9 @@
   - [x] [1589](https://www.urionlinejudge.com.br/judge/pt/problems/view/1589) - [Bob Conduite](https://github.com/potigol/URI-Potigol/blob/master/src/1501-1600/1589.poti)
   - [x] [1759](https://www.urionlinejudge.com.br/judge/pt/problems/view/1759) - [Ho Ho Ho](https://github.com/potigol/URI-Potigol/blob/master/src/1701-1800/1759.poti)
   - [x] [1789](https://www.urionlinejudge.com.br/judge/pt/problems/view/1789) - [A Corrida de Lesmas](https://github.com/potigol/URI-Potigol/blob/master/src/1701-1800/1789.poti)
+  - [x] [1827](https://www.urionlinejudge.com.br/judge/pt/problems/view/1827) - [Matriz Quadrada IV](https://github.com/potigol/URI-Potigol/blob/master/src/1801-1900/1827.poti)
   - [x] [1828](https://www.urionlinejudge.com.br/judge/pt/problems/view/1828) - [Bazinga!](https://github.com/potigol/URI-Potigol/blob/master/src/1801-1900/1828.poti)
+  - [x] [1837](https://www.urionlinejudge.com.br/judge/pt/problems/view/1837) - [Prefácio](https://github.com/potigol/URI-Potigol/blob/master/src/1801-1900/1837.poti)
   - [x] [1847](https://www.urionlinejudge.com.br/judge/pt/problems/view/1847) - [Bem-vindos e Bem-vindas ao Inverno!](https://github.com/potigol/URI-Potigol/blob/master/src/1801-1900/1847.poti)
   - [x] [1858](https://www.urionlinejudge.com.br/judge/pt/problems/view/1858) - [A Resposta de Theon](https://github.com/potigol/URI-Potigol/blob/master/src/1801-1900/1858.poti)
   - [x] [1864](https://www.urionlinejudge.com.br/judge/pt/problems/view/1864) - [Nossos Dias Nunca Voltarão](https://github.com/potigol/URI-Potigol/blob/master/src/1801-1900/1864.poti)

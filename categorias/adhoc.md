@@ -1,4 +1,4 @@
-# Ad-Hoc (58 / 692)
+# Ad-Hoc (59 / 692)
 
 ## Problemas não resolvidos
   - [ ] [1026](https://www.urionlinejudge.com.br/judge/pt/problems/view/1026) - Carrega ou não Carrega?
@@ -360,7 +360,6 @@
   - [ ] [2325](https://www.urionlinejudge.com.br/judge/pt/problems/view/2325) - Repositórios
   - [ ] [2326](https://www.urionlinejudge.com.br/judge/pt/problems/view/2326) - Sacoleiro
   - [ ] [2327](https://www.urionlinejudge.com.br/judge/pt/problems/view/2327) - Quadrados
-  - [ ] [2328](https://www.urionlinejudge.com.br/judge/pt/problems/view/2328) - Chocolate
   - [ ] [2329](https://www.urionlinejudge.com.br/judge/pt/problems/view/2329) - Pão a Metro
   - [ ] [2330](https://www.urionlinejudge.com.br/judge/pt/problems/view/2330) - Telemarketing
   - [ ] [2331](https://www.urionlinejudge.com.br/judge/pt/problems/view/2331) - Uiquipédia
@@ -655,6 +654,7 @@
   - [x] [2188](https://www.urionlinejudge.com.br/judge/pt/problems/view/2188) - [Macaco-prego](https://github.com/potigol/URI-Potigol/blob/master/src/2101-2200/2188.poti)
   - [x] [2217](https://www.urionlinejudge.com.br/judge/pt/problems/view/2217) - [Nove](https://github.com/potigol/URI-Potigol/blob/master/src/2201-2300/2217.poti)
   - [x] [2295](https://www.urionlinejudge.com.br/judge/pt/problems/view/2295) - [Frota de Táxi](https://github.com/potigol/URI-Potigol/blob/master/src/2201-2300/2295.poti)
+  - [x] [2328](https://www.urionlinejudge.com.br/judge/pt/problems/view/2328) - [Chocolate](https://github.com/potigol/URI-Potigol/blob/master/src/2301-2400/2328.poti)
   - [x] [2339](https://www.urionlinejudge.com.br/judge/pt/problems/view/2339) - [Aviões de Papel](https://github.com/potigol/URI-Potigol/blob/master/src/2301-2400/2339.poti)
   - [x] [2345](https://www.urionlinejudge.com.br/judge/pt/problems/view/2345) - [Assigning Teams](https://github.com/potigol/URI-Potigol/blob/master/src/2301-2400/2345.poti)
   - [x] [2369](https://www.urionlinejudge.com.br/judge/pt/problems/view/2369) - [Conta de Água](https://github.com/potigol/URI-Potigol/blob/master/src/2301-2400/2369.poti)

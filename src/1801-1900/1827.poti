@@ -1,0 +1,19 @@
+var n := leia_inteiro
+enquanto n > 0 faça
+  a = n div 3
+  b = n - a
+  m = n div 2 + 1
+  s = para i de 1 até n gere
+        para j de 1 até n gere
+          escolha (i, j)
+            caso (i, j) se i == m e j == m                 => '4'
+            caso (i, j) se i > a e i <= b e j > a e j <= b => '1'
+            caso (i, j) se i == j                          => '2'
+            caso (i, j) se i + j == n + 1                  => '3'
+            caso _                                         => '0'
+          fim
+        fim.junte("")
+      fim
+  escreva s.junte("", "\n", "\n")
+  n := leia_inteiro
+fim

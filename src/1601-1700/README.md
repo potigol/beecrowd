@@ -31,7 +31,7 @@
   - [ ] [1629](https://www.urionlinejudge.com.br/judge/pt/problems/view/1629) - DescompactaFACE *Strings*
   - [ ] [1630](https://www.urionlinejudge.com.br/judge/pt/problems/view/1630) - Estacas *Matemática*
   - [ ] [1631](https://www.urionlinejudge.com.br/judge/pt/problems/view/1631) - O Fantástico Bolo de Bobby *Geometria Computacional*
-  - [ ] [1632](https://www.urionlinejudge.com.br/judge/pt/problems/view/1632) - Variações *Strings*
+  - [x] [1632](https://www.urionlinejudge.com.br/judge/pt/problems/view/1632) - [Variações](https://github.com/potigol/URI-Potigol/blob/master/src/1601-1700/1632.poti) *Strings*
   - [ ] [1633](https://www.urionlinejudge.com.br/judge/pt/problems/view/1633) - SBC *Estruturas e Bibliotecas*
   - [ ] [1634](https://www.urionlinejudge.com.br/judge/pt/problems/view/1634) - Outra Loteria *Matemática*
   - [ ] [1635](https://www.urionlinejudge.com.br/judge/pt/problems/view/1635) - Resultado das Eleições *Matemática*

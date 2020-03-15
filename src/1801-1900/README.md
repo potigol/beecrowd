@@ -26,7 +26,7 @@
   - [ ] [1824](https://www.urionlinejudge.com.br/judge/pt/problems/view/1824) - Sapos de Tsé-Tsé *Ad-Hoc*
   - [ ] [1825](https://www.urionlinejudge.com.br/judge/pt/problems/view/1825) - Formigando *Geometria Computacional*
   - [ ] [1826](https://www.urionlinejudge.com.br/judge/pt/problems/view/1826) - A Linguagem é Infinita? *Grafos*
-  - [ ] [1827](https://www.urionlinejudge.com.br/judge/pt/problems/view/1827) - Matriz Quadrada IV *Iniciante*
+  - [x] [1827](https://www.urionlinejudge.com.br/judge/pt/problems/view/1827) - [Matriz Quadrada IV](https://github.com/potigol/URI-Potigol/blob/master/src/1801-1900/1827.poti) *Iniciante*
   - [x] [1828](https://www.urionlinejudge.com.br/judge/pt/problems/view/1828) - [Bazinga!](https://github.com/potigol/URI-Potigol/blob/master/src/1801-1900/1828.poti) *Iniciante*
   - [ ] [1829](https://www.urionlinejudge.com.br/judge/pt/problems/view/1829) - Jogo do Maior Número *Matemática*
   - [ ] [1830](https://www.urionlinejudge.com.br/judge/pt/problems/view/1830) - Caixas de Bombons *Matemática*
@@ -36,7 +36,7 @@
   - [ ] [1834](https://www.urionlinejudge.com.br/judge/pt/problems/view/1834) - Vogons! *Geometria Computacional*
   - [ ] [1835](https://www.urionlinejudge.com.br/judge/pt/problems/view/1835) - Promessa de Campanha *Grafos*
   - [ ] [1836](https://www.urionlinejudge.com.br/judge/pt/problems/view/1836) - Pokémon! *Ad-Hoc*
-  - [ ] [1837](https://www.urionlinejudge.com.br/judge/pt/problems/view/1837) - Prefácio *Iniciante*
+  - [x] [1837](https://www.urionlinejudge.com.br/judge/pt/problems/view/1837) - [Prefácio](https://github.com/potigol/URI-Potigol/blob/master/src/1801-1900/1837.poti) *Iniciante*
   - [ ] [1838](https://www.urionlinejudge.com.br/judge/pt/problems/view/1838) - A Pedra Filosofal *Paradigmas*
   - [ ] [1839](https://www.urionlinejudge.com.br/judge/pt/problems/view/1839) - A Câmara Secreta *Matemática*
   - [ ] [1840](https://www.urionlinejudge.com.br/judge/pt/problems/view/1840) - O Prisioneiro de Azkaban *Ad-Hoc*

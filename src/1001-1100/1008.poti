@@ -2,6 +2,5 @@ n = leia_inteiro
 h = leia_inteiro
 s_h = leia_real
 s = h * s_h
-f = s formato "%.2f"
 escreva "NUMBER = {n}"
-escreva "SALARY = U$ {f}"
+escreva "SALARY = U$ {s formato "%.2f"}"

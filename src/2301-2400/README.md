@@ -27,7 +27,7 @@
   - [ ] [2325](https://www.urionlinejudge.com.br/judge/pt/problems/view/2325) - Repositórios *Ad-Hoc*
   - [ ] [2326](https://www.urionlinejudge.com.br/judge/pt/problems/view/2326) - Sacoleiro *Ad-Hoc*
   - [ ] [2327](https://www.urionlinejudge.com.br/judge/pt/problems/view/2327) - Quadrados *Ad-Hoc*
-  - [ ] [2328](https://www.urionlinejudge.com.br/judge/pt/problems/view/2328) - Chocolate *Ad-Hoc*
+  - [x] [2328](https://www.urionlinejudge.com.br/judge/pt/problems/view/2328) - [Chocolate](https://github.com/potigol/URI-Potigol/blob/master/src/2301-2400/2328.poti) *Ad-Hoc*
   - [ ] [2329](https://www.urionlinejudge.com.br/judge/pt/problems/view/2329) - Pão a Metro *Ad-Hoc*
   - [ ] [2330](https://www.urionlinejudge.com.br/judge/pt/problems/view/2330) - Telemarketing *Ad-Hoc*
   - [ ] [2331](https://www.urionlinejudge.com.br/judge/pt/problems/view/2331) - Uiquipédia *Ad-Hoc*

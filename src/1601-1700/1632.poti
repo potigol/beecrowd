@@ -1,0 +1,8 @@
+t = leia_inteiro
+para i de 1 até t faça
+  s = leia_texto.minusculo
+  m = s.lista
+       .mapeie(c => se "aeios".contém(c) então 3 senão 2 fim)
+       .injete(1)(_ * _)
+  escreva m
+fim

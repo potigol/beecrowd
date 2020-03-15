@@ -1,0 +1,11 @@
+s = leia_inteiros(" ")
+a, b = s[1], s[2]
+q, r = a.abs div b.abs, a.abs mod b.abs
+saida = escolha (a, b)
+  caso (a, b) se r == 0         => (a div b, 0)
+  caso (a, b) se a > 0 e b > 0  => (q, r)
+  caso (a, b) se a > 0          => (-q, r)
+  caso (a, b) se b > 0          => (-(q + 1), b.abs - r)  
+  caso _                        => (q + 1, b.abs - r)
+fim
+escreva "{saida.primeiro} {saida.segundo}"
