@@ -1,0 +1,16 @@
+n = leia_texto
+a = ("00" + n).lista.inverta.pegue(3).mapeie(_ - '0')
+r = "IVXLCDM"
+
+var s := ""
+para i de 3 ate 1 passo -1 faca
+  d = r.descarte(i * 2 - 2).pegue(3)
+  s := s + (escolha a[i]
+    caso 9          => "{d[1]}{d[3]}"
+    caso x se x > 4 => "{d[2]}" + "{d[1]}" * (x - 5)
+    caso 4          => "{d[1]}{d[2]}"
+    caso x se x > 0 => "{d[1]}" * x
+    caso _          => ""
+  fim)
+fim
+escreva s

@@ -1,0 +1,6 @@
+s = leia_texto
+se s.tamanho <= 80 então
+  escreva "YES"
+senão
+  escreva "NO"
+fim

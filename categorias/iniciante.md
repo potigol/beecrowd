@@ -1,9 +1,6 @@
-# Iniciante (226 / 299)
+# Iniciante (229 / 299)
 
 ## Problemas não resolvidos
-  - [ ] [1848](https://www.urionlinejudge.com.br/judge/pt/problems/view/1848) - Corvo Contador
-  - [ ] [1958](https://www.urionlinejudge.com.br/judge/pt/problems/view/1958) - Notação Científica
-  - [ ] [1960](https://www.urionlinejudge.com.br/judge/pt/problems/view/1960) - Numeração Romana para Números de Página
   - [ ] [1973](https://www.urionlinejudge.com.br/judge/pt/problems/view/1973) - Jornada nas Estrelas
   - [ ] [2003](https://www.urionlinejudge.com.br/judge/pt/problems/view/2003) - Domingo de Manhã
   - [ ] [2028](https://www.urionlinejudge.com.br/judge/pt/problems/view/2028) - Sequência de Sequência
@@ -196,6 +193,7 @@
   - [x] [1828](https://www.urionlinejudge.com.br/judge/pt/problems/view/1828) - [Bazinga!](https://github.com/potigol/URI-Potigol/blob/master/src/1801-1900/1828.poti)
   - [x] [1837](https://www.urionlinejudge.com.br/judge/pt/problems/view/1837) - [Prefácio](https://github.com/potigol/URI-Potigol/blob/master/src/1801-1900/1837.poti)
   - [x] [1847](https://www.urionlinejudge.com.br/judge/pt/problems/view/1847) - [Bem-vindos e Bem-vindas ao Inverno!](https://github.com/potigol/URI-Potigol/blob/master/src/1801-1900/1847.poti)
+  - [x] [1848](https://www.urionlinejudge.com.br/judge/pt/problems/view/1848) - [Corvo Contador](https://github.com/potigol/URI-Potigol/blob/master/src/1801-1900/1848.poti)
   - [x] [1858](https://www.urionlinejudge.com.br/judge/pt/problems/view/1858) - [A Resposta de Theon](https://github.com/potigol/URI-Potigol/blob/master/src/1801-1900/1858.poti)
   - [x] [1864](https://www.urionlinejudge.com.br/judge/pt/problems/view/1864) - [Nossos Dias Nunca Voltarão](https://github.com/potigol/URI-Potigol/blob/master/src/1801-1900/1864.poti)
   - [x] [1865](https://www.urionlinejudge.com.br/judge/pt/problems/view/1865) - [Mjölnir](https://github.com/potigol/URI-Potigol/blob/master/src/1801-1900/1865.poti)
@@ -206,7 +204,9 @@
   - [x] [1930](https://www.urionlinejudge.com.br/judge/pt/problems/view/1930) - [Tomadas](https://github.com/potigol/URI-Potigol/blob/master/src/1901-2000/1930.poti)
   - [x] [1933](https://www.urionlinejudge.com.br/judge/pt/problems/view/1933) - [Tri-du](https://github.com/potigol/URI-Potigol/blob/master/src/1901-2000/1933.poti)
   - [x] [1957](https://www.urionlinejudge.com.br/judge/pt/problems/view/1957) - [Converter para Hexadecimal](https://github.com/potigol/URI-Potigol/blob/master/src/1901-2000/1957.poti)
+  - [x] [1958](https://www.urionlinejudge.com.br/judge/pt/problems/view/1958) - [Notação Científica](https://github.com/potigol/URI-Potigol/blob/master/src/1901-2000/1958.poti)
   - [x] [1959](https://www.urionlinejudge.com.br/judge/pt/problems/view/1959) - [Polígonos Regulares Simples](https://github.com/potigol/URI-Potigol/blob/master/src/1901-2000/1959.poti)
+  - [x] [1960](https://www.urionlinejudge.com.br/judge/pt/problems/view/1960) - [Numeração Romana para Números de Página](https://github.com/potigol/URI-Potigol/blob/master/src/1901-2000/1960.poti)
   - [x] [1961](https://www.urionlinejudge.com.br/judge/pt/problems/view/1961) - [Pula Sapo](https://github.com/potigol/URI-Potigol/blob/master/src/1901-2000/1961.poti)
   - [x] [1962](https://www.urionlinejudge.com.br/judge/pt/problems/view/1962) - [Há Muito, Muito Tempo Atrás](https://github.com/potigol/URI-Potigol/blob/master/src/1901-2000/1962.poti)
   - [x] [1963](https://www.urionlinejudge.com.br/judge/pt/problems/view/1963) - [O Filme](https://github.com/potigol/URI-Potigol/blob/master/src/1901-2000/1963.poti)

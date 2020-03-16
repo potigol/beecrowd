@@ -57,9 +57,9 @@
   - [ ] [1955](https://www.urionlinejudge.com.br/judge/pt/problems/view/1955) - See World *Grafos*
   - [ ] [1956](https://www.urionlinejudge.com.br/judge/pt/problems/view/1956) - Acácias *Grafos*
   - [x] [1957](https://www.urionlinejudge.com.br/judge/pt/problems/view/1957) - [Converter para Hexadecimal](https://github.com/potigol/URI-Potigol/blob/master/src/1901-2000/1957.poti) *Iniciante*
-  - [ ] [1958](https://www.urionlinejudge.com.br/judge/pt/problems/view/1958) - Notação Científica *Iniciante*
+  - [x] [1958](https://www.urionlinejudge.com.br/judge/pt/problems/view/1958) - [Notação Científica](https://github.com/potigol/URI-Potigol/blob/master/src/1901-2000/1958.poti) *Iniciante*
   - [x] [1959](https://www.urionlinejudge.com.br/judge/pt/problems/view/1959) - [Polígonos Regulares Simples](https://github.com/potigol/URI-Potigol/blob/master/src/1901-2000/1959.poti) *Iniciante*
-  - [ ] [1960](https://www.urionlinejudge.com.br/judge/pt/problems/view/1960) - Numeração Romana para Números de Página *Iniciante*
+  - [x] [1960](https://www.urionlinejudge.com.br/judge/pt/problems/view/1960) - [Numeração Romana para Números de Página](https://github.com/potigol/URI-Potigol/blob/master/src/1901-2000/1960.poti) *Iniciante*
   - [x] [1961](https://www.urionlinejudge.com.br/judge/pt/problems/view/1961) - [Pula Sapo](https://github.com/potigol/URI-Potigol/blob/master/src/1901-2000/1961.poti) *Iniciante*
   - [x] [1962](https://www.urionlinejudge.com.br/judge/pt/problems/view/1962) - [Há Muito, Muito Tempo Atrás](https://github.com/potigol/URI-Potigol/blob/master/src/1901-2000/1962.poti) *Iniciante*
   - [x] [1963](https://www.urionlinejudge.com.br/judge/pt/problems/view/1963) - [O Filme](https://github.com/potigol/URI-Potigol/blob/master/src/1901-2000/1963.poti) *Iniciante*

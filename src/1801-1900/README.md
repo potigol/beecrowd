@@ -47,7 +47,7 @@
   - [ ] [1845](https://www.urionlinejudge.com.br/judge/pt/problems/view/1845) - Efílogo *Ad-Hoc*
   - [ ] [1846](https://www.urionlinejudge.com.br/judge/pt/problems/view/1846) - Numero Para Nome *Strings*
   - [x] [1847](https://www.urionlinejudge.com.br/judge/pt/problems/view/1847) - [Bem-vindos e Bem-vindas ao Inverno!](https://github.com/potigol/URI-Potigol/blob/master/src/1801-1900/1847.poti) *Iniciante*
-  - [ ] [1848](https://www.urionlinejudge.com.br/judge/pt/problems/view/1848) - Corvo Contador *Iniciante*
+  - [x] [1848](https://www.urionlinejudge.com.br/judge/pt/problems/view/1848) - [Corvo Contador](https://github.com/potigol/URI-Potigol/blob/master/src/1801-1900/1848.poti) *Iniciante*
   - [ ] [1849](https://www.urionlinejudge.com.br/judge/pt/problems/view/1849) - Dracarys! *Ad-Hoc*
   - [ ] [1850](https://www.urionlinejudge.com.br/judge/pt/problems/view/1850) - O Labirinto de Ninguém *Grafos*
   - [ ] [1851](https://www.urionlinejudge.com.br/judge/pt/problems/view/1851) - Como Treinar Seu Dragão *Estruturas e Bibliotecas*
