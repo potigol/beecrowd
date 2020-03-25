@@ -1,4 +1,4 @@
-# Ad-Hoc (59 / 692)
+# Ad-Hoc (60 / 692)
 
 ## Problemas não resolvidos
   - [ ] [1026](https://www.urionlinejudge.com.br/judge/pt/problems/view/1026) - Carrega ou não Carrega?
@@ -139,7 +139,6 @@
   - [ ] [1684](https://www.urionlinejudge.com.br/judge/pt/problems/view/1684) - Maratona Doce
   - [ ] [1691](https://www.urionlinejudge.com.br/judge/pt/problems/view/1691) - Super Circunferência
   - [ ] [1699](https://www.urionlinejudge.com.br/judge/pt/problems/view/1699) - Jogo Entediante
-  - [ ] [1708](https://www.urionlinejudge.com.br/judge/pt/problems/view/1708) - Volta
   - [ ] [1710](https://www.urionlinejudge.com.br/judge/pt/problems/view/1710) - Confederação
   - [ ] [1712](https://www.urionlinejudge.com.br/judge/pt/problems/view/1712) - Ecologia
   - [ ] [1714](https://www.urionlinejudge.com.br/judge/pt/problems/view/1714) - Letras
@@ -645,6 +644,7 @@
   - [x] [1387](https://www.urionlinejudge.com.br/judge/pt/problems/view/1387) - [Og](https://github.com/potigol/URI-Potigol/blob/master/src/1301-1400/1387.poti)
   - [x] [1441](https://www.urionlinejudge.com.br/judge/pt/problems/view/1441) - [Sequências de Granizo](https://github.com/potigol/URI-Potigol/blob/master/src/1401-1500/1441.poti)
   - [x] [1573](https://www.urionlinejudge.com.br/judge/pt/problems/view/1573) - [Fábrica de Chocolate](https://github.com/potigol/URI-Potigol/blob/master/src/1501-1600/1573.poti)
+  - [x] [1708](https://www.urionlinejudge.com.br/judge/pt/problems/view/1708) - [Volta](https://github.com/potigol/URI-Potigol/blob/master/src/1701-1800/1708.poti)
   - [x] [1743](https://www.urionlinejudge.com.br/judge/pt/problems/view/1743) - [Máquina de Verificação Automatizada](https://github.com/potigol/URI-Potigol/blob/master/src/1701-1800/1743.poti)
   - [x] [1794](https://www.urionlinejudge.com.br/judge/pt/problems/view/1794) - [Lavanderia](https://github.com/potigol/URI-Potigol/blob/master/src/1701-1800/1794.poti)
   - [x] [1867](https://www.urionlinejudge.com.br/judge/pt/problems/view/1867) - [Maior Número de Um Algarismo](https://github.com/potigol/URI-Potigol/blob/master/src/1801-1900/1867.poti)

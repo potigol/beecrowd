@@ -1617,11 +1617,11 @@
 2628	Caça ao Tesouro	Ad-Hoc
 2629	Rodoido	Ad-Hoc
 2630	Escala de Cinza	Iniciante
-2631	Formando Duplas	Iniciante
+2631	Formando Duplas	Grafos
 2632	Magic and Sword	Iniciante
 2633	Churras no Yuri	Estruturas e Bibliotecas
 2634	Em Prol da Ciência	Ad-Hoc
-2635	Navegador Web	_Iniciante_x
+2635	Navegador Web	Iniciante
 2636	3-RSA	Matemática
 2637	Casa do Batera	Grafos
 2639	Cluedo	Ad-Hoc
@@ -1731,7 +1731,7 @@
 2748	Saída 2	Iniciante
 2749	Saída 3	Iniciante
 2750	Saída 4	Iniciante
-2751	Saída 5	Iniciante
+2751	Saída 5	_Iniciante_x
 2752	Saída 6	Iniciante
 2753	Saída 7	Iniciante
 2754	Saída 8	Iniciante
@@ -1940,7 +1940,7 @@
 2957	Sir Vô	Ad-Hoc
 2958	O Rolê Bad Vibes	Estruturas e Bibliotecas
 2959	Credo com ParaTudo!	Grafos
-2960	Era Uma Vez…	Strings
+2960	Era Uma Vez…	_Strings_x
 2961	Ô, Que Tanto de Filme!	Estruturas e Bibliotecas
 2962	Arte Valiosa	Grafos
 2963	Bobo da Corte	Iniciante

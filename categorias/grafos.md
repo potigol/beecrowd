@@ -1,4 +1,4 @@
-# Grafos (0 / 236)
+# Grafos (0 / 237)
 
 ## Problemas não resolvidos
   - [ ] [1053](https://www.urionlinejudge.com.br/judge/pt/problems/view/1053) - Desenho Contínuo
@@ -197,6 +197,7 @@
   - [ ] [2562](https://www.urionlinejudge.com.br/judge/pt/problems/view/2562) - Tipos Analógimôn
   - [ ] [2566](https://www.urionlinejudge.com.br/judge/pt/problems/view/2566) - Viagem Para BH
   - [ ] [2585](https://www.urionlinejudge.com.br/judge/pt/problems/view/2585) - Dominó Incompleto
+  - [ ] [2631](https://www.urionlinejudge.com.br/judge/pt/problems/view/2631) - Formando Duplas
   - [ ] [2637](https://www.urionlinejudge.com.br/judge/pt/problems/view/2637) - Casa do Batera
   - [ ] [2652](https://www.urionlinejudge.com.br/judge/pt/problems/view/2652) - Quantas Árvores?
   - [ ] [2657](https://www.urionlinejudge.com.br/judge/pt/problems/view/2657) - Sensate
