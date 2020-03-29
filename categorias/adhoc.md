@@ -1,4 +1,4 @@
-# Ad-Hoc (60 / 692)
+# Ad-Hoc (61 / 691)
 
 ## Problemas não resolvidos
   - [ ] [1026](https://www.urionlinejudge.com.br/judge/pt/problems/view/1026) - Carrega ou não Carrega?
@@ -384,7 +384,6 @@
   - [ ] [2368](https://www.urionlinejudge.com.br/judge/pt/problems/view/2368) - Simulador
   - [ ] [2370](https://www.urionlinejudge.com.br/judge/pt/problems/view/2370) - Times
   - [ ] [2371](https://www.urionlinejudge.com.br/judge/pt/problems/view/2371) - Batalha Naval
-  - [ ] [2372](https://www.urionlinejudge.com.br/judge/pt/problems/view/2372) - Reunião
   - [ ] [2376](https://www.urionlinejudge.com.br/judge/pt/problems/view/2376) - Copa do Mundo
   - [ ] [2378](https://www.urionlinejudge.com.br/judge/pt/problems/view/2378) - Elevador
   - [ ] [2379](https://www.urionlinejudge.com.br/judge/pt/problems/view/2379) - Dança Indígena
@@ -528,7 +527,6 @@
   - [ ] [2796](https://www.urionlinejudge.com.br/judge/pt/problems/view/2796) - Planta da Casa
   - [ ] [2797](https://www.urionlinejudge.com.br/judge/pt/problems/view/2797) - Aplicando Prova
   - [ ] [2798](https://www.urionlinejudge.com.br/judge/pt/problems/view/2798) - Lero-Lero da Mineira
-  - [ ] [2803](https://www.urionlinejudge.com.br/judge/pt/problems/view/2803) - Estados do Norte
   - [ ] [2806](https://www.urionlinejudge.com.br/judge/pt/problems/view/2806) - Ingredientes Típicos
   - [ ] [2814](https://www.urionlinejudge.com.br/judge/pt/problems/view/2814) - Música Alta
   - [ ] [2829](https://www.urionlinejudge.com.br/judge/pt/problems/view/2829) - Maiúsculas, Por Quê?
@@ -688,6 +686,7 @@
   - [x] [2479](https://www.urionlinejudge.com.br/judge/pt/problems/view/2479) - [Ordenando a Lista de Crianças do Papai Noel](https://github.com/potigol/URI-Potigol/blob/master/src/2401-2500/2479.poti)
   - [x] [2569](https://www.urionlinejudge.com.br/judge/pt/problems/view/2569) - [A Bruxa do 7 x 1](https://github.com/potigol/URI-Potigol/blob/master/src/2501-2600/2569.poti)
   - [x] [2679](https://www.urionlinejudge.com.br/judge/pt/problems/view/2679) - [Sucessor Par](https://github.com/potigol/URI-Potigol/blob/master/src/2601-2700/2679.poti)
+  - [x] [2803](https://www.urionlinejudge.com.br/judge/pt/problems/view/2803) - [Estados do Norte](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2803.poti)
   - [x] [2830](https://www.urionlinejudge.com.br/judge/pt/problems/view/2830) - [Copa](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2830.poti)
   - [x] [2851](https://www.urionlinejudge.com.br/judge/pt/problems/view/2851) - [Desafio de Rangel](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2851.poti)
   - [x] [2858](https://www.urionlinejudge.com.br/judge/pt/problems/view/2858) - [Tabuleiro Infinito](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2858.poti)

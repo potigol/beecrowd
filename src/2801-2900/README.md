@@ -2,7 +2,7 @@
 
   - [ ] [2801](https://www.urionlinejudge.com.br/judge/pt/problems/view/2801) - Cifra Affine *Matemática*
   - [ ] [2802](https://www.urionlinejudge.com.br/judge/pt/problems/view/2802) - Dividindo Círculos *Iniciante*
-  - [ ] [2803](https://www.urionlinejudge.com.br/judge/pt/problems/view/2803) - Estados do Norte *Ad-Hoc*
+  - [x] [2803](https://www.urionlinejudge.com.br/judge/pt/problems/view/2803) - [Estados do Norte](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2803.poti) *Ad-Hoc*
   - [ ] [2804](https://www.urionlinejudge.com.br/judge/pt/problems/view/2804) - Ferrovias *Grafos*
   - [ ] [2805](https://www.urionlinejudge.com.br/judge/pt/problems/view/2805) - Binarizando a Matriz *Estruturas e Bibliotecas*
   - [ ] [2806](https://www.urionlinejudge.com.br/judge/pt/problems/view/2806) - Ingredientes Típicos *Ad-Hoc*
@@ -62,7 +62,7 @@
   - [ ] [2860](https://www.urionlinejudge.com.br/judge/pt/problems/view/2860) - A Paz em Spar-Ta *Estruturas e Bibliotecas*
   - [x] [2861](https://www.urionlinejudge.com.br/judge/pt/problems/view/2861) - [A Saída](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2861.poti) *Iniciante*
   - [x] [2862](https://www.urionlinejudge.com.br/judge/pt/problems/view/2862) - [Inseto!](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2862.poti) *Iniciante*
-  - [ ] [2863](https://www.urionlinejudge.com.br/judge/pt/problems/view/2863) - Umil Bolt *Iniciante*
+  - [x] [2863](https://www.urionlinejudge.com.br/judge/pt/problems/view/2863) - [Umil Bolt](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2863.poti) *Iniciante*
   - [ ] [2864](https://www.urionlinejudge.com.br/judge/pt/problems/view/2864) - Qual é a Altura? *Matemática*
   - [ ] [2865](https://www.urionlinejudge.com.br/judge/pt/problems/view/2865) - Palíndromo Binário *Ad-Hoc*
   - [x] [2866](https://www.urionlinejudge.com.br/judge/pt/problems/view/2866) - [Criptotexto](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2866.poti) *Strings*

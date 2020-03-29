@@ -1,0 +1,23 @@
+a = leia_inteiros(" ")
+n, g = a[1], a[2]
+valores = Lista.mutavel('Z', 0)
+para i de 1 ate n gere
+  b = leia_textos(" ")
+  r, v = b[1].cabeca, b[2].inteiro
+  valores[r] := v
+fim
+
+x = leia_inteiro
+letras = leia_texto.divida(" ").mapeie(_.cabeca)
+
+var saida := 0
+para letra em letras faca
+  saida := saida + valores[letra]
+fim
+escreva saida
+
+se saida >= g entao
+  escreva "You shall pass!"
+senao
+  escreva "My precioooous"
+fim

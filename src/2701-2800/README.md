@@ -61,7 +61,7 @@
   - [x] [2759](https://www.urionlinejudge.com.br/judge/pt/problems/view/2759) - [Entrada e Saída de Carácter](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2759.poti) *Iniciante*
   - [x] [2760](https://www.urionlinejudge.com.br/judge/pt/problems/view/2760) - [Entrada e Saída de String](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2760.poti) *Iniciante*
   - [ ] [2761](https://www.urionlinejudge.com.br/judge/pt/problems/view/2761) - Entrada e Saída de Vários Tipos *Iniciante*
-  - [ ] [2762](https://www.urionlinejudge.com.br/judge/pt/problems/view/2762) - Entrada e Saída 6 *Iniciante*
+  - [x] [2762](https://www.urionlinejudge.com.br/judge/pt/problems/view/2762) - [Entrada e Saída 6](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2762.poti) *Iniciante*
   - [x] [2763](https://www.urionlinejudge.com.br/judge/pt/problems/view/2763) - [Entrada e Saída CPF](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2763.poti) *Iniciante*
   - [x] [2764](https://www.urionlinejudge.com.br/judge/pt/problems/view/2764) - [Entrada e Saída de Data](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2764.poti) *Iniciante*
   - [x] [2765](https://www.urionlinejudge.com.br/judge/pt/problems/view/2765) - [Entrada e Saída com Virgula](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2765.poti) *Iniciante*

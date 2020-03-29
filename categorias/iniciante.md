@@ -1,4 +1,4 @@
-# Iniciante (230 / 298)
+# Iniciante (233 / 298)
 
 ## Problemas não resolvidos
   - [ ] [1973](https://www.urionlinejudge.com.br/judge/pt/problems/view/1973) - Jornada nas Estrelas
@@ -44,7 +44,6 @@
   - [ ] [2724](https://www.urionlinejudge.com.br/judge/pt/problems/view/2724) - Ajude Patatatitu
   - [ ] [2758](https://www.urionlinejudge.com.br/judge/pt/problems/view/2758) - Entrada e Saída de Números Reais
   - [ ] [2761](https://www.urionlinejudge.com.br/judge/pt/problems/view/2761) - Entrada e Saída de Vários Tipos
-  - [ ] [2762](https://www.urionlinejudge.com.br/judge/pt/problems/view/2762) - Entrada e Saída 6
   - [ ] [2769](https://www.urionlinejudge.com.br/judge/pt/problems/view/2769) - Linha de Montagem
   - [ ] [2770](https://www.urionlinejudge.com.br/judge/pt/problems/view/2770) - Tamanho da Placa
   - [ ] [2775](https://www.urionlinejudge.com.br/judge/pt/problems/view/2775) - Preparando a Produção
@@ -57,8 +56,6 @@
   - [ ] [2812](https://www.urionlinejudge.com.br/judge/pt/problems/view/2812) - Laércio
   - [ ] [2823](https://www.urionlinejudge.com.br/judge/pt/problems/view/2823) - Eearliest Deadline First
   - [ ] [2852](https://www.urionlinejudge.com.br/judge/pt/problems/view/2852) - Troca de Mensagens
-  - [ ] [2863](https://www.urionlinejudge.com.br/judge/pt/problems/view/2863) - Umil Bolt
-  - [ ] [2951](https://www.urionlinejudge.com.br/judge/pt/problems/view/2951) - O Retorno do Rei
   - [ ] [2952](https://www.urionlinejudge.com.br/judge/pt/problems/view/2952) - A Vida Sustentável
   - [ ] [2982](https://www.urionlinejudge.com.br/judge/pt/problems/view/2982) - A Greve para ou Continua?
   - [ ] [3037](https://www.urionlinejudge.com.br/judge/pt/problems/view/3037) - Jogando dardos por distância
@@ -263,6 +260,7 @@
   - [x] [2757](https://www.urionlinejudge.com.br/judge/pt/problems/view/2757) - [Entrada e Saída de Números Inteiros](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2757.poti)
   - [x] [2759](https://www.urionlinejudge.com.br/judge/pt/problems/view/2759) - [Entrada e Saída de Carácter](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2759.poti)
   - [x] [2760](https://www.urionlinejudge.com.br/judge/pt/problems/view/2760) - [Entrada e Saída de String](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2760.poti)
+  - [x] [2762](https://www.urionlinejudge.com.br/judge/pt/problems/view/2762) - [Entrada e Saída 6](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2762.poti)
   - [x] [2763](https://www.urionlinejudge.com.br/judge/pt/problems/view/2763) - [Entrada e Saída CPF](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2763.poti)
   - [x] [2764](https://www.urionlinejudge.com.br/judge/pt/problems/view/2764) - [Entrada e Saída de Data](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2764.poti)
   - [x] [2765](https://www.urionlinejudge.com.br/judge/pt/problems/view/2765) - [Entrada e Saída com Virgula](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2765.poti)
@@ -283,6 +281,7 @@
   - [x] [2850](https://www.urionlinejudge.com.br/judge/pt/problems/view/2850) - [Papagaio Poliglota](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2850.poti)
   - [x] [2861](https://www.urionlinejudge.com.br/judge/pt/problems/view/2861) - [A Saída](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2861.poti)
   - [x] [2862](https://www.urionlinejudge.com.br/judge/pt/problems/view/2862) - [Inseto!](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2862.poti)
+  - [x] [2863](https://www.urionlinejudge.com.br/judge/pt/problems/view/2863) - [Umil Bolt](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2863.poti)
   - [x] [2867](https://www.urionlinejudge.com.br/judge/pt/problems/view/2867) - [Dígitos](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2867.poti)
   - [x] [2879](https://www.urionlinejudge.com.br/judge/pt/problems/view/2879) - [Desvendando Monty Hall](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2879.poti)
   - [x] [2896](https://www.urionlinejudge.com.br/judge/pt/problems/view/2896) - [Aproveite a Oferta](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2896.poti)
@@ -290,6 +289,7 @@
   - [x] [2936](https://www.urionlinejudge.com.br/judge/pt/problems/view/2936) - [Quanta Mandioca?](https://github.com/potigol/URI-Potigol/blob/master/src/2901-3000/2936.poti)
   - [x] [2949](https://www.urionlinejudge.com.br/judge/pt/problems/view/2949) - [A Sociedade do Anel](https://github.com/potigol/URI-Potigol/blob/master/src/2901-3000/2949.poti)
   - [x] [2950](https://www.urionlinejudge.com.br/judge/pt/problems/view/2950) - [As Duas Torres](https://github.com/potigol/URI-Potigol/blob/master/src/2901-3000/2950.poti)
+  - [x] [2951](https://www.urionlinejudge.com.br/judge/pt/problems/view/2951) - [O Retorno do Rei](https://github.com/potigol/URI-Potigol/blob/master/src/2901-3000/2951.poti)
   - [x] [2963](https://www.urionlinejudge.com.br/judge/pt/problems/view/2963) - [Bobo da Corte](https://github.com/potigol/URI-Potigol/blob/master/src/2901-3000/2963.poti)
   - [x] [2968](https://www.urionlinejudge.com.br/judge/pt/problems/view/2968) - [Hora da Corrida](https://github.com/potigol/URI-Potigol/blob/master/src/2901-3000/2968.poti)
   - [x] [2987](https://www.urionlinejudge.com.br/judge/pt/problems/view/2987) - [Balão de Honra](https://github.com/potigol/URI-Potigol/blob/master/src/2901-3000/2987.poti)

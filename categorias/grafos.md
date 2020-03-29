@@ -1,4 +1,4 @@
-# Grafos (0 / 237)
+# Grafos (0 / 238)
 
 ## Problemas não resolvidos
   - [ ] [1053](https://www.urionlinejudge.com.br/judge/pt/problems/view/1053) - Desenho Contínuo
@@ -179,6 +179,7 @@
   - [ ] [2300](https://www.urionlinejudge.com.br/judge/pt/problems/view/2300) - Transmissão de Energia
   - [ ] [2357](https://www.urionlinejudge.com.br/judge/pt/problems/view/2357) - Violência em Sildávia
   - [ ] [2359](https://www.urionlinejudge.com.br/judge/pt/problems/view/2359) - Alocando Ambulâncias
+  - [ ] [2372](https://www.urionlinejudge.com.br/judge/pt/problems/view/2372) - Reunião
   - [ ] [2404](https://www.urionlinejudge.com.br/judge/pt/problems/view/2404) - Reduzindo Detalhes em um Mapa
   - [ ] [2419](https://www.urionlinejudge.com.br/judge/pt/problems/view/2419) - Costa
   - [ ] [2426](https://www.urionlinejudge.com.br/judge/pt/problems/view/2426) - Bomba

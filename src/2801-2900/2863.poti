@@ -1,0 +1,12 @@
+var t := leia_inteiro
+enquanto t > 0 faca
+  var melhor := leia_real
+  para i de 2 ate t faca
+    tempo = leia_real
+    se tempo < melhor entao
+      melhor := tempo
+    fim
+  fim
+  escreva melhor formato "%.2f"
+  t := leia_inteiro
+fim
