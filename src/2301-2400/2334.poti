@@ -1,0 +1,9 @@
+var entrada := leia_texto
+enquanto entrada <> "-1" faca
+  se entrada == "0" entao
+    escreva 0
+  senao
+    escreva BigInt(entrada) - 1
+  fim
+  entrada := leia_texto
+fim

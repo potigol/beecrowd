@@ -1,7 +1,6 @@
-# Iniciante (239 / 298)
+# Iniciante (242 / 298)
 
 ## Problemas não resolvidos
-  - [ ] [1973](https://www.urionlinejudge.com.br/judge/pt/problems/view/1973) - Jornada nas Estrelas
   - [ ] [2003](https://www.urionlinejudge.com.br/judge/pt/problems/view/2003) - Domingo de Manhã
   - [ ] [2031](https://www.urionlinejudge.com.br/judge/pt/problems/view/2031) - Pedra, Papel, Ataque Aéreo
   - [ ] [2126](https://www.urionlinejudge.com.br/judge/pt/problems/view/2126) - Procurando Subsequências
@@ -12,10 +11,8 @@
   - [ ] [2203](https://www.urionlinejudge.com.br/judge/pt/problems/view/2203) - Tempestade de Corvos
   - [ ] [2221](https://www.urionlinejudge.com.br/judge/pt/problems/view/2221) - Batalha de Pomekons
   - [ ] [2313](https://www.urionlinejudge.com.br/judge/pt/problems/view/2313) - Qual Triângulo
-  - [ ] [2334](https://www.urionlinejudge.com.br/judge/pt/problems/view/2334) - Patinhos
   - [ ] [2493](https://www.urionlinejudge.com.br/judge/pt/problems/view/2493) - Jogo do Operador
   - [ ] [2502](https://www.urionlinejudge.com.br/judge/pt/problems/view/2502) - Decifrando a Carta Criptografada
-  - [ ] [2510](https://www.urionlinejudge.com.br/judge/pt/problems/view/2510) - Batmain
   - [ ] [2520](https://www.urionlinejudge.com.br/judge/pt/problems/view/2520) - O Último Analógimôn
   - [ ] [2533](https://www.urionlinejudge.com.br/judge/pt/problems/view/2533) - Estágio
   - [ ] [2534](https://www.urionlinejudge.com.br/judge/pt/problems/view/2534) - Exame Geral
@@ -199,6 +196,7 @@
   - [x] [1961](https://www.urionlinejudge.com.br/judge/pt/problems/view/1961) - [Pula Sapo](https://github.com/potigol/URI-Potigol/blob/master/src/1901-2000/1961.poti)
   - [x] [1962](https://www.urionlinejudge.com.br/judge/pt/problems/view/1962) - [Há Muito, Muito Tempo Atrás](https://github.com/potigol/URI-Potigol/blob/master/src/1901-2000/1962.poti)
   - [x] [1963](https://www.urionlinejudge.com.br/judge/pt/problems/view/1963) - [O Filme](https://github.com/potigol/URI-Potigol/blob/master/src/1901-2000/1963.poti)
+  - [x] [1973](https://www.urionlinejudge.com.br/judge/pt/problems/view/1973) - [Jornada nas Estrelas](https://github.com/potigol/URI-Potigol/blob/master/src/1901-2000/1973.poti)
   - [x] [1983](https://www.urionlinejudge.com.br/judge/pt/problems/view/1983) - [O Escolhido](https://github.com/potigol/URI-Potigol/blob/master/src/1901-2000/1983.poti)
   - [x] [1984](https://www.urionlinejudge.com.br/judge/pt/problems/view/1984) - [O Enigma do Pronalândia](https://github.com/potigol/URI-Potigol/blob/master/src/1901-2000/1984.poti)
   - [x] [1985](https://www.urionlinejudge.com.br/judge/pt/problems/view/1985) - [MacPRONALTS](https://github.com/potigol/URI-Potigol/blob/master/src/1901-2000/1985.poti)
@@ -227,9 +225,11 @@
   - [x] [2235](https://www.urionlinejudge.com.br/judge/pt/problems/view/2235) - [Andando no Tempo](https://github.com/potigol/URI-Potigol/blob/master/src/2201-2300/2235.poti)
   - [x] [2310](https://www.urionlinejudge.com.br/judge/pt/problems/view/2310) - [Voleibol](https://github.com/potigol/URI-Potigol/blob/master/src/2301-2400/2310.poti)
   - [x] [2311](https://www.urionlinejudge.com.br/judge/pt/problems/view/2311) - [Saltos Ornamentais](https://github.com/potigol/URI-Potigol/blob/master/src/2301-2400/2311.poti)
+  - [x] [2334](https://www.urionlinejudge.com.br/judge/pt/problems/view/2334) - [Patinhos](https://github.com/potigol/URI-Potigol/blob/master/src/2301-2400/2334.poti)
   - [x] [2344](https://www.urionlinejudge.com.br/judge/pt/problems/view/2344) - [Notas da Prova](https://github.com/potigol/URI-Potigol/blob/master/src/2301-2400/2344.poti)
   - [x] [2483](https://www.urionlinejudge.com.br/judge/pt/problems/view/2483) - [Feliz Nataaal!](https://github.com/potigol/URI-Potigol/blob/master/src/2401-2500/2483.poti)
   - [x] [2486](https://www.urionlinejudge.com.br/judge/pt/problems/view/2486) - [C Mais ou Menos?](https://github.com/potigol/URI-Potigol/blob/master/src/2401-2500/2486.poti)
+  - [x] [2510](https://www.urionlinejudge.com.br/judge/pt/problems/view/2510) - [Batmain](https://github.com/potigol/URI-Potigol/blob/master/src/2501-2600/2510.poti)
   - [x] [2523](https://www.urionlinejudge.com.br/judge/pt/problems/view/2523) - [A Mensagem de Will](https://github.com/potigol/URI-Potigol/blob/master/src/2501-2600/2523.poti)
   - [x] [2543](https://www.urionlinejudge.com.br/judge/pt/problems/view/2543) - [Jogatina UFPR](https://github.com/potigol/URI-Potigol/blob/master/src/2501-2600/2543.poti)
   - [x] [2547](https://www.urionlinejudge.com.br/judge/pt/problems/view/2547) - [Montanha-Russa](https://github.com/potigol/URI-Potigol/blob/master/src/2501-2600/2547.poti)

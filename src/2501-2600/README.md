@@ -9,7 +9,7 @@
   - [ ] [2507](https://www.urionlinejudge.com.br/judge/pt/problems/view/2507) - Código de Hamming *Ad-Hoc*
   - [ ] [2508](https://www.urionlinejudge.com.br/judge/pt/problems/view/2508) - Guru da Sorte *Ad-Hoc*
   - [ ] [2509](https://www.urionlinejudge.com.br/judge/pt/problems/view/2509) - Editor Latex *Strings*
-  - [ ] [2510](https://www.urionlinejudge.com.br/judge/pt/problems/view/2510) - Batmain *Iniciante*
+  - [x] [2510](https://www.urionlinejudge.com.br/judge/pt/problems/view/2510) - [Batmain](https://github.com/potigol/URI-Potigol/blob/master/src/2501-2600/2510.poti) *Iniciante*
   - [ ] [2511](https://www.urionlinejudge.com.br/judge/pt/problems/view/2511) - WWW *Ad-Hoc*
   - [ ] [2512](https://www.urionlinejudge.com.br/judge/pt/problems/view/2512) - O Jogo Reverse *Ad-Hoc*
   - [ ] [2513](https://www.urionlinejudge.com.br/judge/pt/problems/view/2513) - Xoringan *Ad-Hoc*

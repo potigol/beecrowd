@@ -72,7 +72,7 @@
   - [ ] [1970](https://www.urionlinejudge.com.br/judge/pt/problems/view/1970) - Primeiro Contato *Paradigmas*
   - [ ] [1971](https://www.urionlinejudge.com.br/judge/pt/problems/view/1971) - Insurreição *Geometria Computacional*
   - [ ] [1972](https://www.urionlinejudge.com.br/judge/pt/problems/view/1972) - Nêmesis *Grafos*
-  - [ ] [1973](https://www.urionlinejudge.com.br/judge/pt/problems/view/1973) - Jornada nas Estrelas *Iniciante*
+  - [x] [1973](https://www.urionlinejudge.com.br/judge/pt/problems/view/1973) - [Jornada nas Estrelas](https://github.com/potigol/URI-Potigol/blob/master/src/1901-2000/1973.poti) *Iniciante*
   - [ ] [1974](https://www.urionlinejudge.com.br/judge/pt/problems/view/1974) - Além da Escuridão *Grafos*
   - [ ] [1975](https://www.urionlinejudge.com.br/judge/pt/problems/view/1975) - Pérolas *Estruturas e Bibliotecas*
   - [ ] [1976](https://www.urionlinejudge.com.br/judge/pt/problems/view/1976) - Matrizes *Paradigmas*

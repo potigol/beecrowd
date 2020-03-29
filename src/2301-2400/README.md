@@ -33,7 +33,7 @@
   - [ ] [2331](https://www.urionlinejudge.com.br/judge/pt/problems/view/2331) - Uiquipédia *Ad-Hoc*
   - [ ] [2332](https://www.urionlinejudge.com.br/judge/pt/problems/view/2332) - Jogo do Labirinto *Ad-Hoc*
   - [ ] [2333](https://www.urionlinejudge.com.br/judge/pt/problems/view/2333) - Pizza *Ad-Hoc*
-  - [ ] [2334](https://www.urionlinejudge.com.br/judge/pt/problems/view/2334) - Patinhos *Iniciante*
+  - [x] [2334](https://www.urionlinejudge.com.br/judge/pt/problems/view/2334) - [Patinhos](https://github.com/potigol/URI-Potigol/blob/master/src/2301-2400/2334.poti) *Iniciante*
   - [ ] [2335](https://www.urionlinejudge.com.br/judge/pt/problems/view/2335) - O Desafio de Arquibaldo *Matemática*
   - [ ] [2336](https://www.urionlinejudge.com.br/judge/pt/problems/view/2336) - ABC *Strings*
   - [ ] [2337](https://www.urionlinejudge.com.br/judge/pt/problems/view/2337) - Pro Habilidade *Matemática*

@@ -1,0 +1,5 @@
+n = leia_inteiro
+para i de 1 ate n faca
+  leia_texto
+  escreva("Y")
+fim
