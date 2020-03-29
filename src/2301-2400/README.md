@@ -9,7 +9,7 @@
   - [ ] [2307](https://www.urionlinejudge.com.br/judge/pt/problems/view/2307) - Jogo de Cartas *Ad-Hoc*
   - [ ] [2308](https://www.urionlinejudge.com.br/judge/pt/problems/view/2308) - Museu *Ad-Hoc*
   - [ ] [2309](https://www.urionlinejudge.com.br/judge/pt/problems/view/2309) - Truco *Ad-Hoc*
-  - [ ] [2310](https://www.urionlinejudge.com.br/judge/pt/problems/view/2310) - Voleibol *Iniciante*
+  - [x] [2310](https://www.urionlinejudge.com.br/judge/pt/problems/view/2310) - [Voleibol](https://github.com/potigol/URI-Potigol/blob/master/src/2301-2400/2310.poti) *Iniciante*
   - [x] [2311](https://www.urionlinejudge.com.br/judge/pt/problems/view/2311) - [Saltos Ornamentais](https://github.com/potigol/URI-Potigol/blob/master/src/2301-2400/2311.poti) *Iniciante*
   - [ ] [2312](https://www.urionlinejudge.com.br/judge/pt/problems/view/2312) - Quadro De Medalhas *Ad-Hoc*
   - [ ] [2313](https://www.urionlinejudge.com.br/judge/pt/problems/view/2313) - Qual Triângulo *Iniciante*

@@ -27,8 +27,8 @@
   - [ ] [2025](https://www.urionlinejudge.com.br/judge/pt/problems/view/2025) - Joulupukki *Strings*
   - [ ] [2026](https://www.urionlinejudge.com.br/judge/pt/problems/view/2026) - Árvore de Natal *Paradigmas*
   - [ ] [2027](https://www.urionlinejudge.com.br/judge/pt/problems/view/2027) - Aposta com Noel *Paradigmas*
-  - [ ] [2028](https://www.urionlinejudge.com.br/judge/pt/problems/view/2028) - Sequência de Sequência *Iniciante*
-  - [ ] [2029](https://www.urionlinejudge.com.br/judge/pt/problems/view/2029) - Reservatório de Mel *Iniciante*
+  - [x] [2028](https://www.urionlinejudge.com.br/judge/pt/problems/view/2028) - [Sequência de Sequência](https://github.com/potigol/URI-Potigol/blob/master/src/2001-2100/2028.poti) *Iniciante*
+  - [x] [2029](https://www.urionlinejudge.com.br/judge/pt/problems/view/2029) - [Reservatório de Mel](https://github.com/potigol/URI-Potigol/blob/master/src/2001-2100/2029.poti) *Iniciante*
   - [ ] [2030](https://www.urionlinejudge.com.br/judge/pt/problems/view/2030) - Pit Stop *Ad-Hoc*
   - [ ] [2031](https://www.urionlinejudge.com.br/judge/pt/problems/view/2031) - Pedra, Papel, Ataque Aéreo *Iniciante*
   - [ ] [2032](https://www.urionlinejudge.com.br/judge/pt/problems/view/2032) - Jogo dos Oito *Grafos*

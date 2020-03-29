@@ -51,7 +51,7 @@
   - [ ] [2149](https://www.urionlinejudge.com.br/judge/pt/problems/view/2149) - Sequência do Tio Phill Bonati *Matemática*
   - [ ] [2150](https://www.urionlinejudge.com.br/judge/pt/problems/view/2150) - Vogais Alienígenas *Strings*
   - [ ] [2151](https://www.urionlinejudge.com.br/judge/pt/problems/view/2151) - Soco do Rulk *Ad-Hoc*
-  - [ ] [2152](https://www.urionlinejudge.com.br/judge/pt/problems/view/2152) - Pepe, Já Tirei a Vela! *Iniciante*
+  - [x] [2152](https://www.urionlinejudge.com.br/judge/pt/problems/view/2152) - [Pepe, Já Tirei a Vela!](https://github.com/potigol/URI-Potigol/blob/master/src/2101-2200/2152.poti) *Iniciante*
   - [ ] [2153](https://www.urionlinejudge.com.br/judge/pt/problems/view/2153) - Sanduicheiche *Strings*
   - [ ] [2154](https://www.urionlinejudge.com.br/judge/pt/problems/view/2154) - Derivada de Polinômios *Matemática*
   - [ ] [2155](https://www.urionlinejudge.com.br/judge/pt/problems/view/2155) - Os Icosaedros do Lagarto *Grafos*

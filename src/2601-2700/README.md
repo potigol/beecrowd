@@ -52,7 +52,7 @@
   - [ ] [2650](https://www.urionlinejudge.com.br/judge/pt/problems/view/2650) - Construindo Muralhas *Ad-Hoc*
   - [ ] [2651](https://www.urionlinejudge.com.br/judge/pt/problems/view/2651) - Link Bolado *Strings*
   - [ ] [2652](https://www.urionlinejudge.com.br/judge/pt/problems/view/2652) - Quantas Árvores? *Grafos*
-  - [ ] [2653](https://www.urionlinejudge.com.br/judge/pt/problems/view/2653) - Dijkstra *Iniciante*
+  - [x] [2653](https://www.urionlinejudge.com.br/judge/pt/problems/view/2653) - [Dijkstra](https://github.com/potigol/URI-Potigol/blob/master/src/2601-2700/2653.poti) *Iniciante*
   - [ ] [2654](https://www.urionlinejudge.com.br/judge/pt/problems/view/2654) - Godofor *Ad-Hoc*
   - [ ] [2655](https://www.urionlinejudge.com.br/judge/pt/problems/view/2655) - Trilha Perigosa *Estruturas e Bibliotecas*
   - [ ] [2656](https://www.urionlinejudge.com.br/judge/pt/problems/view/2656) - Rhombus *Estruturas e Bibliotecas*

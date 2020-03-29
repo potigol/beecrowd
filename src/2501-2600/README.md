@@ -46,7 +46,7 @@
   - [ ] [2544](https://www.urionlinejudge.com.br/judge/pt/problems/view/2544) - Kage Bunshin no Jutsu *Iniciante*
   - [ ] [2545](https://www.urionlinejudge.com.br/judge/pt/problems/view/2545) - Manyfile *Grafos*
   - [ ] [2546](https://www.urionlinejudge.com.br/judge/pt/problems/view/2546) - Mesada *Estruturas e Bibliotecas*
-  - [ ] [2547](https://www.urionlinejudge.com.br/judge/pt/problems/view/2547) - Montanha-Russa *Iniciante*
+  - [x] [2547](https://www.urionlinejudge.com.br/judge/pt/problems/view/2547) - [Montanha-Russa](https://github.com/potigol/URI-Potigol/blob/master/src/2501-2600/2547.poti) *Iniciante*
   - [ ] [2548](https://www.urionlinejudge.com.br/judge/pt/problems/view/2548) - Museu Virtual 3D *Ad-Hoc*
   - [ ] [2549](https://www.urionlinejudge.com.br/judge/pt/problems/view/2549) - Nomes de Usuários *Strings*
   - [ ] [2550](https://www.urionlinejudge.com.br/judge/pt/problems/view/2550) - Novo Campus *Grafos*
