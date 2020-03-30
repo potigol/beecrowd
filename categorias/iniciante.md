@@ -1,4 +1,4 @@
-# Iniciante (245 / 298)
+# Iniciante (248 / 298)
 
 ## Problemas não resolvidos
   - [ ] [2003](https://www.urionlinejudge.com.br/judge/pt/problems/view/2003) - Domingo de Manhã
@@ -15,12 +15,9 @@
   - [ ] [2520](https://www.urionlinejudge.com.br/judge/pt/problems/view/2520) - O Último Analógimôn
   - [ ] [2533](https://www.urionlinejudge.com.br/judge/pt/problems/view/2533) - Estágio
   - [ ] [2542](https://www.urionlinejudge.com.br/judge/pt/problems/view/2542) - Iu-Di-Oh!
-  - [ ] [2544](https://www.urionlinejudge.com.br/judge/pt/problems/view/2544) - Kage Bunshin no Jutsu
-  - [ ] [2551](https://www.urionlinejudge.com.br/judge/pt/problems/view/2551) - Novo Recorde
   - [ ] [2552](https://www.urionlinejudge.com.br/judge/pt/problems/view/2552) - PãodeQuejoSweeper
   - [ ] [2554](https://www.urionlinejudge.com.br/judge/pt/problems/view/2554) - Pizza Antes de BH
   - [ ] [2626](https://www.urionlinejudge.com.br/judge/pt/problems/view/2626) - Turma do JB6
-  - [ ] [2630](https://www.urionlinejudge.com.br/judge/pt/problems/view/2630) - Escala de Cinza
   - [ ] [2632](https://www.urionlinejudge.com.br/judge/pt/problems/view/2632) - Magic and Sword
   - [ ] [2635](https://www.urionlinejudge.com.br/judge/pt/problems/view/2635) - Navegador Web
   - [ ] [2646](https://www.urionlinejudge.com.br/judge/pt/problems/view/2646) - Secret Chamber at Mount Rushmore
@@ -232,9 +229,12 @@
   - [x] [2534](https://www.urionlinejudge.com.br/judge/pt/problems/view/2534) - [Exame Geral](https://github.com/potigol/URI-Potigol/blob/master/src/2501-2600/2534.poti)
   - [x] [2540](https://www.urionlinejudge.com.br/judge/pt/problems/view/2540) - [Impeachment do Líder](https://github.com/potigol/URI-Potigol/blob/master/src/2501-2600/2540.poti)
   - [x] [2543](https://www.urionlinejudge.com.br/judge/pt/problems/view/2543) - [Jogatina UFPR](https://github.com/potigol/URI-Potigol/blob/master/src/2501-2600/2543.poti)
+  - [x] [2544](https://www.urionlinejudge.com.br/judge/pt/problems/view/2544) - [Kage Bunshin no Jutsu](https://github.com/potigol/URI-Potigol/blob/master/src/2501-2600/2544.poti)
   - [x] [2547](https://www.urionlinejudge.com.br/judge/pt/problems/view/2547) - [Montanha-Russa](https://github.com/potigol/URI-Potigol/blob/master/src/2501-2600/2547.poti)
+  - [x] [2551](https://www.urionlinejudge.com.br/judge/pt/problems/view/2551) - [Novo Recorde](https://github.com/potigol/URI-Potigol/blob/master/src/2501-2600/2551.poti)
   - [x] [2581](https://www.urionlinejudge.com.br/judge/pt/problems/view/2581) - [I am Toorg!](https://github.com/potigol/URI-Potigol/blob/master/src/2501-2600/2581.poti)
   - [x] [2582](https://www.urionlinejudge.com.br/judge/pt/problems/view/2582) - [System of a Download](https://github.com/potigol/URI-Potigol/blob/master/src/2501-2600/2582.poti)
+  - [x] [2630](https://www.urionlinejudge.com.br/judge/pt/problems/view/2630) - [Escala de Cinza](https://github.com/potigol/URI-Potigol/blob/master/src/2601-2700/2630.poti)
   - [x] [2653](https://www.urionlinejudge.com.br/judge/pt/problems/view/2653) - [Dijkstra](https://github.com/potigol/URI-Potigol/blob/master/src/2601-2700/2653.poti)
   - [x] [2663](https://www.urionlinejudge.com.br/judge/pt/problems/view/2663) - [Fase](https://github.com/potigol/URI-Potigol/blob/master/src/2601-2700/2663.poti)
   - [x] [2670](https://www.urionlinejudge.com.br/judge/pt/problems/view/2670) - [Máquina de Café](https://github.com/potigol/URI-Potigol/blob/master/src/2601-2700/2670.poti)

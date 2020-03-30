@@ -29,7 +29,7 @@
   - [ ] [2627](https://www.urionlinejudge.com.br/judge/pt/problems/view/2627) - Bonde de Autômatos *Ad-Hoc*
   - [ ] [2628](https://www.urionlinejudge.com.br/judge/pt/problems/view/2628) - Caça ao Tesouro *Ad-Hoc*
   - [ ] [2629](https://www.urionlinejudge.com.br/judge/pt/problems/view/2629) - Rodoido *Ad-Hoc*
-  - [ ] [2630](https://www.urionlinejudge.com.br/judge/pt/problems/view/2630) - Escala de Cinza *Iniciante*
+  - [x] [2630](https://www.urionlinejudge.com.br/judge/pt/problems/view/2630) - [Escala de Cinza](https://github.com/potigol/URI-Potigol/blob/master/src/2601-2700/2630.poti) *Iniciante*
   - [ ] [2631](https://www.urionlinejudge.com.br/judge/pt/problems/view/2631) - Formando Duplas *Grafos*
   - [ ] [2632](https://www.urionlinejudge.com.br/judge/pt/problems/view/2632) - Magic and Sword *Iniciante*
   - [ ] [2633](https://www.urionlinejudge.com.br/judge/pt/problems/view/2633) - Churras no Yuri *Estruturas e Bibliotecas*

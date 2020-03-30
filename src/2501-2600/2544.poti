@@ -1,0 +1,5 @@
+var n := leia_inteiro
+enquanto n > 0 faca
+  escreva (log(n)/log(2)).arredonde
+  n := leia_inteiro
+fim

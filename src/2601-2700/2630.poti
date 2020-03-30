@@ -1,0 +1,13 @@
+t = leia_inteiro
+para i de 1 ate t faca
+  conversao = leia_texto
+  rgb = leia_inteiros(" ")
+  r, g, b = rgb[1], rgb[2], rgb[3]
+  imprima "Caso #{i}: "
+  escreva escolha conversao
+    caso "min"  => rgb.ordene[1]
+    caso "max"  => rgb.ordene[3]
+    caso "mean" => (r + g + b) div 3
+    caso _      => (r * 30 + g * 59 + b * 11) div 100
+  fim
+fim

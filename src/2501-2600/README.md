@@ -43,14 +43,14 @@
   - [ ] [2541](https://www.urionlinejudge.com.br/judge/pt/problems/view/2541) - Ingrest *Geometria Computacional*
   - [ ] [2542](https://www.urionlinejudge.com.br/judge/pt/problems/view/2542) - Iu-Di-Oh! *Iniciante*
   - [x] [2543](https://www.urionlinejudge.com.br/judge/pt/problems/view/2543) - [Jogatina UFPR](https://github.com/potigol/URI-Potigol/blob/master/src/2501-2600/2543.poti) *Iniciante*
-  - [ ] [2544](https://www.urionlinejudge.com.br/judge/pt/problems/view/2544) - Kage Bunshin no Jutsu *Iniciante*
+  - [x] [2544](https://www.urionlinejudge.com.br/judge/pt/problems/view/2544) - [Kage Bunshin no Jutsu](https://github.com/potigol/URI-Potigol/blob/master/src/2501-2600/2544.poti) *Iniciante*
   - [ ] [2545](https://www.urionlinejudge.com.br/judge/pt/problems/view/2545) - Manyfile *Grafos*
   - [ ] [2546](https://www.urionlinejudge.com.br/judge/pt/problems/view/2546) - Mesada *Estruturas e Bibliotecas*
   - [x] [2547](https://www.urionlinejudge.com.br/judge/pt/problems/view/2547) - [Montanha-Russa](https://github.com/potigol/URI-Potigol/blob/master/src/2501-2600/2547.poti) *Iniciante*
   - [ ] [2548](https://www.urionlinejudge.com.br/judge/pt/problems/view/2548) - Museu Virtual 3D *Ad-Hoc*
   - [ ] [2549](https://www.urionlinejudge.com.br/judge/pt/problems/view/2549) - Nomes de Usuários *Strings*
   - [ ] [2550](https://www.urionlinejudge.com.br/judge/pt/problems/view/2550) - Novo Campus *Grafos*
-  - [ ] [2551](https://www.urionlinejudge.com.br/judge/pt/problems/view/2551) - Novo Recorde *Iniciante*
+  - [x] [2551](https://www.urionlinejudge.com.br/judge/pt/problems/view/2551) - [Novo Recorde](https://github.com/potigol/URI-Potigol/blob/master/src/2501-2600/2551.poti) *Iniciante*
   - [ ] [2552](https://www.urionlinejudge.com.br/judge/pt/problems/view/2552) - PãodeQuejoSweeper *Iniciante*
   - [ ] [2553](https://www.urionlinejudge.com.br/judge/pt/problems/view/2553) - Passeio em FdI *Paradigmas*
   - [ ] [2554](https://www.urionlinejudge.com.br/judge/pt/problems/view/2554) - Pizza Antes de BH *Iniciante*
