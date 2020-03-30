@@ -1,0 +1,11 @@
+var entrada := leia_texto
+enquanto entrada <> None.orNull faca
+  a = entrada.divida(" ").mapeie(_.inteiro)
+  n, q = a[1], a[2]
+  notas = leia_inteiros(n).ordene.inverta
+  para i de 1 ate q faca
+    p = leia_inteiro
+    escreva notas[p]
+  fim
+  entrada := leia_texto
+fim

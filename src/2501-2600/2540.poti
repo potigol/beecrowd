@@ -1,0 +1,11 @@
+var n := leia_inteiro
+enquanto n > 0 faca
+  v = leia_texto
+  favoraveis = v.selecione(_ == '1').tamanho
+  se favoraveis * 3 >= n * 2 entao
+    escreva "impeachment"
+  senao
+    escreva "acusacao arquivada"
+  fim
+  n := leia_inteiro
+fim

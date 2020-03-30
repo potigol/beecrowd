@@ -1,4 +1,4 @@
-# Iniciante (242 / 298)
+# Iniciante (245 / 298)
 
 ## Problemas não resolvidos
   - [ ] [2003](https://www.urionlinejudge.com.br/judge/pt/problems/view/2003) - Domingo de Manhã
@@ -10,13 +10,10 @@
   - [ ] [2163](https://www.urionlinejudge.com.br/judge/pt/problems/view/2163) - O Despertar da Força
   - [ ] [2203](https://www.urionlinejudge.com.br/judge/pt/problems/view/2203) - Tempestade de Corvos
   - [ ] [2221](https://www.urionlinejudge.com.br/judge/pt/problems/view/2221) - Batalha de Pomekons
-  - [ ] [2313](https://www.urionlinejudge.com.br/judge/pt/problems/view/2313) - Qual Triângulo
   - [ ] [2493](https://www.urionlinejudge.com.br/judge/pt/problems/view/2493) - Jogo do Operador
   - [ ] [2502](https://www.urionlinejudge.com.br/judge/pt/problems/view/2502) - Decifrando a Carta Criptografada
   - [ ] [2520](https://www.urionlinejudge.com.br/judge/pt/problems/view/2520) - O Último Analógimôn
   - [ ] [2533](https://www.urionlinejudge.com.br/judge/pt/problems/view/2533) - Estágio
-  - [ ] [2534](https://www.urionlinejudge.com.br/judge/pt/problems/view/2534) - Exame Geral
-  - [ ] [2540](https://www.urionlinejudge.com.br/judge/pt/problems/view/2540) - Impeachment do Líder
   - [ ] [2542](https://www.urionlinejudge.com.br/judge/pt/problems/view/2542) - Iu-Di-Oh!
   - [ ] [2544](https://www.urionlinejudge.com.br/judge/pt/problems/view/2544) - Kage Bunshin no Jutsu
   - [ ] [2551](https://www.urionlinejudge.com.br/judge/pt/problems/view/2551) - Novo Recorde
@@ -225,12 +222,15 @@
   - [x] [2235](https://www.urionlinejudge.com.br/judge/pt/problems/view/2235) - [Andando no Tempo](https://github.com/potigol/URI-Potigol/blob/master/src/2201-2300/2235.poti)
   - [x] [2310](https://www.urionlinejudge.com.br/judge/pt/problems/view/2310) - [Voleibol](https://github.com/potigol/URI-Potigol/blob/master/src/2301-2400/2310.poti)
   - [x] [2311](https://www.urionlinejudge.com.br/judge/pt/problems/view/2311) - [Saltos Ornamentais](https://github.com/potigol/URI-Potigol/blob/master/src/2301-2400/2311.poti)
+  - [x] [2313](https://www.urionlinejudge.com.br/judge/pt/problems/view/2313) - [Qual Triângulo](https://github.com/potigol/URI-Potigol/blob/master/src/2301-2400/2313.poti)
   - [x] [2334](https://www.urionlinejudge.com.br/judge/pt/problems/view/2334) - [Patinhos](https://github.com/potigol/URI-Potigol/blob/master/src/2301-2400/2334.poti)
   - [x] [2344](https://www.urionlinejudge.com.br/judge/pt/problems/view/2344) - [Notas da Prova](https://github.com/potigol/URI-Potigol/blob/master/src/2301-2400/2344.poti)
   - [x] [2483](https://www.urionlinejudge.com.br/judge/pt/problems/view/2483) - [Feliz Nataaal!](https://github.com/potigol/URI-Potigol/blob/master/src/2401-2500/2483.poti)
   - [x] [2486](https://www.urionlinejudge.com.br/judge/pt/problems/view/2486) - [C Mais ou Menos?](https://github.com/potigol/URI-Potigol/blob/master/src/2401-2500/2486.poti)
   - [x] [2510](https://www.urionlinejudge.com.br/judge/pt/problems/view/2510) - [Batmain](https://github.com/potigol/URI-Potigol/blob/master/src/2501-2600/2510.poti)
   - [x] [2523](https://www.urionlinejudge.com.br/judge/pt/problems/view/2523) - [A Mensagem de Will](https://github.com/potigol/URI-Potigol/blob/master/src/2501-2600/2523.poti)
+  - [x] [2534](https://www.urionlinejudge.com.br/judge/pt/problems/view/2534) - [Exame Geral](https://github.com/potigol/URI-Potigol/blob/master/src/2501-2600/2534.poti)
+  - [x] [2540](https://www.urionlinejudge.com.br/judge/pt/problems/view/2540) - [Impeachment do Líder](https://github.com/potigol/URI-Potigol/blob/master/src/2501-2600/2540.poti)
   - [x] [2543](https://www.urionlinejudge.com.br/judge/pt/problems/view/2543) - [Jogatina UFPR](https://github.com/potigol/URI-Potigol/blob/master/src/2501-2600/2543.poti)
   - [x] [2547](https://www.urionlinejudge.com.br/judge/pt/problems/view/2547) - [Montanha-Russa](https://github.com/potigol/URI-Potigol/blob/master/src/2501-2600/2547.poti)
   - [x] [2581](https://www.urionlinejudge.com.br/judge/pt/problems/view/2581) - [I am Toorg!](https://github.com/potigol/URI-Potigol/blob/master/src/2501-2600/2581.poti)

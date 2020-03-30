@@ -33,13 +33,13 @@
   - [ ] [2531](https://www.urionlinejudge.com.br/judge/pt/problems/view/2531) - Compras em FdI *Estruturas e Bibliotecas*
   - [ ] [2532](https://www.urionlinejudge.com.br/judge/pt/problems/view/2532) - Demogorgon *Paradigmas*
   - [ ] [2533](https://www.urionlinejudge.com.br/judge/pt/problems/view/2533) - Estágio *Iniciante*
-  - [ ] [2534](https://www.urionlinejudge.com.br/judge/pt/problems/view/2534) - Exame Geral *Iniciante*
+  - [x] [2534](https://www.urionlinejudge.com.br/judge/pt/problems/view/2534) - [Exame Geral](https://github.com/potigol/URI-Potigol/blob/master/src/2501-2600/2534.poti) *Iniciante*
   - [ ] [2535](https://www.urionlinejudge.com.br/judge/pt/problems/view/2535) - Feira de Adoção *Strings*
   - [ ] [2536](https://www.urionlinejudge.com.br/judge/pt/problems/view/2536) - FHBZMIPS *Ad-Hoc*
   - [ ] [2537](https://www.urionlinejudge.com.br/judge/pt/problems/view/2537) - GigaDrive *Estruturas e Bibliotecas*
   - [ ] [2538](https://www.urionlinejudge.com.br/judge/pt/problems/view/2538) - Ginásio *Estruturas e Bibliotecas*
   - [ ] [2539](https://www.urionlinejudge.com.br/judge/pt/problems/view/2539) - High Five *Estruturas e Bibliotecas*
-  - [ ] [2540](https://www.urionlinejudge.com.br/judge/pt/problems/view/2540) - Impeachment do Líder *Iniciante*
+  - [x] [2540](https://www.urionlinejudge.com.br/judge/pt/problems/view/2540) - [Impeachment do Líder](https://github.com/potigol/URI-Potigol/blob/master/src/2501-2600/2540.poti) *Iniciante*
   - [ ] [2541](https://www.urionlinejudge.com.br/judge/pt/problems/view/2541) - Ingrest *Geometria Computacional*
   - [ ] [2542](https://www.urionlinejudge.com.br/judge/pt/problems/view/2542) - Iu-Di-Oh! *Iniciante*
   - [x] [2543](https://www.urionlinejudge.com.br/judge/pt/problems/view/2543) - [Jogatina UFPR](https://github.com/potigol/URI-Potigol/blob/master/src/2501-2600/2543.poti) *Iniciante*
