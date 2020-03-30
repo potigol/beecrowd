@@ -1,8 +1,6 @@
 n = leia_inteiro
-dois = BigInt(2)
-f = Lista.mutável(n + 1, dois)
-f[2] := BigInt(16)
-para i de 3 até n faça
-  f[i] := 2 * i *(f[i-1] + f[i-2] * 2 * (i-1)) mod 1000000007
+var a, b := BigInt(16), BigInt(2)
+para i de 2 até n faça
+  a, b := 2 * (i + 1) * (a + b * 2 * i) mod 1000000007, a
 fim
-escreva f[n]
+escreva b
