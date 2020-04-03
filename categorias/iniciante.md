@@ -1,8 +1,6 @@
-# Iniciante (248 / 298)
+# Iniciante (250 / 298)
 
 ## Problemas não resolvidos
-  - [ ] [2003](https://www.urionlinejudge.com.br/judge/pt/problems/view/2003) - Domingo de Manhã
-  - [ ] [2031](https://www.urionlinejudge.com.br/judge/pt/problems/view/2031) - Pedra, Papel, Ataque Aéreo
   - [ ] [2126](https://www.urionlinejudge.com.br/judge/pt/problems/view/2126) - Procurando Subsequências
   - [ ] [2143](https://www.urionlinejudge.com.br/judge/pt/problems/view/2143) - A Volta do Radar
   - [ ] [2159](https://www.urionlinejudge.com.br/judge/pt/problems/view/2159) - Número Aproximado de Primos
@@ -194,9 +192,11 @@
   - [x] [1983](https://www.urionlinejudge.com.br/judge/pt/problems/view/1983) - [O Escolhido](https://github.com/potigol/URI-Potigol/blob/master/src/1901-2000/1983.poti)
   - [x] [1984](https://www.urionlinejudge.com.br/judge/pt/problems/view/1984) - [O Enigma do Pronalândia](https://github.com/potigol/URI-Potigol/blob/master/src/1901-2000/1984.poti)
   - [x] [1985](https://www.urionlinejudge.com.br/judge/pt/problems/view/1985) - [MacPRONALTS](https://github.com/potigol/URI-Potigol/blob/master/src/1901-2000/1985.poti)
+  - [x] [2003](https://www.urionlinejudge.com.br/judge/pt/problems/view/2003) - [Domingo de Manhã](https://github.com/potigol/URI-Potigol/blob/master/src/2001-2100/2003.poti)
   - [x] [2006](https://www.urionlinejudge.com.br/judge/pt/problems/view/2006) - [Identificando o Chá](https://github.com/potigol/URI-Potigol/blob/master/src/2001-2100/2006.poti)
   - [x] [2028](https://www.urionlinejudge.com.br/judge/pt/problems/view/2028) - [Sequência de Sequência](https://github.com/potigol/URI-Potigol/blob/master/src/2001-2100/2028.poti)
   - [x] [2029](https://www.urionlinejudge.com.br/judge/pt/problems/view/2029) - [Reservatório de Mel](https://github.com/potigol/URI-Potigol/blob/master/src/2001-2100/2029.poti)
+  - [x] [2031](https://www.urionlinejudge.com.br/judge/pt/problems/view/2031) - [Pedra, Papel, Ataque Aéreo](https://github.com/potigol/URI-Potigol/blob/master/src/2001-2100/2031.poti)
   - [x] [2057](https://www.urionlinejudge.com.br/judge/pt/problems/view/2057) - [Fuso Horário](https://github.com/potigol/URI-Potigol/blob/master/src/2001-2100/2057.poti)
   - [x] [2059](https://www.urionlinejudge.com.br/judge/pt/problems/view/2059) - [Ímpar, Par ou Roubo](https://github.com/potigol/URI-Potigol/blob/master/src/2001-2100/2059.poti)
   - [x] [2060](https://www.urionlinejudge.com.br/judge/pt/problems/view/2060) - [Desafio de Bino](https://github.com/potigol/URI-Potigol/blob/master/src/2001-2100/2060.poti)

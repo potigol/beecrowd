@@ -2,7 +2,7 @@
 
   - [ ] [2001](https://www.urionlinejudge.com.br/judge/pt/problems/view/2001) - Bile *Matemática*
   - [ ] [2002](https://www.urionlinejudge.com.br/judge/pt/problems/view/2002) - Casa de Rogério *Grafos*
-  - [ ] [2003](https://www.urionlinejudge.com.br/judge/pt/problems/view/2003) - Domingo de Manhã *Iniciante*
+  - [x] [2003](https://www.urionlinejudge.com.br/judge/pt/problems/view/2003) - [Domingo de Manhã](https://github.com/potigol/URI-Potigol/blob/master/src/2001-2100/2003.poti) *Iniciante*
   - [ ] [2004](https://www.urionlinejudge.com.br/judge/pt/problems/view/2004) - Enisvaldo Com Fome *Ad-Hoc*
   - [ ] [2005](https://www.urionlinejudge.com.br/judge/pt/problems/view/2005) - Fracil Bolado *Ad-Hoc*
   - [x] [2006](https://www.urionlinejudge.com.br/judge/pt/problems/view/2006) - [Identificando o Chá](https://github.com/potigol/URI-Potigol/blob/master/src/2001-2100/2006.poti) *Iniciante*
@@ -30,7 +30,7 @@
   - [x] [2028](https://www.urionlinejudge.com.br/judge/pt/problems/view/2028) - [Sequência de Sequência](https://github.com/potigol/URI-Potigol/blob/master/src/2001-2100/2028.poti) *Iniciante*
   - [x] [2029](https://www.urionlinejudge.com.br/judge/pt/problems/view/2029) - [Reservatório de Mel](https://github.com/potigol/URI-Potigol/blob/master/src/2001-2100/2029.poti) *Iniciante*
   - [ ] [2030](https://www.urionlinejudge.com.br/judge/pt/problems/view/2030) - Pit Stop *Ad-Hoc*
-  - [ ] [2031](https://www.urionlinejudge.com.br/judge/pt/problems/view/2031) - Pedra, Papel, Ataque Aéreo *Iniciante*
+  - [x] [2031](https://www.urionlinejudge.com.br/judge/pt/problems/view/2031) - [Pedra, Papel, Ataque Aéreo](https://github.com/potigol/URI-Potigol/blob/master/src/2001-2100/2031.poti) *Iniciante*
   - [ ] [2032](https://www.urionlinejudge.com.br/judge/pt/problems/view/2032) - Jogo dos Oito *Grafos*
   - [ ] [2033](https://www.urionlinejudge.com.br/judge/pt/problems/view/2033) - Juros Sobre o Empréstimo *Matemática*
   - [ ] [2034](https://www.urionlinejudge.com.br/judge/pt/problems/view/2034) - Cantor *Matemática*

@@ -1,0 +1,11 @@
+var entrada := leia_texto
+enquanto entrada <> None.orNull faca
+  hora = entrada.divida(":").mapeie(_.inteiro)
+  n = hora[1] * 60 + hora[2] - 420
+  se n > 0 entao
+    escreva "Atraso maximo: {n}"
+  senao
+    escreva "Atraso maximo: 0"
+  fim
+  entrada := leia_texto
+fim
