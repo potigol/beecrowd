@@ -69,7 +69,7 @@
   - [ ] [2767](https://www.urionlinejudge.com.br/judge/pt/problems/view/2767) - Festa *Matemática*
   - [ ] [2768](https://www.urionlinejudge.com.br/judge/pt/problems/view/2768) - Grafo do Dabriel *Grafos*
   - [ ] [2769](https://www.urionlinejudge.com.br/judge/pt/problems/view/2769) - Linha de Montagem *Iniciante*
-  - [ ] [2770](https://www.urionlinejudge.com.br/judge/pt/problems/view/2770) - Tamanho da Placa *Iniciante*
+  - [x] [2770](https://www.urionlinejudge.com.br/judge/pt/problems/view/2770) - [Tamanho da Placa](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2770.poti) *Iniciante*
   - [ ] [2771](https://www.urionlinejudge.com.br/judge/pt/problems/view/2771) - Média *Ad-Hoc*
   - [ ] [2772](https://www.urionlinejudge.com.br/judge/pt/problems/view/2772) - Plantação *Ad-Hoc*
   - [ ] [2773](https://www.urionlinejudge.com.br/judge/pt/problems/view/2773) - Menor Caminho *Geometria Computacional*

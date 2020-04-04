@@ -1,7 +1,7 @@
 # Problemas 2801 a 2900
 
   - [ ] [2801](https://www.urionlinejudge.com.br/judge/pt/problems/view/2801) - Cifra Affine *Matemática*
-  - [ ] [2802](https://www.urionlinejudge.com.br/judge/pt/problems/view/2802) - Dividindo Círculos *Iniciante*
+  - [x] [2802](https://www.urionlinejudge.com.br/judge/pt/problems/view/2802) - [Dividindo Círculos](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2802.poti) *Iniciante*
   - [x] [2803](https://www.urionlinejudge.com.br/judge/pt/problems/view/2803) - [Estados do Norte](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2803.poti) *Ad-Hoc*
   - [ ] [2804](https://www.urionlinejudge.com.br/judge/pt/problems/view/2804) - Ferrovias *Grafos*
   - [ ] [2805](https://www.urionlinejudge.com.br/judge/pt/problems/view/2805) - Binarizando a Matriz *Estruturas e Bibliotecas*

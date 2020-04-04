@@ -1,0 +1,3 @@
+n = leia_inteiro
+a = (n / 24) * (n ^ 3 - 6 * n ^ 2 + 23 * n - 18) + 1
+escreva a formato "%.0f"
