@@ -1,0 +1,19 @@
+primo(a: Inteiro)
+  var resp := a > 1
+  para i de 2 até raiz(a).arredonde faça
+    se a mod i == 0 então
+      resp := falso
+    fim
+  fim
+  retorne resp
+fim
+
+n = leia_inteiro
+para i de 1 até n faça
+  x = leia_inteiro
+  se primo(x) entao
+    escreva "Prime"
+  senão
+    escreva "Not Prime"
+  fim
+fim

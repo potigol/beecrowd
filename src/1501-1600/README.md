@@ -54,7 +54,7 @@
   - [ ] [1552](https://www.urionlinejudge.com.br/judge/pt/problems/view/1552) - Resgate em Queda Livre *Grafos*
   - [ ] [1553](https://www.urionlinejudge.com.br/judge/pt/problems/view/1553) - Perguntas mais Frequentes *Ad-Hoc*
   - [ ] [1554](https://www.urionlinejudge.com.br/judge/pt/problems/view/1554) - Bilhar N+1 *Matemática*
-  - [ ] [1555](https://www.urionlinejudge.com.br/judge/pt/problems/view/1555) - Funções *Matemática*
+  - [x] [1555](https://www.urionlinejudge.com.br/judge/pt/problems/view/1555) - [Funções](https://github.com/potigol/URI-Potigol/blob/master/src/1501-1600/1555.poti) *Matemática*
   - [ ] [1556](https://www.urionlinejudge.com.br/judge/pt/problems/view/1556) - Removendo Letras *Strings*
   - [x] [1557](https://www.urionlinejudge.com.br/judge/pt/problems/view/1557) - [Matriz Quadrada III](https://github.com/potigol/URI-Potigol/blob/master/src/1501-1600/1557.poti) *Iniciante*
   - [ ] [1558](https://www.urionlinejudge.com.br/judge/pt/problems/view/1558) - Soma de Dois Quadrados *Ad-Hoc*

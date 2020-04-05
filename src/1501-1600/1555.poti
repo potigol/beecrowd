@@ -1,0 +1,15 @@
+n = leia_inteiro
+para i de 1 ate n faça
+  a = leia_inteiros(" ")
+  x, y = a[1], a[2]
+  rafael =    9 * x * x +      y * y
+  beto   =    2 * x * x + 25 * y * y
+  carlos = -100 * x     +      y * y * y
+  se rafael > beto e rafael > carlos então
+    escreva "Rafael ganhou"
+  senãose beto > carlos então
+    escreva "Beto ganhou"
+  senão
+    escreva"Carlos ganhou"
+  fim
+fim

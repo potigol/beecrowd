@@ -1,4 +1,4 @@
-# Matemática (16 / 235)
+# Matemática (18 / 235)
 
 ## Problemas não resolvidos
   - [ ] [1093](https://www.urionlinejudge.com.br/judge/pt/problems/view/1093) - Vampiros
@@ -15,7 +15,6 @@
   - [ ] [1214](https://www.urionlinejudge.com.br/judge/pt/problems/view/1214) - Acima da Média
   - [ ] [1219](https://www.urionlinejudge.com.br/judge/pt/problems/view/1219) - Flores Coloridas
   - [ ] [1220](https://www.urionlinejudge.com.br/judge/pt/problems/view/1220) - A Viagem
-  - [ ] [1221](https://www.urionlinejudge.com.br/judge/pt/problems/view/1221) - Primo Rápido
   - [ ] [1230](https://www.urionlinejudge.com.br/judge/pt/problems/view/1230) - Integral
   - [ ] [1232](https://www.urionlinejudge.com.br/judge/pt/problems/view/1232) - Ciclo de Rubik
   - [ ] [1233](https://www.urionlinejudge.com.br/judge/pt/problems/view/1233) - Estrela
@@ -68,7 +67,6 @@
   - [ ] [1537](https://www.urionlinejudge.com.br/judge/pt/problems/view/1537) - Fila do Banco
   - [ ] [1544](https://www.urionlinejudge.com.br/judge/pt/problems/view/1544) - O Último Dígito Não-Zero
   - [ ] [1554](https://www.urionlinejudge.com.br/judge/pt/problems/view/1554) - Bilhar N+1
-  - [ ] [1555](https://www.urionlinejudge.com.br/judge/pt/problems/view/1555) - Funções
   - [ ] [1563](https://www.urionlinejudge.com.br/judge/pt/problems/view/1563) - O Grande Problema
   - [ ] [1567](https://www.urionlinejudge.com.br/judge/pt/problems/view/1567) - (2/3/4)-D Sqr/Rects/Cubes/Boxes?
   - [ ] [1568](https://www.urionlinejudge.com.br/judge/pt/problems/view/1568) - {soma+=i++} até N
@@ -223,8 +221,10 @@
 ## Problemas resolvidos
   - [x] [1028](https://www.urionlinejudge.com.br/judge/pt/problems/view/1028) - [Figurinhas](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1028.poti)
   - [x] [1161](https://www.urionlinejudge.com.br/judge/pt/problems/view/1161) - [Soma de Fatoriais](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1161.poti)
+  - [x] [1221](https://www.urionlinejudge.com.br/judge/pt/problems/view/1221) - [Primo Rápido](https://github.com/potigol/URI-Potigol/blob/master/src/1201-1300/1221.poti)
   - [x] [1323](https://www.urionlinejudge.com.br/judge/pt/problems/view/1323) - [Feynman](https://github.com/potigol/URI-Potigol/blob/master/src/1301-1400/1323.poti)
   - [x] [1429](https://www.urionlinejudge.com.br/judge/pt/problems/view/1429) - [Fatorial de Novo!](https://github.com/potigol/URI-Potigol/blob/master/src/1401-1500/1429.poti)
+  - [x] [1555](https://www.urionlinejudge.com.br/judge/pt/problems/view/1555) - [Funções](https://github.com/potigol/URI-Potigol/blob/master/src/1501-1600/1555.poti)
   - [x] [1760](https://www.urionlinejudge.com.br/judge/pt/problems/view/1760) - [Floco de Neve de Koch](https://github.com/potigol/URI-Potigol/blob/master/src/1701-1800/1760.poti)
   - [x] [1761](https://www.urionlinejudge.com.br/judge/pt/problems/view/1761) - [Decoração Natalina](https://github.com/potigol/URI-Potigol/blob/master/src/1701-1800/1761.poti)
   - [x] [1795](https://www.urionlinejudge.com.br/judge/pt/problems/view/1795) - [Triângulo Trinomial](https://github.com/potigol/URI-Potigol/blob/master/src/1701-1800/1795.poti)

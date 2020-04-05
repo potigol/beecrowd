@@ -20,7 +20,7 @@
   - [ ] [1218](https://www.urionlinejudge.com.br/judge/pt/problems/view/1218) - Getline Three -  Calçados *Ad-Hoc*
   - [ ] [1219](https://www.urionlinejudge.com.br/judge/pt/problems/view/1219) - Flores Coloridas *Matemática*
   - [ ] [1220](https://www.urionlinejudge.com.br/judge/pt/problems/view/1220) - A Viagem *Matemática*
-  - [ ] [1221](https://www.urionlinejudge.com.br/judge/pt/problems/view/1221) - Primo Rápido *Matemática*
+  - [x] [1221](https://www.urionlinejudge.com.br/judge/pt/problems/view/1221) - [Primo Rápido](https://github.com/potigol/URI-Potigol/blob/master/src/1201-1300/1221.poti) *Matemática*
   - [ ] [1222](https://www.urionlinejudge.com.br/judge/pt/problems/view/1222) - Concurso de Contos *Strings*
   - [ ] [1223](https://www.urionlinejudge.com.br/judge/pt/problems/view/1223) - Tobogan de Bolinhas *Geometria Computacional*
   - [ ] [1224](https://www.urionlinejudge.com.br/judge/pt/problems/view/1224) - Cartões *Paradigmas*
