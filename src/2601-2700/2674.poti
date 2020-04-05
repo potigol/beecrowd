@@ -1,9 +1,23 @@
-var num := para i de 2 ate 9999 gere i fim
-var j := 1
-enquanto j <= num.tamanho faca
-  num := num.selecione(i => i mod num[j] <> 0 ou i == num[j])
-  j := j + 1
+primo(a: Inteiro)
+  var resp := a > 1
+  para i de 2 até raiz(a).arredonde faça
+    se a mod i == 0 então
+      resp := falso
+    fim
+  fim
+  retorne resp
 fim
-primos = num
-a = leia_inteiro
-se primos.contem(a) entao escreva "primo" fim
+
+var n:= leia_inteiro
+enquanto n > 0 faça
+  se primo(n) entao
+    se n.texto - "014689" == n.texto entao
+      escreva "Super"
+    senão
+      escreva "Primo"
+    fim
+  senão
+    escreva "Nada"
+  fim
+  n:= leia_inteiro
+fim
