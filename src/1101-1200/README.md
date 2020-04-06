@@ -69,7 +69,7 @@
   - [ ] [1167](https://www.urionlinejudge.com.br/judge/pt/problems/view/1167) - Acampamento de Férias *Estruturas e Bibliotecas*
   - [x] [1168](https://www.urionlinejudge.com.br/judge/pt/problems/view/1168) - [LED](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1168.poti) *Strings*
   - [ ] [1169](https://www.urionlinejudge.com.br/judge/pt/problems/view/1169) - Trigo no Tabuleiro *Matemática*
-  - [ ] [1170](https://www.urionlinejudge.com.br/judge/pt/problems/view/1170) - Blobs *Matemática*
+  - [x] [1170](https://www.urionlinejudge.com.br/judge/pt/problems/view/1170) - [Blobs](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1170.poti) *Matemática*
   - [x] [1171](https://www.urionlinejudge.com.br/judge/pt/problems/view/1171) - [Frequência de Números](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1171.poti) *Ad-Hoc*
   - [x] [1172](https://www.urionlinejudge.com.br/judge/pt/problems/view/1172) - [Substituição em Vetor I](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1172.poti) *Iniciante*
   - [x] [1173](https://www.urionlinejudge.com.br/judge/pt/problems/view/1173) - [Preenchimento de Vetor I](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1173.poti) *Iniciante*

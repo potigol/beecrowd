@@ -4,7 +4,7 @@
   - [ ] [1802](https://www.urionlinejudge.com.br/judge/pt/problems/view/1802) - Catálogo de Livros *Ad-Hoc*
   - [ ] [1803](https://www.urionlinejudge.com.br/judge/pt/problems/view/1803) - Matring *Strings*
   - [ ] [1804](https://www.urionlinejudge.com.br/judge/pt/problems/view/1804) - Precisa-se de Matemáticos em Marte *Estruturas e Bibliotecas*
-  - [ ] [1805](https://www.urionlinejudge.com.br/judge/pt/problems/view/1805) - Soma Natural *Matemática*
+  - [x] [1805](https://www.urionlinejudge.com.br/judge/pt/problems/view/1805) - [Soma Natural](https://github.com/potigol/URI-Potigol/blob/master/src/1801-1900/1805.poti) *Matemática*
   - [ ] [1806](https://www.urionlinejudge.com.br/judge/pt/problems/view/1806) - Agente 004 *Grafos*
   - [ ] [1807](https://www.urionlinejudge.com.br/judge/pt/problems/view/1807) - Triângulo Trinomial, a Vingança *Matemática*
   - [ ] [1808](https://www.urionlinejudge.com.br/judge/pt/problems/view/1808) - O Retorno do Rei *Ad-Hoc*

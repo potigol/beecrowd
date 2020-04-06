@@ -25,7 +25,7 @@
   - [ ] ~~1023~~
   - [x] [1024](https://www.urionlinejudge.com.br/judge/pt/problems/view/1024) - [Criptografia](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1024.poti) *Strings*
   - [ ] [1025](https://www.urionlinejudge.com.br/judge/pt/problems/view/1025) - Onde está o Mármore? *Estruturas e Bibliotecas*
-  - [ ] [1026](https://www.urionlinejudge.com.br/judge/pt/problems/view/1026) - Carrega ou não Carrega? *Ad-Hoc*
+  - [x] [1026](https://www.urionlinejudge.com.br/judge/pt/problems/view/1026) - [Carrega ou não Carrega?](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1026.poti) *Ad-Hoc*
   - [ ] [1027](https://www.urionlinejudge.com.br/judge/pt/problems/view/1027) - Onda Crítica *Paradigmas*
   - [x] [1028](https://www.urionlinejudge.com.br/judge/pt/problems/view/1028) - [Figurinhas](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1028.poti) *Matemática*
   - [x] [1029](https://www.urionlinejudge.com.br/judge/pt/problems/view/1029) - [Fibonacci, Quantas Chamadas?](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1029.poti) *Paradigmas*

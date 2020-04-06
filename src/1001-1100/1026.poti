@@ -1,0 +1,15 @@
+var entrada := leia_texto
+enquanto entrada <> None.orNull faça
+  nums = entrada.divida(" ").mapeie(x => BigInt(x))
+  var a, b := nums[1], nums[2]
+  var resp := BigInt(0)
+  var i := BigInt(1)
+  enquanto a * b > 0 faça
+    se a mod 2 + b mod 2 == 1 então
+      resp := resp + i
+    fim
+    a, b, i := a div 2, b div 2, i * 2
+  fim
+  escreva resp + (a + b) * i
+  entrada := leia_texto
+fim

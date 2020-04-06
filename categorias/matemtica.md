@@ -1,10 +1,9 @@
-# Matemática (18 / 235)
+# Matemática (20 / 235)
 
 ## Problemas não resolvidos
   - [ ] [1093](https://www.urionlinejudge.com.br/judge/pt/problems/view/1093) - Vampiros
   - [ ] [1163](https://www.urionlinejudge.com.br/judge/pt/problems/view/1163) - Angry Ducks
   - [ ] [1169](https://www.urionlinejudge.com.br/judge/pt/problems/view/1169) - Trigo no Tabuleiro
-  - [ ] [1170](https://www.urionlinejudge.com.br/judge/pt/problems/view/1170) - Blobs
   - [ ] [1193](https://www.urionlinejudge.com.br/judge/pt/problems/view/1193) - Conversão entre Bases
   - [ ] [1197](https://www.urionlinejudge.com.br/judge/pt/problems/view/1197) - Volta à Faculdade de Física
   - [ ] [1198](https://www.urionlinejudge.com.br/judge/pt/problems/view/1198) - O Bravo Guerreiro Hashmat
@@ -109,7 +108,6 @@
   - [ ] [1776](https://www.urionlinejudge.com.br/judge/pt/problems/view/1776) - Baile de Formatura
   - [ ] [1785](https://www.urionlinejudge.com.br/judge/pt/problems/view/1785) - Kaprekar
   - [ ] [1801](https://www.urionlinejudge.com.br/judge/pt/problems/view/1801) - Brincando com Números
-  - [ ] [1805](https://www.urionlinejudge.com.br/judge/pt/problems/view/1805) - Soma Natural
   - [ ] [1807](https://www.urionlinejudge.com.br/judge/pt/problems/view/1807) - Triângulo Trinomial, a Vingança
   - [ ] [1812](https://www.urionlinejudge.com.br/judge/pt/problems/view/1812) - Um Cluster Para Evitar Enchentes
   - [ ] [1815](https://www.urionlinejudge.com.br/judge/pt/problems/view/1815) - Drunk People?
@@ -221,6 +219,7 @@
 ## Problemas resolvidos
   - [x] [1028](https://www.urionlinejudge.com.br/judge/pt/problems/view/1028) - [Figurinhas](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1028.poti)
   - [x] [1161](https://www.urionlinejudge.com.br/judge/pt/problems/view/1161) - [Soma de Fatoriais](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1161.poti)
+  - [x] [1170](https://www.urionlinejudge.com.br/judge/pt/problems/view/1170) - [Blobs](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1170.poti)
   - [x] [1221](https://www.urionlinejudge.com.br/judge/pt/problems/view/1221) - [Primo Rápido](https://github.com/potigol/URI-Potigol/blob/master/src/1201-1300/1221.poti)
   - [x] [1323](https://www.urionlinejudge.com.br/judge/pt/problems/view/1323) - [Feynman](https://github.com/potigol/URI-Potigol/blob/master/src/1301-1400/1323.poti)
   - [x] [1429](https://www.urionlinejudge.com.br/judge/pt/problems/view/1429) - [Fatorial de Novo!](https://github.com/potigol/URI-Potigol/blob/master/src/1401-1500/1429.poti)
@@ -228,6 +227,7 @@
   - [x] [1760](https://www.urionlinejudge.com.br/judge/pt/problems/view/1760) - [Floco de Neve de Koch](https://github.com/potigol/URI-Potigol/blob/master/src/1701-1800/1760.poti)
   - [x] [1761](https://www.urionlinejudge.com.br/judge/pt/problems/view/1761) - [Decoração Natalina](https://github.com/potigol/URI-Potigol/blob/master/src/1701-1800/1761.poti)
   - [x] [1795](https://www.urionlinejudge.com.br/judge/pt/problems/view/1795) - [Triângulo Trinomial](https://github.com/potigol/URI-Potigol/blob/master/src/1701-1800/1795.poti)
+  - [x] [1805](https://www.urionlinejudge.com.br/judge/pt/problems/view/1805) - [Soma Natural](https://github.com/potigol/URI-Potigol/blob/master/src/1801-1900/1805.poti)
   - [x] [2232](https://www.urionlinejudge.com.br/judge/pt/problems/view/2232) - [Triângulo de Pascal](https://github.com/potigol/URI-Potigol/blob/master/src/2201-2300/2232.poti)
   - [x] [2238](https://www.urionlinejudge.com.br/judge/pt/problems/view/2238) - [Divisores](https://github.com/potigol/URI-Potigol/blob/master/src/2201-2300/2238.poti)
   - [x] [2598](https://www.urionlinejudge.com.br/judge/pt/problems/view/2598) - [Colocando Radares](https://github.com/potigol/URI-Potigol/blob/master/src/2501-2600/2598.poti)

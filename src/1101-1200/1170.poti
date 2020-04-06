@@ -1,0 +1,6 @@
+n = leia_inteiro
+para i de 1 até n faça
+  c = leia_real
+  dias = (log(c) / log(2)).teto.inteiro
+  escreva "{dias} dias"
+fim
