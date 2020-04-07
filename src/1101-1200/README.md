@@ -97,6 +97,6 @@
   - [ ] [1195](https://www.urionlinejudge.com.br/judge/pt/problems/view/1195) - Árvore Binária de Busca *Grafos*
   - [ ] [1196](https://www.urionlinejudge.com.br/judge/pt/problems/view/1196) - WERTYU *Ad-Hoc*
   - [x] [1197](https://www.urionlinejudge.com.br/judge/pt/problems/view/1197) - [Volta à Faculdade de Física](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1197.poti) *Matemática*
-  - [ ] [1198](https://www.urionlinejudge.com.br/judge/pt/problems/view/1198) - O Bravo Guerreiro Hashmat *Matemática*
+  - [x] [1198](https://www.urionlinejudge.com.br/judge/pt/problems/view/1198) - [O Bravo Guerreiro Hashmat](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1198.poti) *Matemática*
   - [ ] [1199](https://www.urionlinejudge.com.br/judge/pt/problems/view/1199) - Conversão Simples de Base *Matemática*
   - [ ] [1200](https://www.urionlinejudge.com.br/judge/pt/problems/view/1200) - Operações em ABP I *Grafos*

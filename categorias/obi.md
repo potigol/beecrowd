@@ -14,7 +14,7 @@
   - [x] [3053](https://www.urionlinejudge.com.br/judge/pt/problems/view/3053) - [Jogo dos copos](https://github.com/potigol/URI-Potigol/blob/master/src/3001-3100/3053.poti) *Iniciante*
   - [ ] [3054](https://www.urionlinejudge.com.br/judge/pt/problems/view/3054) - Matriz super-legal *Ad-Hoc*
   - [x] [3055](https://www.urionlinejudge.com.br/judge/pt/problems/view/3055) - [Nota esquecida](https://github.com/potigol/URI-Potigol/blob/master/src/3001-3100/3055.poti) *Iniciante*
-  - [ ] [3056](https://www.urionlinejudge.com.br/judge/pt/problems/view/3056) - Ponto do meio *Ad-Hoc*
+  - [x] [3056](https://www.urionlinejudge.com.br/judge/pt/problems/view/3056) - [Ponto do meio](https://github.com/potigol/URI-Potigol/blob/master/src/3001-3100/3056.poti) *Ad-Hoc*
   - [ ] [3057](https://www.urionlinejudge.com.br/judge/pt/problems/view/3057) - Detetive *Ad-Hoc*
   - [ ] [3058](https://www.urionlinejudge.com.br/judge/pt/problems/view/3058) - Supermercado *Ad-Hoc*
   - [ ] [3059](https://www.urionlinejudge.com.br/judge/pt/problems/view/3059) - Pares de números *Ad-Hoc*

@@ -1,4 +1,4 @@
-# Ad-Hoc (62 / 691)
+# Ad-Hoc (63 / 691)
 
 ## Problemas não resolvidos
   - [ ] [1030](https://www.urionlinejudge.com.br/judge/pt/problems/view/1030) - A Lenda de Flavious Josephus
@@ -621,7 +621,6 @@
   - [ ] [3050](https://www.urionlinejudge.com.br/judge/pt/problems/view/3050) - Distância entre amigos
   - [ ] [3052](https://www.urionlinejudge.com.br/judge/pt/problems/view/3052) - Chuva
   - [ ] [3054](https://www.urionlinejudge.com.br/judge/pt/problems/view/3054) - Matriz super-legal
-  - [ ] [3056](https://www.urionlinejudge.com.br/judge/pt/problems/view/3056) - Ponto do meio
   - [ ] [3057](https://www.urionlinejudge.com.br/judge/pt/problems/view/3057) - Detetive
   - [ ] [3058](https://www.urionlinejudge.com.br/judge/pt/problems/view/3058) - Supermercado
   - [ ] [3059](https://www.urionlinejudge.com.br/judge/pt/problems/view/3059) - Pares de números
@@ -693,3 +692,4 @@
   - [x] [2868](https://www.urionlinejudge.com.br/judge/pt/problems/view/2868) - [Errrou!](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2868.poti)
   - [x] [3005](https://www.urionlinejudge.com.br/judge/pt/problems/view/3005) - [Pilhas de paralelepípedos](https://github.com/potigol/URI-Potigol/blob/master/src/3001-3100/3005.poti)
   - [x] [3024](https://www.urionlinejudge.com.br/judge/pt/problems/view/3024) - [Mountain Ranges](https://github.com/potigol/URI-Potigol/blob/master/src/3001-3100/3024.poti)
+  - [x] [3056](https://www.urionlinejudge.com.br/judge/pt/problems/view/3056) - [Ponto do meio](https://github.com/potigol/URI-Potigol/blob/master/src/3001-3100/3056.poti)

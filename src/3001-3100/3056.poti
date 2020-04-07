@@ -1,0 +1,9 @@
+n = leia_inteiro
+# pontos = (2 ^ n + 1) ^ 2
+# lado = Lista(n, 1).injete(BigInt(1))((x, _) => 2 * x) + 1
+
+var lado := BigInt(2)
+para i de 1 ate n faca
+  lado := 2 * lado - 1
+fim
+escreva lado * lado
