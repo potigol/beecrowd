@@ -1,0 +1,14 @@
+n = leia_inteiro
+nums = leia_inteiros(" ")
+
+op = se nums[1] > nums[2] entao
+  (a, b: Inteiro) => a <= b
+senão
+  (a, b: Inteiro) => a >= b
+fim
+
+saida = 1 :: para i de 2 até n, par em [i mod 2 == 0] se
+               par e op(nums[i - 1], nums[i]) ou
+               não par e op(nums[i], nums[i - 1]) gere 0 fim
+
+escreva saida.último

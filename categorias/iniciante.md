@@ -1,10 +1,9 @@
-# Iniciante (252 / 298)
+# Iniciante (253 / 298)
 
 ## Problemas não resolvidos
   - [ ] [2126](https://www.urionlinejudge.com.br/judge/pt/problems/view/2126) - Procurando Subsequências
   - [ ] [2143](https://www.urionlinejudge.com.br/judge/pt/problems/view/2143) - A Volta do Radar
   - [ ] [2159](https://www.urionlinejudge.com.br/judge/pt/problems/view/2159) - Número Aproximado de Primos
-  - [ ] [2162](https://www.urionlinejudge.com.br/judge/pt/problems/view/2162) - Picos e Vales
   - [ ] [2163](https://www.urionlinejudge.com.br/judge/pt/problems/view/2163) - O Despertar da Força
   - [ ] [2203](https://www.urionlinejudge.com.br/judge/pt/problems/view/2203) - Tempestade de Corvos
   - [ ] [2221](https://www.urionlinejudge.com.br/judge/pt/problems/view/2221) - Batalha de Pomekons
@@ -206,6 +205,7 @@
   - [x] [2152](https://www.urionlinejudge.com.br/judge/pt/problems/view/2152) - [Pepe, Já Tirei a Vela!](https://github.com/potigol/URI-Potigol/blob/master/src/2101-2200/2152.poti)
   - [x] [2160](https://www.urionlinejudge.com.br/judge/pt/problems/view/2160) - [Nome no Formulário](https://github.com/potigol/URI-Potigol/blob/master/src/2101-2200/2160.poti)
   - [x] [2161](https://www.urionlinejudge.com.br/judge/pt/problems/view/2161) - [Raiz Quadrada de 10](https://github.com/potigol/URI-Potigol/blob/master/src/2101-2200/2161.poti)
+  - [x] [2162](https://www.urionlinejudge.com.br/judge/pt/problems/view/2162) - [Picos e Vales](https://github.com/potigol/URI-Potigol/blob/master/src/2101-2200/2162.poti)
   - [x] [2164](https://www.urionlinejudge.com.br/judge/pt/problems/view/2164) - [Fibonacci Rápido](https://github.com/potigol/URI-Potigol/blob/master/src/2101-2200/2164.poti)
   - [x] [2165](https://www.urionlinejudge.com.br/judge/pt/problems/view/2165) - [Tuitando](https://github.com/potigol/URI-Potigol/blob/master/src/2101-2200/2165.poti)
   - [x] [2166](https://www.urionlinejudge.com.br/judge/pt/problems/view/2166) - [Raiz Quadrada de 2](https://github.com/potigol/URI-Potigol/blob/master/src/2101-2200/2166.poti)

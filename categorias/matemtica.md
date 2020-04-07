@@ -1,11 +1,10 @@
-# Matemática (20 / 235)
+# Matemática (21 / 235)
 
 ## Problemas não resolvidos
   - [ ] [1093](https://www.urionlinejudge.com.br/judge/pt/problems/view/1093) - Vampiros
   - [ ] [1163](https://www.urionlinejudge.com.br/judge/pt/problems/view/1163) - Angry Ducks
   - [ ] [1169](https://www.urionlinejudge.com.br/judge/pt/problems/view/1169) - Trigo no Tabuleiro
   - [ ] [1193](https://www.urionlinejudge.com.br/judge/pt/problems/view/1193) - Conversão entre Bases
-  - [ ] [1197](https://www.urionlinejudge.com.br/judge/pt/problems/view/1197) - Volta à Faculdade de Física
   - [ ] [1198](https://www.urionlinejudge.com.br/judge/pt/problems/view/1198) - O Bravo Guerreiro Hashmat
   - [ ] [1199](https://www.urionlinejudge.com.br/judge/pt/problems/view/1199) - Conversão Simples de Base
   - [ ] [1202](https://www.urionlinejudge.com.br/judge/pt/problems/view/1202) - Festival das Noites Brancas
@@ -220,6 +219,7 @@
   - [x] [1028](https://www.urionlinejudge.com.br/judge/pt/problems/view/1028) - [Figurinhas](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1028.poti)
   - [x] [1161](https://www.urionlinejudge.com.br/judge/pt/problems/view/1161) - [Soma de Fatoriais](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1161.poti)
   - [x] [1170](https://www.urionlinejudge.com.br/judge/pt/problems/view/1170) - [Blobs](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1170.poti)
+  - [x] [1197](https://www.urionlinejudge.com.br/judge/pt/problems/view/1197) - [Volta à Faculdade de Física](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1197.poti)
   - [x] [1221](https://www.urionlinejudge.com.br/judge/pt/problems/view/1221) - [Primo Rápido](https://github.com/potigol/URI-Potigol/blob/master/src/1201-1300/1221.poti)
   - [x] [1323](https://www.urionlinejudge.com.br/judge/pt/problems/view/1323) - [Feynman](https://github.com/potigol/URI-Potigol/blob/master/src/1301-1400/1323.poti)
   - [x] [1429](https://www.urionlinejudge.com.br/judge/pt/problems/view/1429) - [Fatorial de Novo!](https://github.com/potigol/URI-Potigol/blob/master/src/1401-1500/1429.poti)

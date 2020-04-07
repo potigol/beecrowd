@@ -1,0 +1,22 @@
+var s:= leia_texto
+enquanto s <> None.orNull faça
+  s := s.selecione(c => c=='(' ou c==')')
+  var a := 0
+  var correto := verdadeiro
+  para i de 1 até s.tamanho faça
+    se s[i] == '(' então
+      a := a + 1
+    senão
+      a := a - 1
+    fim
+    se a < 0 então
+      correto := falso
+    fim
+  fim
+  se correto e a == 0 então
+    escreva "correct"
+  senão
+    escreva "incorrect"
+  fim
+  s:= leia_texto
+fim

@@ -67,7 +67,7 @@
   - [x] [1065](https://www.urionlinejudge.com.br/judge/pt/problems/view/1065) - [Pares entre Cinco Números](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1065.poti) *Iniciante*
   - [x] [1066](https://www.urionlinejudge.com.br/judge/pt/problems/view/1066) - [Pares, Ímpares, Positivos e Negativos](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1066.poti) *Iniciante*
   - [x] [1067](https://www.urionlinejudge.com.br/judge/pt/problems/view/1067) - [Números Ímpares](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1067.poti) *Iniciante*
-  - [ ] [1068](https://www.urionlinejudge.com.br/judge/pt/problems/view/1068) - Balanço de Parênteses I *Estruturas e Bibliotecas*
+  - [x] [1068](https://www.urionlinejudge.com.br/judge/pt/problems/view/1068) - [Balanço de Parênteses I](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1068.poti) *Estruturas e Bibliotecas*
   - [ ] [1069](https://www.urionlinejudge.com.br/judge/pt/problems/view/1069) - Diamantes e Areia *Estruturas e Bibliotecas*
   - [x] [1070](https://www.urionlinejudge.com.br/judge/pt/problems/view/1070) - [Seis Números Ímpares](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1070.poti) *Iniciante*
   - [x] [1071](https://www.urionlinejudge.com.br/judge/pt/problems/view/1071) - [Soma de Impares Consecutivos I](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1071.poti) *Iniciante*

@@ -1,0 +1,8 @@
+var entrada := leia_texto
+
+enquanto entrada <> None.orNull faça
+  s = entrada.divida(" ").mapeie(_.inteiro)
+  v, t = s[1], s[2]
+  escreva v * t * 2
+  entrada := leia_texto
+fim
