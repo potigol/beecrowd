@@ -1,7 +1,6 @@
-# Iniciante (253 / 298)
+# Iniciante (254 / 298)
 
 ## Problemas não resolvidos
-  - [ ] [2126](https://www.urionlinejudge.com.br/judge/pt/problems/view/2126) - Procurando Subsequências
   - [ ] [2143](https://www.urionlinejudge.com.br/judge/pt/problems/view/2143) - A Volta do Radar
   - [ ] [2159](https://www.urionlinejudge.com.br/judge/pt/problems/view/2159) - Número Aproximado de Primos
   - [ ] [2163](https://www.urionlinejudge.com.br/judge/pt/problems/view/2163) - O Despertar da Força
@@ -198,6 +197,7 @@
   - [x] [2059](https://www.urionlinejudge.com.br/judge/pt/problems/view/2059) - [Ímpar, Par ou Roubo](https://github.com/potigol/URI-Potigol/blob/master/src/2001-2100/2059.poti)
   - [x] [2060](https://www.urionlinejudge.com.br/judge/pt/problems/view/2060) - [Desafio de Bino](https://github.com/potigol/URI-Potigol/blob/master/src/2001-2100/2060.poti)
   - [x] [2061](https://www.urionlinejudge.com.br/judge/pt/problems/view/2061) - [As Abas de Péricles](https://github.com/potigol/URI-Potigol/blob/master/src/2001-2100/2061.poti)
+  - [x] [2126](https://www.urionlinejudge.com.br/judge/pt/problems/view/2126) - [Procurando Subsequências](https://github.com/potigol/URI-Potigol/blob/master/src/2101-2200/2126.poti)
   - [x] [2139](https://www.urionlinejudge.com.br/judge/pt/problems/view/2139) - [Natal de Pedrinho](https://github.com/potigol/URI-Potigol/blob/master/src/2101-2200/2139.poti)
   - [x] [2140](https://www.urionlinejudge.com.br/judge/pt/problems/view/2140) - [Duas Notas](https://github.com/potigol/URI-Potigol/blob/master/src/2101-2200/2140.poti)
   - [x] [2146](https://www.urionlinejudge.com.br/judge/pt/problems/view/2146) - [Senha](https://github.com/potigol/URI-Potigol/blob/master/src/2101-2200/2146.poti)

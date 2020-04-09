@@ -35,7 +35,7 @@
   - [ ] [1433](https://www.urionlinejudge.com.br/judge/pt/problems/view/1433) - O Clube da Divisão *Matemática*
   - [ ] [1434](https://www.urionlinejudge.com.br/judge/pt/problems/view/1434) - Patrulheiros Romanos *Matemática*
   - [x] [1435](https://www.urionlinejudge.com.br/judge/pt/problems/view/1435) - [Matriz Quadrada I](https://github.com/potigol/URI-Potigol/blob/master/src/1401-1500/1435.poti) *Iniciante*
-  - [ ] [1436](https://www.urionlinejudge.com.br/judge/pt/problems/view/1436) - Jogo do Tijolo *Matemática*
+  - [x] [1436](https://www.urionlinejudge.com.br/judge/pt/problems/view/1436) - [Jogo do Tijolo](https://github.com/potigol/URI-Potigol/blob/master/src/1401-1500/1436.poti) *Matemática*
   - [ ] [1437](https://www.urionlinejudge.com.br/judge/pt/problems/view/1437) - Esquerda, Volver! *Ad-Hoc*
   - [ ] [1438](https://www.urionlinejudge.com.br/judge/pt/problems/view/1438) - Desempilhando Caixas *Ad-Hoc*
   - [ ] [1439](https://www.urionlinejudge.com.br/judge/pt/problems/view/1439) - Bora Bora *Estruturas e Bibliotecas*

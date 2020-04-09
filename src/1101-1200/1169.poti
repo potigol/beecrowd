@@ -1,0 +1,9 @@
+n = leia_inteiro
+para i de 1 ate n faca
+  x = leia_inteiro
+  var trigo := BigInt(1)
+  para j de 1 ate x faca
+    trigo := trigo * 2
+  fim
+  escreva "{trigo div 12000} kg"
+fim

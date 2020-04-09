@@ -25,7 +25,7 @@
   - [ ] [2123](https://www.urionlinejudge.com.br/judge/pt/problems/view/2123) - A Lei Vai a Cavalo! *Ad-Hoc*
   - [ ] [2124](https://www.urionlinejudge.com.br/judge/pt/problems/view/2124) - Cardápio da Sra. Montagny! *Paradigmas*
   - [ ] [2125](https://www.urionlinejudge.com.br/judge/pt/problems/view/2125) - Construtores de Totens *Ad-Hoc*
-  - [ ] [2126](https://www.urionlinejudge.com.br/judge/pt/problems/view/2126) - Procurando Subsequências *Iniciante*
+  - [x] [2126](https://www.urionlinejudge.com.br/judge/pt/problems/view/2126) - [Procurando Subsequências](https://github.com/potigol/URI-Potigol/blob/master/src/2101-2200/2126.poti) *Iniciante*
   - [ ] [2127](https://www.urionlinejudge.com.br/judge/pt/problems/view/2127) - Sistema Cipoviário *Grafos*
   - [ ] [2128](https://www.urionlinejudge.com.br/judge/pt/problems/view/2128) - Demonstração de Honestidade! *Grafos*
   - [ ] [2129](https://www.urionlinejudge.com.br/judge/pt/problems/view/2129) - Fatorial *Matemática*
