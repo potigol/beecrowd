@@ -1,8 +1,6 @@
-# Iniciante (257 / 298)
+# Iniciante (259 / 298)
 
 ## Problemas não resolvidos
-  - [ ] [2163](https://www.urionlinejudge.com.br/judge/pt/problems/view/2163) - O Despertar da Força
-  - [ ] [2221](https://www.urionlinejudge.com.br/judge/pt/problems/view/2221) - Batalha de Pomekons
   - [ ] [2493](https://www.urionlinejudge.com.br/judge/pt/problems/view/2493) - Jogo do Operador
   - [ ] [2502](https://www.urionlinejudge.com.br/judge/pt/problems/view/2502) - Decifrando a Carta Criptografada
   - [ ] [2520](https://www.urionlinejudge.com.br/judge/pt/problems/view/2520) - O Último Analógimôn
@@ -205,6 +203,7 @@
   - [x] [2160](https://www.urionlinejudge.com.br/judge/pt/problems/view/2160) - [Nome no Formulário](https://github.com/potigol/URI-Potigol/blob/master/src/2101-2200/2160.poti)
   - [x] [2161](https://www.urionlinejudge.com.br/judge/pt/problems/view/2161) - [Raiz Quadrada de 10](https://github.com/potigol/URI-Potigol/blob/master/src/2101-2200/2161.poti)
   - [x] [2162](https://www.urionlinejudge.com.br/judge/pt/problems/view/2162) - [Picos e Vales](https://github.com/potigol/URI-Potigol/blob/master/src/2101-2200/2162.poti)
+  - [x] [2163](https://www.urionlinejudge.com.br/judge/pt/problems/view/2163) - [O Despertar da Força](https://github.com/potigol/URI-Potigol/blob/master/src/2101-2200/2163.poti)
   - [x] [2164](https://www.urionlinejudge.com.br/judge/pt/problems/view/2164) - [Fibonacci Rápido](https://github.com/potigol/URI-Potigol/blob/master/src/2101-2200/2164.poti)
   - [x] [2165](https://www.urionlinejudge.com.br/judge/pt/problems/view/2165) - [Tuitando](https://github.com/potigol/URI-Potigol/blob/master/src/2101-2200/2165.poti)
   - [x] [2166](https://www.urionlinejudge.com.br/judge/pt/problems/view/2166) - [Raiz Quadrada de 2](https://github.com/potigol/URI-Potigol/blob/master/src/2101-2200/2166.poti)
@@ -213,6 +212,7 @@
   - [x] [2172](https://www.urionlinejudge.com.br/judge/pt/problems/view/2172) - [Evento](https://github.com/potigol/URI-Potigol/blob/master/src/2101-2200/2172.poti)
   - [x] [2176](https://www.urionlinejudge.com.br/judge/pt/problems/view/2176) - [Paridade](https://github.com/potigol/URI-Potigol/blob/master/src/2101-2200/2176.poti)
   - [x] [2203](https://www.urionlinejudge.com.br/judge/pt/problems/view/2203) - [Tempestade de Corvos](https://github.com/potigol/URI-Potigol/blob/master/src/2201-2300/2203.poti)
+  - [x] [2221](https://www.urionlinejudge.com.br/judge/pt/problems/view/2221) - [Batalha de Pomekons](https://github.com/potigol/URI-Potigol/blob/master/src/2201-2300/2221.poti)
   - [x] [2234](https://www.urionlinejudge.com.br/judge/pt/problems/view/2234) - [Cachorros-Quentes](https://github.com/potigol/URI-Potigol/blob/master/src/2201-2300/2234.poti)
   - [x] [2235](https://www.urionlinejudge.com.br/judge/pt/problems/view/2235) - [Andando no Tempo](https://github.com/potigol/URI-Potigol/blob/master/src/2201-2300/2235.poti)
   - [x] [2310](https://www.urionlinejudge.com.br/judge/pt/problems/view/2310) - [Voleibol](https://github.com/potigol/URI-Potigol/blob/master/src/2301-2400/2310.poti)

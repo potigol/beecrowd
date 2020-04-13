@@ -20,7 +20,7 @@
   - [ ] [2218](https://www.urionlinejudge.com.br/judge/pt/problems/view/2218) - O Temível Evil-Son *Matemática*
   - [ ] [2219](https://www.urionlinejudge.com.br/judge/pt/problems/view/2219) - Passando Pelos PokeStops *Ad-Hoc*
   - [ ] [2220](https://www.urionlinejudge.com.br/judge/pt/problems/view/2220) - Ajudando Gust-Avô *Paradigmas*
-  - [ ] [2221](https://www.urionlinejudge.com.br/judge/pt/problems/view/2221) - Batalha de Pomekons *Iniciante*
+  - [x] [2221](https://www.urionlinejudge.com.br/judge/pt/problems/view/2221) - [Batalha de Pomekons](https://github.com/potigol/URI-Potigol/blob/master/src/2201-2300/2221.poti) *Iniciante*
   - [ ] [2222](https://www.urionlinejudge.com.br/judge/pt/problems/view/2222) - Brincando com Conjuntos *Matemática*
   - [ ] [2223](https://www.urionlinejudge.com.br/judge/pt/problems/view/2223) - Inventário de Pomekon *Estruturas e Bibliotecas*
   - [ ] [2224](https://www.urionlinejudge.com.br/judge/pt/problems/view/2224) - Torneio de Pomekon *Paradigmas*

@@ -1,0 +1,19 @@
+a = leia_inteiros(" ")
+n, m = a[1], a[2]
+var l1 := ""
+var l2, l3 := leia_texto
+var x, y := 0
+para i de 2 ate n - 1 faca
+  l1, l2, l3 := l2, l3, leia_texto
+  se l2.contains("7 42 7") e l1.contains("7 7 7") e l3.contains("7 7 7") entao
+    p1, p2, p3 = l1.divida(" "), l2.divida(" "), l3.divida(" ")
+    para j de 2 ate m - 1 faca
+      se p1[j-1] == "7" e p1[j] == "7"  e p1[j+1] == "7" e
+         p2[j-1] == "7" e p2[j] == "42" e p2[j+1] == "7" e
+         p3[j-1] == "7" e p3[j] == "7"  e p3[j+1] == "7" entao
+        x, y := i, j
+      fim
+    fim
+  fim
+fim
+escreva "{x} {y}"

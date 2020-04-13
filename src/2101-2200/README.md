@@ -62,7 +62,7 @@
   - [x] [2160](https://www.urionlinejudge.com.br/judge/pt/problems/view/2160) - [Nome no Formulário](https://github.com/potigol/URI-Potigol/blob/master/src/2101-2200/2160.poti) *Iniciante*
   - [x] [2161](https://www.urionlinejudge.com.br/judge/pt/problems/view/2161) - [Raiz Quadrada de 10](https://github.com/potigol/URI-Potigol/blob/master/src/2101-2200/2161.poti) *Iniciante*
   - [x] [2162](https://www.urionlinejudge.com.br/judge/pt/problems/view/2162) - [Picos e Vales](https://github.com/potigol/URI-Potigol/blob/master/src/2101-2200/2162.poti) *Iniciante*
-  - [ ] [2163](https://www.urionlinejudge.com.br/judge/pt/problems/view/2163) - O Despertar da Força *Iniciante*
+  - [x] [2163](https://www.urionlinejudge.com.br/judge/pt/problems/view/2163) - [O Despertar da Força](https://github.com/potigol/URI-Potigol/blob/master/src/2101-2200/2163.poti) *Iniciante*
   - [x] [2164](https://www.urionlinejudge.com.br/judge/pt/problems/view/2164) - [Fibonacci Rápido](https://github.com/potigol/URI-Potigol/blob/master/src/2101-2200/2164.poti) *Iniciante*
   - [x] [2165](https://www.urionlinejudge.com.br/judge/pt/problems/view/2165) - [Tuitando](https://github.com/potigol/URI-Potigol/blob/master/src/2101-2200/2165.poti) *Iniciante*
   - [x] [2166](https://www.urionlinejudge.com.br/judge/pt/problems/view/2166) - [Raiz Quadrada de 2](https://github.com/potigol/URI-Potigol/blob/master/src/2101-2200/2166.poti) *Iniciante*
