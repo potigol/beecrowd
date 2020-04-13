@@ -1,10 +1,7 @@
-# Iniciante (254 / 298)
+# Iniciante (257 / 298)
 
 ## Problemas não resolvidos
-  - [ ] [2143](https://www.urionlinejudge.com.br/judge/pt/problems/view/2143) - A Volta do Radar
-  - [ ] [2159](https://www.urionlinejudge.com.br/judge/pt/problems/view/2159) - Número Aproximado de Primos
   - [ ] [2163](https://www.urionlinejudge.com.br/judge/pt/problems/view/2163) - O Despertar da Força
-  - [ ] [2203](https://www.urionlinejudge.com.br/judge/pt/problems/view/2203) - Tempestade de Corvos
   - [ ] [2221](https://www.urionlinejudge.com.br/judge/pt/problems/view/2221) - Batalha de Pomekons
   - [ ] [2493](https://www.urionlinejudge.com.br/judge/pt/problems/view/2493) - Jogo do Operador
   - [ ] [2502](https://www.urionlinejudge.com.br/judge/pt/problems/view/2502) - Decifrando a Carta Criptografada
@@ -200,9 +197,11 @@
   - [x] [2126](https://www.urionlinejudge.com.br/judge/pt/problems/view/2126) - [Procurando Subsequências](https://github.com/potigol/URI-Potigol/blob/master/src/2101-2200/2126.poti)
   - [x] [2139](https://www.urionlinejudge.com.br/judge/pt/problems/view/2139) - [Natal de Pedrinho](https://github.com/potigol/URI-Potigol/blob/master/src/2101-2200/2139.poti)
   - [x] [2140](https://www.urionlinejudge.com.br/judge/pt/problems/view/2140) - [Duas Notas](https://github.com/potigol/URI-Potigol/blob/master/src/2101-2200/2140.poti)
+  - [x] [2143](https://www.urionlinejudge.com.br/judge/pt/problems/view/2143) - [A Volta do Radar](https://github.com/potigol/URI-Potigol/blob/master/src/2101-2200/2143.poti)
   - [x] [2146](https://www.urionlinejudge.com.br/judge/pt/problems/view/2146) - [Senha](https://github.com/potigol/URI-Potigol/blob/master/src/2101-2200/2146.poti)
   - [x] [2147](https://www.urionlinejudge.com.br/judge/pt/problems/view/2147) - [Galopeira](https://github.com/potigol/URI-Potigol/blob/master/src/2101-2200/2147.poti)
   - [x] [2152](https://www.urionlinejudge.com.br/judge/pt/problems/view/2152) - [Pepe, Já Tirei a Vela!](https://github.com/potigol/URI-Potigol/blob/master/src/2101-2200/2152.poti)
+  - [x] [2159](https://www.urionlinejudge.com.br/judge/pt/problems/view/2159) - [Número Aproximado de Primos](https://github.com/potigol/URI-Potigol/blob/master/src/2101-2200/2159.poti)
   - [x] [2160](https://www.urionlinejudge.com.br/judge/pt/problems/view/2160) - [Nome no Formulário](https://github.com/potigol/URI-Potigol/blob/master/src/2101-2200/2160.poti)
   - [x] [2161](https://www.urionlinejudge.com.br/judge/pt/problems/view/2161) - [Raiz Quadrada de 10](https://github.com/potigol/URI-Potigol/blob/master/src/2101-2200/2161.poti)
   - [x] [2162](https://www.urionlinejudge.com.br/judge/pt/problems/view/2162) - [Picos e Vales](https://github.com/potigol/URI-Potigol/blob/master/src/2101-2200/2162.poti)
@@ -213,6 +212,7 @@
   - [x] [2168](https://www.urionlinejudge.com.br/judge/pt/problems/view/2168) - [Crepúsculo em Portland](https://github.com/potigol/URI-Potigol/blob/master/src/2101-2200/2168.poti)
   - [x] [2172](https://www.urionlinejudge.com.br/judge/pt/problems/view/2172) - [Evento](https://github.com/potigol/URI-Potigol/blob/master/src/2101-2200/2172.poti)
   - [x] [2176](https://www.urionlinejudge.com.br/judge/pt/problems/view/2176) - [Paridade](https://github.com/potigol/URI-Potigol/blob/master/src/2101-2200/2176.poti)
+  - [x] [2203](https://www.urionlinejudge.com.br/judge/pt/problems/view/2203) - [Tempestade de Corvos](https://github.com/potigol/URI-Potigol/blob/master/src/2201-2300/2203.poti)
   - [x] [2234](https://www.urionlinejudge.com.br/judge/pt/problems/view/2234) - [Cachorros-Quentes](https://github.com/potigol/URI-Potigol/blob/master/src/2201-2300/2234.poti)
   - [x] [2235](https://www.urionlinejudge.com.br/judge/pt/problems/view/2235) - [Andando no Tempo](https://github.com/potigol/URI-Potigol/blob/master/src/2201-2300/2235.poti)
   - [x] [2310](https://www.urionlinejudge.com.br/judge/pt/problems/view/2310) - [Voleibol](https://github.com/potigol/URI-Potigol/blob/master/src/2301-2400/2310.poti)

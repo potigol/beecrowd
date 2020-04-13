@@ -1,0 +1,12 @@
+var t := leia_inteiro
+enquanto t > 0 faca
+  para i de 1 ate t faca
+    n = leia_inteiro
+    se n mod 2 == 0 entao
+      escreva 2 * n - 2
+    senao
+      escreva n div 2 * 4 + 1
+    fim
+  fim
+  t := leia_inteiro
+fim

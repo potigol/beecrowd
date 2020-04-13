@@ -1,0 +1,4 @@
+n = leia_inteiro
+p = n / log(n)
+m = 1.25506 * p
+escreva "{p formato "%.1f"} {m formato "%.1f"}"

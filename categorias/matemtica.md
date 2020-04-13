@@ -1,4 +1,4 @@
-# Matemática (24 / 235)
+# Matemática (25 / 235)
 
 ## Problemas não resolvidos
   - [ ] [1093](https://www.urionlinejudge.com.br/judge/pt/problems/view/1093) - Vampiros
@@ -14,7 +14,6 @@
   - [ ] [1230](https://www.urionlinejudge.com.br/judge/pt/problems/view/1230) - Integral
   - [ ] [1232](https://www.urionlinejudge.com.br/judge/pt/problems/view/1232) - Ciclo de Rubik
   - [ ] [1233](https://www.urionlinejudge.com.br/judge/pt/problems/view/1233) - Estrela
-  - [ ] [1240](https://www.urionlinejudge.com.br/judge/pt/problems/view/1240) - Encaixa ou Não I
   - [ ] [1247](https://www.urionlinejudge.com.br/judge/pt/problems/view/1247) - Guarda Costeira
   - [ ] [1264](https://www.urionlinejudge.com.br/judge/pt/problems/view/1264) - Um Problema Fácil!
   - [ ] [1279](https://www.urionlinejudge.com.br/judge/pt/problems/view/1279) - Ano Bissexto ou Ano não Bissexto
@@ -220,6 +219,7 @@
   - [x] [1197](https://www.urionlinejudge.com.br/judge/pt/problems/view/1197) - [Volta à Faculdade de Física](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1197.poti)
   - [x] [1198](https://www.urionlinejudge.com.br/judge/pt/problems/view/1198) - [O Bravo Guerreiro Hashmat](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1198.poti)
   - [x] [1221](https://www.urionlinejudge.com.br/judge/pt/problems/view/1221) - [Primo Rápido](https://github.com/potigol/URI-Potigol/blob/master/src/1201-1300/1221.poti)
+  - [x] [1240](https://www.urionlinejudge.com.br/judge/pt/problems/view/1240) - [Encaixa ou Não I](https://github.com/potigol/URI-Potigol/blob/master/src/1201-1300/1240.poti)
   - [x] [1323](https://www.urionlinejudge.com.br/judge/pt/problems/view/1323) - [Feynman](https://github.com/potigol/URI-Potigol/blob/master/src/1301-1400/1323.poti)
   - [x] [1429](https://www.urionlinejudge.com.br/judge/pt/problems/view/1429) - [Fatorial de Novo!](https://github.com/potigol/URI-Potigol/blob/master/src/1401-1500/1429.poti)
   - [x] [1436](https://www.urionlinejudge.com.br/judge/pt/problems/view/1436) - [Jogo do Tijolo](https://github.com/potigol/URI-Potigol/blob/master/src/1401-1500/1436.poti)

@@ -42,7 +42,7 @@
   - [x] [2140](https://www.urionlinejudge.com.br/judge/pt/problems/view/2140) - [Duas Notas](https://github.com/potigol/URI-Potigol/blob/master/src/2101-2200/2140.poti) *Iniciante*
   - [ ] [2141](https://www.urionlinejudge.com.br/judge/pt/problems/view/2141) - P4 Simplificado *Ad-Hoc*
   - [ ] [2142](https://www.urionlinejudge.com.br/judge/pt/problems/view/2142) - Pegue o Pombo! *Ad-Hoc*
-  - [ ] [2143](https://www.urionlinejudge.com.br/judge/pt/problems/view/2143) - A Volta do Radar *Iniciante*
+  - [x] [2143](https://www.urionlinejudge.com.br/judge/pt/problems/view/2143) - [A Volta do Radar](https://github.com/potigol/URI-Potigol/blob/master/src/2101-2200/2143.poti) *Iniciante*
   - [ ] [2144](https://www.urionlinejudge.com.br/judge/pt/problems/view/2144) - Bodybuilder *Ad-Hoc*
   - [ ] [2145](https://www.urionlinejudge.com.br/judge/pt/problems/view/2145) - A Vida Amorosa dos Números *Matemática*
   - [x] [2146](https://www.urionlinejudge.com.br/judge/pt/problems/view/2146) - [Senha](https://github.com/potigol/URI-Potigol/blob/master/src/2101-2200/2146.poti) *Iniciante*
@@ -58,7 +58,7 @@
   - [ ] [2156](https://www.urionlinejudge.com.br/judge/pt/problems/view/2156) - As Aventuras de Pak-man *Ad-Hoc*
   - [ ] [2157](https://www.urionlinejudge.com.br/judge/pt/problems/view/2157) - Sequência Espelho *Strings*
   - [ ] [2158](https://www.urionlinejudge.com.br/judge/pt/problems/view/2158) - Ajudando o Tio Cláudio *Geometria Computacional*
-  - [ ] [2159](https://www.urionlinejudge.com.br/judge/pt/problems/view/2159) - Número Aproximado de Primos *Iniciante*
+  - [x] [2159](https://www.urionlinejudge.com.br/judge/pt/problems/view/2159) - [Número Aproximado de Primos](https://github.com/potigol/URI-Potigol/blob/master/src/2101-2200/2159.poti) *Iniciante*
   - [x] [2160](https://www.urionlinejudge.com.br/judge/pt/problems/view/2160) - [Nome no Formulário](https://github.com/potigol/URI-Potigol/blob/master/src/2101-2200/2160.poti) *Iniciante*
   - [x] [2161](https://www.urionlinejudge.com.br/judge/pt/problems/view/2161) - [Raiz Quadrada de 10](https://github.com/potigol/URI-Potigol/blob/master/src/2101-2200/2161.poti) *Iniciante*
   - [x] [2162](https://www.urionlinejudge.com.br/judge/pt/problems/view/2162) - [Picos e Vales](https://github.com/potigol/URI-Potigol/blob/master/src/2101-2200/2162.poti) *Iniciante*

@@ -1,0 +1,27 @@
+var n := leia_inteiro
+impar = para i de 1 ate 50 passo 2 gere i fim
+par = para i de 2 ate 50 passo 2 gere i fim
+vazia = [0].cauda
+enquanto n > 0 faca
+  var cartas := par.pegue(n div 2)
+  var descartes, pilha: Lista[Inteiro] := []
+  var descartar := n mod 2 == 0
+  enquanto cartas.tamanho + pilha.tamanho > 1 faca
+    se cartas == [] entao
+      cartas := pilha.inverta
+      pilha := vazia
+    fim
+    topo = cartas.cabeca
+    cartas := cartas.cauda
+    se descartar entao
+      descartes := topo :: descartes
+    senao
+      pilha := topo :: pilha
+    fim
+    descartar := nao descartar
+  fim
+  descartes := impar.pegue((n+1) div 2) + descartes.inverta
+  escreva "Discarded cards: {descartes.junte(", ")}"
+  escreva "Remaining card: {(cartas + pilha).cabeca}"
+  n := leia_inteiro
+fim

@@ -9,7 +9,7 @@
   - [ ] [1107](https://www.urionlinejudge.com.br/judge/pt/problems/view/1107) - Escultura à Laser *Ad-Hoc*
   - [ ] [1108](https://www.urionlinejudge.com.br/judge/pt/problems/view/1108) - Torres de Telefonia Celular *Geometria Computacional*
   - [ ] [1109](https://www.urionlinejudge.com.br/judge/pt/problems/view/1109) - Burlando a Maratona *Ad-Hoc*
-  - [ ] [1110](https://www.urionlinejudge.com.br/judge/pt/problems/view/1110) - Jogando Cartas Fora *Estruturas e Bibliotecas*
+  - [x] [1110](https://www.urionlinejudge.com.br/judge/pt/problems/view/1110) - [Jogando Cartas Fora](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1110.poti) *Estruturas e Bibliotecas*
   - [ ] [1111](https://www.urionlinejudge.com.br/judge/pt/problems/view/1111) - Desrugenstein *Grafos*
   - [ ] [1112](https://www.urionlinejudge.com.br/judge/pt/problems/view/1112) - Schweisen *Estruturas e Bibliotecas*
   - [x] [1113](https://www.urionlinejudge.com.br/judge/pt/problems/view/1113) - [Crescente e Decrescente](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1113.poti) *Iniciante*

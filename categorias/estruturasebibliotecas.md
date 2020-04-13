@@ -1,4 +1,4 @@
-# Estruturas e Bibliotecas (3 / 152)
+# Estruturas e Bibliotecas (4 / 152)
 
 ## Problemas não resolvidos
   - [ ] [1025](https://www.urionlinejudge.com.br/judge/pt/problems/view/1025) - Onde está o Mármore?
@@ -8,7 +8,6 @@
   - [ ] [1077](https://www.urionlinejudge.com.br/judge/pt/problems/view/1077) - Infixa para Posfixa
   - [ ] [1083](https://www.urionlinejudge.com.br/judge/pt/problems/view/1083) - LEXSIM - Avaliador Lexico e Sintático
   - [ ] [1088](https://www.urionlinejudge.com.br/judge/pt/problems/view/1088) - Bolhas e Baldes
-  - [ ] [1110](https://www.urionlinejudge.com.br/judge/pt/problems/view/1110) - Jogando Cartas Fora
   - [ ] [1112](https://www.urionlinejudge.com.br/judge/pt/problems/view/1112) - Schweisen
   - [ ] [1119](https://www.urionlinejudge.com.br/judge/pt/problems/view/1119) - A Fila de Desempregados
   - [ ] [1162](https://www.urionlinejudge.com.br/judge/pt/problems/view/1162) - Organizador de Vagões
@@ -153,4 +152,5 @@
 ## Problemas resolvidos
   - [x] [1022](https://www.urionlinejudge.com.br/judge/pt/problems/view/1022) - [TDA Racional](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1022.poti)
   - [x] [1068](https://www.urionlinejudge.com.br/judge/pt/problems/view/1068) - [Balanço de Parênteses I](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1068.poti)
+  - [x] [1110](https://www.urionlinejudge.com.br/judge/pt/problems/view/1110) - [Jogando Cartas Fora](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1110.poti)
   - [x] [2729](https://www.urionlinejudge.com.br/judge/pt/problems/view/2729) - [Lista de Compras](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2729.poti)

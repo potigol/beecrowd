@@ -1,0 +1,10 @@
+n = leia_inteiro
+para i de 1 ate n faca
+  s = leia_textos(" ")
+  a, b = s[1], s[2]
+  se a.descarte(a.tamanho - b.tamanho) == b entao
+    escreva "encaixa"
+  senão
+    escreva "nao encaixa"
+  fim
+fim
