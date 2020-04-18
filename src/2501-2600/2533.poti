@@ -1,0 +1,13 @@
+var m := leia_inteiro
+enquanto m > 0 faca
+  var produto, cargas := 0
+  para i de 1 ate m faca
+    a = leia_inteiros(" ")
+    n, c = a[1], a[2]
+    produto := produto + n * c
+    cargas := cargas + c
+  fim
+  ira = produto / (100 * cargas)
+  escreva ira formato "%.4f"
+  m := leia_inteiro
+fim

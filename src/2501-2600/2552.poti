@@ -1,0 +1,19 @@
+var entrada := leia_texto
+enquanto entrada <> None.orNull faca
+  a = entrada.divida(" ").mapeie(_.inteiro)
+  n, m = a[1], a[2]
+  tabuleiro = para i de 1 até n gere leia_inteiros(" ") fim
+  para i de 1 ate n faca
+    para j de 1 ate m faca
+      soma = se tabuleiro[i][j] == 1 entao 9 senão
+        (se i > 1 entao tabuleiro[i-1][j] senao 0 fim) +
+        (se j > 1 entao tabuleiro[i][j-1] senao 0 fim) +
+        (se i < n entao tabuleiro[i+1][j] senao 0 fim) +
+        (se j < m entao tabuleiro[i][j+1] senao 0 fim)
+      fim
+      imprima soma
+    fim
+    escreva ""
+  fim
+  entrada := leia_texto
+fim

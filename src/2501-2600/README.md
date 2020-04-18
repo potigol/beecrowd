@@ -19,7 +19,7 @@
   - [ ] [2517](https://www.urionlinejudge.com.br/judge/pt/problems/view/2517) - Desafio PoGro *Geometria Computacional*
   - [ ] [2518](https://www.urionlinejudge.com.br/judge/pt/problems/view/2518) - Escada do DINF *Geometria Computacional*
   - [ ] [2519](https://www.urionlinejudge.com.br/judge/pt/problems/view/2519) - Estratégia Campeã *Estruturas e Bibliotecas*
-  - [ ] [2520](https://www.urionlinejudge.com.br/judge/pt/problems/view/2520) - O Último Analógimôn *Iniciante*
+  - [x] [2520](https://www.urionlinejudge.com.br/judge/pt/problems/view/2520) - [O Último Analógimôn](https://github.com/potigol/URI-Potigol/blob/master/src/2501-2600/2520.poti) *Iniciante*
   - [ ] [2521](https://www.urionlinejudge.com.br/judge/pt/problems/view/2521) - Pergunte à Geógrafa *Geometria Computacional*
   - [ ] [2522](https://www.urionlinejudge.com.br/judge/pt/problems/view/2522) - Rede do DINF *Grafos*
   - [x] [2523](https://www.urionlinejudge.com.br/judge/pt/problems/view/2523) - [A Mensagem de Will](https://github.com/potigol/URI-Potigol/blob/master/src/2501-2600/2523.poti) *Iniciante*
@@ -32,7 +32,7 @@
   - [ ] [2530](https://www.urionlinejudge.com.br/judge/pt/problems/view/2530) - Cola *Ad-Hoc*
   - [ ] [2531](https://www.urionlinejudge.com.br/judge/pt/problems/view/2531) - Compras em FdI *Estruturas e Bibliotecas*
   - [ ] [2532](https://www.urionlinejudge.com.br/judge/pt/problems/view/2532) - Demogorgon *Paradigmas*
-  - [ ] [2533](https://www.urionlinejudge.com.br/judge/pt/problems/view/2533) - Estágio *Iniciante*
+  - [x] [2533](https://www.urionlinejudge.com.br/judge/pt/problems/view/2533) - [Estágio](https://github.com/potigol/URI-Potigol/blob/master/src/2501-2600/2533.poti) *Iniciante*
   - [x] [2534](https://www.urionlinejudge.com.br/judge/pt/problems/view/2534) - [Exame Geral](https://github.com/potigol/URI-Potigol/blob/master/src/2501-2600/2534.poti) *Iniciante*
   - [ ] [2535](https://www.urionlinejudge.com.br/judge/pt/problems/view/2535) - Feira de Adoção *Strings*
   - [ ] [2536](https://www.urionlinejudge.com.br/judge/pt/problems/view/2536) - FHBZMIPS *Ad-Hoc*
@@ -51,7 +51,7 @@
   - [ ] [2549](https://www.urionlinejudge.com.br/judge/pt/problems/view/2549) - Nomes de Usuários *Strings*
   - [ ] [2550](https://www.urionlinejudge.com.br/judge/pt/problems/view/2550) - Novo Campus *Grafos*
   - [x] [2551](https://www.urionlinejudge.com.br/judge/pt/problems/view/2551) - [Novo Recorde](https://github.com/potigol/URI-Potigol/blob/master/src/2501-2600/2551.poti) *Iniciante*
-  - [ ] [2552](https://www.urionlinejudge.com.br/judge/pt/problems/view/2552) - PãodeQuejoSweeper *Iniciante*
+  - [x] [2552](https://www.urionlinejudge.com.br/judge/pt/problems/view/2552) - [PãodeQuejoSweeper](https://github.com/potigol/URI-Potigol/blob/master/src/2501-2600/2552.poti) *Iniciante*
   - [ ] [2553](https://www.urionlinejudge.com.br/judge/pt/problems/view/2553) - Passeio em FdI *Paradigmas*
   - [ ] [2554](https://www.urionlinejudge.com.br/judge/pt/problems/view/2554) - Pizza Antes de BH *Iniciante*
   - [ ] [2555](https://www.urionlinejudge.com.br/judge/pt/problems/view/2555) - Quiz Universitário *Paradigmas*
