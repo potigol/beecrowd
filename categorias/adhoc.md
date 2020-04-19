@@ -1,4 +1,4 @@
-# Ad-Hoc (63 / 691)
+# Ad-Hoc (64 / 691)
 
 ## Problemas não resolvidos
   - [ ] [1030](https://www.urionlinejudge.com.br/judge/pt/problems/view/1030) - A Lenda de Flavious Josephus
@@ -166,7 +166,6 @@
   - [ ] [1787](https://www.urionlinejudge.com.br/judge/pt/problems/view/1787) - URI
   - [ ] [1791](https://www.urionlinejudge.com.br/judge/pt/problems/view/1791) - Descobrindo uma Matriz
   - [ ] [1793](https://www.urionlinejudge.com.br/judge/pt/problems/view/1793) - Escada Rolante
-  - [ ] [1796](https://www.urionlinejudge.com.br/judge/pt/problems/view/1796) - Economia Brasileira
   - [ ] [1800](https://www.urionlinejudge.com.br/judge/pt/problems/view/1800) - Onde Estão Minhas Chaves
   - [ ] [1802](https://www.urionlinejudge.com.br/judge/pt/problems/view/1802) - Catálogo de Livros
   - [ ] [1808](https://www.urionlinejudge.com.br/judge/pt/problems/view/1808) - O Retorno do Rei
@@ -644,6 +643,7 @@
   - [x] [1708](https://www.urionlinejudge.com.br/judge/pt/problems/view/1708) - [Volta](https://github.com/potigol/URI-Potigol/blob/master/src/1701-1800/1708.poti)
   - [x] [1743](https://www.urionlinejudge.com.br/judge/pt/problems/view/1743) - [Máquina de Verificação Automatizada](https://github.com/potigol/URI-Potigol/blob/master/src/1701-1800/1743.poti)
   - [x] [1794](https://www.urionlinejudge.com.br/judge/pt/problems/view/1794) - [Lavanderia](https://github.com/potigol/URI-Potigol/blob/master/src/1701-1800/1794.poti)
+  - [x] [1796](https://www.urionlinejudge.com.br/judge/pt/problems/view/1796) - [Economia Brasileira](https://github.com/potigol/URI-Potigol/blob/master/src/1701-1800/1796.poti)
   - [x] [1867](https://www.urionlinejudge.com.br/judge/pt/problems/view/1867) - [Maior Número de Um Algarismo](https://github.com/potigol/URI-Potigol/blob/master/src/1801-1900/1867.poti)
   - [x] [1936](https://www.urionlinejudge.com.br/judge/pt/problems/view/1936) - [Fatorial](https://github.com/potigol/URI-Potigol/blob/master/src/1901-2000/1936.poti)
   - [x] [1943](https://www.urionlinejudge.com.br/judge/pt/problems/view/1943) - [Top N](https://github.com/potigol/URI-Potigol/blob/master/src/1901-2000/1943.poti)

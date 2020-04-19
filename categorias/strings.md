@@ -1,4 +1,4 @@
-# Strings (18 / 127)
+# Strings (19 / 127)
 
 ## Problemas não resolvidos
   - [ ] [1120](https://www.urionlinejudge.com.br/judge/pt/problems/view/1120) - Revisão de Contrato
@@ -44,7 +44,6 @@
   - [ ] [1519](https://www.urionlinejudge.com.br/judge/pt/problems/view/1519) - Abreviações
   - [ ] [1530](https://www.urionlinejudge.com.br/judge/pt/problems/view/1530) - Quantas Substrings?
   - [ ] [1556](https://www.urionlinejudge.com.br/judge/pt/problems/view/1556) - Removendo Letras
-  - [ ] [1581](https://www.urionlinejudge.com.br/judge/pt/problems/view/1581) - Conversa Internacional
   - [ ] [1586](https://www.urionlinejudge.com.br/judge/pt/problems/view/1586) - Cabo de Guerra
   - [ ] [1607](https://www.urionlinejudge.com.br/judge/pt/problems/view/1607) - Avance as Letras
   - [ ] [1629](https://www.urionlinejudge.com.br/judge/pt/problems/view/1629) - DescompactaFACE
@@ -118,6 +117,7 @@
   - [x] [1257](https://www.urionlinejudge.com.br/judge/pt/problems/view/1257) - [Array Hash](https://github.com/potigol/URI-Potigol/blob/master/src/1201-1300/1257.poti)
   - [x] [1332](https://www.urionlinejudge.com.br/judge/pt/problems/view/1332) - [Um-Dois-Três](https://github.com/potigol/URI-Potigol/blob/master/src/1301-1400/1332.poti)
   - [x] [1551](https://www.urionlinejudge.com.br/judge/pt/problems/view/1551) - [Frase Completa](https://github.com/potigol/URI-Potigol/blob/master/src/1501-1600/1551.poti)
+  - [x] [1581](https://www.urionlinejudge.com.br/judge/pt/problems/view/1581) - [Conversa Internacional](https://github.com/potigol/URI-Potigol/blob/master/src/1501-1600/1581.poti)
   - [x] [1632](https://www.urionlinejudge.com.br/judge/pt/problems/view/1632) - [Variações](https://github.com/potigol/URI-Potigol/blob/master/src/1601-1700/1632.poti)
   - [x] [2174](https://www.urionlinejudge.com.br/judge/pt/problems/view/2174) - [Coleção de Pomekon](https://github.com/potigol/URI-Potigol/blob/master/src/2101-2200/2174.poti)
   - [x] [2242](https://www.urionlinejudge.com.br/judge/pt/problems/view/2242) - [Huaauhahhuahau](https://github.com/potigol/URI-Potigol/blob/master/src/2201-2300/2242.poti)

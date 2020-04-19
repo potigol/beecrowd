@@ -95,7 +95,7 @@
   - [ ] [1793](https://www.urionlinejudge.com.br/judge/pt/problems/view/1793) - Escada Rolante *Ad-Hoc*
   - [x] [1794](https://www.urionlinejudge.com.br/judge/pt/problems/view/1794) - [Lavanderia](https://github.com/potigol/URI-Potigol/blob/master/src/1701-1800/1794.poti) *Ad-Hoc*
   - [x] [1795](https://www.urionlinejudge.com.br/judge/pt/problems/view/1795) - [Triângulo Trinomial](https://github.com/potigol/URI-Potigol/blob/master/src/1701-1800/1795.poti) *Matemática*
-  - [ ] [1796](https://www.urionlinejudge.com.br/judge/pt/problems/view/1796) - Economia Brasileira *Ad-Hoc*
+  - [x] [1796](https://www.urionlinejudge.com.br/judge/pt/problems/view/1796) - [Economia Brasileira](https://github.com/potigol/URI-Potigol/blob/master/src/1701-1800/1796.poti) *Ad-Hoc*
   - [ ] [1797](https://www.urionlinejudge.com.br/judge/pt/problems/view/1797) - Ferozes e Curiosos *Geometria Computacional*
   - [ ] [1798](https://www.urionlinejudge.com.br/judge/pt/problems/view/1798) - Cortando Canos *Paradigmas*
   - [ ] [1799](https://www.urionlinejudge.com.br/judge/pt/problems/view/1799) - O Rato no Labirinto *Grafos*

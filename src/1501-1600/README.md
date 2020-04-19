@@ -80,7 +80,7 @@
   - [ ] [1578](https://www.urionlinejudge.com.br/judge/pt/problems/view/1578) - Matriz de Quadrados *Ad-Hoc*
   - [ ] [1579](https://www.urionlinejudge.com.br/judge/pt/problems/view/1579) - Transporte de Painéis Solares *Paradigmas*
   - [ ] [1580](https://www.urionlinejudge.com.br/judge/pt/problems/view/1580) - Quid Est Veritas? Est Vir Qui Adest! *Matemática*
-  - [ ] [1581](https://www.urionlinejudge.com.br/judge/pt/problems/view/1581) - Conversa Internacional *Strings*
+  - [x] [1581](https://www.urionlinejudge.com.br/judge/pt/problems/view/1581) - [Conversa Internacional](https://github.com/potigol/URI-Potigol/blob/master/src/1501-1600/1581.poti) *Strings*
   - [ ] [1582](https://www.urionlinejudge.com.br/judge/pt/problems/view/1582) - O Teorema de Pitágoras *Matemática*
   - [ ] [1583](https://www.urionlinejudge.com.br/judge/pt/problems/view/1583) - Contaminação *Ad-Hoc*
   - [ ] [1584](https://www.urionlinejudge.com.br/judge/pt/problems/view/1584) - Espertofone *Grafos*
