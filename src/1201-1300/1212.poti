@@ -1,0 +1,18 @@
+var a := leia_textos(" ")
+c = 2 * '0'
+enquanto a <> ["0", "0"] faca
+  x = a[1].inverta + "00000000"
+  y = a[2].inverta + "00000000"
+  var soma, carry := 0
+  para i de 1 ate 9 faca
+    t = x[i] + y[i] - c + carry
+    carry := t div 10
+    soma := soma + carry
+  fim
+  escolha soma
+    caso 0 => escreva "No carry operation."
+    caso 1 => escreva "1 carry operation."
+    caso n => escreva "{n} carry operations."
+  fim
+  a := leia_textos(" ")
+fim

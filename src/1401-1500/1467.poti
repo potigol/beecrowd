@@ -1,0 +1,13 @@
+var s := leia_texto
+enquanto s <> None.orNull faca
+  se s == "1 0 0" ou s == "0 1 1" entao
+    escreva "A"
+  senaose s == "0 1 0" ou s == "1 0 1" entao
+    escreva "B"
+  senaose s == "0 0 1" ou s == "1 1 0" entao
+    escreva "C"
+  senao
+    escreva "*"
+  fim
+  s := leia_texto
+fim

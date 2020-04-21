@@ -1,4 +1,4 @@
-# Ad-Hoc (64 / 691)
+# Ad-Hoc (65 / 691)
 
 ## Problemas não resolvidos
   - [ ] [1030](https://www.urionlinejudge.com.br/judge/pt/problems/view/1030) - A Lenda de Flavious Josephus
@@ -84,7 +84,6 @@
   - [ ] [1445](https://www.urionlinejudge.com.br/judge/pt/problems/view/1445) - Quem Vai à Festa?
   - [ ] [1459](https://www.urionlinejudge.com.br/judge/pt/problems/view/1459) - Foco
   - [ ] [1460](https://www.urionlinejudge.com.br/judge/pt/problems/view/1460) - Parreiral
-  - [ ] [1467](https://www.urionlinejudge.com.br/judge/pt/problems/view/1467) - Zerinho ou Um
   - [ ] [1470](https://www.urionlinejudge.com.br/judge/pt/problems/view/1470) - Máquina Dobradora
   - [ ] [1471](https://www.urionlinejudge.com.br/judge/pt/problems/view/1471) - Mergulho
   - [ ] [1472](https://www.urionlinejudge.com.br/judge/pt/problems/view/1472) - Triângulos
@@ -639,6 +638,7 @@
   - [x] [1383](https://www.urionlinejudge.com.br/judge/pt/problems/view/1383) - [Sudoku](https://github.com/potigol/URI-Potigol/blob/master/src/1301-1400/1383.poti)
   - [x] [1387](https://www.urionlinejudge.com.br/judge/pt/problems/view/1387) - [Og](https://github.com/potigol/URI-Potigol/blob/master/src/1301-1400/1387.poti)
   - [x] [1441](https://www.urionlinejudge.com.br/judge/pt/problems/view/1441) - [Sequências de Granizo](https://github.com/potigol/URI-Potigol/blob/master/src/1401-1500/1441.poti)
+  - [x] [1467](https://www.urionlinejudge.com.br/judge/pt/problems/view/1467) - [Zerinho ou Um](https://github.com/potigol/URI-Potigol/blob/master/src/1401-1500/1467.poti)
   - [x] [1573](https://www.urionlinejudge.com.br/judge/pt/problems/view/1573) - [Fábrica de Chocolate](https://github.com/potigol/URI-Potigol/blob/master/src/1501-1600/1573.poti)
   - [x] [1708](https://www.urionlinejudge.com.br/judge/pt/problems/view/1708) - [Volta](https://github.com/potigol/URI-Potigol/blob/master/src/1701-1800/1708.poti)
   - [x] [1743](https://www.urionlinejudge.com.br/judge/pt/problems/view/1743) - [Máquina de Verificação Automatizada](https://github.com/potigol/URI-Potigol/blob/master/src/1701-1800/1743.poti)

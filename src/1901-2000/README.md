@@ -20,7 +20,7 @@
   - [ ] [1918](https://www.urionlinejudge.com.br/judge/pt/problems/view/1918) - Viagem para Acapulco *Ad-Hoc*
   - [ ] [1919](https://www.urionlinejudge.com.br/judge/pt/problems/view/1919) - Ajude Nhonho *Ad-Hoc*
   - [ ] [1920](https://www.urionlinejudge.com.br/judge/pt/problems/view/1920) - Fonte dos Desejos *Ad-Hoc*
-  - [ ] [1921](https://www.urionlinejudge.com.br/judge/pt/problems/view/1921) - Guilherme e Suas Pipas *Matemática*
+  - [x] [1921](https://www.urionlinejudge.com.br/judge/pt/problems/view/1921) - [Guilherme e Suas Pipas](https://github.com/potigol/URI-Potigol/blob/master/src/1901-2000/1921.poti) *Matemática*
   - [ ] [1922](https://www.urionlinejudge.com.br/judge/pt/problems/view/1922) - Diego e o Jogo do Martelo *Paradigmas*
   - [ ] [1923](https://www.urionlinejudge.com.br/judge/pt/problems/view/1923) - Rerisson e o Churrasco *Grafos*
   - [x] [1924](https://www.urionlinejudge.com.br/judge/pt/problems/view/1924) - [Vitória e a Indecisão](https://github.com/potigol/URI-Potigol/blob/master/src/1901-2000/1924.poti) *Iniciante*

@@ -1,4 +1,4 @@
-# Matemática (25 / 235)
+# Matemática (27 / 235)
 
 ## Problemas não resolvidos
   - [ ] [1093](https://www.urionlinejudge.com.br/judge/pt/problems/view/1093) - Vampiros
@@ -6,7 +6,6 @@
   - [ ] [1193](https://www.urionlinejudge.com.br/judge/pt/problems/view/1193) - Conversão entre Bases
   - [ ] [1199](https://www.urionlinejudge.com.br/judge/pt/problems/view/1199) - Conversão Simples de Base
   - [ ] [1202](https://www.urionlinejudge.com.br/judge/pt/problems/view/1202) - Festival das Noites Brancas
-  - [ ] [1212](https://www.urionlinejudge.com.br/judge/pt/problems/view/1212) - Aritmética Primária
   - [ ] [1213](https://www.urionlinejudge.com.br/judge/pt/problems/view/1213) - Ones
   - [ ] [1214](https://www.urionlinejudge.com.br/judge/pt/problems/view/1214) - Acima da Média
   - [ ] [1219](https://www.urionlinejudge.com.br/judge/pt/problems/view/1219) - Flores Coloridas
@@ -116,7 +115,6 @@
   - [ ] [1872](https://www.urionlinejudge.com.br/judge/pt/problems/view/1872) - Palíndromo Real
   - [ ] [1904](https://www.urionlinejudge.com.br/judge/pt/problems/view/1904) - Par ou Ímpar 2.0
   - [ ] [1909](https://www.urionlinejudge.com.br/judge/pt/problems/view/1909) - Ajude Kiko
-  - [ ] [1921](https://www.urionlinejudge.com.br/judge/pt/problems/view/1921) - Guilherme e Suas Pipas
   - [ ] [1926](https://www.urionlinejudge.com.br/judge/pt/problems/view/1926) - Marianne e os Primos Gêmeos
   - [ ] [1946](https://www.urionlinejudge.com.br/judge/pt/problems/view/1946) - Pirâmide da Sorte
   - [ ] [1949](https://www.urionlinejudge.com.br/judge/pt/problems/view/1949) - Registrador de Deslocamento
@@ -218,6 +216,7 @@
   - [x] [1170](https://www.urionlinejudge.com.br/judge/pt/problems/view/1170) - [Blobs](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1170.poti)
   - [x] [1197](https://www.urionlinejudge.com.br/judge/pt/problems/view/1197) - [Volta à Faculdade de Física](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1197.poti)
   - [x] [1198](https://www.urionlinejudge.com.br/judge/pt/problems/view/1198) - [O Bravo Guerreiro Hashmat](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1198.poti)
+  - [x] [1212](https://www.urionlinejudge.com.br/judge/pt/problems/view/1212) - [Aritmética Primária](https://github.com/potigol/URI-Potigol/blob/master/src/1201-1300/1212.poti)
   - [x] [1221](https://www.urionlinejudge.com.br/judge/pt/problems/view/1221) - [Primo Rápido](https://github.com/potigol/URI-Potigol/blob/master/src/1201-1300/1221.poti)
   - [x] [1240](https://www.urionlinejudge.com.br/judge/pt/problems/view/1240) - [Encaixa ou Não I](https://github.com/potigol/URI-Potigol/blob/master/src/1201-1300/1240.poti)
   - [x] [1323](https://www.urionlinejudge.com.br/judge/pt/problems/view/1323) - [Feynman](https://github.com/potigol/URI-Potigol/blob/master/src/1301-1400/1323.poti)
@@ -228,6 +227,7 @@
   - [x] [1761](https://www.urionlinejudge.com.br/judge/pt/problems/view/1761) - [Decoração Natalina](https://github.com/potigol/URI-Potigol/blob/master/src/1701-1800/1761.poti)
   - [x] [1795](https://www.urionlinejudge.com.br/judge/pt/problems/view/1795) - [Triângulo Trinomial](https://github.com/potigol/URI-Potigol/blob/master/src/1701-1800/1795.poti)
   - [x] [1805](https://www.urionlinejudge.com.br/judge/pt/problems/view/1805) - [Soma Natural](https://github.com/potigol/URI-Potigol/blob/master/src/1801-1900/1805.poti)
+  - [x] [1921](https://www.urionlinejudge.com.br/judge/pt/problems/view/1921) - [Guilherme e Suas Pipas](https://github.com/potigol/URI-Potigol/blob/master/src/1901-2000/1921.poti)
   - [x] [2232](https://www.urionlinejudge.com.br/judge/pt/problems/view/2232) - [Triângulo de Pascal](https://github.com/potigol/URI-Potigol/blob/master/src/2201-2300/2232.poti)
   - [x] [2238](https://www.urionlinejudge.com.br/judge/pt/problems/view/2238) - [Divisores](https://github.com/potigol/URI-Potigol/blob/master/src/2201-2300/2238.poti)
   - [x] [2598](https://www.urionlinejudge.com.br/judge/pt/problems/view/2598) - [Colocando Radares](https://github.com/potigol/URI-Potigol/blob/master/src/2501-2600/2598.poti)

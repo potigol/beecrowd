@@ -11,7 +11,7 @@
   - [ ] [1209](https://www.urionlinejudge.com.br/judge/pt/problems/view/1209) - Festas de São Petersburgo *Ad-Hoc*
   - [ ] [1210](https://www.urionlinejudge.com.br/judge/pt/problems/view/1210) - Produção Ótima de Ótima Vodka *Paradigmas*
   - [ ] [1211](https://www.urionlinejudge.com.br/judge/pt/problems/view/1211) - Lista Telefônica Econômica *Estruturas e Bibliotecas*
-  - [ ] [1212](https://www.urionlinejudge.com.br/judge/pt/problems/view/1212) - Aritmética Primária *Matemática*
+  - [x] [1212](https://www.urionlinejudge.com.br/judge/pt/problems/view/1212) - [Aritmética Primária](https://github.com/potigol/URI-Potigol/blob/master/src/1201-1300/1212.poti) *Matemática*
   - [ ] [1213](https://www.urionlinejudge.com.br/judge/pt/problems/view/1213) - Ones *Matemática*
   - [ ] [1214](https://www.urionlinejudge.com.br/judge/pt/problems/view/1214) - Acima da Média *Matemática*
   - [ ] [1215](https://www.urionlinejudge.com.br/judge/pt/problems/view/1215) - Primeiro Dicionário de Andy *Estruturas e Bibliotecas*

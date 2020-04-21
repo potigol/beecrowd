@@ -66,7 +66,7 @@
   - [ ] [1464](https://www.urionlinejudge.com.br/judge/pt/problems/view/1464) - Camadas de Cebola *Geometria Computacional*
   - [ ] [1465](https://www.urionlinejudge.com.br/judge/pt/problems/view/1465) - Complexo, Difícil e Complicado *Matemática*
   - [ ] [1466](https://www.urionlinejudge.com.br/judge/pt/problems/view/1466) - Percurso em Árvore por Nível *Grafos*
-  - [ ] [1467](https://www.urionlinejudge.com.br/judge/pt/problems/view/1467) - Zerinho ou Um *Ad-Hoc*
+  - [x] [1467](https://www.urionlinejudge.com.br/judge/pt/problems/view/1467) - [Zerinho ou Um](https://github.com/potigol/URI-Potigol/blob/master/src/1401-1500/1467.poti) *Ad-Hoc*
   - [ ] [1468](https://www.urionlinejudge.com.br/judge/pt/problems/view/1468) - Balão *Geometria Computacional*
   - [ ] [1469](https://www.urionlinejudge.com.br/judge/pt/problems/view/1469) - Chefe *Grafos*
   - [ ] [1470](https://www.urionlinejudge.com.br/judge/pt/problems/view/1470) - Máquina Dobradora *Ad-Hoc*
