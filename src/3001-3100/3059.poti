@@ -1,0 +1,12 @@
+a = leia_inteiros(" ")
+nums = leia_inteiros(" ").ordene
+n, i, f = a[1], a[2], a[3]
+
+var pares := 0
+para x de 1 ate n - 1, y de x + 1 ate n faca
+  soma = nums[x] + nums[y]
+  se soma >= i e soma <= f entao
+    pares := pares + 1
+  fim
+fim
+escreva pares

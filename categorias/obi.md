@@ -7,7 +7,7 @@
   - [x] [3046](https://www.urionlinejudge.com.br/judge/pt/problems/view/3046) - [Dominó](https://github.com/potigol/URI-Potigol/blob/master/src/3001-3100/3046.poti) *Iniciante*
   - [x] [3047](https://www.urionlinejudge.com.br/judge/pt/problems/view/3047) - [A idade de Dona Mônica](https://github.com/potigol/URI-Potigol/blob/master/src/3001-3100/3047.poti) *Iniciante*
   - [ ] [3048](https://www.urionlinejudge.com.br/judge/pt/problems/view/3048) - Sequência Secreta *Ad-Hoc*
-  - [ ] [3049](https://www.urionlinejudge.com.br/judge/pt/problems/view/3049) - Nota cortada *Matemática*
+  - [x] [3049](https://www.urionlinejudge.com.br/judge/pt/problems/view/3049) - [Nota cortada](https://github.com/potigol/URI-Potigol/blob/master/src/3001-3100/3049.poti) *Matemática*
   - [ ] [3050](https://www.urionlinejudge.com.br/judge/pt/problems/view/3050) - Distância entre amigos *Ad-Hoc*
   - [ ] [3051](https://www.urionlinejudge.com.br/judge/pt/problems/view/3051) - Soma *Paradigmas*
   - [ ] [3052](https://www.urionlinejudge.com.br/judge/pt/problems/view/3052) - Chuva *Ad-Hoc*
@@ -17,7 +17,7 @@
   - [x] [3056](https://www.urionlinejudge.com.br/judge/pt/problems/view/3056) - [Ponto do meio](https://github.com/potigol/URI-Potigol/blob/master/src/3001-3100/3056.poti) *Ad-Hoc*
   - [ ] [3057](https://www.urionlinejudge.com.br/judge/pt/problems/view/3057) - Detetive *Ad-Hoc*
   - [ ] [3058](https://www.urionlinejudge.com.br/judge/pt/problems/view/3058) - Supermercado *Ad-Hoc*
-  - [ ] [3059](https://www.urionlinejudge.com.br/judge/pt/problems/view/3059) - Pares de números *Ad-Hoc*
+  - [x] [3059](https://www.urionlinejudge.com.br/judge/pt/problems/view/3059) - [Pares de números](https://github.com/potigol/URI-Potigol/blob/master/src/3001-3100/3059.poti) *Ad-Hoc*
   - [ ] [3060](https://www.urionlinejudge.com.br/judge/pt/problems/view/3060) - Parcelamento sem juros *Ad-Hoc*
   - [ ] [3061](https://www.urionlinejudge.com.br/judge/pt/problems/view/3061) - Manchas de pele *Grafos*
   - [ ] [3062](https://www.urionlinejudge.com.br/judge/pt/problems/view/3062) - Coleção de Upas *Ad-Hoc*
@@ -36,11 +36,11 @@
   - [x] [2786](https://www.urionlinejudge.com.br/judge/pt/problems/view/2786) - [Piso da Escola](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2786.poti) *Iniciante*
   - [x] [2787](https://www.urionlinejudge.com.br/judge/pt/problems/view/2787) - [Xadrez](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2787.poti) *Iniciante*
   - [x] [2830](https://www.urionlinejudge.com.br/judge/pt/problems/view/2830) - [Copa](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2830.poti) *Ad-Hoc*
-  - [ ] [2831](https://www.urionlinejudge.com.br/judge/pt/problems/view/2831) - Pesos *Ad-Hoc*
+  - [x] [2831](https://www.urionlinejudge.com.br/judge/pt/problems/view/2831) - [Pesos](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2831.poti) *Ad-Hoc*
   - [ ] [2832](https://www.urionlinejudge.com.br/judge/pt/problems/view/2832) - Cápsulas *Ad-Hoc*
   - [ ] [2833](https://www.urionlinejudge.com.br/judge/pt/problems/view/2833) - Campeonato *Ad-Hoc*
   - [ ] [2834](https://www.urionlinejudge.com.br/judge/pt/problems/view/2834) - Fuga *Ad-Hoc*
-  - [ ] [2835](https://www.urionlinejudge.com.br/judge/pt/problems/view/2835) - Elevador *Ad-Hoc*
+  - [x] [2835](https://www.urionlinejudge.com.br/judge/pt/problems/view/2835) - [Elevador](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2835.poti) *Ad-Hoc*
   - [ ] [2836](https://www.urionlinejudge.com.br/judge/pt/problems/view/2836) - Wifi *Ad-Hoc*
   - [ ] [2837](https://www.urionlinejudge.com.br/judge/pt/problems/view/2837) - Sequência *Ad-Hoc*
 

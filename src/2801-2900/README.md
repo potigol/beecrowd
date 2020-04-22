@@ -30,11 +30,11 @@
   - [ ] [2828](https://www.urionlinejudge.com.br/judge/pt/problems/view/2828) - Anagramas *Matemática*
   - [ ] [2829](https://www.urionlinejudge.com.br/judge/pt/problems/view/2829) - Maiúsculas, Por Quê? *Ad-Hoc*
   - [x] [2830](https://www.urionlinejudge.com.br/judge/pt/problems/view/2830) - [Copa](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2830.poti) *Ad-Hoc*
-  - [ ] [2831](https://www.urionlinejudge.com.br/judge/pt/problems/view/2831) - Pesos *Ad-Hoc*
+  - [x] [2831](https://www.urionlinejudge.com.br/judge/pt/problems/view/2831) - [Pesos](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2831.poti) *Ad-Hoc*
   - [ ] [2832](https://www.urionlinejudge.com.br/judge/pt/problems/view/2832) - Cápsulas *Ad-Hoc*
   - [ ] [2833](https://www.urionlinejudge.com.br/judge/pt/problems/view/2833) - Campeonato *Ad-Hoc*
   - [ ] [2834](https://www.urionlinejudge.com.br/judge/pt/problems/view/2834) - Fuga *Ad-Hoc*
-  - [ ] [2835](https://www.urionlinejudge.com.br/judge/pt/problems/view/2835) - Elevador *Ad-Hoc*
+  - [x] [2835](https://www.urionlinejudge.com.br/judge/pt/problems/view/2835) - [Elevador](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2835.poti) *Ad-Hoc*
   - [ ] [2836](https://www.urionlinejudge.com.br/judge/pt/problems/view/2836) - Wifi *Ad-Hoc*
   - [ ] [2837](https://www.urionlinejudge.com.br/judge/pt/problems/view/2837) - Sequência *Ad-Hoc*
   - [ ] [2838](https://www.urionlinejudge.com.br/judge/pt/problems/view/2838) - As Jóias do Infinito *Grafos*
