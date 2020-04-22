@@ -1,4 +1,4 @@
-# Ad-Hoc (68 / 691)
+# Ad-Hoc (69 / 691)
 
 ## Problemas não resolvidos
   - [ ] [1030](https://www.urionlinejudge.com.br/judge/pt/problems/view/1030) - A Lenda de Flavious Josephus
@@ -436,7 +436,6 @@
   - [ ] [2451](https://www.urionlinejudge.com.br/judge/pt/problems/view/2451) - PacMan
   - [ ] [2452](https://www.urionlinejudge.com.br/judge/pt/problems/view/2452) - Semente
   - [ ] [2453](https://www.urionlinejudge.com.br/judge/pt/problems/view/2453) - Língua do P
-  - [ ] [2456](https://www.urionlinejudge.com.br/judge/pt/problems/view/2456) - Cartas
   - [ ] [2457](https://www.urionlinejudge.com.br/judge/pt/problems/view/2457) - Letras
   - [ ] [2458](https://www.urionlinejudge.com.br/judge/pt/problems/view/2458) - Setas
   - [ ] [2459](https://www.urionlinejudge.com.br/judge/pt/problems/view/2459) - Copa do Mundo
@@ -674,6 +673,7 @@
   - [x] [2437](https://www.urionlinejudge.com.br/judge/pt/problems/view/2437) - [Distância de Manhattan](https://github.com/potigol/URI-Potigol/blob/master/src/2401-2500/2437.poti)
   - [x] [2454](https://www.urionlinejudge.com.br/judge/pt/problems/view/2454) - [Flíper](https://github.com/potigol/URI-Potigol/blob/master/src/2401-2500/2454.poti)
   - [x] [2455](https://www.urionlinejudge.com.br/judge/pt/problems/view/2455) - [Gangorra](https://github.com/potigol/URI-Potigol/blob/master/src/2401-2500/2455.poti)
+  - [x] [2456](https://www.urionlinejudge.com.br/judge/pt/problems/view/2456) - [Cartas](https://github.com/potigol/URI-Potigol/blob/master/src/2401-2500/2456.poti)
   - [x] [2462](https://www.urionlinejudge.com.br/judge/pt/problems/view/2462) - [Voo](https://github.com/potigol/URI-Potigol/blob/master/src/2401-2500/2462.poti)
   - [x] [2464](https://www.urionlinejudge.com.br/judge/pt/problems/view/2464) - [Decifra](https://github.com/potigol/URI-Potigol/blob/master/src/2401-2500/2464.poti)
   - [x] [2465](https://www.urionlinejudge.com.br/judge/pt/problems/view/2465) - [Passa Bolinha](https://github.com/potigol/URI-Potigol/blob/master/src/2401-2500/2465.poti)

@@ -1,0 +1,9 @@
+n = leia_inteiro
+nums = leia_inteiros(" ")
+se n > 1 entao
+  a = nums.zip(nums.cauda).mapeie(n => n.segundo - n.primeiro)
+  c = a.divida_quando(_ <> _)
+  escreva c.tamanho
+senao
+  escreva 1
+fim

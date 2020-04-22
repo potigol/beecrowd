@@ -29,7 +29,7 @@
   - [x] [2779](https://www.urionlinejudge.com.br/judge/pt/problems/view/2779) - [Álbum da Copa](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2779.poti) *Iniciante*
   - [x] [2780](https://www.urionlinejudge.com.br/judge/pt/problems/view/2780) - [Basquete de Robôs](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2780.poti) *Iniciante*
   - [ ] [2781](https://www.urionlinejudge.com.br/judge/pt/problems/view/2781) - Câmara de Compensação *Iniciante*
-  - [ ] [2782](https://www.urionlinejudge.com.br/judge/pt/problems/view/2782) - Escadinha *Iniciante*
+  - [x] [2782](https://www.urionlinejudge.com.br/judge/pt/problems/view/2782) - [Escadinha](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2782.poti) *Iniciante*
   - [x] [2783](https://www.urionlinejudge.com.br/judge/pt/problems/view/2783) - [Figurinhas da Copa](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2783.poti) *Iniciante*
   - [ ] [2784](https://www.urionlinejudge.com.br/judge/pt/problems/view/2784) - Ilhas *Iniciante*
   - [ ] [2785](https://www.urionlinejudge.com.br/judge/pt/problems/view/2785) - Pirâmide *Iniciante*
@@ -57,7 +57,7 @@
   - [ ] [2453](https://www.urionlinejudge.com.br/judge/pt/problems/view/2453) - Língua do P *Ad-Hoc*
   - [x] [2454](https://www.urionlinejudge.com.br/judge/pt/problems/view/2454) - [Flíper](https://github.com/potigol/URI-Potigol/blob/master/src/2401-2500/2454.poti) *Ad-Hoc*
   - [x] [2455](https://www.urionlinejudge.com.br/judge/pt/problems/view/2455) - [Gangorra](https://github.com/potigol/URI-Potigol/blob/master/src/2401-2500/2455.poti) *Ad-Hoc*
-  - [ ] [2456](https://www.urionlinejudge.com.br/judge/pt/problems/view/2456) - Cartas *Ad-Hoc*
+  - [x] [2456](https://www.urionlinejudge.com.br/judge/pt/problems/view/2456) - [Cartas](https://github.com/potigol/URI-Potigol/blob/master/src/2401-2500/2456.poti) *Ad-Hoc*
   - [ ] [2457](https://www.urionlinejudge.com.br/judge/pt/problems/view/2457) - Letras *Ad-Hoc*
   - [ ] [2458](https://www.urionlinejudge.com.br/judge/pt/problems/view/2458) - Setas *Ad-Hoc*
   - [ ] [2459](https://www.urionlinejudge.com.br/judge/pt/problems/view/2459) - Copa do Mundo *Ad-Hoc*
