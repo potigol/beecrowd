@@ -25,7 +25,7 @@
   - [ ] [2923](https://www.urionlinejudge.com.br/judge/pt/problems/view/2923) - Birinho *Ad-Hoc*
   - [ ] [2924](https://www.urionlinejudge.com.br/judge/pt/problems/view/2924) - BigInt *Ad-Hoc*
   - [ ] [2925](https://www.urionlinejudge.com.br/judge/pt/problems/view/2925) - Sequência IccanobiF *Ad-Hoc*
-  - [ ] [2926](https://www.urionlinejudge.com.br/judge/pt/problems/view/2926) - Então é Natal! *Ad-Hoc*
+  - [x] [2926](https://www.urionlinejudge.com.br/judge/pt/problems/view/2926) - [Então é Natal!](https://github.com/potigol/URI-Potigol/blob/master/src/2901-3000/2926.poti) *Ad-Hoc*
   - [ ] [2927](https://www.urionlinejudge.com.br/judge/pt/problems/view/2927) - Imprevistos Natalinos *Ad-Hoc*
   - [ ] [2928](https://www.urionlinejudge.com.br/judge/pt/problems/view/2928) - Cruzando Lagos *Ad-Hoc*
   - [ ] [2929](https://www.urionlinejudge.com.br/judge/pt/problems/view/2929) - Menor da Pilha *Estruturas e Bibliotecas*

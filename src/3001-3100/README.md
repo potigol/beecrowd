@@ -36,7 +36,7 @@
   - [ ] [3034](https://www.urionlinejudge.com.br/judge/pt/problems/view/3034) - O Caso Douglas *Ad-Hoc*
   - [ ] [3035](https://www.urionlinejudge.com.br/judge/pt/problems/view/3035) - Fabrica de Peças *Ad-Hoc*
   - [ ] [3036](https://www.urionlinejudge.com.br/judge/pt/problems/view/3036) - Cor da camisa *Matemática*
-  - [ ] [3037](https://www.urionlinejudge.com.br/judge/pt/problems/view/3037) - Jogando dardos por distância *Iniciante*
+  - [x] [3037](https://www.urionlinejudge.com.br/judge/pt/problems/view/3037) - [Jogando dardos por distância](https://github.com/potigol/URI-Potigol/blob/master/src/3001-3100/3037.poti) *Iniciante*
   - [ ] [3038](https://www.urionlinejudge.com.br/judge/pt/problems/view/3038) - Carta de Natal Criptografada *Strings*
   - [x] [3039](https://www.urionlinejudge.com.br/judge/pt/problems/view/3039) - [Brinquedos do Papai Noel](https://github.com/potigol/URI-Potigol/blob/master/src/3001-3100/3039.poti) *Iniciante*
   - [x] [3040](https://www.urionlinejudge.com.br/judge/pt/problems/view/3040) - [A Árvore de Natal](https://github.com/potigol/URI-Potigol/blob/master/src/3001-3100/3040.poti) *Iniciante*
