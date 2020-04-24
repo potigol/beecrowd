@@ -81,7 +81,7 @@
   - [ ] [2979](https://www.urionlinejudge.com.br/judge/pt/problems/view/2979) - Torre *Ad-Hoc*
   - [ ] [2980](https://www.urionlinejudge.com.br/judge/pt/problems/view/2980) - Jogo da Árvore *Grafos*
   - [ ] [2981](https://www.urionlinejudge.com.br/judge/pt/problems/view/2981) - Vamos Fechar *Matemática*
-  - [ ] [2982](https://www.urionlinejudge.com.br/judge/pt/problems/view/2982) - A Greve para ou Continua? *Iniciante*
+  - [x] [2982](https://www.urionlinejudge.com.br/judge/pt/problems/view/2982) - [A Greve para ou Continua?](https://github.com/potigol/URI-Potigol/blob/master/src/2901-3000/2982.poti) *Iniciante*
   - [ ] [2983](https://www.urionlinejudge.com.br/judge/pt/problems/view/2983) - Nem tudo é greve *Matemática*
   - [ ] [2984](https://www.urionlinejudge.com.br/judge/pt/problems/view/2984) - Assuntos Pendentes *Estruturas e Bibliotecas*
   - [ ] [2985](https://www.urionlinejudge.com.br/judge/pt/problems/view/2985) - Tobias Contra o Relógio *Ad-Hoc*

@@ -1,4 +1,4 @@
-# Iniciante (263 / 298)
+# Iniciante (265 / 298)
 
 ## Problemas não resolvidos
   - [ ] [2493](https://www.urionlinejudge.com.br/judge/pt/problems/view/2493) - Jogo do Operador
@@ -27,12 +27,10 @@
   - [ ] [2823](https://www.urionlinejudge.com.br/judge/pt/problems/view/2823) - Eearliest Deadline First
   - [ ] [2852](https://www.urionlinejudge.com.br/judge/pt/problems/view/2852) - Troca de Mensagens
   - [ ] [2952](https://www.urionlinejudge.com.br/judge/pt/problems/view/2952) - A Vida Sustentável
-  - [ ] [2982](https://www.urionlinejudge.com.br/judge/pt/problems/view/2982) - A Greve para ou Continua?
   - [ ] [3037](https://www.urionlinejudge.com.br/judge/pt/problems/view/3037) - Jogando dardos por distância
   - [ ] [3043](https://www.urionlinejudge.com.br/judge/pt/problems/view/3043) - Festa Junina
   - [ ] [3044](https://www.urionlinejudge.com.br/judge/pt/problems/view/3044) - Manutenção
   - [ ] [3064](https://www.urionlinejudge.com.br/judge/pt/problems/view/3064) - Elástico
-  - [ ] [3065](https://www.urionlinejudge.com.br/judge/pt/problems/view/3065) - Calculando
   - [ ] [3066](https://www.urionlinejudge.com.br/judge/pt/problems/view/3066) - Dengue
   - [ ] [3068](https://www.urionlinejudge.com.br/judge/pt/problems/view/3068) - Meteóros
   - [ ] [3069](https://www.urionlinejudge.com.br/judge/pt/problems/view/3069) - Sorvete
@@ -292,6 +290,7 @@
   - [x] [2951](https://www.urionlinejudge.com.br/judge/pt/problems/view/2951) - [O Retorno do Rei](https://github.com/potigol/URI-Potigol/blob/master/src/2901-3000/2951.poti)
   - [x] [2963](https://www.urionlinejudge.com.br/judge/pt/problems/view/2963) - [Bobo da Corte](https://github.com/potigol/URI-Potigol/blob/master/src/2901-3000/2963.poti)
   - [x] [2968](https://www.urionlinejudge.com.br/judge/pt/problems/view/2968) - [Hora da Corrida](https://github.com/potigol/URI-Potigol/blob/master/src/2901-3000/2968.poti)
+  - [x] [2982](https://www.urionlinejudge.com.br/judge/pt/problems/view/2982) - [A Greve para ou Continua?](https://github.com/potigol/URI-Potigol/blob/master/src/2901-3000/2982.poti)
   - [x] [2987](https://www.urionlinejudge.com.br/judge/pt/problems/view/2987) - [Balão de Honra](https://github.com/potigol/URI-Potigol/blob/master/src/2901-3000/2987.poti)
   - [x] [3039](https://www.urionlinejudge.com.br/judge/pt/problems/view/3039) - [Brinquedos do Papai Noel](https://github.com/potigol/URI-Potigol/blob/master/src/3001-3100/3039.poti)
   - [x] [3040](https://www.urionlinejudge.com.br/judge/pt/problems/view/3040) - [A Árvore de Natal](https://github.com/potigol/URI-Potigol/blob/master/src/3001-3100/3040.poti)
@@ -300,3 +299,4 @@
   - [x] [3047](https://www.urionlinejudge.com.br/judge/pt/problems/view/3047) - [A idade de Dona Mônica](https://github.com/potigol/URI-Potigol/blob/master/src/3001-3100/3047.poti)
   - [x] [3053](https://www.urionlinejudge.com.br/judge/pt/problems/view/3053) - [Jogo dos copos](https://github.com/potigol/URI-Potigol/blob/master/src/3001-3100/3053.poti)
   - [x] [3055](https://www.urionlinejudge.com.br/judge/pt/problems/view/3055) - [Nota esquecida](https://github.com/potigol/URI-Potigol/blob/master/src/3001-3100/3055.poti)
+  - [x] [3065](https://www.urionlinejudge.com.br/judge/pt/problems/view/3065) - [Calculando](https://github.com/potigol/URI-Potigol/blob/master/src/3001-3100/3065.poti)

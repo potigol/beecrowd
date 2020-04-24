@@ -1,0 +1,11 @@
+var m:= leia_inteiro
+var teste := 0
+enquanto m > 0 faca
+  x = leia_textos("+").mapeie(_.divida("-").mapeie(_.inteiro))
+  y = x.mapeie(a => a.cauda.injete(a.cabeca)(_ - _)).injete(0)(_ + _)
+  teste := teste + 1
+  escreva "Teste {teste}"
+  escreva y
+  escreva ""
+  m := leia_inteiro
+fim
