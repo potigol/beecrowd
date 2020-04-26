@@ -1,0 +1,11 @@
+var s:= leia_texto
+enquanto s <> None.orNull faca
+  r, t = s.maiúsculo, s.minúsculo
+  var maiúsculo := verdadeiro
+  para i de 1 ate s.tamanho faca
+    maiúsculo := maiúsculo <> (r[i] >= 'A' e r[i] <= 'Z')
+    imprima se maiúsculo entao t[i] senao r[i] fim
+  fim
+  escreva ""
+  s:= leia_texto
+fim

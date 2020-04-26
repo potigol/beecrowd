@@ -33,7 +33,7 @@
   - [ ] [1231](https://www.urionlinejudge.com.br/judge/pt/problems/view/1231) - Palavras *Paradigmas*
   - [ ] [1232](https://www.urionlinejudge.com.br/judge/pt/problems/view/1232) - Ciclo de Rubik *Matemática*
   - [ ] [1233](https://www.urionlinejudge.com.br/judge/pt/problems/view/1233) - Estrela *Matemática*
-  - [ ] [1234](https://www.urionlinejudge.com.br/judge/pt/problems/view/1234) - Sentença Dançante *Strings*
+  - [x] [1234](https://www.urionlinejudge.com.br/judge/pt/problems/view/1234) - [Sentença Dançante](https://github.com/potigol/URI-Potigol/blob/master/src/1201-1300/1234.poti) *Strings*
   - [ ] [1235](https://www.urionlinejudge.com.br/judge/pt/problems/view/1235) - De Dentro para Fora *Strings*
   - [ ] [1236](https://www.urionlinejudge.com.br/judge/pt/problems/view/1236) - Compactação de Nulos e Brancos *Estruturas e Bibliotecas*
   - [ ] [1237](https://www.urionlinejudge.com.br/judge/pt/problems/view/1237) - Comparação de Substring *Strings*

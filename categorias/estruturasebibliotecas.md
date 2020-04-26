@@ -1,10 +1,9 @@
-# Estruturas e Bibliotecas (4 / 152)
+# Estruturas e Bibliotecas (5 / 152)
 
 ## Problemas não resolvidos
   - [ ] [1025](https://www.urionlinejudge.com.br/judge/pt/problems/view/1025) - Onde está o Mármore?
   - [ ] [1062](https://www.urionlinejudge.com.br/judge/pt/problems/view/1062) - Trilhos
   - [ ] [1063](https://www.urionlinejudge.com.br/judge/pt/problems/view/1063) - Trilhos Novamente... Traçando Movimentos
-  - [ ] [1069](https://www.urionlinejudge.com.br/judge/pt/problems/view/1069) - Diamantes e Areia
   - [ ] [1077](https://www.urionlinejudge.com.br/judge/pt/problems/view/1077) - Infixa para Posfixa
   - [ ] [1083](https://www.urionlinejudge.com.br/judge/pt/problems/view/1083) - LEXSIM - Avaliador Lexico e Sintático
   - [ ] [1088](https://www.urionlinejudge.com.br/judge/pt/problems/view/1088) - Bolhas e Baldes
@@ -152,5 +151,6 @@
 ## Problemas resolvidos
   - [x] [1022](https://www.urionlinejudge.com.br/judge/pt/problems/view/1022) - [TDA Racional](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1022.poti)
   - [x] [1068](https://www.urionlinejudge.com.br/judge/pt/problems/view/1068) - [Balanço de Parênteses I](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1068.poti)
+  - [x] [1069](https://www.urionlinejudge.com.br/judge/pt/problems/view/1069) - [Diamantes e Areia](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1069.poti)
   - [x] [1110](https://www.urionlinejudge.com.br/judge/pt/problems/view/1110) - [Jogando Cartas Fora](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1110.poti)
   - [x] [2729](https://www.urionlinejudge.com.br/judge/pt/problems/view/2729) - [Lista de Compras](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2729.poti)
