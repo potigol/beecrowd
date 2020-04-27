@@ -1,4 +1,4 @@
-# Strings (20 / 127)
+# Strings (22 / 127)
 
 ## Problemas não resolvidos
   - [ ] [1120](https://www.urionlinejudge.com.br/judge/pt/problems/view/1120) - Revisão de Contrato
@@ -7,7 +7,6 @@
   - [ ] [1235](https://www.urionlinejudge.com.br/judge/pt/problems/view/1235) - De Dentro para Fora
   - [ ] [1237](https://www.urionlinejudge.com.br/judge/pt/problems/view/1237) - Comparação de Substring
   - [ ] [1239](https://www.urionlinejudge.com.br/judge/pt/problems/view/1239) - Atalhos Bloggo
-  - [ ] [1241](https://www.urionlinejudge.com.br/judge/pt/problems/view/1241) - Encaixa ou Não II
   - [ ] [1243](https://www.urionlinejudge.com.br/judge/pt/problems/view/1243) - O Quão Fácil é...
   - [ ] [1248](https://www.urionlinejudge.com.br/judge/pt/problems/view/1248) - Plano de Dieta
   - [ ] [1249](https://www.urionlinejudge.com.br/judge/pt/problems/view/1249) - Rot13
@@ -59,7 +58,6 @@
   - [ ] [1853](https://www.urionlinejudge.com.br/judge/pt/problems/view/1853) - O Jogo da Confiança de Daenerys
   - [ ] [1859](https://www.urionlinejudge.com.br/judge/pt/problems/view/1859) - Arqueologia Congelante
   - [ ] [1868](https://www.urionlinejudge.com.br/judge/pt/problems/view/1868) - Espiral Quadrada
-  - [ ] [1871](https://www.urionlinejudge.com.br/judge/pt/problems/view/1871) - Zero vale Zero
   - [ ] [1873](https://www.urionlinejudge.com.br/judge/pt/problems/view/1873) - Pedra-papel-tesoura-lagarto-Spock
   - [ ] [1898](https://www.urionlinejudge.com.br/judge/pt/problems/view/1898) - Soma de Propina
   - [ ] [1941](https://www.urionlinejudge.com.br/judge/pt/problems/view/1941) - Palíndromo
@@ -113,12 +111,14 @@
   - [x] [1168](https://www.urionlinejudge.com.br/judge/pt/problems/view/1168) - [LED](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1168.poti)
   - [x] [1234](https://www.urionlinejudge.com.br/judge/pt/problems/view/1234) - [Sentença Dançante](https://github.com/potigol/URI-Potigol/blob/master/src/1201-1300/1234.poti)
   - [x] [1238](https://www.urionlinejudge.com.br/judge/pt/problems/view/1238) - [Combinador](https://github.com/potigol/URI-Potigol/blob/master/src/1201-1300/1238.poti)
+  - [x] [1241](https://www.urionlinejudge.com.br/judge/pt/problems/view/1241) - [Encaixa ou Não II](https://github.com/potigol/URI-Potigol/blob/master/src/1201-1300/1241.poti)
   - [x] [1253](https://www.urionlinejudge.com.br/judge/pt/problems/view/1253) - [Cifra de César](https://github.com/potigol/URI-Potigol/blob/master/src/1201-1300/1253.poti)
   - [x] [1257](https://www.urionlinejudge.com.br/judge/pt/problems/view/1257) - [Array Hash](https://github.com/potigol/URI-Potigol/blob/master/src/1201-1300/1257.poti)
   - [x] [1332](https://www.urionlinejudge.com.br/judge/pt/problems/view/1332) - [Um-Dois-Três](https://github.com/potigol/URI-Potigol/blob/master/src/1301-1400/1332.poti)
   - [x] [1551](https://www.urionlinejudge.com.br/judge/pt/problems/view/1551) - [Frase Completa](https://github.com/potigol/URI-Potigol/blob/master/src/1501-1600/1551.poti)
   - [x] [1581](https://www.urionlinejudge.com.br/judge/pt/problems/view/1581) - [Conversa Internacional](https://github.com/potigol/URI-Potigol/blob/master/src/1501-1600/1581.poti)
   - [x] [1632](https://www.urionlinejudge.com.br/judge/pt/problems/view/1632) - [Variações](https://github.com/potigol/URI-Potigol/blob/master/src/1601-1700/1632.poti)
+  - [x] [1871](https://www.urionlinejudge.com.br/judge/pt/problems/view/1871) - [Zero vale Zero](https://github.com/potigol/URI-Potigol/blob/master/src/1801-1900/1871.poti)
   - [x] [2174](https://www.urionlinejudge.com.br/judge/pt/problems/view/2174) - [Coleção de Pomekon](https://github.com/potigol/URI-Potigol/blob/master/src/2101-2200/2174.poti)
   - [x] [2242](https://www.urionlinejudge.com.br/judge/pt/problems/view/2242) - [Huaauhahhuahau](https://github.com/potigol/URI-Potigol/blob/master/src/2201-2300/2242.poti)
   - [x] [2587](https://www.urionlinejudge.com.br/judge/pt/problems/view/2587) - [Jetiqui](https://github.com/potigol/URI-Potigol/blob/master/src/2501-2600/2587.poti)

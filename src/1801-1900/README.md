@@ -70,7 +70,7 @@
   - [ ] [1868](https://www.urionlinejudge.com.br/judge/pt/problems/view/1868) - Espiral Quadrada *Strings*
   - [ ] [1869](https://www.urionlinejudge.com.br/judge/pt/problems/view/1869) - Base 32 *Matemática*
   - [ ] [1870](https://www.urionlinejudge.com.br/judge/pt/problems/view/1870) - Ventiladores e Balões *Ad-Hoc*
-  - [ ] [1871](https://www.urionlinejudge.com.br/judge/pt/problems/view/1871) - Zero vale Zero *Strings*
+  - [x] [1871](https://www.urionlinejudge.com.br/judge/pt/problems/view/1871) - [Zero vale Zero](https://github.com/potigol/URI-Potigol/blob/master/src/1801-1900/1871.poti) *Strings*
   - [ ] [1872](https://www.urionlinejudge.com.br/judge/pt/problems/view/1872) - Palíndromo Real *Matemática*
   - [ ] [1873](https://www.urionlinejudge.com.br/judge/pt/problems/view/1873) - Pedra-papel-tesoura-lagarto-Spock *Strings*
   - [ ] [1874](https://www.urionlinejudge.com.br/judge/pt/problems/view/1874) - Empurrando Blocos *Estruturas e Bibliotecas*

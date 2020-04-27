@@ -40,7 +40,7 @@
   - [x] [1238](https://www.urionlinejudge.com.br/judge/pt/problems/view/1238) - [Combinador](https://github.com/potigol/URI-Potigol/blob/master/src/1201-1300/1238.poti) *Strings*
   - [ ] [1239](https://www.urionlinejudge.com.br/judge/pt/problems/view/1239) - Atalhos Bloggo *Strings*
   - [x] [1240](https://www.urionlinejudge.com.br/judge/pt/problems/view/1240) - [Encaixa ou Não I](https://github.com/potigol/URI-Potigol/blob/master/src/1201-1300/1240.poti) *Matemática*
-  - [ ] [1241](https://www.urionlinejudge.com.br/judge/pt/problems/view/1241) - Encaixa ou Não II *Strings*
+  - [x] [1241](https://www.urionlinejudge.com.br/judge/pt/problems/view/1241) - [Encaixa ou Não II](https://github.com/potigol/URI-Potigol/blob/master/src/1201-1300/1241.poti) *Strings*
   - [ ] [1242](https://www.urionlinejudge.com.br/judge/pt/problems/view/1242) - Ácido Ribonucleico Alienígena *Estruturas e Bibliotecas*
   - [ ] [1243](https://www.urionlinejudge.com.br/judge/pt/problems/view/1243) - O Quão Fácil é... *Strings*
   - [ ] [1244](https://www.urionlinejudge.com.br/judge/pt/problems/view/1244) - Ordenação por Tamanho *Estruturas e Bibliotecas*

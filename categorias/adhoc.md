@@ -1,4 +1,4 @@
-# Ad-Hoc (70 / 691)
+# Ad-Hoc (71 / 691)
 
 ## Problemas não resolvidos
   - [ ] [1030](https://www.urionlinejudge.com.br/judge/pt/problems/view/1030) - A Lenda de Flavious Josephus
@@ -533,7 +533,6 @@
   - [ ] [2837](https://www.urionlinejudge.com.br/judge/pt/problems/view/2837) - Sequência
   - [ ] [2843](https://www.urionlinejudge.com.br/judge/pt/problems/view/2843) - Escrita Rápida, a Competição
   - [ ] [2844](https://www.urionlinejudge.com.br/judge/pt/problems/view/2844) - Escrita Rápida, o Duelo
-  - [ ] [2847](https://www.urionlinejudge.com.br/judge/pt/problems/view/2847) - Papel, Tesoura, I Love You!
   - [ ] [2853](https://www.urionlinejudge.com.br/judge/pt/problems/view/2853) - Invenções de Bibika
   - [ ] [2865](https://www.urionlinejudge.com.br/judge/pt/problems/view/2865) - Palíndromo Binário
   - [ ] [2871](https://www.urionlinejudge.com.br/judge/pt/problems/view/2871) - Colheita de Café
@@ -685,6 +684,7 @@
   - [x] [2830](https://www.urionlinejudge.com.br/judge/pt/problems/view/2830) - [Copa](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2830.poti)
   - [x] [2831](https://www.urionlinejudge.com.br/judge/pt/problems/view/2831) - [Pesos](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2831.poti)
   - [x] [2835](https://www.urionlinejudge.com.br/judge/pt/problems/view/2835) - [Elevador](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2835.poti)
+  - [x] [2847](https://www.urionlinejudge.com.br/judge/pt/problems/view/2847) - [Papel, Tesoura, I Love You!](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2847.poti)
   - [x] [2851](https://www.urionlinejudge.com.br/judge/pt/problems/view/2851) - [Desafio de Rangel](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2851.poti)
   - [x] [2858](https://www.urionlinejudge.com.br/judge/pt/problems/view/2858) - [Tabuleiro Infinito](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2858.poti)
   - [x] [2868](https://www.urionlinejudge.com.br/judge/pt/problems/view/2868) - [Errrou!](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2868.poti)

@@ -1,0 +1,6 @@
+s = leia_texto
+letras = "oIlveyu!".lista
+r = s.selecione(letras.contem)
+a = letras.mapeie(c => r.selecione(c == _).tamanho)
+b = (a.cabeca div 2) :: a.cauda
+escreva b.ordene.cabeca
