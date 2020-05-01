@@ -1,4 +1,4 @@
-# Ad-Hoc (71 / 691)
+# Ad-Hoc (72 / 691)
 
 ## Problemas não resolvidos
   - [ ] [1030](https://www.urionlinejudge.com.br/judge/pt/problems/view/1030) - A Lenda de Flavious Josephus
@@ -64,7 +64,6 @@
   - [ ] [1369](https://www.urionlinejudge.com.br/judge/pt/problems/view/1369) - Gerente de Espaço
   - [ ] [1374](https://www.urionlinejudge.com.br/judge/pt/problems/view/1374) - Eletricidade
   - [ ] [1375](https://www.urionlinejudge.com.br/judge/pt/problems/view/1375) - Painel de Posições
-  - [ ] [1397](https://www.urionlinejudge.com.br/judge/pt/problems/view/1397) - Jogo do Maior
   - [ ] [1403](https://www.urionlinejudge.com.br/judge/pt/problems/view/1403) - Meu Avô é Famoso
   - [ ] [1404](https://www.urionlinejudge.com.br/judge/pt/problems/view/1404) - MegaDamas
   - [ ] [1407](https://www.urionlinejudge.com.br/judge/pt/problems/view/1407) - Loteria de Fim de Semana
@@ -631,6 +630,7 @@
   - [x] [1379](https://www.urionlinejudge.com.br/judge/pt/problems/view/1379) - [Problema com Mediana e Média](https://github.com/potigol/URI-Potigol/blob/master/src/1301-1400/1379.poti)
   - [x] [1383](https://www.urionlinejudge.com.br/judge/pt/problems/view/1383) - [Sudoku](https://github.com/potigol/URI-Potigol/blob/master/src/1301-1400/1383.poti)
   - [x] [1387](https://www.urionlinejudge.com.br/judge/pt/problems/view/1387) - [Og](https://github.com/potigol/URI-Potigol/blob/master/src/1301-1400/1387.poti)
+  - [x] [1397](https://www.urionlinejudge.com.br/judge/pt/problems/view/1397) - [Jogo do Maior](https://github.com/potigol/URI-Potigol/blob/master/src/1301-1400/1397.poti)
   - [x] [1441](https://www.urionlinejudge.com.br/judge/pt/problems/view/1441) - [Sequências de Granizo](https://github.com/potigol/URI-Potigol/blob/master/src/1401-1500/1441.poti)
   - [x] [1467](https://www.urionlinejudge.com.br/judge/pt/problems/view/1467) - [Zerinho ou Um](https://github.com/potigol/URI-Potigol/blob/master/src/1401-1500/1467.poti)
   - [x] [1573](https://www.urionlinejudge.com.br/judge/pt/problems/view/1573) - [Fábrica de Chocolate](https://github.com/potigol/URI-Potigol/blob/master/src/1501-1600/1573.poti)

@@ -1,4 +1,4 @@
-# Iniciante (266 / 298)
+# Iniciante (266 / 297)
 
 ## Problemas não resolvidos
   - [ ] [2493](https://www.urionlinejudge.com.br/judge/pt/problems/view/2493) - Jogo do Operador
@@ -30,7 +30,6 @@
   - [ ] [3043](https://www.urionlinejudge.com.br/judge/pt/problems/view/3043) - Festa Junina
   - [ ] [3044](https://www.urionlinejudge.com.br/judge/pt/problems/view/3044) - Manutenção
   - [ ] [3064](https://www.urionlinejudge.com.br/judge/pt/problems/view/3064) - Elástico
-  - [ ] [3066](https://www.urionlinejudge.com.br/judge/pt/problems/view/3066) - Dengue
   - [ ] [3068](https://www.urionlinejudge.com.br/judge/pt/problems/view/3068) - Meteóros
   - [ ] [3069](https://www.urionlinejudge.com.br/judge/pt/problems/view/3069) - Sorvete
 ## Problemas resolvidos

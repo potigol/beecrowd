@@ -2046,7 +2046,7 @@
 3063	Linhas de Ônibus	Ad-Hoc
 3064	Elástico	Iniciante
 3065	Calculando	Iniciante
-3066	Dengue	Iniciante
+3066	Dengue	_Iniciante_x
 3067	Dominó	Grafos
 3068	Meteóros	Iniciante
 3069	Sorvete	Iniciante

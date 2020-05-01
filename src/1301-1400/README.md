@@ -96,7 +96,7 @@
   - [ ] [1394](https://www.urionlinejudge.com.br/judge/pt/problems/view/1394) - Hooligan *Grafos*
   - [ ] [1395](https://www.urionlinejudge.com.br/judge/pt/problems/view/1395) - Números e Operações *Paradigmas*
   - [ ] [1396](https://www.urionlinejudge.com.br/judge/pt/problems/view/1396) - Hoje tem Prova da Cris! *Paradigmas*
-  - [ ] [1397](https://www.urionlinejudge.com.br/judge/pt/problems/view/1397) - Jogo do Maior *Ad-Hoc*
+  - [x] [1397](https://www.urionlinejudge.com.br/judge/pt/problems/view/1397) - [Jogo do Maior](https://github.com/potigol/URI-Potigol/blob/master/src/1301-1400/1397.poti) *Ad-Hoc*
   - [ ] [1398](https://www.urionlinejudge.com.br/judge/pt/problems/view/1398) - Oceano Profundo! Faça-o Raso!! *Matemática*
   - [ ] [1399](https://www.urionlinejudge.com.br/judge/pt/problems/view/1399) - Transformador de Matriz *Matemática*
   - [ ] [1400](https://www.urionlinejudge.com.br/judge/pt/problems/view/1400) - Jogo - Contando *Matemática*

@@ -65,7 +65,7 @@
   - [ ] [3063](https://www.urionlinejudge.com.br/judge/pt/problems/view/3063) - Linhas de Ônibus *Ad-Hoc*
   - [ ] [3064](https://www.urionlinejudge.com.br/judge/pt/problems/view/3064) - Elástico *Iniciante*
   - [x] [3065](https://www.urionlinejudge.com.br/judge/pt/problems/view/3065) - [Calculando](https://github.com/potigol/URI-Potigol/blob/master/src/3001-3100/3065.poti) *Iniciante*
-  - [ ] [3066](https://www.urionlinejudge.com.br/judge/pt/problems/view/3066) - Dengue *Iniciante*
+  - [ ] [3066](https://www.urionlinejudge.com.br/judge/pt/problems/view/3066) - Dengue *_Iniciante_x*
   - [ ] [3067](https://www.urionlinejudge.com.br/judge/pt/problems/view/3067) - Dominó *Grafos*
   - [ ] [3068](https://www.urionlinejudge.com.br/judge/pt/problems/view/3068) - Meteóros *Iniciante*
   - [ ] [3069](https://www.urionlinejudge.com.br/judge/pt/problems/view/3069) - Sorvete *Iniciante*

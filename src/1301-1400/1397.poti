@@ -1,0 +1,19 @@
+var n := leia_inteiro
+enquanto n > 0 faca
+  var a, b := 0
+  para i de 1 ate n faca
+    jogo = leia_texto
+    se jogo.tamanho == 3 entao
+      se jogo[1] > jogo[3] entao a := a + 1 fim
+      se jogo[1] < jogo[3] entao b := b + 1 fim
+    senaose jogo.tamanho == 4 entao
+      se jogo[3] == ' ' entao
+        a := a + 1
+      senao
+        b := b + 1
+      fim
+    fim
+  fim
+  escreva "{a} {b}"
+  n := leia_inteiro
+fim
