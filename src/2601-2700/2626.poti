@@ -1,0 +1,21 @@
+dodo   = "Os atributos dos monstros vao ser inteligencia, sabedoria..."
+leo    = "Iron Maiden's gonna get you, no matter how far!"
+pepper = "Urano perdeu algo muito precioso..."
+empate = "Putz vei, o Leo ta demorando muito pra jogar..."
+var a := leia_texto
+enquanto a <> None.orNull faca
+  resultado = escolha a
+    caso "pedra tesoura tesoura" => dodo
+    caso "papel pedra pedra"     => dodo
+    caso "tesoura papel papel"   => dodo
+    caso "tesoura pedra tesoura" => leo
+    caso "pedra papel pedra"     => leo
+    caso "papel tesoura papel"   => leo
+    caso "tesoura tesoura pedra" => pepper
+    caso "pedra pedra papel"     => pepper
+    caso "papel papel tesoura"   => pepper
+    caso _                       => empate
+  fim
+  escreva resultado
+  a := leia_texto
+fim

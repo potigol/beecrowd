@@ -1,11 +1,10 @@
-# Iniciante (266 / 297)
+# Iniciante (267 / 297)
 
 ## Problemas não resolvidos
   - [ ] [2493](https://www.urionlinejudge.com.br/judge/pt/problems/view/2493) - Jogo do Operador
   - [ ] [2502](https://www.urionlinejudge.com.br/judge/pt/problems/view/2502) - Decifrando a Carta Criptografada
   - [ ] [2542](https://www.urionlinejudge.com.br/judge/pt/problems/view/2542) - Iu-Di-Oh!
   - [ ] [2554](https://www.urionlinejudge.com.br/judge/pt/problems/view/2554) - Pizza Antes de BH
-  - [ ] [2626](https://www.urionlinejudge.com.br/judge/pt/problems/view/2626) - Turma do JB6
   - [ ] [2632](https://www.urionlinejudge.com.br/judge/pt/problems/view/2632) - Magic and Sword
   - [ ] [2635](https://www.urionlinejudge.com.br/judge/pt/problems/view/2635) - Navegador Web
   - [ ] [2646](https://www.urionlinejudge.com.br/judge/pt/problems/view/2646) - Secret Chamber at Mount Rushmore
@@ -227,6 +226,7 @@
   - [x] [2552](https://www.urionlinejudge.com.br/judge/pt/problems/view/2552) - [PãodeQuejoSweeper](https://github.com/potigol/URI-Potigol/blob/master/src/2501-2600/2552.poti)
   - [x] [2581](https://www.urionlinejudge.com.br/judge/pt/problems/view/2581) - [I am Toorg!](https://github.com/potigol/URI-Potigol/blob/master/src/2501-2600/2581.poti)
   - [x] [2582](https://www.urionlinejudge.com.br/judge/pt/problems/view/2582) - [System of a Download](https://github.com/potigol/URI-Potigol/blob/master/src/2501-2600/2582.poti)
+  - [x] [2626](https://www.urionlinejudge.com.br/judge/pt/problems/view/2626) - [Turma do JB6](https://github.com/potigol/URI-Potigol/blob/master/src/2601-2700/2626.poti)
   - [x] [2630](https://www.urionlinejudge.com.br/judge/pt/problems/view/2630) - [Escala de Cinza](https://github.com/potigol/URI-Potigol/blob/master/src/2601-2700/2630.poti)
   - [x] [2653](https://www.urionlinejudge.com.br/judge/pt/problems/view/2653) - [Dijkstra](https://github.com/potigol/URI-Potigol/blob/master/src/2601-2700/2653.poti)
   - [x] [2663](https://www.urionlinejudge.com.br/judge/pt/problems/view/2663) - [Fase](https://github.com/potigol/URI-Potigol/blob/master/src/2601-2700/2663.poti)

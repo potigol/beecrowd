@@ -25,7 +25,7 @@
   - [ ] ~~2623~~ - *SQL*
   - [ ] ~~2624~~ - *SQL*
   - [ ] ~~2625~~ - *SQL*
-  - [ ] [2626](https://www.urionlinejudge.com.br/judge/pt/problems/view/2626) - Turma do JB6 *Iniciante*
+  - [x] [2626](https://www.urionlinejudge.com.br/judge/pt/problems/view/2626) - [Turma do JB6](https://github.com/potigol/URI-Potigol/blob/master/src/2601-2700/2626.poti) *Iniciante*
   - [ ] [2627](https://www.urionlinejudge.com.br/judge/pt/problems/view/2627) - Bonde de Autômatos *Ad-Hoc*
   - [ ] [2628](https://www.urionlinejudge.com.br/judge/pt/problems/view/2628) - Caça ao Tesouro *Ad-Hoc*
   - [ ] [2629](https://www.urionlinejudge.com.br/judge/pt/problems/view/2629) - Rodoido *Ad-Hoc*
