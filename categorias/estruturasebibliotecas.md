@@ -1,4 +1,4 @@
-# Estruturas e Bibliotecas (5 / 152)
+# Estruturas e Bibliotecas (6 / 152)
 
 ## Problemas não resolvidos
   - [ ] [1025](https://www.urionlinejudge.com.br/judge/pt/problems/view/1025) - Onde está o Mármore?
@@ -104,7 +104,6 @@
   - [ ] [2240](https://www.urionlinejudge.com.br/judge/pt/problems/view/2240) - Fundindo Árvores
   - [ ] [2241](https://www.urionlinejudge.com.br/judge/pt/problems/view/2241) - Go--
   - [ ] [2290](https://www.urionlinejudge.com.br/judge/pt/problems/view/2290) - Números Apaixornados
-  - [ ] [2338](https://www.urionlinejudge.com.br/judge/pt/problems/view/2338) - Morse
   - [ ] [2482](https://www.urionlinejudge.com.br/judge/pt/problems/view/2482) - Etiquetas de Noel
   - [ ] [2488](https://www.urionlinejudge.com.br/judge/pt/problems/view/2488) - É Na Batida do Cavalo!
   - [ ] [2492](https://www.urionlinejudge.com.br/judge/pt/problems/view/2492) - Ilhas Isoladas
@@ -153,4 +152,5 @@
   - [x] [1068](https://www.urionlinejudge.com.br/judge/pt/problems/view/1068) - [Balanço de Parênteses I](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1068.poti)
   - [x] [1069](https://www.urionlinejudge.com.br/judge/pt/problems/view/1069) - [Diamantes e Areia](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1069.poti)
   - [x] [1110](https://www.urionlinejudge.com.br/judge/pt/problems/view/1110) - [Jogando Cartas Fora](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1110.poti)
+  - [x] [2338](https://www.urionlinejudge.com.br/judge/pt/problems/view/2338) - [Morse](https://github.com/potigol/URI-Potigol/blob/master/src/2301-2400/2338.poti)
   - [x] [2729](https://www.urionlinejudge.com.br/judge/pt/problems/view/2729) - [Lista de Compras](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2729.poti)

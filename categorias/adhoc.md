@@ -1,4 +1,4 @@
-# Ad-Hoc (73 / 691)
+# Ad-Hoc (74 / 691)
 
 ## Problemas não resolvidos
   - [ ] [1030](https://www.urionlinejudge.com.br/judge/pt/problems/view/1030) - A Lenda de Flavious Josephus
@@ -30,7 +30,6 @@
   - [ ] [1216](https://www.urionlinejudge.com.br/judge/pt/problems/view/1216) - Getline One
   - [ ] [1217](https://www.urionlinejudge.com.br/judge/pt/problems/view/1217) - Getline Two - Frutas
   - [ ] [1218](https://www.urionlinejudge.com.br/judge/pt/problems/view/1218) - Getline Three -  Calçados
-  - [ ] [1225](https://www.urionlinejudge.com.br/judge/pt/problems/view/1225) - Coral Perfeito
   - [ ] [1228](https://www.urionlinejudge.com.br/judge/pt/problems/view/1228) - Grid de Largada
   - [ ] [1245](https://www.urionlinejudge.com.br/judge/pt/problems/view/1245) - Botas Perdidas
   - [ ] [1246](https://www.urionlinejudge.com.br/judge/pt/problems/view/1246) - Estacionamento
@@ -625,6 +624,7 @@
   - [x] [1103](https://www.urionlinejudge.com.br/judge/pt/problems/view/1103) - [Alarme Despertador](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1103.poti)
   - [x] [1171](https://www.urionlinejudge.com.br/judge/pt/problems/view/1171) - [Frequência de Números](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1171.poti)
   - [x] [1192](https://www.urionlinejudge.com.br/judge/pt/problems/view/1192) - [O jogo Matemático de Paula](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1192.poti)
+  - [x] [1225](https://www.urionlinejudge.com.br/judge/pt/problems/view/1225) - [Coral Perfeito](https://github.com/potigol/URI-Potigol/blob/master/src/1201-1300/1225.poti)
   - [x] [1329](https://www.urionlinejudge.com.br/judge/pt/problems/view/1329) - [Cara ou Coroa](https://github.com/potigol/URI-Potigol/blob/master/src/1301-1400/1329.poti)
   - [x] [1379](https://www.urionlinejudge.com.br/judge/pt/problems/view/1379) - [Problema com Mediana e Média](https://github.com/potigol/URI-Potigol/blob/master/src/1301-1400/1379.poti)
   - [x] [1383](https://www.urionlinejudge.com.br/judge/pt/problems/view/1383) - [Sudoku](https://github.com/potigol/URI-Potigol/blob/master/src/1301-1400/1383.poti)

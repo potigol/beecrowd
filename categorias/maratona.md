@@ -260,7 +260,7 @@
   - [ ] [1222](https://www.urionlinejudge.com.br/judge/pt/problems/view/1222) - Concurso de Contos *Strings*
   - [ ] [1223](https://www.urionlinejudge.com.br/judge/pt/problems/view/1223) - Tobogan de Bolinhas *Geometria Computacional*
   - [ ] [1224](https://www.urionlinejudge.com.br/judge/pt/problems/view/1224) - Cartões *Paradigmas*
-  - [ ] [1225](https://www.urionlinejudge.com.br/judge/pt/problems/view/1225) - Coral Perfeito *Ad-Hoc*
+  - [x] [1225](https://www.urionlinejudge.com.br/judge/pt/problems/view/1225) - [Coral Perfeito](https://github.com/potigol/URI-Potigol/blob/master/src/1201-1300/1225.poti) *Ad-Hoc*
   - [ ] [1226](https://www.urionlinejudge.com.br/judge/pt/problems/view/1226) - Elevador Espacial *Paradigmas*
   - [ ] [1227](https://www.urionlinejudge.com.br/judge/pt/problems/view/1227) - Perdido na Noite *Grafos*
   - [ ] [1228](https://www.urionlinejudge.com.br/judge/pt/problems/view/1228) - Grid de Largada *Ad-Hoc*

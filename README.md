@@ -3,7 +3,7 @@ Soluções dos problemas do [URI Online Judge](https://www.urionlinejudge.com.br
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#snapshot/71532994-38b7-42ee-a5c1-f0b16d54f762)
 
-![Soluções](https://img.shields.io/badge/Problemas%20Resolvidos-400-blue)
+![Soluções](https://img.shields.io/badge/Problemas%20Resolvidos-401-blue)
 
 ## Problemas por Categoria
 
@@ -44,7 +44,7 @@ Soluções dos problemas do [URI Online Judge](https://www.urionlinejudge.com.br
 [2701 - 2800](src/2701-2800) |
 [2801 - 2900](src/2801-2900) |
 [2901 - 3000](src/2901-3000) |
-[3001 - 3100](src/3001-3100) 
+[3001 - 3100](src/3001-3100)
 
 ## Participe
 
@@ -61,4 +61,3 @@ Participe deste projeto com soluções para os problemas.
  - Coloque o seu código na pasta correspondente
  - **OPCIONAL** Teste a sua solução no URI Online Judge usando o script [Potigol2Scala](https://github.com/potigol/potigol2scala)
  - Faça um pull request
-
