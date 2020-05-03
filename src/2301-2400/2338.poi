@@ -1,0 +1,16 @@
+letras = ["=.===", "===.=.=.=", "===.=.===.=", "===.=.=", "=", "=.=.===.=",
+ "===.===.=", "=.=.=.=","=.=", "=.===.===.===", "===.=.===", "=.===.=.=",
+ "===.===", "===.=", "===.===.===", "=.===.===.=", "===.===.=.===",
+ "=.===.=", "=.=.=", "===", "=.=.===", "=.=.=.===", "=.===.===",
+ "===.=.=.===", "===.=.===.===", "===.===.=.="]
+ponto = "\\."
+
+converta_letra(letra: Texto) = (letras.posição(letra) + 96).caractere
+converta_palavra(palavra: Texto) = palavra.divida(ponto * 3).mapeie(converta_letra).junte("")
+
+t = leia_inteiro
+para i de 1 até t faça
+  s = leia_texto
+  palavras = s.divida(ponto * 7).mapeie(converta_palavra).junte(" ")
+  escreva palavras
+fim
