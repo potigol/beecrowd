@@ -1,4 +1,4 @@
-# Matemática (28 / 235)
+# Matemática (29 / 235)
 
 ## Problemas não resolvidos
   - [ ] [1093](https://www.urionlinejudge.com.br/judge/pt/problems/view/1093) - Vampiros
@@ -199,7 +199,6 @@
   - [ ] [2955](https://www.urionlinejudge.com.br/judge/pt/problems/view/2955) - Truuuuuco!
   - [ ] [2956](https://www.urionlinejudge.com.br/judge/pt/problems/view/2956) - Derivada de 13 Variáveis
   - [ ] [2978](https://www.urionlinejudge.com.br/judge/pt/problems/view/2978) - Cartão
-  - [ ] [2981](https://www.urionlinejudge.com.br/judge/pt/problems/view/2981) - Vamos Fechar
   - [ ] [2983](https://www.urionlinejudge.com.br/judge/pt/problems/view/2983) - Nem tudo é greve
   - [ ] [2986](https://www.urionlinejudge.com.br/judge/pt/problems/view/2986) - Nem Tudo é Greve Versão Hard
   - [ ] [3002](https://www.urionlinejudge.com.br/judge/pt/problems/view/3002) - Salve a Lilly!
@@ -236,4 +235,5 @@
   - [x] [2839](https://www.urionlinejudge.com.br/judge/pt/problems/view/2839) - [As Meias de Rangel](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2839.poti)
   - [x] [2869](https://www.urionlinejudge.com.br/judge/pt/problems/view/2869) - [Falando em Divisor...](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2869.poti)
   - [x] [2939](https://www.urionlinejudge.com.br/judge/pt/problems/view/2939) - [Casais](https://github.com/potigol/URI-Potigol/blob/master/src/2901-3000/2939.poti)
+  - [x] [2981](https://www.urionlinejudge.com.br/judge/pt/problems/view/2981) - [Vamos Fechar](https://github.com/potigol/URI-Potigol/blob/master/src/2901-3000/2981.poti)
   - [x] [3049](https://www.urionlinejudge.com.br/judge/pt/problems/view/3049) - [Nota cortada](https://github.com/potigol/URI-Potigol/blob/master/src/3001-3100/3049.poti)

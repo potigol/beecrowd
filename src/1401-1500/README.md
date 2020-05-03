@@ -27,7 +27,7 @@
   - [ ] [1425](https://www.urionlinejudge.com.br/judge/pt/problems/view/1425) - Presente?! *Estruturas e Bibliotecas*
   - [ ] [1426](https://www.urionlinejudge.com.br/judge/pt/problems/view/1426) - Coloque Tijolos na Parede *Ad-Hoc*
   - [ ] [1427](https://www.urionlinejudge.com.br/judge/pt/problems/view/1427) - O Problema da Scrooge Co. *Grafos*
-  - [ ] [1428](https://www.urionlinejudge.com.br/judge/pt/problems/view/1428) - Procurando Nessy *Ad-Hoc*
+  - [x] [1428](https://www.urionlinejudge.com.br/judge/pt/problems/view/1428) - [Procurando Nessy](https://github.com/potigol/URI-Potigol/blob/master/src/1401-1500/1428.poti) *Ad-Hoc*
   - [x] [1429](https://www.urionlinejudge.com.br/judge/pt/problems/view/1429) - [Fatorial de Novo!](https://github.com/potigol/URI-Potigol/blob/master/src/1401-1500/1429.poti) *Matemática*
   - [ ] [1430](https://www.urionlinejudge.com.br/judge/pt/problems/view/1430) - Composição de Jingles *Estruturas e Bibliotecas*
   - [ ] [1431](https://www.urionlinejudge.com.br/judge/pt/problems/view/1431) - Níveis de Klingon *Ad-Hoc*

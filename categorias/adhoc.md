@@ -1,4 +1,4 @@
-# Ad-Hoc (72 / 691)
+# Ad-Hoc (73 / 691)
 
 ## Problemas não resolvidos
   - [ ] [1030](https://www.urionlinejudge.com.br/judge/pt/problems/view/1030) - A Lenda de Flavious Josephus
@@ -74,7 +74,6 @@
   - [ ] [1420](https://www.urionlinejudge.com.br/judge/pt/problems/view/1420) - Contando os Segundos
   - [ ] [1421](https://www.urionlinejudge.com.br/judge/pt/problems/view/1421) - Tic-Tac-Toe?
   - [ ] [1426](https://www.urionlinejudge.com.br/judge/pt/problems/view/1426) - Coloque Tijolos na Parede
-  - [ ] [1428](https://www.urionlinejudge.com.br/judge/pt/problems/view/1428) - Procurando Nessy
   - [ ] [1431](https://www.urionlinejudge.com.br/judge/pt/problems/view/1431) - Níveis de Klingon
   - [ ] [1437](https://www.urionlinejudge.com.br/judge/pt/problems/view/1437) - Esquerda, Volver!
   - [ ] [1438](https://www.urionlinejudge.com.br/judge/pt/problems/view/1438) - Desempilhando Caixas
@@ -631,6 +630,7 @@
   - [x] [1383](https://www.urionlinejudge.com.br/judge/pt/problems/view/1383) - [Sudoku](https://github.com/potigol/URI-Potigol/blob/master/src/1301-1400/1383.poti)
   - [x] [1387](https://www.urionlinejudge.com.br/judge/pt/problems/view/1387) - [Og](https://github.com/potigol/URI-Potigol/blob/master/src/1301-1400/1387.poti)
   - [x] [1397](https://www.urionlinejudge.com.br/judge/pt/problems/view/1397) - [Jogo do Maior](https://github.com/potigol/URI-Potigol/blob/master/src/1301-1400/1397.poti)
+  - [x] [1428](https://www.urionlinejudge.com.br/judge/pt/problems/view/1428) - [Procurando Nessy](https://github.com/potigol/URI-Potigol/blob/master/src/1401-1500/1428.poti)
   - [x] [1441](https://www.urionlinejudge.com.br/judge/pt/problems/view/1441) - [Sequências de Granizo](https://github.com/potigol/URI-Potigol/blob/master/src/1401-1500/1441.poti)
   - [x] [1467](https://www.urionlinejudge.com.br/judge/pt/problems/view/1467) - [Zerinho ou Um](https://github.com/potigol/URI-Potigol/blob/master/src/1401-1500/1467.poti)
   - [x] [1573](https://www.urionlinejudge.com.br/judge/pt/problems/view/1573) - [Fábrica de Chocolate](https://github.com/potigol/URI-Potigol/blob/master/src/1501-1600/1573.poti)

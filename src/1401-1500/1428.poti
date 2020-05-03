@@ -1,0 +1,6 @@
+t = leia_inteiro
+para i de 1 ate t faca
+  a = leia_inteiros(" ")
+  n, m = a[1], a[2]
+  escreva (n div 3) * (m div 3)
+fim 

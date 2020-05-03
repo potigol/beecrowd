@@ -1,0 +1,8 @@
+a = leia_inteiros(" ")
+c, g = a[1], a[2]
+r = 21 + c div g
+se r > 30 entao
+  escreva "A UFSC fecha dia {r - 30} de outubro."
+senao
+  escreva "A UFSC fecha dia {r} de setembro."
+fim
