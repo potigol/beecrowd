@@ -236,4 +236,4 @@
   - [x] [2869](https://www.urionlinejudge.com.br/judge/pt/problems/view/2869) - [Falando em Divisor...](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2869.poti)
   - [x] [2939](https://www.urionlinejudge.com.br/judge/pt/problems/view/2939) - [Casais](https://github.com/potigol/URI-Potigol/blob/master/src/2901-3000/2939.poti)
   - [x] [2981](https://www.urionlinejudge.com.br/judge/pt/problems/view/2981) - [Vamos Fechar](https://github.com/potigol/URI-Potigol/blob/master/src/2901-3000/2981.poti)
-  - [x] [3049](https://www.urionlinejudge.com.br/judge/pt/problems/view/3049) - [Nota cortada](https://github.com/potigol/URI-Potigol/blob/master/src/3001-3100/3049.poti)
+  - [x] [3049](https://www.urionlinejudge.com.br/judge/pt/problems/view/3049) - [Nota Cortada](https://github.com/potigol/URI-Potigol/blob/master/src/3001-3100/3049.poti)

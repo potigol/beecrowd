@@ -1,4 +1,4 @@
-# SQL (0 / 48)
+# SQL (0 / 46)
 
 ## Problemas não resolvidos
   - [ ] [2602](https://www.urionlinejudge.com.br/judge/pt/problems/view/2602) - Select Básico
@@ -11,7 +11,6 @@
   - [ ] [2609](https://www.urionlinejudge.com.br/judge/pt/problems/view/2609) - Produtos por Categorias
   - [ ] [2610](https://www.urionlinejudge.com.br/judge/pt/problems/view/2610) - Valor Médio dos Produtos
   - [ ] [2611](https://www.urionlinejudge.com.br/judge/pt/problems/view/2611) - Filmes de Ação
-  - [ ] [2612](https://www.urionlinejudge.com.br/judge/pt/problems/view/2612) - Os Atores Silva
   - [ ] [2613](https://www.urionlinejudge.com.br/judge/pt/problems/view/2613) - Filmes em Promoção
   - [ ] [2614](https://www.urionlinejudge.com.br/judge/pt/problems/view/2614) - Locações de Setembro
   - [ ] [2615](https://www.urionlinejudge.com.br/judge/pt/problems/view/2615) - Expandindo o Negocio
@@ -35,7 +34,7 @@
   - [ ] [2744](https://www.urionlinejudge.com.br/judge/pt/problems/view/2744) - Senhas
   - [ ] [2745](https://www.urionlinejudge.com.br/judge/pt/problems/view/2745) - Taxas
   - [ ] [2746](https://www.urionlinejudge.com.br/judge/pt/problems/view/2746) - Virus
-  - [ ] [2988](https://www.urionlinejudge.com.br/judge/pt/problems/view/2988) - Campeonato Cearense
+  - [ ] [2988](https://www.urionlinejudge.com.br/judge/pt/problems/view/2988) - Campeonato Cearense 
   - [ ] [2989](https://www.urionlinejudge.com.br/judge/pt/problems/view/2989) - Departamentos e Divisões
   - [ ] [2990](https://www.urionlinejudge.com.br/judge/pt/problems/view/2990) - CPF dos empregados
   - [ ] [2991](https://www.urionlinejudge.com.br/judge/pt/problems/view/2991) - Estatísticas dos Departamentos
@@ -47,5 +46,4 @@
   - [ ] [2997](https://www.urionlinejudge.com.br/judge/pt/problems/view/2997) - Pagamento dos Empregados
   - [ ] [2998](https://www.urionlinejudge.com.br/judge/pt/problems/view/2998) - The Payback
   - [ ] [2999](https://www.urionlinejudge.com.br/judge/pt/problems/view/2999) - Maior Sálario da Divisão
-  - [ ] [3000](https://www.urionlinejudge.com.br/judge/pt/problems/view/3000) - Maiores Salários do Departamento
   - [ ] [3001](https://www.urionlinejudge.com.br/judge/pt/problems/view/3001) - Update sem Where

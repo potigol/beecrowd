@@ -39,7 +39,7 @@
   - [ ] [2837](https://www.urionlinejudge.com.br/judge/pt/problems/view/2837) - Sequência *Ad-Hoc*
   - [ ] [2838](https://www.urionlinejudge.com.br/judge/pt/problems/view/2838) - As Jóias do Infinito *Grafos*
   - [x] [2839](https://www.urionlinejudge.com.br/judge/pt/problems/view/2839) - [As Meias de Rangel](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2839.poti) *Matemática*
-  - [ ] [2840](https://www.urionlinejudge.com.br/judge/pt/problems/view/2840) - Balão++ *Geometria Computacional*
+  - [x] [2840](https://www.urionlinejudge.com.br/judge/pt/problems/view/2840) - [Balão++](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2840.poti) *Geometria Computacional*
   - [ ] [2841](https://www.urionlinejudge.com.br/judge/pt/problems/view/2841) - Dabriel e Sua Festa *Paradigmas*
   - [ ] [2842](https://www.urionlinejudge.com.br/judge/pt/problems/view/2842) - Dabriel e Suas Strings *Paradigmas*
   - [ ] [2843](https://www.urionlinejudge.com.br/judge/pt/problems/view/2843) - Escrita Rápida, a Competição *Ad-Hoc*

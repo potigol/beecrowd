@@ -59,7 +59,7 @@
   - [ ] [2957](https://www.urionlinejudge.com.br/judge/pt/problems/view/2957) - Sir Vô *Ad-Hoc*
   - [ ] [2958](https://www.urionlinejudge.com.br/judge/pt/problems/view/2958) - O Rolê Bad Vibes *Estruturas e Bibliotecas*
   - [ ] [2959](https://www.urionlinejudge.com.br/judge/pt/problems/view/2959) - Credo com ParaTudo! *Grafos*
-  - [ ] [2960](https://www.urionlinejudge.com.br/judge/pt/problems/view/2960) - Era Uma Vez… *_Strings_x*
+  - [ ] ~~2960~~
   - [ ] [2961](https://www.urionlinejudge.com.br/judge/pt/problems/view/2961) - Ô, Que Tanto de Filme! *Estruturas e Bibliotecas*
   - [ ] [2962](https://www.urionlinejudge.com.br/judge/pt/problems/view/2962) - Arte Valiosa *Grafos*
   - [x] [2963](https://www.urionlinejudge.com.br/judge/pt/problems/view/2963) - [Bobo da Corte](https://github.com/potigol/URI-Potigol/blob/master/src/2901-3000/2963.poti) *Iniciante*
@@ -99,4 +99,4 @@
   - [ ] ~~2997~~ - *SQL*
   - [ ] ~~2998~~ - *SQL*
   - [ ] ~~2999~~ - *SQL*
-  - [ ] ~~3000~~ - *SQL*
+  - [ ] ~~3000~~

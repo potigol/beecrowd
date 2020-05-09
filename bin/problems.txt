@@ -449,7 +449,6 @@
 1450	Os Joguinhos de Ramsés	Matemática
 1451	Teclado Quebrado	Estruturas e Bibliotecas
 1452	Gloud Computing	Estruturas e Bibliotecas
-1453	Palavras-Cruzadas Sem Palavras	_Ad-Hoc_x
 1454	O País das Bicicletas	Grafos
 1455	Final do ICPC	Geometria Computacional
 1456	Brainfuck	Strings
@@ -650,7 +649,6 @@
 1651	Cilindro	Geometria Computacional
 1652	Deli Deli	Ad-Hoc
 1653	Expressões	Grafos
-1654	Mercearia	_Paradigmas_x
 1655	106 Milhas Para Chicago	Grafos
 1656	Doces do Dia das Bruxas	Matemática
 1657	Corretor Automático de Erros de Soletração	Ad-Hoc
@@ -1598,7 +1596,6 @@
 2609	Produtos por Categorias	SQL
 2610	Valor Médio dos Produtos	SQL
 2611	Filmes de Ação	SQL
-2612	Os Atores Silva	SQL
 2613	Filmes em Promoção	SQL
 2614	Locações de Setembro	SQL
 2615	Expandindo o Negocio	SQL
@@ -1731,7 +1728,6 @@
 2748	Saída 2	Iniciante
 2749	Saída 3	Iniciante
 2750	Saída 4	Iniciante
-2751	Saída 5	_Iniciante_x
 2752	Saída 6	Iniciante
 2753	Saída 7	Iniciante
 2754	Saída 8	Iniciante
@@ -1940,7 +1936,6 @@
 2957	Sir Vô	Ad-Hoc
 2958	O Rolê Bad Vibes	Estruturas e Bibliotecas
 2959	Credo com ParaTudo!	Grafos
-2960	Era Uma Vez…	_Strings_x
 2961	Ô, Que Tanto de Filme!	Estruturas e Bibliotecas
 2962	Arte Valiosa	Grafos
 2963	Bobo da Corte	Iniciante
@@ -1968,7 +1963,7 @@
 2985	Tobias Contra o Relógio	Ad-Hoc
 2986	Nem Tudo é Greve Versão Hard	Matemática
 2987	Balão de Honra	Iniciante
-2988	Campeonato Cearense	SQL
+2988	Campeonato Cearense 	SQL
 2989	Departamentos e Divisões	SQL
 2990	CPF dos empregados	SQL
 2991	Estatísticas dos Departamentos	SQL
@@ -1980,7 +1975,6 @@
 2997	Pagamento dos Empregados	SQL
 2998	The Payback	SQL
 2999	Maior Sálario da Divisão	SQL
-3000	Maiores Salários do Departamento	SQL
 3001	Update sem Where	SQL
 3002	Salve a Lilly!	Matemática
 3003	O Grupinho	Grafos
@@ -2029,7 +2023,7 @@
 3046	Dominó	Iniciante
 3047	A idade de Dona Mônica	Iniciante
 3048	Sequência Secreta	Ad-Hoc
-3049	Nota cortada	Matemática
+3049	Nota Cortada	Matemática
 3050	Distância entre amigos	Ad-Hoc
 3051	Soma	Paradigmas
 3052	Chuva	Ad-Hoc
@@ -2046,7 +2040,6 @@
 3063	Linhas de Ônibus	Ad-Hoc
 3064	Elástico	Iniciante
 3065	Calculando	Iniciante
-3066	Dengue	_Iniciante_x
 3067	Dominó	Grafos
 3068	Meteóros	Iniciante
 3069	Sorvete	Iniciante
@@ -2054,5 +2047,5 @@
 3071	Melhor Ranking	Ad-Hoc
 3072	Namoro	Grafos
 3073	Vetores	Paradigmas
-3074	Consultas em uma array	Ad-Hoc
+3074	Consultas em uma array 	Ad-Hoc
 3075	Cassinos e Viagem	Grafos

@@ -1,10 +1,12 @@
+import scala.sys.process._
+
 case class Problem(number: Int, name: String, category: String) {
   override def toString = s"${number}\t${name}\t${category}"
 }
 
 object Download extends App {
   def get(page: Int = 1) = {
-    val ur = io.Source.fromURL(s"https://www.urionlinejudge.com.br/judge/pt/problems/all?page=${page}&limit=100").getLines()
+    val ur = Seq("curl", "-sb", "-H", s"https://www.urionlinejudge.com.br/judge/pt/problems/all?page=${page}&limit=100").!!.split("\n")
     val a = ur.map(_.trim).dropWhile(_ != "<tbody>").drop(1).takeWhile(_ != "</tbody>").filter(_ != "").grouped(13)
     val c = for (b <- a if b(1).startsWith("<td class")) yield {
       Problem(
