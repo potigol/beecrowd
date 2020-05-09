@@ -7,7 +7,7 @@
   - [ ] [2405](https://www.urionlinejudge.com.br/judge/pt/problems/view/2405) - Colorindo *Ad-Hoc*
   - [ ] [2406](https://www.urionlinejudge.com.br/judge/pt/problems/view/2406) - Expressões *Ad-Hoc*
   - [ ] [2407](https://www.urionlinejudge.com.br/judge/pt/problems/view/2407) - Quadrado Mágico *Ad-Hoc*
-  - [ ] [2408](https://www.urionlinejudge.com.br/judge/pt/problems/view/2408) - Vice-Campeão *Ad-Hoc*
+  - [x] [2408](https://www.urionlinejudge.com.br/judge/pt/problems/view/2408) - [Vice-Campeão](https://github.com/potigol/URI-Potigol/blob/master/src/2401-2500/2408.poti) *Ad-Hoc*
   - [x] [2409](https://www.urionlinejudge.com.br/judge/pt/problems/view/2409) - [Colchão](https://github.com/potigol/URI-Potigol/blob/master/src/2401-2500/2409.poti) *Ad-Hoc*
   - [ ] [2410](https://www.urionlinejudge.com.br/judge/pt/problems/view/2410) - Frequencia na Aula *Ad-Hoc*
   - [ ] [2411](https://www.urionlinejudge.com.br/judge/pt/problems/view/2411) - O Tabuleiro Esburacado *Ad-Hoc*

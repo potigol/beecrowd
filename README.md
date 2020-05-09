@@ -3,7 +3,7 @@ Soluções dos problemas do [URI Online Judge](https://www.urionlinejudge.com.br
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#snapshot/71532994-38b7-42ee-a5c1-f0b16d54f762)
 
-![Soluções](https://img.shields.io/badge/Problemas%20Resolvidos-405-blue)
+![Soluções](https://img.shields.io/badge/Problemas%20Resolvidos-408-blue)
 
 ## Problemas por Categoria
 

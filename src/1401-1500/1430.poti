@@ -1,0 +1,13 @@
+d = para i de 'A' ate 'Z' gere 2 ^ (1 - "WHQESTX".posicao(i)) fim
+valor(id: Caractere) = d[id - 'A' + 1]
+soma(valor: Caractere => Real) =
+  (n: String) => n.lista.mapeie(valor).injete(0.0)(_ + _)
+duracao = soma(valor)
+
+var entrada := leia_texto
+enquanto entrada <> "*" faca
+  compassos = entrada.divida("/")
+  duracoes = compassos.mapeie(duracao)
+  escreva duracoes.selecione(_ == 1.0).tamanho
+  entrada := leia_texto
+fim

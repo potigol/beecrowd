@@ -29,14 +29,14 @@
   - [ ] [1427](https://www.urionlinejudge.com.br/judge/pt/problems/view/1427) - O Problema da Scrooge Co. *Grafos*
   - [x] [1428](https://www.urionlinejudge.com.br/judge/pt/problems/view/1428) - [Procurando Nessy](https://github.com/potigol/URI-Potigol/blob/master/src/1401-1500/1428.poti) *Ad-Hoc*
   - [x] [1429](https://www.urionlinejudge.com.br/judge/pt/problems/view/1429) - [Fatorial de Novo!](https://github.com/potigol/URI-Potigol/blob/master/src/1401-1500/1429.poti) *Matemática*
-  - [ ] [1430](https://www.urionlinejudge.com.br/judge/pt/problems/view/1430) - Composição de Jingles *Estruturas e Bibliotecas*
+  - [x] [1430](https://www.urionlinejudge.com.br/judge/pt/problems/view/1430) - [Composição de Jingles](https://github.com/potigol/URI-Potigol/blob/master/src/1401-1500/1430.poti) *Estruturas e Bibliotecas*
   - [ ] [1431](https://www.urionlinejudge.com.br/judge/pt/problems/view/1431) - Níveis de Klingon *Ad-Hoc*
   - [ ] [1432](https://www.urionlinejudge.com.br/judge/pt/problems/view/1432) - Strings Binárias Triple-Free *Paradigmas*
   - [ ] [1433](https://www.urionlinejudge.com.br/judge/pt/problems/view/1433) - O Clube da Divisão *Matemática*
   - [ ] [1434](https://www.urionlinejudge.com.br/judge/pt/problems/view/1434) - Patrulheiros Romanos *Matemática*
   - [x] [1435](https://www.urionlinejudge.com.br/judge/pt/problems/view/1435) - [Matriz Quadrada I](https://github.com/potigol/URI-Potigol/blob/master/src/1401-1500/1435.poti) *Iniciante*
   - [x] [1436](https://www.urionlinejudge.com.br/judge/pt/problems/view/1436) - [Jogo do Tijolo](https://github.com/potigol/URI-Potigol/blob/master/src/1401-1500/1436.poti) *Matemática*
-  - [ ] [1437](https://www.urionlinejudge.com.br/judge/pt/problems/view/1437) - Esquerda, Volver! *Ad-Hoc*
+  - [x] [1437](https://www.urionlinejudge.com.br/judge/pt/problems/view/1437) - [Esquerda, Volver!](https://github.com/potigol/URI-Potigol/blob/master/src/1401-1500/1437.poti) *Ad-Hoc*
   - [ ] [1438](https://www.urionlinejudge.com.br/judge/pt/problems/view/1438) - Desempilhando Caixas *Ad-Hoc*
   - [ ] [1439](https://www.urionlinejudge.com.br/judge/pt/problems/view/1439) - Bora Bora *Estruturas e Bibliotecas*
   - [ ] [1440](https://www.urionlinejudge.com.br/judge/pt/problems/view/1440) - Praça de Alimentação *Ad-Hoc*

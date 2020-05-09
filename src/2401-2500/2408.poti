@@ -1,0 +1,2 @@
+abc = leia_inteiros(" ").ordene
+escreva abc[2]

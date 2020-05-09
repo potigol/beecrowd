@@ -1,4 +1,4 @@
-# Ad-Hoc (75 / 691)
+# Ad-Hoc (77 / 691)
 
 ## Problemas não resolvidos
   - [ ] [1030](https://www.urionlinejudge.com.br/judge/pt/problems/view/1030) - A Lenda de Flavious Josephus
@@ -74,7 +74,6 @@
   - [ ] [1421](https://www.urionlinejudge.com.br/judge/pt/problems/view/1421) - Tic-Tac-Toe?
   - [ ] [1426](https://www.urionlinejudge.com.br/judge/pt/problems/view/1426) - Coloque Tijolos na Parede
   - [ ] [1431](https://www.urionlinejudge.com.br/judge/pt/problems/view/1431) - Níveis de Klingon
-  - [ ] [1437](https://www.urionlinejudge.com.br/judge/pt/problems/view/1437) - Esquerda, Volver!
   - [ ] [1438](https://www.urionlinejudge.com.br/judge/pt/problems/view/1438) - Desempilhando Caixas
   - [ ] [1440](https://www.urionlinejudge.com.br/judge/pt/problems/view/1440) - Praça de Alimentação
   - [ ] [1443](https://www.urionlinejudge.com.br/judge/pt/problems/view/1443) - Engarrafamento
@@ -401,7 +400,6 @@
   - [ ] [2405](https://www.urionlinejudge.com.br/judge/pt/problems/view/2405) - Colorindo
   - [ ] [2406](https://www.urionlinejudge.com.br/judge/pt/problems/view/2406) - Expressões
   - [ ] [2407](https://www.urionlinejudge.com.br/judge/pt/problems/view/2407) - Quadrado Mágico
-  - [ ] [2408](https://www.urionlinejudge.com.br/judge/pt/problems/view/2408) - Vice-Campeão
   - [ ] [2410](https://www.urionlinejudge.com.br/judge/pt/problems/view/2410) - Frequencia na Aula
   - [ ] [2411](https://www.urionlinejudge.com.br/judge/pt/problems/view/2411) - O Tabuleiro Esburacado
   - [ ] [2412](https://www.urionlinejudge.com.br/judge/pt/problems/view/2412) - Tarzan
@@ -630,6 +628,7 @@
   - [x] [1387](https://www.urionlinejudge.com.br/judge/pt/problems/view/1387) - [Og](https://github.com/potigol/URI-Potigol/blob/master/src/1301-1400/1387.poti)
   - [x] [1397](https://www.urionlinejudge.com.br/judge/pt/problems/view/1397) - [Jogo do Maior](https://github.com/potigol/URI-Potigol/blob/master/src/1301-1400/1397.poti)
   - [x] [1428](https://www.urionlinejudge.com.br/judge/pt/problems/view/1428) - [Procurando Nessy](https://github.com/potigol/URI-Potigol/blob/master/src/1401-1500/1428.poti)
+  - [x] [1437](https://www.urionlinejudge.com.br/judge/pt/problems/view/1437) - [Esquerda, Volver!](https://github.com/potigol/URI-Potigol/blob/master/src/1401-1500/1437.poti)
   - [x] [1441](https://www.urionlinejudge.com.br/judge/pt/problems/view/1441) - [Sequências de Granizo](https://github.com/potigol/URI-Potigol/blob/master/src/1401-1500/1441.poti)
   - [x] [1467](https://www.urionlinejudge.com.br/judge/pt/problems/view/1467) - [Zerinho ou Um](https://github.com/potigol/URI-Potigol/blob/master/src/1401-1500/1467.poti)
   - [x] [1573](https://www.urionlinejudge.com.br/judge/pt/problems/view/1573) - [Fábrica de Chocolate](https://github.com/potigol/URI-Potigol/blob/master/src/1501-1600/1573.poti)
@@ -659,6 +658,7 @@
   - [x] [2395](https://www.urionlinejudge.com.br/judge/pt/problems/view/2395) - [Transporte de Contêineres](https://github.com/potigol/URI-Potigol/blob/master/src/2301-2400/2395.poti)
   - [x] [2397](https://www.urionlinejudge.com.br/judge/pt/problems/view/2397) - [Triângulos](https://github.com/potigol/URI-Potigol/blob/master/src/2301-2400/2397.poti)
   - [x] [2399](https://www.urionlinejudge.com.br/judge/pt/problems/view/2399) - [Campo Minado](https://github.com/potigol/URI-Potigol/blob/master/src/2301-2400/2399.poti)
+  - [x] [2408](https://www.urionlinejudge.com.br/judge/pt/problems/view/2408) - [Vice-Campeão](https://github.com/potigol/URI-Potigol/blob/master/src/2401-2500/2408.poti)
   - [x] [2409](https://www.urionlinejudge.com.br/judge/pt/problems/view/2409) - [Colchão](https://github.com/potigol/URI-Potigol/blob/master/src/2401-2500/2409.poti)
   - [x] [2413](https://www.urionlinejudge.com.br/judge/pt/problems/view/2413) - [Busca na Internet](https://github.com/potigol/URI-Potigol/blob/master/src/2401-2500/2413.poti)
   - [x] [2414](https://www.urionlinejudge.com.br/judge/pt/problems/view/2414) - [Desafio do Maior Número](https://github.com/potigol/URI-Potigol/blob/master/src/2401-2500/2414.poti)

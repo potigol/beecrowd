@@ -380,7 +380,7 @@
   - [ ] [1394](https://www.urionlinejudge.com.br/judge/pt/problems/view/1394) - Hooligan *Grafos*
   - [ ] [1412](https://www.urionlinejudge.com.br/judge/pt/problems/view/1412) - Cadeado com Segredo *Paradigmas*
   - [ ] [1418](https://www.urionlinejudge.com.br/judge/pt/problems/view/1418) - Outra Crise *Ad-Hoc*
-  - [ ] [1430](https://www.urionlinejudge.com.br/judge/pt/problems/view/1430) - Composição de Jingles *Estruturas e Bibliotecas*
+  - [x] [1430](https://www.urionlinejudge.com.br/judge/pt/problems/view/1430) - [Composição de Jingles](https://github.com/potigol/URI-Potigol/blob/master/src/1401-1500/1430.poti) *Estruturas e Bibliotecas*
   - [ ] [1431](https://www.urionlinejudge.com.br/judge/pt/problems/view/1431) - Níveis de Klingon *Ad-Hoc*
   - [ ] [1440](https://www.urionlinejudge.com.br/judge/pt/problems/view/1440) - Praça de Alimentação *Ad-Hoc*
   - [ ] [1460](https://www.urionlinejudge.com.br/judge/pt/problems/view/1460) - Parreiral *Ad-Hoc*
@@ -460,7 +460,7 @@
   - [ ] [1371](https://www.urionlinejudge.com.br/judge/pt/problems/view/1371) - Fechem as Portas! *Matemática*
   - [ ] [1404](https://www.urionlinejudge.com.br/judge/pt/problems/view/1404) - MegaDamas *Ad-Hoc*
   - [ ] [1405](https://www.urionlinejudge.com.br/judge/pt/problems/view/1405) - O Problema da Parada *Estruturas e Bibliotecas*
-  - [ ] [1437](https://www.urionlinejudge.com.br/judge/pt/problems/view/1437) - Esquerda, Volver! *Ad-Hoc*
+  - [x] [1437](https://www.urionlinejudge.com.br/judge/pt/problems/view/1437) - [Esquerda, Volver!](https://github.com/potigol/URI-Potigol/blob/master/src/1401-1500/1437.poti) *Ad-Hoc*
   - [ ] [1486](https://www.urionlinejudge.com.br/judge/pt/problems/view/1486) - Circuito Bioquímico Digital *Ad-Hoc*
 
 
