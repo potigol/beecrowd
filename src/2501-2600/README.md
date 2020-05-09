@@ -56,7 +56,7 @@
   - [ ] [2554](https://www.urionlinejudge.com.br/judge/pt/problems/view/2554) - Pizza Antes de BH *Iniciante*
   - [ ] [2555](https://www.urionlinejudge.com.br/judge/pt/problems/view/2555) - Quiz Universitário *Paradigmas*
   - [ ] [2556](https://www.urionlinejudge.com.br/judge/pt/problems/view/2556) - Reinauguração do CEI *Ad-Hoc*
-  - [ ] [2557](https://www.urionlinejudge.com.br/judge/pt/problems/view/2557) - R+L=J *Strings*
+  - [x] [2557](https://www.urionlinejudge.com.br/judge/pt/problems/view/2557) - [R+L=J](https://github.com/potigol/URI-Potigol/blob/master/src/2501-2600/2557.poti) *Strings*
   - [ ] [2558](https://www.urionlinejudge.com.br/judge/pt/problems/view/2558) - Robô Aspirador *Grafos*
   - [ ] [2559](https://www.urionlinejudge.com.br/judge/pt/problems/view/2559) - Sexta-Feira 13 *Estruturas e Bibliotecas*
   - [ ] [2560](https://www.urionlinejudge.com.br/judge/pt/problems/view/2560) - Surf Aquático *Estruturas e Bibliotecas*

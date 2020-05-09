@@ -1,4 +1,4 @@
-# Strings (22 / 127)
+# Strings (23 / 127)
 
 ## Problemas não resolvidos
   - [ ] [1120](https://www.urionlinejudge.com.br/judge/pt/problems/view/1120) - Revisão de Contrato
@@ -88,7 +88,6 @@
   - [ ] [2509](https://www.urionlinejudge.com.br/judge/pt/problems/view/2509) - Editor Latex
   - [ ] [2535](https://www.urionlinejudge.com.br/judge/pt/problems/view/2535) - Feira de Adoção
   - [ ] [2549](https://www.urionlinejudge.com.br/judge/pt/problems/view/2549) - Nomes de Usuários
-  - [ ] [2557](https://www.urionlinejudge.com.br/judge/pt/problems/view/2557) - R+L=J
   - [ ] [2583](https://www.urionlinejudge.com.br/judge/pt/problems/view/2583) - Chirrin Chirrion
   - [ ] [2588](https://www.urionlinejudge.com.br/judge/pt/problems/view/2588) - Jogo dos Palíndromos
   - [ ] [2591](https://www.urionlinejudge.com.br/judge/pt/problems/view/2591) - HameKameKa
@@ -121,6 +120,7 @@
   - [x] [1871](https://www.urionlinejudge.com.br/judge/pt/problems/view/1871) - [Zero vale Zero](https://github.com/potigol/URI-Potigol/blob/master/src/1801-1900/1871.poti)
   - [x] [2174](https://www.urionlinejudge.com.br/judge/pt/problems/view/2174) - [Coleção de Pomekon](https://github.com/potigol/URI-Potigol/blob/master/src/2101-2200/2174.poti)
   - [x] [2242](https://www.urionlinejudge.com.br/judge/pt/problems/view/2242) - [Huaauhahhuahau](https://github.com/potigol/URI-Potigol/blob/master/src/2201-2300/2242.poti)
+  - [x] [2557](https://www.urionlinejudge.com.br/judge/pt/problems/view/2557) - [R+L=J](https://github.com/potigol/URI-Potigol/blob/master/src/2501-2600/2557.poti)
   - [x] [2587](https://www.urionlinejudge.com.br/judge/pt/problems/view/2587) - [Jetiqui](https://github.com/potigol/URI-Potigol/blob/master/src/2501-2600/2587.poti)
   - [x] [2690](https://www.urionlinejudge.com.br/judge/pt/problems/view/2690) - [Nova Senha RA](https://github.com/potigol/URI-Potigol/blob/master/src/2601-2700/2690.poti)
   - [x] [2694](https://www.urionlinejudge.com.br/judge/pt/problems/view/2694) - [Problema com a Calculadora](https://github.com/potigol/URI-Potigol/blob/master/src/2601-2700/2694.poti)

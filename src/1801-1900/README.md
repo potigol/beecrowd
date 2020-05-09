@@ -92,7 +92,7 @@
   - [ ] [1890](https://www.urionlinejudge.com.br/judge/pt/problems/view/1890) - Emplacando os Tuk-tuks *Ad-Hoc*
   - [ ] [1891](https://www.urionlinejudge.com.br/judge/pt/problems/view/1891) - Removendo Moedas no Kem Kradãn *Ad-Hoc*
   - [ ] [1892](https://www.urionlinejudge.com.br/judge/pt/problems/view/1892) - Calouro Vence Veterano? *Paradigmas*
-  - [ ] [1893](https://www.urionlinejudge.com.br/judge/pt/problems/view/1893) - Fases da Lua *Ad-Hoc*
+  - [x] [1893](https://www.urionlinejudge.com.br/judge/pt/problems/view/1893) - [Fases da Lua](https://github.com/potigol/URI-Potigol/blob/master/src/1801-1900/1893.poti) *Ad-Hoc*
   - [ ] [1894](https://www.urionlinejudge.com.br/judge/pt/problems/view/1894) - Filogenia *Grafos*
   - [ ] [1895](https://www.urionlinejudge.com.br/judge/pt/problems/view/1895) - Jogo do Limite *Ad-Hoc*
   - [ ] [1896](https://www.urionlinejudge.com.br/judge/pt/problems/view/1896) - É Hora do Duelo! *Ad-Hoc*

@@ -1,4 +1,4 @@
-# Ad-Hoc (74 / 691)
+# Ad-Hoc (75 / 691)
 
 ## Problemas não resolvidos
   - [ ] [1030](https://www.urionlinejudge.com.br/judge/pt/problems/view/1030) - A Lenda de Flavious Josephus
@@ -192,7 +192,6 @@
   - [ ] [1889](https://www.urionlinejudge.com.br/judge/pt/problems/view/1889) - Treinando com as Larvas de Phuket
   - [ ] [1890](https://www.urionlinejudge.com.br/judge/pt/problems/view/1890) - Emplacando os Tuk-tuks
   - [ ] [1891](https://www.urionlinejudge.com.br/judge/pt/problems/view/1891) - Removendo Moedas no Kem Kradãn
-  - [ ] [1893](https://www.urionlinejudge.com.br/judge/pt/problems/view/1893) - Fases da Lua
   - [ ] [1895](https://www.urionlinejudge.com.br/judge/pt/problems/view/1895) - Jogo do Limite
   - [ ] [1896](https://www.urionlinejudge.com.br/judge/pt/problems/view/1896) - É Hora do Duelo!
   - [ ] [1899](https://www.urionlinejudge.com.br/judge/pt/problems/view/1899) - Acerte o Alvo!
@@ -639,6 +638,7 @@
   - [x] [1794](https://www.urionlinejudge.com.br/judge/pt/problems/view/1794) - [Lavanderia](https://github.com/potigol/URI-Potigol/blob/master/src/1701-1800/1794.poti)
   - [x] [1796](https://www.urionlinejudge.com.br/judge/pt/problems/view/1796) - [Economia Brasileira](https://github.com/potigol/URI-Potigol/blob/master/src/1701-1800/1796.poti)
   - [x] [1867](https://www.urionlinejudge.com.br/judge/pt/problems/view/1867) - [Maior Número de Um Algarismo](https://github.com/potigol/URI-Potigol/blob/master/src/1801-1900/1867.poti)
+  - [x] [1893](https://www.urionlinejudge.com.br/judge/pt/problems/view/1893) - [Fases da Lua](https://github.com/potigol/URI-Potigol/blob/master/src/1801-1900/1893.poti)
   - [x] [1936](https://www.urionlinejudge.com.br/judge/pt/problems/view/1936) - [Fatorial](https://github.com/potigol/URI-Potigol/blob/master/src/1901-2000/1936.poti)
   - [x] [1943](https://www.urionlinejudge.com.br/judge/pt/problems/view/1943) - [Top N](https://github.com/potigol/URI-Potigol/blob/master/src/1901-2000/1943.poti)
   - [x] [2058](https://www.urionlinejudge.com.br/judge/pt/problems/view/2058) - [Triângulos e Polígonos Regulares](https://github.com/potigol/URI-Potigol/blob/master/src/2001-2100/2058.poti)
