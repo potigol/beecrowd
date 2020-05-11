@@ -1,4 +1,4 @@
-# Strings (23 / 127)
+# Strings (23 / 129)
 
 ## Problemas não resolvidos
   - [ ] [1120](https://www.urionlinejudge.com.br/judge/pt/problems/view/1120) - Revisão de Contrato
@@ -105,6 +105,8 @@
   - [ ] [2974](https://www.urionlinejudge.com.br/judge/pt/problems/view/2974) - Fechadura
   - [ ] [2975](https://www.urionlinejudge.com.br/judge/pt/problems/view/2975) - Anel
   - [ ] [3038](https://www.urionlinejudge.com.br/judge/pt/problems/view/3038) - Carta de Natal Criptografada
+  - [ ] [3080](https://www.urionlinejudge.com.br/judge/pt/problems/view/3080) - Proteja os Dados
+  - [ ] [3083](https://www.urionlinejudge.com.br/judge/pt/problems/view/3083) - Emreh, Liug E As Strings
 ## Problemas resolvidos
   - [x] [1024](https://www.urionlinejudge.com.br/judge/pt/problems/view/1024) - [Criptografia](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1024.poti)
   - [x] [1168](https://www.urionlinejudge.com.br/judge/pt/problems/view/1168) - [LED](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1168.poti)

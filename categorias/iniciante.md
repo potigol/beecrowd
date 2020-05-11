@@ -1,4 +1,4 @@
-# Iniciante (267 / 297)
+# Iniciante (267 / 308)
 
 ## Problemas não resolvidos
   - [ ] [2493](https://www.urionlinejudge.com.br/judge/pt/problems/view/2493) - Jogo do Operador
@@ -29,8 +29,19 @@
   - [ ] [3043](https://www.urionlinejudge.com.br/judge/pt/problems/view/3043) - Festa Junina
   - [ ] [3044](https://www.urionlinejudge.com.br/judge/pt/problems/view/3044) - Manutenção
   - [ ] [3064](https://www.urionlinejudge.com.br/judge/pt/problems/view/3064) - Elástico
+  - [ ] [3066](https://www.urionlinejudge.com.br/judge/pt/problems/view/3066) - Dengue
   - [ ] [3068](https://www.urionlinejudge.com.br/judge/pt/problems/view/3068) - Meteóros
   - [ ] [3069](https://www.urionlinejudge.com.br/judge/pt/problems/view/3069) - Sorvete
+  - [ ] [3076](https://www.urionlinejudge.com.br/judge/pt/problems/view/3076) - Exercício de História
+  - [ ] [3081](https://www.urionlinejudge.com.br/judge/pt/problems/view/3081) - Órbita
+  - [ ] [3082](https://www.urionlinejudge.com.br/judge/pt/problems/view/3082) - Matador De Onça Mutante
+  - [ ] [3084](https://www.urionlinejudge.com.br/judge/pt/problems/view/3084) - Relógio Antigo
+  - [ ] [3085](https://www.urionlinejudge.com.br/judge/pt/problems/view/3085) - O Grande Dia
+  - [ ] [3086](https://www.urionlinejudge.com.br/judge/pt/problems/view/3086) - O Cavaleiro Jedi Guilherme
+  - [ ] [3087](https://www.urionlinejudge.com.br/judge/pt/problems/view/3087) - O Padawan Jorge
+  - [ ] [3088](https://www.urionlinejudge.com.br/judge/pt/problems/view/3088) - Correção de Texto
+  - [ ] [3089](https://www.urionlinejudge.com.br/judge/pt/problems/view/3089) - Presentes de Natal
+  - [ ] [3090](https://www.urionlinejudge.com.br/judge/pt/problems/view/3090) - Campo de Batalha
 ## Problemas resolvidos
   - [x] [1001](https://www.urionlinejudge.com.br/judge/pt/problems/view/1001) - [Extremamente Básico](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1001.poti)
   - [x] [1002](https://www.urionlinejudge.com.br/judge/pt/problems/view/1002) - [Área do Círculo](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1002.poti)

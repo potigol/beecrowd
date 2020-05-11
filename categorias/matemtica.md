@@ -1,4 +1,4 @@
-# Matemática (29 / 235)
+# Matemática (29 / 237)
 
 ## Problemas não resolvidos
   - [ ] [1093](https://www.urionlinejudge.com.br/judge/pt/problems/view/1093) - Vampiros
@@ -207,6 +207,8 @@
   - [ ] [3026](https://www.urionlinejudge.com.br/judge/pt/problems/view/3026) - Número Inteiro Periódico
   - [ ] [3029](https://www.urionlinejudge.com.br/judge/pt/problems/view/3029) - Função Composição
   - [ ] [3036](https://www.urionlinejudge.com.br/judge/pt/problems/view/3036) - Cor da camisa
+  - [ ] [3078](https://www.urionlinejudge.com.br/judge/pt/problems/view/3078) - Só o Ouro
+  - [ ] [3079](https://www.urionlinejudge.com.br/judge/pt/problems/view/3079) - Rua Iluminada
 ## Problemas resolvidos
   - [x] [1028](https://www.urionlinejudge.com.br/judge/pt/problems/view/1028) - [Figurinhas](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1028.poti)
   - [x] [1161](https://www.urionlinejudge.com.br/judge/pt/problems/view/1161) - [Soma de Fatoriais](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1161.poti)

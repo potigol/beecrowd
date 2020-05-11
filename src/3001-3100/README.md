@@ -65,7 +65,7 @@
   - [ ] [3063](https://www.urionlinejudge.com.br/judge/pt/problems/view/3063) - Linhas de Ônibus *Ad-Hoc*
   - [ ] [3064](https://www.urionlinejudge.com.br/judge/pt/problems/view/3064) - Elástico *Iniciante*
   - [x] [3065](https://www.urionlinejudge.com.br/judge/pt/problems/view/3065) - [Calculando](https://github.com/potigol/URI-Potigol/blob/master/src/3001-3100/3065.poti) *Iniciante*
-  - [ ] ~~3066~~
+  - [ ] [3066](https://www.urionlinejudge.com.br/judge/pt/problems/view/3066) - Dengue *Iniciante*
   - [ ] [3067](https://www.urionlinejudge.com.br/judge/pt/problems/view/3067) - Dominó *Grafos*
   - [ ] [3068](https://www.urionlinejudge.com.br/judge/pt/problems/view/3068) - Meteóros *Iniciante*
   - [ ] [3069](https://www.urionlinejudge.com.br/judge/pt/problems/view/3069) - Sorvete *Iniciante*
@@ -75,21 +75,21 @@
   - [ ] [3073](https://www.urionlinejudge.com.br/judge/pt/problems/view/3073) - Vetores *Paradigmas*
   - [ ] [3074](https://www.urionlinejudge.com.br/judge/pt/problems/view/3074) - Consultas em uma array  *Ad-Hoc*
   - [ ] [3075](https://www.urionlinejudge.com.br/judge/pt/problems/view/3075) - Cassinos e Viagem *Grafos*
-  - [ ] ~~3076~~
-  - [ ] ~~3077~~
-  - [ ] ~~3078~~
-  - [ ] ~~3079~~
-  - [ ] ~~3080~~
-  - [ ] ~~3081~~
-  - [ ] ~~3082~~
-  - [ ] ~~3083~~
-  - [ ] ~~3084~~
-  - [ ] ~~3085~~
-  - [ ] ~~3086~~
-  - [ ] ~~3087~~
-  - [ ] ~~3088~~
-  - [ ] ~~3089~~
-  - [ ] ~~3090~~
+  - [ ] [3076](https://www.urionlinejudge.com.br/judge/pt/problems/view/3076) - Exercício de História *Iniciante*
+  - [ ] [3077](https://www.urionlinejudge.com.br/judge/pt/problems/view/3077) - Distribuindo Pequis *Ad-Hoc*
+  - [ ] [3078](https://www.urionlinejudge.com.br/judge/pt/problems/view/3078) - Só o Ouro *Matemática*
+  - [ ] [3079](https://www.urionlinejudge.com.br/judge/pt/problems/view/3079) - Rua Iluminada *Matemática*
+  - [ ] [3080](https://www.urionlinejudge.com.br/judge/pt/problems/view/3080) - Proteja os Dados *Strings*
+  - [ ] [3081](https://www.urionlinejudge.com.br/judge/pt/problems/view/3081) - Órbita *Iniciante*
+  - [ ] [3082](https://www.urionlinejudge.com.br/judge/pt/problems/view/3082) - Matador De Onça Mutante *Iniciante*
+  - [ ] [3083](https://www.urionlinejudge.com.br/judge/pt/problems/view/3083) - Emreh, Liug E As Strings *Strings*
+  - [ ] [3084](https://www.urionlinejudge.com.br/judge/pt/problems/view/3084) - Relógio Antigo *Iniciante*
+  - [ ] [3085](https://www.urionlinejudge.com.br/judge/pt/problems/view/3085) - O Grande Dia *Iniciante*
+  - [ ] [3086](https://www.urionlinejudge.com.br/judge/pt/problems/view/3086) - O Cavaleiro Jedi Guilherme *Iniciante*
+  - [ ] [3087](https://www.urionlinejudge.com.br/judge/pt/problems/view/3087) - O Padawan Jorge *Iniciante*
+  - [ ] [3088](https://www.urionlinejudge.com.br/judge/pt/problems/view/3088) - Correção de Texto *Iniciante*
+  - [ ] [3089](https://www.urionlinejudge.com.br/judge/pt/problems/view/3089) - Presentes de Natal *Iniciante*
+  - [ ] [3090](https://www.urionlinejudge.com.br/judge/pt/problems/view/3090) - Campo de Batalha *Iniciante*
   - [ ] ~~3091~~
   - [ ] ~~3092~~
   - [ ] ~~3093~~

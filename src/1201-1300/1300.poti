@@ -1,0 +1,10 @@
+var a := leia_texto
+enquanto a <> None.orNull faça
+  angulo = a.inteiro
+  se angulo mod 6 == 0 entao
+    escreva "Y"
+  senao
+    escreva "N"
+  fim
+  a := leia_texto
+fim

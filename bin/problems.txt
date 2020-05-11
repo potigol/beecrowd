@@ -2040,6 +2040,7 @@
 3063	Linhas de Ônibus	Ad-Hoc
 3064	Elástico	Iniciante
 3065	Calculando	Iniciante
+3066	Dengue	Iniciante
 3067	Dominó	Grafos
 3068	Meteóros	Iniciante
 3069	Sorvete	Iniciante
@@ -2049,3 +2050,18 @@
 3073	Vetores	Paradigmas
 3074	Consultas em uma array 	Ad-Hoc
 3075	Cassinos e Viagem	Grafos
+3076	Exercício de História	Iniciante
+3077	Distribuindo Pequis	Ad-Hoc
+3078	Só o Ouro	Matemática
+3079	Rua Iluminada	Matemática
+3080	Proteja os Dados	Strings
+3081	Órbita	Iniciante
+3082	Matador De Onça Mutante	Iniciante
+3083	Emreh, Liug E As Strings	Strings
+3084	Relógio Antigo	Iniciante
+3085	O Grande Dia	Iniciante
+3086	O Cavaleiro Jedi Guilherme	Iniciante
+3087	O Padawan Jorge	Iniciante
+3088	Correção de Texto	Iniciante
+3089	Presentes de Natal	Iniciante
+3090	Campo de Batalha	Iniciante

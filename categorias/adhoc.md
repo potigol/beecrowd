@@ -1,4 +1,4 @@
-# Ad-Hoc (77 / 691)
+# Ad-Hoc (77 / 692)
 
 ## Problemas não resolvidos
   - [ ] [1030](https://www.urionlinejudge.com.br/judge/pt/problems/view/1030) - A Lenda de Flavious Josephus
@@ -615,6 +615,7 @@
   - [ ] [3063](https://www.urionlinejudge.com.br/judge/pt/problems/view/3063) - Linhas de Ônibus
   - [ ] [3071](https://www.urionlinejudge.com.br/judge/pt/problems/view/3071) - Melhor Ranking
   - [ ] [3074](https://www.urionlinejudge.com.br/judge/pt/problems/view/3074) - Consultas em uma array 
+  - [ ] [3077](https://www.urionlinejudge.com.br/judge/pt/problems/view/3077) - Distribuindo Pequis
 ## Problemas resolvidos
   - [x] [1026](https://www.urionlinejudge.com.br/judge/pt/problems/view/1026) - [Carrega ou não Carrega?](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1026.poti)
   - [x] [1087](https://www.urionlinejudge.com.br/judge/pt/problems/view/1087) - [Dama](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1087.poti)
