@@ -1,4 +1,4 @@
-mdc(x: Inteiro, y: Inteiro): Inteiro = se y == 0 então x senão mdc(y, x mod y) fim
+mdc(x, y: Inteiro): Inteiro = se y == 0 então x senão mdc(y, x mod y) fim
 
 repetições = leia_inteiro
 para i de 1 até repetições faça
