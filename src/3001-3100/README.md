@@ -88,7 +88,7 @@
   - [ ] [3086](https://www.urionlinejudge.com.br/judge/pt/problems/view/3086) - O Cavaleiro Jedi Guilherme *Iniciante*
   - [ ] [3087](https://www.urionlinejudge.com.br/judge/pt/problems/view/3087) - O Padawan Jorge *Iniciante*
   - [x] [3088](https://www.urionlinejudge.com.br/judge/pt/problems/view/3088) - [Correção de Texto](https://github.com/potigol/URI-Potigol/blob/master/src/3001-3100/3088.poti) *Iniciante*
-  - [ ] [3089](https://www.urionlinejudge.com.br/judge/pt/problems/view/3089) - Presentes de Natal *Iniciante*
+  - [x] [3089](https://www.urionlinejudge.com.br/judge/pt/problems/view/3089) - [Presentes de Natal](https://github.com/potigol/URI-Potigol/blob/master/src/3001-3100/3089.poti) *Iniciante*
   - [ ] [3090](https://www.urionlinejudge.com.br/judge/pt/problems/view/3090) - Campo de Batalha *Iniciante*
   - [ ] ~~3091~~
   - [ ] ~~3092~~

@@ -41,7 +41,7 @@
   - [ ] [2539](https://www.urionlinejudge.com.br/judge/pt/problems/view/2539) - High Five *Estruturas e Bibliotecas*
   - [x] [2540](https://www.urionlinejudge.com.br/judge/pt/problems/view/2540) - [Impeachment do Líder](https://github.com/potigol/URI-Potigol/blob/master/src/2501-2600/2540.poti) *Iniciante*
   - [ ] [2541](https://www.urionlinejudge.com.br/judge/pt/problems/view/2541) - Ingrest *Geometria Computacional*
-  - [ ] [2542](https://www.urionlinejudge.com.br/judge/pt/problems/view/2542) - Iu-Di-Oh! *Iniciante*
+  - [x] [2542](https://www.urionlinejudge.com.br/judge/pt/problems/view/2542) - [Iu-Di-Oh!](https://github.com/potigol/URI-Potigol/blob/master/src/2501-2600/2542.poti) *Iniciante*
   - [x] [2543](https://www.urionlinejudge.com.br/judge/pt/problems/view/2543) - [Jogatina UFPR](https://github.com/potigol/URI-Potigol/blob/master/src/2501-2600/2543.poti) *Iniciante*
   - [x] [2544](https://www.urionlinejudge.com.br/judge/pt/problems/view/2544) - [Kage Bunshin no Jutsu](https://github.com/potigol/URI-Potigol/blob/master/src/2501-2600/2544.poti) *Iniciante*
   - [ ] [2545](https://www.urionlinejudge.com.br/judge/pt/problems/view/2545) - Manyfile *Grafos*

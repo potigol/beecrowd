@@ -1,9 +1,8 @@
-# Iniciante (270 / 308)
+# Iniciante (272 / 308)
 
 ## Problemas não resolvidos
   - [ ] [2493](https://www.urionlinejudge.com.br/judge/pt/problems/view/2493) - Jogo do Operador
   - [ ] [2502](https://www.urionlinejudge.com.br/judge/pt/problems/view/2502) - Decifrando a Carta Criptografada
-  - [ ] [2542](https://www.urionlinejudge.com.br/judge/pt/problems/view/2542) - Iu-Di-Oh!
   - [ ] [2554](https://www.urionlinejudge.com.br/judge/pt/problems/view/2554) - Pizza Antes de BH
   - [ ] [2632](https://www.urionlinejudge.com.br/judge/pt/problems/view/2632) - Magic and Sword
   - [ ] [2635](https://www.urionlinejudge.com.br/judge/pt/problems/view/2635) - Navegador Web
@@ -37,7 +36,6 @@
   - [ ] [3085](https://www.urionlinejudge.com.br/judge/pt/problems/view/3085) - O Grande Dia
   - [ ] [3086](https://www.urionlinejudge.com.br/judge/pt/problems/view/3086) - O Cavaleiro Jedi Guilherme
   - [ ] [3087](https://www.urionlinejudge.com.br/judge/pt/problems/view/3087) - O Padawan Jorge
-  - [ ] [3089](https://www.urionlinejudge.com.br/judge/pt/problems/view/3089) - Presentes de Natal
   - [ ] [3090](https://www.urionlinejudge.com.br/judge/pt/problems/view/3090) - Campo de Batalha
 ## Problemas resolvidos
   - [x] [1001](https://www.urionlinejudge.com.br/judge/pt/problems/view/1001) - [Extremamente Básico](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1001.poti)
@@ -227,6 +225,7 @@
   - [x] [2533](https://www.urionlinejudge.com.br/judge/pt/problems/view/2533) - [Estágio](https://github.com/potigol/URI-Potigol/blob/master/src/2501-2600/2533.poti)
   - [x] [2534](https://www.urionlinejudge.com.br/judge/pt/problems/view/2534) - [Exame Geral](https://github.com/potigol/URI-Potigol/blob/master/src/2501-2600/2534.poti)
   - [x] [2540](https://www.urionlinejudge.com.br/judge/pt/problems/view/2540) - [Impeachment do Líder](https://github.com/potigol/URI-Potigol/blob/master/src/2501-2600/2540.poti)
+  - [x] [2542](https://www.urionlinejudge.com.br/judge/pt/problems/view/2542) - [Iu-Di-Oh!](https://github.com/potigol/URI-Potigol/blob/master/src/2501-2600/2542.poti)
   - [x] [2543](https://www.urionlinejudge.com.br/judge/pt/problems/view/2543) - [Jogatina UFPR](https://github.com/potigol/URI-Potigol/blob/master/src/2501-2600/2543.poti)
   - [x] [2544](https://www.urionlinejudge.com.br/judge/pt/problems/view/2544) - [Kage Bunshin no Jutsu](https://github.com/potigol/URI-Potigol/blob/master/src/2501-2600/2544.poti)
   - [x] [2547](https://www.urionlinejudge.com.br/judge/pt/problems/view/2547) - [Montanha-Russa](https://github.com/potigol/URI-Potigol/blob/master/src/2501-2600/2547.poti)
@@ -310,3 +309,4 @@
   - [x] [3076](https://www.urionlinejudge.com.br/judge/pt/problems/view/3076) - [Exercício de História](https://github.com/potigol/URI-Potigol/blob/master/src/3001-3100/3076.poti)
   - [x] [3084](https://www.urionlinejudge.com.br/judge/pt/problems/view/3084) - [Relógio Antigo](https://github.com/potigol/URI-Potigol/blob/master/src/3001-3100/3084.poti)
   - [x] [3088](https://www.urionlinejudge.com.br/judge/pt/problems/view/3088) - [Correção de Texto](https://github.com/potigol/URI-Potigol/blob/master/src/3001-3100/3088.poti)
+  - [x] [3089](https://www.urionlinejudge.com.br/judge/pt/problems/view/3089) - [Presentes de Natal](https://github.com/potigol/URI-Potigol/blob/master/src/3001-3100/3089.poti)

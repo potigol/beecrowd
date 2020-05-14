@@ -1,8 +1,9 @@
-# URI-Potigol ![Soluções](https://img.shields.io/badge/Problemas%20Resolvidos-411-blue)
+# URI-Potigol
+![Soluções](https://img.shields.io/badge/Problemas%20Resolvidos-413-blue)
+
 Soluções dos problemas do [URI Online Judge](https://www.urionlinejudge.com.br/judge/pt/problems/all) usando a linguagem [Potigol](https://potigol.github.io)
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#snapshot/71532994-38b7-42ee-a5c1-f0b16d54f762)
-
 
 
 ## Problemas por Categoria
