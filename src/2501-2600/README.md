@@ -1,7 +1,7 @@
 # Problemas 2501 a 2600
 
   - [ ] [2501](https://www.urionlinejudge.com.br/judge/pt/problems/view/2501) - Fatores Permitidos *Paradigmas*
-  - [ ] [2502](https://www.urionlinejudge.com.br/judge/pt/problems/view/2502) - Decifrando a Carta Criptografada *Iniciante*
+  - [x] [2502](https://www.urionlinejudge.com.br/judge/pt/problems/view/2502) - [Decifrando a Carta Criptografada](https://github.com/potigol/URI-Potigol/blob/master/src/2501-2600/2502.poti) *Iniciante*
   - [ ] [2503](https://www.urionlinejudge.com.br/judge/pt/problems/view/2503) - Corrida de Regularidade *Estruturas e Bibliotecas*
   - [ ] [2504](https://www.urionlinejudge.com.br/judge/pt/problems/view/2504) - Biorritmo *Ad-Hoc*
   - [ ] [2505](https://www.urionlinejudge.com.br/judge/pt/problems/view/2505) - Autopotencial *Matemática*
