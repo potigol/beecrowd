@@ -22,7 +22,6 @@ Soluções dos problemas do [URI Online Judge](https://www.urionlinejudge.com.br
   - [Maratona de Programação da SBC/ACM](categorias/maratona.md)
   - [Olimpíada Brasileira de Informática (OBI)](categorias/obi.md)
 
-
 ## Problemas
 
 [1001 ...](src/1001-1100) |
@@ -47,18 +46,15 @@ Soluções dos problemas do [URI Online Judge](https://www.urionlinejudge.com.br
 [2901 ...](src/2901-3000) |
 [3001 ...](src/3001-3100)
 
-## Participe
+## Quer ajudar?
 
-Participe deste projeto com soluções para os problemas.
+Escolha um problema ainda não reolvido e envie sua solução pelo github.
 
-[Veja quem participa.](https://github.com/potigol/URI-Potigol/graphs/contributors?from=2018-09-30&to=2019-02-12&type=a)
-
-### Como participar ...
 
  - Faça o download da linguagem Potigol http://potigol.github.io
- - Faça um fork deste projeto
+ - Faça um fork deste projeto https://github.com/potigol/URI-Potigol
  - Escolha e resolva algum problema ainda não resolvido
  - Se estiver usando o editor do Potigol aperte ctrl-F para formatar o código
- - Coloque o seu código na pasta correspondente
+ - Coloque o seu código na pasta correspondente https://github.com/potigol/URI-Potigol/tree/master/src
  - **OPCIONAL** Teste a sua solução no URI Online Judge usando o script [Potigol2Scala](https://github.com/potigol/potigol2scala)
  - Faça um pull request
