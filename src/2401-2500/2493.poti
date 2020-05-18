@@ -1,0 +1,25 @@
+var t := leia_inteiro
+enquanto t > 0 faca
+  jogos = para i de 1 ate t,
+               a em [leia_textos("=")],
+               b em [a[1].divida(" ").mapeie(_.inteiro)],
+               x em [b[1]], y em [b[2]], z em [a[2].inteiro] gere
+    (se x + y == z entao "+" senao "" fim)
+    + (se x - y == z entao "-" senao "" fim)
+    + (se x * y == z entao "*" senao "" fim)
+  fim
+  var passou := Lista(0, "")
+  para i de 1 ate t faca
+    a = leia_textos(" ")
+    n, eh, r = a[1], a[2].inteiro, a[3].cabeca
+    se nao (jogos[eh].contem(r) ou (jogos[eh] == "" e r == 'I')) entao passou := n :: passou fim
+  fim
+  se passou.tamanho == t entao
+    escreva "None Shall Pass!"
+  senaose passou.tamanho == 0 entao
+    escreva "You Shall All Pass!"
+  senão
+    escreva passou.ordene.junte(" ")
+  fim
+  t := leia_inteiro
+fim

@@ -92,7 +92,7 @@
   - [ ] [2490](https://www.urionlinejudge.com.br/judge/pt/problems/view/2490) - Garoto Ixpertinho *Grafos*
   - [ ] [2491](https://www.urionlinejudge.com.br/judge/pt/problems/view/2491) - Habay e Robfilho – Os Fujões *Paradigmas*
   - [ ] [2492](https://www.urionlinejudge.com.br/judge/pt/problems/view/2492) - Ilhas Isoladas *Estruturas e Bibliotecas*
-  - [ ] [2493](https://www.urionlinejudge.com.br/judge/pt/problems/view/2493) - Jogo do Operador *Iniciante*
+  - [x] [2493](https://www.urionlinejudge.com.br/judge/pt/problems/view/2493) - [Jogo do Operador](https://github.com/potigol/URI-Potigol/blob/master/src/2401-2500/2493.poti) *Iniciante*
   - [ ] [2494](https://www.urionlinejudge.com.br/judge/pt/problems/view/2494) - Canetas *Matemática*
   - [ ] [2495](https://www.urionlinejudge.com.br/judge/pt/problems/view/2495) - Onde Está Minha Caneta? *Estruturas e Bibliotecas*
   - [ ] [2496](https://www.urionlinejudge.com.br/judge/pt/problems/view/2496) - A Única Chance *Estruturas e Bibliotecas*

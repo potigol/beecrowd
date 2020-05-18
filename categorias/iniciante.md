@@ -1,7 +1,6 @@
-# Iniciante (273 / 308)
+# Iniciante (274 / 308)
 
 ## Problemas não resolvidos
-  - [ ] [2493](https://www.urionlinejudge.com.br/judge/pt/problems/view/2493) - Jogo do Operador
   - [ ] [2554](https://www.urionlinejudge.com.br/judge/pt/problems/view/2554) - Pizza Antes de BH
   - [ ] [2632](https://www.urionlinejudge.com.br/judge/pt/problems/view/2632) - Magic and Sword
   - [ ] [2635](https://www.urionlinejudge.com.br/judge/pt/problems/view/2635) - Navegador Web
@@ -218,6 +217,7 @@
   - [x] [2344](https://www.urionlinejudge.com.br/judge/pt/problems/view/2344) - [Notas da Prova](https://github.com/potigol/URI-Potigol/blob/master/src/2301-2400/2344.poti)
   - [x] [2483](https://www.urionlinejudge.com.br/judge/pt/problems/view/2483) - [Feliz Nataaal!](https://github.com/potigol/URI-Potigol/blob/master/src/2401-2500/2483.poti)
   - [x] [2486](https://www.urionlinejudge.com.br/judge/pt/problems/view/2486) - [C Mais ou Menos?](https://github.com/potigol/URI-Potigol/blob/master/src/2401-2500/2486.poti)
+  - [x] [2493](https://www.urionlinejudge.com.br/judge/pt/problems/view/2493) - [Jogo do Operador](https://github.com/potigol/URI-Potigol/blob/master/src/2401-2500/2493.poti)
   - [x] [2502](https://www.urionlinejudge.com.br/judge/pt/problems/view/2502) - [Decifrando a Carta Criptografada](https://github.com/potigol/URI-Potigol/blob/master/src/2501-2600/2502.poti)
   - [x] [2510](https://www.urionlinejudge.com.br/judge/pt/problems/view/2510) - [Batmain](https://github.com/potigol/URI-Potigol/blob/master/src/2501-2600/2510.poti)
   - [x] [2520](https://www.urionlinejudge.com.br/judge/pt/problems/view/2520) - [O Último Analógimôn](https://github.com/potigol/URI-Potigol/blob/master/src/2501-2600/2520.poti)
