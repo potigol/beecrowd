@@ -59,4 +59,4 @@ Escolha um problema ainda não reolvido e envie sua solução pelo github.
  - **OPCIONAL** Teste a sua solução no URI Online Judge usando o script [Potigol2Scala](https://github.com/potigol/potigol2scala)
  - Faça um pull request
 
-<a href="resolvidos.md">.</a>
+<a href="resolvidos">.</a>
