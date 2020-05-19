@@ -58,3 +58,5 @@ Escolha um problema ainda não reolvido e envie sua solução pelo github.
  - Coloque o seu código na pasta correspondente https://github.com/potigol/URI-Potigol/tree/master/src
  - **OPCIONAL** Teste a sua solução no URI Online Judge usando o script [Potigol2Scala](https://github.com/potigol/potigol2scala)
  - Faça um pull request
+
+<a href="resolvidos.md">.</a>
