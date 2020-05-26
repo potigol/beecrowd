@@ -56,7 +56,7 @@
   - [ ] [2154](https://www.urionlinejudge.com.br/judge/pt/problems/view/2154) - Derivada de Polinômios *Matemática*
   - [ ] [2155](https://www.urionlinejudge.com.br/judge/pt/problems/view/2155) - Os Icosaedros do Lagarto *Grafos*
   - [ ] [2156](https://www.urionlinejudge.com.br/judge/pt/problems/view/2156) - As Aventuras de Pak-man *Ad-Hoc*
-  - [ ] [2157](https://www.urionlinejudge.com.br/judge/pt/problems/view/2157) - Sequência Espelho *Strings*
+  - [x] [2157](https://www.urionlinejudge.com.br/judge/pt/problems/view/2157) - [Sequência Espelho](https://github.com/potigol/URI-Potigol/blob/master/src/2101-2200/2157.poti) *Strings*
   - [ ] [2158](https://www.urionlinejudge.com.br/judge/pt/problems/view/2158) - Ajudando o Tio Cláudio *Geometria Computacional*
   - [x] [2159](https://www.urionlinejudge.com.br/judge/pt/problems/view/2159) - [Número Aproximado de Primos](https://github.com/potigol/URI-Potigol/blob/master/src/2101-2200/2159.poti) *Iniciante*
   - [x] [2160](https://www.urionlinejudge.com.br/judge/pt/problems/view/2160) - [Nome no Formulário](https://github.com/potigol/URI-Potigol/blob/master/src/2101-2200/2160.poti) *Iniciante*

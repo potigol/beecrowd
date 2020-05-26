@@ -1,4 +1,4 @@
-# Strings (23 / 129)
+# Strings (24 / 129)
 
 ## Problemas não resolvidos
   - [ ] [1120](https://www.urionlinejudge.com.br/judge/pt/problems/view/1120) - Revisão de Contrato
@@ -77,7 +77,6 @@
   - [ ] [2137](https://www.urionlinejudge.com.br/judge/pt/problems/view/2137) - A Biblioteca do Senhor Severino
   - [ ] [2150](https://www.urionlinejudge.com.br/judge/pt/problems/view/2150) - Vogais Alienígenas
   - [ ] [2153](https://www.urionlinejudge.com.br/judge/pt/problems/view/2153) - Sanduicheiche
-  - [ ] [2157](https://www.urionlinejudge.com.br/judge/pt/problems/view/2157) - Sequência Espelho
   - [ ] [2253](https://www.urionlinejudge.com.br/judge/pt/problems/view/2253) - Validador de Senhas
   - [ ] [2292](https://www.urionlinejudge.com.br/judge/pt/problems/view/2292) - Painel LED
   - [ ] [2314](https://www.urionlinejudge.com.br/judge/pt/problems/view/2314) - Indentador
@@ -120,6 +119,7 @@
   - [x] [1581](https://www.urionlinejudge.com.br/judge/pt/problems/view/1581) - [Conversa Internacional](https://github.com/potigol/URI-Potigol/blob/master/src/1501-1600/1581.poti)
   - [x] [1632](https://www.urionlinejudge.com.br/judge/pt/problems/view/1632) - [Variações](https://github.com/potigol/URI-Potigol/blob/master/src/1601-1700/1632.poti)
   - [x] [1871](https://www.urionlinejudge.com.br/judge/pt/problems/view/1871) - [Zero vale Zero](https://github.com/potigol/URI-Potigol/blob/master/src/1801-1900/1871.poti)
+  - [x] [2157](https://www.urionlinejudge.com.br/judge/pt/problems/view/2157) - [Sequência Espelho](https://github.com/potigol/URI-Potigol/blob/master/src/2101-2200/2157.poti)
   - [x] [2174](https://www.urionlinejudge.com.br/judge/pt/problems/view/2174) - [Coleção de Pomekon](https://github.com/potigol/URI-Potigol/blob/master/src/2101-2200/2174.poti)
   - [x] [2242](https://www.urionlinejudge.com.br/judge/pt/problems/view/2242) - [Huaauhahhuahau](https://github.com/potigol/URI-Potigol/blob/master/src/2201-2300/2242.poti)
   - [x] [2557](https://www.urionlinejudge.com.br/judge/pt/problems/view/2557) - [R+L=J](https://github.com/potigol/URI-Potigol/blob/master/src/2501-2600/2557.poti)

@@ -1,0 +1,7 @@
+c = leia_inteiro
+para i de 1 ate c faca
+  a = leia_inteiros(" ")
+  m, n = a[1], a[2]
+  s = para j de m ate n gere j fim.junte("")
+  escreva s + s.inverta
+fim
