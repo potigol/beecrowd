@@ -1,7 +1,13 @@
 zip3(a, b, c: Lista[Inteiro]) = a.zip(b).zip(c)
    .mapeie(x => (x.primeiro.primeiro, x.primeiro.segundo, x.segundo))
+k = leia_inteiros(" ")[2]
 h = leia_inteiros(" ")
 s = zip3(h, h.cauda, h.cauda.cauda)
 x = s.mapeie(a => a.primeiro < a.segundo e a.segundo > a.terceiro)
      .mapeie(pico => se pico entao 1 senao 0 fim)
-escreva x.injete(0)(_ + _)
+picos = x.injete(0)(_ + _)
+se picos == k entao
+  escreva "beautiful"
+senao
+  escreva "ugly"
+fim
