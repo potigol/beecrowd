@@ -1,4 +1,4 @@
-# Ad-Hoc (77 / 692)
+# Ad-Hoc (79 / 692)
 
 ## Problemas não resolvidos
   - [ ] [1030](https://www.urionlinejudge.com.br/judge/pt/problems/view/1030) - A Lenda de Flavious Josephus
@@ -90,7 +90,6 @@
   - [ ] [1496](https://www.urionlinejudge.com.br/judge/pt/problems/view/1496) - Suba os &quot;Ultras&quot;
   - [ ] [1508](https://www.urionlinejudge.com.br/judge/pt/problems/view/1508) - Raio Laser
   - [ ] [1514](https://www.urionlinejudge.com.br/judge/pt/problems/view/1514) - Competição
-  - [ ] [1515](https://www.urionlinejudge.com.br/judge/pt/problems/view/1515) - Hello Galaxy
   - [ ] [1518](https://www.urionlinejudge.com.br/judge/pt/problems/view/1518) - Tartarugas
   - [ ] [1521](https://www.urionlinejudge.com.br/judge/pt/problems/view/1521) - O Culpado
   - [ ] [1528](https://www.urionlinejudge.com.br/judge/pt/problems/view/1528) - Cordas Emaranhadas
@@ -178,7 +177,6 @@
   - [ ] [1849](https://www.urionlinejudge.com.br/judge/pt/problems/view/1849) - Dracarys!
   - [ ] [1870](https://www.urionlinejudge.com.br/judge/pt/problems/view/1870) - Ventiladores e Balões
   - [ ] [1876](https://www.urionlinejudge.com.br/judge/pt/problems/view/1876) - Rabiola
-  - [ ] [1877](https://www.urionlinejudge.com.br/judge/pt/problems/view/1877) - O Castelo de Neve de Sansa
   - [ ] [1879](https://www.urionlinejudge.com.br/judge/pt/problems/view/1879) - Bridge
   - [ ] [1880](https://www.urionlinejudge.com.br/judge/pt/problems/view/1880) - Renzo e a Decoração Capicuânica
   - [ ] [1881](https://www.urionlinejudge.com.br/judge/pt/problems/view/1881) - Competição de Robótica
@@ -632,12 +630,14 @@
   - [x] [1437](https://www.urionlinejudge.com.br/judge/pt/problems/view/1437) - [Esquerda, Volver!](https://github.com/potigol/URI-Potigol/blob/master/src/1401-1500/1437.poti)
   - [x] [1441](https://www.urionlinejudge.com.br/judge/pt/problems/view/1441) - [Sequências de Granizo](https://github.com/potigol/URI-Potigol/blob/master/src/1401-1500/1441.poti)
   - [x] [1467](https://www.urionlinejudge.com.br/judge/pt/problems/view/1467) - [Zerinho ou Um](https://github.com/potigol/URI-Potigol/blob/master/src/1401-1500/1467.poti)
+  - [x] [1515](https://www.urionlinejudge.com.br/judge/pt/problems/view/1515) - [Hello Galaxy](https://github.com/potigol/URI-Potigol/blob/master/src/1501-1600/1515.poti)
   - [x] [1573](https://www.urionlinejudge.com.br/judge/pt/problems/view/1573) - [Fábrica de Chocolate](https://github.com/potigol/URI-Potigol/blob/master/src/1501-1600/1573.poti)
   - [x] [1708](https://www.urionlinejudge.com.br/judge/pt/problems/view/1708) - [Volta](https://github.com/potigol/URI-Potigol/blob/master/src/1701-1800/1708.poti)
   - [x] [1743](https://www.urionlinejudge.com.br/judge/pt/problems/view/1743) - [Máquina de Verificação Automatizada](https://github.com/potigol/URI-Potigol/blob/master/src/1701-1800/1743.poti)
   - [x] [1794](https://www.urionlinejudge.com.br/judge/pt/problems/view/1794) - [Lavanderia](https://github.com/potigol/URI-Potigol/blob/master/src/1701-1800/1794.poti)
   - [x] [1796](https://www.urionlinejudge.com.br/judge/pt/problems/view/1796) - [Economia Brasileira](https://github.com/potigol/URI-Potigol/blob/master/src/1701-1800/1796.poti)
   - [x] [1867](https://www.urionlinejudge.com.br/judge/pt/problems/view/1867) - [Maior Número de Um Algarismo](https://github.com/potigol/URI-Potigol/blob/master/src/1801-1900/1867.poti)
+  - [x] [1877](https://www.urionlinejudge.com.br/judge/pt/problems/view/1877) - [O Castelo de Neve de Sansa](https://github.com/potigol/URI-Potigol/blob/master/src/1801-1900/1877.poti)
   - [x] [1893](https://www.urionlinejudge.com.br/judge/pt/problems/view/1893) - [Fases da Lua](https://github.com/potigol/URI-Potigol/blob/master/src/1801-1900/1893.poti)
   - [x] [1936](https://www.urionlinejudge.com.br/judge/pt/problems/view/1936) - [Fatorial](https://github.com/potigol/URI-Potigol/blob/master/src/1901-2000/1936.poti)
   - [x] [1943](https://www.urionlinejudge.com.br/judge/pt/problems/view/1943) - [Top N](https://github.com/potigol/URI-Potigol/blob/master/src/1901-2000/1943.poti)

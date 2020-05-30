@@ -1,4 +1,4 @@
-# Strings (24 / 129)
+# Strings (25 / 129)
 
 ## Problemas não resolvidos
   - [ ] [1120](https://www.urionlinejudge.com.br/judge/pt/problems/view/1120) - Revisão de Contrato
@@ -12,7 +12,6 @@
   - [ ] [1249](https://www.urionlinejudge.com.br/judge/pt/problems/view/1249) - Rot13
   - [ ] [1254](https://www.urionlinejudge.com.br/judge/pt/problems/view/1254) - Substituição de Tag
   - [ ] [1255](https://www.urionlinejudge.com.br/judge/pt/problems/view/1255) - Frequência de Letras
-  - [ ] [1262](https://www.urionlinejudge.com.br/judge/pt/problems/view/1262) - Leitura Múltipla
   - [ ] [1263](https://www.urionlinejudge.com.br/judge/pt/problems/view/1263) - Aliteração
   - [ ] [1272](https://www.urionlinejudge.com.br/judge/pt/problems/view/1272) - Mensagem Oculta
   - [ ] [1273](https://www.urionlinejudge.com.br/judge/pt/problems/view/1273) - Justificador
@@ -114,6 +113,7 @@
   - [x] [1241](https://www.urionlinejudge.com.br/judge/pt/problems/view/1241) - [Encaixa ou Não II](https://github.com/potigol/URI-Potigol/blob/master/src/1201-1300/1241.poti)
   - [x] [1253](https://www.urionlinejudge.com.br/judge/pt/problems/view/1253) - [Cifra de César](https://github.com/potigol/URI-Potigol/blob/master/src/1201-1300/1253.poti)
   - [x] [1257](https://www.urionlinejudge.com.br/judge/pt/problems/view/1257) - [Array Hash](https://github.com/potigol/URI-Potigol/blob/master/src/1201-1300/1257.poti)
+  - [x] [1262](https://www.urionlinejudge.com.br/judge/pt/problems/view/1262) - [Leitura Múltipla](https://github.com/potigol/URI-Potigol/blob/master/src/1201-1300/1262.poti)
   - [x] [1332](https://www.urionlinejudge.com.br/judge/pt/problems/view/1332) - [Um-Dois-Três](https://github.com/potigol/URI-Potigol/blob/master/src/1301-1400/1332.poti)
   - [x] [1551](https://www.urionlinejudge.com.br/judge/pt/problems/view/1551) - [Frase Completa](https://github.com/potigol/URI-Potigol/blob/master/src/1501-1600/1551.poti)
   - [x] [1581](https://www.urionlinejudge.com.br/judge/pt/problems/view/1581) - [Conversa Internacional](https://github.com/potigol/URI-Potigol/blob/master/src/1501-1600/1581.poti)

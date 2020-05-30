@@ -76,7 +76,7 @@
   - [ ] [1874](https://www.urionlinejudge.com.br/judge/pt/problems/view/1874) - Empurrando Blocos *Estruturas e Bibliotecas*
   - [ ] [1875](https://www.urionlinejudge.com.br/judge/pt/problems/view/1875) - Tribol *Geometria Computacional*
   - [ ] [1876](https://www.urionlinejudge.com.br/judge/pt/problems/view/1876) - Rabiola *Ad-Hoc*
-  - [ ] [1877](https://www.urionlinejudge.com.br/judge/pt/problems/view/1877) - O Castelo de Neve de Sansa *Ad-Hoc*
+  - [x] [1877](https://www.urionlinejudge.com.br/judge/pt/problems/view/1877) - [O Castelo de Neve de Sansa](https://github.com/potigol/URI-Potigol/blob/master/src/1801-1900/1877.poti) *Ad-Hoc*
   - [ ] [1878](https://www.urionlinejudge.com.br/judge/pt/problems/view/1878) - Torneios em Sequência *Paradigmas*
   - [ ] [1879](https://www.urionlinejudge.com.br/judge/pt/problems/view/1879) - Bridge *Ad-Hoc*
   - [ ] [1880](https://www.urionlinejudge.com.br/judge/pt/problems/view/1880) - Renzo e a Decoração Capicuânica *Ad-Hoc*

@@ -46,7 +46,7 @@ object Build extends App {
     for (year <- contest2.keys.toList.sorted.reverse) {
       s = s + s"\n\n## ${year}\n\n"
 
-      if (contest1.get(year)!= None){
+      if (contest1.get(year) != None){
         s = s + s"\n\n### 1ª Fase\n\n"
         for (y <- contest1.get(year); x <- y) {
           s = s + line(x) + "\n"
@@ -67,7 +67,7 @@ object Build extends App {
     for (year <- contest3.keys.toList.sorted.reverse) {
       s = s + s"\n\n## ${year}\n\n"
       for (y <- contest3.get(year); x <- y) {
-        s = s + line(x) +"\n"
+        s = s + line(x) + "\n"
       }
     }
     save(file, title, s)
@@ -104,7 +104,6 @@ object Build extends App {
   }.toMap
 
   // Lista por competição
-
 
   // Principal
   duasfases("maratona1.txt", "maratona2.txt", "../categorias/maratona.md", "Maratona de Programação")

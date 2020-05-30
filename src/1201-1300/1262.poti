@@ -1,0 +1,8 @@
+var s := leia_texto
+enquanto s <> None.orNull faca
+  p = leia_inteiro
+  x = s.divida_quando(_ <> _)
+  y = x.mapeie(a => se a[1] == 'W' entao a.tamanho senao (a.tamanho / p).teto.inteiro fim)
+  escreva y.injete(0)(_ + _)
+  s := leia_texto
+fim

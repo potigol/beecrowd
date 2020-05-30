@@ -14,7 +14,7 @@
   - [ ] [1512](https://www.urionlinejudge.com.br/judge/pt/problems/view/1512) - Azulejos *Matemática*
   - [ ] [1513](https://www.urionlinejudge.com.br/judge/pt/problems/view/1513) - Cavalo *Paradigmas*
   - [ ] [1514](https://www.urionlinejudge.com.br/judge/pt/problems/view/1514) - Competição *Ad-Hoc*
-  - [ ] [1515](https://www.urionlinejudge.com.br/judge/pt/problems/view/1515) - Hello Galaxy *Ad-Hoc*
+  - [x] [1515](https://www.urionlinejudge.com.br/judge/pt/problems/view/1515) - [Hello Galaxy](https://github.com/potigol/URI-Potigol/blob/master/src/1501-1600/1515.poti) *Ad-Hoc*
   - [ ] [1516](https://www.urionlinejudge.com.br/judge/pt/problems/view/1516) - Imagem *Strings*
   - [ ] [1517](https://www.urionlinejudge.com.br/judge/pt/problems/view/1517) - Maçãs *Paradigmas*
   - [ ] [1518](https://www.urionlinejudge.com.br/judge/pt/problems/view/1518) - Tartarugas *Ad-Hoc*

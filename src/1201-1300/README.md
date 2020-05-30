@@ -61,7 +61,7 @@
   - [ ] [1259](https://www.urionlinejudge.com.br/judge/pt/problems/view/1259) - Pares e Ímpares *Estruturas e Bibliotecas*
   - [ ] [1260](https://www.urionlinejudge.com.br/judge/pt/problems/view/1260) - Espécies de Madeira *Estruturas e Bibliotecas*
   - [ ] [1261](https://www.urionlinejudge.com.br/judge/pt/problems/view/1261) - Pontos de Feno *Estruturas e Bibliotecas*
-  - [ ] [1262](https://www.urionlinejudge.com.br/judge/pt/problems/view/1262) - Leitura Múltipla *Strings*
+  - [x] [1262](https://www.urionlinejudge.com.br/judge/pt/problems/view/1262) - [Leitura Múltipla](https://github.com/potigol/URI-Potigol/blob/master/src/1201-1300/1262.poti) *Strings*
   - [ ] [1263](https://www.urionlinejudge.com.br/judge/pt/problems/view/1263) - Aliteração *Strings*
   - [ ] [1264](https://www.urionlinejudge.com.br/judge/pt/problems/view/1264) - Um Problema Fácil! *Matemática*
   - [ ] [1265](https://www.urionlinejudge.com.br/judge/pt/problems/view/1265) - DJ da Computação *Paradigmas*
