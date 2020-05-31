@@ -1,4 +1,4 @@
-# Iniciante (274 / 308)
+# Iniciante (275 / 308)
 
 ## Problemas não resolvidos
   - [ ] [2554](https://www.urionlinejudge.com.br/judge/pt/problems/view/2554) - Pizza Antes de BH
@@ -23,7 +23,6 @@
   - [ ] [2823](https://www.urionlinejudge.com.br/judge/pt/problems/view/2823) - Eearliest Deadline First
   - [ ] [2852](https://www.urionlinejudge.com.br/judge/pt/problems/view/2852) - Troca de Mensagens
   - [ ] [2952](https://www.urionlinejudge.com.br/judge/pt/problems/view/2952) - A Vida Sustentável
-  - [ ] [3043](https://www.urionlinejudge.com.br/judge/pt/problems/view/3043) - Festa Junina
   - [ ] [3044](https://www.urionlinejudge.com.br/judge/pt/problems/view/3044) - Manutenção
   - [ ] [3064](https://www.urionlinejudge.com.br/judge/pt/problems/view/3064) - Elástico
   - [ ] [3066](https://www.urionlinejudge.com.br/judge/pt/problems/view/3066) - Dengue
@@ -301,6 +300,7 @@
   - [x] [3039](https://www.urionlinejudge.com.br/judge/pt/problems/view/3039) - [Brinquedos do Papai Noel](https://github.com/potigol/URI-Potigol/blob/master/src/3001-3100/3039.poti)
   - [x] [3040](https://www.urionlinejudge.com.br/judge/pt/problems/view/3040) - [A Árvore de Natal](https://github.com/potigol/URI-Potigol/blob/master/src/3001-3100/3040.poti)
   - [x] [3042](https://www.urionlinejudge.com.br/judge/pt/problems/view/3042) - [Desviando de Árvores de Natal](https://github.com/potigol/URI-Potigol/blob/master/src/3001-3100/3042.poti)
+  - [x] [3043](https://www.urionlinejudge.com.br/judge/pt/problems/view/3043) - [Festa Junina](https://github.com/potigol/URI-Potigol/blob/master/src/3001-3100/3043.poti)
   - [x] [3046](https://www.urionlinejudge.com.br/judge/pt/problems/view/3046) - [Dominó](https://github.com/potigol/URI-Potigol/blob/master/src/3001-3100/3046.poti)
   - [x] [3047](https://www.urionlinejudge.com.br/judge/pt/problems/view/3047) - [A idade de Dona Mônica](https://github.com/potigol/URI-Potigol/blob/master/src/3001-3100/3047.poti)
   - [x] [3053](https://www.urionlinejudge.com.br/judge/pt/problems/view/3053) - [Jogo dos copos](https://github.com/potigol/URI-Potigol/blob/master/src/3001-3100/3053.poti)

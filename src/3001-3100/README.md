@@ -42,7 +42,7 @@
   - [x] [3040](https://www.urionlinejudge.com.br/judge/pt/problems/view/3040) - [A Árvore de Natal](https://github.com/potigol/URI-Potigol/blob/master/src/3001-3100/3040.poti) *Iniciante*
   - [ ] [3041](https://www.urionlinejudge.com.br/judge/pt/problems/view/3041) - Distribuição de Artigos *Ad-Hoc*
   - [x] [3042](https://www.urionlinejudge.com.br/judge/pt/problems/view/3042) - [Desviando de Árvores de Natal](https://github.com/potigol/URI-Potigol/blob/master/src/3001-3100/3042.poti) *Iniciante*
-  - [ ] [3043](https://www.urionlinejudge.com.br/judge/pt/problems/view/3043) - Festa Junina *Iniciante*
+  - [x] [3043](https://www.urionlinejudge.com.br/judge/pt/problems/view/3043) - [Festa Junina](https://github.com/potigol/URI-Potigol/blob/master/src/3001-3100/3043.poti) *Iniciante*
   - [ ] [3044](https://www.urionlinejudge.com.br/judge/pt/problems/view/3044) - Manutenção *Iniciante*
   - [ ] [3045](https://www.urionlinejudge.com.br/judge/pt/problems/view/3045) - Parque Jurássico *Estruturas e Bibliotecas*
   - [x] [3046](https://www.urionlinejudge.com.br/judge/pt/problems/view/3046) - [Dominó](https://github.com/potigol/URI-Potigol/blob/master/src/3001-3100/3046.poti) *Iniciante*
