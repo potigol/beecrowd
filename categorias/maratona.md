@@ -191,7 +191,7 @@
 ### 1ª Fase
 
   - [x] [1708](https://www.urionlinejudge.com.br/judge/pt/problems/view/1708) - [Volta](https://github.com/potigol/URI-Potigol/blob/master/src/1701-1800/1708.poti) *Ad-Hoc*
-  - [ ] [1709](https://www.urionlinejudge.com.br/judge/pt/problems/view/1709) - Baralho Embaralhado *Estruturas e Bibliotecas*
+  - [x] [1709](https://www.urionlinejudge.com.br/judge/pt/problems/view/1709) - [Baralho Embaralhado](https://github.com/potigol/URI-Potigol/blob/master/src/1701-1800/1709.poti) *Estruturas e Bibliotecas*
   - [ ] [1710](https://www.urionlinejudge.com.br/judge/pt/problems/view/1710) - Confederação *Ad-Hoc*
   - [ ] [1711](https://www.urionlinejudge.com.br/judge/pt/problems/view/1711) - Dona Minhoca *Grafos*
   - [ ] [1712](https://www.urionlinejudge.com.br/judge/pt/problems/view/1712) - Ecologia *Ad-Hoc*

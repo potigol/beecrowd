@@ -20,6 +20,7 @@
 1020	Idade em Dias	Iniciante
 1021	Notas e Moedas	Iniciante
 1022	TDA Racional	Estruturas e Bibliotecas
+1023	Estiagem	Estruturas e Bibliotecas
 1024	Criptografia	Strings
 1025	Onde está o Mármore?	Estruturas e Bibliotecas
 1026	Carrega ou não Carrega?	Ad-Hoc

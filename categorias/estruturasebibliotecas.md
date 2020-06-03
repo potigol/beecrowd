@@ -1,6 +1,7 @@
-# Estruturas e Bibliotecas (7 / 152)
+# Estruturas e Bibliotecas (8 / 153)
 
 ## Problemas não resolvidos
+  - [ ] [1023](https://www.urionlinejudge.com.br/judge/pt/problems/view/1023) - Estiagem
   - [ ] [1025](https://www.urionlinejudge.com.br/judge/pt/problems/view/1025) - Onde está o Mármore?
   - [ ] [1062](https://www.urionlinejudge.com.br/judge/pt/problems/view/1062) - Trilhos
   - [ ] [1063](https://www.urionlinejudge.com.br/judge/pt/problems/view/1063) - Trilhos Novamente... Traçando Movimentos
@@ -60,7 +61,6 @@
   - [ ] [1696](https://www.urionlinejudge.com.br/judge/pt/problems/view/1696) - Brincando Com Operadores
   - [ ] [1701](https://www.urionlinejudge.com.br/judge/pt/problems/view/1701) - Sequência de Fibo
   - [ ] [1704](https://www.urionlinejudge.com.br/judge/pt/problems/view/1704) - Arrumando as Tarefas
-  - [ ] [1709](https://www.urionlinejudge.com.br/judge/pt/problems/view/1709) - Baralho Embaralhado
   - [ ] [1725](https://www.urionlinejudge.com.br/judge/pt/problems/view/1725) - Quadtree II
   - [ ] [1740](https://www.urionlinejudge.com.br/judge/pt/problems/view/1740) - Está Ordenado?
   - [ ] [1746](https://www.urionlinejudge.com.br/judge/pt/problems/view/1746) - Dividindo os Nomes
@@ -152,5 +152,6 @@
   - [x] [1069](https://www.urionlinejudge.com.br/judge/pt/problems/view/1069) - [Diamantes e Areia](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1069.poti)
   - [x] [1110](https://www.urionlinejudge.com.br/judge/pt/problems/view/1110) - [Jogando Cartas Fora](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1110.poti)
   - [x] [1430](https://www.urionlinejudge.com.br/judge/pt/problems/view/1430) - [Composição de Jingles](https://github.com/potigol/URI-Potigol/blob/master/src/1401-1500/1430.poti)
+  - [x] [1709](https://www.urionlinejudge.com.br/judge/pt/problems/view/1709) - [Baralho Embaralhado](https://github.com/potigol/URI-Potigol/blob/master/src/1701-1800/1709.poti)
   - [x] [2338](https://www.urionlinejudge.com.br/judge/pt/problems/view/2338) - [Morse](https://github.com/potigol/URI-Potigol/blob/master/src/2301-2400/2338.poti)
   - [x] [2729](https://www.urionlinejudge.com.br/judge/pt/problems/view/2729) - [Lista de Compras](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2729.poti)

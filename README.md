@@ -1,5 +1,5 @@
 # URI-Potigol
-![Soluções](https://img.shields.io/badge/Problemas%20Resolvidos-420-blue)
+![Soluções](https://img.shields.io/badge/Problemas%20Resolvidos-421-blue)
 
 Soluções dos problemas do [URI Online Judge](https://www.urionlinejudge.com.br/judge/pt/problems/all) usando a linguagem [Potigol](https://potigol.github.io)
 

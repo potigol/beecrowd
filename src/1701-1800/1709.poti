@@ -1,0 +1,8 @@
+p = leia_inteiro
+f(a: Inteiro) = se 2 * a <= p entao 2 * a senao 2 * a - (p + 1) fim
+var x, c := f(1), 1
+enquanto x > 1 faca
+  c := c + 1
+  x := f(x)
+fim
+escreva c
