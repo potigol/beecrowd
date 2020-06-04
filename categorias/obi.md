@@ -222,7 +222,7 @@
 
 ## 2005
 
-  - [ ] [2293](https://www.urionlinejudge.com.br/judge/pt/problems/view/2293) - Campo de Minhocas *Ad-Hoc*
+  - [x] [2293](https://www.urionlinejudge.com.br/judge/pt/problems/view/2293) - [Campo de Minhocas](https://github.com/potigol/URI-Potigol/blob/master/src/2201-2300/2293.poti) *Ad-Hoc*
   - [ ] [2294](https://www.urionlinejudge.com.br/judge/pt/problems/view/2294) - Duende Perdido *Ad-Hoc*
   - [x] [2295](https://www.urionlinejudge.com.br/judge/pt/problems/view/2295) - [Frota de Táxi](https://github.com/potigol/URI-Potigol/blob/master/src/2201-2300/2295.poti) *Ad-Hoc*
   - [ ] [2296](https://www.urionlinejudge.com.br/judge/pt/problems/view/2296) - Trilhas *Ad-Hoc*

@@ -1,0 +1,8 @@
+a = leia_inteiros(" ")
+n, m = a[1], a[2]
+mat = para i de 1 ate n gere leia_inteiros(" ") fim
+zero = para i de 1 ate m gere 0 fim
+linhas = mat.mapeie(x => x.injete(0)(_ + _))
+colunas = mat.injete(zero)(
+            (x, y) => para i de 1 ate m gere x[i] + y[i] fim)
+escreva (linhas + colunas).ordene.ultimo

@@ -1,0 +1,8 @@
+var n := leia_inteiro
+enquanto n > 0 faca
+  v = leia_inteiros(" ")
+  a = v.ordene[-2]
+  p = v.posicao(a)
+  escreva p
+  n := leia_inteiro
+fim

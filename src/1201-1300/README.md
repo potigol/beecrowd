@@ -50,7 +50,7 @@
   - [ ] [1248](https://www.urionlinejudge.com.br/judge/pt/problems/view/1248) - Plano de Dieta *Strings*
   - [ ] [1249](https://www.urionlinejudge.com.br/judge/pt/problems/view/1249) - Rot13 *Strings*
   - [ ] [1250](https://www.urionlinejudge.com.br/judge/pt/problems/view/1250) - KiloMan *Ad-Hoc*
-  - [ ] [1251](https://www.urionlinejudge.com.br/judge/pt/problems/view/1251) - Diga-me a Frequência *Estruturas e Bibliotecas*
+  - [x] [1251](https://www.urionlinejudge.com.br/judge/pt/problems/view/1251) - [Diga-me a Frequência](https://github.com/potigol/URI-Potigol/blob/master/src/1201-1300/1251.poti) *Estruturas e Bibliotecas*
   - [ ] [1252](https://www.urionlinejudge.com.br/judge/pt/problems/view/1252) - Sort! Sort!! e Sort!!! *Estruturas e Bibliotecas*
   - [x] [1253](https://www.urionlinejudge.com.br/judge/pt/problems/view/1253) - [Cifra de César](https://github.com/potigol/URI-Potigol/blob/master/src/1201-1300/1253.poti) *Strings*
   - [ ] [1254](https://www.urionlinejudge.com.br/judge/pt/problems/view/1254) - Substituição de Tag *Strings*

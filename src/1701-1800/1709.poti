@@ -1,8 +1,6 @@
 p = leia_inteiro
-f(a: Inteiro) = se 2 * a <= p entao 2 * a senao 2 * a - (p + 1) fim
-var x, c := f(1), 1
-enquanto x > 1 faca
-  c := c + 1
-  x := f(x)
+embaralhar(a, c: Inteiro): Inteiro
+  b = se 2 * a <= p entao 2 * a senao 2 * a - (p + 1) fim
+  retorne se b == 1 entao c senao embaralhar(b, c + 1) fim
 fim
-escreva c
+escreva embaralhar(1, 1)

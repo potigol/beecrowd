@@ -1,4 +1,4 @@
-# Ad-Hoc (79 / 692)
+# Ad-Hoc (81 / 692)
 
 ## Problemas não resolvidos
   - [ ] [1030](https://www.urionlinejudge.com.br/judge/pt/problems/view/1030) - A Lenda de Flavious Josephus
@@ -94,7 +94,6 @@
   - [ ] [1521](https://www.urionlinejudge.com.br/judge/pt/problems/view/1521) - O Culpado
   - [ ] [1528](https://www.urionlinejudge.com.br/judge/pt/problems/view/1528) - Cordas Emaranhadas
   - [ ] [1532](https://www.urionlinejudge.com.br/judge/pt/problems/view/1532) - Arremesso de Bolas
-  - [ ] [1533](https://www.urionlinejudge.com.br/judge/pt/problems/view/1533) - Detetive Watson
   - [ ] [1536](https://www.urionlinejudge.com.br/judge/pt/problems/view/1536) - Libertadores
   - [ ] [1540](https://www.urionlinejudge.com.br/judge/pt/problems/view/1540) - Planejando a Energia
   - [ ] [1542](https://www.urionlinejudge.com.br/judge/pt/problems/view/1542) - Lendo Livros
@@ -320,7 +319,6 @@
   - [ ] [2287](https://www.urionlinejudge.com.br/judge/pt/problems/view/2287) - Proteja sua Senha
   - [ ] [2288](https://www.urionlinejudge.com.br/judge/pt/problems/view/2288) - TV da Vovó
   - [ ] [2289](https://www.urionlinejudge.com.br/judge/pt/problems/view/2289) - Distância Hamming
-  - [ ] [2293](https://www.urionlinejudge.com.br/judge/pt/problems/view/2293) - Campo de Minhocas
   - [ ] [2294](https://www.urionlinejudge.com.br/judge/pt/problems/view/2294) - Duende Perdido
   - [ ] [2296](https://www.urionlinejudge.com.br/judge/pt/problems/view/2296) - Trilhas
   - [ ] [2297](https://www.urionlinejudge.com.br/judge/pt/problems/view/2297) - Bafo
@@ -631,6 +629,7 @@
   - [x] [1441](https://www.urionlinejudge.com.br/judge/pt/problems/view/1441) - [Sequências de Granizo](https://github.com/potigol/URI-Potigol/blob/master/src/1401-1500/1441.poti)
   - [x] [1467](https://www.urionlinejudge.com.br/judge/pt/problems/view/1467) - [Zerinho ou Um](https://github.com/potigol/URI-Potigol/blob/master/src/1401-1500/1467.poti)
   - [x] [1515](https://www.urionlinejudge.com.br/judge/pt/problems/view/1515) - [Hello Galaxy](https://github.com/potigol/URI-Potigol/blob/master/src/1501-1600/1515.poti)
+  - [x] [1533](https://www.urionlinejudge.com.br/judge/pt/problems/view/1533) - [Detetive Watson](https://github.com/potigol/URI-Potigol/blob/master/src/1501-1600/1533.poti)
   - [x] [1573](https://www.urionlinejudge.com.br/judge/pt/problems/view/1573) - [Fábrica de Chocolate](https://github.com/potigol/URI-Potigol/blob/master/src/1501-1600/1573.poti)
   - [x] [1708](https://www.urionlinejudge.com.br/judge/pt/problems/view/1708) - [Volta](https://github.com/potigol/URI-Potigol/blob/master/src/1701-1800/1708.poti)
   - [x] [1743](https://www.urionlinejudge.com.br/judge/pt/problems/view/1743) - [Máquina de Verificação Automatizada](https://github.com/potigol/URI-Potigol/blob/master/src/1701-1800/1743.poti)
@@ -644,6 +643,7 @@
   - [x] [2058](https://www.urionlinejudge.com.br/judge/pt/problems/view/2058) - [Triângulos e Polígonos Regulares](https://github.com/potigol/URI-Potigol/blob/master/src/2001-2100/2058.poti)
   - [x] [2188](https://www.urionlinejudge.com.br/judge/pt/problems/view/2188) - [Macaco-prego](https://github.com/potigol/URI-Potigol/blob/master/src/2101-2200/2188.poti)
   - [x] [2217](https://www.urionlinejudge.com.br/judge/pt/problems/view/2217) - [Nove](https://github.com/potigol/URI-Potigol/blob/master/src/2201-2300/2217.poti)
+  - [x] [2293](https://www.urionlinejudge.com.br/judge/pt/problems/view/2293) - [Campo de Minhocas](https://github.com/potigol/URI-Potigol/blob/master/src/2201-2300/2293.poti)
   - [x] [2295](https://www.urionlinejudge.com.br/judge/pt/problems/view/2295) - [Frota de Táxi](https://github.com/potigol/URI-Potigol/blob/master/src/2201-2300/2295.poti)
   - [x] [2328](https://www.urionlinejudge.com.br/judge/pt/problems/view/2328) - [Chocolate](https://github.com/potigol/URI-Potigol/blob/master/src/2301-2400/2328.poti)
   - [x] [2339](https://www.urionlinejudge.com.br/judge/pt/problems/view/2339) - [Aviões de Papel](https://github.com/potigol/URI-Potigol/blob/master/src/2301-2400/2339.poti)

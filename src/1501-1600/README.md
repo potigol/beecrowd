@@ -32,7 +32,7 @@
   - [ ] [1530](https://www.urionlinejudge.com.br/judge/pt/problems/view/1530) - Quantas Substrings? *Strings*
   - [ ] [1531](https://www.urionlinejudge.com.br/judge/pt/problems/view/1531) - Fibonacci de Novo! *Matemática*
   - [ ] [1532](https://www.urionlinejudge.com.br/judge/pt/problems/view/1532) - Arremesso de Bolas *Ad-Hoc*
-  - [ ] [1533](https://www.urionlinejudge.com.br/judge/pt/problems/view/1533) - Detetive Watson *Ad-Hoc*
+  - [x] [1533](https://www.urionlinejudge.com.br/judge/pt/problems/view/1533) - [Detetive Watson](https://github.com/potigol/URI-Potigol/blob/master/src/1501-1600/1533.poti) *Ad-Hoc*
   - [x] [1534](https://www.urionlinejudge.com.br/judge/pt/problems/view/1534) - [Matriz 123](https://github.com/potigol/URI-Potigol/blob/master/src/1501-1600/1534.poti) *Iniciante*
   - [ ] [1535](https://www.urionlinejudge.com.br/judge/pt/problems/view/1535) - Números Casal-Solteirão-Solteirona *Estruturas e Bibliotecas*
   - [ ] [1536](https://www.urionlinejudge.com.br/judge/pt/problems/view/1536) - Libertadores *Ad-Hoc*
