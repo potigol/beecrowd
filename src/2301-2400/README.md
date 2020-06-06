@@ -41,7 +41,7 @@
   - [x] [2339](https://www.urionlinejudge.com.br/judge/pt/problems/view/2339) - [Aviões de Papel](https://github.com/potigol/URI-Potigol/blob/master/src/2301-2400/2339.poti) *Ad-Hoc*
   - [ ] [2340](https://www.urionlinejudge.com.br/judge/pt/problems/view/2340) - Feira de Bactérias *Ad-Hoc*
   - [ ] [2341](https://www.urionlinejudge.com.br/judge/pt/problems/view/2341) - Número de Envelopes *Ad-Hoc*
-  - [ ] [2342](https://www.urionlinejudge.com.br/judge/pt/problems/view/2342) - Overflow *Ad-Hoc*
+  - [x] [2342](https://www.urionlinejudge.com.br/judge/pt/problems/view/2342) - [Overflow](https://github.com/potigol/URI-Potigol/blob/master/src/2301-2400/2342.poti) *Ad-Hoc*
   - [ ] [2343](https://www.urionlinejudge.com.br/judge/pt/problems/view/2343) - Caçadores de Mitos *Ad-Hoc*
   - [x] [2344](https://www.urionlinejudge.com.br/judge/pt/problems/view/2344) - [Notas da Prova](https://github.com/potigol/URI-Potigol/blob/master/src/2301-2400/2344.poti) *Iniciante*
   - [x] [2345](https://www.urionlinejudge.com.br/judge/pt/problems/view/2345) - [Assigning Teams](https://github.com/potigol/URI-Potigol/blob/master/src/2301-2400/2345.poti) *Ad-Hoc*

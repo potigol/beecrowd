@@ -6,7 +6,7 @@
 
   - [x] [3046](https://www.urionlinejudge.com.br/judge/pt/problems/view/3046) - [Dominó](https://github.com/potigol/URI-Potigol/blob/master/src/3001-3100/3046.poti) *Iniciante*
   - [x] [3047](https://www.urionlinejudge.com.br/judge/pt/problems/view/3047) - [A idade de Dona Mônica](https://github.com/potigol/URI-Potigol/blob/master/src/3001-3100/3047.poti) *Iniciante*
-  - [ ] [3048](https://www.urionlinejudge.com.br/judge/pt/problems/view/3048) - Sequência Secreta *Ad-Hoc*
+  - [x] [3048](https://www.urionlinejudge.com.br/judge/pt/problems/view/3048) - [Sequência Secreta](https://github.com/potigol/URI-Potigol/blob/master/src/3001-3100/3048.poti) *Ad-Hoc*
   - [x] [3049](https://www.urionlinejudge.com.br/judge/pt/problems/view/3049) - [Nota Cortada](https://github.com/potigol/URI-Potigol/blob/master/src/3001-3100/3049.poti) *Matemática*
   - [ ] [3050](https://www.urionlinejudge.com.br/judge/pt/problems/view/3050) - Distância entre amigos *Ad-Hoc*
   - [ ] [3051](https://www.urionlinejudge.com.br/judge/pt/problems/view/3051) - Soma *Paradigmas*
@@ -178,7 +178,7 @@
   - [x] [2339](https://www.urionlinejudge.com.br/judge/pt/problems/view/2339) - [Aviões de Papel](https://github.com/potigol/URI-Potigol/blob/master/src/2301-2400/2339.poti) *Ad-Hoc*
   - [ ] [2340](https://www.urionlinejudge.com.br/judge/pt/problems/view/2340) - Feira de Bactérias *Ad-Hoc*
   - [ ] [2341](https://www.urionlinejudge.com.br/judge/pt/problems/view/2341) - Número de Envelopes *Ad-Hoc*
-  - [ ] [2342](https://www.urionlinejudge.com.br/judge/pt/problems/view/2342) - Overflow *Ad-Hoc*
+  - [x] [2342](https://www.urionlinejudge.com.br/judge/pt/problems/view/2342) - [Overflow](https://github.com/potigol/URI-Potigol/blob/master/src/2301-2400/2342.poti) *Ad-Hoc*
   - [ ] [2343](https://www.urionlinejudge.com.br/judge/pt/problems/view/2343) - Caçadores de Mitos *Ad-Hoc*
   - [x] [2344](https://www.urionlinejudge.com.br/judge/pt/problems/view/2344) - [Notas da Prova](https://github.com/potigol/URI-Potigol/blob/master/src/2301-2400/2344.poti) *Iniciante*
   - [ ] [2366](https://www.urionlinejudge.com.br/judge/pt/problems/view/2366) - Maratona *Ad-Hoc*

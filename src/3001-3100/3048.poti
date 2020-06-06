@@ -1,0 +1,10 @@
+n = leia_inteiro
+var a, s := 0
+para i de 1 ate n faca
+  v = leia_inteiro
+  se v <> a entao
+    a := v
+    s := s + 1
+  fim
+fim
+escreva s

@@ -1,4 +1,4 @@
-# Ad-Hoc (81 / 692)
+# Ad-Hoc (83 / 692)
 
 ## Problemas não resolvidos
   - [ ] [1030](https://www.urionlinejudge.com.br/judge/pt/problems/view/1030) - A Lenda de Flavious Josephus
@@ -354,7 +354,6 @@
   - [ ] [2333](https://www.urionlinejudge.com.br/judge/pt/problems/view/2333) - Pizza
   - [ ] [2340](https://www.urionlinejudge.com.br/judge/pt/problems/view/2340) - Feira de Bactérias
   - [ ] [2341](https://www.urionlinejudge.com.br/judge/pt/problems/view/2341) - Número de Envelopes
-  - [ ] [2342](https://www.urionlinejudge.com.br/judge/pt/problems/view/2342) - Overflow
   - [ ] [2343](https://www.urionlinejudge.com.br/judge/pt/problems/view/2343) - Caçadores de Mitos
   - [ ] [2346](https://www.urionlinejudge.com.br/judge/pt/problems/view/2346) - Back to the Future
   - [ ] [2347](https://www.urionlinejudge.com.br/judge/pt/problems/view/2347) - Counting Self-Rotating Subsets
@@ -600,7 +599,6 @@
   - [ ] [3034](https://www.urionlinejudge.com.br/judge/pt/problems/view/3034) - O Caso Douglas
   - [ ] [3035](https://www.urionlinejudge.com.br/judge/pt/problems/view/3035) - Fabrica de Peças
   - [ ] [3041](https://www.urionlinejudge.com.br/judge/pt/problems/view/3041) - Distribuição de Artigos
-  - [ ] [3048](https://www.urionlinejudge.com.br/judge/pt/problems/view/3048) - Sequência Secreta
   - [ ] [3050](https://www.urionlinejudge.com.br/judge/pt/problems/view/3050) - Distância entre amigos
   - [ ] [3052](https://www.urionlinejudge.com.br/judge/pt/problems/view/3052) - Chuva
   - [ ] [3054](https://www.urionlinejudge.com.br/judge/pt/problems/view/3054) - Matriz super-legal
@@ -647,6 +645,7 @@
   - [x] [2295](https://www.urionlinejudge.com.br/judge/pt/problems/view/2295) - [Frota de Táxi](https://github.com/potigol/URI-Potigol/blob/master/src/2201-2300/2295.poti)
   - [x] [2328](https://www.urionlinejudge.com.br/judge/pt/problems/view/2328) - [Chocolate](https://github.com/potigol/URI-Potigol/blob/master/src/2301-2400/2328.poti)
   - [x] [2339](https://www.urionlinejudge.com.br/judge/pt/problems/view/2339) - [Aviões de Papel](https://github.com/potigol/URI-Potigol/blob/master/src/2301-2400/2339.poti)
+  - [x] [2342](https://www.urionlinejudge.com.br/judge/pt/problems/view/2342) - [Overflow](https://github.com/potigol/URI-Potigol/blob/master/src/2301-2400/2342.poti)
   - [x] [2345](https://www.urionlinejudge.com.br/judge/pt/problems/view/2345) - [Assigning Teams](https://github.com/potigol/URI-Potigol/blob/master/src/2301-2400/2345.poti)
   - [x] [2369](https://www.urionlinejudge.com.br/judge/pt/problems/view/2369) - [Conta de Água](https://github.com/potigol/URI-Potigol/blob/master/src/2301-2400/2369.poti)
   - [x] [2373](https://www.urionlinejudge.com.br/judge/pt/problems/view/2373) - [Garçom](https://github.com/potigol/URI-Potigol/blob/master/src/2301-2400/2373.poti)
@@ -692,5 +691,6 @@
   - [x] [2926](https://www.urionlinejudge.com.br/judge/pt/problems/view/2926) - [Então é Natal!](https://github.com/potigol/URI-Potigol/blob/master/src/2901-3000/2926.poti)
   - [x] [3005](https://www.urionlinejudge.com.br/judge/pt/problems/view/3005) - [Pilhas de paralelepípedos](https://github.com/potigol/URI-Potigol/blob/master/src/3001-3100/3005.poti)
   - [x] [3024](https://www.urionlinejudge.com.br/judge/pt/problems/view/3024) - [Mountain Ranges](https://github.com/potigol/URI-Potigol/blob/master/src/3001-3100/3024.poti)
+  - [x] [3048](https://www.urionlinejudge.com.br/judge/pt/problems/view/3048) - [Sequência Secreta](https://github.com/potigol/URI-Potigol/blob/master/src/3001-3100/3048.poti)
   - [x] [3056](https://www.urionlinejudge.com.br/judge/pt/problems/view/3056) - [Ponto do meio](https://github.com/potigol/URI-Potigol/blob/master/src/3001-3100/3056.poti)
   - [x] [3059](https://www.urionlinejudge.com.br/judge/pt/problems/view/3059) - [Pares de números](https://github.com/potigol/URI-Potigol/blob/master/src/3001-3100/3059.poti)
