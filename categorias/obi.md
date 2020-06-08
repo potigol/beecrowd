@@ -18,7 +18,7 @@
   - [ ] [3057](https://www.urionlinejudge.com.br/judge/pt/problems/view/3057) - Detetive *Ad-Hoc*
   - [ ] [3058](https://www.urionlinejudge.com.br/judge/pt/problems/view/3058) - Supermercado *Ad-Hoc*
   - [x] [3059](https://www.urionlinejudge.com.br/judge/pt/problems/view/3059) - [Pares de números](https://github.com/potigol/URI-Potigol/blob/master/src/3001-3100/3059.poti) *Ad-Hoc*
-  - [ ] [3060](https://www.urionlinejudge.com.br/judge/pt/problems/view/3060) - Parcelamento sem juros *Ad-Hoc*
+  - [x] [3060](https://www.urionlinejudge.com.br/judge/pt/problems/view/3060) - [Parcelamento sem juros](https://github.com/potigol/URI-Potigol/blob/master/src/3001-3100/3060.poti) *Ad-Hoc*
   - [ ] [3061](https://www.urionlinejudge.com.br/judge/pt/problems/view/3061) - Manchas de pele *Grafos*
   - [ ] [3062](https://www.urionlinejudge.com.br/judge/pt/problems/view/3062) - Coleção de Upas *Ad-Hoc*
   - [ ] [3063](https://www.urionlinejudge.com.br/judge/pt/problems/view/3063) - Linhas de Ônibus *Ad-Hoc*

@@ -1,4 +1,4 @@
-# Ad-Hoc (83 / 692)
+# Ad-Hoc (85 / 692)
 
 ## Problemas não resolvidos
   - [ ] [1030](https://www.urionlinejudge.com.br/judge/pt/problems/view/1030) - A Lenda de Flavious Josephus
@@ -9,7 +9,6 @@
   - [ ] [1090](https://www.urionlinejudge.com.br/judge/pt/problems/view/1090) - Set
   - [ ] [1091](https://www.urionlinejudge.com.br/judge/pt/problems/view/1091) - Divisão da Nlogônia
   - [ ] [1092](https://www.urionlinejudge.com.br/judge/pt/problems/view/1092) - Maior Subseqüência Crescente
-  - [ ] [1104](https://www.urionlinejudge.com.br/judge/pt/problems/view/1104) - Troca de Cartas
   - [ ] [1105](https://www.urionlinejudge.com.br/judge/pt/problems/view/1105) - Sub-prime
   - [ ] [1107](https://www.urionlinejudge.com.br/judge/pt/problems/view/1107) - Escultura à Laser
   - [ ] [1109](https://www.urionlinejudge.com.br/judge/pt/problems/view/1109) - Burlando a Maratona
@@ -604,7 +603,6 @@
   - [ ] [3054](https://www.urionlinejudge.com.br/judge/pt/problems/view/3054) - Matriz super-legal
   - [ ] [3057](https://www.urionlinejudge.com.br/judge/pt/problems/view/3057) - Detetive
   - [ ] [3058](https://www.urionlinejudge.com.br/judge/pt/problems/view/3058) - Supermercado
-  - [ ] [3060](https://www.urionlinejudge.com.br/judge/pt/problems/view/3060) - Parcelamento sem juros
   - [ ] [3062](https://www.urionlinejudge.com.br/judge/pt/problems/view/3062) - Coleção de Upas
   - [ ] [3063](https://www.urionlinejudge.com.br/judge/pt/problems/view/3063) - Linhas de Ônibus
   - [ ] [3071](https://www.urionlinejudge.com.br/judge/pt/problems/view/3071) - Melhor Ranking
@@ -614,6 +612,7 @@
   - [x] [1026](https://www.urionlinejudge.com.br/judge/pt/problems/view/1026) - [Carrega ou não Carrega?](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1026.poti)
   - [x] [1087](https://www.urionlinejudge.com.br/judge/pt/problems/view/1087) - [Dama](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1087.poti)
   - [x] [1103](https://www.urionlinejudge.com.br/judge/pt/problems/view/1103) - [Alarme Despertador](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1103.poti)
+  - [x] [1104](https://www.urionlinejudge.com.br/judge/pt/problems/view/1104) - [Troca de Cartas](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1104.poti)
   - [x] [1171](https://www.urionlinejudge.com.br/judge/pt/problems/view/1171) - [Frequência de Números](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1171.poti)
   - [x] [1192](https://www.urionlinejudge.com.br/judge/pt/problems/view/1192) - [O jogo Matemático de Paula](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1192.poti)
   - [x] [1225](https://www.urionlinejudge.com.br/judge/pt/problems/view/1225) - [Coral Perfeito](https://github.com/potigol/URI-Potigol/blob/master/src/1201-1300/1225.poti)
@@ -694,3 +693,4 @@
   - [x] [3048](https://www.urionlinejudge.com.br/judge/pt/problems/view/3048) - [Sequência Secreta](https://github.com/potigol/URI-Potigol/blob/master/src/3001-3100/3048.poti)
   - [x] [3056](https://www.urionlinejudge.com.br/judge/pt/problems/view/3056) - [Ponto do meio](https://github.com/potigol/URI-Potigol/blob/master/src/3001-3100/3056.poti)
   - [x] [3059](https://www.urionlinejudge.com.br/judge/pt/problems/view/3059) - [Pares de números](https://github.com/potigol/URI-Potigol/blob/master/src/3001-3100/3059.poti)
+  - [x] [3060](https://www.urionlinejudge.com.br/judge/pt/problems/view/3060) - [Parcelamento sem juros](https://github.com/potigol/URI-Potigol/blob/master/src/3001-3100/3060.poti)

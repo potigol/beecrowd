@@ -1,0 +1,8 @@
+var entrada := leia_inteiros(" ")
+enquanto entrada[1] > 0 faca
+  alice, beatriz = leia_inteiros(" ").divida_quando(_ <> _).mapeie(x => x.cabeca)
+  a, b = alice.tamanho, beatriz.tamanho
+  iguais = a - (alice._lista.diff(beatriz._lista).length)
+  escreva se a < b entao a - iguais senao b - iguais fim
+  entrada := leia_inteiros(" ")
+fim
