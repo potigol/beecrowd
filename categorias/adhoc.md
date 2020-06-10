@@ -1,4 +1,4 @@
-# Ad-Hoc (85 / 692)
+# Ad-Hoc (86 / 692)
 
 ## Problemas não resolvidos
   - [ ] [1030](https://www.urionlinejudge.com.br/judge/pt/problems/view/1030) - A Lenda de Flavious Josephus
@@ -598,7 +598,6 @@
   - [ ] [3034](https://www.urionlinejudge.com.br/judge/pt/problems/view/3034) - O Caso Douglas
   - [ ] [3035](https://www.urionlinejudge.com.br/judge/pt/problems/view/3035) - Fabrica de Peças
   - [ ] [3041](https://www.urionlinejudge.com.br/judge/pt/problems/view/3041) - Distribuição de Artigos
-  - [ ] [3050](https://www.urionlinejudge.com.br/judge/pt/problems/view/3050) - Distância entre amigos
   - [ ] [3052](https://www.urionlinejudge.com.br/judge/pt/problems/view/3052) - Chuva
   - [ ] [3054](https://www.urionlinejudge.com.br/judge/pt/problems/view/3054) - Matriz super-legal
   - [ ] [3057](https://www.urionlinejudge.com.br/judge/pt/problems/view/3057) - Detetive
@@ -691,6 +690,7 @@
   - [x] [3005](https://www.urionlinejudge.com.br/judge/pt/problems/view/3005) - [Pilhas de paralelepípedos](https://github.com/potigol/URI-Potigol/blob/master/src/3001-3100/3005.poti)
   - [x] [3024](https://www.urionlinejudge.com.br/judge/pt/problems/view/3024) - [Mountain Ranges](https://github.com/potigol/URI-Potigol/blob/master/src/3001-3100/3024.poti)
   - [x] [3048](https://www.urionlinejudge.com.br/judge/pt/problems/view/3048) - [Sequência Secreta](https://github.com/potigol/URI-Potigol/blob/master/src/3001-3100/3048.poti)
+  - [x] [3050](https://www.urionlinejudge.com.br/judge/pt/problems/view/3050) - [Distância entre amigos](https://github.com/potigol/URI-Potigol/blob/master/src/3001-3100/3050.poti)
   - [x] [3056](https://www.urionlinejudge.com.br/judge/pt/problems/view/3056) - [Ponto do meio](https://github.com/potigol/URI-Potigol/blob/master/src/3001-3100/3056.poti)
   - [x] [3059](https://www.urionlinejudge.com.br/judge/pt/problems/view/3059) - [Pares de números](https://github.com/potigol/URI-Potigol/blob/master/src/3001-3100/3059.poti)
   - [x] [3060](https://www.urionlinejudge.com.br/judge/pt/problems/view/3060) - [Parcelamento sem juros](https://github.com/potigol/URI-Potigol/blob/master/src/3001-3100/3060.poti)

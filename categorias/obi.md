@@ -8,7 +8,7 @@
   - [x] [3047](https://www.urionlinejudge.com.br/judge/pt/problems/view/3047) - [A idade de Dona Mônica](https://github.com/potigol/URI-Potigol/blob/master/src/3001-3100/3047.poti) *Iniciante*
   - [x] [3048](https://www.urionlinejudge.com.br/judge/pt/problems/view/3048) - [Sequência Secreta](https://github.com/potigol/URI-Potigol/blob/master/src/3001-3100/3048.poti) *Ad-Hoc*
   - [x] [3049](https://www.urionlinejudge.com.br/judge/pt/problems/view/3049) - [Nota Cortada](https://github.com/potigol/URI-Potigol/blob/master/src/3001-3100/3049.poti) *Matemática*
-  - [ ] [3050](https://www.urionlinejudge.com.br/judge/pt/problems/view/3050) - Distância entre amigos *Ad-Hoc*
+  - [x] [3050](https://www.urionlinejudge.com.br/judge/pt/problems/view/3050) - [Distância entre amigos](https://github.com/potigol/URI-Potigol/blob/master/src/3001-3100/3050.poti) *Ad-Hoc*
   - [ ] [3051](https://www.urionlinejudge.com.br/judge/pt/problems/view/3051) - Soma *Paradigmas*
   - [ ] [3052](https://www.urionlinejudge.com.br/judge/pt/problems/view/3052) - Chuva *Ad-Hoc*
   - [x] [3053](https://www.urionlinejudge.com.br/judge/pt/problems/view/3053) - [Jogo dos copos](https://github.com/potigol/URI-Potigol/blob/master/src/3001-3100/3053.poti) *Iniciante*
