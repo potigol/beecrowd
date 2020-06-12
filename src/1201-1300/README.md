@@ -58,7 +58,7 @@
   - [ ] [1256](https://www.urionlinejudge.com.br/judge/pt/problems/view/1256) - Tabelas Hash *Estruturas e Bibliotecas*
   - [x] [1257](https://www.urionlinejudge.com.br/judge/pt/problems/view/1257) - [Array Hash](https://github.com/potigol/URI-Potigol/blob/master/src/1201-1300/1257.poti) *Strings*
   - [ ] [1258](https://www.urionlinejudge.com.br/judge/pt/problems/view/1258) - Camisetas *Estruturas e Bibliotecas*
-  - [ ] [1259](https://www.urionlinejudge.com.br/judge/pt/problems/view/1259) - Pares e Ímpares *Estruturas e Bibliotecas*
+  - [x] [1259](https://www.urionlinejudge.com.br/judge/pt/problems/view/1259) - [Pares e Ímpares](https://github.com/potigol/URI-Potigol/blob/master/src/1201-1300/1259.poti) *Estruturas e Bibliotecas*
   - [ ] [1260](https://www.urionlinejudge.com.br/judge/pt/problems/view/1260) - Espécies de Madeira *Estruturas e Bibliotecas*
   - [ ] [1261](https://www.urionlinejudge.com.br/judge/pt/problems/view/1261) - Pontos de Feno *Estruturas e Bibliotecas*
   - [x] [1262](https://www.urionlinejudge.com.br/judge/pt/problems/view/1262) - [Leitura Múltipla](https://github.com/potigol/URI-Potigol/blob/master/src/1201-1300/1262.poti) *Strings*

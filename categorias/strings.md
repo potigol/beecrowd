@@ -1,4 +1,4 @@
-# Strings (25 / 129)
+# Strings (26 / 129)
 
 ## Problemas não resolvidos
   - [ ] [1120](https://www.urionlinejudge.com.br/judge/pt/problems/view/1120) - Revisão de Contrato
@@ -67,7 +67,6 @@
   - [ ] [2035](https://www.urionlinejudge.com.br/judge/pt/problems/view/2035) - Projetando Camisetas
   - [ ] [2049](https://www.urionlinejudge.com.br/judge/pt/problems/view/2049) - Números de Ahmoc
   - [ ] [2055](https://www.urionlinejudge.com.br/judge/pt/problems/view/2055) - Lisp é Melhor que Java, C e C++
-  - [ ] [2062](https://www.urionlinejudge.com.br/judge/pt/problems/view/2062) - OBI URI
   - [ ] [2087](https://www.urionlinejudge.com.br/judge/pt/problems/view/2087) - Conjuntos Bons e Ruins
   - [ ] [2093](https://www.urionlinejudge.com.br/judge/pt/problems/view/2093) - Fuja para Escapar
   - [ ] [2097](https://www.urionlinejudge.com.br/judge/pt/problems/view/2097) - Nome para Número
@@ -119,6 +118,7 @@
   - [x] [1581](https://www.urionlinejudge.com.br/judge/pt/problems/view/1581) - [Conversa Internacional](https://github.com/potigol/URI-Potigol/blob/master/src/1501-1600/1581.poti)
   - [x] [1632](https://www.urionlinejudge.com.br/judge/pt/problems/view/1632) - [Variações](https://github.com/potigol/URI-Potigol/blob/master/src/1601-1700/1632.poti)
   - [x] [1871](https://www.urionlinejudge.com.br/judge/pt/problems/view/1871) - [Zero vale Zero](https://github.com/potigol/URI-Potigol/blob/master/src/1801-1900/1871.poti)
+  - [x] [2062](https://www.urionlinejudge.com.br/judge/pt/problems/view/2062) - [OBI URI](https://github.com/potigol/URI-Potigol/blob/master/src/2001-2100/2062.poti)
   - [x] [2157](https://www.urionlinejudge.com.br/judge/pt/problems/view/2157) - [Sequência Espelho](https://github.com/potigol/URI-Potigol/blob/master/src/2101-2200/2157.poti)
   - [x] [2174](https://www.urionlinejudge.com.br/judge/pt/problems/view/2174) - [Coleção de Pomekon](https://github.com/potigol/URI-Potigol/blob/master/src/2101-2200/2174.poti)
   - [x] [2242](https://www.urionlinejudge.com.br/judge/pt/problems/view/2242) - [Huaauhahhuahau](https://github.com/potigol/URI-Potigol/blob/master/src/2201-2300/2242.poti)
