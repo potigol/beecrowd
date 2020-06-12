@@ -19,7 +19,7 @@
   - [x] [1117](https://www.urionlinejudge.com.br/judge/pt/problems/view/1117) - [Validação de Nota](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1117.poti) *Iniciante*
   - [x] [1118](https://www.urionlinejudge.com.br/judge/pt/problems/view/1118) - [Várias Notas Com Validação](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1118.poti) *Iniciante*
   - [ ] [1119](https://www.urionlinejudge.com.br/judge/pt/problems/view/1119) - A Fila de Desempregados *Estruturas e Bibliotecas*
-  - [ ] [1120](https://www.urionlinejudge.com.br/judge/pt/problems/view/1120) - Revisão de Contrato *Strings*
+  - [x] [1120](https://www.urionlinejudge.com.br/judge/pt/problems/view/1120) - [Revisão de Contrato](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1120.poti) *Strings*
   - [ ] [1121](https://www.urionlinejudge.com.br/judge/pt/problems/view/1121) - Robô Colecionador *Ad-Hoc*
   - [ ] [1122](https://www.urionlinejudge.com.br/judge/pt/problems/view/1122) - Livro-Caixa *Ad-Hoc*
   - [ ] [1123](https://www.urionlinejudge.com.br/judge/pt/problems/view/1123) - Desvio de Rota *Grafos*

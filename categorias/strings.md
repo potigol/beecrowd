@@ -1,10 +1,8 @@
-# Strings (26 / 129)
+# Strings (28 / 129)
 
 ## Problemas não resolvidos
-  - [ ] [1120](https://www.urionlinejudge.com.br/judge/pt/problems/view/1120) - Revisão de Contrato
   - [ ] [1141](https://www.urionlinejudge.com.br/judge/pt/problems/view/1141) - Cultivando Strings
   - [ ] [1222](https://www.urionlinejudge.com.br/judge/pt/problems/view/1222) - Concurso de Contos
-  - [ ] [1235](https://www.urionlinejudge.com.br/judge/pt/problems/view/1235) - De Dentro para Fora
   - [ ] [1237](https://www.urionlinejudge.com.br/judge/pt/problems/view/1237) - Comparação de Substring
   - [ ] [1239](https://www.urionlinejudge.com.br/judge/pt/problems/view/1239) - Atalhos Bloggo
   - [ ] [1243](https://www.urionlinejudge.com.br/judge/pt/problems/view/1243) - O Quão Fácil é...
@@ -106,8 +104,10 @@
   - [ ] [3083](https://www.urionlinejudge.com.br/judge/pt/problems/view/3083) - Emreh, Liug E As Strings
 ## Problemas resolvidos
   - [x] [1024](https://www.urionlinejudge.com.br/judge/pt/problems/view/1024) - [Criptografia](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1024.poti)
+  - [x] [1120](https://www.urionlinejudge.com.br/judge/pt/problems/view/1120) - [Revisão de Contrato](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1120.poti)
   - [x] [1168](https://www.urionlinejudge.com.br/judge/pt/problems/view/1168) - [LED](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1168.poti)
   - [x] [1234](https://www.urionlinejudge.com.br/judge/pt/problems/view/1234) - [Sentença Dançante](https://github.com/potigol/URI-Potigol/blob/master/src/1201-1300/1234.poti)
+  - [x] [1235](https://www.urionlinejudge.com.br/judge/pt/problems/view/1235) - [De Dentro para Fora](https://github.com/potigol/URI-Potigol/blob/master/src/1201-1300/1235.poti)
   - [x] [1238](https://www.urionlinejudge.com.br/judge/pt/problems/view/1238) - [Combinador](https://github.com/potigol/URI-Potigol/blob/master/src/1201-1300/1238.poti)
   - [x] [1241](https://www.urionlinejudge.com.br/judge/pt/problems/view/1241) - [Encaixa ou Não II](https://github.com/potigol/URI-Potigol/blob/master/src/1201-1300/1241.poti)
   - [x] [1253](https://www.urionlinejudge.com.br/judge/pt/problems/view/1253) - [Cifra de César](https://github.com/potigol/URI-Potigol/blob/master/src/1201-1300/1253.poti)

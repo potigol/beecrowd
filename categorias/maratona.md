@@ -324,7 +324,7 @@
 
 ### 1ª Fase
 
-  - [ ] [1120](https://www.urionlinejudge.com.br/judge/pt/problems/view/1120) - Revisão de Contrato *Strings*
+  - [x] [1120](https://www.urionlinejudge.com.br/judge/pt/problems/view/1120) - [Revisão de Contrato](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1120.poti) *Strings*
   - [ ] [1121](https://www.urionlinejudge.com.br/judge/pt/problems/view/1121) - Robô Colecionador *Ad-Hoc*
   - [ ] [1122](https://www.urionlinejudge.com.br/judge/pt/problems/view/1122) - Livro-Caixa *Ad-Hoc*
   - [ ] [1123](https://www.urionlinejudge.com.br/judge/pt/problems/view/1123) - Desvio de Rota *Grafos*
