@@ -34,7 +34,7 @@
   - [ ] [2744](https://www.urionlinejudge.com.br/judge/pt/problems/view/2744) - Senhas
   - [ ] [2745](https://www.urionlinejudge.com.br/judge/pt/problems/view/2745) - Taxas
   - [ ] [2746](https://www.urionlinejudge.com.br/judge/pt/problems/view/2746) - Virus
-  - [ ] [2988](https://www.urionlinejudge.com.br/judge/pt/problems/view/2988) - Campeonato Cearense 
+  - [ ] [2988](https://www.urionlinejudge.com.br/judge/pt/problems/view/2988) - Campeonato Cearense
   - [ ] [2989](https://www.urionlinejudge.com.br/judge/pt/problems/view/2989) - Departamentos e Divisões
   - [ ] [2990](https://www.urionlinejudge.com.br/judge/pt/problems/view/2990) - CPF dos empregados
   - [ ] [2991](https://www.urionlinejudge.com.br/judge/pt/problems/view/2991) - Estatísticas dos Departamentos

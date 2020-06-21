@@ -53,7 +53,7 @@
   - [x] [2551](https://www.urionlinejudge.com.br/judge/pt/problems/view/2551) - [Novo Recorde](https://github.com/potigol/URI-Potigol/blob/master/src/2501-2600/2551.poti) *Iniciante*
   - [x] [2552](https://www.urionlinejudge.com.br/judge/pt/problems/view/2552) - [PãodeQuejoSweeper](https://github.com/potigol/URI-Potigol/blob/master/src/2501-2600/2552.poti) *Iniciante*
   - [ ] [2553](https://www.urionlinejudge.com.br/judge/pt/problems/view/2553) - Passeio em FdI *Paradigmas*
-  - [ ] [2554](https://www.urionlinejudge.com.br/judge/pt/problems/view/2554) - Pizza Antes de BH *Iniciante*
+  - [x] [2554](https://www.urionlinejudge.com.br/judge/pt/problems/view/2554) - [Pizza Antes de BH](https://github.com/potigol/URI-Potigol/blob/master/src/2501-2600/2554.poti) *Iniciante*
   - [ ] [2555](https://www.urionlinejudge.com.br/judge/pt/problems/view/2555) - Quiz Universitário *Paradigmas*
   - [ ] [2556](https://www.urionlinejudge.com.br/judge/pt/problems/view/2556) - Reinauguração do CEI *Ad-Hoc*
   - [x] [2557](https://www.urionlinejudge.com.br/judge/pt/problems/view/2557) - [R+L=J](https://github.com/potigol/URI-Potigol/blob/master/src/2501-2600/2557.poti) *Strings*

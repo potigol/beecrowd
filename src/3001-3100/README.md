@@ -73,7 +73,7 @@
   - [ ] [3071](https://www.urionlinejudge.com.br/judge/pt/problems/view/3071) - Melhor Ranking *Ad-Hoc*
   - [ ] [3072](https://www.urionlinejudge.com.br/judge/pt/problems/view/3072) - Namoro *Grafos*
   - [ ] [3073](https://www.urionlinejudge.com.br/judge/pt/problems/view/3073) - Vetores *Paradigmas*
-  - [ ] [3074](https://www.urionlinejudge.com.br/judge/pt/problems/view/3074) - Consultas em uma array  *Ad-Hoc*
+  - [ ] [3074](https://www.urionlinejudge.com.br/judge/pt/problems/view/3074) - Consultas em uma array *Ad-Hoc*
   - [ ] [3075](https://www.urionlinejudge.com.br/judge/pt/problems/view/3075) - Cassinos e Viagem *Grafos*
   - [x] [3076](https://www.urionlinejudge.com.br/judge/pt/problems/view/3076) - [Exercício de História](https://github.com/potigol/URI-Potigol/blob/master/src/3001-3100/3076.poti) *Iniciante*
   - [ ] [3077](https://www.urionlinejudge.com.br/judge/pt/problems/view/3077) - Distribuindo Pequis *Ad-Hoc*

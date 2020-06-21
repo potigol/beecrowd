@@ -1964,7 +1964,7 @@
 2985	Tobias Contra o Relógio	Ad-Hoc
 2986	Nem Tudo é Greve Versão Hard	Matemática
 2987	Balão de Honra	Iniciante
-2988	Campeonato Cearense 	SQL
+2988	Campeonato Cearense	SQL
 2989	Departamentos e Divisões	SQL
 2990	CPF dos empregados	SQL
 2991	Estatísticas dos Departamentos	SQL
@@ -2049,7 +2049,7 @@
 3071	Melhor Ranking	Ad-Hoc
 3072	Namoro	Grafos
 3073	Vetores	Paradigmas
-3074	Consultas em uma array 	Ad-Hoc
+3074	Consultas em uma array	Ad-Hoc
 3075	Cassinos e Viagem	Grafos
 3076	Exercício de História	Iniciante
 3077	Distribuindo Pequis	Ad-Hoc

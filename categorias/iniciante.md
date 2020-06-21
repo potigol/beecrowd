@@ -1,7 +1,6 @@
-# Iniciante (275 / 308)
+# Iniciante (276 / 308)
 
 ## Problemas não resolvidos
-  - [ ] [2554](https://www.urionlinejudge.com.br/judge/pt/problems/view/2554) - Pizza Antes de BH
   - [ ] [2632](https://www.urionlinejudge.com.br/judge/pt/problems/view/2632) - Magic and Sword
   - [ ] [2635](https://www.urionlinejudge.com.br/judge/pt/problems/view/2635) - Navegador Web
   - [ ] [2646](https://www.urionlinejudge.com.br/judge/pt/problems/view/2646) - Secret Chamber at Mount Rushmore
@@ -230,6 +229,7 @@
   - [x] [2547](https://www.urionlinejudge.com.br/judge/pt/problems/view/2547) - [Montanha-Russa](https://github.com/potigol/URI-Potigol/blob/master/src/2501-2600/2547.poti)
   - [x] [2551](https://www.urionlinejudge.com.br/judge/pt/problems/view/2551) - [Novo Recorde](https://github.com/potigol/URI-Potigol/blob/master/src/2501-2600/2551.poti)
   - [x] [2552](https://www.urionlinejudge.com.br/judge/pt/problems/view/2552) - [PãodeQuejoSweeper](https://github.com/potigol/URI-Potigol/blob/master/src/2501-2600/2552.poti)
+  - [x] [2554](https://www.urionlinejudge.com.br/judge/pt/problems/view/2554) - [Pizza Antes de BH](https://github.com/potigol/URI-Potigol/blob/master/src/2501-2600/2554.poti)
   - [x] [2581](https://www.urionlinejudge.com.br/judge/pt/problems/view/2581) - [I am Toorg!](https://github.com/potigol/URI-Potigol/blob/master/src/2501-2600/2581.poti)
   - [x] [2582](https://www.urionlinejudge.com.br/judge/pt/problems/view/2582) - [System of a Download](https://github.com/potigol/URI-Potigol/blob/master/src/2501-2600/2582.poti)
   - [x] [2626](https://www.urionlinejudge.com.br/judge/pt/problems/view/2626) - [Turma do JB6](https://github.com/potigol/URI-Potigol/blob/master/src/2601-2700/2626.poti)

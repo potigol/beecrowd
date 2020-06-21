@@ -71,7 +71,7 @@
   - [ ] [1269](https://www.urionlinejudge.com.br/judge/pt/problems/view/1269) - ICPC Ataca Novamente *Paradigmas*
   - [ ] [1270](https://www.urionlinejudge.com.br/judge/pt/problems/view/1270) - Fibra Óptica *Grafos*
   - [ ] [1271](https://www.urionlinejudge.com.br/judge/pt/problems/view/1271) - Onde estão meus Genes *Ad-Hoc*
-  - [ ] [1272](https://www.urionlinejudge.com.br/judge/pt/problems/view/1272) - Mensagem Oculta *Strings*
+  - [x] [1272](https://www.urionlinejudge.com.br/judge/pt/problems/view/1272) - [Mensagem Oculta](https://github.com/potigol/URI-Potigol/blob/master/src/1201-1300/1272.poti) *Strings*
   - [ ] [1273](https://www.urionlinejudge.com.br/judge/pt/problems/view/1273) - Justificador *Strings*
   - [ ] [1274](https://www.urionlinejudge.com.br/judge/pt/problems/view/1274) - P-Networks *Estruturas e Bibliotecas*
   - [ ] [1275](https://www.urionlinejudge.com.br/judge/pt/problems/view/1275) - Light Up *Grafos*

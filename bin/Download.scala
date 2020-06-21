@@ -11,8 +11,8 @@ object Download extends App {
     val c = for (b <- a if b(1).startsWith("<td class")) yield {
       Problem(
         b(2).drop(33).take(4).toInt,
-        b(6).drop(39).takeWhile(_ != '<'),
-        b(8).drop(37).takeWhile(_ != '<'))
+        b(6).drop(39).takeWhile(_ != '<').trim,
+        b(8).drop(37).takeWhile(_ != '<').trim)
     }
     c
   }
