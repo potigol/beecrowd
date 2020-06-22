@@ -1,0 +1,9 @@
+n = leia_inteiro
+para i de 1 ate n faca
+  leia_inteiro
+  nums = leia_inteiros(" ").selecione(a => a mod 2 == 1).ordene.inverta
+  resp = para j de 2 ate nums.tamanho + 1, k em [se j mod 2 == 0 entao 1 senao -1 fim] gere
+    nums[k * j div 2]
+  fim.junte(" ")
+  escreva resp
+fim

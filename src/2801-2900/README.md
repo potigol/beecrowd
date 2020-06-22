@@ -11,7 +11,7 @@
   - [ ] [2809](https://www.urionlinejudge.com.br/judge/pt/problems/view/2809) - K-ésimo Caminho *Grafos*
   - [ ] [2810](https://www.urionlinejudge.com.br/judge/pt/problems/view/2810) - Combate à Dengue 2.0 *Grafos*
   - [ ] [2811](https://www.urionlinejudge.com.br/judge/pt/problems/view/2811) - Sibi-Xor *Paradigmas*
-  - [ ] [2812](https://www.urionlinejudge.com.br/judge/pt/problems/view/2812) - Laércio *Iniciante*
+  - [x] [2812](https://www.urionlinejudge.com.br/judge/pt/problems/view/2812) - [Laércio](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2812.poti) *Iniciante*
   - [x] [2813](https://www.urionlinejudge.com.br/judge/pt/problems/view/2813) - [Evitando Chuva](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2813.poti) *Iniciante*
   - [ ] [2814](https://www.urionlinejudge.com.br/judge/pt/problems/view/2814) - Música Alta *Ad-Hoc*
   - [x] [2815](https://www.urionlinejudge.com.br/judge/pt/problems/view/2815) - [Digitador Gago](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2815.poti) *Strings*

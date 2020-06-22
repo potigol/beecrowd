@@ -1,4 +1,4 @@
-# Iniciante (276 / 308)
+# Iniciante (277 / 308)
 
 ## Problemas não resolvidos
   - [ ] [2632](https://www.urionlinejudge.com.br/judge/pt/problems/view/2632) - Magic and Sword
@@ -18,7 +18,6 @@
   - [ ] [2781](https://www.urionlinejudge.com.br/judge/pt/problems/view/2781) - Câmara de Compensação
   - [ ] [2784](https://www.urionlinejudge.com.br/judge/pt/problems/view/2784) - Ilhas
   - [ ] [2785](https://www.urionlinejudge.com.br/judge/pt/problems/view/2785) - Pirâmide
-  - [ ] [2812](https://www.urionlinejudge.com.br/judge/pt/problems/view/2812) - Laércio
   - [ ] [2823](https://www.urionlinejudge.com.br/judge/pt/problems/view/2823) - Eearliest Deadline First
   - [ ] [2852](https://www.urionlinejudge.com.br/judge/pt/problems/view/2852) - Troca de Mensagens
   - [ ] [2952](https://www.urionlinejudge.com.br/judge/pt/problems/view/2952) - A Vida Sustentável
@@ -276,6 +275,7 @@
   - [x] [2802](https://www.urionlinejudge.com.br/judge/pt/problems/view/2802) - [Dividindo Círculos](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2802.poti)
   - [x] [2807](https://www.urionlinejudge.com.br/judge/pt/problems/view/2807) - [Iccanobif](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2807.poti)
   - [x] [2808](https://www.urionlinejudge.com.br/judge/pt/problems/view/2808) - [Mais Cavalos](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2808.poti)
+  - [x] [2812](https://www.urionlinejudge.com.br/judge/pt/problems/view/2812) - [Laércio](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2812.poti)
   - [x] [2813](https://www.urionlinejudge.com.br/judge/pt/problems/view/2813) - [Evitando Chuva](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2813.poti)
   - [x] [2826](https://www.urionlinejudge.com.br/judge/pt/problems/view/2826) - [Léxico](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2826.poti)
   - [x] [2845](https://www.urionlinejudge.com.br/judge/pt/problems/view/2845) - [Festa no Polo Norte](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2845.poti)
