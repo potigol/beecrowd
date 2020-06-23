@@ -16,8 +16,8 @@ object Download extends App {
     }
     c
   }
-  val all = for (i <- 1 to 21) yield {
-    println(22-i)
+  val all = for (i <- 1 to 22) yield {
+    println(23-i)
     get(i)
   }
   import java.io.PrintWriter

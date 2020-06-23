@@ -2066,3 +2066,29 @@
 3088	Correção de Texto	Iniciante
 3089	Presentes de Natal	Iniciante
 3090	Campo de Batalha	Iniciante
+3091	Resto 1.0	Iniciante
+3092	Truco da Galera 2.0	Iniciante
+3093	Truco da Galera 1.0	Iniciante
+3094	Truco da Galera 3.0	Iniciante
+3095	Pudim dos Guerreiros	Iniciante
+3096	Overflow	Iniciante
+3097	Um Desafio Simples	Iniciante
+3098	Plíndromo	Iniciante
+3099	O Problema do 7 x 1	Iniciante
+3100	Os Dígitos da Sorte	Iniciante
+3101	Famílias Poligâmicas	Iniciante
+3102	Kikoho	Iniciante
+3103	Número da Sorte	Iniciante
+3104	Resto 2.0	Iniciante
+3105	Dobrando Papel	Ad-Hoc
+3106	Competição de Códigos	Ad-Hoc
+3107	Pulo do Sapo	Ad-Hoc
+3108	Arremesse os BigOs!	Geometria Computacional
+3109	Trocando de Mesa	Ad-Hoc
+3110	Farcos e o Xorshift	Matemática
+3111	A Vitória de Jim	Ad-Hoc
+3112	Decodificação Ambígua	Ad-Hoc
+3113	Cadeado Insano	Ad-Hoc
+3114	Parkour	Paradigmas
+3115	Estradas	Ad-Hoc
+3116	Seguidores Impossíveis	Paradigmas

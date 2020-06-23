@@ -1,4 +1,4 @@
-# Ad-Hoc (86 / 692)
+# Ad-Hoc (86 / 700)
 
 ## Problemas não resolvidos
   - [ ] [1030](https://www.urionlinejudge.com.br/judge/pt/problems/view/1030) - A Lenda de Flavious Josephus
@@ -607,6 +607,14 @@
   - [ ] [3071](https://www.urionlinejudge.com.br/judge/pt/problems/view/3071) - Melhor Ranking
   - [ ] [3074](https://www.urionlinejudge.com.br/judge/pt/problems/view/3074) - Consultas em uma array
   - [ ] [3077](https://www.urionlinejudge.com.br/judge/pt/problems/view/3077) - Distribuindo Pequis
+  - [ ] [3105](https://www.urionlinejudge.com.br/judge/pt/problems/view/3105) - Dobrando Papel
+  - [ ] [3106](https://www.urionlinejudge.com.br/judge/pt/problems/view/3106) - Competição de Códigos
+  - [ ] [3107](https://www.urionlinejudge.com.br/judge/pt/problems/view/3107) - Pulo do Sapo
+  - [ ] [3109](https://www.urionlinejudge.com.br/judge/pt/problems/view/3109) - Trocando de Mesa
+  - [ ] [3111](https://www.urionlinejudge.com.br/judge/pt/problems/view/3111) - A Vitória de Jim
+  - [ ] [3112](https://www.urionlinejudge.com.br/judge/pt/problems/view/3112) - Decodificação Ambígua
+  - [ ] [3113](https://www.urionlinejudge.com.br/judge/pt/problems/view/3113) - Cadeado Insano
+  - [ ] [3115](https://www.urionlinejudge.com.br/judge/pt/problems/view/3115) - Estradas
 ## Problemas resolvidos
   - [x] [1026](https://www.urionlinejudge.com.br/judge/pt/problems/view/1026) - [Carrega ou não Carrega?](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1026.poti)
   - [x] [1087](https://www.urionlinejudge.com.br/judge/pt/problems/view/1087) - [Dama](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1087.poti)

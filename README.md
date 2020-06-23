@@ -1,5 +1,5 @@
 # URI-Potigol
-[![Soluções](https://img.shields.io/badge/Problemas%20Resolvidos-434-blue)](https://github.com/potigol/URI-Potigol/commits/master)
+[![Soluções](https://img.shields.io/badge/Problemas%20Resolvidos-437-blue)](https://github.com/potigol/URI-Potigol/commits/master)
 
 Soluções dos problemas do [URI Online Judge](https://www.urionlinejudge.com.br/judge/pt/problems/all) usando a linguagem [Potigol](https://potigol.github.io)
 
@@ -44,7 +44,8 @@ Soluções dos problemas do [URI Online Judge](https://www.urionlinejudge.com.br
 [2701 ...](src/2701-2800) |
 [2801 ...](src/2801-2900) |
 [2901 ...](src/2901-3000) |
-[3001 ...](src/3001-3100)
+[3001 ...](src/3001-3100) |
+[3101 ...](src/3101-3200)
 
 ## Quer ajudar?
 

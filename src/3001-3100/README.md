@@ -90,13 +90,13 @@
   - [x] [3088](https://www.urionlinejudge.com.br/judge/pt/problems/view/3088) - [Correção de Texto](https://github.com/potigol/URI-Potigol/blob/master/src/3001-3100/3088.poti) *Iniciante*
   - [x] [3089](https://www.urionlinejudge.com.br/judge/pt/problems/view/3089) - [Presentes de Natal](https://github.com/potigol/URI-Potigol/blob/master/src/3001-3100/3089.poti) *Iniciante*
   - [ ] [3090](https://www.urionlinejudge.com.br/judge/pt/problems/view/3090) - Campo de Batalha *Iniciante*
-  - [ ] ~~3091~~
-  - [ ] ~~3092~~
-  - [ ] ~~3093~~
-  - [ ] ~~3094~~
-  - [ ] ~~3095~~
-  - [ ] ~~3096~~
-  - [ ] ~~3097~~
-  - [ ] ~~3098~~
-  - [ ] ~~3099~~
-  - [ ] ~~3100~~
+  - [x] [3091](https://www.urionlinejudge.com.br/judge/pt/problems/view/3091) - [Resto 1.0](https://github.com/potigol/URI-Potigol/blob/master/src/3001-3100/3091.poti) *Iniciante*
+  - [ ] [3092](https://www.urionlinejudge.com.br/judge/pt/problems/view/3092) - Truco da Galera 2.0 *Iniciante*
+  - [ ] [3093](https://www.urionlinejudge.com.br/judge/pt/problems/view/3093) - Truco da Galera 1.0 *Iniciante*
+  - [ ] [3094](https://www.urionlinejudge.com.br/judge/pt/problems/view/3094) - Truco da Galera 3.0 *Iniciante*
+  - [ ] [3095](https://www.urionlinejudge.com.br/judge/pt/problems/view/3095) - Pudim dos Guerreiros *Iniciante*
+  - [ ] [3096](https://www.urionlinejudge.com.br/judge/pt/problems/view/3096) - Overflow *Iniciante*
+  - [ ] [3097](https://www.urionlinejudge.com.br/judge/pt/problems/view/3097) - Um Desafio Simples *Iniciante*
+  - [ ] [3098](https://www.urionlinejudge.com.br/judge/pt/problems/view/3098) - Plíndromo *Iniciante*
+  - [ ] [3099](https://www.urionlinejudge.com.br/judge/pt/problems/view/3099) - O Problema do 7 x 1 *Iniciante*
+  - [ ] [3100](https://www.urionlinejudge.com.br/judge/pt/problems/view/3100) - Os Dígitos da Sorte *Iniciante*
