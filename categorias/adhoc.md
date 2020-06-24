@@ -1,4 +1,4 @@
-# Ad-Hoc (86 / 700)
+# Ad-Hoc (88 / 700)
 
 ## Problemas não resolvidos
   - [ ] [1030](https://www.urionlinejudge.com.br/judge/pt/problems/view/1030) - A Lenda de Flavious Josephus
@@ -608,9 +608,7 @@
   - [ ] [3074](https://www.urionlinejudge.com.br/judge/pt/problems/view/3074) - Consultas em uma array
   - [ ] [3077](https://www.urionlinejudge.com.br/judge/pt/problems/view/3077) - Distribuindo Pequis
   - [ ] [3105](https://www.urionlinejudge.com.br/judge/pt/problems/view/3105) - Dobrando Papel
-  - [ ] [3106](https://www.urionlinejudge.com.br/judge/pt/problems/view/3106) - Competição de Códigos
   - [ ] [3107](https://www.urionlinejudge.com.br/judge/pt/problems/view/3107) - Pulo do Sapo
-  - [ ] [3109](https://www.urionlinejudge.com.br/judge/pt/problems/view/3109) - Trocando de Mesa
   - [ ] [3111](https://www.urionlinejudge.com.br/judge/pt/problems/view/3111) - A Vitória de Jim
   - [ ] [3112](https://www.urionlinejudge.com.br/judge/pt/problems/view/3112) - Decodificação Ambígua
   - [ ] [3113](https://www.urionlinejudge.com.br/judge/pt/problems/view/3113) - Cadeado Insano
@@ -702,3 +700,5 @@
   - [x] [3056](https://www.urionlinejudge.com.br/judge/pt/problems/view/3056) - [Ponto do meio](https://github.com/potigol/URI-Potigol/blob/master/src/3001-3100/3056.poti)
   - [x] [3059](https://www.urionlinejudge.com.br/judge/pt/problems/view/3059) - [Pares de números](https://github.com/potigol/URI-Potigol/blob/master/src/3001-3100/3059.poti)
   - [x] [3060](https://www.urionlinejudge.com.br/judge/pt/problems/view/3060) - [Parcelamento sem juros](https://github.com/potigol/URI-Potigol/blob/master/src/3001-3100/3060.poti)
+  - [x] [3106](https://www.urionlinejudge.com.br/judge/pt/problems/view/3106) - [Competição de Códigos](https://github.com/potigol/URI-Potigol/blob/master/src/3101-3200/3106.poti)
+  - [x] [3109](https://www.urionlinejudge.com.br/judge/pt/problems/view/3109) - [Trocando de Mesa](https://github.com/potigol/URI-Potigol/blob/master/src/3101-3200/3109.poti)

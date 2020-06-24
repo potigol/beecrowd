@@ -5,10 +5,10 @@
   - [ ] [3103](https://www.urionlinejudge.com.br/judge/pt/problems/view/3103) - Número da Sorte *Iniciante*
   - [ ] [3104](https://www.urionlinejudge.com.br/judge/pt/problems/view/3104) - Resto 2.0 *Iniciante*
   - [ ] [3105](https://www.urionlinejudge.com.br/judge/pt/problems/view/3105) - Dobrando Papel *Ad-Hoc*
-  - [ ] [3106](https://www.urionlinejudge.com.br/judge/pt/problems/view/3106) - Competição de Códigos *Ad-Hoc*
+  - [x] [3106](https://www.urionlinejudge.com.br/judge/pt/problems/view/3106) - [Competição de Códigos](https://github.com/potigol/URI-Potigol/blob/master/src/3101-3200/3106.poti) *Ad-Hoc*
   - [ ] [3107](https://www.urionlinejudge.com.br/judge/pt/problems/view/3107) - Pulo do Sapo *Ad-Hoc*
   - [ ] [3108](https://www.urionlinejudge.com.br/judge/pt/problems/view/3108) - Arremesse os BigOs! *Geometria Computacional*
-  - [ ] [3109](https://www.urionlinejudge.com.br/judge/pt/problems/view/3109) - Trocando de Mesa *Ad-Hoc*
+  - [x] [3109](https://www.urionlinejudge.com.br/judge/pt/problems/view/3109) - [Trocando de Mesa](https://github.com/potigol/URI-Potigol/blob/master/src/3101-3200/3109.poti) *Ad-Hoc*
   - [ ] [3110](https://www.urionlinejudge.com.br/judge/pt/problems/view/3110) - Farcos e o Xorshift *Matemática*
   - [ ] [3111](https://www.urionlinejudge.com.br/judge/pt/problems/view/3111) - A Vitória de Jim *Ad-Hoc*
   - [ ] [3112](https://www.urionlinejudge.com.br/judge/pt/problems/view/3112) - Decodificação Ambígua *Ad-Hoc*

@@ -1,0 +1,4 @@
+n = leia_inteiro
+s = leia_inteiros(" ")
+r = s.injete(0)((a, b) => a + (b div 3 * 3))
+escreva r
