@@ -1,4 +1,4 @@
-# Iniciante (278 / 322)
+# Iniciante (279 / 322)
 
 ## Problemas não resolvidos
   - [ ] [2632](https://www.urionlinejudge.com.br/judge/pt/problems/view/2632) - Magic and Sword
@@ -42,7 +42,6 @@
   - [ ] [3099](https://www.urionlinejudge.com.br/judge/pt/problems/view/3099) - O Problema do 7 x 1
   - [ ] [3100](https://www.urionlinejudge.com.br/judge/pt/problems/view/3100) - Os Dígitos da Sorte
   - [ ] [3101](https://www.urionlinejudge.com.br/judge/pt/problems/view/3101) - Famílias Poligâmicas
-  - [ ] [3102](https://www.urionlinejudge.com.br/judge/pt/problems/view/3102) - Kikoho
   - [ ] [3103](https://www.urionlinejudge.com.br/judge/pt/problems/view/3103) - Número da Sorte
   - [ ] [3104](https://www.urionlinejudge.com.br/judge/pt/problems/view/3104) - Resto 2.0
 ## Problemas resolvidos
@@ -324,3 +323,4 @@
   - [x] [3088](https://www.urionlinejudge.com.br/judge/pt/problems/view/3088) - [Correção de Texto](https://github.com/potigol/URI-Potigol/blob/master/src/3001-3100/3088.poti)
   - [x] [3089](https://www.urionlinejudge.com.br/judge/pt/problems/view/3089) - [Presentes de Natal](https://github.com/potigol/URI-Potigol/blob/master/src/3001-3100/3089.poti)
   - [x] [3091](https://www.urionlinejudge.com.br/judge/pt/problems/view/3091) - [Resto 1.0](https://github.com/potigol/URI-Potigol/blob/master/src/3001-3100/3091.poti)
+  - [x] [3102](https://www.urionlinejudge.com.br/judge/pt/problems/view/3102) - [Kikoho](https://github.com/potigol/URI-Potigol/blob/master/src/3101-3200/3102.poti)

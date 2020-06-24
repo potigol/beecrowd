@@ -1,0 +1,7 @@
+n = leia_inteiro
+para i de 1 ate n faca
+  a = leia_inteiros(" ")
+  x1, y1, x2, y2, x3, y3 = a[1], a[2], a[3], a[4], a[5], a[6]
+  area = (x1 * (y2 -y3) + x2 * (y3 - y1) + x3 * (y1 - y2)).abs / 2
+  escreva area formato "%.3f"
+fim

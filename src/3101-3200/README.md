@@ -1,7 +1,7 @@
 # Problemas 3101 a 3200
 
   - [ ] [3101](https://www.urionlinejudge.com.br/judge/pt/problems/view/3101) - Famílias Poligâmicas *Iniciante*
-  - [ ] [3102](https://www.urionlinejudge.com.br/judge/pt/problems/view/3102) - Kikoho *Iniciante*
+  - [x] [3102](https://www.urionlinejudge.com.br/judge/pt/problems/view/3102) - [Kikoho](https://github.com/potigol/URI-Potigol/blob/master/src/3101-3200/3102.poti) *Iniciante*
   - [ ] [3103](https://www.urionlinejudge.com.br/judge/pt/problems/view/3103) - Número da Sorte *Iniciante*
   - [ ] [3104](https://www.urionlinejudge.com.br/judge/pt/problems/view/3104) - Resto 2.0 *Iniciante*
   - [ ] [3105](https://www.urionlinejudge.com.br/judge/pt/problems/view/3105) - Dobrando Papel *Ad-Hoc*
