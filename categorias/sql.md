@@ -20,7 +20,7 @@
   - [ ] [2619](https://www.urionlinejudge.com.br/judge/pt/problems/view/2619) - Super Luxo
   - [ ] [2620](https://www.urionlinejudge.com.br/judge/pt/problems/view/2620) - Pedidos no Primeiro Semestre
   - [ ] [2621](https://www.urionlinejudge.com.br/judge/pt/problems/view/2621) - Quantidades Entre 10 e 20
-  - [ ] [2622](https://www.urionlinejudge.com.br/judge/pt/problems/view/2622) - Pessoas jurídicas
+  - [ ] [2622](https://www.urionlinejudge.com.br/judge/pt/problems/view/2622) - Pessoas Jurídicas
   - [ ] [2623](https://www.urionlinejudge.com.br/judge/pt/problems/view/2623) - Categorias com Vários Produtos
   - [ ] [2624](https://www.urionlinejudge.com.br/judge/pt/problems/view/2624) - Quantidades de Cidades por Clientes
   - [ ] [2625](https://www.urionlinejudge.com.br/judge/pt/problems/view/2625) - Máscara de CPF

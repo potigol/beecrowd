@@ -1,4 +1,4 @@
-# Ad-Hoc (88 / 700)
+# Ad-Hoc (88 / 711)
 
 ## Problemas não resolvidos
   - [ ] [1030](https://www.urionlinejudge.com.br/judge/pt/problems/view/1030) - A Lenda de Flavious Josephus
@@ -605,7 +605,7 @@
   - [ ] [3062](https://www.urionlinejudge.com.br/judge/pt/problems/view/3062) - Coleção de Upas
   - [ ] [3063](https://www.urionlinejudge.com.br/judge/pt/problems/view/3063) - Linhas de Ônibus
   - [ ] [3071](https://www.urionlinejudge.com.br/judge/pt/problems/view/3071) - Melhor Ranking
-  - [ ] [3074](https://www.urionlinejudge.com.br/judge/pt/problems/view/3074) - Consultas em uma array
+  - [ ] [3074](https://www.urionlinejudge.com.br/judge/pt/problems/view/3074) - Consultas em Uma Array
   - [ ] [3077](https://www.urionlinejudge.com.br/judge/pt/problems/view/3077) - Distribuindo Pequis
   - [ ] [3105](https://www.urionlinejudge.com.br/judge/pt/problems/view/3105) - Dobrando Papel
   - [ ] [3107](https://www.urionlinejudge.com.br/judge/pt/problems/view/3107) - Pulo do Sapo
@@ -613,6 +613,17 @@
   - [ ] [3112](https://www.urionlinejudge.com.br/judge/pt/problems/view/3112) - Decodificação Ambígua
   - [ ] [3113](https://www.urionlinejudge.com.br/judge/pt/problems/view/3113) - Cadeado Insano
   - [ ] [3115](https://www.urionlinejudge.com.br/judge/pt/problems/view/3115) - Estradas
+  - [ ] [3117](https://www.urionlinejudge.com.br/judge/pt/problems/view/3117) - Atrasadinhos
+  - [ ] [3118](https://www.urionlinejudge.com.br/judge/pt/problems/view/3118) - Bactérias, Suas Loucas!
+  - [ ] [3119](https://www.urionlinejudge.com.br/judge/pt/problems/view/3119) - As Aventuras do Calango Atômico
+  - [ ] [3120](https://www.urionlinejudge.com.br/judge/pt/problems/view/3120) - Jogada de Marketing
+  - [ ] [3121](https://www.urionlinejudge.com.br/judge/pt/problems/view/3121) - Acionista Por um Dia
+  - [ ] [3122](https://www.urionlinejudge.com.br/judge/pt/problems/view/3122) - Festa de Final de Ano
+  - [ ] [3123](https://www.urionlinejudge.com.br/judge/pt/problems/view/3123) - Pedras do Gênesis
+  - [ ] [3124](https://www.urionlinejudge.com.br/judge/pt/problems/view/3124) - Minha Reforma, Minha Vida
+  - [ ] [3125](https://www.urionlinejudge.com.br/judge/pt/problems/view/3125) - Princesa das Equações
+  - [ ] [3126](https://www.urionlinejudge.com.br/judge/pt/problems/view/3126) - Lista de Treinamento
+  - [ ] [3127](https://www.urionlinejudge.com.br/judge/pt/problems/view/3127) - Kampeonato de Feijão
 ## Problemas resolvidos
   - [x] [1026](https://www.urionlinejudge.com.br/judge/pt/problems/view/1026) - [Carrega ou não Carrega?](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1026.poti)
   - [x] [1087](https://www.urionlinejudge.com.br/judge/pt/problems/view/1087) - [Dama](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1087.poti)

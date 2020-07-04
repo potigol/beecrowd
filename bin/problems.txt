@@ -1606,7 +1606,7 @@
 2619	Super Luxo	SQL
 2620	Pedidos no Primeiro Semestre	SQL
 2621	Quantidades Entre 10 e 20	SQL
-2622	Pessoas jurídicas	SQL
+2622	Pessoas Jurídicas	SQL
 2623	Categorias com Vários Produtos	SQL
 2624	Quantidades de Cidades por Clientes	SQL
 2625	Máscara de CPF	SQL
@@ -2049,7 +2049,7 @@
 3071	Melhor Ranking	Ad-Hoc
 3072	Namoro	Grafos
 3073	Vetores	Paradigmas
-3074	Consultas em uma array	Ad-Hoc
+3074	Consultas em Uma Array	Ad-Hoc
 3075	Cassinos e Viagem	Grafos
 3076	Exercício de História	Iniciante
 3077	Distribuindo Pequis	Ad-Hoc
@@ -2092,3 +2092,14 @@
 3114	Parkour	Paradigmas
 3115	Estradas	Ad-Hoc
 3116	Seguidores Impossíveis	Paradigmas
+3117	Atrasadinhos	Ad-Hoc
+3118	Bactérias, Suas Loucas!	Ad-Hoc
+3119	As Aventuras do Calango Atômico	Ad-Hoc
+3120	Jogada de Marketing	Ad-Hoc
+3121	Acionista Por um Dia	Ad-Hoc
+3122	Festa de Final de Ano	Ad-Hoc
+3123	Pedras do Gênesis	Ad-Hoc
+3124	Minha Reforma, Minha Vida	Ad-Hoc
+3125	Princesa das Equações	Ad-Hoc
+3126	Lista de Treinamento	Ad-Hoc
+3127	Kampeonato de Feijão	Ad-Hoc

@@ -16,17 +16,17 @@
   - [ ] [3114](https://www.urionlinejudge.com.br/judge/pt/problems/view/3114) - Parkour *Paradigmas*
   - [ ] [3115](https://www.urionlinejudge.com.br/judge/pt/problems/view/3115) - Estradas *Ad-Hoc*
   - [ ] [3116](https://www.urionlinejudge.com.br/judge/pt/problems/view/3116) - Seguidores Impossíveis *Paradigmas*
-  - [ ] ~~3117~~
-  - [ ] ~~3118~~
-  - [ ] ~~3119~~
-  - [ ] ~~3120~~
-  - [ ] ~~3121~~
-  - [ ] ~~3122~~
-  - [ ] ~~3123~~
-  - [ ] ~~3124~~
-  - [ ] ~~3125~~
-  - [ ] ~~3126~~
-  - [ ] ~~3127~~
+  - [ ] [3117](https://www.urionlinejudge.com.br/judge/pt/problems/view/3117) - Atrasadinhos *Ad-Hoc*
+  - [ ] [3118](https://www.urionlinejudge.com.br/judge/pt/problems/view/3118) - Bactérias, Suas Loucas! *Ad-Hoc*
+  - [ ] [3119](https://www.urionlinejudge.com.br/judge/pt/problems/view/3119) - As Aventuras do Calango Atômico *Ad-Hoc*
+  - [ ] [3120](https://www.urionlinejudge.com.br/judge/pt/problems/view/3120) - Jogada de Marketing *Ad-Hoc*
+  - [ ] [3121](https://www.urionlinejudge.com.br/judge/pt/problems/view/3121) - Acionista Por um Dia *Ad-Hoc*
+  - [ ] [3122](https://www.urionlinejudge.com.br/judge/pt/problems/view/3122) - Festa de Final de Ano *Ad-Hoc*
+  - [ ] [3123](https://www.urionlinejudge.com.br/judge/pt/problems/view/3123) - Pedras do Gênesis *Ad-Hoc*
+  - [ ] [3124](https://www.urionlinejudge.com.br/judge/pt/problems/view/3124) - Minha Reforma, Minha Vida *Ad-Hoc*
+  - [ ] [3125](https://www.urionlinejudge.com.br/judge/pt/problems/view/3125) - Princesa das Equações *Ad-Hoc*
+  - [ ] [3126](https://www.urionlinejudge.com.br/judge/pt/problems/view/3126) - Lista de Treinamento *Ad-Hoc*
+  - [ ] [3127](https://www.urionlinejudge.com.br/judge/pt/problems/view/3127) - Kampeonato de Feijão *Ad-Hoc*
   - [ ] ~~3128~~
   - [ ] ~~3129~~
   - [ ] ~~3130~~
