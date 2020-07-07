@@ -25,7 +25,7 @@
   - [ ] [3123](https://www.urionlinejudge.com.br/judge/pt/problems/view/3123) - Pedras do Gênesis *Ad-Hoc*
   - [ ] [3124](https://www.urionlinejudge.com.br/judge/pt/problems/view/3124) - Minha Reforma, Minha Vida *Ad-Hoc*
   - [ ] [3125](https://www.urionlinejudge.com.br/judge/pt/problems/view/3125) - Princesa das Equações *Ad-Hoc*
-  - [ ] [3126](https://www.urionlinejudge.com.br/judge/pt/problems/view/3126) - Lista de Treinamento *Ad-Hoc*
+  - [x] [3126](https://www.urionlinejudge.com.br/judge/pt/problems/view/3126) - [Lista de Treinamento](https://github.com/potigol/URI-Potigol/blob/master/src/3101-3200/3126.poti) *Ad-Hoc*
   - [ ] [3127](https://www.urionlinejudge.com.br/judge/pt/problems/view/3127) - Kampeonato de Feijão *Ad-Hoc*
   - [ ] ~~3128~~
   - [ ] ~~3129~~

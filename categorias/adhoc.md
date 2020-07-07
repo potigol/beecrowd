@@ -1,4 +1,4 @@
-# Ad-Hoc (88 / 711)
+# Ad-Hoc (89 / 711)
 
 ## Problemas não resolvidos
   - [ ] [1030](https://www.urionlinejudge.com.br/judge/pt/problems/view/1030) - A Lenda de Flavious Josephus
@@ -622,7 +622,6 @@
   - [ ] [3123](https://www.urionlinejudge.com.br/judge/pt/problems/view/3123) - Pedras do Gênesis
   - [ ] [3124](https://www.urionlinejudge.com.br/judge/pt/problems/view/3124) - Minha Reforma, Minha Vida
   - [ ] [3125](https://www.urionlinejudge.com.br/judge/pt/problems/view/3125) - Princesa das Equações
-  - [ ] [3126](https://www.urionlinejudge.com.br/judge/pt/problems/view/3126) - Lista de Treinamento
   - [ ] [3127](https://www.urionlinejudge.com.br/judge/pt/problems/view/3127) - Kampeonato de Feijão
 ## Problemas resolvidos
   - [x] [1026](https://www.urionlinejudge.com.br/judge/pt/problems/view/1026) - [Carrega ou não Carrega?](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1026.poti)
@@ -713,3 +712,4 @@
   - [x] [3060](https://www.urionlinejudge.com.br/judge/pt/problems/view/3060) - [Parcelamento sem juros](https://github.com/potigol/URI-Potigol/blob/master/src/3001-3100/3060.poti)
   - [x] [3106](https://www.urionlinejudge.com.br/judge/pt/problems/view/3106) - [Competição de Códigos](https://github.com/potigol/URI-Potigol/blob/master/src/3101-3200/3106.poti)
   - [x] [3109](https://www.urionlinejudge.com.br/judge/pt/problems/view/3109) - [Trocando de Mesa](https://github.com/potigol/URI-Potigol/blob/master/src/3101-3200/3109.poti)
+  - [x] [3126](https://www.urionlinejudge.com.br/judge/pt/problems/view/3126) - [Lista de Treinamento](https://github.com/potigol/URI-Potigol/blob/master/src/3101-3200/3126.poti)
