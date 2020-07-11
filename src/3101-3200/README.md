@@ -1,12 +1,12 @@
 # Problemas 3101 a 3200
 
-  - [ ] [3101](https://www.urionlinejudge.com.br/judge/pt/problems/view/3101) - Famílias Poligâmicas *Iniciante*
-  - [x] [3102](https://www.urionlinejudge.com.br/judge/pt/problems/view/3102) - [Kikoho](https://github.com/potigol/URI-Potigol/blob/master/src/3101-3200/3102.poti) *Iniciante*
+  - [ ] [3101](https://www.urionlinejudge.com.br/judge/pt/problems/view/3101) - Famílias Poligâmicas *Grafos*
+  - [x] [3102](https://www.urionlinejudge.com.br/judge/pt/problems/view/3102) - [Kikoho](https://github.com/potigol/URI-Potigol/blob/master/src/3101-3200/3102.poti) *Matemática*
   - [ ] [3103](https://www.urionlinejudge.com.br/judge/pt/problems/view/3103) - Número da Sorte *Iniciante*
-  - [ ] [3104](https://www.urionlinejudge.com.br/judge/pt/problems/view/3104) - Resto 2.0 *Iniciante*
+  - [ ] [3104](https://www.urionlinejudge.com.br/judge/pt/problems/view/3104) - Resto 2.0 *Matemática*
   - [ ] [3105](https://www.urionlinejudge.com.br/judge/pt/problems/view/3105) - Dobrando Papel *Ad-Hoc*
   - [x] [3106](https://www.urionlinejudge.com.br/judge/pt/problems/view/3106) - [Competição de Códigos](https://github.com/potigol/URI-Potigol/blob/master/src/3101-3200/3106.poti) *Ad-Hoc*
-  - [ ] [3107](https://www.urionlinejudge.com.br/judge/pt/problems/view/3107) - Pulo do Sapo *Ad-Hoc*
+  - [ ] [3107](https://www.urionlinejudge.com.br/judge/pt/problems/view/3107) - Pulo do Sapo *Paradigmas*
   - [ ] [3108](https://www.urionlinejudge.com.br/judge/pt/problems/view/3108) - Arremesse os BigOs! *Geometria Computacional*
   - [x] [3109](https://www.urionlinejudge.com.br/judge/pt/problems/view/3109) - [Trocando de Mesa](https://github.com/potigol/URI-Potigol/blob/master/src/3101-3200/3109.poti) *Ad-Hoc*
   - [ ] [3110](https://www.urionlinejudge.com.br/judge/pt/problems/view/3110) - Farcos e o Xorshift *Matemática*
@@ -14,16 +14,16 @@
   - [ ] [3112](https://www.urionlinejudge.com.br/judge/pt/problems/view/3112) - Decodificação Ambígua *Ad-Hoc*
   - [ ] [3113](https://www.urionlinejudge.com.br/judge/pt/problems/view/3113) - Cadeado Insano *Ad-Hoc*
   - [ ] [3114](https://www.urionlinejudge.com.br/judge/pt/problems/view/3114) - Parkour *Paradigmas*
-  - [ ] [3115](https://www.urionlinejudge.com.br/judge/pt/problems/view/3115) - Estradas *Ad-Hoc*
+  - [ ] [3115](https://www.urionlinejudge.com.br/judge/pt/problems/view/3115) - Estradas *Grafos*
   - [ ] [3116](https://www.urionlinejudge.com.br/judge/pt/problems/view/3116) - Seguidores Impossíveis *Paradigmas*
   - [ ] [3117](https://www.urionlinejudge.com.br/judge/pt/problems/view/3117) - Atrasadinhos *Ad-Hoc*
-  - [ ] [3118](https://www.urionlinejudge.com.br/judge/pt/problems/view/3118) - Bactérias, Suas Loucas! *Ad-Hoc*
-  - [ ] [3119](https://www.urionlinejudge.com.br/judge/pt/problems/view/3119) - As Aventuras do Calango Atômico *Ad-Hoc*
+  - [ ] [3118](https://www.urionlinejudge.com.br/judge/pt/problems/view/3118) - Bactérias, Suas Loucas! *Strings*
+  - [ ] [3119](https://www.urionlinejudge.com.br/judge/pt/problems/view/3119) - As Aventuras do Calango Atômico *Grafos*
   - [ ] [3120](https://www.urionlinejudge.com.br/judge/pt/problems/view/3120) - Jogada de Marketing *Ad-Hoc*
   - [ ] [3121](https://www.urionlinejudge.com.br/judge/pt/problems/view/3121) - Acionista Por um Dia *Ad-Hoc*
   - [ ] [3122](https://www.urionlinejudge.com.br/judge/pt/problems/view/3122) - Festa de Final de Ano *Ad-Hoc*
   - [ ] [3123](https://www.urionlinejudge.com.br/judge/pt/problems/view/3123) - Pedras do Gênesis *Ad-Hoc*
-  - [ ] [3124](https://www.urionlinejudge.com.br/judge/pt/problems/view/3124) - Minha Reforma, Minha Vida *Ad-Hoc*
+  - [ ] [3124](https://www.urionlinejudge.com.br/judge/pt/problems/view/3124) - Minha Reforma, Minha Vida *Grafos*
   - [ ] [3125](https://www.urionlinejudge.com.br/judge/pt/problems/view/3125) - Princesa das Equações *Ad-Hoc*
   - [x] [3126](https://www.urionlinejudge.com.br/judge/pt/problems/view/3126) - [Lista de Treinamento](https://github.com/potigol/URI-Potigol/blob/master/src/3101-3200/3126.poti) *Ad-Hoc*
   - [ ] [3127](https://www.urionlinejudge.com.br/judge/pt/problems/view/3127) - Kampeonato de Feijão *Ad-Hoc*

@@ -1,4 +1,4 @@
-# Paradigmas (2 / 194)
+# Paradigmas (2 / 201)
 
 ## Problemas não resolvidos
   - [ ] [1027](https://www.urionlinejudge.com.br/judge/pt/problems/view/1027) - Onda Crítica
@@ -108,11 +108,11 @@
   - [ ] [1878](https://www.urionlinejudge.com.br/judge/pt/problems/view/1878) - Torneios em Sequência
   - [ ] [1892](https://www.urionlinejudge.com.br/judge/pt/problems/view/1892) - Calouro Vence Veterano?
   - [ ] [1900](https://www.urionlinejudge.com.br/judge/pt/problems/view/1900) - Sequências Nulas
-  - [ ] [1905](https://www.urionlinejudge.com.br/judge/pt/problems/view/1905) - Polícia e Ladrão
   - [ ] [1912](https://www.urionlinejudge.com.br/judge/pt/problems/view/1912) - Ajude Seu Madruga
   - [ ] [1913](https://www.urionlinejudge.com.br/judge/pt/problems/view/1913) - Ajude o Sr. Barriga
   - [ ] [1922](https://www.urionlinejudge.com.br/judge/pt/problems/view/1922) - Diego e o Jogo do Martelo
   - [ ] [1927](https://www.urionlinejudge.com.br/judge/pt/problems/view/1927) - Tapioca e a Chuva de Trufas
+  - [ ] [1932](https://www.urionlinejudge.com.br/judge/pt/problems/view/1932) - Bolsa de Valores
   - [ ] [1970](https://www.urionlinejudge.com.br/judge/pt/problems/view/1970) - Primeiro Contato
   - [ ] [1976](https://www.urionlinejudge.com.br/judge/pt/problems/view/1976) - Matrizes
   - [ ] [1978](https://www.urionlinejudge.com.br/judge/pt/problems/view/1978) - Câmeras
@@ -145,6 +145,7 @@
   - [ ] [2226](https://www.urionlinejudge.com.br/judge/pt/problems/view/2226) - Fabrica de Balões
   - [ ] [2236](https://www.urionlinejudge.com.br/judge/pt/problems/view/2236) - Batata Quente
   - [ ] [2243](https://www.urionlinejudge.com.br/judge/pt/problems/view/2243) - Isósceles
+  - [ ] [2299](https://www.urionlinejudge.com.br/judge/pt/problems/view/2299) - Pedido de Desculpas
   - [ ] [2360](https://www.urionlinejudge.com.br/judge/pt/problems/view/2360) - Centrais de Controle
   - [ ] [2361](https://www.urionlinejudge.com.br/judge/pt/problems/view/2361) - Entradas e Saídas
   - [ ] [2363](https://www.urionlinejudge.com.br/judge/pt/problems/view/2363) - Brincando com Transformações
@@ -187,10 +188,16 @@
   - [ ] [2921](https://www.urionlinejudge.com.br/judge/pt/problems/view/2921) - Quadros Alienígenas
   - [ ] [2932](https://www.urionlinejudge.com.br/judge/pt/problems/view/2932) - Renas do Papai Noel
   - [ ] [2934](https://www.urionlinejudge.com.br/judge/pt/problems/view/2934) - Noel e Suas Renas
+  - [ ] [2967](https://www.urionlinejudge.com.br/judge/pt/problems/view/2967) - Florestas em Risco
+  - [ ] [2970](https://www.urionlinejudge.com.br/judge/pt/problems/view/2970) - Keep Calm e Venda Balões
   - [ ] [2973](https://www.urionlinejudge.com.br/judge/pt/problems/view/2973) - Maratona Brasileira de Comedores de Pipoca
   - [ ] [2976](https://www.urionlinejudge.com.br/judge/pt/problems/view/2976) - Triângulos
   - [ ] [3051](https://www.urionlinejudge.com.br/judge/pt/problems/view/3051) - Soma
   - [ ] [3073](https://www.urionlinejudge.com.br/judge/pt/problems/view/3073) - Vetores
+  - [ ] [3086](https://www.urionlinejudge.com.br/judge/pt/problems/view/3086) - O Cavaleiro Jedi Guilherme
+  - [ ] [3095](https://www.urionlinejudge.com.br/judge/pt/problems/view/3095) - Pudim dos Guerreiros
+  - [ ] [3098](https://www.urionlinejudge.com.br/judge/pt/problems/view/3098) - Plíndromo
+  - [ ] [3107](https://www.urionlinejudge.com.br/judge/pt/problems/view/3107) - Pulo do Sapo
   - [ ] [3114](https://www.urionlinejudge.com.br/judge/pt/problems/view/3114) - Parkour
   - [ ] [3116](https://www.urionlinejudge.com.br/judge/pt/problems/view/3116) - Seguidores Impossíveis
 ## Problemas resolvidos

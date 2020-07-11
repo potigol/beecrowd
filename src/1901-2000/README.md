@@ -4,7 +4,7 @@
   - [ ] [1902](https://www.urionlinejudge.com.br/judge/pt/problems/view/1902) - Sociedade Brasileira Casamenteira *Grafos*
   - [ ] [1903](https://www.urionlinejudge.com.br/judge/pt/problems/view/1903) - Cadeia Alimentar *Grafos*
   - [ ] [1904](https://www.urionlinejudge.com.br/judge/pt/problems/view/1904) - Par ou Ímpar 2.0 *Matemática*
-  - [ ] [1905](https://www.urionlinejudge.com.br/judge/pt/problems/view/1905) - Polícia e Ladrão *Paradigmas*
+  - [ ] [1905](https://www.urionlinejudge.com.br/judge/pt/problems/view/1905) - Polícia e Ladrão *Grafos*
   - [ ] [1906](https://www.urionlinejudge.com.br/judge/pt/problems/view/1906) - Senhas de Collatz *Grafos*
   - [ ] [1907](https://www.urionlinejudge.com.br/judge/pt/problems/view/1907) - Coloração de Cenários de Jogos *Grafos*
   - [ ] [1908](https://www.urionlinejudge.com.br/judge/pt/problems/view/1908) - UFFS Multicampi *Grafos*
@@ -31,7 +31,7 @@
   - [x] [1929](https://www.urionlinejudge.com.br/judge/pt/problems/view/1929) - [Triângulo](https://github.com/potigol/URI-Potigol/blob/master/src/1901-2000/1929.poti) *Iniciante*
   - [x] [1930](https://www.urionlinejudge.com.br/judge/pt/problems/view/1930) - [Tomadas](https://github.com/potigol/URI-Potigol/blob/master/src/1901-2000/1930.poti) *Iniciante*
   - [ ] [1931](https://www.urionlinejudge.com.br/judge/pt/problems/view/1931) - Mania de Par *Grafos*
-  - [ ] [1932](https://www.urionlinejudge.com.br/judge/pt/problems/view/1932) - Bolsa de Valores *Ad-Hoc*
+  - [ ] [1932](https://www.urionlinejudge.com.br/judge/pt/problems/view/1932) - Bolsa de Valores *Paradigmas*
   - [x] [1933](https://www.urionlinejudge.com.br/judge/pt/problems/view/1933) - [Tri-du](https://github.com/potigol/URI-Potigol/blob/master/src/1901-2000/1933.poti) *Iniciante*
   - [ ] [1934](https://www.urionlinejudge.com.br/judge/pt/problems/view/1934) - Quebra-cabeça *Ad-Hoc*
   - [ ] [1935](https://www.urionlinejudge.com.br/judge/pt/problems/view/1935) - Espiral *Ad-Hoc*

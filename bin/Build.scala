@@ -9,7 +9,7 @@ object Build extends App {
 
   def check(n: Int) = new java.io.File(s"../src/${dir(n)}/${n}.${extension}").exists
 
-  val problems = io.Source.fromFile("problems.txt").getLines.toList
+  val problems = io.Source.fromFile("problems.txt").getLines().toList
   val a = problems.map { a =>
     val x = a.split("\t")
     Problem(x(0).toInt, x(1), x(2))
@@ -17,7 +17,7 @@ object Build extends App {
 
   val b = a.groupBy(_.category)
   val c = b.keySet
-  val config = (for(l<-io.Source.fromFile("config.txt").getLines; List(a,b)=l.split("=").toList) yield (a,b)).toMap
+  val config = (for(l<-io.Source.fromFile("config.txt").getLines(); List(a,b)=l.split("=").toList) yield (a,b)).toMap
   val prefix = config("prefix")
   val code = config("code")
   val extension = config("extension")
@@ -95,7 +95,7 @@ object Build extends App {
     save(s"../categorias/${clean(d)}.md", s"${d} (${count} / ${bd.length})", g)
   }
 
-  def getContest(s: String) = io.Source.fromFile(s).getLines.toList.map {
+  def getContest(s: String) = io.Source.fromFile(s).getLines().toList.map {
     case a =>
       val b = a.split(" ")
       val c = b(1).split(",")

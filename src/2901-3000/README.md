@@ -2,10 +2,10 @@
 
   - [ ] [2901](https://www.urionlinejudge.com.br/judge/pt/problems/view/2901) - Vôlei Marciano *Ad-Hoc*
   - [ ] [2902](https://www.urionlinejudge.com.br/judge/pt/problems/view/2902) - Rouba Monte *Ad-Hoc*
-  - [ ] [2903](https://www.urionlinejudge.com.br/judge/pt/problems/view/2903) - A Symmetrical Pizza *Ad-Hoc*
+  - [ ] [2903](https://www.urionlinejudge.com.br/judge/pt/problems/view/2903) - A Symmetrical Pizza *Matemática*
   - [ ] [2904](https://www.urionlinejudge.com.br/judge/pt/problems/view/2904) - Building a Field *Ad-Hoc*
   - [ ] [2905](https://www.urionlinejudge.com.br/judge/pt/problems/view/2905) - Cheap Trips *Ad-Hoc*
-  - [ ] [2906](https://www.urionlinejudge.com.br/judge/pt/problems/view/2906) - Database of Clients *Ad-Hoc*
+  - [ ] [2906](https://www.urionlinejudge.com.br/judge/pt/problems/view/2906) - Database of Clients *Strings*
   - [ ] [2907](https://www.urionlinejudge.com.br/judge/pt/problems/view/2907) - Escape, Polygon! *Ad-Hoc*
   - [ ] [2908](https://www.urionlinejudge.com.br/judge/pt/problems/view/2908) - Fantastic Beasts *Ad-Hoc*
   - [ ] [2909](https://www.urionlinejudge.com.br/judge/pt/problems/view/2909) - Gathering Red-Black Fruits *Ad-Hoc*
@@ -64,12 +64,12 @@
   - [ ] [2962](https://www.urionlinejudge.com.br/judge/pt/problems/view/2962) - Arte Valiosa *Grafos*
   - [x] [2963](https://www.urionlinejudge.com.br/judge/pt/problems/view/2963) - [Bobo da Corte](https://github.com/potigol/URI-Potigol/blob/master/src/2901-3000/2963.poti) *Iniciante*
   - [ ] [2964](https://www.urionlinejudge.com.br/judge/pt/problems/view/2964) - Cruzamento Perigoso *Ad-Hoc*
-  - [ ] [2965](https://www.urionlinejudge.com.br/judge/pt/problems/view/2965) - Delaçao Premiada *Grafos*
+  - [ ] [2965](https://www.urionlinejudge.com.br/judge/pt/problems/view/2965) - Delação Premiada *Grafos*
   - [ ] [2966](https://www.urionlinejudge.com.br/judge/pt/problems/view/2966) - Exibição de Peixes *Ad-Hoc*
-  - [ ] [2967](https://www.urionlinejudge.com.br/judge/pt/problems/view/2967) - Florestas em Risco *Ad-Hoc*
+  - [ ] [2967](https://www.urionlinejudge.com.br/judge/pt/problems/view/2967) - Florestas em Risco *Paradigmas*
   - [x] [2968](https://www.urionlinejudge.com.br/judge/pt/problems/view/2968) - [Hora da Corrida](https://github.com/potigol/URI-Potigol/blob/master/src/2901-3000/2968.poti) *Iniciante*
   - [ ] [2969](https://www.urionlinejudge.com.br/judge/pt/problems/view/2969) - Interplanetário *Grafos*
-  - [ ] [2970](https://www.urionlinejudge.com.br/judge/pt/problems/view/2970) - Keep Calm e Venda Balões *Ad-Hoc*
+  - [ ] [2970](https://www.urionlinejudge.com.br/judge/pt/problems/view/2970) - Keep Calm e Venda Balões *Paradigmas*
   - [ ] [2971](https://www.urionlinejudge.com.br/judge/pt/problems/view/2971) - Jogo de Baralho *Ad-Hoc*
   - [ ] [2972](https://www.urionlinejudge.com.br/judge/pt/problems/view/2972) - Lançando Moedas *Ad-Hoc*
   - [ ] [2973](https://www.urionlinejudge.com.br/judge/pt/problems/view/2973) - Maratona Brasileira de Comedores de Pipoca *Paradigmas*
@@ -82,7 +82,7 @@
   - [ ] [2980](https://www.urionlinejudge.com.br/judge/pt/problems/view/2980) - Jogo da Árvore *Grafos*
   - [x] [2981](https://www.urionlinejudge.com.br/judge/pt/problems/view/2981) - [Vamos Fechar](https://github.com/potigol/URI-Potigol/blob/master/src/2901-3000/2981.poti) *Matemática*
   - [x] [2982](https://www.urionlinejudge.com.br/judge/pt/problems/view/2982) - [A Greve para ou Continua?](https://github.com/potigol/URI-Potigol/blob/master/src/2901-3000/2982.poti) *Iniciante*
-  - [ ] [2983](https://www.urionlinejudge.com.br/judge/pt/problems/view/2983) - Nem tudo é greve *Matemática*
+  - [ ] [2983](https://www.urionlinejudge.com.br/judge/pt/problems/view/2983) - Nem Tudo é Greve *Matemática*
   - [ ] [2984](https://www.urionlinejudge.com.br/judge/pt/problems/view/2984) - Assuntos Pendentes *Estruturas e Bibliotecas*
   - [ ] [2985](https://www.urionlinejudge.com.br/judge/pt/problems/view/2985) - Tobias Contra o Relógio *Ad-Hoc*
   - [ ] [2986](https://www.urionlinejudge.com.br/judge/pt/problems/view/2986) - Nem Tudo é Greve Versão Hard *Matemática*

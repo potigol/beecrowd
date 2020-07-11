@@ -45,7 +45,7 @@
   - [ ] [2643](https://www.urionlinejudge.com.br/judge/pt/problems/view/2643) - Posterizar *Ad-Hoc*
   - [ ] [2644](https://www.urionlinejudge.com.br/judge/pt/problems/view/2644) - Replicate Replicate Rfplicbte *Ad-Hoc*
   - [ ] [2645](https://www.urionlinejudge.com.br/judge/pt/problems/view/2645) - Scenery *Ad-Hoc*
-  - [ ] [2646](https://www.urionlinejudge.com.br/judge/pt/problems/view/2646) - Secret Chamber at Mount Rushmore *Iniciante*
+  - [ ] [2646](https://www.urionlinejudge.com.br/judge/pt/problems/view/2646) - Secret Chamber at Mount Rushmore *Grafos*
   - [ ] ~~2647~~
   - [ ] [2648](https://www.urionlinejudge.com.br/judge/pt/problems/view/2648) - Tarot Sham Boast *Ad-Hoc*
   - [ ] ~~2649~~
@@ -53,7 +53,7 @@
   - [ ] [2651](https://www.urionlinejudge.com.br/judge/pt/problems/view/2651) - Link Bolado *Strings*
   - [ ] [2652](https://www.urionlinejudge.com.br/judge/pt/problems/view/2652) - Quantas Árvores? *Grafos*
   - [x] [2653](https://www.urionlinejudge.com.br/judge/pt/problems/view/2653) - [Dijkstra](https://github.com/potigol/URI-Potigol/blob/master/src/2601-2700/2653.poti) *Iniciante*
-  - [ ] [2654](https://www.urionlinejudge.com.br/judge/pt/problems/view/2654) - Godofor *Ad-Hoc*
+  - [ ] [2654](https://www.urionlinejudge.com.br/judge/pt/problems/view/2654) - Godofor *Estruturas e Bibliotecas*
   - [ ] [2655](https://www.urionlinejudge.com.br/judge/pt/problems/view/2655) - Trilha Perigosa *Estruturas e Bibliotecas*
   - [ ] [2656](https://www.urionlinejudge.com.br/judge/pt/problems/view/2656) - Rhombus *Estruturas e Bibliotecas*
   - [ ] [2657](https://www.urionlinejudge.com.br/judge/pt/problems/view/2657) - Sensate *Grafos*
@@ -86,7 +86,7 @@
   - [ ] [2684](https://www.urionlinejudge.com.br/judge/pt/problems/view/2684) - Ajude o Professor Webscript!! *Ad-Hoc*
   - [x] [2685](https://www.urionlinejudge.com.br/judge/pt/problems/view/2685) - [A Mudança](https://github.com/potigol/URI-Potigol/blob/master/src/2601-2700/2685.poti) *Iniciante*
   - [x] [2686](https://www.urionlinejudge.com.br/judge/pt/problems/view/2686) - [A Mudança Continua!!](https://github.com/potigol/URI-Potigol/blob/master/src/2601-2700/2686.poti) *Iniciante*
-  - [x] [2687](https://www.urionlinejudge.com.br/judge/pt/problems/view/2687) - [Dominação Bacteriana](https://github.com/potigol/URI-Potigol/blob/master/src/2601-2700/2687.poti) *Iniciante*
+  - [x] [2687](https://www.urionlinejudge.com.br/judge/pt/problems/view/2687) - [Dominação Bacteriana](https://github.com/potigol/URI-Potigol/blob/master/src/2601-2700/2687.poti) *Grafos*
   - [ ] [2688](https://www.urionlinejudge.com.br/judge/pt/problems/view/2688) - Escolhendo um Lugar *Grafos*
   - [ ] [2689](https://www.urionlinejudge.com.br/judge/pt/problems/view/2689) - Jogo do Mião *Ad-Hoc*
   - [x] [2690](https://www.urionlinejudge.com.br/judge/pt/problems/view/2690) - [Nova Senha RA](https://github.com/potigol/URI-Potigol/blob/master/src/2601-2700/2690.poti) *Strings*

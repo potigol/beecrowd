@@ -1,4 +1,4 @@
-# Grafos (0 / 238)
+# Grafos (2 / 254)
 
 ## Problemas não resolvidos
   - [ ] [1053](https://www.urionlinejudge.com.br/judge/pt/problems/view/1053) - Desenho Contínuo
@@ -49,6 +49,7 @@
   - [ ] [1423](https://www.urionlinejudge.com.br/judge/pt/problems/view/1423) - A aventura de Super Mario
   - [ ] [1427](https://www.urionlinejudge.com.br/judge/pt/problems/view/1427) - O Problema da Scrooge Co.
   - [ ] [1442](https://www.urionlinejudge.com.br/judge/pt/problems/view/1442) - Desvio de Rua
+  - [ ] [1445](https://www.urionlinejudge.com.br/judge/pt/problems/view/1445) - Quem Vai à Festa?
   - [ ] [1447](https://www.urionlinejudge.com.br/judge/pt/problems/view/1447) - Back to the Future
   - [ ] [1454](https://www.urionlinejudge.com.br/judge/pt/problems/view/1454) - O País das Bicicletas
   - [ ] [1461](https://www.urionlinejudge.com.br/judge/pt/problems/view/1461) - Caminhos Simétricos Ótimos
@@ -71,6 +72,7 @@
   - [ ] [1550](https://www.urionlinejudge.com.br/judge/pt/problems/view/1550) - Inversão
   - [ ] [1552](https://www.urionlinejudge.com.br/judge/pt/problems/view/1552) - Resgate em Queda Livre
   - [ ] [1562](https://www.urionlinejudge.com.br/judge/pt/problems/view/1562) - Escolhendo as Duplas
+  - [ ] [1583](https://www.urionlinejudge.com.br/judge/pt/problems/view/1583) - Contaminação
   - [ ] [1584](https://www.urionlinejudge.com.br/judge/pt/problems/view/1584) - Espertofone
   - [ ] [1592](https://www.urionlinejudge.com.br/judge/pt/problems/view/1592) - Elias e Golias
   - [ ] [1610](https://www.urionlinejudge.com.br/judge/pt/problems/view/1610) - Dudu Faz Serviço
@@ -122,6 +124,7 @@
   - [ ] [1894](https://www.urionlinejudge.com.br/judge/pt/problems/view/1894) - Filogenia
   - [ ] [1902](https://www.urionlinejudge.com.br/judge/pt/problems/view/1902) - Sociedade Brasileira Casamenteira
   - [ ] [1903](https://www.urionlinejudge.com.br/judge/pt/problems/view/1903) - Cadeia Alimentar
+  - [ ] [1905](https://www.urionlinejudge.com.br/judge/pt/problems/view/1905) - Polícia e Ladrão
   - [ ] [1906](https://www.urionlinejudge.com.br/judge/pt/problems/view/1906) - Senhas de Collatz
   - [ ] [1907](https://www.urionlinejudge.com.br/judge/pt/problems/view/1907) - Coloração de Cenários de Jogos
   - [ ] [1908](https://www.urionlinejudge.com.br/judge/pt/problems/view/1908) - UFFS Multicampi
@@ -176,11 +179,13 @@
   - [ ] [2184](https://www.urionlinejudge.com.br/judge/pt/problems/view/2184) - Pomekons
   - [ ] [2190](https://www.urionlinejudge.com.br/judge/pt/problems/view/2190) - Rede Ótica
   - [ ] [2225](https://www.urionlinejudge.com.br/judge/pt/problems/view/2225) - Penalização
+  - [ ] [2246](https://www.urionlinejudge.com.br/judge/pt/problems/view/2246) - Ladrilhos
   - [ ] [2300](https://www.urionlinejudge.com.br/judge/pt/problems/view/2300) - Transmissão de Energia
   - [ ] [2357](https://www.urionlinejudge.com.br/judge/pt/problems/view/2357) - Violência em Sildávia
   - [ ] [2359](https://www.urionlinejudge.com.br/judge/pt/problems/view/2359) - Alocando Ambulâncias
   - [ ] [2372](https://www.urionlinejudge.com.br/judge/pt/problems/view/2372) - Reunião
   - [ ] [2404](https://www.urionlinejudge.com.br/judge/pt/problems/view/2404) - Reduzindo Detalhes em um Mapa
+  - [ ] [2412](https://www.urionlinejudge.com.br/judge/pt/problems/view/2412) - Tarzan
   - [ ] [2419](https://www.urionlinejudge.com.br/judge/pt/problems/view/2419) - Costa
   - [ ] [2426](https://www.urionlinejudge.com.br/judge/pt/problems/view/2426) - Bomba
   - [ ] [2429](https://www.urionlinejudge.com.br/judge/pt/problems/view/2429) - Rodovia
@@ -200,6 +205,7 @@
   - [ ] [2585](https://www.urionlinejudge.com.br/judge/pt/problems/view/2585) - Dominó Incompleto
   - [ ] [2631](https://www.urionlinejudge.com.br/judge/pt/problems/view/2631) - Formando Duplas
   - [ ] [2637](https://www.urionlinejudge.com.br/judge/pt/problems/view/2637) - Casa do Batera
+  - [ ] [2646](https://www.urionlinejudge.com.br/judge/pt/problems/view/2646) - Secret Chamber at Mount Rushmore
   - [ ] [2652](https://www.urionlinejudge.com.br/judge/pt/problems/view/2652) - Quantas Árvores?
   - [ ] [2657](https://www.urionlinejudge.com.br/judge/pt/problems/view/2657) - Sensate
   - [ ] [2666](https://www.urionlinejudge.com.br/judge/pt/problems/view/2666) - Imposto Real
@@ -212,6 +218,7 @@
   - [ ] [2731](https://www.urionlinejudge.com.br/judge/pt/problems/view/2731) - Programação de Viagem
   - [ ] [2732](https://www.urionlinejudge.com.br/judge/pt/problems/view/2732) - Reino De Alice
   - [ ] [2768](https://www.urionlinejudge.com.br/judge/pt/problems/view/2768) - Grafo do Dabriel
+  - [ ] [2784](https://www.urionlinejudge.com.br/judge/pt/problems/view/2784) - Ilhas
   - [ ] [2804](https://www.urionlinejudge.com.br/judge/pt/problems/view/2804) - Ferrovias
   - [ ] [2809](https://www.urionlinejudge.com.br/judge/pt/problems/view/2809) - K-ésimo Caminho
   - [ ] [2810](https://www.urionlinejudge.com.br/judge/pt/problems/view/2810) - Combate à Dengue 2.0
@@ -227,15 +234,25 @@
   - [ ] [2941](https://www.urionlinejudge.com.br/judge/pt/problems/view/2941) - Fibra Ótica
   - [ ] [2959](https://www.urionlinejudge.com.br/judge/pt/problems/view/2959) - Credo com ParaTudo!
   - [ ] [2962](https://www.urionlinejudge.com.br/judge/pt/problems/view/2962) - Arte Valiosa
-  - [ ] [2965](https://www.urionlinejudge.com.br/judge/pt/problems/view/2965) - Delaçao Premiada
+  - [ ] [2965](https://www.urionlinejudge.com.br/judge/pt/problems/view/2965) - Delação Premiada
   - [ ] [2969](https://www.urionlinejudge.com.br/judge/pt/problems/view/2969) - Interplanetário
   - [ ] [2977](https://www.urionlinejudge.com.br/judge/pt/problems/view/2977) - Romeu e Julieta
   - [ ] [2980](https://www.urionlinejudge.com.br/judge/pt/problems/view/2980) - Jogo da Árvore
   - [ ] [3003](https://www.urionlinejudge.com.br/judge/pt/problems/view/3003) - O Grupinho
   - [ ] [3027](https://www.urionlinejudge.com.br/judge/pt/problems/view/3027) - Plano de Treino
   - [ ] [3031](https://www.urionlinejudge.com.br/judge/pt/problems/view/3031) - Xor Spanning Tree
+  - [ ] [3044](https://www.urionlinejudge.com.br/judge/pt/problems/view/3044) - Manutenção
   - [ ] [3061](https://www.urionlinejudge.com.br/judge/pt/problems/view/3061) - Manchas de pele
+  - [ ] [3066](https://www.urionlinejudge.com.br/judge/pt/problems/view/3066) - Dengue
   - [ ] [3067](https://www.urionlinejudge.com.br/judge/pt/problems/view/3067) - Dominó
   - [ ] [3070](https://www.urionlinejudge.com.br/judge/pt/problems/view/3070) - Autoestradas HyperspaceTM
   - [ ] [3072](https://www.urionlinejudge.com.br/judge/pt/problems/view/3072) - Namoro
   - [ ] [3075](https://www.urionlinejudge.com.br/judge/pt/problems/view/3075) - Cassinos e Viagem
+  - [ ] [3082](https://www.urionlinejudge.com.br/judge/pt/problems/view/3082) - Matador De Onça Mutante
+  - [ ] [3101](https://www.urionlinejudge.com.br/judge/pt/problems/view/3101) - Famílias Poligâmicas
+  - [ ] [3115](https://www.urionlinejudge.com.br/judge/pt/problems/view/3115) - Estradas
+  - [ ] [3119](https://www.urionlinejudge.com.br/judge/pt/problems/view/3119) - As Aventuras do Calango Atômico
+  - [ ] [3124](https://www.urionlinejudge.com.br/judge/pt/problems/view/3124) - Minha Reforma, Minha Vida
+## Problemas resolvidos
+  - [x] [2428](https://www.urionlinejudge.com.br/judge/pt/problems/view/2428) - [Capital](https://github.com/potigol/URI-Potigol/blob/master/src/2401-2500/2428.poti)
+  - [x] [2687](https://www.urionlinejudge.com.br/judge/pt/problems/view/2687) - [Dominação Bacteriana](https://github.com/potigol/URI-Potigol/blob/master/src/2601-2700/2687.poti)

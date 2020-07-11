@@ -1,7 +1,8 @@
-# Matemática (29 / 238)
+# Matemática (30 / 245)
 
 ## Problemas não resolvidos
   - [ ] [1093](https://www.urionlinejudge.com.br/judge/pt/problems/view/1093) - Vampiros
+  - [ ] [1138](https://www.urionlinejudge.com.br/judge/pt/problems/view/1138) - Contagem de Dígitos
   - [ ] [1163](https://www.urionlinejudge.com.br/judge/pt/problems/view/1163) - Angry Ducks
   - [ ] [1193](https://www.urionlinejudge.com.br/judge/pt/problems/view/1193) - Conversão entre Bases
   - [ ] [1199](https://www.urionlinejudge.com.br/judge/pt/problems/view/1199) - Conversão Simples de Base
@@ -164,6 +165,7 @@
   - [ ] [2494](https://www.urionlinejudge.com.br/judge/pt/problems/view/2494) - Canetas
   - [ ] [2497](https://www.urionlinejudge.com.br/judge/pt/problems/view/2497) - Contando Ciclos
   - [ ] [2499](https://www.urionlinejudge.com.br/judge/pt/problems/view/2499) - Triângulo Interno
+  - [ ] [2500](https://www.urionlinejudge.com.br/judge/pt/problems/view/2500) - William Xorando
   - [ ] [2505](https://www.urionlinejudge.com.br/judge/pt/problems/view/2505) - Autopotencial
   - [ ] [2514](https://www.urionlinejudge.com.br/judge/pt/problems/view/2514) - Alinhamento Lunar
   - [ ] [2516](https://www.urionlinejudge.com.br/judge/pt/problems/view/2516) - Corrida
@@ -194,12 +196,13 @@
   - [ ] [2886](https://www.urionlinejudge.com.br/judge/pt/problems/view/2886) - Kepler
   - [ ] [2890](https://www.urionlinejudge.com.br/judge/pt/problems/view/2890) - Colorindo Tetraedros
   - [ ] [2892](https://www.urionlinejudge.com.br/judge/pt/problems/view/2892) - Treino No Velódromo
+  - [ ] [2903](https://www.urionlinejudge.com.br/judge/pt/problems/view/2903) - A Symmetrical Pizza
   - [ ] [2937](https://www.urionlinejudge.com.br/judge/pt/problems/view/2937) - Cobra Norato
   - [ ] [2953](https://www.urionlinejudge.com.br/judge/pt/problems/view/2953) - Mais um Joguinho
   - [ ] [2955](https://www.urionlinejudge.com.br/judge/pt/problems/view/2955) - Truuuuuco!
   - [ ] [2956](https://www.urionlinejudge.com.br/judge/pt/problems/view/2956) - Derivada de 13 Variáveis
   - [ ] [2978](https://www.urionlinejudge.com.br/judge/pt/problems/view/2978) - Cartão
-  - [ ] [2983](https://www.urionlinejudge.com.br/judge/pt/problems/view/2983) - Nem tudo é greve
+  - [ ] [2983](https://www.urionlinejudge.com.br/judge/pt/problems/view/2983) - Nem Tudo é Greve
   - [ ] [2986](https://www.urionlinejudge.com.br/judge/pt/problems/view/2986) - Nem Tudo é Greve Versão Hard
   - [ ] [3002](https://www.urionlinejudge.com.br/judge/pt/problems/view/3002) - Salve a Lilly!
   - [ ] [3004](https://www.urionlinejudge.com.br/judge/pt/problems/view/3004) - Envelopes
@@ -209,6 +212,9 @@
   - [ ] [3036](https://www.urionlinejudge.com.br/judge/pt/problems/view/3036) - Cor da camisa
   - [ ] [3078](https://www.urionlinejudge.com.br/judge/pt/problems/view/3078) - Só o Ouro
   - [ ] [3079](https://www.urionlinejudge.com.br/judge/pt/problems/view/3079) - Rua Iluminada
+  - [ ] [3096](https://www.urionlinejudge.com.br/judge/pt/problems/view/3096) - Overflow
+  - [ ] [3099](https://www.urionlinejudge.com.br/judge/pt/problems/view/3099) - O Problema do 7 x 1
+  - [ ] [3104](https://www.urionlinejudge.com.br/judge/pt/problems/view/3104) - Resto 2.0
   - [ ] [3110](https://www.urionlinejudge.com.br/judge/pt/problems/view/3110) - Farcos e o Xorshift
 ## Problemas resolvidos
   - [x] [1028](https://www.urionlinejudge.com.br/judge/pt/problems/view/1028) - [Figurinhas](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1028.poti)
@@ -240,3 +246,4 @@
   - [x] [2939](https://www.urionlinejudge.com.br/judge/pt/problems/view/2939) - [Casais](https://github.com/potigol/URI-Potigol/blob/master/src/2901-3000/2939.poti)
   - [x] [2981](https://www.urionlinejudge.com.br/judge/pt/problems/view/2981) - [Vamos Fechar](https://github.com/potigol/URI-Potigol/blob/master/src/2901-3000/2981.poti)
   - [x] [3049](https://www.urionlinejudge.com.br/judge/pt/problems/view/3049) - [Nota Cortada](https://github.com/potigol/URI-Potigol/blob/master/src/3001-3100/3049.poti)
+  - [x] [3102](https://www.urionlinejudge.com.br/judge/pt/problems/view/3102) - [Kikoho](https://github.com/potigol/URI-Potigol/blob/master/src/3101-3200/3102.poti)

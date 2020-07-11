@@ -11,7 +11,7 @@
   - [x] [2409](https://www.urionlinejudge.com.br/judge/pt/problems/view/2409) - [Colchão](https://github.com/potigol/URI-Potigol/blob/master/src/2401-2500/2409.poti) *Ad-Hoc*
   - [ ] [2410](https://www.urionlinejudge.com.br/judge/pt/problems/view/2410) - Frequencia na Aula *Ad-Hoc*
   - [ ] [2411](https://www.urionlinejudge.com.br/judge/pt/problems/view/2411) - O Tabuleiro Esburacado *Ad-Hoc*
-  - [ ] [2412](https://www.urionlinejudge.com.br/judge/pt/problems/view/2412) - Tarzan *Ad-Hoc*
+  - [ ] [2412](https://www.urionlinejudge.com.br/judge/pt/problems/view/2412) - Tarzan *Grafos*
   - [x] [2413](https://www.urionlinejudge.com.br/judge/pt/problems/view/2413) - [Busca na Internet](https://github.com/potigol/URI-Potigol/blob/master/src/2401-2500/2413.poti) *Ad-Hoc*
   - [x] [2414](https://www.urionlinejudge.com.br/judge/pt/problems/view/2414) - [Desafio do Maior Número](https://github.com/potigol/URI-Potigol/blob/master/src/2401-2500/2414.poti) *Ad-Hoc*
   - [ ] [2415](https://www.urionlinejudge.com.br/judge/pt/problems/view/2415) - Consecutivos *Ad-Hoc*
@@ -27,7 +27,7 @@
   - [ ] [2425](https://www.urionlinejudge.com.br/judge/pt/problems/view/2425) - Banco *Ad-Hoc*
   - [ ] [2426](https://www.urionlinejudge.com.br/judge/pt/problems/view/2426) - Bomba *Grafos*
   - [ ] [2427](https://www.urionlinejudge.com.br/judge/pt/problems/view/2427) - Chocolate *Ad-Hoc*
-  - [x] [2428](https://www.urionlinejudge.com.br/judge/pt/problems/view/2428) - [Capital](https://github.com/potigol/URI-Potigol/blob/master/src/2401-2500/2428.poti) *Ad-Hoc*
+  - [x] [2428](https://www.urionlinejudge.com.br/judge/pt/problems/view/2428) - [Capital](https://github.com/potigol/URI-Potigol/blob/master/src/2401-2500/2428.poti) *Grafos*
   - [ ] [2429](https://www.urionlinejudge.com.br/judge/pt/problems/view/2429) - Rodovia *Grafos*
   - [ ] [2430](https://www.urionlinejudge.com.br/judge/pt/problems/view/2430) - Catálogo de Músicas *Ad-Hoc*
   - [ ] [2431](https://www.urionlinejudge.com.br/judge/pt/problems/view/2431) - Lençol *Ad-Hoc*
@@ -99,4 +99,4 @@
   - [ ] [2497](https://www.urionlinejudge.com.br/judge/pt/problems/view/2497) - Contando Ciclos *Matemática*
   - [ ] [2498](https://www.urionlinejudge.com.br/judge/pt/problems/view/2498) - Ajude Vânia *Paradigmas*
   - [ ] [2499](https://www.urionlinejudge.com.br/judge/pt/problems/view/2499) - Triângulo Interno *Matemática*
-  - [ ] [2500](https://www.urionlinejudge.com.br/judge/pt/problems/view/2500) - William Xorando *Ad-Hoc*
+  - [ ] [2500](https://www.urionlinejudge.com.br/judge/pt/problems/view/2500) - William Xorando *Matemática*

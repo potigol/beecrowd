@@ -1,4 +1,4 @@
-# Geometria Computacional (1 / 74)
+# Geometria Computacional (1 / 75)
 
 ## Problemas não resolvidos
   - [ ] [1039](https://www.urionlinejudge.com.br/judge/pt/problems/view/1039) - Flores de Fogo
@@ -73,6 +73,7 @@
   - [ ] [2695](https://www.urionlinejudge.com.br/judge/pt/problems/view/2695) - Arrumando Lajotas
   - [ ] [2773](https://www.urionlinejudge.com.br/judge/pt/problems/view/2773) - Menor Caminho
   - [ ] [2891](https://www.urionlinejudge.com.br/judge/pt/problems/view/2891) - Um Problema com Final Feliz
+  - [ ] [3064](https://www.urionlinejudge.com.br/judge/pt/problems/view/3064) - Elástico
   - [ ] [3108](https://www.urionlinejudge.com.br/judge/pt/problems/view/3108) - Arremesse os BigOs!
 ## Problemas resolvidos
   - [x] [2840](https://www.urionlinejudge.com.br/judge/pt/problems/view/2840) - [Balão++](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2840.poti)

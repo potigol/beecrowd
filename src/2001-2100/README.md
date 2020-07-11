@@ -39,7 +39,7 @@
   - [ ] [2037](https://www.urionlinejudge.com.br/judge/pt/problems/view/2037) - A Lista *Ad-Hoc*
   - [ ] [2038](https://www.urionlinejudge.com.br/judge/pt/problems/view/2038) - Gerando DNA Alienígena *Grafos*
   - [ ] [2039](https://www.urionlinejudge.com.br/judge/pt/problems/view/2039) - Programadores Devem Aprender Teoria da Computação *Grafos*
-  - [ ] [2040](https://www.urionlinejudge.com.br/judge/pt/problems/view/2040) - O Campeão *Ad-Hoc*
+  - [ ] [2040](https://www.urionlinejudge.com.br/judge/pt/problems/view/2040) - O Campeão *Estruturas e Bibliotecas*
   - [ ] [2041](https://www.urionlinejudge.com.br/judge/pt/problems/view/2041) - Sequência de Gödelito *Ad-Hoc*
   - [ ] [2042](https://www.urionlinejudge.com.br/judge/pt/problems/view/2042) - Fofão da Pérsia *Paradigmas*
   - [ ] [2043](https://www.urionlinejudge.com.br/judge/pt/problems/view/2043) - Montanha Alta *Geometria Computacional*

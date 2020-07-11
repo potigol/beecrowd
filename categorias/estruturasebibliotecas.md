@@ -1,4 +1,4 @@
-# Estruturas e Bibliotecas (10 / 153)
+# Estruturas e Bibliotecas (10 / 159)
 
 ## Problemas não resolvidos
   - [ ] [1023](https://www.urionlinejudge.com.br/judge/pt/problems/view/1023) - Estiagem
@@ -79,6 +79,7 @@
   - [ ] [2018](https://www.urionlinejudge.com.br/judge/pt/problems/view/2018) - Olimpíadas de Natal
   - [ ] [2020](https://www.urionlinejudge.com.br/judge/pt/problems/view/2020) - Elfos e seus Códigos
   - [ ] [2022](https://www.urionlinejudge.com.br/judge/pt/problems/view/2022) - Presentes de Natal
+  - [ ] [2040](https://www.urionlinejudge.com.br/judge/pt/problems/view/2040) - O Campeão
   - [ ] [2047](https://www.urionlinejudge.com.br/judge/pt/problems/view/2047) - Fly By Night
   - [ ] [2064](https://www.urionlinejudge.com.br/judge/pt/problems/view/2064) - Prant e a Indecisão
   - [ ] [2065](https://www.urionlinejudge.com.br/judge/pt/problems/view/2065) - Fila do Supermercado
@@ -101,6 +102,8 @@
   - [ ] [2240](https://www.urionlinejudge.com.br/judge/pt/problems/view/2240) - Fundindo Árvores
   - [ ] [2241](https://www.urionlinejudge.com.br/judge/pt/problems/view/2241) - Go--
   - [ ] [2290](https://www.urionlinejudge.com.br/judge/pt/problems/view/2290) - Números Apaixornados
+  - [ ] [2370](https://www.urionlinejudge.com.br/judge/pt/problems/view/2370) - Times
+  - [ ] [2380](https://www.urionlinejudge.com.br/judge/pt/problems/view/2380) - Fusões
   - [ ] [2482](https://www.urionlinejudge.com.br/judge/pt/problems/view/2482) - Etiquetas de Noel
   - [ ] [2488](https://www.urionlinejudge.com.br/judge/pt/problems/view/2488) - É Na Batida do Cavalo!
   - [ ] [2492](https://www.urionlinejudge.com.br/judge/pt/problems/view/2492) - Ilhas Isoladas
@@ -120,6 +123,7 @@
   - [ ] [2593](https://www.urionlinejudge.com.br/judge/pt/problems/view/2593) - Eachianos I
   - [ ] [2594](https://www.urionlinejudge.com.br/judge/pt/problems/view/2594) - Eachianos II
   - [ ] [2633](https://www.urionlinejudge.com.br/judge/pt/problems/view/2633) - Churras no Yuri
+  - [ ] [2654](https://www.urionlinejudge.com.br/judge/pt/problems/view/2654) - Godofor
   - [ ] [2655](https://www.urionlinejudge.com.br/judge/pt/problems/view/2655) - Trilha Perigosa
   - [ ] [2656](https://www.urionlinejudge.com.br/judge/pt/problems/view/2656) - Rhombus
   - [ ] [2658](https://www.urionlinejudge.com.br/judge/pt/problems/view/2658) - Acordes Intergaláticos
@@ -127,6 +131,7 @@
   - [ ] [2693](https://www.urionlinejudge.com.br/judge/pt/problems/view/2693) - Van
   - [ ] [2720](https://www.urionlinejudge.com.br/judge/pt/problems/view/2720) - Presentes Grandes
   - [ ] [2734](https://www.urionlinejudge.com.br/judge/pt/problems/view/2734) - Trocando Presentes
+  - [ ] [2792](https://www.urionlinejudge.com.br/judge/pt/problems/view/2792) - Golnaldinho
   - [ ] [2800](https://www.urionlinejudge.com.br/judge/pt/problems/view/2800) - Brincando de Consultas
   - [ ] [2805](https://www.urionlinejudge.com.br/judge/pt/problems/view/2805) - Binarizando a Matriz
   - [ ] [2821](https://www.urionlinejudge.com.br/judge/pt/problems/view/2821) - Distribuição de Cartas
@@ -144,6 +149,7 @@
   - [ ] [2961](https://www.urionlinejudge.com.br/judge/pt/problems/view/2961) - Ô, Que Tanto de Filme!
   - [ ] [2984](https://www.urionlinejudge.com.br/judge/pt/problems/view/2984) - Assuntos Pendentes
   - [ ] [3045](https://www.urionlinejudge.com.br/judge/pt/problems/view/3045) - Parque Jurássico
+  - [ ] [3097](https://www.urionlinejudge.com.br/judge/pt/problems/view/3097) - Um Desafio Simples
 ## Problemas resolvidos
   - [x] [1022](https://www.urionlinejudge.com.br/judge/pt/problems/view/1022) - [TDA Racional](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1022.poti)
   - [x] [1068](https://www.urionlinejudge.com.br/judge/pt/problems/view/1068) - [Balanço de Parênteses I](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1068.poti)

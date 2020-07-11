@@ -1,4 +1,4 @@
-# Strings (29 / 129)
+# Strings (29 / 131)
 
 ## Problemas não resolvidos
   - [ ] [1141](https://www.urionlinejudge.com.br/judge/pt/problems/view/1141) - Cultivando Strings
@@ -95,12 +95,14 @@
   - [ ] [2824](https://www.urionlinejudge.com.br/judge/pt/problems/view/2824) - Pudim
   - [ ] [2825](https://www.urionlinejudge.com.br/judge/pt/problems/view/2825) - L de Atreus!?
   - [ ] [2827](https://www.urionlinejudge.com.br/judge/pt/problems/view/2827) - Contador de Tokens
+  - [ ] [2906](https://www.urionlinejudge.com.br/judge/pt/problems/view/2906) - Database of Clients
   - [ ] [2954](https://www.urionlinejudge.com.br/judge/pt/problems/view/2954) - O Jogo
   - [ ] [2974](https://www.urionlinejudge.com.br/judge/pt/problems/view/2974) - Fechadura
   - [ ] [2975](https://www.urionlinejudge.com.br/judge/pt/problems/view/2975) - Anel
   - [ ] [3038](https://www.urionlinejudge.com.br/judge/pt/problems/view/3038) - Carta de Natal Criptografada
   - [ ] [3080](https://www.urionlinejudge.com.br/judge/pt/problems/view/3080) - Proteja os Dados
   - [ ] [3083](https://www.urionlinejudge.com.br/judge/pt/problems/view/3083) - Emreh, Liug E As Strings
+  - [ ] [3118](https://www.urionlinejudge.com.br/judge/pt/problems/view/3118) - Bactérias, Suas Loucas!
 ## Problemas resolvidos
   - [x] [1024](https://www.urionlinejudge.com.br/judge/pt/problems/view/1024) - [Criptografia](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1024.poti)
   - [x] [1120](https://www.urionlinejudge.com.br/judge/pt/problems/view/1120) - [Revisão de Contrato](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1120.poti)

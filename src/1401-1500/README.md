@@ -44,7 +44,7 @@
   - [ ] [1442](https://www.urionlinejudge.com.br/judge/pt/problems/view/1442) - Desvio de Rua *Grafos*
   - [ ] [1443](https://www.urionlinejudge.com.br/judge/pt/problems/view/1443) - Engarrafamento *Ad-Hoc*
   - [ ] [1444](https://www.urionlinejudge.com.br/judge/pt/problems/view/1444) - Corrida dos Marrecos *Matemática*
-  - [ ] [1445](https://www.urionlinejudge.com.br/judge/pt/problems/view/1445) - Quem Vai à Festa? *Ad-Hoc*
+  - [ ] [1445](https://www.urionlinejudge.com.br/judge/pt/problems/view/1445) - Quem Vai à Festa? *Grafos*
   - [ ] [1446](https://www.urionlinejudge.com.br/judge/pt/problems/view/1446) - Diagrama de Venn? *Geometria Computacional*
   - [ ] [1447](https://www.urionlinejudge.com.br/judge/pt/problems/view/1447) - Back to the Future *Grafos*
   - [ ] [1448](https://www.urionlinejudge.com.br/judge/pt/problems/view/1448) - Telefone Sem Fio *Strings*
