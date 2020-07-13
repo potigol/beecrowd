@@ -1,4 +1,4 @@
-# Grafos (2 / 254)
+# Grafos (3 / 258)
 
 ## Problemas não resolvidos
   - [ ] [1053](https://www.urionlinejudge.com.br/judge/pt/problems/view/1053) - Desenho Contínuo
@@ -120,6 +120,7 @@
   - [ ] [1850](https://www.urionlinejudge.com.br/judge/pt/problems/view/1850) - O Labirinto de Ninguém
   - [ ] [1855](https://www.urionlinejudge.com.br/judge/pt/problems/view/1855) - Mapa do Meistre
   - [ ] [1862](https://www.urionlinejudge.com.br/judge/pt/problems/view/1862) - Casas de Westeros
+  - [ ] [1882](https://www.urionlinejudge.com.br/judge/pt/problems/view/1882) - Passeios Aleatórios pela Tailândia
   - [ ] [1883](https://www.urionlinejudge.com.br/judge/pt/problems/view/1883) - Fuga de Ayutthaya
   - [ ] [1894](https://www.urionlinejudge.com.br/judge/pt/problems/view/1894) - Filogenia
   - [ ] [1902](https://www.urionlinejudge.com.br/judge/pt/problems/view/1902) - Sociedade Brasileira Casamenteira
@@ -218,6 +219,7 @@
   - [ ] [2731](https://www.urionlinejudge.com.br/judge/pt/problems/view/2731) - Programação de Viagem
   - [ ] [2732](https://www.urionlinejudge.com.br/judge/pt/problems/view/2732) - Reino De Alice
   - [ ] [2768](https://www.urionlinejudge.com.br/judge/pt/problems/view/2768) - Grafo do Dabriel
+  - [ ] [2781](https://www.urionlinejudge.com.br/judge/pt/problems/view/2781) - Câmara de Compensação
   - [ ] [2784](https://www.urionlinejudge.com.br/judge/pt/problems/view/2784) - Ilhas
   - [ ] [2804](https://www.urionlinejudge.com.br/judge/pt/problems/view/2804) - Ferrovias
   - [ ] [2809](https://www.urionlinejudge.com.br/judge/pt/problems/view/2809) - K-ésimo Caminho
@@ -240,6 +242,7 @@
   - [ ] [2980](https://www.urionlinejudge.com.br/judge/pt/problems/view/2980) - Jogo da Árvore
   - [ ] [3003](https://www.urionlinejudge.com.br/judge/pt/problems/view/3003) - O Grupinho
   - [ ] [3027](https://www.urionlinejudge.com.br/judge/pt/problems/view/3027) - Plano de Treino
+  - [ ] [3028](https://www.urionlinejudge.com.br/judge/pt/problems/view/3028) - Bubble Reactor
   - [ ] [3031](https://www.urionlinejudge.com.br/judge/pt/problems/view/3031) - Xor Spanning Tree
   - [ ] [3044](https://www.urionlinejudge.com.br/judge/pt/problems/view/3044) - Manutenção
   - [ ] [3061](https://www.urionlinejudge.com.br/judge/pt/problems/view/3061) - Manchas de pele
@@ -256,3 +259,4 @@
 ## Problemas resolvidos
   - [x] [2428](https://www.urionlinejudge.com.br/judge/pt/problems/view/2428) - [Capital](https://github.com/potigol/URI-Potigol/blob/master/src/2401-2500/2428.poti)
   - [x] [2687](https://www.urionlinejudge.com.br/judge/pt/problems/view/2687) - [Dominação Bacteriana](https://github.com/potigol/URI-Potigol/blob/master/src/2601-2700/2687.poti)
+  - [x] [3043](https://www.urionlinejudge.com.br/judge/pt/problems/view/3043) - [Festa Junina](https://github.com/potigol/URI-Potigol/blob/master/src/3001-3100/3043.poti)

@@ -2,7 +2,7 @@
 
   - [ ] [3101](https://www.urionlinejudge.com.br/judge/pt/problems/view/3101) - Famílias Poligâmicas *Grafos*
   - [x] [3102](https://www.urionlinejudge.com.br/judge/pt/problems/view/3102) - [Kikoho](https://github.com/potigol/URI-Potigol/blob/master/src/3101-3200/3102.poti) *Matemática*
-  - [ ] [3103](https://www.urionlinejudge.com.br/judge/pt/problems/view/3103) - Número da Sorte *Iniciante*
+  - [ ] [3103](https://www.urionlinejudge.com.br/judge/pt/problems/view/3103) - Número da Sorte *Strings*
   - [ ] [3104](https://www.urionlinejudge.com.br/judge/pt/problems/view/3104) - Resto 2.0 *Matemática*
   - [ ] [3105](https://www.urionlinejudge.com.br/judge/pt/problems/view/3105) - Dobrando Papel *Ad-Hoc*
   - [x] [3106](https://www.urionlinejudge.com.br/judge/pt/problems/view/3106) - [Competição de Códigos](https://github.com/potigol/URI-Potigol/blob/master/src/3101-3200/3106.poti) *Ad-Hoc*

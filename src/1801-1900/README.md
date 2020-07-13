@@ -81,7 +81,7 @@
   - [ ] [1879](https://www.urionlinejudge.com.br/judge/pt/problems/view/1879) - Bridge *Ad-Hoc*
   - [ ] [1880](https://www.urionlinejudge.com.br/judge/pt/problems/view/1880) - Renzo e a Decoração Capicuânica *Ad-Hoc*
   - [ ] [1881](https://www.urionlinejudge.com.br/judge/pt/problems/view/1881) - Competição de Robótica *Ad-Hoc*
-  - [ ] [1882](https://www.urionlinejudge.com.br/judge/pt/problems/view/1882) - Passeios Aleatórios pela Tailândia *Ad-Hoc*
+  - [ ] [1882](https://www.urionlinejudge.com.br/judge/pt/problems/view/1882) - Passeios Aleatórios pela Tailândia *Grafos*
   - [ ] [1883](https://www.urionlinejudge.com.br/judge/pt/problems/view/1883) - Fuga de Ayutthaya *Grafos*
   - [ ] [1884](https://www.urionlinejudge.com.br/judge/pt/problems/view/1884) - Lutando Contra os Rajasi *Ad-Hoc*
   - [ ] [1885](https://www.urionlinejudge.com.br/judge/pt/problems/view/1885) - Loteria Tailandesa *Ad-Hoc*

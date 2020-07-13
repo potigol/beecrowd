@@ -92,7 +92,7 @@
   - [ ] [2190](https://www.urionlinejudge.com.br/judge/pt/problems/view/2190) - Rede Ótica *Grafos*
   - [ ] [2191](https://www.urionlinejudge.com.br/judge/pt/problems/view/2191) - Saldo de Gols *Ad-Hoc*
   - [ ] [2192](https://www.urionlinejudge.com.br/judge/pt/problems/view/2192) - To Add or to Multiply *Ad-Hoc*
-  - [ ] [2193](https://www.urionlinejudge.com.br/judge/pt/problems/view/2193) - Affine Mess *Ad-Hoc*
+  - [ ] [2193](https://www.urionlinejudge.com.br/judge/pt/problems/view/2193) - Affine Mess *Geometria Computacional*
   - [ ] [2194](https://www.urionlinejudge.com.br/judge/pt/problems/view/2194) - Ancient Messages *Ad-Hoc*
   - [ ] [2195](https://www.urionlinejudge.com.br/judge/pt/problems/view/2195) - Chips Challenge *Ad-Hoc*
   - [ ] [2196](https://www.urionlinejudge.com.br/judge/pt/problems/view/2196) - Coffee Central *Ad-Hoc*

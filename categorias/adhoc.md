@@ -1,4 +1,4 @@
-# Ad-Hoc (88 / 689)
+# Ad-Hoc (88 / 692)
 
 ## Problemas não resolvidos
   - [ ] [1030](https://www.urionlinejudge.com.br/judge/pt/problems/view/1030) - A Lenda de Flavious Josephus
@@ -175,7 +175,6 @@
   - [ ] [1879](https://www.urionlinejudge.com.br/judge/pt/problems/view/1879) - Bridge
   - [ ] [1880](https://www.urionlinejudge.com.br/judge/pt/problems/view/1880) - Renzo e a Decoração Capicuânica
   - [ ] [1881](https://www.urionlinejudge.com.br/judge/pt/problems/view/1881) - Competição de Robótica
-  - [ ] [1882](https://www.urionlinejudge.com.br/judge/pt/problems/view/1882) - Passeios Aleatórios pela Tailândia
   - [ ] [1884](https://www.urionlinejudge.com.br/judge/pt/problems/view/1884) - Lutando Contra os Rajasi
   - [ ] [1885](https://www.urionlinejudge.com.br/judge/pt/problems/view/1885) - Loteria Tailandesa
   - [ ] [1886](https://www.urionlinejudge.com.br/judge/pt/problems/view/1886) - Resguardando os Templos
@@ -249,7 +248,6 @@
   - [ ] [2189](https://www.urionlinejudge.com.br/judge/pt/problems/view/2189) - Quermesse
   - [ ] [2191](https://www.urionlinejudge.com.br/judge/pt/problems/view/2191) - Saldo de Gols
   - [ ] [2192](https://www.urionlinejudge.com.br/judge/pt/problems/view/2192) - To Add or to Multiply
-  - [ ] [2193](https://www.urionlinejudge.com.br/judge/pt/problems/view/2193) - Affine Mess
   - [ ] [2194](https://www.urionlinejudge.com.br/judge/pt/problems/view/2194) - Ancient Messages
   - [ ] [2195](https://www.urionlinejudge.com.br/judge/pt/problems/view/2195) - Chips Challenge
   - [ ] [2196](https://www.urionlinejudge.com.br/judge/pt/problems/view/2196) - Coffee Central
@@ -489,6 +487,7 @@
   - [ ] [2736](https://www.urionlinejudge.com.br/judge/pt/problems/view/2736) - Números de Avalon
   - [ ] [2771](https://www.urionlinejudge.com.br/judge/pt/problems/view/2771) - Média
   - [ ] [2772](https://www.urionlinejudge.com.br/judge/pt/problems/view/2772) - Plantação
+  - [ ] [2776](https://www.urionlinejudge.com.br/judge/pt/problems/view/2776) - Promoções
   - [ ] [2788](https://www.urionlinejudge.com.br/judge/pt/problems/view/2788) - Aula
   - [ ] [2789](https://www.urionlinejudge.com.br/judge/pt/problems/view/2789) - Crise Hídrica
   - [ ] [2790](https://www.urionlinejudge.com.br/judge/pt/problems/view/2790) - Dados
@@ -574,7 +573,6 @@
   - [ ] [3022](https://www.urionlinejudge.com.br/judge/pt/problems/view/3022) - Know your Aliens
   - [ ] [3023](https://www.urionlinejudge.com.br/judge/pt/problems/view/3023) - Leverage MDT
   - [ ] [3025](https://www.urionlinejudge.com.br/judge/pt/problems/view/3025) - Coletor
-  - [ ] [3028](https://www.urionlinejudge.com.br/judge/pt/problems/view/3028) - Bubble Reactor
   - [ ] [3030](https://www.urionlinejudge.com.br/judge/pt/problems/view/3030) - Transformadores de Salto
   - [ ] [3032](https://www.urionlinejudge.com.br/judge/pt/problems/view/3032) - Tuplas do Produto
   - [ ] [3033](https://www.urionlinejudge.com.br/judge/pt/problems/view/3033) - Ajude Maria
@@ -590,7 +588,12 @@
   - [ ] [3071](https://www.urionlinejudge.com.br/judge/pt/problems/view/3071) - Melhor Ranking
   - [ ] [3074](https://www.urionlinejudge.com.br/judge/pt/problems/view/3074) - Consultas em Uma Array
   - [ ] [3077](https://www.urionlinejudge.com.br/judge/pt/problems/view/3077) - Distribuindo Pequis
+  - [ ] [3085](https://www.urionlinejudge.com.br/judge/pt/problems/view/3085) - O Grande Dia
+  - [ ] [3087](https://www.urionlinejudge.com.br/judge/pt/problems/view/3087) - O Padawan Jorge
   - [ ] [3090](https://www.urionlinejudge.com.br/judge/pt/problems/view/3090) - Campo de Batalha
+  - [ ] [3092](https://www.urionlinejudge.com.br/judge/pt/problems/view/3092) - Truco da Galera 2.0
+  - [ ] [3093](https://www.urionlinejudge.com.br/judge/pt/problems/view/3093) - Truco da Galera 1.0
+  - [ ] [3094](https://www.urionlinejudge.com.br/judge/pt/problems/view/3094) - Truco da Galera 3.0
   - [ ] [3105](https://www.urionlinejudge.com.br/judge/pt/problems/view/3105) - Dobrando Papel
   - [ ] [3111](https://www.urionlinejudge.com.br/judge/pt/problems/view/3111) - A Vitória de Jim
   - [ ] [3112](https://www.urionlinejudge.com.br/judge/pt/problems/view/3112) - Decodificação Ambígua

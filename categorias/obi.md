@@ -28,7 +28,7 @@
 
   - [x] [2779](https://www.urionlinejudge.com.br/judge/pt/problems/view/2779) - [Álbum da Copa](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2779.poti) *Iniciante*
   - [x] [2780](https://www.urionlinejudge.com.br/judge/pt/problems/view/2780) - [Basquete de Robôs](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2780.poti) *Iniciante*
-  - [ ] [2781](https://www.urionlinejudge.com.br/judge/pt/problems/view/2781) - Câmara de Compensação *Iniciante*
+  - [ ] [2781](https://www.urionlinejudge.com.br/judge/pt/problems/view/2781) - Câmara de Compensação *Grafos*
   - [x] [2782](https://www.urionlinejudge.com.br/judge/pt/problems/view/2782) - [Escadinha](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2782.poti) *Iniciante*
   - [x] [2783](https://www.urionlinejudge.com.br/judge/pt/problems/view/2783) - [Figurinhas da Copa](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2783.poti) *Iniciante*
   - [ ] [2784](https://www.urionlinejudge.com.br/judge/pt/problems/view/2784) - Ilhas *Grafos*
@@ -248,7 +248,7 @@
   - [ ] [2249](https://www.urionlinejudge.com.br/judge/pt/problems/view/2249) - Número de Erdos *Ad-Hoc*
   - [ ] [2250](https://www.urionlinejudge.com.br/judge/pt/problems/view/2250) - Tetris *Ad-Hoc*
   - [ ] [2251](https://www.urionlinejudge.com.br/judge/pt/problems/view/2251) - Torres de Hanói *Ad-Hoc*
-  - [x] [3043](https://www.urionlinejudge.com.br/judge/pt/problems/view/3043) - [Festa Junina](https://github.com/potigol/URI-Potigol/blob/master/src/3001-3100/3043.poti) *Iniciante*
+  - [x] [3043](https://www.urionlinejudge.com.br/judge/pt/problems/view/3043) - [Festa Junina](https://github.com/potigol/URI-Potigol/blob/master/src/3001-3100/3043.poti) *Grafos*
   - [ ] [3044](https://www.urionlinejudge.com.br/judge/pt/problems/view/3044) - Manutenção *Grafos*
   - [ ] [3045](https://www.urionlinejudge.com.br/judge/pt/problems/view/3045) - Parque Jurássico *Estruturas e Bibliotecas*
   - [ ] [3064](https://www.urionlinejudge.com.br/judge/pt/problems/view/3064) - Elástico *Geometria Computacional*
@@ -269,7 +269,7 @@
   - [ ] [3066](https://www.urionlinejudge.com.br/judge/pt/problems/view/3066) - Dengue *Grafos*
   - [ ] [3067](https://www.urionlinejudge.com.br/judge/pt/problems/view/3067) - Dominó *Grafos*
   - [ ] [3068](https://www.urionlinejudge.com.br/judge/pt/problems/view/3068) - Meteóros *Iniciante*
-  - [ ] [3069](https://www.urionlinejudge.com.br/judge/pt/problems/view/3069) - Sorvete *Iniciante*
+  - [ ] [3069](https://www.urionlinejudge.com.br/judge/pt/problems/view/3069) - Sorvete *Estruturas e Bibliotecas*
 
 
 ## 2000

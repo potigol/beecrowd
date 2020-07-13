@@ -1,4 +1,4 @@
-# Estruturas e Bibliotecas (10 / 159)
+# Estruturas e Bibliotecas (10 / 163)
 
 ## Problemas não resolvidos
   - [ ] [1023](https://www.urionlinejudge.com.br/judge/pt/problems/view/1023) - Estiagem
@@ -129,6 +129,8 @@
   - [ ] [2658](https://www.urionlinejudge.com.br/judge/pt/problems/view/2658) - Acordes Intergaláticos
   - [ ] [2671](https://www.urionlinejudge.com.br/judge/pt/problems/view/2671) - Decodificando o Texto
   - [ ] [2693](https://www.urionlinejudge.com.br/judge/pt/problems/view/2693) - Van
+  - [ ] [2698](https://www.urionlinejudge.com.br/judge/pt/problems/view/2698) - Dispositivo Assombrado
+  - [ ] [2700](https://www.urionlinejudge.com.br/judge/pt/problems/view/2700) - Angariando Fundos
   - [ ] [2720](https://www.urionlinejudge.com.br/judge/pt/problems/view/2720) - Presentes Grandes
   - [ ] [2734](https://www.urionlinejudge.com.br/judge/pt/problems/view/2734) - Trocando Presentes
   - [ ] [2792](https://www.urionlinejudge.com.br/judge/pt/problems/view/2792) - Golnaldinho
@@ -145,10 +147,12 @@
   - [ ] [2893](https://www.urionlinejudge.com.br/judge/pt/problems/view/2893) - Fibonac^{k}i
   - [ ] [2916](https://www.urionlinejudge.com.br/judge/pt/problems/view/2916) - A Nota
   - [ ] [2929](https://www.urionlinejudge.com.br/judge/pt/problems/view/2929) - Menor da Pilha
+  - [ ] [2952](https://www.urionlinejudge.com.br/judge/pt/problems/view/2952) - A Vida Sustentável
   - [ ] [2958](https://www.urionlinejudge.com.br/judge/pt/problems/view/2958) - O Rolê Bad Vibes
   - [ ] [2961](https://www.urionlinejudge.com.br/judge/pt/problems/view/2961) - Ô, Que Tanto de Filme!
   - [ ] [2984](https://www.urionlinejudge.com.br/judge/pt/problems/view/2984) - Assuntos Pendentes
   - [ ] [3045](https://www.urionlinejudge.com.br/judge/pt/problems/view/3045) - Parque Jurássico
+  - [ ] [3069](https://www.urionlinejudge.com.br/judge/pt/problems/view/3069) - Sorvete
   - [ ] [3097](https://www.urionlinejudge.com.br/judge/pt/problems/view/3097) - Um Desafio Simples
 ## Problemas resolvidos
   - [x] [1022](https://www.urionlinejudge.com.br/judge/pt/problems/view/1022) - [TDA Racional](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1022.poti)

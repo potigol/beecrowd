@@ -1,0 +1,7 @@
+s = leia_texto
+q = s.divida(" ")
+r = s.descarte_enquanto(_ <> ' ').cauda.descarte_enquanto(_ <> ' ').cauda
+a, b, c, d = q[1].inteiro, q[2].toFloat, r.cabeça, r.cauda.cauda
+escreva "{a}{b formato "%.6f"}{c}{d}"
+escreva "{a}"+"\t"+"{b formato "%.6f"}"+"\t"+"{c}"+"\t"+"{d}"
+escreva "{a formato "%10d"}{b formato "%10.6f"}{c formato "%10c"}{d formato "%10s"}"

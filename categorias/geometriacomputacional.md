@@ -1,4 +1,4 @@
-# Geometria Computacional (1 / 75)
+# Geometria Computacional (1 / 77)
 
 ## Problemas não resolvidos
   - [ ] [1039](https://www.urionlinejudge.com.br/judge/pt/problems/view/1039) - Flores de Fogo
@@ -60,6 +60,7 @@
   - [ ] [2094](https://www.urionlinejudge.com.br/judge/pt/problems/view/2094) - Flores
   - [ ] [2104](https://www.urionlinejudge.com.br/judge/pt/problems/view/2104) - Lasers
   - [ ] [2158](https://www.urionlinejudge.com.br/judge/pt/problems/view/2158) - Ajudando o Tio Cláudio
+  - [ ] [2193](https://www.urionlinejudge.com.br/judge/pt/problems/view/2193) - Affine Mess
   - [ ] [2245](https://www.urionlinejudge.com.br/judge/pt/problems/view/2245) - Kit de Encolhimento de Polígonos
   - [ ] [2362](https://www.urionlinejudge.com.br/judge/pt/problems/view/2362) - Invasão Alienígena
   - [ ] [2517](https://www.urionlinejudge.com.br/judge/pt/problems/view/2517) - Desafio PoGro
@@ -74,6 +75,7 @@
   - [ ] [2773](https://www.urionlinejudge.com.br/judge/pt/problems/view/2773) - Menor Caminho
   - [ ] [2891](https://www.urionlinejudge.com.br/judge/pt/problems/view/2891) - Um Problema com Final Feliz
   - [ ] [3064](https://www.urionlinejudge.com.br/judge/pt/problems/view/3064) - Elástico
+  - [ ] [3081](https://www.urionlinejudge.com.br/judge/pt/problems/view/3081) - Órbita
   - [ ] [3108](https://www.urionlinejudge.com.br/judge/pt/problems/view/3108) - Arremesse os BigOs!
 ## Problemas resolvidos
   - [x] [2840](https://www.urionlinejudge.com.br/judge/pt/problems/view/2840) - [Balão++](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2840.poti)

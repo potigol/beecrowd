@@ -60,7 +60,7 @@
   - [ ] [2758](https://www.urionlinejudge.com.br/judge/pt/problems/view/2758) - Entrada e Saída de Números Reais *Iniciante*
   - [x] [2759](https://www.urionlinejudge.com.br/judge/pt/problems/view/2759) - [Entrada e Saída de Carácter](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2759.poti) *Iniciante*
   - [x] [2760](https://www.urionlinejudge.com.br/judge/pt/problems/view/2760) - [Entrada e Saída de String](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2760.poti) *Iniciante*
-  - [ ] [2761](https://www.urionlinejudge.com.br/judge/pt/problems/view/2761) - Entrada e Saída de Vários Tipos *Iniciante*
+  - [x] [2761](https://www.urionlinejudge.com.br/judge/pt/problems/view/2761) - [Entrada e Saída de Vários Tipos](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2761.poti) *Iniciante*
   - [x] [2762](https://www.urionlinejudge.com.br/judge/pt/problems/view/2762) - [Entrada e Saída 6](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2762.poti) *Iniciante*
   - [x] [2763](https://www.urionlinejudge.com.br/judge/pt/problems/view/2763) - [Entrada e Saída CPF](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2763.poti) *Iniciante*
   - [x] [2764](https://www.urionlinejudge.com.br/judge/pt/problems/view/2764) - [Entrada e Saída de Data](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2764.poti) *Iniciante*
@@ -75,12 +75,12 @@
   - [ ] [2773](https://www.urionlinejudge.com.br/judge/pt/problems/view/2773) - Menor Caminho *Geometria Computacional*
   - [x] [2774](https://www.urionlinejudge.com.br/judge/pt/problems/view/2774) - [Precisão do Sensor](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2774.poti) *Iniciante*
   - [ ] [2775](https://www.urionlinejudge.com.br/judge/pt/problems/view/2775) - Preparando a Produção *Iniciante*
-  - [ ] [2776](https://www.urionlinejudge.com.br/judge/pt/problems/view/2776) - Promoções *Iniciante*
+  - [ ] [2776](https://www.urionlinejudge.com.br/judge/pt/problems/view/2776) - Promoções *Ad-Hoc*
   - [ ] [2777](https://www.urionlinejudge.com.br/judge/pt/problems/view/2777) - Subsets do Dabriel *Matemática*
   - [ ] [2778](https://www.urionlinejudge.com.br/judge/pt/problems/view/2778) - Matriz do Dabriel *Paradigmas*
   - [x] [2779](https://www.urionlinejudge.com.br/judge/pt/problems/view/2779) - [Álbum da Copa](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2779.poti) *Iniciante*
   - [x] [2780](https://www.urionlinejudge.com.br/judge/pt/problems/view/2780) - [Basquete de Robôs](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2780.poti) *Iniciante*
-  - [ ] [2781](https://www.urionlinejudge.com.br/judge/pt/problems/view/2781) - Câmara de Compensação *Iniciante*
+  - [ ] [2781](https://www.urionlinejudge.com.br/judge/pt/problems/view/2781) - Câmara de Compensação *Grafos*
   - [x] [2782](https://www.urionlinejudge.com.br/judge/pt/problems/view/2782) - [Escadinha](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2782.poti) *Iniciante*
   - [x] [2783](https://www.urionlinejudge.com.br/judge/pt/problems/view/2783) - [Figurinhas da Copa](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2783.poti) *Iniciante*
   - [ ] [2784](https://www.urionlinejudge.com.br/judge/pt/problems/view/2784) - Ilhas *Grafos*

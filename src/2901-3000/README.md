@@ -51,7 +51,7 @@
   - [x] [2949](https://www.urionlinejudge.com.br/judge/pt/problems/view/2949) - [A Sociedade do Anel](https://github.com/potigol/URI-Potigol/blob/master/src/2901-3000/2949.poti) *Iniciante*
   - [x] [2950](https://www.urionlinejudge.com.br/judge/pt/problems/view/2950) - [As Duas Torres](https://github.com/potigol/URI-Potigol/blob/master/src/2901-3000/2950.poti) *Iniciante*
   - [x] [2951](https://www.urionlinejudge.com.br/judge/pt/problems/view/2951) - [O Retorno do Rei](https://github.com/potigol/URI-Potigol/blob/master/src/2901-3000/2951.poti) *Iniciante*
-  - [ ] [2952](https://www.urionlinejudge.com.br/judge/pt/problems/view/2952) - A Vida Sustentável *Iniciante*
+  - [ ] [2952](https://www.urionlinejudge.com.br/judge/pt/problems/view/2952) - A Vida Sustentável *Estruturas e Bibliotecas*
   - [ ] [2953](https://www.urionlinejudge.com.br/judge/pt/problems/view/2953) - Mais um Joguinho *Matemática*
   - [ ] [2954](https://www.urionlinejudge.com.br/judge/pt/problems/view/2954) - O Jogo *Strings*
   - [ ] [2955](https://www.urionlinejudge.com.br/judge/pt/problems/view/2955) - Truuuuuco! *Matemática*

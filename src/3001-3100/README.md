@@ -27,7 +27,7 @@
   - [ ] [3025](https://www.urionlinejudge.com.br/judge/pt/problems/view/3025) - Coletor *Ad-Hoc*
   - [ ] [3026](https://www.urionlinejudge.com.br/judge/pt/problems/view/3026) - Número Inteiro Periódico *Matemática*
   - [ ] [3027](https://www.urionlinejudge.com.br/judge/pt/problems/view/3027) - Plano de Treino *Grafos*
-  - [ ] [3028](https://www.urionlinejudge.com.br/judge/pt/problems/view/3028) - Bubble Reactor *Ad-Hoc*
+  - [ ] [3028](https://www.urionlinejudge.com.br/judge/pt/problems/view/3028) - Bubble Reactor *Grafos*
   - [ ] [3029](https://www.urionlinejudge.com.br/judge/pt/problems/view/3029) - Função Composição *Matemática*
   - [ ] [3030](https://www.urionlinejudge.com.br/judge/pt/problems/view/3030) - Transformadores de Salto *Ad-Hoc*
   - [ ] [3031](https://www.urionlinejudge.com.br/judge/pt/problems/view/3031) - Xor Spanning Tree *Grafos*
@@ -42,7 +42,7 @@
   - [x] [3040](https://www.urionlinejudge.com.br/judge/pt/problems/view/3040) - [A Árvore de Natal](https://github.com/potigol/URI-Potigol/blob/master/src/3001-3100/3040.poti) *Iniciante*
   - [ ] [3041](https://www.urionlinejudge.com.br/judge/pt/problems/view/3041) - Distribuição de Artigos *Ad-Hoc*
   - [x] [3042](https://www.urionlinejudge.com.br/judge/pt/problems/view/3042) - [Desviando de Árvores de Natal](https://github.com/potigol/URI-Potigol/blob/master/src/3001-3100/3042.poti) *Iniciante*
-  - [x] [3043](https://www.urionlinejudge.com.br/judge/pt/problems/view/3043) - [Festa Junina](https://github.com/potigol/URI-Potigol/blob/master/src/3001-3100/3043.poti) *Iniciante*
+  - [x] [3043](https://www.urionlinejudge.com.br/judge/pt/problems/view/3043) - [Festa Junina](https://github.com/potigol/URI-Potigol/blob/master/src/3001-3100/3043.poti) *Grafos*
   - [ ] [3044](https://www.urionlinejudge.com.br/judge/pt/problems/view/3044) - Manutenção *Grafos*
   - [ ] [3045](https://www.urionlinejudge.com.br/judge/pt/problems/view/3045) - Parque Jurássico *Estruturas e Bibliotecas*
   - [x] [3046](https://www.urionlinejudge.com.br/judge/pt/problems/view/3046) - [Dominó](https://github.com/potigol/URI-Potigol/blob/master/src/3001-3100/3046.poti) *Iniciante*
@@ -68,7 +68,7 @@
   - [ ] [3066](https://www.urionlinejudge.com.br/judge/pt/problems/view/3066) - Dengue *Grafos*
   - [ ] [3067](https://www.urionlinejudge.com.br/judge/pt/problems/view/3067) - Dominó *Grafos*
   - [ ] [3068](https://www.urionlinejudge.com.br/judge/pt/problems/view/3068) - Meteóros *Iniciante*
-  - [ ] [3069](https://www.urionlinejudge.com.br/judge/pt/problems/view/3069) - Sorvete *Iniciante*
+  - [ ] [3069](https://www.urionlinejudge.com.br/judge/pt/problems/view/3069) - Sorvete *Estruturas e Bibliotecas*
   - [ ] [3070](https://www.urionlinejudge.com.br/judge/pt/problems/view/3070) - Autoestradas HyperspaceTM *Grafos*
   - [ ] [3071](https://www.urionlinejudge.com.br/judge/pt/problems/view/3071) - Melhor Ranking *Ad-Hoc*
   - [ ] [3072](https://www.urionlinejudge.com.br/judge/pt/problems/view/3072) - Namoro *Grafos*
@@ -80,23 +80,23 @@
   - [ ] [3078](https://www.urionlinejudge.com.br/judge/pt/problems/view/3078) - Só o Ouro *Matemática*
   - [ ] [3079](https://www.urionlinejudge.com.br/judge/pt/problems/view/3079) - Rua Iluminada *Matemática*
   - [ ] [3080](https://www.urionlinejudge.com.br/judge/pt/problems/view/3080) - Proteja os Dados *Strings*
-  - [ ] [3081](https://www.urionlinejudge.com.br/judge/pt/problems/view/3081) - Órbita *Iniciante*
+  - [ ] [3081](https://www.urionlinejudge.com.br/judge/pt/problems/view/3081) - Órbita *Geometria Computacional*
   - [ ] [3082](https://www.urionlinejudge.com.br/judge/pt/problems/view/3082) - Matador De Onça Mutante *Grafos*
   - [ ] [3083](https://www.urionlinejudge.com.br/judge/pt/problems/view/3083) - Emreh, Liug E As Strings *Strings*
   - [x] [3084](https://www.urionlinejudge.com.br/judge/pt/problems/view/3084) - [Relógio Antigo](https://github.com/potigol/URI-Potigol/blob/master/src/3001-3100/3084.poti) *Iniciante*
-  - [ ] [3085](https://www.urionlinejudge.com.br/judge/pt/problems/view/3085) - O Grande Dia *Iniciante*
+  - [ ] [3085](https://www.urionlinejudge.com.br/judge/pt/problems/view/3085) - O Grande Dia *Ad-Hoc*
   - [ ] [3086](https://www.urionlinejudge.com.br/judge/pt/problems/view/3086) - O Cavaleiro Jedi Guilherme *Paradigmas*
-  - [ ] [3087](https://www.urionlinejudge.com.br/judge/pt/problems/view/3087) - O Padawan Jorge *Iniciante*
-  - [x] [3088](https://www.urionlinejudge.com.br/judge/pt/problems/view/3088) - [Correção de Texto](https://github.com/potigol/URI-Potigol/blob/master/src/3001-3100/3088.poti) *Iniciante*
+  - [ ] [3087](https://www.urionlinejudge.com.br/judge/pt/problems/view/3087) - O Padawan Jorge *Ad-Hoc*
+  - [x] [3088](https://www.urionlinejudge.com.br/judge/pt/problems/view/3088) - [Correção de Texto](https://github.com/potigol/URI-Potigol/blob/master/src/3001-3100/3088.poti) *Strings*
   - [x] [3089](https://www.urionlinejudge.com.br/judge/pt/problems/view/3089) - [Presentes de Natal](https://github.com/potigol/URI-Potigol/blob/master/src/3001-3100/3089.poti) *Iniciante*
   - [ ] [3090](https://www.urionlinejudge.com.br/judge/pt/problems/view/3090) - Campo de Batalha *Ad-Hoc*
   - [x] [3091](https://www.urionlinejudge.com.br/judge/pt/problems/view/3091) - [Resto 1.0](https://github.com/potigol/URI-Potigol/blob/master/src/3001-3100/3091.poti) *Iniciante*
-  - [ ] [3092](https://www.urionlinejudge.com.br/judge/pt/problems/view/3092) - Truco da Galera 2.0 *Iniciante*
-  - [ ] [3093](https://www.urionlinejudge.com.br/judge/pt/problems/view/3093) - Truco da Galera 1.0 *Iniciante*
-  - [ ] [3094](https://www.urionlinejudge.com.br/judge/pt/problems/view/3094) - Truco da Galera 3.0 *Iniciante*
+  - [ ] [3092](https://www.urionlinejudge.com.br/judge/pt/problems/view/3092) - Truco da Galera 2.0 *Ad-Hoc*
+  - [ ] [3093](https://www.urionlinejudge.com.br/judge/pt/problems/view/3093) - Truco da Galera 1.0 *Ad-Hoc*
+  - [ ] [3094](https://www.urionlinejudge.com.br/judge/pt/problems/view/3094) - Truco da Galera 3.0 *Ad-Hoc*
   - [ ] [3095](https://www.urionlinejudge.com.br/judge/pt/problems/view/3095) - Pudim dos Guerreiros *Paradigmas*
   - [ ] [3096](https://www.urionlinejudge.com.br/judge/pt/problems/view/3096) - Overflow *Matemática*
   - [ ] [3097](https://www.urionlinejudge.com.br/judge/pt/problems/view/3097) - Um Desafio Simples *Estruturas e Bibliotecas*
   - [ ] [3098](https://www.urionlinejudge.com.br/judge/pt/problems/view/3098) - Plíndromo *Paradigmas*
   - [ ] [3099](https://www.urionlinejudge.com.br/judge/pt/problems/view/3099) - O Problema do 7 x 1 *Matemática*
-  - [ ] [3100](https://www.urionlinejudge.com.br/judge/pt/problems/view/3100) - Os Dígitos da Sorte *Iniciante*
+  - [ ] [3100](https://www.urionlinejudge.com.br/judge/pt/problems/view/3100) - Os Dígitos da Sorte *Strings*
