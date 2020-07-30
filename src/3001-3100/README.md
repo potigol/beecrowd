@@ -67,7 +67,7 @@
   - [x] [3065](https://www.urionlinejudge.com.br/judge/pt/problems/view/3065) - [Calculando](https://github.com/potigol/URI-Potigol/blob/master/src/3001-3100/3065.poti) *Iniciante*
   - [ ] [3066](https://www.urionlinejudge.com.br/judge/pt/problems/view/3066) - Dengue *Grafos*
   - [ ] [3067](https://www.urionlinejudge.com.br/judge/pt/problems/view/3067) - Dominó *Grafos*
-  - [ ] [3068](https://www.urionlinejudge.com.br/judge/pt/problems/view/3068) - Meteóros *Iniciante*
+  - [ ] [3068](https://www.urionlinejudge.com.br/judge/pt/problems/view/3068) - Meteoros *Iniciante*
   - [ ] [3069](https://www.urionlinejudge.com.br/judge/pt/problems/view/3069) - Sorvete *Estruturas e Bibliotecas*
   - [ ] [3070](https://www.urionlinejudge.com.br/judge/pt/problems/view/3070) - Autoestradas HyperspaceTM *Grafos*
   - [ ] [3071](https://www.urionlinejudge.com.br/judge/pt/problems/view/3071) - Melhor Ranking *Ad-Hoc*

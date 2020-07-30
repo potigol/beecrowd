@@ -1,4 +1,4 @@
-# Paradigmas (2 / 201)
+# Paradigmas (2 / 202)
 
 ## Problemas não resolvidos
   - [ ] [1027](https://www.urionlinejudge.com.br/judge/pt/problems/view/1027) - Onda Crítica
@@ -77,6 +77,7 @@
   - [ ] [1645](https://www.urionlinejudge.com.br/judge/pt/problems/view/1645) - El Dorado
   - [ ] [1648](https://www.urionlinejudge.com.br/judge/pt/problems/view/1648) - Ajude Bob
   - [ ] [1649](https://www.urionlinejudge.com.br/judge/pt/problems/view/1649) - Ferramenta Irritante de Pintura
+  - [ ] [1654](https://www.urionlinejudge.com.br/judge/pt/problems/view/1654) - Mercearia
   - [ ] [1659](https://www.urionlinejudge.com.br/judge/pt/problems/view/1659) - Chamadas Econômicas
   - [ ] [1661](https://www.urionlinejudge.com.br/judge/pt/problems/view/1661) - Comércio de Vinhos na Gergóvia
   - [ ] [1666](https://www.urionlinejudge.com.br/judge/pt/problems/view/1666) - Qualquer Tolo Consegue

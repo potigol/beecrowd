@@ -1,4 +1,4 @@
-# Iniciante (277 / 289)
+# Iniciante (278 / 289)
 
 ## Problemas não resolvidos
   - [ ] [2632](https://www.urionlinejudge.com.br/judge/pt/problems/view/2632) - Magic and Sword
@@ -11,8 +11,7 @@
   - [ ] [2775](https://www.urionlinejudge.com.br/judge/pt/problems/view/2775) - Preparando a Produção
   - [ ] [2785](https://www.urionlinejudge.com.br/judge/pt/problems/view/2785) - Pirâmide
   - [ ] [2823](https://www.urionlinejudge.com.br/judge/pt/problems/view/2823) - Eearliest Deadline First
-  - [ ] [2852](https://www.urionlinejudge.com.br/judge/pt/problems/view/2852) - Troca de Mensagens
-  - [ ] [3068](https://www.urionlinejudge.com.br/judge/pt/problems/view/3068) - Meteóros
+  - [ ] [3068](https://www.urionlinejudge.com.br/judge/pt/problems/view/3068) - Meteoros
 ## Problemas resolvidos
   - [x] [1001](https://www.urionlinejudge.com.br/judge/pt/problems/view/1001) - [Extremamente Básico](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1001.poti)
   - [x] [1002](https://www.urionlinejudge.com.br/judge/pt/problems/view/1002) - [Área do Círculo](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1002.poti)
@@ -263,6 +262,7 @@
   - [x] [2845](https://www.urionlinejudge.com.br/judge/pt/problems/view/2845) - [Festa no Polo Norte](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2845.poti)
   - [x] [2846](https://www.urionlinejudge.com.br/judge/pt/problems/view/2846) - [Fibonot](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2846.poti)
   - [x] [2850](https://www.urionlinejudge.com.br/judge/pt/problems/view/2850) - [Papagaio Poliglota](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2850.poti)
+  - [x] [2852](https://www.urionlinejudge.com.br/judge/pt/problems/view/2852) - [Troca de Mensagens](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2852.poti)
   - [x] [2861](https://www.urionlinejudge.com.br/judge/pt/problems/view/2861) - [A Saída](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2861.poti)
   - [x] [2862](https://www.urionlinejudge.com.br/judge/pt/problems/view/2862) - [Inseto!](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2862.poti)
   - [x] [2863](https://www.urionlinejudge.com.br/judge/pt/problems/view/2863) - [Umil Bolt](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2863.poti)

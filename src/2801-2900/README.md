@@ -51,7 +51,7 @@
   - [ ] [2849](https://www.urionlinejudge.com.br/judge/pt/problems/view/2849) - Rangel e o Jogo do Vetor II *Estruturas e Bibliotecas*
   - [x] [2850](https://www.urionlinejudge.com.br/judge/pt/problems/view/2850) - [Papagaio Poliglota](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2850.poti) *Iniciante*
   - [x] [2851](https://www.urionlinejudge.com.br/judge/pt/problems/view/2851) - [Desafio de Rangel](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2851.poti) *Ad-Hoc*
-  - [ ] [2852](https://www.urionlinejudge.com.br/judge/pt/problems/view/2852) - Troca de Mensagens *Iniciante*
+  - [x] [2852](https://www.urionlinejudge.com.br/judge/pt/problems/view/2852) - [Troca de Mensagens](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2852.poti) *Iniciante*
   - [ ] [2853](https://www.urionlinejudge.com.br/judge/pt/problems/view/2853) - Invenções de Bibika *Ad-Hoc*
   - [ ] [2854](https://www.urionlinejudge.com.br/judge/pt/problems/view/2854) - Árvore Genealógica *Grafos*
   - [ ] [2855](https://www.urionlinejudge.com.br/judge/pt/problems/view/2855) - Números de Sorte *Estruturas e Bibliotecas*

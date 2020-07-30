@@ -650,6 +650,7 @@
 1651	Cilindro	Geometria Computacional
 1652	Deli Deli	Ad-Hoc
 1653	Expressões	Grafos
+1654	Mercearia	Paradigmas
 1655	106 Milhas Para Chicago	Grafos
 1656	Doces do Dia das Bruxas	Matemática
 1657	Corretor Automático de Erros de Soletração	Ad-Hoc
@@ -2043,7 +2044,7 @@
 3065	Calculando	Iniciante
 3066	Dengue	Grafos
 3067	Dominó	Grafos
-3068	Meteóros	Iniciante
+3068	Meteoros	Iniciante
 3069	Sorvete	Estruturas e Bibliotecas
 3070	Autoestradas HyperspaceTM	Grafos
 3071	Melhor Ranking	Ad-Hoc
