@@ -1,4 +1,4 @@
-# Geometria Computacional (1 / 77)
+# Geometria Computacional (1 / 76)
 
 ## Problemas não resolvidos
   - [ ] [1039](https://www.urionlinejudge.com.br/judge/pt/problems/view/1039) - Flores de Fogo
@@ -11,7 +11,6 @@
   - [ ] [1223](https://www.urionlinejudge.com.br/judge/pt/problems/view/1223) - Tobogan de Bolinhas
   - [ ] [1268](https://www.urionlinejudge.com.br/judge/pt/problems/view/1268) - Missão Impossível
   - [ ] [1291](https://www.urionlinejudge.com.br/judge/pt/problems/view/1291) - Será Isso Integração?
-  - [ ] [1292](https://www.urionlinejudge.com.br/judge/pt/problems/view/1292) - Problema com um Pentágono
   - [ ] [1293](https://www.urionlinejudge.com.br/judge/pt/problems/view/1293) - Romeu e Julieta!
   - [ ] [1294](https://www.urionlinejudge.com.br/judge/pt/problems/view/1294) - A Maior e Menor Caixa
   - [ ] [1295](https://www.urionlinejudge.com.br/judge/pt/problems/view/1295) - Problema dos Pares Mais Próximos

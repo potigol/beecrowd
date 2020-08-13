@@ -498,7 +498,7 @@
   - [ ] [1269](https://www.urionlinejudge.com.br/judge/pt/problems/view/1269) - ICPC Ataca Novamente *Paradigmas*
   - [ ] [1270](https://www.urionlinejudge.com.br/judge/pt/problems/view/1270) - Fibra Óptica *Grafos*
   - [ ] [1271](https://www.urionlinejudge.com.br/judge/pt/problems/view/1271) - Onde estão meus Genes *Ad-Hoc*
-  - [ ] [1274](https://www.urionlinejudge.com.br/judge/pt/problems/view/1274) - P-Networks *Estruturas e Bibliotecas*
+  - [ ] ~~1274~~
   - [ ] [1275](https://www.urionlinejudge.com.br/judge/pt/problems/view/1275) - Light Up *Grafos*
 
 
@@ -551,7 +551,7 @@
 ### 2ª Fase
 
   - [ ] [1315](https://www.urionlinejudge.com.br/judge/pt/problems/view/1315) - Não tão Convexo *Geometria Computacional*
-  - [ ] [1316](https://www.urionlinejudge.com.br/judge/pt/problems/view/1316) - Compra Livre de Impostos *Matemática*
+  - [ ] ~~1316~~
   - [ ] [1317](https://www.urionlinejudge.com.br/judge/pt/problems/view/1317) - Eu Odeio SPAM, Mas Algumas Pessoas Amam *Grafos*
   - [ ] [1318](https://www.urionlinejudge.com.br/judge/pt/problems/view/1318) - Bilhetes Falsos *Ad-Hoc*
   - [ ] [1330](https://www.urionlinejudge.com.br/judge/pt/problems/view/1330) - A Terra Herdada por Tio Tom *Grafos*

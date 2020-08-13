@@ -15,7 +15,7 @@
   - [ ] [1313](https://www.urionlinejudge.com.br/judge/pt/problems/view/1313) - Dicionário Portuñol *Strings*
   - [ ] [1314](https://www.urionlinejudge.com.br/judge/pt/problems/view/1314) - Labirintos de Cerca Viva *Grafos*
   - [ ] [1315](https://www.urionlinejudge.com.br/judge/pt/problems/view/1315) - Não tão Convexo *Geometria Computacional*
-  - [ ] [1316](https://www.urionlinejudge.com.br/judge/pt/problems/view/1316) - Compra Livre de Impostos *Matemática*
+  - [ ] ~~1316~~
   - [ ] [1317](https://www.urionlinejudge.com.br/judge/pt/problems/view/1317) - Eu Odeio SPAM, Mas Algumas Pessoas Amam *Grafos*
   - [ ] [1318](https://www.urionlinejudge.com.br/judge/pt/problems/view/1318) - Bilhetes Falsos *Ad-Hoc*
   - [ ] [1319](https://www.urionlinejudge.com.br/judge/pt/problems/view/1319) - Garota Hiperativa *Paradigmas*

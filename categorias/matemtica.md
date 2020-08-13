@@ -1,4 +1,4 @@
-# Matemática (30 / 245)
+# Matemática (30 / 244)
 
 ## Problemas não resolvidos
   - [ ] [1093](https://www.urionlinejudge.com.br/judge/pt/problems/view/1093) - Vampiros
@@ -25,7 +25,6 @@
   - [ ] [1307](https://www.urionlinejudge.com.br/judge/pt/problems/view/1307) - Tudo o que Você Precisa é Amor
   - [ ] [1308](https://www.urionlinejudge.com.br/judge/pt/problems/view/1308) - Guerreiros Etruscos Nunca Jogam Xadrez
   - [ ] [1309](https://www.urionlinejudge.com.br/judge/pt/problems/view/1309) - Formatação Monetária
-  - [ ] [1316](https://www.urionlinejudge.com.br/judge/pt/problems/view/1316) - Compra Livre de Impostos
   - [ ] [1324](https://www.urionlinejudge.com.br/judge/pt/problems/view/1324) - Bóson de Higgs
   - [ ] [1338](https://www.urionlinejudge.com.br/judge/pt/problems/view/1338) - It-Miha
   - [ ] [1346](https://www.urionlinejudge.com.br/judge/pt/problems/view/1346) - Brincadeira de Criança
@@ -209,7 +208,7 @@
   - [ ] [3007](https://www.urionlinejudge.com.br/judge/pt/problems/view/3007) - Lucas e Frobenius
   - [ ] [3026](https://www.urionlinejudge.com.br/judge/pt/problems/view/3026) - Número Inteiro Periódico
   - [ ] [3029](https://www.urionlinejudge.com.br/judge/pt/problems/view/3029) - Função Composição
-  - [ ] [3036](https://www.urionlinejudge.com.br/judge/pt/problems/view/3036) - Cor da camisa
+  - [ ] [3036](https://www.urionlinejudge.com.br/judge/pt/problems/view/3036) - Cor da Camisa
   - [ ] [3078](https://www.urionlinejudge.com.br/judge/pt/problems/view/3078) - Só o Ouro
   - [ ] [3079](https://www.urionlinejudge.com.br/judge/pt/problems/view/3079) - Rua Iluminada
   - [ ] [3096](https://www.urionlinejudge.com.br/judge/pt/problems/view/3096) - Overflow

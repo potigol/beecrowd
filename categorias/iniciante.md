@@ -1,13 +1,11 @@
-# Iniciante (278 / 289)
+# Iniciante (280 / 289)
 
 ## Problemas não resolvidos
   - [ ] [2632](https://www.urionlinejudge.com.br/judge/pt/problems/view/2632) - Magic and Sword
   - [ ] [2699](https://www.urionlinejudge.com.br/judge/pt/problems/view/2699) - Enigma
-  - [ ] [2709](https://www.urionlinejudge.com.br/judge/pt/problems/view/2709) - As Moedas de Robbie
   - [ ] [2715](https://www.urionlinejudge.com.br/judge/pt/problems/view/2715) - Dividindo os Trabalhos I
   - [ ] [2724](https://www.urionlinejudge.com.br/judge/pt/problems/view/2724) - Ajude Patatatitu
   - [ ] [2758](https://www.urionlinejudge.com.br/judge/pt/problems/view/2758) - Entrada e Saída de Números Reais
-  - [ ] [2769](https://www.urionlinejudge.com.br/judge/pt/problems/view/2769) - Linha de Montagem
   - [ ] [2775](https://www.urionlinejudge.com.br/judge/pt/problems/view/2775) - Preparando a Produção
   - [ ] [2785](https://www.urionlinejudge.com.br/judge/pt/problems/view/2785) - Pirâmide
   - [ ] [2823](https://www.urionlinejudge.com.br/judge/pt/problems/view/2823) - Eearliest Deadline First
@@ -221,6 +219,7 @@
   - [x] [2686](https://www.urionlinejudge.com.br/judge/pt/problems/view/2686) - [A Mudança Continua!!](https://github.com/potigol/URI-Potigol/blob/master/src/2601-2700/2686.poti)
   - [x] [2702](https://www.urionlinejudge.com.br/judge/pt/problems/view/2702) - [Escolha Difícil](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2702.poti)
   - [x] [2708](https://www.urionlinejudge.com.br/judge/pt/problems/view/2708) - [Turistas no Parque Huacachina](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2708.poti)
+  - [x] [2709](https://www.urionlinejudge.com.br/judge/pt/problems/view/2709) - [As Moedas de Robbie](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2709.poti)
   - [x] [2712](https://www.urionlinejudge.com.br/judge/pt/problems/view/2712) - [Rodízio Veicular](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2712.poti)
   - [x] [2717](https://www.urionlinejudge.com.br/judge/pt/problems/view/2717) - [Tempo do Duende](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2717.poti)
   - [x] [2718](https://www.urionlinejudge.com.br/judge/pt/problems/view/2718) - [Luzes de Natal](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2718.poti)
@@ -244,6 +243,7 @@
   - [x] [2764](https://www.urionlinejudge.com.br/judge/pt/problems/view/2764) - [Entrada e Saída de Data](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2764.poti)
   - [x] [2765](https://www.urionlinejudge.com.br/judge/pt/problems/view/2765) - [Entrada e Saída com Virgula](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2765.poti)
   - [x] [2766](https://www.urionlinejudge.com.br/judge/pt/problems/view/2766) - [Entrada e Saída Lendo e Pulando Nomes](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2766.poti)
+  - [x] [2769](https://www.urionlinejudge.com.br/judge/pt/problems/view/2769) - [Linha de Montagem](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2769.poti)
   - [x] [2770](https://www.urionlinejudge.com.br/judge/pt/problems/view/2770) - [Tamanho da Placa](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2770.poti)
   - [x] [2774](https://www.urionlinejudge.com.br/judge/pt/problems/view/2774) - [Precisão do Sensor](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2774.poti)
   - [x] [2779](https://www.urionlinejudge.com.br/judge/pt/problems/view/2779) - [Álbum da Copa](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2779.poti)
@@ -278,14 +278,14 @@
   - [x] [2968](https://www.urionlinejudge.com.br/judge/pt/problems/view/2968) - [Hora da Corrida](https://github.com/potigol/URI-Potigol/blob/master/src/2901-3000/2968.poti)
   - [x] [2982](https://www.urionlinejudge.com.br/judge/pt/problems/view/2982) - [A Greve para ou Continua?](https://github.com/potigol/URI-Potigol/blob/master/src/2901-3000/2982.poti)
   - [x] [2987](https://www.urionlinejudge.com.br/judge/pt/problems/view/2987) - [Balão de Honra](https://github.com/potigol/URI-Potigol/blob/master/src/2901-3000/2987.poti)
-  - [x] [3037](https://www.urionlinejudge.com.br/judge/pt/problems/view/3037) - [Jogando dardos por distância](https://github.com/potigol/URI-Potigol/blob/master/src/3001-3100/3037.poti)
+  - [x] [3037](https://www.urionlinejudge.com.br/judge/pt/problems/view/3037) - [Jogando Dardos Por Distância](https://github.com/potigol/URI-Potigol/blob/master/src/3001-3100/3037.poti)
   - [x] [3039](https://www.urionlinejudge.com.br/judge/pt/problems/view/3039) - [Brinquedos do Papai Noel](https://github.com/potigol/URI-Potigol/blob/master/src/3001-3100/3039.poti)
   - [x] [3040](https://www.urionlinejudge.com.br/judge/pt/problems/view/3040) - [A Árvore de Natal](https://github.com/potigol/URI-Potigol/blob/master/src/3001-3100/3040.poti)
   - [x] [3042](https://www.urionlinejudge.com.br/judge/pt/problems/view/3042) - [Desviando de Árvores de Natal](https://github.com/potigol/URI-Potigol/blob/master/src/3001-3100/3042.poti)
   - [x] [3046](https://www.urionlinejudge.com.br/judge/pt/problems/view/3046) - [Dominó](https://github.com/potigol/URI-Potigol/blob/master/src/3001-3100/3046.poti)
   - [x] [3047](https://www.urionlinejudge.com.br/judge/pt/problems/view/3047) - [A idade de Dona Mônica](https://github.com/potigol/URI-Potigol/blob/master/src/3001-3100/3047.poti)
-  - [x] [3053](https://www.urionlinejudge.com.br/judge/pt/problems/view/3053) - [Jogo dos copos](https://github.com/potigol/URI-Potigol/blob/master/src/3001-3100/3053.poti)
-  - [x] [3055](https://www.urionlinejudge.com.br/judge/pt/problems/view/3055) - [Nota esquecida](https://github.com/potigol/URI-Potigol/blob/master/src/3001-3100/3055.poti)
+  - [x] [3053](https://www.urionlinejudge.com.br/judge/pt/problems/view/3053) - [Jogo Dos Copos](https://github.com/potigol/URI-Potigol/blob/master/src/3001-3100/3053.poti)
+  - [x] [3055](https://www.urionlinejudge.com.br/judge/pt/problems/view/3055) - [Nota Esquecida](https://github.com/potigol/URI-Potigol/blob/master/src/3001-3100/3055.poti)
   - [x] [3065](https://www.urionlinejudge.com.br/judge/pt/problems/view/3065) - [Calculando](https://github.com/potigol/URI-Potigol/blob/master/src/3001-3100/3065.poti)
   - [x] [3076](https://www.urionlinejudge.com.br/judge/pt/problems/view/3076) - [Exercício de História](https://github.com/potigol/URI-Potigol/blob/master/src/3001-3100/3076.poti)
   - [x] [3084](https://www.urionlinejudge.com.br/judge/pt/problems/view/3084) - [Relógio Antigo](https://github.com/potigol/URI-Potigol/blob/master/src/3001-3100/3084.poti)

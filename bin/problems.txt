@@ -271,7 +271,6 @@
 1271	Onde estão meus Genes	Ad-Hoc
 1272	Mensagem Oculta	Strings
 1273	Justificador	Strings
-1274	P-Networks	Estruturas e Bibliotecas
 1275	Light Up	Grafos
 1276	Faixa de Letras	Strings
 1277	Pouca Frequência	Strings
@@ -289,7 +288,6 @@
 1289	Qual é a Probabilidade?	Matemática
 1290	Caixas Muito Especiais	Ad-Hoc
 1291	Será Isso Integração?	Geometria Computacional
-1292	Problema com um Pentágono	Geometria Computacional
 1293	Romeu e Julieta!	Geometria Computacional
 1294	A Maior e Menor Caixa	Geometria Computacional
 1295	Problema dos Pares Mais Próximos	Geometria Computacional
@@ -313,7 +311,6 @@
 1313	Dicionário Portuñol	Strings
 1314	Labirintos de Cerca Viva	Grafos
 1315	Não tão Convexo	Geometria Computacional
-1316	Compra Livre de Impostos	Matemática
 1317	Eu Odeio SPAM, Mas Algumas Pessoas Amam	Grafos
 1318	Bilhetes Falsos	Ad-Hoc
 1319	Garota Hiperativa	Paradigmas
@@ -1967,9 +1964,9 @@
 2987	Balão de Honra	Iniciante
 2988	Campeonato Cearense	SQL
 2989	Departamentos e Divisões	SQL
-2990	CPF dos empregados	SQL
+2990	CPF Dos Empregados	SQL
 2991	Estatísticas dos Departamentos	SQL
-2992	Divisões com maiores médias salariais	SQL
+2992	Divisões Com Maiores Médias Salariais	SQL
 2993	Mais Frequente	SQL
 2994	Quanto Ganha um Médico?	SQL
 2995	A Mensagem do Sensor	SQL
@@ -1981,7 +1978,7 @@
 3002	Salve a Lilly!	Matemática
 3003	O Grupinho	Grafos
 3004	Envelopes	Matemática
-3005	Pilhas de paralelepípedos	Ad-Hoc
+3005	Pilhas de Paralelepípedos	Ad-Hoc
 3006	Passeio em Copacabana	Ad-Hoc
 3007	Lucas e Frobenius	Matemática
 3008	Numeração com Fósforos	Ad-Hoc
@@ -2012,8 +2009,8 @@
 3033	Ajude Maria	Ad-Hoc
 3034	O Caso Douglas	Ad-Hoc
 3035	Fabrica de Peças	Ad-Hoc
-3036	Cor da camisa	Matemática
-3037	Jogando dardos por distância	Iniciante
+3036	Cor da Camisa	Matemática
+3037	Jogando Dardos Por Distância	Iniciante
 3038	Carta de Natal Criptografada	Strings
 3039	Brinquedos do Papai Noel	Iniciante
 3040	A Árvore de Natal	Iniciante
@@ -2026,18 +2023,18 @@
 3047	A idade de Dona Mônica	Iniciante
 3048	Sequência Secreta	Ad-Hoc
 3049	Nota Cortada	Matemática
-3050	Distância entre amigos	Ad-Hoc
+3050	Distância Entre Amigos	Ad-Hoc
 3051	Soma	Paradigmas
 3052	Chuva	Ad-Hoc
-3053	Jogo dos copos	Iniciante
-3054	Matriz super-legal	Ad-Hoc
-3055	Nota esquecida	Iniciante
-3056	Ponto do meio	Ad-Hoc
+3053	Jogo Dos Copos	Iniciante
+3054	Matriz Super-legal	Ad-Hoc
+3055	Nota Esquecida	Iniciante
+3056	Ponto do Meio	Ad-Hoc
 3057	Detetive	Ad-Hoc
 3058	Supermercado	Ad-Hoc
-3059	Pares de números	Ad-Hoc
-3060	Parcelamento sem juros	Ad-Hoc
-3061	Manchas de pele	Grafos
+3059	Pares de Números	Ad-Hoc
+3060	Parcelamento Sem Juros	Ad-Hoc
+3061	Manchas de Pele	Grafos
 3062	Coleção de Upas	Ad-Hoc
 3063	Linhas de Ônibus	Ad-Hoc
 3064	Elástico	Geometria Computacional

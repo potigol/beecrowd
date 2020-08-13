@@ -1,4 +1,4 @@
-# Estruturas e Bibliotecas (10 / 163)
+# Estruturas e Bibliotecas (10 / 162)
 
 ## Problemas não resolvidos
   - [ ] [1023](https://www.urionlinejudge.com.br/judge/pt/problems/view/1023) - Estiagem
@@ -22,7 +22,6 @@
   - [ ] [1258](https://www.urionlinejudge.com.br/judge/pt/problems/view/1258) - Camisetas
   - [ ] [1260](https://www.urionlinejudge.com.br/judge/pt/problems/view/1260) - Espécies de Madeira
   - [ ] [1261](https://www.urionlinejudge.com.br/judge/pt/problems/view/1261) - Pontos de Feno
-  - [ ] [1274](https://www.urionlinejudge.com.br/judge/pt/problems/view/1274) - P-Networks
   - [ ] [1281](https://www.urionlinejudge.com.br/judge/pt/problems/view/1281) - Ida à Feira
   - [ ] [1301](https://www.urionlinejudge.com.br/judge/pt/problems/view/1301) - Produto do Intervalo
   - [ ] [1303](https://www.urionlinejudge.com.br/judge/pt/problems/view/1303) - Spurs Rocks

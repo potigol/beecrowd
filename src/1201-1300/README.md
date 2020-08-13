@@ -73,7 +73,7 @@
   - [ ] [1271](https://www.urionlinejudge.com.br/judge/pt/problems/view/1271) - Onde estão meus Genes *Ad-Hoc*
   - [x] [1272](https://www.urionlinejudge.com.br/judge/pt/problems/view/1272) - [Mensagem Oculta](https://github.com/potigol/URI-Potigol/blob/master/src/1201-1300/1272.poti) *Strings*
   - [ ] [1273](https://www.urionlinejudge.com.br/judge/pt/problems/view/1273) - Justificador *Strings*
-  - [ ] [1274](https://www.urionlinejudge.com.br/judge/pt/problems/view/1274) - P-Networks *Estruturas e Bibliotecas*
+  - [ ] ~~1274~~
   - [ ] [1275](https://www.urionlinejudge.com.br/judge/pt/problems/view/1275) - Light Up *Grafos*
   - [ ] [1276](https://www.urionlinejudge.com.br/judge/pt/problems/view/1276) - Faixa de Letras *Strings*
   - [ ] [1277](https://www.urionlinejudge.com.br/judge/pt/problems/view/1277) - Pouca Frequência *Strings*
@@ -91,7 +91,7 @@
   - [ ] [1289](https://www.urionlinejudge.com.br/judge/pt/problems/view/1289) - Qual é a Probabilidade? *Matemática*
   - [ ] [1290](https://www.urionlinejudge.com.br/judge/pt/problems/view/1290) - Caixas Muito Especiais *Ad-Hoc*
   - [ ] [1291](https://www.urionlinejudge.com.br/judge/pt/problems/view/1291) - Será Isso Integração? *Geometria Computacional*
-  - [ ] [1292](https://www.urionlinejudge.com.br/judge/pt/problems/view/1292) - Problema com um Pentágono *Geometria Computacional*
+  - [ ] ~~1292~~
   - [ ] [1293](https://www.urionlinejudge.com.br/judge/pt/problems/view/1293) - Romeu e Julieta! *Geometria Computacional*
   - [ ] [1294](https://www.urionlinejudge.com.br/judge/pt/problems/view/1294) - A Maior e Menor Caixa *Geometria Computacional*
   - [ ] [1295](https://www.urionlinejudge.com.br/judge/pt/problems/view/1295) - Problema dos Pares Mais Próximos *Geometria Computacional*

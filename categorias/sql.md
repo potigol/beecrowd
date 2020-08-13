@@ -36,9 +36,9 @@
   - [ ] [2746](https://www.urionlinejudge.com.br/judge/pt/problems/view/2746) - Virus
   - [ ] [2988](https://www.urionlinejudge.com.br/judge/pt/problems/view/2988) - Campeonato Cearense
   - [ ] [2989](https://www.urionlinejudge.com.br/judge/pt/problems/view/2989) - Departamentos e Divisões
-  - [ ] [2990](https://www.urionlinejudge.com.br/judge/pt/problems/view/2990) - CPF dos empregados
+  - [ ] [2990](https://www.urionlinejudge.com.br/judge/pt/problems/view/2990) - CPF Dos Empregados
   - [ ] [2991](https://www.urionlinejudge.com.br/judge/pt/problems/view/2991) - Estatísticas dos Departamentos
-  - [ ] [2992](https://www.urionlinejudge.com.br/judge/pt/problems/view/2992) - Divisões com maiores médias salariais
+  - [ ] [2992](https://www.urionlinejudge.com.br/judge/pt/problems/view/2992) - Divisões Com Maiores Médias Salariais
   - [ ] [2993](https://www.urionlinejudge.com.br/judge/pt/problems/view/2993) - Mais Frequente
   - [ ] [2994](https://www.urionlinejudge.com.br/judge/pt/problems/view/2994) - Quanto Ganha um Médico?
   - [ ] [2995](https://www.urionlinejudge.com.br/judge/pt/problems/view/2995) - A Mensagem do Sensor

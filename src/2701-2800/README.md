@@ -8,7 +8,7 @@
   - [ ] [2706](https://www.urionlinejudge.com.br/judge/pt/problems/view/2706) - Linearville *Grafos*
   - [ ] ~~2707~~
   - [x] [2708](https://www.urionlinejudge.com.br/judge/pt/problems/view/2708) - [Turistas no Parque Huacachina](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2708.poti) *Iniciante*
-  - [ ] [2709](https://www.urionlinejudge.com.br/judge/pt/problems/view/2709) - As Moedas de Robbie *Iniciante*
+  - [x] [2709](https://www.urionlinejudge.com.br/judge/pt/problems/view/2709) - [As Moedas de Robbie](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2709.poti) *Iniciante*
   - [ ] [2710](https://www.urionlinejudge.com.br/judge/pt/problems/view/2710) - Jogo da Matriz *Ad-Hoc*
   - [ ] [2711](https://www.urionlinejudge.com.br/judge/pt/problems/view/2711) - Destravando o Celular *Matemática*
   - [x] [2712](https://www.urionlinejudge.com.br/judge/pt/problems/view/2712) - [Rodízio Veicular](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2712.poti) *Iniciante*
@@ -68,7 +68,7 @@
   - [x] [2766](https://www.urionlinejudge.com.br/judge/pt/problems/view/2766) - [Entrada e Saída Lendo e Pulando Nomes](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2766.poti) *Iniciante*
   - [ ] [2767](https://www.urionlinejudge.com.br/judge/pt/problems/view/2767) - Festa *Matemática*
   - [ ] [2768](https://www.urionlinejudge.com.br/judge/pt/problems/view/2768) - Grafo do Dabriel *Grafos*
-  - [ ] [2769](https://www.urionlinejudge.com.br/judge/pt/problems/view/2769) - Linha de Montagem *Iniciante*
+  - [x] [2769](https://www.urionlinejudge.com.br/judge/pt/problems/view/2769) - [Linha de Montagem](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2769.poti) *Iniciante*
   - [x] [2770](https://www.urionlinejudge.com.br/judge/pt/problems/view/2770) - [Tamanho da Placa](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2770.poti) *Iniciante*
   - [ ] [2771](https://www.urionlinejudge.com.br/judge/pt/problems/view/2771) - Média *Ad-Hoc*
   - [ ] [2772](https://www.urionlinejudge.com.br/judge/pt/problems/view/2772) - Plantação *Ad-Hoc*

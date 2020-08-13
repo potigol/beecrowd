@@ -580,7 +580,7 @@
   - [ ] [3035](https://www.urionlinejudge.com.br/judge/pt/problems/view/3035) - Fabrica de Peças
   - [ ] [3041](https://www.urionlinejudge.com.br/judge/pt/problems/view/3041) - Distribuição de Artigos
   - [ ] [3052](https://www.urionlinejudge.com.br/judge/pt/problems/view/3052) - Chuva
-  - [ ] [3054](https://www.urionlinejudge.com.br/judge/pt/problems/view/3054) - Matriz super-legal
+  - [ ] [3054](https://www.urionlinejudge.com.br/judge/pt/problems/view/3054) - Matriz Super-legal
   - [ ] [3057](https://www.urionlinejudge.com.br/judge/pt/problems/view/3057) - Detetive
   - [ ] [3058](https://www.urionlinejudge.com.br/judge/pt/problems/view/3058) - Supermercado
   - [ ] [3062](https://www.urionlinejudge.com.br/judge/pt/problems/view/3062) - Coleção de Upas
@@ -684,13 +684,13 @@
   - [x] [2858](https://www.urionlinejudge.com.br/judge/pt/problems/view/2858) - [Tabuleiro Infinito](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2858.poti)
   - [x] [2868](https://www.urionlinejudge.com.br/judge/pt/problems/view/2868) - [Errrou!](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2868.poti)
   - [x] [2926](https://www.urionlinejudge.com.br/judge/pt/problems/view/2926) - [Então é Natal!](https://github.com/potigol/URI-Potigol/blob/master/src/2901-3000/2926.poti)
-  - [x] [3005](https://www.urionlinejudge.com.br/judge/pt/problems/view/3005) - [Pilhas de paralelepípedos](https://github.com/potigol/URI-Potigol/blob/master/src/3001-3100/3005.poti)
+  - [x] [3005](https://www.urionlinejudge.com.br/judge/pt/problems/view/3005) - [Pilhas de Paralelepípedos](https://github.com/potigol/URI-Potigol/blob/master/src/3001-3100/3005.poti)
   - [x] [3024](https://www.urionlinejudge.com.br/judge/pt/problems/view/3024) - [Mountain Ranges](https://github.com/potigol/URI-Potigol/blob/master/src/3001-3100/3024.poti)
   - [x] [3048](https://www.urionlinejudge.com.br/judge/pt/problems/view/3048) - [Sequência Secreta](https://github.com/potigol/URI-Potigol/blob/master/src/3001-3100/3048.poti)
-  - [x] [3050](https://www.urionlinejudge.com.br/judge/pt/problems/view/3050) - [Distância entre amigos](https://github.com/potigol/URI-Potigol/blob/master/src/3001-3100/3050.poti)
-  - [x] [3056](https://www.urionlinejudge.com.br/judge/pt/problems/view/3056) - [Ponto do meio](https://github.com/potigol/URI-Potigol/blob/master/src/3001-3100/3056.poti)
-  - [x] [3059](https://www.urionlinejudge.com.br/judge/pt/problems/view/3059) - [Pares de números](https://github.com/potigol/URI-Potigol/blob/master/src/3001-3100/3059.poti)
-  - [x] [3060](https://www.urionlinejudge.com.br/judge/pt/problems/view/3060) - [Parcelamento sem juros](https://github.com/potigol/URI-Potigol/blob/master/src/3001-3100/3060.poti)
+  - [x] [3050](https://www.urionlinejudge.com.br/judge/pt/problems/view/3050) - [Distância Entre Amigos](https://github.com/potigol/URI-Potigol/blob/master/src/3001-3100/3050.poti)
+  - [x] [3056](https://www.urionlinejudge.com.br/judge/pt/problems/view/3056) - [Ponto do Meio](https://github.com/potigol/URI-Potigol/blob/master/src/3001-3100/3056.poti)
+  - [x] [3059](https://www.urionlinejudge.com.br/judge/pt/problems/view/3059) - [Pares de Números](https://github.com/potigol/URI-Potigol/blob/master/src/3001-3100/3059.poti)
+  - [x] [3060](https://www.urionlinejudge.com.br/judge/pt/problems/view/3060) - [Parcelamento Sem Juros](https://github.com/potigol/URI-Potigol/blob/master/src/3001-3100/3060.poti)
   - [x] [3106](https://www.urionlinejudge.com.br/judge/pt/problems/view/3106) - [Competição de Códigos](https://github.com/potigol/URI-Potigol/blob/master/src/3101-3200/3106.poti)
   - [x] [3109](https://www.urionlinejudge.com.br/judge/pt/problems/view/3109) - [Trocando de Mesa](https://github.com/potigol/URI-Potigol/blob/master/src/3101-3200/3109.poti)
   - [x] [3126](https://www.urionlinejudge.com.br/judge/pt/problems/view/3126) - [Lista de Treinamento](https://github.com/potigol/URI-Potigol/blob/master/src/3101-3200/3126.poti)

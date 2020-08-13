@@ -245,7 +245,7 @@
   - [ ] [3028](https://www.urionlinejudge.com.br/judge/pt/problems/view/3028) - Bubble Reactor
   - [ ] [3031](https://www.urionlinejudge.com.br/judge/pt/problems/view/3031) - Xor Spanning Tree
   - [ ] [3044](https://www.urionlinejudge.com.br/judge/pt/problems/view/3044) - Manutenção
-  - [ ] [3061](https://www.urionlinejudge.com.br/judge/pt/problems/view/3061) - Manchas de pele
+  - [ ] [3061](https://www.urionlinejudge.com.br/judge/pt/problems/view/3061) - Manchas de Pele
   - [ ] [3066](https://www.urionlinejudge.com.br/judge/pt/problems/view/3066) - Dengue
   - [ ] [3067](https://www.urionlinejudge.com.br/judge/pt/problems/view/3067) - Dominó
   - [ ] [3070](https://www.urionlinejudge.com.br/judge/pt/problems/view/3070) - Autoestradas HyperspaceTM
