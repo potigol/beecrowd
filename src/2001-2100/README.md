@@ -90,7 +90,7 @@
   - [ ] [2088](https://www.urionlinejudge.com.br/judge/pt/problems/view/2088) - Combate à Dengue *Grafos*
   - [ ] [2089](https://www.urionlinejudge.com.br/judge/pt/problems/view/2089) - Lanchonete *Paradigmas*
   - [ ] [2090](https://www.urionlinejudge.com.br/judge/pt/problems/view/2090) - Fui ao Mercado e Comprei... *Ad-Hoc*
-  - [ ] [2091](https://www.urionlinejudge.com.br/judge/pt/problems/view/2091) - Número Solitário *Estruturas e Bibliotecas*
+  - [x] [2091](https://www.urionlinejudge.com.br/judge/pt/problems/view/2091) - [Número Solitário](https://github.com/potigol/URI-Potigol/blob/master/src/2001-2100/2091.poti) *Estruturas e Bibliotecas*
   - [ ] [2092](https://www.urionlinejudge.com.br/judge/pt/problems/view/2092) - Assistindo o Jogo *Estruturas e Bibliotecas*
   - [ ] [2093](https://www.urionlinejudge.com.br/judge/pt/problems/view/2093) - Fuja para Escapar *Strings*
   - [ ] [2094](https://www.urionlinejudge.com.br/judge/pt/problems/view/2094) - Flores *Geometria Computacional*

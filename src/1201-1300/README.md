@@ -48,7 +48,7 @@
   - [ ] [1246](https://www.urionlinejudge.com.br/judge/pt/problems/view/1246) - Estacionamento *Ad-Hoc*
   - [ ] [1247](https://www.urionlinejudge.com.br/judge/pt/problems/view/1247) - Guarda Costeira *Matemática*
   - [ ] [1248](https://www.urionlinejudge.com.br/judge/pt/problems/view/1248) - Plano de Dieta *Strings*
-  - [ ] [1249](https://www.urionlinejudge.com.br/judge/pt/problems/view/1249) - Rot13 *Strings*
+  - [x] [1249](https://www.urionlinejudge.com.br/judge/pt/problems/view/1249) - [Rot13](https://github.com/potigol/URI-Potigol/blob/master/src/1201-1300/1249.poti) *Strings*
   - [ ] [1250](https://www.urionlinejudge.com.br/judge/pt/problems/view/1250) - KiloMan *Ad-Hoc*
   - [x] [1251](https://www.urionlinejudge.com.br/judge/pt/problems/view/1251) - [Diga-me a Frequência](https://github.com/potigol/URI-Potigol/blob/master/src/1201-1300/1251.poti) *Estruturas e Bibliotecas*
   - [ ] [1252](https://www.urionlinejudge.com.br/judge/pt/problems/view/1252) - Sort! Sort!! e Sort!!! *Estruturas e Bibliotecas*

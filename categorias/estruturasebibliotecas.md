@@ -1,4 +1,4 @@
-# Estruturas e Bibliotecas (10 / 162)
+# Estruturas e Bibliotecas (11 / 162)
 
 ## Problemas não resolvidos
   - [ ] [1023](https://www.urionlinejudge.com.br/judge/pt/problems/view/1023) - Estiagem
@@ -87,7 +87,6 @@
   - [ ] [2074](https://www.urionlinejudge.com.br/judge/pt/problems/view/2074) - Variados Pratos da Linda Nefertiti
   - [ ] [2075](https://www.urionlinejudge.com.br/judge/pt/problems/view/2075) - Zé Coquinho
   - [ ] [2077](https://www.urionlinejudge.com.br/judge/pt/problems/view/2077) - Los buses de Cartagena
-  - [ ] [2091](https://www.urionlinejudge.com.br/judge/pt/problems/view/2091) - Número Solitário
   - [ ] [2092](https://www.urionlinejudge.com.br/judge/pt/problems/view/2092) - Assistindo o Jogo
   - [ ] [2110](https://www.urionlinejudge.com.br/judge/pt/problems/view/2110) - Banho de Sol no Jardim
   - [ ] [2111](https://www.urionlinejudge.com.br/judge/pt/problems/view/2111) - Entendendo o Sorobov
@@ -162,5 +161,6 @@
   - [x] [1259](https://www.urionlinejudge.com.br/judge/pt/problems/view/1259) - [Pares e Ímpares](https://github.com/potigol/URI-Potigol/blob/master/src/1201-1300/1259.poti)
   - [x] [1430](https://www.urionlinejudge.com.br/judge/pt/problems/view/1430) - [Composição de Jingles](https://github.com/potigol/URI-Potigol/blob/master/src/1401-1500/1430.poti)
   - [x] [1709](https://www.urionlinejudge.com.br/judge/pt/problems/view/1709) - [Baralho Embaralhado](https://github.com/potigol/URI-Potigol/blob/master/src/1701-1800/1709.poti)
+  - [x] [2091](https://www.urionlinejudge.com.br/judge/pt/problems/view/2091) - [Número Solitário](https://github.com/potigol/URI-Potigol/blob/master/src/2001-2100/2091.poti)
   - [x] [2338](https://www.urionlinejudge.com.br/judge/pt/problems/view/2338) - [Morse](https://github.com/potigol/URI-Potigol/blob/master/src/2301-2400/2338.poti)
   - [x] [2729](https://www.urionlinejudge.com.br/judge/pt/problems/view/2729) - [Lista de Compras](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2729.poti)

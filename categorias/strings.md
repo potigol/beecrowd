@@ -1,4 +1,4 @@
-# Strings (30 / 134)
+# Strings (31 / 134)
 
 ## Problemas não resolvidos
   - [ ] [1141](https://www.urionlinejudge.com.br/judge/pt/problems/view/1141) - Cultivando Strings
@@ -7,7 +7,6 @@
   - [ ] [1239](https://www.urionlinejudge.com.br/judge/pt/problems/view/1239) - Atalhos Bloggo
   - [ ] [1243](https://www.urionlinejudge.com.br/judge/pt/problems/view/1243) - O Quão Fácil é...
   - [ ] [1248](https://www.urionlinejudge.com.br/judge/pt/problems/view/1248) - Plano de Dieta
-  - [ ] [1249](https://www.urionlinejudge.com.br/judge/pt/problems/view/1249) - Rot13
   - [ ] [1254](https://www.urionlinejudge.com.br/judge/pt/problems/view/1254) - Substituição de Tag
   - [ ] [1255](https://www.urionlinejudge.com.br/judge/pt/problems/view/1255) - Frequência de Letras
   - [ ] [1263](https://www.urionlinejudge.com.br/judge/pt/problems/view/1263) - Aliteração
@@ -113,6 +112,7 @@
   - [x] [1235](https://www.urionlinejudge.com.br/judge/pt/problems/view/1235) - [De Dentro para Fora](https://github.com/potigol/URI-Potigol/blob/master/src/1201-1300/1235.poti)
   - [x] [1238](https://www.urionlinejudge.com.br/judge/pt/problems/view/1238) - [Combinador](https://github.com/potigol/URI-Potigol/blob/master/src/1201-1300/1238.poti)
   - [x] [1241](https://www.urionlinejudge.com.br/judge/pt/problems/view/1241) - [Encaixa ou Não II](https://github.com/potigol/URI-Potigol/blob/master/src/1201-1300/1241.poti)
+  - [x] [1249](https://www.urionlinejudge.com.br/judge/pt/problems/view/1249) - [Rot13](https://github.com/potigol/URI-Potigol/blob/master/src/1201-1300/1249.poti)
   - [x] [1253](https://www.urionlinejudge.com.br/judge/pt/problems/view/1253) - [Cifra de César](https://github.com/potigol/URI-Potigol/blob/master/src/1201-1300/1253.poti)
   - [x] [1257](https://www.urionlinejudge.com.br/judge/pt/problems/view/1257) - [Array Hash](https://github.com/potigol/URI-Potigol/blob/master/src/1201-1300/1257.poti)
   - [x] [1262](https://www.urionlinejudge.com.br/judge/pt/problems/view/1262) - [Leitura Múltipla](https://github.com/potigol/URI-Potigol/blob/master/src/1201-1300/1262.poti)

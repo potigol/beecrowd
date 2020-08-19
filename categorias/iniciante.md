@@ -1,4 +1,4 @@
-# Iniciante (280 / 289)
+# Iniciante (279 / 289)
 
 ## Problemas não resolvidos
   - [ ] [2632](https://www.urionlinejudge.com.br/judge/pt/problems/view/2632) - Magic and Sword
@@ -6,6 +6,7 @@
   - [ ] [2715](https://www.urionlinejudge.com.br/judge/pt/problems/view/2715) - Dividindo os Trabalhos I
   - [ ] [2724](https://www.urionlinejudge.com.br/judge/pt/problems/view/2724) - Ajude Patatatitu
   - [ ] [2758](https://www.urionlinejudge.com.br/judge/pt/problems/view/2758) - Entrada e Saída de Números Reais
+  - [ ] [2769](https://www.urionlinejudge.com.br/judge/pt/problems/view/2769) - Linha de Montagem
   - [ ] [2775](https://www.urionlinejudge.com.br/judge/pt/problems/view/2775) - Preparando a Produção
   - [ ] [2785](https://www.urionlinejudge.com.br/judge/pt/problems/view/2785) - Pirâmide
   - [ ] [2823](https://www.urionlinejudge.com.br/judge/pt/problems/view/2823) - Eearliest Deadline First
@@ -243,7 +244,6 @@
   - [x] [2764](https://www.urionlinejudge.com.br/judge/pt/problems/view/2764) - [Entrada e Saída de Data](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2764.poti)
   - [x] [2765](https://www.urionlinejudge.com.br/judge/pt/problems/view/2765) - [Entrada e Saída com Virgula](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2765.poti)
   - [x] [2766](https://www.urionlinejudge.com.br/judge/pt/problems/view/2766) - [Entrada e Saída Lendo e Pulando Nomes](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2766.poti)
-  - [x] [2769](https://www.urionlinejudge.com.br/judge/pt/problems/view/2769) - [Linha de Montagem](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2769.poti)
   - [x] [2770](https://www.urionlinejudge.com.br/judge/pt/problems/view/2770) - [Tamanho da Placa](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2770.poti)
   - [x] [2774](https://www.urionlinejudge.com.br/judge/pt/problems/view/2774) - [Precisão do Sensor](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2774.poti)
   - [x] [2779](https://www.urionlinejudge.com.br/judge/pt/problems/view/2779) - [Álbum da Copa](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2779.poti)
