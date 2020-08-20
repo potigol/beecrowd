@@ -43,7 +43,7 @@
   - [x] [1241](https://www.urionlinejudge.com.br/judge/pt/problems/view/1241) - [Encaixa ou Não II](https://github.com/potigol/URI-Potigol/blob/master/src/1201-1300/1241.poti) *Strings*
   - [ ] [1242](https://www.urionlinejudge.com.br/judge/pt/problems/view/1242) - Ácido Ribonucleico Alienígena *Estruturas e Bibliotecas*
   - [ ] [1243](https://www.urionlinejudge.com.br/judge/pt/problems/view/1243) - O Quão Fácil é... *Strings*
-  - [ ] [1244](https://www.urionlinejudge.com.br/judge/pt/problems/view/1244) - Ordenação por Tamanho *Estruturas e Bibliotecas*
+  - [x] [1244](https://www.urionlinejudge.com.br/judge/pt/problems/view/1244) - [Ordenação por Tamanho](https://github.com/potigol/URI-Potigol/blob/master/src/1201-1300/1244.poti) *Estruturas e Bibliotecas*
   - [ ] [1245](https://www.urionlinejudge.com.br/judge/pt/problems/view/1245) - Botas Perdidas *Ad-Hoc*
   - [ ] [1246](https://www.urionlinejudge.com.br/judge/pt/problems/view/1246) - Estacionamento *Ad-Hoc*
   - [ ] [1247](https://www.urionlinejudge.com.br/judge/pt/problems/view/1247) - Guarda Costeira *Matemática*

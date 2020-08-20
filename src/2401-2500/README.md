@@ -20,7 +20,7 @@
   - [ ] [2418](https://www.urionlinejudge.com.br/judge/pt/problems/view/2418) - Carnaval *Ad-Hoc*
   - [ ] [2419](https://www.urionlinejudge.com.br/judge/pt/problems/view/2419) - Costa *Grafos*
   - [ ] [2420](https://www.urionlinejudge.com.br/judge/pt/problems/view/2420) - Guerra por Território *Ad-Hoc*
-  - [ ] [2421](https://www.urionlinejudge.com.br/judge/pt/problems/view/2421) - Álbum de Fotos *Ad-Hoc*
+  - [x] [2421](https://www.urionlinejudge.com.br/judge/pt/problems/view/2421) - [Álbum de Fotos](https://github.com/potigol/URI-Potigol/blob/master/src/2401-2500/2421.poti) *Ad-Hoc*
   - [x] [2422](https://www.urionlinejudge.com.br/judge/pt/problems/view/2422) - [Soma das Casas](https://github.com/potigol/URI-Potigol/blob/master/src/2401-2500/2422.poti) *Ad-Hoc*
   - [ ] [2423](https://www.urionlinejudge.com.br/judge/pt/problems/view/2423) - Receita de Bolo *Ad-Hoc*
   - [x] [2424](https://www.urionlinejudge.com.br/judge/pt/problems/view/2424) - [Tira-teima](https://github.com/potigol/URI-Potigol/blob/master/src/2401-2500/2424.poti) *Ad-Hoc*

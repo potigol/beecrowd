@@ -1,4 +1,4 @@
-# Estruturas e Bibliotecas (11 / 162)
+# Estruturas e Bibliotecas (12 / 162)
 
 ## Problemas não resolvidos
   - [ ] [1023](https://www.urionlinejudge.com.br/judge/pt/problems/view/1023) - Estiagem
@@ -16,7 +16,6 @@
   - [ ] [1215](https://www.urionlinejudge.com.br/judge/pt/problems/view/1215) - Primeiro Dicionário de Andy
   - [ ] [1236](https://www.urionlinejudge.com.br/judge/pt/problems/view/1236) - Compactação de Nulos e Brancos
   - [ ] [1242](https://www.urionlinejudge.com.br/judge/pt/problems/view/1242) - Ácido Ribonucleico Alienígena
-  - [ ] [1244](https://www.urionlinejudge.com.br/judge/pt/problems/view/1244) - Ordenação por Tamanho
   - [ ] [1252](https://www.urionlinejudge.com.br/judge/pt/problems/view/1252) - Sort! Sort!! e Sort!!!
   - [ ] [1256](https://www.urionlinejudge.com.br/judge/pt/problems/view/1256) - Tabelas Hash
   - [ ] [1258](https://www.urionlinejudge.com.br/judge/pt/problems/view/1258) - Camisetas
@@ -157,6 +156,7 @@
   - [x] [1068](https://www.urionlinejudge.com.br/judge/pt/problems/view/1068) - [Balanço de Parênteses I](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1068.poti)
   - [x] [1069](https://www.urionlinejudge.com.br/judge/pt/problems/view/1069) - [Diamantes e Areia](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1069.poti)
   - [x] [1110](https://www.urionlinejudge.com.br/judge/pt/problems/view/1110) - [Jogando Cartas Fora](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1110.poti)
+  - [x] [1244](https://www.urionlinejudge.com.br/judge/pt/problems/view/1244) - [Ordenação por Tamanho](https://github.com/potigol/URI-Potigol/blob/master/src/1201-1300/1244.poti)
   - [x] [1251](https://www.urionlinejudge.com.br/judge/pt/problems/view/1251) - [Diga-me a Frequência](https://github.com/potigol/URI-Potigol/blob/master/src/1201-1300/1251.poti)
   - [x] [1259](https://www.urionlinejudge.com.br/judge/pt/problems/view/1259) - [Pares e Ímpares](https://github.com/potigol/URI-Potigol/blob/master/src/1201-1300/1259.poti)
   - [x] [1430](https://www.urionlinejudge.com.br/judge/pt/problems/view/1430) - [Composição de Jingles](https://github.com/potigol/URI-Potigol/blob/master/src/1401-1500/1430.poti)
