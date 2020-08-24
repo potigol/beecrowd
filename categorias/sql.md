@@ -1,4 +1,4 @@
-# SQL (0 / 46)
+# SQL (0 / 45)
 
 ## Problemas não resolvidos
   - [ ] [2602](https://www.urionlinejudge.com.br/judge/pt/problems/view/2602) - Select Básico
@@ -6,7 +6,6 @@
   - [ ] [2604](https://www.urionlinejudge.com.br/judge/pt/problems/view/2604) - Menores que 10 ou Maiores que 100
   - [ ] [2605](https://www.urionlinejudge.com.br/judge/pt/problems/view/2605) - Representantes Executivos
   - [ ] [2606](https://www.urionlinejudge.com.br/judge/pt/problems/view/2606) - Categorias
-  - [ ] [2607](https://www.urionlinejudge.com.br/judge/pt/problems/view/2607) - Cidades em Ordem Alfabética
   - [ ] [2608](https://www.urionlinejudge.com.br/judge/pt/problems/view/2608) - Maior e Menor Preço
   - [ ] [2609](https://www.urionlinejudge.com.br/judge/pt/problems/view/2609) - Produtos por Categorias
   - [ ] [2610](https://www.urionlinejudge.com.br/judge/pt/problems/view/2610) - Valor Médio dos Produtos

@@ -1,0 +1,8 @@
+membros = ["Rolien", "Naej", "Elehcim", "Odranoel"]
+n = leia_inteiro
+para i de 1 ate n faca
+  t = leia_inteiro
+  para j de 1 ate t faca
+    escreva membros[leia_inteiro]
+  fim
+fim

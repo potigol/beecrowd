@@ -45,7 +45,7 @@
   - [ ] [1543](https://www.urionlinejudge.com.br/judge/pt/problems/view/1543) - Quadro Premiado *Paradigmas*
   - [ ] [1544](https://www.urionlinejudge.com.br/judge/pt/problems/view/1544) - O Último Dígito Não-Zero *Matemática*
   - [ ] [1545](https://www.urionlinejudge.com.br/judge/pt/problems/view/1545) - Cartões II *Paradigmas*
-  - [ ] [1546](https://www.urionlinejudge.com.br/judge/pt/problems/view/1546) - Feedback *Ad-Hoc*
+  - [x] [1546](https://www.urionlinejudge.com.br/judge/pt/problems/view/1546) - [Feedback](https://github.com/potigol/URI-Potigol/blob/master/src/1501-1600/1546.poti) *Ad-Hoc*
   - [ ] [1547](https://www.urionlinejudge.com.br/judge/pt/problems/view/1547) - Adivinha *Ad-Hoc*
   - [ ] [1548](https://www.urionlinejudge.com.br/judge/pt/problems/view/1548) - Fila do Recreio *Estruturas e Bibliotecas*
   - [ ] [1549](https://www.urionlinejudge.com.br/judge/pt/problems/view/1549) - Dividindo a Coca *Geometria Computacional*

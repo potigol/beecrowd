@@ -1,4 +1,4 @@
-# Ad-Hoc (89 / 692)
+# Ad-Hoc (90 / 692)
 
 ## Problemas não resolvidos
   - [ ] [1030](https://www.urionlinejudge.com.br/judge/pt/problems/view/1030) - A Lenda de Flavious Josephus
@@ -94,7 +94,6 @@
   - [ ] [1536](https://www.urionlinejudge.com.br/judge/pt/problems/view/1536) - Libertadores
   - [ ] [1540](https://www.urionlinejudge.com.br/judge/pt/problems/view/1540) - Planejando a Energia
   - [ ] [1542](https://www.urionlinejudge.com.br/judge/pt/problems/view/1542) - Lendo Livros
-  - [ ] [1546](https://www.urionlinejudge.com.br/judge/pt/problems/view/1546) - Feedback
   - [ ] [1547](https://www.urionlinejudge.com.br/judge/pt/problems/view/1547) - Adivinha
   - [ ] [1553](https://www.urionlinejudge.com.br/judge/pt/problems/view/1553) - Perguntas mais Frequentes
   - [ ] [1558](https://www.urionlinejudge.com.br/judge/pt/problems/view/1558) - Soma de Dois Quadrados
@@ -623,6 +622,7 @@
   - [x] [1467](https://www.urionlinejudge.com.br/judge/pt/problems/view/1467) - [Zerinho ou Um](https://github.com/potigol/URI-Potigol/blob/master/src/1401-1500/1467.poti)
   - [x] [1515](https://www.urionlinejudge.com.br/judge/pt/problems/view/1515) - [Hello Galaxy](https://github.com/potigol/URI-Potigol/blob/master/src/1501-1600/1515.poti)
   - [x] [1533](https://www.urionlinejudge.com.br/judge/pt/problems/view/1533) - [Detetive Watson](https://github.com/potigol/URI-Potigol/blob/master/src/1501-1600/1533.poti)
+  - [x] [1546](https://www.urionlinejudge.com.br/judge/pt/problems/view/1546) - [Feedback](https://github.com/potigol/URI-Potigol/blob/master/src/1501-1600/1546.poti)
   - [x] [1573](https://www.urionlinejudge.com.br/judge/pt/problems/view/1573) - [Fábrica de Chocolate](https://github.com/potigol/URI-Potigol/blob/master/src/1501-1600/1573.poti)
   - [x] [1708](https://www.urionlinejudge.com.br/judge/pt/problems/view/1708) - [Volta](https://github.com/potigol/URI-Potigol/blob/master/src/1701-1800/1708.poti)
   - [x] [1743](https://www.urionlinejudge.com.br/judge/pt/problems/view/1743) - [Máquina de Verificação Automatizada](https://github.com/potigol/URI-Potigol/blob/master/src/1701-1800/1743.poti)
