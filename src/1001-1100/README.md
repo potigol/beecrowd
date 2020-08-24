@@ -1,102 +1,102 @@
 # Problemas 1001 a 1100
 
-  - [x] [1001](https://www.urionlinejudge.com.br/judge/pt/problems/view/1001) - [Extremamente Básico](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1001.poti) *Iniciante*
-  - [x] [1002](https://www.urionlinejudge.com.br/judge/pt/problems/view/1002) - [Área do Círculo](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1002.poti) *Iniciante*
-  - [x] [1003](https://www.urionlinejudge.com.br/judge/pt/problems/view/1003) - [Soma Simples](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1003.poti) *Iniciante*
-  - [x] [1004](https://www.urionlinejudge.com.br/judge/pt/problems/view/1004) - [Produto Simples](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1004.poti) *Iniciante*
-  - [x] [1005](https://www.urionlinejudge.com.br/judge/pt/problems/view/1005) - [Média 1](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1005.poti) *Iniciante*
-  - [x] [1006](https://www.urionlinejudge.com.br/judge/pt/problems/view/1006) - [Média 2](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1006.poti) *Iniciante*
-  - [x] [1007](https://www.urionlinejudge.com.br/judge/pt/problems/view/1007) - [Diferença](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1007.poti) *Iniciante*
-  - [x] [1008](https://www.urionlinejudge.com.br/judge/pt/problems/view/1008) - [Salário](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1008.poti) *Iniciante*
-  - [x] [1009](https://www.urionlinejudge.com.br/judge/pt/problems/view/1009) - [Salário com Bônus](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1009.poti) *Iniciante*
-  - [x] [1010](https://www.urionlinejudge.com.br/judge/pt/problems/view/1010) - [Cálculo Simples](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1010.poti) *Iniciante*
-  - [x] [1011](https://www.urionlinejudge.com.br/judge/pt/problems/view/1011) - [Esfera](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1011.poti) *Iniciante*
-  - [x] [1012](https://www.urionlinejudge.com.br/judge/pt/problems/view/1012) - [Área](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1012.poti) *Iniciante*
-  - [x] [1013](https://www.urionlinejudge.com.br/judge/pt/problems/view/1013) - [O Maior](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1013.poti) *Iniciante*
-  - [x] [1014](https://www.urionlinejudge.com.br/judge/pt/problems/view/1014) - [Consumo](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1014.poti) *Iniciante*
-  - [x] [1015](https://www.urionlinejudge.com.br/judge/pt/problems/view/1015) - [Distância Entre Dois Pontos](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1015.poti) *Iniciante*
-  - [x] [1016](https://www.urionlinejudge.com.br/judge/pt/problems/view/1016) - [Distância](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1016.poti) *Iniciante*
-  - [x] [1017](https://www.urionlinejudge.com.br/judge/pt/problems/view/1017) - [Gasto de Combustível](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1017.poti) *Iniciante*
-  - [x] [1018](https://www.urionlinejudge.com.br/judge/pt/problems/view/1018) - [Cédulas](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1018.poti) *Iniciante*
-  - [x] [1019](https://www.urionlinejudge.com.br/judge/pt/problems/view/1019) - [Conversão de Tempo](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1019.poti) *Iniciante*
-  - [x] [1020](https://www.urionlinejudge.com.br/judge/pt/problems/view/1020) - [Idade em Dias](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1020.poti) *Iniciante*
-  - [x] [1021](https://www.urionlinejudge.com.br/judge/pt/problems/view/1021) - [Notas e Moedas](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1021.poti) *Iniciante*
-  - [x] [1022](https://www.urionlinejudge.com.br/judge/pt/problems/view/1022) - [TDA Racional](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1022.poti) *Estruturas e Bibliotecas*
-  - [ ] [1023](https://www.urionlinejudge.com.br/judge/pt/problems/view/1023) - Estiagem *Estruturas e Bibliotecas*
-  - [x] [1024](https://www.urionlinejudge.com.br/judge/pt/problems/view/1024) - [Criptografia](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1024.poti) *Strings*
-  - [ ] [1025](https://www.urionlinejudge.com.br/judge/pt/problems/view/1025) - Onde está o Mármore? *Estruturas e Bibliotecas*
-  - [x] [1026](https://www.urionlinejudge.com.br/judge/pt/problems/view/1026) - [Carrega ou não Carrega?](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1026.poti) *Ad-Hoc*
-  - [ ] [1027](https://www.urionlinejudge.com.br/judge/pt/problems/view/1027) - Onda Crítica *Paradigmas*
-  - [x] [1028](https://www.urionlinejudge.com.br/judge/pt/problems/view/1028) - [Figurinhas](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1028.poti) *Matemática*
-  - [x] [1029](https://www.urionlinejudge.com.br/judge/pt/problems/view/1029) - [Fibonacci, Quantas Chamadas?](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1029.poti) *Paradigmas*
-  - [ ] [1030](https://www.urionlinejudge.com.br/judge/pt/problems/view/1030) - A Lenda de Flavious Josephus *Ad-Hoc*
-  - [ ] [1031](https://www.urionlinejudge.com.br/judge/pt/problems/view/1031) - Crise de Energia *Ad-Hoc*
-  - [ ] [1032](https://www.urionlinejudge.com.br/judge/pt/problems/view/1032) - O Primo de Josephus *Ad-Hoc*
-  - [ ] [1033](https://www.urionlinejudge.com.br/judge/pt/problems/view/1033) - Quantas Chamadas Recursivas? *Paradigmas*
-  - [ ] [1034](https://www.urionlinejudge.com.br/judge/pt/problems/view/1034) - Festival de Estátuas de Gelo *Paradigmas*
-  - [x] [1035](https://www.urionlinejudge.com.br/judge/pt/problems/view/1035) - [Teste de Seleção 1](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1035.poti) *Iniciante*
-  - [x] [1036](https://www.urionlinejudge.com.br/judge/pt/problems/view/1036) - [Fórmula de Bhaskara](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1036.poti) *Iniciante*
-  - [x] [1037](https://www.urionlinejudge.com.br/judge/pt/problems/view/1037) - [Intervalo](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1037.poti) *Iniciante*
-  - [x] [1038](https://www.urionlinejudge.com.br/judge/pt/problems/view/1038) - [Lanche](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1038.poti) *Iniciante*
-  - [ ] [1039](https://www.urionlinejudge.com.br/judge/pt/problems/view/1039) - Flores de Fogo *Geometria Computacional*
-  - [x] [1040](https://www.urionlinejudge.com.br/judge/pt/problems/view/1040) - [Média 3](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1040.poti) *Iniciante*
-  - [x] [1041](https://www.urionlinejudge.com.br/judge/pt/problems/view/1041) - [Coordenadas de um Ponto](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1041.poti) *Iniciante*
-  - [x] [1042](https://www.urionlinejudge.com.br/judge/pt/problems/view/1042) - [Sort Simples](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1042.poti) *Iniciante*
-  - [x] [1043](https://www.urionlinejudge.com.br/judge/pt/problems/view/1043) - [Triângulo](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1043.poti) *Iniciante*
-  - [x] [1044](https://www.urionlinejudge.com.br/judge/pt/problems/view/1044) - [Múltiplos](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1044.poti) *Iniciante*
-  - [x] [1045](https://www.urionlinejudge.com.br/judge/pt/problems/view/1045) - [Tipos de Triângulos](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1045.poti) *Iniciante*
-  - [x] [1046](https://www.urionlinejudge.com.br/judge/pt/problems/view/1046) - [Tempo de Jogo](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1046.poti) *Iniciante*
-  - [x] [1047](https://www.urionlinejudge.com.br/judge/pt/problems/view/1047) - [Tempo de Jogo com Minutos](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1047.poti) *Iniciante*
-  - [x] [1048](https://www.urionlinejudge.com.br/judge/pt/problems/view/1048) - [Aumento de Salário](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1048.poti) *Iniciante*
-  - [x] [1049](https://www.urionlinejudge.com.br/judge/pt/problems/view/1049) - [Animal](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1049.poti) *Iniciante*
-  - [x] [1050](https://www.urionlinejudge.com.br/judge/pt/problems/view/1050) - [DDD](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1050.poti) *Iniciante*
-  - [x] [1051](https://www.urionlinejudge.com.br/judge/pt/problems/view/1051) - [Imposto de Renda](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1051.poti) *Iniciante*
-  - [x] [1052](https://www.urionlinejudge.com.br/judge/pt/problems/view/1052) - [Mês](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1052.poti) *Iniciante*
-  - [ ] [1053](https://www.urionlinejudge.com.br/judge/pt/problems/view/1053) - Desenho Contínuo *Grafos*
-  - [ ] [1054](https://www.urionlinejudge.com.br/judge/pt/problems/view/1054) - Sapo Dinâmico *Paradigmas*
-  - [ ] [1055](https://www.urionlinejudge.com.br/judge/pt/problems/view/1055) - Soma Permutada Elegante *Paradigmas*
-  - [ ] [1056](https://www.urionlinejudge.com.br/judge/pt/problems/view/1056) - Fatores e Múltiplos *Grafos*
-  - [ ] [1057](https://www.urionlinejudge.com.br/judge/pt/problems/view/1057) - Chegando Junto *Grafos*
-  - [ ] [1058](https://www.urionlinejudge.com.br/judge/pt/problems/view/1058) - Zonas de Ataque Independentes *Paradigmas*
-  - [x] [1059](https://www.urionlinejudge.com.br/judge/pt/problems/view/1059) - [Números Pares](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1059.poti) *Iniciante*
-  - [x] [1060](https://www.urionlinejudge.com.br/judge/pt/problems/view/1060) - [Números Positivos](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1060.poti) *Iniciante*
-  - [x] [1061](https://www.urionlinejudge.com.br/judge/pt/problems/view/1061) - [Tempo de um Evento](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1061.poti) *Iniciante*
-  - [ ] [1062](https://www.urionlinejudge.com.br/judge/pt/problems/view/1062) - Trilhos *Estruturas e Bibliotecas*
-  - [ ] [1063](https://www.urionlinejudge.com.br/judge/pt/problems/view/1063) - Trilhos Novamente... Traçando Movimentos *Estruturas e Bibliotecas*
-  - [x] [1064](https://www.urionlinejudge.com.br/judge/pt/problems/view/1064) - [Positivos e Média](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1064.poti) *Iniciante*
-  - [x] [1065](https://www.urionlinejudge.com.br/judge/pt/problems/view/1065) - [Pares entre Cinco Números](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1065.poti) *Iniciante*
-  - [x] [1066](https://www.urionlinejudge.com.br/judge/pt/problems/view/1066) - [Pares, Ímpares, Positivos e Negativos](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1066.poti) *Iniciante*
-  - [x] [1067](https://www.urionlinejudge.com.br/judge/pt/problems/view/1067) - [Números Ímpares](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1067.poti) *Iniciante*
-  - [x] [1068](https://www.urionlinejudge.com.br/judge/pt/problems/view/1068) - [Balanço de Parênteses I](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1068.poti) *Estruturas e Bibliotecas*
-  - [x] [1069](https://www.urionlinejudge.com.br/judge/pt/problems/view/1069) - [Diamantes e Areia](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1069.poti) *Estruturas e Bibliotecas*
-  - [x] [1070](https://www.urionlinejudge.com.br/judge/pt/problems/view/1070) - [Seis Números Ímpares](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1070.poti) *Iniciante*
-  - [x] [1071](https://www.urionlinejudge.com.br/judge/pt/problems/view/1071) - [Soma de Impares Consecutivos I](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1071.poti) *Iniciante*
-  - [x] [1072](https://www.urionlinejudge.com.br/judge/pt/problems/view/1072) - [Intervalo 2](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1072.poti) *Iniciante*
-  - [x] [1073](https://www.urionlinejudge.com.br/judge/pt/problems/view/1073) - [Quadrado de Pares](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1073.poti) *Iniciante*
-  - [x] [1074](https://www.urionlinejudge.com.br/judge/pt/problems/view/1074) - [Par ou Ímpar](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1074.poti) *Iniciante*
-  - [x] [1075](https://www.urionlinejudge.com.br/judge/pt/problems/view/1075) - [Resto 2](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1075.poti) *Iniciante*
-  - [ ] [1076](https://www.urionlinejudge.com.br/judge/pt/problems/view/1076) - Desenhando Labirintos *Grafos*
-  - [ ] [1077](https://www.urionlinejudge.com.br/judge/pt/problems/view/1077) - Infixa para Posfixa *Estruturas e Bibliotecas*
-  - [x] [1078](https://www.urionlinejudge.com.br/judge/pt/problems/view/1078) - [Tabuada](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1078.poti) *Iniciante*
-  - [x] [1079](https://www.urionlinejudge.com.br/judge/pt/problems/view/1079) - [Médias Ponderadas](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1079.poti) *Iniciante*
-  - [x] [1080](https://www.urionlinejudge.com.br/judge/pt/problems/view/1080) - [Maior e Posição](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1080.poti) *Iniciante*
-  - [ ] [1081](https://www.urionlinejudge.com.br/judge/pt/problems/view/1081) - DFSr - Hierarquia de Profundidade *Grafos*
-  - [ ] [1082](https://www.urionlinejudge.com.br/judge/pt/problems/view/1082) - Componentes Conexos *Grafos*
-  - [ ] [1083](https://www.urionlinejudge.com.br/judge/pt/problems/view/1083) - LEXSIM - Avaliador Lexico e Sintático *Estruturas e Bibliotecas*
-  - [x] [1084](https://www.urionlinejudge.com.br/judge/pt/problems/view/1084) - [Apagando e Ganhando](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1084.poti) *Paradigmas*
-  - [ ] [1085](https://www.urionlinejudge.com.br/judge/pt/problems/view/1085) - Babel *Grafos*
-  - [ ] [1086](https://www.urionlinejudge.com.br/judge/pt/problems/view/1086) - O Salão do Clube *Ad-Hoc*
-  - [x] [1087](https://www.urionlinejudge.com.br/judge/pt/problems/view/1087) - [Dama](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1087.poti) *Ad-Hoc*
-  - [ ] [1088](https://www.urionlinejudge.com.br/judge/pt/problems/view/1088) - Bolhas e Baldes *Estruturas e Bibliotecas*
-  - [ ] [1089](https://www.urionlinejudge.com.br/judge/pt/problems/view/1089) - Loop Musical *Ad-Hoc*
-  - [ ] [1090](https://www.urionlinejudge.com.br/judge/pt/problems/view/1090) - Set *Ad-Hoc*
-  - [ ] [1091](https://www.urionlinejudge.com.br/judge/pt/problems/view/1091) - Divisão da Nlogônia *Ad-Hoc*
-  - [ ] [1092](https://www.urionlinejudge.com.br/judge/pt/problems/view/1092) - Maior Subseqüência Crescente *Ad-Hoc*
-  - [ ] [1093](https://www.urionlinejudge.com.br/judge/pt/problems/view/1093) - Vampiros *Matemática*
-  - [x] [1094](https://www.urionlinejudge.com.br/judge/pt/problems/view/1094) - [Experiências](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1094.poti) *Iniciante*
-  - [x] [1095](https://www.urionlinejudge.com.br/judge/pt/problems/view/1095) - [Sequencia IJ 1](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1095.poti) *Iniciante*
-  - [x] [1096](https://www.urionlinejudge.com.br/judge/pt/problems/view/1096) - [Sequencia IJ 2](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1096.poti) *Iniciante*
-  - [x] [1097](https://www.urionlinejudge.com.br/judge/pt/problems/view/1097) - [Sequencia IJ 3](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1097.poti) *Iniciante*
-  - [x] [1098](https://www.urionlinejudge.com.br/judge/pt/problems/view/1098) - [Sequencia IJ 4](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1098.poti) *Iniciante*
-  - [x] [1099](https://www.urionlinejudge.com.br/judge/pt/problems/view/1099) - [Soma de Ímpares Consecutivos II](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1099.poti) *Iniciante*
-  - [ ] [1100](https://www.urionlinejudge.com.br/judge/pt/problems/view/1100) - Movimentos do Cavalo *Grafos*
+  - [x]  [1001](https://www.urionlinejudge.com.br/judge/pt/problems/view/1001) - [Extremamente Básico](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1001.poti) *Iniciante*
+  - [x]  [1002](https://www.urionlinejudge.com.br/judge/pt/problems/view/1002) - [Área do Círculo](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1002.poti) *Iniciante*
+  - [x]  [1003](https://www.urionlinejudge.com.br/judge/pt/problems/view/1003) - [Soma Simples](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1003.poti) *Iniciante*
+  - [x]  [1004](https://www.urionlinejudge.com.br/judge/pt/problems/view/1004) - [Produto Simples](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1004.poti) *Iniciante*
+  - [x]  [1005](https://www.urionlinejudge.com.br/judge/pt/problems/view/1005) - [Média 1](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1005.poti) *Iniciante*
+  - [x]  [1006](https://www.urionlinejudge.com.br/judge/pt/problems/view/1006) - [Média 2](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1006.poti) *Iniciante*
+  - [x]  [1007](https://www.urionlinejudge.com.br/judge/pt/problems/view/1007) - [Diferença](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1007.poti) *Iniciante*
+  - [x]  [1008](https://www.urionlinejudge.com.br/judge/pt/problems/view/1008) - [Salário](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1008.poti) *Iniciante*
+  - [x]  [1009](https://www.urionlinejudge.com.br/judge/pt/problems/view/1009) - [Salário com Bônus](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1009.poti) *Iniciante*
+  - [x]  [1010](https://www.urionlinejudge.com.br/judge/pt/problems/view/1010) - [Cálculo Simples](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1010.poti) *Iniciante*
+  - [x]  [1011](https://www.urionlinejudge.com.br/judge/pt/problems/view/1011) - [Esfera](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1011.poti) *Iniciante*
+  - [x]  [1012](https://www.urionlinejudge.com.br/judge/pt/problems/view/1012) - [Área](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1012.poti) *Iniciante*
+  - [x]  [1013](https://www.urionlinejudge.com.br/judge/pt/problems/view/1013) - [O Maior](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1013.poti) *Iniciante*
+  - [x]  [1014](https://www.urionlinejudge.com.br/judge/pt/problems/view/1014) - [Consumo](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1014.poti) *Iniciante*
+  - [x]  [1015](https://www.urionlinejudge.com.br/judge/pt/problems/view/1015) - [Distância Entre Dois Pontos](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1015.poti) *Iniciante*
+  - [x]  [1016](https://www.urionlinejudge.com.br/judge/pt/problems/view/1016) - [Distância](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1016.poti) *Iniciante*
+  - [x]  [1017](https://www.urionlinejudge.com.br/judge/pt/problems/view/1017) - [Gasto de Combustível](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1017.poti) *Iniciante*
+  - [x]  [1018](https://www.urionlinejudge.com.br/judge/pt/problems/view/1018) - [Cédulas](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1018.poti) *Iniciante*
+  - [x]  [1019](https://www.urionlinejudge.com.br/judge/pt/problems/view/1019) - [Conversão de Tempo](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1019.poti) *Iniciante*
+  - [x]  [1020](https://www.urionlinejudge.com.br/judge/pt/problems/view/1020) - [Idade em Dias](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1020.poti) *Iniciante*
+  - [x]  [1021](https://www.urionlinejudge.com.br/judge/pt/problems/view/1021) - [Notas e Moedas](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1021.poti) *Iniciante*
+  - [x]  [1022](https://www.urionlinejudge.com.br/judge/pt/problems/view/1022) - [TDA Racional](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1022.poti) *Estruturas e Bibliotecas*
+  - [ ]  [1023](https://www.urionlinejudge.com.br/judge/pt/problems/view/1023) - Estiagem *Estruturas e Bibliotecas*
+  - [x]  [1024](https://www.urionlinejudge.com.br/judge/pt/problems/view/1024) - [Criptografia](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1024.poti) *Strings*
+  - [ ]  [1025](https://www.urionlinejudge.com.br/judge/pt/problems/view/1025) - Onde está o Mármore? *Estruturas e Bibliotecas*
+  - [x]  [1026](https://www.urionlinejudge.com.br/judge/pt/problems/view/1026) - [Carrega ou não Carrega?](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1026.poti) *Ad-Hoc*
+  - [ ]  [1027](https://www.urionlinejudge.com.br/judge/pt/problems/view/1027) - Onda Crítica *Paradigmas*
+  - [x]  [1028](https://www.urionlinejudge.com.br/judge/pt/problems/view/1028) - [Figurinhas](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1028.poti) *Matemática*
+  - [x]  [1029](https://www.urionlinejudge.com.br/judge/pt/problems/view/1029) - [Fibonacci, Quantas Chamadas?](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1029.poti) *Paradigmas*
+  - [ ]  [1030](https://www.urionlinejudge.com.br/judge/pt/problems/view/1030) - A Lenda de Flavious Josephus *Ad-Hoc*
+  - [ ]  [1031](https://www.urionlinejudge.com.br/judge/pt/problems/view/1031) - Crise de Energia *Ad-Hoc*
+  - [ ]  [1032](https://www.urionlinejudge.com.br/judge/pt/problems/view/1032) - O Primo de Josephus *Ad-Hoc*
+  - [ ]  [1033](https://www.urionlinejudge.com.br/judge/pt/problems/view/1033) - Quantas Chamadas Recursivas? *Paradigmas*
+  - [ ]  [1034](https://www.urionlinejudge.com.br/judge/pt/problems/view/1034) - Festival de Estátuas de Gelo *Paradigmas*
+  - [x]  [1035](https://www.urionlinejudge.com.br/judge/pt/problems/view/1035) - [Teste de Seleção 1](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1035.poti) *Iniciante*
+  - [x]  [1036](https://www.urionlinejudge.com.br/judge/pt/problems/view/1036) - [Fórmula de Bhaskara](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1036.poti) *Iniciante*
+  - [x]  [1037](https://www.urionlinejudge.com.br/judge/pt/problems/view/1037) - [Intervalo](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1037.poti) *Iniciante*
+  - [x]  [1038](https://www.urionlinejudge.com.br/judge/pt/problems/view/1038) - [Lanche](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1038.poti) *Iniciante*
+  - [ ]  [1039](https://www.urionlinejudge.com.br/judge/pt/problems/view/1039) - Flores de Fogo *Geometria Computacional*
+  - [x]  [1040](https://www.urionlinejudge.com.br/judge/pt/problems/view/1040) - [Média 3](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1040.poti) *Iniciante*
+  - [x]  [1041](https://www.urionlinejudge.com.br/judge/pt/problems/view/1041) - [Coordenadas de um Ponto](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1041.poti) *Iniciante*
+  - [x]  [1042](https://www.urionlinejudge.com.br/judge/pt/problems/view/1042) - [Sort Simples](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1042.poti) *Iniciante*
+  - [x]  [1043](https://www.urionlinejudge.com.br/judge/pt/problems/view/1043) - [Triângulo](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1043.poti) *Iniciante*
+  - [x]  [1044](https://www.urionlinejudge.com.br/judge/pt/problems/view/1044) - [Múltiplos](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1044.poti) *Iniciante*
+  - [x]  [1045](https://www.urionlinejudge.com.br/judge/pt/problems/view/1045) - [Tipos de Triângulos](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1045.poti) *Iniciante*
+  - [x]  [1046](https://www.urionlinejudge.com.br/judge/pt/problems/view/1046) - [Tempo de Jogo](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1046.poti) *Iniciante*
+  - [x]  [1047](https://www.urionlinejudge.com.br/judge/pt/problems/view/1047) - [Tempo de Jogo com Minutos](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1047.poti) *Iniciante*
+  - [x]  [1048](https://www.urionlinejudge.com.br/judge/pt/problems/view/1048) - [Aumento de Salário](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1048.poti) *Iniciante*
+  - [x]  [1049](https://www.urionlinejudge.com.br/judge/pt/problems/view/1049) - [Animal](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1049.poti) *Iniciante*
+  - [x]  [1050](https://www.urionlinejudge.com.br/judge/pt/problems/view/1050) - [DDD](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1050.poti) *Iniciante*
+  - [x]  [1051](https://www.urionlinejudge.com.br/judge/pt/problems/view/1051) - [Imposto de Renda](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1051.poti) *Iniciante*
+  - [x]  [1052](https://www.urionlinejudge.com.br/judge/pt/problems/view/1052) - [Mês](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1052.poti) *Iniciante*
+  - [ ]  [1053](https://www.urionlinejudge.com.br/judge/pt/problems/view/1053) - Desenho Contínuo *Grafos*
+  - [ ]  [1054](https://www.urionlinejudge.com.br/judge/pt/problems/view/1054) - Sapo Dinâmico *Paradigmas*
+  - [ ]  [1055](https://www.urionlinejudge.com.br/judge/pt/problems/view/1055) - Soma Permutada Elegante *Paradigmas*
+  - [ ]  [1056](https://www.urionlinejudge.com.br/judge/pt/problems/view/1056) - Fatores e Múltiplos *Grafos*
+  - [ ]  [1057](https://www.urionlinejudge.com.br/judge/pt/problems/view/1057) - Chegando Junto *Grafos*
+  - [ ]  [1058](https://www.urionlinejudge.com.br/judge/pt/problems/view/1058) - Zonas de Ataque Independentes *Paradigmas*
+  - [x]  [1059](https://www.urionlinejudge.com.br/judge/pt/problems/view/1059) - [Números Pares](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1059.poti) *Iniciante*
+  - [x]  [1060](https://www.urionlinejudge.com.br/judge/pt/problems/view/1060) - [Números Positivos](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1060.poti) *Iniciante*
+  - [x]  [1061](https://www.urionlinejudge.com.br/judge/pt/problems/view/1061) - [Tempo de um Evento](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1061.poti) *Iniciante*
+  - [ ]  [1062](https://www.urionlinejudge.com.br/judge/pt/problems/view/1062) - Trilhos *Estruturas e Bibliotecas*
+  - [ ]  [1063](https://www.urionlinejudge.com.br/judge/pt/problems/view/1063) - Trilhos Novamente... Traçando Movimentos *Estruturas e Bibliotecas*
+  - [x]  [1064](https://www.urionlinejudge.com.br/judge/pt/problems/view/1064) - [Positivos e Média](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1064.poti) *Iniciante*
+  - [x]  [1065](https://www.urionlinejudge.com.br/judge/pt/problems/view/1065) - [Pares entre Cinco Números](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1065.poti) *Iniciante*
+  - [x]  [1066](https://www.urionlinejudge.com.br/judge/pt/problems/view/1066) - [Pares, Ímpares, Positivos e Negativos](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1066.poti) *Iniciante*
+  - [x]  [1067](https://www.urionlinejudge.com.br/judge/pt/problems/view/1067) - [Números Ímpares](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1067.poti) *Iniciante*
+  - [x]  [1068](https://www.urionlinejudge.com.br/judge/pt/problems/view/1068) - [Balanço de Parênteses I](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1068.poti) *Estruturas e Bibliotecas*
+  - [x]  [1069](https://www.urionlinejudge.com.br/judge/pt/problems/view/1069) - [Diamantes e Areia](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1069.poti) *Estruturas e Bibliotecas*
+  - [x]  [1070](https://www.urionlinejudge.com.br/judge/pt/problems/view/1070) - [Seis Números Ímpares](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1070.poti) *Iniciante*
+  - [x]  [1071](https://www.urionlinejudge.com.br/judge/pt/problems/view/1071) - [Soma de Impares Consecutivos I](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1071.poti) *Iniciante*
+  - [x]  [1072](https://www.urionlinejudge.com.br/judge/pt/problems/view/1072) - [Intervalo 2](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1072.poti) *Iniciante*
+  - [x]  [1073](https://www.urionlinejudge.com.br/judge/pt/problems/view/1073) - [Quadrado de Pares](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1073.poti) *Iniciante*
+  - [x]  [1074](https://www.urionlinejudge.com.br/judge/pt/problems/view/1074) - [Par ou Ímpar](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1074.poti) *Iniciante*
+  - [x]  [1075](https://www.urionlinejudge.com.br/judge/pt/problems/view/1075) - [Resto 2](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1075.poti) *Iniciante*
+  - [ ]  [1076](https://www.urionlinejudge.com.br/judge/pt/problems/view/1076) - Desenhando Labirintos *Grafos*
+  - [ ]  [1077](https://www.urionlinejudge.com.br/judge/pt/problems/view/1077) - Infixa para Posfixa *Estruturas e Bibliotecas*
+  - [x]  [1078](https://www.urionlinejudge.com.br/judge/pt/problems/view/1078) - [Tabuada](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1078.poti) *Iniciante*
+  - [x]  [1079](https://www.urionlinejudge.com.br/judge/pt/problems/view/1079) - [Médias Ponderadas](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1079.poti) *Iniciante*
+  - [x]  [1080](https://www.urionlinejudge.com.br/judge/pt/problems/view/1080) - [Maior e Posição](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1080.poti) *Iniciante*
+  - [ ]  [1081](https://www.urionlinejudge.com.br/judge/pt/problems/view/1081) - DFSr - Hierarquia de Profundidade *Grafos*
+  - [ ]  [1082](https://www.urionlinejudge.com.br/judge/pt/problems/view/1082) - Componentes Conexos *Grafos*
+  - [ ]  [1083](https://www.urionlinejudge.com.br/judge/pt/problems/view/1083) - LEXSIM - Avaliador Lexico e Sintático *Estruturas e Bibliotecas*
+  - [x]  [1084](https://www.urionlinejudge.com.br/judge/pt/problems/view/1084) - [Apagando e Ganhando](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1084.poti) *Paradigmas*
+  - [ ]  [1085](https://www.urionlinejudge.com.br/judge/pt/problems/view/1085) - Babel *Grafos*
+  - [ ]  [1086](https://www.urionlinejudge.com.br/judge/pt/problems/view/1086) - O Salão do Clube *Ad-Hoc*
+  - [x]  [1087](https://www.urionlinejudge.com.br/judge/pt/problems/view/1087) - [Dama](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1087.poti) *Ad-Hoc*
+  - [ ]  [1088](https://www.urionlinejudge.com.br/judge/pt/problems/view/1088) - Bolhas e Baldes *Estruturas e Bibliotecas*
+  - [ ]  [1089](https://www.urionlinejudge.com.br/judge/pt/problems/view/1089) - Loop Musical *Ad-Hoc*
+  - [ ]  [1090](https://www.urionlinejudge.com.br/judge/pt/problems/view/1090) - Set *Ad-Hoc*
+  - [ ]  [1091](https://www.urionlinejudge.com.br/judge/pt/problems/view/1091) - Divisão da Nlogônia *Ad-Hoc*
+  - [ ]  [1092](https://www.urionlinejudge.com.br/judge/pt/problems/view/1092) - Maior Subseqüência Crescente *Ad-Hoc*
+  - [ ]  [1093](https://www.urionlinejudge.com.br/judge/pt/problems/view/1093) - Vampiros *Matemática*
+  - [x]  [1094](https://www.urionlinejudge.com.br/judge/pt/problems/view/1094) - [Experiências](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1094.poti) *Iniciante*
+  - [x]  [1095](https://www.urionlinejudge.com.br/judge/pt/problems/view/1095) - [Sequencia IJ 1](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1095.poti) *Iniciante*
+  - [x]  [1096](https://www.urionlinejudge.com.br/judge/pt/problems/view/1096) - [Sequencia IJ 2](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1096.poti) *Iniciante*
+  - [x]  [1097](https://www.urionlinejudge.com.br/judge/pt/problems/view/1097) - [Sequencia IJ 3](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1097.poti) *Iniciante*
+  - [x]  [1098](https://www.urionlinejudge.com.br/judge/pt/problems/view/1098) - [Sequencia IJ 4](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1098.poti) *Iniciante*
+  - [x]  [1099](https://www.urionlinejudge.com.br/judge/pt/problems/view/1099) - [Soma de Ímpares Consecutivos II](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1099.poti) *Iniciante*
+  - [ ]  [1100](https://www.urionlinejudge.com.br/judge/pt/problems/view/1100) - Movimentos do Cavalo *Grafos*

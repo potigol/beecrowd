@@ -1,166 +1,166 @@
 # Estruturas e Bibliotecas (12 / 162)
 
 ## Problemas não resolvidos
-  - [ ] [1023](https://www.urionlinejudge.com.br/judge/pt/problems/view/1023) - Estiagem
-  - [ ] [1025](https://www.urionlinejudge.com.br/judge/pt/problems/view/1025) - Onde está o Mármore?
-  - [ ] [1062](https://www.urionlinejudge.com.br/judge/pt/problems/view/1062) - Trilhos
-  - [ ] [1063](https://www.urionlinejudge.com.br/judge/pt/problems/view/1063) - Trilhos Novamente... Traçando Movimentos
-  - [ ] [1077](https://www.urionlinejudge.com.br/judge/pt/problems/view/1077) - Infixa para Posfixa
-  - [ ] [1083](https://www.urionlinejudge.com.br/judge/pt/problems/view/1083) - LEXSIM - Avaliador Lexico e Sintático
-  - [ ] [1088](https://www.urionlinejudge.com.br/judge/pt/problems/view/1088) - Bolhas e Baldes
-  - [ ] [1112](https://www.urionlinejudge.com.br/judge/pt/problems/view/1112) - Schweisen
-  - [ ] [1119](https://www.urionlinejudge.com.br/judge/pt/problems/view/1119) - A Fila de Desempregados
-  - [ ] [1162](https://www.urionlinejudge.com.br/judge/pt/problems/view/1162) - Organizador de Vagões
-  - [ ] [1167](https://www.urionlinejudge.com.br/judge/pt/problems/view/1167) - Acampamento de Férias
-  - [ ] [1211](https://www.urionlinejudge.com.br/judge/pt/problems/view/1211) - Lista Telefônica Econômica
-  - [ ] [1215](https://www.urionlinejudge.com.br/judge/pt/problems/view/1215) - Primeiro Dicionário de Andy
-  - [ ] [1236](https://www.urionlinejudge.com.br/judge/pt/problems/view/1236) - Compactação de Nulos e Brancos
-  - [ ] [1242](https://www.urionlinejudge.com.br/judge/pt/problems/view/1242) - Ácido Ribonucleico Alienígena
-  - [ ] [1252](https://www.urionlinejudge.com.br/judge/pt/problems/view/1252) - Sort! Sort!! e Sort!!!
-  - [ ] [1256](https://www.urionlinejudge.com.br/judge/pt/problems/view/1256) - Tabelas Hash
-  - [ ] [1258](https://www.urionlinejudge.com.br/judge/pt/problems/view/1258) - Camisetas
-  - [ ] [1260](https://www.urionlinejudge.com.br/judge/pt/problems/view/1260) - Espécies de Madeira
-  - [ ] [1261](https://www.urionlinejudge.com.br/judge/pt/problems/view/1261) - Pontos de Feno
-  - [ ] [1281](https://www.urionlinejudge.com.br/judge/pt/problems/view/1281) - Ida à Feira
-  - [ ] [1301](https://www.urionlinejudge.com.br/judge/pt/problems/view/1301) - Produto do Intervalo
-  - [ ] [1303](https://www.urionlinejudge.com.br/judge/pt/problems/view/1303) - Spurs Rocks
-  - [ ] [1326](https://www.urionlinejudge.com.br/judge/pt/problems/view/1326) - Química
-  - [ ] [1340](https://www.urionlinejudge.com.br/judge/pt/problems/view/1340) - Eu Posso Adivinhar a Estrutura de Dados!
-  - [ ] [1356](https://www.urionlinejudge.com.br/judge/pt/problems/view/1356) - Júpiter Ataca!
-  - [ ] [1382](https://www.urionlinejudge.com.br/judge/pt/problems/view/1382) - Elementar, meu Caro Watson!
-  - [ ] [1388](https://www.urionlinejudge.com.br/judge/pt/problems/view/1388) - Onde Estão as Bolhas?
-  - [ ] [1401](https://www.urionlinejudge.com.br/judge/pt/problems/view/1401) - Gerando Permutações Ordenadas Rapidamente
-  - [ ] [1405](https://www.urionlinejudge.com.br/judge/pt/problems/view/1405) - O Problema da Parada
-  - [ ] [1424](https://www.urionlinejudge.com.br/judge/pt/problems/view/1424) - Problema Fácil de Rujia Liu?
-  - [ ] [1425](https://www.urionlinejudge.com.br/judge/pt/problems/view/1425) - Presente?!
-  - [ ] [1439](https://www.urionlinejudge.com.br/judge/pt/problems/view/1439) - Bora Bora
-  - [ ] [1449](https://www.urionlinejudge.com.br/judge/pt/problems/view/1449) - O Fantástico Jaspion
-  - [ ] [1451](https://www.urionlinejudge.com.br/judge/pt/problems/view/1451) - Teclado Quebrado
-  - [ ] [1452](https://www.urionlinejudge.com.br/judge/pt/problems/view/1452) - Gloud Computing
-  - [ ] [1477](https://www.urionlinejudge.com.br/judge/pt/problems/view/1477) - Homem, Elefante e Rato
-  - [ ] [1500](https://www.urionlinejudge.com.br/judge/pt/problems/view/1500) - Consultas Horríveis
-  - [ ] [1507](https://www.urionlinejudge.com.br/judge/pt/problems/view/1507) - Subsequências
-  - [ ] [1511](https://www.urionlinejudge.com.br/judge/pt/problems/view/1511) - Tabuleiro GCD
-  - [ ] [1520](https://www.urionlinejudge.com.br/judge/pt/problems/view/1520) - Parafusos e Porcas
-  - [ ] [1523](https://www.urionlinejudge.com.br/judge/pt/problems/view/1523) - Estacionamento Linear
-  - [ ] [1527](https://www.urionlinejudge.com.br/judge/pt/problems/view/1527) - Guildas
-  - [ ] [1535](https://www.urionlinejudge.com.br/judge/pt/problems/view/1535) - Números Casal-Solteirão-Solteirona
-  - [ ] [1538](https://www.urionlinejudge.com.br/judge/pt/problems/view/1538) - Sequência Alienígena
-  - [ ] [1548](https://www.urionlinejudge.com.br/judge/pt/problems/view/1548) - Fila do Recreio
-  - [ ] [1566](https://www.urionlinejudge.com.br/judge/pt/problems/view/1566) - Altura
-  - [ ] [1587](https://www.urionlinejudge.com.br/judge/pt/problems/view/1587) - BIT Park
-  - [ ] [1594](https://www.urionlinejudge.com.br/judge/pt/problems/view/1594) - Guloso
-  - [ ] [1633](https://www.urionlinejudge.com.br/judge/pt/problems/view/1633) - SBC
-  - [ ] [1640](https://www.urionlinejudge.com.br/judge/pt/problems/view/1640) - Reservando Hotéis
-  - [ ] [1673](https://www.urionlinejudge.com.br/judge/pt/problems/view/1673) - Codificação Run-length
-  - [ ] [1683](https://www.urionlinejudge.com.br/judge/pt/problems/view/1683) - Maior Retângulo em um Histograma
-  - [ ] [1696](https://www.urionlinejudge.com.br/judge/pt/problems/view/1696) - Brincando Com Operadores
-  - [ ] [1701](https://www.urionlinejudge.com.br/judge/pt/problems/view/1701) - Sequência de Fibo
-  - [ ] [1704](https://www.urionlinejudge.com.br/judge/pt/problems/view/1704) - Arrumando as Tarefas
-  - [ ] [1725](https://www.urionlinejudge.com.br/judge/pt/problems/view/1725) - Quadtree II
-  - [ ] [1740](https://www.urionlinejudge.com.br/judge/pt/problems/view/1740) - Está Ordenado?
-  - [ ] [1746](https://www.urionlinejudge.com.br/judge/pt/problems/view/1746) - Dividindo os Nomes
-  - [ ] [1762](https://www.urionlinejudge.com.br/judge/pt/problems/view/1762) - Trenós do Papai Noel
-  - [ ] [1763](https://www.urionlinejudge.com.br/judge/pt/problems/view/1763) - Tradutor do Papai Noel
-  - [ ] [1766](https://www.urionlinejudge.com.br/judge/pt/problems/view/1766) - O Elfo das Trevas
-  - [ ] [1804](https://www.urionlinejudge.com.br/judge/pt/problems/view/1804) - Precisa-se de Matemáticos em Marte
-  - [ ] [1851](https://www.urionlinejudge.com.br/judge/pt/problems/view/1851) - Como Treinar Seu Dragão
-  - [ ] [1854](https://www.urionlinejudge.com.br/judge/pt/problems/view/1854) - Inverno em Winterfell
-  - [ ] [1856](https://www.urionlinejudge.com.br/judge/pt/problems/view/1856) - A Lista da Morte de Arya
-  - [ ] [1861](https://www.urionlinejudge.com.br/judge/pt/problems/view/1861) - O Hall dos Assassinos
-  - [ ] [1863](https://www.urionlinejudge.com.br/judge/pt/problems/view/1863) - O Contra-ataque de Ramsay
-  - [ ] [1874](https://www.urionlinejudge.com.br/judge/pt/problems/view/1874) - Empurrando Blocos
-  - [ ] [1897](https://www.urionlinejudge.com.br/judge/pt/problems/view/1897) - Jogo Esperto
-  - [ ] [1911](https://www.urionlinejudge.com.br/judge/pt/problems/view/1911) - Ajude Girafales
-  - [ ] [1944](https://www.urionlinejudge.com.br/judge/pt/problems/view/1944) - BRINDE FACE 2015
-  - [ ] [1975](https://www.urionlinejudge.com.br/judge/pt/problems/view/1975) - Pérolas
-  - [ ] [2018](https://www.urionlinejudge.com.br/judge/pt/problems/view/2018) - Olimpíadas de Natal
-  - [ ] [2020](https://www.urionlinejudge.com.br/judge/pt/problems/view/2020) - Elfos e seus Códigos
-  - [ ] [2022](https://www.urionlinejudge.com.br/judge/pt/problems/view/2022) - Presentes de Natal
-  - [ ] [2040](https://www.urionlinejudge.com.br/judge/pt/problems/view/2040) - O Campeão
-  - [ ] [2047](https://www.urionlinejudge.com.br/judge/pt/problems/view/2047) - Fly By Night
-  - [ ] [2064](https://www.urionlinejudge.com.br/judge/pt/problems/view/2064) - Prant e a Indecisão
-  - [ ] [2065](https://www.urionlinejudge.com.br/judge/pt/problems/view/2065) - Fila do Supermercado
-  - [ ] [2067](https://www.urionlinejudge.com.br/judge/pt/problems/view/2067) - Jogo do Quadrado
-  - [ ] [2071](https://www.urionlinejudge.com.br/judge/pt/problems/view/2071) - Banco do Faraó
-  - [ ] [2074](https://www.urionlinejudge.com.br/judge/pt/problems/view/2074) - Variados Pratos da Linda Nefertiti
-  - [ ] [2075](https://www.urionlinejudge.com.br/judge/pt/problems/view/2075) - Zé Coquinho
-  - [ ] [2077](https://www.urionlinejudge.com.br/judge/pt/problems/view/2077) - Los buses de Cartagena
-  - [ ] [2092](https://www.urionlinejudge.com.br/judge/pt/problems/view/2092) - Assistindo o Jogo
-  - [ ] [2110](https://www.urionlinejudge.com.br/judge/pt/problems/view/2110) - Banho de Sol no Jardim
-  - [ ] [2111](https://www.urionlinejudge.com.br/judge/pt/problems/view/2111) - Entendendo o Sorobov
-  - [ ] [2120](https://www.urionlinejudge.com.br/judge/pt/problems/view/2120) - Tutores
-  - [ ] [2122](https://www.urionlinejudge.com.br/judge/pt/problems/view/2122) - Votação em Ecaterimburgo
-  - [ ] [2136](https://www.urionlinejudge.com.br/judge/pt/problems/view/2136) - Amigos do Habay
-  - [ ] [2185](https://www.urionlinejudge.com.br/judge/pt/problems/view/2185) - Brincando com Pomekons
-  - [ ] [2186](https://www.urionlinejudge.com.br/judge/pt/problems/view/2186) - Bino, Prant e a Indecisao
-  - [ ] [2223](https://www.urionlinejudge.com.br/judge/pt/problems/view/2223) - Inventário de Pomekon
-  - [ ] [2239](https://www.urionlinejudge.com.br/judge/pt/problems/view/2239) - Estatística Hexa
-  - [ ] [2240](https://www.urionlinejudge.com.br/judge/pt/problems/view/2240) - Fundindo Árvores
-  - [ ] [2241](https://www.urionlinejudge.com.br/judge/pt/problems/view/2241) - Go--
-  - [ ] [2290](https://www.urionlinejudge.com.br/judge/pt/problems/view/2290) - Números Apaixornados
-  - [ ] [2370](https://www.urionlinejudge.com.br/judge/pt/problems/view/2370) - Times
-  - [ ] [2380](https://www.urionlinejudge.com.br/judge/pt/problems/view/2380) - Fusões
-  - [ ] [2482](https://www.urionlinejudge.com.br/judge/pt/problems/view/2482) - Etiquetas de Noel
-  - [ ] [2488](https://www.urionlinejudge.com.br/judge/pt/problems/view/2488) - É Na Batida do Cavalo!
-  - [ ] [2492](https://www.urionlinejudge.com.br/judge/pt/problems/view/2492) - Ilhas Isoladas
-  - [ ] [2495](https://www.urionlinejudge.com.br/judge/pt/problems/view/2495) - Onde Está Minha Caneta?
-  - [ ] [2496](https://www.urionlinejudge.com.br/judge/pt/problems/view/2496) - A Única Chance
-  - [ ] [2503](https://www.urionlinejudge.com.br/judge/pt/problems/view/2503) - Corrida de Regularidade
-  - [ ] [2506](https://www.urionlinejudge.com.br/judge/pt/problems/view/2506) - Fila do SUS
-  - [ ] [2519](https://www.urionlinejudge.com.br/judge/pt/problems/view/2519) - Estratégia Campeã
-  - [ ] [2526](https://www.urionlinejudge.com.br/judge/pt/problems/view/2526) - Cardápio
-  - [ ] [2531](https://www.urionlinejudge.com.br/judge/pt/problems/view/2531) - Compras em FdI
-  - [ ] [2537](https://www.urionlinejudge.com.br/judge/pt/problems/view/2537) - GigaDrive
-  - [ ] [2538](https://www.urionlinejudge.com.br/judge/pt/problems/view/2538) - Ginásio
-  - [ ] [2539](https://www.urionlinejudge.com.br/judge/pt/problems/view/2539) - High Five
-  - [ ] [2546](https://www.urionlinejudge.com.br/judge/pt/problems/view/2546) - Mesada
-  - [ ] [2559](https://www.urionlinejudge.com.br/judge/pt/problems/view/2559) - Sexta-Feira 13
-  - [ ] [2560](https://www.urionlinejudge.com.br/judge/pt/problems/view/2560) - Surf Aquático
-  - [ ] [2593](https://www.urionlinejudge.com.br/judge/pt/problems/view/2593) - Eachianos I
-  - [ ] [2594](https://www.urionlinejudge.com.br/judge/pt/problems/view/2594) - Eachianos II
-  - [ ] [2633](https://www.urionlinejudge.com.br/judge/pt/problems/view/2633) - Churras no Yuri
-  - [ ] [2654](https://www.urionlinejudge.com.br/judge/pt/problems/view/2654) - Godofor
-  - [ ] [2655](https://www.urionlinejudge.com.br/judge/pt/problems/view/2655) - Trilha Perigosa
-  - [ ] [2656](https://www.urionlinejudge.com.br/judge/pt/problems/view/2656) - Rhombus
-  - [ ] [2658](https://www.urionlinejudge.com.br/judge/pt/problems/view/2658) - Acordes Intergaláticos
-  - [ ] [2671](https://www.urionlinejudge.com.br/judge/pt/problems/view/2671) - Decodificando o Texto
-  - [ ] [2693](https://www.urionlinejudge.com.br/judge/pt/problems/view/2693) - Van
-  - [ ] [2698](https://www.urionlinejudge.com.br/judge/pt/problems/view/2698) - Dispositivo Assombrado
-  - [ ] [2700](https://www.urionlinejudge.com.br/judge/pt/problems/view/2700) - Angariando Fundos
-  - [ ] [2720](https://www.urionlinejudge.com.br/judge/pt/problems/view/2720) - Presentes Grandes
-  - [ ] [2734](https://www.urionlinejudge.com.br/judge/pt/problems/view/2734) - Trocando Presentes
-  - [ ] [2792](https://www.urionlinejudge.com.br/judge/pt/problems/view/2792) - Golnaldinho
-  - [ ] [2800](https://www.urionlinejudge.com.br/judge/pt/problems/view/2800) - Brincando de Consultas
-  - [ ] [2805](https://www.urionlinejudge.com.br/judge/pt/problems/view/2805) - Binarizando a Matriz
-  - [ ] [2821](https://www.urionlinejudge.com.br/judge/pt/problems/view/2821) - Distribuição de Cartas
-  - [ ] [2848](https://www.urionlinejudge.com.br/judge/pt/problems/view/2848) - Rangel e o Jogo do Vetor I
-  - [ ] [2849](https://www.urionlinejudge.com.br/judge/pt/problems/view/2849) - Rangel e o Jogo do Vetor II
-  - [ ] [2855](https://www.urionlinejudge.com.br/judge/pt/problems/view/2855) - Números de Sorte
-  - [ ] [2857](https://www.urionlinejudge.com.br/judge/pt/problems/view/2857) - Fluxo nos Vagões
-  - [ ] [2860](https://www.urionlinejudge.com.br/judge/pt/problems/view/2860) - A Paz em Spar-Ta
-  - [ ] [2872](https://www.urionlinejudge.com.br/judge/pt/problems/view/2872) - Protocolo TCP/IP
-  - [ ] [2889](https://www.urionlinejudge.com.br/judge/pt/problems/view/2889) - O Tasco é Sempre Vice!
-  - [ ] [2893](https://www.urionlinejudge.com.br/judge/pt/problems/view/2893) - Fibonac^{k}i
-  - [ ] [2916](https://www.urionlinejudge.com.br/judge/pt/problems/view/2916) - A Nota
-  - [ ] [2929](https://www.urionlinejudge.com.br/judge/pt/problems/view/2929) - Menor da Pilha
-  - [ ] [2952](https://www.urionlinejudge.com.br/judge/pt/problems/view/2952) - A Vida Sustentável
-  - [ ] [2958](https://www.urionlinejudge.com.br/judge/pt/problems/view/2958) - O Rolê Bad Vibes
-  - [ ] [2961](https://www.urionlinejudge.com.br/judge/pt/problems/view/2961) - Ô, Que Tanto de Filme!
-  - [ ] [2984](https://www.urionlinejudge.com.br/judge/pt/problems/view/2984) - Assuntos Pendentes
-  - [ ] [3045](https://www.urionlinejudge.com.br/judge/pt/problems/view/3045) - Parque Jurássico
-  - [ ] [3069](https://www.urionlinejudge.com.br/judge/pt/problems/view/3069) - Sorvete
-  - [ ] [3097](https://www.urionlinejudge.com.br/judge/pt/problems/view/3097) - Um Desafio Simples
+  - [ ]  [1023](https://www.urionlinejudge.com.br/judge/pt/problems/view/1023) - Estiagem
+  - [ ]  [1025](https://www.urionlinejudge.com.br/judge/pt/problems/view/1025) - Onde está o Mármore?
+  - [ ]  [1062](https://www.urionlinejudge.com.br/judge/pt/problems/view/1062) - Trilhos
+  - [ ]  [1063](https://www.urionlinejudge.com.br/judge/pt/problems/view/1063) - Trilhos Novamente... Traçando Movimentos
+  - [ ]  [1077](https://www.urionlinejudge.com.br/judge/pt/problems/view/1077) - Infixa para Posfixa
+  - [ ]  [1083](https://www.urionlinejudge.com.br/judge/pt/problems/view/1083) - LEXSIM - Avaliador Lexico e Sintático
+  - [ ]  [1088](https://www.urionlinejudge.com.br/judge/pt/problems/view/1088) - Bolhas e Baldes
+  - [ ]  [1112](https://www.urionlinejudge.com.br/judge/pt/problems/view/1112) - Schweisen
+  - [ ]  [1119](https://www.urionlinejudge.com.br/judge/pt/problems/view/1119) - A Fila de Desempregados
+  - [ ]  [1162](https://www.urionlinejudge.com.br/judge/pt/problems/view/1162) - Organizador de Vagões
+  - [ ]  [1167](https://www.urionlinejudge.com.br/judge/pt/problems/view/1167) - Acampamento de Férias
+  - [ ]  [1211](https://www.urionlinejudge.com.br/judge/pt/problems/view/1211) - Lista Telefônica Econômica
+  - [ ]  [1215](https://www.urionlinejudge.com.br/judge/pt/problems/view/1215) - Primeiro Dicionário de Andy
+  - [ ]  [1236](https://www.urionlinejudge.com.br/judge/pt/problems/view/1236) - Compactação de Nulos e Brancos
+  - [ ]  [1242](https://www.urionlinejudge.com.br/judge/pt/problems/view/1242) - Ácido Ribonucleico Alienígena
+  - [ ]  [1252](https://www.urionlinejudge.com.br/judge/pt/problems/view/1252) - Sort! Sort!! e Sort!!!
+  - [ ]  [1256](https://www.urionlinejudge.com.br/judge/pt/problems/view/1256) - Tabelas Hash
+  - [ ]  [1258](https://www.urionlinejudge.com.br/judge/pt/problems/view/1258) - Camisetas
+  - [ ]  [1260](https://www.urionlinejudge.com.br/judge/pt/problems/view/1260) - Espécies de Madeira
+  - [ ]  [1261](https://www.urionlinejudge.com.br/judge/pt/problems/view/1261) - Pontos de Feno
+  - [ ]  [1281](https://www.urionlinejudge.com.br/judge/pt/problems/view/1281) - Ida à Feira
+  - [ ]  [1301](https://www.urionlinejudge.com.br/judge/pt/problems/view/1301) - Produto do Intervalo
+  - [ ]  [1303](https://www.urionlinejudge.com.br/judge/pt/problems/view/1303) - Spurs Rocks
+  - [ ]  [1326](https://www.urionlinejudge.com.br/judge/pt/problems/view/1326) - Química
+  - [ ]  [1340](https://www.urionlinejudge.com.br/judge/pt/problems/view/1340) - Eu Posso Adivinhar a Estrutura de Dados!
+  - [ ]  [1356](https://www.urionlinejudge.com.br/judge/pt/problems/view/1356) - Júpiter Ataca!
+  - [ ]  [1382](https://www.urionlinejudge.com.br/judge/pt/problems/view/1382) - Elementar, meu Caro Watson!
+  - [ ]  [1388](https://www.urionlinejudge.com.br/judge/pt/problems/view/1388) - Onde Estão as Bolhas?
+  - [ ]  [1401](https://www.urionlinejudge.com.br/judge/pt/problems/view/1401) - Gerando Permutações Ordenadas Rapidamente
+  - [ ]  [1405](https://www.urionlinejudge.com.br/judge/pt/problems/view/1405) - O Problema da Parada
+  - [ ]  [1424](https://www.urionlinejudge.com.br/judge/pt/problems/view/1424) - Problema Fácil de Rujia Liu?
+  - [ ]  [1425](https://www.urionlinejudge.com.br/judge/pt/problems/view/1425) - Presente?!
+  - [ ]  [1439](https://www.urionlinejudge.com.br/judge/pt/problems/view/1439) - Bora Bora
+  - [ ]  [1449](https://www.urionlinejudge.com.br/judge/pt/problems/view/1449) - O Fantástico Jaspion
+  - [ ]  [1451](https://www.urionlinejudge.com.br/judge/pt/problems/view/1451) - Teclado Quebrado
+  - [ ]  [1452](https://www.urionlinejudge.com.br/judge/pt/problems/view/1452) - Gloud Computing
+  - [ ]  [1477](https://www.urionlinejudge.com.br/judge/pt/problems/view/1477) - Homem, Elefante e Rato
+  - [ ]  [1500](https://www.urionlinejudge.com.br/judge/pt/problems/view/1500) - Consultas Horríveis
+  - [ ]  [1507](https://www.urionlinejudge.com.br/judge/pt/problems/view/1507) - Subsequências
+  - [ ]  [1511](https://www.urionlinejudge.com.br/judge/pt/problems/view/1511) - Tabuleiro GCD
+  - [ ]  [1520](https://www.urionlinejudge.com.br/judge/pt/problems/view/1520) - Parafusos e Porcas
+  - [ ]  [1523](https://www.urionlinejudge.com.br/judge/pt/problems/view/1523) - Estacionamento Linear
+  - [ ]  [1527](https://www.urionlinejudge.com.br/judge/pt/problems/view/1527) - Guildas
+  - [ ]  [1535](https://www.urionlinejudge.com.br/judge/pt/problems/view/1535) - Números Casal-Solteirão-Solteirona
+  - [ ]  [1538](https://www.urionlinejudge.com.br/judge/pt/problems/view/1538) - Sequência Alienígena
+  - [ ]  [1548](https://www.urionlinejudge.com.br/judge/pt/problems/view/1548) - Fila do Recreio
+  - [ ]  [1566](https://www.urionlinejudge.com.br/judge/pt/problems/view/1566) - Altura
+  - [ ]  [1587](https://www.urionlinejudge.com.br/judge/pt/problems/view/1587) - BIT Park
+  - [ ]  [1594](https://www.urionlinejudge.com.br/judge/pt/problems/view/1594) - Guloso
+  - [ ]  [1633](https://www.urionlinejudge.com.br/judge/pt/problems/view/1633) - SBC
+  - [ ]  [1640](https://www.urionlinejudge.com.br/judge/pt/problems/view/1640) - Reservando Hotéis
+  - [ ]  [1673](https://www.urionlinejudge.com.br/judge/pt/problems/view/1673) - Codificação Run-length
+  - [ ]  [1683](https://www.urionlinejudge.com.br/judge/pt/problems/view/1683) - Maior Retângulo em um Histograma
+  - [ ]  [1696](https://www.urionlinejudge.com.br/judge/pt/problems/view/1696) - Brincando Com Operadores
+  - [ ]  [1701](https://www.urionlinejudge.com.br/judge/pt/problems/view/1701) - Sequência de Fibo
+  - [ ]  [1704](https://www.urionlinejudge.com.br/judge/pt/problems/view/1704) - Arrumando as Tarefas
+  - [ ]  [1725](https://www.urionlinejudge.com.br/judge/pt/problems/view/1725) - Quadtree II
+  - [ ]  [1740](https://www.urionlinejudge.com.br/judge/pt/problems/view/1740) - Está Ordenado?
+  - [ ]  [1746](https://www.urionlinejudge.com.br/judge/pt/problems/view/1746) - Dividindo os Nomes
+  - [ ]  [1762](https://www.urionlinejudge.com.br/judge/pt/problems/view/1762) - Trenós do Papai Noel
+  - [ ]  [1763](https://www.urionlinejudge.com.br/judge/pt/problems/view/1763) - Tradutor do Papai Noel
+  - [ ]  [1766](https://www.urionlinejudge.com.br/judge/pt/problems/view/1766) - O Elfo das Trevas
+  - [ ]  [1804](https://www.urionlinejudge.com.br/judge/pt/problems/view/1804) - Precisa-se de Matemáticos em Marte
+  - [ ]  [1851](https://www.urionlinejudge.com.br/judge/pt/problems/view/1851) - Como Treinar Seu Dragão
+  - [ ]  [1854](https://www.urionlinejudge.com.br/judge/pt/problems/view/1854) - Inverno em Winterfell
+  - [ ]  [1856](https://www.urionlinejudge.com.br/judge/pt/problems/view/1856) - A Lista da Morte de Arya
+  - [ ]  [1861](https://www.urionlinejudge.com.br/judge/pt/problems/view/1861) - O Hall dos Assassinos
+  - [ ]  [1863](https://www.urionlinejudge.com.br/judge/pt/problems/view/1863) - O Contra-ataque de Ramsay
+  - [ ]  [1874](https://www.urionlinejudge.com.br/judge/pt/problems/view/1874) - Empurrando Blocos
+  - [ ]  [1897](https://www.urionlinejudge.com.br/judge/pt/problems/view/1897) - Jogo Esperto
+  - [ ]  [1911](https://www.urionlinejudge.com.br/judge/pt/problems/view/1911) - Ajude Girafales
+  - [ ]  [1944](https://www.urionlinejudge.com.br/judge/pt/problems/view/1944) - BRINDE FACE 2015
+  - [ ]  [1975](https://www.urionlinejudge.com.br/judge/pt/problems/view/1975) - Pérolas
+  - [ ]  [2018](https://www.urionlinejudge.com.br/judge/pt/problems/view/2018) - Olimpíadas de Natal
+  - [ ]  [2020](https://www.urionlinejudge.com.br/judge/pt/problems/view/2020) - Elfos e seus Códigos
+  - [ ]  [2022](https://www.urionlinejudge.com.br/judge/pt/problems/view/2022) - Presentes de Natal
+  - [ ]  [2040](https://www.urionlinejudge.com.br/judge/pt/problems/view/2040) - O Campeão
+  - [ ]  [2047](https://www.urionlinejudge.com.br/judge/pt/problems/view/2047) - Fly By Night
+  - [ ]  [2064](https://www.urionlinejudge.com.br/judge/pt/problems/view/2064) - Prant e a Indecisão
+  - [ ]  [2065](https://www.urionlinejudge.com.br/judge/pt/problems/view/2065) - Fila do Supermercado
+  - [ ]  [2067](https://www.urionlinejudge.com.br/judge/pt/problems/view/2067) - Jogo do Quadrado
+  - [ ]  [2071](https://www.urionlinejudge.com.br/judge/pt/problems/view/2071) - Banco do Faraó
+  - [ ]  [2074](https://www.urionlinejudge.com.br/judge/pt/problems/view/2074) - Variados Pratos da Linda Nefertiti
+  - [ ]  [2075](https://www.urionlinejudge.com.br/judge/pt/problems/view/2075) - Zé Coquinho
+  - [ ]  [2077](https://www.urionlinejudge.com.br/judge/pt/problems/view/2077) - Los buses de Cartagena
+  - [ ]  [2092](https://www.urionlinejudge.com.br/judge/pt/problems/view/2092) - Assistindo o Jogo
+  - [ ]  [2110](https://www.urionlinejudge.com.br/judge/pt/problems/view/2110) - Banho de Sol no Jardim
+  - [ ]  [2111](https://www.urionlinejudge.com.br/judge/pt/problems/view/2111) - Entendendo o Sorobov
+  - [ ]  [2120](https://www.urionlinejudge.com.br/judge/pt/problems/view/2120) - Tutores
+  - [ ]  [2122](https://www.urionlinejudge.com.br/judge/pt/problems/view/2122) - Votação em Ecaterimburgo
+  - [ ]  [2136](https://www.urionlinejudge.com.br/judge/pt/problems/view/2136) - Amigos do Habay
+  - [ ]  [2185](https://www.urionlinejudge.com.br/judge/pt/problems/view/2185) - Brincando com Pomekons
+  - [ ]  [2186](https://www.urionlinejudge.com.br/judge/pt/problems/view/2186) - Bino, Prant e a Indecisao
+  - [ ]  [2223](https://www.urionlinejudge.com.br/judge/pt/problems/view/2223) - Inventário de Pomekon
+  - [ ]  [2239](https://www.urionlinejudge.com.br/judge/pt/problems/view/2239) - Estatística Hexa
+  - [ ]  [2240](https://www.urionlinejudge.com.br/judge/pt/problems/view/2240) - Fundindo Árvores
+  - [ ]  [2241](https://www.urionlinejudge.com.br/judge/pt/problems/view/2241) - Go--
+  - [ ]  [2290](https://www.urionlinejudge.com.br/judge/pt/problems/view/2290) - Números Apaixornados
+  - [ ]  [2370](https://www.urionlinejudge.com.br/judge/pt/problems/view/2370) - Times
+  - [ ]  [2380](https://www.urionlinejudge.com.br/judge/pt/problems/view/2380) - Fusões
+  - [ ]  [2482](https://www.urionlinejudge.com.br/judge/pt/problems/view/2482) - Etiquetas de Noel
+  - [ ]  [2488](https://www.urionlinejudge.com.br/judge/pt/problems/view/2488) - É Na Batida do Cavalo!
+  - [ ]  [2492](https://www.urionlinejudge.com.br/judge/pt/problems/view/2492) - Ilhas Isoladas
+  - [ ]  [2495](https://www.urionlinejudge.com.br/judge/pt/problems/view/2495) - Onde Está Minha Caneta?
+  - [ ]  [2496](https://www.urionlinejudge.com.br/judge/pt/problems/view/2496) - A Única Chance
+  - [ ]  [2503](https://www.urionlinejudge.com.br/judge/pt/problems/view/2503) - Corrida de Regularidade
+  - [ ]  [2506](https://www.urionlinejudge.com.br/judge/pt/problems/view/2506) - Fila do SUS
+  - [ ]  [2519](https://www.urionlinejudge.com.br/judge/pt/problems/view/2519) - Estratégia Campeã
+  - [ ]  [2526](https://www.urionlinejudge.com.br/judge/pt/problems/view/2526) - Cardápio
+  - [ ]  [2531](https://www.urionlinejudge.com.br/judge/pt/problems/view/2531) - Compras em FdI
+  - [ ]  [2537](https://www.urionlinejudge.com.br/judge/pt/problems/view/2537) - GigaDrive
+  - [ ]  [2538](https://www.urionlinejudge.com.br/judge/pt/problems/view/2538) - Ginásio
+  - [ ]  [2539](https://www.urionlinejudge.com.br/judge/pt/problems/view/2539) - High Five
+  - [ ]  [2546](https://www.urionlinejudge.com.br/judge/pt/problems/view/2546) - Mesada
+  - [ ]  [2559](https://www.urionlinejudge.com.br/judge/pt/problems/view/2559) - Sexta-Feira 13
+  - [ ]  [2560](https://www.urionlinejudge.com.br/judge/pt/problems/view/2560) - Surf Aquático
+  - [ ]  [2593](https://www.urionlinejudge.com.br/judge/pt/problems/view/2593) - Eachianos I
+  - [ ]  [2594](https://www.urionlinejudge.com.br/judge/pt/problems/view/2594) - Eachianos II
+  - [ ]  [2633](https://www.urionlinejudge.com.br/judge/pt/problems/view/2633) - Churras no Yuri
+  - [ ]  [2654](https://www.urionlinejudge.com.br/judge/pt/problems/view/2654) - Godofor
+  - [ ]  [2655](https://www.urionlinejudge.com.br/judge/pt/problems/view/2655) - Trilha Perigosa
+  - [ ]  [2656](https://www.urionlinejudge.com.br/judge/pt/problems/view/2656) - Rhombus
+  - [ ]  [2658](https://www.urionlinejudge.com.br/judge/pt/problems/view/2658) - Acordes Intergaláticos
+  - [ ]  [2671](https://www.urionlinejudge.com.br/judge/pt/problems/view/2671) - Decodificando o Texto
+  - [ ]  [2693](https://www.urionlinejudge.com.br/judge/pt/problems/view/2693) - Van
+  - [ ]  [2698](https://www.urionlinejudge.com.br/judge/pt/problems/view/2698) - Dispositivo Assombrado
+  - [ ]  [2700](https://www.urionlinejudge.com.br/judge/pt/problems/view/2700) - Angariando Fundos
+  - [ ]  [2720](https://www.urionlinejudge.com.br/judge/pt/problems/view/2720) - Presentes Grandes
+  - [ ]  [2734](https://www.urionlinejudge.com.br/judge/pt/problems/view/2734) - Trocando Presentes
+  - [ ]  [2792](https://www.urionlinejudge.com.br/judge/pt/problems/view/2792) - Golnaldinho
+  - [ ]  [2800](https://www.urionlinejudge.com.br/judge/pt/problems/view/2800) - Brincando de Consultas
+  - [ ]  [2805](https://www.urionlinejudge.com.br/judge/pt/problems/view/2805) - Binarizando a Matriz
+  - [ ]  [2821](https://www.urionlinejudge.com.br/judge/pt/problems/view/2821) - Distribuição de Cartas
+  - [ ]  [2848](https://www.urionlinejudge.com.br/judge/pt/problems/view/2848) - Rangel e o Jogo do Vetor I
+  - [ ]  [2849](https://www.urionlinejudge.com.br/judge/pt/problems/view/2849) - Rangel e o Jogo do Vetor II
+  - [ ]  [2855](https://www.urionlinejudge.com.br/judge/pt/problems/view/2855) - Números de Sorte
+  - [ ]  [2857](https://www.urionlinejudge.com.br/judge/pt/problems/view/2857) - Fluxo nos Vagões
+  - [ ]  [2860](https://www.urionlinejudge.com.br/judge/pt/problems/view/2860) - A Paz em Spar-Ta
+  - [ ]  [2872](https://www.urionlinejudge.com.br/judge/pt/problems/view/2872) - Protocolo TCP/IP
+  - [ ]  [2889](https://www.urionlinejudge.com.br/judge/pt/problems/view/2889) - O Tasco é Sempre Vice!
+  - [ ]  [2893](https://www.urionlinejudge.com.br/judge/pt/problems/view/2893) - Fibonac^{k}i
+  - [ ]  [2916](https://www.urionlinejudge.com.br/judge/pt/problems/view/2916) - A Nota
+  - [ ]  [2929](https://www.urionlinejudge.com.br/judge/pt/problems/view/2929) - Menor da Pilha
+  - [ ]  [2952](https://www.urionlinejudge.com.br/judge/pt/problems/view/2952) - A Vida Sustentável
+  - [ ]  [2958](https://www.urionlinejudge.com.br/judge/pt/problems/view/2958) - O Rolê Bad Vibes
+  - [ ]  [2961](https://www.urionlinejudge.com.br/judge/pt/problems/view/2961) - Ô, Que Tanto de Filme!
+  - [ ]  [2984](https://www.urionlinejudge.com.br/judge/pt/problems/view/2984) - Assuntos Pendentes
+  - [ ]  [3045](https://www.urionlinejudge.com.br/judge/pt/problems/view/3045) - Parque Jurássico
+  - [ ]  [3069](https://www.urionlinejudge.com.br/judge/pt/problems/view/3069) - Sorvete
+  - [ ]  [3097](https://www.urionlinejudge.com.br/judge/pt/problems/view/3097) - Um Desafio Simples
 ## Problemas resolvidos
-  - [x] [1022](https://www.urionlinejudge.com.br/judge/pt/problems/view/1022) - [TDA Racional](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1022.poti)
-  - [x] [1068](https://www.urionlinejudge.com.br/judge/pt/problems/view/1068) - [Balanço de Parênteses I](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1068.poti)
-  - [x] [1069](https://www.urionlinejudge.com.br/judge/pt/problems/view/1069) - [Diamantes e Areia](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1069.poti)
-  - [x] [1110](https://www.urionlinejudge.com.br/judge/pt/problems/view/1110) - [Jogando Cartas Fora](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1110.poti)
-  - [x] [1244](https://www.urionlinejudge.com.br/judge/pt/problems/view/1244) - [Ordenação por Tamanho](https://github.com/potigol/URI-Potigol/blob/master/src/1201-1300/1244.poti)
-  - [x] [1251](https://www.urionlinejudge.com.br/judge/pt/problems/view/1251) - [Diga-me a Frequência](https://github.com/potigol/URI-Potigol/blob/master/src/1201-1300/1251.poti)
-  - [x] [1259](https://www.urionlinejudge.com.br/judge/pt/problems/view/1259) - [Pares e Ímpares](https://github.com/potigol/URI-Potigol/blob/master/src/1201-1300/1259.poti)
-  - [x] [1430](https://www.urionlinejudge.com.br/judge/pt/problems/view/1430) - [Composição de Jingles](https://github.com/potigol/URI-Potigol/blob/master/src/1401-1500/1430.poti)
-  - [x] [1709](https://www.urionlinejudge.com.br/judge/pt/problems/view/1709) - [Baralho Embaralhado](https://github.com/potigol/URI-Potigol/blob/master/src/1701-1800/1709.poti)
-  - [x] [2091](https://www.urionlinejudge.com.br/judge/pt/problems/view/2091) - [Número Solitário](https://github.com/potigol/URI-Potigol/blob/master/src/2001-2100/2091.poti)
-  - [x] [2338](https://www.urionlinejudge.com.br/judge/pt/problems/view/2338) - [Morse](https://github.com/potigol/URI-Potigol/blob/master/src/2301-2400/2338.poti)
-  - [x] [2729](https://www.urionlinejudge.com.br/judge/pt/problems/view/2729) - [Lista de Compras](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2729.poti)
+  - [x]  [1022](https://www.urionlinejudge.com.br/judge/pt/problems/view/1022) - [TDA Racional](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1022.poti)
+  - [x]  [1068](https://www.urionlinejudge.com.br/judge/pt/problems/view/1068) - [Balanço de Parênteses I](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1068.poti)
+  - [x]  [1069](https://www.urionlinejudge.com.br/judge/pt/problems/view/1069) - [Diamantes e Areia](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1069.poti)
+  - [x]  [1110](https://www.urionlinejudge.com.br/judge/pt/problems/view/1110) - [Jogando Cartas Fora](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1110.poti)
+  - [x]  [1244](https://www.urionlinejudge.com.br/judge/pt/problems/view/1244) - [Ordenação por Tamanho](https://github.com/potigol/URI-Potigol/blob/master/src/1201-1300/1244.poti)
+  - [x]  [1251](https://www.urionlinejudge.com.br/judge/pt/problems/view/1251) - [Diga-me a Frequência](https://github.com/potigol/URI-Potigol/blob/master/src/1201-1300/1251.poti)
+  - [x]  [1259](https://www.urionlinejudge.com.br/judge/pt/problems/view/1259) - [Pares e Ímpares](https://github.com/potigol/URI-Potigol/blob/master/src/1201-1300/1259.poti)
+  - [x]  [1430](https://www.urionlinejudge.com.br/judge/pt/problems/view/1430) - [Composição de Jingles](https://github.com/potigol/URI-Potigol/blob/master/src/1401-1500/1430.poti)
+  - [x]  [1709](https://www.urionlinejudge.com.br/judge/pt/problems/view/1709) - [Baralho Embaralhado](https://github.com/potigol/URI-Potigol/blob/master/src/1701-1800/1709.poti)
+  - [x]  [2091](https://www.urionlinejudge.com.br/judge/pt/problems/view/2091) - [Número Solitário](https://github.com/potigol/URI-Potigol/blob/master/src/2001-2100/2091.poti)
+  - [x]  [2338](https://www.urionlinejudge.com.br/judge/pt/problems/view/2338) - [Morse](https://github.com/potigol/URI-Potigol/blob/master/src/2301-2400/2338.poti)
+  - [x]  [2729](https://www.urionlinejudge.com.br/judge/pt/problems/view/2729) - [Lista de Compras](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2729.poti)

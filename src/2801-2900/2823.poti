@@ -1,0 +1,11 @@
+n = leia_inteiro
+var soma := 0.0
+para i de 1 ate n faca
+  a = leia_reais(" ")
+  soma := soma + a[1] / a[2]
+fim
+se soma <= 1.0 entao
+  escreva "OK"
+senao
+  escreva "FAIL"
+fim
