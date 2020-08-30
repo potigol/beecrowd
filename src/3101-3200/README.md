@@ -27,23 +27,23 @@
   - [ ]  [3125](https://www.urionlinejudge.com.br/judge/pt/problems/view/3125) - Princesa das Equações *Ad-Hoc*
   - [x]  [3126](https://www.urionlinejudge.com.br/judge/pt/problems/view/3126) - [Lista de Treinamento](https://github.com/potigol/URI-Potigol/blob/master/src/3101-3200/3126.poti) *Ad-Hoc*
   - [ ]  [3127](https://www.urionlinejudge.com.br/judge/pt/problems/view/3127) - Kampeonato de Feijão *Ad-Hoc*
-  - [ ] ~~3128~~
-  - [ ] ~~3129~~
-  - [ ] ~~3130~~
-  - [ ] ~~3131~~
-  - [ ] ~~3132~~
-  - [ ] ~~3133~~
-  - [ ] ~~3134~~
-  - [ ] ~~3135~~
-  - [ ] ~~3136~~
-  - [ ] ~~3137~~
-  - [ ] ~~3138~~
-  - [ ] ~~3139~~
-  - [ ] ~~3140~~
-  - [ ] ~~3141~~
-  - [ ] ~~3142~~
-  - [ ] ~~3143~~
-  - [ ] ~~3144~~
+  - [ ]  [3128](https://www.urionlinejudge.com.br/judge/pt/problems/view/3128) - Regras do Cinema *Ad-Hoc*
+  - [ ]  [3129](https://www.urionlinejudge.com.br/judge/pt/problems/view/3129) - Figurinhas Repetidas *Ad-Hoc*
+  - [ ]  [3130](https://www.urionlinejudge.com.br/judge/pt/problems/view/3130) - Caixas Por Todo Lado *Ad-Hoc*
+  - [ ]  [3131](https://www.urionlinejudge.com.br/judge/pt/problems/view/3131) - Índice de Reputação *Ad-Hoc*
+  - [ ]  [3132](https://www.urionlinejudge.com.br/judge/pt/problems/view/3132) - DNA Alienígena *Ad-Hoc*
+  - [ ]  [3133](https://www.urionlinejudge.com.br/judge/pt/problems/view/3133) - Fila de Navios *Ad-Hoc*
+  - [ ]  [3134](https://www.urionlinejudge.com.br/judge/pt/problems/view/3134) - Balança Equilibrada *Ad-Hoc*
+  - [ ]  [3135](https://www.urionlinejudge.com.br/judge/pt/problems/view/3135) - Lista de Nomes *Ad-Hoc*
+  - [ ]  [3136](https://www.urionlinejudge.com.br/judge/pt/problems/view/3136) - Arquitetura de Pilha *Ad-Hoc*
+  - [ ]  [3137](https://www.urionlinejudge.com.br/judge/pt/problems/view/3137) - Páginas de um Livro *Ad-Hoc*
+  - [ ]  [3138](https://www.urionlinejudge.com.br/judge/pt/problems/view/3138) - Aniversário do Tobias *Matemática*
+  - [ ]  [3139](https://www.urionlinejudge.com.br/judge/pt/problems/view/3139) - Buscando Novos Seguidores *Estruturas e Bibliotecas*
+  - [ ]  [3140](https://www.urionlinejudge.com.br/judge/pt/problems/view/3140) - Copiando e Colando Código *Iniciante*
+  - [ ]  [3141](https://www.urionlinejudge.com.br/judge/pt/problems/view/3141) - Dúvida Etária *Strings*
+  - [ ]  [3142](https://www.urionlinejudge.com.br/judge/pt/problems/view/3142) - Excel Bugado *Iniciante*
+  - [ ]  [3143](https://www.urionlinejudge.com.br/judge/pt/problems/view/3143) - Fugindo do Celular *Strings*
+  - [ ]  [3144](https://www.urionlinejudge.com.br/judge/pt/problems/view/3144) - G de Grafo *Grafos*
   - [ ] ~~3145~~
   - [ ] ~~3146~~
   - [ ] ~~3147~~

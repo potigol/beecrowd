@@ -1,4 +1,4 @@
-# Estruturas e Bibliotecas (12 / 162)
+# Estruturas e Bibliotecas (12 / 163)
 
 ## Problemas não resolvidos
   - [ ]  [1023](https://www.urionlinejudge.com.br/judge/pt/problems/view/1023) - Estiagem
@@ -151,6 +151,7 @@
   - [ ]  [3045](https://www.urionlinejudge.com.br/judge/pt/problems/view/3045) - Parque Jurássico
   - [ ]  [3069](https://www.urionlinejudge.com.br/judge/pt/problems/view/3069) - Sorvete
   - [ ]  [3097](https://www.urionlinejudge.com.br/judge/pt/problems/view/3097) - Um Desafio Simples
+  - [ ]  [3139](https://www.urionlinejudge.com.br/judge/pt/problems/view/3139) - Buscando Novos Seguidores
 ## Problemas resolvidos
   - [x]  [1022](https://www.urionlinejudge.com.br/judge/pt/problems/view/1022) - [TDA Racional](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1022.poti)
   - [x]  [1068](https://www.urionlinejudge.com.br/judge/pt/problems/view/1068) - [Balanço de Parênteses I](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1068.poti)

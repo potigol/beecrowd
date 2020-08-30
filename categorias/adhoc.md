@@ -1,4 +1,4 @@
-# Ad-Hoc (90 / 692)
+# Ad-Hoc (90 / 702)
 
 ## Problemas não resolvidos
   - [ ]  [1030](https://www.urionlinejudge.com.br/judge/pt/problems/view/1030) - A Lenda de Flavious Josephus
@@ -603,6 +603,16 @@
   - [ ]  [3123](https://www.urionlinejudge.com.br/judge/pt/problems/view/3123) - Pedras do Gênesis
   - [ ]  [3125](https://www.urionlinejudge.com.br/judge/pt/problems/view/3125) - Princesa das Equações
   - [ ]  [3127](https://www.urionlinejudge.com.br/judge/pt/problems/view/3127) - Kampeonato de Feijão
+  - [ ]  [3128](https://www.urionlinejudge.com.br/judge/pt/problems/view/3128) - Regras do Cinema
+  - [ ]  [3129](https://www.urionlinejudge.com.br/judge/pt/problems/view/3129) - Figurinhas Repetidas
+  - [ ]  [3130](https://www.urionlinejudge.com.br/judge/pt/problems/view/3130) - Caixas Por Todo Lado
+  - [ ]  [3131](https://www.urionlinejudge.com.br/judge/pt/problems/view/3131) - Índice de Reputação
+  - [ ]  [3132](https://www.urionlinejudge.com.br/judge/pt/problems/view/3132) - DNA Alienígena
+  - [ ]  [3133](https://www.urionlinejudge.com.br/judge/pt/problems/view/3133) - Fila de Navios
+  - [ ]  [3134](https://www.urionlinejudge.com.br/judge/pt/problems/view/3134) - Balança Equilibrada
+  - [ ]  [3135](https://www.urionlinejudge.com.br/judge/pt/problems/view/3135) - Lista de Nomes
+  - [ ]  [3136](https://www.urionlinejudge.com.br/judge/pt/problems/view/3136) - Arquitetura de Pilha
+  - [ ]  [3137](https://www.urionlinejudge.com.br/judge/pt/problems/view/3137) - Páginas de um Livro
 ## Problemas resolvidos
   - [x]  [1026](https://www.urionlinejudge.com.br/judge/pt/problems/view/1026) - [Carrega ou não Carrega?](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1026.poti)
   - [x]  [1087](https://www.urionlinejudge.com.br/judge/pt/problems/view/1087) - [Dama](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1087.poti)

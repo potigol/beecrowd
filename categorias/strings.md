@@ -1,4 +1,4 @@
-# Strings (32 / 134)
+# Strings (32 / 136)
 
 ## Problemas não resolvidos
   - [ ]  [1141](https://www.urionlinejudge.com.br/judge/pt/problems/view/1141) - Cultivando Strings
@@ -103,6 +103,8 @@
   - [ ]  [3100](https://www.urionlinejudge.com.br/judge/pt/problems/view/3100) - Os Dígitos da Sorte
   - [ ]  [3103](https://www.urionlinejudge.com.br/judge/pt/problems/view/3103) - Número da Sorte
   - [ ]  [3118](https://www.urionlinejudge.com.br/judge/pt/problems/view/3118) - Bactérias, Suas Loucas!
+  - [ ]  [3141](https://www.urionlinejudge.com.br/judge/pt/problems/view/3141) - Dúvida Etária
+  - [ ]  [3143](https://www.urionlinejudge.com.br/judge/pt/problems/view/3143) - Fugindo do Celular
 ## Problemas resolvidos
   - [x]  [1024](https://www.urionlinejudge.com.br/judge/pt/problems/view/1024) - [Criptografia](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1024.poti)
   - [x]  [1120](https://www.urionlinejudge.com.br/judge/pt/problems/view/1120) - [Revisão de Contrato](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1120.poti)

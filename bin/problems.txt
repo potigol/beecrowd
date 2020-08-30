@@ -1591,12 +1591,10 @@
 2605	Representantes Executivos	SQL
 2606	Categorias	SQL
 2608	Maior e Menor Preço	SQL
-2609	Produtos por Categorias	SQL
 2610	Valor Médio dos Produtos	SQL
 2611	Filmes de Ação	SQL
 2613	Filmes em Promoção	SQL
 2614	Locações de Setembro	SQL
-2615	Expandindo o Negocio	SQL
 2616	Nenhuma Locação	SQL
 2617	Fornecedor Ajax SA	SQL
 2618	Produtos Importados	SQL
@@ -2100,3 +2098,20 @@
 3125	Princesa das Equações	Ad-Hoc
 3126	Lista de Treinamento	Ad-Hoc
 3127	Kampeonato de Feijão	Ad-Hoc
+3128	Regras do Cinema	Ad-Hoc
+3129	Figurinhas Repetidas	Ad-Hoc
+3130	Caixas Por Todo Lado	Ad-Hoc
+3131	Índice de Reputação	Ad-Hoc
+3132	DNA Alienígena	Ad-Hoc
+3133	Fila de Navios	Ad-Hoc
+3134	Balança Equilibrada	Ad-Hoc
+3135	Lista de Nomes	Ad-Hoc
+3136	Arquitetura de Pilha	Ad-Hoc
+3137	Páginas de um Livro	Ad-Hoc
+3138	Aniversário do Tobias	Matemática
+3139	Buscando Novos Seguidores	Estruturas e Bibliotecas
+3140	Copiando e Colando Código	Iniciante
+3141	Dúvida Etária	Strings
+3142	Excel Bugado	Iniciante
+3143	Fugindo do Celular	Strings
+3144	G de Grafo	Grafos
