@@ -33,15 +33,15 @@
   - [ ]  [3131](https://www.urionlinejudge.com.br/judge/pt/problems/view/3131) - Índice de Reputação *Ad-Hoc*
   - [ ]  [3132](https://www.urionlinejudge.com.br/judge/pt/problems/view/3132) - DNA Alienígena *Ad-Hoc*
   - [ ]  [3133](https://www.urionlinejudge.com.br/judge/pt/problems/view/3133) - Fila de Navios *Ad-Hoc*
-  - [ ]  [3134](https://www.urionlinejudge.com.br/judge/pt/problems/view/3134) - Balança Equilibrada *Ad-Hoc*
+  - [x]  [3134](https://www.urionlinejudge.com.br/judge/pt/problems/view/3134) - [Balança Equilibrada](https://github.com/potigol/URI-Potigol/blob/master/src/3101-3200/3134.poti) *Ad-Hoc*
   - [ ]  [3135](https://www.urionlinejudge.com.br/judge/pt/problems/view/3135) - Lista de Nomes *Ad-Hoc*
   - [ ]  [3136](https://www.urionlinejudge.com.br/judge/pt/problems/view/3136) - Arquitetura de Pilha *Ad-Hoc*
   - [ ]  [3137](https://www.urionlinejudge.com.br/judge/pt/problems/view/3137) - Páginas de um Livro *Ad-Hoc*
   - [ ]  [3138](https://www.urionlinejudge.com.br/judge/pt/problems/view/3138) - Aniversário do Tobias *Matemática*
   - [ ]  [3139](https://www.urionlinejudge.com.br/judge/pt/problems/view/3139) - Buscando Novos Seguidores *Estruturas e Bibliotecas*
-  - [ ]  [3140](https://www.urionlinejudge.com.br/judge/pt/problems/view/3140) - Copiando e Colando Código *Iniciante*
+  - [x]  [3140](https://www.urionlinejudge.com.br/judge/pt/problems/view/3140) - [Copiando e Colando Código](https://github.com/potigol/URI-Potigol/blob/master/src/3101-3200/3140.poti) *Iniciante*
   - [ ]  [3141](https://www.urionlinejudge.com.br/judge/pt/problems/view/3141) - Dúvida Etária *Strings*
-  - [ ]  [3142](https://www.urionlinejudge.com.br/judge/pt/problems/view/3142) - Excel Bugado *Iniciante*
+  - [x]  [3142](https://www.urionlinejudge.com.br/judge/pt/problems/view/3142) - [Excel Bugado](https://github.com/potigol/URI-Potigol/blob/master/src/3101-3200/3142.poti) *Iniciante*
   - [ ]  [3143](https://www.urionlinejudge.com.br/judge/pt/problems/view/3143) - Fugindo do Celular *Strings*
   - [ ]  [3144](https://www.urionlinejudge.com.br/judge/pt/problems/view/3144) - G de Grafo *Grafos*
   - [ ] ~~3145~~

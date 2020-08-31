@@ -1,4 +1,4 @@
-# Iniciante (280 / 291)
+# Iniciante (282 / 291)
 
 ## Problemas não resolvidos
   - [ ]  [2632](https://www.urionlinejudge.com.br/judge/pt/problems/view/2632) - Magic and Sword
@@ -10,8 +10,6 @@
   - [ ]  [2775](https://www.urionlinejudge.com.br/judge/pt/problems/view/2775) - Preparando a Produção
   - [ ]  [2785](https://www.urionlinejudge.com.br/judge/pt/problems/view/2785) - Pirâmide
   - [ ]  [3068](https://www.urionlinejudge.com.br/judge/pt/problems/view/3068) - Meteoros
-  - [ ]  [3140](https://www.urionlinejudge.com.br/judge/pt/problems/view/3140) - Copiando e Colando Código
-  - [ ]  [3142](https://www.urionlinejudge.com.br/judge/pt/problems/view/3142) - Excel Bugado
 ## Problemas resolvidos
   - [x]  [1001](https://www.urionlinejudge.com.br/judge/pt/problems/view/1001) - [Extremamente Básico](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1001.poti)
   - [x]  [1002](https://www.urionlinejudge.com.br/judge/pt/problems/view/1002) - [Área do Círculo](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1002.poti)
@@ -293,3 +291,5 @@
   - [x]  [3084](https://www.urionlinejudge.com.br/judge/pt/problems/view/3084) - [Relógio Antigo](https://github.com/potigol/URI-Potigol/blob/master/src/3001-3100/3084.poti)
   - [x]  [3089](https://www.urionlinejudge.com.br/judge/pt/problems/view/3089) - [Presentes de Natal](https://github.com/potigol/URI-Potigol/blob/master/src/3001-3100/3089.poti)
   - [x]  [3091](https://www.urionlinejudge.com.br/judge/pt/problems/view/3091) - [Resto 1.0](https://github.com/potigol/URI-Potigol/blob/master/src/3001-3100/3091.poti)
+  - [x]  [3140](https://www.urionlinejudge.com.br/judge/pt/problems/view/3140) - [Copiando e Colando Código](https://github.com/potigol/URI-Potigol/blob/master/src/3101-3200/3140.poti)
+  - [x]  [3142](https://www.urionlinejudge.com.br/judge/pt/problems/view/3142) - [Excel Bugado](https://github.com/potigol/URI-Potigol/blob/master/src/3101-3200/3142.poti)

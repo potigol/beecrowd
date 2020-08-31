@@ -1,4 +1,4 @@
-# Ad-Hoc (90 / 702)
+# Ad-Hoc (91 / 702)
 
 ## Problemas não resolvidos
   - [ ]  [1030](https://www.urionlinejudge.com.br/judge/pt/problems/view/1030) - A Lenda de Flavious Josephus
@@ -609,7 +609,6 @@
   - [ ]  [3131](https://www.urionlinejudge.com.br/judge/pt/problems/view/3131) - Índice de Reputação
   - [ ]  [3132](https://www.urionlinejudge.com.br/judge/pt/problems/view/3132) - DNA Alienígena
   - [ ]  [3133](https://www.urionlinejudge.com.br/judge/pt/problems/view/3133) - Fila de Navios
-  - [ ]  [3134](https://www.urionlinejudge.com.br/judge/pt/problems/view/3134) - Balança Equilibrada
   - [ ]  [3135](https://www.urionlinejudge.com.br/judge/pt/problems/view/3135) - Lista de Nomes
   - [ ]  [3136](https://www.urionlinejudge.com.br/judge/pt/problems/view/3136) - Arquitetura de Pilha
   - [ ]  [3137](https://www.urionlinejudge.com.br/judge/pt/problems/view/3137) - Páginas de um Livro
@@ -704,3 +703,4 @@
   - [x]  [3106](https://www.urionlinejudge.com.br/judge/pt/problems/view/3106) - [Competição de Códigos](https://github.com/potigol/URI-Potigol/blob/master/src/3101-3200/3106.poti)
   - [x]  [3109](https://www.urionlinejudge.com.br/judge/pt/problems/view/3109) - [Trocando de Mesa](https://github.com/potigol/URI-Potigol/blob/master/src/3101-3200/3109.poti)
   - [x]  [3126](https://www.urionlinejudge.com.br/judge/pt/problems/view/3126) - [Lista de Treinamento](https://github.com/potigol/URI-Potigol/blob/master/src/3101-3200/3126.poti)
+  - [x]  [3134](https://www.urionlinejudge.com.br/judge/pt/problems/view/3134) - [Balança Equilibrada](https://github.com/potigol/URI-Potigol/blob/master/src/3101-3200/3134.poti)
