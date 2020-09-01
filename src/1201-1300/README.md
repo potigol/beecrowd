@@ -99,4 +99,4 @@
   - [ ]  [1297](https://www.urionlinejudge.com.br/judge/pt/problems/view/1297) - Proteção do Meio Ambiente *Matemática*
   - [ ]  [1298](https://www.urionlinejudge.com.br/judge/pt/problems/view/1298) - Corrija o Labirinto *Grafos*
   - [ ]  [1299](https://www.urionlinejudge.com.br/judge/pt/problems/view/1299) - Jogo de Mosaicos *Paradigmas*
-  - [ ]  [1300](https://www.urionlinejudge.com.br/judge/pt/problems/view/1300) - Horas e Minutos *Ad-Hoc*
+  - [x]  [1300](https://www.urionlinejudge.com.br/judge/pt/problems/view/1300) - [Horas e Minutos](https://github.com/potigol/URI-Potigol/blob/master/src/1201-1300/1300.poti) *Ad-Hoc*

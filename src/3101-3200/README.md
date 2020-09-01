@@ -40,7 +40,7 @@
   - [ ]  [3138](https://www.urionlinejudge.com.br/judge/pt/problems/view/3138) - Aniversário do Tobias *Matemática*
   - [ ]  [3139](https://www.urionlinejudge.com.br/judge/pt/problems/view/3139) - Buscando Novos Seguidores *Estruturas e Bibliotecas*
   - [x]  [3140](https://www.urionlinejudge.com.br/judge/pt/problems/view/3140) - [Copiando e Colando Código](https://github.com/potigol/URI-Potigol/blob/master/src/3101-3200/3140.poti) *Iniciante*
-  - [ ]  [3141](https://www.urionlinejudge.com.br/judge/pt/problems/view/3141) - Dúvida Etária *Strings*
+  - [x]  [3141](https://www.urionlinejudge.com.br/judge/pt/problems/view/3141) - [Dúvida Etária](https://github.com/potigol/URI-Potigol/blob/master/src/3101-3200/3141.poti) *Strings*
   - [x]  [3142](https://www.urionlinejudge.com.br/judge/pt/problems/view/3142) - [Excel Bugado](https://github.com/potigol/URI-Potigol/blob/master/src/3101-3200/3142.poti) *Iniciante*
   - [ ]  [3143](https://www.urionlinejudge.com.br/judge/pt/problems/view/3143) - Fugindo do Celular *Strings*
   - [ ]  [3144](https://www.urionlinejudge.com.br/judge/pt/problems/view/3144) - G de Grafo *Grafos*

@@ -1,4 +1,4 @@
-# Iniciante (282 / 291)
+# Iniciante (283 / 292)
 
 ## Problemas não resolvidos
   - [ ]  [2632](https://www.urionlinejudge.com.br/judge/pt/problems/view/2632) - Magic and Sword
@@ -11,6 +11,7 @@
   - [ ]  [2785](https://www.urionlinejudge.com.br/judge/pt/problems/view/2785) - Pirâmide
   - [ ]  [3068](https://www.urionlinejudge.com.br/judge/pt/problems/view/3068) - Meteoros
 ## Problemas resolvidos
+  - [x]  [1000](https://www.urionlinejudge.com.br/judge/pt/problems/view/1000) - [Hello World!](https://github.com/potigol/URI-Potigol/blob/master/src/901-1000/1000.poti)
   - [x]  [1001](https://www.urionlinejudge.com.br/judge/pt/problems/view/1001) - [Extremamente Básico](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1001.poti)
   - [x]  [1002](https://www.urionlinejudge.com.br/judge/pt/problems/view/1002) - [Área do Círculo](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1002.poti)
   - [x]  [1003](https://www.urionlinejudge.com.br/judge/pt/problems/view/1003) - [Soma Simples](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1003.poti)

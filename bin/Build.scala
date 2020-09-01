@@ -22,16 +22,16 @@ object Build extends App {
   val code = config("code")
   val extension = config("extension")
 
-  def dir(n: Int) = s"${n / 100 * 100 + 1}-${(n / 100 + 1) * 100}"
+  def dir(n: Int) = s"${(n-1) / 100 * 100 + 1}-${((n-1) / 100 + 1) * 100}"
 
   def line(x: Int, cat: Boolean = true) = a.find(_.number == x) match {
     case None => s"  - [ ] ~~${x}~~"
     case Some(p) if p.category == "SQL" =>
-      s"  - [ ] ~~${p.number}~~ - *${p.category}*"
+      s"  - [ ]  ~~${p.number}~~ - *${p.category}*"
     case Some(p) if (check(x)) =>
-      s"  - [x] [${p.number}](${prefix}/${p.number}) - [${p.name}](${code}/${dir(p.number)}/${p.number}.${extension}) *${if(cat) p.category else " "}*"
+      s"  - [x]  [${p.number}](${prefix}/${p.number}) - [${p.name}](${code}/${dir(p.number)}/${p.number}.${extension}) *${if(cat) p.category else " "}*"
     case Some(p) =>
-            s"  - [ ] [${p.number}](${prefix}/${p.number}) - ${p.name} *${if(cat) p.category else " "}*"
+            s"  - [ ]  [${p.number}](${prefix}/${p.number}) - ${p.name} *${if(cat) p.category else " "}*"
   }
 
   def save(name: String, title: String, content: String) = new PrintWriter(name) {
@@ -74,8 +74,8 @@ object Build extends App {
   }
 
   // Lista Geral
-  for (i <- 10 to 31) {
-    val d = for (j <- 1 to 100; x = i * 100 + j) yield line(x)
+  for (i <- 9 to 31) {
+    val d = for (j <- 1 to 100; x = i * 100 + j if x >= 1000) yield line(x)
     save(s"../src/${dir(i*100+1)}/README.md", s"Problemas ${dir(i*100+1).replace("-", " a ")}", d.mkString("\n"))
   }
 
@@ -87,9 +87,9 @@ object Build extends App {
     val f = bd.map {
       case p if check(p.number) =>
         count = count + 1
-        s"  - [x] [${p.number}](${prefix}/${p.number}) - [${p.name}](${code}/${dir(p.number)}/${p.number}.${extension})"
+        s"  - [x]  [${p.number}](${prefix}/${p.number}) - [${p.name}](${code}/${dir(p.number)}/${p.number}.${extension})"
       case p =>
-        s"  - [ ] [${p.number}](${prefix}/${p.number}) - ${p.name}"
+        s"  - [ ]  [${p.number}](${prefix}/${p.number}) - ${p.name}"
     }.sorted
     val g = f.mkString("\n").replaceFirst("  \\- \\[x\\]", "## Problemas resolvidos\n  - [x]").replaceFirst("  \\- \\[ \\]", "## Problemas não resolvidos\n  - [ ]")
     save(s"../categorias/${clean(d)}.md", s"${d} (${count} / ${bd.length})", g)

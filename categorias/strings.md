@@ -1,4 +1,4 @@
-# Strings (32 / 136)
+# Strings (33 / 136)
 
 ## Problemas não resolvidos
   - [ ]  [1141](https://www.urionlinejudge.com.br/judge/pt/problems/view/1141) - Cultivando Strings
@@ -103,7 +103,6 @@
   - [ ]  [3100](https://www.urionlinejudge.com.br/judge/pt/problems/view/3100) - Os Dígitos da Sorte
   - [ ]  [3103](https://www.urionlinejudge.com.br/judge/pt/problems/view/3103) - Número da Sorte
   - [ ]  [3118](https://www.urionlinejudge.com.br/judge/pt/problems/view/3118) - Bactérias, Suas Loucas!
-  - [ ]  [3141](https://www.urionlinejudge.com.br/judge/pt/problems/view/3141) - Dúvida Etária
   - [ ]  [3143](https://www.urionlinejudge.com.br/judge/pt/problems/view/3143) - Fugindo do Celular
 ## Problemas resolvidos
   - [x]  [1024](https://www.urionlinejudge.com.br/judge/pt/problems/view/1024) - [Criptografia](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1024.poti)
@@ -138,3 +137,4 @@
   - [x]  [2866](https://www.urionlinejudge.com.br/judge/pt/problems/view/2866) - [Criptotexto](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2866.poti)
   - [x]  [2880](https://www.urionlinejudge.com.br/judge/pt/problems/view/2880) - [Enigma](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2880.poti)
   - [x]  [3088](https://www.urionlinejudge.com.br/judge/pt/problems/view/3088) - [Correção de Texto](https://github.com/potigol/URI-Potigol/blob/master/src/3001-3100/3088.poti)
+  - [x]  [3141](https://www.urionlinejudge.com.br/judge/pt/problems/view/3141) - [Dúvida Etária](https://github.com/potigol/URI-Potigol/blob/master/src/3101-3200/3141.poti)

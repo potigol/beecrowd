@@ -1,3 +1,4 @@
+1000	Hello World!	Iniciante
 1001	Extremamente Básico	Iniciante
 1002	Área do Círculo	Iniciante
 1003	Soma Simples	Iniciante
@@ -1590,6 +1591,7 @@
 2604	Menores que 10 ou Maiores que 100	SQL
 2605	Representantes Executivos	SQL
 2606	Categorias	SQL
+2607	Cidades em Ordem Alfabética	SQL
 2608	Maior e Menor Preço	SQL
 2610	Valor Médio dos Produtos	SQL
 2611	Filmes de Ação	SQL
