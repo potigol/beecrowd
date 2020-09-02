@@ -1,5 +1,6 @@
 # Problemas 2800 a 2899
 
+  - [ ]  [2800](https://www.urionlinejudge.com.br/judge/pt/problems/view/2800) - Brincando de Consultas *Estruturas e Bibliotecas*
   - [ ]  [2801](https://www.urionlinejudge.com.br/judge/pt/problems/view/2801) - Cifra Affine *Matemática*
   - [x]  [2802](https://www.urionlinejudge.com.br/judge/pt/problems/view/2802) - [Dividindo Círculos](https://github.com/potigol/URI-Potigol/blob/master/src/2800-2899/2802.poti) *Iniciante*
   - [x]  [2803](https://www.urionlinejudge.com.br/judge/pt/problems/view/2803) - [Estados do Norte](https://github.com/potigol/URI-Potigol/blob/master/src/2800-2899/2803.poti) *Ad-Hoc*
@@ -99,4 +100,3 @@
   - [ ]  [2897](https://www.urionlinejudge.com.br/judge/pt/problems/view/2897) - Histórico de Comandos *Ad-Hoc*
   - [ ]  [2898](https://www.urionlinejudge.com.br/judge/pt/problems/view/2898) - Olimpíadas *Ad-Hoc*
   - [ ]  [2899](https://www.urionlinejudge.com.br/judge/pt/problems/view/2899) - Série de Tubos *Ad-Hoc*
-  - [ ]  [2900](https://www.urionlinejudge.com.br/judge/pt/problems/view/2900) - Jogo de Varetas *Ad-Hoc*

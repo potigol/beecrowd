@@ -1,5 +1,6 @@
 # Problemas 1400 a 1499
 
+  - [ ]  [1400](https://www.urionlinejudge.com.br/judge/pt/problems/view/1400) - Jogo - Contando *Matemática*
   - [ ]  [1401](https://www.urionlinejudge.com.br/judge/pt/problems/view/1401) - Gerando Permutações Ordenadas Rapidamente *Estruturas e Bibliotecas*
   - [ ]  [1402](https://www.urionlinejudge.com.br/judge/pt/problems/view/1402) - Será Que Indiana Jones Chega Lá? *Grafos*
   - [ ]  [1403](https://www.urionlinejudge.com.br/judge/pt/problems/view/1403) - Meu Avô é Famoso *Ad-Hoc*
@@ -99,4 +100,3 @@
   - [ ]  [1497](https://www.urionlinejudge.com.br/judge/pt/problems/view/1497) - Esconde-Esconde *Geometria Computacional*
   - [ ]  [1498](https://www.urionlinejudge.com.br/judge/pt/problems/view/1498) - Inversão de Huffman *Grafos*
   - [ ]  [1499](https://www.urionlinejudge.com.br/judge/pt/problems/view/1499) - Junte Dois Reinos *Grafos*
-  - [ ]  [1500](https://www.urionlinejudge.com.br/judge/pt/problems/view/1500) - Consultas Horríveis *Estruturas e Bibliotecas*

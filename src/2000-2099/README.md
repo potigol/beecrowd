@@ -1,5 +1,6 @@
 # Problemas 2000 a 2099
 
+  - [ ]  [2000](https://www.urionlinejudge.com.br/judge/pt/problems/view/2000) - Adeildo da Odonto *Strings*
   - [ ]  [2001](https://www.urionlinejudge.com.br/judge/pt/problems/view/2001) - Bile *Matemática*
   - [ ]  [2002](https://www.urionlinejudge.com.br/judge/pt/problems/view/2002) - Casa de Rogério *Grafos*
   - [x]  [2003](https://www.urionlinejudge.com.br/judge/pt/problems/view/2003) - [Domingo de Manhã](https://github.com/potigol/URI-Potigol/blob/master/src/2000-2099/2003.poti) *Iniciante*
@@ -99,4 +100,3 @@
   - [ ]  [2097](https://www.urionlinejudge.com.br/judge/pt/problems/view/2097) - Nome para Número *Strings*
   - [ ]  [2098](https://www.urionlinejudge.com.br/judge/pt/problems/view/2098) - Ilha do Tesouro *Grafos*
   - [ ]  [2099](https://www.urionlinejudge.com.br/judge/pt/problems/view/2099) - Jogando Com Pedras *Paradigmas*
-  - [ ]  [2100](https://www.urionlinejudge.com.br/judge/pt/problems/view/2100) - Cinema de Xing Tzen Zu *Matemática*

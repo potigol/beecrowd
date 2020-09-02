@@ -1,5 +1,6 @@
 # Problemas 2900 a 2999
 
+  - [ ]  [2900](https://www.urionlinejudge.com.br/judge/pt/problems/view/2900) - Jogo de Varetas *Ad-Hoc*
   - [ ]  [2901](https://www.urionlinejudge.com.br/judge/pt/problems/view/2901) - Vôlei Marciano *Ad-Hoc*
   - [ ]  [2902](https://www.urionlinejudge.com.br/judge/pt/problems/view/2902) - Rouba Monte *Ad-Hoc*
   - [ ]  [2903](https://www.urionlinejudge.com.br/judge/pt/problems/view/2903) - A Symmetrical Pizza *Matemática*
@@ -99,4 +100,3 @@
   - [ ]  ~~2997~~ - *SQL*
   - [ ]  ~~2998~~ - *SQL*
   - [ ]  ~~2999~~ - *SQL*
-  - [ ] ~~3000~~

@@ -1,5 +1,6 @@
 # Problemas 2300 a 2399
 
+  - [ ]  [2300](https://www.urionlinejudge.com.br/judge/pt/problems/view/2300) - Transmissão de Energia *Grafos*
   - [ ]  [2301](https://www.urionlinejudge.com.br/judge/pt/problems/view/2301) - Vivo ou Morto *Ad-Hoc*
   - [ ]  [2302](https://www.urionlinejudge.com.br/judge/pt/problems/view/2302) - Conversa não tão Secreta *Ad-Hoc*
   - [ ]  [2303](https://www.urionlinejudge.com.br/judge/pt/problems/view/2303) - Margaridas *Ad-Hoc*
@@ -99,4 +100,3 @@
   - [x]  [2397](https://www.urionlinejudge.com.br/judge/pt/problems/view/2397) - [Triângulos](https://github.com/potigol/URI-Potigol/blob/master/src/2300-2399/2397.poti) *Ad-Hoc*
   - [ ]  [2398](https://www.urionlinejudge.com.br/judge/pt/problems/view/2398) - Caça ao Tesouro *Ad-Hoc*
   - [x]  [2399](https://www.urionlinejudge.com.br/judge/pt/problems/view/2399) - [Campo Minado](https://github.com/potigol/URI-Potigol/blob/master/src/2300-2399/2399.poti) *Ad-Hoc*
-  - [ ]  [2400](https://www.urionlinejudge.com.br/judge/pt/problems/view/2400) - Balé *Ad-Hoc*

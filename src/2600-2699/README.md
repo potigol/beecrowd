@@ -1,5 +1,6 @@
 # Problemas 2600 a 2699
 
+  - [ ]  [2600](https://www.urionlinejudge.com.br/judge/pt/problems/view/2600) - Tustin e Seu Dado Novo *Ad-Hoc*
   - [ ]  [2601](https://www.urionlinejudge.com.br/judge/pt/problems/view/2601) - Tustin e Seu Dado Antigo *Ad-Hoc*
   - [ ]  ~~2602~~ - *SQL*
   - [ ]  ~~2603~~ - *SQL*
@@ -99,4 +100,3 @@
   - [ ]  [2697](https://www.urionlinejudge.com.br/judge/pt/problems/view/2697) - Sequencia Completa de Naebbirac *Strings*
   - [ ]  [2698](https://www.urionlinejudge.com.br/judge/pt/problems/view/2698) - Dispositivo Assombrado *Estruturas e Bibliotecas*
   - [ ]  [2699](https://www.urionlinejudge.com.br/judge/pt/problems/view/2699) - Enigma *Iniciante*
-  - [ ]  [2700](https://www.urionlinejudge.com.br/judge/pt/problems/view/2700) - Angariando Fundos *Estruturas e Bibliotecas*

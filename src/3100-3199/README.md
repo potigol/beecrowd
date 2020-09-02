@@ -1,5 +1,6 @@
 # Problemas 3100 a 3199
 
+  - [ ]  [3100](https://www.urionlinejudge.com.br/judge/pt/problems/view/3100) - Os Dígitos da Sorte *Strings*
   - [ ]  [3101](https://www.urionlinejudge.com.br/judge/pt/problems/view/3101) - Famílias Poligâmicas *Grafos*
   - [x]  [3102](https://www.urionlinejudge.com.br/judge/pt/problems/view/3102) - [Kikoho](https://github.com/potigol/URI-Potigol/blob/master/src/3100-3199/3102.poti) *Matemática*
   - [ ]  [3103](https://www.urionlinejudge.com.br/judge/pt/problems/view/3103) - Número da Sorte *Strings*
@@ -99,4 +100,3 @@
   - [ ] ~~3197~~
   - [ ] ~~3198~~
   - [ ] ~~3199~~
-  - [ ] ~~3200~~

@@ -1,5 +1,6 @@
 # Problemas 2400 a 2499
 
+  - [ ]  [2400](https://www.urionlinejudge.com.br/judge/pt/problems/view/2400) - Balé *Ad-Hoc*
   - [ ]  [2401](https://www.urionlinejudge.com.br/judge/pt/problems/view/2401) - Calculadora *Ad-Hoc*
   - [ ]  [2402](https://www.urionlinejudge.com.br/judge/pt/problems/view/2402) - Selos *Ad-Hoc*
   - [ ]  [2403](https://www.urionlinejudge.com.br/judge/pt/problems/view/2403) - Escalonamento Ótimo *Ad-Hoc*
@@ -99,4 +100,3 @@
   - [ ]  [2497](https://www.urionlinejudge.com.br/judge/pt/problems/view/2497) - Contando Ciclos *Matemática*
   - [ ]  [2498](https://www.urionlinejudge.com.br/judge/pt/problems/view/2498) - Ajude Vânia *Paradigmas*
   - [ ]  [2499](https://www.urionlinejudge.com.br/judge/pt/problems/view/2499) - Triângulo Interno *Matemática*
-  - [ ]  [2500](https://www.urionlinejudge.com.br/judge/pt/problems/view/2500) - William Xorando *Matemática*

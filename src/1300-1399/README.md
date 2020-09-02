@@ -1,5 +1,6 @@
 # Problemas 1300 a 1399
 
+  - [x]  [1300](https://www.urionlinejudge.com.br/judge/pt/problems/view/1300) - [Horas e Minutos](https://github.com/potigol/URI-Potigol/blob/master/src/1300-1399/1300.poti) *Ad-Hoc*
   - [ ]  [1301](https://www.urionlinejudge.com.br/judge/pt/problems/view/1301) - Produto do Intervalo *Estruturas e Bibliotecas*
   - [ ]  [1302](https://www.urionlinejudge.com.br/judge/pt/problems/view/1302) - Juntando Casais *Grafos*
   - [ ]  [1303](https://www.urionlinejudge.com.br/judge/pt/problems/view/1303) - Spurs Rocks *Estruturas e Bibliotecas*
@@ -99,4 +100,3 @@
   - [x]  [1397](https://www.urionlinejudge.com.br/judge/pt/problems/view/1397) - [Jogo do Maior](https://github.com/potigol/URI-Potigol/blob/master/src/1300-1399/1397.poti) *Ad-Hoc*
   - [ ]  [1398](https://www.urionlinejudge.com.br/judge/pt/problems/view/1398) - Oceano Profundo! Faça-o Raso!! *Matemática*
   - [ ]  [1399](https://www.urionlinejudge.com.br/judge/pt/problems/view/1399) - Transformador de Matriz *Matemática*
-  - [ ]  [1400](https://www.urionlinejudge.com.br/judge/pt/problems/view/1400) - Jogo - Contando *Matemática*

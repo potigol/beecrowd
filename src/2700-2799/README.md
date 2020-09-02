@@ -1,5 +1,6 @@
 # Problemas 2700 a 2799
 
+  - [ ]  [2700](https://www.urionlinejudge.com.br/judge/pt/problems/view/2700) - Angariando Fundos *Estruturas e Bibliotecas*
   - [ ]  [2701](https://www.urionlinejudge.com.br/judge/pt/problems/view/2701) - Portas da Incerteza *Ad-Hoc*
   - [x]  [2702](https://www.urionlinejudge.com.br/judge/pt/problems/view/2702) - [Escolha Difícil](https://github.com/potigol/URI-Potigol/blob/master/src/2700-2799/2702.poti) *Iniciante*
   - [ ]  [2703](https://www.urionlinejudge.com.br/judge/pt/problems/view/2703) - Estradas Imperiais *Grafos*
@@ -99,4 +100,3 @@
   - [ ]  [2797](https://www.urionlinejudge.com.br/judge/pt/problems/view/2797) - Aplicando Prova *Ad-Hoc*
   - [ ]  [2798](https://www.urionlinejudge.com.br/judge/pt/problems/view/2798) - Lero-Lero da Mineira *Ad-Hoc*
   - [ ]  [2799](https://www.urionlinejudge.com.br/judge/pt/problems/view/2799) - Coral Nortista *Paradigmas*
-  - [ ]  [2800](https://www.urionlinejudge.com.br/judge/pt/problems/view/2800) - Brincando de Consultas *Estruturas e Bibliotecas*

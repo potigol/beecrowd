@@ -1,5 +1,6 @@
 # Problemas 1800 a 1899
 
+  - [ ]  [1800](https://www.urionlinejudge.com.br/judge/pt/problems/view/1800) - Onde Estão Minhas Chaves *Ad-Hoc*
   - [ ]  [1801](https://www.urionlinejudge.com.br/judge/pt/problems/view/1801) - Brincando com Números *Matemática*
   - [ ]  [1802](https://www.urionlinejudge.com.br/judge/pt/problems/view/1802) - Catálogo de Livros *Ad-Hoc*
   - [ ]  [1803](https://www.urionlinejudge.com.br/judge/pt/problems/view/1803) - Matring *Strings*
@@ -99,4 +100,3 @@
   - [ ]  [1897](https://www.urionlinejudge.com.br/judge/pt/problems/view/1897) - Jogo Esperto *Estruturas e Bibliotecas*
   - [ ]  [1898](https://www.urionlinejudge.com.br/judge/pt/problems/view/1898) - Soma de Propina *Strings*
   - [ ]  [1899](https://www.urionlinejudge.com.br/judge/pt/problems/view/1899) - Acerte o Alvo! *Ad-Hoc*
-  - [ ]  [1900](https://www.urionlinejudge.com.br/judge/pt/problems/view/1900) - Sequências Nulas *Paradigmas*

@@ -1,5 +1,6 @@
 # Problemas 1700 a 1799
 
+  - [ ]  [1700](https://www.urionlinejudge.com.br/judge/pt/problems/view/1700) - Antenas *Paradigmas*
   - [ ]  [1701](https://www.urionlinejudge.com.br/judge/pt/problems/view/1701) - Sequência de Fibo *Estruturas e Bibliotecas*
   - [ ]  [1702](https://www.urionlinejudge.com.br/judge/pt/problems/view/1702) - Colorindo Grafos *Grafos*
   - [ ]  [1703](https://www.urionlinejudge.com.br/judge/pt/problems/view/1703) - Pulando Pedras *Matemática*
@@ -99,4 +100,3 @@
   - [ ]  [1797](https://www.urionlinejudge.com.br/judge/pt/problems/view/1797) - Ferozes e Curiosos *Geometria Computacional*
   - [ ]  [1798](https://www.urionlinejudge.com.br/judge/pt/problems/view/1798) - Cortando Canos *Paradigmas*
   - [ ]  [1799](https://www.urionlinejudge.com.br/judge/pt/problems/view/1799) - O Rato no Labirinto *Grafos*
-  - [ ]  [1800](https://www.urionlinejudge.com.br/judge/pt/problems/view/1800) - Onde Estão Minhas Chaves *Ad-Hoc*

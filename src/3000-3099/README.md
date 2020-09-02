@@ -1,5 +1,6 @@
 # Problemas 3000 a 3099
 
+  - [ ] ~~3000~~
   - [ ]  ~~3001~~ - *SQL*
   - [ ]  [3002](https://www.urionlinejudge.com.br/judge/pt/problems/view/3002) - Salve a Lilly! *Matemática*
   - [ ]  [3003](https://www.urionlinejudge.com.br/judge/pt/problems/view/3003) - O Grupinho *Grafos*
@@ -99,4 +100,3 @@
   - [ ]  [3097](https://www.urionlinejudge.com.br/judge/pt/problems/view/3097) - Um Desafio Simples *Estruturas e Bibliotecas*
   - [ ]  [3098](https://www.urionlinejudge.com.br/judge/pt/problems/view/3098) - Plíndromo *Paradigmas*
   - [ ]  [3099](https://www.urionlinejudge.com.br/judge/pt/problems/view/3099) - O Problema do 7 x 1 *Matemática*
-  - [ ]  [3100](https://www.urionlinejudge.com.br/judge/pt/problems/view/3100) - Os Dígitos da Sorte *Strings*

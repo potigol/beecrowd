@@ -1,5 +1,6 @@
 # Problemas 1000 a 1099
 
+  - [x]  [1000](https://www.urionlinejudge.com.br/judge/pt/problems/view/1000) - [Hello World!](https://github.com/potigol/URI-Potigol/blob/master/src/1000-1099/1000.poti) *Iniciante*
   - [x]  [1001](https://www.urionlinejudge.com.br/judge/pt/problems/view/1001) - [Extremamente Básico](https://github.com/potigol/URI-Potigol/blob/master/src/1000-1099/1001.poti) *Iniciante*
   - [x]  [1002](https://www.urionlinejudge.com.br/judge/pt/problems/view/1002) - [Área do Círculo](https://github.com/potigol/URI-Potigol/blob/master/src/1000-1099/1002.poti) *Iniciante*
   - [x]  [1003](https://www.urionlinejudge.com.br/judge/pt/problems/view/1003) - [Soma Simples](https://github.com/potigol/URI-Potigol/blob/master/src/1000-1099/1003.poti) *Iniciante*
@@ -99,4 +100,3 @@
   - [x]  [1097](https://www.urionlinejudge.com.br/judge/pt/problems/view/1097) - [Sequencia IJ 3](https://github.com/potigol/URI-Potigol/blob/master/src/1000-1099/1097.poti) *Iniciante*
   - [x]  [1098](https://www.urionlinejudge.com.br/judge/pt/problems/view/1098) - [Sequencia IJ 4](https://github.com/potigol/URI-Potigol/blob/master/src/1000-1099/1098.poti) *Iniciante*
   - [x]  [1099](https://www.urionlinejudge.com.br/judge/pt/problems/view/1099) - [Soma de Ímpares Consecutivos II](https://github.com/potigol/URI-Potigol/blob/master/src/1000-1099/1099.poti) *Iniciante*
-  - [ ]  [1100](https://www.urionlinejudge.com.br/judge/pt/problems/view/1100) - Movimentos do Cavalo *Grafos*

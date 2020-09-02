@@ -1,5 +1,6 @@
 # Problemas 1500 a 1599
 
+  - [ ]  [1500](https://www.urionlinejudge.com.br/judge/pt/problems/view/1500) - Consultas Horríveis *Estruturas e Bibliotecas*
   - [ ]  [1501](https://www.urionlinejudge.com.br/judge/pt/problems/view/1501) - Quantos Zeros e Quantos Dígitos? *Matemática*
   - [ ]  [1502](https://www.urionlinejudge.com.br/judge/pt/problems/view/1502) - Travessia *Grafos*
   - [ ]  [1503](https://www.urionlinejudge.com.br/judge/pt/problems/view/1503) - Maior Palíndromo Comum Você Deve Encontrar *Strings*
@@ -99,4 +100,3 @@
   - [ ]  [1597](https://www.urionlinejudge.com.br/judge/pt/problems/view/1597) - Desmascarando o Empregado do Sultão *Paradigmas*
   - [ ]  [1598](https://www.urionlinejudge.com.br/judge/pt/problems/view/1598) - O Verdadeiro Valor dos Tapetes *Paradigmas*
   - [ ]  [1599](https://www.urionlinejudge.com.br/judge/pt/problems/view/1599) - Picos do Átlas *Paradigmas*
-  - [ ]  [1600](https://www.urionlinejudge.com.br/judge/pt/problems/view/1600) - O Gato do Zelador do Armazém *Paradigmas*

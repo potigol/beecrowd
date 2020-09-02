@@ -1,5 +1,6 @@
 # Problemas 1900 a 1999
 
+  - [ ]  [1900](https://www.urionlinejudge.com.br/judge/pt/problems/view/1900) - Sequências Nulas *Paradigmas*
   - [ ]  [1901](https://www.urionlinejudge.com.br/judge/pt/problems/view/1901) - Borboletas *Ad-Hoc*
   - [ ]  [1902](https://www.urionlinejudge.com.br/judge/pt/problems/view/1902) - Sociedade Brasileira Casamenteira *Grafos*
   - [ ]  [1903](https://www.urionlinejudge.com.br/judge/pt/problems/view/1903) - Cadeia Alimentar *Grafos*
@@ -99,4 +100,3 @@
   - [ ]  [1997](https://www.urionlinejudge.com.br/judge/pt/problems/view/1997) - Branco e Preto *Ad-Hoc*
   - [ ]  [1998](https://www.urionlinejudge.com.br/judge/pt/problems/view/1998) - Awari 2.0 *Ad-Hoc*
   - [ ]  [1999](https://www.urionlinejudge.com.br/judge/pt/problems/view/1999) - Baile de Reconciliação *Matemática*
-  - [ ]  [2000](https://www.urionlinejudge.com.br/judge/pt/problems/view/2000) - Adeildo da Odonto *Strings*
