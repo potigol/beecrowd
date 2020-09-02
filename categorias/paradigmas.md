@@ -202,5 +202,5 @@
   - [ ]  [3114](https://www.urionlinejudge.com.br/judge/pt/problems/view/3114) - Parkour
   - [ ]  [3116](https://www.urionlinejudge.com.br/judge/pt/problems/view/3116) - Seguidores Impossíveis
 ## Problemas resolvidos
-  - [x]  [1029](https://www.urionlinejudge.com.br/judge/pt/problems/view/1029) - [Fibonacci, Quantas Chamadas?](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1029.poti)
-  - [x]  [1084](https://www.urionlinejudge.com.br/judge/pt/problems/view/1084) - [Apagando e Ganhando](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1084.poti)
+  - [x]  [1029](https://www.urionlinejudge.com.br/judge/pt/problems/view/1029) - [Fibonacci, Quantas Chamadas?](https://github.com/potigol/URI-Potigol/blob/master/src/1000-1099/1029.poti)
+  - [x]  [1084](https://www.urionlinejudge.com.br/judge/pt/problems/view/1084) - [Apagando e Ganhando](https://github.com/potigol/URI-Potigol/blob/master/src/1000-1099/1084.poti)

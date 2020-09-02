@@ -1,0 +1,102 @@
+# Problemas 1600 a 1699
+
+  - [ ]  [1601](https://www.urionlinejudge.com.br/judge/pt/problems/view/1601) - Partição do Rebanho *Paradigmas*
+  - [ ]  [1602](https://www.urionlinejudge.com.br/judge/pt/problems/view/1602) - Hiperprimos *Paradigmas*
+  - [ ]  [1603](https://www.urionlinejudge.com.br/judge/pt/problems/view/1603) - Canais de Qanat *Paradigmas*
+  - [ ]  [1604](https://www.urionlinejudge.com.br/judge/pt/problems/view/1604) - Pair-voting no Conselho de Gueliz *Paradigmas*
+  - [ ]  [1605](https://www.urionlinejudge.com.br/judge/pt/problems/view/1605) - Montando Sua Própria Cáfila *Paradigmas*
+  - [ ]  [1606](https://www.urionlinejudge.com.br/judge/pt/problems/view/1606) - As Dicas de Ali Babá *Paradigmas*
+  - [ ]  [1607](https://www.urionlinejudge.com.br/judge/pt/problems/view/1607) - Avance as Letras *Strings*
+  - [ ]  [1608](https://www.urionlinejudge.com.br/judge/pt/problems/view/1608) - Bolos da Maria *Paradigmas*
+  - [ ]  [1609](https://www.urionlinejudge.com.br/judge/pt/problems/view/1609) - Contando Carneirinhos *Ad-Hoc*
+  - [ ]  [1610](https://www.urionlinejudge.com.br/judge/pt/problems/view/1610) - Dudu Faz Serviço *Grafos*
+  - [ ]  [1611](https://www.urionlinejudge.com.br/judge/pt/problems/view/1611) - Elevador Lotado *Paradigmas*
+  - [ ]  [1612](https://www.urionlinejudge.com.br/judge/pt/problems/view/1612) - Formiguinha *Ad-Hoc*
+  - [ ]  [1613](https://www.urionlinejudge.com.br/judge/pt/problems/view/1613) - Goemon em Apuros *Geometria Computacional*
+  - [ ]  [1614](https://www.urionlinejudge.com.br/judge/pt/problems/view/1614) - Ajude o Turista *Paradigmas*
+  - [ ]  [1615](https://www.urionlinejudge.com.br/judge/pt/problems/view/1615) - Insatisfação nas Eleições *Ad-Hoc*
+  - [ ]  [1616](https://www.urionlinejudge.com.br/judge/pt/problems/view/1616) - Baile de Formatura *Paradigmas*
+  - [ ]  [1617](https://www.urionlinejudge.com.br/judge/pt/problems/view/1617) - Caminho Seguro *Grafos*
+  - [ ]  [1618](https://www.urionlinejudge.com.br/judge/pt/problems/view/1618) - Colisão *Ad-Hoc*
+  - [ ]  [1619](https://www.urionlinejudge.com.br/judge/pt/problems/view/1619) - Diferença entre Datas *Ad-Hoc*
+  - [ ]  [1620](https://www.urionlinejudge.com.br/judge/pt/problems/view/1620) - Triangulação de Delaunay *Matemática*
+  - [ ]  [1621](https://www.urionlinejudge.com.br/judge/pt/problems/view/1621) - Labirinto *Grafos*
+  - [ ]  [1622](https://www.urionlinejudge.com.br/judge/pt/problems/view/1622) - Lâmpadas *Ad-Hoc*
+  - [ ]  [1623](https://www.urionlinejudge.com.br/judge/pt/problems/view/1623) - Linguagem *Matemática*
+  - [ ]  [1624](https://www.urionlinejudge.com.br/judge/pt/problems/view/1624) - Promoção *Matemática*
+  - [ ]  [1625](https://www.urionlinejudge.com.br/judge/pt/problems/view/1625) - Robocopia *Matemática*
+  - [ ]  [1626](https://www.urionlinejudge.com.br/judge/pt/problems/view/1626) - Maratona All FACE *Matemática*
+  - [ ]  [1627](https://www.urionlinejudge.com.br/judge/pt/problems/view/1627) - Último Dano *Ad-Hoc*
+  - [ ]  [1628](https://www.urionlinejudge.com.br/judge/pt/problems/view/1628) - ChessGuess *Grafos*
+  - [ ]  [1629](https://www.urionlinejudge.com.br/judge/pt/problems/view/1629) - DescompactaFACE *Strings*
+  - [ ]  [1630](https://www.urionlinejudge.com.br/judge/pt/problems/view/1630) - Estacas *Matemática*
+  - [ ]  [1631](https://www.urionlinejudge.com.br/judge/pt/problems/view/1631) - O Fantástico Bolo de Bobby *Geometria Computacional*
+  - [x]  [1632](https://www.urionlinejudge.com.br/judge/pt/problems/view/1632) - [Variações](https://github.com/potigol/URI-Potigol/blob/master/src/1600-1699/1632.poti) *Strings*
+  - [ ]  [1633](https://www.urionlinejudge.com.br/judge/pt/problems/view/1633) - SBC *Estruturas e Bibliotecas*
+  - [ ]  [1634](https://www.urionlinejudge.com.br/judge/pt/problems/view/1634) - Outra Loteria *Matemática*
+  - [ ]  [1635](https://www.urionlinejudge.com.br/judge/pt/problems/view/1635) - Resultado das Eleições *Matemática*
+  - [ ]  [1636](https://www.urionlinejudge.com.br/judge/pt/problems/view/1636) - Permutações Antimonotônicas Cíclicas *Paradigmas*
+  - [ ]  [1637](https://www.urionlinejudge.com.br/judge/pt/problems/view/1637) - Codificação Gamma de Elias *Paradigmas*
+  - [ ]  [1638](https://www.urionlinejudge.com.br/judge/pt/problems/view/1638) - Tamanho da Porção de Comida *Ad-Hoc*
+  - [ ]  [1639](https://www.urionlinejudge.com.br/judge/pt/problems/view/1639) - Gerando Números Aleatórios *Ad-Hoc*
+  - [ ]  [1640](https://www.urionlinejudge.com.br/judge/pt/problems/view/1640) - Reservando Hotéis *Estruturas e Bibliotecas*
+  - [ ]  [1641](https://www.urionlinejudge.com.br/judge/pt/problems/view/1641) - Restaurante e Pizzaria do Alfredo *Matemática*
+  - [ ]  [1642](https://www.urionlinejudge.com.br/judge/pt/problems/view/1642) - Teclado Quebrado *Paradigmas*
+  - [ ]  [1643](https://www.urionlinejudge.com.br/judge/pt/problems/view/1643) - Converter Quilômetros para Milhas *Paradigmas*
+  - [ ]  [1644](https://www.urionlinejudge.com.br/judge/pt/problems/view/1644) - Decifre o Texto *Matemática*
+  - [ ]  [1645](https://www.urionlinejudge.com.br/judge/pt/problems/view/1645) - El Dorado *Paradigmas*
+  - [ ]  [1646](https://www.urionlinejudge.com.br/judge/pt/problems/view/1646) - Floresta *Geometria Computacional*
+  - [ ]  [1647](https://www.urionlinejudge.com.br/judge/pt/problems/view/1647) - Um Jogo com Bolas de Gude *Matemática*
+  - [ ]  [1648](https://www.urionlinejudge.com.br/judge/pt/problems/view/1648) - Ajude Bob *Paradigmas*
+  - [ ]  [1649](https://www.urionlinejudge.com.br/judge/pt/problems/view/1649) - Ferramenta Irritante de Pintura *Paradigmas*
+  - [ ]  [1650](https://www.urionlinejudge.com.br/judge/pt/problems/view/1650) - Pintura Preto e Branco *Matemática*
+  - [ ]  [1651](https://www.urionlinejudge.com.br/judge/pt/problems/view/1651) - Cilindro *Geometria Computacional*
+  - [ ]  [1652](https://www.urionlinejudge.com.br/judge/pt/problems/view/1652) - Deli Deli *Ad-Hoc*
+  - [ ]  [1653](https://www.urionlinejudge.com.br/judge/pt/problems/view/1653) - Expressões *Grafos*
+  - [ ]  [1654](https://www.urionlinejudge.com.br/judge/pt/problems/view/1654) - Mercearia *Paradigmas*
+  - [ ]  [1655](https://www.urionlinejudge.com.br/judge/pt/problems/view/1655) - 106 Milhas Para Chicago *Grafos*
+  - [ ]  [1656](https://www.urionlinejudge.com.br/judge/pt/problems/view/1656) - Doces do Dia das Bruxas *Matemática*
+  - [ ]  [1657](https://www.urionlinejudge.com.br/judge/pt/problems/view/1657) - Corretor Automático de Erros de Soletração *Ad-Hoc*
+  - [ ]  [1658](https://www.urionlinejudge.com.br/judge/pt/problems/view/1658) - Grupos Diedro *Matemática*
+  - [ ]  [1659](https://www.urionlinejudge.com.br/judge/pt/problems/view/1659) - Chamadas Econômicas *Paradigmas*
+  - [ ]  [1660](https://www.urionlinejudge.com.br/judge/pt/problems/view/1660) - Flavius Josephus Está de Volta *Matemática*
+  - [ ]  [1661](https://www.urionlinejudge.com.br/judge/pt/problems/view/1661) - Comércio de Vinhos na Gergóvia *Paradigmas*
+  - [ ]  [1662](https://www.urionlinejudge.com.br/judge/pt/problems/view/1662) - Quadrados Homogêneos *Matemática*
+  - [ ]  [1663](https://www.urionlinejudge.com.br/judge/pt/problems/view/1663) - Permutações Ambíguas *Ad-Hoc*
+  - [ ]  [1664](https://www.urionlinejudge.com.br/judge/pt/problems/view/1664) - Bullshit Bingo *Strings*
+  - [ ]  [1665](https://www.urionlinejudge.com.br/judge/pt/problems/view/1665) - Decorando a Parede *Geometria Computacional*
+  - [ ]  [1666](https://www.urionlinejudge.com.br/judge/pt/problems/view/1666) - Qualquer Tolo Consegue *Paradigmas*
+  - [ ]  [1667](https://www.urionlinejudge.com.br/judge/pt/problems/view/1667) - HTML *Strings*
+  - [ ]  [1668](https://www.urionlinejudge.com.br/judge/pt/problems/view/1668) - Ajude o Autor do Problema *Grafos*
+  - [ ]  [1669](https://www.urionlinejudge.com.br/judge/pt/problems/view/1669) - Todos os Discos Considerados *Grafos*
+  - [ ]  [1670](https://www.urionlinejudge.com.br/judge/pt/problems/view/1670) - Lógica Booleana *Ad-Hoc*
+  - [ ]  [1671](https://www.urionlinejudge.com.br/judge/pt/problems/view/1671) - Código *Grafos*
+  - [ ]  [1672](https://www.urionlinejudge.com.br/judge/pt/problems/view/1672) - Em Perigo *Paradigmas*
+  - [ ]  [1673](https://www.urionlinejudge.com.br/judge/pt/problems/view/1673) - Codificação Run-length *Estruturas e Bibliotecas*
+  - [ ]  [1674](https://www.urionlinejudge.com.br/judge/pt/problems/view/1674) - Fractran *Matemática*
+  - [ ]  [1675](https://www.urionlinejudge.com.br/judge/pt/problems/view/1675) - Construção de Procura Binária de Heap *Grafos*
+  - [ ]  [1676](https://www.urionlinejudge.com.br/judge/pt/problems/view/1676) - Precisa-se de Ajuda *Ad-Hoc*
+  - [ ]  [1677](https://www.urionlinejudge.com.br/judge/pt/problems/view/1677) - A Base de um Grafo *Grafos*
+  - [ ]  [1678](https://www.urionlinejudge.com.br/judge/pt/problems/view/1678) - Gerenciamento de Partição Fixa em Competição *Ad-Hoc*
+  - [ ]  [1679](https://www.urionlinejudge.com.br/judge/pt/problems/view/1679) - Bebida, com Gelo *Geometria Computacional*
+  - [ ]  [1680](https://www.urionlinejudge.com.br/judge/pt/problems/view/1680) - Borda *Ad-Hoc*
+  - [ ]  [1681](https://www.urionlinejudge.com.br/judge/pt/problems/view/1681) - Dobra *Paradigmas*
+  - [ ]  [1682](https://www.urionlinejudge.com.br/judge/pt/problems/view/1682) - Código Genético *Paradigmas*
+  - [ ]  [1683](https://www.urionlinejudge.com.br/judge/pt/problems/view/1683) - Maior Retângulo em um Histograma *Estruturas e Bibliotecas*
+  - [ ]  [1684](https://www.urionlinejudge.com.br/judge/pt/problems/view/1684) - Maratona Doce *Ad-Hoc*
+  - [ ]  [1685](https://www.urionlinejudge.com.br/judge/pt/problems/view/1685) - Praça de Daniel *Paradigmas*
+  - [ ]  [1686](https://www.urionlinejudge.com.br/judge/pt/problems/view/1686) - Sequência de Palíndromos *Strings*
+  - [ ]  [1687](https://www.urionlinejudge.com.br/judge/pt/problems/view/1687) - Destrave o Celular *Paradigmas*
+  - [ ]  [1688](https://www.urionlinejudge.com.br/judge/pt/problems/view/1688) - Nim Intergalático *Matemática*
+  - [ ]  [1689](https://www.urionlinejudge.com.br/judge/pt/problems/view/1689) - Radares *Paradigmas*
+  - [ ]  [1690](https://www.urionlinejudge.com.br/judge/pt/problems/view/1690) - Soma de Sobconjuntos *Paradigmas*
+  - [ ]  [1691](https://www.urionlinejudge.com.br/judge/pt/problems/view/1691) - Super Circunferência *Ad-Hoc*
+  - [ ]  [1692](https://www.urionlinejudge.com.br/judge/pt/problems/view/1692) - Curo Ataque *Grafos*
+  - [ ]  [1693](https://www.urionlinejudge.com.br/judge/pt/problems/view/1693) - Apenas Outro Problema de Física *Geometria Computacional*
+  - [ ]  [1694](https://www.urionlinejudge.com.br/judge/pt/problems/view/1694) - Loteria *Matemática*
+  - [ ]  [1695](https://www.urionlinejudge.com.br/judge/pt/problems/view/1695) - Ordenando Árvores *Grafos*
+  - [ ]  [1696](https://www.urionlinejudge.com.br/judge/pt/problems/view/1696) - Brincando Com Operadores *Estruturas e Bibliotecas*
+  - [ ]  [1697](https://www.urionlinejudge.com.br/judge/pt/problems/view/1697) - Jaida e o Jogo Multiplicativo *Matemática*
+  - [ ]  [1698](https://www.urionlinejudge.com.br/judge/pt/problems/view/1698) - Metrô Brasileiro *Grafos*
+  - [ ]  [1699](https://www.urionlinejudge.com.br/judge/pt/problems/view/1699) - Jogo Entediante *Ad-Hoc*
+  - [ ]  [1700](https://www.urionlinejudge.com.br/judge/pt/problems/view/1700) - Antenas *Paradigmas*

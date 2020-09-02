@@ -9,12 +9,12 @@
 ### 1ª Fase
 
   - [ ]  [2962](https://www.urionlinejudge.com.br/judge/pt/problems/view/2962) - Arte Valiosa *Grafos*
-  - [x]  [2963](https://www.urionlinejudge.com.br/judge/pt/problems/view/2963) - [Bobo da Corte](https://github.com/potigol/URI-Potigol/blob/master/src/2901-3000/2963.poti) *Iniciante*
+  - [x]  [2963](https://www.urionlinejudge.com.br/judge/pt/problems/view/2963) - [Bobo da Corte](https://github.com/potigol/URI-Potigol/blob/master/src/2900-2999/2963.poti) *Iniciante*
   - [ ]  [2964](https://www.urionlinejudge.com.br/judge/pt/problems/view/2964) - Cruzamento Perigoso *Ad-Hoc*
   - [ ]  [2965](https://www.urionlinejudge.com.br/judge/pt/problems/view/2965) - Delação Premiada *Grafos*
   - [ ]  [2966](https://www.urionlinejudge.com.br/judge/pt/problems/view/2966) - Exibição de Peixes *Ad-Hoc*
   - [ ]  [2967](https://www.urionlinejudge.com.br/judge/pt/problems/view/2967) - Florestas em Risco *Paradigmas*
-  - [x]  [2968](https://www.urionlinejudge.com.br/judge/pt/problems/view/2968) - [Hora da Corrida](https://github.com/potigol/URI-Potigol/blob/master/src/2901-3000/2968.poti) *Iniciante*
+  - [x]  [2968](https://www.urionlinejudge.com.br/judge/pt/problems/view/2968) - [Hora da Corrida](https://github.com/potigol/URI-Potigol/blob/master/src/2900-2999/2968.poti) *Iniciante*
   - [ ]  [2969](https://www.urionlinejudge.com.br/judge/pt/problems/view/2969) - Interplanetário *Grafos*
   - [ ]  [2970](https://www.urionlinejudge.com.br/judge/pt/problems/view/2970) - Keep Calm e Venda Balões *Paradigmas*
   - [ ]  [2971](https://www.urionlinejudge.com.br/judge/pt/problems/view/2971) - Jogo de Baralho *Ad-Hoc*
@@ -36,7 +36,7 @@
   - [ ]  [3021](https://www.urionlinejudge.com.br/judge/pt/problems/view/3021) - Jumping Grasshopper *Ad-Hoc*
   - [ ]  [3022](https://www.urionlinejudge.com.br/judge/pt/problems/view/3022) - Know your Aliens *Ad-Hoc*
   - [ ]  [3023](https://www.urionlinejudge.com.br/judge/pt/problems/view/3023) - Leverage MDT *Ad-Hoc*
-  - [x]  [3024](https://www.urionlinejudge.com.br/judge/pt/problems/view/3024) - [Mountain Ranges](https://github.com/potigol/URI-Potigol/blob/master/src/3001-3100/3024.poti) *Ad-Hoc*
+  - [x]  [3024](https://www.urionlinejudge.com.br/judge/pt/problems/view/3024) - [Mountain Ranges](https://github.com/potigol/URI-Potigol/blob/master/src/3000-3099/3024.poti) *Ad-Hoc*
 
 
 ## 2018
@@ -48,8 +48,8 @@
   - [ ]  [2876](https://www.urionlinejudge.com.br/judge/pt/problems/view/2876) - Aventurando-se no Slackline *Ad-Hoc*
   - [ ]  [2877](https://www.urionlinejudge.com.br/judge/pt/problems/view/2877) - Bolinhas de Gude *Paradigmas*
   - [ ]  [2878](https://www.urionlinejudge.com.br/judge/pt/problems/view/2878) - Cortador de Pizza *Matemática*
-  - [x]  [2879](https://www.urionlinejudge.com.br/judge/pt/problems/view/2879) - [Desvendando Monty Hall](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2879.poti) *Iniciante*
-  - [x]  [2880](https://www.urionlinejudge.com.br/judge/pt/problems/view/2880) - [Enigma](https://github.com/potigol/URI-Potigol/blob/master/src/2801-2900/2880.poti) *Strings*
+  - [x]  [2879](https://www.urionlinejudge.com.br/judge/pt/problems/view/2879) - [Desvendando Monty Hall](https://github.com/potigol/URI-Potigol/blob/master/src/2800-2899/2879.poti) *Iniciante*
+  - [x]  [2880](https://www.urionlinejudge.com.br/judge/pt/problems/view/2880) - [Enigma](https://github.com/potigol/URI-Potigol/blob/master/src/2800-2899/2880.poti) *Strings*
   - [ ]  [2881](https://www.urionlinejudge.com.br/judge/pt/problems/view/2881) - Festival *Paradigmas*
   - [ ]  [2882](https://www.urionlinejudge.com.br/judge/pt/problems/view/2882) - Gasolina *Paradigmas*
   - [ ]  [2883](https://www.urionlinejudge.com.br/judge/pt/problems/view/2883) - Hipótese Policial *Grafos*
@@ -86,16 +86,16 @@
   - [ ]  [2658](https://www.urionlinejudge.com.br/judge/pt/problems/view/2658) - Acordes Intergaláticos *Estruturas e Bibliotecas*
   - [ ]  [2659](https://www.urionlinejudge.com.br/judge/pt/problems/view/2659) - Brincadeira *Ad-Hoc*
   - [ ]  [2660](https://www.urionlinejudge.com.br/judge/pt/problems/view/2660) - Cigarras Periódicas *Matemática*
-  - [x]  [2661](https://www.urionlinejudge.com.br/judge/pt/problems/view/2661) - [Despojados](https://github.com/potigol/URI-Potigol/blob/master/src/2601-2700/2661.poti) *Matemática*
+  - [x]  [2661](https://www.urionlinejudge.com.br/judge/pt/problems/view/2661) - [Despojados](https://github.com/potigol/URI-Potigol/blob/master/src/2600-2699/2661.poti) *Matemática*
   - [ ]  [2662](https://www.urionlinejudge.com.br/judge/pt/problems/view/2662) - Escala Musical *Ad-Hoc*
-  - [x]  [2663](https://www.urionlinejudge.com.br/judge/pt/problems/view/2663) - [Fase](https://github.com/potigol/URI-Potigol/blob/master/src/2601-2700/2663.poti) *Iniciante*
+  - [x]  [2663](https://www.urionlinejudge.com.br/judge/pt/problems/view/2663) - [Fase](https://github.com/potigol/URI-Potigol/blob/master/src/2600-2699/2663.poti) *Iniciante*
   - [ ]  [2664](https://www.urionlinejudge.com.br/judge/pt/problems/view/2664) - Ginástica *Paradigmas*
   - [ ]  [2665](https://www.urionlinejudge.com.br/judge/pt/problems/view/2665) - Hipercampo *Geometria Computacional*
   - [ ]  [2666](https://www.urionlinejudge.com.br/judge/pt/problems/view/2666) - Imposto Real *Grafos*
-  - [x]  [2667](https://www.urionlinejudge.com.br/judge/pt/problems/view/2667) - [Jogo de Boca](https://github.com/potigol/URI-Potigol/blob/master/src/2601-2700/2667.poti) *Matemática*
+  - [x]  [2667](https://www.urionlinejudge.com.br/judge/pt/problems/view/2667) - [Jogo de Boca](https://github.com/potigol/URI-Potigol/blob/master/src/2600-2699/2667.poti) *Matemática*
   - [ ]  [2668](https://www.urionlinejudge.com.br/judge/pt/problems/view/2668) - K-ésimo *Matemática*
   - [ ]  [2669](https://www.urionlinejudge.com.br/judge/pt/problems/view/2669) - Laboratório de Biotecnologia *Strings*
-  - [x]  [2670](https://www.urionlinejudge.com.br/judge/pt/problems/view/2670) - [Máquina de Café](https://github.com/potigol/URI-Potigol/blob/master/src/2601-2700/2670.poti) *Iniciante*
+  - [x]  [2670](https://www.urionlinejudge.com.br/judge/pt/problems/view/2670) - [Máquina de Café](https://github.com/potigol/URI-Potigol/blob/master/src/2600-2699/2670.poti) *Iniciante*
 
 
 ### 2ª Fase
@@ -106,7 +106,7 @@
   - [ ]  [2699](https://www.urionlinejudge.com.br/judge/pt/problems/view/2699) - Enigma *Iniciante*
   - [ ]  [2700](https://www.urionlinejudge.com.br/judge/pt/problems/view/2700) - Angariando Fundos *Estruturas e Bibliotecas*
   - [ ]  [2701](https://www.urionlinejudge.com.br/judge/pt/problems/view/2701) - Portas da Incerteza *Ad-Hoc*
-  - [x]  [2702](https://www.urionlinejudge.com.br/judge/pt/problems/view/2702) - [Escolha Difícil](https://github.com/potigol/URI-Potigol/blob/master/src/2701-2800/2702.poti) *Iniciante*
+  - [x]  [2702](https://www.urionlinejudge.com.br/judge/pt/problems/view/2702) - [Escolha Difícil](https://github.com/potigol/URI-Potigol/blob/master/src/2700-2799/2702.poti) *Iniciante*
   - [ ]  [2703](https://www.urionlinejudge.com.br/judge/pt/problems/view/2703) - Estradas Imperiais *Grafos*
   - [ ]  [2704](https://www.urionlinejudge.com.br/judge/pt/problems/view/2704) - Sapo Saltador *Ad-Hoc*
   - [ ]  [2705](https://www.urionlinejudge.com.br/judge/pt/problems/view/2705) - Mantenha Coberto *Ad-Hoc*
@@ -120,15 +120,15 @@
 ### 1ª Fase
 
   - [ ]  [2233](https://www.urionlinejudge.com.br/judge/pt/problems/view/2233) - Etiquetas Coloridas *Ad-Hoc*
-  - [x]  [2234](https://www.urionlinejudge.com.br/judge/pt/problems/view/2234) - [Cachorros-Quentes](https://github.com/potigol/URI-Potigol/blob/master/src/2201-2300/2234.poti) *Iniciante*
-  - [x]  [2235](https://www.urionlinejudge.com.br/judge/pt/problems/view/2235) - [Andando no Tempo](https://github.com/potigol/URI-Potigol/blob/master/src/2201-2300/2235.poti) *Iniciante*
+  - [x]  [2234](https://www.urionlinejudge.com.br/judge/pt/problems/view/2234) - [Cachorros-Quentes](https://github.com/potigol/URI-Potigol/blob/master/src/2200-2299/2234.poti) *Iniciante*
+  - [x]  [2235](https://www.urionlinejudge.com.br/judge/pt/problems/view/2235) - [Andando no Tempo](https://github.com/potigol/URI-Potigol/blob/master/src/2200-2299/2235.poti) *Iniciante*
   - [ ]  [2236](https://www.urionlinejudge.com.br/judge/pt/problems/view/2236) - Batata Quente *Paradigmas*
   - [ ]  [2237](https://www.urionlinejudge.com.br/judge/pt/problems/view/2237) - Containers *Ad-Hoc*
-  - [x]  [2238](https://www.urionlinejudge.com.br/judge/pt/problems/view/2238) - [Divisores](https://github.com/potigol/URI-Potigol/blob/master/src/2201-2300/2238.poti) *Matemática*
+  - [x]  [2238](https://www.urionlinejudge.com.br/judge/pt/problems/view/2238) - [Divisores](https://github.com/potigol/URI-Potigol/blob/master/src/2200-2299/2238.poti) *Matemática*
   - [ ]  [2239](https://www.urionlinejudge.com.br/judge/pt/problems/view/2239) - Estatística Hexa *Estruturas e Bibliotecas*
   - [ ]  [2240](https://www.urionlinejudge.com.br/judge/pt/problems/view/2240) - Fundindo Árvores *Estruturas e Bibliotecas*
   - [ ]  [2241](https://www.urionlinejudge.com.br/judge/pt/problems/view/2241) - Go-- *Estruturas e Bibliotecas*
-  - [x]  [2242](https://www.urionlinejudge.com.br/judge/pt/problems/view/2242) - [Huaauhahhuahau](https://github.com/potigol/URI-Potigol/blob/master/src/2201-2300/2242.poti) *Strings*
+  - [x]  [2242](https://www.urionlinejudge.com.br/judge/pt/problems/view/2242) - [Huaauhahhuahau](https://github.com/potigol/URI-Potigol/blob/master/src/2200-2299/2242.poti) *Strings*
   - [ ]  [2243](https://www.urionlinejudge.com.br/judge/pt/problems/view/2243) - Isósceles *Paradigmas*
   - [ ]  [2244](https://www.urionlinejudge.com.br/judge/pt/problems/view/2244) - Jogos Olímpicos *Ad-Hoc*
   - [ ]  [2245](https://www.urionlinejudge.com.br/judge/pt/problems/view/2245) - Kit de Encolhimento de Polígonos *Geometria Computacional*
@@ -137,7 +137,7 @@
 
 ### 2ª Fase
 
-  - [x]  [2345](https://www.urionlinejudge.com.br/judge/pt/problems/view/2345) - [Assigning Teams](https://github.com/potigol/URI-Potigol/blob/master/src/2301-2400/2345.poti) *Ad-Hoc*
+  - [x]  [2345](https://www.urionlinejudge.com.br/judge/pt/problems/view/2345) - [Assigning Teams](https://github.com/potigol/URI-Potigol/blob/master/src/2300-2399/2345.poti) *Ad-Hoc*
   - [ ]  [2346](https://www.urionlinejudge.com.br/judge/pt/problems/view/2346) - Back to the Future *Ad-Hoc*
   - [ ]  [2347](https://www.urionlinejudge.com.br/judge/pt/problems/view/2347) - Counting Self-Rotating Subsets *Ad-Hoc*
   - [ ]  [2348](https://www.urionlinejudge.com.br/judge/pt/problems/view/2348) - Dating On-Line *Ad-Hoc*
@@ -157,10 +157,10 @@
 
   - [ ]  [1931](https://www.urionlinejudge.com.br/judge/pt/problems/view/1931) - Mania de Par *Grafos*
   - [ ]  [1932](https://www.urionlinejudge.com.br/judge/pt/problems/view/1932) - Bolsa de Valores *Paradigmas*
-  - [x]  [1933](https://www.urionlinejudge.com.br/judge/pt/problems/view/1933) - [Tri-du](https://github.com/potigol/URI-Potigol/blob/master/src/1901-2000/1933.poti) *Iniciante*
+  - [x]  [1933](https://www.urionlinejudge.com.br/judge/pt/problems/view/1933) - [Tri-du](https://github.com/potigol/URI-Potigol/blob/master/src/1900-1999/1933.poti) *Iniciante*
   - [ ]  [1934](https://www.urionlinejudge.com.br/judge/pt/problems/view/1934) - Quebra-cabeça *Ad-Hoc*
   - [ ]  [1935](https://www.urionlinejudge.com.br/judge/pt/problems/view/1935) - Espiral *Ad-Hoc*
-  - [x]  [1936](https://www.urionlinejudge.com.br/judge/pt/problems/view/1936) - [Fatorial](https://github.com/potigol/URI-Potigol/blob/master/src/1901-2000/1936.poti) *Ad-Hoc*
+  - [x]  [1936](https://www.urionlinejudge.com.br/judge/pt/problems/view/1936) - [Fatorial](https://github.com/potigol/URI-Potigol/blob/master/src/1900-1999/1936.poti) *Ad-Hoc*
   - [ ]  [1937](https://www.urionlinejudge.com.br/judge/pt/problems/view/1937) - Guardiões Curiosos *Ad-Hoc*
   - [ ]  [1938](https://www.urionlinejudge.com.br/judge/pt/problems/view/1938) - Praça do Retângulo *Geometria Computacional*
   - [ ]  [1939](https://www.urionlinejudge.com.br/judge/pt/problems/view/1939) - Ominobox *Ad-Hoc*
@@ -171,7 +171,7 @@
 
 ### 2ª Fase
 
-  - [x]  [2006](https://www.urionlinejudge.com.br/judge/pt/problems/view/2006) - [Identificando o Chá](https://github.com/potigol/URI-Potigol/blob/master/src/2001-2100/2006.poti) *Iniciante*
+  - [x]  [2006](https://www.urionlinejudge.com.br/judge/pt/problems/view/2006) - [Identificando o Chá](https://github.com/potigol/URI-Potigol/blob/master/src/2000-2099/2006.poti) *Iniciante*
   - [ ]  [2007](https://www.urionlinejudge.com.br/judge/pt/problems/view/2007) - Falha Ao Cercar Legumes *Matemática*
   - [ ]  [2008](https://www.urionlinejudge.com.br/judge/pt/problems/view/2008) - Expondo a Corrupção *Ad-Hoc*
   - [ ]  [2009](https://www.urionlinejudge.com.br/judge/pt/problems/view/2009) - Apenas um Pouco Classificadas *Ad-Hoc*
@@ -190,8 +190,8 @@
 
 ### 1ª Fase
 
-  - [x]  [1708](https://www.urionlinejudge.com.br/judge/pt/problems/view/1708) - [Volta](https://github.com/potigol/URI-Potigol/blob/master/src/1701-1800/1708.poti) *Ad-Hoc*
-  - [x]  [1709](https://www.urionlinejudge.com.br/judge/pt/problems/view/1709) - [Baralho Embaralhado](https://github.com/potigol/URI-Potigol/blob/master/src/1701-1800/1709.poti) *Estruturas e Bibliotecas*
+  - [x]  [1708](https://www.urionlinejudge.com.br/judge/pt/problems/view/1708) - [Volta](https://github.com/potigol/URI-Potigol/blob/master/src/1700-1799/1708.poti) *Ad-Hoc*
+  - [x]  [1709](https://www.urionlinejudge.com.br/judge/pt/problems/view/1709) - [Baralho Embaralhado](https://github.com/potigol/URI-Potigol/blob/master/src/1700-1799/1709.poti) *Estruturas e Bibliotecas*
   - [ ]  [1710](https://www.urionlinejudge.com.br/judge/pt/problems/view/1710) - Confederação *Ad-Hoc*
   - [ ]  [1711](https://www.urionlinejudge.com.br/judge/pt/problems/view/1711) - Dona Minhoca *Grafos*
   - [ ]  [1712](https://www.urionlinejudge.com.br/judge/pt/problems/view/1712) - Ecologia *Ad-Hoc*
@@ -205,7 +205,7 @@
 
 ### 2ª Fase
 
-  - [x]  [1743](https://www.urionlinejudge.com.br/judge/pt/problems/view/1743) - [Máquina de Verificação Automatizada](https://github.com/potigol/URI-Potigol/blob/master/src/1701-1800/1743.poti) *Ad-Hoc*
+  - [x]  [1743](https://www.urionlinejudge.com.br/judge/pt/problems/view/1743) - [Máquina de Verificação Automatizada](https://github.com/potigol/URI-Potigol/blob/master/src/1700-1799/1743.poti) *Ad-Hoc*
   - [ ]  [1744](https://www.urionlinejudge.com.br/judge/pt/problems/view/1744) - Pedras Pretas e Brancas *Paradigmas*
   - [ ]  [1745](https://www.urionlinejudge.com.br/judge/pt/problems/view/1745) - Contando Substhreengs *Matemática*
   - [ ]  [1746](https://www.urionlinejudge.com.br/judge/pt/problems/view/1746) - Dividindo os Nomes *Estruturas e Bibliotecas*
@@ -225,7 +225,7 @@
 
 ### 1ª Fase
 
-  - [x]  [1467](https://www.urionlinejudge.com.br/judge/pt/problems/view/1467) - [Zerinho ou Um](https://github.com/potigol/URI-Potigol/blob/master/src/1401-1500/1467.poti) *Ad-Hoc*
+  - [x]  [1467](https://www.urionlinejudge.com.br/judge/pt/problems/view/1467) - [Zerinho ou Um](https://github.com/potigol/URI-Potigol/blob/master/src/1400-1499/1467.poti) *Ad-Hoc*
   - [ ]  [1468](https://www.urionlinejudge.com.br/judge/pt/problems/view/1468) - Balão *Geometria Computacional*
   - [ ]  [1469](https://www.urionlinejudge.com.br/judge/pt/problems/view/1469) - Chefe *Grafos*
   - [ ]  [1470](https://www.urionlinejudge.com.br/judge/pt/problems/view/1470) - Máquina Dobradora *Ad-Hoc*
@@ -260,7 +260,7 @@
   - [ ]  [1222](https://www.urionlinejudge.com.br/judge/pt/problems/view/1222) - Concurso de Contos *Strings*
   - [ ]  [1223](https://www.urionlinejudge.com.br/judge/pt/problems/view/1223) - Tobogan de Bolinhas *Geometria Computacional*
   - [ ]  [1224](https://www.urionlinejudge.com.br/judge/pt/problems/view/1224) - Cartões *Paradigmas*
-  - [x]  [1225](https://www.urionlinejudge.com.br/judge/pt/problems/view/1225) - [Coral Perfeito](https://github.com/potigol/URI-Potigol/blob/master/src/1201-1300/1225.poti) *Ad-Hoc*
+  - [x]  [1225](https://www.urionlinejudge.com.br/judge/pt/problems/view/1225) - [Coral Perfeito](https://github.com/potigol/URI-Potigol/blob/master/src/1200-1299/1225.poti) *Ad-Hoc*
   - [ ]  [1226](https://www.urionlinejudge.com.br/judge/pt/problems/view/1226) - Elevador Espacial *Paradigmas*
   - [ ]  [1227](https://www.urionlinejudge.com.br/judge/pt/problems/view/1227) - Perdido na Noite *Grafos*
   - [ ]  [1228](https://www.urionlinejudge.com.br/judge/pt/problems/view/1228) - Grid de Largada *Ad-Hoc*
@@ -280,7 +280,7 @@
   - [ ]  [1297](https://www.urionlinejudge.com.br/judge/pt/problems/view/1297) - Proteção do Meio Ambiente *Matemática*
   - [ ]  [1298](https://www.urionlinejudge.com.br/judge/pt/problems/view/1298) - Corrija o Labirinto *Grafos*
   - [ ]  [1299](https://www.urionlinejudge.com.br/judge/pt/problems/view/1299) - Jogo de Mosaicos *Paradigmas*
-  - [x]  [1300](https://www.urionlinejudge.com.br/judge/pt/problems/view/1300) - [Horas e Minutos](https://github.com/potigol/URI-Potigol/blob/master/src/1201-1300/1300.poti) *Ad-Hoc*
+  - [x]  [1300](https://www.urionlinejudge.com.br/judge/pt/problems/view/1300) - [Horas e Minutos](https://github.com/potigol/URI-Potigol/blob/master/src/1300-1399/1300.poti) *Ad-Hoc*
   - [ ]  [1301](https://www.urionlinejudge.com.br/judge/pt/problems/view/1301) - Produto do Intervalo *Estruturas e Bibliotecas*
   - [ ]  [1302](https://www.urionlinejudge.com.br/judge/pt/problems/view/1302) - Juntando Casais *Grafos*
 
@@ -315,7 +315,7 @@
   - [ ]  [1356](https://www.urionlinejudge.com.br/judge/pt/problems/view/1356) - Júpiter Ataca! *Estruturas e Bibliotecas*
   - [ ]  [1357](https://www.urionlinejudge.com.br/judge/pt/problems/view/1357) - Em Braille *Ad-Hoc*
   - [ ]  [1419](https://www.urionlinejudge.com.br/judge/pt/problems/view/1419) - Bakugan *Ad-Hoc*
-  - [x]  [1441](https://www.urionlinejudge.com.br/judge/pt/problems/view/1441) - [Sequências de Granizo](https://github.com/potigol/URI-Potigol/blob/master/src/1401-1500/1441.poti) *Ad-Hoc*
+  - [x]  [1441](https://www.urionlinejudge.com.br/judge/pt/problems/view/1441) - [Sequências de Granizo](https://github.com/potigol/URI-Potigol/blob/master/src/1400-1499/1441.poti) *Ad-Hoc*
 
 
 ## 2010
@@ -324,7 +324,7 @@
 
 ### 1ª Fase
 
-  - [x]  [1120](https://www.urionlinejudge.com.br/judge/pt/problems/view/1120) - [Revisão de Contrato](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1120.poti) *Strings*
+  - [x]  [1120](https://www.urionlinejudge.com.br/judge/pt/problems/view/1120) - [Revisão de Contrato](https://github.com/potigol/URI-Potigol/blob/master/src/1100-1199/1120.poti) *Strings*
   - [ ]  [1121](https://www.urionlinejudge.com.br/judge/pt/problems/view/1121) - Robô Colecionador *Ad-Hoc*
   - [ ]  [1122](https://www.urionlinejudge.com.br/judge/pt/problems/view/1122) - Livro-Caixa *Ad-Hoc*
   - [ ]  [1123](https://www.urionlinejudge.com.br/judge/pt/problems/view/1123) - Desvio de Rota *Grafos*
@@ -350,8 +350,8 @@
   - [ ]  [1320](https://www.urionlinejudge.com.br/judge/pt/problems/view/1320) - Metrô Engenhoso *Ad-Hoc*
   - [ ]  [1321](https://www.urionlinejudge.com.br/judge/pt/problems/view/1321) - Jollo *Ad-Hoc*
   - [ ]  [1322](https://www.urionlinejudge.com.br/judge/pt/problems/view/1322) - Desejos das Crianças *Grafos*
-  - [x]  [1379](https://www.urionlinejudge.com.br/judge/pt/problems/view/1379) - [Problema com Mediana e Média](https://github.com/potigol/URI-Potigol/blob/master/src/1301-1400/1379.poti) *Ad-Hoc*
-  - [x]  [1429](https://www.urionlinejudge.com.br/judge/pt/problems/view/1429) - [Fatorial de Novo!](https://github.com/potigol/URI-Potigol/blob/master/src/1401-1500/1429.poti) *Matemática*
+  - [x]  [1379](https://www.urionlinejudge.com.br/judge/pt/problems/view/1379) - [Problema com Mediana e Média](https://github.com/potigol/URI-Potigol/blob/master/src/1300-1399/1379.poti) *Ad-Hoc*
+  - [x]  [1429](https://www.urionlinejudge.com.br/judge/pt/problems/view/1429) - [Fatorial de Novo!](https://github.com/potigol/URI-Potigol/blob/master/src/1400-1499/1429.poti) *Matemática*
 
 
 ## 2009
@@ -361,8 +361,8 @@
 ### 1ª Fase
 
   - [ ]  [1102](https://www.urionlinejudge.com.br/judge/pt/problems/view/1102) - Ataque Fulminante *Geometria Computacional*
-  - [x]  [1103](https://www.urionlinejudge.com.br/judge/pt/problems/view/1103) - [Alarme Despertador](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1103.poti) *Ad-Hoc*
-  - [x]  [1104](https://www.urionlinejudge.com.br/judge/pt/problems/view/1104) - [Troca de Cartas](https://github.com/potigol/URI-Potigol/blob/master/src/1101-1200/1104.poti) *Ad-Hoc*
+  - [x]  [1103](https://www.urionlinejudge.com.br/judge/pt/problems/view/1103) - [Alarme Despertador](https://github.com/potigol/URI-Potigol/blob/master/src/1100-1199/1103.poti) *Ad-Hoc*
+  - [x]  [1104](https://www.urionlinejudge.com.br/judge/pt/problems/view/1104) - [Troca de Cartas](https://github.com/potigol/URI-Potigol/blob/master/src/1100-1199/1104.poti) *Ad-Hoc*
   - [ ]  [1105](https://www.urionlinejudge.com.br/judge/pt/problems/view/1105) - Sub-prime *Ad-Hoc*
   - [ ]  [1106](https://www.urionlinejudge.com.br/judge/pt/problems/view/1106) - Dragster *Paradigmas*
   - [ ]  [1107](https://www.urionlinejudge.com.br/judge/pt/problems/view/1107) - Escultura à Laser *Ad-Hoc*
@@ -380,7 +380,7 @@
   - [ ]  [1394](https://www.urionlinejudge.com.br/judge/pt/problems/view/1394) - Hooligan *Grafos*
   - [ ]  [1412](https://www.urionlinejudge.com.br/judge/pt/problems/view/1412) - Cadeado com Segredo *Paradigmas*
   - [ ]  [1418](https://www.urionlinejudge.com.br/judge/pt/problems/view/1418) - Outra Crise *Ad-Hoc*
-  - [x]  [1430](https://www.urionlinejudge.com.br/judge/pt/problems/view/1430) - [Composição de Jingles](https://github.com/potigol/URI-Potigol/blob/master/src/1401-1500/1430.poti) *Estruturas e Bibliotecas*
+  - [x]  [1430](https://www.urionlinejudge.com.br/judge/pt/problems/view/1430) - [Composição de Jingles](https://github.com/potigol/URI-Potigol/blob/master/src/1400-1499/1430.poti) *Estruturas e Bibliotecas*
   - [ ]  [1431](https://www.urionlinejudge.com.br/judge/pt/problems/view/1431) - Níveis de Klingon *Ad-Hoc*
   - [ ]  [1440](https://www.urionlinejudge.com.br/judge/pt/problems/view/1440) - Praça de Alimentação *Ad-Hoc*
   - [ ]  [1460](https://www.urionlinejudge.com.br/judge/pt/problems/view/1460) - Parreiral *Ad-Hoc*
@@ -392,10 +392,10 @@
 
 ### 1ª Fase
 
-  - [x]  [1084](https://www.urionlinejudge.com.br/judge/pt/problems/view/1084) - [Apagando e Ganhando](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1084.poti) *Paradigmas*
+  - [x]  [1084](https://www.urionlinejudge.com.br/judge/pt/problems/view/1084) - [Apagando e Ganhando](https://github.com/potigol/URI-Potigol/blob/master/src/1000-1099/1084.poti) *Paradigmas*
   - [ ]  [1085](https://www.urionlinejudge.com.br/judge/pt/problems/view/1085) - Babel *Grafos*
   - [ ]  [1086](https://www.urionlinejudge.com.br/judge/pt/problems/view/1086) - O Salão do Clube *Ad-Hoc*
-  - [x]  [1087](https://www.urionlinejudge.com.br/judge/pt/problems/view/1087) - [Dama](https://github.com/potigol/URI-Potigol/blob/master/src/1001-1100/1087.poti) *Ad-Hoc*
+  - [x]  [1087](https://www.urionlinejudge.com.br/judge/pt/problems/view/1087) - [Dama](https://github.com/potigol/URI-Potigol/blob/master/src/1000-1099/1087.poti) *Ad-Hoc*
   - [ ]  [1088](https://www.urionlinejudge.com.br/judge/pt/problems/view/1088) - Bolhas e Baldes *Estruturas e Bibliotecas*
   - [ ]  [1089](https://www.urionlinejudge.com.br/judge/pt/problems/view/1089) - Loop Musical *Ad-Hoc*
   - [ ]  [1090](https://www.urionlinejudge.com.br/judge/pt/problems/view/1090) - Set *Ad-Hoc*
@@ -406,7 +406,7 @@
 
 ### 2ª Fase
 
-  - [x]  [1323](https://www.urionlinejudge.com.br/judge/pt/problems/view/1323) - [Feynman](https://github.com/potigol/URI-Potigol/blob/master/src/1301-1400/1323.poti) *Matemática*
+  - [x]  [1323](https://www.urionlinejudge.com.br/judge/pt/problems/view/1323) - [Feynman](https://github.com/potigol/URI-Potigol/blob/master/src/1300-1399/1323.poti) *Matemática*
   - [ ]  [1324](https://www.urionlinejudge.com.br/judge/pt/problems/view/1324) - Bóson de Higgs *Matemática*
   - [ ]  [1372](https://www.urionlinejudge.com.br/judge/pt/problems/view/1372) - Doces *Paradigmas*
   - [ ]  [1373](https://www.urionlinejudge.com.br/judge/pt/problems/view/1373) - Sequências de DNA *Strings*
@@ -444,7 +444,7 @@
   - [ ]  [1365](https://www.urionlinejudge.com.br/judge/pt/problems/view/1365) - Procurando Assentos *Paradigmas*
   - [ ]  [1366](https://www.urionlinejudge.com.br/judge/pt/problems/view/1366) - Jogo de Varetas *Ad-Hoc*
   - [ ]  [1386](https://www.urionlinejudge.com.br/judge/pt/problems/view/1386) - Códigos Ambíguos *Strings*
-  - [x]  [1387](https://www.urionlinejudge.com.br/judge/pt/problems/view/1387) - [Og](https://github.com/potigol/URI-Potigol/blob/master/src/1301-1400/1387.poti) *Ad-Hoc*
+  - [x]  [1387](https://www.urionlinejudge.com.br/judge/pt/problems/view/1387) - [Og](https://github.com/potigol/URI-Potigol/blob/master/src/1300-1399/1387.poti) *Ad-Hoc*
   - [ ]  [1410](https://www.urionlinejudge.com.br/judge/pt/problems/view/1410) - Ele Está Impedido! *Ad-Hoc*
   - [ ]  [1415](https://www.urionlinejudge.com.br/judge/pt/problems/view/1415) - Galou Está de Volta! *Grafos*
   - [ ]  [1416](https://www.urionlinejudge.com.br/judge/pt/problems/view/1416) - Placar do ICPC *Paradigmas*
@@ -460,7 +460,7 @@
   - [ ]  [1371](https://www.urionlinejudge.com.br/judge/pt/problems/view/1371) - Fechem as Portas! *Matemática*
   - [ ]  [1404](https://www.urionlinejudge.com.br/judge/pt/problems/view/1404) - MegaDamas *Ad-Hoc*
   - [ ]  [1405](https://www.urionlinejudge.com.br/judge/pt/problems/view/1405) - O Problema da Parada *Estruturas e Bibliotecas*
-  - [x]  [1437](https://www.urionlinejudge.com.br/judge/pt/problems/view/1437) - [Esquerda, Volver!](https://github.com/potigol/URI-Potigol/blob/master/src/1401-1500/1437.poti) *Ad-Hoc*
+  - [x]  [1437](https://www.urionlinejudge.com.br/judge/pt/problems/view/1437) - [Esquerda, Volver!](https://github.com/potigol/URI-Potigol/blob/master/src/1400-1499/1437.poti) *Ad-Hoc*
   - [ ]  [1486](https://www.urionlinejudge.com.br/judge/pt/problems/view/1486) - Circuito Bioquímico Digital *Ad-Hoc*
 
 
@@ -498,7 +498,7 @@
   - [ ]  [1269](https://www.urionlinejudge.com.br/judge/pt/problems/view/1269) - ICPC Ataca Novamente *Paradigmas*
   - [ ]  [1270](https://www.urionlinejudge.com.br/judge/pt/problems/view/1270) - Fibra Óptica *Grafos*
   - [ ]  [1271](https://www.urionlinejudge.com.br/judge/pt/problems/view/1271) - Onde estão meus Genes *Ad-Hoc*
-  - [ ] ~~1274~~
+  - [ ]  [1274](https://www.urionlinejudge.com.br/judge/pt/problems/view/1274) - P-Networks *Estruturas e Bibliotecas*
   - [ ]  [1275](https://www.urionlinejudge.com.br/judge/pt/problems/view/1275) - Light Up *Grafos*
 
 
@@ -512,7 +512,7 @@
   - [ ]  [1326](https://www.urionlinejudge.com.br/judge/pt/problems/view/1326) - Química *Estruturas e Bibliotecas*
   - [ ]  [1327](https://www.urionlinejudge.com.br/judge/pt/problems/view/1327) - Drop Out *Ad-Hoc*
   - [ ]  [1328](https://www.urionlinejudge.com.br/judge/pt/problems/view/1328) - Vá com Calma *Grafos*
-  - [x]  [1329](https://www.urionlinejudge.com.br/judge/pt/problems/view/1329) - [Cara ou Coroa](https://github.com/potigol/URI-Potigol/blob/master/src/1301-1400/1329.poti) *Ad-Hoc*
+  - [x]  [1329](https://www.urionlinejudge.com.br/judge/pt/problems/view/1329) - [Cara ou Coroa](https://github.com/potigol/URI-Potigol/blob/master/src/1300-1399/1329.poti) *Ad-Hoc*
   - [ ]  [1367](https://www.urionlinejudge.com.br/judge/pt/problems/view/1367) - Ajude! *Strings*
   - [ ]  [1413](https://www.urionlinejudge.com.br/judge/pt/problems/view/1413) - Apresse-se! *Grafos*
   - [ ]  [1434](https://www.urionlinejudge.com.br/judge/pt/problems/view/1434) - Patrulheiros Romanos *Matemática*

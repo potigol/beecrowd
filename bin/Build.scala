@@ -22,7 +22,7 @@ object Build extends App {
   val code = config("code")
   val extension = config("extension")
 
-  def dir(n: Int) = s"${(n-1) / 100 * 100 + 1}-${((n-1) / 100 + 1) * 100}"
+  def dir(n: Int) = s"${n / 100 * 100}-${(n / 100 + 1) * 100 - 1}"
 
   def line(x: Int, cat: Boolean = true) = a.find(_.number == x) match {
     case None => s"  - [ ] ~~${x}~~"
@@ -74,9 +74,9 @@ object Build extends App {
   }
 
   // Lista Geral
-  for (i <- 9 to 31) {
-    val d = for (j <- 1 to 100; x = i * 100 + j if x >= 1000) yield line(x)
-    save(s"../src/${dir(i*100+1)}/README.md", s"Problemas ${dir(i*100+1).replace("-", " a ")}", d.mkString("\n"))
+  for (i <- 10 to 31) {
+    val d = for (j <- 1 to 100; x = i * 100 + j) yield line(x)
+    save(s"../src/${dir(i*100)}/README.md", s"Problemas ${dir(i*100).replace("-", " a ")}", d.mkString("\n"))
   }
 
   // Lista por categoria

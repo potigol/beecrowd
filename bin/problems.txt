@@ -272,6 +272,7 @@
 1271	Onde estão meus Genes	Ad-Hoc
 1272	Mensagem Oculta	Strings
 1273	Justificador	Strings
+1274	P-Networks	Estruturas e Bibliotecas
 1275	Light Up	Grafos
 1276	Faixa de Letras	Strings
 1277	Pouca Frequência	Strings
