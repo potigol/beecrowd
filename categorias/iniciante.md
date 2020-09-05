@@ -1,4 +1,4 @@
-# Iniciante (283 / 292)
+# Iniciante (284 / 292)
 
 ## Problemas não resolvidos
   - [ ]  [2632](https://www.urionlinejudge.com.br/judge/pt/problems/view/2632) - Magic and Sword
@@ -7,7 +7,6 @@
   - [ ]  [2724](https://www.urionlinejudge.com.br/judge/pt/problems/view/2724) - Ajude Patatatitu
   - [ ]  [2758](https://www.urionlinejudge.com.br/judge/pt/problems/view/2758) - Entrada e Saída de Números Reais
   - [ ]  [2769](https://www.urionlinejudge.com.br/judge/pt/problems/view/2769) - Linha de Montagem
-  - [ ]  [2775](https://www.urionlinejudge.com.br/judge/pt/problems/view/2775) - Preparando a Produção
   - [ ]  [2785](https://www.urionlinejudge.com.br/judge/pt/problems/view/2785) - Pirâmide
   - [ ]  [3068](https://www.urionlinejudge.com.br/judge/pt/problems/view/3068) - Meteoros
 ## Problemas resolvidos
@@ -246,6 +245,7 @@
   - [x]  [2766](https://www.urionlinejudge.com.br/judge/pt/problems/view/2766) - [Entrada e Saída Lendo e Pulando Nomes](https://github.com/potigol/URI-Potigol/blob/master/src/2700-2799/2766.poti)
   - [x]  [2770](https://www.urionlinejudge.com.br/judge/pt/problems/view/2770) - [Tamanho da Placa](https://github.com/potigol/URI-Potigol/blob/master/src/2700-2799/2770.poti)
   - [x]  [2774](https://www.urionlinejudge.com.br/judge/pt/problems/view/2774) - [Precisão do Sensor](https://github.com/potigol/URI-Potigol/blob/master/src/2700-2799/2774.poti)
+  - [x]  [2775](https://www.urionlinejudge.com.br/judge/pt/problems/view/2775) - [Preparando a Produção](https://github.com/potigol/URI-Potigol/blob/master/src/2700-2799/2775.poti)
   - [x]  [2779](https://www.urionlinejudge.com.br/judge/pt/problems/view/2779) - [Álbum da Copa](https://github.com/potigol/URI-Potigol/blob/master/src/2700-2799/2779.poti)
   - [x]  [2780](https://www.urionlinejudge.com.br/judge/pt/problems/view/2780) - [Basquete de Robôs](https://github.com/potigol/URI-Potigol/blob/master/src/2700-2799/2780.poti)
   - [x]  [2782](https://www.urionlinejudge.com.br/judge/pt/problems/view/2782) - [Escadinha](https://github.com/potigol/URI-Potigol/blob/master/src/2700-2799/2782.poti)

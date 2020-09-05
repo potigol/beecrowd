@@ -1,0 +1,21 @@
+var n := leia_inteiro
+enquanto n > 0 faça
+  p, v = leia_inteiros(" ")
+  var m = p.zip(v).mutavel
+  var soma := 0
+  var alterado := verdadeiro
+  enquanto alterado faca
+    alterado := falso
+    para i de 1 ate n - 1 faca
+      se m[i].primeiro > m[i+1].primeiro entao
+        soma := soma + m[i].segundo + m[i+1].segundo
+        aux = m[i]
+        m[i] := m[i+1]
+        m[i+1] := aux
+        alterado := verdadeiro
+      fim
+    fim
+  fim
+  escreva soma
+  n := leia_inteiro
+fim

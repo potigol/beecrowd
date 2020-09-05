@@ -75,7 +75,7 @@
   - [ ]  [2772](https://www.urionlinejudge.com.br/judge/pt/problems/view/2772) - Plantação *Ad-Hoc*
   - [ ]  [2773](https://www.urionlinejudge.com.br/judge/pt/problems/view/2773) - Menor Caminho *Geometria Computacional*
   - [x]  [2774](https://www.urionlinejudge.com.br/judge/pt/problems/view/2774) - [Precisão do Sensor](https://github.com/potigol/URI-Potigol/blob/master/src/2700-2799/2774.poti) *Iniciante*
-  - [ ]  [2775](https://www.urionlinejudge.com.br/judge/pt/problems/view/2775) - Preparando a Produção *Iniciante*
+  - [x]  [2775](https://www.urionlinejudge.com.br/judge/pt/problems/view/2775) - [Preparando a Produção](https://github.com/potigol/URI-Potigol/blob/master/src/2700-2799/2775.poti) *Iniciante*
   - [ ]  [2776](https://www.urionlinejudge.com.br/judge/pt/problems/view/2776) - Promoções *Ad-Hoc*
   - [ ]  [2777](https://www.urionlinejudge.com.br/judge/pt/problems/view/2777) - Subsets do Dabriel *Matemática*
   - [ ]  [2778](https://www.urionlinejudge.com.br/judge/pt/problems/view/2778) - Matriz do Dabriel *Paradigmas*
