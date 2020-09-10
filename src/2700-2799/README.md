@@ -24,7 +24,7 @@
   - [x]  [2721](https://www.urionlinejudge.com.br/judge/pt/problems/view/2721) - [Indecisão das Renas](https://github.com/potigol/URI-Potigol/blob/master/src/2700-2799/2721.poti) *Iniciante*
   - [x]  [2722](https://www.urionlinejudge.com.br/judge/pt/problems/view/2722) - [Pegadinha de Evergreen](https://github.com/potigol/URI-Potigol/blob/master/src/2700-2799/2722.poti) *Strings*
   - [ ]  [2723](https://www.urionlinejudge.com.br/judge/pt/problems/view/2723) - Equilibrando Presentes *Paradigmas*
-  - [ ]  [2724](https://www.urionlinejudge.com.br/judge/pt/problems/view/2724) - Ajude Patatatitu *Iniciante*
+  - [x]  [2724](https://www.urionlinejudge.com.br/judge/pt/problems/view/2724) - [Ajude Patatatitu](https://github.com/potigol/URI-Potigol/blob/master/src/2700-2799/2724.poti) *Iniciante*
   - [ ]  [2725](https://www.urionlinejudge.com.br/judge/pt/problems/view/2725) - Vila Natalina *Grafos*
   - [ ]  [2726](https://www.urionlinejudge.com.br/judge/pt/problems/view/2726) - Trenó Lotado *Matemática*
   - [x]  [2727](https://www.urionlinejudge.com.br/judge/pt/problems/view/2727) - [Código Secreto](https://github.com/potigol/URI-Potigol/blob/master/src/2700-2799/2727.poti) *Iniciante*

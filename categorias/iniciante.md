@@ -1,10 +1,9 @@
-# Iniciante (284 / 292)
+# Iniciante (285 / 292)
 
 ## Problemas não resolvidos
   - [ ]  [2632](https://www.urionlinejudge.com.br/judge/pt/problems/view/2632) - Magic and Sword
   - [ ]  [2699](https://www.urionlinejudge.com.br/judge/pt/problems/view/2699) - Enigma
   - [ ]  [2715](https://www.urionlinejudge.com.br/judge/pt/problems/view/2715) - Dividindo os Trabalhos I
-  - [ ]  [2724](https://www.urionlinejudge.com.br/judge/pt/problems/view/2724) - Ajude Patatatitu
   - [ ]  [2758](https://www.urionlinejudge.com.br/judge/pt/problems/view/2758) - Entrada e Saída de Números Reais
   - [ ]  [2769](https://www.urionlinejudge.com.br/judge/pt/problems/view/2769) - Linha de Montagem
   - [ ]  [2785](https://www.urionlinejudge.com.br/judge/pt/problems/view/2785) - Pirâmide
@@ -224,6 +223,7 @@
   - [x]  [2717](https://www.urionlinejudge.com.br/judge/pt/problems/view/2717) - [Tempo do Duende](https://github.com/potigol/URI-Potigol/blob/master/src/2700-2799/2717.poti)
   - [x]  [2718](https://www.urionlinejudge.com.br/judge/pt/problems/view/2718) - [Luzes de Natal](https://github.com/potigol/URI-Potigol/blob/master/src/2700-2799/2718.poti)
   - [x]  [2721](https://www.urionlinejudge.com.br/judge/pt/problems/view/2721) - [Indecisão das Renas](https://github.com/potigol/URI-Potigol/blob/master/src/2700-2799/2721.poti)
+  - [x]  [2724](https://www.urionlinejudge.com.br/judge/pt/problems/view/2724) - [Ajude Patatatitu](https://github.com/potigol/URI-Potigol/blob/master/src/2700-2799/2724.poti)
   - [x]  [2727](https://www.urionlinejudge.com.br/judge/pt/problems/view/2727) - [Código Secreto](https://github.com/potigol/URI-Potigol/blob/master/src/2700-2799/2727.poti)
   - [x]  [2747](https://www.urionlinejudge.com.br/judge/pt/problems/view/2747) - [Saída 1](https://github.com/potigol/URI-Potigol/blob/master/src/2700-2799/2747.poti)
   - [x]  [2748](https://www.urionlinejudge.com.br/judge/pt/problems/view/2748) - [Saída 2](https://github.com/potigol/URI-Potigol/blob/master/src/2700-2799/2748.poti)
