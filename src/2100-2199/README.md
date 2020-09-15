@@ -37,7 +37,7 @@
   - [ ]  [2134](https://www.urionlinejudge.com.br/judge/pt/problems/view/2134) - Quem Vai Ser Reprovado? *Ad-Hoc*
   - [ ]  [2135](https://www.urionlinejudge.com.br/judge/pt/problems/view/2135) - Recuperação *Matemática*
   - [ ]  [2136](https://www.urionlinejudge.com.br/judge/pt/problems/view/2136) - Amigos do Habay *Estruturas e Bibliotecas*
-  - [ ]  [2137](https://www.urionlinejudge.com.br/judge/pt/problems/view/2137) - A Biblioteca do Senhor Severino *Strings*
+  - [x]  [2137](https://www.urionlinejudge.com.br/judge/pt/problems/view/2137) - [A Biblioteca do Senhor Severino](https://github.com/potigol/URI-Potigol/blob/master/src/2100-2199/2137.poti) *Strings*
   - [ ]  [2138](https://www.urionlinejudge.com.br/judge/pt/problems/view/2138) - Dígito Mais Frequente *Ad-Hoc*
   - [x]  [2139](https://www.urionlinejudge.com.br/judge/pt/problems/view/2139) - [Natal de Pedrinho](https://github.com/potigol/URI-Potigol/blob/master/src/2100-2199/2139.poti) *Iniciante*
   - [x]  [2140](https://www.urionlinejudge.com.br/judge/pt/problems/view/2140) - [Duas Notas](https://github.com/potigol/URI-Potigol/blob/master/src/2100-2199/2140.poti) *Iniciante*

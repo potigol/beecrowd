@@ -247,7 +247,6 @@
 1246	Estacionamento	Ad-Hoc
 1247	Guarda Costeira	Matemática
 1248	Plano de Dieta	Strings
-1249	Rot13	Strings
 1250	KiloMan	Ad-Hoc
 1251	Diga-me a Frequência	Estruturas e Bibliotecas
 1252	Sort! Sort!! e Sort!!!	Estruturas e Bibliotecas
@@ -1594,10 +1593,12 @@
 2606	Categorias	SQL
 2607	Cidades em Ordem Alfabética	SQL
 2608	Maior e Menor Preço	SQL
+2609	Produtos por Categorias	SQL
 2610	Valor Médio dos Produtos	SQL
 2611	Filmes de Ação	SQL
 2613	Filmes em Promoção	SQL
 2614	Locações de Setembro	SQL
+2615	Expandindo o Negocio	SQL
 2616	Nenhuma Locação	SQL
 2617	Fornecedor Ajax SA	SQL
 2618	Produtos Importados	SQL

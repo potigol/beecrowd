@@ -49,13 +49,13 @@
   - [ ]  [1246](https://www.urionlinejudge.com.br/judge/pt/problems/view/1246) - Estacionamento *Ad-Hoc*
   - [ ]  [1247](https://www.urionlinejudge.com.br/judge/pt/problems/view/1247) - Guarda Costeira *Matemática*
   - [ ]  [1248](https://www.urionlinejudge.com.br/judge/pt/problems/view/1248) - Plano de Dieta *Strings*
-  - [x]  [1249](https://www.urionlinejudge.com.br/judge/pt/problems/view/1249) - [Rot13](https://github.com/potigol/URI-Potigol/blob/master/src/1200-1299/1249.poti) *Strings*
+  - [ ] ~~1249~~
   - [ ]  [1250](https://www.urionlinejudge.com.br/judge/pt/problems/view/1250) - KiloMan *Ad-Hoc*
   - [x]  [1251](https://www.urionlinejudge.com.br/judge/pt/problems/view/1251) - [Diga-me a Frequência](https://github.com/potigol/URI-Potigol/blob/master/src/1200-1299/1251.poti) *Estruturas e Bibliotecas*
   - [ ]  [1252](https://www.urionlinejudge.com.br/judge/pt/problems/view/1252) - Sort! Sort!! e Sort!!! *Estruturas e Bibliotecas*
   - [x]  [1253](https://www.urionlinejudge.com.br/judge/pt/problems/view/1253) - [Cifra de César](https://github.com/potigol/URI-Potigol/blob/master/src/1200-1299/1253.poti) *Strings*
   - [ ]  [1254](https://www.urionlinejudge.com.br/judge/pt/problems/view/1254) - Substituição de Tag *Strings*
-  - [ ]  [1255](https://www.urionlinejudge.com.br/judge/pt/problems/view/1255) - Frequência de Letras *Strings*
+  - [x]  [1255](https://www.urionlinejudge.com.br/judge/pt/problems/view/1255) - [Frequência de Letras](https://github.com/potigol/URI-Potigol/blob/master/src/1200-1299/1255.poti) *Strings*
   - [ ]  [1256](https://www.urionlinejudge.com.br/judge/pt/problems/view/1256) - Tabelas Hash *Estruturas e Bibliotecas*
   - [x]  [1257](https://www.urionlinejudge.com.br/judge/pt/problems/view/1257) - [Array Hash](https://github.com/potigol/URI-Potigol/blob/master/src/1200-1299/1257.poti) *Strings*
   - [ ]  [1258](https://www.urionlinejudge.com.br/judge/pt/problems/view/1258) - Camisetas *Estruturas e Bibliotecas*
@@ -73,7 +73,7 @@
   - [ ]  [1270](https://www.urionlinejudge.com.br/judge/pt/problems/view/1270) - Fibra Óptica *Grafos*
   - [ ]  [1271](https://www.urionlinejudge.com.br/judge/pt/problems/view/1271) - Onde estão meus Genes *Ad-Hoc*
   - [x]  [1272](https://www.urionlinejudge.com.br/judge/pt/problems/view/1272) - [Mensagem Oculta](https://github.com/potigol/URI-Potigol/blob/master/src/1200-1299/1272.poti) *Strings*
-  - [ ]  [1273](https://www.urionlinejudge.com.br/judge/pt/problems/view/1273) - Justificador *Strings*
+  - [x]  [1273](https://www.urionlinejudge.com.br/judge/pt/problems/view/1273) - [Justificador](https://github.com/potigol/URI-Potigol/blob/master/src/1200-1299/1273.poti) *Strings*
   - [ ]  [1274](https://www.urionlinejudge.com.br/judge/pt/problems/view/1274) - P-Networks *Estruturas e Bibliotecas*
   - [ ]  [1275](https://www.urionlinejudge.com.br/judge/pt/problems/view/1275) - Light Up *Grafos*
   - [ ]  [1276](https://www.urionlinejudge.com.br/judge/pt/problems/view/1276) - Faixa de Letras *Strings*

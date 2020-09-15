@@ -1,4 +1,4 @@
-# SQL (0 / 44)
+# SQL (0 / 46)
 
 ## Problemas não resolvidos
   - [ ]  [2602](https://www.urionlinejudge.com.br/judge/pt/problems/view/2602) - Select Básico
@@ -8,10 +8,12 @@
   - [ ]  [2606](https://www.urionlinejudge.com.br/judge/pt/problems/view/2606) - Categorias
   - [ ]  [2607](https://www.urionlinejudge.com.br/judge/pt/problems/view/2607) - Cidades em Ordem Alfabética
   - [ ]  [2608](https://www.urionlinejudge.com.br/judge/pt/problems/view/2608) - Maior e Menor Preço
+  - [ ]  [2609](https://www.urionlinejudge.com.br/judge/pt/problems/view/2609) - Produtos por Categorias
   - [ ]  [2610](https://www.urionlinejudge.com.br/judge/pt/problems/view/2610) - Valor Médio dos Produtos
   - [ ]  [2611](https://www.urionlinejudge.com.br/judge/pt/problems/view/2611) - Filmes de Ação
   - [ ]  [2613](https://www.urionlinejudge.com.br/judge/pt/problems/view/2613) - Filmes em Promoção
   - [ ]  [2614](https://www.urionlinejudge.com.br/judge/pt/problems/view/2614) - Locações de Setembro
+  - [ ]  [2615](https://www.urionlinejudge.com.br/judge/pt/problems/view/2615) - Expandindo o Negocio
   - [ ]  [2616](https://www.urionlinejudge.com.br/judge/pt/problems/view/2616) - Nenhuma Locação
   - [ ]  [2617](https://www.urionlinejudge.com.br/judge/pt/problems/view/2617) - Fornecedor Ajax SA
   - [ ]  [2618](https://www.urionlinejudge.com.br/judge/pt/problems/view/2618) - Produtos Importados

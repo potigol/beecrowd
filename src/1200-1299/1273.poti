@@ -1,0 +1,10 @@
+var n := leia_inteiro
+enquanto n > 0 faca
+  s = leia_textos(n)
+  tam = s.injete(0)((a, b) => se b.tamanho > a entao b.tamanho senao a fim)
+  para linha em s faca
+    escreva linha formato "%{tam}s"
+  fim
+  n := leia_inteiro
+  se n > 0 entao escreva "" fim
+fim
