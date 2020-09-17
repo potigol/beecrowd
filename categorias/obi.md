@@ -58,7 +58,7 @@
   - [x]  [2454](https://www.urionlinejudge.com.br/judge/pt/problems/view/2454) - [Flíper](https://github.com/potigol/URI-Potigol/blob/master/src/2400-2499/2454.poti) *Ad-Hoc*
   - [x]  [2455](https://www.urionlinejudge.com.br/judge/pt/problems/view/2455) - [Gangorra](https://github.com/potigol/URI-Potigol/blob/master/src/2400-2499/2455.poti) *Ad-Hoc*
   - [x]  [2456](https://www.urionlinejudge.com.br/judge/pt/problems/view/2456) - [Cartas](https://github.com/potigol/URI-Potigol/blob/master/src/2400-2499/2456.poti) *Ad-Hoc*
-  - [ ]  [2457](https://www.urionlinejudge.com.br/judge/pt/problems/view/2457) - Letras *Ad-Hoc*
+  - [x]  [2457](https://www.urionlinejudge.com.br/judge/pt/problems/view/2457) - [Letras](https://github.com/potigol/URI-Potigol/blob/master/src/2400-2499/2457.poti) *Ad-Hoc*
   - [ ]  [2458](https://www.urionlinejudge.com.br/judge/pt/problems/view/2458) - Setas *Ad-Hoc*
   - [ ]  [2459](https://www.urionlinejudge.com.br/judge/pt/problems/view/2459) - Copa do Mundo *Ad-Hoc*
   - [ ]  [2460](https://www.urionlinejudge.com.br/judge/pt/problems/view/2460) - Fila *Ad-Hoc*
