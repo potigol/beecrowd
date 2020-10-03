@@ -1,0 +1,10 @@
+var volume := leia_real
+enquanto volume > 0 faca
+  diametro = leia_real
+  raio = diametro / 2
+  area  = 3.14 * raio ^ 2
+  altura = volume / area
+  escreva "ALTURA = {altura  formato "%.2f"}"
+  escreva "AREA = {area formato "%.2f"}"
+  volume := leia_real
+fim

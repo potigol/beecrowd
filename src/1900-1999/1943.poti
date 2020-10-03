@@ -1,0 +1,11 @@
+k = leia_inteiro
+top = se      k ==  1 então 1
+      senãose k <=  3 então 3
+      senãose k <=  5 então 5
+      senãose k <= 10 então 10
+      senãose k <= 25 então 25
+      senãose k <= 50 então 50
+      senão                 100
+      fim
+
+escreva "Top {top}"

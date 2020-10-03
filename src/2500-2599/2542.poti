@@ -1,0 +1,18 @@
+var n := leia_inteiro
+enquanto n > 0 faca
+  x = leia_inteiros(" ")
+  m, l = x[1], x[2]
+  cartas_m, cartas_l = leia_textos(m), leia_textos(l)
+  c = leia_inteiros(" ")
+  carta_m, carta_l = c[1], c[2]
+  a = leia_inteiro
+  marcos, leonardo = cartas_m[carta_m].divida(" ")[a].inteiro, cartas_l[carta_l].divida(" ")[a].inteiro
+  se marcos > leonardo entao
+    escreva "Marcos"
+  senaose marcos < leonardo entao
+    escreva "Leonardo"
+  senao
+    escreva "Empate"
+  fim
+  n := leia_inteiro
+fim

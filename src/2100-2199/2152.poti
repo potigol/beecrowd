@@ -1,0 +1,11 @@
+n = leia_inteiro
+para i de 1 ate n faca
+  a = leia_inteiros(" ")
+  hora, minuto, porta = a[1], a[2], a[3]
+  horario = "{hora formato "%02d"}:{minuto formato "%02d"}"
+  se porta == 1 entao
+    escreva "{horario} - A porta abriu!"
+  senao
+    escreva "{horario} - A porta fechou!"
+  fim
+fim

@@ -1,0 +1,6 @@
+n = leia_inteiro
+var a, b := BigInt(16), BigInt(2)
+para i de 2 até n faça
+  a, b := 2 * (i + 1) * (a + b * 2 * i) mod 1000000007, a
+fim
+escreva b

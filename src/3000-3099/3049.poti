@@ -1,0 +1,4 @@
+b, t = leia_inteiro
+soma = b + t
+valor = se soma > 160 entao 1 senaose soma < 160 entao 2 senao 0 fim
+escreva valor

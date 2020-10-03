@@ -1,0 +1,7 @@
+estados_norte = ["acre", "amapa", "amazonas", "para", "rondonia", "roraima", "tocantins"]
+estado = leia_texto
+se estados_norte.contem(estado) entao
+  escreva "Regiao Norte"
+senao
+  escreva "Outra regiao"
+fim

@@ -1,0 +1,12 @@
+n = leia_inteiro
+para i de 1 até n faça
+  s = leia_texto.minúsculo.selecione(c => c >= 'a' e c <= 'z')
+  var letras := Lista(255, 0).mutável
+  var mais := 0
+  para c em s faca
+    letras[c] := letras[c] + 1
+    se letras[c] > mais entao mais := letras[c] fim
+  fim
+  saida = para c de 'a' ate 'z' se letras[c] == mais gere c fim
+  escreva saida.junte("")
+fim

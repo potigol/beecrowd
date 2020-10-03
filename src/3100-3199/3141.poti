@@ -1,0 +1,13 @@
+nome = leia_texto
+a, b = leia_inteiros("/")
+a3, a2, a1 = a[3], a[2], a[1]
+b3, b2, b1 = b[3], b[2], b[1]
+d = (a[2] - b[2]) * 31 + a[1] - b[1]
+se d > 0 entao
+  escreva "Voce tem {a3 - b3} anos {nome}."
+senaose d == 0 entao
+  escreva "Feliz aniversario!"
+  escreva "Voce tem {a3 - b3} anos {nome}."
+senao
+  escreva "Voce tem {a3 - b3 - 1} anos {nome}."
+fim

@@ -1,0 +1,6 @@
+var a := leia_texto
+enquanto a <> None.orNull faca
+  s = (a + "\n").split(" ,").mkString(",").split(" \\.").mkString(".")
+  imprima s
+  a := leia_texto
+fim

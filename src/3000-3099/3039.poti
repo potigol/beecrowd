@@ -1,0 +1,8 @@
+n = leia_inteiro
+var m := 0
+para i de 1 ate n faca
+  a = leia_texto.ultimo
+  se a == 'M' entao m := m + 1 fim
+fim
+escreva "{m} carrinhos"
+escreva "{n-m} bonecas"

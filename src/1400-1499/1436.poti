@@ -1,0 +1,8 @@
+t = leia_inteiro
+para i de 1 ate t faca
+  entrada = leia_inteiros(" ")
+  n = entrada.cabeca
+  nums = entrada.cauda
+  meio = nums.ordene[(n + 2) div 2]
+  escreva "Case {i}: {meio}"
+fim

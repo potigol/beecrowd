@@ -1,0 +1,11 @@
+para i de 1 ate 3 faca
+  var s := leia_texto
+  var soma := 0
+  enquanto s <> "caw caw" faca
+    se s[1] == '*' entao soma := soma + 4 fim
+    se s[2] == '*' entao soma := soma + 2 fim
+    se s[3] == '*' entao soma := soma + 1 fim
+    s := leia_texto
+  fim
+  escreva soma
+fim

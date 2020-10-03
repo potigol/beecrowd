@@ -1,0 +1,20 @@
+f(s: Lista[Lista[Inteiro]], x1, y1, x2, y2: Inteiro)
+  linha = (para i de x1 até x2, j de y1 até y2 gere s[i][j] fim).ordene
+  ordenada = para i de 1 até 9 gere i == linha[i] fim
+  retorne ordenada.injete(verdadeiro)((a, b) => a e b)
+fim
+
+n = leia_inteiro
+para i de 1 até n faça
+  s = para j de 1 até 9 gere leia_inteiros(" ") fim
+  linhas = para j de 1 até 9 gere f(s, j, 1, j, 9) fim +
+           para j de 1 até 9 gere f(s, 1, j, 9, j) fim +
+           para j em [1, 4, 7], k em [1, 4, 7] gere f(s, j, k, j+2, k+2) fim
+
+  ok = linhas.injete(verdadeiro)((a, b) => a e b)
+  escreva "Instancia {i}"
+  escreva se ok então "SIM" senão "NAO" fim
+  escreva ""
+fim
+
+

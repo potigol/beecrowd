@@ -1,0 +1,7 @@
+c = leia_inteiro
+para i de 1 até c faça
+  a = leia_inteiros(" ")
+  n, m = a[1], a[2]
+  s = n div m + (se n mod m == 0 então 0 senão 1 fim)
+  escreva s
+fim

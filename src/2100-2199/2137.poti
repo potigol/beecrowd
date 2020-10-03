@@ -1,0 +1,6 @@
+var n := leia_inteiro
+enquanto n > 0 faca
+  s = leia_textos(n)
+  escreva s.ordene.junte("\n")
+  n := leia_inteiro
+fim

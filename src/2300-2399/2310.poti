@@ -1,0 +1,16 @@
+n = leia_inteiro
+var tentativas, sucesso := [0, 0, 0].mutavel
+para i de 1 ate n faca
+  nome = leia_texto
+  a, b = leia_inteiros(" ")
+  para j de 1 ate 3 faca
+    tentativas[j] := tentativas[j] + a[j]
+    sucesso[j] := sucesso[j] + b[j]
+  fim
+fim
+
+fundamentos = ["Saque", "Bloqueio", "Ataque"]
+para j de 1 ate 3 faca
+  pontos = sucesso[j] * 100 / tentativas[j]
+  escreva "Pontos de {fundamentos[j]}: {pontos formato "%.2f"} %."
+fim

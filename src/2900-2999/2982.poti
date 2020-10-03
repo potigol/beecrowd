@@ -1,0 +1,15 @@
+n = leia_inteiro
+var v := 0
+para i de 1 ate n faca
+  a = leia_textos(" ")
+  se a[1] == "G" entao
+    v := v + a[2].inteiro
+  senao
+    v := v - a[2].inteiro
+  fim
+fim
+se v > 0 entao
+  escreva "NAO VAI TER CORTE, VAI TER LUTA!"
+senao
+  escreva "A greve vai parar."
+fim

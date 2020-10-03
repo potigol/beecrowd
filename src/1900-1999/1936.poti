@@ -1,0 +1,9 @@
+f = [362880, 40320, 5040, 720, 120, 24, 6, 2, 1]
+
+var n := leia_inteiro
+var c := 0
+para a em f faça
+  c := c + n div a
+  n := n mod a
+fim
+escreva c

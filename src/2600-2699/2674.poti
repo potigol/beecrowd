@@ -1,0 +1,23 @@
+primo(a: Inteiro)
+  var resp := a > 1
+  para i de 2 até raiz(a).arredonde faça
+    se a mod i == 0 então
+      resp := falso
+    fim
+  fim
+  retorne resp
+fim
+
+var n:= leia_inteiro
+enquanto n > 0 faça
+  se primo(n) entao
+    se n.texto - "014689" == n.texto entao
+      escreva "Super"
+    senão
+      escreva "Primo"
+    fim
+  senão
+    escreva "Nada"
+  fim
+  n:= leia_inteiro
+fim

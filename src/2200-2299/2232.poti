@@ -1,0 +1,5 @@
+t = leia_inteiro
+para i de 1 ate t faca
+  n = leia_inteiro
+  escreva (2^n - 1) formato "%.0f"
+fim

@@ -1,0 +1,4 @@
+a = leia_inteiros(" ")
+x, y = a[1], a[2]
+voltas = (x / (y - x)).teto.inteiro + 1
+escreva voltas

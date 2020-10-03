@@ -1,0 +1,5 @@
+c = leia_inteiro
+para i de 1 ate c faca
+  t = leia_texto
+  escreva t.tamanho / 100 formato "%.2f"
+fim

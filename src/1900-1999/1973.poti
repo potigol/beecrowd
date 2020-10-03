@@ -1,0 +1,20 @@
+n = leia_inteiro
+var x = leia_inteiros(" ").mutavel
+var total := x.injete(BigInt(0))(_ + _)
+var atacadas = Lista.mutavel(n, falso)
+var i := 1
+
+enquanto i > 0 e i <= n faca
+  lado = x[i] mod 2 <> 0
+  se x[i] > 0 entao
+    x[i] := x[i] - 1
+    atacadas[i] := verdadeiro
+    total := total - 1
+  fim
+  se lado entao
+    i := i + 1
+  senao
+    i := i - 1
+  fim
+fim
+escreva "{atacadas.selecione(_ == verdadeiro).tamanho} {total}"

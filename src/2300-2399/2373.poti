@@ -1,0 +1,8 @@
+n = leia_inteiro
+var total := 0
+para i de 1 ate n faca
+  a = leia_inteiros(" ")
+  l, c = a[1], a[2]
+  se l > c entao total := total + c fim
+fim
+escreva total

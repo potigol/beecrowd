@@ -1,0 +1,11 @@
+n = leia_inteiro
+palavras = leia_textos(" ")
+a = para palavra em palavras gere
+      ini = palavra.pegue(2)
+      se palavra.tamanho <> 3 ou (ini <> "OB" e ini <> "UR") entao
+        palavra
+      senao
+        ini + "I"
+      fim
+    fim
+escreva a.junte(" ")

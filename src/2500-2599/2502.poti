@@ -1,0 +1,20 @@
+var a := leia_texto
+enquanto a <> None.orNull faca
+  var letras = para i de 1 ate 255 gere i fim.mutavel
+  c, n = a.divida(" ")[1].inteiro, a.divida(" ")[2].inteiro
+  zenit, polar = leia_texto.minúsculo
+  ZENIT, POLAR = zenit.maiúsculo, polar.maiúsculo
+
+  para i de 1 ate c faca
+    letras[ZENIT[i]] := POLAR[i]
+    letras[POLAR[i]] := ZENIT[i]
+    letras[zenit[i]] := polar[i]
+    letras[polar[i]] := zenit[i]
+  fim
+  para i de 1 ate n faca
+    s = leia_texto.lista.mapeie(letras[_].caractere).junte("")
+    escreva s
+  fim
+  escreva ""
+  a := leia_texto
+fim

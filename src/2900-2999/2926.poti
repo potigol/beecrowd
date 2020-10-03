@@ -1,0 +1,2 @@
+i = leia_inteiro
+escreva "Ent{"a" * i}o eh N{"a" * i}t{"a" * i}l!"

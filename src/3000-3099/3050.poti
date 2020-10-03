@@ -1,0 +1,13 @@
+n = leia_inteiro
+a = leia_inteiros(" ")
+d(x, y: Inteiro) = y - x + a[x] + a[y]
+var x, y, j := 1, 2, 1
+var dxy := d(x, y)
+para i de 3 ate n faca
+  se a[i-1] >= a[x] + i - x entao j:= i - 1 fim
+  se d(j, i) >= dxy entao
+    x, y := j, i
+    dxy := d(x, y)
+  fim
+fim
+escreva dxy

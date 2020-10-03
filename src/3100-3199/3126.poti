@@ -1,0 +1,3 @@
+leia_inteiro
+a = leia_inteiros(" ").injete(0)((x, y) => x + y)
+escreva a

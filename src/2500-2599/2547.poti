@@ -1,0 +1,9 @@
+var entrada := leia_texto
+enquanto entrada <> None.orNull faca
+  a = entrada.divida(" ").mapeie(_.inteiro)
+  n, min, max = a[1], a[2], a[3]
+  visitantes = leia_inteiros(n)
+  permitidos = visitantes.selecione(v => v >= min e v <= max).tamanho
+  escreva permitidos
+  entrada := leia_texto
+fim

@@ -1,0 +1,8 @@
+a = leia_inteiros(" ")
+lua = escolha (a[2], a[2] - a[1])
+  caso (n, m) se n >= 3 e n <= 96 e m < 0 => "minguante"
+  caso (n, _)     se n <= 2               => "nova"
+  caso (n, _)     se n >= 97              => "cheia"
+  caso _                                  => "crescente"
+fim
+escreva lua

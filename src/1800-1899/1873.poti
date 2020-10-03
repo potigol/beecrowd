@@ -1,0 +1,18 @@
+rajesh = [
+  "tesoura papel", "papel pedra", "pedra lagarto", "lagarto spock", "spock tesoura",
+  "tesoura lagarto", "lagarto papel", "papel spock", "spock pedra", "pedra tesoura"
+]
+
+empate = ["papel", "pedra", "tesoura", "lagarto", "spock"].mapeie(a => "{a} {a}")
+
+c = leia_inteiro
+para i de 1 ate c faca
+  s = leia_texto
+  se rajesh.contem(s) entao
+    escreva "rajesh"
+  senaose empate.contem(s) entao
+    escreva "empate"
+  senao
+    escreva "sheldon"
+  fim
+fim

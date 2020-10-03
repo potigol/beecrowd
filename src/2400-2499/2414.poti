@@ -1,0 +1,3 @@
+a = leia_inteiros(" ")
+x = a.injete(0)((i,j) => se i > j entao i senao j fim)
+escreva x

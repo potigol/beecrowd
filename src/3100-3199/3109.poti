@@ -1,0 +1,19 @@
+n, q = leia_inteiro
+var emp := para i de 1 ate n gere i fim.mutavel
+para i de 1 ate q faca
+  f = leia_inteiros(" ")
+  se f[1] == 1 entao
+    a, b = f[2], f[3]
+    aux = emp[a]
+    emp[a] := emp[b]
+    emp[b] := aux
+  senao
+    var c := 0
+    var p := f[2]
+    enquanto f[2] <> emp[p] faca
+      c := c + 1
+      p := emp[p]
+    fim
+    escreva c
+  fim
+fim

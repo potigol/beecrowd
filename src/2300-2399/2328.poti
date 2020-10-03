@@ -1,0 +1,4 @@
+n = leia_inteiro
+a = leia_inteiros(" ")
+s = a.injete(0)(_ + _) - n
+escreva s

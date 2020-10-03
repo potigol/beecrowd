@@ -1,0 +1,9 @@
+enquanto leia_texto
+           .descarte_enquanto(_ == ' ')
+           .pegue(6) <> "<body>" faca
+fim
+var s := leia_texto
+enquanto s.descarte_enquanto(_ == ' ').pegue(7) <> "</body>" faca
+  escreva s
+  s := leia_texto
+fim

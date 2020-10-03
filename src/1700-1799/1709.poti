@@ -1,0 +1,6 @@
+p = leia_inteiro
+embaralhar(a, c: Inteiro): Inteiro
+  b = se 2 * a <= p entao 2 * a senao 2 * a - (p + 1) fim
+  retorne se b == 1 entao c senao embaralhar(b, c + 1) fim
+fim
+escreva embaralhar(1, 1)

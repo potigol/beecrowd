@@ -1,0 +1,13 @@
+n = leia_inteiro
+exp = leia_textos(" ")
+p, c, q = exp[1].inteiro, exp[2], exp[3].inteiro
+valor = escolha c
+  caso "*" => p.inteiro * q.inteiro
+  caso _   => p.inteiro + q.inteiro
+fim
+
+se valor > n entao
+  escreva "OVERFLOW"
+senao
+  escreva "OK"
+fim

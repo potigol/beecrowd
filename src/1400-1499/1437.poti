@@ -1,0 +1,10 @@
+dir(c: Caractere) = se c == 'D' entao 1 senao -1 fim
+direcoes = "LSONLSO"
+var n := leia_inteiro
+enquanto n > 0 faca
+  comandos = leia_texto
+  frente = comandos.lista.mapeie(dir).injete(0)(_ + _)
+  direcao = direcoes[frente mod 4 + 4]
+  escreva direcao
+  n := leia_inteiro
+fim

@@ -1,0 +1,10 @@
+a = leia_inteiros(" ")
+b = a.ordene
+c = b.inverta
+se a == b entao
+  escreva "C"
+senaose a == c entao
+  escreva "D"
+senao
+  escreva "N"
+fim

@@ -1,0 +1,6 @@
+a = leia_inteiros(" ")
+r, l = a[1], a[2]
+pi = 3.1415
+v = 4 / 3 * pi * r ^ 3
+baloes = l / v
+escreva baloes.inteiro

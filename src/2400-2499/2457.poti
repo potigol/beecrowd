@@ -1,0 +1,4 @@
+c = leia_texto[1]
+texto = leia_textos(" ")
+palavras = texto.selecione(_.contem(c))
+escreva (palavras.tamanho * 100 / texto.tamanho) formato "%.1f"

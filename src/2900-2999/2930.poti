@@ -1,0 +1,15 @@
+a = leia_inteiros(" ")
+E, D = a[1], a[2]
+
+se D >= 24 ou E > D então
+  escreva ("Eu odeio a professora!")
+senãose E <= D - 3 então
+  escreva ("Muito bem! Apresenta antes do Natal!")
+senão
+  escreva ("Parece o trabalho do meu filho!")
+  se E + 2 < 24 então
+    escreva ("TCC Apresentado!")
+  senão
+    escreva ("Fail! Entao eh nataaaaal!")
+  fim
+fim

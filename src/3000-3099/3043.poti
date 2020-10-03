@@ -1,0 +1,19 @@
+diff(a, b: Lista[Inteiro]) = Lista(a._lista.diff(b._lista))
+flat(a: Lista[Lista[Lista[Inteiro]]]) = para v em a, y em v gere y fim
+
+var n, t := leia_inteiro, 0
+enquanto n > 0 faca
+  var valores := [para i de 1 ate n gere i fim]
+  para i de 1 ate n faca
+    nums = leia_inteiros(" ")
+    valores := flat(valores.mapeie(v =>
+      se diff(v, nums) == v ou diff(v, [i]) == v entao [v]
+      senao                  [diff(v, [i]), diff(v, nums)] fim))
+  fim
+  t = t + 1
+  r = valores.mapeie(_.tamanho).ordene.ultimo
+  escreva "Teste {t}
+          |{r}
+          |"
+  n := leia_inteiro
+fim

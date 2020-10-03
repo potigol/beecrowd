@@ -1,0 +1,9 @@
+n = leia_inteiro
+para i de 1 até n faça
+  a = leia_inteiro
+  se a < 2015 então
+    escreva "{2015 - a} D.C."
+  senão
+    escreva "{a - 2014} A.C."
+  fim
+fim

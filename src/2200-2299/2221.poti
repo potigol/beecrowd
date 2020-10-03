@@ -1,0 +1,10 @@
+t = leia_inteiro
+para i de 1 ate t faca
+  b = leia_inteiro
+  j1, j2 = leia_inteiros(" ")
+  ad, dd, ld = j1[1], j1[2], j1[3]
+  ag, dg, lg = j2[1], j2[2], j2[3]
+  vd = ad + dd - 2 * b * (ld mod 2)
+  vg = ag + dg - 2 * b * (lg mod 2)
+  escreva se vd > vg entao "Dabriel" senaose vg > vd entao "Guarte" senao "Empate" fim
+fim

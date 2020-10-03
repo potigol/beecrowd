@@ -1,0 +1,6 @@
+n = leia_inteiro
+para i de 1 ate n faca
+  s = leia_textos(" ").selecione(_ <> "")
+  r = s.mapeie(_[1]).junte("")
+  escreva r
+fim

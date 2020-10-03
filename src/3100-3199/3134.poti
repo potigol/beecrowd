@@ -1,0 +1,8 @@
+pacotes = leia_reais(4).mapeie(a => (a * 10).inteiro).ordene
+se pacotes[4] == pacotes[1] + pacotes[2] + pacotes[3] ou
+   pacotes[1] + pacotes[4] == pacotes[2] + pacotes[3] ou
+   pacotes[1] + pacotes[3] == pacotes[2] + pacotes[4] então
+  escreva "YES"
+senão
+  escreva "NO"
+fim

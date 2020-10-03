@@ -1,0 +1,8 @@
+q = leia_inteiro
+v = leia_inteiros(" ")
+satisfeitos = v.injete(0)(_ + _).tamanho
+se satisfeitos > q div 2 entao
+  escreva "Y"
+senao
+  escreva "N"
+fim

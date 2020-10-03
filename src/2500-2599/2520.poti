@@ -1,0 +1,20 @@
+var entrada := leia_texto
+enquanto entrada <> None.orNull faca
+  a = entrada.divida(" ").mapeie(_.inteiro)
+  n, m = a[1], a[2]
+  var x1, y1, x2, y2 := 0
+  para i de 1 ate n faca
+    linha = leia_inteiros(" ")
+    para j de 1 ate m faca
+      se linha[j] == 1 entao
+        x1, y1 := i, j
+      fim
+      se linha[j] == 2 entao
+        x2, y2 := i, j
+      fim
+    fim
+  fim
+  tempo = (x2 - x1).abs + (y2 - y1).abs
+  escreva tempo
+  entrada := leia_texto
+fim

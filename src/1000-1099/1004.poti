@@ -1,0 +1,3 @@
+a, b = leia_inteiro
+prod = a * b
+escreva "PROD = {prod}"

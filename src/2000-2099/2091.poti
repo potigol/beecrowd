@@ -1,0 +1,12 @@
+f(a: Lista[Texto]): Texto = escolha a
+  caso [x]               => x
+  caso []                => ""
+  caso x se x[1] <> x[2] => x.cabeca
+  caso _                 => f(a.descarte(2))
+fim
+
+enquanto leia_inteiro > 0 faça
+  a = leia_textos(" ").ordene
+  p = f(a)
+  escreva p
+fim

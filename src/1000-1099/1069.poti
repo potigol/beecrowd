@@ -1,0 +1,14 @@
+n = leia_inteiro
+para i de 1 ate n faca
+  s = leia_texto
+  var aberto, cont := 0
+  para a em s faca
+    se a == '>' e aberto > 0 entao
+      aberto := aberto - 1
+      cont := cont + 1
+    senaose a == '<' entao
+      aberto := aberto + 1
+    fim
+  fim
+  escreva cont
+fim

@@ -1,4 +1,0 @@
-a = leia_inteiro
-b = leia_inteiro
-prod = (a * b)
-escreva "PROD = {prod}"

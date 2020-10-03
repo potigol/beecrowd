@@ -1,0 +1,12 @@
+n = leia_inteiro
+para i de 1 ate n faca
+  k = leia_inteiro
+  s = leia_textos(k)
+  primeiro = s.cabeca
+  iguais = s.cauda.injete(verdadeiro)((a,b) => a e b == primeiro)
+  se iguais entao
+    escreva s.cabeca
+  senão
+    escreva "ingles"
+  fim
+fim

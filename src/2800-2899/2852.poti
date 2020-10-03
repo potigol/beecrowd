@@ -1,0 +1,21 @@
+k = leia_texto
+n = leia_inteiro
+tam = k.tamanho
+para i de 1 ate n faca
+  frase = leia_texto
+  var a := -1
+  var vogal := frase.tamanho == 0 ou "aeiou".contem(frase[1])
+  para i de 1 ate frase.tamanho faca
+    letra = frase[i]
+    se i > 1 e frase[i-1] == ' ' entao
+      vogal := "aeiou".contem(letra)
+    fim
+    se vogal ou letra == ' ' entao
+      imprima letra
+    senao
+      a := (a + 1) mod tam
+      imprima ((letra + k[a+1] - 2 * 'a') mod 26 + 'a').caractere
+    fim
+  fim
+  escreva ""
+fim

@@ -1,2 +1,6 @@
 *.jar
 *.poti.scala
+/src/*/*a.poti
+/src/*/*b.poti
+/*.poti
+*/.metals/

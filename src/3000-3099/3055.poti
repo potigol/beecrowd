@@ -1,0 +1,3 @@
+a, m = leia_inteiro
+b = m * 2 - a
+escreva b

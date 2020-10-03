@@ -1,0 +1,12 @@
+a = leia_inteiros(" ")
+carimbadas, compradas = leia_inteiros(" ")
+
+var resultado := a[2]
+
+para carimbada em carimbadas faça
+  se compradas.contém(carimbada) então
+    resultado := resultado - 1
+  fim
+fim
+
+escreva resultado

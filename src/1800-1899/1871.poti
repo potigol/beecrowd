@@ -1,0 +1,8 @@
+var a := leia_inteiros(" ")
+enquanto a[1] <> 0 faca
+  m, n = a[1], a[2]
+  soma = m + n
+  s = soma.texto.selecione(_ <> '0')
+  escreva s
+  a := leia_inteiros(" ")
+fim

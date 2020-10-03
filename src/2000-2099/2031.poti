@@ -1,0 +1,15 @@
+n = leia_inteiro
+para i de 1 até n faça
+  jogador1, jogador2 = leia_texto
+  se jogador1 == jogador2 então
+    escolha jogador1
+      caso "ataque" => escreva "Aniquilacao mutua"
+      caso "pedra"  => escreva "Sem ganhador"
+      caso _        => escreva "Ambos venceram"
+    fim
+  senãose jogador1 == "ataque" ou jogador2 == "papel" então
+    escreva "Jogador 1 venceu"
+  senão
+    escreva "Jogador 2 venceu"
+  fim
+fim

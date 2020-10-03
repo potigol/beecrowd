@@ -1,0 +1,14 @@
+var entrada := leia_texto
+enquanto entrada <> None.orNull faça
+  a = entrada.divida("\\=")
+  b = a[1].divida("\\+")
+  rlj = [b[1], b[2], a[2]].mapeie(_.inteiro)
+  resposta = escolha rlj
+    caso [r, l, 0] => r + l
+    caso [r, 0, j] => j - r
+    caso [0, l, j] => j - l
+    caso _         => -1
+  fim
+  escreva resposta
+  entrada := leia_texto
+fim

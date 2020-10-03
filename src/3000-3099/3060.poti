@@ -1,0 +1,5 @@
+n, p = leia_inteiro
+parcela = n div p
+resto = n mod p
+para i de 1 ate resto faca escreva parcela + 1 fim
+para i de resto + 1 ate p faca escreva parcela fim

@@ -1,0 +1,15 @@
+var entrada := leia_textos(" ")
+var turistas, jipes := 0
+enquanto entrada[1] <> "ABEND" faca
+  j, t = entrada[1], entrada[2].inteiro
+  se j == "SALIDA" entao
+    jipes := jipes + 1
+    turistas := turistas + t
+  senao
+    jipes := jipes - 1
+    turistas := turistas - t
+  fim
+  entrada := leia_textos(" ")
+fim
+escreva turistas
+escreva jipes

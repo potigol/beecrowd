@@ -1,0 +1,6 @@
+a = leia_inteiros(" ")
+n, m = a[1], a[2]
+
+s = leia_textos(m)
+x = n + s.selecione(_ == "fechou").tamanho - s.selecione(_ == "clicou").tamanho
+escreva x

@@ -1,0 +1,8 @@
+n = leia_inteiro
+escolha n
+  caso 0            => escreva "E"
+  caso x se x <= 35 => escreva "D"
+  caso x se x <= 60 => escreva "C"
+  caso x se x <= 85 => escreva "B"
+  caso _            => escreva "A"
+fim

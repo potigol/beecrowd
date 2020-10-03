@@ -1,0 +1,10 @@
+leia_inteiro
+pesos = leia_inteiros(" ")
+dif = pesos.zip(0 :: pesos)
+           .mapeie(a => a.primeiro - a.segundo)
+           .injete(verdadeiro)((b, v) => b e v <= 8)
+se dif entao
+  escreva "S"
+senao
+  escreva "N"
+fim

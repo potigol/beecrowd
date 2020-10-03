@@ -1,0 +1,8 @@
+var entrada = leia_texto
+enquanto entrada <> None.orNull faca
+  a = entrada.divida(" ").mapeie(_.inteiro)
+  x1, y1, x2, y2, v, r1, r2 = a[1], a[2], a[3], a[4], a[5], a[6], a[7]
+  distancia = ((x2 - x1) ^ 2 + (y2 - y1) ^ 2) ^ 0.5 + 1.5 * v
+  escreva se distancia > r1 + r2 entao "N" senao "Y" fim
+  entrada := leia_texto
+fim

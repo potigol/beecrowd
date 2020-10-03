@@ -1,0 +1,21 @@
+elementos(f: Texto) = f.divida_quando((a, b) => b >= 'A' e b <= 'Z')
+
+perigoso(formula, experiencia: Lista[Texto]) = formula ==
+  experiencia.descarte_enquanto(_ <> formula.cabeca).pegue(formula.tamanho)
+
+n = leia_inteiro
+para i de 1 ate n faca
+  t = leia_inteiro
+  formulas = leia_textos(t).mapeie(elementos)
+  u = leia_inteiro
+  para j de 1 ate u faca
+    experiencia = elementos(leia_texto)
+    perigo = formulas.mapeie(f => perigoso(f, experiencia)).injete(falso)(_ ou _)
+    se perigo entao
+      escreva "Abortar"
+    senao
+      escreva "Prossiga"
+    fim
+  fim
+  se i < n entao escreva "" fim
+fim

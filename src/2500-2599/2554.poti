@@ -1,0 +1,18 @@
+var a := leia_texto
+enquanto a <> None.orNull faca
+  d = a.divida(" ")[2].inteiro
+  var i := 0
+  var resp := "Pizza antes de FdI"
+  enquanto i < d faca
+    l = leia_texto.divida(" ")
+    pizza = l.cauda.injete(verdadeiro)((x, y) => x e y == "1")
+    se pizza e resp == "Pizza antes de FdI" entao
+      resp := l[1]
+    fim
+    i := i + 1
+  fim
+  se i < 100 entao
+    escreva resp
+  fim
+  a := leia_texto
+fim

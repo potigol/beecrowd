@@ -1,0 +1,25 @@
+var t := 0
+var n1, n2 := leia_texto
+enquanto n1 <> None.orNull faça
+  var cont, pos := 0
+  para i de 0 até n2.tamanho - n1.tamanho faça
+    var sub := verdadeiro
+    para j de 1 até n1.tamanho faça
+      sub := sub e n1[j] == n2[i+j]
+    fim
+    se sub então
+      cont := cont + 1
+      pos := i + 1
+    fim
+  fim
+  t := t + 1
+  escreva "Caso #{t}:"
+  se cont > 0 então
+    escreva "Qtd.Subsequencias: {cont}"
+    escreva "Pos: {pos}"
+  senão
+    escreva "Nao existe subsequencia"
+  fim
+  escreva ""
+  n1, n2 := leia_texto
+fim

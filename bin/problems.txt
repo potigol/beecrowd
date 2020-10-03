@@ -1,3 +1,4 @@
+1000	Hello World!	Iniciante
 1001	Extremamente Básico	Iniciante
 1002	Área do Círculo	Iniciante
 1003	Soma Simples	Iniciante
@@ -20,6 +21,7 @@
 1020	Idade em Dias	Iniciante
 1021	Notas e Moedas	Iniciante
 1022	TDA Racional	Estruturas e Bibliotecas
+1023	Estiagem	Estruturas e Bibliotecas
 1024	Criptografia	Strings
 1025	Onde está o Mármore?	Estruturas e Bibliotecas
 1026	Carrega ou não Carrega?	Ad-Hoc
@@ -134,7 +136,7 @@
 1135	Colônia de Formigas	Grafos
 1136	Bingo!	Ad-Hoc
 1137	Pontos Cocirculares	Geometria Computacional
-1138	Contagem de Dígitos	Ad-Hoc
+1138	Contagem de Dígitos	Matemática
 1139	Necessidades Elétricas	Ad-Hoc
 1140	Flores Florescem da França	Ad-Hoc
 1141	Cultivando Strings	Strings
@@ -245,7 +247,6 @@
 1246	Estacionamento	Ad-Hoc
 1247	Guarda Costeira	Matemática
 1248	Plano de Dieta	Strings
-1249	Rot13	Strings
 1250	KiloMan	Ad-Hoc
 1251	Diga-me a Frequência	Estruturas e Bibliotecas
 1252	Sort! Sort!! e Sort!!!	Estruturas e Bibliotecas
@@ -288,7 +289,6 @@
 1289	Qual é a Probabilidade?	Matemática
 1290	Caixas Muito Especiais	Ad-Hoc
 1291	Será Isso Integração?	Geometria Computacional
-1292	Problema com um Pentágono	Geometria Computacional
 1293	Romeu e Julieta!	Geometria Computacional
 1294	A Maior e Menor Caixa	Geometria Computacional
 1295	Problema dos Pares Mais Próximos	Geometria Computacional
@@ -312,7 +312,6 @@
 1313	Dicionário Portuñol	Strings
 1314	Labirintos de Cerca Viva	Grafos
 1315	Não tão Convexo	Geometria Computacional
-1316	Compra Livre de Impostos	Matemática
 1317	Eu Odeio SPAM, Mas Algumas Pessoas Amam	Grafos
 1318	Bilhetes Falsos	Ad-Hoc
 1319	Garota Hiperativa	Paradigmas
@@ -374,7 +373,7 @@
 1375	Painel de Posições	Ad-Hoc
 1376	Irmãos	Matemática
 1377	Recuperador de Arquivos	Strings
-1378	Triângulos Isósceles	Ad-Hoc
+1378	Triângulos Isósceles	Geometria Computacional
 1379	Problema com Mediana e Média	Ad-Hoc
 1380	Crescimento das Populações de Bacilos	Matemática
 1381	Equações Diofantinas	Matemática
@@ -441,7 +440,7 @@
 1442	Desvio de Rua	Grafos
 1443	Engarrafamento	Ad-Hoc
 1444	Corrida dos Marrecos	Matemática
-1445	Quem Vai à Festa?	Ad-Hoc
+1445	Quem Vai à Festa?	Grafos
 1446	Diagrama de Venn?	Geometria Computacional
 1447	Back to the Future	Grafos
 1448	Telefone Sem Fio	Strings
@@ -449,7 +448,6 @@
 1450	Os Joguinhos de Ramsés	Matemática
 1451	Teclado Quebrado	Estruturas e Bibliotecas
 1452	Gloud Computing	Estruturas e Bibliotecas
-1453	Palavras-Cruzadas Sem Palavras	Ad-Hoc
 1454	O País das Bicicletas	Grafos
 1455	Final do ICPC	Geometria Computacional
 1456	Brainfuck	Strings
@@ -579,9 +577,9 @@
 1580	Quid Est Veritas? Est Vir Qui Adest!	Matemática
 1581	Conversa Internacional	Strings
 1582	O Teorema de Pitágoras	Matemática
-1583	Contaminação	Ad-Hoc
+1583	Contaminação	Grafos
 1584	Espertofone	Grafos
-1585	Fazendo Pandorgas	Ad-Hoc
+1585	Fazendo Pandorgas	Matemática
 1586	Cabo de Guerra	Strings
 1587	BIT Park	Estruturas e Bibliotecas
 1588	Ajude a Federação	Ad-Hoc
@@ -878,7 +876,7 @@
 1879	Bridge	Ad-Hoc
 1880	Renzo e a Decoração Capicuânica	Ad-Hoc
 1881	Competição de Robótica	Ad-Hoc
-1882	Passeios Aleatórios pela Tailândia	Ad-Hoc
+1882	Passeios Aleatórios pela Tailândia	Grafos
 1883	Fuga de Ayutthaya	Grafos
 1884	Lutando Contra os Rajasi	Ad-Hoc
 1885	Loteria Tailandesa	Ad-Hoc
@@ -901,8 +899,8 @@
 1902	Sociedade Brasileira Casamenteira	Grafos
 1903	Cadeia Alimentar	Grafos
 1904	Par ou Ímpar 2.0	Matemática
-1905	Polícia e Ladrão	Paradigmas
-1906	Senhas de Collatz	Ad-Hoc
+1905	Polícia e Ladrão	Grafos
+1906	Senhas de Collatz	Grafos
 1907	Coloração de Cenários de Jogos	Grafos
 1908	UFFS Multicampi	Grafos
 1909	Ajude Kiko	Matemática
@@ -917,7 +915,7 @@
 1918	Viagem para Acapulco	Ad-Hoc
 1919	Ajude Nhonho	Ad-Hoc
 1920	Fonte dos Desejos	Ad-Hoc
-1921	Guilherme e Suas Pipas	Iniciante
+1921	Guilherme e Suas Pipas	Matemática
 1922	Diego e o Jogo do Martelo	Paradigmas
 1923	Rerisson e o Churrasco	Grafos
 1924	Vitória e a Indecisão	Iniciante
@@ -928,7 +926,7 @@
 1929	Triângulo	Iniciante
 1930	Tomadas	Iniciante
 1931	Mania de Par	Grafos
-1932	Bolsa de Valores	Ad-Hoc
+1932	Bolsa de Valores	Paradigmas
 1933	Tri-du	Iniciante
 1934	Quebra-cabeça	Ad-Hoc
 1935	Espiral	Ad-Hoc
@@ -943,7 +941,7 @@
 1944	BRINDE FACE 2015	Estruturas e Bibliotecas
 1945	Simulador	Ad-Hoc
 1946	Pirâmide da Sorte	Matemática
-1947	Rota do Taxista	Ad-Hoc
+1947	Rota do Taxista	Grafos
 1948	Compilador	Grafos
 1949	Registrador de Deslocamento	Matemática
 1950	Spöhndriger	Grafos
@@ -971,13 +969,13 @@
 1972	Nêmesis	Grafos
 1973	Jornada nas Estrelas	Iniciante
 1974	Além da Escuridão	Grafos
-1975	Pérolas	Ad-Hoc
+1975	Pérolas	Estruturas e Bibliotecas
 1976	Matrizes	Paradigmas
 1977	Não Posso me Atrasar	Grafos
 1978	Câmeras	Paradigmas
 1979	Salas Separadas	Grafos
 1980	Embaralhando	Ad-Hoc
-1981	Embaralhando de Novo	Ad-Hoc
+1981	Embaralhando de Novo	Matemática
 1982	Novos Computadores	Geometria Computacional
 1983	O Escolhido	Iniciante
 1984	O Enigma do Pronalândia	Iniciante
@@ -1036,7 +1034,7 @@
 2037	A Lista	Ad-Hoc
 2038	Gerando DNA Alienígena	Grafos
 2039	Programadores Devem Aprender Teoria da Computação	Grafos
-2040	O Campeão	Ad-Hoc
+2040	O Campeão	Estruturas e Bibliotecas
 2041	Sequência de Gödelito	Ad-Hoc
 2042	Fofão da Pérsia	Paradigmas
 2043	Montanha Alta	Geometria Computacional
@@ -1189,7 +1187,7 @@
 2190	Rede Ótica	Grafos
 2191	Saldo de Gols	Ad-Hoc
 2192	To Add or to Multiply	Ad-Hoc
-2193	Affine Mess	Ad-Hoc
+2193	Affine Mess	Geometria Computacional
 2194	Ancient Messages	Ad-Hoc
 2195	Chips Challenge	Ad-Hoc
 2196	Coffee Central	Ad-Hoc
@@ -1216,7 +1214,7 @@
 2219	Passando Pelos PokeStops	Ad-Hoc
 2220	Ajudando Gust-Avô	Paradigmas
 2221	Batalha de Pomekons	Iniciante
-2222	Brincando com Conjuntos	Iniciante
+2222	Brincando com Conjuntos	Matemática
 2223	Inventário de Pomekon	Estruturas e Bibliotecas
 2224	Torneio de Pomekon	Paradigmas
 2225	Penalização	Grafos
@@ -1240,7 +1238,7 @@
 2243	Isósceles	Paradigmas
 2244	Jogos Olímpicos	Ad-Hoc
 2245	Kit de Encolhimento de Polígonos	Geometria Computacional
-2246	Ladrilhos	Ad-Hoc
+2246	Ladrilhos	Grafos
 2247	Cofrinhos da Vó Vitória	Ad-Hoc
 2248	Estágio	Ad-Hoc
 2249	Número de Erdos	Ad-Hoc
@@ -1285,7 +1283,7 @@
 2296	Trilhas	Ad-Hoc
 2297	Bafo	Ad-Hoc
 2298	Mini-Poker	Ad-Hoc
-2299	Pedido de Desculpas	Ad-Hoc
+2299	Pedido de Desculpas	Paradigmas
 2300	Transmissão de Energia	Grafos
 2301	Vivo ou Morto	Ad-Hoc
 2302	Conversa não tão Secreta	Ad-Hoc
@@ -1324,13 +1322,13 @@
 2335	O Desafio de Arquibaldo	Matemática
 2336	ABC	Strings
 2337	Pro Habilidade	Matemática
-2338	Morse	Iniciante
+2338	Morse	Estruturas e Bibliotecas
 2339	Aviões de Papel	Ad-Hoc
 2340	Feira de Bactérias	Ad-Hoc
 2341	Número de Envelopes	Ad-Hoc
 2342	Overflow	Ad-Hoc
 2343	Caçadores de Mitos	Ad-Hoc
-2344	Notas da Prova	Ad-Hoc
+2344	Notas da Prova	Iniciante
 2345	Assigning Teams	Ad-Hoc
 2346	Back to the Future	Ad-Hoc
 2347	Counting Self-Rotating Subsets	Ad-Hoc
@@ -1356,9 +1354,9 @@
 2367	Competição de Chocolate	Ad-Hoc
 2368	Simulador	Ad-Hoc
 2369	Conta de Água	Ad-Hoc
-2370	Times	Ad-Hoc
+2370	Times	Estruturas e Bibliotecas
 2371	Batalha Naval	Ad-Hoc
-2372	Reunião	Ad-Hoc
+2372	Reunião	Grafos
 2373	Garçom	Ad-Hoc
 2374	Pneu	Ad-Hoc
 2375	Sedex	Ad-Hoc
@@ -1366,7 +1364,7 @@
 2377	Pedágio	Ad-Hoc
 2378	Elevador	Ad-Hoc
 2379	Dança Indígena	Ad-Hoc
-2380	Fusões	Ad-Hoc
+2380	Fusões	Estruturas e Bibliotecas
 2381	Lista de Chamada	Ad-Hoc
 2382	Sedex Marciano	Ad-Hoc
 2383	Altas Aventuras	Ad-Hoc
@@ -1398,7 +1396,7 @@
 2409	Colchão	Ad-Hoc
 2410	Frequencia na Aula	Ad-Hoc
 2411	O Tabuleiro Esburacado	Ad-Hoc
-2412	Tarzan	Ad-Hoc
+2412	Tarzan	Grafos
 2413	Busca na Internet	Ad-Hoc
 2414	Desafio do Maior Número	Ad-Hoc
 2415	Consecutivos	Ad-Hoc
@@ -1412,9 +1410,9 @@
 2423	Receita de Bolo	Ad-Hoc
 2424	Tira-teima	Ad-Hoc
 2425	Banco	Ad-Hoc
-2426	Bomba	Ad-Hoc
+2426	Bomba	Grafos
 2427	Chocolate	Ad-Hoc
-2428	Capital	Ad-Hoc
+2428	Capital	Grafos
 2429	Rodovia	Grafos
 2430	Catálogo de Músicas	Ad-Hoc
 2431	Lençol	Ad-Hoc
@@ -1486,7 +1484,7 @@
 2497	Contando Ciclos	Matemática
 2498	Ajude Vânia	Paradigmas
 2499	Triângulo Interno	Matemática
-2500	William Xorando	Ad-Hoc
+2500	William Xorando	Matemática
 2501	Fatores Permitidos	Paradigmas
 2502	Decifrando a Carta Criptografada	Iniciante
 2503	Corrida de Regularidade	Estruturas e Bibliotecas
@@ -1525,7 +1523,7 @@
 2536	FHBZMIPS	Ad-Hoc
 2537	GigaDrive	Estruturas e Bibliotecas
 2538	Ginásio	Estruturas e Bibliotecas
-2539	High Five	Ad-Hoc
+2539	High Five	Estruturas e Bibliotecas
 2540	Impeachment do Líder	Iniciante
 2541	Ingrest	Geometria Computacional
 2542	Iu-Di-Oh!	Iniciante
@@ -1598,7 +1596,6 @@
 2609	Produtos por Categorias	SQL
 2610	Valor Médio dos Produtos	SQL
 2611	Filmes de Ação	SQL
-2612	Os Atores Silva	SQL
 2613	Filmes em Promoção	SQL
 2614	Locações de Setembro	SQL
 2615	Expandindo o Negocio	SQL
@@ -1608,7 +1605,7 @@
 2619	Super Luxo	SQL
 2620	Pedidos no Primeiro Semestre	SQL
 2621	Quantidades Entre 10 e 20	SQL
-2622	Pessoas jurídicas	SQL
+2622	Pessoas Jurídicas	SQL
 2623	Categorias com Vários Produtos	SQL
 2624	Quantidades de Cidades por Clientes	SQL
 2625	Máscara de CPF	SQL
@@ -1617,26 +1614,26 @@
 2628	Caça ao Tesouro	Ad-Hoc
 2629	Rodoido	Ad-Hoc
 2630	Escala de Cinza	Iniciante
-2631	Formando Duplas	Iniciante
+2631	Formando Duplas	Grafos
 2632	Magic and Sword	Iniciante
-2633	Churras no Yuri	Iniciante
-2634	Em Prol da Ciência	Iniciante
+2633	Churras no Yuri	Estruturas e Bibliotecas
+2634	Em Prol da Ciência	Ad-Hoc
 2635	Navegador Web	Iniciante
-2636	3-RSA	Iniciante
-2637	Casa do Batera	Iniciante
-2639	Cluedo	Iniciante
-2640	Missão Improvável	Iniciante
+2636	3-RSA	Matemática
+2637	Casa do Batera	Grafos
+2639	Cluedo	Ad-Hoc
+2640	Missão Improvável	Geometria Computacional
 2641	Dinheiro por Nada	Ad-Hoc
-2643	Posterizar	Iniciante
+2643	Posterizar	Ad-Hoc
 2644	Replicate Replicate Rfplicbte	Ad-Hoc
 2645	Scenery	Ad-Hoc
-2646	Secret Chamber at Mount Rushmore	Iniciante
-2648	Tarot Sham Boast	Iniciante
+2646	Secret Chamber at Mount Rushmore	Grafos
+2648	Tarot Sham Boast	Ad-Hoc
 2650	Construindo Muralhas	Ad-Hoc
 2651	Link Bolado	Strings
 2652	Quantas Árvores?	Grafos
 2653	Dijkstra	Iniciante
-2654	Godofor	Ad-Hoc
+2654	Godofor	Estruturas e Bibliotecas
 2655	Trilha Perigosa	Estruturas e Bibliotecas
 2656	Rhombus	Estruturas e Bibliotecas
 2657	Sensate	Grafos
@@ -1656,7 +1653,7 @@
 2671	Decodificando o Texto	Estruturas e Bibliotecas
 2672	Máscara de Rede	Ad-Hoc
 2673	Resistores Série e Paralelo	Ad-Hoc
-2674	Super Primos: Ativar!	Iniciante
+2674	Super Primos: Ativar!	Matemática
 2675	Rouba Monte	Ad-Hoc
 2676	Cidade no Centro	Grafos
 2677	Par ou Ímpar	Paradigmas
@@ -1666,31 +1663,31 @@
 2681	Macacos da Torre de Hanoi	Matemática
 2682	Detector de Falhas	Ad-Hoc
 2683	Espaço de Projeto	Grafos
-2684	Ajude o Professor Webscript!!	Iniciante
+2684	Ajude o Professor Webscript!!	Ad-Hoc
 2685	A Mudança	Iniciante
 2686	A Mudança Continua!!	Iniciante
-2687	Dominação Bacteriana	Iniciante
+2687	Dominação Bacteriana	Grafos
 2688	Escolhendo um Lugar	Grafos
-2689	Jogo do Mião	Iniciante
-2690	Nova Senha RA	Iniciante
+2689	Jogo do Mião	Ad-Hoc
+2690	Nova Senha RA	Strings
 2691	O Matemático	Strings
 2692	Teclado Zoeiro	Strings
-2693	Van	Ad-Hoc
+2693	Van	Estruturas e Bibliotecas
 2694	Problema com a Calculadora	Strings
-2695	Arrumando Lajotas	Iniciante
+2695	Arrumando Lajotas	Geometria Computacional
 2697	Sequencia Completa de Naebbirac	Strings
-2698	Dispositivo Assombrado	Iniciante
+2698	Dispositivo Assombrado	Estruturas e Bibliotecas
 2699	Enigma	Iniciante
-2700	Angariando Fundos	Iniciante
-2701	Portas da Incerteza	Iniciante
+2700	Angariando Fundos	Estruturas e Bibliotecas
+2701	Portas da Incerteza	Ad-Hoc
 2702	Escolha Difícil	Iniciante
-2703	Estradas Imperiais	Iniciante
-2704	Sapo Saltador	Iniciante
-2705	Mantenha Coberto	Iniciante
-2706	Linearville	Iniciante
+2703	Estradas Imperiais	Grafos
+2704	Sapo Saltador	Ad-Hoc
+2705	Mantenha Coberto	Ad-Hoc
+2706	Linearville	Grafos
 2708	Turistas no Parque Huacachina	Iniciante
 2709	As Moedas de Robbie	Iniciante
-2710	Jogo da Matriz	Iniciante
+2710	Jogo da Matriz	Ad-Hoc
 2711	Destravando o Celular	Matemática
 2712	Rodízio Veicular	Iniciante
 2713	O Mago é Implacável!	Paradigmas
@@ -1700,7 +1697,7 @@
 2717	Tempo do Duende	Iniciante
 2718	Luzes de Natal	Iniciante
 2719	Quantas Viagens Fará o Noel?	Ad-Hoc
-2720	Presentes Grandes	Iniciante
+2720	Presentes Grandes	Estruturas e Bibliotecas
 2721	Indecisão das Renas	Iniciante
 2722	Pegadinha de Evergreen	Strings
 2723	Equilibrando Presentes	Paradigmas
@@ -1731,7 +1728,6 @@
 2748	Saída 2	Iniciante
 2749	Saída 3	Iniciante
 2750	Saída 4	Iniciante
-2751	Saída 5	Iniciante
 2752	Saída 6	Iniciante
 2753	Saída 7	Iniciante
 2754	Saída 8	Iniciante
@@ -1752,19 +1748,19 @@
 2769	Linha de Montagem	Iniciante
 2770	Tamanho da Placa	Iniciante
 2771	Média	Ad-Hoc
-2772	Plantação	Iniciante
+2772	Plantação	Ad-Hoc
 2773	Menor Caminho	Geometria Computacional
 2774	Precisão do Sensor	Iniciante
 2775	Preparando a Produção	Iniciante
-2776	Promoções	Iniciante
+2776	Promoções	Ad-Hoc
 2777	Subsets do Dabriel	Matemática
 2778	Matriz do Dabriel	Paradigmas
 2779	Álbum da Copa	Iniciante
 2780	Basquete de Robôs	Iniciante
-2781	Câmara de Compensação	Iniciante
+2781	Câmara de Compensação	Grafos
 2782	Escadinha	Iniciante
 2783	Figurinhas da Copa	Iniciante
-2784	Ilhas	Iniciante
+2784	Ilhas	Grafos
 2785	Pirâmide	Iniciante
 2786	Piso da Escola	Iniciante
 2787	Xadrez	Iniciante
@@ -1772,7 +1768,7 @@
 2789	Crise Hídrica	Ad-Hoc
 2790	Dados	Ad-Hoc
 2791	Feijão	Iniciante
-2792	Golnaldinho	Ad-Hoc
+2792	Golnaldinho	Estruturas e Bibliotecas
 2793	HM	Ad-Hoc
 2794	Montes Claros	Ad-Hoc
 2795	Palíndromo	Ad-Hoc
@@ -1784,7 +1780,7 @@
 2801	Cifra Affine	Matemática
 2802	Dividindo Círculos	Iniciante
 2803	Estados do Norte	Ad-Hoc
-2804	Ferrovias	Iniciante
+2804	Ferrovias	Grafos
 2805	Binarizando a Matriz	Estruturas e Bibliotecas
 2806	Ingredientes Típicos	Ad-Hoc
 2807	Iccanobif	Iniciante
@@ -1807,9 +1803,9 @@
 2824	Pudim	Strings
 2825	L de Atreus!?	Strings
 2826	Léxico	Iniciante
-2827	Contador de Tokens	Iniciante
-2828	Anagramas	Iniciante
-2829	Maiúsculas, Por Quê?	Iniciante
+2827	Contador de Tokens	Strings
+2828	Anagramas	Matemática
+2829	Maiúsculas, Por Quê?	Ad-Hoc
 2830	Copa	Ad-Hoc
 2831	Pesos	Ad-Hoc
 2832	Cápsulas	Ad-Hoc
@@ -1821,7 +1817,7 @@
 2838	As Jóias do Infinito	Grafos
 2839	As Meias de Rangel	Matemática
 2840	Balão++	Geometria Computacional
-2841	Dabriel e Sua Festa	Iniciante
+2841	Dabriel e Sua Festa	Paradigmas
 2842	Dabriel e Suas Strings	Paradigmas
 2843	Escrita Rápida, a Competição	Ad-Hoc
 2844	Escrita Rápida, o Duelo	Ad-Hoc
@@ -1835,7 +1831,7 @@
 2852	Troca de Mensagens	Iniciante
 2853	Invenções de Bibika	Ad-Hoc
 2854	Árvore Genealógica	Grafos
-2855	Números de Sorte	Iniciante
+2855	Números de Sorte	Estruturas e Bibliotecas
 2856	Viagem do Pão de Queijo	Paradigmas
 2857	Fluxo nos Vagões	Estruturas e Bibliotecas
 2858	Tabuleiro Infinito	Ad-Hoc
@@ -1849,7 +1845,7 @@
 2866	Criptotexto	Strings
 2867	Dígitos	Iniciante
 2868	Errrou!	Ad-Hoc
-2869	Falando em Divisor...	Iniciante
+2869	Falando em Divisor...	Matemática
 2870	Jogo do Mapa	Grafos
 2871	Colheita de Café	Ad-Hoc
 2872	Protocolo TCP/IP	Estruturas e Bibliotecas
@@ -1883,10 +1879,10 @@
 2900	Jogo de Varetas	Ad-Hoc
 2901	Vôlei Marciano	Ad-Hoc
 2902	Rouba Monte	Ad-Hoc
-2903	A Symmetrical Pizza	Ad-Hoc
+2903	A Symmetrical Pizza	Matemática
 2904	Building a Field	Ad-Hoc
 2905	Cheap Trips	Ad-Hoc
-2906	Database of Clients	Ad-Hoc
+2906	Database of Clients	Strings
 2907	Escape, Polygon!	Ad-Hoc
 2908	Fantastic Beasts	Ad-Hoc
 2909	Gathering Red-Black Fruits	Ad-Hoc
@@ -1916,12 +1912,12 @@
 2933	Passeio de Trenó pela Terra	Grafos
 2934	Noel e Suas Renas	Paradigmas
 2935	DNA Élfico	Ad-Hoc
-2936	Quanta Mandioca?	Ad-Hoc
-2937	Cobra Norato	Ad-Hoc
+2936	Quanta Mandioca?	Iniciante
+2937	Cobra Norato	Matemática
 2938	Jaçanã	Ad-Hoc
-2939	Casais	Ad-Hoc
+2939	Casais	Matemática
 2940	Máquina do Tempo Quebrada	Ad-Hoc
-2941	Fibra Ótica	Ad-Hoc
+2941	Fibra Ótica	Grafos
 2942	Mistura de Bits	Ad-Hoc
 2943	Smider Pan	Ad-Hoc
 2944	Emergência em Manaus	Ad-Hoc
@@ -1932,7 +1928,7 @@
 2949	A Sociedade do Anel	Iniciante
 2950	As Duas Torres	Iniciante
 2951	O Retorno do Rei	Iniciante
-2952	A Vida Sustentável	Iniciante
+2952	A Vida Sustentável	Estruturas e Bibliotecas
 2953	Mais um Joguinho	Matemática
 2954	O Jogo	Strings
 2955	Truuuuuco!	Matemática
@@ -1940,17 +1936,186 @@
 2957	Sir Vô	Ad-Hoc
 2958	O Rolê Bad Vibes	Estruturas e Bibliotecas
 2959	Credo com ParaTudo!	Grafos
-2960	Era Uma Vez…	Strings
 2961	Ô, Que Tanto de Filme!	Estruturas e Bibliotecas
 2962	Arte Valiosa	Grafos
 2963	Bobo da Corte	Iniciante
 2964	Cruzamento Perigoso	Ad-Hoc
-2965	Delaçao Premiada	Ad-Hoc
+2965	Delação Premiada	Grafos
 2966	Exibição de Peixes	Ad-Hoc
-2967	Florestas em Risco	Ad-Hoc
+2967	Florestas em Risco	Paradigmas
 2968	Hora da Corrida	Iniciante
 2969	Interplanetário	Grafos
-2970	Keep Calm e Venda Balões	Ad-Hoc
+2970	Keep Calm e Venda Balões	Paradigmas
 2971	Jogo de Baralho	Ad-Hoc
 2972	Lançando Moedas	Ad-Hoc
 2973	Maratona Brasileira de Comedores de Pipoca	Paradigmas
+2974	Fechadura	Strings
+2975	Anel	Strings
+2976	Triângulos	Paradigmas
+2977	Romeu e Julieta	Grafos
+2978	Cartão	Matemática
+2979	Torre	Ad-Hoc
+2980	Jogo da Árvore	Grafos
+2981	Vamos Fechar	Matemática
+2982	A Greve para ou Continua?	Iniciante
+2983	Nem Tudo é Greve	Matemática
+2984	Assuntos Pendentes	Estruturas e Bibliotecas
+2985	Tobias Contra o Relógio	Ad-Hoc
+2986	Nem Tudo é Greve Versão Hard	Matemática
+2987	Balão de Honra	Iniciante
+2988	Campeonato Cearense	SQL
+2989	Departamentos e Divisões	SQL
+2990	CPF Dos Empregados	SQL
+2991	Estatísticas dos Departamentos	SQL
+2992	Divisões Com Maiores Médias Salariais	SQL
+2993	Mais Frequente	SQL
+2994	Quanto Ganha um Médico?	SQL
+2995	A Mensagem do Sensor	SQL
+2996	Entrega de Pacotes	SQL
+2997	Pagamento dos Empregados	SQL
+2998	The Payback	SQL
+2999	Maior Sálario da Divisão	SQL
+3001	Update sem Where	SQL
+3002	Salve a Lilly!	Matemática
+3003	O Grupinho	Grafos
+3004	Envelopes	Matemática
+3005	Pilhas de Paralelepípedos	Ad-Hoc
+3006	Passeio em Copacabana	Ad-Hoc
+3007	Lucas e Frobenius	Matemática
+3008	Numeração com Fósforos	Ad-Hoc
+3009	Dominós	Ad-Hoc
+3010	Binários Ambíguos	Ad-Hoc
+3011	Quebra-Cabeça Algébrico	Ad-Hoc
+3012	Algorithm Teaching	Ad-Hoc
+3013	Build the Perfect House	Ad-Hoc
+3014	Cut Inequality Down	Ad-Hoc
+3015	Dazzling Stars	Ad-Hoc
+3016	Eggfruit Cake	Ad-Hoc
+3017	Fabricating Sculptures	Ad-Hoc
+3018	Gluing Pictures	Ad-Hoc
+3019	Hold or Continue?	Ad-Hoc
+3020	Improve SPAM	Ad-Hoc
+3021	Jumping Grasshopper	Ad-Hoc
+3022	Know your Aliens	Ad-Hoc
+3023	Leverage MDT	Ad-Hoc
+3024	Mountain Ranges	Ad-Hoc
+3025	Coletor	Ad-Hoc
+3026	Número Inteiro Periódico	Matemática
+3027	Plano de Treino	Grafos
+3028	Bubble Reactor	Grafos
+3029	Função Composição	Matemática
+3030	Transformadores de Salto	Ad-Hoc
+3031	Xor Spanning Tree	Grafos
+3032	Tuplas do Produto	Ad-Hoc
+3033	Ajude Maria	Ad-Hoc
+3034	O Caso Douglas	Ad-Hoc
+3035	Fabrica de Peças	Ad-Hoc
+3036	Cor da Camisa	Matemática
+3037	Jogando Dardos Por Distância	Iniciante
+3038	Carta de Natal Criptografada	Strings
+3039	Brinquedos do Papai Noel	Iniciante
+3040	A Árvore de Natal	Iniciante
+3041	Distribuição de Artigos	Ad-Hoc
+3042	Desviando de Árvores de Natal	Iniciante
+3043	Festa Junina	Grafos
+3044	Manutenção	Grafos
+3045	Parque Jurássico	Estruturas e Bibliotecas
+3046	Dominó	Iniciante
+3047	A idade de Dona Mônica	Iniciante
+3048	Sequência Secreta	Ad-Hoc
+3049	Nota Cortada	Matemática
+3050	Distância Entre Amigos	Ad-Hoc
+3051	Soma	Paradigmas
+3052	Chuva	Ad-Hoc
+3053	Jogo Dos Copos	Iniciante
+3054	Matriz Super-legal	Ad-Hoc
+3055	Nota Esquecida	Iniciante
+3056	Ponto do Meio	Ad-Hoc
+3057	Detetive	Ad-Hoc
+3058	Supermercado	Ad-Hoc
+3059	Pares de Números	Ad-Hoc
+3060	Parcelamento Sem Juros	Ad-Hoc
+3061	Manchas de Pele	Grafos
+3062	Coleção de Upas	Ad-Hoc
+3063	Linhas de Ônibus	Ad-Hoc
+3064	Elástico	Geometria Computacional
+3065	Calculando	Iniciante
+3066	Dengue	Grafos
+3067	Dominó	Grafos
+3068	Meteoros	Iniciante
+3069	Sorvete	Estruturas e Bibliotecas
+3070	Autoestradas HyperspaceTM	Grafos
+3071	Melhor Ranking	Ad-Hoc
+3072	Namoro	Grafos
+3073	Vetores	Paradigmas
+3074	Consultas em Uma Array	Ad-Hoc
+3075	Cassinos e Viagem	Grafos
+3076	Exercício de História	Iniciante
+3077	Distribuindo Pequis	Ad-Hoc
+3078	Só o Ouro	Matemática
+3079	Rua Iluminada	Matemática
+3080	Proteja os Dados	Strings
+3081	Órbita	Geometria Computacional
+3082	Matador De Onça Mutante	Grafos
+3083	Emreh, Liug E As Strings	Strings
+3084	Relógio Antigo	Iniciante
+3085	O Grande Dia	Ad-Hoc
+3086	O Cavaleiro Jedi Guilherme	Paradigmas
+3087	O Padawan Jorge	Ad-Hoc
+3088	Correção de Texto	Strings
+3089	Presentes de Natal	Iniciante
+3090	Campo de Batalha	Ad-Hoc
+3091	Resto 1.0	Iniciante
+3092	Truco da Galera 2.0	Ad-Hoc
+3093	Truco da Galera 1.0	Ad-Hoc
+3094	Truco da Galera 3.0	Ad-Hoc
+3095	Pudim dos Guerreiros	Paradigmas
+3096	Overflow	Matemática
+3097	Um Desafio Simples	Estruturas e Bibliotecas
+3098	Plíndromo	Paradigmas
+3099	O Problema do 7 x 1	Matemática
+3100	Os Dígitos da Sorte	Strings
+3101	Famílias Poligâmicas	Grafos
+3102	Kikoho	Matemática
+3103	Número da Sorte	Strings
+3104	Resto 2.0	Matemática
+3105	Dobrando Papel	Ad-Hoc
+3106	Competição de Códigos	Ad-Hoc
+3107	Pulo do Sapo	Paradigmas
+3108	Arremesse os BigOs!	Geometria Computacional
+3109	Trocando de Mesa	Ad-Hoc
+3110	Farcos e o Xorshift	Matemática
+3111	A Vitória de Jim	Ad-Hoc
+3112	Decodificação Ambígua	Ad-Hoc
+3113	Cadeado Insano	Ad-Hoc
+3114	Parkour	Paradigmas
+3115	Estradas	Grafos
+3116	Seguidores Impossíveis	Paradigmas
+3117	Atrasadinhos	Ad-Hoc
+3118	Bactérias, Suas Loucas!	Strings
+3119	As Aventuras do Calango Atômico	Grafos
+3120	Jogada de Marketing	Ad-Hoc
+3121	Acionista Por um Dia	Ad-Hoc
+3122	Festa de Final de Ano	Ad-Hoc
+3123	Pedras do Gênesis	Ad-Hoc
+3124	Minha Reforma, Minha Vida	Grafos
+3125	Princesa das Equações	Ad-Hoc
+3126	Lista de Treinamento	Ad-Hoc
+3127	Kampeonato de Feijão	Ad-Hoc
+3128	Regras do Cinema	Ad-Hoc
+3129	Figurinhas Repetidas	Ad-Hoc
+3130	Caixas Por Todo Lado	Ad-Hoc
+3131	Índice de Reputação	Ad-Hoc
+3132	DNA Alienígena	Ad-Hoc
+3133	Fila de Navios	Ad-Hoc
+3134	Balança Equilibrada	Ad-Hoc
+3135	Lista de Nomes	Ad-Hoc
+3136	Arquitetura de Pilha	Ad-Hoc
+3137	Páginas de um Livro	Ad-Hoc
+3138	Aniversário do Tobias	Matemática
+3139	Buscando Novos Seguidores	Estruturas e Bibliotecas
+3140	Copiando e Colando Código	Iniciante
+3141	Dúvida Etária	Strings
+3142	Excel Bugado	Iniciante
+3143	Fugindo do Celular	Strings
+3144	G de Grafo	Grafos

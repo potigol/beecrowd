@@ -1,0 +1,4 @@
+n = leia_inteiro
+nums = leia_inteiros(n).ordene
+escreva nums.selecione(a => a mod 2 == 0).junte("\n")
+escreva nums.selecione(a => a mod 2 <> 0).inverta.junte("\n")

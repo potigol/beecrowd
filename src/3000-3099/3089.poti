@@ -1,0 +1,14 @@
+var n := leia_inteiro
+enquanto n > 0 faca
+  x = leia_inteiros(" ")
+  a = x.ordene
+  var menor, maior := a[n] + a[n+1]
+  para i de 1 ate n faca
+    b = a[i] + a[2 * n - i + 1]
+    se b < menor entao menor := b
+    senaose b > maior entao maior := b
+    fim
+  fim
+  escreva "{maior} {menor}"
+  n := leia_inteiro
+fim

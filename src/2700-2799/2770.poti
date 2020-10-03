@@ -1,0 +1,16 @@
+var entrada := leia_texto
+enquanto entrada <> None.orNull faca
+  a = entrada.divida(" ").mapeie(_.inteiro)
+  b = a.pegue(2).ordene
+  x, y, m = b[1], b[2], a[3]
+  para i de 1 ate m faca
+    z = leia_inteiros(" ").ordene
+    xi, yi = z[1], z[2]
+    se xi <= x e yi <= y entao
+      escreva "Sim"
+    senão
+      escreva "Nao"
+    fim
+  fim
+  entrada := leia_texto
+fim

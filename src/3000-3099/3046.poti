@@ -1,0 +1,3 @@
+n = leia_inteiro
+r = (n + 1) * (n + 2) div 2
+escreva r

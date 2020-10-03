@@ -1,0 +1,10 @@
+n = leia_inteiro
+para i de 1 até n faça
+  a = leia_inteiros(" ")
+  x = a.pegue(3).ordene
+  y = a.descarte(3).ordene
+  resposta =
+    (se y[3] > x[2] e y[2] > x[1] então 1 senão 0 fim) +
+    (se x[3] > y[2] e x[2] > y[1] então 2 senão 0 fim)
+  escreva resposta
+fim

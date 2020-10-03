@@ -1,0 +1,4 @@
+s = leia_reais(" ")
+a, b = s[1], s[2]
+soma = (a + b) * (b - a + 1) / 2
+escreva soma formato "%.0f"

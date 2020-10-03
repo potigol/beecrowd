@@ -1,0 +1,13 @@
+var entrada := leia_texto
+enquanto entrada <> None.orNull faca
+  se entrada.tamanho > 11 entao
+    s = entrada.divida(" ").mapeie(BigInt(_))
+    a, b = s[1], s[2]
+    escreva (b - a).abs
+  senao
+    s = entrada.divida(" ").mapeie(_.inteiro)
+    a, b = s[1], s[2]
+    escreva (b - a).abs
+  fim
+  entrada := leia_texto
+fim

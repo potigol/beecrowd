@@ -1,0 +1,8 @@
+var joias := Lista(0, "")
+var joia := leia_texto
+enquanto joia <> None.orNull faca
+  joias := joia :: joias
+  joia := leia_texto
+fim
+tamanho = joias.ordene.divida_quando(_ <> _).tamanho
+escreva tamanho

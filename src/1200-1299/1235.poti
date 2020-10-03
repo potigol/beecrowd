@@ -1,0 +1,8 @@
+n = leia_inteiro
+para i de 1 ate n faca
+  linha = leia_texto
+  t = linha.tamanho div 2
+  s = linha.pegue(t)
+  r = linha.descarte(t)
+  escreva "{s.inverta}{r.inverta}"
+fim

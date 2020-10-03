@@ -1,0 +1,4 @@
+a = leia_inteiros(" ")
+n, k = a[1], a[2]
+nomes = leia_textos(n)
+escreva nomes.ordene[k]

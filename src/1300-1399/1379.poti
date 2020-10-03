@@ -1,0 +1,5 @@
+var a := leia_inteiros(" ")
+enquanto a <> [0, 0] faça
+  escreva 2 * a[1] - a[2]
+  a := leia_inteiros(" ")
+fim

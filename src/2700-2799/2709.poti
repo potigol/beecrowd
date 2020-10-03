@@ -1,0 +1,14 @@
+var m := leia_inteiro
+enquanto m > 1 faça
+  v = leia_inteiros(m)
+  n = leia_inteiro
+  soma = para i de 1 ate m passo n gere v[i] fim.injete(0)(_+_)
+  primo = soma > 1 e
+    (para i de 2 até raiz(soma+1).inteiro se soma mod i == 0 gere 1 fim.tamanho == 0)
+  se primo então
+    escreva "You\u0092re a coastal aircraft, Robbie, a large silver aircraft."
+  senão
+    escreva "Bad boy! I\u0092ll hit you."
+  fim
+  m := leia_inteiro
+fim

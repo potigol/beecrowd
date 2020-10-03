@@ -1,0 +1,6 @@
+var n := leia_inteiro
+enquanto n > 0 faca
+  seculo = (n + 99) div 100
+  escreva seculo
+  n := leia_inteiro
+fim

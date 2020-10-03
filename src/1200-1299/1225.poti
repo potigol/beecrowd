@@ -1,0 +1,13 @@
+var n := leia_inteiro
+enquanto n > 0 faca
+  notas = leia_inteiros(" ")
+  soma = notas.injete(0)(_ + _)
+  se soma mod n == 0 entao
+    media = soma div n
+    resposta = 1 + notas.descarte_enquanto(_ < media).mapeie(_ - media).injete(0)(_ + _)
+    escreva resposta
+  senao
+    escreva -1
+  fim
+  n := leia_inteiro
+fim
