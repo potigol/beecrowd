@@ -1,0 +1,39 @@
+var n := leia_inteiro
+
+enquanto n <> 0 faça
+    meio = (n / 2).inteiro + 1
+
+    para i de 1 até meio faça
+
+        para j de i até (n / 2).inteiro faça
+            imprima " "
+        fim
+
+        numeroImpar = 2 * i - 1
+        para j de 1 até numeroImpar faça
+            imprima "*"
+        fim
+
+        escreva ""
+    fim
+
+    var count := 1
+
+    enquanto count <= 2 faça
+
+        para j de count até (n / 2).inteiro faça
+            imprima " "
+        fim
+
+        numeroImpar = 2 * count - 1
+        para j de 1 até numeroImpar faça
+            imprima "*"
+        fim
+
+        escreva ""
+        count := count + 1
+    fim
+
+    n := leia_inteiro
+    escreva ""
+fim
