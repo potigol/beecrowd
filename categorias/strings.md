@@ -45,7 +45,6 @@
   - [ ]  [1737](https://www.urionlinejudge.com.br/judge/pt/problems/view/1737) - Etaoin Shrdlu
   - [ ]  [1768](https://www.urionlinejudge.com.br/judge/pt/problems/view/1768) - Árvore de Natal
   - [ ]  [1781](https://www.urionlinejudge.com.br/judge/pt/problems/view/1781) - Guga e a String
-  - [ ]  [1803](https://www.urionlinejudge.com.br/judge/pt/problems/view/1803) - Matring
   - [ ]  [1842](https://www.urionlinejudge.com.br/judge/pt/problems/view/1842) - A Ordem da Fênix
   - [ ]  [1846](https://www.urionlinejudge.com.br/judge/pt/problems/view/1846) - Numero Para Nome
   - [ ]  [1853](https://www.urionlinejudge.com.br/judge/pt/problems/view/1853) - O Jogo da Confiança de Daenerys
@@ -119,6 +118,7 @@
   - [x]  [1551](https://www.urionlinejudge.com.br/judge/pt/problems/view/1551) - [Frase Completa](https://github.com/potigol/URI-Potigol/blob/master/src/1500-1599/1551.poti)
   - [x]  [1581](https://www.urionlinejudge.com.br/judge/pt/problems/view/1581) - [Conversa Internacional](https://github.com/potigol/URI-Potigol/blob/master/src/1500-1599/1581.poti)
   - [x]  [1632](https://www.urionlinejudge.com.br/judge/pt/problems/view/1632) - [Variações](https://github.com/potigol/URI-Potigol/blob/master/src/1600-1699/1632.poti)
+  - [X]  [1803](https://www.urionlinejudge.com.br/judge/pt/problems/view/1803) - [Matring](https://github.com/potigol/URI-Potigol/blob/master/src/1800-1899/1803.poti)
   - [x]  [1871](https://www.urionlinejudge.com.br/judge/pt/problems/view/1871) - [Zero vale Zero](https://github.com/potigol/URI-Potigol/blob/master/src/1800-1899/1871.poti)
   - [x]  [1873](https://www.urionlinejudge.com.br/judge/pt/problems/view/1873) - [Pedra-papel-tesoura-lagarto-Spock](https://github.com/potigol/URI-Potigol/blob/master/src/1800-1899/1873.poti)
   - [x]  [2062](https://www.urionlinejudge.com.br/judge/pt/problems/view/2062) - [OBI URI](https://github.com/potigol/URI-Potigol/blob/master/src/2000-2099/2062.poti)

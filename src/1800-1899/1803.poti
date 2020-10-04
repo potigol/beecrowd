@@ -1,0 +1,27 @@
+entrada1 = leia_texto
+entrada2 = leia_texto
+entrada3 = leia_texto
+entrada4 = leia_texto
+
+f = (entrada1.cabeça.texto +
+     entrada2.cabeça.texto +
+     entrada3.cabeça.texto +
+     entrada4.cabeça.texto).inteiro
+
+l = (entrada1.último.texto +
+     entrada2.último.texto +
+     entrada3.último.texto +
+     entrada4.último.texto).inteiro
+
+var palavra := ""
+para i de 2 até (entrada1.tamanho - 1) faça
+    caractere = ((f *
+                    (entrada1[i].texto +
+                     entrada2[i].texto +
+                     entrada3[i].texto +
+                     entrada4[i].texto).inteiro + l) mod 257).caractere
+
+    palavra := palavra + caractere
+fim
+
+escreva palavra
