@@ -68,7 +68,7 @@
   - [ ]  [1765](https://www.urionlinejudge.com.br/judge/pt/problems/view/1765) - Trapézios de Natal *Ad-Hoc*
   - [ ]  [1766](https://www.urionlinejudge.com.br/judge/pt/problems/view/1766) - O Elfo das Trevas *Estruturas e Bibliotecas*
   - [ ]  [1767](https://www.urionlinejudge.com.br/judge/pt/problems/view/1767) - Saco do Papai Noel *Paradigmas*
-  - [X]  [1768](https://www.urionlinejudge.com.br/judge/pt/problems/view/1768) - [Árvore de Natal](https://github.com/potigol/URI-Potigol/blob/master/src/1700-1799/1768.poti) *Strings*
+  - [x]  [1768](https://www.urionlinejudge.com.br/judge/pt/problems/view/1768) - [Árvore de Natal](https://github.com/potigol/URI-Potigol/blob/master/src/1700-1799/1768.poti) *Strings*
   - [ ]  [1769](https://www.urionlinejudge.com.br/judge/pt/problems/view/1769) - CPF 1 *Ad-Hoc*
   - [ ]  [1770](https://www.urionlinejudge.com.br/judge/pt/problems/view/1770) - Shuffle *Ad-Hoc*
   - [ ]  [1771](https://www.urionlinejudge.com.br/judge/pt/problems/view/1771) - Cartelas de Bingo Aleatórias *Ad-Hoc*

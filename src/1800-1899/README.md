@@ -3,7 +3,7 @@
   - [ ]  [1800](https://www.urionlinejudge.com.br/judge/pt/problems/view/1800) - Onde Estão Minhas Chaves *Ad-Hoc*
   - [ ]  [1801](https://www.urionlinejudge.com.br/judge/pt/problems/view/1801) - Brincando com Números *Matemática*
   - [ ]  [1802](https://www.urionlinejudge.com.br/judge/pt/problems/view/1802) - Catálogo de Livros *Ad-Hoc*
-  - [ ]  [1803](https://www.urionlinejudge.com.br/judge/pt/problems/view/1803) - Matring *Strings*
+  - [x]  [1803](https://www.urionlinejudge.com.br/judge/pt/problems/view/1803) - [Matring](https://github.com/potigol/URI-Potigol/blob/master/src/1800-1899/1803.poti) *Strings*
   - [ ]  [1804](https://www.urionlinejudge.com.br/judge/pt/problems/view/1804) - Precisa-se de Matemáticos em Marte *Estruturas e Bibliotecas*
   - [x]  [1805](https://www.urionlinejudge.com.br/judge/pt/problems/view/1805) - [Soma Natural](https://github.com/potigol/URI-Potigol/blob/master/src/1800-1899/1805.poti) *Matemática*
   - [ ]  [1806](https://www.urionlinejudge.com.br/judge/pt/problems/view/1806) - Agente 004 *Grafos*
