@@ -1,0 +1,13 @@
+var n := leia_inteiro
+
+enquanto n <> 0 faça
+  para linha de 1 até n faça
+    escreva (para c de linha até 1 passo -1 gere
+      c formato "%3d"
+    fim + para c de 2 até n - linha + 1 gere
+      c formato "%3d"
+    fim).junte(" ")
+  fim
+  escreva ""
+  n := leia_inteiro
+fim
