@@ -48,7 +48,6 @@
   - [ ]  [1846](https://www.urionlinejudge.com.br/judge/pt/problems/view/1846) - Numero Para Nome
   - [ ]  [1853](https://www.urionlinejudge.com.br/judge/pt/problems/view/1853) - O Jogo da Confiança de Daenerys
   - [ ]  [1859](https://www.urionlinejudge.com.br/judge/pt/problems/view/1859) - Arqueologia Congelante
-  - [ ]  [1868](https://www.urionlinejudge.com.br/judge/pt/problems/view/1868) - Espiral Quadrada
   - [ ]  [1898](https://www.urionlinejudge.com.br/judge/pt/problems/view/1898) - Soma de Propina
   - [ ]  [1941](https://www.urionlinejudge.com.br/judge/pt/problems/view/1941) - Palíndromo
   - [ ]  [2000](https://www.urionlinejudge.com.br/judge/pt/problems/view/2000) - Adeildo da Odonto
@@ -119,6 +118,7 @@
   - [x]  [1632](https://www.urionlinejudge.com.br/judge/pt/problems/view/1632) - [Variações](https://github.com/potigol/URI-Potigol/blob/master/src/1600-1699/1632.poti)
   - [x]  [1768](https://www.urionlinejudge.com.br/judge/pt/problems/view/1768) - [Árvore de Natal](https://github.com/potigol/URI-Potigol/blob/master/src/1700-1799/1768.poti)
   - [x]  [1803](https://www.urionlinejudge.com.br/judge/pt/problems/view/1803) - [Matring](https://github.com/potigol/URI-Potigol/blob/master/src/1800-1899/1803.poti)
+  - [x]  [1868](https://www.urionlinejudge.com.br/judge/pt/problems/view/1868) - [Espiral Quadrada](https://github.com/potigol/URI-Potigol/blob/master/src/1800-1899/1868.poti)
   - [x]  [1871](https://www.urionlinejudge.com.br/judge/pt/problems/view/1871) - [Zero vale Zero](https://github.com/potigol/URI-Potigol/blob/master/src/1800-1899/1871.poti)
   - [x]  [1873](https://www.urionlinejudge.com.br/judge/pt/problems/view/1873) - [Pedra-papel-tesoura-lagarto-Spock](https://github.com/potigol/URI-Potigol/blob/master/src/1800-1899/1873.poti)
   - [x]  [2062](https://www.urionlinejudge.com.br/judge/pt/problems/view/2062) - [OBI URI](https://github.com/potigol/URI-Potigol/blob/master/src/2000-2099/2062.poti)
