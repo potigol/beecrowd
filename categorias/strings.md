@@ -43,7 +43,6 @@
   - [ ]  [1726](https://www.urionlinejudge.com.br/judge/pt/problems/view/1726) - Amigos
   - [ ]  [1737](https://www.urionlinejudge.com.br/judge/pt/problems/view/1737) - Etaoin Shrdlu
   - [ ]  [1781](https://www.urionlinejudge.com.br/judge/pt/problems/view/1781) - Guga e a String
-  - [ ]  [1803](https://www.urionlinejudge.com.br/judge/pt/problems/view/1803) - Matring
   - [ ]  [1842](https://www.urionlinejudge.com.br/judge/pt/problems/view/1842) - A Ordem da Fênix
   - [ ]  [1846](https://www.urionlinejudge.com.br/judge/pt/problems/view/1846) - Numero Para Nome
   - [ ]  [1853](https://www.urionlinejudge.com.br/judge/pt/problems/view/1853) - O Jogo da Confiança de Daenerys
