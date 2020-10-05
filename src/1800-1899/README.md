@@ -68,7 +68,7 @@
   - [x]  [1865](https://www.urionlinejudge.com.br/judge/pt/problems/view/1865) - [Mjölnir](https://github.com/potigol/URI-Potigol/blob/master/src/1800-1899/1865.poti) *Iniciante*
   - [x]  [1866](https://www.urionlinejudge.com.br/judge/pt/problems/view/1866) - [Conta](https://github.com/potigol/URI-Potigol/blob/master/src/1800-1899/1866.poti) *Iniciante*
   - [x]  [1867](https://www.urionlinejudge.com.br/judge/pt/problems/view/1867) - [Maior Número de Um Algarismo](https://github.com/potigol/URI-Potigol/blob/master/src/1800-1899/1867.poti) *Ad-Hoc*
-  - [ ]  [1868](https://www.urionlinejudge.com.br/judge/pt/problems/view/1868) - Espiral Quadrada *Strings*
+  - [x]  [1868](https://www.urionlinejudge.com.br/judge/pt/problems/view/1868) - [Espiral Quadrada](https://github.com/potigol/URI-Potigol/blob/master/src/1800-1899/1868.poti) *Strings*
   - [ ]  [1869](https://www.urionlinejudge.com.br/judge/pt/problems/view/1869) - Base 32 *Matemática*
   - [ ]  [1870](https://www.urionlinejudge.com.br/judge/pt/problems/view/1870) - Ventiladores e Balões *Ad-Hoc*
   - [x]  [1871](https://www.urionlinejudge.com.br/judge/pt/problems/view/1871) - [Zero vale Zero](https://github.com/potigol/URI-Potigol/blob/master/src/1800-1899/1871.poti) *Strings*
