@@ -1,4 +1,4 @@
-# Matemática (30 / 245)
+# Matemática (31 / 245)
 
 ## Problemas não resolvidos
   - [ ]  [1093](https://www.urionlinejudge.com.br/judge/pt/problems/view/1093) - Vampiros
@@ -67,7 +67,6 @@
   - [ ]  [1572](https://www.urionlinejudge.com.br/judge/pt/problems/view/1572) - O Torneio Surreal
   - [ ]  [1577](https://www.urionlinejudge.com.br/judge/pt/problems/view/1577) - Polígonos Regulares Construtíveis
   - [ ]  [1580](https://www.urionlinejudge.com.br/judge/pt/problems/view/1580) - Quid Est Veritas? Est Vir Qui Adest!
-  - [ ]  [1582](https://www.urionlinejudge.com.br/judge/pt/problems/view/1582) - O Teorema de Pitágoras
   - [ ]  [1585](https://www.urionlinejudge.com.br/judge/pt/problems/view/1585) - Fazendo Pandorgas
   - [ ]  [1620](https://www.urionlinejudge.com.br/judge/pt/problems/view/1620) - Triangulação de Delaunay
   - [ ]  [1623](https://www.urionlinejudge.com.br/judge/pt/problems/view/1623) - Linguagem
@@ -230,6 +229,7 @@
   - [x]  [1429](https://www.urionlinejudge.com.br/judge/pt/problems/view/1429) - [Fatorial de Novo!](https://github.com/potigol/URI-Potigol/blob/master/src/1400-1499/1429.poti)
   - [x]  [1436](https://www.urionlinejudge.com.br/judge/pt/problems/view/1436) - [Jogo do Tijolo](https://github.com/potigol/URI-Potigol/blob/master/src/1400-1499/1436.poti)
   - [x]  [1555](https://www.urionlinejudge.com.br/judge/pt/problems/view/1555) - [Funções](https://github.com/potigol/URI-Potigol/blob/master/src/1500-1599/1555.poti)
+  - [x]  [1582](https://www.urionlinejudge.com.br/judge/pt/problems/view/1582) - [O Teorema de Pitágoras](https://github.com/potigol/URI-Potigol/blob/master/src/1500-1599/1582.poti)
   - [x]  [1760](https://www.urionlinejudge.com.br/judge/pt/problems/view/1760) - [Floco de Neve de Koch](https://github.com/potigol/URI-Potigol/blob/master/src/1700-1799/1760.poti)
   - [x]  [1761](https://www.urionlinejudge.com.br/judge/pt/problems/view/1761) - [Decoração Natalina](https://github.com/potigol/URI-Potigol/blob/master/src/1700-1799/1761.poti)
   - [x]  [1795](https://www.urionlinejudge.com.br/judge/pt/problems/view/1795) - [Triângulo Trinomial](https://github.com/potigol/URI-Potigol/blob/master/src/1700-1799/1795.poti)

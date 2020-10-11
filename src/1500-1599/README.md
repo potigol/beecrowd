@@ -82,7 +82,7 @@
   - [ ]  [1579](https://www.urionlinejudge.com.br/judge/pt/problems/view/1579) - Transporte de Painéis Solares *Paradigmas*
   - [ ]  [1580](https://www.urionlinejudge.com.br/judge/pt/problems/view/1580) - Quid Est Veritas? Est Vir Qui Adest! *Matemática*
   - [x]  [1581](https://www.urionlinejudge.com.br/judge/pt/problems/view/1581) - [Conversa Internacional](https://github.com/potigol/URI-Potigol/blob/master/src/1500-1599/1581.poti) *Strings*
-  - [ ]  [1582](https://www.urionlinejudge.com.br/judge/pt/problems/view/1582) - O Teorema de Pitágoras *Matemática*
+  - [x]  [1582](https://www.urionlinejudge.com.br/judge/pt/problems/view/1582) - [O Teorema de Pitágoras](https://github.com/potigol/URI-Potigol/blob/master/src/1500-1599/1582.poti) *Matemática*
   - [ ]  [1583](https://www.urionlinejudge.com.br/judge/pt/problems/view/1583) - Contaminação *Grafos*
   - [ ]  [1584](https://www.urionlinejudge.com.br/judge/pt/problems/view/1584) - Espertofone *Grafos*
   - [ ]  [1585](https://www.urionlinejudge.com.br/judge/pt/problems/view/1585) - Fazendo Pandorgas *Matemática*

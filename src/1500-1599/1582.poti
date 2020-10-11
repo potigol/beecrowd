@@ -1,0 +1,20 @@
+mdc(a, b: Inteiro): Inteiro =
+  se a > b       entao mdc(b, a - b)
+  senaose a == b entao a
+  senao                mdc(b, a)
+  fim
+
+var entrada := leia_texto
+enquanto entrada <> None.orNull faca
+  num = entrada.divida(" ").mapeie(_.inteiro).ordene
+  cateto1, cateto2, hipotenusa = num[1], num[2], num[3]
+
+  se cateto1 ^ 2 + cateto2 ^ 2 <> hipotenusa ^ 2 entao
+    escreva "tripla"
+  senaose mdc(mdc(num[1], num[2]), num[3]) == 1 entao
+    escreva "tripla pitagorica primitiva"
+  senao
+    escreva "tripla pitagorica"
+  fim
+  entrada := leia_texto
+fim

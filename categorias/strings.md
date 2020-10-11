@@ -1,4 +1,4 @@
-# Strings (37 / 135)
+# Strings (38 / 135)
 
 ## Problemas não resolvidos
   - [ ]  [1141](https://www.urionlinejudge.com.br/judge/pt/problems/view/1141) - Cultivando Strings
