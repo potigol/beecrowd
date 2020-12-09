@@ -1,0 +1,9 @@
+n = leia_inteiro
+var figurinhas = Lista.mutavel(300, falso)
+para i de 1 ate n faca
+  numero = leia_inteiro
+  figurinhas[numero] := verdadeiro
+fim
+diferentes = figurinhas.selecione(_ == verdadeiro).tamanho
+escreva diferentes
+escreva n - diferentes

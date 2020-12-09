@@ -1,4 +1,4 @@
-# Iniciante (285 / 292)
+# Iniciante (286 / 292)
 
 ## Problemas não resolvidos
   - [ ]  [2632](https://www.urionlinejudge.com.br/judge/pt/problems/view/2632) - Magic and Sword
@@ -7,7 +7,6 @@
   - [ ]  [2758](https://www.urionlinejudge.com.br/judge/pt/problems/view/2758) - Entrada e Saída de Números Reais
   - [ ]  [2769](https://www.urionlinejudge.com.br/judge/pt/problems/view/2769) - Linha de Montagem
   - [ ]  [2785](https://www.urionlinejudge.com.br/judge/pt/problems/view/2785) - Pirâmide
-  - [ ]  [3068](https://www.urionlinejudge.com.br/judge/pt/problems/view/3068) - Meteoros
 ## Problemas resolvidos
   - [x]  [1000](https://www.urionlinejudge.com.br/judge/pt/problems/view/1000) - [Hello World!](https://github.com/potigol/URI-Potigol/blob/master/src/1000-1099/1000.poti)
   - [x]  [1001](https://www.urionlinejudge.com.br/judge/pt/problems/view/1001) - [Extremamente Básico](https://github.com/potigol/URI-Potigol/blob/master/src/1000-1099/1001.poti)
@@ -288,6 +287,7 @@
   - [x]  [3053](https://www.urionlinejudge.com.br/judge/pt/problems/view/3053) - [Jogo Dos Copos](https://github.com/potigol/URI-Potigol/blob/master/src/3000-3099/3053.poti)
   - [x]  [3055](https://www.urionlinejudge.com.br/judge/pt/problems/view/3055) - [Nota Esquecida](https://github.com/potigol/URI-Potigol/blob/master/src/3000-3099/3055.poti)
   - [x]  [3065](https://www.urionlinejudge.com.br/judge/pt/problems/view/3065) - [Calculando](https://github.com/potigol/URI-Potigol/blob/master/src/3000-3099/3065.poti)
+  - [x]  [3068](https://www.urionlinejudge.com.br/judge/pt/problems/view/3068) - [Meteoros](https://github.com/potigol/URI-Potigol/blob/master/src/3000-3099/3068.poti)
   - [x]  [3076](https://www.urionlinejudge.com.br/judge/pt/problems/view/3076) - [Exercício de História](https://github.com/potigol/URI-Potigol/blob/master/src/3000-3099/3076.poti)
   - [x]  [3084](https://www.urionlinejudge.com.br/judge/pt/problems/view/3084) - [Relógio Antigo](https://github.com/potigol/URI-Potigol/blob/master/src/3000-3099/3084.poti)
   - [x]  [3089](https://www.urionlinejudge.com.br/judge/pt/problems/view/3089) - [Presentes de Natal](https://github.com/potigol/URI-Potigol/blob/master/src/3000-3099/3089.poti)

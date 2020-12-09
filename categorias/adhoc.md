@@ -1,4 +1,4 @@
-# Ad-Hoc (93 / 702)
+# Ad-Hoc (97 / 702)
 
 ## Problemas não resolvidos
   - [ ]  [1030](https://www.urionlinejudge.com.br/judge/pt/problems/view/1030) - A Lenda de Flavious Josephus
@@ -601,13 +601,9 @@
   - [ ]  [3123](https://www.urionlinejudge.com.br/judge/pt/problems/view/3123) - Pedras do Gênesis
   - [ ]  [3125](https://www.urionlinejudge.com.br/judge/pt/problems/view/3125) - Princesa das Equações
   - [ ]  [3127](https://www.urionlinejudge.com.br/judge/pt/problems/view/3127) - Kampeonato de Feijão
-  - [ ]  [3128](https://www.urionlinejudge.com.br/judge/pt/problems/view/3128) - Regras do Cinema
-  - [ ]  [3129](https://www.urionlinejudge.com.br/judge/pt/problems/view/3129) - Figurinhas Repetidas
-  - [ ]  [3130](https://www.urionlinejudge.com.br/judge/pt/problems/view/3130) - Caixas Por Todo Lado
   - [ ]  [3131](https://www.urionlinejudge.com.br/judge/pt/problems/view/3131) - Índice de Reputação
   - [ ]  [3132](https://www.urionlinejudge.com.br/judge/pt/problems/view/3132) - DNA Alienígena
   - [ ]  [3133](https://www.urionlinejudge.com.br/judge/pt/problems/view/3133) - Fila de Navios
-  - [ ]  [3135](https://www.urionlinejudge.com.br/judge/pt/problems/view/3135) - Lista de Nomes
   - [ ]  [3136](https://www.urionlinejudge.com.br/judge/pt/problems/view/3136) - Arquitetura de Pilha
   - [ ]  [3137](https://www.urionlinejudge.com.br/judge/pt/problems/view/3137) - Páginas de um Livro
 ## Problemas resolvidos
@@ -703,4 +699,8 @@
   - [x]  [3106](https://www.urionlinejudge.com.br/judge/pt/problems/view/3106) - [Competição de Códigos](https://github.com/potigol/URI-Potigol/blob/master/src/3100-3199/3106.poti)
   - [x]  [3109](https://www.urionlinejudge.com.br/judge/pt/problems/view/3109) - [Trocando de Mesa](https://github.com/potigol/URI-Potigol/blob/master/src/3100-3199/3109.poti)
   - [x]  [3126](https://www.urionlinejudge.com.br/judge/pt/problems/view/3126) - [Lista de Treinamento](https://github.com/potigol/URI-Potigol/blob/master/src/3100-3199/3126.poti)
+  - [x]  [3128](https://www.urionlinejudge.com.br/judge/pt/problems/view/3128) - [Regras do Cinema](https://github.com/potigol/URI-Potigol/blob/master/src/3100-3199/3128.poti)
+  - [x]  [3129](https://www.urionlinejudge.com.br/judge/pt/problems/view/3129) - [Figurinhas Repetidas](https://github.com/potigol/URI-Potigol/blob/master/src/3100-3199/3129.poti)
+  - [x]  [3130](https://www.urionlinejudge.com.br/judge/pt/problems/view/3130) - [Caixas Por Todo Lado](https://github.com/potigol/URI-Potigol/blob/master/src/3100-3199/3130.poti)
   - [x]  [3134](https://www.urionlinejudge.com.br/judge/pt/problems/view/3134) - [Balança Equilibrada](https://github.com/potigol/URI-Potigol/blob/master/src/3100-3199/3134.poti)
+  - [x]  [3135](https://www.urionlinejudge.com.br/judge/pt/problems/view/3135) - [Lista de Nomes](https://github.com/potigol/URI-Potigol/blob/master/src/3100-3199/3135.poti)

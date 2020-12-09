@@ -1,0 +1,5 @@
+comprimento, largura, alt = leia_inteiro
+altura = se alt < 5 entao alt senao 5 fim
+creditos = comprimento * largura * altura +
+           (comprimento div 2) * (largura div 2) * (altura div 2) * 2
+escreva "$" + creditos

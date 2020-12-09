@@ -1,0 +1,18 @@
+var linha := leia_inteiros(" ")
+var t := 0
+enquanto linha <> [0, 0, 0, 0] faca
+  t := t + 1
+  x1, y1, x2, y2 = linha[1], linha[2], linha[3], linha[4]
+  n = leia_inteiro
+  var cont := 0
+  para i de 1 ate n faca
+    a = leia_inteiros(" ")
+    x, y = a[1], a[2]
+    se x1 <= x e x <= x2 e y1 >= y e y >= y2 entao
+      cont := cont + 1
+    fim
+  fim
+  escreva "Teste {t}"
+  escreva cont
+  linha := leia_inteiros(" ")
+fim

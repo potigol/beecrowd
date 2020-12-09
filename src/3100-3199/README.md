@@ -28,14 +28,14 @@
   - [ ]  [3125](https://www.urionlinejudge.com.br/judge/pt/problems/view/3125) - Princesa das Equações *Ad-Hoc*
   - [x]  [3126](https://www.urionlinejudge.com.br/judge/pt/problems/view/3126) - [Lista de Treinamento](https://github.com/potigol/URI-Potigol/blob/master/src/3100-3199/3126.poti) *Ad-Hoc*
   - [ ]  [3127](https://www.urionlinejudge.com.br/judge/pt/problems/view/3127) - Kampeonato de Feijão *Ad-Hoc*
-  - [ ]  [3128](https://www.urionlinejudge.com.br/judge/pt/problems/view/3128) - Regras do Cinema *Ad-Hoc*
-  - [ ]  [3129](https://www.urionlinejudge.com.br/judge/pt/problems/view/3129) - Figurinhas Repetidas *Ad-Hoc*
-  - [ ]  [3130](https://www.urionlinejudge.com.br/judge/pt/problems/view/3130) - Caixas Por Todo Lado *Ad-Hoc*
+  - [x]  [3128](https://www.urionlinejudge.com.br/judge/pt/problems/view/3128) - [Regras do Cinema](https://github.com/potigol/URI-Potigol/blob/master/src/3100-3199/3128.poti) *Ad-Hoc*
+  - [x]  [3129](https://www.urionlinejudge.com.br/judge/pt/problems/view/3129) - [Figurinhas Repetidas](https://github.com/potigol/URI-Potigol/blob/master/src/3100-3199/3129.poti) *Ad-Hoc*
+  - [x]  [3130](https://www.urionlinejudge.com.br/judge/pt/problems/view/3130) - [Caixas Por Todo Lado](https://github.com/potigol/URI-Potigol/blob/master/src/3100-3199/3130.poti) *Ad-Hoc*
   - [ ]  [3131](https://www.urionlinejudge.com.br/judge/pt/problems/view/3131) - Índice de Reputação *Ad-Hoc*
   - [ ]  [3132](https://www.urionlinejudge.com.br/judge/pt/problems/view/3132) - DNA Alienígena *Ad-Hoc*
   - [ ]  [3133](https://www.urionlinejudge.com.br/judge/pt/problems/view/3133) - Fila de Navios *Ad-Hoc*
   - [x]  [3134](https://www.urionlinejudge.com.br/judge/pt/problems/view/3134) - [Balança Equilibrada](https://github.com/potigol/URI-Potigol/blob/master/src/3100-3199/3134.poti) *Ad-Hoc*
-  - [ ]  [3135](https://www.urionlinejudge.com.br/judge/pt/problems/view/3135) - Lista de Nomes *Ad-Hoc*
+  - [x]  [3135](https://www.urionlinejudge.com.br/judge/pt/problems/view/3135) - [Lista de Nomes](https://github.com/potigol/URI-Potigol/blob/master/src/3100-3199/3135.poti) *Ad-Hoc*
   - [ ]  [3136](https://www.urionlinejudge.com.br/judge/pt/problems/view/3136) - Arquitetura de Pilha *Ad-Hoc*
   - [ ]  [3137](https://www.urionlinejudge.com.br/judge/pt/problems/view/3137) - Páginas de um Livro *Ad-Hoc*
   - [ ]  [3138](https://www.urionlinejudge.com.br/judge/pt/problems/view/3138) - Aniversário do Tobias *Matemática*

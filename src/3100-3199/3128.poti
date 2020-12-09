@@ -1,0 +1,7 @@
+a, b = leia_inteiro
+yes  = a >= 6 e b >= 6 e (a >= 18 ou b >= 18 ou a >= 14 e b >= 14)
+se yes entao
+  escreva "YES"
+senao
+  escreva "NO"
+fim

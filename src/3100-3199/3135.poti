@@ -1,0 +1,13 @@
+n = leia_inteiro
+vazia = Lista(0, "")
+var nomes = Lista.mutavel(20, vazia)
+para i de 1 ate n faca
+  nome = leia_texto
+  t = nome.tamanho
+  nomes[t] := nome :: nomes[t]
+fim
+nomes := nomes.mapeie(_.inverta).selecione(_.tamanho > 0)
+enquanto nomes.tamanho > 0 faca
+  escreva (para m em nomes gere m.cabeca fim).junte(", ")
+  nomes := nomes.mapeie(_.cauda).selecione(_.tamanho > 0)
+fim
