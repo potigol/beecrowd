@@ -75,7 +75,7 @@
   - [x]  [2172](https://www.urionlinejudge.com.br/judge/pt/problems/view/2172) - [Evento](https://github.com/potigol/URI-Potigol/blob/master/src/2100-2199/2172.poti) *Iniciante*
   - [ ]  [2173](https://www.urionlinejudge.com.br/judge/pt/problems/view/2173) - Caixa Dois *Grafos*
   - [x]  [2174](https://www.urionlinejudge.com.br/judge/pt/problems/view/2174) - [Coleção de Pomekon](https://github.com/potigol/URI-Potigol/blob/master/src/2100-2199/2174.poti) *Strings*
-  - [ ]  [2175](https://www.urionlinejudge.com.br/judge/pt/problems/view/2175) - Qual o Mais Rápido? *Ad-Hoc*
+  - [x]  [2175](https://www.urionlinejudge.com.br/judge/pt/problems/view/2175) - [Qual o Mais Rápido?](https://github.com/potigol/URI-Potigol/blob/master/src/2100-2199/2175.poti) *Ad-Hoc*
   - [x]  [2176](https://www.urionlinejudge.com.br/judge/pt/problems/view/2176) - [Paridade](https://github.com/potigol/URI-Potigol/blob/master/src/2100-2199/2176.poti) *Iniciante*
   - [ ]  [2177](https://www.urionlinejudge.com.br/judge/pt/problems/view/2177) - Rio 2016 *Matemática*
   - [ ]  [2178](https://www.urionlinejudge.com.br/judge/pt/problems/view/2178) - Lagoa Azul *Ad-Hoc*

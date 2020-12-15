@@ -1,4 +1,4 @@
-# Ad-Hoc (97 / 702)
+# Ad-Hoc (98 / 702)
 
 ## Problemas não resolvidos
   - [ ]  [1030](https://www.urionlinejudge.com.br/judge/pt/problems/view/1030) - A Lenda de Flavious Josephus
@@ -239,7 +239,6 @@
   - [ ]  [2151](https://www.urionlinejudge.com.br/judge/pt/problems/view/2151) - Soco do Rulk
   - [ ]  [2156](https://www.urionlinejudge.com.br/judge/pt/problems/view/2156) - As Aventuras de Pak-man
   - [ ]  [2171](https://www.urionlinejudge.com.br/judge/pt/problems/view/2171) - Dividindo com Fink
-  - [ ]  [2175](https://www.urionlinejudge.com.br/judge/pt/problems/view/2175) - Qual o Mais Rápido?
   - [ ]  [2178](https://www.urionlinejudge.com.br/judge/pt/problems/view/2178) - Lagoa Azul
   - [ ]  [2179](https://www.urionlinejudge.com.br/judge/pt/problems/view/2179) - Batuke
   - [ ]  [2187](https://www.urionlinejudge.com.br/judge/pt/problems/view/2187) - Bits Trocados
@@ -638,6 +637,7 @@
   - [x]  [1936](https://www.urionlinejudge.com.br/judge/pt/problems/view/1936) - [Fatorial](https://github.com/potigol/URI-Potigol/blob/master/src/1900-1999/1936.poti)
   - [x]  [1943](https://www.urionlinejudge.com.br/judge/pt/problems/view/1943) - [Top N](https://github.com/potigol/URI-Potigol/blob/master/src/1900-1999/1943.poti)
   - [x]  [2058](https://www.urionlinejudge.com.br/judge/pt/problems/view/2058) - [Triângulos e Polígonos Regulares](https://github.com/potigol/URI-Potigol/blob/master/src/2000-2099/2058.poti)
+  - [x]  [2175](https://www.urionlinejudge.com.br/judge/pt/problems/view/2175) - [Qual o Mais Rápido?](https://github.com/potigol/URI-Potigol/blob/master/src/2100-2199/2175.poti)
   - [x]  [2188](https://www.urionlinejudge.com.br/judge/pt/problems/view/2188) - [Macaco-prego](https://github.com/potigol/URI-Potigol/blob/master/src/2100-2199/2188.poti)
   - [x]  [2217](https://www.urionlinejudge.com.br/judge/pt/problems/view/2217) - [Nove](https://github.com/potigol/URI-Potigol/blob/master/src/2200-2299/2217.poti)
   - [x]  [2293](https://www.urionlinejudge.com.br/judge/pt/problems/view/2293) - [Campo de Minhocas](https://github.com/potigol/URI-Potigol/blob/master/src/2200-2299/2293.poti)

@@ -1,0 +1,11 @@
+a = leia_reais(" ")
+o, b, i = a[1], a[2], a[3]
+se o < b e o < i entao
+  escreva "Otavio"
+senaose b < o e b < i entao
+  escreva "Bruno"
+senaose i < o e i < b entao
+  escreva "Ian"
+senao
+  escreva "Empate"
+fim

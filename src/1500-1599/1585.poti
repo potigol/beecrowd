@@ -1,0 +1,10 @@
+n = leia_inteiro
+para i de 1 ate n faca
+  a = leia_texto
+  tamanho = se a[3] == ' ' entao
+    a.pegue(2).inteiro * a.descarte(3).inteiro div 2
+  senao
+    a.pegue(3).inteiro * a.descarte(4).inteiro div 2
+  fim
+  escreva "{tamanho} cm2"
+fim

@@ -85,7 +85,7 @@
   - [x]  [1582](https://www.urionlinejudge.com.br/judge/pt/problems/view/1582) - [O Teorema de Pitágoras](https://github.com/potigol/URI-Potigol/blob/master/src/1500-1599/1582.poti) *Matemática*
   - [ ]  [1583](https://www.urionlinejudge.com.br/judge/pt/problems/view/1583) - Contaminação *Grafos*
   - [ ]  [1584](https://www.urionlinejudge.com.br/judge/pt/problems/view/1584) - Espertofone *Grafos*
-  - [ ]  [1585](https://www.urionlinejudge.com.br/judge/pt/problems/view/1585) - Fazendo Pandorgas *Matemática*
+  - [x]  [1585](https://www.urionlinejudge.com.br/judge/pt/problems/view/1585) - [Fazendo Pandorgas](https://github.com/potigol/URI-Potigol/blob/master/src/1500-1599/1585.poti) *Matemática*
   - [ ]  [1586](https://www.urionlinejudge.com.br/judge/pt/problems/view/1586) - Cabo de Guerra *Strings*
   - [ ]  [1587](https://www.urionlinejudge.com.br/judge/pt/problems/view/1587) - BIT Park *Estruturas e Bibliotecas*
   - [ ]  [1588](https://www.urionlinejudge.com.br/judge/pt/problems/view/1588) - Ajude a Federação *Ad-Hoc*
