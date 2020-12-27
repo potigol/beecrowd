@@ -2,7 +2,7 @@
 
   - [ ]  [2400](https://www.urionlinejudge.com.br/judge/pt/problems/view/2400) - Balé *Ad-Hoc*
   - [ ]  [2401](https://www.urionlinejudge.com.br/judge/pt/problems/view/2401) - Calculadora *Ad-Hoc*
-  - [ ]  [2402](https://www.urionlinejudge.com.br/judge/pt/problems/view/2402) - Selos *Ad-Hoc*
+  - [x]  [2402](https://www.urionlinejudge.com.br/judge/pt/problems/view/2402) - [Selos](https://github.com/potigol/URI-Potigol/blob/master/src/2400-2499/2402.poti) *Ad-Hoc*
   - [ ]  [2403](https://www.urionlinejudge.com.br/judge/pt/problems/view/2403) - Escalonamento Ótimo *Ad-Hoc*
   - [ ]  [2404](https://www.urionlinejudge.com.br/judge/pt/problems/view/2404) - Reduzindo Detalhes em um Mapa *Grafos*
   - [ ]  [2405](https://www.urionlinejudge.com.br/judge/pt/problems/view/2405) - Colorindo *Ad-Hoc*
@@ -35,7 +35,7 @@
   - [ ]  [2432](https://www.urionlinejudge.com.br/judge/pt/problems/view/2432) - Tiro ao Alvo *Ad-Hoc*
   - [ ]  [2433](https://www.urionlinejudge.com.br/judge/pt/problems/view/2433) - Vende-se *Ad-Hoc*
   - [x]  [2434](https://www.urionlinejudge.com.br/judge/pt/problems/view/2434) - [Saldo do Vovô](https://github.com/potigol/URI-Potigol/blob/master/src/2400-2499/2434.poti) *Ad-Hoc*
-  - [ ]  [2435](https://www.urionlinejudge.com.br/judge/pt/problems/view/2435) - Corrida *Ad-Hoc*
+  - [x]  [2435](https://www.urionlinejudge.com.br/judge/pt/problems/view/2435) - [Corrida](https://github.com/potigol/URI-Potigol/blob/master/src/2400-2499/2435.poti) *Ad-Hoc*
   - [ ]  [2436](https://www.urionlinejudge.com.br/judge/pt/problems/view/2436) - Robô *Ad-Hoc*
   - [x]  [2437](https://www.urionlinejudge.com.br/judge/pt/problems/view/2437) - [Distância de Manhattan](https://github.com/potigol/URI-Potigol/blob/master/src/2400-2499/2437.poti) *Ad-Hoc*
   - [ ]  [2438](https://www.urionlinejudge.com.br/judge/pt/problems/view/2438) - Quadradinho de 8 *Ad-Hoc*

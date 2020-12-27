@@ -94,9 +94,9 @@
   - [ ]  [2391](https://www.urionlinejudge.com.br/judge/pt/problems/view/2391) - Progressões Aritméticas *Ad-Hoc*
   - [ ]  [2392](https://www.urionlinejudge.com.br/judge/pt/problems/view/2392) - Pulo do Sapo *Ad-Hoc*
   - [ ]  [2393](https://www.urionlinejudge.com.br/judge/pt/problems/view/2393) - O Mar não está para Peixe *Ad-Hoc*
-  - [ ]  [2394](https://www.urionlinejudge.com.br/judge/pt/problems/view/2394) - Corrida 1 *Ad-Hoc*
+  - [x]  [2394](https://www.urionlinejudge.com.br/judge/pt/problems/view/2394) - [Corrida 1](https://github.com/potigol/URI-Potigol/blob/master/src/2300-2399/2394.poti) *Ad-Hoc*
   - [x]  [2395](https://www.urionlinejudge.com.br/judge/pt/problems/view/2395) - [Transporte de Contêineres](https://github.com/potigol/URI-Potigol/blob/master/src/2300-2399/2395.poti) *Ad-Hoc*
-  - [ ]  [2396](https://www.urionlinejudge.com.br/judge/pt/problems/view/2396) - Corrida *Ad-Hoc*
+  - [x]  [2396](https://www.urionlinejudge.com.br/judge/pt/problems/view/2396) - [Corrida](https://github.com/potigol/URI-Potigol/blob/master/src/2300-2399/2396.poti) *Ad-Hoc*
   - [x]  [2397](https://www.urionlinejudge.com.br/judge/pt/problems/view/2397) - [Triângulos](https://github.com/potigol/URI-Potigol/blob/master/src/2300-2399/2397.poti) *Ad-Hoc*
   - [ ]  [2398](https://www.urionlinejudge.com.br/judge/pt/problems/view/2398) - Caça ao Tesouro *Ad-Hoc*
   - [x]  [2399](https://www.urionlinejudge.com.br/judge/pt/problems/view/2399) - [Campo Minado](https://github.com/potigol/URI-Potigol/blob/master/src/2300-2399/2399.poti) *Ad-Hoc*

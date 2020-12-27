@@ -1,0 +1,5 @@
+n  = leia_inteiro
+tempos = para i de 1 ate n gere leia_inteiros(" ").injete(0)(_ + _) fim
+menor = tempos.ordene.cabeca
+ganhador = tempos.posicao(menor)
+escreva ganhador

@@ -1,0 +1,6 @@
+n = BigInt(leia_texto)
+fatoravel(a: BigInt, i: Inteiro): Logico = a > i e i < 100000 e (
+  a mod i == 0 ou fatoravel(a, i + 2)
+)
+resposta = se (n > 3 e n mod 2 == 0) ou fatoravel(n, 3) entao "S" senao "N" fim
+escreva resposta

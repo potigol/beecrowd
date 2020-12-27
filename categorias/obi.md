@@ -87,7 +87,7 @@
   - [ ]  [2432](https://www.urionlinejudge.com.br/judge/pt/problems/view/2432) - Tiro ao Alvo *Ad-Hoc*
   - [ ]  [2433](https://www.urionlinejudge.com.br/judge/pt/problems/view/2433) - Vende-se *Ad-Hoc*
   - [x]  [2434](https://www.urionlinejudge.com.br/judge/pt/problems/view/2434) - [Saldo do Vovô](https://github.com/potigol/URI-Potigol/blob/master/src/2400-2499/2434.poti) *Ad-Hoc*
-  - [ ]  [2435](https://www.urionlinejudge.com.br/judge/pt/problems/view/2435) - Corrida *Ad-Hoc*
+  - [x]  [2435](https://www.urionlinejudge.com.br/judge/pt/problems/view/2435) - [Corrida](https://github.com/potigol/URI-Potigol/blob/master/src/2400-2499/2435.poti) *Ad-Hoc*
   - [ ]  [2436](https://www.urionlinejudge.com.br/judge/pt/problems/view/2436) - Robô *Ad-Hoc*
   - [x]  [2437](https://www.urionlinejudge.com.br/judge/pt/problems/view/2437) - [Distância de Manhattan](https://github.com/potigol/URI-Potigol/blob/master/src/2400-2499/2437.poti) *Ad-Hoc*
   - [ ]  [2438](https://www.urionlinejudge.com.br/judge/pt/problems/view/2438) - Quadradinho de 8 *Ad-Hoc*
@@ -131,15 +131,15 @@
   - [ ]  [2391](https://www.urionlinejudge.com.br/judge/pt/problems/view/2391) - Progressões Aritméticas *Ad-Hoc*
   - [ ]  [2392](https://www.urionlinejudge.com.br/judge/pt/problems/view/2392) - Pulo do Sapo *Ad-Hoc*
   - [ ]  [2393](https://www.urionlinejudge.com.br/judge/pt/problems/view/2393) - O Mar não está para Peixe *Ad-Hoc*
-  - [ ]  [2394](https://www.urionlinejudge.com.br/judge/pt/problems/view/2394) - Corrida 1 *Ad-Hoc*
+  - [x]  [2394](https://www.urionlinejudge.com.br/judge/pt/problems/view/2394) - [Corrida 1](https://github.com/potigol/URI-Potigol/blob/master/src/2300-2399/2394.poti) *Ad-Hoc*
   - [x]  [2395](https://www.urionlinejudge.com.br/judge/pt/problems/view/2395) - [Transporte de Contêineres](https://github.com/potigol/URI-Potigol/blob/master/src/2300-2399/2395.poti) *Ad-Hoc*
-  - [ ]  [2396](https://www.urionlinejudge.com.br/judge/pt/problems/view/2396) - Corrida *Ad-Hoc*
+  - [x]  [2396](https://www.urionlinejudge.com.br/judge/pt/problems/view/2396) - [Corrida](https://github.com/potigol/URI-Potigol/blob/master/src/2300-2399/2396.poti) *Ad-Hoc*
   - [x]  [2397](https://www.urionlinejudge.com.br/judge/pt/problems/view/2397) - [Triângulos](https://github.com/potigol/URI-Potigol/blob/master/src/2300-2399/2397.poti) *Ad-Hoc*
   - [ ]  [2398](https://www.urionlinejudge.com.br/judge/pt/problems/view/2398) - Caça ao Tesouro *Ad-Hoc*
   - [x]  [2399](https://www.urionlinejudge.com.br/judge/pt/problems/view/2399) - [Campo Minado](https://github.com/potigol/URI-Potigol/blob/master/src/2300-2399/2399.poti) *Ad-Hoc*
   - [ ]  [2400](https://www.urionlinejudge.com.br/judge/pt/problems/view/2400) - Balé *Ad-Hoc*
   - [ ]  [2401](https://www.urionlinejudge.com.br/judge/pt/problems/view/2401) - Calculadora *Ad-Hoc*
-  - [ ]  [2402](https://www.urionlinejudge.com.br/judge/pt/problems/view/2402) - Selos *Ad-Hoc*
+  - [x]  [2402](https://www.urionlinejudge.com.br/judge/pt/problems/view/2402) - [Selos](https://github.com/potigol/URI-Potigol/blob/master/src/2400-2499/2402.poti) *Ad-Hoc*
   - [ ]  [2403](https://www.urionlinejudge.com.br/judge/pt/problems/view/2403) - Escalonamento Ótimo *Ad-Hoc*
   - [ ]  [2404](https://www.urionlinejudge.com.br/judge/pt/problems/view/2404) - Reduzindo Detalhes em um Mapa *Grafos*
   - [ ]  [2405](https://www.urionlinejudge.com.br/judge/pt/problems/view/2405) - Colorindo *Ad-Hoc*

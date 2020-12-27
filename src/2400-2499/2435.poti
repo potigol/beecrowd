@@ -1,0 +1,6 @@
+a, b = leia_inteiros(" ")
+se a[2] / a[3] < b[2] / b[3] entao
+  escreva a[1]
+senao
+  escreva b[1]
+fim
