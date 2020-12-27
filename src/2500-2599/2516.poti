@@ -1,0 +1,11 @@
+var a := leia_texto
+enquanto a <> None.orNull faca
+  b = a.divida(" ")
+  s, v = b[1].inteiro, b[2].inteiro - b[3].inteiro
+  se v > 0 entao
+    escreva s / v formato "%.2f"
+  senao
+    escreva "impossivel"
+  fim
+  a := leia_texto
+fim

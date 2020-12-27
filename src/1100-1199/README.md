@@ -29,7 +29,7 @@
   - [ ]  [1126](https://www.urionlinejudge.com.br/judge/pt/problems/view/1126) - Guerra nas Estrelas *Geometria Computacional*
   - [ ]  [1127](https://www.urionlinejudge.com.br/judge/pt/problems/view/1127) - Plágio Musical *Ad-Hoc*
   - [ ]  [1128](https://www.urionlinejudge.com.br/judge/pt/problems/view/1128) - Ir e Vir *Grafos*
-  - [ ]  [1129](https://www.urionlinejudge.com.br/judge/pt/problems/view/1129) - Leitura Ótica *Ad-Hoc*
+  - [x]  [1129](https://www.urionlinejudge.com.br/judge/pt/problems/view/1129) - [Leitura Ótica](https://github.com/potigol/URI-Potigol/blob/master/src/1100-1199/1129.poti) *Ad-Hoc*
   - [ ]  [1130](https://www.urionlinejudge.com.br/judge/pt/problems/view/1130) - Jogo da Velha *Ad-Hoc*
   - [x]  [1131](https://www.urionlinejudge.com.br/judge/pt/problems/view/1131) - [Grenais](https://github.com/potigol/URI-Potigol/blob/master/src/1100-1199/1131.poti) *Iniciante*
   - [x]  [1132](https://www.urionlinejudge.com.br/judge/pt/problems/view/1132) - [Múltiplos de 13](https://github.com/potigol/URI-Potigol/blob/master/src/1100-1199/1132.poti) *Iniciante*

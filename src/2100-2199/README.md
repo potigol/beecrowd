@@ -16,7 +16,7 @@
   - [ ]  [2113](https://www.urionlinejudge.com.br/judge/pt/problems/view/2113) - O Incidente de Sverdlovsk *Paradigmas*
   - [ ]  [2114](https://www.urionlinejudge.com.br/judge/pt/problems/view/2114) - Poker *Matemática*
   - [ ]  [2115](https://www.urionlinejudge.com.br/judge/pt/problems/view/2115) - Produção em Ecaterimburgo *Paradigmas*
-  - [ ]  [2116](https://www.urionlinejudge.com.br/judge/pt/problems/view/2116) - Diversão dos Alunos *Ad-Hoc*
+  - [x]  [2116](https://www.urionlinejudge.com.br/judge/pt/problems/view/2116) - [Diversão dos Alunos](https://github.com/potigol/URI-Potigol/blob/master/src/2100-2199/2116.poti) *Ad-Hoc*
   - [ ]  [2117](https://www.urionlinejudge.com.br/judge/pt/problems/view/2117) - Mestre Me Ajude *Grafos*
   - [ ]  [2118](https://www.urionlinejudge.com.br/judge/pt/problems/view/2118) - Qual a Sede? *Grafos*
   - [ ]  [2119](https://www.urionlinejudge.com.br/judge/pt/problems/view/2119) - Goão e Escadas *Paradigmas*

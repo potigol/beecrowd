@@ -1,4 +1,4 @@
-# Ad-Hoc (98 / 702)
+# Ad-Hoc (102 / 702)
 
 ## Problemas não resolvidos
   - [ ]  [1030](https://www.urionlinejudge.com.br/judge/pt/problems/view/1030) - A Lenda de Flavious Josephus
@@ -7,7 +7,6 @@
   - [ ]  [1086](https://www.urionlinejudge.com.br/judge/pt/problems/view/1086) - O Salão do Clube
   - [ ]  [1089](https://www.urionlinejudge.com.br/judge/pt/problems/view/1089) - Loop Musical
   - [ ]  [1090](https://www.urionlinejudge.com.br/judge/pt/problems/view/1090) - Set
-  - [ ]  [1091](https://www.urionlinejudge.com.br/judge/pt/problems/view/1091) - Divisão da Nlogônia
   - [ ]  [1092](https://www.urionlinejudge.com.br/judge/pt/problems/view/1092) - Maior Subseqüência Crescente
   - [ ]  [1105](https://www.urionlinejudge.com.br/judge/pt/problems/view/1105) - Sub-prime
   - [ ]  [1107](https://www.urionlinejudge.com.br/judge/pt/problems/view/1107) - Escultura à Laser
@@ -16,7 +15,6 @@
   - [ ]  [1122](https://www.urionlinejudge.com.br/judge/pt/problems/view/1122) - Livro-Caixa
   - [ ]  [1125](https://www.urionlinejudge.com.br/judge/pt/problems/view/1125) - Fórmula 1
   - [ ]  [1127](https://www.urionlinejudge.com.br/judge/pt/problems/view/1127) - Plágio Musical
-  - [ ]  [1129](https://www.urionlinejudge.com.br/judge/pt/problems/view/1129) - Leitura Ótica
   - [ ]  [1130](https://www.urionlinejudge.com.br/judge/pt/problems/view/1130) - Jogo da Velha
   - [ ]  [1136](https://www.urionlinejudge.com.br/judge/pt/problems/view/1136) - Bingo!
   - [ ]  [1139](https://www.urionlinejudge.com.br/judge/pt/problems/view/1139) - Necessidades Elétricas
@@ -228,7 +226,6 @@
   - [ ]  [2078](https://www.urionlinejudge.com.br/judge/pt/problems/view/2078) - Paz Verde! Hipocrisia Mundial!
   - [ ]  [2090](https://www.urionlinejudge.com.br/judge/pt/problems/view/2090) - Fui ao Mercado e Comprei...
   - [ ]  [2102](https://www.urionlinejudge.com.br/judge/pt/problems/view/2102) - Contando em Chinês
-  - [ ]  [2116](https://www.urionlinejudge.com.br/judge/pt/problems/view/2116) - Diversão dos Alunos
   - [ ]  [2123](https://www.urionlinejudge.com.br/judge/pt/problems/view/2123) - A Lei Vai a Cavalo!
   - [ ]  [2125](https://www.urionlinejudge.com.br/judge/pt/problems/view/2125) - Construtores de Totens
   - [ ]  [2134](https://www.urionlinejudge.com.br/judge/pt/problems/view/2134) - Quem Vai Ser Reprovado?
@@ -277,7 +274,6 @@
   - [ ]  [2248](https://www.urionlinejudge.com.br/judge/pt/problems/view/2248) - Estágio
   - [ ]  [2249](https://www.urionlinejudge.com.br/judge/pt/problems/view/2249) - Número de Erdos
   - [ ]  [2250](https://www.urionlinejudge.com.br/judge/pt/problems/view/2250) - Tetris
-  - [ ]  [2251](https://www.urionlinejudge.com.br/judge/pt/problems/view/2251) - Torres de Hanói
   - [ ]  [2252](https://www.urionlinejudge.com.br/judge/pt/problems/view/2252) - Descobrindo Senha
   - [ ]  [2254](https://www.urionlinejudge.com.br/judge/pt/problems/view/2254) - Bem-me-quer, Malmequer Japonês
   - [ ]  [2255](https://www.urionlinejudge.com.br/judge/pt/problems/view/2255) - Self-Assembly
@@ -608,8 +604,10 @@
 ## Problemas resolvidos
   - [x]  [1026](https://www.urionlinejudge.com.br/judge/pt/problems/view/1026) - [Carrega ou não Carrega?](https://github.com/potigol/URI-Potigol/blob/master/src/1000-1099/1026.poti)
   - [x]  [1087](https://www.urionlinejudge.com.br/judge/pt/problems/view/1087) - [Dama](https://github.com/potigol/URI-Potigol/blob/master/src/1000-1099/1087.poti)
+  - [x]  [1091](https://www.urionlinejudge.com.br/judge/pt/problems/view/1091) - [Divisão da Nlogônia](https://github.com/potigol/URI-Potigol/blob/master/src/1000-1099/1091.poti)
   - [x]  [1103](https://www.urionlinejudge.com.br/judge/pt/problems/view/1103) - [Alarme Despertador](https://github.com/potigol/URI-Potigol/blob/master/src/1100-1199/1103.poti)
   - [x]  [1104](https://www.urionlinejudge.com.br/judge/pt/problems/view/1104) - [Troca de Cartas](https://github.com/potigol/URI-Potigol/blob/master/src/1100-1199/1104.poti)
+  - [x]  [1129](https://www.urionlinejudge.com.br/judge/pt/problems/view/1129) - [Leitura Ótica](https://github.com/potigol/URI-Potigol/blob/master/src/1100-1199/1129.poti)
   - [x]  [1171](https://www.urionlinejudge.com.br/judge/pt/problems/view/1171) - [Frequência de Números](https://github.com/potigol/URI-Potigol/blob/master/src/1100-1199/1171.poti)
   - [x]  [1192](https://www.urionlinejudge.com.br/judge/pt/problems/view/1192) - [O jogo Matemático de Paula](https://github.com/potigol/URI-Potigol/blob/master/src/1100-1199/1192.poti)
   - [x]  [1225](https://www.urionlinejudge.com.br/judge/pt/problems/view/1225) - [Coral Perfeito](https://github.com/potigol/URI-Potigol/blob/master/src/1200-1299/1225.poti)
@@ -637,9 +635,11 @@
   - [x]  [1936](https://www.urionlinejudge.com.br/judge/pt/problems/view/1936) - [Fatorial](https://github.com/potigol/URI-Potigol/blob/master/src/1900-1999/1936.poti)
   - [x]  [1943](https://www.urionlinejudge.com.br/judge/pt/problems/view/1943) - [Top N](https://github.com/potigol/URI-Potigol/blob/master/src/1900-1999/1943.poti)
   - [x]  [2058](https://www.urionlinejudge.com.br/judge/pt/problems/view/2058) - [Triângulos e Polígonos Regulares](https://github.com/potigol/URI-Potigol/blob/master/src/2000-2099/2058.poti)
+  - [x]  [2116](https://www.urionlinejudge.com.br/judge/pt/problems/view/2116) - [Diversão dos Alunos](https://github.com/potigol/URI-Potigol/blob/master/src/2100-2199/2116.poti)
   - [x]  [2175](https://www.urionlinejudge.com.br/judge/pt/problems/view/2175) - [Qual o Mais Rápido?](https://github.com/potigol/URI-Potigol/blob/master/src/2100-2199/2175.poti)
   - [x]  [2188](https://www.urionlinejudge.com.br/judge/pt/problems/view/2188) - [Macaco-prego](https://github.com/potigol/URI-Potigol/blob/master/src/2100-2199/2188.poti)
   - [x]  [2217](https://www.urionlinejudge.com.br/judge/pt/problems/view/2217) - [Nove](https://github.com/potigol/URI-Potigol/blob/master/src/2200-2299/2217.poti)
+  - [x]  [2251](https://www.urionlinejudge.com.br/judge/pt/problems/view/2251) - [Torres de Hanói](https://github.com/potigol/URI-Potigol/blob/master/src/2200-2299/2251.poti)
   - [x]  [2293](https://www.urionlinejudge.com.br/judge/pt/problems/view/2293) - [Campo de Minhocas](https://github.com/potigol/URI-Potigol/blob/master/src/2200-2299/2293.poti)
   - [x]  [2295](https://www.urionlinejudge.com.br/judge/pt/problems/view/2295) - [Frota de Táxi](https://github.com/potigol/URI-Potigol/blob/master/src/2200-2299/2295.poti)
   - [x]  [2328](https://www.urionlinejudge.com.br/judge/pt/problems/view/2328) - [Chocolate](https://github.com/potigol/URI-Potigol/blob/master/src/2300-2399/2328.poti)

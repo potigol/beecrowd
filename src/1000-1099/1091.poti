@@ -1,0 +1,16 @@
+var k := leia_inteiro
+enquanto k > 0 faca
+  a = leia_inteiros(" ")
+  n, m = a[1], a[2]
+  para i de 1 ate k faca
+    b = leia_inteiros(" ")
+    dx, dy = b[1] - n, b[2] - m
+    se   dx == 0 ou dy == 0 entao escreva "divisa"
+    senaose dx > 0 e dy > 0 entao escreva "NE"
+    senaose dx > 0          entao escreva "SE"
+    senaose          dy > 0 entao escreva "NO"
+    senao                         escreva "SO"
+    fim
+  fim
+  k := leia_inteiro
+fim

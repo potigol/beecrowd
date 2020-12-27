@@ -97,6 +97,6 @@
   - [ ]  [2494](https://www.urionlinejudge.com.br/judge/pt/problems/view/2494) - Canetas *Matemática*
   - [ ]  [2495](https://www.urionlinejudge.com.br/judge/pt/problems/view/2495) - Onde Está Minha Caneta? *Estruturas e Bibliotecas*
   - [ ]  [2496](https://www.urionlinejudge.com.br/judge/pt/problems/view/2496) - A Única Chance *Estruturas e Bibliotecas*
-  - [ ]  [2497](https://www.urionlinejudge.com.br/judge/pt/problems/view/2497) - Contando Ciclos *Matemática*
+  - [x]  [2497](https://www.urionlinejudge.com.br/judge/pt/problems/view/2497) - [Contando Ciclos](https://github.com/potigol/URI-Potigol/blob/master/src/2400-2499/2497.poti) *Matemática*
   - [ ]  [2498](https://www.urionlinejudge.com.br/judge/pt/problems/view/2498) - Ajude Vânia *Paradigmas*
   - [ ]  [2499](https://www.urionlinejudge.com.br/judge/pt/problems/view/2499) - Triângulo Interno *Matemática*

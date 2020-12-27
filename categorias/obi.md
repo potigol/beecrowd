@@ -247,7 +247,7 @@
   - [ ]  [2248](https://www.urionlinejudge.com.br/judge/pt/problems/view/2248) - Estágio *Ad-Hoc*
   - [ ]  [2249](https://www.urionlinejudge.com.br/judge/pt/problems/view/2249) - Número de Erdos *Ad-Hoc*
   - [ ]  [2250](https://www.urionlinejudge.com.br/judge/pt/problems/view/2250) - Tetris *Ad-Hoc*
-  - [ ]  [2251](https://www.urionlinejudge.com.br/judge/pt/problems/view/2251) - Torres de Hanói *Ad-Hoc*
+  - [x]  [2251](https://www.urionlinejudge.com.br/judge/pt/problems/view/2251) - [Torres de Hanói](https://github.com/potigol/URI-Potigol/blob/master/src/2200-2299/2251.poti) *Ad-Hoc*
   - [x]  [3043](https://www.urionlinejudge.com.br/judge/pt/problems/view/3043) - [Festa Junina](https://github.com/potigol/URI-Potigol/blob/master/src/3000-3099/3043.poti) *Grafos*
   - [ ]  [3044](https://www.urionlinejudge.com.br/judge/pt/problems/view/3044) - Manutenção *Grafos*
   - [ ]  [3045](https://www.urionlinejudge.com.br/judge/pt/problems/view/3045) - Parque Jurássico *Estruturas e Bibliotecas*

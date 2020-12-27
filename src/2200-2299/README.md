@@ -51,7 +51,7 @@
   - [ ]  [2248](https://www.urionlinejudge.com.br/judge/pt/problems/view/2248) - Estágio *Ad-Hoc*
   - [ ]  [2249](https://www.urionlinejudge.com.br/judge/pt/problems/view/2249) - Número de Erdos *Ad-Hoc*
   - [ ]  [2250](https://www.urionlinejudge.com.br/judge/pt/problems/view/2250) - Tetris *Ad-Hoc*
-  - [ ]  [2251](https://www.urionlinejudge.com.br/judge/pt/problems/view/2251) - Torres de Hanói *Ad-Hoc*
+  - [x]  [2251](https://www.urionlinejudge.com.br/judge/pt/problems/view/2251) - [Torres de Hanói](https://github.com/potigol/URI-Potigol/blob/master/src/2200-2299/2251.poti) *Ad-Hoc*
   - [ ]  [2252](https://www.urionlinejudge.com.br/judge/pt/problems/view/2252) - Descobrindo Senha *Ad-Hoc*
   - [ ]  [2253](https://www.urionlinejudge.com.br/judge/pt/problems/view/2253) - Validador de Senhas *Strings*
   - [ ]  [2254](https://www.urionlinejudge.com.br/judge/pt/problems/view/2254) - Bem-me-quer, Malmequer Japonês *Ad-Hoc*

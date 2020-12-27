@@ -1,0 +1,7 @@
+var n := leia_inteiro
+var x := 0
+enquanto n >= 0 faca
+  x := x + 1
+  escreva "Experiment {x}: {n div 2} full cycle(s)"
+  n := leia_inteiro
+fim

@@ -1,0 +1,7 @@
+c = leia_inteiro
+const = 5 / 4 / tg(PI / 5)
+para i de 1 ate c faca
+  n = leia_inteiro
+  area = const * n ^ 2
+  escreva area formato "%.3f"
+fim

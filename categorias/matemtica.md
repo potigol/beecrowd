@@ -1,4 +1,4 @@
-# Matemática (32 / 245)
+# Matemática (35 / 245)
 
 ## Problemas não resolvidos
   - [ ]  [1093](https://www.urionlinejudge.com.br/judge/pt/problems/view/1093) - Vampiros
@@ -160,13 +160,10 @@
   - [ ]  [2474](https://www.urionlinejudge.com.br/judge/pt/problems/view/2474) - Burlando o Sistema
   - [ ]  [2489](https://www.urionlinejudge.com.br/judge/pt/problems/view/2489) - Flecha no Coelho
   - [ ]  [2494](https://www.urionlinejudge.com.br/judge/pt/problems/view/2494) - Canetas
-  - [ ]  [2497](https://www.urionlinejudge.com.br/judge/pt/problems/view/2497) - Contando Ciclos
   - [ ]  [2499](https://www.urionlinejudge.com.br/judge/pt/problems/view/2499) - Triângulo Interno
   - [ ]  [2500](https://www.urionlinejudge.com.br/judge/pt/problems/view/2500) - William Xorando
   - [ ]  [2505](https://www.urionlinejudge.com.br/judge/pt/problems/view/2505) - Autopotencial
   - [ ]  [2514](https://www.urionlinejudge.com.br/judge/pt/problems/view/2514) - Alinhamento Lunar
-  - [ ]  [2516](https://www.urionlinejudge.com.br/judge/pt/problems/view/2516) - Corrida
-  - [ ]  [2584](https://www.urionlinejudge.com.br/judge/pt/problems/view/2584) - Pentágono
   - [ ]  [2589](https://www.urionlinejudge.com.br/judge/pt/problems/view/2589) - Maior Distância Entre Primos Consecutivos
   - [ ]  [2596](https://www.urionlinejudge.com.br/judge/pt/problems/view/2596) - Xenlonguinho
   - [ ]  [2597](https://www.urionlinejudge.com.br/judge/pt/problems/view/2597) - Xenlongão
@@ -237,6 +234,9 @@
   - [x]  [1921](https://www.urionlinejudge.com.br/judge/pt/problems/view/1921) - [Guilherme e Suas Pipas](https://github.com/potigol/URI-Potigol/blob/master/src/1900-1999/1921.poti)
   - [x]  [2232](https://www.urionlinejudge.com.br/judge/pt/problems/view/2232) - [Triângulo de Pascal](https://github.com/potigol/URI-Potigol/blob/master/src/2200-2299/2232.poti)
   - [x]  [2238](https://www.urionlinejudge.com.br/judge/pt/problems/view/2238) - [Divisores](https://github.com/potigol/URI-Potigol/blob/master/src/2200-2299/2238.poti)
+  - [x]  [2497](https://www.urionlinejudge.com.br/judge/pt/problems/view/2497) - [Contando Ciclos](https://github.com/potigol/URI-Potigol/blob/master/src/2400-2499/2497.poti)
+  - [x]  [2516](https://www.urionlinejudge.com.br/judge/pt/problems/view/2516) - [Corrida](https://github.com/potigol/URI-Potigol/blob/master/src/2500-2599/2516.poti)
+  - [x]  [2584](https://www.urionlinejudge.com.br/judge/pt/problems/view/2584) - [Pentágono](https://github.com/potigol/URI-Potigol/blob/master/src/2500-2599/2584.poti)
   - [x]  [2598](https://www.urionlinejudge.com.br/judge/pt/problems/view/2598) - [Colocando Radares](https://github.com/potigol/URI-Potigol/blob/master/src/2500-2599/2598.poti)
   - [x]  [2661](https://www.urionlinejudge.com.br/judge/pt/problems/view/2661) - [Despojados](https://github.com/potigol/URI-Potigol/blob/master/src/2600-2699/2661.poti)
   - [x]  [2667](https://www.urionlinejudge.com.br/judge/pt/problems/view/2667) - [Jogo de Boca](https://github.com/potigol/URI-Potigol/blob/master/src/2600-2699/2667.poti)

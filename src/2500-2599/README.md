@@ -16,7 +16,7 @@
   - [ ]  [2513](https://www.urionlinejudge.com.br/judge/pt/problems/view/2513) - Xoringan *Ad-Hoc*
   - [ ]  [2514](https://www.urionlinejudge.com.br/judge/pt/problems/view/2514) - Alinhamento Lunar *Matemática*
   - [ ]  [2515](https://www.urionlinejudge.com.br/judge/pt/problems/view/2515) - Bolacha *Ad-Hoc*
-  - [ ]  [2516](https://www.urionlinejudge.com.br/judge/pt/problems/view/2516) - Corrida *Matemática*
+  - [x]  [2516](https://www.urionlinejudge.com.br/judge/pt/problems/view/2516) - [Corrida](https://github.com/potigol/URI-Potigol/blob/master/src/2500-2599/2516.poti) *Matemática*
   - [ ]  [2517](https://www.urionlinejudge.com.br/judge/pt/problems/view/2517) - Desafio PoGro *Geometria Computacional*
   - [ ]  [2518](https://www.urionlinejudge.com.br/judge/pt/problems/view/2518) - Escada do DINF *Geometria Computacional*
   - [ ]  [2519](https://www.urionlinejudge.com.br/judge/pt/problems/view/2519) - Estratégia Campeã *Estruturas e Bibliotecas*
@@ -84,7 +84,7 @@
   - [x]  [2581](https://www.urionlinejudge.com.br/judge/pt/problems/view/2581) - [I am Toorg!](https://github.com/potigol/URI-Potigol/blob/master/src/2500-2599/2581.poti) *Iniciante*
   - [x]  [2582](https://www.urionlinejudge.com.br/judge/pt/problems/view/2582) - [System of a Download](https://github.com/potigol/URI-Potigol/blob/master/src/2500-2599/2582.poti) *Iniciante*
   - [ ]  [2583](https://www.urionlinejudge.com.br/judge/pt/problems/view/2583) - Chirrin Chirrion *Strings*
-  - [ ]  [2584](https://www.urionlinejudge.com.br/judge/pt/problems/view/2584) - Pentágono *Matemática*
+  - [x]  [2584](https://www.urionlinejudge.com.br/judge/pt/problems/view/2584) - [Pentágono](https://github.com/potigol/URI-Potigol/blob/master/src/2500-2599/2584.poti) *Matemática*
   - [ ]  [2585](https://www.urionlinejudge.com.br/judge/pt/problems/view/2585) - Dominó Incompleto *Grafos*
   - [ ]  [2586](https://www.urionlinejudge.com.br/judge/pt/problems/view/2586) - Cubonacci *Ad-Hoc*
   - [x]  [2587](https://www.urionlinejudge.com.br/judge/pt/problems/view/2587) - [Jetiqui](https://github.com/potigol/URI-Potigol/blob/master/src/2500-2599/2587.poti) *Strings*

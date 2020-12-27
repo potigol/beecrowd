@@ -1,0 +1,16 @@
+a = leia_inteiros(" ").ordene
+n, m = a[1], a[2]
+
+crivo(nums: Lista[Inteiro]): Lista[Inteiro] = escolha nums
+  caso []  => []
+  caso num =>
+    c = num.cabeca
+    c :: crivo(num.selecione(x => x mod c <> 0))
+fim
+ints = para i de 2 ate m gere i fim
+primos = crivo(ints).inverta
+
+p1 = primos.descarte_enquanto(_ > n).cabeca
+p2 = primos.descarte_enquanto(_ > m).cabeca
+
+escreva p1 * p2

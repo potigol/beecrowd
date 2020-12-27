@@ -91,7 +91,7 @@
   - [ ]  [1088](https://www.urionlinejudge.com.br/judge/pt/problems/view/1088) - Bolhas e Baldes *Estruturas e Bibliotecas*
   - [ ]  [1089](https://www.urionlinejudge.com.br/judge/pt/problems/view/1089) - Loop Musical *Ad-Hoc*
   - [ ]  [1090](https://www.urionlinejudge.com.br/judge/pt/problems/view/1090) - Set *Ad-Hoc*
-  - [ ]  [1091](https://www.urionlinejudge.com.br/judge/pt/problems/view/1091) - Divisão da Nlogônia *Ad-Hoc*
+  - [x]  [1091](https://www.urionlinejudge.com.br/judge/pt/problems/view/1091) - [Divisão da Nlogônia](https://github.com/potigol/URI-Potigol/blob/master/src/1000-1099/1091.poti) *Ad-Hoc*
   - [ ]  [1092](https://www.urionlinejudge.com.br/judge/pt/problems/view/1092) - Maior Subseqüência Crescente *Ad-Hoc*
   - [ ]  [1093](https://www.urionlinejudge.com.br/judge/pt/problems/view/1093) - Vampiros *Matemática*
   - [x]  [1094](https://www.urionlinejudge.com.br/judge/pt/problems/view/1094) - [Experiências](https://github.com/potigol/URI-Potigol/blob/master/src/1000-1099/1094.poti) *Iniciante*
