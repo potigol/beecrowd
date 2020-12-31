@@ -1,0 +1,8 @@
+n = leia_inteiro
+limpar(s: Texto) = s.selecione(_ <> '.').pegue_enquanto(_ <> '+')
+emails = leia_textos(n)
+           .mapeie(_.divida("@"))
+           .mapeie(a => "{limpar(a[1])}@{a[2]}")
+           .ordene
+diferentes = emails.zip(emails.cauda).selecione(a => a.primeiro <> a.segundo).tamanho + 1
+escreva diferentes

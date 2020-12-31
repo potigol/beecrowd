@@ -43,7 +43,7 @@
   - [ ]  [2440](https://www.urionlinejudge.com.br/judge/pt/problems/view/2440) - Famílias de Troia *Grafos*
   - [ ]  [2441](https://www.urionlinejudge.com.br/judge/pt/problems/view/2441) - Janela *Ad-Hoc*
   - [ ]  [2442](https://www.urionlinejudge.com.br/judge/pt/problems/view/2442) - Plantação *Ad-Hoc*
-  - [ ]  [2443](https://www.urionlinejudge.com.br/judge/pt/problems/view/2443) - Soma de Frações *Ad-Hoc*
+  - [x]  [2443](https://www.urionlinejudge.com.br/judge/pt/problems/view/2443) - [Soma de Frações](https://github.com/potigol/URI-Potigol/blob/master/src/2400-2499/2443.poti) *Ad-Hoc*
   - [ ]  [2444](https://www.urionlinejudge.com.br/judge/pt/problems/view/2444) - Volume da TV *Ad-Hoc*
   - [ ]  [2445](https://www.urionlinejudge.com.br/judge/pt/problems/view/2445) - Polígono *Ad-Hoc*
   - [ ]  [2446](https://www.urionlinejudge.com.br/judge/pt/problems/view/2446) - Troco *Paradigmas*

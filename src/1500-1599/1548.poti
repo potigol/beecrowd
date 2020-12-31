@@ -1,0 +1,8 @@
+n = leia_inteiro
+para i de 1 ate n faca
+  m = leia_inteiro
+  p = leia_inteiros(" ")
+  r = p.ordene.inverta
+  a = para i de 1 ate m se p[i] == r[i] gere 1 fim
+  escreva a.tamanho
+fim

@@ -1,4 +1,4 @@
-# Estruturas e Bibliotecas (12 / 164)
+# Estruturas e Bibliotecas (13 / 164)
 
 ## Problemas não resolvidos
   - [ ]  [1023](https://www.urionlinejudge.com.br/judge/pt/problems/view/1023) - Estiagem
@@ -47,7 +47,6 @@
   - [ ]  [1527](https://www.urionlinejudge.com.br/judge/pt/problems/view/1527) - Guildas
   - [ ]  [1535](https://www.urionlinejudge.com.br/judge/pt/problems/view/1535) - Números Casal-Solteirão-Solteirona
   - [ ]  [1538](https://www.urionlinejudge.com.br/judge/pt/problems/view/1538) - Sequência Alienígena
-  - [ ]  [1548](https://www.urionlinejudge.com.br/judge/pt/problems/view/1548) - Fila do Recreio
   - [ ]  [1566](https://www.urionlinejudge.com.br/judge/pt/problems/view/1566) - Altura
   - [ ]  [1587](https://www.urionlinejudge.com.br/judge/pt/problems/view/1587) - BIT Park
   - [ ]  [1594](https://www.urionlinejudge.com.br/judge/pt/problems/view/1594) - Guloso
@@ -162,6 +161,7 @@
   - [x]  [1251](https://www.urionlinejudge.com.br/judge/pt/problems/view/1251) - [Diga-me a Frequência](https://github.com/potigol/URI-Potigol/blob/master/src/1200-1299/1251.poti)
   - [x]  [1259](https://www.urionlinejudge.com.br/judge/pt/problems/view/1259) - [Pares e Ímpares](https://github.com/potigol/URI-Potigol/blob/master/src/1200-1299/1259.poti)
   - [x]  [1430](https://www.urionlinejudge.com.br/judge/pt/problems/view/1430) - [Composição de Jingles](https://github.com/potigol/URI-Potigol/blob/master/src/1400-1499/1430.poti)
+  - [x]  [1548](https://www.urionlinejudge.com.br/judge/pt/problems/view/1548) - [Fila do Recreio](https://github.com/potigol/URI-Potigol/blob/master/src/1500-1599/1548.poti)
   - [x]  [1709](https://www.urionlinejudge.com.br/judge/pt/problems/view/1709) - [Baralho Embaralhado](https://github.com/potigol/URI-Potigol/blob/master/src/1700-1799/1709.poti)
   - [x]  [2091](https://www.urionlinejudge.com.br/judge/pt/problems/view/2091) - [Número Solitário](https://github.com/potigol/URI-Potigol/blob/master/src/2000-2099/2091.poti)
   - [x]  [2338](https://www.urionlinejudge.com.br/judge/pt/problems/view/2338) - [Morse](https://github.com/potigol/URI-Potigol/blob/master/src/2300-2399/2338.poti)

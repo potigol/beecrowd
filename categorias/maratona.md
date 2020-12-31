@@ -65,7 +65,7 @@
   - [ ]  [2903](https://www.urionlinejudge.com.br/judge/pt/problems/view/2903) - A Symmetrical Pizza *Matemática*
   - [ ]  [2904](https://www.urionlinejudge.com.br/judge/pt/problems/view/2904) - Building a Field *Ad-Hoc*
   - [ ]  [2905](https://www.urionlinejudge.com.br/judge/pt/problems/view/2905) - Cheap Trips *Ad-Hoc*
-  - [ ]  [2906](https://www.urionlinejudge.com.br/judge/pt/problems/view/2906) - Database of Clients *Strings*
+  - [x]  [2906](https://www.urionlinejudge.com.br/judge/pt/problems/view/2906) - [Database of Clients](https://github.com/potigol/URI-Potigol/blob/master/src/2900-2999/2906.poti) *Strings*
   - [ ]  [2907](https://www.urionlinejudge.com.br/judge/pt/problems/view/2907) - Escape, Polygon! *Ad-Hoc*
   - [ ]  [2908](https://www.urionlinejudge.com.br/judge/pt/problems/view/2908) - Fantastic Beasts *Ad-Hoc*
   - [ ]  [2909](https://www.urionlinejudge.com.br/judge/pt/problems/view/2909) - Gathering Red-Black Fruits *Ad-Hoc*

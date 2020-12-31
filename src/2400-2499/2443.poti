@@ -1,0 +1,12 @@
+mdc(i, j: Inteiro): Inteiro =
+  se i == 0 entao j
+  senaose i > j entao mdc(i mod j , j)
+  senao mdc(j, i) fim
+
+x = leia_inteiros(" ")
+a, b, c, d = x[1], x[2], x[3], x[4]
+num = a * d + c * b
+den = b * d
+
+m = mdc(num, den)
+escreva "{num div m} {den div m}"

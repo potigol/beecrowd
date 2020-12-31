@@ -48,7 +48,7 @@
   - [ ]  [1545](https://www.urionlinejudge.com.br/judge/pt/problems/view/1545) - Cartões II *Paradigmas*
   - [x]  [1546](https://www.urionlinejudge.com.br/judge/pt/problems/view/1546) - [Feedback](https://github.com/potigol/URI-Potigol/blob/master/src/1500-1599/1546.poti) *Ad-Hoc*
   - [ ]  [1547](https://www.urionlinejudge.com.br/judge/pt/problems/view/1547) - Adivinha *Ad-Hoc*
-  - [ ]  [1548](https://www.urionlinejudge.com.br/judge/pt/problems/view/1548) - Fila do Recreio *Estruturas e Bibliotecas*
+  - [x]  [1548](https://www.urionlinejudge.com.br/judge/pt/problems/view/1548) - [Fila do Recreio](https://github.com/potigol/URI-Potigol/blob/master/src/1500-1599/1548.poti) *Estruturas e Bibliotecas*
   - [ ]  [1549](https://www.urionlinejudge.com.br/judge/pt/problems/view/1549) - Dividindo a Coca *Geometria Computacional*
   - [ ]  [1550](https://www.urionlinejudge.com.br/judge/pt/problems/view/1550) - Inversão *Grafos*
   - [x]  [1551](https://www.urionlinejudge.com.br/judge/pt/problems/view/1551) - [Frase Completa](https://github.com/potigol/URI-Potigol/blob/master/src/1500-1599/1551.poti) *Strings*

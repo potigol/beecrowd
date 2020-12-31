@@ -1,0 +1,9 @@
+t = leia_inteiro
+para i de 1 ate t faca
+  n = leia_inteiro
+  se n < 2 entao
+    escreva 2
+  senao
+    escreva n * (n + 1) div 2 + 1
+  fim
+fim

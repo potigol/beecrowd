@@ -1,0 +1,11 @@
+c = leia_inteiro
+var l = Lista.mutavel(1000, 1)
+para i de 2 ate 1000,
+     j de i ate 1000 passo i faca
+  l[j] := l[j] + 1
+fim
+numeros = l.lista.mapeie(a => a mod 2)
+para i de 1 ate c faca
+  n = leia_inteiro
+  escreva numeros.pegue(n).injete(n)(_ - _)
+fim

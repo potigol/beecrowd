@@ -1,4 +1,4 @@
-# Ad-Hoc (106 / 702)
+# Ad-Hoc (107 / 702)
 
 ## Problemas não resolvidos
   - [ ]  [1030](https://www.urionlinejudge.com.br/judge/pt/problems/view/1030) - A Lenda de Flavious Josephus
@@ -390,7 +390,6 @@
   - [ ]  [2439](https://www.urionlinejudge.com.br/judge/pt/problems/view/2439) - Cachecol da Vovó Vitória
   - [ ]  [2441](https://www.urionlinejudge.com.br/judge/pt/problems/view/2441) - Janela
   - [ ]  [2442](https://www.urionlinejudge.com.br/judge/pt/problems/view/2442) - Plantação
-  - [ ]  [2443](https://www.urionlinejudge.com.br/judge/pt/problems/view/2443) - Soma de Frações
   - [ ]  [2444](https://www.urionlinejudge.com.br/judge/pt/problems/view/2444) - Volume da TV
   - [ ]  [2445](https://www.urionlinejudge.com.br/judge/pt/problems/view/2445) - Polígono
   - [ ]  [2447](https://www.urionlinejudge.com.br/judge/pt/problems/view/2447) - Torneio
@@ -668,6 +667,7 @@
   - [x]  [2434](https://www.urionlinejudge.com.br/judge/pt/problems/view/2434) - [Saldo do Vovô](https://github.com/potigol/URI-Potigol/blob/master/src/2400-2499/2434.poti)
   - [x]  [2435](https://www.urionlinejudge.com.br/judge/pt/problems/view/2435) - [Corrida](https://github.com/potigol/URI-Potigol/blob/master/src/2400-2499/2435.poti)
   - [x]  [2437](https://www.urionlinejudge.com.br/judge/pt/problems/view/2437) - [Distância de Manhattan](https://github.com/potigol/URI-Potigol/blob/master/src/2400-2499/2437.poti)
+  - [x]  [2443](https://www.urionlinejudge.com.br/judge/pt/problems/view/2443) - [Soma de Frações](https://github.com/potigol/URI-Potigol/blob/master/src/2400-2499/2443.poti)
   - [x]  [2454](https://www.urionlinejudge.com.br/judge/pt/problems/view/2454) - [Flíper](https://github.com/potigol/URI-Potigol/blob/master/src/2400-2499/2454.poti)
   - [x]  [2455](https://www.urionlinejudge.com.br/judge/pt/problems/view/2455) - [Gangorra](https://github.com/potigol/URI-Potigol/blob/master/src/2400-2499/2455.poti)
   - [x]  [2456](https://www.urionlinejudge.com.br/judge/pt/problems/view/2456) - [Cartas](https://github.com/potigol/URI-Potigol/blob/master/src/2400-2499/2456.poti)

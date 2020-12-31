@@ -1,4 +1,4 @@
-# Matemática (35 / 245)
+# Matemática (37 / 245)
 
 ## Problemas não resolvidos
   - [ ]  [1093](https://www.urionlinejudge.com.br/judge/pt/problems/view/1093) - Vampiros
@@ -152,7 +152,6 @@
   - [ ]  [2177](https://www.urionlinejudge.com.br/judge/pt/problems/view/2177) - Rio 2016
   - [ ]  [2180](https://www.urionlinejudge.com.br/judge/pt/problems/view/2180) - Viagem à Marte na Velocidade de Primo
   - [ ]  [2204](https://www.urionlinejudge.com.br/judge/pt/problems/view/2204) - Pare A Bomba!
-  - [ ]  [2218](https://www.urionlinejudge.com.br/judge/pt/problems/view/2218) - O Temível Evil-Son
   - [ ]  [2222](https://www.urionlinejudge.com.br/judge/pt/problems/view/2222) - Brincando com Conjuntos
   - [ ]  [2291](https://www.urionlinejudge.com.br/judge/pt/problems/view/2291) - Números Divinos
   - [ ]  [2335](https://www.urionlinejudge.com.br/judge/pt/problems/view/2335) - O Desafio de Arquibaldo
@@ -165,7 +164,6 @@
   - [ ]  [2505](https://www.urionlinejudge.com.br/judge/pt/problems/view/2505) - Autopotencial
   - [ ]  [2514](https://www.urionlinejudge.com.br/judge/pt/problems/view/2514) - Alinhamento Lunar
   - [ ]  [2589](https://www.urionlinejudge.com.br/judge/pt/problems/view/2589) - Maior Distância Entre Primos Consecutivos
-  - [ ]  [2596](https://www.urionlinejudge.com.br/judge/pt/problems/view/2596) - Xenlonguinho
   - [ ]  [2597](https://www.urionlinejudge.com.br/judge/pt/problems/view/2597) - Xenlongão
   - [ ]  [2636](https://www.urionlinejudge.com.br/judge/pt/problems/view/2636) - 3-RSA
   - [ ]  [2660](https://www.urionlinejudge.com.br/judge/pt/problems/view/2660) - Cigarras Periódicas
@@ -232,11 +230,13 @@
   - [x]  [1795](https://www.urionlinejudge.com.br/judge/pt/problems/view/1795) - [Triângulo Trinomial](https://github.com/potigol/URI-Potigol/blob/master/src/1700-1799/1795.poti)
   - [x]  [1805](https://www.urionlinejudge.com.br/judge/pt/problems/view/1805) - [Soma Natural](https://github.com/potigol/URI-Potigol/blob/master/src/1800-1899/1805.poti)
   - [x]  [1921](https://www.urionlinejudge.com.br/judge/pt/problems/view/1921) - [Guilherme e Suas Pipas](https://github.com/potigol/URI-Potigol/blob/master/src/1900-1999/1921.poti)
+  - [x]  [2218](https://www.urionlinejudge.com.br/judge/pt/problems/view/2218) - [O Temível Evil-Son](https://github.com/potigol/URI-Potigol/blob/master/src/2200-2299/2218.poti)
   - [x]  [2232](https://www.urionlinejudge.com.br/judge/pt/problems/view/2232) - [Triângulo de Pascal](https://github.com/potigol/URI-Potigol/blob/master/src/2200-2299/2232.poti)
   - [x]  [2238](https://www.urionlinejudge.com.br/judge/pt/problems/view/2238) - [Divisores](https://github.com/potigol/URI-Potigol/blob/master/src/2200-2299/2238.poti)
   - [x]  [2497](https://www.urionlinejudge.com.br/judge/pt/problems/view/2497) - [Contando Ciclos](https://github.com/potigol/URI-Potigol/blob/master/src/2400-2499/2497.poti)
   - [x]  [2516](https://www.urionlinejudge.com.br/judge/pt/problems/view/2516) - [Corrida](https://github.com/potigol/URI-Potigol/blob/master/src/2500-2599/2516.poti)
   - [x]  [2584](https://www.urionlinejudge.com.br/judge/pt/problems/view/2584) - [Pentágono](https://github.com/potigol/URI-Potigol/blob/master/src/2500-2599/2584.poti)
+  - [x]  [2596](https://www.urionlinejudge.com.br/judge/pt/problems/view/2596) - [Xenlonguinho](https://github.com/potigol/URI-Potigol/blob/master/src/2500-2599/2596.poti)
   - [x]  [2598](https://www.urionlinejudge.com.br/judge/pt/problems/view/2598) - [Colocando Radares](https://github.com/potigol/URI-Potigol/blob/master/src/2500-2599/2598.poti)
   - [x]  [2661](https://www.urionlinejudge.com.br/judge/pt/problems/view/2661) - [Despojados](https://github.com/potigol/URI-Potigol/blob/master/src/2600-2699/2661.poti)
   - [x]  [2667](https://www.urionlinejudge.com.br/judge/pt/problems/view/2667) - [Jogo de Boca](https://github.com/potigol/URI-Potigol/blob/master/src/2600-2699/2667.poti)

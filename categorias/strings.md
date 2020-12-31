@@ -1,4 +1,4 @@
-# Strings (38 / 135)
+# Strings (39 / 135)
 
 ## Problemas não resolvidos
   - [ ]  [1141](https://www.urionlinejudge.com.br/judge/pt/problems/view/1141) - Cultivando Strings
@@ -87,7 +87,6 @@
   - [ ]  [2824](https://www.urionlinejudge.com.br/judge/pt/problems/view/2824) - Pudim
   - [ ]  [2825](https://www.urionlinejudge.com.br/judge/pt/problems/view/2825) - L de Atreus!?
   - [ ]  [2827](https://www.urionlinejudge.com.br/judge/pt/problems/view/2827) - Contador de Tokens
-  - [ ]  [2906](https://www.urionlinejudge.com.br/judge/pt/problems/view/2906) - Database of Clients
   - [ ]  [2954](https://www.urionlinejudge.com.br/judge/pt/problems/view/2954) - O Jogo
   - [ ]  [2974](https://www.urionlinejudge.com.br/judge/pt/problems/view/2974) - Fechadura
   - [ ]  [2975](https://www.urionlinejudge.com.br/judge/pt/problems/view/2975) - Anel
@@ -135,5 +134,6 @@
   - [x]  [2815](https://www.urionlinejudge.com.br/judge/pt/problems/view/2815) - [Digitador Gago](https://github.com/potigol/URI-Potigol/blob/master/src/2800-2899/2815.poti)
   - [x]  [2866](https://www.urionlinejudge.com.br/judge/pt/problems/view/2866) - [Criptotexto](https://github.com/potigol/URI-Potigol/blob/master/src/2800-2899/2866.poti)
   - [x]  [2880](https://www.urionlinejudge.com.br/judge/pt/problems/view/2880) - [Enigma](https://github.com/potigol/URI-Potigol/blob/master/src/2800-2899/2880.poti)
+  - [x]  [2906](https://www.urionlinejudge.com.br/judge/pt/problems/view/2906) - [Database of Clients](https://github.com/potigol/URI-Potigol/blob/master/src/2900-2999/2906.poti)
   - [x]  [3088](https://www.urionlinejudge.com.br/judge/pt/problems/view/3088) - [Correção de Texto](https://github.com/potigol/URI-Potigol/blob/master/src/3000-3099/3088.poti)
   - [x]  [3141](https://www.urionlinejudge.com.br/judge/pt/problems/view/3141) - [Dúvida Etária](https://github.com/potigol/URI-Potigol/blob/master/src/3100-3199/3141.poti)
