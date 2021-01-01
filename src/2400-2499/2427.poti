@@ -1,0 +1,9 @@
+pedacos(lado: Inteiro): Inteiro =
+  se lado < 2 entao 1
+  senao
+    a = lado div 2
+    4 * pedacos(a)
+  fim
+
+l = leia_inteiro
+escreva pedacos(l)

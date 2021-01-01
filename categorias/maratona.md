@@ -376,7 +376,7 @@
   - [ ]  [1377](https://www.urionlinejudge.com.br/judge/pt/problems/view/1377) - Recuperador de Arquivos *Strings*
   - [ ]  [1378](https://www.urionlinejudge.com.br/judge/pt/problems/view/1378) - Triângulos Isósceles *Geometria Computacional*
   - [ ]  [1392](https://www.urionlinejudge.com.br/judge/pt/problems/view/1392) - Conta de Luz *Matemática*
-  - [ ]  [1393](https://www.urionlinejudge.com.br/judge/pt/problems/view/1393) - Lajotas Hexagonais *Matemática*
+  - [x]  [1393](https://www.urionlinejudge.com.br/judge/pt/problems/view/1393) - [Lajotas Hexagonais](https://github.com/potigol/URI-Potigol/blob/master/src/1300-1399/1393.poti) *Matemática*
   - [ ]  [1394](https://www.urionlinejudge.com.br/judge/pt/problems/view/1394) - Hooligan *Grafos*
   - [ ]  [1412](https://www.urionlinejudge.com.br/judge/pt/problems/view/1412) - Cadeado com Segredo *Paradigmas*
   - [ ]  [1418](https://www.urionlinejudge.com.br/judge/pt/problems/view/1418) - Outra Crise *Ad-Hoc*

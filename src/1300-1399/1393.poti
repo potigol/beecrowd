@@ -1,0 +1,13 @@
+lajotas(a: Lista[Inteiro]): Lista[Inteiro] =
+  se      a.tamanho < 2   entao lajotas([2, 1])
+  senaose a.tamanho >= 40 entao a.inverta
+  senao                         lajotas((a[1] + a[2]) :: a)
+  fim
+
+l = lajotas([])
+
+var n := leia_inteiro
+enquanto n > 0 faca
+  escreva l[n]
+  n := leia_inteiro
+fim

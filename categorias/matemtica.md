@@ -1,4 +1,4 @@
-# Matemática (37 / 245)
+# Matemática (38 / 245)
 
 ## Problemas não resolvidos
   - [ ]  [1093](https://www.urionlinejudge.com.br/judge/pt/problems/view/1093) - Vampiros
@@ -37,7 +37,6 @@
   - [ ]  [1381](https://www.urionlinejudge.com.br/judge/pt/problems/view/1381) - Equações Diofantinas
   - [ ]  [1390](https://www.urionlinejudge.com.br/judge/pt/problems/view/1390) - Bases
   - [ ]  [1392](https://www.urionlinejudge.com.br/judge/pt/problems/view/1392) - Conta de Luz
-  - [ ]  [1393](https://www.urionlinejudge.com.br/judge/pt/problems/view/1393) - Lajotas Hexagonais
   - [ ]  [1398](https://www.urionlinejudge.com.br/judge/pt/problems/view/1398) - Oceano Profundo! Faça-o Raso!!
   - [ ]  [1399](https://www.urionlinejudge.com.br/judge/pt/problems/view/1399) - Transformador de Matriz
   - [ ]  [1400](https://www.urionlinejudge.com.br/judge/pt/problems/view/1400) - Jogo - Contando
@@ -220,6 +219,7 @@
   - [x]  [1221](https://www.urionlinejudge.com.br/judge/pt/problems/view/1221) - [Primo Rápido](https://github.com/potigol/URI-Potigol/blob/master/src/1200-1299/1221.poti)
   - [x]  [1240](https://www.urionlinejudge.com.br/judge/pt/problems/view/1240) - [Encaixa ou Não I](https://github.com/potigol/URI-Potigol/blob/master/src/1200-1299/1240.poti)
   - [x]  [1323](https://www.urionlinejudge.com.br/judge/pt/problems/view/1323) - [Feynman](https://github.com/potigol/URI-Potigol/blob/master/src/1300-1399/1323.poti)
+  - [x]  [1393](https://www.urionlinejudge.com.br/judge/pt/problems/view/1393) - [Lajotas Hexagonais](https://github.com/potigol/URI-Potigol/blob/master/src/1300-1399/1393.poti)
   - [x]  [1429](https://www.urionlinejudge.com.br/judge/pt/problems/view/1429) - [Fatorial de Novo!](https://github.com/potigol/URI-Potigol/blob/master/src/1400-1499/1429.poti)
   - [x]  [1436](https://www.urionlinejudge.com.br/judge/pt/problems/view/1436) - [Jogo do Tijolo](https://github.com/potigol/URI-Potigol/blob/master/src/1400-1499/1436.poti)
   - [x]  [1555](https://www.urionlinejudge.com.br/judge/pt/problems/view/1555) - [Funções](https://github.com/potigol/URI-Potigol/blob/master/src/1500-1599/1555.poti)

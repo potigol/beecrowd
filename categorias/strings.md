@@ -1,10 +1,9 @@
-# Strings (39 / 135)
+# Strings (40 / 135)
 
 ## Problemas não resolvidos
   - [ ]  [1141](https://www.urionlinejudge.com.br/judge/pt/problems/view/1141) - Cultivando Strings
   - [ ]  [1222](https://www.urionlinejudge.com.br/judge/pt/problems/view/1222) - Concurso de Contos
   - [ ]  [1237](https://www.urionlinejudge.com.br/judge/pt/problems/view/1237) - Comparação de Substring
-  - [ ]  [1239](https://www.urionlinejudge.com.br/judge/pt/problems/view/1239) - Atalhos Bloggo
   - [ ]  [1243](https://www.urionlinejudge.com.br/judge/pt/problems/view/1243) - O Quão Fácil é...
   - [ ]  [1248](https://www.urionlinejudge.com.br/judge/pt/problems/view/1248) - Plano de Dieta
   - [ ]  [1254](https://www.urionlinejudge.com.br/judge/pt/problems/view/1254) - Substituição de Tag
@@ -104,6 +103,7 @@
   - [x]  [1234](https://www.urionlinejudge.com.br/judge/pt/problems/view/1234) - [Sentença Dançante](https://github.com/potigol/URI-Potigol/blob/master/src/1200-1299/1234.poti)
   - [x]  [1235](https://www.urionlinejudge.com.br/judge/pt/problems/view/1235) - [De Dentro para Fora](https://github.com/potigol/URI-Potigol/blob/master/src/1200-1299/1235.poti)
   - [x]  [1238](https://www.urionlinejudge.com.br/judge/pt/problems/view/1238) - [Combinador](https://github.com/potigol/URI-Potigol/blob/master/src/1200-1299/1238.poti)
+  - [x]  [1239](https://www.urionlinejudge.com.br/judge/pt/problems/view/1239) - [Atalhos Bloggo](https://github.com/potigol/URI-Potigol/blob/master/src/1200-1299/1239.poti)
   - [x]  [1241](https://www.urionlinejudge.com.br/judge/pt/problems/view/1241) - [Encaixa ou Não II](https://github.com/potigol/URI-Potigol/blob/master/src/1200-1299/1241.poti)
   - [x]  [1253](https://www.urionlinejudge.com.br/judge/pt/problems/view/1253) - [Cifra de César](https://github.com/potigol/URI-Potigol/blob/master/src/1200-1299/1253.poti)
   - [x]  [1255](https://www.urionlinejudge.com.br/judge/pt/problems/view/1255) - [Frequência de Letras](https://github.com/potigol/URI-Potigol/blob/master/src/1200-1299/1255.poti)

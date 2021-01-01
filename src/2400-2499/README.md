@@ -27,7 +27,7 @@
   - [x]  [2424](https://www.urionlinejudge.com.br/judge/pt/problems/view/2424) - [Tira-teima](https://github.com/potigol/URI-Potigol/blob/master/src/2400-2499/2424.poti) *Ad-Hoc*
   - [ ]  [2425](https://www.urionlinejudge.com.br/judge/pt/problems/view/2425) - Banco *Ad-Hoc*
   - [ ]  [2426](https://www.urionlinejudge.com.br/judge/pt/problems/view/2426) - Bomba *Grafos*
-  - [ ]  [2427](https://www.urionlinejudge.com.br/judge/pt/problems/view/2427) - Chocolate *Ad-Hoc*
+  - [x]  [2427](https://www.urionlinejudge.com.br/judge/pt/problems/view/2427) - [Chocolate](https://github.com/potigol/URI-Potigol/blob/master/src/2400-2499/2427.poti) *Ad-Hoc*
   - [x]  [2428](https://www.urionlinejudge.com.br/judge/pt/problems/view/2428) - [Capital](https://github.com/potigol/URI-Potigol/blob/master/src/2400-2499/2428.poti) *Grafos*
   - [ ]  [2429](https://www.urionlinejudge.com.br/judge/pt/problems/view/2429) - Rodovia *Grafos*
   - [ ]  [2430](https://www.urionlinejudge.com.br/judge/pt/problems/view/2430) - Catálogo de Músicas *Ad-Hoc*

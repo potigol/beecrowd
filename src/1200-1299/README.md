@@ -39,7 +39,7 @@
   - [ ]  [1236](https://www.urionlinejudge.com.br/judge/pt/problems/view/1236) - Compactação de Nulos e Brancos *Estruturas e Bibliotecas*
   - [ ]  [1237](https://www.urionlinejudge.com.br/judge/pt/problems/view/1237) - Comparação de Substring *Strings*
   - [x]  [1238](https://www.urionlinejudge.com.br/judge/pt/problems/view/1238) - [Combinador](https://github.com/potigol/URI-Potigol/blob/master/src/1200-1299/1238.poti) *Strings*
-  - [ ]  [1239](https://www.urionlinejudge.com.br/judge/pt/problems/view/1239) - Atalhos Bloggo *Strings*
+  - [x]  [1239](https://www.urionlinejudge.com.br/judge/pt/problems/view/1239) - [Atalhos Bloggo](https://github.com/potigol/URI-Potigol/blob/master/src/1200-1299/1239.poti) *Strings*
   - [x]  [1240](https://www.urionlinejudge.com.br/judge/pt/problems/view/1240) - [Encaixa ou Não I](https://github.com/potigol/URI-Potigol/blob/master/src/1200-1299/1240.poti) *Matemática*
   - [x]  [1241](https://www.urionlinejudge.com.br/judge/pt/problems/view/1241) - [Encaixa ou Não II](https://github.com/potigol/URI-Potigol/blob/master/src/1200-1299/1241.poti) *Strings*
   - [ ]  [1242](https://www.urionlinejudge.com.br/judge/pt/problems/view/1242) - Ácido Ribonucleico Alienígena *Estruturas e Bibliotecas*

@@ -1,0 +1,20 @@
+sub(texto: Texto, chr: Caractere, tag1, tag2: Texto)
+  f(s: Texto, inicio: Logico): Texto
+    p = s.posicao(chr)
+    se p > 0 entao
+      f(s.pegue(p-1) + (se inicio entao tag1 senao tag2 fim) + s.descarte(p), nao inicio)
+    senao
+      s
+    fim
+  fim
+  f(texto, verdadeiro)
+fim
+
+bold(s: Texto) = sub(s, '*', "<b>", "</b>")
+italic(s: Texto) = sub(s, '_', "<i>", "</i>")
+
+var texto := leia_texto
+enquanto texto <> None.orNull faca
+  escreva bold(italic(texto))
+  texto := leia_texto
+fim

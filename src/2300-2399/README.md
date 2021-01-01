@@ -78,7 +78,7 @@
   - [x]  [2375](https://www.urionlinejudge.com.br/judge/pt/problems/view/2375) - [Sedex](https://github.com/potigol/URI-Potigol/blob/master/src/2300-2399/2375.poti) *Ad-Hoc*
   - [ ]  [2376](https://www.urionlinejudge.com.br/judge/pt/problems/view/2376) - Copa do Mundo *Ad-Hoc*
   - [x]  [2377](https://www.urionlinejudge.com.br/judge/pt/problems/view/2377) - [Pedágio](https://github.com/potigol/URI-Potigol/blob/master/src/2300-2399/2377.poti) *Ad-Hoc*
-  - [ ]  [2378](https://www.urionlinejudge.com.br/judge/pt/problems/view/2378) - Elevador *Ad-Hoc*
+  - [x]  [2378](https://www.urionlinejudge.com.br/judge/pt/problems/view/2378) - [Elevador](https://github.com/potigol/URI-Potigol/blob/master/src/2300-2399/2378.poti) *Ad-Hoc*
   - [ ]  [2379](https://www.urionlinejudge.com.br/judge/pt/problems/view/2379) - Dança Indígena *Ad-Hoc*
   - [ ]  [2380](https://www.urionlinejudge.com.br/judge/pt/problems/view/2380) - Fusões *Estruturas e Bibliotecas*
   - [x]  [2381](https://www.urionlinejudge.com.br/judge/pt/problems/view/2381) - [Lista de Chamada](https://github.com/potigol/URI-Potigol/blob/master/src/2300-2399/2381.poti) *Ad-Hoc*

@@ -1,4 +1,4 @@
-# Ad-Hoc (107 / 702)
+# Ad-Hoc (109 / 702)
 
 ## Problemas não resolvidos
   - [ ]  [1030](https://www.urionlinejudge.com.br/judge/pt/problems/view/1030) - A Lenda de Flavious Josephus
@@ -354,7 +354,6 @@
   - [ ]  [2368](https://www.urionlinejudge.com.br/judge/pt/problems/view/2368) - Simulador
   - [ ]  [2371](https://www.urionlinejudge.com.br/judge/pt/problems/view/2371) - Batalha Naval
   - [ ]  [2376](https://www.urionlinejudge.com.br/judge/pt/problems/view/2376) - Copa do Mundo
-  - [ ]  [2378](https://www.urionlinejudge.com.br/judge/pt/problems/view/2378) - Elevador
   - [ ]  [2379](https://www.urionlinejudge.com.br/judge/pt/problems/view/2379) - Dança Indígena
   - [ ]  [2382](https://www.urionlinejudge.com.br/judge/pt/problems/view/2382) - Sedex Marciano
   - [ ]  [2383](https://www.urionlinejudge.com.br/judge/pt/problems/view/2383) - Altas Aventuras
@@ -380,7 +379,6 @@
   - [ ]  [2420](https://www.urionlinejudge.com.br/judge/pt/problems/view/2420) - Guerra por Território
   - [ ]  [2423](https://www.urionlinejudge.com.br/judge/pt/problems/view/2423) - Receita de Bolo
   - [ ]  [2425](https://www.urionlinejudge.com.br/judge/pt/problems/view/2425) - Banco
-  - [ ]  [2427](https://www.urionlinejudge.com.br/judge/pt/problems/view/2427) - Chocolate
   - [ ]  [2430](https://www.urionlinejudge.com.br/judge/pt/problems/view/2430) - Catálogo de Músicas
   - [ ]  [2431](https://www.urionlinejudge.com.br/judge/pt/problems/view/2431) - Lençol
   - [ ]  [2432](https://www.urionlinejudge.com.br/judge/pt/problems/view/2432) - Tiro ao Alvo
@@ -646,6 +644,7 @@
   - [x]  [2374](https://www.urionlinejudge.com.br/judge/pt/problems/view/2374) - [Pneu](https://github.com/potigol/URI-Potigol/blob/master/src/2300-2399/2374.poti)
   - [x]  [2375](https://www.urionlinejudge.com.br/judge/pt/problems/view/2375) - [Sedex](https://github.com/potigol/URI-Potigol/blob/master/src/2300-2399/2375.poti)
   - [x]  [2377](https://www.urionlinejudge.com.br/judge/pt/problems/view/2377) - [Pedágio](https://github.com/potigol/URI-Potigol/blob/master/src/2300-2399/2377.poti)
+  - [x]  [2378](https://www.urionlinejudge.com.br/judge/pt/problems/view/2378) - [Elevador](https://github.com/potigol/URI-Potigol/blob/master/src/2300-2399/2378.poti)
   - [x]  [2381](https://www.urionlinejudge.com.br/judge/pt/problems/view/2381) - [Lista de Chamada](https://github.com/potigol/URI-Potigol/blob/master/src/2300-2399/2381.poti)
   - [x]  [2386](https://www.urionlinejudge.com.br/judge/pt/problems/view/2386) - [Telescópio](https://github.com/potigol/URI-Potigol/blob/master/src/2300-2399/2386.poti)
   - [x]  [2388](https://www.urionlinejudge.com.br/judge/pt/problems/view/2388) - [Tacógrafo](https://github.com/potigol/URI-Potigol/blob/master/src/2300-2399/2388.poti)
@@ -664,6 +663,7 @@
   - [x]  [2421](https://www.urionlinejudge.com.br/judge/pt/problems/view/2421) - [Álbum de Fotos](https://github.com/potigol/URI-Potigol/blob/master/src/2400-2499/2421.poti)
   - [x]  [2422](https://www.urionlinejudge.com.br/judge/pt/problems/view/2422) - [Soma das Casas](https://github.com/potigol/URI-Potigol/blob/master/src/2400-2499/2422.poti)
   - [x]  [2424](https://www.urionlinejudge.com.br/judge/pt/problems/view/2424) - [Tira-teima](https://github.com/potigol/URI-Potigol/blob/master/src/2400-2499/2424.poti)
+  - [x]  [2427](https://www.urionlinejudge.com.br/judge/pt/problems/view/2427) - [Chocolate](https://github.com/potigol/URI-Potigol/blob/master/src/2400-2499/2427.poti)
   - [x]  [2434](https://www.urionlinejudge.com.br/judge/pt/problems/view/2434) - [Saldo do Vovô](https://github.com/potigol/URI-Potigol/blob/master/src/2400-2499/2434.poti)
   - [x]  [2435](https://www.urionlinejudge.com.br/judge/pt/problems/view/2435) - [Corrida](https://github.com/potigol/URI-Potigol/blob/master/src/2400-2499/2435.poti)
   - [x]  [2437](https://www.urionlinejudge.com.br/judge/pt/problems/view/2437) - [Distância de Manhattan](https://github.com/potigol/URI-Potigol/blob/master/src/2400-2499/2437.poti)

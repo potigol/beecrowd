@@ -93,7 +93,7 @@
   - [ ]  [1390](https://www.urionlinejudge.com.br/judge/pt/problems/view/1390) - Bases *Matemática*
   - [ ]  [1391](https://www.urionlinejudge.com.br/judge/pt/problems/view/1391) - Quase Menor Caminho *Grafos*
   - [ ]  [1392](https://www.urionlinejudge.com.br/judge/pt/problems/view/1392) - Conta de Luz *Matemática*
-  - [ ]  [1393](https://www.urionlinejudge.com.br/judge/pt/problems/view/1393) - Lajotas Hexagonais *Matemática*
+  - [x]  [1393](https://www.urionlinejudge.com.br/judge/pt/problems/view/1393) - [Lajotas Hexagonais](https://github.com/potigol/URI-Potigol/blob/master/src/1300-1399/1393.poti) *Matemática*
   - [ ]  [1394](https://www.urionlinejudge.com.br/judge/pt/problems/view/1394) - Hooligan *Grafos*
   - [ ]  [1395](https://www.urionlinejudge.com.br/judge/pt/problems/view/1395) - Números e Operações *Paradigmas*
   - [ ]  [1396](https://www.urionlinejudge.com.br/judge/pt/problems/view/1396) - Hoje tem Prova da Cris! *Paradigmas*
