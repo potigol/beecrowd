@@ -1,4 +1,4 @@
-# Ad-Hoc (109 / 702)
+# Ad-Hoc (111 / 702)
 
 ## Problemas não resolvidos
   - [ ]  [1030](https://www.urionlinejudge.com.br/judge/pt/problems/view/1030) - A Lenda de Flavious Josephus
@@ -33,7 +33,6 @@
   - [ ]  [1266](https://www.urionlinejudge.com.br/judge/pt/problems/view/1266) - Tornado!
   - [ ]  [1267](https://www.urionlinejudge.com.br/judge/pt/problems/view/1267) - Biblioteca Pascal
   - [ ]  [1271](https://www.urionlinejudge.com.br/judge/pt/problems/view/1271) - Onde estão meus Genes
-  - [ ]  [1285](https://www.urionlinejudge.com.br/judge/pt/problems/view/1285) - Dígitos Diferentes
   - [ ]  [1290](https://www.urionlinejudge.com.br/judge/pt/problems/view/1290) - Caixas Muito Especiais
   - [ ]  [1311](https://www.urionlinejudge.com.br/judge/pt/problems/view/1311) - Companheiros de Exército
   - [ ]  [1318](https://www.urionlinejudge.com.br/judge/pt/problems/view/1318) - Bilhetes Falsos
@@ -377,7 +376,6 @@
   - [ ]  [2415](https://www.urionlinejudge.com.br/judge/pt/problems/view/2415) - Consecutivos
   - [ ]  [2418](https://www.urionlinejudge.com.br/judge/pt/problems/view/2418) - Carnaval
   - [ ]  [2420](https://www.urionlinejudge.com.br/judge/pt/problems/view/2420) - Guerra por Território
-  - [ ]  [2423](https://www.urionlinejudge.com.br/judge/pt/problems/view/2423) - Receita de Bolo
   - [ ]  [2425](https://www.urionlinejudge.com.br/judge/pt/problems/view/2425) - Banco
   - [ ]  [2430](https://www.urionlinejudge.com.br/judge/pt/problems/view/2430) - Catálogo de Músicas
   - [ ]  [2431](https://www.urionlinejudge.com.br/judge/pt/problems/view/2431) - Lençol
@@ -604,6 +602,7 @@
   - [x]  [1171](https://www.urionlinejudge.com.br/judge/pt/problems/view/1171) - [Frequência de Números](https://github.com/potigol/URI-Potigol/blob/master/src/1100-1199/1171.poti)
   - [x]  [1192](https://www.urionlinejudge.com.br/judge/pt/problems/view/1192) - [O jogo Matemático de Paula](https://github.com/potigol/URI-Potigol/blob/master/src/1100-1199/1192.poti)
   - [x]  [1225](https://www.urionlinejudge.com.br/judge/pt/problems/view/1225) - [Coral Perfeito](https://github.com/potigol/URI-Potigol/blob/master/src/1200-1299/1225.poti)
+  - [x]  [1285](https://www.urionlinejudge.com.br/judge/pt/problems/view/1285) - [Dígitos Diferentes](https://github.com/potigol/URI-Potigol/blob/master/src/1200-1299/1285.poti)
   - [x]  [1300](https://www.urionlinejudge.com.br/judge/pt/problems/view/1300) - [Horas e Minutos](https://github.com/potigol/URI-Potigol/blob/master/src/1300-1399/1300.poti)
   - [x]  [1329](https://www.urionlinejudge.com.br/judge/pt/problems/view/1329) - [Cara ou Coroa](https://github.com/potigol/URI-Potigol/blob/master/src/1300-1399/1329.poti)
   - [x]  [1379](https://www.urionlinejudge.com.br/judge/pt/problems/view/1379) - [Problema com Mediana e Média](https://github.com/potigol/URI-Potigol/blob/master/src/1300-1399/1379.poti)
@@ -662,6 +661,7 @@
   - [x]  [2417](https://www.urionlinejudge.com.br/judge/pt/problems/view/2417) - [Campeonato](https://github.com/potigol/URI-Potigol/blob/master/src/2400-2499/2417.poti)
   - [x]  [2421](https://www.urionlinejudge.com.br/judge/pt/problems/view/2421) - [Álbum de Fotos](https://github.com/potigol/URI-Potigol/blob/master/src/2400-2499/2421.poti)
   - [x]  [2422](https://www.urionlinejudge.com.br/judge/pt/problems/view/2422) - [Soma das Casas](https://github.com/potigol/URI-Potigol/blob/master/src/2400-2499/2422.poti)
+  - [x]  [2423](https://www.urionlinejudge.com.br/judge/pt/problems/view/2423) - [Receita de Bolo](https://github.com/potigol/URI-Potigol/blob/master/src/2400-2499/2423.poti)
   - [x]  [2424](https://www.urionlinejudge.com.br/judge/pt/problems/view/2424) - [Tira-teima](https://github.com/potigol/URI-Potigol/blob/master/src/2400-2499/2424.poti)
   - [x]  [2427](https://www.urionlinejudge.com.br/judge/pt/problems/view/2427) - [Chocolate](https://github.com/potigol/URI-Potigol/blob/master/src/2400-2499/2427.poti)
   - [x]  [2434](https://www.urionlinejudge.com.br/judge/pt/problems/view/2434) - [Saldo do Vovô](https://github.com/potigol/URI-Potigol/blob/master/src/2400-2499/2434.poti)

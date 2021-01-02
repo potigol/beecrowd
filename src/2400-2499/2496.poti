@@ -1,0 +1,11 @@
+n = leia_inteiro
+para i de 1 ate n faca
+  m = leia_inteiro
+  s = leia_texto
+  trocas = para j de 1 ate m se s[j] - 'A' <> j - 1 gere 1 fim.tamanho
+  se trocas < 3 entao
+    escreva "There are the chance."
+  senao
+    escreva "There aren't the chance."
+  fim
+fim

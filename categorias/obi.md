@@ -119,7 +119,7 @@
   - [ ]  [2420](https://www.urionlinejudge.com.br/judge/pt/problems/view/2420) - Guerra por Território *Ad-Hoc*
   - [x]  [2421](https://www.urionlinejudge.com.br/judge/pt/problems/view/2421) - [Álbum de Fotos](https://github.com/potigol/URI-Potigol/blob/master/src/2400-2499/2421.poti) *Ad-Hoc*
   - [x]  [2422](https://www.urionlinejudge.com.br/judge/pt/problems/view/2422) - [Soma das Casas](https://github.com/potigol/URI-Potigol/blob/master/src/2400-2499/2422.poti) *Ad-Hoc*
-  - [ ]  [2423](https://www.urionlinejudge.com.br/judge/pt/problems/view/2423) - Receita de Bolo *Ad-Hoc*
+  - [x]  [2423](https://www.urionlinejudge.com.br/judge/pt/problems/view/2423) - [Receita de Bolo](https://github.com/potigol/URI-Potigol/blob/master/src/2400-2499/2423.poti) *Ad-Hoc*
   - [x]  [2424](https://www.urionlinejudge.com.br/judge/pt/problems/view/2424) - [Tira-teima](https://github.com/potigol/URI-Potigol/blob/master/src/2400-2499/2424.poti) *Ad-Hoc*
   - [ ]  [2425](https://www.urionlinejudge.com.br/judge/pt/problems/view/2425) - Banco *Ad-Hoc*
   - [ ]  [2426](https://www.urionlinejudge.com.br/judge/pt/problems/view/2426) - Bomba *Grafos*

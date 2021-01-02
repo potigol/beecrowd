@@ -85,7 +85,7 @@
   - [ ]  [1282](https://www.urionlinejudge.com.br/judge/pt/problems/view/1282) - Organizando Pacotes *Paradigmas*
   - [ ]  [1283](https://www.urionlinejudge.com.br/judge/pt/problems/view/1283) - Caixas e Pedras *Paradigmas*
   - [ ]  [1284](https://www.urionlinejudge.com.br/judge/pt/problems/view/1284) - Digitando no Telefone Celular *Strings*
-  - [ ]  [1285](https://www.urionlinejudge.com.br/judge/pt/problems/view/1285) - Dígitos Diferentes *Ad-Hoc*
+  - [x]  [1285](https://www.urionlinejudge.com.br/judge/pt/problems/view/1285) - [Dígitos Diferentes](https://github.com/potigol/URI-Potigol/blob/master/src/1200-1299/1285.poti) *Ad-Hoc*
   - [ ]  [1286](https://www.urionlinejudge.com.br/judge/pt/problems/view/1286) - Motoboy *Paradigmas*
   - [ ]  [1287](https://www.urionlinejudge.com.br/judge/pt/problems/view/1287) - Processador Amigável de Inteiros *Strings*
   - [ ]  [1288](https://www.urionlinejudge.com.br/judge/pt/problems/view/1288) - Canhão de Destruição *Paradigmas*

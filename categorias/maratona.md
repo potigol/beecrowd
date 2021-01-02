@@ -276,7 +276,7 @@
   - [ ]  [1282](https://www.urionlinejudge.com.br/judge/pt/problems/view/1282) - Organizando Pacotes *Paradigmas*
   - [ ]  [1283](https://www.urionlinejudge.com.br/judge/pt/problems/view/1283) - Caixas e Pedras *Paradigmas*
   - [ ]  [1284](https://www.urionlinejudge.com.br/judge/pt/problems/view/1284) - Digitando no Telefone Celular *Strings*
-  - [ ]  [1285](https://www.urionlinejudge.com.br/judge/pt/problems/view/1285) - Dígitos Diferentes *Ad-Hoc*
+  - [x]  [1285](https://www.urionlinejudge.com.br/judge/pt/problems/view/1285) - [Dígitos Diferentes](https://github.com/potigol/URI-Potigol/blob/master/src/1200-1299/1285.poti) *Ad-Hoc*
   - [ ]  [1297](https://www.urionlinejudge.com.br/judge/pt/problems/view/1297) - Proteção do Meio Ambiente *Matemática*
   - [ ]  [1298](https://www.urionlinejudge.com.br/judge/pt/problems/view/1298) - Corrija o Labirinto *Grafos*
   - [ ]  [1299](https://www.urionlinejudge.com.br/judge/pt/problems/view/1299) - Jogo de Mosaicos *Paradigmas*

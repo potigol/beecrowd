@@ -1,4 +1,4 @@
-# Estruturas e Bibliotecas (13 / 164)
+# Estruturas e Bibliotecas (15 / 164)
 
 ## Problemas não resolvidos
   - [ ]  [1023](https://www.urionlinejudge.com.br/judge/pt/problems/view/1023) - Estiagem
@@ -105,7 +105,6 @@
   - [ ]  [2488](https://www.urionlinejudge.com.br/judge/pt/problems/view/2488) - É Na Batida do Cavalo!
   - [ ]  [2492](https://www.urionlinejudge.com.br/judge/pt/problems/view/2492) - Ilhas Isoladas
   - [ ]  [2495](https://www.urionlinejudge.com.br/judge/pt/problems/view/2495) - Onde Está Minha Caneta?
-  - [ ]  [2496](https://www.urionlinejudge.com.br/judge/pt/problems/view/2496) - A Única Chance
   - [ ]  [2503](https://www.urionlinejudge.com.br/judge/pt/problems/view/2503) - Corrida de Regularidade
   - [ ]  [2506](https://www.urionlinejudge.com.br/judge/pt/problems/view/2506) - Fila do SUS
   - [ ]  [2519](https://www.urionlinejudge.com.br/judge/pt/problems/view/2519) - Estratégia Campeã
@@ -147,7 +146,6 @@
   - [ ]  [2952](https://www.urionlinejudge.com.br/judge/pt/problems/view/2952) - A Vida Sustentável
   - [ ]  [2958](https://www.urionlinejudge.com.br/judge/pt/problems/view/2958) - O Rolê Bad Vibes
   - [ ]  [2961](https://www.urionlinejudge.com.br/judge/pt/problems/view/2961) - Ô, Que Tanto de Filme!
-  - [ ]  [2984](https://www.urionlinejudge.com.br/judge/pt/problems/view/2984) - Assuntos Pendentes
   - [ ]  [3045](https://www.urionlinejudge.com.br/judge/pt/problems/view/3045) - Parque Jurássico
   - [ ]  [3069](https://www.urionlinejudge.com.br/judge/pt/problems/view/3069) - Sorvete
   - [ ]  [3097](https://www.urionlinejudge.com.br/judge/pt/problems/view/3097) - Um Desafio Simples
@@ -165,4 +163,6 @@
   - [x]  [1709](https://www.urionlinejudge.com.br/judge/pt/problems/view/1709) - [Baralho Embaralhado](https://github.com/potigol/URI-Potigol/blob/master/src/1700-1799/1709.poti)
   - [x]  [2091](https://www.urionlinejudge.com.br/judge/pt/problems/view/2091) - [Número Solitário](https://github.com/potigol/URI-Potigol/blob/master/src/2000-2099/2091.poti)
   - [x]  [2338](https://www.urionlinejudge.com.br/judge/pt/problems/view/2338) - [Morse](https://github.com/potigol/URI-Potigol/blob/master/src/2300-2399/2338.poti)
+  - [x]  [2496](https://www.urionlinejudge.com.br/judge/pt/problems/view/2496) - [A Única Chance](https://github.com/potigol/URI-Potigol/blob/master/src/2400-2499/2496.poti)
   - [x]  [2729](https://www.urionlinejudge.com.br/judge/pt/problems/view/2729) - [Lista de Compras](https://github.com/potigol/URI-Potigol/blob/master/src/2700-2799/2729.poti)
+  - [x]  [2984](https://www.urionlinejudge.com.br/judge/pt/problems/view/2984) - [Assuntos Pendentes](https://github.com/potigol/URI-Potigol/blob/master/src/2900-2999/2984.poti)

@@ -1,0 +1,20 @@
+sem_repeticao(n: Inteiro)
+  a = n.texto.ordene.lista
+  b = a.zip(a.cauda)
+  b.selecione(x => x.primeiro == x.segundo).tamanho == 0
+fim
+
+var c := 0
+numeros = para i de 1 ate 5001 gere
+  d = c
+  se sem_repeticao(i) entao c:= c + 1 fim
+  d
+fim
+
+var a := leia_texto
+enquanto a <> None.orNull faca
+  z = a.divida(" ")
+  n, m = z[1].inteiro, z[2].inteiro
+  escreva numeros[m+1] - numeros[n]
+  a := leia_texto
+fim

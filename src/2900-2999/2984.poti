@@ -1,0 +1,12 @@
+s = leia_texto
+var x := 0
+para c em s faca
+  se c == '(' entao x := x + 1
+  senaose x > 0 e c == ')' entao x := x - 1
+  fim
+fim
+se x == 0 entao
+  escreva "Partiu RU!"
+senao
+  escreva "Ainda temos {x} assunto(s) pendente(s)!"
+fim

@@ -23,7 +23,7 @@
   - [ ]  [2420](https://www.urionlinejudge.com.br/judge/pt/problems/view/2420) - Guerra por Território *Ad-Hoc*
   - [x]  [2421](https://www.urionlinejudge.com.br/judge/pt/problems/view/2421) - [Álbum de Fotos](https://github.com/potigol/URI-Potigol/blob/master/src/2400-2499/2421.poti) *Ad-Hoc*
   - [x]  [2422](https://www.urionlinejudge.com.br/judge/pt/problems/view/2422) - [Soma das Casas](https://github.com/potigol/URI-Potigol/blob/master/src/2400-2499/2422.poti) *Ad-Hoc*
-  - [ ]  [2423](https://www.urionlinejudge.com.br/judge/pt/problems/view/2423) - Receita de Bolo *Ad-Hoc*
+  - [x]  [2423](https://www.urionlinejudge.com.br/judge/pt/problems/view/2423) - [Receita de Bolo](https://github.com/potigol/URI-Potigol/blob/master/src/2400-2499/2423.poti) *Ad-Hoc*
   - [x]  [2424](https://www.urionlinejudge.com.br/judge/pt/problems/view/2424) - [Tira-teima](https://github.com/potigol/URI-Potigol/blob/master/src/2400-2499/2424.poti) *Ad-Hoc*
   - [ ]  [2425](https://www.urionlinejudge.com.br/judge/pt/problems/view/2425) - Banco *Ad-Hoc*
   - [ ]  [2426](https://www.urionlinejudge.com.br/judge/pt/problems/view/2426) - Bomba *Grafos*
@@ -96,7 +96,7 @@
   - [x]  [2493](https://www.urionlinejudge.com.br/judge/pt/problems/view/2493) - [Jogo do Operador](https://github.com/potigol/URI-Potigol/blob/master/src/2400-2499/2493.poti) *Iniciante*
   - [ ]  [2494](https://www.urionlinejudge.com.br/judge/pt/problems/view/2494) - Canetas *Matemática*
   - [ ]  [2495](https://www.urionlinejudge.com.br/judge/pt/problems/view/2495) - Onde Está Minha Caneta? *Estruturas e Bibliotecas*
-  - [ ]  [2496](https://www.urionlinejudge.com.br/judge/pt/problems/view/2496) - A Única Chance *Estruturas e Bibliotecas*
+  - [x]  [2496](https://www.urionlinejudge.com.br/judge/pt/problems/view/2496) - [A Única Chance](https://github.com/potigol/URI-Potigol/blob/master/src/2400-2499/2496.poti) *Estruturas e Bibliotecas*
   - [x]  [2497](https://www.urionlinejudge.com.br/judge/pt/problems/view/2497) - [Contando Ciclos](https://github.com/potigol/URI-Potigol/blob/master/src/2400-2499/2497.poti) *Matemática*
   - [ ]  [2498](https://www.urionlinejudge.com.br/judge/pt/problems/view/2498) - Ajude Vânia *Paradigmas*
   - [ ]  [2499](https://www.urionlinejudge.com.br/judge/pt/problems/view/2499) - Triângulo Interno *Matemática*
