@@ -22,7 +22,7 @@
   - [ ]  [2919](https://www.urionlinejudge.com.br/judge/pt/problems/view/2919) - Melhor Ordem *Paradigmas*
   - [ ]  [2920](https://www.urionlinejudge.com.br/judge/pt/problems/view/2920) - Número Pequeno *Paradigmas*
   - [ ]  [2921](https://www.urionlinejudge.com.br/judge/pt/problems/view/2921) - Quadros Alienígenas *Paradigmas*
-  - [ ]  [2922](https://www.urionlinejudge.com.br/judge/pt/problems/view/2922) - Salas De Aula *Ad-Hoc*
+  - [x]  [2922](https://www.urionlinejudge.com.br/judge/pt/problems/view/2922) - [Salas De Aula](https://github.com/potigol/URI-Potigol/blob/master/src/2900-2999/2922.poti) *Ad-Hoc*
   - [ ]  [2923](https://www.urionlinejudge.com.br/judge/pt/problems/view/2923) - Birinho *Ad-Hoc*
   - [ ]  [2924](https://www.urionlinejudge.com.br/judge/pt/problems/view/2924) - BigInt *Ad-Hoc*
   - [ ]  [2925](https://www.urionlinejudge.com.br/judge/pt/problems/view/2925) - Sequência IccanobiF *Ad-Hoc*

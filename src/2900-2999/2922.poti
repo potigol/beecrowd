@@ -1,0 +1,11 @@
+var a := leia_texto
+enquanto a <> None.orNull faca
+  b = a.divida(" ").mapeie(_.inteiro).ordene
+  x, y = b[1], b[2]
+  se x <> y entao
+    escreva y - x - 1
+  senao
+    escreva 0
+  fim
+  a := leia_texto
+fim

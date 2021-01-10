@@ -1,4 +1,4 @@
-# Ad-Hoc (111 / 702)
+# Ad-Hoc (112 / 702)
 
 ## Problemas não resolvidos
   - [ ]  [1030](https://www.urionlinejudge.com.br/judge/pt/problems/view/1030) - A Lenda de Flavious Josephus
@@ -513,7 +513,6 @@
   - [ ]  [2913](https://www.urionlinejudge.com.br/judge/pt/problems/view/2913) - KryptoLocker Ate my Homework
   - [ ]  [2914](https://www.urionlinejudge.com.br/judge/pt/problems/view/2914) - Looking for the Risk Factor
   - [ ]  [2915](https://www.urionlinejudge.com.br/judge/pt/problems/view/2915) - Mount Marathon
-  - [ ]  [2922](https://www.urionlinejudge.com.br/judge/pt/problems/view/2922) - Salas De Aula
   - [ ]  [2923](https://www.urionlinejudge.com.br/judge/pt/problems/view/2923) - Birinho
   - [ ]  [2924](https://www.urionlinejudge.com.br/judge/pt/problems/view/2924) - BigInt
   - [ ]  [2925](https://www.urionlinejudge.com.br/judge/pt/problems/view/2925) - Sequência IccanobiF
@@ -688,6 +687,7 @@
   - [x]  [2851](https://www.urionlinejudge.com.br/judge/pt/problems/view/2851) - [Desafio de Rangel](https://github.com/potigol/URI-Potigol/blob/master/src/2800-2899/2851.poti)
   - [x]  [2858](https://www.urionlinejudge.com.br/judge/pt/problems/view/2858) - [Tabuleiro Infinito](https://github.com/potigol/URI-Potigol/blob/master/src/2800-2899/2858.poti)
   - [x]  [2868](https://www.urionlinejudge.com.br/judge/pt/problems/view/2868) - [Errrou!](https://github.com/potigol/URI-Potigol/blob/master/src/2800-2899/2868.poti)
+  - [x]  [2922](https://www.urionlinejudge.com.br/judge/pt/problems/view/2922) - [Salas De Aula](https://github.com/potigol/URI-Potigol/blob/master/src/2900-2999/2922.poti)
   - [x]  [2926](https://www.urionlinejudge.com.br/judge/pt/problems/view/2926) - [Então é Natal!](https://github.com/potigol/URI-Potigol/blob/master/src/2900-2999/2926.poti)
   - [x]  [3005](https://www.urionlinejudge.com.br/judge/pt/problems/view/3005) - [Pilhas de Paralelepípedos](https://github.com/potigol/URI-Potigol/blob/master/src/3000-3099/3005.poti)
   - [x]  [3024](https://www.urionlinejudge.com.br/judge/pt/problems/view/3024) - [Mountain Ranges](https://github.com/potigol/URI-Potigol/blob/master/src/3000-3099/3024.poti)

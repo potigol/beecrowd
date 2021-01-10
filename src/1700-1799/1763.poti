@@ -1,0 +1,36 @@
+natal = [
+  ("alemanha", "Frohliche Weihnachten!"),
+  ("antardida", "Merry Christmas!"),
+  ("argentina", "Feliz Navidad!"),
+  ("australia", "Merry Christmas!"),
+  ("austria", "Frohe Weihnacht!"),
+  ("belgica", "Zalig Kerstfeest!"),
+  ("brasil", "Feliz Natal!"),
+  ("canada", "Merry Christmas!"),
+  ("chile", "Feliz Navidad!"),
+  ("coreia", "Chuk Sung Tan!"),
+  ("espanha", "Feliz Navidad!"),
+  ("estados-unidos", "Merry Christmas!"),
+  ("grecia", "Kala Christougena!"),
+  ("inglaterra", "Merry Christmas!"),
+  ("irlanda", "Nollaig Shona Dhuit!"),
+  ("italia", "Buon Natale!"),
+  ("japao", "Merii Kurisumasu!"),
+  ("libia", "Buon Natale!"),
+  ("marrocos", "Milad Mubarak!"),
+  ("mexico", "Feliz Navidad!"),
+  ("portugal", "Feliz Natal!"),
+  ("siria", "Milad Mubarak!"),
+  ("suecia", "God Jul!"),
+  ("turquia", "Mutlu Noeller"),
+]
+
+var pais := leia_texto
+enquanto pais <> None.orNull faca
+  x = natal.selecione(a => a.primeiro == pais)
+  escolha x
+    caso []    => escreva "--- NOT FOUND ---"
+    caso a::as => escreva a.segundo
+  fim
+  pais := leia_texto
+fim

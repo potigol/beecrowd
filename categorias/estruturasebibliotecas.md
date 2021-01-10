@@ -1,4 +1,4 @@
-# Estruturas e Bibliotecas (15 / 164)
+# Estruturas e Bibliotecas (16 / 164)
 
 ## Problemas não resolvidos
   - [ ]  [1023](https://www.urionlinejudge.com.br/judge/pt/problems/view/1023) - Estiagem
@@ -61,7 +61,6 @@
   - [ ]  [1740](https://www.urionlinejudge.com.br/judge/pt/problems/view/1740) - Está Ordenado?
   - [ ]  [1746](https://www.urionlinejudge.com.br/judge/pt/problems/view/1746) - Dividindo os Nomes
   - [ ]  [1762](https://www.urionlinejudge.com.br/judge/pt/problems/view/1762) - Trenós do Papai Noel
-  - [ ]  [1763](https://www.urionlinejudge.com.br/judge/pt/problems/view/1763) - Tradutor do Papai Noel
   - [ ]  [1766](https://www.urionlinejudge.com.br/judge/pt/problems/view/1766) - O Elfo das Trevas
   - [ ]  [1804](https://www.urionlinejudge.com.br/judge/pt/problems/view/1804) - Precisa-se de Matemáticos em Marte
   - [ ]  [1851](https://www.urionlinejudge.com.br/judge/pt/problems/view/1851) - Como Treinar Seu Dragão
@@ -161,6 +160,7 @@
   - [x]  [1430](https://www.urionlinejudge.com.br/judge/pt/problems/view/1430) - [Composição de Jingles](https://github.com/potigol/URI-Potigol/blob/master/src/1400-1499/1430.poti)
   - [x]  [1548](https://www.urionlinejudge.com.br/judge/pt/problems/view/1548) - [Fila do Recreio](https://github.com/potigol/URI-Potigol/blob/master/src/1500-1599/1548.poti)
   - [x]  [1709](https://www.urionlinejudge.com.br/judge/pt/problems/view/1709) - [Baralho Embaralhado](https://github.com/potigol/URI-Potigol/blob/master/src/1700-1799/1709.poti)
+  - [x]  [1763](https://www.urionlinejudge.com.br/judge/pt/problems/view/1763) - [Tradutor do Papai Noel](https://github.com/potigol/URI-Potigol/blob/master/src/1700-1799/1763.poti)
   - [x]  [2091](https://www.urionlinejudge.com.br/judge/pt/problems/view/2091) - [Número Solitário](https://github.com/potigol/URI-Potigol/blob/master/src/2000-2099/2091.poti)
   - [x]  [2338](https://www.urionlinejudge.com.br/judge/pt/problems/view/2338) - [Morse](https://github.com/potigol/URI-Potigol/blob/master/src/2300-2399/2338.poti)
   - [x]  [2496](https://www.urionlinejudge.com.br/judge/pt/problems/view/2496) - [A Única Chance](https://github.com/potigol/URI-Potigol/blob/master/src/2400-2499/2496.poti)

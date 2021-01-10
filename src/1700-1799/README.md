@@ -63,7 +63,7 @@
   - [x]  [1760](https://www.urionlinejudge.com.br/judge/pt/problems/view/1760) - [Floco de Neve de Koch](https://github.com/potigol/URI-Potigol/blob/master/src/1700-1799/1760.poti) *Matemática*
   - [x]  [1761](https://www.urionlinejudge.com.br/judge/pt/problems/view/1761) - [Decoração Natalina](https://github.com/potigol/URI-Potigol/blob/master/src/1700-1799/1761.poti) *Matemática*
   - [ ]  [1762](https://www.urionlinejudge.com.br/judge/pt/problems/view/1762) - Trenós do Papai Noel *Estruturas e Bibliotecas*
-  - [ ]  [1763](https://www.urionlinejudge.com.br/judge/pt/problems/view/1763) - Tradutor do Papai Noel *Estruturas e Bibliotecas*
+  - [x]  [1763](https://www.urionlinejudge.com.br/judge/pt/problems/view/1763) - [Tradutor do Papai Noel](https://github.com/potigol/URI-Potigol/blob/master/src/1700-1799/1763.poti) *Estruturas e Bibliotecas*
   - [ ]  [1764](https://www.urionlinejudge.com.br/judge/pt/problems/view/1764) - Itinerário do Papai Noel *Grafos*
   - [ ]  [1765](https://www.urionlinejudge.com.br/judge/pt/problems/view/1765) - Trapézios de Natal *Ad-Hoc*
   - [ ]  [1766](https://www.urionlinejudge.com.br/judge/pt/problems/view/1766) - O Elfo das Trevas *Estruturas e Bibliotecas*
