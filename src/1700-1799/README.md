@@ -81,7 +81,7 @@
   - [ ]  [1778](https://www.urionlinejudge.com.br/judge/pt/problems/view/1778) - Defesa ao Grafo *Grafos*
   - [ ]  [1779](https://www.urionlinejudge.com.br/judge/pt/problems/view/1779) - Estimando a Média *Ad-Hoc*
   - [ ]  [1780](https://www.urionlinejudge.com.br/judge/pt/problems/view/1780) - Formação de Robôs *Ad-Hoc*
-  - [ ]  [1781](https://www.urionlinejudge.com.br/judge/pt/problems/view/1781) - Guga e a String *Strings*
+  - [x]  [1781](https://www.urionlinejudge.com.br/judge/pt/problems/view/1781) - [Guga e a String](https://github.com/potigol/URI-Potigol/blob/master/src/1700-1799/1781.poti) *Strings*
   - [ ]  [1782](https://www.urionlinejudge.com.br/judge/pt/problems/view/1782) - Honorável Presente *Grafos*
   - [ ]  [1783](https://www.urionlinejudge.com.br/judge/pt/problems/view/1783) - Ih, Ferrou, um Buraco Negro! *Geometria Computacional*
   - [ ]  [1784](https://www.urionlinejudge.com.br/judge/pt/problems/view/1784) - Jacutingas vs Jaburus *Paradigmas*

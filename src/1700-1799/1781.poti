@@ -1,0 +1,37 @@
+montar(é_vogal: Texto, vogais, consoantes: Texto) = (d_vogais, d_consoantes: Inteiro) => faca
+  t_vogais, t_consoantes, t = vogais.tamanho, consoantes.tamanho, é_vogal.tamanho
+  var a := se t_vogais > 0 entao t_vogais - d_vogais mod t_vogais - 1 senao 0 fim
+  var b := se t_consoantes > 0 entao t_consoantes - d_consoantes mod t_consoantes - 1 senao 0 fim
+  para i de 1 ate t gere
+    se é_vogal[i] == 'a' entao
+      a := (a + 1) mod t_vogais
+      vogais[a + 1]
+    senao
+      b := (b + 1) mod t_consoantes
+      consoantes[b + 1]
+    fim
+  fim.junte("")
+fim
+
+vg(c: Caractere) = c == 'a' ou c == 'e' ou c == 'i' ou c == 'o' ou c == 'u'
+
+t = leia_inteiro
+para i de 1 ate t faca
+  escreva "Caso #{i}:"
+  s = leia_texto
+  vogais = s.selecione(vg(_))
+  consoantes = s.selecione(nao vg(_))
+  var d_v, d_c := 0
+  é_vogal = s.mapeie(c => se vg(c) entao 'a' senao 'b' fim)
+  q = leia_inteiro
+  para i de 1 ate q faca
+    x = leia_texto
+    y = x.descarte(2).inteiro
+    m = montar(é_vogal, vogais, consoantes)
+    escolha x.cabeca
+      caso '0' => d_v := d_v + y
+      caso '1' => d_c := d_c + y
+      caso  _  => escreva m(d_v, d_c)
+    fim
+  fim
+fim

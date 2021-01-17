@@ -1,4 +1,4 @@
-# Strings (40 / 135)
+# Strings (41 / 135)
 
 ## Problemas não resolvidos
   - [ ]  [1141](https://www.urionlinejudge.com.br/judge/pt/problems/view/1141) - Cultivando Strings
@@ -42,7 +42,6 @@
   - [ ]  [1686](https://www.urionlinejudge.com.br/judge/pt/problems/view/1686) - Sequência de Palíndromos
   - [ ]  [1726](https://www.urionlinejudge.com.br/judge/pt/problems/view/1726) - Amigos
   - [ ]  [1737](https://www.urionlinejudge.com.br/judge/pt/problems/view/1737) - Etaoin Shrdlu
-  - [ ]  [1781](https://www.urionlinejudge.com.br/judge/pt/problems/view/1781) - Guga e a String
   - [ ]  [1842](https://www.urionlinejudge.com.br/judge/pt/problems/view/1842) - A Ordem da Fênix
   - [ ]  [1846](https://www.urionlinejudge.com.br/judge/pt/problems/view/1846) - Numero Para Nome
   - [ ]  [1853](https://www.urionlinejudge.com.br/judge/pt/problems/view/1853) - O Jogo da Confiança de Daenerys
@@ -116,6 +115,7 @@
   - [x]  [1581](https://www.urionlinejudge.com.br/judge/pt/problems/view/1581) - [Conversa Internacional](https://github.com/potigol/URI-Potigol/blob/master/src/1500-1599/1581.poti)
   - [x]  [1632](https://www.urionlinejudge.com.br/judge/pt/problems/view/1632) - [Variações](https://github.com/potigol/URI-Potigol/blob/master/src/1600-1699/1632.poti)
   - [x]  [1768](https://www.urionlinejudge.com.br/judge/pt/problems/view/1768) - [Árvore de Natal](https://github.com/potigol/URI-Potigol/blob/master/src/1700-1799/1768.poti)
+  - [x]  [1781](https://www.urionlinejudge.com.br/judge/pt/problems/view/1781) - [Guga e a String](https://github.com/potigol/URI-Potigol/blob/master/src/1700-1799/1781.poti)
   - [x]  [1803](https://www.urionlinejudge.com.br/judge/pt/problems/view/1803) - [Matring](https://github.com/potigol/URI-Potigol/blob/master/src/1800-1899/1803.poti)
   - [x]  [1868](https://www.urionlinejudge.com.br/judge/pt/problems/view/1868) - [Espiral Quadrada](https://github.com/potigol/URI-Potigol/blob/master/src/1800-1899/1868.poti)
   - [x]  [1871](https://www.urionlinejudge.com.br/judge/pt/problems/view/1871) - [Zero vale Zero](https://github.com/potigol/URI-Potigol/blob/master/src/1800-1899/1871.poti)
