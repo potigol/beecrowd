@@ -344,7 +344,7 @@
   - [ ]  [1137](https://www.urionlinejudge.com.br/judge/pt/problems/view/1137) - Pontos Cocirculares *Geometria Computacional*
   - [ ]  [1138](https://www.urionlinejudge.com.br/judge/pt/problems/view/1138) - Contagem de Dígitos *Matemática*
   - [ ]  [1139](https://www.urionlinejudge.com.br/judge/pt/problems/view/1139) - Necessidades Elétricas *Ad-Hoc*
-  - [ ]  [1140](https://www.urionlinejudge.com.br/judge/pt/problems/view/1140) - Flores Florescem da França *Ad-Hoc*
+  - [x]  [1140](https://www.urionlinejudge.com.br/judge/pt/problems/view/1140) - [Flores Florescem da França](https://github.com/potigol/URI-Potigol/blob/master/src/1100-1199/1140.poti) *Ad-Hoc*
   - [ ]  [1141](https://www.urionlinejudge.com.br/judge/pt/problems/view/1141) - Cultivando Strings *Strings*
   - [ ]  [1319](https://www.urionlinejudge.com.br/judge/pt/problems/view/1319) - Garota Hiperativa *Paradigmas*
   - [ ]  [1320](https://www.urionlinejudge.com.br/judge/pt/problems/view/1320) - Metrô Engenhoso *Ad-Hoc*

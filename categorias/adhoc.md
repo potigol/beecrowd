@@ -1,4 +1,4 @@
-# Ad-Hoc (112 / 702)
+# Ad-Hoc (113 / 702)
 
 ## Problemas não resolvidos
   - [ ]  [1030](https://www.urionlinejudge.com.br/judge/pt/problems/view/1030) - A Lenda de Flavious Josephus
@@ -18,7 +18,6 @@
   - [ ]  [1130](https://www.urionlinejudge.com.br/judge/pt/problems/view/1130) - Jogo da Velha
   - [ ]  [1136](https://www.urionlinejudge.com.br/judge/pt/problems/view/1136) - Bingo!
   - [ ]  [1139](https://www.urionlinejudge.com.br/judge/pt/problems/view/1139) - Necessidades Elétricas
-  - [ ]  [1140](https://www.urionlinejudge.com.br/judge/pt/problems/view/1140) - Flores Florescem da França
   - [ ]  [1147](https://www.urionlinejudge.com.br/judge/pt/problems/view/1147) - Fuga do Cavalo
   - [ ]  [1196](https://www.urionlinejudge.com.br/judge/pt/problems/view/1196) - WERTYU
   - [ ]  [1206](https://www.urionlinejudge.com.br/judge/pt/problems/view/1206) - Desafio de São Petersburgo
@@ -598,6 +597,7 @@
   - [x]  [1103](https://www.urionlinejudge.com.br/judge/pt/problems/view/1103) - [Alarme Despertador](https://github.com/potigol/URI-Potigol/blob/master/src/1100-1199/1103.poti)
   - [x]  [1104](https://www.urionlinejudge.com.br/judge/pt/problems/view/1104) - [Troca de Cartas](https://github.com/potigol/URI-Potigol/blob/master/src/1100-1199/1104.poti)
   - [x]  [1129](https://www.urionlinejudge.com.br/judge/pt/problems/view/1129) - [Leitura Ótica](https://github.com/potigol/URI-Potigol/blob/master/src/1100-1199/1129.poti)
+  - [x]  [1140](https://www.urionlinejudge.com.br/judge/pt/problems/view/1140) - [Flores Florescem da França](https://github.com/potigol/URI-Potigol/blob/master/src/1100-1199/1140.poti)
   - [x]  [1171](https://www.urionlinejudge.com.br/judge/pt/problems/view/1171) - [Frequência de Números](https://github.com/potigol/URI-Potigol/blob/master/src/1100-1199/1171.poti)
   - [x]  [1192](https://www.urionlinejudge.com.br/judge/pt/problems/view/1192) - [O jogo Matemático de Paula](https://github.com/potigol/URI-Potigol/blob/master/src/1100-1199/1192.poti)
   - [x]  [1225](https://www.urionlinejudge.com.br/judge/pt/problems/view/1225) - [Coral Perfeito](https://github.com/potigol/URI-Potigol/blob/master/src/1200-1299/1225.poti)

@@ -40,7 +40,7 @@
   - [ ]  [1137](https://www.urionlinejudge.com.br/judge/pt/problems/view/1137) - Pontos Cocirculares *Geometria Computacional*
   - [ ]  [1138](https://www.urionlinejudge.com.br/judge/pt/problems/view/1138) - Contagem de Dígitos *Matemática*
   - [ ]  [1139](https://www.urionlinejudge.com.br/judge/pt/problems/view/1139) - Necessidades Elétricas *Ad-Hoc*
-  - [ ]  [1140](https://www.urionlinejudge.com.br/judge/pt/problems/view/1140) - Flores Florescem da França *Ad-Hoc*
+  - [x]  [1140](https://www.urionlinejudge.com.br/judge/pt/problems/view/1140) - [Flores Florescem da França](https://github.com/potigol/URI-Potigol/blob/master/src/1100-1199/1140.poti) *Ad-Hoc*
   - [ ]  [1141](https://www.urionlinejudge.com.br/judge/pt/problems/view/1141) - Cultivando Strings *Strings*
   - [x]  [1142](https://www.urionlinejudge.com.br/judge/pt/problems/view/1142) - [PUM](https://github.com/potigol/URI-Potigol/blob/master/src/1100-1199/1142.poti) *Iniciante*
   - [x]  [1143](https://www.urionlinejudge.com.br/judge/pt/problems/view/1143) - [Quadrado e ao Cubo](https://github.com/potigol/URI-Potigol/blob/master/src/1100-1199/1143.poti) *Iniciante*

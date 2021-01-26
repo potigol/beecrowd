@@ -1,0 +1,18 @@
+var frase := leia_texto
+enquanto frase <> "*" faca
+  palavras = frase.maiúsculo.divida(" ")
+  primeira = palavras[1].cabeca
+  tamanho = palavras.tamanho
+  var tautograma, i := verdadeiro, 1
+  enquanto tautograma e i <= tamanho faca
+    tautograma := palavras[i].cabeca == primeira
+    i := i + 1
+  fim
+  # tautograma = palavras.mapeie(_.cabeca == primeira).injete(verdadeiro)(_ e _)
+  se tautograma entao
+    escreva "Y"
+  senao
+    escreva "N"
+  fim
+  frase := leia_texto
+fim
