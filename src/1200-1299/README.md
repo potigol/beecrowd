@@ -47,7 +47,7 @@
   - [x]  [1244](https://www.urionlinejudge.com.br/judge/pt/problems/view/1244) - [Ordenação por Tamanho](https://github.com/potigol/URI-Potigol/blob/master/src/1200-1299/1244.poti) *Estruturas e Bibliotecas*
   - [ ]  [1245](https://www.urionlinejudge.com.br/judge/pt/problems/view/1245) - Botas Perdidas *Ad-Hoc*
   - [ ]  [1246](https://www.urionlinejudge.com.br/judge/pt/problems/view/1246) - Estacionamento *Ad-Hoc*
-  - [ ]  [1247](https://www.urionlinejudge.com.br/judge/pt/problems/view/1247) - Guarda Costeira *Matemática*
+  - [x]  [1247](https://www.urionlinejudge.com.br/judge/pt/problems/view/1247) - [Guarda Costeira](https://github.com/potigol/URI-Potigol/blob/master/src/1200-1299/1247.poti) *Matemática*
   - [ ]  [1248](https://www.urionlinejudge.com.br/judge/pt/problems/view/1248) - Plano de Dieta *Strings*
   - [ ] ~~1249~~
   - [ ]  [1250](https://www.urionlinejudge.com.br/judge/pt/problems/view/1250) - KiloMan *Ad-Hoc*

@@ -297,7 +297,7 @@
   - [ ]  [1442](https://www.urionlinejudge.com.br/judge/pt/problems/view/1442) - Desvio de Rua *Grafos*
   - [ ]  [1246](https://www.urionlinejudge.com.br/judge/pt/problems/view/1246) - Estacionamento *Ad-Hoc*
   - [ ]  [1459](https://www.urionlinejudge.com.br/judge/pt/problems/view/1459) - Foco *Ad-Hoc*
-  - [ ]  [1247](https://www.urionlinejudge.com.br/judge/pt/problems/view/1247) - Guarda Costeira *Matemática*
+  - [x]  [1247](https://www.urionlinejudge.com.br/judge/pt/problems/view/1247) - [Guarda Costeira](https://github.com/potigol/URI-Potigol/blob/master/src/1200-1299/1247.poti) *Matemática*
   - [ ]  [1477](https://www.urionlinejudge.com.br/judge/pt/problems/view/1477) - Homem, Elefante e Rato *Estruturas e Bibliotecas*
 
 

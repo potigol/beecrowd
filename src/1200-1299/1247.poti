@@ -1,0 +1,14 @@
+var entrada := leia_texto
+enquanto entrada <> None.orNull faca
+  a = entrada.divida(" ")
+  d = a[1].inteiro
+  vf = a[2].inteiro
+  vg = a[3].inteiro
+  c = raiz(144 + d^2) / 12
+  se vg >= vf * c entao
+    escreva "S"
+  senao
+    escreva "N"
+  fim
+  entrada := leia_texto
+fim

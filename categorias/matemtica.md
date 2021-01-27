@@ -1,4 +1,4 @@
-# Matemática (38 / 245)
+# Matemática (39 / 245)
 
 ## Problemas não resolvidos
   - [ ]  [1093](https://www.urionlinejudge.com.br/judge/pt/problems/view/1093) - Vampiros
@@ -14,7 +14,6 @@
   - [ ]  [1230](https://www.urionlinejudge.com.br/judge/pt/problems/view/1230) - Integral
   - [ ]  [1232](https://www.urionlinejudge.com.br/judge/pt/problems/view/1232) - Ciclo de Rubik
   - [ ]  [1233](https://www.urionlinejudge.com.br/judge/pt/problems/view/1233) - Estrela
-  - [ ]  [1247](https://www.urionlinejudge.com.br/judge/pt/problems/view/1247) - Guarda Costeira
   - [ ]  [1264](https://www.urionlinejudge.com.br/judge/pt/problems/view/1264) - Um Problema Fácil!
   - [ ]  [1279](https://www.urionlinejudge.com.br/judge/pt/problems/view/1279) - Ano Bissexto ou Ano não Bissexto
   - [ ]  [1280](https://www.urionlinejudge.com.br/judge/pt/problems/view/1280) - Amigos
@@ -218,6 +217,7 @@
   - [x]  [1212](https://www.urionlinejudge.com.br/judge/pt/problems/view/1212) - [Aritmética Primária](https://github.com/potigol/URI-Potigol/blob/master/src/1200-1299/1212.poti)
   - [x]  [1221](https://www.urionlinejudge.com.br/judge/pt/problems/view/1221) - [Primo Rápido](https://github.com/potigol/URI-Potigol/blob/master/src/1200-1299/1221.poti)
   - [x]  [1240](https://www.urionlinejudge.com.br/judge/pt/problems/view/1240) - [Encaixa ou Não I](https://github.com/potigol/URI-Potigol/blob/master/src/1200-1299/1240.poti)
+  - [x]  [1247](https://www.urionlinejudge.com.br/judge/pt/problems/view/1247) - [Guarda Costeira](https://github.com/potigol/URI-Potigol/blob/master/src/1200-1299/1247.poti)
   - [x]  [1323](https://www.urionlinejudge.com.br/judge/pt/problems/view/1323) - [Feynman](https://github.com/potigol/URI-Potigol/blob/master/src/1300-1399/1323.poti)
   - [x]  [1393](https://www.urionlinejudge.com.br/judge/pt/problems/view/1393) - [Lajotas Hexagonais](https://github.com/potigol/URI-Potigol/blob/master/src/1300-1399/1393.poti)
   - [x]  [1429](https://www.urionlinejudge.com.br/judge/pt/problems/view/1429) - [Fatorial de Novo!](https://github.com/potigol/URI-Potigol/blob/master/src/1400-1499/1429.poti)
