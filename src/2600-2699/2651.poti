@@ -1,0 +1,7 @@
+s = "|"+leia_texto.minusculo+"|"
+a = s.divida("zelda").tamanho
+se a > 1 entao
+  escreva "Link Bolado"
+senao
+  escreva "Link Tranquilo"
+fim

@@ -1,0 +1,11 @@
+var n := leia_inteiro
+enquanto n > 0 faca
+  linhas = leia_textos(n).mapeie(_.descarte_enquanto(_ == ' ').divida(" ").junte(" "))
+  tamanho = linhas.injete(0)((a, b) => se b.tamanho > a entao b.tamanho senao a fim)
+  alinhamento = "%{tamanho}s"
+  para i de 1 ate n faca
+    escreva linhas[i] formato alinhamento
+  fim
+  n := leia_inteiro
+  se n > 0 entao escreva "" fim
+fim

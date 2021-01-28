@@ -79,7 +79,7 @@
   - [ ]  [2576](https://www.urionlinejudge.com.br/judge/pt/problems/view/2576) - Invertendo Setas *Ad-Hoc*
   - [ ]  [2577](https://www.urionlinejudge.com.br/judge/pt/problems/view/2577) - Jogo das Caixas *Ad-Hoc*
   - [ ]  [2578](https://www.urionlinejudge.com.br/judge/pt/problems/view/2578) - Ontarama Meraini *Ad-Hoc*
-  - [ ]  [2579](https://www.urionlinejudge.com.br/judge/pt/problems/view/2579) - Nagol *Ad-Hoc*
+  - [x]  [2579](https://www.urionlinejudge.com.br/judge/pt/problems/view/2579) - [Nagol](https://github.com/potigol/URI-Potigol/blob/master/src/2500-2599/2579.poti) *Ad-Hoc*
   - [ ]  [2580](https://www.urionlinejudge.com.br/judge/pt/problems/view/2580) - Mestre Pokémon Ho *Ad-Hoc*
   - [x]  [2581](https://www.urionlinejudge.com.br/judge/pt/problems/view/2581) - [I am Toorg!](https://github.com/potigol/URI-Potigol/blob/master/src/2500-2599/2581.poti) *Iniciante*
   - [x]  [2582](https://www.urionlinejudge.com.br/judge/pt/problems/view/2582) - [System of a Download](https://github.com/potigol/URI-Potigol/blob/master/src/2500-2599/2582.poti) *Iniciante*
@@ -91,7 +91,7 @@
   - [ ]  [2588](https://www.urionlinejudge.com.br/judge/pt/problems/view/2588) - Jogo dos Palíndromos *Strings*
   - [ ]  [2589](https://www.urionlinejudge.com.br/judge/pt/problems/view/2589) - Maior Distância Entre Primos Consecutivos *Matemática*
   - [ ]  [2590](https://www.urionlinejudge.com.br/judge/pt/problems/view/2590) - Sete *Ad-Hoc*
-  - [ ]  [2591](https://www.urionlinejudge.com.br/judge/pt/problems/view/2591) - HameKameKa *Strings*
+  - [x]  [2591](https://www.urionlinejudge.com.br/judge/pt/problems/view/2591) - [HameKameKa](https://github.com/potigol/URI-Potigol/blob/master/src/2500-2599/2591.poti) *Strings*
   - [ ]  [2592](https://www.urionlinejudge.com.br/judge/pt/problems/view/2592) - VaiNaSort *Ad-Hoc*
   - [ ]  [2593](https://www.urionlinejudge.com.br/judge/pt/problems/view/2593) - Eachianos I *Estruturas e Bibliotecas*
   - [ ]  [2594](https://www.urionlinejudge.com.br/judge/pt/problems/view/2594) - Eachianos II *Estruturas e Bibliotecas*

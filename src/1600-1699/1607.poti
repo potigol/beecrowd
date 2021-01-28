@@ -1,0 +1,15 @@
+t = leia_inteiro
+para i de 1 até t faça
+  lista = leia_textos(" ")
+  var total := 0
+  tm = lista[1].tamanho
+  para j de 1 até tm faça
+    tmp1, tmp2 = lista[1][j].inteiro, lista[2][j].inteiro
+    se tmp2 > tmp1 então
+      total := total + (tmp2 - tmp1)
+    senaose tmp1 > tmp2 então
+      total := total + (26 - (tmp1 - tmp2))
+    fim
+  fim
+  escreva total
+fim

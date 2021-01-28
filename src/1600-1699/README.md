@@ -7,7 +7,7 @@
   - [ ]  [1604](https://www.urionlinejudge.com.br/judge/pt/problems/view/1604) - Pair-voting no Conselho de Gueliz *Paradigmas*
   - [ ]  [1605](https://www.urionlinejudge.com.br/judge/pt/problems/view/1605) - Montando Sua Própria Cáfila *Paradigmas*
   - [ ]  [1606](https://www.urionlinejudge.com.br/judge/pt/problems/view/1606) - As Dicas de Ali Babá *Paradigmas*
-  - [ ]  [1607](https://www.urionlinejudge.com.br/judge/pt/problems/view/1607) - Avance as Letras *Strings*
+  - [x]  [1607](https://www.urionlinejudge.com.br/judge/pt/problems/view/1607) - [Avance as Letras](https://github.com/potigol/URI-Potigol/blob/master/src/1600-1699/1607.poti) *Strings*
   - [ ]  [1608](https://www.urionlinejudge.com.br/judge/pt/problems/view/1608) - Bolos da Maria *Paradigmas*
   - [ ]  [1609](https://www.urionlinejudge.com.br/judge/pt/problems/view/1609) - Contando Carneirinhos *Ad-Hoc*
   - [ ]  [1610](https://www.urionlinejudge.com.br/judge/pt/problems/view/1610) - Dudu Faz Serviço *Grafos*

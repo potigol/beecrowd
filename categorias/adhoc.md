@@ -1,4 +1,4 @@
-# Ad-Hoc (113 / 702)
+# Ad-Hoc (114 / 702)
 
 ## Problemas não resolvidos
   - [ ]  [1030](https://www.urionlinejudge.com.br/judge/pt/problems/view/1030) - A Lenda de Flavious Josephus
@@ -431,7 +431,6 @@
   - [ ]  [2576](https://www.urionlinejudge.com.br/judge/pt/problems/view/2576) - Invertendo Setas
   - [ ]  [2577](https://www.urionlinejudge.com.br/judge/pt/problems/view/2577) - Jogo das Caixas
   - [ ]  [2578](https://www.urionlinejudge.com.br/judge/pt/problems/view/2578) - Ontarama Meraini
-  - [ ]  [2579](https://www.urionlinejudge.com.br/judge/pt/problems/view/2579) - Nagol
   - [ ]  [2580](https://www.urionlinejudge.com.br/judge/pt/problems/view/2580) - Mestre Pokémon Ho
   - [ ]  [2586](https://www.urionlinejudge.com.br/judge/pt/problems/view/2586) - Cubonacci
   - [ ]  [2590](https://www.urionlinejudge.com.br/judge/pt/problems/view/2590) - Sete
@@ -678,6 +677,7 @@
   - [x]  [2473](https://www.urionlinejudge.com.br/judge/pt/problems/view/2473) - [Loteria](https://github.com/potigol/URI-Potigol/blob/master/src/2400-2499/2473.poti)
   - [x]  [2479](https://www.urionlinejudge.com.br/judge/pt/problems/view/2479) - [Ordenando a Lista de Crianças do Papai Noel](https://github.com/potigol/URI-Potigol/blob/master/src/2400-2499/2479.poti)
   - [x]  [2569](https://www.urionlinejudge.com.br/judge/pt/problems/view/2569) - [A Bruxa do 7 x 1](https://github.com/potigol/URI-Potigol/blob/master/src/2500-2599/2569.poti)
+  - [x]  [2579](https://www.urionlinejudge.com.br/judge/pt/problems/view/2579) - [Nagol](https://github.com/potigol/URI-Potigol/blob/master/src/2500-2599/2579.poti)
   - [x]  [2679](https://www.urionlinejudge.com.br/judge/pt/problems/view/2679) - [Sucessor Par](https://github.com/potigol/URI-Potigol/blob/master/src/2600-2699/2679.poti)
   - [x]  [2803](https://www.urionlinejudge.com.br/judge/pt/problems/view/2803) - [Estados do Norte](https://github.com/potigol/URI-Potigol/blob/master/src/2800-2899/2803.poti)
   - [x]  [2830](https://www.urionlinejudge.com.br/judge/pt/problems/view/2830) - [Copa](https://github.com/potigol/URI-Potigol/blob/master/src/2800-2899/2830.poti)

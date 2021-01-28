@@ -78,7 +78,7 @@
   - [ ]  [1275](https://www.urionlinejudge.com.br/judge/pt/problems/view/1275) - Light Up *Grafos*
   - [ ]  [1276](https://www.urionlinejudge.com.br/judge/pt/problems/view/1276) - Faixa de Letras *Strings*
   - [ ]  [1277](https://www.urionlinejudge.com.br/judge/pt/problems/view/1277) - Pouca Frequência *Strings*
-  - [ ]  [1278](https://www.urionlinejudge.com.br/judge/pt/problems/view/1278) - Justificador II *Strings*
+  - [x]  [1278](https://www.urionlinejudge.com.br/judge/pt/problems/view/1278) - [Justificador II](https://github.com/potigol/URI-Potigol/blob/master/src/1200-1299/1278.poti) *Strings*
   - [ ]  [1279](https://www.urionlinejudge.com.br/judge/pt/problems/view/1279) - Ano Bissexto ou Ano não Bissexto *Matemática*
   - [ ]  [1280](https://www.urionlinejudge.com.br/judge/pt/problems/view/1280) - Amigos *Matemática*
   - [ ]  [1281](https://www.urionlinejudge.com.br/judge/pt/problems/view/1281) - Ida à Feira *Estruturas e Bibliotecas*

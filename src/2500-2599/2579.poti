@@ -1,0 +1,15 @@
+a = leia_inteiros(" ")
+l, c, x, y = a[1], a[2], a[3], a[4]
+se (x mod 2 == 0) ou (c mod 2 == 0) entao
+  se y mod 2 == 0 entao
+    escreva "Direita"
+  senao
+    escreva "Esquerda"
+  fim
+senao
+  se y mod 2 == 0 entao
+    escreva "Esquerda"
+  senao
+    escreva "Direita"
+  fim
+fim

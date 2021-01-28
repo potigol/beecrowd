@@ -1,4 +1,4 @@
-# Strings (41 / 135)
+# Strings (45 / 135)
 
 ## Problemas não resolvidos
   - [ ]  [1141](https://www.urionlinejudge.com.br/judge/pt/problems/view/1141) - Cultivando Strings
@@ -10,7 +10,6 @@
   - [ ]  [1263](https://www.urionlinejudge.com.br/judge/pt/problems/view/1263) - Aliteração
   - [ ]  [1276](https://www.urionlinejudge.com.br/judge/pt/problems/view/1276) - Faixa de Letras
   - [ ]  [1277](https://www.urionlinejudge.com.br/judge/pt/problems/view/1277) - Pouca Frequência
-  - [ ]  [1278](https://www.urionlinejudge.com.br/judge/pt/problems/view/1278) - Justificador II
   - [ ]  [1284](https://www.urionlinejudge.com.br/judge/pt/problems/view/1284) - Digitando no Telefone Celular
   - [ ]  [1287](https://www.urionlinejudge.com.br/judge/pt/problems/view/1287) - Processador Amigável de Inteiros
   - [ ]  [1305](https://www.urionlinejudge.com.br/judge/pt/problems/view/1305) - Arredondamento por Valor de Corte
@@ -35,7 +34,6 @@
   - [ ]  [1530](https://www.urionlinejudge.com.br/judge/pt/problems/view/1530) - Quantas Substrings?
   - [ ]  [1556](https://www.urionlinejudge.com.br/judge/pt/problems/view/1556) - Removendo Letras
   - [ ]  [1586](https://www.urionlinejudge.com.br/judge/pt/problems/view/1586) - Cabo de Guerra
-  - [ ]  [1607](https://www.urionlinejudge.com.br/judge/pt/problems/view/1607) - Avance as Letras
   - [ ]  [1629](https://www.urionlinejudge.com.br/judge/pt/problems/view/1629) - DescompactaFACE
   - [ ]  [1664](https://www.urionlinejudge.com.br/judge/pt/problems/view/1664) - Bullshit Bingo
   - [ ]  [1667](https://www.urionlinejudge.com.br/judge/pt/problems/view/1667) - HTML
@@ -74,8 +72,6 @@
   - [ ]  [2549](https://www.urionlinejudge.com.br/judge/pt/problems/view/2549) - Nomes de Usuários
   - [ ]  [2583](https://www.urionlinejudge.com.br/judge/pt/problems/view/2583) - Chirrin Chirrion
   - [ ]  [2588](https://www.urionlinejudge.com.br/judge/pt/problems/view/2588) - Jogo dos Palíndromos
-  - [ ]  [2591](https://www.urionlinejudge.com.br/judge/pt/problems/view/2591) - HameKameKa
-  - [ ]  [2651](https://www.urionlinejudge.com.br/judge/pt/problems/view/2651) - Link Bolado
   - [ ]  [2669](https://www.urionlinejudge.com.br/judge/pt/problems/view/2669) - Laboratório de Biotecnologia
   - [ ]  [2678](https://www.urionlinejudge.com.br/judge/pt/problems/view/2678) - Discagem de Voz
   - [ ]  [2691](https://www.urionlinejudge.com.br/judge/pt/problems/view/2691) - O Matemático
@@ -110,9 +106,11 @@
   - [x]  [1262](https://www.urionlinejudge.com.br/judge/pt/problems/view/1262) - [Leitura Múltipla](https://github.com/potigol/URI-Potigol/blob/master/src/1200-1299/1262.poti)
   - [x]  [1272](https://www.urionlinejudge.com.br/judge/pt/problems/view/1272) - [Mensagem Oculta](https://github.com/potigol/URI-Potigol/blob/master/src/1200-1299/1272.poti)
   - [x]  [1273](https://www.urionlinejudge.com.br/judge/pt/problems/view/1273) - [Justificador](https://github.com/potigol/URI-Potigol/blob/master/src/1200-1299/1273.poti)
+  - [x]  [1278](https://www.urionlinejudge.com.br/judge/pt/problems/view/1278) - [Justificador II](https://github.com/potigol/URI-Potigol/blob/master/src/1200-1299/1278.poti)
   - [x]  [1332](https://www.urionlinejudge.com.br/judge/pt/problems/view/1332) - [Um-Dois-Três](https://github.com/potigol/URI-Potigol/blob/master/src/1300-1399/1332.poti)
   - [x]  [1551](https://www.urionlinejudge.com.br/judge/pt/problems/view/1551) - [Frase Completa](https://github.com/potigol/URI-Potigol/blob/master/src/1500-1599/1551.poti)
   - [x]  [1581](https://www.urionlinejudge.com.br/judge/pt/problems/view/1581) - [Conversa Internacional](https://github.com/potigol/URI-Potigol/blob/master/src/1500-1599/1581.poti)
+  - [x]  [1607](https://www.urionlinejudge.com.br/judge/pt/problems/view/1607) - [Avance as Letras](https://github.com/potigol/URI-Potigol/blob/master/src/1600-1699/1607.poti)
   - [x]  [1632](https://www.urionlinejudge.com.br/judge/pt/problems/view/1632) - [Variações](https://github.com/potigol/URI-Potigol/blob/master/src/1600-1699/1632.poti)
   - [x]  [1768](https://www.urionlinejudge.com.br/judge/pt/problems/view/1768) - [Árvore de Natal](https://github.com/potigol/URI-Potigol/blob/master/src/1700-1799/1768.poti)
   - [x]  [1781](https://www.urionlinejudge.com.br/judge/pt/problems/view/1781) - [Guga e a String](https://github.com/potigol/URI-Potigol/blob/master/src/1700-1799/1781.poti)
@@ -127,6 +125,8 @@
   - [x]  [2242](https://www.urionlinejudge.com.br/judge/pt/problems/view/2242) - [Huaauhahhuahau](https://github.com/potigol/URI-Potigol/blob/master/src/2200-2299/2242.poti)
   - [x]  [2557](https://www.urionlinejudge.com.br/judge/pt/problems/view/2557) - [R+L=J](https://github.com/potigol/URI-Potigol/blob/master/src/2500-2599/2557.poti)
   - [x]  [2587](https://www.urionlinejudge.com.br/judge/pt/problems/view/2587) - [Jetiqui](https://github.com/potigol/URI-Potigol/blob/master/src/2500-2599/2587.poti)
+  - [x]  [2591](https://www.urionlinejudge.com.br/judge/pt/problems/view/2591) - [HameKameKa](https://github.com/potigol/URI-Potigol/blob/master/src/2500-2599/2591.poti)
+  - [x]  [2651](https://www.urionlinejudge.com.br/judge/pt/problems/view/2651) - [Link Bolado](https://github.com/potigol/URI-Potigol/blob/master/src/2600-2699/2651.poti)
   - [x]  [2690](https://www.urionlinejudge.com.br/judge/pt/problems/view/2690) - [Nova Senha RA](https://github.com/potigol/URI-Potigol/blob/master/src/2600-2699/2690.poti)
   - [x]  [2694](https://www.urionlinejudge.com.br/judge/pt/problems/view/2694) - [Problema com a Calculadora](https://github.com/potigol/URI-Potigol/blob/master/src/2600-2699/2694.poti)
   - [x]  [2714](https://www.urionlinejudge.com.br/judge/pt/problems/view/2714) - [Minha Senha Provisória](https://github.com/potigol/URI-Potigol/blob/master/src/2700-2799/2714.poti)
