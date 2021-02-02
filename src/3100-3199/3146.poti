@@ -1,0 +1,4 @@
+r = leia_real
+pi = 3.14
+circunferencia = 2 * pi * r
+escreva circunferencia formato "%.2f"

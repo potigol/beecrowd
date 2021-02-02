@@ -1,4 +1,4 @@
-# Iniciante (287 / 296)
+# Iniciante (290 / 296)
 
 ## Problemas não resolvidos
   - [ ]  [2632](https://www.urionlinejudge.com.br/judge/pt/problems/view/2632) - Magic and Sword
@@ -7,9 +7,6 @@
   - [ ]  [2758](https://www.urionlinejudge.com.br/judge/pt/problems/view/2758) - Entrada e Saída de Números Reais
   - [ ]  [2769](https://www.urionlinejudge.com.br/judge/pt/problems/view/2769) - Linha de Montagem
   - [ ]  [2785](https://www.urionlinejudge.com.br/judge/pt/problems/view/2785) - Pirâmide
-  - [ ]  [3145](https://www.urionlinejudge.com.br/judge/pt/problems/view/3145) - Uma Jornada Inesperada
-  - [ ]  [3146](https://www.urionlinejudge.com.br/judge/pt/problems/view/3146) - Charadas no Escuro
-  - [ ]  [3147](https://www.urionlinejudge.com.br/judge/pt/problems/view/3147) - A Batalha dos Cinco Exércitos
 ## Problemas resolvidos
   - [x]  [1000](https://www.urionlinejudge.com.br/judge/pt/problems/view/1000) - [Hello World!](https://github.com/potigol/URI-Potigol/blob/master/src/1000-1099/1000.poti)
   - [x]  [1001](https://www.urionlinejudge.com.br/judge/pt/problems/view/1001) - [Extremamente Básico](https://github.com/potigol/URI-Potigol/blob/master/src/1000-1099/1001.poti)
@@ -297,4 +294,7 @@
   - [x]  [3091](https://www.urionlinejudge.com.br/judge/pt/problems/view/3091) - [Resto 1.0](https://github.com/potigol/URI-Potigol/blob/master/src/3000-3099/3091.poti)
   - [x]  [3140](https://www.urionlinejudge.com.br/judge/pt/problems/view/3140) - [Copiando e Colando Código](https://github.com/potigol/URI-Potigol/blob/master/src/3100-3199/3140.poti)
   - [x]  [3142](https://www.urionlinejudge.com.br/judge/pt/problems/view/3142) - [Excel Bugado](https://github.com/potigol/URI-Potigol/blob/master/src/3100-3199/3142.poti)
+  - [x]  [3145](https://www.urionlinejudge.com.br/judge/pt/problems/view/3145) - [Uma Jornada Inesperada](https://github.com/potigol/URI-Potigol/blob/master/src/3100-3199/3145.poti)
+  - [x]  [3146](https://www.urionlinejudge.com.br/judge/pt/problems/view/3146) - [Charadas no Escuro](https://github.com/potigol/URI-Potigol/blob/master/src/3100-3199/3146.poti)
+  - [x]  [3147](https://www.urionlinejudge.com.br/judge/pt/problems/view/3147) - [A Batalha dos Cinco Exércitos](https://github.com/potigol/URI-Potigol/blob/master/src/3100-3199/3147.poti)
   - [x]  [3157](https://www.urionlinejudge.com.br/judge/pt/problems/view/3157) - [Viva a Ciência!](https://github.com/potigol/URI-Potigol/blob/master/src/3100-3199/3157.poti)
