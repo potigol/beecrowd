@@ -45,21 +45,21 @@
   - [x]  [3142](https://www.urionlinejudge.com.br/judge/pt/problems/view/3142) - [Excel Bugado](https://github.com/potigol/URI-Potigol/blob/master/src/3100-3199/3142.poti) *Iniciante*
   - [ ]  [3143](https://www.urionlinejudge.com.br/judge/pt/problems/view/3143) - Fugindo do Celular *Strings*
   - [ ]  [3144](https://www.urionlinejudge.com.br/judge/pt/problems/view/3144) - G de Grafo *Grafos*
-  - [ ] ~~3145~~
-  - [ ] ~~3146~~
-  - [ ] ~~3147~~
-  - [ ] ~~3148~~
-  - [ ] ~~3149~~
-  - [ ] ~~3150~~
-  - [ ] ~~3151~~
-  - [ ] ~~3152~~
-  - [ ] ~~3153~~
-  - [ ] ~~3154~~
-  - [ ] ~~3155~~
-  - [ ] ~~3156~~
-  - [ ] ~~3157~~
-  - [ ] ~~3158~~
-  - [ ] ~~3159~~
+  - [ ]  [3145](https://www.urionlinejudge.com.br/judge/pt/problems/view/3145) - Uma Jornada Inesperada *Iniciante*
+  - [ ]  [3146](https://www.urionlinejudge.com.br/judge/pt/problems/view/3146) - Charadas no Escuro *Iniciante*
+  - [ ]  [3147](https://www.urionlinejudge.com.br/judge/pt/problems/view/3147) - A Batalha dos Cinco Exércitos *Iniciante*
+  - [ ]  [3148](https://www.urionlinejudge.com.br/judge/pt/problems/view/3148) - O Jardim *Estruturas e Bibliotecas*
+  - [ ]  [3149](https://www.urionlinejudge.com.br/judge/pt/problems/view/3149) - A Noiva do Trevo *Estruturas e Bibliotecas*
+  - [ ]  [3150](https://www.urionlinejudge.com.br/judge/pt/problems/view/3150) - O Esconderijo do Rambo *Grafos*
+  - [ ]  [3151](https://www.urionlinejudge.com.br/judge/pt/problems/view/3151) - O Iogurte Divino *Paradigmas*
+  - [ ]  [3152](https://www.urionlinejudge.com.br/judge/pt/problems/view/3152) - Samuel, O Cafeicultor *Geometria Computacional*
+  - [ ]  [3153](https://www.urionlinejudge.com.br/judge/pt/problems/view/3153) - Fake News *Paradigmas*
+  - [ ]  [3154](https://www.urionlinejudge.com.br/judge/pt/problems/view/3154) - A Grande Festa *Matemática*
+  - [ ]  [3155](https://www.urionlinejudge.com.br/judge/pt/problems/view/3155) - Sócrates e suas Perguntas *Estruturas e Bibliotecas*
+  - [ ]  [3156](https://www.urionlinejudge.com.br/judge/pt/problems/view/3156) - Xadrez Galático *Geometria Computacional*
+  - [x]  [3157](https://www.urionlinejudge.com.br/judge/pt/problems/view/3157) - [Viva a Ciência!](https://github.com/potigol/URI-Potigol/blob/master/src/3100-3199/3157.poti) *Iniciante*
+  - [ ]  [3158](https://www.urionlinejudge.com.br/judge/pt/problems/view/3158) - O Bom Presidente *Geometria Computacional*
+  - [ ]  [3159](https://www.urionlinejudge.com.br/judge/pt/problems/view/3159) - Tijolão *Strings*
   - [ ] ~~3160~~
   - [ ] ~~3161~~
   - [ ] ~~3162~~

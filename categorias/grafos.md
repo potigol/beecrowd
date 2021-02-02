@@ -1,4 +1,4 @@
-# Grafos (3 / 257)
+# Grafos (3 / 258)
 
 ## Problemas não resolvidos
   - [ ]  [1053](https://www.urionlinejudge.com.br/judge/pt/problems/view/1053) - Desenho Contínuo
@@ -255,6 +255,7 @@
   - [ ]  [3119](https://www.urionlinejudge.com.br/judge/pt/problems/view/3119) - As Aventuras do Calango Atômico
   - [ ]  [3124](https://www.urionlinejudge.com.br/judge/pt/problems/view/3124) - Minha Reforma, Minha Vida
   - [ ]  [3144](https://www.urionlinejudge.com.br/judge/pt/problems/view/3144) - G de Grafo
+  - [ ]  [3150](https://www.urionlinejudge.com.br/judge/pt/problems/view/3150) - O Esconderijo do Rambo
 ## Problemas resolvidos
   - [x]  [2428](https://www.urionlinejudge.com.br/judge/pt/problems/view/2428) - [Capital](https://github.com/potigol/URI-Potigol/blob/master/src/2400-2499/2428.poti)
   - [x]  [2687](https://www.urionlinejudge.com.br/judge/pt/problems/view/2687) - [Dominação Bacteriana](https://github.com/potigol/URI-Potigol/blob/master/src/2600-2699/2687.poti)

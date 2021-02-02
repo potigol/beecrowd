@@ -2117,3 +2117,18 @@
 3142	Excel Bugado	Iniciante
 3143	Fugindo do Celular	Strings
 3144	G de Grafo	Grafos
+3145	Uma Jornada Inesperada	Iniciante
+3146	Charadas no Escuro	Iniciante
+3147	A Batalha dos Cinco Exércitos	Iniciante
+3148	O Jardim	Estruturas e Bibliotecas
+3149	A Noiva do Trevo	Estruturas e Bibliotecas
+3150	O Esconderijo do Rambo	Grafos
+3151	O Iogurte Divino	Paradigmas
+3152	Samuel, O Cafeicultor	Geometria Computacional
+3153	Fake News	Paradigmas
+3154	A Grande Festa	Matemática
+3155	Sócrates e suas Perguntas	Estruturas e Bibliotecas
+3156	Xadrez Galático	Geometria Computacional
+3157	Viva a Ciência!	Iniciante
+3158	O Bom Presidente	Geometria Computacional
+3159	Tijolão	Strings

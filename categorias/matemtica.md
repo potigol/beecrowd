@@ -1,4 +1,4 @@
-# Matemática (40 / 245)
+# Matemática (40 / 246)
 
 ## Problemas não resolvidos
   - [ ]  [1093](https://www.urionlinejudge.com.br/judge/pt/problems/view/1093) - Vampiros
@@ -206,6 +206,7 @@
   - [ ]  [3104](https://www.urionlinejudge.com.br/judge/pt/problems/view/3104) - Resto 2.0
   - [ ]  [3110](https://www.urionlinejudge.com.br/judge/pt/problems/view/3110) - Farcos e o Xorshift
   - [ ]  [3138](https://www.urionlinejudge.com.br/judge/pt/problems/view/3138) - Aniversário do Tobias
+  - [ ]  [3154](https://www.urionlinejudge.com.br/judge/pt/problems/view/3154) - A Grande Festa
 ## Problemas resolvidos
   - [x]  [1028](https://www.urionlinejudge.com.br/judge/pt/problems/view/1028) - [Figurinhas](https://github.com/potigol/URI-Potigol/blob/master/src/1000-1099/1028.poti)
   - [x]  [1161](https://www.urionlinejudge.com.br/judge/pt/problems/view/1161) - [Soma de Fatoriais](https://github.com/potigol/URI-Potigol/blob/master/src/1100-1199/1161.poti)

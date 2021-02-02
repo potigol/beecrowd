@@ -1,4 +1,4 @@
-# Paradigmas (2 / 202)
+# Paradigmas (2 / 204)
 
 ## Problemas não resolvidos
   - [ ]  [1027](https://www.urionlinejudge.com.br/judge/pt/problems/view/1027) - Onda Crítica
@@ -201,6 +201,8 @@
   - [ ]  [3107](https://www.urionlinejudge.com.br/judge/pt/problems/view/3107) - Pulo do Sapo
   - [ ]  [3114](https://www.urionlinejudge.com.br/judge/pt/problems/view/3114) - Parkour
   - [ ]  [3116](https://www.urionlinejudge.com.br/judge/pt/problems/view/3116) - Seguidores Impossíveis
+  - [ ]  [3151](https://www.urionlinejudge.com.br/judge/pt/problems/view/3151) - O Iogurte Divino
+  - [ ]  [3153](https://www.urionlinejudge.com.br/judge/pt/problems/view/3153) - Fake News
 ## Problemas resolvidos
   - [x]  [1029](https://www.urionlinejudge.com.br/judge/pt/problems/view/1029) - [Fibonacci, Quantas Chamadas?](https://github.com/potigol/URI-Potigol/blob/master/src/1000-1099/1029.poti)
   - [x]  [1084](https://www.urionlinejudge.com.br/judge/pt/problems/view/1084) - [Apagando e Ganhando](https://github.com/potigol/URI-Potigol/blob/master/src/1000-1099/1084.poti)

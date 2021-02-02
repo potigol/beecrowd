@@ -1,4 +1,4 @@
-# Strings (45 / 135)
+# Strings (45 / 136)
 
 ## Problemas não resolvidos
   - [ ]  [1141](https://www.urionlinejudge.com.br/judge/pt/problems/view/1141) - Cultivando Strings
@@ -91,6 +91,7 @@
   - [ ]  [3103](https://www.urionlinejudge.com.br/judge/pt/problems/view/3103) - Número da Sorte
   - [ ]  [3118](https://www.urionlinejudge.com.br/judge/pt/problems/view/3118) - Bactérias, Suas Loucas!
   - [ ]  [3143](https://www.urionlinejudge.com.br/judge/pt/problems/view/3143) - Fugindo do Celular
+  - [ ]  [3159](https://www.urionlinejudge.com.br/judge/pt/problems/view/3159) - Tijolão
 ## Problemas resolvidos
   - [x]  [1024](https://www.urionlinejudge.com.br/judge/pt/problems/view/1024) - [Criptografia](https://github.com/potigol/URI-Potigol/blob/master/src/1000-1099/1024.poti)
   - [x]  [1120](https://www.urionlinejudge.com.br/judge/pt/problems/view/1120) - [Revisão de Contrato](https://github.com/potigol/URI-Potigol/blob/master/src/1100-1199/1120.poti)
