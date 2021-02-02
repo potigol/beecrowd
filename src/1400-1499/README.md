@@ -57,7 +57,7 @@
   - [ ]  [1454](https://www.urionlinejudge.com.br/judge/pt/problems/view/1454) - O País das Bicicletas *Grafos*
   - [ ]  [1455](https://www.urionlinejudge.com.br/judge/pt/problems/view/1455) - Final do ICPC *Geometria Computacional*
   - [ ]  [1456](https://www.urionlinejudge.com.br/judge/pt/problems/view/1456) - Brainfuck *Strings*
-  - [ ]  [1457](https://www.urionlinejudge.com.br/judge/pt/problems/view/1457) - Oráculo de Alexandria *Matemática*
+  - [x]  [1457](https://www.urionlinejudge.com.br/judge/pt/problems/view/1457) - [Oráculo de Alexandria](https://github.com/potigol/URI-Potigol/blob/master/src/1400-1499/1457.poti) *Matemática*
   - [ ]  [1458](https://www.urionlinejudge.com.br/judge/pt/problems/view/1458) - Campeonato de SMS *Strings*
   - [ ]  [1459](https://www.urionlinejudge.com.br/judge/pt/problems/view/1459) - Foco *Ad-Hoc*
   - [ ]  [1460](https://www.urionlinejudge.com.br/judge/pt/problems/view/1460) - Parreiral *Ad-Hoc*

@@ -1167,7 +1167,6 @@
 2170	Juros do Projeto	Matemática
 2171	Dividindo com Fink	Ad-Hoc
 2172	Evento	Iniciante
-2173	Caixa Dois	Grafos
 2174	Coleção de Pomekon	Strings
 2175	Qual o Mais Rápido?	Ad-Hoc
 2176	Paridade	Iniciante
@@ -2040,7 +2039,6 @@
 3063	Linhas de Ônibus	Ad-Hoc
 3064	Elástico	Geometria Computacional
 3065	Calculando	Iniciante
-3066	Dengue	Grafos
 3067	Dominó	Grafos
 3068	Meteoros	Iniciante
 3069	Sorvete	Estruturas e Bibliotecas

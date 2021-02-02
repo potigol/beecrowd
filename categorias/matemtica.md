@@ -1,4 +1,4 @@
-# Matemática (39 / 245)
+# Matemática (40 / 245)
 
 ## Problemas não resolvidos
   - [ ]  [1093](https://www.urionlinejudge.com.br/judge/pt/problems/view/1093) - Vampiros
@@ -44,7 +44,6 @@
   - [ ]  [1434](https://www.urionlinejudge.com.br/judge/pt/problems/view/1434) - Patrulheiros Romanos
   - [ ]  [1444](https://www.urionlinejudge.com.br/judge/pt/problems/view/1444) - Corrida dos Marrecos
   - [ ]  [1450](https://www.urionlinejudge.com.br/judge/pt/problems/view/1450) - Os Joguinhos de Ramsés
-  - [ ]  [1457](https://www.urionlinejudge.com.br/judge/pt/problems/view/1457) - Oráculo de Alexandria
   - [ ]  [1465](https://www.urionlinejudge.com.br/judge/pt/problems/view/1465) - Complexo, Difícil e Complicado
   - [ ]  [1481](https://www.urionlinejudge.com.br/judge/pt/problems/view/1481) - A Fazenda de Ostras de Zing Zhu
   - [ ]  [1484](https://www.urionlinejudge.com.br/judge/pt/problems/view/1484) - Tecle &amp; Some
@@ -222,6 +221,7 @@
   - [x]  [1393](https://www.urionlinejudge.com.br/judge/pt/problems/view/1393) - [Lajotas Hexagonais](https://github.com/potigol/URI-Potigol/blob/master/src/1300-1399/1393.poti)
   - [x]  [1429](https://www.urionlinejudge.com.br/judge/pt/problems/view/1429) - [Fatorial de Novo!](https://github.com/potigol/URI-Potigol/blob/master/src/1400-1499/1429.poti)
   - [x]  [1436](https://www.urionlinejudge.com.br/judge/pt/problems/view/1436) - [Jogo do Tijolo](https://github.com/potigol/URI-Potigol/blob/master/src/1400-1499/1436.poti)
+  - [x]  [1457](https://www.urionlinejudge.com.br/judge/pt/problems/view/1457) - [Oráculo de Alexandria](https://github.com/potigol/URI-Potigol/blob/master/src/1400-1499/1457.poti)
   - [x]  [1555](https://www.urionlinejudge.com.br/judge/pt/problems/view/1555) - [Funções](https://github.com/potigol/URI-Potigol/blob/master/src/1500-1599/1555.poti)
   - [x]  [1582](https://www.urionlinejudge.com.br/judge/pt/problems/view/1582) - [O Teorema de Pitágoras](https://github.com/potigol/URI-Potigol/blob/master/src/1500-1599/1582.poti)
   - [x]  [1585](https://www.urionlinejudge.com.br/judge/pt/problems/view/1585) - [Fazendo Pandorgas](https://github.com/potigol/URI-Potigol/blob/master/src/1500-1599/1585.poti)

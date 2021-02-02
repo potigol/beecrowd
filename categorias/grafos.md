@@ -1,4 +1,4 @@
-# Grafos (3 / 259)
+# Grafos (3 / 257)
 
 ## Problemas não resolvidos
   - [ ]  [1053](https://www.urionlinejudge.com.br/judge/pt/problems/view/1053) - Desenho Contínuo
@@ -175,7 +175,6 @@
   - [ ]  [2130](https://www.urionlinejudge.com.br/judge/pt/problems/view/2130) - Final Mundial de 2008
   - [ ]  [2131](https://www.urionlinejudge.com.br/judge/pt/problems/view/2131) - Mesa da Sra. Montagny!
   - [ ]  [2155](https://www.urionlinejudge.com.br/judge/pt/problems/view/2155) - Os Icosaedros do Lagarto
-  - [ ]  [2173](https://www.urionlinejudge.com.br/judge/pt/problems/view/2173) - Caixa Dois
   - [ ]  [2182](https://www.urionlinejudge.com.br/judge/pt/problems/view/2182) - Luciano e a Bicicletinha
   - [ ]  [2184](https://www.urionlinejudge.com.br/judge/pt/problems/view/2184) - Pomekons
   - [ ]  [2190](https://www.urionlinejudge.com.br/judge/pt/problems/view/2190) - Rede Ótica
@@ -246,7 +245,6 @@
   - [ ]  [3031](https://www.urionlinejudge.com.br/judge/pt/problems/view/3031) - Xor Spanning Tree
   - [ ]  [3044](https://www.urionlinejudge.com.br/judge/pt/problems/view/3044) - Manutenção
   - [ ]  [3061](https://www.urionlinejudge.com.br/judge/pt/problems/view/3061) - Manchas de Pele
-  - [ ]  [3066](https://www.urionlinejudge.com.br/judge/pt/problems/view/3066) - Dengue
   - [ ]  [3067](https://www.urionlinejudge.com.br/judge/pt/problems/view/3067) - Dominó
   - [ ]  [3070](https://www.urionlinejudge.com.br/judge/pt/problems/view/3070) - Autoestradas HyperspaceTM
   - [ ]  [3072](https://www.urionlinejudge.com.br/judge/pt/problems/view/3072) - Namoro
