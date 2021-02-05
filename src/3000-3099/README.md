@@ -58,7 +58,7 @@
   - [x]  [3055](https://www.urionlinejudge.com.br/judge/pt/problems/view/3055) - [Nota Esquecida](https://github.com/potigol/URI-Potigol/blob/master/src/3000-3099/3055.poti) *Iniciante*
   - [x]  [3056](https://www.urionlinejudge.com.br/judge/pt/problems/view/3056) - [Ponto do Meio](https://github.com/potigol/URI-Potigol/blob/master/src/3000-3099/3056.poti) *Ad-Hoc*
   - [ ]  [3057](https://www.urionlinejudge.com.br/judge/pt/problems/view/3057) - Detetive *Ad-Hoc*
-  - [ ]  [3058](https://www.urionlinejudge.com.br/judge/pt/problems/view/3058) - Supermercado *Ad-Hoc*
+  - [x]  [3058](https://www.urionlinejudge.com.br/judge/pt/problems/view/3058) - [Supermercado](https://github.com/potigol/URI-Potigol/blob/master/src/3000-3099/3058.poti) *Ad-Hoc*
   - [x]  [3059](https://www.urionlinejudge.com.br/judge/pt/problems/view/3059) - [Pares de Números](https://github.com/potigol/URI-Potigol/blob/master/src/3000-3099/3059.poti) *Ad-Hoc*
   - [x]  [3060](https://www.urionlinejudge.com.br/judge/pt/problems/view/3060) - [Parcelamento Sem Juros](https://github.com/potigol/URI-Potigol/blob/master/src/3000-3099/3060.poti) *Ad-Hoc*
   - [ ]  [3061](https://www.urionlinejudge.com.br/judge/pt/problems/view/3061) - Manchas de Pele *Grafos*

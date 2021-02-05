@@ -2132,3 +2132,11 @@
 3157	Viva a Ciência!	Iniciante
 3158	O Bom Presidente	Geometria Computacional
 3159	Tijolão	Strings
+3160	Amigos	Estruturas e Bibliotecas
+3161	As Frutas Esquecidas	Iniciante
+3162	Comunicação Espacial	Iniciante
+3163	Controlador de Vôo	Estruturas e Bibliotecas
+3164	Fiscalizando Empresa	Iniciante
+3165	Primos Gêmeos	Matemática
+3166	Procurando Palavras na Diagonal Principal	Iniciante
+3167	Procurando Palavras na Diagonal Secundária	Iniciante

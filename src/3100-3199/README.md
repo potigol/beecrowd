@@ -54,20 +54,20 @@
   - [ ]  [3151](https://www.urionlinejudge.com.br/judge/pt/problems/view/3151) - O Iogurte Divino *Paradigmas*
   - [ ]  [3152](https://www.urionlinejudge.com.br/judge/pt/problems/view/3152) - Samuel, O Cafeicultor *Geometria Computacional*
   - [ ]  [3153](https://www.urionlinejudge.com.br/judge/pt/problems/view/3153) - Fake News *Paradigmas*
-  - [ ]  [3154](https://www.urionlinejudge.com.br/judge/pt/problems/view/3154) - A Grande Festa *Matemática*
+  - [x]  [3154](https://www.urionlinejudge.com.br/judge/pt/problems/view/3154) - [A Grande Festa](https://github.com/potigol/URI-Potigol/blob/master/src/3100-3199/3154.poti) *Matemática*
   - [ ]  [3155](https://www.urionlinejudge.com.br/judge/pt/problems/view/3155) - Sócrates e suas Perguntas *Estruturas e Bibliotecas*
   - [ ]  [3156](https://www.urionlinejudge.com.br/judge/pt/problems/view/3156) - Xadrez Galático *Geometria Computacional*
   - [x]  [3157](https://www.urionlinejudge.com.br/judge/pt/problems/view/3157) - [Viva a Ciência!](https://github.com/potigol/URI-Potigol/blob/master/src/3100-3199/3157.poti) *Iniciante*
   - [ ]  [3158](https://www.urionlinejudge.com.br/judge/pt/problems/view/3158) - O Bom Presidente *Geometria Computacional*
   - [ ]  [3159](https://www.urionlinejudge.com.br/judge/pt/problems/view/3159) - Tijolão *Strings*
-  - [ ] ~~3160~~
-  - [ ] ~~3161~~
-  - [ ] ~~3162~~
-  - [ ] ~~3163~~
-  - [ ] ~~3164~~
-  - [ ] ~~3165~~
-  - [ ] ~~3166~~
-  - [ ] ~~3167~~
+  - [ ]  [3160](https://www.urionlinejudge.com.br/judge/pt/problems/view/3160) - Amigos *Estruturas e Bibliotecas*
+  - [ ]  [3161](https://www.urionlinejudge.com.br/judge/pt/problems/view/3161) - As Frutas Esquecidas *Iniciante*
+  - [ ]  [3162](https://www.urionlinejudge.com.br/judge/pt/problems/view/3162) - Comunicação Espacial *Iniciante*
+  - [ ]  [3163](https://www.urionlinejudge.com.br/judge/pt/problems/view/3163) - Controlador de Vôo *Estruturas e Bibliotecas*
+  - [ ]  [3164](https://www.urionlinejudge.com.br/judge/pt/problems/view/3164) - Fiscalizando Empresa *Iniciante*
+  - [ ]  [3165](https://www.urionlinejudge.com.br/judge/pt/problems/view/3165) - Primos Gêmeos *Matemática*
+  - [ ]  [3166](https://www.urionlinejudge.com.br/judge/pt/problems/view/3166) - Procurando Palavras na Diagonal Principal *Iniciante*
+  - [ ]  [3167](https://www.urionlinejudge.com.br/judge/pt/problems/view/3167) - Procurando Palavras na Diagonal Secundária *Iniciante*
   - [ ] ~~3168~~
   - [ ] ~~3169~~
   - [ ] ~~3170~~

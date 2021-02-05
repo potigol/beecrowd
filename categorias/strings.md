@@ -1,4 +1,4 @@
-# Strings (45 / 136)
+# Strings (46 / 136)
 
 ## Problemas não resolvidos
   - [ ]  [1141](https://www.urionlinejudge.com.br/judge/pt/problems/view/1141) - Cultivando Strings
@@ -66,7 +66,6 @@
   - [ ]  [2336](https://www.urionlinejudge.com.br/judge/pt/problems/view/2336) - ABC
   - [ ]  [2356](https://www.urionlinejudge.com.br/judge/pt/problems/view/2356) - Bactéria I
   - [ ]  [2358](https://www.urionlinejudge.com.br/judge/pt/problems/view/2358) - Bactéria II
-  - [ ]  [2484](https://www.urionlinejudge.com.br/judge/pt/problems/view/2484) - Abracadabra
   - [ ]  [2509](https://www.urionlinejudge.com.br/judge/pt/problems/view/2509) - Editor Latex
   - [ ]  [2535](https://www.urionlinejudge.com.br/judge/pt/problems/view/2535) - Feira de Adoção
   - [ ]  [2549](https://www.urionlinejudge.com.br/judge/pt/problems/view/2549) - Nomes de Usuários
@@ -124,6 +123,7 @@
   - [x]  [2157](https://www.urionlinejudge.com.br/judge/pt/problems/view/2157) - [Sequência Espelho](https://github.com/potigol/URI-Potigol/blob/master/src/2100-2199/2157.poti)
   - [x]  [2174](https://www.urionlinejudge.com.br/judge/pt/problems/view/2174) - [Coleção de Pomekon](https://github.com/potigol/URI-Potigol/blob/master/src/2100-2199/2174.poti)
   - [x]  [2242](https://www.urionlinejudge.com.br/judge/pt/problems/view/2242) - [Huaauhahhuahau](https://github.com/potigol/URI-Potigol/blob/master/src/2200-2299/2242.poti)
+  - [x]  [2484](https://www.urionlinejudge.com.br/judge/pt/problems/view/2484) - [Abracadabra](https://github.com/potigol/URI-Potigol/blob/master/src/2400-2499/2484.poti)
   - [x]  [2557](https://www.urionlinejudge.com.br/judge/pt/problems/view/2557) - [R+L=J](https://github.com/potigol/URI-Potigol/blob/master/src/2500-2599/2557.poti)
   - [x]  [2587](https://www.urionlinejudge.com.br/judge/pt/problems/view/2587) - [Jetiqui](https://github.com/potigol/URI-Potigol/blob/master/src/2500-2599/2587.poti)
   - [x]  [2591](https://www.urionlinejudge.com.br/judge/pt/problems/view/2591) - [HameKameKa](https://github.com/potigol/URI-Potigol/blob/master/src/2500-2599/2591.poti)

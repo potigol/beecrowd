@@ -1,4 +1,4 @@
-# Ad-Hoc (114 / 702)
+# Ad-Hoc (115 / 702)
 
 ## Problemas não resolvidos
   - [ ]  [1030](https://www.urionlinejudge.com.br/judge/pt/problems/view/1030) - A Lenda de Flavious Josephus
@@ -561,7 +561,6 @@
   - [ ]  [3052](https://www.urionlinejudge.com.br/judge/pt/problems/view/3052) - Chuva
   - [ ]  [3054](https://www.urionlinejudge.com.br/judge/pt/problems/view/3054) - Matriz Super-legal
   - [ ]  [3057](https://www.urionlinejudge.com.br/judge/pt/problems/view/3057) - Detetive
-  - [ ]  [3058](https://www.urionlinejudge.com.br/judge/pt/problems/view/3058) - Supermercado
   - [ ]  [3062](https://www.urionlinejudge.com.br/judge/pt/problems/view/3062) - Coleção de Upas
   - [ ]  [3063](https://www.urionlinejudge.com.br/judge/pt/problems/view/3063) - Linhas de Ônibus
   - [ ]  [3071](https://www.urionlinejudge.com.br/judge/pt/problems/view/3071) - Melhor Ranking
@@ -694,6 +693,7 @@
   - [x]  [3048](https://www.urionlinejudge.com.br/judge/pt/problems/view/3048) - [Sequência Secreta](https://github.com/potigol/URI-Potigol/blob/master/src/3000-3099/3048.poti)
   - [x]  [3050](https://www.urionlinejudge.com.br/judge/pt/problems/view/3050) - [Distância Entre Amigos](https://github.com/potigol/URI-Potigol/blob/master/src/3000-3099/3050.poti)
   - [x]  [3056](https://www.urionlinejudge.com.br/judge/pt/problems/view/3056) - [Ponto do Meio](https://github.com/potigol/URI-Potigol/blob/master/src/3000-3099/3056.poti)
+  - [x]  [3058](https://www.urionlinejudge.com.br/judge/pt/problems/view/3058) - [Supermercado](https://github.com/potigol/URI-Potigol/blob/master/src/3000-3099/3058.poti)
   - [x]  [3059](https://www.urionlinejudge.com.br/judge/pt/problems/view/3059) - [Pares de Números](https://github.com/potigol/URI-Potigol/blob/master/src/3000-3099/3059.poti)
   - [x]  [3060](https://www.urionlinejudge.com.br/judge/pt/problems/view/3060) - [Parcelamento Sem Juros](https://github.com/potigol/URI-Potigol/blob/master/src/3000-3099/3060.poti)
   - [x]  [3106](https://www.urionlinejudge.com.br/judge/pt/problems/view/3106) - [Competição de Códigos](https://github.com/potigol/URI-Potigol/blob/master/src/3100-3199/3106.poti)

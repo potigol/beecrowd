@@ -84,7 +84,7 @@
   - [ ]  [2481](https://www.urionlinejudge.com.br/judge/pt/problems/view/2481) - É Uma Cilada Bino *Paradigmas*
   - [ ]  [2482](https://www.urionlinejudge.com.br/judge/pt/problems/view/2482) - Etiquetas de Noel *Estruturas e Bibliotecas*
   - [x]  [2483](https://www.urionlinejudge.com.br/judge/pt/problems/view/2483) - [Feliz Nataaal!](https://github.com/potigol/URI-Potigol/blob/master/src/2400-2499/2483.poti) *Iniciante*
-  - [ ]  [2484](https://www.urionlinejudge.com.br/judge/pt/problems/view/2484) - Abracadabra *Strings*
+  - [x]  [2484](https://www.urionlinejudge.com.br/judge/pt/problems/view/2484) - [Abracadabra](https://github.com/potigol/URI-Potigol/blob/master/src/2400-2499/2484.poti) *Strings*
   - [ ]  [2485](https://www.urionlinejudge.com.br/judge/pt/problems/view/2485) - Bicho da Goiaba *Grafos*
   - [x]  [2486](https://www.urionlinejudge.com.br/judge/pt/problems/view/2486) - [C Mais ou Menos?](https://github.com/potigol/URI-Potigol/blob/master/src/2400-2499/2486.poti) *Iniciante*
   - [ ]  [2487](https://www.urionlinejudge.com.br/judge/pt/problems/view/2487) - Do Lado Escuro do Código *Ad-Hoc*

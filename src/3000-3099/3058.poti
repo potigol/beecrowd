@@ -1,0 +1,9 @@
+n = leia_inteiro
+var menor := 10000000.0
+para i de 1 ate n faca
+  a = leia_reais(" ")
+  p, g = a[1], a[2]
+  valor = p * 1000 / g
+  se valor < menor entao menor := valor fim
+fim
+escreva menor formato "%.2f"

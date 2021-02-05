@@ -1,4 +1,4 @@
-# Estruturas e Bibliotecas (16 / 167)
+# Estruturas e Bibliotecas (16 / 169)
 
 ## Problemas não resolvidos
   - [ ]  [1023](https://www.urionlinejudge.com.br/judge/pt/problems/view/1023) - Estiagem
@@ -152,6 +152,8 @@
   - [ ]  [3148](https://www.urionlinejudge.com.br/judge/pt/problems/view/3148) - O Jardim
   - [ ]  [3149](https://www.urionlinejudge.com.br/judge/pt/problems/view/3149) - A Noiva do Trevo
   - [ ]  [3155](https://www.urionlinejudge.com.br/judge/pt/problems/view/3155) - Sócrates e suas Perguntas
+  - [ ]  [3160](https://www.urionlinejudge.com.br/judge/pt/problems/view/3160) - Amigos
+  - [ ]  [3163](https://www.urionlinejudge.com.br/judge/pt/problems/view/3163) - Controlador de Vôo
 ## Problemas resolvidos
   - [x]  [1022](https://www.urionlinejudge.com.br/judge/pt/problems/view/1022) - [TDA Racional](https://github.com/potigol/URI-Potigol/blob/master/src/1000-1099/1022.poti)
   - [x]  [1068](https://www.urionlinejudge.com.br/judge/pt/problems/view/1068) - [Balanço de Parênteses I](https://github.com/potigol/URI-Potigol/blob/master/src/1000-1099/1068.poti)

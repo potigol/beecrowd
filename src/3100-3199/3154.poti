@@ -1,0 +1,10 @@
+entrada = leia_inteiros(" ")
+d = entrada[1]
+p = entrada[2]
+
+var por := 1.0
+para i de d - p + 1 ate d faca
+  por := por * i / d
+fim
+a = (1-por) * 100
+escreva a formato "%.2f"
