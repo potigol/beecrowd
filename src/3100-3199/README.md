@@ -65,7 +65,7 @@
   - [ ]  [3162](https://www.urionlinejudge.com.br/judge/pt/problems/view/3162) - Comunicação Espacial *Iniciante*
   - [ ]  [3163](https://www.urionlinejudge.com.br/judge/pt/problems/view/3163) - Controlador de Vôo *Estruturas e Bibliotecas*
   - [ ]  [3164](https://www.urionlinejudge.com.br/judge/pt/problems/view/3164) - Fiscalizando Empresa *Iniciante*
-  - [ ]  [3165](https://www.urionlinejudge.com.br/judge/pt/problems/view/3165) - Primos Gêmeos *Matemática*
+  - [x]  [3165](https://www.urionlinejudge.com.br/judge/pt/problems/view/3165) - [Primos Gêmeos](https://github.com/potigol/URI-Potigol/blob/master/src/3100-3199/3165.poti) *Matemática*
   - [ ]  [3166](https://www.urionlinejudge.com.br/judge/pt/problems/view/3166) - Procurando Palavras na Diagonal Principal *Iniciante*
   - [ ]  [3167](https://www.urionlinejudge.com.br/judge/pt/problems/view/3167) - Procurando Palavras na Diagonal Secundária *Iniciante*
   - [ ] ~~3168~~
