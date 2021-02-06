@@ -1,0 +1,5 @@
+entrada = leia_inteiros(" ")
+n = entrada[1]
+x = entrada[2]
+dias = 1.0 * x / (n + 2)
+escreva dias formato "%.2f"

@@ -1,5 +1,5 @@
-# URI-Potigol
-[![Soluções](https://img.shields.io/badge/Problemas%20Resolvidos-500-green)](https://github.com/potigol/URI-Potigol/commits/master)
+# UOJ-Potigol
+[![Soluções](https://img.shields.io/badge/Problemas%20Resolvidos-514-green)](https://github.com/potigol/URI-Potigol/commits/master)
 
 Soluções dos problemas do [URI Online Judge](https://www.urionlinejudge.com.br/judge/pt/problems/all) usando a linguagem [Potigol](https://potigol.github.io)
 
@@ -24,28 +24,28 @@ Soluções dos problemas do [URI Online Judge](https://www.urionlinejudge.com.br
 
 ## Problemas
 
-[1000 ...](src/1000-1099) |
-[1100 ...](src/1100-1199) |
-[1200 ...](src/1200-1299) |
-[1300 ...](src/1300-1399) |
-[1400 ...](src/1400-1499) |
-[1500 ...](src/1500-1599) |
-[1600 ...](src/1600-1699) |
-[1700 ...](src/1700-1799) |
-[1800 ...](src/1800-1899) |
-[1900 ...](src/1900-1999) |
-[2000 ...](src/2000-2099) |
-[2100 ...](src/2100-2199) |
-[2200 ...](src/2200-2299) |
-[2300 ...](src/2300-2399) |
-[2400 ...](src/2400-2499) |
-[2500 ...](src/2500-2599) |
-[2600 ...](src/2600-2699) |
-[2700 ...](src/2700-2799) |
-[2800 ...](src/2800-2899) |
-[2900 ...](src/2900-2999) |
-[3000 ...](src/3000-3099) |
-[3100 ...](src/3100-3199)
+[1000 ...](src/1000)
+[1100 ...](src/1100)
+[1200 ...](src/1200)
+[1300 ...](src/1300)
+[1400 ...](src/1400)
+[1500 ...](src/1500)
+[1600 ...](src/1600)
+[1700 ...](src/1700)
+[1800 ...](src/1800)
+[1900 ...](src/1900)
+[2000 ...](src/2000)
+[2100 ...](src/2100)
+[2200 ...](src/2200)
+[2300 ...](src/2300)
+[2400 ...](src/2400)
+[2500 ...](src/2500)
+[2600 ...](src/2600)
+[2700 ...](src/2700)
+[2800 ...](src/2800)
+[2900 ...](src/2900)
+[3000 ...](src/3000)
+[3100 ...](src/3100)
 
 ## Quer ajudar?
 

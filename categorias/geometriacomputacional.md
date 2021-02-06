@@ -1,4 +1,4 @@
-# Geometria Computacional (1 / 76)
+# Geometria Computacional (1 / 79)
 
 ## Problemas não resolvidos
   - [ ]  [1039](https://www.urionlinejudge.com.br/judge/pt/problems/view/1039) - Flores de Fogo
@@ -76,5 +76,8 @@
   - [ ]  [3064](https://www.urionlinejudge.com.br/judge/pt/problems/view/3064) - Elástico
   - [ ]  [3081](https://www.urionlinejudge.com.br/judge/pt/problems/view/3081) - Órbita
   - [ ]  [3108](https://www.urionlinejudge.com.br/judge/pt/problems/view/3108) - Arremesse os BigOs!
+  - [ ]  [3152](https://www.urionlinejudge.com.br/judge/pt/problems/view/3152) - Samuel, O Cafeicultor
+  - [ ]  [3156](https://www.urionlinejudge.com.br/judge/pt/problems/view/3156) - Xadrez Galático
+  - [ ]  [3158](https://www.urionlinejudge.com.br/judge/pt/problems/view/3158) - O Bom Presidente
 ## Problemas resolvidos
-  - [x]  [2840](https://www.urionlinejudge.com.br/judge/pt/problems/view/2840) - [Balão++](https://github.com/potigol/URI-Potigol/blob/master/src/2800-2899/2840.poti)
+  - [x]  [2840](https://www.urionlinejudge.com.br/judge/pt/problems/view/2840) - [Balão++](https://github.com/potigol/URI-Potigol/blob/master/src/2800/2840.poti)

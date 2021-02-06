@@ -19,7 +19,7 @@ object Download extends App {
       val num      = Try {b(2).drop(33).take(4).toInt           }.getOrElse(0)
       val name     = Try {b(6).drop(39).takeWhile(_ != '<').trim}.getOrElse("")
       val category = Try {b(8).drop(37).takeWhile(_ != '<').trim}.getOrElse("")
-      Problem(num,name,category)
+      Problem(num, name, category)
     }
   }
   val all = (1 to 22).map(get)

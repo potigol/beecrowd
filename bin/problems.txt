@@ -1167,7 +1167,6 @@
 2170	Juros do Projeto	Matemática
 2171	Dividindo com Fink	Ad-Hoc
 2172	Evento	Iniciante
-2173	Caixa Dois	Grafos
 2174	Coleção de Pomekon	Strings
 2175	Qual o Mais Rápido?	Ad-Hoc
 2176	Paridade	Iniciante
@@ -2040,7 +2039,6 @@
 3063	Linhas de Ônibus	Ad-Hoc
 3064	Elástico	Geometria Computacional
 3065	Calculando	Iniciante
-3066	Dengue	Grafos
 3067	Dominó	Grafos
 3068	Meteoros	Iniciante
 3069	Sorvete	Estruturas e Bibliotecas
@@ -2119,3 +2117,26 @@
 3142	Excel Bugado	Iniciante
 3143	Fugindo do Celular	Strings
 3144	G de Grafo	Grafos
+3145	Uma Jornada Inesperada	Iniciante
+3146	Charadas no Escuro	Iniciante
+3147	A Batalha dos Cinco Exércitos	Iniciante
+3148	O Jardim	Estruturas e Bibliotecas
+3149	A Noiva do Trevo	Estruturas e Bibliotecas
+3150	O Esconderijo do Rambo	Grafos
+3151	O Iogurte Divino	Paradigmas
+3152	Samuel, O Cafeicultor	Geometria Computacional
+3153	Fake News	Paradigmas
+3154	A Grande Festa	Matemática
+3155	Sócrates e suas Perguntas	Estruturas e Bibliotecas
+3156	Xadrez Galático	Geometria Computacional
+3157	Viva a Ciência!	Iniciante
+3158	O Bom Presidente	Geometria Computacional
+3159	Tijolão	Strings
+3160	Amigos	Estruturas e Bibliotecas
+3161	As Frutas Esquecidas	Iniciante
+3162	Comunicação Espacial	Iniciante
+3163	Controlador de Vôo	Estruturas e Bibliotecas
+3164	Fiscalizando Empresa	Iniciante
+3165	Primos Gêmeos	Matemática
+3166	Procurando Palavras na Diagonal Principal	Iniciante
+3167	Procurando Palavras na Diagonal Secundária	Iniciante

@@ -1,0 +1,10 @@
+kfat(n, k: Inteiro, total: BigInt): BigInt =
+  se n > 1 entao kfat(n - k, k, total * n) senao total fim
+
+t = leia_inteiro
+para i de 1 ate t faca
+  s = leia_texto
+  n = s.inteiro
+  k = s.descarte_enquanto(_ <> '!').tamanho
+  escreva kfat(n, k, 1)
+fim

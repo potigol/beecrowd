@@ -1,0 +1,11 @@
+n = leia_inteiro
+var primos := 2 :: para i de 3 ate n passo 2 gere i fim
+var i := 1
+enquanto i < primos.tamanho faca
+  primeiro = primos[i]
+  primos := primos.selecione(a => a == primeiro ou a mod primeiro <> 0)
+  i := i + 1
+fim
+primos := primos.inverta
+enquanto primos[1] - primos[2] > 2 faca primos := primos.cauda fim
+escreva primos.pegue(2).inverta.junte(" ")

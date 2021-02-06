@@ -1,0 +1,8 @@
+var s := leia_texto
+enquanto s <> None.orNull faca
+  para i de 0 ate s.tamanho - 1 faca
+    escreva " " * i + s.pegue(s.tamanho - i).junte(" ")
+  fim
+  escreva ""
+  s := leia_texto
+fim

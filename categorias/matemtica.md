@@ -1,4 +1,4 @@
-# Matemática (38 / 245)
+# Matemática (42 / 247)
 
 ## Problemas não resolvidos
   - [ ]  [1093](https://www.urionlinejudge.com.br/judge/pt/problems/view/1093) - Vampiros
@@ -14,7 +14,6 @@
   - [ ]  [1230](https://www.urionlinejudge.com.br/judge/pt/problems/view/1230) - Integral
   - [ ]  [1232](https://www.urionlinejudge.com.br/judge/pt/problems/view/1232) - Ciclo de Rubik
   - [ ]  [1233](https://www.urionlinejudge.com.br/judge/pt/problems/view/1233) - Estrela
-  - [ ]  [1247](https://www.urionlinejudge.com.br/judge/pt/problems/view/1247) - Guarda Costeira
   - [ ]  [1264](https://www.urionlinejudge.com.br/judge/pt/problems/view/1264) - Um Problema Fácil!
   - [ ]  [1279](https://www.urionlinejudge.com.br/judge/pt/problems/view/1279) - Ano Bissexto ou Ano não Bissexto
   - [ ]  [1280](https://www.urionlinejudge.com.br/judge/pt/problems/view/1280) - Amigos
@@ -45,7 +44,6 @@
   - [ ]  [1434](https://www.urionlinejudge.com.br/judge/pt/problems/view/1434) - Patrulheiros Romanos
   - [ ]  [1444](https://www.urionlinejudge.com.br/judge/pt/problems/view/1444) - Corrida dos Marrecos
   - [ ]  [1450](https://www.urionlinejudge.com.br/judge/pt/problems/view/1450) - Os Joguinhos de Ramsés
-  - [ ]  [1457](https://www.urionlinejudge.com.br/judge/pt/problems/view/1457) - Oráculo de Alexandria
   - [ ]  [1465](https://www.urionlinejudge.com.br/judge/pt/problems/view/1465) - Complexo, Difícil e Complicado
   - [ ]  [1481](https://www.urionlinejudge.com.br/judge/pt/problems/view/1481) - A Fazenda de Ostras de Zing Zhu
   - [ ]  [1484](https://www.urionlinejudge.com.br/judge/pt/problems/view/1484) - Tecle &amp; Some
@@ -209,41 +207,45 @@
   - [ ]  [3110](https://www.urionlinejudge.com.br/judge/pt/problems/view/3110) - Farcos e o Xorshift
   - [ ]  [3138](https://www.urionlinejudge.com.br/judge/pt/problems/view/3138) - Aniversário do Tobias
 ## Problemas resolvidos
-  - [x]  [1028](https://www.urionlinejudge.com.br/judge/pt/problems/view/1028) - [Figurinhas](https://github.com/potigol/URI-Potigol/blob/master/src/1000-1099/1028.poti)
-  - [x]  [1161](https://www.urionlinejudge.com.br/judge/pt/problems/view/1161) - [Soma de Fatoriais](https://github.com/potigol/URI-Potigol/blob/master/src/1100-1199/1161.poti)
-  - [x]  [1169](https://www.urionlinejudge.com.br/judge/pt/problems/view/1169) - [Trigo no Tabuleiro](https://github.com/potigol/URI-Potigol/blob/master/src/1100-1199/1169.poti)
-  - [x]  [1170](https://www.urionlinejudge.com.br/judge/pt/problems/view/1170) - [Blobs](https://github.com/potigol/URI-Potigol/blob/master/src/1100-1199/1170.poti)
-  - [x]  [1197](https://www.urionlinejudge.com.br/judge/pt/problems/view/1197) - [Volta à Faculdade de Física](https://github.com/potigol/URI-Potigol/blob/master/src/1100-1199/1197.poti)
-  - [x]  [1198](https://www.urionlinejudge.com.br/judge/pt/problems/view/1198) - [O Bravo Guerreiro Hashmat](https://github.com/potigol/URI-Potigol/blob/master/src/1100-1199/1198.poti)
-  - [x]  [1212](https://www.urionlinejudge.com.br/judge/pt/problems/view/1212) - [Aritmética Primária](https://github.com/potigol/URI-Potigol/blob/master/src/1200-1299/1212.poti)
-  - [x]  [1221](https://www.urionlinejudge.com.br/judge/pt/problems/view/1221) - [Primo Rápido](https://github.com/potigol/URI-Potigol/blob/master/src/1200-1299/1221.poti)
-  - [x]  [1240](https://www.urionlinejudge.com.br/judge/pt/problems/view/1240) - [Encaixa ou Não I](https://github.com/potigol/URI-Potigol/blob/master/src/1200-1299/1240.poti)
-  - [x]  [1323](https://www.urionlinejudge.com.br/judge/pt/problems/view/1323) - [Feynman](https://github.com/potigol/URI-Potigol/blob/master/src/1300-1399/1323.poti)
-  - [x]  [1393](https://www.urionlinejudge.com.br/judge/pt/problems/view/1393) - [Lajotas Hexagonais](https://github.com/potigol/URI-Potigol/blob/master/src/1300-1399/1393.poti)
-  - [x]  [1429](https://www.urionlinejudge.com.br/judge/pt/problems/view/1429) - [Fatorial de Novo!](https://github.com/potigol/URI-Potigol/blob/master/src/1400-1499/1429.poti)
-  - [x]  [1436](https://www.urionlinejudge.com.br/judge/pt/problems/view/1436) - [Jogo do Tijolo](https://github.com/potigol/URI-Potigol/blob/master/src/1400-1499/1436.poti)
-  - [x]  [1555](https://www.urionlinejudge.com.br/judge/pt/problems/view/1555) - [Funções](https://github.com/potigol/URI-Potigol/blob/master/src/1500-1599/1555.poti)
-  - [x]  [1582](https://www.urionlinejudge.com.br/judge/pt/problems/view/1582) - [O Teorema de Pitágoras](https://github.com/potigol/URI-Potigol/blob/master/src/1500-1599/1582.poti)
-  - [x]  [1585](https://www.urionlinejudge.com.br/judge/pt/problems/view/1585) - [Fazendo Pandorgas](https://github.com/potigol/URI-Potigol/blob/master/src/1500-1599/1585.poti)
-  - [x]  [1760](https://www.urionlinejudge.com.br/judge/pt/problems/view/1760) - [Floco de Neve de Koch](https://github.com/potigol/URI-Potigol/blob/master/src/1700-1799/1760.poti)
-  - [x]  [1761](https://www.urionlinejudge.com.br/judge/pt/problems/view/1761) - [Decoração Natalina](https://github.com/potigol/URI-Potigol/blob/master/src/1700-1799/1761.poti)
-  - [x]  [1795](https://www.urionlinejudge.com.br/judge/pt/problems/view/1795) - [Triângulo Trinomial](https://github.com/potigol/URI-Potigol/blob/master/src/1700-1799/1795.poti)
-  - [x]  [1805](https://www.urionlinejudge.com.br/judge/pt/problems/view/1805) - [Soma Natural](https://github.com/potigol/URI-Potigol/blob/master/src/1800-1899/1805.poti)
-  - [x]  [1921](https://www.urionlinejudge.com.br/judge/pt/problems/view/1921) - [Guilherme e Suas Pipas](https://github.com/potigol/URI-Potigol/blob/master/src/1900-1999/1921.poti)
-  - [x]  [2218](https://www.urionlinejudge.com.br/judge/pt/problems/view/2218) - [O Temível Evil-Son](https://github.com/potigol/URI-Potigol/blob/master/src/2200-2299/2218.poti)
-  - [x]  [2232](https://www.urionlinejudge.com.br/judge/pt/problems/view/2232) - [Triângulo de Pascal](https://github.com/potigol/URI-Potigol/blob/master/src/2200-2299/2232.poti)
-  - [x]  [2238](https://www.urionlinejudge.com.br/judge/pt/problems/view/2238) - [Divisores](https://github.com/potigol/URI-Potigol/blob/master/src/2200-2299/2238.poti)
-  - [x]  [2497](https://www.urionlinejudge.com.br/judge/pt/problems/view/2497) - [Contando Ciclos](https://github.com/potigol/URI-Potigol/blob/master/src/2400-2499/2497.poti)
-  - [x]  [2516](https://www.urionlinejudge.com.br/judge/pt/problems/view/2516) - [Corrida](https://github.com/potigol/URI-Potigol/blob/master/src/2500-2599/2516.poti)
-  - [x]  [2584](https://www.urionlinejudge.com.br/judge/pt/problems/view/2584) - [Pentágono](https://github.com/potigol/URI-Potigol/blob/master/src/2500-2599/2584.poti)
-  - [x]  [2596](https://www.urionlinejudge.com.br/judge/pt/problems/view/2596) - [Xenlonguinho](https://github.com/potigol/URI-Potigol/blob/master/src/2500-2599/2596.poti)
-  - [x]  [2598](https://www.urionlinejudge.com.br/judge/pt/problems/view/2598) - [Colocando Radares](https://github.com/potigol/URI-Potigol/blob/master/src/2500-2599/2598.poti)
-  - [x]  [2661](https://www.urionlinejudge.com.br/judge/pt/problems/view/2661) - [Despojados](https://github.com/potigol/URI-Potigol/blob/master/src/2600-2699/2661.poti)
-  - [x]  [2667](https://www.urionlinejudge.com.br/judge/pt/problems/view/2667) - [Jogo de Boca](https://github.com/potigol/URI-Potigol/blob/master/src/2600-2699/2667.poti)
-  - [x]  [2674](https://www.urionlinejudge.com.br/judge/pt/problems/view/2674) - [Super Primos: Ativar!](https://github.com/potigol/URI-Potigol/blob/master/src/2600-2699/2674.poti)
-  - [x]  [2839](https://www.urionlinejudge.com.br/judge/pt/problems/view/2839) - [As Meias de Rangel](https://github.com/potigol/URI-Potigol/blob/master/src/2800-2899/2839.poti)
-  - [x]  [2869](https://www.urionlinejudge.com.br/judge/pt/problems/view/2869) - [Falando em Divisor...](https://github.com/potigol/URI-Potigol/blob/master/src/2800-2899/2869.poti)
-  - [x]  [2939](https://www.urionlinejudge.com.br/judge/pt/problems/view/2939) - [Casais](https://github.com/potigol/URI-Potigol/blob/master/src/2900-2999/2939.poti)
-  - [x]  [2981](https://www.urionlinejudge.com.br/judge/pt/problems/view/2981) - [Vamos Fechar](https://github.com/potigol/URI-Potigol/blob/master/src/2900-2999/2981.poti)
-  - [x]  [3049](https://www.urionlinejudge.com.br/judge/pt/problems/view/3049) - [Nota Cortada](https://github.com/potigol/URI-Potigol/blob/master/src/3000-3099/3049.poti)
-  - [x]  [3102](https://www.urionlinejudge.com.br/judge/pt/problems/view/3102) - [Kikoho](https://github.com/potigol/URI-Potigol/blob/master/src/3100-3199/3102.poti)
+  - [x]  [1028](https://www.urionlinejudge.com.br/judge/pt/problems/view/1028) - [Figurinhas](https://github.com/potigol/URI-Potigol/blob/master/src/1000/1028.poti)
+  - [x]  [1161](https://www.urionlinejudge.com.br/judge/pt/problems/view/1161) - [Soma de Fatoriais](https://github.com/potigol/URI-Potigol/blob/master/src/1100/1161.poti)
+  - [x]  [1169](https://www.urionlinejudge.com.br/judge/pt/problems/view/1169) - [Trigo no Tabuleiro](https://github.com/potigol/URI-Potigol/blob/master/src/1100/1169.poti)
+  - [x]  [1170](https://www.urionlinejudge.com.br/judge/pt/problems/view/1170) - [Blobs](https://github.com/potigol/URI-Potigol/blob/master/src/1100/1170.poti)
+  - [x]  [1197](https://www.urionlinejudge.com.br/judge/pt/problems/view/1197) - [Volta à Faculdade de Física](https://github.com/potigol/URI-Potigol/blob/master/src/1100/1197.poti)
+  - [x]  [1198](https://www.urionlinejudge.com.br/judge/pt/problems/view/1198) - [O Bravo Guerreiro Hashmat](https://github.com/potigol/URI-Potigol/blob/master/src/1100/1198.poti)
+  - [x]  [1212](https://www.urionlinejudge.com.br/judge/pt/problems/view/1212) - [Aritmética Primária](https://github.com/potigol/URI-Potigol/blob/master/src/1200/1212.poti)
+  - [x]  [1221](https://www.urionlinejudge.com.br/judge/pt/problems/view/1221) - [Primo Rápido](https://github.com/potigol/URI-Potigol/blob/master/src/1200/1221.poti)
+  - [x]  [1240](https://www.urionlinejudge.com.br/judge/pt/problems/view/1240) - [Encaixa ou Não I](https://github.com/potigol/URI-Potigol/blob/master/src/1200/1240.poti)
+  - [x]  [1247](https://www.urionlinejudge.com.br/judge/pt/problems/view/1247) - [Guarda Costeira](https://github.com/potigol/URI-Potigol/blob/master/src/1200/1247.poti)
+  - [x]  [1323](https://www.urionlinejudge.com.br/judge/pt/problems/view/1323) - [Feynman](https://github.com/potigol/URI-Potigol/blob/master/src/1300/1323.poti)
+  - [x]  [1393](https://www.urionlinejudge.com.br/judge/pt/problems/view/1393) - [Lajotas Hexagonais](https://github.com/potigol/URI-Potigol/blob/master/src/1300/1393.poti)
+  - [x]  [1429](https://www.urionlinejudge.com.br/judge/pt/problems/view/1429) - [Fatorial de Novo!](https://github.com/potigol/URI-Potigol/blob/master/src/1400/1429.poti)
+  - [x]  [1436](https://www.urionlinejudge.com.br/judge/pt/problems/view/1436) - [Jogo do Tijolo](https://github.com/potigol/URI-Potigol/blob/master/src/1400/1436.poti)
+  - [x]  [1457](https://www.urionlinejudge.com.br/judge/pt/problems/view/1457) - [Oráculo de Alexandria](https://github.com/potigol/URI-Potigol/blob/master/src/1400/1457.poti)
+  - [x]  [1555](https://www.urionlinejudge.com.br/judge/pt/problems/view/1555) - [Funções](https://github.com/potigol/URI-Potigol/blob/master/src/1500/1555.poti)
+  - [x]  [1582](https://www.urionlinejudge.com.br/judge/pt/problems/view/1582) - [O Teorema de Pitágoras](https://github.com/potigol/URI-Potigol/blob/master/src/1500/1582.poti)
+  - [x]  [1585](https://www.urionlinejudge.com.br/judge/pt/problems/view/1585) - [Fazendo Pandorgas](https://github.com/potigol/URI-Potigol/blob/master/src/1500/1585.poti)
+  - [x]  [1760](https://www.urionlinejudge.com.br/judge/pt/problems/view/1760) - [Floco de Neve de Koch](https://github.com/potigol/URI-Potigol/blob/master/src/1700/1760.poti)
+  - [x]  [1761](https://www.urionlinejudge.com.br/judge/pt/problems/view/1761) - [Decoração Natalina](https://github.com/potigol/URI-Potigol/blob/master/src/1700/1761.poti)
+  - [x]  [1795](https://www.urionlinejudge.com.br/judge/pt/problems/view/1795) - [Triângulo Trinomial](https://github.com/potigol/URI-Potigol/blob/master/src/1700/1795.poti)
+  - [x]  [1805](https://www.urionlinejudge.com.br/judge/pt/problems/view/1805) - [Soma Natural](https://github.com/potigol/URI-Potigol/blob/master/src/1800/1805.poti)
+  - [x]  [1921](https://www.urionlinejudge.com.br/judge/pt/problems/view/1921) - [Guilherme e Suas Pipas](https://github.com/potigol/URI-Potigol/blob/master/src/1900/1921.poti)
+  - [x]  [2218](https://www.urionlinejudge.com.br/judge/pt/problems/view/2218) - [O Temível Evil-Son](https://github.com/potigol/URI-Potigol/blob/master/src/2200/2218.poti)
+  - [x]  [2232](https://www.urionlinejudge.com.br/judge/pt/problems/view/2232) - [Triângulo de Pascal](https://github.com/potigol/URI-Potigol/blob/master/src/2200/2232.poti)
+  - [x]  [2238](https://www.urionlinejudge.com.br/judge/pt/problems/view/2238) - [Divisores](https://github.com/potigol/URI-Potigol/blob/master/src/2200/2238.poti)
+  - [x]  [2497](https://www.urionlinejudge.com.br/judge/pt/problems/view/2497) - [Contando Ciclos](https://github.com/potigol/URI-Potigol/blob/master/src/2400/2497.poti)
+  - [x]  [2516](https://www.urionlinejudge.com.br/judge/pt/problems/view/2516) - [Corrida](https://github.com/potigol/URI-Potigol/blob/master/src/2500/2516.poti)
+  - [x]  [2584](https://www.urionlinejudge.com.br/judge/pt/problems/view/2584) - [Pentágono](https://github.com/potigol/URI-Potigol/blob/master/src/2500/2584.poti)
+  - [x]  [2596](https://www.urionlinejudge.com.br/judge/pt/problems/view/2596) - [Xenlonguinho](https://github.com/potigol/URI-Potigol/blob/master/src/2500/2596.poti)
+  - [x]  [2598](https://www.urionlinejudge.com.br/judge/pt/problems/view/2598) - [Colocando Radares](https://github.com/potigol/URI-Potigol/blob/master/src/2500/2598.poti)
+  - [x]  [2661](https://www.urionlinejudge.com.br/judge/pt/problems/view/2661) - [Despojados](https://github.com/potigol/URI-Potigol/blob/master/src/2600/2661.poti)
+  - [x]  [2667](https://www.urionlinejudge.com.br/judge/pt/problems/view/2667) - [Jogo de Boca](https://github.com/potigol/URI-Potigol/blob/master/src/2600/2667.poti)
+  - [x]  [2674](https://www.urionlinejudge.com.br/judge/pt/problems/view/2674) - [Super Primos: Ativar!](https://github.com/potigol/URI-Potigol/blob/master/src/2600/2674.poti)
+  - [x]  [2839](https://www.urionlinejudge.com.br/judge/pt/problems/view/2839) - [As Meias de Rangel](https://github.com/potigol/URI-Potigol/blob/master/src/2800/2839.poti)
+  - [x]  [2869](https://www.urionlinejudge.com.br/judge/pt/problems/view/2869) - [Falando em Divisor...](https://github.com/potigol/URI-Potigol/blob/master/src/2800/2869.poti)
+  - [x]  [2939](https://www.urionlinejudge.com.br/judge/pt/problems/view/2939) - [Casais](https://github.com/potigol/URI-Potigol/blob/master/src/2900/2939.poti)
+  - [x]  [2981](https://www.urionlinejudge.com.br/judge/pt/problems/view/2981) - [Vamos Fechar](https://github.com/potigol/URI-Potigol/blob/master/src/2900/2981.poti)
+  - [x]  [3049](https://www.urionlinejudge.com.br/judge/pt/problems/view/3049) - [Nota Cortada](https://github.com/potigol/URI-Potigol/blob/master/src/3000/3049.poti)
+  - [x]  [3102](https://www.urionlinejudge.com.br/judge/pt/problems/view/3102) - [Kikoho](https://github.com/potigol/URI-Potigol/blob/master/src/3100/3102.poti)
+  - [x]  [3154](https://www.urionlinejudge.com.br/judge/pt/problems/view/3154) - [A Grande Festa](https://github.com/potigol/URI-Potigol/blob/master/src/3100/3154.poti)
+  - [x]  [3165](https://www.urionlinejudge.com.br/judge/pt/problems/view/3165) - [Primos Gêmeos](https://github.com/potigol/URI-Potigol/blob/master/src/3100/3165.poti)

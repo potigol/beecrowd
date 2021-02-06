@@ -1,0 +1,8 @@
+c = leia_inteiro
+para i de 1 ate c faca
+  s = leia_texto
+  p = s.posicao('m')
+  a = p - 2
+  b = s.tamanho - a - 6
+  escreva "k" + "a" * (a * b) 
+fim

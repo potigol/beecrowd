@@ -2,6 +2,7 @@
 *.poti.scala
 /src/*/*a.poti
 /src/*/*b.poti
+/src/*/*.txt
 /*.poti
 */.metals/
 .metals/*
