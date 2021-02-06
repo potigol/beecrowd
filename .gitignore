@@ -4,3 +4,6 @@
 /src/*/*b.poti
 /*.poti
 */.metals/
+.metals/*
+.vscode/launch.json
+.vscode/settings.json
