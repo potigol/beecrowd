@@ -1,0 +1,12 @@
+a = leia_inteiros(" ")
+n, m = a[1], a[2]
+frutas = leia_textos(n).mapeie(_.minusculo)
+linhas = leia_textos(m).mapeie(_.minusculo).junte(" ")
+para fruta em frutas faca
+  se linhas.divida(fruta).tamanho > 1 ou
+     linhas.divida(fruta.inverta).tamanho > 1 entao
+    escreva "Sheldon come a fruta {fruta}"
+  senao
+    escreva "Sheldon detesta a fruta {fruta}"
+  fim
+fim

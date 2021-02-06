@@ -61,8 +61,8 @@
   - [ ]  [3158](https://www.urionlinejudge.com.br/judge/pt/problems/view/3158) - O Bom Presidente *Geometria Computacional*
   - [ ]  [3159](https://www.urionlinejudge.com.br/judge/pt/problems/view/3159) - Tijolão *Strings*
   - [ ]  [3160](https://www.urionlinejudge.com.br/judge/pt/problems/view/3160) - Amigos *Estruturas e Bibliotecas*
-  - [ ]  [3161](https://www.urionlinejudge.com.br/judge/pt/problems/view/3161) - As Frutas Esquecidas *Iniciante*
-  - [x]  [3162](https://www.urionlinejudge.com.br/judge/pt/problems/view/3162) - [Comunicação Espacial](https://github.com/potigol/URI-Potigol/blob/master/src/3100/3162.poti) *Iniciante*
+  - [x]  [3161](https://www.urionlinejudge.com.br/judge/pt/problems/view/3161) - [As Frutas Esquecidas](https://github.com/potigol/URI-Potigol/blob/master/src/3100/3161.poti) *Iniciante*
+  - [ ]  [3162](https://www.urionlinejudge.com.br/judge/pt/problems/view/3162) - Comunicação Espacial *Iniciante*
   - [ ]  [3163](https://www.urionlinejudge.com.br/judge/pt/problems/view/3163) - Controlador de Vôo *Estruturas e Bibliotecas*
   - [ ]  [3164](https://www.urionlinejudge.com.br/judge/pt/problems/view/3164) - Fiscalizando Empresa *Iniciante*
   - [x]  [3165](https://www.urionlinejudge.com.br/judge/pt/problems/view/3165) - [Primos Gêmeos](https://github.com/potigol/URI-Potigol/blob/master/src/3100/3165.poti) *Matemática*
