@@ -257,6 +257,6 @@
   - [ ]  [3144](https://www.urionlinejudge.com.br/judge/pt/problems/view/3144) - G de Grafo
   - [ ]  [3150](https://www.urionlinejudge.com.br/judge/pt/problems/view/3150) - O Esconderijo do Rambo
 ## Problemas resolvidos
-  - [x]  [2428](https://www.urionlinejudge.com.br/judge/pt/problems/view/2428) - [Capital](https://github.com/potigol/URI-Potigol/blob/master/src/2400-2499/2428.poti)
-  - [x]  [2687](https://www.urionlinejudge.com.br/judge/pt/problems/view/2687) - [Dominação Bacteriana](https://github.com/potigol/URI-Potigol/blob/master/src/2600-2699/2687.poti)
-  - [x]  [3043](https://www.urionlinejudge.com.br/judge/pt/problems/view/3043) - [Festa Junina](https://github.com/potigol/URI-Potigol/blob/master/src/3000-3099/3043.poti)
+  - [x]  [2428](https://www.urionlinejudge.com.br/judge/pt/problems/view/2428) - [Capital](https://github.com/potigol/URI-Potigol/blob/master/src/2400/2428.poti)
+  - [x]  [2687](https://www.urionlinejudge.com.br/judge/pt/problems/view/2687) - [Dominação Bacteriana](https://github.com/potigol/URI-Potigol/blob/master/src/2600/2687.poti)
+  - [x]  [3043](https://www.urionlinejudge.com.br/judge/pt/problems/view/3043) - [Festa Junina](https://github.com/potigol/URI-Potigol/blob/master/src/3000/3043.poti)

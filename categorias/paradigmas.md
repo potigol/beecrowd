@@ -204,5 +204,5 @@
   - [ ]  [3151](https://www.urionlinejudge.com.br/judge/pt/problems/view/3151) - O Iogurte Divino
   - [ ]  [3153](https://www.urionlinejudge.com.br/judge/pt/problems/view/3153) - Fake News
 ## Problemas resolvidos
-  - [x]  [1029](https://www.urionlinejudge.com.br/judge/pt/problems/view/1029) - [Fibonacci, Quantas Chamadas?](https://github.com/potigol/URI-Potigol/blob/master/src/1000-1099/1029.poti)
-  - [x]  [1084](https://www.urionlinejudge.com.br/judge/pt/problems/view/1084) - [Apagando e Ganhando](https://github.com/potigol/URI-Potigol/blob/master/src/1000-1099/1084.poti)
+  - [x]  [1029](https://www.urionlinejudge.com.br/judge/pt/problems/view/1029) - [Fibonacci, Quantas Chamadas?](https://github.com/potigol/URI-Potigol/blob/master/src/1000/1029.poti)
+  - [x]  [1084](https://www.urionlinejudge.com.br/judge/pt/problems/view/1084) - [Apagando e Ganhando](https://github.com/potigol/URI-Potigol/blob/master/src/1000/1084.poti)

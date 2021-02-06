@@ -80,4 +80,4 @@
   - [ ]  [3156](https://www.urionlinejudge.com.br/judge/pt/problems/view/3156) - Xadrez Galático
   - [ ]  [3158](https://www.urionlinejudge.com.br/judge/pt/problems/view/3158) - O Bom Presidente
 ## Problemas resolvidos
-  - [x]  [2840](https://www.urionlinejudge.com.br/judge/pt/problems/view/2840) - [Balão++](https://github.com/potigol/URI-Potigol/blob/master/src/2800-2899/2840.poti)
+  - [x]  [2840](https://www.urionlinejudge.com.br/judge/pt/problems/view/2840) - [Balão++](https://github.com/potigol/URI-Potigol/blob/master/src/2800/2840.poti)

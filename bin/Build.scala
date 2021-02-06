@@ -22,7 +22,7 @@ object Build extends App {
   val code = config("code")
   val extension = config("extension")
 
-  def dir(n: Int) = s"${n / 100 * 100}-${(n / 100 + 1) * 100 - 1}"
+  def dir(n: Int) = s"${n / 100 * 100}"
 
   def line(x: Int, cat: Boolean = true) = a.find(_.number == x) match {
     case None => s"  - [ ] ~~${x}~~"

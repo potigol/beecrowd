@@ -1,0 +1,102 @@
+# Problemas 1900
+
+  - [ ]  [1900](https://www.urionlinejudge.com.br/judge/pt/problems/view/1900) - Sequências Nulas *Paradigmas*
+  - [ ]  [1901](https://www.urionlinejudge.com.br/judge/pt/problems/view/1901) - Borboletas *Ad-Hoc*
+  - [ ]  [1902](https://www.urionlinejudge.com.br/judge/pt/problems/view/1902) - Sociedade Brasileira Casamenteira *Grafos*
+  - [ ]  [1903](https://www.urionlinejudge.com.br/judge/pt/problems/view/1903) - Cadeia Alimentar *Grafos*
+  - [ ]  [1904](https://www.urionlinejudge.com.br/judge/pt/problems/view/1904) - Par ou Ímpar 2.0 *Matemática*
+  - [ ]  [1905](https://www.urionlinejudge.com.br/judge/pt/problems/view/1905) - Polícia e Ladrão *Grafos*
+  - [ ]  [1906](https://www.urionlinejudge.com.br/judge/pt/problems/view/1906) - Senhas de Collatz *Grafos*
+  - [ ]  [1907](https://www.urionlinejudge.com.br/judge/pt/problems/view/1907) - Coloração de Cenários de Jogos *Grafos*
+  - [ ]  [1908](https://www.urionlinejudge.com.br/judge/pt/problems/view/1908) - UFFS Multicampi *Grafos*
+  - [ ]  [1909](https://www.urionlinejudge.com.br/judge/pt/problems/view/1909) - Ajude Kiko *Matemática*
+  - [ ]  [1910](https://www.urionlinejudge.com.br/judge/pt/problems/view/1910) - Ajude Clotilde *Grafos*
+  - [ ]  [1911](https://www.urionlinejudge.com.br/judge/pt/problems/view/1911) - Ajude Girafales *Estruturas e Bibliotecas*
+  - [ ]  [1912](https://www.urionlinejudge.com.br/judge/pt/problems/view/1912) - Ajude Seu Madruga *Paradigmas*
+  - [ ]  [1913](https://www.urionlinejudge.com.br/judge/pt/problems/view/1913) - Ajude o Sr. Barriga *Paradigmas*
+  - [x]  [1914](https://www.urionlinejudge.com.br/judge/pt/problems/view/1914) - [De Quem é a Vez?](https://github.com/potigol/URI-Potigol/blob/master/src/1900/1914.poti) *Iniciante*
+  - [ ]  [1915](https://www.urionlinejudge.com.br/judge/pt/problems/view/1915) - Ajude Chaves *Grafos*
+  - [ ]  [1916](https://www.urionlinejudge.com.br/judge/pt/problems/view/1916) - Banco de Horas de Jaiminho *Ad-Hoc*
+  - [ ]  [1917](https://www.urionlinejudge.com.br/judge/pt/problems/view/1917) - Ajude o Chapolin Colorado! *Ad-Hoc*
+  - [ ]  [1918](https://www.urionlinejudge.com.br/judge/pt/problems/view/1918) - Viagem para Acapulco *Ad-Hoc*
+  - [ ]  [1919](https://www.urionlinejudge.com.br/judge/pt/problems/view/1919) - Ajude Nhonho *Ad-Hoc*
+  - [ ]  [1920](https://www.urionlinejudge.com.br/judge/pt/problems/view/1920) - Fonte dos Desejos *Ad-Hoc*
+  - [x]  [1921](https://www.urionlinejudge.com.br/judge/pt/problems/view/1921) - [Guilherme e Suas Pipas](https://github.com/potigol/URI-Potigol/blob/master/src/1900/1921.poti) *Matemática*
+  - [ ]  [1922](https://www.urionlinejudge.com.br/judge/pt/problems/view/1922) - Diego e o Jogo do Martelo *Paradigmas*
+  - [ ]  [1923](https://www.urionlinejudge.com.br/judge/pt/problems/view/1923) - Rerisson e o Churrasco *Grafos*
+  - [x]  [1924](https://www.urionlinejudge.com.br/judge/pt/problems/view/1924) - [Vitória e a Indecisão](https://github.com/potigol/URI-Potigol/blob/master/src/1900/1924.poti) *Iniciante*
+  - [ ]  [1925](https://www.urionlinejudge.com.br/judge/pt/problems/view/1925) - Ordan e as Novinhas *Grafos*
+  - [ ]  [1926](https://www.urionlinejudge.com.br/judge/pt/problems/view/1926) - Marianne e os Primos Gêmeos *Matemática*
+  - [ ]  [1927](https://www.urionlinejudge.com.br/judge/pt/problems/view/1927) - Tapioca e a Chuva de Trufas *Paradigmas*
+  - [ ]  [1928](https://www.urionlinejudge.com.br/judge/pt/problems/view/1928) - Jogo da Memória *Grafos*
+  - [x]  [1929](https://www.urionlinejudge.com.br/judge/pt/problems/view/1929) - [Triângulo](https://github.com/potigol/URI-Potigol/blob/master/src/1900/1929.poti) *Iniciante*
+  - [x]  [1930](https://www.urionlinejudge.com.br/judge/pt/problems/view/1930) - [Tomadas](https://github.com/potigol/URI-Potigol/blob/master/src/1900/1930.poti) *Iniciante*
+  - [ ]  [1931](https://www.urionlinejudge.com.br/judge/pt/problems/view/1931) - Mania de Par *Grafos*
+  - [ ]  [1932](https://www.urionlinejudge.com.br/judge/pt/problems/view/1932) - Bolsa de Valores *Paradigmas*
+  - [x]  [1933](https://www.urionlinejudge.com.br/judge/pt/problems/view/1933) - [Tri-du](https://github.com/potigol/URI-Potigol/blob/master/src/1900/1933.poti) *Iniciante*
+  - [ ]  [1934](https://www.urionlinejudge.com.br/judge/pt/problems/view/1934) - Quebra-cabeça *Ad-Hoc*
+  - [ ]  [1935](https://www.urionlinejudge.com.br/judge/pt/problems/view/1935) - Espiral *Ad-Hoc*
+  - [x]  [1936](https://www.urionlinejudge.com.br/judge/pt/problems/view/1936) - [Fatorial](https://github.com/potigol/URI-Potigol/blob/master/src/1900/1936.poti) *Ad-Hoc*
+  - [ ]  [1937](https://www.urionlinejudge.com.br/judge/pt/problems/view/1937) - Guardiões Curiosos *Ad-Hoc*
+  - [ ]  [1938](https://www.urionlinejudge.com.br/judge/pt/problems/view/1938) - Praça do Retângulo *Geometria Computacional*
+  - [ ]  [1939](https://www.urionlinejudge.com.br/judge/pt/problems/view/1939) - Ominobox *Ad-Hoc*
+  - [ ]  [1940](https://www.urionlinejudge.com.br/judge/pt/problems/view/1940) - Jogo da Estratégia *Ad-Hoc*
+  - [ ]  [1941](https://www.urionlinejudge.com.br/judge/pt/problems/view/1941) - Palíndromo *Strings*
+  - [ ]  [1942](https://www.urionlinejudge.com.br/judge/pt/problems/view/1942) - Loteria *Ad-Hoc*
+  - [x]  [1943](https://www.urionlinejudge.com.br/judge/pt/problems/view/1943) - [Top N](https://github.com/potigol/URI-Potigol/blob/master/src/1900/1943.poti) *Ad-Hoc*
+  - [ ]  [1944](https://www.urionlinejudge.com.br/judge/pt/problems/view/1944) - BRINDE FACE 2015 *Estruturas e Bibliotecas*
+  - [ ]  [1945](https://www.urionlinejudge.com.br/judge/pt/problems/view/1945) - Simulador *Ad-Hoc*
+  - [ ]  [1946](https://www.urionlinejudge.com.br/judge/pt/problems/view/1946) - Pirâmide da Sorte *Matemática*
+  - [ ]  [1947](https://www.urionlinejudge.com.br/judge/pt/problems/view/1947) - Rota do Taxista *Grafos*
+  - [ ]  [1948](https://www.urionlinejudge.com.br/judge/pt/problems/view/1948) - Compilador *Grafos*
+  - [ ]  [1949](https://www.urionlinejudge.com.br/judge/pt/problems/view/1949) - Registrador de Deslocamento *Matemática*
+  - [ ]  [1950](https://www.urionlinejudge.com.br/judge/pt/problems/view/1950) - Spöhndriger *Grafos*
+  - [ ]  [1951](https://www.urionlinejudge.com.br/judge/pt/problems/view/1951) - Validador de Circuitos *Grafos*
+  - [ ]  [1952](https://www.urionlinejudge.com.br/judge/pt/problems/view/1952) - O Cavalo no Xadrez 3D *Grafos*
+  - [ ]  [1953](https://www.urionlinejudge.com.br/judge/pt/problems/view/1953) - Roberto e a Sala Desenfreada *Ad-Hoc*
+  - [ ]  [1954](https://www.urionlinejudge.com.br/judge/pt/problems/view/1954) - Caminhos Evolucionários Possíveis *Grafos*
+  - [ ]  [1955](https://www.urionlinejudge.com.br/judge/pt/problems/view/1955) - See World *Grafos*
+  - [ ]  [1956](https://www.urionlinejudge.com.br/judge/pt/problems/view/1956) - Acácias *Grafos*
+  - [x]  [1957](https://www.urionlinejudge.com.br/judge/pt/problems/view/1957) - [Converter para Hexadecimal](https://github.com/potigol/URI-Potigol/blob/master/src/1900/1957.poti) *Iniciante*
+  - [x]  [1958](https://www.urionlinejudge.com.br/judge/pt/problems/view/1958) - [Notação Científica](https://github.com/potigol/URI-Potigol/blob/master/src/1900/1958.poti) *Iniciante*
+  - [x]  [1959](https://www.urionlinejudge.com.br/judge/pt/problems/view/1959) - [Polígonos Regulares Simples](https://github.com/potigol/URI-Potigol/blob/master/src/1900/1959.poti) *Iniciante*
+  - [x]  [1960](https://www.urionlinejudge.com.br/judge/pt/problems/view/1960) - [Numeração Romana para Números de Página](https://github.com/potigol/URI-Potigol/blob/master/src/1900/1960.poti) *Iniciante*
+  - [x]  [1961](https://www.urionlinejudge.com.br/judge/pt/problems/view/1961) - [Pula Sapo](https://github.com/potigol/URI-Potigol/blob/master/src/1900/1961.poti) *Iniciante*
+  - [x]  [1962](https://www.urionlinejudge.com.br/judge/pt/problems/view/1962) - [Há Muito, Muito Tempo Atrás](https://github.com/potigol/URI-Potigol/blob/master/src/1900/1962.poti) *Iniciante*
+  - [x]  [1963](https://www.urionlinejudge.com.br/judge/pt/problems/view/1963) - [O Filme](https://github.com/potigol/URI-Potigol/blob/master/src/1900/1963.poti) *Iniciante*
+  - [ ]  [1964](https://www.urionlinejudge.com.br/judge/pt/problems/view/1964) - A Ira de Khan *Ad-Hoc*
+  - [ ]  [1965](https://www.urionlinejudge.com.br/judge/pt/problems/view/1965) - A Procura por Spock *Ad-Hoc*
+  - [ ]  [1966](https://www.urionlinejudge.com.br/judge/pt/problems/view/1966) - A Volta para Casa *Ad-Hoc*
+  - [ ]  [1967](https://www.urionlinejudge.com.br/judge/pt/problems/view/1967) - A Fronteira Final *Matemática*
+  - [ ]  [1968](https://www.urionlinejudge.com.br/judge/pt/problems/view/1968) - A Terra Desconhecida *Matemática*
+  - [ ]  [1969](https://www.urionlinejudge.com.br/judge/pt/problems/view/1969) - Generations *Matemática*
+  - [ ]  [1970](https://www.urionlinejudge.com.br/judge/pt/problems/view/1970) - Primeiro Contato *Paradigmas*
+  - [ ]  [1971](https://www.urionlinejudge.com.br/judge/pt/problems/view/1971) - Insurreição *Geometria Computacional*
+  - [ ]  [1972](https://www.urionlinejudge.com.br/judge/pt/problems/view/1972) - Nêmesis *Grafos*
+  - [x]  [1973](https://www.urionlinejudge.com.br/judge/pt/problems/view/1973) - [Jornada nas Estrelas](https://github.com/potigol/URI-Potigol/blob/master/src/1900/1973.poti) *Iniciante*
+  - [ ]  [1974](https://www.urionlinejudge.com.br/judge/pt/problems/view/1974) - Além da Escuridão *Grafos*
+  - [ ]  [1975](https://www.urionlinejudge.com.br/judge/pt/problems/view/1975) - Pérolas *Estruturas e Bibliotecas*
+  - [ ]  [1976](https://www.urionlinejudge.com.br/judge/pt/problems/view/1976) - Matrizes *Paradigmas*
+  - [ ]  [1977](https://www.urionlinejudge.com.br/judge/pt/problems/view/1977) - Não Posso me Atrasar *Grafos*
+  - [ ]  [1978](https://www.urionlinejudge.com.br/judge/pt/problems/view/1978) - Câmeras *Paradigmas*
+  - [ ]  [1979](https://www.urionlinejudge.com.br/judge/pt/problems/view/1979) - Salas Separadas *Grafos*
+  - [ ]  [1980](https://www.urionlinejudge.com.br/judge/pt/problems/view/1980) - Embaralhando *Ad-Hoc*
+  - [ ]  [1981](https://www.urionlinejudge.com.br/judge/pt/problems/view/1981) - Embaralhando de Novo *Matemática*
+  - [ ]  [1982](https://www.urionlinejudge.com.br/judge/pt/problems/view/1982) - Novos Computadores *Geometria Computacional*
+  - [x]  [1983](https://www.urionlinejudge.com.br/judge/pt/problems/view/1983) - [O Escolhido](https://github.com/potigol/URI-Potigol/blob/master/src/1900/1983.poti) *Iniciante*
+  - [x]  [1984](https://www.urionlinejudge.com.br/judge/pt/problems/view/1984) - [O Enigma do Pronalândia](https://github.com/potigol/URI-Potigol/blob/master/src/1900/1984.poti) *Iniciante*
+  - [x]  [1985](https://www.urionlinejudge.com.br/judge/pt/problems/view/1985) - [MacPRONALTS](https://github.com/potigol/URI-Potigol/blob/master/src/1900/1985.poti) *Iniciante*
+  - [ ]  [1986](https://www.urionlinejudge.com.br/judge/pt/problems/view/1986) - Perdido em Marte *Ad-Hoc*
+  - [ ]  [1987](https://www.urionlinejudge.com.br/judge/pt/problems/view/1987) - Divisibilidade Por 3 *Ad-Hoc*
+  - [ ]  [1988](https://www.urionlinejudge.com.br/judge/pt/problems/view/1988) - Circuitos Turísticos *Grafos*
+  - [ ]  [1989](https://www.urionlinejudge.com.br/judge/pt/problems/view/1989) - Fazendo Nada *Matemática*
+  - [ ]  [1990](https://www.urionlinejudge.com.br/judge/pt/problems/view/1990) - Equilíbrio *Matemática*
+  - [ ]  [1991](https://www.urionlinejudge.com.br/judge/pt/problems/view/1991) - Fábrica de Pontes *Geometria Computacional*
+  - [ ]  [1992](https://www.urionlinejudge.com.br/judge/pt/problems/view/1992) - Ganhando Tempo *Matemática*
+  - [ ]  [1993](https://www.urionlinejudge.com.br/judge/pt/problems/view/1993) - Ele é Preguiçoso *Grafos*
+  - [ ]  [1994](https://www.urionlinejudge.com.br/judge/pt/problems/view/1994) - Imperialismo *Grafos*
+  - [ ]  [1995](https://www.urionlinejudge.com.br/judge/pt/problems/view/1995) - Game, Set e Match *Matemática*
+  - [ ]  [1996](https://www.urionlinejudge.com.br/judge/pt/problems/view/1996) - Construção de Tendas *Paradigmas*
+  - [ ]  [1997](https://www.urionlinejudge.com.br/judge/pt/problems/view/1997) - Branco e Preto *Ad-Hoc*
+  - [ ]  [1998](https://www.urionlinejudge.com.br/judge/pt/problems/view/1998) - Awari 2.0 *Ad-Hoc*
+  - [ ]  [1999](https://www.urionlinejudge.com.br/judge/pt/problems/view/1999) - Baile de Reconciliação *Matemática*
