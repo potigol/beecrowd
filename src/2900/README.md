@@ -86,7 +86,7 @@
   - [ ]  [2983](https://www.urionlinejudge.com.br/judge/pt/problems/view/2983) - Nem Tudo é Greve *Matemática*
   - [x]  [2984](https://www.urionlinejudge.com.br/judge/pt/problems/view/2984) - [Assuntos Pendentes](https://github.com/potigol/URI-Potigol/blob/master/src/2900/2984.poti) *Estruturas e Bibliotecas*
   - [ ]  [2985](https://www.urionlinejudge.com.br/judge/pt/problems/view/2985) - Tobias Contra o Relógio *Ad-Hoc*
-  - [ ]  [2986](https://www.urionlinejudge.com.br/judge/pt/problems/view/2986) - Nem Tudo é Greve Versão Hard *Matemática*
+  - [x]  [2986](https://www.urionlinejudge.com.br/judge/pt/problems/view/2986) - [Nem Tudo é Greve Versão Hard](https://github.com/potigol/URI-Potigol/blob/master/src/2900/2986.poti) *Matemática*
   - [x]  [2987](https://www.urionlinejudge.com.br/judge/pt/problems/view/2987) - [Balão de Honra](https://github.com/potigol/URI-Potigol/blob/master/src/2900/2987.poti) *Iniciante*
   - [ ]  ~~2988~~ - *SQL*
   - [ ]  ~~2989~~ - *SQL*

@@ -1,4 +1,4 @@
-# Geometria Computacional (1 / 79)
+# Geometria Computacional (2 / 79)
 
 ## Problemas não resolvidos
   - [ ]  [1039](https://www.urionlinejudge.com.br/judge/pt/problems/view/1039) - Flores de Fogo
@@ -48,7 +48,6 @@
   - [ ]  [1834](https://www.urionlinejudge.com.br/judge/pt/problems/view/1834) - Vogons!
   - [ ]  [1844](https://www.urionlinejudge.com.br/judge/pt/problems/view/1844) - As Relíquias da Morte
   - [ ]  [1857](https://www.urionlinejudge.com.br/judge/pt/problems/view/1857) - Prelúdio de um Casamento Vermelho
-  - [ ]  [1875](https://www.urionlinejudge.com.br/judge/pt/problems/view/1875) - Tribol
   - [ ]  [1938](https://www.urionlinejudge.com.br/judge/pt/problems/view/1938) - Praça do Retângulo
   - [ ]  [1971](https://www.urionlinejudge.com.br/judge/pt/problems/view/1971) - Insurreição
   - [ ]  [1982](https://www.urionlinejudge.com.br/judge/pt/problems/view/1982) - Novos Computadores
@@ -80,4 +79,5 @@
   - [ ]  [3156](https://www.urionlinejudge.com.br/judge/pt/problems/view/3156) - Xadrez Galático
   - [ ]  [3158](https://www.urionlinejudge.com.br/judge/pt/problems/view/3158) - O Bom Presidente
 ## Problemas resolvidos
+  - [x]  [1875](https://www.urionlinejudge.com.br/judge/pt/problems/view/1875) - [Tribol](https://github.com/potigol/URI-Potigol/blob/master/src/1800/1875.poti)
   - [x]  [2840](https://www.urionlinejudge.com.br/judge/pt/problems/view/2840) - [Balão++](https://github.com/potigol/URI-Potigol/blob/master/src/2800/2840.poti)

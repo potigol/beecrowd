@@ -1,4 +1,4 @@
-# Matemática (42 / 247)
+# Matemática (43 / 247)
 
 ## Problemas não resolvidos
   - [ ]  [1093](https://www.urionlinejudge.com.br/judge/pt/problems/view/1093) - Vampiros
@@ -192,7 +192,6 @@
   - [ ]  [2956](https://www.urionlinejudge.com.br/judge/pt/problems/view/2956) - Derivada de 13 Variáveis
   - [ ]  [2978](https://www.urionlinejudge.com.br/judge/pt/problems/view/2978) - Cartão
   - [ ]  [2983](https://www.urionlinejudge.com.br/judge/pt/problems/view/2983) - Nem Tudo é Greve
-  - [ ]  [2986](https://www.urionlinejudge.com.br/judge/pt/problems/view/2986) - Nem Tudo é Greve Versão Hard
   - [ ]  [3002](https://www.urionlinejudge.com.br/judge/pt/problems/view/3002) - Salve a Lilly!
   - [ ]  [3004](https://www.urionlinejudge.com.br/judge/pt/problems/view/3004) - Envelopes
   - [ ]  [3007](https://www.urionlinejudge.com.br/judge/pt/problems/view/3007) - Lucas e Frobenius
@@ -245,6 +244,7 @@
   - [x]  [2869](https://www.urionlinejudge.com.br/judge/pt/problems/view/2869) - [Falando em Divisor...](https://github.com/potigol/URI-Potigol/blob/master/src/2800/2869.poti)
   - [x]  [2939](https://www.urionlinejudge.com.br/judge/pt/problems/view/2939) - [Casais](https://github.com/potigol/URI-Potigol/blob/master/src/2900/2939.poti)
   - [x]  [2981](https://www.urionlinejudge.com.br/judge/pt/problems/view/2981) - [Vamos Fechar](https://github.com/potigol/URI-Potigol/blob/master/src/2900/2981.poti)
+  - [x]  [2986](https://www.urionlinejudge.com.br/judge/pt/problems/view/2986) - [Nem Tudo é Greve Versão Hard](https://github.com/potigol/URI-Potigol/blob/master/src/2900/2986.poti)
   - [x]  [3049](https://www.urionlinejudge.com.br/judge/pt/problems/view/3049) - [Nota Cortada](https://github.com/potigol/URI-Potigol/blob/master/src/3000/3049.poti)
   - [x]  [3102](https://www.urionlinejudge.com.br/judge/pt/problems/view/3102) - [Kikoho](https://github.com/potigol/URI-Potigol/blob/master/src/3100/3102.poti)
   - [x]  [3154](https://www.urionlinejudge.com.br/judge/pt/problems/view/3154) - [A Grande Festa](https://github.com/potigol/URI-Potigol/blob/master/src/3100/3154.poti)

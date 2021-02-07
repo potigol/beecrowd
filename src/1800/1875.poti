@@ -1,0 +1,22 @@
+c = leia_inteiro
+para i de 1 ate c faca
+  p = leia_inteiro
+  var r, g, b := 0
+  para k de 1 ate p faca
+    ms = leia_texto
+    escolha ms
+      caso "R G" => r := r + 2
+      caso "G B" => g := g + 2
+      caso "B R" => b := b + 2
+      caso "R B" => r := r + 1
+      caso "G R" => g := g + 1
+      caso _     => b := b + 1
+    fim
+  fim
+  se    r == g e g == b entao  escreva "trempate"
+  senaose r > g e r > b entao  escreva "red"
+  senaose g > r e g > b entao  escreva "green"
+  senaose b > g e b > r entao  escreva "blue"
+  senao                        escreva "empate"
+  fim
+fim

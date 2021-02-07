@@ -75,7 +75,7 @@
   - [ ]  [1872](https://www.urionlinejudge.com.br/judge/pt/problems/view/1872) - Palíndromo Real *Matemática*
   - [x]  [1873](https://www.urionlinejudge.com.br/judge/pt/problems/view/1873) - [Pedra-papel-tesoura-lagarto-Spock](https://github.com/potigol/URI-Potigol/blob/master/src/1800/1873.poti) *Strings*
   - [ ]  [1874](https://www.urionlinejudge.com.br/judge/pt/problems/view/1874) - Empurrando Blocos *Estruturas e Bibliotecas*
-  - [ ]  [1875](https://www.urionlinejudge.com.br/judge/pt/problems/view/1875) - Tribol *Geometria Computacional*
+  - [x]  [1875](https://www.urionlinejudge.com.br/judge/pt/problems/view/1875) - [Tribol](https://github.com/potigol/URI-Potigol/blob/master/src/1800/1875.poti) *Geometria Computacional*
   - [ ]  [1876](https://www.urionlinejudge.com.br/judge/pt/problems/view/1876) - Rabiola *Ad-Hoc*
   - [x]  [1877](https://www.urionlinejudge.com.br/judge/pt/problems/view/1877) - [O Castelo de Neve de Sansa](https://github.com/potigol/URI-Potigol/blob/master/src/1800/1877.poti) *Ad-Hoc*
   - [ ]  [1878](https://www.urionlinejudge.com.br/judge/pt/problems/view/1878) - Torneios em Sequência *Paradigmas*

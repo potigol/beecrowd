@@ -1,0 +1,6 @@
+n = leia_inteiro
+var a, b, c := 0, 0, 1
+para i de 1 ate n faca
+  a, b, c := b, c, ((a + b) mod 1000000007 + c) mod 1000000007
+fim
+escreva c
