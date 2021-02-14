@@ -1,0 +1,12 @@
+n = leia_inteiro
+para i de 1 até n faça
+  a = leia_inteiros(" ")
+  envelope1 = a.pegue(2).ordene
+  envelope2 = a.descarte(2).ordene
+  pode_colocar = envelope1[1] < envelope2[1] e envelope1[2] < envelope2[2]
+  se pode_colocar entao
+    escreva "S"
+  senao
+    escreva "N"
+  fim
+fim

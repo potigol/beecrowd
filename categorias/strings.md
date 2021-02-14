@@ -1,4 +1,4 @@
-# Strings (46 / 136)
+# Strings (48 / 136)
 
 ## Problemas não resolvidos
   - [ ]  [1141](https://www.urionlinejudge.com.br/judge/pt/problems/view/1141) - Cultivando Strings
@@ -44,7 +44,6 @@
   - [ ]  [1846](https://www.urionlinejudge.com.br/judge/pt/problems/view/1846) - Numero Para Nome
   - [ ]  [1853](https://www.urionlinejudge.com.br/judge/pt/problems/view/1853) - O Jogo da Confiança de Daenerys
   - [ ]  [1859](https://www.urionlinejudge.com.br/judge/pt/problems/view/1859) - Arqueologia Congelante
-  - [ ]  [1898](https://www.urionlinejudge.com.br/judge/pt/problems/view/1898) - Soma de Propina
   - [ ]  [1941](https://www.urionlinejudge.com.br/judge/pt/problems/view/1941) - Palíndromo
   - [ ]  [2000](https://www.urionlinejudge.com.br/judge/pt/problems/view/2000) - Adeildo da Odonto
   - [ ]  [2017](https://www.urionlinejudge.com.br/judge/pt/problems/view/2017) - Seis Strings
@@ -73,7 +72,6 @@
   - [ ]  [2588](https://www.urionlinejudge.com.br/judge/pt/problems/view/2588) - Jogo dos Palíndromos
   - [ ]  [2669](https://www.urionlinejudge.com.br/judge/pt/problems/view/2669) - Laboratório de Biotecnologia
   - [ ]  [2678](https://www.urionlinejudge.com.br/judge/pt/problems/view/2678) - Discagem de Voz
-  - [ ]  [2691](https://www.urionlinejudge.com.br/judge/pt/problems/view/2691) - O Matemático
   - [ ]  [2692](https://www.urionlinejudge.com.br/judge/pt/problems/view/2692) - Teclado Zoeiro
   - [ ]  [2697](https://www.urionlinejudge.com.br/judge/pt/problems/view/2697) - Sequencia Completa de Naebbirac
   - [ ]  [2728](https://www.urionlinejudge.com.br/judge/pt/problems/view/2728) - Grace Hopper, a Vovó do Cobol
@@ -92,49 +90,51 @@
   - [ ]  [3143](https://www.urionlinejudge.com.br/judge/pt/problems/view/3143) - Fugindo do Celular
   - [ ]  [3159](https://www.urionlinejudge.com.br/judge/pt/problems/view/3159) - Tijolão
 ## Problemas resolvidos
-  - [x]  [1024](https://www.urionlinejudge.com.br/judge/pt/problems/view/1024) - [Criptografia](https://github.com/potigol/URI-Potigol/blob/master/src/1000/1024.poti)
-  - [x]  [1120](https://www.urionlinejudge.com.br/judge/pt/problems/view/1120) - [Revisão de Contrato](https://github.com/potigol/URI-Potigol/blob/master/src/1100/1120.poti)
-  - [x]  [1168](https://www.urionlinejudge.com.br/judge/pt/problems/view/1168) - [LED](https://github.com/potigol/URI-Potigol/blob/master/src/1100/1168.poti)
-  - [x]  [1234](https://www.urionlinejudge.com.br/judge/pt/problems/view/1234) - [Sentença Dançante](https://github.com/potigol/URI-Potigol/blob/master/src/1200/1234.poti)
-  - [x]  [1235](https://www.urionlinejudge.com.br/judge/pt/problems/view/1235) - [De Dentro para Fora](https://github.com/potigol/URI-Potigol/blob/master/src/1200/1235.poti)
-  - [x]  [1238](https://www.urionlinejudge.com.br/judge/pt/problems/view/1238) - [Combinador](https://github.com/potigol/URI-Potigol/blob/master/src/1200/1238.poti)
-  - [x]  [1239](https://www.urionlinejudge.com.br/judge/pt/problems/view/1239) - [Atalhos Bloggo](https://github.com/potigol/URI-Potigol/blob/master/src/1200/1239.poti)
-  - [x]  [1241](https://www.urionlinejudge.com.br/judge/pt/problems/view/1241) - [Encaixa ou Não II](https://github.com/potigol/URI-Potigol/blob/master/src/1200/1241.poti)
-  - [x]  [1253](https://www.urionlinejudge.com.br/judge/pt/problems/view/1253) - [Cifra de César](https://github.com/potigol/URI-Potigol/blob/master/src/1200/1253.poti)
-  - [x]  [1255](https://www.urionlinejudge.com.br/judge/pt/problems/view/1255) - [Frequência de Letras](https://github.com/potigol/URI-Potigol/blob/master/src/1200/1255.poti)
-  - [x]  [1257](https://www.urionlinejudge.com.br/judge/pt/problems/view/1257) - [Array Hash](https://github.com/potigol/URI-Potigol/blob/master/src/1200/1257.poti)
-  - [x]  [1262](https://www.urionlinejudge.com.br/judge/pt/problems/view/1262) - [Leitura Múltipla](https://github.com/potigol/URI-Potigol/blob/master/src/1200/1262.poti)
-  - [x]  [1272](https://www.urionlinejudge.com.br/judge/pt/problems/view/1272) - [Mensagem Oculta](https://github.com/potigol/URI-Potigol/blob/master/src/1200/1272.poti)
-  - [x]  [1273](https://www.urionlinejudge.com.br/judge/pt/problems/view/1273) - [Justificador](https://github.com/potigol/URI-Potigol/blob/master/src/1200/1273.poti)
-  - [x]  [1278](https://www.urionlinejudge.com.br/judge/pt/problems/view/1278) - [Justificador II](https://github.com/potigol/URI-Potigol/blob/master/src/1200/1278.poti)
-  - [x]  [1332](https://www.urionlinejudge.com.br/judge/pt/problems/view/1332) - [Um-Dois-Três](https://github.com/potigol/URI-Potigol/blob/master/src/1300/1332.poti)
-  - [x]  [1551](https://www.urionlinejudge.com.br/judge/pt/problems/view/1551) - [Frase Completa](https://github.com/potigol/URI-Potigol/blob/master/src/1500/1551.poti)
-  - [x]  [1581](https://www.urionlinejudge.com.br/judge/pt/problems/view/1581) - [Conversa Internacional](https://github.com/potigol/URI-Potigol/blob/master/src/1500/1581.poti)
-  - [x]  [1607](https://www.urionlinejudge.com.br/judge/pt/problems/view/1607) - [Avance as Letras](https://github.com/potigol/URI-Potigol/blob/master/src/1600/1607.poti)
-  - [x]  [1632](https://www.urionlinejudge.com.br/judge/pt/problems/view/1632) - [Variações](https://github.com/potigol/URI-Potigol/blob/master/src/1600/1632.poti)
-  - [x]  [1768](https://www.urionlinejudge.com.br/judge/pt/problems/view/1768) - [Árvore de Natal](https://github.com/potigol/URI-Potigol/blob/master/src/1700/1768.poti)
-  - [x]  [1781](https://www.urionlinejudge.com.br/judge/pt/problems/view/1781) - [Guga e a String](https://github.com/potigol/URI-Potigol/blob/master/src/1700/1781.poti)
-  - [x]  [1803](https://www.urionlinejudge.com.br/judge/pt/problems/view/1803) - [Matring](https://github.com/potigol/URI-Potigol/blob/master/src/1800/1803.poti)
-  - [x]  [1868](https://www.urionlinejudge.com.br/judge/pt/problems/view/1868) - [Espiral Quadrada](https://github.com/potigol/URI-Potigol/blob/master/src/1800/1868.poti)
-  - [x]  [1871](https://www.urionlinejudge.com.br/judge/pt/problems/view/1871) - [Zero vale Zero](https://github.com/potigol/URI-Potigol/blob/master/src/1800/1871.poti)
-  - [x]  [1873](https://www.urionlinejudge.com.br/judge/pt/problems/view/1873) - [Pedra-papel-tesoura-lagarto-Spock](https://github.com/potigol/URI-Potigol/blob/master/src/1800/1873.poti)
-  - [x]  [2062](https://www.urionlinejudge.com.br/judge/pt/problems/view/2062) - [OBI URI](https://github.com/potigol/URI-Potigol/blob/master/src/2000/2062.poti)
-  - [x]  [2137](https://www.urionlinejudge.com.br/judge/pt/problems/view/2137) - [A Biblioteca do Senhor Severino](https://github.com/potigol/URI-Potigol/blob/master/src/2100/2137.poti)
-  - [x]  [2157](https://www.urionlinejudge.com.br/judge/pt/problems/view/2157) - [Sequência Espelho](https://github.com/potigol/URI-Potigol/blob/master/src/2100/2157.poti)
-  - [x]  [2174](https://www.urionlinejudge.com.br/judge/pt/problems/view/2174) - [Coleção de Pomekon](https://github.com/potigol/URI-Potigol/blob/master/src/2100/2174.poti)
-  - [x]  [2242](https://www.urionlinejudge.com.br/judge/pt/problems/view/2242) - [Huaauhahhuahau](https://github.com/potigol/URI-Potigol/blob/master/src/2200/2242.poti)
-  - [x]  [2484](https://www.urionlinejudge.com.br/judge/pt/problems/view/2484) - [Abracadabra](https://github.com/potigol/URI-Potigol/blob/master/src/2400/2484.poti)
-  - [x]  [2557](https://www.urionlinejudge.com.br/judge/pt/problems/view/2557) - [R+L=J](https://github.com/potigol/URI-Potigol/blob/master/src/2500/2557.poti)
-  - [x]  [2587](https://www.urionlinejudge.com.br/judge/pt/problems/view/2587) - [Jetiqui](https://github.com/potigol/URI-Potigol/blob/master/src/2500/2587.poti)
-  - [x]  [2591](https://www.urionlinejudge.com.br/judge/pt/problems/view/2591) - [HameKameKa](https://github.com/potigol/URI-Potigol/blob/master/src/2500/2591.poti)
-  - [x]  [2651](https://www.urionlinejudge.com.br/judge/pt/problems/view/2651) - [Link Bolado](https://github.com/potigol/URI-Potigol/blob/master/src/2600/2651.poti)
-  - [x]  [2690](https://www.urionlinejudge.com.br/judge/pt/problems/view/2690) - [Nova Senha RA](https://github.com/potigol/URI-Potigol/blob/master/src/2600/2690.poti)
-  - [x]  [2694](https://www.urionlinejudge.com.br/judge/pt/problems/view/2694) - [Problema com a Calculadora](https://github.com/potigol/URI-Potigol/blob/master/src/2600/2694.poti)
-  - [x]  [2714](https://www.urionlinejudge.com.br/judge/pt/problems/view/2714) - [Minha Senha Provisória](https://github.com/potigol/URI-Potigol/blob/master/src/2700/2714.poti)
-  - [x]  [2722](https://www.urionlinejudge.com.br/judge/pt/problems/view/2722) - [Pegadinha de Evergreen](https://github.com/potigol/URI-Potigol/blob/master/src/2700/2722.poti)
-  - [x]  [2815](https://www.urionlinejudge.com.br/judge/pt/problems/view/2815) - [Digitador Gago](https://github.com/potigol/URI-Potigol/blob/master/src/2800/2815.poti)
-  - [x]  [2866](https://www.urionlinejudge.com.br/judge/pt/problems/view/2866) - [Criptotexto](https://github.com/potigol/URI-Potigol/blob/master/src/2800/2866.poti)
-  - [x]  [2880](https://www.urionlinejudge.com.br/judge/pt/problems/view/2880) - [Enigma](https://github.com/potigol/URI-Potigol/blob/master/src/2800/2880.poti)
-  - [x]  [2906](https://www.urionlinejudge.com.br/judge/pt/problems/view/2906) - [Database of Clients](https://github.com/potigol/URI-Potigol/blob/master/src/2900/2906.poti)
-  - [x]  [3088](https://www.urionlinejudge.com.br/judge/pt/problems/view/3088) - [Correção de Texto](https://github.com/potigol/URI-Potigol/blob/master/src/3000/3088.poti)
-  - [x]  [3141](https://www.urionlinejudge.com.br/judge/pt/problems/view/3141) - [Dúvida Etária](https://github.com/potigol/URI-Potigol/blob/master/src/3100/3141.poti)
+  - [x]  [1024](https://www.urionlinejudge.com.br/judge/pt/problems/view/1024) - [Criptografia](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1024.poti)
+  - [x]  [1120](https://www.urionlinejudge.com.br/judge/pt/problems/view/1120) - [Revisão de Contrato](https://github.com/potigol/uoj-potigol/blob/master/src/1100/1120.poti)
+  - [x]  [1168](https://www.urionlinejudge.com.br/judge/pt/problems/view/1168) - [LED](https://github.com/potigol/uoj-potigol/blob/master/src/1100/1168.poti)
+  - [x]  [1234](https://www.urionlinejudge.com.br/judge/pt/problems/view/1234) - [Sentença Dançante](https://github.com/potigol/uoj-potigol/blob/master/src/1200/1234.poti)
+  - [x]  [1235](https://www.urionlinejudge.com.br/judge/pt/problems/view/1235) - [De Dentro para Fora](https://github.com/potigol/uoj-potigol/blob/master/src/1200/1235.poti)
+  - [x]  [1238](https://www.urionlinejudge.com.br/judge/pt/problems/view/1238) - [Combinador](https://github.com/potigol/uoj-potigol/blob/master/src/1200/1238.poti)
+  - [x]  [1239](https://www.urionlinejudge.com.br/judge/pt/problems/view/1239) - [Atalhos Bloggo](https://github.com/potigol/uoj-potigol/blob/master/src/1200/1239.poti)
+  - [x]  [1241](https://www.urionlinejudge.com.br/judge/pt/problems/view/1241) - [Encaixa ou Não II](https://github.com/potigol/uoj-potigol/blob/master/src/1200/1241.poti)
+  - [x]  [1253](https://www.urionlinejudge.com.br/judge/pt/problems/view/1253) - [Cifra de César](https://github.com/potigol/uoj-potigol/blob/master/src/1200/1253.poti)
+  - [x]  [1255](https://www.urionlinejudge.com.br/judge/pt/problems/view/1255) - [Frequência de Letras](https://github.com/potigol/uoj-potigol/blob/master/src/1200/1255.poti)
+  - [x]  [1257](https://www.urionlinejudge.com.br/judge/pt/problems/view/1257) - [Array Hash](https://github.com/potigol/uoj-potigol/blob/master/src/1200/1257.poti)
+  - [x]  [1262](https://www.urionlinejudge.com.br/judge/pt/problems/view/1262) - [Leitura Múltipla](https://github.com/potigol/uoj-potigol/blob/master/src/1200/1262.poti)
+  - [x]  [1272](https://www.urionlinejudge.com.br/judge/pt/problems/view/1272) - [Mensagem Oculta](https://github.com/potigol/uoj-potigol/blob/master/src/1200/1272.poti)
+  - [x]  [1273](https://www.urionlinejudge.com.br/judge/pt/problems/view/1273) - [Justificador](https://github.com/potigol/uoj-potigol/blob/master/src/1200/1273.poti)
+  - [x]  [1278](https://www.urionlinejudge.com.br/judge/pt/problems/view/1278) - [Justificador II](https://github.com/potigol/uoj-potigol/blob/master/src/1200/1278.poti)
+  - [x]  [1332](https://www.urionlinejudge.com.br/judge/pt/problems/view/1332) - [Um-Dois-Três](https://github.com/potigol/uoj-potigol/blob/master/src/1300/1332.poti)
+  - [x]  [1551](https://www.urionlinejudge.com.br/judge/pt/problems/view/1551) - [Frase Completa](https://github.com/potigol/uoj-potigol/blob/master/src/1500/1551.poti)
+  - [x]  [1581](https://www.urionlinejudge.com.br/judge/pt/problems/view/1581) - [Conversa Internacional](https://github.com/potigol/uoj-potigol/blob/master/src/1500/1581.poti)
+  - [x]  [1607](https://www.urionlinejudge.com.br/judge/pt/problems/view/1607) - [Avance as Letras](https://github.com/potigol/uoj-potigol/blob/master/src/1600/1607.poti)
+  - [x]  [1632](https://www.urionlinejudge.com.br/judge/pt/problems/view/1632) - [Variações](https://github.com/potigol/uoj-potigol/blob/master/src/1600/1632.poti)
+  - [x]  [1768](https://www.urionlinejudge.com.br/judge/pt/problems/view/1768) - [Árvore de Natal](https://github.com/potigol/uoj-potigol/blob/master/src/1700/1768.poti)
+  - [x]  [1781](https://www.urionlinejudge.com.br/judge/pt/problems/view/1781) - [Guga e a String](https://github.com/potigol/uoj-potigol/blob/master/src/1700/1781.poti)
+  - [x]  [1803](https://www.urionlinejudge.com.br/judge/pt/problems/view/1803) - [Matring](https://github.com/potigol/uoj-potigol/blob/master/src/1800/1803.poti)
+  - [x]  [1868](https://www.urionlinejudge.com.br/judge/pt/problems/view/1868) - [Espiral Quadrada](https://github.com/potigol/uoj-potigol/blob/master/src/1800/1868.poti)
+  - [x]  [1871](https://www.urionlinejudge.com.br/judge/pt/problems/view/1871) - [Zero vale Zero](https://github.com/potigol/uoj-potigol/blob/master/src/1800/1871.poti)
+  - [x]  [1873](https://www.urionlinejudge.com.br/judge/pt/problems/view/1873) - [Pedra-papel-tesoura-lagarto-Spock](https://github.com/potigol/uoj-potigol/blob/master/src/1800/1873.poti)
+  - [x]  [1898](https://www.urionlinejudge.com.br/judge/pt/problems/view/1898) - [Soma de Propina](https://github.com/potigol/uoj-potigol/blob/master/src/1800/1898.poti)
+  - [x]  [2062](https://www.urionlinejudge.com.br/judge/pt/problems/view/2062) - [OBI URI](https://github.com/potigol/uoj-potigol/blob/master/src/2000/2062.poti)
+  - [x]  [2137](https://www.urionlinejudge.com.br/judge/pt/problems/view/2137) - [A Biblioteca do Senhor Severino](https://github.com/potigol/uoj-potigol/blob/master/src/2100/2137.poti)
+  - [x]  [2157](https://www.urionlinejudge.com.br/judge/pt/problems/view/2157) - [Sequência Espelho](https://github.com/potigol/uoj-potigol/blob/master/src/2100/2157.poti)
+  - [x]  [2174](https://www.urionlinejudge.com.br/judge/pt/problems/view/2174) - [Coleção de Pomekon](https://github.com/potigol/uoj-potigol/blob/master/src/2100/2174.poti)
+  - [x]  [2242](https://www.urionlinejudge.com.br/judge/pt/problems/view/2242) - [Huaauhahhuahau](https://github.com/potigol/uoj-potigol/blob/master/src/2200/2242.poti)
+  - [x]  [2484](https://www.urionlinejudge.com.br/judge/pt/problems/view/2484) - [Abracadabra](https://github.com/potigol/uoj-potigol/blob/master/src/2400/2484.poti)
+  - [x]  [2557](https://www.urionlinejudge.com.br/judge/pt/problems/view/2557) - [R+L=J](https://github.com/potigol/uoj-potigol/blob/master/src/2500/2557.poti)
+  - [x]  [2587](https://www.urionlinejudge.com.br/judge/pt/problems/view/2587) - [Jetiqui](https://github.com/potigol/uoj-potigol/blob/master/src/2500/2587.poti)
+  - [x]  [2591](https://www.urionlinejudge.com.br/judge/pt/problems/view/2591) - [HameKameKa](https://github.com/potigol/uoj-potigol/blob/master/src/2500/2591.poti)
+  - [x]  [2651](https://www.urionlinejudge.com.br/judge/pt/problems/view/2651) - [Link Bolado](https://github.com/potigol/uoj-potigol/blob/master/src/2600/2651.poti)
+  - [x]  [2690](https://www.urionlinejudge.com.br/judge/pt/problems/view/2690) - [Nova Senha RA](https://github.com/potigol/uoj-potigol/blob/master/src/2600/2690.poti)
+  - [x]  [2691](https://www.urionlinejudge.com.br/judge/pt/problems/view/2691) - [O Matemático](https://github.com/potigol/uoj-potigol/blob/master/src/2600/2691.poti)
+  - [x]  [2694](https://www.urionlinejudge.com.br/judge/pt/problems/view/2694) - [Problema com a Calculadora](https://github.com/potigol/uoj-potigol/blob/master/src/2600/2694.poti)
+  - [x]  [2714](https://www.urionlinejudge.com.br/judge/pt/problems/view/2714) - [Minha Senha Provisória](https://github.com/potigol/uoj-potigol/blob/master/src/2700/2714.poti)
+  - [x]  [2722](https://www.urionlinejudge.com.br/judge/pt/problems/view/2722) - [Pegadinha de Evergreen](https://github.com/potigol/uoj-potigol/blob/master/src/2700/2722.poti)
+  - [x]  [2815](https://www.urionlinejudge.com.br/judge/pt/problems/view/2815) - [Digitador Gago](https://github.com/potigol/uoj-potigol/blob/master/src/2800/2815.poti)
+  - [x]  [2866](https://www.urionlinejudge.com.br/judge/pt/problems/view/2866) - [Criptotexto](https://github.com/potigol/uoj-potigol/blob/master/src/2800/2866.poti)
+  - [x]  [2880](https://www.urionlinejudge.com.br/judge/pt/problems/view/2880) - [Enigma](https://github.com/potigol/uoj-potigol/blob/master/src/2800/2880.poti)
+  - [x]  [2906](https://www.urionlinejudge.com.br/judge/pt/problems/view/2906) - [Database of Clients](https://github.com/potigol/uoj-potigol/blob/master/src/2900/2906.poti)
+  - [x]  [3088](https://www.urionlinejudge.com.br/judge/pt/problems/view/3088) - [Correção de Texto](https://github.com/potigol/uoj-potigol/blob/master/src/3000/3088.poti)
+  - [x]  [3141](https://www.urionlinejudge.com.br/judge/pt/problems/view/3141) - [Dúvida Etária](https://github.com/potigol/uoj-potigol/blob/master/src/3100/3141.poti)

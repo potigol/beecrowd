@@ -1,0 +1,12 @@
+n = leia_inteiro
+para i de 1 até n faça
+  entrada = leia_inteiros("x")
+  x, y = entrada[1], entrada[2]
+  para t de 5 ate 10 faca
+    se x == y entao
+      escreva "{x} x {t} = {x*t}"
+    senao
+      escreva "{x} x {t} = {x * t} && {y} x {t} = {y * t}"
+    fim
+  fim
+fim

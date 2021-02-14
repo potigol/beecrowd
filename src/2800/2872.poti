@@ -1,0 +1,12 @@
+var n := leia_inteiro
+enquanto n > 0 faca
+  var lista: Lista[Texto] = []
+  var linha := leia_texto
+  enquanto linha <> "0" faça
+    lista := linha :: lista
+    linha := leia_texto
+  fim
+  escreva lista.ordene.junte("\n")
+  escreva ""
+  n := leia_inteiro
+fim

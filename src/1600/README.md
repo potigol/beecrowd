@@ -7,7 +7,7 @@
   - [ ]  [1604](https://www.urionlinejudge.com.br/judge/pt/problems/view/1604) - Pair-voting no Conselho de Gueliz *Paradigmas*
   - [ ]  [1605](https://www.urionlinejudge.com.br/judge/pt/problems/view/1605) - Montando Sua Própria Cáfila *Paradigmas*
   - [ ]  [1606](https://www.urionlinejudge.com.br/judge/pt/problems/view/1606) - As Dicas de Ali Babá *Paradigmas*
-  - [x]  [1607](https://www.urionlinejudge.com.br/judge/pt/problems/view/1607) - [Avance as Letras](https://github.com/potigol/URI-Potigol/blob/master/src/1600/1607.poti) *Strings*
+  - [x]  [1607](https://www.urionlinejudge.com.br/judge/pt/problems/view/1607) - [Avance as Letras](https://github.com/potigol/uoj-potigol/blob/master/src/1600/1607.poti) *Strings*
   - [ ]  [1608](https://www.urionlinejudge.com.br/judge/pt/problems/view/1608) - Bolos da Maria *Paradigmas*
   - [ ]  [1609](https://www.urionlinejudge.com.br/judge/pt/problems/view/1609) - Contando Carneirinhos *Ad-Hoc*
   - [ ]  [1610](https://www.urionlinejudge.com.br/judge/pt/problems/view/1610) - Dudu Faz Serviço *Grafos*
@@ -32,7 +32,7 @@
   - [ ]  [1629](https://www.urionlinejudge.com.br/judge/pt/problems/view/1629) - DescompactaFACE *Strings*
   - [ ]  [1630](https://www.urionlinejudge.com.br/judge/pt/problems/view/1630) - Estacas *Matemática*
   - [ ]  [1631](https://www.urionlinejudge.com.br/judge/pt/problems/view/1631) - O Fantástico Bolo de Bobby *Geometria Computacional*
-  - [x]  [1632](https://www.urionlinejudge.com.br/judge/pt/problems/view/1632) - [Variações](https://github.com/potigol/URI-Potigol/blob/master/src/1600/1632.poti) *Strings*
+  - [x]  [1632](https://www.urionlinejudge.com.br/judge/pt/problems/view/1632) - [Variações](https://github.com/potigol/uoj-potigol/blob/master/src/1600/1632.poti) *Strings*
   - [ ]  [1633](https://www.urionlinejudge.com.br/judge/pt/problems/view/1633) - SBC *Estruturas e Bibliotecas*
   - [ ]  [1634](https://www.urionlinejudge.com.br/judge/pt/problems/view/1634) - Outra Loteria *Matemática*
   - [ ]  [1635](https://www.urionlinejudge.com.br/judge/pt/problems/view/1635) - Resultado das Eleições *Matemática*
