@@ -64,7 +64,7 @@
   - [x]  [2861](https://www.urionlinejudge.com.br/judge/pt/problems/view/2861) - [A Saída](https://github.com/potigol/uoj-potigol/blob/master/src/2800/2861.poti) *Iniciante*
   - [x]  [2862](https://www.urionlinejudge.com.br/judge/pt/problems/view/2862) - [Inseto!](https://github.com/potigol/uoj-potigol/blob/master/src/2800/2862.poti) *Iniciante*
   - [x]  [2863](https://www.urionlinejudge.com.br/judge/pt/problems/view/2863) - [Umil Bolt](https://github.com/potigol/uoj-potigol/blob/master/src/2800/2863.poti) *Iniciante*
-  - [ ]  [2864](https://www.urionlinejudge.com.br/judge/pt/problems/view/2864) - Qual é a Altura? *Matemática*
+  - [x]  [2864](https://www.urionlinejudge.com.br/judge/pt/problems/view/2864) - [Qual é a Altura?](https://github.com/potigol/uoj-potigol/blob/master/src/2800/2864.poti) *Matemática*
   - [ ]  [2865](https://www.urionlinejudge.com.br/judge/pt/problems/view/2865) - Palíndromo Binário *Ad-Hoc*
   - [x]  [2866](https://www.urionlinejudge.com.br/judge/pt/problems/view/2866) - [Criptotexto](https://github.com/potigol/uoj-potigol/blob/master/src/2800/2866.poti) *Strings*
   - [x]  [2867](https://www.urionlinejudge.com.br/judge/pt/problems/view/2867) - [Dígitos](https://github.com/potigol/uoj-potigol/blob/master/src/2800/2867.poti) *Iniciante*

@@ -1,4 +1,4 @@
-# Matemática (44 / 247)
+# Matemática (46 / 247)
 
 ## Problemas não resolvidos
   - [ ]  [1093](https://www.urionlinejudge.com.br/judge/pt/problems/view/1093) - Vampiros
@@ -106,7 +106,6 @@
   - [ ]  [1831](https://www.urionlinejudge.com.br/judge/pt/problems/view/1831) - Dia Difícil de Trabalho
   - [ ]  [1839](https://www.urionlinejudge.com.br/judge/pt/problems/view/1839) - A Câmara Secreta
   - [ ]  [1841](https://www.urionlinejudge.com.br/judge/pt/problems/view/1841) - O Cálice de Fogo
-  - [ ]  [1869](https://www.urionlinejudge.com.br/judge/pt/problems/view/1869) - Base 32
   - [ ]  [1872](https://www.urionlinejudge.com.br/judge/pt/problems/view/1872) - Palíndromo Real
   - [ ]  [1904](https://www.urionlinejudge.com.br/judge/pt/problems/view/1904) - Par ou Ímpar 2.0
   - [ ]  [1909](https://www.urionlinejudge.com.br/judge/pt/problems/view/1909) - Ajude Kiko
@@ -179,7 +178,6 @@
   - [ ]  [2822](https://www.urionlinejudge.com.br/judge/pt/problems/view/2822) - Meu Primeiro Grafinho
   - [ ]  [2828](https://www.urionlinejudge.com.br/judge/pt/problems/view/2828) - Anagramas
   - [ ]  [2859](https://www.urionlinejudge.com.br/judge/pt/problems/view/2859) - Digit Root
-  - [ ]  [2864](https://www.urionlinejudge.com.br/judge/pt/problems/view/2864) - Qual é a Altura?
   - [ ]  [2873](https://www.urionlinejudge.com.br/judge/pt/problems/view/2873) - Pirâmide
   - [ ]  [2878](https://www.urionlinejudge.com.br/judge/pt/problems/view/2878) - Cortador de Pizza
   - [ ]  [2886](https://www.urionlinejudge.com.br/judge/pt/problems/view/2886) - Kepler
@@ -227,6 +225,7 @@
   - [x]  [1761](https://www.urionlinejudge.com.br/judge/pt/problems/view/1761) - [Decoração Natalina](https://github.com/potigol/uoj-potigol/blob/master/src/1700/1761.poti)
   - [x]  [1795](https://www.urionlinejudge.com.br/judge/pt/problems/view/1795) - [Triângulo Trinomial](https://github.com/potigol/uoj-potigol/blob/master/src/1700/1795.poti)
   - [x]  [1805](https://www.urionlinejudge.com.br/judge/pt/problems/view/1805) - [Soma Natural](https://github.com/potigol/uoj-potigol/blob/master/src/1800/1805.poti)
+  - [x]  [1869](https://www.urionlinejudge.com.br/judge/pt/problems/view/1869) - [Base 32](https://github.com/potigol/uoj-potigol/blob/master/src/1800/1869.poti)
   - [x]  [1921](https://www.urionlinejudge.com.br/judge/pt/problems/view/1921) - [Guilherme e Suas Pipas](https://github.com/potigol/uoj-potigol/blob/master/src/1900/1921.poti)
   - [x]  [2218](https://www.urionlinejudge.com.br/judge/pt/problems/view/2218) - [O Temível Evil-Son](https://github.com/potigol/uoj-potigol/blob/master/src/2200/2218.poti)
   - [x]  [2232](https://www.urionlinejudge.com.br/judge/pt/problems/view/2232) - [Triângulo de Pascal](https://github.com/potigol/uoj-potigol/blob/master/src/2200/2232.poti)
@@ -240,6 +239,7 @@
   - [x]  [2667](https://www.urionlinejudge.com.br/judge/pt/problems/view/2667) - [Jogo de Boca](https://github.com/potigol/uoj-potigol/blob/master/src/2600/2667.poti)
   - [x]  [2674](https://www.urionlinejudge.com.br/judge/pt/problems/view/2674) - [Super Primos: Ativar!](https://github.com/potigol/uoj-potigol/blob/master/src/2600/2674.poti)
   - [x]  [2839](https://www.urionlinejudge.com.br/judge/pt/problems/view/2839) - [As Meias de Rangel](https://github.com/potigol/uoj-potigol/blob/master/src/2800/2839.poti)
+  - [x]  [2864](https://www.urionlinejudge.com.br/judge/pt/problems/view/2864) - [Qual é a Altura?](https://github.com/potigol/uoj-potigol/blob/master/src/2800/2864.poti)
   - [x]  [2869](https://www.urionlinejudge.com.br/judge/pt/problems/view/2869) - [Falando em Divisor...](https://github.com/potigol/uoj-potigol/blob/master/src/2800/2869.poti)
   - [x]  [2939](https://www.urionlinejudge.com.br/judge/pt/problems/view/2939) - [Casais](https://github.com/potigol/uoj-potigol/blob/master/src/2900/2939.poti)
   - [x]  [2981](https://www.urionlinejudge.com.br/judge/pt/problems/view/2981) - [Vamos Fechar](https://github.com/potigol/uoj-potigol/blob/master/src/2900/2981.poti)

@@ -1,4 +1,4 @@
-# Iniciante (291 / 301)
+# Iniciante (291 / 304)
 
 ## Problemas não resolvidos
   - [ ]  [2632](https://www.urionlinejudge.com.br/judge/pt/problems/view/2632) - Magic and Sword
@@ -11,6 +11,9 @@
   - [ ]  [3164](https://www.urionlinejudge.com.br/judge/pt/problems/view/3164) - Fiscalizando Empresa
   - [ ]  [3166](https://www.urionlinejudge.com.br/judge/pt/problems/view/3166) - Procurando Palavras na Diagonal Principal
   - [ ]  [3167](https://www.urionlinejudge.com.br/judge/pt/problems/view/3167) - Procurando Palavras na Diagonal Secundária
+  - [ ]  [3170](https://www.urionlinejudge.com.br/judge/pt/problems/view/3170) - Bolinhas de Natal
+  - [ ]  [3173](https://www.urionlinejudge.com.br/judge/pt/problems/view/3173) - Estrela de Natal
+  - [ ]  [3174](https://www.urionlinejudge.com.br/judge/pt/problems/view/3174) - Grupo de Trabalho do Noel
 ## Problemas resolvidos
   - [x]  [1000](https://www.urionlinejudge.com.br/judge/pt/problems/view/1000) - [Hello World!](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1000.poti)
   - [x]  [1001](https://www.urionlinejudge.com.br/judge/pt/problems/view/1001) - [Extremamente Básico](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1001.poti)

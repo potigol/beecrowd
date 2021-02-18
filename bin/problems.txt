@@ -2130,7 +2130,7 @@
 3155	Sócrates e suas Perguntas	Estruturas e Bibliotecas
 3156	Xadrez Galático	Geometria Computacional
 3157	Viva a Ciência!	Iniciante
-3158	O Bom Presidente	Geometria Computacional
+3158	O Bom Presidente	Grafos
 3159	Tijolão	Strings
 3160	Amigos	Estruturas e Bibliotecas
 3161	As Frutas Esquecidas	Iniciante
@@ -2140,3 +2140,13 @@
 3165	Primos Gêmeos	Matemática
 3166	Procurando Palavras na Diagonal Principal	Iniciante
 3167	Procurando Palavras na Diagonal Secundária	Iniciante
+3168	Aposta dos Gnomos	Ad-Hoc
+3169	Batendo em Retirada	Grafos
+3170	Bolinhas de Natal	Iniciante
+3171	Cordão de Led	Estruturas e Bibliotecas
+3172	Dali e Dila	Ad-Hoc
+3173	Estrela de Natal	Iniciante
+3174	Grupo de Trabalho do Noel	Iniciante
+3175	Os Presentes Do Noel	Ad-Hoc
+3176	Time de Duendes	Estruturas e Bibliotecas
+3177	Fábrica de Brinquedos do Papai Noel	Ad-Hoc

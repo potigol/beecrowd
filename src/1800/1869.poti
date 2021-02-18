@@ -1,0 +1,11 @@
+digito(n: BigInt) =
+  se n > 9 entao (n.toInt + 55).caractere senao (n.toInt + 48).caractere fim
+
+base32(n: BigInt): Texto =
+  se n > 0 entao base32(n div 32) + digito(n mod 32) senao "" fim
+
+var a := BigInt(1)
+enquanto a > 0 faca
+  a := BigInt(leia_texto)
+  se a > 0 entao escreva base32(a) senao escreva 0 fim
+fim

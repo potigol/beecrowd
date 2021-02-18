@@ -58,7 +58,7 @@
   - [ ]  [3155](https://www.urionlinejudge.com.br/judge/pt/problems/view/3155) - Sócrates e suas Perguntas *Estruturas e Bibliotecas*
   - [ ]  [3156](https://www.urionlinejudge.com.br/judge/pt/problems/view/3156) - Xadrez Galático *Geometria Computacional*
   - [x]  [3157](https://www.urionlinejudge.com.br/judge/pt/problems/view/3157) - [Viva a Ciência!](https://github.com/potigol/uoj-potigol/blob/master/src/3100/3157.poti) *Iniciante*
-  - [ ]  [3158](https://www.urionlinejudge.com.br/judge/pt/problems/view/3158) - O Bom Presidente *Geometria Computacional*
+  - [ ]  [3158](https://www.urionlinejudge.com.br/judge/pt/problems/view/3158) - O Bom Presidente *Grafos*
   - [ ]  [3159](https://www.urionlinejudge.com.br/judge/pt/problems/view/3159) - Tijolão *Strings*
   - [ ]  [3160](https://www.urionlinejudge.com.br/judge/pt/problems/view/3160) - Amigos *Estruturas e Bibliotecas*
   - [x]  [3161](https://www.urionlinejudge.com.br/judge/pt/problems/view/3161) - [As Frutas Esquecidas](https://github.com/potigol/uoj-potigol/blob/master/src/3100/3161.poti) *Iniciante*
@@ -68,16 +68,16 @@
   - [x]  [3165](https://www.urionlinejudge.com.br/judge/pt/problems/view/3165) - [Primos Gêmeos](https://github.com/potigol/uoj-potigol/blob/master/src/3100/3165.poti) *Matemática*
   - [ ]  [3166](https://www.urionlinejudge.com.br/judge/pt/problems/view/3166) - Procurando Palavras na Diagonal Principal *Iniciante*
   - [ ]  [3167](https://www.urionlinejudge.com.br/judge/pt/problems/view/3167) - Procurando Palavras na Diagonal Secundária *Iniciante*
-  - [ ] ~~3168~~
-  - [ ] ~~3169~~
-  - [ ] ~~3170~~
-  - [ ] ~~3171~~
-  - [ ] ~~3172~~
-  - [ ] ~~3173~~
-  - [ ] ~~3174~~
-  - [ ] ~~3175~~
-  - [ ] ~~3176~~
-  - [ ] ~~3177~~
+  - [ ]  [3168](https://www.urionlinejudge.com.br/judge/pt/problems/view/3168) - Aposta dos Gnomos *Ad-Hoc*
+  - [ ]  [3169](https://www.urionlinejudge.com.br/judge/pt/problems/view/3169) - Batendo em Retirada *Grafos*
+  - [ ]  [3170](https://www.urionlinejudge.com.br/judge/pt/problems/view/3170) - Bolinhas de Natal *Iniciante*
+  - [ ]  [3171](https://www.urionlinejudge.com.br/judge/pt/problems/view/3171) - Cordão de Led *Estruturas e Bibliotecas*
+  - [ ]  [3172](https://www.urionlinejudge.com.br/judge/pt/problems/view/3172) - Dali e Dila *Ad-Hoc*
+  - [ ]  [3173](https://www.urionlinejudge.com.br/judge/pt/problems/view/3173) - Estrela de Natal *Iniciante*
+  - [ ]  [3174](https://www.urionlinejudge.com.br/judge/pt/problems/view/3174) - Grupo de Trabalho do Noel *Iniciante*
+  - [ ]  [3175](https://www.urionlinejudge.com.br/judge/pt/problems/view/3175) - Os Presentes Do Noel *Ad-Hoc*
+  - [ ]  [3176](https://www.urionlinejudge.com.br/judge/pt/problems/view/3176) - Time de Duendes *Estruturas e Bibliotecas*
+  - [ ]  [3177](https://www.urionlinejudge.com.br/judge/pt/problems/view/3177) - Fábrica de Brinquedos do Papai Noel *Ad-Hoc*
   - [ ] ~~3178~~
   - [ ] ~~3179~~
   - [ ] ~~3180~~

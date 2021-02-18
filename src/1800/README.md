@@ -69,7 +69,7 @@
   - [x]  [1866](https://www.urionlinejudge.com.br/judge/pt/problems/view/1866) - [Conta](https://github.com/potigol/uoj-potigol/blob/master/src/1800/1866.poti) *Iniciante*
   - [x]  [1867](https://www.urionlinejudge.com.br/judge/pt/problems/view/1867) - [Maior Número de Um Algarismo](https://github.com/potigol/uoj-potigol/blob/master/src/1800/1867.poti) *Ad-Hoc*
   - [x]  [1868](https://www.urionlinejudge.com.br/judge/pt/problems/view/1868) - [Espiral Quadrada](https://github.com/potigol/uoj-potigol/blob/master/src/1800/1868.poti) *Strings*
-  - [ ]  [1869](https://www.urionlinejudge.com.br/judge/pt/problems/view/1869) - Base 32 *Matemática*
+  - [x]  [1869](https://www.urionlinejudge.com.br/judge/pt/problems/view/1869) - [Base 32](https://github.com/potigol/uoj-potigol/blob/master/src/1800/1869.poti) *Matemática*
   - [ ]  [1870](https://www.urionlinejudge.com.br/judge/pt/problems/view/1870) - Ventiladores e Balões *Ad-Hoc*
   - [x]  [1871](https://www.urionlinejudge.com.br/judge/pt/problems/view/1871) - [Zero vale Zero](https://github.com/potigol/uoj-potigol/blob/master/src/1800/1871.poti) *Strings*
   - [ ]  [1872](https://www.urionlinejudge.com.br/judge/pt/problems/view/1872) - Palíndromo Real *Matemática*
@@ -98,5 +98,5 @@
   - [ ]  [1895](https://www.urionlinejudge.com.br/judge/pt/problems/view/1895) - Jogo do Limite *Ad-Hoc*
   - [ ]  [1896](https://www.urionlinejudge.com.br/judge/pt/problems/view/1896) - É Hora do Duelo! *Ad-Hoc*
   - [ ]  [1897](https://www.urionlinejudge.com.br/judge/pt/problems/view/1897) - Jogo Esperto *Estruturas e Bibliotecas*
-  - [x]  [1898](https://www.urionlinejudge.com.br/judge/pt/problems/view/1898) - [Soma de Propina](https://github.com/potigol/uoj-potigol/blob/master/src/1800/1898.poti) *Strings*
+  - [ ]  [1898](https://www.urionlinejudge.com.br/judge/pt/problems/view/1898) - Soma de Propina *Strings*
   - [ ]  [1899](https://www.urionlinejudge.com.br/judge/pt/problems/view/1899) - Acerte o Alvo! *Ad-Hoc*

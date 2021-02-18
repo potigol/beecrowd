@@ -1,4 +1,4 @@
-# Ad-Hoc (115 / 702)
+# Ad-Hoc (115 / 706)
 
 ## Problemas não resolvidos
   - [ ]  [1030](https://www.urionlinejudge.com.br/judge/pt/problems/view/1030) - A Lenda de Flavious Josephus
@@ -588,6 +588,10 @@
   - [ ]  [3133](https://www.urionlinejudge.com.br/judge/pt/problems/view/3133) - Fila de Navios
   - [ ]  [3136](https://www.urionlinejudge.com.br/judge/pt/problems/view/3136) - Arquitetura de Pilha
   - [ ]  [3137](https://www.urionlinejudge.com.br/judge/pt/problems/view/3137) - Páginas de um Livro
+  - [ ]  [3168](https://www.urionlinejudge.com.br/judge/pt/problems/view/3168) - Aposta dos Gnomos
+  - [ ]  [3172](https://www.urionlinejudge.com.br/judge/pt/problems/view/3172) - Dali e Dila
+  - [ ]  [3175](https://www.urionlinejudge.com.br/judge/pt/problems/view/3175) - Os Presentes Do Noel
+  - [ ]  [3177](https://www.urionlinejudge.com.br/judge/pt/problems/view/3177) - Fábrica de Brinquedos do Papai Noel
 ## Problemas resolvidos
   - [x]  [1026](https://www.urionlinejudge.com.br/judge/pt/problems/view/1026) - [Carrega ou não Carrega?](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1026.poti)
   - [x]  [1087](https://www.urionlinejudge.com.br/judge/pt/problems/view/1087) - [Dama](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1087.poti)

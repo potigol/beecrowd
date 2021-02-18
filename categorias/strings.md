@@ -1,4 +1,4 @@
-# Strings (48 / 136)
+# Strings (47 / 136)
 
 ## Problemas não resolvidos
   - [ ]  [1141](https://www.urionlinejudge.com.br/judge/pt/problems/view/1141) - Cultivando Strings
@@ -44,6 +44,7 @@
   - [ ]  [1846](https://www.urionlinejudge.com.br/judge/pt/problems/view/1846) - Numero Para Nome
   - [ ]  [1853](https://www.urionlinejudge.com.br/judge/pt/problems/view/1853) - O Jogo da Confiança de Daenerys
   - [ ]  [1859](https://www.urionlinejudge.com.br/judge/pt/problems/view/1859) - Arqueologia Congelante
+  - [ ]  [1898](https://www.urionlinejudge.com.br/judge/pt/problems/view/1898) - Soma de Propina
   - [ ]  [1941](https://www.urionlinejudge.com.br/judge/pt/problems/view/1941) - Palíndromo
   - [ ]  [2000](https://www.urionlinejudge.com.br/judge/pt/problems/view/2000) - Adeildo da Odonto
   - [ ]  [2017](https://www.urionlinejudge.com.br/judge/pt/problems/view/2017) - Seis Strings
@@ -116,7 +117,6 @@
   - [x]  [1868](https://www.urionlinejudge.com.br/judge/pt/problems/view/1868) - [Espiral Quadrada](https://github.com/potigol/uoj-potigol/blob/master/src/1800/1868.poti)
   - [x]  [1871](https://www.urionlinejudge.com.br/judge/pt/problems/view/1871) - [Zero vale Zero](https://github.com/potigol/uoj-potigol/blob/master/src/1800/1871.poti)
   - [x]  [1873](https://www.urionlinejudge.com.br/judge/pt/problems/view/1873) - [Pedra-papel-tesoura-lagarto-Spock](https://github.com/potigol/uoj-potigol/blob/master/src/1800/1873.poti)
-  - [x]  [1898](https://www.urionlinejudge.com.br/judge/pt/problems/view/1898) - [Soma de Propina](https://github.com/potigol/uoj-potigol/blob/master/src/1800/1898.poti)
   - [x]  [2062](https://www.urionlinejudge.com.br/judge/pt/problems/view/2062) - [OBI URI](https://github.com/potigol/uoj-potigol/blob/master/src/2000/2062.poti)
   - [x]  [2137](https://www.urionlinejudge.com.br/judge/pt/problems/view/2137) - [A Biblioteca do Senhor Severino](https://github.com/potigol/uoj-potigol/blob/master/src/2100/2137.poti)
   - [x]  [2157](https://www.urionlinejudge.com.br/judge/pt/problems/view/2157) - [Sequência Espelho](https://github.com/potigol/uoj-potigol/blob/master/src/2100/2157.poti)
