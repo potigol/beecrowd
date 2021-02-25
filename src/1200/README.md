@@ -96,7 +96,7 @@
   - [ ]  [1293](https://www.urionlinejudge.com.br/judge/pt/problems/view/1293) - Romeu e Julieta! *Geometria Computacional*
   - [ ]  [1294](https://www.urionlinejudge.com.br/judge/pt/problems/view/1294) - A Maior e Menor Caixa *Geometria Computacional*
   - [ ]  [1295](https://www.urionlinejudge.com.br/judge/pt/problems/view/1295) - Problema dos Pares Mais Próximos *Geometria Computacional*
-  - [ ]  [1296](https://www.urionlinejudge.com.br/judge/pt/problems/view/1296) - Medianas *Geometria Computacional*
+  - [x]  [1296](https://www.urionlinejudge.com.br/judge/pt/problems/view/1296) - [Medianas](https://github.com/potigol/uoj-potigol/blob/master/src/1200/1296.poti) *Geometria Computacional*
   - [ ]  [1297](https://www.urionlinejudge.com.br/judge/pt/problems/view/1297) - Proteção do Meio Ambiente *Matemática*
   - [ ]  [1298](https://www.urionlinejudge.com.br/judge/pt/problems/view/1298) - Corrija o Labirinto *Grafos*
   - [ ]  [1299](https://www.urionlinejudge.com.br/judge/pt/problems/view/1299) - Jogo de Mosaicos *Paradigmas*

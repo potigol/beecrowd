@@ -1,0 +1,13 @@
+var entrada := leia_texto
+enquanto entrada <> None.orNull faca
+  l = entrada.divida(" ").mapeie(_.real).ordene
+  a, b, c = l[1], l[2], l[3]
+  se c < a + b entao
+    s = (a + b + c) / 2
+    area = 4 / 3 * (s * (s - a) * (s - b) * (s - c)) ^ (1 / 2)
+    escreva area formato "%.3f"
+  senao
+    escreva "-1.000"
+  fim
+  entrada := leia_texto
+fim

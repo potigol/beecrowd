@@ -1,0 +1,20 @@
+picos(pontos: Lista[Inteiro], soma: Inteiro): Inteiro =
+  se pontos.tamanho > 2 entao
+    r1, r2 = pontos[2] - pontos[1], pontos[3] - pontos[2]
+    se r1> 0 e r2 < 0 ou r1 < 0 e r2 > 0 entao
+      picos(pontos.cauda, soma + 1)
+    senao
+      picos(pontos.cauda, soma)
+    fim
+  senao
+    soma
+  fim
+
+var n := leia_inteiro
+enquanto n > 0 faça
+  h = leia_inteiros(" ")
+  a = h[-2] :: h[-1] :: h
+  p = picos(a, 0)
+  escreva p
+  n := leia_inteiro
+fim

@@ -1,11 +1,10 @@
-# Ad-Hoc (115 / 706)
+# Ad-Hoc (116 / 706)
 
 ## Problemas não resolvidos
   - [ ]  [1030](https://www.urionlinejudge.com.br/judge/pt/problems/view/1030) - A Lenda de Flavious Josephus
   - [ ]  [1031](https://www.urionlinejudge.com.br/judge/pt/problems/view/1031) - Crise de Energia
   - [ ]  [1032](https://www.urionlinejudge.com.br/judge/pt/problems/view/1032) - O Primo de Josephus
   - [ ]  [1086](https://www.urionlinejudge.com.br/judge/pt/problems/view/1086) - O Salão do Clube
-  - [ ]  [1089](https://www.urionlinejudge.com.br/judge/pt/problems/view/1089) - Loop Musical
   - [ ]  [1090](https://www.urionlinejudge.com.br/judge/pt/problems/view/1090) - Set
   - [ ]  [1092](https://www.urionlinejudge.com.br/judge/pt/problems/view/1092) - Maior Subseqüência Crescente
   - [ ]  [1105](https://www.urionlinejudge.com.br/judge/pt/problems/view/1105) - Sub-prime
@@ -595,6 +594,7 @@
 ## Problemas resolvidos
   - [x]  [1026](https://www.urionlinejudge.com.br/judge/pt/problems/view/1026) - [Carrega ou não Carrega?](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1026.poti)
   - [x]  [1087](https://www.urionlinejudge.com.br/judge/pt/problems/view/1087) - [Dama](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1087.poti)
+  - [x]  [1089](https://www.urionlinejudge.com.br/judge/pt/problems/view/1089) - [Loop Musical](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1089.poti)
   - [x]  [1091](https://www.urionlinejudge.com.br/judge/pt/problems/view/1091) - [Divisão da Nlogônia](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1091.poti)
   - [x]  [1103](https://www.urionlinejudge.com.br/judge/pt/problems/view/1103) - [Alarme Despertador](https://github.com/potigol/uoj-potigol/blob/master/src/1100/1103.poti)
   - [x]  [1104](https://www.urionlinejudge.com.br/judge/pt/problems/view/1104) - [Troca de Cartas](https://github.com/potigol/uoj-potigol/blob/master/src/1100/1104.poti)

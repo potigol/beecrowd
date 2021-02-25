@@ -397,7 +397,7 @@
   - [ ]  [1086](https://www.urionlinejudge.com.br/judge/pt/problems/view/1086) - O Salão do Clube *Ad-Hoc*
   - [x]  [1087](https://www.urionlinejudge.com.br/judge/pt/problems/view/1087) - [Dama](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1087.poti) *Ad-Hoc*
   - [ ]  [1088](https://www.urionlinejudge.com.br/judge/pt/problems/view/1088) - Bolhas e Baldes *Estruturas e Bibliotecas*
-  - [ ]  [1089](https://www.urionlinejudge.com.br/judge/pt/problems/view/1089) - Loop Musical *Ad-Hoc*
+  - [x]  [1089](https://www.urionlinejudge.com.br/judge/pt/problems/view/1089) - [Loop Musical](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1089.poti) *Ad-Hoc*
   - [ ]  [1090](https://www.urionlinejudge.com.br/judge/pt/problems/view/1090) - Set *Ad-Hoc*
   - [x]  [1091](https://www.urionlinejudge.com.br/judge/pt/problems/view/1091) - [Divisão da Nlogônia](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1091.poti) *Ad-Hoc*
   - [ ]  [1092](https://www.urionlinejudge.com.br/judge/pt/problems/view/1092) - Maior Subseqüência Crescente *Ad-Hoc*
