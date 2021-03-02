@@ -1,4 +1,4 @@
-# Ad-Hoc (116 / 706)
+# Ad-Hoc (117 / 706)
 
 ## Problemas não resolvidos
   - [ ]  [1030](https://www.urionlinejudge.com.br/judge/pt/problems/view/1030) - A Lenda de Flavious Josephus
@@ -480,7 +480,6 @@
   - [ ]  [2814](https://www.urionlinejudge.com.br/judge/pt/problems/view/2814) - Música Alta
   - [ ]  [2829](https://www.urionlinejudge.com.br/judge/pt/problems/view/2829) - Maiúsculas, Por Quê?
   - [ ]  [2832](https://www.urionlinejudge.com.br/judge/pt/problems/view/2832) - Cápsulas
-  - [ ]  [2833](https://www.urionlinejudge.com.br/judge/pt/problems/view/2833) - Campeonato
   - [ ]  [2834](https://www.urionlinejudge.com.br/judge/pt/problems/view/2834) - Fuga
   - [ ]  [2836](https://www.urionlinejudge.com.br/judge/pt/problems/view/2836) - Wifi
   - [ ]  [2837](https://www.urionlinejudge.com.br/judge/pt/problems/view/2837) - Sequência
@@ -685,6 +684,7 @@
   - [x]  [2803](https://www.urionlinejudge.com.br/judge/pt/problems/view/2803) - [Estados do Norte](https://github.com/potigol/uoj-potigol/blob/master/src/2800/2803.poti)
   - [x]  [2830](https://www.urionlinejudge.com.br/judge/pt/problems/view/2830) - [Copa](https://github.com/potigol/uoj-potigol/blob/master/src/2800/2830.poti)
   - [x]  [2831](https://www.urionlinejudge.com.br/judge/pt/problems/view/2831) - [Pesos](https://github.com/potigol/uoj-potigol/blob/master/src/2800/2831.poti)
+  - [x]  [2833](https://www.urionlinejudge.com.br/judge/pt/problems/view/2833) - [Campeonato](https://github.com/potigol/uoj-potigol/blob/master/src/2800/2833.poti)
   - [x]  [2835](https://www.urionlinejudge.com.br/judge/pt/problems/view/2835) - [Elevador](https://github.com/potigol/uoj-potigol/blob/master/src/2800/2835.poti)
   - [x]  [2847](https://www.urionlinejudge.com.br/judge/pt/problems/view/2847) - [Papel, Tesoura, I Love You!](https://github.com/potigol/uoj-potigol/blob/master/src/2800/2847.poti)
   - [x]  [2851](https://www.urionlinejudge.com.br/judge/pt/problems/view/2851) - [Desafio de Rangel](https://github.com/potigol/uoj-potigol/blob/master/src/2800/2851.poti)

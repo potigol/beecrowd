@@ -1,9 +1,8 @@
-# Strings (47 / 136)
+# Strings (48 / 136)
 
 ## Problemas não resolvidos
   - [ ]  [1141](https://www.urionlinejudge.com.br/judge/pt/problems/view/1141) - Cultivando Strings
   - [ ]  [1222](https://www.urionlinejudge.com.br/judge/pt/problems/view/1222) - Concurso de Contos
-  - [ ]  [1237](https://www.urionlinejudge.com.br/judge/pt/problems/view/1237) - Comparação de Substring
   - [ ]  [1243](https://www.urionlinejudge.com.br/judge/pt/problems/view/1243) - O Quão Fácil é...
   - [ ]  [1248](https://www.urionlinejudge.com.br/judge/pt/problems/view/1248) - Plano de Dieta
   - [ ]  [1254](https://www.urionlinejudge.com.br/judge/pt/problems/view/1254) - Substituição de Tag
@@ -96,6 +95,7 @@
   - [x]  [1168](https://www.urionlinejudge.com.br/judge/pt/problems/view/1168) - [LED](https://github.com/potigol/uoj-potigol/blob/master/src/1100/1168.poti)
   - [x]  [1234](https://www.urionlinejudge.com.br/judge/pt/problems/view/1234) - [Sentença Dançante](https://github.com/potigol/uoj-potigol/blob/master/src/1200/1234.poti)
   - [x]  [1235](https://www.urionlinejudge.com.br/judge/pt/problems/view/1235) - [De Dentro para Fora](https://github.com/potigol/uoj-potigol/blob/master/src/1200/1235.poti)
+  - [x]  [1237](https://www.urionlinejudge.com.br/judge/pt/problems/view/1237) - [Comparação de Substring](https://github.com/potigol/uoj-potigol/blob/master/src/1200/1237.poti)
   - [x]  [1238](https://www.urionlinejudge.com.br/judge/pt/problems/view/1238) - [Combinador](https://github.com/potigol/uoj-potigol/blob/master/src/1200/1238.poti)
   - [x]  [1239](https://www.urionlinejudge.com.br/judge/pt/problems/view/1239) - [Atalhos Bloggo](https://github.com/potigol/uoj-potigol/blob/master/src/1200/1239.poti)
   - [x]  [1241](https://www.urionlinejudge.com.br/judge/pt/problems/view/1241) - [Encaixa ou Não II](https://github.com/potigol/uoj-potigol/blob/master/src/1200/1241.poti)

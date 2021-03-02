@@ -38,7 +38,7 @@
   - [x]  [2830](https://www.urionlinejudge.com.br/judge/pt/problems/view/2830) - [Copa](https://github.com/potigol/uoj-potigol/blob/master/src/2800/2830.poti) *Ad-Hoc*
   - [x]  [2831](https://www.urionlinejudge.com.br/judge/pt/problems/view/2831) - [Pesos](https://github.com/potigol/uoj-potigol/blob/master/src/2800/2831.poti) *Ad-Hoc*
   - [ ]  [2832](https://www.urionlinejudge.com.br/judge/pt/problems/view/2832) - Cápsulas *Ad-Hoc*
-  - [ ]  [2833](https://www.urionlinejudge.com.br/judge/pt/problems/view/2833) - Campeonato *Ad-Hoc*
+  - [x]  [2833](https://www.urionlinejudge.com.br/judge/pt/problems/view/2833) - [Campeonato](https://github.com/potigol/uoj-potigol/blob/master/src/2800/2833.poti) *Ad-Hoc*
   - [ ]  [2834](https://www.urionlinejudge.com.br/judge/pt/problems/view/2834) - Fuga *Ad-Hoc*
   - [x]  [2835](https://www.urionlinejudge.com.br/judge/pt/problems/view/2835) - [Elevador](https://github.com/potigol/uoj-potigol/blob/master/src/2800/2835.poti) *Ad-Hoc*
   - [ ]  [2836](https://www.urionlinejudge.com.br/judge/pt/problems/view/2836) - Wifi *Ad-Hoc*

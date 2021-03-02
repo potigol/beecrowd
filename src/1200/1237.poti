@@ -1,0 +1,32 @@
+pos(s: Texto, c: Caractere, n: Inteiro): Inteiro
+  var i := n
+  enquanto i <= s.tamanho e s[i] <> c faca
+    i := i + 1
+  fim
+  se i <= s.tamanho entao i senao 0 fim
+fim
+
+comparar(a, b: Texto, p_a, p_b, soma: Inteiro): Inteiro =
+  se p_a > a.tamanho ou p_b > b.tamanho ou a[p_a] <> b[p_b] entao
+    soma
+  senao
+    comparar(a, b, p_a + 1, p_b + 1, soma + 1)
+  fim
+
+var a := leia_texto
+enquanto a <> None.orNull faca
+  b = leia_texto
+  var resposta := 0
+  para inicio_a de 1 ate a.tamanho faca
+    var inicio_b := pos(b, a[inicio_a], 1)
+    enquanto inicio_b > 0 faca
+      tam = comparar(a, b, inicio_a, inicio_b, 0)
+      se tam > resposta entao
+        resposta := tam
+      fim
+      inicio_b := pos(b, a[inicio_a], inicio_b + 1)
+    fim
+  fim
+  escreva resposta
+  a:= leia_texto
+fim

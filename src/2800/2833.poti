@@ -1,0 +1,15 @@
+confronto(a, b, n: Inteiro) =
+  ((a - 1) mod n - (n - 1) / 2) * ((b - 1) mod n - (n - 1) / 2) < 0
+
+jogadores = leia_inteiros(" ")
+kung = jogadores.posicao(1)
+lu = jogadores.posicao(9)
+se confronto(kung, lu, 16) entao
+  escreva "final"
+senaose confronto(kung, lu, 8) entao
+  escreva "semifinal"
+senaose confronto(kung, lu, 4) entao
+  escreva "quartas"
+senão
+  escreva "oitavas"
+fim

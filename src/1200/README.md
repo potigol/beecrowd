@@ -37,7 +37,7 @@
   - [x]  [1234](https://www.urionlinejudge.com.br/judge/pt/problems/view/1234) - [Sentença Dançante](https://github.com/potigol/uoj-potigol/blob/master/src/1200/1234.poti) *Strings*
   - [x]  [1235](https://www.urionlinejudge.com.br/judge/pt/problems/view/1235) - [De Dentro para Fora](https://github.com/potigol/uoj-potigol/blob/master/src/1200/1235.poti) *Strings*
   - [ ]  [1236](https://www.urionlinejudge.com.br/judge/pt/problems/view/1236) - Compactação de Nulos e Brancos *Estruturas e Bibliotecas*
-  - [ ]  [1237](https://www.urionlinejudge.com.br/judge/pt/problems/view/1237) - Comparação de Substring *Strings*
+  - [x]  [1237](https://www.urionlinejudge.com.br/judge/pt/problems/view/1237) - [Comparação de Substring](https://github.com/potigol/uoj-potigol/blob/master/src/1200/1237.poti) *Strings*
   - [x]  [1238](https://www.urionlinejudge.com.br/judge/pt/problems/view/1238) - [Combinador](https://github.com/potigol/uoj-potigol/blob/master/src/1200/1238.poti) *Strings*
   - [x]  [1239](https://www.urionlinejudge.com.br/judge/pt/problems/view/1239) - [Atalhos Bloggo](https://github.com/potigol/uoj-potigol/blob/master/src/1200/1239.poti) *Strings*
   - [x]  [1240](https://www.urionlinejudge.com.br/judge/pt/problems/view/1240) - [Encaixa ou Não I](https://github.com/potigol/uoj-potigol/blob/master/src/1200/1240.poti) *Matemática*
