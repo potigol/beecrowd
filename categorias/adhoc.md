@@ -1,4 +1,4 @@
-# Ad-Hoc (117 / 706)
+# Ad-Hoc (117 / 716)
 
 ## Problemas não resolvidos
   - [ ]  [1030](https://www.urionlinejudge.com.br/judge/pt/problems/view/1030) - A Lenda de Flavious Josephus
@@ -590,6 +590,16 @@
   - [ ]  [3172](https://www.urionlinejudge.com.br/judge/pt/problems/view/3172) - Dali e Dila
   - [ ]  [3175](https://www.urionlinejudge.com.br/judge/pt/problems/view/3175) - Os Presentes Do Noel
   - [ ]  [3177](https://www.urionlinejudge.com.br/judge/pt/problems/view/3177) - Fábrica de Brinquedos do Papai Noel
+  - [ ]  [3188](https://www.urionlinejudge.com.br/judge/pt/problems/view/3188) - Phone List
+  - [ ]  [3189](https://www.urionlinejudge.com.br/judge/pt/problems/view/3189) - Cuckoo Hashing
+  - [ ]  [3198](https://www.urionlinejudge.com.br/judge/pt/problems/view/3198) - Tour Guide
+  - [ ]  [3199](https://www.urionlinejudge.com.br/judge/pt/problems/view/3199) - Jezzball
+  - [ ]  [3200](https://www.urionlinejudge.com.br/judge/pt/problems/view/3200) - Card Trick
+  - [ ]  [3202](https://www.urionlinejudge.com.br/judge/pt/problems/view/3202) - Whac-a-Mole
+  - [ ]  [3203](https://www.urionlinejudge.com.br/judge/pt/problems/view/3203) - Random Walking
+  - [ ]  [3205](https://www.urionlinejudge.com.br/judge/pt/problems/view/3205) - Nasty Hacks
+  - [ ]  [3206](https://www.urionlinejudge.com.br/judge/pt/problems/view/3206) - Batida de Robos
+  - [ ]  [3212](https://www.urionlinejudge.com.br/judge/pt/problems/view/3212) - Decomposição do Colar
 ## Problemas resolvidos
   - [x]  [1026](https://www.urionlinejudge.com.br/judge/pt/problems/view/1026) - [Carrega ou não Carrega?](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1026.poti)
   - [x]  [1087](https://www.urionlinejudge.com.br/judge/pt/problems/view/1087) - [Dama](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1087.poti)

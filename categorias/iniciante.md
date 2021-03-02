@@ -1,4 +1,4 @@
-# Iniciante (291 / 304)
+# Iniciante (291 / 309)
 
 ## Problemas não resolvidos
   - [ ]  [2632](https://www.urionlinejudge.com.br/judge/pt/problems/view/2632) - Magic and Sword
@@ -14,6 +14,11 @@
   - [ ]  [3170](https://www.urionlinejudge.com.br/judge/pt/problems/view/3170) - Bolinhas de Natal
   - [ ]  [3173](https://www.urionlinejudge.com.br/judge/pt/problems/view/3173) - Estrela de Natal
   - [ ]  [3174](https://www.urionlinejudge.com.br/judge/pt/problems/view/3174) - Grupo de Trabalho do Noel
+  - [ ]  [3181](https://www.urionlinejudge.com.br/judge/pt/problems/view/3181) - Jantar
+  - [ ]  [3197](https://www.urionlinejudge.com.br/judge/pt/problems/view/3197) - Shoot-out
+  - [ ]  [3204](https://www.urionlinejudge.com.br/judge/pt/problems/view/3204) - Honeycomb Walk
+  - [ ]  [3208](https://www.urionlinejudge.com.br/judge/pt/problems/view/3208) - O Criptógrafo Envergonhado
+  - [ ]  [3209](https://www.urionlinejudge.com.br/judge/pt/problems/view/3209) - Tomadas Elétricas
 ## Problemas resolvidos
   - [x]  [1000](https://www.urionlinejudge.com.br/judge/pt/problems/view/1000) - [Hello World!](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1000.poti)
   - [x]  [1001](https://www.urionlinejudge.com.br/judge/pt/problems/view/1001) - [Extremamente Básico](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1001.poti)

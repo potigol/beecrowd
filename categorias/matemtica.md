@@ -1,4 +1,4 @@
-# Matemática (46 / 247)
+# Matemática (46 / 252)
 
 ## Problemas não resolvidos
   - [ ]  [1093](https://www.urionlinejudge.com.br/judge/pt/problems/view/1093) - Vampiros
@@ -202,6 +202,11 @@
   - [ ]  [3104](https://www.urionlinejudge.com.br/judge/pt/problems/view/3104) - Resto 2.0
   - [ ]  [3110](https://www.urionlinejudge.com.br/judge/pt/problems/view/3110) - Farcos e o Xorshift
   - [ ]  [3138](https://www.urionlinejudge.com.br/judge/pt/problems/view/3138) - Aniversário do Tobias
+  - [ ]  [3179](https://www.urionlinejudge.com.br/judge/pt/problems/view/3179) - Melhor Compressão de Todas
+  - [ ]  [3182](https://www.urionlinejudge.com.br/judge/pt/problems/view/3182) - Planejamento de Evento
+  - [ ]  [3183](https://www.urionlinejudge.com.br/judge/pt/problems/view/3183) - Corrigindo os Bugs
+  - [ ]  [3185](https://www.urionlinejudge.com.br/judge/pt/problems/view/3185) - Evidência Difícil
+  - [ ]  [3187](https://www.urionlinejudge.com.br/judge/pt/problems/view/3187) - Apenas Mais Alguns Triângulos!
 ## Problemas resolvidos
   - [x]  [1028](https://www.urionlinejudge.com.br/judge/pt/problems/view/1028) - [Figurinhas](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1028.poti)
   - [x]  [1161](https://www.urionlinejudge.com.br/judge/pt/problems/view/1161) - [Soma de Fatoriais](https://github.com/potigol/uoj-potigol/blob/master/src/1100/1161.poti)

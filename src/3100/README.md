@@ -78,25 +78,25 @@
   - [ ]  [3175](https://www.urionlinejudge.com.br/judge/pt/problems/view/3175) - Os Presentes Do Noel *Ad-Hoc*
   - [ ]  [3176](https://www.urionlinejudge.com.br/judge/pt/problems/view/3176) - Time de Duendes *Estruturas e Bibliotecas*
   - [ ]  [3177](https://www.urionlinejudge.com.br/judge/pt/problems/view/3177) - Fábrica de Brinquedos do Papai Noel *Ad-Hoc*
-  - [ ] ~~3178~~
-  - [ ] ~~3179~~
-  - [ ] ~~3180~~
-  - [ ] ~~3181~~
-  - [ ] ~~3182~~
-  - [ ] ~~3183~~
-  - [ ] ~~3184~~
-  - [ ] ~~3185~~
-  - [ ] ~~3186~~
-  - [ ] ~~3187~~
-  - [ ] ~~3188~~
-  - [ ] ~~3189~~
-  - [ ] ~~3190~~
-  - [ ] ~~3191~~
-  - [ ] ~~3192~~
-  - [ ] ~~3193~~
-  - [ ] ~~3194~~
-  - [ ] ~~3195~~
-  - [ ] ~~3196~~
-  - [ ] ~~3197~~
-  - [ ] ~~3198~~
-  - [ ] ~~3199~~
+  - [ ]  [3178](https://www.urionlinejudge.com.br/judge/pt/problems/view/3178) - Avenida de Álamos *Paradigmas*
+  - [ ]  [3179](https://www.urionlinejudge.com.br/judge/pt/problems/view/3179) - Melhor Compressão de Todas *Matemática*
+  - [ ]  [3180](https://www.urionlinejudge.com.br/judge/pt/problems/view/3180) - Roubo de Código *Strings*
+  - [ ]  [3181](https://www.urionlinejudge.com.br/judge/pt/problems/view/3181) - Jantar *Iniciante*
+  - [ ]  [3182](https://www.urionlinejudge.com.br/judge/pt/problems/view/3182) - Planejamento de Evento *Matemática*
+  - [ ]  [3183](https://www.urionlinejudge.com.br/judge/pt/problems/view/3183) - Corrigindo os Bugs *Matemática*
+  - [ ]  [3184](https://www.urionlinejudge.com.br/judge/pt/problems/view/3184) - Obtendo Ouro *Geometria Computacional*
+  - [ ]  [3185](https://www.urionlinejudge.com.br/judge/pt/problems/view/3185) - Evidência Difícil *Matemática*
+  - [ ]  [3186](https://www.urionlinejudge.com.br/judge/pt/problems/view/3186) - Cache Introspectivo *Estruturas e Bibliotecas*
+  - [ ]  [3187](https://www.urionlinejudge.com.br/judge/pt/problems/view/3187) - Apenas Mais Alguns Triângulos! *Matemática*
+  - [ ]  [3188](https://www.urionlinejudge.com.br/judge/pt/problems/view/3188) - Phone List *Ad-Hoc*
+  - [ ]  [3189](https://www.urionlinejudge.com.br/judge/pt/problems/view/3189) - Cuckoo Hashing *Ad-Hoc*
+  - [ ]  [3190](https://www.urionlinejudge.com.br/judge/pt/problems/view/3190) - Optimal Parking *Estruturas e Bibliotecas*
+  - [ ]  [3191](https://www.urionlinejudge.com.br/judge/pt/problems/view/3191) - Copying DNA *Paradigmas*
+  - [ ]  [3192](https://www.urionlinejudge.com.br/judge/pt/problems/view/3192) - Circle of Debt *Paradigmas*
+  - [ ]  [3193](https://www.urionlinejudge.com.br/judge/pt/problems/view/3193) - Full Tank? *Grafos*
+  - [ ]  [3194](https://www.urionlinejudge.com.br/judge/pt/problems/view/3194) - Nested Dolls *Grafos*
+  - [ ]  [3195](https://www.urionlinejudge.com.br/judge/pt/problems/view/3195) - Shopaholic *Paradigmas*
+  - [ ]  [3196](https://www.urionlinejudge.com.br/judge/pt/problems/view/3196) - Moogle *Paradigmas*
+  - [ ]  [3197](https://www.urionlinejudge.com.br/judge/pt/problems/view/3197) - Shoot-out *Iniciante*
+  - [ ]  [3198](https://www.urionlinejudge.com.br/judge/pt/problems/view/3198) - Tour Guide *Ad-Hoc*
+  - [ ]  [3199](https://www.urionlinejudge.com.br/judge/pt/problems/view/3199) - Jezzball *Ad-Hoc*

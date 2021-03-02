@@ -2150,3 +2150,39 @@
 3175	Os Presentes Do Noel	Ad-Hoc
 3176	Time de Duendes	Estruturas e Bibliotecas
 3177	Fábrica de Brinquedos do Papai Noel	Ad-Hoc
+3178	Avenida de Álamos	Paradigmas
+3179	Melhor Compressão de Todas	Matemática
+3180	Roubo de Código	Strings
+3181	Jantar	Iniciante
+3182	Planejamento de Evento	Matemática
+3183	Corrigindo os Bugs	Matemática
+3184	Obtendo Ouro	Geometria Computacional
+3185	Evidência Difícil	Matemática
+3186	Cache Introspectivo	Estruturas e Bibliotecas
+3187	Apenas Mais Alguns Triângulos!	Matemática
+3188	Phone List	Ad-Hoc
+3189	Cuckoo Hashing	Ad-Hoc
+3190	Optimal Parking	Estruturas e Bibliotecas
+3191	Copying DNA	Paradigmas
+3192	Circle of Debt	Paradigmas
+3193	Full Tank?	Grafos
+3194	Nested Dolls	Grafos
+3195	Shopaholic	Paradigmas
+3196	Moogle	Paradigmas
+3197	Shoot-out	Iniciante
+3198	Tour Guide	Ad-Hoc
+3199	Jezzball	Ad-Hoc
+3200	Card Trick	Ad-Hoc
+3201	Traveling Salesman	Estruturas e Bibliotecas
+3202	Whac-a-Mole	Ad-Hoc
+3203	Random Walking	Ad-Hoc
+3204	Honeycomb Walk	Iniciante
+3205	Nasty Hacks	Ad-Hoc
+3206	Batida de Robos	Ad-Hoc
+3207	Jogos Divertidos	Estruturas e Bibliotecas
+3208	O Criptógrafo Envergonhado	Iniciante
+3209	Tomadas Elétricas	Iniciante
+3210	O Pior Clima de Todos	Estruturas e Bibliotecas
+3211	Reino	Grafos
+3212	Decomposição do Colar	Ad-Hoc
+3213	Parque Infantil	Geometria Computacional

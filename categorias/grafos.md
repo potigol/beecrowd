@@ -1,4 +1,4 @@
-# Grafos (3 / 260)
+# Grafos (3 / 263)
 
 ## Problemas não resolvidos
   - [ ]  [1053](https://www.urionlinejudge.com.br/judge/pt/problems/view/1053) - Desenho Contínuo
@@ -258,6 +258,9 @@
   - [ ]  [3150](https://www.urionlinejudge.com.br/judge/pt/problems/view/3150) - O Esconderijo do Rambo
   - [ ]  [3158](https://www.urionlinejudge.com.br/judge/pt/problems/view/3158) - O Bom Presidente
   - [ ]  [3169](https://www.urionlinejudge.com.br/judge/pt/problems/view/3169) - Batendo em Retirada
+  - [ ]  [3193](https://www.urionlinejudge.com.br/judge/pt/problems/view/3193) - Full Tank?
+  - [ ]  [3194](https://www.urionlinejudge.com.br/judge/pt/problems/view/3194) - Nested Dolls
+  - [ ]  [3211](https://www.urionlinejudge.com.br/judge/pt/problems/view/3211) - Reino
 ## Problemas resolvidos
   - [x]  [2428](https://www.urionlinejudge.com.br/judge/pt/problems/view/2428) - [Capital](https://github.com/potigol/uoj-potigol/blob/master/src/2400/2428.poti)
   - [x]  [2687](https://www.urionlinejudge.com.br/judge/pt/problems/view/2687) - [Dominação Bacteriana](https://github.com/potigol/uoj-potigol/blob/master/src/2600/2687.poti)

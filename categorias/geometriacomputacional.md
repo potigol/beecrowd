@@ -1,4 +1,4 @@
-# Geometria Computacional (3 / 78)
+# Geometria Computacional (3 / 80)
 
 ## Problemas não resolvidos
   - [ ]  [1039](https://www.urionlinejudge.com.br/judge/pt/problems/view/1039) - Flores de Fogo
@@ -76,6 +76,8 @@
   - [ ]  [3108](https://www.urionlinejudge.com.br/judge/pt/problems/view/3108) - Arremesse os BigOs!
   - [ ]  [3152](https://www.urionlinejudge.com.br/judge/pt/problems/view/3152) - Samuel, O Cafeicultor
   - [ ]  [3156](https://www.urionlinejudge.com.br/judge/pt/problems/view/3156) - Xadrez Galático
+  - [ ]  [3184](https://www.urionlinejudge.com.br/judge/pt/problems/view/3184) - Obtendo Ouro
+  - [ ]  [3213](https://www.urionlinejudge.com.br/judge/pt/problems/view/3213) - Parque Infantil
 ## Problemas resolvidos
   - [x]  [1296](https://www.urionlinejudge.com.br/judge/pt/problems/view/1296) - [Medianas](https://github.com/potigol/uoj-potigol/blob/master/src/1200/1296.poti)
   - [x]  [1875](https://www.urionlinejudge.com.br/judge/pt/problems/view/1875) - [Tribol](https://github.com/potigol/uoj-potigol/blob/master/src/1800/1875.poti)
