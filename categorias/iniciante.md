@@ -1,4 +1,4 @@
-# Iniciante (291 / 309)
+# Iniciante (292 / 309)
 
 ## Problemas não resolvidos
   - [ ]  [2632](https://www.urionlinejudge.com.br/judge/pt/problems/view/2632) - Magic and Sword
@@ -17,7 +17,6 @@
   - [ ]  [3181](https://www.urionlinejudge.com.br/judge/pt/problems/view/3181) - Jantar
   - [ ]  [3197](https://www.urionlinejudge.com.br/judge/pt/problems/view/3197) - Shoot-out
   - [ ]  [3204](https://www.urionlinejudge.com.br/judge/pt/problems/view/3204) - Honeycomb Walk
-  - [ ]  [3208](https://www.urionlinejudge.com.br/judge/pt/problems/view/3208) - O Criptógrafo Envergonhado
   - [ ]  [3209](https://www.urionlinejudge.com.br/judge/pt/problems/view/3209) - Tomadas Elétricas
 ## Problemas resolvidos
   - [x]  [1000](https://www.urionlinejudge.com.br/judge/pt/problems/view/1000) - [Hello World!](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1000.poti)
@@ -311,3 +310,4 @@
   - [x]  [3147](https://www.urionlinejudge.com.br/judge/pt/problems/view/3147) - [A Batalha dos Cinco Exércitos](https://github.com/potigol/uoj-potigol/blob/master/src/3100/3147.poti)
   - [x]  [3157](https://www.urionlinejudge.com.br/judge/pt/problems/view/3157) - [Viva a Ciência!](https://github.com/potigol/uoj-potigol/blob/master/src/3100/3157.poti)
   - [x]  [3161](https://www.urionlinejudge.com.br/judge/pt/problems/view/3161) - [As Frutas Esquecidas](https://github.com/potigol/uoj-potigol/blob/master/src/3100/3161.poti)
+  - [x]  [3208](https://www.urionlinejudge.com.br/judge/pt/problems/view/3208) - [O Criptógrafo Envergonhado](https://github.com/potigol/uoj-potigol/blob/master/src/3200/3208.poti)

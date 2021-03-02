@@ -74,7 +74,7 @@ object Build extends App {
   }
 
   // Lista Geral
-  for (i <- 10 to 31) {
+  for (i <- 10 to 32) {
     val d = for (j <- 0 to 99; x = i * 100 + j) yield line(x)
     save(s"../src/${dir(i*100)}/README.md", s"Problemas ${dir(i*100).replace("-", " a ")}", d.mkString("\n"))
   }
