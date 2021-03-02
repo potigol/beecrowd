@@ -8,8 +8,8 @@
   - [ ]  [3205](https://www.urionlinejudge.com.br/judge/pt/problems/view/3205) - Nasty Hacks *Ad-Hoc*
   - [ ]  [3206](https://www.urionlinejudge.com.br/judge/pt/problems/view/3206) - Batida de Robos *Ad-Hoc*
   - [ ]  [3207](https://www.urionlinejudge.com.br/judge/pt/problems/view/3207) - Jogos Divertidos *Estruturas e Bibliotecas*
-  - [x]  [3208](https://www.urionlinejudge.com.br/judge/pt/problems/view/3208) - [O Criptógrafo Envergonhado](https://github.com/potigol/uoj-potigol/blob/master/src/3200/3208.poti) *Iniciante*
-  - [ ]  [3209](https://www.urionlinejudge.com.br/judge/pt/problems/view/3209) - Tomadas Elétricas *Iniciante*
+  - [ ]  [3208](https://www.urionlinejudge.com.br/judge/pt/problems/view/3208) - O Criptógrafo Envergonhado *Iniciante*
+  - [x]  [3209](https://www.urionlinejudge.com.br/judge/pt/problems/view/3209) - [Tomadas Elétricas](https://github.com/potigol/uoj-potigol/blob/master/src/3200/3209.poti) *Iniciante*
   - [ ]  [3210](https://www.urionlinejudge.com.br/judge/pt/problems/view/3210) - O Pior Clima de Todos *Estruturas e Bibliotecas*
   - [ ]  [3211](https://www.urionlinejudge.com.br/judge/pt/problems/view/3211) - Reino *Grafos*
   - [ ]  [3212](https://www.urionlinejudge.com.br/judge/pt/problems/view/3212) - Decomposição do Colar *Ad-Hoc*
