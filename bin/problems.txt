@@ -2186,3 +2186,42 @@
 3211	Reino	Grafos
 3212	Decomposição do Colar	Ad-Hoc
 3213	Parque Infantil	Geometria Computacional
+3214	Refrigerante	Iniciante
+3215	Dinheiro Importa	Grafos
+3216	Teste Alérgico	Matemática
+3217	Chuva Caindo	Iniciante
+3218	Fuga Rápida	Grafos
+3219	Gokigen Naname	Ad-Hoc
+3220	Planejamento de Vôo	Grafos
+3221	Faróis	Grafos
+3222	Cifra Playfair	Ad-Hoc
+3223	Permutações de Código	Matemática
+3224	Aaah!	Iniciante
+3225	Ordenação dos Pães	Ad-Hoc
+3226	Seleção de Biscoito	Ad-Hoc
+3227	Doorman	Ad-Hoc
+3231	Horror List	Iniciante
+3232	Infiltration	Iniciante
+3234	Kindergarten	Iniciante
+3235	Luggage	Iniciante
+3236	Sucessão	Grafos
+3237	Conectar	Grafos
+3238	Borg Boogie	Grafos
+3239	Dirty Driving	Estruturas e Bibliotecas
+3240	Doodling	Ad-Hoc
+3241	Ajude um candidato a PhD!	Iniciante
+3242	Great Geek Game-show 3000!	Matemática
+3243	Poderes de Poliminó	Grafos
+3244	Estatísticos(as)	Matemática
+3245	Horizonte	Ad-Hoc
+3246	Em torno da pista	Grafos
+3247	Robôs em uma Grade	Grafos
+3248	Mega Inversões	Estruturas e Bibliotecas
+3249	Death Knight Hero	Iniciante
+3250	Problema no Elevador	Iniciante
+3251	ls	Paradigmas
+3252	Reus da Floresta	Iniciante
+3253	Problemas com o Carro	Iniciante
+3254	Espaço Privado	Ad-Hoc
+3255	A Vez to Primo	Iniciante
+3256	Divisão Inimiga	Iniciante

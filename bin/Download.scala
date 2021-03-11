@@ -22,7 +22,7 @@ object Download extends App {
       Problem(num, name, category)
     }
   }
-  val all = (1 to 22).map(get)
+  val all = (1 to 23).map(get)
   new PrintWriter("problems.txt") {
     write(all.flatten.mkString("\n"))
     close

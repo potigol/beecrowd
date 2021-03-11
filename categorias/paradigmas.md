@@ -1,4 +1,4 @@
-# Paradigmas (2 / 209)
+# Paradigmas (2 / 210)
 
 ## Problemas não resolvidos
   - [ ]  [1027](https://www.urionlinejudge.com.br/judge/pt/problems/view/1027) - Onda Crítica
@@ -208,6 +208,7 @@
   - [ ]  [3192](https://www.urionlinejudge.com.br/judge/pt/problems/view/3192) - Circle of Debt
   - [ ]  [3195](https://www.urionlinejudge.com.br/judge/pt/problems/view/3195) - Shopaholic
   - [ ]  [3196](https://www.urionlinejudge.com.br/judge/pt/problems/view/3196) - Moogle
+  - [ ]  [3251](https://www.urionlinejudge.com.br/judge/pt/problems/view/3251) - ls
 ## Problemas resolvidos
   - [x]  [1029](https://www.urionlinejudge.com.br/judge/pt/problems/view/1029) - [Fibonacci, Quantas Chamadas?](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1029.poti)
   - [x]  [1084](https://www.urionlinejudge.com.br/judge/pt/problems/view/1084) - [Apagando e Ganhando](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1084.poti)

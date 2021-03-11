@@ -1,4 +1,4 @@
-# Ad-Hoc (117 / 716)
+# Ad-Hoc (117 / 724)
 
 ## Problemas não resolvidos
   - [ ]  [1030](https://www.urionlinejudge.com.br/judge/pt/problems/view/1030) - A Lenda de Flavious Josephus
@@ -600,6 +600,14 @@
   - [ ]  [3205](https://www.urionlinejudge.com.br/judge/pt/problems/view/3205) - Nasty Hacks
   - [ ]  [3206](https://www.urionlinejudge.com.br/judge/pt/problems/view/3206) - Batida de Robos
   - [ ]  [3212](https://www.urionlinejudge.com.br/judge/pt/problems/view/3212) - Decomposição do Colar
+  - [ ]  [3219](https://www.urionlinejudge.com.br/judge/pt/problems/view/3219) - Gokigen Naname
+  - [ ]  [3222](https://www.urionlinejudge.com.br/judge/pt/problems/view/3222) - Cifra Playfair
+  - [ ]  [3225](https://www.urionlinejudge.com.br/judge/pt/problems/view/3225) - Ordenação dos Pães
+  - [ ]  [3226](https://www.urionlinejudge.com.br/judge/pt/problems/view/3226) - Seleção de Biscoito
+  - [ ]  [3227](https://www.urionlinejudge.com.br/judge/pt/problems/view/3227) - Doorman
+  - [ ]  [3240](https://www.urionlinejudge.com.br/judge/pt/problems/view/3240) - Doodling
+  - [ ]  [3245](https://www.urionlinejudge.com.br/judge/pt/problems/view/3245) - Horizonte
+  - [ ]  [3254](https://www.urionlinejudge.com.br/judge/pt/problems/view/3254) - Espaço Privado
 ## Problemas resolvidos
   - [x]  [1026](https://www.urionlinejudge.com.br/judge/pt/problems/view/1026) - [Carrega ou não Carrega?](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1026.poti)
   - [x]  [1087](https://www.urionlinejudge.com.br/judge/pt/problems/view/1087) - [Dama](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1087.poti)

@@ -1,4 +1,4 @@
-# Grafos (3 / 263)
+# Grafos (3 / 273)
 
 ## Problemas não resolvidos
   - [ ]  [1053](https://www.urionlinejudge.com.br/judge/pt/problems/view/1053) - Desenho Contínuo
@@ -261,6 +261,16 @@
   - [ ]  [3193](https://www.urionlinejudge.com.br/judge/pt/problems/view/3193) - Full Tank?
   - [ ]  [3194](https://www.urionlinejudge.com.br/judge/pt/problems/view/3194) - Nested Dolls
   - [ ]  [3211](https://www.urionlinejudge.com.br/judge/pt/problems/view/3211) - Reino
+  - [ ]  [3215](https://www.urionlinejudge.com.br/judge/pt/problems/view/3215) - Dinheiro Importa
+  - [ ]  [3218](https://www.urionlinejudge.com.br/judge/pt/problems/view/3218) - Fuga Rápida
+  - [ ]  [3220](https://www.urionlinejudge.com.br/judge/pt/problems/view/3220) - Planejamento de Vôo
+  - [ ]  [3221](https://www.urionlinejudge.com.br/judge/pt/problems/view/3221) - Faróis
+  - [ ]  [3236](https://www.urionlinejudge.com.br/judge/pt/problems/view/3236) - Sucessão
+  - [ ]  [3237](https://www.urionlinejudge.com.br/judge/pt/problems/view/3237) - Conectar
+  - [ ]  [3238](https://www.urionlinejudge.com.br/judge/pt/problems/view/3238) - Borg Boogie
+  - [ ]  [3243](https://www.urionlinejudge.com.br/judge/pt/problems/view/3243) - Poderes de Poliminó
+  - [ ]  [3246](https://www.urionlinejudge.com.br/judge/pt/problems/view/3246) - Em torno da pista
+  - [ ]  [3247](https://www.urionlinejudge.com.br/judge/pt/problems/view/3247) - Robôs em uma Grade
 ## Problemas resolvidos
   - [x]  [2428](https://www.urionlinejudge.com.br/judge/pt/problems/view/2428) - [Capital](https://github.com/potigol/uoj-potigol/blob/master/src/2400/2428.poti)
   - [x]  [2687](https://www.urionlinejudge.com.br/judge/pt/problems/view/2687) - [Dominação Bacteriana](https://github.com/potigol/uoj-potigol/blob/master/src/2600/2687.poti)

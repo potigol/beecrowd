@@ -14,49 +14,49 @@
   - [ ]  [3211](https://www.urionlinejudge.com.br/judge/pt/problems/view/3211) - Reino *Grafos*
   - [ ]  [3212](https://www.urionlinejudge.com.br/judge/pt/problems/view/3212) - Decomposição do Colar *Ad-Hoc*
   - [ ]  [3213](https://www.urionlinejudge.com.br/judge/pt/problems/view/3213) - Parque Infantil *Geometria Computacional*
-  - [ ] ~~3214~~
-  - [ ] ~~3215~~
-  - [ ] ~~3216~~
-  - [ ] ~~3217~~
-  - [ ] ~~3218~~
-  - [ ] ~~3219~~
-  - [ ] ~~3220~~
-  - [ ] ~~3221~~
-  - [ ] ~~3222~~
-  - [ ] ~~3223~~
-  - [ ] ~~3224~~
-  - [ ] ~~3225~~
-  - [ ] ~~3226~~
-  - [ ] ~~3227~~
+  - [ ]  [3214](https://www.urionlinejudge.com.br/judge/pt/problems/view/3214) - Refrigerante *Iniciante*
+  - [ ]  [3215](https://www.urionlinejudge.com.br/judge/pt/problems/view/3215) - Dinheiro Importa *Grafos*
+  - [ ]  [3216](https://www.urionlinejudge.com.br/judge/pt/problems/view/3216) - Teste Alérgico *Matemática*
+  - [ ]  [3217](https://www.urionlinejudge.com.br/judge/pt/problems/view/3217) - Chuva Caindo *Iniciante*
+  - [ ]  [3218](https://www.urionlinejudge.com.br/judge/pt/problems/view/3218) - Fuga Rápida *Grafos*
+  - [ ]  [3219](https://www.urionlinejudge.com.br/judge/pt/problems/view/3219) - Gokigen Naname *Ad-Hoc*
+  - [ ]  [3220](https://www.urionlinejudge.com.br/judge/pt/problems/view/3220) - Planejamento de Vôo *Grafos*
+  - [ ]  [3221](https://www.urionlinejudge.com.br/judge/pt/problems/view/3221) - Faróis *Grafos*
+  - [ ]  [3222](https://www.urionlinejudge.com.br/judge/pt/problems/view/3222) - Cifra Playfair *Ad-Hoc*
+  - [ ]  [3223](https://www.urionlinejudge.com.br/judge/pt/problems/view/3223) - Permutações de Código *Matemática*
+  - [ ]  [3224](https://www.urionlinejudge.com.br/judge/pt/problems/view/3224) - Aaah! *Iniciante*
+  - [ ]  [3225](https://www.urionlinejudge.com.br/judge/pt/problems/view/3225) - Ordenação dos Pães *Ad-Hoc*
+  - [ ]  [3226](https://www.urionlinejudge.com.br/judge/pt/problems/view/3226) - Seleção de Biscoito *Ad-Hoc*
+  - [ ]  [3227](https://www.urionlinejudge.com.br/judge/pt/problems/view/3227) - Doorman *Ad-Hoc*
   - [ ] ~~3228~~
   - [ ] ~~3229~~
   - [ ] ~~3230~~
-  - [ ] ~~3231~~
-  - [ ] ~~3232~~
+  - [ ]  [3231](https://www.urionlinejudge.com.br/judge/pt/problems/view/3231) - Horror List *Iniciante*
+  - [ ]  [3232](https://www.urionlinejudge.com.br/judge/pt/problems/view/3232) - Infiltration *Iniciante*
   - [ ] ~~3233~~
-  - [ ] ~~3234~~
-  - [ ] ~~3235~~
-  - [ ] ~~3236~~
-  - [ ] ~~3237~~
-  - [ ] ~~3238~~
-  - [ ] ~~3239~~
-  - [ ] ~~3240~~
-  - [ ] ~~3241~~
-  - [ ] ~~3242~~
-  - [ ] ~~3243~~
-  - [ ] ~~3244~~
-  - [ ] ~~3245~~
-  - [ ] ~~3246~~
-  - [ ] ~~3247~~
-  - [ ] ~~3248~~
-  - [ ] ~~3249~~
-  - [ ] ~~3250~~
-  - [ ] ~~3251~~
-  - [ ] ~~3252~~
-  - [ ] ~~3253~~
-  - [ ] ~~3254~~
-  - [ ] ~~3255~~
-  - [ ] ~~3256~~
+  - [ ]  [3234](https://www.urionlinejudge.com.br/judge/pt/problems/view/3234) - Kindergarten *Iniciante*
+  - [ ]  [3235](https://www.urionlinejudge.com.br/judge/pt/problems/view/3235) - Luggage *Iniciante*
+  - [ ]  [3236](https://www.urionlinejudge.com.br/judge/pt/problems/view/3236) - Sucessão *Grafos*
+  - [ ]  [3237](https://www.urionlinejudge.com.br/judge/pt/problems/view/3237) - Conectar *Grafos*
+  - [ ]  [3238](https://www.urionlinejudge.com.br/judge/pt/problems/view/3238) - Borg Boogie *Grafos*
+  - [ ]  [3239](https://www.urionlinejudge.com.br/judge/pt/problems/view/3239) - Dirty Driving *Estruturas e Bibliotecas*
+  - [ ]  [3240](https://www.urionlinejudge.com.br/judge/pt/problems/view/3240) - Doodling *Ad-Hoc*
+  - [ ]  [3241](https://www.urionlinejudge.com.br/judge/pt/problems/view/3241) - Ajude um candidato a PhD! *Iniciante*
+  - [ ]  [3242](https://www.urionlinejudge.com.br/judge/pt/problems/view/3242) - Great Geek Game-show 3000! *Matemática*
+  - [ ]  [3243](https://www.urionlinejudge.com.br/judge/pt/problems/view/3243) - Poderes de Poliminó *Grafos*
+  - [ ]  [3244](https://www.urionlinejudge.com.br/judge/pt/problems/view/3244) - Estatísticos(as) *Matemática*
+  - [ ]  [3245](https://www.urionlinejudge.com.br/judge/pt/problems/view/3245) - Horizonte *Ad-Hoc*
+  - [ ]  [3246](https://www.urionlinejudge.com.br/judge/pt/problems/view/3246) - Em torno da pista *Grafos*
+  - [ ]  [3247](https://www.urionlinejudge.com.br/judge/pt/problems/view/3247) - Robôs em uma Grade *Grafos*
+  - [ ]  [3248](https://www.urionlinejudge.com.br/judge/pt/problems/view/3248) - Mega Inversões *Estruturas e Bibliotecas*
+  - [ ]  [3249](https://www.urionlinejudge.com.br/judge/pt/problems/view/3249) - Death Knight Hero *Iniciante*
+  - [ ]  [3250](https://www.urionlinejudge.com.br/judge/pt/problems/view/3250) - Problema no Elevador *Iniciante*
+  - [ ]  [3251](https://www.urionlinejudge.com.br/judge/pt/problems/view/3251) - ls *Paradigmas*
+  - [ ]  [3252](https://www.urionlinejudge.com.br/judge/pt/problems/view/3252) - Reus da Floresta *Iniciante*
+  - [ ]  [3253](https://www.urionlinejudge.com.br/judge/pt/problems/view/3253) - Problemas com o Carro *Iniciante*
+  - [ ]  [3254](https://www.urionlinejudge.com.br/judge/pt/problems/view/3254) - Espaço Privado *Ad-Hoc*
+  - [ ]  [3255](https://www.urionlinejudge.com.br/judge/pt/problems/view/3255) - A Vez to Primo *Iniciante*
+  - [ ]  [3256](https://www.urionlinejudge.com.br/judge/pt/problems/view/3256) - Divisão Inimiga *Iniciante*
   - [ ] ~~3257~~
   - [ ] ~~3258~~
   - [ ] ~~3259~~

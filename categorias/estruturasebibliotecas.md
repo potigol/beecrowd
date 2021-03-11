@@ -1,4 +1,4 @@
-# Estruturas e Bibliotecas (17 / 176)
+# Estruturas e Bibliotecas (17 / 178)
 
 ## Problemas não resolvidos
   - [ ]  [1023](https://www.urionlinejudge.com.br/judge/pt/problems/view/1023) - Estiagem
@@ -160,6 +160,8 @@
   - [ ]  [3201](https://www.urionlinejudge.com.br/judge/pt/problems/view/3201) - Traveling Salesman
   - [ ]  [3207](https://www.urionlinejudge.com.br/judge/pt/problems/view/3207) - Jogos Divertidos
   - [ ]  [3210](https://www.urionlinejudge.com.br/judge/pt/problems/view/3210) - O Pior Clima de Todos
+  - [ ]  [3239](https://www.urionlinejudge.com.br/judge/pt/problems/view/3239) - Dirty Driving
+  - [ ]  [3248](https://www.urionlinejudge.com.br/judge/pt/problems/view/3248) - Mega Inversões
 ## Problemas resolvidos
   - [x]  [1022](https://www.urionlinejudge.com.br/judge/pt/problems/view/1022) - [TDA Racional](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1022.poti)
   - [x]  [1068](https://www.urionlinejudge.com.br/judge/pt/problems/view/1068) - [Balanço de Parênteses I](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1068.poti)
