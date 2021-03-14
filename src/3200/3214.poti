@@ -1,0 +1,9 @@
+entrada = leia_inteiros(" ")
+var g := entrada[1] + entrada[2]
+c = entrada[3]
+var resp := 0
+enquanto g >= c faça
+  resp := resp + g div c
+  g := g div c + g mod c
+fim
+escreva resp

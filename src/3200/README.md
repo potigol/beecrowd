@@ -14,7 +14,7 @@
   - [ ]  [3211](https://www.urionlinejudge.com.br/judge/pt/problems/view/3211) - Reino *Grafos*
   - [ ]  [3212](https://www.urionlinejudge.com.br/judge/pt/problems/view/3212) - Decomposição do Colar *Ad-Hoc*
   - [ ]  [3213](https://www.urionlinejudge.com.br/judge/pt/problems/view/3213) - Parque Infantil *Geometria Computacional*
-  - [ ]  [3214](https://www.urionlinejudge.com.br/judge/pt/problems/view/3214) - Refrigerante *Iniciante*
+  - [x]  [3214](https://www.urionlinejudge.com.br/judge/pt/problems/view/3214) - [Refrigerante](https://github.com/potigol/uoj-potigol/blob/master/src/3200/3214.poti) *Iniciante*
   - [ ]  [3215](https://www.urionlinejudge.com.br/judge/pt/problems/view/3215) - Dinheiro Importa *Grafos*
   - [ ]  [3216](https://www.urionlinejudge.com.br/judge/pt/problems/view/3216) - Teste Alérgico *Matemática*
   - [ ]  [3217](https://www.urionlinejudge.com.br/judge/pt/problems/view/3217) - Chuva Caindo *Iniciante*
@@ -24,7 +24,7 @@
   - [ ]  [3221](https://www.urionlinejudge.com.br/judge/pt/problems/view/3221) - Faróis *Grafos*
   - [ ]  [3222](https://www.urionlinejudge.com.br/judge/pt/problems/view/3222) - Cifra Playfair *Ad-Hoc*
   - [ ]  [3223](https://www.urionlinejudge.com.br/judge/pt/problems/view/3223) - Permutações de Código *Matemática*
-  - [ ]  [3224](https://www.urionlinejudge.com.br/judge/pt/problems/view/3224) - Aaah! *Iniciante*
+  - [x]  [3224](https://www.urionlinejudge.com.br/judge/pt/problems/view/3224) - [Aaah!](https://github.com/potigol/uoj-potigol/blob/master/src/3200/3224.poti) *Iniciante*
   - [ ]  [3225](https://www.urionlinejudge.com.br/judge/pt/problems/view/3225) - Ordenação dos Pães *Ad-Hoc*
   - [ ]  [3226](https://www.urionlinejudge.com.br/judge/pt/problems/view/3226) - Seleção de Biscoito *Ad-Hoc*
   - [ ]  [3227](https://www.urionlinejudge.com.br/judge/pt/problems/view/3227) - Doorman *Ad-Hoc*
@@ -41,7 +41,7 @@
   - [ ]  [3238](https://www.urionlinejudge.com.br/judge/pt/problems/view/3238) - Borg Boogie *Grafos*
   - [ ]  [3239](https://www.urionlinejudge.com.br/judge/pt/problems/view/3239) - Dirty Driving *Estruturas e Bibliotecas*
   - [ ]  [3240](https://www.urionlinejudge.com.br/judge/pt/problems/view/3240) - Doodling *Ad-Hoc*
-  - [ ]  [3241](https://www.urionlinejudge.com.br/judge/pt/problems/view/3241) - Ajude um candidato a PhD! *Iniciante*
+  - [x]  [3241](https://www.urionlinejudge.com.br/judge/pt/problems/view/3241) - [Ajude um candidato a PhD!](https://github.com/potigol/uoj-potigol/blob/master/src/3200/3241.poti) *Iniciante*
   - [ ]  [3242](https://www.urionlinejudge.com.br/judge/pt/problems/view/3242) - Great Geek Game-show 3000! *Matemática*
   - [ ]  [3243](https://www.urionlinejudge.com.br/judge/pt/problems/view/3243) - Poderes de Poliminó *Grafos*
   - [ ]  [3244](https://www.urionlinejudge.com.br/judge/pt/problems/view/3244) - Estatísticos(as) *Matemática*

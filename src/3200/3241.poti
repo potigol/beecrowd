@@ -1,0 +1,10 @@
+n = leia_inteiro
+para i de 1 ate n faca
+  s = leia_inteiros("+")
+  se s.tamanho == 1 entao
+    escreva "skipped"
+  senao
+    soma = s[1] + s[2]
+    escreva soma
+  fim
+fim

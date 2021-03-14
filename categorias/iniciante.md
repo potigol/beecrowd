@@ -1,4 +1,4 @@
-# Iniciante (292 / 323)
+# Iniciante (295 / 323)
 
 ## Problemas não resolvidos
   - [ ]  [2632](https://www.urionlinejudge.com.br/judge/pt/problems/view/2632) - Magic and Sword
@@ -18,14 +18,11 @@
   - [ ]  [3197](https://www.urionlinejudge.com.br/judge/pt/problems/view/3197) - Shoot-out
   - [ ]  [3204](https://www.urionlinejudge.com.br/judge/pt/problems/view/3204) - Honeycomb Walk
   - [ ]  [3208](https://www.urionlinejudge.com.br/judge/pt/problems/view/3208) - O Criptógrafo Envergonhado
-  - [ ]  [3214](https://www.urionlinejudge.com.br/judge/pt/problems/view/3214) - Refrigerante
   - [ ]  [3217](https://www.urionlinejudge.com.br/judge/pt/problems/view/3217) - Chuva Caindo
-  - [ ]  [3224](https://www.urionlinejudge.com.br/judge/pt/problems/view/3224) - Aaah!
   - [ ]  [3231](https://www.urionlinejudge.com.br/judge/pt/problems/view/3231) - Horror List
   - [ ]  [3232](https://www.urionlinejudge.com.br/judge/pt/problems/view/3232) - Infiltration
   - [ ]  [3234](https://www.urionlinejudge.com.br/judge/pt/problems/view/3234) - Kindergarten
   - [ ]  [3235](https://www.urionlinejudge.com.br/judge/pt/problems/view/3235) - Luggage
-  - [ ]  [3241](https://www.urionlinejudge.com.br/judge/pt/problems/view/3241) - Ajude um candidato a PhD!
   - [ ]  [3249](https://www.urionlinejudge.com.br/judge/pt/problems/view/3249) - Death Knight Hero
   - [ ]  [3250](https://www.urionlinejudge.com.br/judge/pt/problems/view/3250) - Problema no Elevador
   - [ ]  [3252](https://www.urionlinejudge.com.br/judge/pt/problems/view/3252) - Reus da Floresta
@@ -325,3 +322,6 @@
   - [x]  [3157](https://www.urionlinejudge.com.br/judge/pt/problems/view/3157) - [Viva a Ciência!](https://github.com/potigol/uoj-potigol/blob/master/src/3100/3157.poti)
   - [x]  [3161](https://www.urionlinejudge.com.br/judge/pt/problems/view/3161) - [As Frutas Esquecidas](https://github.com/potigol/uoj-potigol/blob/master/src/3100/3161.poti)
   - [x]  [3209](https://www.urionlinejudge.com.br/judge/pt/problems/view/3209) - [Tomadas Elétricas](https://github.com/potigol/uoj-potigol/blob/master/src/3200/3209.poti)
+  - [x]  [3214](https://www.urionlinejudge.com.br/judge/pt/problems/view/3214) - [Refrigerante](https://github.com/potigol/uoj-potigol/blob/master/src/3200/3214.poti)
+  - [x]  [3224](https://www.urionlinejudge.com.br/judge/pt/problems/view/3224) - [Aaah!](https://github.com/potigol/uoj-potigol/blob/master/src/3200/3224.poti)
+  - [x]  [3241](https://www.urionlinejudge.com.br/judge/pt/problems/view/3241) - [Ajude um candidato a PhD!](https://github.com/potigol/uoj-potigol/blob/master/src/3200/3241.poti)

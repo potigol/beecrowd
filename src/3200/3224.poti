@@ -1,0 +1,6 @@
+a, b = leia_texto
+se a.tamanho >= b.tamanho entao
+  escreva "go"
+senao
+  escreva "no"
+fim
