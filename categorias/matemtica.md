@@ -1,4 +1,4 @@
-# Matemática (46 / 256)
+# Matemática (46 / 264)
 
 ## Problemas não resolvidos
   - [ ]  [1093](https://www.urionlinejudge.com.br/judge/pt/problems/view/1093) - Vampiros
@@ -211,6 +211,14 @@
   - [ ]  [3223](https://www.urionlinejudge.com.br/judge/pt/problems/view/3223) - Permutações de Código
   - [ ]  [3242](https://www.urionlinejudge.com.br/judge/pt/problems/view/3242) - Great Geek Game-show 3000!
   - [ ]  [3244](https://www.urionlinejudge.com.br/judge/pt/problems/view/3244) - Estatísticos(as)
+  - [ ]  [3257](https://www.urionlinejudge.com.br/judge/pt/problems/view/3257) - Plantando Árvores
+  - [ ]  [3259](https://www.urionlinejudge.com.br/judge/pt/problems/view/3259) - Truque Numérico
+  - [ ]  [3265](https://www.urionlinejudge.com.br/judge/pt/problems/view/3265) - Reconstrução de Dança
+  - [ ]  [3266](https://www.urionlinejudge.com.br/judge/pt/problems/view/3266) - Dartboard
+  - [ ]  [3270](https://www.urionlinejudge.com.br/judge/pt/problems/view/3270) - Praça Catalã
+  - [ ]  [3271](https://www.urionlinejudge.com.br/judge/pt/problems/view/3271) - Jogo de Dados
+  - [ ]  [3272](https://www.urionlinejudge.com.br/judge/pt/problems/view/3272) - Cerimônia de Abertura
+  - [ ]  [3276](https://www.urionlinejudge.com.br/judge/pt/problems/view/3276) - Quantos Quadrados?
 ## Problemas resolvidos
   - [x]  [1028](https://www.urionlinejudge.com.br/judge/pt/problems/view/1028) - [Figurinhas](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1028.poti)
   - [x]  [1161](https://www.urionlinejudge.com.br/judge/pt/problems/view/1161) - [Soma de Fatoriais](https://github.com/potigol/uoj-potigol/blob/master/src/1100/1161.poti)

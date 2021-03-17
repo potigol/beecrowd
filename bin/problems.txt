@@ -2225,3 +2225,25 @@
 3254	Espaço Privado	Ad-Hoc
 3255	A Vez to Primo	Iniciante
 3256	Divisão Inimiga	Iniciante
+3257	Plantando Árvores	Matemática
+3258	Fervendo Vegetais	Iniciante
+3259	Truque Numérico	Matemática
+3260	Robert Hood	Geometria Computacional
+3261	Replicação de Vírus	Strings
+3262	Timebomb	Strings
+3263	Apague Com Segurança	Ad-Hoc
+3264	Pinball	Grafos
+3265	Reconstrução de Dança	Matemática
+3266	Dartboard	Matemática
+3267	Passeio no Penhasco	Iniciante
+3268	Lounges da Amanda	Grafos
+3269	Vigilância de Basin City	Grafos
+3270	Praça Catalã	Matemática
+3271	Jogo de Dados	Matemática
+3272	Cerimônia de Abertura	Matemática
+3273	Troca de Partículas	Grafos
+3274	Excursão	Paradigmas
+3275	Foto de Relógios	Strings
+3276	Quantos Quadrados?	Matemática
+3277	Trabalho na Estrada	Paradigmas
+3278	Passageiros de Trem	Ad-Hoc

@@ -1,4 +1,4 @@
-# Grafos (3 / 273)
+# Grafos (3 / 277)
 
 ## Problemas não resolvidos
   - [ ]  [1053](https://www.urionlinejudge.com.br/judge/pt/problems/view/1053) - Desenho Contínuo
@@ -271,6 +271,10 @@
   - [ ]  [3243](https://www.urionlinejudge.com.br/judge/pt/problems/view/3243) - Poderes de Poliminó
   - [ ]  [3246](https://www.urionlinejudge.com.br/judge/pt/problems/view/3246) - Em torno da pista
   - [ ]  [3247](https://www.urionlinejudge.com.br/judge/pt/problems/view/3247) - Robôs em uma Grade
+  - [ ]  [3264](https://www.urionlinejudge.com.br/judge/pt/problems/view/3264) - Pinball
+  - [ ]  [3268](https://www.urionlinejudge.com.br/judge/pt/problems/view/3268) - Lounges da Amanda
+  - [ ]  [3269](https://www.urionlinejudge.com.br/judge/pt/problems/view/3269) - Vigilância de Basin City
+  - [ ]  [3273](https://www.urionlinejudge.com.br/judge/pt/problems/view/3273) - Troca de Partículas
 ## Problemas resolvidos
   - [x]  [2428](https://www.urionlinejudge.com.br/judge/pt/problems/view/2428) - [Capital](https://github.com/potigol/uoj-potigol/blob/master/src/2400/2428.poti)
   - [x]  [2687](https://www.urionlinejudge.com.br/judge/pt/problems/view/2687) - [Dominação Bacteriana](https://github.com/potigol/uoj-potigol/blob/master/src/2600/2687.poti)

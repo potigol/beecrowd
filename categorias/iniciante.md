@@ -1,4 +1,4 @@
-# Iniciante (295 / 323)
+# Iniciante (295 / 325)
 
 ## Problemas não resolvidos
   - [ ]  [2632](https://www.urionlinejudge.com.br/judge/pt/problems/view/2632) - Magic and Sword
@@ -29,6 +29,8 @@
   - [ ]  [3253](https://www.urionlinejudge.com.br/judge/pt/problems/view/3253) - Problemas com o Carro
   - [ ]  [3255](https://www.urionlinejudge.com.br/judge/pt/problems/view/3255) - A Vez to Primo
   - [ ]  [3256](https://www.urionlinejudge.com.br/judge/pt/problems/view/3256) - Divisão Inimiga
+  - [ ]  [3258](https://www.urionlinejudge.com.br/judge/pt/problems/view/3258) - Fervendo Vegetais
+  - [ ]  [3267](https://www.urionlinejudge.com.br/judge/pt/problems/view/3267) - Passeio no Penhasco
 ## Problemas resolvidos
   - [x]  [1000](https://www.urionlinejudge.com.br/judge/pt/problems/view/1000) - [Hello World!](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1000.poti)
   - [x]  [1001](https://www.urionlinejudge.com.br/judge/pt/problems/view/1001) - [Extremamente Básico](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1001.poti)

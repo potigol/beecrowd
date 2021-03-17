@@ -1,4 +1,4 @@
-# Strings (48 / 137)
+# Strings (48 / 140)
 
 ## Problemas não resolvidos
   - [ ]  [1141](https://www.urionlinejudge.com.br/judge/pt/problems/view/1141) - Cultivando Strings
@@ -90,6 +90,9 @@
   - [ ]  [3143](https://www.urionlinejudge.com.br/judge/pt/problems/view/3143) - Fugindo do Celular
   - [ ]  [3159](https://www.urionlinejudge.com.br/judge/pt/problems/view/3159) - Tijolão
   - [ ]  [3180](https://www.urionlinejudge.com.br/judge/pt/problems/view/3180) - Roubo de Código
+  - [ ]  [3261](https://www.urionlinejudge.com.br/judge/pt/problems/view/3261) - Replicação de Vírus
+  - [ ]  [3262](https://www.urionlinejudge.com.br/judge/pt/problems/view/3262) - Timebomb
+  - [ ]  [3275](https://www.urionlinejudge.com.br/judge/pt/problems/view/3275) - Foto de Relógios
 ## Problemas resolvidos
   - [x]  [1024](https://www.urionlinejudge.com.br/judge/pt/problems/view/1024) - [Criptografia](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1024.poti)
   - [x]  [1120](https://www.urionlinejudge.com.br/judge/pt/problems/view/1120) - [Revisão de Contrato](https://github.com/potigol/uoj-potigol/blob/master/src/1100/1120.poti)

@@ -1,4 +1,4 @@
-# Ad-Hoc (117 / 724)
+# Ad-Hoc (117 / 726)
 
 ## Problemas não resolvidos
   - [ ]  [1030](https://www.urionlinejudge.com.br/judge/pt/problems/view/1030) - A Lenda de Flavious Josephus
@@ -608,6 +608,8 @@
   - [ ]  [3240](https://www.urionlinejudge.com.br/judge/pt/problems/view/3240) - Doodling
   - [ ]  [3245](https://www.urionlinejudge.com.br/judge/pt/problems/view/3245) - Horizonte
   - [ ]  [3254](https://www.urionlinejudge.com.br/judge/pt/problems/view/3254) - Espaço Privado
+  - [ ]  [3263](https://www.urionlinejudge.com.br/judge/pt/problems/view/3263) - Apague Com Segurança
+  - [ ]  [3278](https://www.urionlinejudge.com.br/judge/pt/problems/view/3278) - Passageiros de Trem
 ## Problemas resolvidos
   - [x]  [1026](https://www.urionlinejudge.com.br/judge/pt/problems/view/1026) - [Carrega ou não Carrega?](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1026.poti)
   - [x]  [1087](https://www.urionlinejudge.com.br/judge/pt/problems/view/1087) - [Dama](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1087.poti)

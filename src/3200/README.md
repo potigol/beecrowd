@@ -51,34 +51,34 @@
   - [ ]  [3248](https://www.urionlinejudge.com.br/judge/pt/problems/view/3248) - Mega Inversões *Estruturas e Bibliotecas*
   - [ ]  [3249](https://www.urionlinejudge.com.br/judge/pt/problems/view/3249) - Death Knight Hero *Iniciante*
   - [ ]  [3250](https://www.urionlinejudge.com.br/judge/pt/problems/view/3250) - Problema no Elevador *Iniciante*
-  - [ ]  [3251](https://www.urionlinejudge.com.br/judge/pt/problems/view/3251) - ls *Paradigmas*
+  - [x]  [3251](https://www.urionlinejudge.com.br/judge/pt/problems/view/3251) - [ls](https://github.com/potigol/uoj-potigol/blob/master/src/3200/3251.poti) *Paradigmas*
   - [ ]  [3252](https://www.urionlinejudge.com.br/judge/pt/problems/view/3252) - Reus da Floresta *Iniciante*
   - [ ]  [3253](https://www.urionlinejudge.com.br/judge/pt/problems/view/3253) - Problemas com o Carro *Iniciante*
   - [ ]  [3254](https://www.urionlinejudge.com.br/judge/pt/problems/view/3254) - Espaço Privado *Ad-Hoc*
   - [ ]  [3255](https://www.urionlinejudge.com.br/judge/pt/problems/view/3255) - A Vez to Primo *Iniciante*
   - [ ]  [3256](https://www.urionlinejudge.com.br/judge/pt/problems/view/3256) - Divisão Inimiga *Iniciante*
-  - [ ] ~~3257~~
-  - [ ] ~~3258~~
-  - [ ] ~~3259~~
-  - [ ] ~~3260~~
-  - [ ] ~~3261~~
-  - [ ] ~~3262~~
-  - [ ] ~~3263~~
-  - [ ] ~~3264~~
-  - [ ] ~~3265~~
-  - [ ] ~~3266~~
-  - [ ] ~~3267~~
-  - [ ] ~~3268~~
-  - [ ] ~~3269~~
-  - [ ] ~~3270~~
-  - [ ] ~~3271~~
-  - [ ] ~~3272~~
-  - [ ] ~~3273~~
-  - [ ] ~~3274~~
-  - [ ] ~~3275~~
-  - [ ] ~~3276~~
-  - [ ] ~~3277~~
-  - [ ] ~~3278~~
+  - [ ]  [3257](https://www.urionlinejudge.com.br/judge/pt/problems/view/3257) - Plantando Árvores *Matemática*
+  - [ ]  [3258](https://www.urionlinejudge.com.br/judge/pt/problems/view/3258) - Fervendo Vegetais *Iniciante*
+  - [ ]  [3259](https://www.urionlinejudge.com.br/judge/pt/problems/view/3259) - Truque Numérico *Matemática*
+  - [ ]  [3260](https://www.urionlinejudge.com.br/judge/pt/problems/view/3260) - Robert Hood *Geometria Computacional*
+  - [ ]  [3261](https://www.urionlinejudge.com.br/judge/pt/problems/view/3261) - Replicação de Vírus *Strings*
+  - [ ]  [3262](https://www.urionlinejudge.com.br/judge/pt/problems/view/3262) - Timebomb *Strings*
+  - [ ]  [3263](https://www.urionlinejudge.com.br/judge/pt/problems/view/3263) - Apague Com Segurança *Ad-Hoc*
+  - [ ]  [3264](https://www.urionlinejudge.com.br/judge/pt/problems/view/3264) - Pinball *Grafos*
+  - [ ]  [3265](https://www.urionlinejudge.com.br/judge/pt/problems/view/3265) - Reconstrução de Dança *Matemática*
+  - [ ]  [3266](https://www.urionlinejudge.com.br/judge/pt/problems/view/3266) - Dartboard *Matemática*
+  - [ ]  [3267](https://www.urionlinejudge.com.br/judge/pt/problems/view/3267) - Passeio no Penhasco *Iniciante*
+  - [ ]  [3268](https://www.urionlinejudge.com.br/judge/pt/problems/view/3268) - Lounges da Amanda *Grafos*
+  - [ ]  [3269](https://www.urionlinejudge.com.br/judge/pt/problems/view/3269) - Vigilância de Basin City *Grafos*
+  - [ ]  [3270](https://www.urionlinejudge.com.br/judge/pt/problems/view/3270) - Praça Catalã *Matemática*
+  - [ ]  [3271](https://www.urionlinejudge.com.br/judge/pt/problems/view/3271) - Jogo de Dados *Matemática*
+  - [ ]  [3272](https://www.urionlinejudge.com.br/judge/pt/problems/view/3272) - Cerimônia de Abertura *Matemática*
+  - [ ]  [3273](https://www.urionlinejudge.com.br/judge/pt/problems/view/3273) - Troca de Partículas *Grafos*
+  - [ ]  [3274](https://www.urionlinejudge.com.br/judge/pt/problems/view/3274) - Excursão *Paradigmas*
+  - [ ]  [3275](https://www.urionlinejudge.com.br/judge/pt/problems/view/3275) - Foto de Relógios *Strings*
+  - [ ]  [3276](https://www.urionlinejudge.com.br/judge/pt/problems/view/3276) - Quantos Quadrados? *Matemática*
+  - [ ]  [3277](https://www.urionlinejudge.com.br/judge/pt/problems/view/3277) - Trabalho na Estrada *Paradigmas*
+  - [ ]  [3278](https://www.urionlinejudge.com.br/judge/pt/problems/view/3278) - Passageiros de Trem *Ad-Hoc*
   - [ ] ~~3279~~
   - [ ] ~~3280~~
   - [ ] ~~3281~~
