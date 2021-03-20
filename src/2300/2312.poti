@@ -1,0 +1,17 @@
+tipo Pais = (Texto, Inteiro, Inteiro, Inteiro)
+comparar = (a, b: Pais) =>
+  se a.segundo <> b.segundo entao
+    a.segundo > b.segundo
+  senaose a.terceiro <> b.terceiro entao
+    a.terceiro > b.terceiro
+  senaose a.quarto <> b.quarto entao
+    a.quarto > b.quarto
+  senao
+    a.primeiro < b.primeiro
+  fim
+
+n = leia_inteiro
+paises = Lista(n, leia_textos(" "))
+   .mapeie(a => (a[1], a[2].inteiro, a[3].inteiro, a[4].inteiro))
+ordem = paises.ordene(comparar)
+escreva ordem.mapeie(a => "{a.primeiro} {a.segundo} {a.terceiro} {a.quarto}").junte("\n")

@@ -1,4 +1,4 @@
-# Ad-Hoc (117 / 726)
+# Ad-Hoc (118 / 726)
 
 ## Problemas não resolvidos
   - [ ]  [1030](https://www.urionlinejudge.com.br/judge/pt/problems/view/1030) - A Lenda de Flavious Josephus
@@ -313,7 +313,6 @@
   - [ ]  [2307](https://www.urionlinejudge.com.br/judge/pt/problems/view/2307) - Jogo de Cartas
   - [ ]  [2308](https://www.urionlinejudge.com.br/judge/pt/problems/view/2308) - Museu
   - [ ]  [2309](https://www.urionlinejudge.com.br/judge/pt/problems/view/2309) - Truco
-  - [ ]  [2312](https://www.urionlinejudge.com.br/judge/pt/problems/view/2312) - Quadro De Medalhas
   - [ ]  [2315](https://www.urionlinejudge.com.br/judge/pt/problems/view/2315) - Diferença Fácil Entre Datas
   - [ ]  [2316](https://www.urionlinejudge.com.br/judge/pt/problems/view/2316) - Autorama
   - [ ]  [2317](https://www.urionlinejudge.com.br/judge/pt/problems/view/2317) - Lobo Mau
@@ -654,6 +653,7 @@
   - [x]  [2251](https://www.urionlinejudge.com.br/judge/pt/problems/view/2251) - [Torres de Hanói](https://github.com/potigol/uoj-potigol/blob/master/src/2200/2251.poti)
   - [x]  [2293](https://www.urionlinejudge.com.br/judge/pt/problems/view/2293) - [Campo de Minhocas](https://github.com/potigol/uoj-potigol/blob/master/src/2200/2293.poti)
   - [x]  [2295](https://www.urionlinejudge.com.br/judge/pt/problems/view/2295) - [Frota de Táxi](https://github.com/potigol/uoj-potigol/blob/master/src/2200/2295.poti)
+  - [x]  [2312](https://www.urionlinejudge.com.br/judge/pt/problems/view/2312) - [Quadro De Medalhas](https://github.com/potigol/uoj-potigol/blob/master/src/2300/2312.poti)
   - [x]  [2328](https://www.urionlinejudge.com.br/judge/pt/problems/view/2328) - [Chocolate](https://github.com/potigol/uoj-potigol/blob/master/src/2300/2328.poti)
   - [x]  [2339](https://www.urionlinejudge.com.br/judge/pt/problems/view/2339) - [Aviões de Papel](https://github.com/potigol/uoj-potigol/blob/master/src/2300/2339.poti)
   - [x]  [2342](https://www.urionlinejudge.com.br/judge/pt/problems/view/2342) - [Overflow](https://github.com/potigol/uoj-potigol/blob/master/src/2300/2342.poti)

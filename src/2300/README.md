@@ -12,7 +12,7 @@
   - [ ]  [2309](https://www.urionlinejudge.com.br/judge/pt/problems/view/2309) - Truco *Ad-Hoc*
   - [x]  [2310](https://www.urionlinejudge.com.br/judge/pt/problems/view/2310) - [Voleibol](https://github.com/potigol/uoj-potigol/blob/master/src/2300/2310.poti) *Iniciante*
   - [x]  [2311](https://www.urionlinejudge.com.br/judge/pt/problems/view/2311) - [Saltos Ornamentais](https://github.com/potigol/uoj-potigol/blob/master/src/2300/2311.poti) *Iniciante*
-  - [ ]  [2312](https://www.urionlinejudge.com.br/judge/pt/problems/view/2312) - Quadro De Medalhas *Ad-Hoc*
+  - [x]  [2312](https://www.urionlinejudge.com.br/judge/pt/problems/view/2312) - [Quadro De Medalhas](https://github.com/potigol/uoj-potigol/blob/master/src/2300/2312.poti) *Ad-Hoc*
   - [x]  [2313](https://www.urionlinejudge.com.br/judge/pt/problems/view/2313) - [Qual Triângulo](https://github.com/potigol/uoj-potigol/blob/master/src/2300/2313.poti) *Iniciante*
   - [ ]  [2314](https://www.urionlinejudge.com.br/judge/pt/problems/view/2314) - Indentador *Strings*
   - [ ]  [2315](https://www.urionlinejudge.com.br/judge/pt/problems/view/2315) - Diferença Fácil Entre Datas *Ad-Hoc*

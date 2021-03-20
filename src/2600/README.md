@@ -93,7 +93,7 @@
   - [x]  [2690](https://www.urionlinejudge.com.br/judge/pt/problems/view/2690) - [Nova Senha RA](https://github.com/potigol/uoj-potigol/blob/master/src/2600/2690.poti) *Strings*
   - [x]  [2691](https://www.urionlinejudge.com.br/judge/pt/problems/view/2691) - [O Matemático](https://github.com/potigol/uoj-potigol/blob/master/src/2600/2691.poti) *Strings*
   - [ ]  [2692](https://www.urionlinejudge.com.br/judge/pt/problems/view/2692) - Teclado Zoeiro *Strings*
-  - [ ]  [2693](https://www.urionlinejudge.com.br/judge/pt/problems/view/2693) - Van *Estruturas e Bibliotecas*
+  - [x]  [2693](https://www.urionlinejudge.com.br/judge/pt/problems/view/2693) - [Van](https://github.com/potigol/uoj-potigol/blob/master/src/2600/2693.poti) *Estruturas e Bibliotecas*
   - [x]  [2694](https://www.urionlinejudge.com.br/judge/pt/problems/view/2694) - [Problema com a Calculadora](https://github.com/potigol/uoj-potigol/blob/master/src/2600/2694.poti) *Strings*
   - [ ]  [2695](https://www.urionlinejudge.com.br/judge/pt/problems/view/2695) - Arrumando Lajotas *Geometria Computacional*
   - [ ] ~~2696~~

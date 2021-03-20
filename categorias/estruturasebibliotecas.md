@@ -1,4 +1,4 @@
-# Estruturas e Bibliotecas (17 / 178)
+# Estruturas e Bibliotecas (18 / 178)
 
 ## Problemas não resolvidos
   - [ ]  [1023](https://www.urionlinejudge.com.br/judge/pt/problems/view/1023) - Estiagem
@@ -123,7 +123,6 @@
   - [ ]  [2656](https://www.urionlinejudge.com.br/judge/pt/problems/view/2656) - Rhombus
   - [ ]  [2658](https://www.urionlinejudge.com.br/judge/pt/problems/view/2658) - Acordes Intergaláticos
   - [ ]  [2671](https://www.urionlinejudge.com.br/judge/pt/problems/view/2671) - Decodificando o Texto
-  - [ ]  [2693](https://www.urionlinejudge.com.br/judge/pt/problems/view/2693) - Van
   - [ ]  [2698](https://www.urionlinejudge.com.br/judge/pt/problems/view/2698) - Dispositivo Assombrado
   - [ ]  [2700](https://www.urionlinejudge.com.br/judge/pt/problems/view/2700) - Angariando Fundos
   - [ ]  [2720](https://www.urionlinejudge.com.br/judge/pt/problems/view/2720) - Presentes Grandes
@@ -177,6 +176,7 @@
   - [x]  [2091](https://www.urionlinejudge.com.br/judge/pt/problems/view/2091) - [Número Solitário](https://github.com/potigol/uoj-potigol/blob/master/src/2000/2091.poti)
   - [x]  [2338](https://www.urionlinejudge.com.br/judge/pt/problems/view/2338) - [Morse](https://github.com/potigol/uoj-potigol/blob/master/src/2300/2338.poti)
   - [x]  [2496](https://www.urionlinejudge.com.br/judge/pt/problems/view/2496) - [A Única Chance](https://github.com/potigol/uoj-potigol/blob/master/src/2400/2496.poti)
+  - [x]  [2693](https://www.urionlinejudge.com.br/judge/pt/problems/view/2693) - [Van](https://github.com/potigol/uoj-potigol/blob/master/src/2600/2693.poti)
   - [x]  [2729](https://www.urionlinejudge.com.br/judge/pt/problems/view/2729) - [Lista de Compras](https://github.com/potigol/uoj-potigol/blob/master/src/2700/2729.poti)
   - [x]  [2872](https://www.urionlinejudge.com.br/judge/pt/problems/view/2872) - [Protocolo TCP/IP](https://github.com/potigol/uoj-potigol/blob/master/src/2800/2872.poti)
   - [x]  [2984](https://www.urionlinejudge.com.br/judge/pt/problems/view/2984) - [Assuntos Pendentes](https://github.com/potigol/uoj-potigol/blob/master/src/2900/2984.poti)
