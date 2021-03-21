@@ -1,3 +1,7 @@
+---
+sort: 8 # follow a certain sequence of letters or numbers
+---
+
 # Geometria Computacional (3 / 81)
 
 ## Problemas não resolvidos

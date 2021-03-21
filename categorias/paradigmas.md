@@ -1,3 +1,7 @@
+---
+sort: 6 # follow a certain sequence of letters or numbers
+---
+
 # Paradigmas (3 / 212)
 
 ## Problemas não resolvidos

@@ -1,3 +1,7 @@
+---
+sort: 3 # follow a certain sequence of letters or numbers
+---
+
 # Strings (48 / 140)
 
 ## Problemas não resolvidos

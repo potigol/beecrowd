@@ -1,3 +1,7 @@
+---
+sort: 7 # follow a certain sequence of letters or numbers
+---
+
 # Grafos (3 / 277)
 
 ## Problemas não resolvidos

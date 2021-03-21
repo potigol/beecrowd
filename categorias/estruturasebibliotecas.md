@@ -1,3 +1,7 @@
+---
+sort: 4 # follow a certain sequence of letters or numbers
+---
+
 # Estruturas e Bibliotecas (18 / 178)
 
 ## Problemas não resolvidos
