@@ -1,1 +1,3 @@
-theme: jekyll-theme-leap-day
+remote_theme: rundocs/jekyll-rtd-theme
+
+#theme: jekyll-theme-leap-day
