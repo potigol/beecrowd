@@ -1,6 +1,9 @@
+---
+show: no
+sort: 1 # follow a certain sequence of letters or numbers
+---
+
 # Olimpiada Brasileira de Informática
-
-
 
 ## 2019
 

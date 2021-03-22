@@ -48,13 +48,6 @@ Soluções dos problemas do [URI Online Judge](https://www.urionlinejudge.com.br
 [3100 ...](src/3100)
 [3200 ...](src/3200)
 
-{% gist ebc49e47e8d84df3fe8a2c8944a022445eefdfb6 %}
-
-{% gist ebc49e47e8d84df3fe8a2c8944a022445eefdfb6 /src/2400/2414.poti %}
-
-{% gist ebc49e47e8d84df3fe8a2c8944a022445eefdfb6 src/2400/2414.poti %}
-
-
 ## Quer ajudar?
 
 Escolha um problema ainda não reolvido e envie sua solução pelo github.
