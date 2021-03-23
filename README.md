@@ -52,7 +52,6 @@ Soluções dos problemas do [URI Online Judge](https://www.urionlinejudge.com.br
 
 Escolha um problema ainda não reolvido e envie sua solução pelo github.
 
-
  - Faça o download da linguagem Potigol http://potigol.github.io
  - Faça um fork deste projeto https://github.com/potigol/URI-Potigol
  - Escolha e resolva algum problema ainda não resolvido
@@ -60,5 +59,3 @@ Escolha um problema ainda não reolvido e envie sua solução pelo github.
  - Coloque o seu código na pasta correspondente https://github.com/potigol/URI-Potigol/tree/master/src
  - **OPCIONAL** Teste a sua solução no URI Online Judge usando o script [Potigol2Scala](https://github.com/potigol/potigol2scala)
  - Faça um pull request
-
-<a href="resolvidos">.</a>

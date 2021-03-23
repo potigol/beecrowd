@@ -1,10 +1,13 @@
----
-sort: 6 # follow a certain sequence of letters or numbers
----
-
 # Paradigmas (3 / 212)
 
+
+## Problemas resolvidos
+
+  - [x]  [1029](https://www.urionlinejudge.com.br/judge/pt/problems/view/1029) - [Fibonacci, Quantas Chamadas?](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1029.poti)
+  - [x]  [1084](https://www.urionlinejudge.com.br/judge/pt/problems/view/1084) - [Apagando e Ganhando](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1084.poti)
+  - [x]  [3251](https://www.urionlinejudge.com.br/judge/pt/problems/view/3251) - [ls](https://github.com/potigol/uoj-potigol/blob/master/src/3200/3251.poti)
 ## Problemas não resolvidos
+
   - [ ]  [1027](https://www.urionlinejudge.com.br/judge/pt/problems/view/1027) - Onda Crítica
   - [ ]  [1033](https://www.urionlinejudge.com.br/judge/pt/problems/view/1033) - Quantas Chamadas Recursivas?
   - [ ]  [1034](https://www.urionlinejudge.com.br/judge/pt/problems/view/1034) - Festival de Estátuas de Gelo
@@ -214,7 +217,3 @@ sort: 6 # follow a certain sequence of letters or numbers
   - [ ]  [3196](https://www.urionlinejudge.com.br/judge/pt/problems/view/3196) - Moogle
   - [ ]  [3274](https://www.urionlinejudge.com.br/judge/pt/problems/view/3274) - Excursão
   - [ ]  [3277](https://www.urionlinejudge.com.br/judge/pt/problems/view/3277) - Trabalho na Estrada
-## Problemas resolvidos
-  - [x]  [1029](https://www.urionlinejudge.com.br/judge/pt/problems/view/1029) - [Fibonacci, Quantas Chamadas?](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1029.poti)
-  - [x]  [1084](https://www.urionlinejudge.com.br/judge/pt/problems/view/1084) - [Apagando e Ganhando](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1084.poti)
-  - [x]  [3251](https://www.urionlinejudge.com.br/judge/pt/problems/view/3251) - [ls](https://github.com/potigol/uoj-potigol/blob/master/src/3200/3251.poti)

@@ -1,41 +1,8 @@
----
-sort: 1 # follow a certain sequence of letters or numbers
----
-
 # Iniciante (295 / 325)
 
-## Problemas não resolvidos
-  - [ ]  [2632](https://www.urionlinejudge.com.br/judge/pt/problems/view/2632) - Magic and Sword
-  - [ ]  [2699](https://www.urionlinejudge.com.br/judge/pt/problems/view/2699) - Enigma
-  - [ ]  [2715](https://www.urionlinejudge.com.br/judge/pt/problems/view/2715) - Dividindo os Trabalhos I
-  - [ ]  [2758](https://www.urionlinejudge.com.br/judge/pt/problems/view/2758) - Entrada e Saída de Números Reais
-  - [ ]  [2769](https://www.urionlinejudge.com.br/judge/pt/problems/view/2769) - Linha de Montagem
-  - [ ]  [2785](https://www.urionlinejudge.com.br/judge/pt/problems/view/2785) - Pirâmide
-  - [ ]  [3162](https://www.urionlinejudge.com.br/judge/pt/problems/view/3162) - Comunicação Espacial
-  - [ ]  [3164](https://www.urionlinejudge.com.br/judge/pt/problems/view/3164) - Fiscalizando Empresa
-  - [ ]  [3166](https://www.urionlinejudge.com.br/judge/pt/problems/view/3166) - Procurando Palavras na Diagonal Principal
-  - [ ]  [3167](https://www.urionlinejudge.com.br/judge/pt/problems/view/3167) - Procurando Palavras na Diagonal Secundária
-  - [ ]  [3170](https://www.urionlinejudge.com.br/judge/pt/problems/view/3170) - Bolinhas de Natal
-  - [ ]  [3173](https://www.urionlinejudge.com.br/judge/pt/problems/view/3173) - Estrela de Natal
-  - [ ]  [3174](https://www.urionlinejudge.com.br/judge/pt/problems/view/3174) - Grupo de Trabalho do Noel
-  - [ ]  [3181](https://www.urionlinejudge.com.br/judge/pt/problems/view/3181) - Jantar
-  - [ ]  [3197](https://www.urionlinejudge.com.br/judge/pt/problems/view/3197) - Shoot-out
-  - [ ]  [3204](https://www.urionlinejudge.com.br/judge/pt/problems/view/3204) - Honeycomb Walk
-  - [ ]  [3208](https://www.urionlinejudge.com.br/judge/pt/problems/view/3208) - O Criptógrafo Envergonhado
-  - [ ]  [3217](https://www.urionlinejudge.com.br/judge/pt/problems/view/3217) - Chuva Caindo
-  - [ ]  [3231](https://www.urionlinejudge.com.br/judge/pt/problems/view/3231) - Horror List
-  - [ ]  [3232](https://www.urionlinejudge.com.br/judge/pt/problems/view/3232) - Infiltration
-  - [ ]  [3234](https://www.urionlinejudge.com.br/judge/pt/problems/view/3234) - Kindergarten
-  - [ ]  [3235](https://www.urionlinejudge.com.br/judge/pt/problems/view/3235) - Luggage
-  - [ ]  [3249](https://www.urionlinejudge.com.br/judge/pt/problems/view/3249) - Death Knight Hero
-  - [ ]  [3250](https://www.urionlinejudge.com.br/judge/pt/problems/view/3250) - Problema no Elevador
-  - [ ]  [3252](https://www.urionlinejudge.com.br/judge/pt/problems/view/3252) - Reus da Floresta
-  - [ ]  [3253](https://www.urionlinejudge.com.br/judge/pt/problems/view/3253) - Problemas com o Carro
-  - [ ]  [3255](https://www.urionlinejudge.com.br/judge/pt/problems/view/3255) - A Vez to Primo
-  - [ ]  [3256](https://www.urionlinejudge.com.br/judge/pt/problems/view/3256) - Divisão Inimiga
-  - [ ]  [3258](https://www.urionlinejudge.com.br/judge/pt/problems/view/3258) - Fervendo Vegetais
-  - [ ]  [3267](https://www.urionlinejudge.com.br/judge/pt/problems/view/3267) - Passeio no Penhasco
+
 ## Problemas resolvidos
+
   - [x]  [1000](https://www.urionlinejudge.com.br/judge/pt/problems/view/1000) - [Hello World!](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1000.poti)
   - [x]  [1001](https://www.urionlinejudge.com.br/judge/pt/problems/view/1001) - [Extremamente Básico](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1001.poti)
   - [x]  [1002](https://www.urionlinejudge.com.br/judge/pt/problems/view/1002) - [Área do Círculo](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1002.poti)
@@ -331,3 +298,35 @@ sort: 1 # follow a certain sequence of letters or numbers
   - [x]  [3214](https://www.urionlinejudge.com.br/judge/pt/problems/view/3214) - [Refrigerante](https://github.com/potigol/uoj-potigol/blob/master/src/3200/3214.poti)
   - [x]  [3224](https://www.urionlinejudge.com.br/judge/pt/problems/view/3224) - [Aaah!](https://github.com/potigol/uoj-potigol/blob/master/src/3200/3224.poti)
   - [x]  [3241](https://www.urionlinejudge.com.br/judge/pt/problems/view/3241) - [Ajude um candidato a PhD!](https://github.com/potigol/uoj-potigol/blob/master/src/3200/3241.poti)
+## Problemas não resolvidos
+
+  - [ ]  [2632](https://www.urionlinejudge.com.br/judge/pt/problems/view/2632) - Magic and Sword
+  - [ ]  [2699](https://www.urionlinejudge.com.br/judge/pt/problems/view/2699) - Enigma
+  - [ ]  [2715](https://www.urionlinejudge.com.br/judge/pt/problems/view/2715) - Dividindo os Trabalhos I
+  - [ ]  [2758](https://www.urionlinejudge.com.br/judge/pt/problems/view/2758) - Entrada e Saída de Números Reais
+  - [ ]  [2769](https://www.urionlinejudge.com.br/judge/pt/problems/view/2769) - Linha de Montagem
+  - [ ]  [2785](https://www.urionlinejudge.com.br/judge/pt/problems/view/2785) - Pirâmide
+  - [ ]  [3162](https://www.urionlinejudge.com.br/judge/pt/problems/view/3162) - Comunicação Espacial
+  - [ ]  [3164](https://www.urionlinejudge.com.br/judge/pt/problems/view/3164) - Fiscalizando Empresa
+  - [ ]  [3166](https://www.urionlinejudge.com.br/judge/pt/problems/view/3166) - Procurando Palavras na Diagonal Principal
+  - [ ]  [3167](https://www.urionlinejudge.com.br/judge/pt/problems/view/3167) - Procurando Palavras na Diagonal Secundária
+  - [ ]  [3170](https://www.urionlinejudge.com.br/judge/pt/problems/view/3170) - Bolinhas de Natal
+  - [ ]  [3173](https://www.urionlinejudge.com.br/judge/pt/problems/view/3173) - Estrela de Natal
+  - [ ]  [3174](https://www.urionlinejudge.com.br/judge/pt/problems/view/3174) - Grupo de Trabalho do Noel
+  - [ ]  [3181](https://www.urionlinejudge.com.br/judge/pt/problems/view/3181) - Jantar
+  - [ ]  [3197](https://www.urionlinejudge.com.br/judge/pt/problems/view/3197) - Shoot-out
+  - [ ]  [3204](https://www.urionlinejudge.com.br/judge/pt/problems/view/3204) - Honeycomb Walk
+  - [ ]  [3208](https://www.urionlinejudge.com.br/judge/pt/problems/view/3208) - O Criptógrafo Envergonhado
+  - [ ]  [3217](https://www.urionlinejudge.com.br/judge/pt/problems/view/3217) - Chuva Caindo
+  - [ ]  [3231](https://www.urionlinejudge.com.br/judge/pt/problems/view/3231) - Horror List
+  - [ ]  [3232](https://www.urionlinejudge.com.br/judge/pt/problems/view/3232) - Infiltration
+  - [ ]  [3234](https://www.urionlinejudge.com.br/judge/pt/problems/view/3234) - Kindergarten
+  - [ ]  [3235](https://www.urionlinejudge.com.br/judge/pt/problems/view/3235) - Luggage
+  - [ ]  [3249](https://www.urionlinejudge.com.br/judge/pt/problems/view/3249) - Death Knight Hero
+  - [ ]  [3250](https://www.urionlinejudge.com.br/judge/pt/problems/view/3250) - Problema no Elevador
+  - [ ]  [3252](https://www.urionlinejudge.com.br/judge/pt/problems/view/3252) - Reus da Floresta
+  - [ ]  [3253](https://www.urionlinejudge.com.br/judge/pt/problems/view/3253) - Problemas com o Carro
+  - [ ]  [3255](https://www.urionlinejudge.com.br/judge/pt/problems/view/3255) - A Vez to Primo
+  - [ ]  [3256](https://www.urionlinejudge.com.br/judge/pt/problems/view/3256) - Divisão Inimiga
+  - [ ]  [3258](https://www.urionlinejudge.com.br/judge/pt/problems/view/3258) - Fervendo Vegetais
+  - [ ]  [3267](https://www.urionlinejudge.com.br/judge/pt/problems/view/3267) - Passeio no Penhasco

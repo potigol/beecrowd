@@ -7,7 +7,7 @@ object Build extends App {
 
   def clean(s: String) = s.toLowerCase.filter(p => p >= 'a' && p <= 'z')
 
-    def check(n: Int) = new java.io.File(s"../src/${dir(n)}/${n}.${extension}").exists
+  def check(n: Int) = new java.io.File(s"../src/${dir(n)}/${n}.${extension}").exists
 
   val problems = io.Source.fromFile("problems.txt").getLines().toList
   val a = problems.map { a =>
@@ -84,15 +84,18 @@ object Build extends App {
     val bd = b(d)
     var count = 0
 
-    val f = bd.map {
-      case p if check(p.number) =>
-        count = count + 1
-        s"  - [x]  [${p.number}](${prefix}/${p.number}) - [${p.name}](${code}/${dir(p.number)}/${p.number}.${extension})"
-      case p =>
-        s"  - [ ]  [${p.number}](${prefix}/${p.number}) - ${p.name}"
+    val (f, g) = bd.partition(p => check(p.number))
+    val resolvidos = f.map {p =>
+      s"  - [x]  [${p.number}](${prefix}/${p.number}) - [${p.name}](${code}/${dir(p.number)}/${p.number}.${extension})"
     }.sorted
-    val g = f.mkString("\n").replaceFirst("  \\- \\[x\\]", "## Problemas resolvidos\n  - [x]").replaceFirst("  \\- \\[ \\]", "## Problemas não resolvidos\n  - [ ]")
-    save(s"../categorias/${clean(d)}.md", s"${d} (${count} / ${bd.length})", g)
+
+    val naoresolvidos = g.map {p =>
+      s"  - [ ]  [${p.number}](${prefix}/${p.number}) - ${p.name}"
+    }.sorted
+
+    val h = ("\n## Problemas resolvidos\n" :: resolvidos).mkString("\n") +
+            ("\n## Problemas não resolvidos\n" :: naoresolvidos).mkString("\n")
+    save(s"../categorias/${clean(d)}.md", s"${d} (${resolvidos.length} / ${bd.length})", h)
   }
 
   def getContest(s: String) = io.Source.fromFile(s).getLines().toList.map {
@@ -106,6 +109,6 @@ object Build extends App {
   // Lista por competição
 
   // Principal
-  duasfases("maratona1.txt", "maratona2.txt", "../categorias/maratona.md", "Maratona de Programação")
-  umafase("obi.txt", "../categorias/obi.md", "Olimpiada Brasileira de Informática")
+  duasfases("maratona1.txt", "maratona2.txt", "../competicoes/maratona.md", "Maratona de Programação")
+  umafase("obi.txt", "../competicoes/obi.md", "Olimpiada Brasileira de Informática")
 }

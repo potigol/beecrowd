@@ -1,10 +1,13 @@
----
-sort: 7 # follow a certain sequence of letters or numbers
----
-
 # Grafos (3 / 277)
 
+
+## Problemas resolvidos
+
+  - [x]  [2428](https://www.urionlinejudge.com.br/judge/pt/problems/view/2428) - [Capital](https://github.com/potigol/uoj-potigol/blob/master/src/2400/2428.poti)
+  - [x]  [2687](https://www.urionlinejudge.com.br/judge/pt/problems/view/2687) - [Dominação Bacteriana](https://github.com/potigol/uoj-potigol/blob/master/src/2600/2687.poti)
+  - [x]  [3043](https://www.urionlinejudge.com.br/judge/pt/problems/view/3043) - [Festa Junina](https://github.com/potigol/uoj-potigol/blob/master/src/3000/3043.poti)
 ## Problemas não resolvidos
+
   - [ ]  [1053](https://www.urionlinejudge.com.br/judge/pt/problems/view/1053) - Desenho Contínuo
   - [ ]  [1056](https://www.urionlinejudge.com.br/judge/pt/problems/view/1056) - Fatores e Múltiplos
   - [ ]  [1057](https://www.urionlinejudge.com.br/judge/pt/problems/view/1057) - Chegando Junto
@@ -279,7 +282,3 @@ sort: 7 # follow a certain sequence of letters or numbers
   - [ ]  [3268](https://www.urionlinejudge.com.br/judge/pt/problems/view/3268) - Lounges da Amanda
   - [ ]  [3269](https://www.urionlinejudge.com.br/judge/pt/problems/view/3269) - Vigilância de Basin City
   - [ ]  [3273](https://www.urionlinejudge.com.br/judge/pt/problems/view/3273) - Troca de Partículas
-## Problemas resolvidos
-  - [x]  [2428](https://www.urionlinejudge.com.br/judge/pt/problems/view/2428) - [Capital](https://github.com/potigol/uoj-potigol/blob/master/src/2400/2428.poti)
-  - [x]  [2687](https://www.urionlinejudge.com.br/judge/pt/problems/view/2687) - [Dominação Bacteriana](https://github.com/potigol/uoj-potigol/blob/master/src/2600/2687.poti)
-  - [x]  [3043](https://www.urionlinejudge.com.br/judge/pt/problems/view/3043) - [Festa Junina](https://github.com/potigol/uoj-potigol/blob/master/src/3000/3043.poti)
