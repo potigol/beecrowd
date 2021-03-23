@@ -1,9 +1,9 @@
-# UOJ-Potigol
+# UOJ - Potigol
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#snapshot/71532994-38b7-42ee-a5c1-f0b16d54f762)
 [![Soluções](https://img.shields.io/badge/Problemas%20Resolvidos-534-green)](https://github.com/potigol/URI-Potigol/commits/master)
 
 Soluções dos problemas do [URI Online Judge](https://www.urionlinejudge.com.br/judge/pt/problems/all) usando a linguagem [Potigol](https://potigol.github.io)
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#snapshot/71532994-38b7-42ee-a5c1-f0b16d54f762)
 
 
 ## Problemas por Categoria
@@ -24,36 +24,22 @@ Soluções dos problemas do [URI Online Judge](https://www.urionlinejudge.com.br
 
 ## Problemas
 
-[1000 ...](src/1000)
-[1100 ...](src/1100)
-[1200 ...](src/1200)
-[1300 ...](src/1300)
-[1400 ...](src/1400)
-[1500 ...](src/1500)
-[1600 ...](src/1600)
-[1700 ...](src/1700)
-[1800 ...](src/1800)
-[1900 ...](src/1900)
-[2000 ...](src/2000)
-[2100 ...](src/2100)
-[2200 ...](src/2200)
-[2300 ...](src/2300)
-[2400 ...](src/2400)
-[2500 ...](src/2500)
-[2600 ...](src/2600)
-[2700 ...](src/2700)
-[2800 ...](src/2800)
-[2900 ...](src/2900)
-[3000 ...](src/3000)
-[3100 ...](src/3100)
-[3200 ...](src/3200)
+[1000 ...](src/1000) [1100 ...](src/1100) [1200 ...](src/1200) [1300 ...](src/1300) [1400 ...](src/1400)
+[1500 ...](src/1500) [1600 ...](src/1600) [1700 ...](src/1700) [1800 ...](src/1800) [1900 ...](src/1900)
+[2000 ...](src/2000) [2100 ...](src/2100) [2200 ...](src/2200) [2300 ...](src/2300) [2400 ...](src/2400)
+[2500 ...](src/2500) [2600 ...](src/2600) [2700 ...](src/2700) [2800 ...](src/2800) [2900 ...](src/2900)
+[3000 ...](src/3000) [3100 ...](src/3100) [3200 ...](src/3200)
+
+## Verificação das Soluções
+
+Todas as soluções deste repositório foram submetidas e aceitas no URI Online Judge usando o script [Potigol2Scala](https://github.com/potigol/potigol2scala).
 
 ## Quer ajudar?
 
 Escolha um problema ainda não reolvido e envie sua solução pelo github.
 
  - Faça o download da linguagem Potigol http://potigol.github.io
- - Faça um fork deste projeto https://github.com/potigol/URI-Potigol
+ - Faça um fork deste projeto https://github.com/potigol/uoj-potigol
  - Escolha e resolva algum problema ainda não resolvido
  - Se estiver usando o editor do Potigol aperte ctrl-F para formatar o código
  - Coloque o seu código na pasta correspondente https://github.com/potigol/URI-Potigol/tree/master/src
