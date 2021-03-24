@@ -156,7 +156,7 @@
   - [x]  [2373](https://www.urionlinejudge.com.br/judge/pt/problems/view/2373) - [Garçom](https://github.com/potigol/uoj-potigol/blob/master/src/2300/2373.poti) *Ad-Hoc*
   - [x]  [2374](https://www.urionlinejudge.com.br/judge/pt/problems/view/2374) - [Pneu](https://github.com/potigol/uoj-potigol/blob/master/src/2300/2374.poti) *Ad-Hoc*
   - [x]  [2375](https://www.urionlinejudge.com.br/judge/pt/problems/view/2375) - [Sedex](https://github.com/potigol/uoj-potigol/blob/master/src/2300/2375.poti) *Ad-Hoc*
-  - [ ]  [2376](https://www.urionlinejudge.com.br/judge/pt/problems/view/2376) - Copa do Mundo *Ad-Hoc*
+  - [x]  [2376](https://www.urionlinejudge.com.br/judge/pt/problems/view/2376) - [Copa do Mundo](https://github.com/potigol/uoj-potigol/blob/master/src/2300/2376.poti) *Ad-Hoc*
   - [x]  [2377](https://www.urionlinejudge.com.br/judge/pt/problems/view/2377) - [Pedágio](https://github.com/potigol/uoj-potigol/blob/master/src/2300/2377.poti) *Ad-Hoc*
   - [x]  [2378](https://www.urionlinejudge.com.br/judge/pt/problems/view/2378) - [Elevador](https://github.com/potigol/uoj-potigol/blob/master/src/2300/2378.poti) *Ad-Hoc*
   - [ ]  [2379](https://www.urionlinejudge.com.br/judge/pt/problems/view/2379) - Dança Indígena *Ad-Hoc*

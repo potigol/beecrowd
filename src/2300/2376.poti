@@ -1,0 +1,22 @@
+jogos = para i de 1 ate 15 gere
+  a = leia_inteiros(" ")
+  a[1] > a[2]
+fim
+
+jogo1 =
+  se jogos[15] entao
+    se jogos[13] entao
+      se jogos[9] entao 1 senao 2 fim
+    senao
+      se jogos[10] entao 3 senao 4 fim
+    fim
+  senao
+    se jogos[14] entao
+      se jogos[11] entao 5 senao 6 fim
+    senao
+      se jogos[12] entao 7 senao 8 fim
+    fim
+  fim
+
+campeao = se jogos[jogo1] entao jogo1 * 2 - 1 senao jogo1 * 2 fim
+escreva "ABCDEFGHIJKLMNOP"[campeao]

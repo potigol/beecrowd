@@ -1,0 +1,20 @@
+comp = (a, b: (Texto, Texto, Texto)) =>
+  se a.segundo <> b.segundo entao
+    a.segundo < b.segundo
+  senaose a.terceiro <> b.terceiro
+    a.terceiro > b.terceiro
+  senao
+    a.primeiro < b.primeiro
+  fim
+
+var n := leia_inteiro
+enquanto n > 0 faca
+  camisetas = Lista(n, (leia_texto, leia_texto.divida(" ")))
+      .mapeie(a => (a.primeiro, a.segundo[1], a.segundo[2]))
+      .ordene(comp)
+  para camiseta em camisetas faca
+    escreva "{camiseta.segundo} {camiseta.terceiro} {camiseta.primeiro}"
+  fim
+  n := leia_inteiro
+  se n > 0 entao escreva "" fim
+fim

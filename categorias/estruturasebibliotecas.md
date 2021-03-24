@@ -1,4 +1,4 @@
-# Estruturas e Bibliotecas (18 / 178)
+# Estruturas e Bibliotecas (19 / 178)
 
 
 ## Problemas resolvidos
@@ -9,6 +9,7 @@
   - [x]  [1110](https://www.urionlinejudge.com.br/judge/pt/problems/view/1110) - [Jogando Cartas Fora](https://github.com/potigol/uoj-potigol/blob/master/src/1100/1110.poti)
   - [x]  [1244](https://www.urionlinejudge.com.br/judge/pt/problems/view/1244) - [Ordenação por Tamanho](https://github.com/potigol/uoj-potigol/blob/master/src/1200/1244.poti)
   - [x]  [1251](https://www.urionlinejudge.com.br/judge/pt/problems/view/1251) - [Diga-me a Frequência](https://github.com/potigol/uoj-potigol/blob/master/src/1200/1251.poti)
+  - [x]  [1258](https://www.urionlinejudge.com.br/judge/pt/problems/view/1258) - [Camisetas](https://github.com/potigol/uoj-potigol/blob/master/src/1200/1258.poti)
   - [x]  [1259](https://www.urionlinejudge.com.br/judge/pt/problems/view/1259) - [Pares e Ímpares](https://github.com/potigol/uoj-potigol/blob/master/src/1200/1259.poti)
   - [x]  [1430](https://www.urionlinejudge.com.br/judge/pt/problems/view/1430) - [Composição de Jingles](https://github.com/potigol/uoj-potigol/blob/master/src/1400/1430.poti)
   - [x]  [1548](https://www.urionlinejudge.com.br/judge/pt/problems/view/1548) - [Fila do Recreio](https://github.com/potigol/uoj-potigol/blob/master/src/1500/1548.poti)
@@ -40,7 +41,6 @@
   - [ ]  [1242](https://www.urionlinejudge.com.br/judge/pt/problems/view/1242) - Ácido Ribonucleico Alienígena
   - [ ]  [1252](https://www.urionlinejudge.com.br/judge/pt/problems/view/1252) - Sort! Sort!! e Sort!!!
   - [ ]  [1256](https://www.urionlinejudge.com.br/judge/pt/problems/view/1256) - Tabelas Hash
-  - [ ]  [1258](https://www.urionlinejudge.com.br/judge/pt/problems/view/1258) - Camisetas
   - [ ]  [1260](https://www.urionlinejudge.com.br/judge/pt/problems/view/1260) - Espécies de Madeira
   - [ ]  [1261](https://www.urionlinejudge.com.br/judge/pt/problems/view/1261) - Pontos de Feno
   - [ ]  [1274](https://www.urionlinejudge.com.br/judge/pt/problems/view/1274) - P-Networks

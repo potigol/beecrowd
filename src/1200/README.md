@@ -58,7 +58,7 @@
   - [x]  [1255](https://www.urionlinejudge.com.br/judge/pt/problems/view/1255) - [Frequência de Letras](https://github.com/potigol/uoj-potigol/blob/master/src/1200/1255.poti) *Strings*
   - [ ]  [1256](https://www.urionlinejudge.com.br/judge/pt/problems/view/1256) - Tabelas Hash *Estruturas e Bibliotecas*
   - [x]  [1257](https://www.urionlinejudge.com.br/judge/pt/problems/view/1257) - [Array Hash](https://github.com/potigol/uoj-potigol/blob/master/src/1200/1257.poti) *Strings*
-  - [ ]  [1258](https://www.urionlinejudge.com.br/judge/pt/problems/view/1258) - Camisetas *Estruturas e Bibliotecas*
+  - [x]  [1258](https://www.urionlinejudge.com.br/judge/pt/problems/view/1258) - [Camisetas](https://github.com/potigol/uoj-potigol/blob/master/src/1200/1258.poti) *Estruturas e Bibliotecas*
   - [x]  [1259](https://www.urionlinejudge.com.br/judge/pt/problems/view/1259) - [Pares e Ímpares](https://github.com/potigol/uoj-potigol/blob/master/src/1200/1259.poti) *Estruturas e Bibliotecas*
   - [ ]  [1260](https://www.urionlinejudge.com.br/judge/pt/problems/view/1260) - Espécies de Madeira *Estruturas e Bibliotecas*
   - [ ]  [1261](https://www.urionlinejudge.com.br/judge/pt/problems/view/1261) - Pontos de Feno *Estruturas e Bibliotecas*
