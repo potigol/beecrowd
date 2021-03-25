@@ -1,10 +1,10 @@
 n = leia_inteiro
 a = leia_inteiros(" ")
-matriz = Lista.imutavel(n, leia_inteiros(" "))
-marcado = Matriz.mutavel(n, n, falso)
+matriz = Lista(n, leia_inteiros(" "))
+var marcado = Lista(n, Lista(n, falso))
 var bandeiras := 0
 
-marcar(x, y: Inteiro): Unit
+marcar(x, y: Inteiro): Nada
   marcado[x][y] := verdadeiro
   bandeiras := bandeiras + 1
   vizinhos = [(x - 1, y), (x + 1, y), (x, y - 1), (x, y + 1)]

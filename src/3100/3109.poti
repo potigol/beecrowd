@@ -1,5 +1,5 @@
 n, q = leia_inteiro
-var emp := para i de 1 ate n gere i fim.mutavel
+var emp := para i de 1 ate n gere i fim
 para i de 1 ate q faca
   f = leia_inteiros(" ")
   se f[1] == 1 entao

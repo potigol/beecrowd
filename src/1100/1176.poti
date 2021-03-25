@@ -1,4 +1,4 @@
-fib = Lista.mutavel(61, BigInt(0))
+var fib = Lista(61, BigInt(0))
 fib[2] := 1
 para i de 3 até 61 faça
   fib[i] := fib[i-2] + fib[i-1]

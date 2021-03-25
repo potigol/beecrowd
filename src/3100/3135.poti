@@ -1,6 +1,6 @@
 n = leia_inteiro
 vazia = Lista(0, "")
-var nomes = Lista.mutavel(20, vazia)
+var nomes = Lista(20, vazia)
 para i de 1 ate n faca
   nome = leia_texto
   t = nome.tamanho
