@@ -1,4 +1,4 @@
-# Matemática (46 / 264)
+# Matemática (47 / 264)
 
 
 ## Problemas resolvidos
@@ -21,6 +21,7 @@
   - [x]  [1555](https://www.urionlinejudge.com.br/judge/pt/problems/view/1555) - [Funções](https://github.com/potigol/uoj-potigol/blob/master/src/1500/1555.poti)
   - [x]  [1582](https://www.urionlinejudge.com.br/judge/pt/problems/view/1582) - [O Teorema de Pitágoras](https://github.com/potigol/uoj-potigol/blob/master/src/1500/1582.poti)
   - [x]  [1585](https://www.urionlinejudge.com.br/judge/pt/problems/view/1585) - [Fazendo Pandorgas](https://github.com/potigol/uoj-potigol/blob/master/src/1500/1585.poti)
+  - [x]  [1630](https://www.urionlinejudge.com.br/judge/pt/problems/view/1630) - [Estacas](https://github.com/potigol/uoj-potigol/blob/master/src/1600/1630.poti)
   - [x]  [1760](https://www.urionlinejudge.com.br/judge/pt/problems/view/1760) - [Floco de Neve de Koch](https://github.com/potigol/uoj-potigol/blob/master/src/1700/1760.poti)
   - [x]  [1761](https://www.urionlinejudge.com.br/judge/pt/problems/view/1761) - [Decoração Natalina](https://github.com/potigol/uoj-potigol/blob/master/src/1700/1761.poti)
   - [x]  [1795](https://www.urionlinejudge.com.br/judge/pt/problems/view/1795) - [Triângulo Trinomial](https://github.com/potigol/uoj-potigol/blob/master/src/1700/1795.poti)
@@ -119,7 +120,6 @@
   - [ ]  [1624](https://www.urionlinejudge.com.br/judge/pt/problems/view/1624) - Promoção
   - [ ]  [1625](https://www.urionlinejudge.com.br/judge/pt/problems/view/1625) - Robocopia
   - [ ]  [1626](https://www.urionlinejudge.com.br/judge/pt/problems/view/1626) - Maratona All FACE
-  - [ ]  [1630](https://www.urionlinejudge.com.br/judge/pt/problems/view/1630) - Estacas
   - [ ]  [1634](https://www.urionlinejudge.com.br/judge/pt/problems/view/1634) - Outra Loteria
   - [ ]  [1635](https://www.urionlinejudge.com.br/judge/pt/problems/view/1635) - Resultado das Eleições
   - [ ]  [1641](https://www.urionlinejudge.com.br/judge/pt/problems/view/1641) - Restaurante e Pizzaria do Alfredo

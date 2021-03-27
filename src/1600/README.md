@@ -30,7 +30,7 @@
   - [ ]  [1627](https://www.urionlinejudge.com.br/judge/pt/problems/view/1627) - Último Dano *Ad-Hoc*
   - [ ]  [1628](https://www.urionlinejudge.com.br/judge/pt/problems/view/1628) - ChessGuess *Grafos*
   - [ ]  [1629](https://www.urionlinejudge.com.br/judge/pt/problems/view/1629) - DescompactaFACE *Strings*
-  - [ ]  [1630](https://www.urionlinejudge.com.br/judge/pt/problems/view/1630) - Estacas *Matemática*
+  - [x]  [1630](https://www.urionlinejudge.com.br/judge/pt/problems/view/1630) - [Estacas](https://github.com/potigol/uoj-potigol/blob/master/src/1600/1630.poti) *Matemática*
   - [ ]  [1631](https://www.urionlinejudge.com.br/judge/pt/problems/view/1631) - O Fantástico Bolo de Bobby *Geometria Computacional*
   - [x]  [1632](https://www.urionlinejudge.com.br/judge/pt/problems/view/1632) - [Variações](https://github.com/potigol/uoj-potigol/blob/master/src/1600/1632.poti) *Strings*
   - [ ]  [1633](https://www.urionlinejudge.com.br/judge/pt/problems/view/1633) - SBC *Estruturas e Bibliotecas*

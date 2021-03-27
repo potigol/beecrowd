@@ -1,5 +1,5 @@
 var n := leia_inteiro
-var g := Matriz.mutável(n, n, "O")
+var g := Lista(n, Lista(n, "O"))
 var x,y := 0, 0
 
 dx = [0,-1,0,1]
@@ -32,14 +32,14 @@ mover(iter : Inteiro, dir : Inteiro)
         senão
             flag := falso
         fim
-        
-    fim 
+
+    fim
     retorne flag
 fim
 
 solução(tm: Inteiro)
-    g := Matriz.mutável(tm, tm, "O")
-    
+    g := Lista(tm, Lista(tm, "O"))
+
     x := (n / 2).inteiro + 1
     y := (n / 2).inteiro + 1
     var iter := 0
@@ -50,7 +50,7 @@ solução(tm: Inteiro)
     var condicao := verdadeiro
     enquanto condicao faça
         iter := iter + 1
-        
+
         se condicao e não(mover(iter, 1)) então
             condicao := falso
         fim

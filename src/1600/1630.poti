@@ -1,0 +1,13 @@
+mdc(x, y: Inteiro): Inteiro =
+  se x > y entao mdc(x mod y, y)
+  senaose x == 0 entao y
+  senao mdc(y mod x, x) fim
+
+var a := leia_texto
+enquanto a <> nulo faca
+  b = a.divida(" ").mapeie(_.inteiro)
+  x, y = b[1], b[2]
+  m = mdc(x, y)
+  escreva 2 * (x+y) div m
+  a := leia_texto
+fim
