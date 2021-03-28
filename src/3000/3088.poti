@@ -1,6 +1,7 @@
 var a := leia_texto
-enquanto a <> None.orNull faca
-  s = (a + "\n").split(" ,").mkString(",").split(" \\.").mkString(".")
-  imprima s
+enquanto a <> "" faca
+  s = a.split(" ,").mkString(",")
+       .split(" \\.").mkString(".")
+  escreva s
   a := leia_texto
 fim

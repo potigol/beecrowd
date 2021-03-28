@@ -22,15 +22,15 @@ natal = [
   ("portugal", "Feliz Natal!"),
   ("siria", "Milad Mubarak!"),
   ("suecia", "God Jul!"),
-  ("turquia", "Mutlu Noeller"),
+  ("turquia", "Mutlu Noeller")
 ]
 
 var pais := leia_texto
-enquanto pais <> None.orNull faca
+enquanto nao eof faca
   x = natal.selecione(a => a.primeiro == pais)
   escolha x
-    caso []    => escreva "--- NOT FOUND ---"
-    caso a::as => escreva a.segundo
+    caso a :: as => escreva a.segundo
+    caso _       => escreva "--- NOT FOUND ---"
   fim
   pais := leia_texto
 fim

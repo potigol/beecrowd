@@ -1,8 +1,7 @@
-var a := leia_texto
-enquanto a <> None.orNull faca
-  b = a.divida(" ")
-  hora   = b[1].inteiro div 30
-  minuto = b[2].inteiro div 6
+var a := leia_inteiros(" ")
+enquanto nao eof faca
+  hora   = a[1] div 30
+  minuto = a[2] div 6
   escreva "{hora formato "%02d"}:{minuto formato "%02d"}"
-  a := leia_texto
+  a := leia_inteiros(" ")
 fim

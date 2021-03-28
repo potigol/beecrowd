@@ -1,10 +1,11 @@
-fat = Lista.mutável(21, BigInt(1))
+var fat := Lista(21, BigInt(1))
 para i de 1 até 20 faça
   fat[i+1] := fat[i] * i
 fim
-var a := leia_texto
-enquanto a <> None.orNull faça
-  s = a.divida(" ")
-  escreva fat[s[1].inteiro + 1] + fat[s[2].inteiro + 1]
-  a := leia_texto
+
+enquanto nao eof faça
+  s = leia_inteiros(" ")
+  se nao eof entao
+    escreva fat[s[1] + 1] + fat[s[2] + 1]
+  fim
 fim

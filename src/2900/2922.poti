@@ -1,11 +1,10 @@
-var a := leia_texto
-enquanto a <> None.orNull faca
-  b = a.divida(" ").mapeie(_.inteiro).ordene
+var b := leia_inteiros(" ").ordene
+enquanto nao eof faca
   x, y = b[1], b[2]
   se x <> y entao
     escreva y - x - 1
   senao
     escreva 0
   fim
-  a := leia_texto
+  b := leia_inteiros(" ").ordene
 fim
