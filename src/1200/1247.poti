@@ -1,14 +1,11 @@
-var entrada := leia_texto
-enquanto entrada <> None.orNull faca
-  a = entrada.divida(" ")
-  d = a[1].inteiro
-  vf = a[2].inteiro
-  vg = a[3].inteiro
+var a := leia_inteiros(" ")
+enquanto nao eof faca
+  d, vf, vg = a[1], a[2], a[3]
   c = raiz(144 + d^2) / 12
   se vg >= vf * c entao
     escreva "S"
   senao
     escreva "N"
   fim
-  entrada := leia_texto
+  a := leia_inteiros(" ")
 fim

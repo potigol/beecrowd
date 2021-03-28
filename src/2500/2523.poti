@@ -1,7 +1,11 @@
-var s := leia_texto
-enquanto s <> None.orNull faça
-  n = leia_inteiro
-  nums = leia_inteiros(" ")
-  escreva nums.mapeie(a => s[a]).junte("")
-  s := leia_texto
+loop(): Nada
+  s = leia_texto
+  se nao eof entao
+    n = leia_inteiro
+    nums = leia_inteiros(" ")
+    escreva nums.mapeie(a => s[a]).junte("")
+    loop()
+  fim
 fim
+
+loop

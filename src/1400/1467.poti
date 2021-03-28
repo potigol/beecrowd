@@ -1,5 +1,5 @@
 var s := leia_texto
-enquanto s <> None.orNull faca
+enquanto nao eof faca
   se s == "1 0 0" ou s == "0 1 1" entao
     escreva "A"
   senaose s == "0 1 0" ou s == "1 0 1" entao

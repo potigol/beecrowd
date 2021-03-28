@@ -1,6 +1,6 @@
 var joias := Lista(0, "")
 var joia := leia_texto
-enquanto joia <> None.orNull faca
+enquanto nao eof faca
   joias := joia :: joias
   joia := leia_texto
 fim
