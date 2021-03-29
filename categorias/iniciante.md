@@ -1,4 +1,4 @@
-# Iniciante (295 / 325)
+# Iniciante (296 / 325)
 
 
 ## Problemas resolvidos
@@ -294,6 +294,7 @@
   - [x]  [3147](https://www.urionlinejudge.com.br/judge/pt/problems/view/3147) - [A Batalha dos Cinco Exércitos](https://github.com/potigol/uoj-potigol/blob/master/src/3100/3147.poti)
   - [x]  [3157](https://www.urionlinejudge.com.br/judge/pt/problems/view/3157) - [Viva a Ciência!](https://github.com/potigol/uoj-potigol/blob/master/src/3100/3157.poti)
   - [x]  [3161](https://www.urionlinejudge.com.br/judge/pt/problems/view/3161) - [As Frutas Esquecidas](https://github.com/potigol/uoj-potigol/blob/master/src/3100/3161.poti)
+  - [x]  [3174](https://www.urionlinejudge.com.br/judge/pt/problems/view/3174) - [Grupo de Trabalho do Noel](https://github.com/potigol/uoj-potigol/blob/master/src/3100/3174.poti)
   - [x]  [3209](https://www.urionlinejudge.com.br/judge/pt/problems/view/3209) - [Tomadas Elétricas](https://github.com/potigol/uoj-potigol/blob/master/src/3200/3209.poti)
   - [x]  [3214](https://www.urionlinejudge.com.br/judge/pt/problems/view/3214) - [Refrigerante](https://github.com/potigol/uoj-potigol/blob/master/src/3200/3214.poti)
   - [x]  [3224](https://www.urionlinejudge.com.br/judge/pt/problems/view/3224) - [Aaah!](https://github.com/potigol/uoj-potigol/blob/master/src/3200/3224.poti)
@@ -312,7 +313,6 @@
   - [ ]  [3167](https://www.urionlinejudge.com.br/judge/pt/problems/view/3167) - Procurando Palavras na Diagonal Secundária
   - [ ]  [3170](https://www.urionlinejudge.com.br/judge/pt/problems/view/3170) - Bolinhas de Natal
   - [ ]  [3173](https://www.urionlinejudge.com.br/judge/pt/problems/view/3173) - Estrela de Natal
-  - [ ]  [3174](https://www.urionlinejudge.com.br/judge/pt/problems/view/3174) - Grupo de Trabalho do Noel
   - [ ]  [3181](https://www.urionlinejudge.com.br/judge/pt/problems/view/3181) - Jantar
   - [ ]  [3197](https://www.urionlinejudge.com.br/judge/pt/problems/view/3197) - Shoot-out
   - [ ]  [3204](https://www.urionlinejudge.com.br/judge/pt/problems/view/3204) - Honeycomb Walk

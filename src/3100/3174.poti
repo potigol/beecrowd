@@ -1,0 +1,15 @@
+var bonecos, arquitetos, musicos, desenhistas := 0
+n = leia_inteiro
+para i de 1 ate n faca
+  a = leia_textos(" ")
+  grupo = a[2]
+  horas = a[3].inteiro
+  escolha grupo
+    caso "bonecos"     => bonecos := bonecos + horas
+    caso "arquitetos"  => arquitetos := arquitetos + horas
+    caso "musicos"     => musicos := musicos + horas
+    caso "desenhistas" => desenhistas := desenhistas + horas
+    caso _             =>
+  fim
+fim
+escreva bonecos div 8 + arquitetos div 4 + musicos div 6 + desenhistas div 12

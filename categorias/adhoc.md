@@ -1,4 +1,4 @@
-# Ad-Hoc (124 / 726)
+# Ad-Hoc (125 / 726)
 
 
 ## Problemas resolvidos
@@ -16,6 +16,7 @@
   - [x]  [1225](https://www.urionlinejudge.com.br/judge/pt/problems/view/1225) - [Coral Perfeito](https://github.com/potigol/uoj-potigol/blob/master/src/1200/1225.poti)
   - [x]  [1285](https://www.urionlinejudge.com.br/judge/pt/problems/view/1285) - [Dígitos Diferentes](https://github.com/potigol/uoj-potigol/blob/master/src/1200/1285.poti)
   - [x]  [1300](https://www.urionlinejudge.com.br/judge/pt/problems/view/1300) - [Horas e Minutos](https://github.com/potigol/uoj-potigol/blob/master/src/1300/1300.poti)
+  - [x]  [1318](https://www.urionlinejudge.com.br/judge/pt/problems/view/1318) - [Bilhetes Falsos](https://github.com/potigol/uoj-potigol/blob/master/src/1300/1318.poti)
   - [x]  [1329](https://www.urionlinejudge.com.br/judge/pt/problems/view/1329) - [Cara ou Coroa](https://github.com/potigol/uoj-potigol/blob/master/src/1300/1329.poti)
   - [x]  [1379](https://www.urionlinejudge.com.br/judge/pt/problems/view/1379) - [Problema com Mediana e Média](https://github.com/potigol/uoj-potigol/blob/master/src/1300/1379.poti)
   - [x]  [1383](https://www.urionlinejudge.com.br/judge/pt/problems/view/1383) - [Sudoku](https://github.com/potigol/uoj-potigol/blob/master/src/1300/1383.poti)
@@ -161,7 +162,6 @@
   - [ ]  [1271](https://www.urionlinejudge.com.br/judge/pt/problems/view/1271) - Onde estão meus Genes
   - [ ]  [1290](https://www.urionlinejudge.com.br/judge/pt/problems/view/1290) - Caixas Muito Especiais
   - [ ]  [1311](https://www.urionlinejudge.com.br/judge/pt/problems/view/1311) - Companheiros de Exército
-  - [ ]  [1318](https://www.urionlinejudge.com.br/judge/pt/problems/view/1318) - Bilhetes Falsos
   - [ ]  [1320](https://www.urionlinejudge.com.br/judge/pt/problems/view/1320) - Metrô Engenhoso
   - [ ]  [1321](https://www.urionlinejudge.com.br/judge/pt/problems/view/1321) - Jollo
   - [ ]  [1327](https://www.urionlinejudge.com.br/judge/pt/problems/view/1327) - Drop Out

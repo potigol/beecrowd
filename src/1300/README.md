@@ -18,7 +18,7 @@
   - [ ]  [1315](https://www.urionlinejudge.com.br/judge/pt/problems/view/1315) - Não tão Convexo *Geometria Computacional*
   - [ ] ~~1316~~
   - [ ]  [1317](https://www.urionlinejudge.com.br/judge/pt/problems/view/1317) - Eu Odeio SPAM, Mas Algumas Pessoas Amam *Grafos*
-  - [ ]  [1318](https://www.urionlinejudge.com.br/judge/pt/problems/view/1318) - Bilhetes Falsos *Ad-Hoc*
+  - [x]  [1318](https://www.urionlinejudge.com.br/judge/pt/problems/view/1318) - [Bilhetes Falsos](https://github.com/potigol/uoj-potigol/blob/master/src/1300/1318.poti) *Ad-Hoc*
   - [ ]  [1319](https://www.urionlinejudge.com.br/judge/pt/problems/view/1319) - Garota Hiperativa *Paradigmas*
   - [ ]  [1320](https://www.urionlinejudge.com.br/judge/pt/problems/view/1320) - Metrô Engenhoso *Ad-Hoc*
   - [ ]  [1321](https://www.urionlinejudge.com.br/judge/pt/problems/view/1321) - Jollo *Ad-Hoc*

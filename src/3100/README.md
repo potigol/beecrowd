@@ -74,7 +74,7 @@
   - [ ]  [3171](https://www.urionlinejudge.com.br/judge/pt/problems/view/3171) - Cordão de Led *Estruturas e Bibliotecas*
   - [ ]  [3172](https://www.urionlinejudge.com.br/judge/pt/problems/view/3172) - Dali e Dila *Ad-Hoc*
   - [ ]  [3173](https://www.urionlinejudge.com.br/judge/pt/problems/view/3173) - Estrela de Natal *Iniciante*
-  - [ ]  [3174](https://www.urionlinejudge.com.br/judge/pt/problems/view/3174) - Grupo de Trabalho do Noel *Iniciante*
+  - [x]  [3174](https://www.urionlinejudge.com.br/judge/pt/problems/view/3174) - [Grupo de Trabalho do Noel](https://github.com/potigol/uoj-potigol/blob/master/src/3100/3174.poti) *Iniciante*
   - [ ]  [3175](https://www.urionlinejudge.com.br/judge/pt/problems/view/3175) - Os Presentes Do Noel *Ad-Hoc*
   - [ ]  [3176](https://www.urionlinejudge.com.br/judge/pt/problems/view/3176) - Time de Duendes *Estruturas e Bibliotecas*
   - [ ]  [3177](https://www.urionlinejudge.com.br/judge/pt/problems/view/3177) - Fábrica de Brinquedos do Papai Noel *Ad-Hoc*
