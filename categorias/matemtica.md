@@ -1,4 +1,4 @@
-# Matemática (47 / 264)
+# Matemática (48 / 264)
 
 
 ## Problemas resolvidos
@@ -28,6 +28,7 @@
   - [x]  [1805](https://www.urionlinejudge.com.br/judge/pt/problems/view/1805) - [Soma Natural](https://github.com/potigol/uoj-potigol/blob/master/src/1800/1805.poti)
   - [x]  [1869](https://www.urionlinejudge.com.br/judge/pt/problems/view/1869) - [Base 32](https://github.com/potigol/uoj-potigol/blob/master/src/1800/1869.poti)
   - [x]  [1921](https://www.urionlinejudge.com.br/judge/pt/problems/view/1921) - [Guilherme e Suas Pipas](https://github.com/potigol/uoj-potigol/blob/master/src/1900/1921.poti)
+  - [x]  [2044](https://www.urionlinejudge.com.br/judge/pt/problems/view/2044) - [Em Dívida](https://github.com/potigol/uoj-potigol/blob/master/src/2000/2044.poti)
   - [x]  [2218](https://www.urionlinejudge.com.br/judge/pt/problems/view/2218) - [O Temível Evil-Son](https://github.com/potigol/uoj-potigol/blob/master/src/2200/2218.poti)
   - [x]  [2232](https://www.urionlinejudge.com.br/judge/pt/problems/view/2232) - [Triângulo de Pascal](https://github.com/potigol/uoj-potigol/blob/master/src/2200/2232.poti)
   - [x]  [2238](https://www.urionlinejudge.com.br/judge/pt/problems/view/2238) - [Divisores](https://github.com/potigol/uoj-potigol/blob/master/src/2200/2238.poti)
@@ -175,7 +176,6 @@
   - [ ]  [2007](https://www.urionlinejudge.com.br/judge/pt/problems/view/2007) - Falha Ao Cercar Legumes
   - [ ]  [2033](https://www.urionlinejudge.com.br/judge/pt/problems/view/2033) - Juros Sobre o Empréstimo
   - [ ]  [2034](https://www.urionlinejudge.com.br/judge/pt/problems/view/2034) - Cantor
-  - [ ]  [2044](https://www.urionlinejudge.com.br/judge/pt/problems/view/2044) - Em Dívida
   - [ ]  [2063](https://www.urionlinejudge.com.br/judge/pt/problems/view/2063) - Caçando Digletts
   - [ ]  [2066](https://www.urionlinejudge.com.br/judge/pt/problems/view/2066) - amelborP mU
   - [ ]  [2068](https://www.urionlinejudge.com.br/judge/pt/problems/view/2068) - Marcando um Encontro

@@ -44,7 +44,7 @@
   - [ ]  [2041](https://www.urionlinejudge.com.br/judge/pt/problems/view/2041) - Sequência de Gödelito *Ad-Hoc*
   - [ ]  [2042](https://www.urionlinejudge.com.br/judge/pt/problems/view/2042) - Fofão da Pérsia *Paradigmas*
   - [ ]  [2043](https://www.urionlinejudge.com.br/judge/pt/problems/view/2043) - Montanha Alta *Geometria Computacional*
-  - [ ]  [2044](https://www.urionlinejudge.com.br/judge/pt/problems/view/2044) - Em Dívida *Matemática*
+  - [x]  [2044](https://www.urionlinejudge.com.br/judge/pt/problems/view/2044) - [Em Dívida](https://github.com/potigol/uoj-potigol/blob/master/src/2000/2044.poti) *Matemática*
   - [ ]  [2045](https://www.urionlinejudge.com.br/judge/pt/problems/view/2045) - Defendendo Alamo *Geometria Computacional*
   - [ ]  [2046](https://www.urionlinejudge.com.br/judge/pt/problems/view/2046) - Entregadores de Steak *Grafos*
   - [ ]  [2047](https://www.urionlinejudge.com.br/judge/pt/problems/view/2047) - Fly By Night *Estruturas e Bibliotecas*

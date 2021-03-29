@@ -86,7 +86,7 @@
   - [x]  [1983](https://www.urionlinejudge.com.br/judge/pt/problems/view/1983) - [O Escolhido](https://github.com/potigol/uoj-potigol/blob/master/src/1900/1983.poti) *Iniciante*
   - [x]  [1984](https://www.urionlinejudge.com.br/judge/pt/problems/view/1984) - [O Enigma do Pronalândia](https://github.com/potigol/uoj-potigol/blob/master/src/1900/1984.poti) *Iniciante*
   - [x]  [1985](https://www.urionlinejudge.com.br/judge/pt/problems/view/1985) - [MacPRONALTS](https://github.com/potigol/uoj-potigol/blob/master/src/1900/1985.poti) *Iniciante*
-  - [ ]  [1986](https://www.urionlinejudge.com.br/judge/pt/problems/view/1986) - Perdido em Marte *Ad-Hoc*
+  - [x]  [1986](https://www.urionlinejudge.com.br/judge/pt/problems/view/1986) - [Perdido em Marte](https://github.com/potigol/uoj-potigol/blob/master/src/1900/1986.poti) *Ad-Hoc*
   - [ ]  [1987](https://www.urionlinejudge.com.br/judge/pt/problems/view/1987) - Divisibilidade Por 3 *Ad-Hoc*
   - [ ]  [1988](https://www.urionlinejudge.com.br/judge/pt/problems/view/1988) - Circuitos Turísticos *Grafos*
   - [ ]  [1989](https://www.urionlinejudge.com.br/judge/pt/problems/view/1989) - Fazendo Nada *Matemática*

@@ -93,7 +93,7 @@
   - [ ]  [1790](https://www.urionlinejudge.com.br/judge/pt/problems/view/1790) - Detectando Pontes *Grafos*
   - [ ]  [1791](https://www.urionlinejudge.com.br/judge/pt/problems/view/1791) - Descobrindo uma Matriz *Ad-Hoc*
   - [ ]  [1792](https://www.urionlinejudge.com.br/judge/pt/problems/view/1792) - Ataque Programado *Grafos*
-  - [ ]  [1793](https://www.urionlinejudge.com.br/judge/pt/problems/view/1793) - Escada Rolante *Ad-Hoc*
+  - [x]  [1793](https://www.urionlinejudge.com.br/judge/pt/problems/view/1793) - [Escada Rolante](https://github.com/potigol/uoj-potigol/blob/master/src/1700/1793.poti) *Ad-Hoc*
   - [x]  [1794](https://www.urionlinejudge.com.br/judge/pt/problems/view/1794) - [Lavanderia](https://github.com/potigol/uoj-potigol/blob/master/src/1700/1794.poti) *Ad-Hoc*
   - [x]  [1795](https://www.urionlinejudge.com.br/judge/pt/problems/view/1795) - [Triângulo Trinomial](https://github.com/potigol/uoj-potigol/blob/master/src/1700/1795.poti) *Matemática*
   - [x]  [1796](https://www.urionlinejudge.com.br/judge/pt/problems/view/1796) - [Economia Brasileira](https://github.com/potigol/uoj-potigol/blob/master/src/1700/1796.poti) *Ad-Hoc*

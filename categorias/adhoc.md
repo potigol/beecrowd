@@ -1,4 +1,4 @@
-# Ad-Hoc (119 / 726)
+# Ad-Hoc (122 / 726)
 
 
 ## Problemas resolvidos
@@ -31,6 +31,7 @@
   - [x]  [1573](https://www.urionlinejudge.com.br/judge/pt/problems/view/1573) - [Fábrica de Chocolate](https://github.com/potigol/uoj-potigol/blob/master/src/1500/1573.poti)
   - [x]  [1708](https://www.urionlinejudge.com.br/judge/pt/problems/view/1708) - [Volta](https://github.com/potigol/uoj-potigol/blob/master/src/1700/1708.poti)
   - [x]  [1743](https://www.urionlinejudge.com.br/judge/pt/problems/view/1743) - [Máquina de Verificação Automatizada](https://github.com/potigol/uoj-potigol/blob/master/src/1700/1743.poti)
+  - [x]  [1793](https://www.urionlinejudge.com.br/judge/pt/problems/view/1793) - [Escada Rolante](https://github.com/potigol/uoj-potigol/blob/master/src/1700/1793.poti)
   - [x]  [1794](https://www.urionlinejudge.com.br/judge/pt/problems/view/1794) - [Lavanderia](https://github.com/potigol/uoj-potigol/blob/master/src/1700/1794.poti)
   - [x]  [1796](https://www.urionlinejudge.com.br/judge/pt/problems/view/1796) - [Economia Brasileira](https://github.com/potigol/uoj-potigol/blob/master/src/1700/1796.poti)
   - [x]  [1867](https://www.urionlinejudge.com.br/judge/pt/problems/view/1867) - [Maior Número de Um Algarismo](https://github.com/potigol/uoj-potigol/blob/master/src/1800/1867.poti)
@@ -38,6 +39,7 @@
   - [x]  [1893](https://www.urionlinejudge.com.br/judge/pt/problems/view/1893) - [Fases da Lua](https://github.com/potigol/uoj-potigol/blob/master/src/1800/1893.poti)
   - [x]  [1936](https://www.urionlinejudge.com.br/judge/pt/problems/view/1936) - [Fatorial](https://github.com/potigol/uoj-potigol/blob/master/src/1900/1936.poti)
   - [x]  [1943](https://www.urionlinejudge.com.br/judge/pt/problems/view/1943) - [Top N](https://github.com/potigol/uoj-potigol/blob/master/src/1900/1943.poti)
+  - [x]  [1986](https://www.urionlinejudge.com.br/judge/pt/problems/view/1986) - [Perdido em Marte](https://github.com/potigol/uoj-potigol/blob/master/src/1900/1986.poti)
   - [x]  [2058](https://www.urionlinejudge.com.br/judge/pt/problems/view/2058) - [Triângulos e Polígonos Regulares](https://github.com/potigol/uoj-potigol/blob/master/src/2000/2058.poti)
   - [x]  [2116](https://www.urionlinejudge.com.br/judge/pt/problems/view/2116) - [Diversão dos Alunos](https://github.com/potigol/uoj-potigol/blob/master/src/2100/2116.poti)
   - [x]  [2175](https://www.urionlinejudge.com.br/judge/pt/problems/view/2175) - [Qual o Mais Rápido?](https://github.com/potigol/uoj-potigol/blob/master/src/2100/2175.poti)
@@ -114,6 +116,7 @@
   - [x]  [3058](https://www.urionlinejudge.com.br/judge/pt/problems/view/3058) - [Supermercado](https://github.com/potigol/uoj-potigol/blob/master/src/3000/3058.poti)
   - [x]  [3059](https://www.urionlinejudge.com.br/judge/pt/problems/view/3059) - [Pares de Números](https://github.com/potigol/uoj-potigol/blob/master/src/3000/3059.poti)
   - [x]  [3060](https://www.urionlinejudge.com.br/judge/pt/problems/view/3060) - [Parcelamento Sem Juros](https://github.com/potigol/uoj-potigol/blob/master/src/3000/3060.poti)
+  - [x]  [3093](https://www.urionlinejudge.com.br/judge/pt/problems/view/3093) - [Truco da Galera 1.0](https://github.com/potigol/uoj-potigol/blob/master/src/3000/3093.poti)
   - [x]  [3106](https://www.urionlinejudge.com.br/judge/pt/problems/view/3106) - [Competição de Códigos](https://github.com/potigol/uoj-potigol/blob/master/src/3100/3106.poti)
   - [x]  [3109](https://www.urionlinejudge.com.br/judge/pt/problems/view/3109) - [Trocando de Mesa](https://github.com/potigol/uoj-potigol/blob/master/src/3100/3109.poti)
   - [x]  [3126](https://www.urionlinejudge.com.br/judge/pt/problems/view/3126) - [Lista de Treinamento](https://github.com/potigol/uoj-potigol/blob/master/src/3100/3126.poti)
@@ -270,7 +273,6 @@
   - [ ]  [1786](https://www.urionlinejudge.com.br/judge/pt/problems/view/1786) - CPF 2
   - [ ]  [1787](https://www.urionlinejudge.com.br/judge/pt/problems/view/1787) - URI
   - [ ]  [1791](https://www.urionlinejudge.com.br/judge/pt/problems/view/1791) - Descobrindo uma Matriz
-  - [ ]  [1793](https://www.urionlinejudge.com.br/judge/pt/problems/view/1793) - Escada Rolante
   - [ ]  [1800](https://www.urionlinejudge.com.br/judge/pt/problems/view/1800) - Onde Estão Minhas Chaves
   - [ ]  [1802](https://www.urionlinejudge.com.br/judge/pt/problems/view/1802) - Catálogo de Livros
   - [ ]  [1808](https://www.urionlinejudge.com.br/judge/pt/problems/view/1808) - O Retorno do Rei
@@ -320,7 +322,6 @@
   - [ ]  [1965](https://www.urionlinejudge.com.br/judge/pt/problems/view/1965) - A Procura por Spock
   - [ ]  [1966](https://www.urionlinejudge.com.br/judge/pt/problems/view/1966) - A Volta para Casa
   - [ ]  [1980](https://www.urionlinejudge.com.br/judge/pt/problems/view/1980) - Embaralhando
-  - [ ]  [1986](https://www.urionlinejudge.com.br/judge/pt/problems/view/1986) - Perdido em Marte
   - [ ]  [1987](https://www.urionlinejudge.com.br/judge/pt/problems/view/1987) - Divisibilidade Por 3
   - [ ]  [1997](https://www.urionlinejudge.com.br/judge/pt/problems/view/1997) - Branco e Preto
   - [ ]  [1998](https://www.urionlinejudge.com.br/judge/pt/problems/view/1998) - Awari 2.0
@@ -689,7 +690,6 @@
   - [ ]  [3087](https://www.urionlinejudge.com.br/judge/pt/problems/view/3087) - O Padawan Jorge
   - [ ]  [3090](https://www.urionlinejudge.com.br/judge/pt/problems/view/3090) - Campo de Batalha
   - [ ]  [3092](https://www.urionlinejudge.com.br/judge/pt/problems/view/3092) - Truco da Galera 2.0
-  - [ ]  [3093](https://www.urionlinejudge.com.br/judge/pt/problems/view/3093) - Truco da Galera 1.0
   - [ ]  [3094](https://www.urionlinejudge.com.br/judge/pt/problems/view/3094) - Truco da Galera 3.0
   - [ ]  [3105](https://www.urionlinejudge.com.br/judge/pt/problems/view/3105) - Dobrando Papel
   - [ ]  [3111](https://www.urionlinejudge.com.br/judge/pt/problems/view/3111) - A Vitória de Jim

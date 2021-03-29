@@ -1,0 +1,10 @@
+n = leia_inteiro
+para i de 1 ate n faca
+  s = leia_texto
+  t = s.tamanho - 4
+  se (s - "QJKA").tamanho == t entao
+    escreva "Aaah muleke"
+  senao
+    escreva "Ooo raca viu"
+  fim
+fim
