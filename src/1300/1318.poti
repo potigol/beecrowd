@@ -4,4 +4,3 @@ enquanto a > 0 faca
   escreva t.selecione(_.tamanho > 1).tamanho
   a := leia_inteiro
 fim
-# 6 1 3 6 6 4 2 3 1 2
