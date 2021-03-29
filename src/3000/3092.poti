@@ -1,0 +1,19 @@
+n = leia_inteiro
+para i de 1 ate n faca
+  s = leia_texto
+  var q, j, k, a := 0
+  para c em s faca
+    escolha c
+      caso 'Q'          => q := q + 1
+      caso 'J' se j < q => j := j + 1
+      caso 'K' se k < j => k := k + 1
+      caso 'A' se a < k => a := a + 1
+      caso _ =>
+    fim
+  fim
+  se a > 0 entao
+    escreva "Agora vai"
+  senao
+    escreva "Agora apertou sem abracar"
+  fim
+fim

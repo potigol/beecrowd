@@ -92,9 +92,9 @@
   - [x]  [3089](https://www.urionlinejudge.com.br/judge/pt/problems/view/3089) - [Presentes de Natal](https://github.com/potigol/uoj-potigol/blob/master/src/3000/3089.poti) *Iniciante*
   - [ ]  [3090](https://www.urionlinejudge.com.br/judge/pt/problems/view/3090) - Campo de Batalha *Ad-Hoc*
   - [x]  [3091](https://www.urionlinejudge.com.br/judge/pt/problems/view/3091) - [Resto 1.0](https://github.com/potigol/uoj-potigol/blob/master/src/3000/3091.poti) *Iniciante*
-  - [ ]  [3092](https://www.urionlinejudge.com.br/judge/pt/problems/view/3092) - Truco da Galera 2.0 *Ad-Hoc*
+  - [x]  [3092](https://www.urionlinejudge.com.br/judge/pt/problems/view/3092) - [Truco da Galera 2.0](https://github.com/potigol/uoj-potigol/blob/master/src/3000/3092.poti) *Ad-Hoc*
   - [x]  [3093](https://www.urionlinejudge.com.br/judge/pt/problems/view/3093) - [Truco da Galera 1.0](https://github.com/potigol/uoj-potigol/blob/master/src/3000/3093.poti) *Ad-Hoc*
-  - [ ]  [3094](https://www.urionlinejudge.com.br/judge/pt/problems/view/3094) - Truco da Galera 3.0 *Ad-Hoc*
+  - [x]  [3094](https://www.urionlinejudge.com.br/judge/pt/problems/view/3094) - [Truco da Galera 3.0](https://github.com/potigol/uoj-potigol/blob/master/src/3000/3094.poti) *Ad-Hoc*
   - [ ]  [3095](https://www.urionlinejudge.com.br/judge/pt/problems/view/3095) - Pudim dos Guerreiros *Paradigmas*
   - [ ]  [3096](https://www.urionlinejudge.com.br/judge/pt/problems/view/3096) - Overflow *Matemática*
   - [ ]  [3097](https://www.urionlinejudge.com.br/judge/pt/problems/view/3097) - Um Desafio Simples *Estruturas e Bibliotecas*

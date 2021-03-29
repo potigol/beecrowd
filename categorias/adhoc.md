@@ -1,4 +1,4 @@
-# Ad-Hoc (122 / 726)
+# Ad-Hoc (124 / 726)
 
 
 ## Problemas resolvidos
@@ -116,7 +116,9 @@
   - [x]  [3058](https://www.urionlinejudge.com.br/judge/pt/problems/view/3058) - [Supermercado](https://github.com/potigol/uoj-potigol/blob/master/src/3000/3058.poti)
   - [x]  [3059](https://www.urionlinejudge.com.br/judge/pt/problems/view/3059) - [Pares de Números](https://github.com/potigol/uoj-potigol/blob/master/src/3000/3059.poti)
   - [x]  [3060](https://www.urionlinejudge.com.br/judge/pt/problems/view/3060) - [Parcelamento Sem Juros](https://github.com/potigol/uoj-potigol/blob/master/src/3000/3060.poti)
+  - [x]  [3092](https://www.urionlinejudge.com.br/judge/pt/problems/view/3092) - [Truco da Galera 2.0](https://github.com/potigol/uoj-potigol/blob/master/src/3000/3092.poti)
   - [x]  [3093](https://www.urionlinejudge.com.br/judge/pt/problems/view/3093) - [Truco da Galera 1.0](https://github.com/potigol/uoj-potigol/blob/master/src/3000/3093.poti)
+  - [x]  [3094](https://www.urionlinejudge.com.br/judge/pt/problems/view/3094) - [Truco da Galera 3.0](https://github.com/potigol/uoj-potigol/blob/master/src/3000/3094.poti)
   - [x]  [3106](https://www.urionlinejudge.com.br/judge/pt/problems/view/3106) - [Competição de Códigos](https://github.com/potigol/uoj-potigol/blob/master/src/3100/3106.poti)
   - [x]  [3109](https://www.urionlinejudge.com.br/judge/pt/problems/view/3109) - [Trocando de Mesa](https://github.com/potigol/uoj-potigol/blob/master/src/3100/3109.poti)
   - [x]  [3126](https://www.urionlinejudge.com.br/judge/pt/problems/view/3126) - [Lista de Treinamento](https://github.com/potigol/uoj-potigol/blob/master/src/3100/3126.poti)
@@ -689,8 +691,6 @@
   - [ ]  [3085](https://www.urionlinejudge.com.br/judge/pt/problems/view/3085) - O Grande Dia
   - [ ]  [3087](https://www.urionlinejudge.com.br/judge/pt/problems/view/3087) - O Padawan Jorge
   - [ ]  [3090](https://www.urionlinejudge.com.br/judge/pt/problems/view/3090) - Campo de Batalha
-  - [ ]  [3092](https://www.urionlinejudge.com.br/judge/pt/problems/view/3092) - Truco da Galera 2.0
-  - [ ]  [3094](https://www.urionlinejudge.com.br/judge/pt/problems/view/3094) - Truco da Galera 3.0
   - [ ]  [3105](https://www.urionlinejudge.com.br/judge/pt/problems/view/3105) - Dobrando Papel
   - [ ]  [3111](https://www.urionlinejudge.com.br/judge/pt/problems/view/3111) - A Vitória de Jim
   - [ ]  [3112](https://www.urionlinejudge.com.br/judge/pt/problems/view/3112) - Decodificação Ambígua
