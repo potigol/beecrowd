@@ -16,7 +16,7 @@
   - [ ]  [1213](https://www.urionlinejudge.com.br/judge/pt/problems/view/1213) - Ones *Matemática*
   - [ ]  [1214](https://www.urionlinejudge.com.br/judge/pt/problems/view/1214) - Acima da Média *Matemática*
   - [ ]  [1215](https://www.urionlinejudge.com.br/judge/pt/problems/view/1215) - Primeiro Dicionário de Andy *Estruturas e Bibliotecas*
-  - [ ]  [1216](https://www.urionlinejudge.com.br/judge/pt/problems/view/1216) - Getline One *Ad-Hoc*
+  - [x]  [1216](https://www.urionlinejudge.com.br/judge/pt/problems/view/1216) - [Getline One](https://github.com/potigol/uoj-potigol/blob/master/src/1200/1216.poti) *Ad-Hoc*
   - [ ]  [1217](https://www.urionlinejudge.com.br/judge/pt/problems/view/1217) - Getline Two - Frutas *Ad-Hoc*
   - [ ]  [1218](https://www.urionlinejudge.com.br/judge/pt/problems/view/1218) - Getline Three -  Calçados *Ad-Hoc*
   - [ ]  [1219](https://www.urionlinejudge.com.br/judge/pt/problems/view/1219) - Flores Coloridas *Matemática*
@@ -45,7 +45,7 @@
   - [ ]  [1242](https://www.urionlinejudge.com.br/judge/pt/problems/view/1242) - Ácido Ribonucleico Alienígena *Estruturas e Bibliotecas*
   - [ ]  [1243](https://www.urionlinejudge.com.br/judge/pt/problems/view/1243) - O Quão Fácil é... *Strings*
   - [x]  [1244](https://www.urionlinejudge.com.br/judge/pt/problems/view/1244) - [Ordenação por Tamanho](https://github.com/potigol/uoj-potigol/blob/master/src/1200/1244.poti) *Estruturas e Bibliotecas*
-  - [ ]  [1245](https://www.urionlinejudge.com.br/judge/pt/problems/view/1245) - Botas Perdidas *Ad-Hoc*
+  - [x]  [1245](https://www.urionlinejudge.com.br/judge/pt/problems/view/1245) - [Botas Perdidas](https://github.com/potigol/uoj-potigol/blob/master/src/1200/1245.poti) *Ad-Hoc*
   - [ ]  [1246](https://www.urionlinejudge.com.br/judge/pt/problems/view/1246) - Estacionamento *Ad-Hoc*
   - [x]  [1247](https://www.urionlinejudge.com.br/judge/pt/problems/view/1247) - [Guarda Costeira](https://github.com/potigol/uoj-potigol/blob/master/src/1200/1247.poti) *Matemática*
   - [ ]  [1248](https://www.urionlinejudge.com.br/judge/pt/problems/view/1248) - Plano de Dieta *Strings*
@@ -63,7 +63,7 @@
   - [ ]  [1260](https://www.urionlinejudge.com.br/judge/pt/problems/view/1260) - Espécies de Madeira *Estruturas e Bibliotecas*
   - [ ]  [1261](https://www.urionlinejudge.com.br/judge/pt/problems/view/1261) - Pontos de Feno *Estruturas e Bibliotecas*
   - [x]  [1262](https://www.urionlinejudge.com.br/judge/pt/problems/view/1262) - [Leitura Múltipla](https://github.com/potigol/uoj-potigol/blob/master/src/1200/1262.poti) *Strings*
-  - [ ]  [1263](https://www.urionlinejudge.com.br/judge/pt/problems/view/1263) - Aliteração *Strings*
+  - [x]  [1263](https://www.urionlinejudge.com.br/judge/pt/problems/view/1263) - [Aliteração](https://github.com/potigol/uoj-potigol/blob/master/src/1200/1263.poti) *Strings*
   - [ ]  [1264](https://www.urionlinejudge.com.br/judge/pt/problems/view/1264) - Um Problema Fácil! *Matemática*
   - [ ]  [1265](https://www.urionlinejudge.com.br/judge/pt/problems/view/1265) - DJ da Computação *Paradigmas*
   - [ ]  [1266](https://www.urionlinejudge.com.br/judge/pt/problems/view/1266) - Tornado! *Ad-Hoc*

@@ -1,0 +1,18 @@
+var n := leia_inteiro
+enquanto nao eof faca
+  var esq, dir := Lista(31, 0)
+  para i de 1 ate n faca
+    a = leia_textos(" ")
+    x = a[1].inteiro - 29
+    se a[2] == "E" entao
+      esq[x] := esq[x] + 1
+    senao
+      dir[x] := dir[x] + 1
+    fim
+  fim
+  pares = esq.zip(dir).mapeie(
+    a => se a.primeiro < a.segundo entao a.primeiro senao a.segundo fim
+  ).injete(0)(_ + _ )
+  escreva pares
+  n := leia_inteiro
+fim

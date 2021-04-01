@@ -1,0 +1,9 @@
+var s := leia_textos(" ")
+enquanto nao eof faca
+  aliteracoes = s.mapeie(_.minusculo)
+                 .divida_quando((a, b) => a[1] <> b[1])
+                 .selecione(_.tamanho > 1)
+                 .tamanho
+  escreva aliteracoes
+  s := leia_textos(" ")
+fim

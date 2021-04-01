@@ -1,4 +1,4 @@
-# Ad-Hoc (125 / 726)
+# Ad-Hoc (127 / 726)
 
 
 ## Problemas resolvidos
@@ -13,7 +13,9 @@
   - [x]  [1140](https://www.urionlinejudge.com.br/judge/pt/problems/view/1140) - [Flores Florescem da França](https://github.com/potigol/uoj-potigol/blob/master/src/1100/1140.poti)
   - [x]  [1171](https://www.urionlinejudge.com.br/judge/pt/problems/view/1171) - [Frequência de Números](https://github.com/potigol/uoj-potigol/blob/master/src/1100/1171.poti)
   - [x]  [1192](https://www.urionlinejudge.com.br/judge/pt/problems/view/1192) - [O jogo Matemático de Paula](https://github.com/potigol/uoj-potigol/blob/master/src/1100/1192.poti)
+  - [x]  [1216](https://www.urionlinejudge.com.br/judge/pt/problems/view/1216) - [Getline One](https://github.com/potigol/uoj-potigol/blob/master/src/1200/1216.poti)
   - [x]  [1225](https://www.urionlinejudge.com.br/judge/pt/problems/view/1225) - [Coral Perfeito](https://github.com/potigol/uoj-potigol/blob/master/src/1200/1225.poti)
+  - [x]  [1245](https://www.urionlinejudge.com.br/judge/pt/problems/view/1245) - [Botas Perdidas](https://github.com/potigol/uoj-potigol/blob/master/src/1200/1245.poti)
   - [x]  [1285](https://www.urionlinejudge.com.br/judge/pt/problems/view/1285) - [Dígitos Diferentes](https://github.com/potigol/uoj-potigol/blob/master/src/1200/1285.poti)
   - [x]  [1300](https://www.urionlinejudge.com.br/judge/pt/problems/view/1300) - [Horas e Minutos](https://github.com/potigol/uoj-potigol/blob/master/src/1300/1300.poti)
   - [x]  [1318](https://www.urionlinejudge.com.br/judge/pt/problems/view/1318) - [Bilhetes Falsos](https://github.com/potigol/uoj-potigol/blob/master/src/1300/1318.poti)
@@ -150,11 +152,9 @@
   - [ ]  [1196](https://www.urionlinejudge.com.br/judge/pt/problems/view/1196) - WERTYU
   - [ ]  [1206](https://www.urionlinejudge.com.br/judge/pt/problems/view/1206) - Desafio de São Petersburgo
   - [ ]  [1209](https://www.urionlinejudge.com.br/judge/pt/problems/view/1209) - Festas de São Petersburgo
-  - [ ]  [1216](https://www.urionlinejudge.com.br/judge/pt/problems/view/1216) - Getline One
   - [ ]  [1217](https://www.urionlinejudge.com.br/judge/pt/problems/view/1217) - Getline Two - Frutas
   - [ ]  [1218](https://www.urionlinejudge.com.br/judge/pt/problems/view/1218) - Getline Three -  Calçados
   - [ ]  [1228](https://www.urionlinejudge.com.br/judge/pt/problems/view/1228) - Grid de Largada
-  - [ ]  [1245](https://www.urionlinejudge.com.br/judge/pt/problems/view/1245) - Botas Perdidas
   - [ ]  [1246](https://www.urionlinejudge.com.br/judge/pt/problems/view/1246) - Estacionamento
   - [ ]  [1250](https://www.urionlinejudge.com.br/judge/pt/problems/view/1250) - KiloMan
   - [ ]  [1266](https://www.urionlinejudge.com.br/judge/pt/problems/view/1266) - Tornado!

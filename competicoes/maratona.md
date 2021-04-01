@@ -292,7 +292,7 @@
 ### 1ª Fase
 
   - [ ]  [1242](https://www.urionlinejudge.com.br/judge/pt/problems/view/1242) - Ácido Ribonucleico Alienígena *Estruturas e Bibliotecas*
-  - [ ]  [1245](https://www.urionlinejudge.com.br/judge/pt/problems/view/1245) - Botas Perdidas *Ad-Hoc*
+  - [x]  [1245](https://www.urionlinejudge.com.br/judge/pt/problems/view/1245) - [Botas Perdidas](https://github.com/potigol/uoj-potigol/blob/master/src/1200/1245.poti) *Ad-Hoc*
   - [ ]  [1458](https://www.urionlinejudge.com.br/judge/pt/problems/view/1458) - Campeonato de SMS *Strings*
   - [ ]  [1442](https://www.urionlinejudge.com.br/judge/pt/problems/view/1442) - Desvio de Rua *Grafos*
   - [ ]  [1246](https://www.urionlinejudge.com.br/judge/pt/problems/view/1246) - Estacionamento *Ad-Hoc*

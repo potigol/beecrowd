@@ -1,0 +1,8 @@
+var soma, n := 0
+leia_texto
+enquanto nao eof faca
+  soma := soma + leia_inteiro
+  n := n + 1
+  leia_texto
+fim
+escreva (soma / n) formato "%.1f"
