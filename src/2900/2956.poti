@@ -1,0 +1,4 @@
+a = leia_reais(" ")
+p, t = a[1], a[2]
+area = p * t / 2
+escreva "Concluimos que, dado o limite da entrada, a resposta seria:  y = f(x) = {area formato "%.5f"}."

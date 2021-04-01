@@ -1,0 +1,10 @@
+var n := leia_inteiro
+enquanto nao eof faca
+  list = leia_textos(n)
+           .mapeie(_.divida(" "))
+           .mapeie(a => (a[1], a[2].inteiro))
+           .ordene(a => a.segundo)
+           .mapeie(a => a.primeiro)
+  escreva list.junte(" ")
+  n := leia_inteiro
+fim

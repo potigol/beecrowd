@@ -33,7 +33,7 @@
   - [x]  [2630](https://www.urionlinejudge.com.br/judge/pt/problems/view/2630) - [Escala de Cinza](https://github.com/potigol/uoj-potigol/blob/master/src/2600/2630.poti) *Iniciante*
   - [ ]  [2631](https://www.urionlinejudge.com.br/judge/pt/problems/view/2631) - Formando Duplas *Grafos*
   - [ ]  [2632](https://www.urionlinejudge.com.br/judge/pt/problems/view/2632) - Magic and Sword *Iniciante*
-  - [ ]  [2633](https://www.urionlinejudge.com.br/judge/pt/problems/view/2633) - Churras no Yuri *Estruturas e Bibliotecas*
+  - [x]  [2633](https://www.urionlinejudge.com.br/judge/pt/problems/view/2633) - [Churras no Yuri](https://github.com/potigol/uoj-potigol/blob/master/src/2600/2633.poti) *Estruturas e Bibliotecas*
   - [ ]  [2634](https://www.urionlinejudge.com.br/judge/pt/problems/view/2634) - Em Prol da Ciência *Ad-Hoc*
   - [x]  [2635](https://www.urionlinejudge.com.br/judge/pt/problems/view/2635) - [Navegador Web](https://github.com/potigol/uoj-potigol/blob/master/src/2600/2635.poti) *Iniciante*
   - [ ]  [2636](https://www.urionlinejudge.com.br/judge/pt/problems/view/2636) - 3-RSA *Matemática*

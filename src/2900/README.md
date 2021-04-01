@@ -56,7 +56,7 @@
   - [ ]  [2953](https://www.urionlinejudge.com.br/judge/pt/problems/view/2953) - Mais um Joguinho *Matemática*
   - [ ]  [2954](https://www.urionlinejudge.com.br/judge/pt/problems/view/2954) - O Jogo *Strings*
   - [ ]  [2955](https://www.urionlinejudge.com.br/judge/pt/problems/view/2955) - Truuuuuco! *Matemática*
-  - [ ]  [2956](https://www.urionlinejudge.com.br/judge/pt/problems/view/2956) - Derivada de 13 Variáveis *Matemática*
+  - [x]  [2956](https://www.urionlinejudge.com.br/judge/pt/problems/view/2956) - [Derivada de 13 Variáveis](https://github.com/potigol/uoj-potigol/blob/master/src/2900/2956.poti) *Matemática*
   - [ ]  [2957](https://www.urionlinejudge.com.br/judge/pt/problems/view/2957) - Sir Vô *Ad-Hoc*
   - [ ]  [2958](https://www.urionlinejudge.com.br/judge/pt/problems/view/2958) - O Rolê Bad Vibes *Estruturas e Bibliotecas*
   - [ ]  [2959](https://www.urionlinejudge.com.br/judge/pt/problems/view/2959) - Credo com ParaTudo! *Grafos*

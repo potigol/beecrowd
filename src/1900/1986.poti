@@ -1,5 +1,4 @@
-hex2dec(c: Caractere) = se c < 65 entao c - 48 senao c - 55 fim
-
+hex2dec = (c: Caractere) => se c < 65 entao c - 48 senao c - 55 fim
 hex2tex = (s: Texto) => (hex2dec(s[1]) * 16 + hex2dec(s[2])).caractere
 
 n = leia_inteiro
