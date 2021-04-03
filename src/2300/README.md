@@ -56,7 +56,7 @@
   - [ ]  [2353](https://www.urionlinejudge.com.br/judge/pt/problems/view/2353) - Just in Time *Ad-Hoc*
   - [ ]  [2354](https://www.urionlinejudge.com.br/judge/pt/problems/view/2354) - Kill the Werewolf *Ad-Hoc*
   - [ ]  [2355](https://www.urionlinejudge.com.br/judge/pt/problems/view/2355) - Brasil e Alemanha *Ad-Hoc*
-  - [ ]  [2356](https://www.urionlinejudge.com.br/judge/pt/problems/view/2356) - Bactéria I *Strings*
+  - [x]  [2356](https://www.urionlinejudge.com.br/judge/pt/problems/view/2356) - [Bactéria I](https://github.com/potigol/uoj-potigol/blob/master/src/2300/2356.poti) *Strings*
   - [ ]  [2357](https://www.urionlinejudge.com.br/judge/pt/problems/view/2357) - Violência em Sildávia *Grafos*
   - [ ]  [2358](https://www.urionlinejudge.com.br/judge/pt/problems/view/2358) - Bactéria II *Strings*
   - [ ]  [2359](https://www.urionlinejudge.com.br/judge/pt/problems/view/2359) - Alocando Ambulâncias *Grafos*

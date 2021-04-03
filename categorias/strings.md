@@ -1,4 +1,4 @@
-# Strings (49 / 140)
+# Strings (52 / 140)
 
 
 ## Problemas resolvidos
@@ -21,6 +21,7 @@
   - [x]  [1273](https://www.urionlinejudge.com.br/judge/pt/problems/view/1273) - [Justificador](https://github.com/potigol/uoj-potigol/blob/master/src/1200/1273.poti)
   - [x]  [1278](https://www.urionlinejudge.com.br/judge/pt/problems/view/1278) - [Justificador II](https://github.com/potigol/uoj-potigol/blob/master/src/1200/1278.poti)
   - [x]  [1332](https://www.urionlinejudge.com.br/judge/pt/problems/view/1332) - [Um-Dois-Três](https://github.com/potigol/uoj-potigol/blob/master/src/1300/1332.poti)
+  - [x]  [1516](https://www.urionlinejudge.com.br/judge/pt/problems/view/1516) - [Imagem](https://github.com/potigol/uoj-potigol/blob/master/src/1500/1516.poti)
   - [x]  [1551](https://www.urionlinejudge.com.br/judge/pt/problems/view/1551) - [Frase Completa](https://github.com/potigol/uoj-potigol/blob/master/src/1500/1551.poti)
   - [x]  [1581](https://www.urionlinejudge.com.br/judge/pt/problems/view/1581) - [Conversa Internacional](https://github.com/potigol/uoj-potigol/blob/master/src/1500/1581.poti)
   - [x]  [1607](https://www.urionlinejudge.com.br/judge/pt/problems/view/1607) - [Avance as Letras](https://github.com/potigol/uoj-potigol/blob/master/src/1600/1607.poti)
@@ -31,11 +32,13 @@
   - [x]  [1868](https://www.urionlinejudge.com.br/judge/pt/problems/view/1868) - [Espiral Quadrada](https://github.com/potigol/uoj-potigol/blob/master/src/1800/1868.poti)
   - [x]  [1871](https://www.urionlinejudge.com.br/judge/pt/problems/view/1871) - [Zero vale Zero](https://github.com/potigol/uoj-potigol/blob/master/src/1800/1871.poti)
   - [x]  [1873](https://www.urionlinejudge.com.br/judge/pt/problems/view/1873) - [Pedra-papel-tesoura-lagarto-Spock](https://github.com/potigol/uoj-potigol/blob/master/src/1800/1873.poti)
+  - [x]  [2023](https://www.urionlinejudge.com.br/judge/pt/problems/view/2023) - [A Última Criança Boa](https://github.com/potigol/uoj-potigol/blob/master/src/2000/2023.poti)
   - [x]  [2062](https://www.urionlinejudge.com.br/judge/pt/problems/view/2062) - [OBI URI](https://github.com/potigol/uoj-potigol/blob/master/src/2000/2062.poti)
   - [x]  [2137](https://www.urionlinejudge.com.br/judge/pt/problems/view/2137) - [A Biblioteca do Senhor Severino](https://github.com/potigol/uoj-potigol/blob/master/src/2100/2137.poti)
   - [x]  [2157](https://www.urionlinejudge.com.br/judge/pt/problems/view/2157) - [Sequência Espelho](https://github.com/potigol/uoj-potigol/blob/master/src/2100/2157.poti)
   - [x]  [2174](https://www.urionlinejudge.com.br/judge/pt/problems/view/2174) - [Coleção de Pomekon](https://github.com/potigol/uoj-potigol/blob/master/src/2100/2174.poti)
   - [x]  [2242](https://www.urionlinejudge.com.br/judge/pt/problems/view/2242) - [Huaauhahhuahau](https://github.com/potigol/uoj-potigol/blob/master/src/2200/2242.poti)
+  - [x]  [2356](https://www.urionlinejudge.com.br/judge/pt/problems/view/2356) - [Bactéria I](https://github.com/potigol/uoj-potigol/blob/master/src/2300/2356.poti)
   - [x]  [2484](https://www.urionlinejudge.com.br/judge/pt/problems/view/2484) - [Abracadabra](https://github.com/potigol/uoj-potigol/blob/master/src/2400/2484.poti)
   - [x]  [2557](https://www.urionlinejudge.com.br/judge/pt/problems/view/2557) - [R+L=J](https://github.com/potigol/uoj-potigol/blob/master/src/2500/2557.poti)
   - [x]  [2587](https://www.urionlinejudge.com.br/judge/pt/problems/view/2587) - [Jetiqui](https://github.com/potigol/uoj-potigol/blob/master/src/2500/2587.poti)
@@ -80,7 +83,6 @@
   - [ ]  [1458](https://www.urionlinejudge.com.br/judge/pt/problems/view/1458) - Campeonato de SMS
   - [ ]  [1491](https://www.urionlinejudge.com.br/judge/pt/problems/view/1491) - Linguagem de Blogger
   - [ ]  [1503](https://www.urionlinejudge.com.br/judge/pt/problems/view/1503) - Maior Palíndromo Comum Você Deve Encontrar
-  - [ ]  [1516](https://www.urionlinejudge.com.br/judge/pt/problems/view/1516) - Imagem
   - [ ]  [1519](https://www.urionlinejudge.com.br/judge/pt/problems/view/1519) - Abreviações
   - [ ]  [1530](https://www.urionlinejudge.com.br/judge/pt/problems/view/1530) - Quantas Substrings?
   - [ ]  [1556](https://www.urionlinejudge.com.br/judge/pt/problems/view/1556) - Removendo Letras
@@ -99,7 +101,6 @@
   - [ ]  [1941](https://www.urionlinejudge.com.br/judge/pt/problems/view/1941) - Palíndromo
   - [ ]  [2000](https://www.urionlinejudge.com.br/judge/pt/problems/view/2000) - Adeildo da Odonto
   - [ ]  [2017](https://www.urionlinejudge.com.br/judge/pt/problems/view/2017) - Seis Strings
-  - [ ]  [2023](https://www.urionlinejudge.com.br/judge/pt/problems/view/2023) - A Última Criança Boa
   - [ ]  [2025](https://www.urionlinejudge.com.br/judge/pt/problems/view/2025) - Joulupukki
   - [ ]  [2035](https://www.urionlinejudge.com.br/judge/pt/problems/view/2035) - Projetando Camisetas
   - [ ]  [2049](https://www.urionlinejudge.com.br/judge/pt/problems/view/2049) - Números de Ahmoc
@@ -115,7 +116,6 @@
   - [ ]  [2292](https://www.urionlinejudge.com.br/judge/pt/problems/view/2292) - Painel LED
   - [ ]  [2314](https://www.urionlinejudge.com.br/judge/pt/problems/view/2314) - Indentador
   - [ ]  [2336](https://www.urionlinejudge.com.br/judge/pt/problems/view/2336) - ABC
-  - [ ]  [2356](https://www.urionlinejudge.com.br/judge/pt/problems/view/2356) - Bactéria I
   - [ ]  [2358](https://www.urionlinejudge.com.br/judge/pt/problems/view/2358) - Bactéria II
   - [ ]  [2509](https://www.urionlinejudge.com.br/judge/pt/problems/view/2509) - Editor Latex
   - [ ]  [2535](https://www.urionlinejudge.com.br/judge/pt/problems/view/2535) - Feira de Adoção

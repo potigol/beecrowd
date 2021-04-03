@@ -16,7 +16,7 @@
   - [ ]  [1513](https://www.urionlinejudge.com.br/judge/pt/problems/view/1513) - Cavalo *Paradigmas*
   - [ ]  [1514](https://www.urionlinejudge.com.br/judge/pt/problems/view/1514) - Competição *Ad-Hoc*
   - [x]  [1515](https://www.urionlinejudge.com.br/judge/pt/problems/view/1515) - [Hello Galaxy](https://github.com/potigol/uoj-potigol/blob/master/src/1500/1515.poti) *Ad-Hoc*
-  - [ ]  [1516](https://www.urionlinejudge.com.br/judge/pt/problems/view/1516) - Imagem *Strings*
+  - [x]  [1516](https://www.urionlinejudge.com.br/judge/pt/problems/view/1516) - [Imagem](https://github.com/potigol/uoj-potigol/blob/master/src/1500/1516.poti) *Strings*
   - [ ]  [1517](https://www.urionlinejudge.com.br/judge/pt/problems/view/1517) - Maçãs *Paradigmas*
   - [ ]  [1518](https://www.urionlinejudge.com.br/judge/pt/problems/view/1518) - Tartarugas *Ad-Hoc*
   - [ ]  [1519](https://www.urionlinejudge.com.br/judge/pt/problems/view/1519) - Abreviações *Strings*

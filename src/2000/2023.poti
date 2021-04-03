@@ -1,0 +1,9 @@
+var ultima := ""
+var a := leia_texto
+enquanto nao eof faca
+  se a.maiusculo > ultima.maiusculo entao
+    ultima := a
+  fim
+  a := leia_texto
+fim
+escreva ultima

@@ -1,0 +1,13 @@
+var x := leia_inteiros(" ")
+enquanto x[1] > 0 faca
+  n, m = x[1], x[2]
+  linhas = leia_textos(n)
+  y = leia_inteiros(" ")
+  a, b = y[1], y[2]
+  s = linhas.mapeie(_.lista.mapeie(c => "{c}" * (b div m)).junte(""))
+  para i de 0 ate a - 1 faca
+    escreva s[i div (a div n) + 1]
+  fim
+  escreva ""
+  x := leia_inteiros(" ")
+fim

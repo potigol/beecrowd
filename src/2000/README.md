@@ -23,7 +23,7 @@
   - [ ]  [2020](https://www.urionlinejudge.com.br/judge/pt/problems/view/2020) - Elfos e seus Códigos *Estruturas e Bibliotecas*
   - [ ]  [2021](https://www.urionlinejudge.com.br/judge/pt/problems/view/2021) - Luzes de Natal *Ad-Hoc*
   - [ ]  [2022](https://www.urionlinejudge.com.br/judge/pt/problems/view/2022) - Presentes de Natal *Estruturas e Bibliotecas*
-  - [ ]  [2023](https://www.urionlinejudge.com.br/judge/pt/problems/view/2023) - A Última Criança Boa *Strings*
+  - [x]  [2023](https://www.urionlinejudge.com.br/judge/pt/problems/view/2023) - [A Última Criança Boa](https://github.com/potigol/uoj-potigol/blob/master/src/2000/2023.poti) *Strings*
   - [ ]  [2024](https://www.urionlinejudge.com.br/judge/pt/problems/view/2024) - Empilhando Presentes *Paradigmas*
   - [ ]  [2025](https://www.urionlinejudge.com.br/judge/pt/problems/view/2025) - Joulupukki *Strings*
   - [ ]  [2026](https://www.urionlinejudge.com.br/judge/pt/problems/view/2026) - Árvore de Natal *Paradigmas*
