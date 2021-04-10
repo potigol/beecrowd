@@ -1,5 +1,5 @@
 tasks:
-  - before: echo "alias potigol='java -jar /workspace/gitpod/bin/potigol.jar 2> /dev/null'" >> ~/.bashrc
+  - before: echo "alias potigol='java -jar /workspace/uoj-potigol/bin/potigol.jar 2> /dev/null'" >> ~/.bashrc
     command: source ~/.bashrc
 
 vscode:
