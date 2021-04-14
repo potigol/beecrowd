@@ -30,7 +30,7 @@
   - [ ]  [1027](https://www.urionlinejudge.com.br/judge/pt/problems/view/1027) - Onda Crítica *Paradigmas*
   - [x]  [1028](https://www.urionlinejudge.com.br/judge/pt/problems/view/1028) - [Figurinhas](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1028.poti) *Matemática*
   - [x]  [1029](https://www.urionlinejudge.com.br/judge/pt/problems/view/1029) - [Fibonacci, Quantas Chamadas?](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1029.poti) *Paradigmas*
-  - [ ]  [1030](https://www.urionlinejudge.com.br/judge/pt/problems/view/1030) - A Lenda de Flavious Josephus *Ad-Hoc*
+  - [x]  [1030](https://www.urionlinejudge.com.br/judge/pt/problems/view/1030) - [A Lenda de Flavious Josephus](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1030.poti) *Ad-Hoc*
   - [ ]  [1031](https://www.urionlinejudge.com.br/judge/pt/problems/view/1031) - Crise de Energia *Ad-Hoc*
   - [ ]  [1032](https://www.urionlinejudge.com.br/judge/pt/problems/view/1032) - O Primo de Josephus *Ad-Hoc*
   - [ ]  [1033](https://www.urionlinejudge.com.br/judge/pt/problems/view/1033) - Quantas Chamadas Recursivas? *Paradigmas*

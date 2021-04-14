@@ -1,0 +1,13 @@
+var entrada := leia_texto
+enquanto entrada <> "0 0" faca
+  k = BigInt(entrada.divida(" ")[1])
+  l = entrada.divida(" ")[2].inteiro
+  var i := 2
+  enquanto k mod i <> 0 e i <= l faca i := i + 1 fim
+  se i >= l entao
+    escreva "GOOD"
+  senao
+    escreva "BAD {i}"
+  fim
+  entrada := leia_texto
+fim

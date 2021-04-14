@@ -1,11 +1,10 @@
-# Paradigmas (3 / 212)
+# Paradigmas (2 / 212)
 
 
 ## Problemas resolvidos
 
   - [x]  [1029](https://www.urionlinejudge.com.br/judge/pt/problems/view/1029) - [Fibonacci, Quantas Chamadas?](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1029.poti)
   - [x]  [1084](https://www.urionlinejudge.com.br/judge/pt/problems/view/1084) - [Apagando e Ganhando](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1084.poti)
-  - [x]  [3251](https://www.urionlinejudge.com.br/judge/pt/problems/view/3251) - [ls](https://github.com/potigol/uoj-potigol/blob/master/src/3200/3251.poti)
 ## Problemas não resolvidos
 
   - [ ]  [1027](https://www.urionlinejudge.com.br/judge/pt/problems/view/1027) - Onda Crítica
@@ -215,5 +214,6 @@
   - [ ]  [3192](https://www.urionlinejudge.com.br/judge/pt/problems/view/3192) - Circle of Debt
   - [ ]  [3195](https://www.urionlinejudge.com.br/judge/pt/problems/view/3195) - Shopaholic
   - [ ]  [3196](https://www.urionlinejudge.com.br/judge/pt/problems/view/3196) - Moogle
+  - [ ]  [3251](https://www.urionlinejudge.com.br/judge/pt/problems/view/3251) - ls
   - [ ]  [3274](https://www.urionlinejudge.com.br/judge/pt/problems/view/3274) - Excursão
   - [ ]  [3277](https://www.urionlinejudge.com.br/judge/pt/problems/view/3277) - Trabalho na Estrada

@@ -8,7 +8,7 @@
   - [ ]  [3205](https://www.urionlinejudge.com.br/judge/pt/problems/view/3205) - Nasty Hacks *Ad-Hoc*
   - [ ]  [3206](https://www.urionlinejudge.com.br/judge/pt/problems/view/3206) - Batida de Robos *Ad-Hoc*
   - [ ]  [3207](https://www.urionlinejudge.com.br/judge/pt/problems/view/3207) - Jogos Divertidos *Estruturas e Bibliotecas*
-  - [ ]  [3208](https://www.urionlinejudge.com.br/judge/pt/problems/view/3208) - O Criptógrafo Envergonhado *Iniciante*
+  - [x]  [3208](https://www.urionlinejudge.com.br/judge/pt/problems/view/3208) - [O Criptógrafo Envergonhado](https://github.com/potigol/uoj-potigol/blob/master/src/3200/3208.poti) *Iniciante*
   - [x]  [3209](https://www.urionlinejudge.com.br/judge/pt/problems/view/3209) - [Tomadas Elétricas](https://github.com/potigol/uoj-potigol/blob/master/src/3200/3209.poti) *Iniciante*
   - [ ]  [3210](https://www.urionlinejudge.com.br/judge/pt/problems/view/3210) - O Pior Clima de Todos *Estruturas e Bibliotecas*
   - [ ]  [3211](https://www.urionlinejudge.com.br/judge/pt/problems/view/3211) - Reino *Grafos*
@@ -51,7 +51,7 @@
   - [ ]  [3248](https://www.urionlinejudge.com.br/judge/pt/problems/view/3248) - Mega Inversões *Estruturas e Bibliotecas*
   - [ ]  [3249](https://www.urionlinejudge.com.br/judge/pt/problems/view/3249) - Death Knight Hero *Iniciante*
   - [ ]  [3250](https://www.urionlinejudge.com.br/judge/pt/problems/view/3250) - Problema no Elevador *Iniciante*
-  - [x]  [3251](https://www.urionlinejudge.com.br/judge/pt/problems/view/3251) - [ls](https://github.com/potigol/uoj-potigol/blob/master/src/3200/3251.poti) *Paradigmas*
+  - [ ]  [3251](https://www.urionlinejudge.com.br/judge/pt/problems/view/3251) - ls *Paradigmas*
   - [ ]  [3252](https://www.urionlinejudge.com.br/judge/pt/problems/view/3252) - Reus da Floresta *Iniciante*
   - [ ]  [3253](https://www.urionlinejudge.com.br/judge/pt/problems/view/3253) - Problemas com o Carro *Iniciante*
   - [ ]  [3254](https://www.urionlinejudge.com.br/judge/pt/problems/view/3254) - Espaço Privado *Ad-Hoc*

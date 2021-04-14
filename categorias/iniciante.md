@@ -1,4 +1,4 @@
-# Iniciante (296 / 325)
+# Iniciante (297 / 325)
 
 
 ## Problemas resolvidos
@@ -295,6 +295,7 @@
   - [x]  [3157](https://www.urionlinejudge.com.br/judge/pt/problems/view/3157) - [Viva a Ciência!](https://github.com/potigol/uoj-potigol/blob/master/src/3100/3157.poti)
   - [x]  [3161](https://www.urionlinejudge.com.br/judge/pt/problems/view/3161) - [As Frutas Esquecidas](https://github.com/potigol/uoj-potigol/blob/master/src/3100/3161.poti)
   - [x]  [3174](https://www.urionlinejudge.com.br/judge/pt/problems/view/3174) - [Grupo de Trabalho do Noel](https://github.com/potigol/uoj-potigol/blob/master/src/3100/3174.poti)
+  - [x]  [3208](https://www.urionlinejudge.com.br/judge/pt/problems/view/3208) - [O Criptógrafo Envergonhado](https://github.com/potigol/uoj-potigol/blob/master/src/3200/3208.poti)
   - [x]  [3209](https://www.urionlinejudge.com.br/judge/pt/problems/view/3209) - [Tomadas Elétricas](https://github.com/potigol/uoj-potigol/blob/master/src/3200/3209.poti)
   - [x]  [3214](https://www.urionlinejudge.com.br/judge/pt/problems/view/3214) - [Refrigerante](https://github.com/potigol/uoj-potigol/blob/master/src/3200/3214.poti)
   - [x]  [3224](https://www.urionlinejudge.com.br/judge/pt/problems/view/3224) - [Aaah!](https://github.com/potigol/uoj-potigol/blob/master/src/3200/3224.poti)
@@ -316,7 +317,6 @@
   - [ ]  [3181](https://www.urionlinejudge.com.br/judge/pt/problems/view/3181) - Jantar
   - [ ]  [3197](https://www.urionlinejudge.com.br/judge/pt/problems/view/3197) - Shoot-out
   - [ ]  [3204](https://www.urionlinejudge.com.br/judge/pt/problems/view/3204) - Honeycomb Walk
-  - [ ]  [3208](https://www.urionlinejudge.com.br/judge/pt/problems/view/3208) - O Criptógrafo Envergonhado
   - [ ]  [3217](https://www.urionlinejudge.com.br/judge/pt/problems/view/3217) - Chuva Caindo
   - [ ]  [3231](https://www.urionlinejudge.com.br/judge/pt/problems/view/3231) - Horror List
   - [ ]  [3232](https://www.urionlinejudge.com.br/judge/pt/problems/view/3232) - Infiltration

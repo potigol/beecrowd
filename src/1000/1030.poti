@@ -1,0 +1,19 @@
+nc = leia_inteiro
+para i de 1 ate nc faca
+  in = leia_inteiros(" ")
+  n, k = in[1], in[2]
+  var v = Lista(n, verdadeiro).mutavel
+  var m, p, j := 0, 0, 1
+  enquanto m < n - 1 faca
+    se v[j] entao p := p + 1 fim
+    se p == k entao
+      v[j] := falso
+      m := m + 1
+      p := 0
+    fim
+    se j < n entao j := j + 1 senao j := 1 fim
+  fim
+  j := 1
+  enquanto nao v[j] faca j := j + 1 fim
+  escreva "Case {i}: {j}"
+fim

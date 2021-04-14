@@ -1,9 +1,10 @@
-# Ad-Hoc (127 / 726)
+# Ad-Hoc (128 / 726)
 
 
 ## Problemas resolvidos
 
   - [x]  [1026](https://www.urionlinejudge.com.br/judge/pt/problems/view/1026) - [Carrega ou não Carrega?](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1026.poti)
+  - [x]  [1030](https://www.urionlinejudge.com.br/judge/pt/problems/view/1030) - [A Lenda de Flavious Josephus](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1030.poti)
   - [x]  [1087](https://www.urionlinejudge.com.br/judge/pt/problems/view/1087) - [Dama](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1087.poti)
   - [x]  [1089](https://www.urionlinejudge.com.br/judge/pt/problems/view/1089) - [Loop Musical](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1089.poti)
   - [x]  [1091](https://www.urionlinejudge.com.br/judge/pt/problems/view/1091) - [Divisão da Nlogônia](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1091.poti)
@@ -132,7 +133,6 @@
   - [x]  [3135](https://www.urionlinejudge.com.br/judge/pt/problems/view/3135) - [Lista de Nomes](https://github.com/potigol/uoj-potigol/blob/master/src/3100/3135.poti)
 ## Problemas não resolvidos
 
-  - [ ]  [1030](https://www.urionlinejudge.com.br/judge/pt/problems/view/1030) - A Lenda de Flavious Josephus
   - [ ]  [1031](https://www.urionlinejudge.com.br/judge/pt/problems/view/1031) - Crise de Energia
   - [ ]  [1032](https://www.urionlinejudge.com.br/judge/pt/problems/view/1032) - O Primo de Josephus
   - [ ]  [1086](https://www.urionlinejudge.com.br/judge/pt/problems/view/1086) - O Salão do Clube
