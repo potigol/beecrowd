@@ -1,7 +1,7 @@
 tasks:
-  - before: echo "alias potigol='java -jar /workspace/uoj-potigol/bin/potigol.jar 2> /dev/null'" >> ~/.bashrc
-    command: source ~/.bashrc
+  - before: echo "alias potigol='java -jar /workspace/uoj-potigol/bin/potigol.jar 2> /dev/null'" >> ~/.bashrc ; clear
+    command: source ~/.bashrc ; clear
 
 vscode:
   extensions:
-    - potigol.potigol-language@0.0.1:2164153fdfb14a9e9143f4f73e1042cc
+    - potigol.potigol-language@0.1.0:9ae491d51a98a07667195b1794326bae
