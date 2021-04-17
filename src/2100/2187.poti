@@ -1,0 +1,13 @@
+var t := 0
+var v := leia_inteiro
+enquanto v > 0 faca
+  i = v div 50
+  j = v mod 50 div 10
+  k = v mod 10 div 5
+  l = v mod 5
+  t := t + 1
+  escreva "Teste {t}"
+  escreva "{i} {j} {k} {l}"
+  escreva ""
+  v := leia_inteiro
+fim

@@ -274,7 +274,7 @@
 
 ## 2000
 
-  - [ ]  [2187](https://www.urionlinejudge.com.br/judge/pt/problems/view/2187) - Bits Trocados *Ad-Hoc*
+  - [x]  [2187](https://www.urionlinejudge.com.br/judge/pt/problems/view/2187) - [Bits Trocados](https://github.com/potigol/uoj-potigol/blob/master/src/2100/2187.poti) *Ad-Hoc*
   - [x]  [2188](https://www.urionlinejudge.com.br/judge/pt/problems/view/2188) - [Macaco-prego](https://github.com/potigol/uoj-potigol/blob/master/src/2100/2188.poti) *Ad-Hoc*
   - [ ]  [2189](https://www.urionlinejudge.com.br/judge/pt/problems/view/2189) - Quermesse *Ad-Hoc*
   - [ ]  [2190](https://www.urionlinejudge.com.br/judge/pt/problems/view/2190) - Rede Ótica *Grafos*

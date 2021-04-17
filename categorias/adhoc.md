@@ -1,4 +1,4 @@
-# Ad-Hoc (128 / 726)
+# Ad-Hoc (129 / 726)
 
 
 ## Problemas resolvidos
@@ -47,6 +47,7 @@
   - [x]  [2058](https://www.urionlinejudge.com.br/judge/pt/problems/view/2058) - [Triângulos e Polígonos Regulares](https://github.com/potigol/uoj-potigol/blob/master/src/2000/2058.poti)
   - [x]  [2116](https://www.urionlinejudge.com.br/judge/pt/problems/view/2116) - [Diversão dos Alunos](https://github.com/potigol/uoj-potigol/blob/master/src/2100/2116.poti)
   - [x]  [2175](https://www.urionlinejudge.com.br/judge/pt/problems/view/2175) - [Qual o Mais Rápido?](https://github.com/potigol/uoj-potigol/blob/master/src/2100/2175.poti)
+  - [x]  [2187](https://www.urionlinejudge.com.br/judge/pt/problems/view/2187) - [Bits Trocados](https://github.com/potigol/uoj-potigol/blob/master/src/2100/2187.poti)
   - [x]  [2188](https://www.urionlinejudge.com.br/judge/pt/problems/view/2188) - [Macaco-prego](https://github.com/potigol/uoj-potigol/blob/master/src/2100/2188.poti)
   - [x]  [2217](https://www.urionlinejudge.com.br/judge/pt/problems/view/2217) - [Nove](https://github.com/potigol/uoj-potigol/blob/master/src/2200/2217.poti)
   - [x]  [2251](https://www.urionlinejudge.com.br/judge/pt/problems/view/2251) - [Torres de Hanói](https://github.com/potigol/uoj-potigol/blob/master/src/2200/2251.poti)
@@ -361,7 +362,6 @@
   - [ ]  [2171](https://www.urionlinejudge.com.br/judge/pt/problems/view/2171) - Dividindo com Fink
   - [ ]  [2178](https://www.urionlinejudge.com.br/judge/pt/problems/view/2178) - Lagoa Azul
   - [ ]  [2179](https://www.urionlinejudge.com.br/judge/pt/problems/view/2179) - Batuke
-  - [ ]  [2187](https://www.urionlinejudge.com.br/judge/pt/problems/view/2187) - Bits Trocados
   - [ ]  [2189](https://www.urionlinejudge.com.br/judge/pt/problems/view/2189) - Quermesse
   - [ ]  [2191](https://www.urionlinejudge.com.br/judge/pt/problems/view/2191) - Saldo de Gols
   - [ ]  [2192](https://www.urionlinejudge.com.br/judge/pt/problems/view/2192) - To Add or to Multiply
