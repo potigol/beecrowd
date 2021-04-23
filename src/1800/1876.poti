@@ -1,0 +1,9 @@
+var s := leia_textos("x")
+enquanto nao eof faca
+  a = s.mapeie(_.tamanho)
+  a1 = se a[1] > a[-1] entao a[1] senao a[-1] fim
+  b = a.descarte(1).pegue(a.tamanho - 2).mapeie(_ div 2)
+  maior = b.injete(a1)((x,y) => se x > y entao x senao y fim)
+  escreva maior
+  s := leia_textos("x")
+fim

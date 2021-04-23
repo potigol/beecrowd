@@ -53,7 +53,7 @@
   - [ ]  [2250](https://www.urionlinejudge.com.br/judge/pt/problems/view/2250) - Tetris *Ad-Hoc*
   - [x]  [2251](https://www.urionlinejudge.com.br/judge/pt/problems/view/2251) - [Torres de Hanói](https://github.com/potigol/uoj-potigol/blob/master/src/2200/2251.poti) *Ad-Hoc*
   - [ ]  [2252](https://www.urionlinejudge.com.br/judge/pt/problems/view/2252) - Descobrindo Senha *Ad-Hoc*
-  - [ ]  [2253](https://www.urionlinejudge.com.br/judge/pt/problems/view/2253) - Validador de Senhas *Strings*
+  - [x]  [2253](https://www.urionlinejudge.com.br/judge/pt/problems/view/2253) - [Validador de Senhas](https://github.com/potigol/uoj-potigol/blob/master/src/2200/2253.poti) *Strings*
   - [ ]  [2254](https://www.urionlinejudge.com.br/judge/pt/problems/view/2254) - Bem-me-quer, Malmequer Japonês *Ad-Hoc*
   - [ ]  [2255](https://www.urionlinejudge.com.br/judge/pt/problems/view/2255) - Self-Assembly *Ad-Hoc*
   - [ ] ~~2256~~

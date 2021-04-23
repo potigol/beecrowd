@@ -1,4 +1,4 @@
-# Strings (52 / 140)
+# Strings (53 / 140)
 
 
 ## Problemas resolvidos
@@ -38,6 +38,7 @@
   - [x]  [2157](https://www.urionlinejudge.com.br/judge/pt/problems/view/2157) - [Sequência Espelho](https://github.com/potigol/uoj-potigol/blob/master/src/2100/2157.poti)
   - [x]  [2174](https://www.urionlinejudge.com.br/judge/pt/problems/view/2174) - [Coleção de Pomekon](https://github.com/potigol/uoj-potigol/blob/master/src/2100/2174.poti)
   - [x]  [2242](https://www.urionlinejudge.com.br/judge/pt/problems/view/2242) - [Huaauhahhuahau](https://github.com/potigol/uoj-potigol/blob/master/src/2200/2242.poti)
+  - [x]  [2253](https://www.urionlinejudge.com.br/judge/pt/problems/view/2253) - [Validador de Senhas](https://github.com/potigol/uoj-potigol/blob/master/src/2200/2253.poti)
   - [x]  [2356](https://www.urionlinejudge.com.br/judge/pt/problems/view/2356) - [Bactéria I](https://github.com/potigol/uoj-potigol/blob/master/src/2300/2356.poti)
   - [x]  [2484](https://www.urionlinejudge.com.br/judge/pt/problems/view/2484) - [Abracadabra](https://github.com/potigol/uoj-potigol/blob/master/src/2400/2484.poti)
   - [x]  [2557](https://www.urionlinejudge.com.br/judge/pt/problems/view/2557) - [R+L=J](https://github.com/potigol/uoj-potigol/blob/master/src/2500/2557.poti)
@@ -112,7 +113,6 @@
   - [ ]  [2132](https://www.urionlinejudge.com.br/judge/pt/problems/view/2132) - Não é Mais Um Joguinho Canadense!
   - [ ]  [2150](https://www.urionlinejudge.com.br/judge/pt/problems/view/2150) - Vogais Alienígenas
   - [ ]  [2153](https://www.urionlinejudge.com.br/judge/pt/problems/view/2153) - Sanduicheiche
-  - [ ]  [2253](https://www.urionlinejudge.com.br/judge/pt/problems/view/2253) - Validador de Senhas
   - [ ]  [2292](https://www.urionlinejudge.com.br/judge/pt/problems/view/2292) - Painel LED
   - [ ]  [2314](https://www.urionlinejudge.com.br/judge/pt/problems/view/2314) - Indentador
   - [ ]  [2336](https://www.urionlinejudge.com.br/judge/pt/problems/view/2336) - ABC

@@ -1,0 +1,13 @@
+var s := leia_texto
+enquanto nao eof faca
+  min = s.selecione(c => c >= 'a' e c <='z').tamanho
+  mai = s.selecione(c => c >= 'A' e c <='Z').tamanho
+  tam = s.selecione(c => c >= '0' e c <='9').tamanho
+
+  se min > 0 e mai > 0 e tam > 0 e (min + mai + tam) == s.tamanho e s.tamanho >= 6 e s.tamanho <= 32 entao
+    escreva "Senha valida."
+  senao
+    escreva "Senha invalida."
+  fim
+  s := leia_texto
+fim

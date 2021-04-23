@@ -1,4 +1,4 @@
-# Ad-Hoc (129 / 726)
+# Ad-Hoc (130 / 726)
 
 
 ## Problemas resolvidos
@@ -39,6 +39,7 @@
   - [x]  [1794](https://www.urionlinejudge.com.br/judge/pt/problems/view/1794) - [Lavanderia](https://github.com/potigol/uoj-potigol/blob/master/src/1700/1794.poti)
   - [x]  [1796](https://www.urionlinejudge.com.br/judge/pt/problems/view/1796) - [Economia Brasileira](https://github.com/potigol/uoj-potigol/blob/master/src/1700/1796.poti)
   - [x]  [1867](https://www.urionlinejudge.com.br/judge/pt/problems/view/1867) - [Maior Número de Um Algarismo](https://github.com/potigol/uoj-potigol/blob/master/src/1800/1867.poti)
+  - [x]  [1876](https://www.urionlinejudge.com.br/judge/pt/problems/view/1876) - [Rabiola](https://github.com/potigol/uoj-potigol/blob/master/src/1800/1876.poti)
   - [x]  [1877](https://www.urionlinejudge.com.br/judge/pt/problems/view/1877) - [O Castelo de Neve de Sansa](https://github.com/potigol/uoj-potigol/blob/master/src/1800/1877.poti)
   - [x]  [1893](https://www.urionlinejudge.com.br/judge/pt/problems/view/1893) - [Fases da Lua](https://github.com/potigol/uoj-potigol/blob/master/src/1800/1893.poti)
   - [x]  [1936](https://www.urionlinejudge.com.br/judge/pt/problems/view/1936) - [Fatorial](https://github.com/potigol/uoj-potigol/blob/master/src/1900/1936.poti)
@@ -292,7 +293,6 @@
   - [ ]  [1845](https://www.urionlinejudge.com.br/judge/pt/problems/view/1845) - Efílogo
   - [ ]  [1849](https://www.urionlinejudge.com.br/judge/pt/problems/view/1849) - Dracarys!
   - [ ]  [1870](https://www.urionlinejudge.com.br/judge/pt/problems/view/1870) - Ventiladores e Balões
-  - [ ]  [1876](https://www.urionlinejudge.com.br/judge/pt/problems/view/1876) - Rabiola
   - [ ]  [1879](https://www.urionlinejudge.com.br/judge/pt/problems/view/1879) - Bridge
   - [ ]  [1880](https://www.urionlinejudge.com.br/judge/pt/problems/view/1880) - Renzo e a Decoração Capicuânica
   - [ ]  [1881](https://www.urionlinejudge.com.br/judge/pt/problems/view/1881) - Competição de Robótica
