@@ -1,0 +1,18 @@
+n = leia_inteiro
+ss = para i de 1 ate n gere leia_inteiros(" ") fim
+para i de 1 ate n faca
+  var distancia := 500.0
+  para j de 1 ate n se i <> j faca
+    s, r = ss[i], ss[j]
+    a, b, c = s[1] - r[1], s[2] - r[2], s[3] - r[3]
+    dif = raiz(a^2 + b^2 + c^2)
+    se dif < distancia entao distancia := dif fim
+  fim
+  se distancia <= 20 entao
+    escreva "A"
+  senaose distancia <= 50 entao
+    escreva "M"
+  senao
+    escreva "B"
+  fim
+fim

@@ -1,4 +1,4 @@
-# Iniciante (297 / 325)
+# Iniciante (298 / 325)
 
 
 ## Problemas resolvidos
@@ -294,6 +294,7 @@
   - [x]  [3147](https://www.urionlinejudge.com.br/judge/pt/problems/view/3147) - [A Batalha dos Cinco Exércitos](https://github.com/potigol/uoj-potigol/blob/master/src/3100/3147.poti)
   - [x]  [3157](https://www.urionlinejudge.com.br/judge/pt/problems/view/3157) - [Viva a Ciência!](https://github.com/potigol/uoj-potigol/blob/master/src/3100/3157.poti)
   - [x]  [3161](https://www.urionlinejudge.com.br/judge/pt/problems/view/3161) - [As Frutas Esquecidas](https://github.com/potigol/uoj-potigol/blob/master/src/3100/3161.poti)
+  - [x]  [3162](https://www.urionlinejudge.com.br/judge/pt/problems/view/3162) - [Comunicação Espacial](https://github.com/potigol/uoj-potigol/blob/master/src/3100/3162.poti)
   - [x]  [3174](https://www.urionlinejudge.com.br/judge/pt/problems/view/3174) - [Grupo de Trabalho do Noel](https://github.com/potigol/uoj-potigol/blob/master/src/3100/3174.poti)
   - [x]  [3208](https://www.urionlinejudge.com.br/judge/pt/problems/view/3208) - [O Criptógrafo Envergonhado](https://github.com/potigol/uoj-potigol/blob/master/src/3200/3208.poti)
   - [x]  [3209](https://www.urionlinejudge.com.br/judge/pt/problems/view/3209) - [Tomadas Elétricas](https://github.com/potigol/uoj-potigol/blob/master/src/3200/3209.poti)
@@ -308,7 +309,6 @@
   - [ ]  [2758](https://www.urionlinejudge.com.br/judge/pt/problems/view/2758) - Entrada e Saída de Números Reais
   - [ ]  [2769](https://www.urionlinejudge.com.br/judge/pt/problems/view/2769) - Linha de Montagem
   - [ ]  [2785](https://www.urionlinejudge.com.br/judge/pt/problems/view/2785) - Pirâmide
-  - [ ]  [3162](https://www.urionlinejudge.com.br/judge/pt/problems/view/3162) - Comunicação Espacial
   - [ ]  [3164](https://www.urionlinejudge.com.br/judge/pt/problems/view/3164) - Fiscalizando Empresa
   - [ ]  [3166](https://www.urionlinejudge.com.br/judge/pt/problems/view/3166) - Procurando Palavras na Diagonal Principal
   - [ ]  [3167](https://www.urionlinejudge.com.br/judge/pt/problems/view/3167) - Procurando Palavras na Diagonal Secundária
