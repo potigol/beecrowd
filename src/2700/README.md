@@ -85,7 +85,7 @@
   - [x]  [2782](https://www.urionlinejudge.com.br/judge/pt/problems/view/2782) - [Escadinha](https://github.com/potigol/uoj-potigol/blob/master/src/2700/2782.poti) *Iniciante*
   - [x]  [2783](https://www.urionlinejudge.com.br/judge/pt/problems/view/2783) - [Figurinhas da Copa](https://github.com/potigol/uoj-potigol/blob/master/src/2700/2783.poti) *Iniciante*
   - [ ]  [2784](https://www.urionlinejudge.com.br/judge/pt/problems/view/2784) - Ilhas *Grafos*
-  - [ ]  [2785](https://www.urionlinejudge.com.br/judge/pt/problems/view/2785) - Pirâmide *Iniciante*
+  - [x]  [2785](https://www.urionlinejudge.com.br/judge/pt/problems/view/2785) - [Pirâmide](https://github.com/potigol/uoj-potigol/blob/master/src/2700/2785.poti) *Iniciante*
   - [x]  [2786](https://www.urionlinejudge.com.br/judge/pt/problems/view/2786) - [Piso da Escola](https://github.com/potigol/uoj-potigol/blob/master/src/2700/2786.poti) *Iniciante*
   - [x]  [2787](https://www.urionlinejudge.com.br/judge/pt/problems/view/2787) - [Xadrez](https://github.com/potigol/uoj-potigol/blob/master/src/2700/2787.poti) *Iniciante*
   - [ ]  [2788](https://www.urionlinejudge.com.br/judge/pt/problems/view/2788) - Aula *Ad-Hoc*
