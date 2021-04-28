@@ -1,4 +1,4 @@
-# Iniciante (298 / 325)
+# Iniciante (299 / 325)
 
 
 ## Problemas resolvidos
@@ -244,6 +244,7 @@
   - [x]  [2780](https://www.urionlinejudge.com.br/judge/pt/problems/view/2780) - [Basquete de Robôs](https://github.com/potigol/uoj-potigol/blob/master/src/2700/2780.poti)
   - [x]  [2782](https://www.urionlinejudge.com.br/judge/pt/problems/view/2782) - [Escadinha](https://github.com/potigol/uoj-potigol/blob/master/src/2700/2782.poti)
   - [x]  [2783](https://www.urionlinejudge.com.br/judge/pt/problems/view/2783) - [Figurinhas da Copa](https://github.com/potigol/uoj-potigol/blob/master/src/2700/2783.poti)
+  - [x]  [2785](https://www.urionlinejudge.com.br/judge/pt/problems/view/2785) - [Pirâmide](https://github.com/potigol/uoj-potigol/blob/master/src/2700/2785.poti)
   - [x]  [2786](https://www.urionlinejudge.com.br/judge/pt/problems/view/2786) - [Piso da Escola](https://github.com/potigol/uoj-potigol/blob/master/src/2700/2786.poti)
   - [x]  [2787](https://www.urionlinejudge.com.br/judge/pt/problems/view/2787) - [Xadrez](https://github.com/potigol/uoj-potigol/blob/master/src/2700/2787.poti)
   - [x]  [2791](https://www.urionlinejudge.com.br/judge/pt/problems/view/2791) - [Feijão](https://github.com/potigol/uoj-potigol/blob/master/src/2700/2791.poti)
@@ -308,7 +309,6 @@
   - [ ]  [2715](https://www.urionlinejudge.com.br/judge/pt/problems/view/2715) - Dividindo os Trabalhos I
   - [ ]  [2758](https://www.urionlinejudge.com.br/judge/pt/problems/view/2758) - Entrada e Saída de Números Reais
   - [ ]  [2769](https://www.urionlinejudge.com.br/judge/pt/problems/view/2769) - Linha de Montagem
-  - [ ]  [2785](https://www.urionlinejudge.com.br/judge/pt/problems/view/2785) - Pirâmide
   - [ ]  [3164](https://www.urionlinejudge.com.br/judge/pt/problems/view/3164) - Fiscalizando Empresa
   - [ ]  [3166](https://www.urionlinejudge.com.br/judge/pt/problems/view/3166) - Procurando Palavras na Diagonal Principal
   - [ ]  [3167](https://www.urionlinejudge.com.br/judge/pt/problems/view/3167) - Procurando Palavras na Diagonal Secundária

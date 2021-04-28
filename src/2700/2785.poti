@@ -1,0 +1,14 @@
+n = leia_inteiro
+var min := leia_inteiros(" ")
+para i de 2 até n faça
+  linha = leia_inteiros(" ")
+  var soma := linha.pegue(i).injete(0)(_ + _)
+  para j de 1 até n - i + 1 faça
+    a = se min[j] < min[j+1] entao min[j] senao min[j+1] fim
+    min[j] := soma + a
+    se j < n - i + 1 entao
+      soma := soma + linha[j + i] - linha[j]
+    fim
+  fim
+fim
+escreva min.cabeça
