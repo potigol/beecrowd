@@ -94,7 +94,7 @@
   - [x]  [2591](https://www.urionlinejudge.com.br/judge/pt/problems/view/2591) - [HameKameKa](https://github.com/potigol/uoj-potigol/blob/master/src/2500/2591.poti) *Strings*
   - [ ]  [2592](https://www.urionlinejudge.com.br/judge/pt/problems/view/2592) - VaiNaSort *Ad-Hoc*
   - [x]  [2593](https://www.urionlinejudge.com.br/judge/pt/problems/view/2593) - [Eachianos I](https://github.com/potigol/uoj-potigol/blob/master/src/2500/2593.poti) *Estruturas e Bibliotecas*
-  - [ ]  [2594](https://www.urionlinejudge.com.br/judge/pt/problems/view/2594) - Eachianos II *Estruturas e Bibliotecas*
+  - [x]  [2594](https://www.urionlinejudge.com.br/judge/pt/problems/view/2594) - [Eachianos II](https://github.com/potigol/uoj-potigol/blob/master/src/2500/2594.poti) *Estruturas e Bibliotecas*
   - [ ]  [2595](https://www.urionlinejudge.com.br/judge/pt/problems/view/2595) - Cash Roial *Ad-Hoc*
   - [x]  [2596](https://www.urionlinejudge.com.br/judge/pt/problems/view/2596) - [Xenlonguinho](https://github.com/potigol/uoj-potigol/blob/master/src/2500/2596.poti) *Matemática*
   - [ ]  [2597](https://www.urionlinejudge.com.br/judge/pt/problems/view/2597) - Xenlongão *Matemática*

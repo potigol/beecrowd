@@ -1,0 +1,30 @@
+reorganizar(entrada: Lista[Inteiro]) =
+  organizar(entrada.inverta, [], entrada.tamanho)
+
+organizar(entrada, pilha: Lista[Inteiro], proximo: Inteiro): Lógico =
+  se entrada == [] e pilha == [] entao
+    verdadeiro
+  senaose pilha.tamanho > 0 e pilha.cabeca == proximo entao
+    organizar(entrada, pilha.cauda, proximo - 1)
+  senaose entrada.tamanho > 0 entao
+    se entrada.cabeca == proximo entao
+      organizar(entrada.cauda, pilha, proximo - 1)
+    senao
+      organizar(entrada.cauda, entrada.cabeca::pilha, proximo)
+    fim
+  senao
+    falso
+  fim
+
+enquanto leia_inteiro > 0 faca
+  var s := leia_inteiros(" ")
+  enquanto s.cabeca > 0 faca
+    se reorganizar(s) entao
+      escreva "Yes"
+    senao
+      escreva "No"
+    fim
+    s := leia_inteiros(" ")
+  fim
+  escreva ""
+fim

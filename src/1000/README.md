@@ -62,7 +62,7 @@
   - [x]  [1059](https://www.urionlinejudge.com.br/judge/pt/problems/view/1059) - [Números Pares](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1059.poti) *Iniciante*
   - [x]  [1060](https://www.urionlinejudge.com.br/judge/pt/problems/view/1060) - [Números Positivos](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1060.poti) *Iniciante*
   - [x]  [1061](https://www.urionlinejudge.com.br/judge/pt/problems/view/1061) - [Tempo de um Evento](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1061.poti) *Iniciante*
-  - [ ]  [1062](https://www.urionlinejudge.com.br/judge/pt/problems/view/1062) - Trilhos *Estruturas e Bibliotecas*
+  - [x]  [1062](https://www.urionlinejudge.com.br/judge/pt/problems/view/1062) - [Trilhos](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1062.poti) *Estruturas e Bibliotecas*
   - [ ]  [1063](https://www.urionlinejudge.com.br/judge/pt/problems/view/1063) - Trilhos Novamente... Traçando Movimentos *Estruturas e Bibliotecas*
   - [x]  [1064](https://www.urionlinejudge.com.br/judge/pt/problems/view/1064) - [Positivos e Média](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1064.poti) *Iniciante*
   - [x]  [1065](https://www.urionlinejudge.com.br/judge/pt/problems/view/1065) - [Pares entre Cinco Números](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1065.poti) *Iniciante*

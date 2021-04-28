@@ -1,9 +1,10 @@
-# Estruturas e Bibliotecas (21 / 178)
+# Estruturas e Bibliotecas (23 / 178)
 
 
 ## Problemas resolvidos
 
   - [x]  [1022](https://www.urionlinejudge.com.br/judge/pt/problems/view/1022) - [TDA Racional](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1022.poti)
+  - [x]  [1062](https://www.urionlinejudge.com.br/judge/pt/problems/view/1062) - [Trilhos](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1062.poti)
   - [x]  [1068](https://www.urionlinejudge.com.br/judge/pt/problems/view/1068) - [Balanço de Parênteses I](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1068.poti)
   - [x]  [1069](https://www.urionlinejudge.com.br/judge/pt/problems/view/1069) - [Diamantes e Areia](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1069.poti)
   - [x]  [1110](https://www.urionlinejudge.com.br/judge/pt/problems/view/1110) - [Jogando Cartas Fora](https://github.com/potigol/uoj-potigol/blob/master/src/1100/1110.poti)
@@ -19,6 +20,7 @@
   - [x]  [2338](https://www.urionlinejudge.com.br/judge/pt/problems/view/2338) - [Morse](https://github.com/potigol/uoj-potigol/blob/master/src/2300/2338.poti)
   - [x]  [2496](https://www.urionlinejudge.com.br/judge/pt/problems/view/2496) - [A Única Chance](https://github.com/potigol/uoj-potigol/blob/master/src/2400/2496.poti)
   - [x]  [2593](https://www.urionlinejudge.com.br/judge/pt/problems/view/2593) - [Eachianos I](https://github.com/potigol/uoj-potigol/blob/master/src/2500/2593.poti)
+  - [x]  [2594](https://www.urionlinejudge.com.br/judge/pt/problems/view/2594) - [Eachianos II](https://github.com/potigol/uoj-potigol/blob/master/src/2500/2594.poti)
   - [x]  [2633](https://www.urionlinejudge.com.br/judge/pt/problems/view/2633) - [Churras no Yuri](https://github.com/potigol/uoj-potigol/blob/master/src/2600/2633.poti)
   - [x]  [2693](https://www.urionlinejudge.com.br/judge/pt/problems/view/2693) - [Van](https://github.com/potigol/uoj-potigol/blob/master/src/2600/2693.poti)
   - [x]  [2729](https://www.urionlinejudge.com.br/judge/pt/problems/view/2729) - [Lista de Compras](https://github.com/potigol/uoj-potigol/blob/master/src/2700/2729.poti)
@@ -28,7 +30,6 @@
 
   - [ ]  [1023](https://www.urionlinejudge.com.br/judge/pt/problems/view/1023) - Estiagem
   - [ ]  [1025](https://www.urionlinejudge.com.br/judge/pt/problems/view/1025) - Onde está o Mármore?
-  - [ ]  [1062](https://www.urionlinejudge.com.br/judge/pt/problems/view/1062) - Trilhos
   - [ ]  [1063](https://www.urionlinejudge.com.br/judge/pt/problems/view/1063) - Trilhos Novamente... Traçando Movimentos
   - [ ]  [1077](https://www.urionlinejudge.com.br/judge/pt/problems/view/1077) - Infixa para Posfixa
   - [ ]  [1083](https://www.urionlinejudge.com.br/judge/pt/problems/view/1083) - LEXSIM - Avaliador Lexico e Sintático
@@ -139,7 +140,6 @@
   - [ ]  [2546](https://www.urionlinejudge.com.br/judge/pt/problems/view/2546) - Mesada
   - [ ]  [2559](https://www.urionlinejudge.com.br/judge/pt/problems/view/2559) - Sexta-Feira 13
   - [ ]  [2560](https://www.urionlinejudge.com.br/judge/pt/problems/view/2560) - Surf Aquático
-  - [ ]  [2594](https://www.urionlinejudge.com.br/judge/pt/problems/view/2594) - Eachianos II
   - [ ]  [2654](https://www.urionlinejudge.com.br/judge/pt/problems/view/2654) - Godofor
   - [ ]  [2655](https://www.urionlinejudge.com.br/judge/pt/problems/view/2655) - Trilha Perigosa
   - [ ]  [2656](https://www.urionlinejudge.com.br/judge/pt/problems/view/2656) - Rhombus

@@ -1,6 +1,6 @@
 # Soluções dos Problemas do URI Online Judge - Potigol
 [![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/potigol/uoj-potigol)
-[![Soluções](https://img.shields.io/badge/Problemas%20Resolvidos-560-green)](https://github.com/potigol/URI-Potigol/commits/master)
+[![Soluções](https://img.shields.io/badge/Problemas%20Resolvidos-562-green)](https://github.com/potigol/URI-Potigol/commits/master)
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/potigol/uoj-potigol)
 
