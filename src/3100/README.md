@@ -70,7 +70,7 @@
   - [ ]  [3167](https://www.urionlinejudge.com.br/judge/pt/problems/view/3167) - Procurando Palavras na Diagonal Secundária *Iniciante*
   - [ ]  [3168](https://www.urionlinejudge.com.br/judge/pt/problems/view/3168) - Aposta dos Gnomos *Ad-Hoc*
   - [ ]  [3169](https://www.urionlinejudge.com.br/judge/pt/problems/view/3169) - Batendo em Retirada *Grafos*
-  - [ ]  [3170](https://www.urionlinejudge.com.br/judge/pt/problems/view/3170) - Bolinhas de Natal *Iniciante*
+  - [x]  [3170](https://www.urionlinejudge.com.br/judge/pt/problems/view/3170) - [Bolinhas de Natal](https://github.com/potigol/uoj-potigol/blob/master/src/3100/3170.poti) *Iniciante*
   - [ ]  [3171](https://www.urionlinejudge.com.br/judge/pt/problems/view/3171) - Cordão de Led *Estruturas e Bibliotecas*
   - [ ]  [3172](https://www.urionlinejudge.com.br/judge/pt/problems/view/3172) - Dali e Dila *Ad-Hoc*
   - [ ]  [3173](https://www.urionlinejudge.com.br/judge/pt/problems/view/3173) - Estrela de Natal *Iniciante*
