@@ -73,7 +73,7 @@
   - [ ]  [3270](https://www.urionlinejudge.com.br/judge/pt/problems/view/3270) - Praça Catalã *Matemática*
   - [ ]  [3271](https://www.urionlinejudge.com.br/judge/pt/problems/view/3271) - Jogo de Dados *Matemática*
   - [ ]  [3272](https://www.urionlinejudge.com.br/judge/pt/problems/view/3272) - Cerimônia de Abertura *Matemática*
-  - [ ]  [3273](https://www.urionlinejudge.com.br/judge/pt/problems/view/3273) - Troca de Partículas *Grafos*
+  - [ ] ~~3273~~
   - [ ]  [3274](https://www.urionlinejudge.com.br/judge/pt/problems/view/3274) - Excursão *Paradigmas*
   - [ ]  [3275](https://www.urionlinejudge.com.br/judge/pt/problems/view/3275) - Foto de Relógios *Strings*
   - [ ]  [3276](https://www.urionlinejudge.com.br/judge/pt/problems/view/3276) - Quantos Quadrados? *Matemática*

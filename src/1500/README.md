@@ -42,7 +42,7 @@
   - [ ]  [1539](https://www.urionlinejudge.com.br/judge/pt/problems/view/1539) - Empresa de Telecom *Grafos*
   - [ ]  [1540](https://www.urionlinejudge.com.br/judge/pt/problems/view/1540) - Planejando a Energia *Ad-Hoc*
   - [x]  [1541](https://www.urionlinejudge.com.br/judge/pt/problems/view/1541) - [Construindo Casas](https://github.com/potigol/uoj-potigol/blob/master/src/1500/1541.poti) *Iniciante*
-  - [ ]  [1542](https://www.urionlinejudge.com.br/judge/pt/problems/view/1542) - Lendo Livros *Ad-Hoc*
+  - [x]  [1542](https://www.urionlinejudge.com.br/judge/pt/problems/view/1542) - [Lendo Livros](https://github.com/potigol/uoj-potigol/blob/master/src/1500/1542.poti) *Ad-Hoc*
   - [ ]  [1543](https://www.urionlinejudge.com.br/judge/pt/problems/view/1543) - Quadro Premiado *Paradigmas*
   - [ ]  [1544](https://www.urionlinejudge.com.br/judge/pt/problems/view/1544) - O Último Dígito Não-Zero *Matemática*
   - [ ]  [1545](https://www.urionlinejudge.com.br/judge/pt/problems/view/1545) - Cartões II *Paradigmas*

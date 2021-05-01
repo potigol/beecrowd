@@ -1,0 +1,10 @@
+var a := leia_inteiros(" ")
+enquanto a[1] > 0 faça
+  paginas = a[1] * a[2] * a[3] div (a[3] - a[1])
+  se paginas > 1 entao
+    escreva "{paginas} paginas"
+  senao
+    escreva "{paginas} pagina"
+  fim
+  a := leia_inteiros(" ")
+fim

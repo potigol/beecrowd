@@ -1,0 +1,7 @@
+c = leia_inteiro
+para i de 1 ate c faca
+  n = leia_inteiro
+  r = raiz(n).inteiro
+  a = n - r
+  escreva a
+fim

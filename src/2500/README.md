@@ -97,6 +97,6 @@
   - [x]  [2594](https://www.urionlinejudge.com.br/judge/pt/problems/view/2594) - [Eachianos II](https://github.com/potigol/uoj-potigol/blob/master/src/2500/2594.poti) *Estruturas e Bibliotecas*
   - [ ]  [2595](https://www.urionlinejudge.com.br/judge/pt/problems/view/2595) - Cash Roial *Ad-Hoc*
   - [x]  [2596](https://www.urionlinejudge.com.br/judge/pt/problems/view/2596) - [Xenlonguinho](https://github.com/potigol/uoj-potigol/blob/master/src/2500/2596.poti) *Matemática*
-  - [ ]  [2597](https://www.urionlinejudge.com.br/judge/pt/problems/view/2597) - Xenlongão *Matemática*
+  - [x]  [2597](https://www.urionlinejudge.com.br/judge/pt/problems/view/2597) - [Xenlongão](https://github.com/potigol/uoj-potigol/blob/master/src/2500/2597.poti) *Matemática*
   - [x]  [2598](https://www.urionlinejudge.com.br/judge/pt/problems/view/2598) - [Colocando Radares](https://github.com/potigol/uoj-potigol/blob/master/src/2500/2598.poti) *Matemática*
   - [ ]  [2599](https://www.urionlinejudge.com.br/judge/pt/problems/view/2599) - Contando Radares *Paradigmas*

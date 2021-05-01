@@ -2241,7 +2241,6 @@
 3270	Praça Catalã	Matemática
 3271	Jogo de Dados	Matemática
 3272	Cerimônia de Abertura	Matemática
-3273	Troca de Partículas	Grafos
 3274	Excursão	Paradigmas
 3275	Foto de Relógios	Strings
 3276	Quantos Quadrados?	Matemática

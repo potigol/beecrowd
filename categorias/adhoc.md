@@ -1,4 +1,4 @@
-# Ad-Hoc (130 / 726)
+# Ad-Hoc (131 / 726)
 
 
 ## Problemas resolvidos
@@ -31,6 +31,7 @@
   - [x]  [1467](https://www.urionlinejudge.com.br/judge/pt/problems/view/1467) - [Zerinho ou Um](https://github.com/potigol/uoj-potigol/blob/master/src/1400/1467.poti)
   - [x]  [1515](https://www.urionlinejudge.com.br/judge/pt/problems/view/1515) - [Hello Galaxy](https://github.com/potigol/uoj-potigol/blob/master/src/1500/1515.poti)
   - [x]  [1533](https://www.urionlinejudge.com.br/judge/pt/problems/view/1533) - [Detetive Watson](https://github.com/potigol/uoj-potigol/blob/master/src/1500/1533.poti)
+  - [x]  [1542](https://www.urionlinejudge.com.br/judge/pt/problems/view/1542) - [Lendo Livros](https://github.com/potigol/uoj-potigol/blob/master/src/1500/1542.poti)
   - [x]  [1546](https://www.urionlinejudge.com.br/judge/pt/problems/view/1546) - [Feedback](https://github.com/potigol/uoj-potigol/blob/master/src/1500/1546.poti)
   - [x]  [1573](https://www.urionlinejudge.com.br/judge/pt/problems/view/1573) - [Fábrica de Chocolate](https://github.com/potigol/uoj-potigol/blob/master/src/1500/1573.poti)
   - [x]  [1708](https://www.urionlinejudge.com.br/judge/pt/problems/view/1708) - [Volta](https://github.com/potigol/uoj-potigol/blob/master/src/1700/1708.poti)
@@ -217,7 +218,6 @@
   - [ ]  [1532](https://www.urionlinejudge.com.br/judge/pt/problems/view/1532) - Arremesso de Bolas
   - [ ]  [1536](https://www.urionlinejudge.com.br/judge/pt/problems/view/1536) - Libertadores
   - [ ]  [1540](https://www.urionlinejudge.com.br/judge/pt/problems/view/1540) - Planejando a Energia
-  - [ ]  [1542](https://www.urionlinejudge.com.br/judge/pt/problems/view/1542) - Lendo Livros
   - [ ]  [1547](https://www.urionlinejudge.com.br/judge/pt/problems/view/1547) - Adivinha
   - [ ]  [1553](https://www.urionlinejudge.com.br/judge/pt/problems/view/1553) - Perguntas mais Frequentes
   - [ ]  [1558](https://www.urionlinejudge.com.br/judge/pt/problems/view/1558) - Soma de Dois Quadrados
