@@ -1,4 +1,4 @@
-# Grafos (3 / 276)
+# Grafos (3 / 273)
 
 
 ## Problemas resolvidos
@@ -274,9 +274,6 @@
   - [ ]  [3221](https://www.urionlinejudge.com.br/judge/pt/problems/view/3221) - Faróis
   - [ ]  [3236](https://www.urionlinejudge.com.br/judge/pt/problems/view/3236) - Sucessão
   - [ ]  [3237](https://www.urionlinejudge.com.br/judge/pt/problems/view/3237) - Conectar
-  - [ ]  [3238](https://www.urionlinejudge.com.br/judge/pt/problems/view/3238) - Borg Boogie
-  - [ ]  [3243](https://www.urionlinejudge.com.br/judge/pt/problems/view/3243) - Poderes de Poliminó
-  - [ ]  [3246](https://www.urionlinejudge.com.br/judge/pt/problems/view/3246) - Em torno da pista
   - [ ]  [3247](https://www.urionlinejudge.com.br/judge/pt/problems/view/3247) - Robôs em uma Grade
   - [ ]  [3264](https://www.urionlinejudge.com.br/judge/pt/problems/view/3264) - Pinball
   - [ ]  [3268](https://www.urionlinejudge.com.br/judge/pt/problems/view/3268) - Lounges da Amanda

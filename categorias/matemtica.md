@@ -1,4 +1,4 @@
-# Matemática (50 / 264)
+# Matemática (50 / 262)
 
 
 ## Problemas resolvidos
@@ -259,8 +259,6 @@
   - [ ]  [3187](https://www.urionlinejudge.com.br/judge/pt/problems/view/3187) - Apenas Mais Alguns Triângulos!
   - [ ]  [3216](https://www.urionlinejudge.com.br/judge/pt/problems/view/3216) - Teste Alérgico
   - [ ]  [3223](https://www.urionlinejudge.com.br/judge/pt/problems/view/3223) - Permutações de Código
-  - [ ]  [3242](https://www.urionlinejudge.com.br/judge/pt/problems/view/3242) - Great Geek Game-show 3000!
-  - [ ]  [3244](https://www.urionlinejudge.com.br/judge/pt/problems/view/3244) - Estatísticos(as)
   - [ ]  [3257](https://www.urionlinejudge.com.br/judge/pt/problems/view/3257) - Plantando Árvores
   - [ ]  [3259](https://www.urionlinejudge.com.br/judge/pt/problems/view/3259) - Truque Numérico
   - [ ]  [3265](https://www.urionlinejudge.com.br/judge/pt/problems/view/3265) - Reconstrução de Dança

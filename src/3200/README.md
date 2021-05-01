@@ -38,15 +38,15 @@
   - [ ]  [3235](https://www.urionlinejudge.com.br/judge/pt/problems/view/3235) - Luggage *Iniciante*
   - [ ]  [3236](https://www.urionlinejudge.com.br/judge/pt/problems/view/3236) - Sucessão *Grafos*
   - [ ]  [3237](https://www.urionlinejudge.com.br/judge/pt/problems/view/3237) - Conectar *Grafos*
-  - [ ]  [3238](https://www.urionlinejudge.com.br/judge/pt/problems/view/3238) - Borg Boogie *Grafos*
+  - [ ] ~~3238~~
   - [ ]  [3239](https://www.urionlinejudge.com.br/judge/pt/problems/view/3239) - Dirty Driving *Estruturas e Bibliotecas*
   - [ ]  [3240](https://www.urionlinejudge.com.br/judge/pt/problems/view/3240) - Doodling *Ad-Hoc*
   - [x]  [3241](https://www.urionlinejudge.com.br/judge/pt/problems/view/3241) - [Ajude um candidato a PhD!](https://github.com/potigol/uoj-potigol/blob/master/src/3200/3241.poti) *Iniciante*
-  - [ ]  [3242](https://www.urionlinejudge.com.br/judge/pt/problems/view/3242) - Great Geek Game-show 3000! *Matemática*
-  - [ ]  [3243](https://www.urionlinejudge.com.br/judge/pt/problems/view/3243) - Poderes de Poliminó *Grafos*
-  - [ ]  [3244](https://www.urionlinejudge.com.br/judge/pt/problems/view/3244) - Estatísticos(as) *Matemática*
-  - [ ]  [3245](https://www.urionlinejudge.com.br/judge/pt/problems/view/3245) - Horizonte *Ad-Hoc*
-  - [ ]  [3246](https://www.urionlinejudge.com.br/judge/pt/problems/view/3246) - Em torno da pista *Grafos*
+  - [ ] ~~3242~~
+  - [ ] ~~3243~~
+  - [ ] ~~3244~~
+  - [ ] ~~3245~~
+  - [ ] ~~3246~~
   - [ ]  [3247](https://www.urionlinejudge.com.br/judge/pt/problems/view/3247) - Robôs em uma Grade *Grafos*
   - [ ]  [3248](https://www.urionlinejudge.com.br/judge/pt/problems/view/3248) - Mega Inversões *Estruturas e Bibliotecas*
   - [ ]  [3249](https://www.urionlinejudge.com.br/judge/pt/problems/view/3249) - Death Knight Hero *Iniciante*

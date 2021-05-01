@@ -1,4 +1,4 @@
-# Ad-Hoc (131 / 726)
+# Ad-Hoc (131 / 725)
 
 
 ## Problemas resolvidos
@@ -727,7 +727,6 @@
   - [ ]  [3226](https://www.urionlinejudge.com.br/judge/pt/problems/view/3226) - Seleção de Biscoito
   - [ ]  [3227](https://www.urionlinejudge.com.br/judge/pt/problems/view/3227) - Doorman
   - [ ]  [3240](https://www.urionlinejudge.com.br/judge/pt/problems/view/3240) - Doodling
-  - [ ]  [3245](https://www.urionlinejudge.com.br/judge/pt/problems/view/3245) - Horizonte
   - [ ]  [3254](https://www.urionlinejudge.com.br/judge/pt/problems/view/3254) - Espaço Privado
   - [ ]  [3263](https://www.urionlinejudge.com.br/judge/pt/problems/view/3263) - Apague Com Segurança
   - [ ]  [3278](https://www.urionlinejudge.com.br/judge/pt/problems/view/3278) - Passageiros de Trem
