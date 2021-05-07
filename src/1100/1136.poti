@@ -1,0 +1,26 @@
+var a := leia_inteiros(" ")
+enquanto a[1] > 0 faca
+  n, b = a[1], a[2]
+  var p := Lista(n, 0).mutavel
+  var cont := 0
+  nums = leia_inteiros(" ").ordene
+  var i, j := 1, nums.tamanho
+  enquanto cont < n e i < nums.tamanho faca
+    x = nums[j] - nums[i]
+    se p[x] == 0 entao
+      p[x] := 1
+      cont := cont + 1
+    fim
+    j := j - 1
+    se j == i entao
+      i := i + 1
+      j := nums.tamanho
+    fim
+  fim
+  se cont == n entao
+    escreva "Y"
+  senao
+    escreva "N"
+  fim
+  a := leia_inteiros(" ")
+fim

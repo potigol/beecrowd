@@ -8,7 +8,7 @@
   - [ ]  [2105](https://www.urionlinejudge.com.br/judge/pt/problems/view/2105) - Monopólio *Paradigmas*
   - [ ]  [2106](https://www.urionlinejudge.com.br/judge/pt/problems/view/2106) - Montagem *Paradigmas*
   - [ ]  [2107](https://www.urionlinejudge.com.br/judge/pt/problems/view/2107) - As Pirâmides de Ecaterinburgo *Matemática*
-  - [ ]  [2108](https://www.urionlinejudge.com.br/judge/pt/problems/view/2108) - Contando Caracters *Strings*
+  - [x]  [2108](https://www.urionlinejudge.com.br/judge/pt/problems/view/2108) - [Contando Caracters](https://github.com/potigol/uoj-potigol/blob/master/src/2100/2108.poti) *Strings*
   - [ ]  [2109](https://www.urionlinejudge.com.br/judge/pt/problems/view/2109) - Duelo de Espiões *Paradigmas*
   - [ ]  [2110](https://www.urionlinejudge.com.br/judge/pt/problems/view/2110) - Banho de Sol no Jardim *Estruturas e Bibliotecas*
   - [ ]  [2111](https://www.urionlinejudge.com.br/judge/pt/problems/view/2111) - Entendendo o Sorobov *Estruturas e Bibliotecas*

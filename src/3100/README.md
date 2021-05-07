@@ -17,7 +17,7 @@
   - [ ]  [3114](https://www.urionlinejudge.com.br/judge/pt/problems/view/3114) - Parkour *Paradigmas*
   - [ ]  [3115](https://www.urionlinejudge.com.br/judge/pt/problems/view/3115) - Estradas *Grafos*
   - [ ]  [3116](https://www.urionlinejudge.com.br/judge/pt/problems/view/3116) - Seguidores Impossíveis *Paradigmas*
-  - [ ]  [3117](https://www.urionlinejudge.com.br/judge/pt/problems/view/3117) - Atrasadinhos *Ad-Hoc*
+  - [x]  [3117](https://www.urionlinejudge.com.br/judge/pt/problems/view/3117) - [Atrasadinhos](https://github.com/potigol/uoj-potigol/blob/master/src/3100/3117.poti) *Ad-Hoc*
   - [ ]  [3118](https://www.urionlinejudge.com.br/judge/pt/problems/view/3118) - Bactérias, Suas Loucas! *Strings*
   - [ ]  [3119](https://www.urionlinejudge.com.br/judge/pt/problems/view/3119) - As Aventuras do Calango Atômico *Grafos*
   - [ ]  [3120](https://www.urionlinejudge.com.br/judge/pt/problems/view/3120) - Jogada de Marketing *Ad-Hoc*

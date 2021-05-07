@@ -1,0 +1,8 @@
+n = leia_inteiro
+s = leia_textos(n).mapeie(_.cabeca).junte("")
+r = s.divida_quando(_ <> _).selecione(_.cabeca == '.').mapeie(_.tamanho).ordene.inverta
+se r.tamanho > 0 e r.cabeca > 2 entao
+  escreva "N"
+senao
+  escreva r.tamanho
+fim

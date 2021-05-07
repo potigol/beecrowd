@@ -340,7 +340,7 @@
 ### 2ª Fase
 
   - [ ]  [1135](https://www.urionlinejudge.com.br/judge/pt/problems/view/1135) - Colônia de Formigas *Grafos*
-  - [ ]  [1136](https://www.urionlinejudge.com.br/judge/pt/problems/view/1136) - Bingo! *Ad-Hoc*
+  - [x]  [1136](https://www.urionlinejudge.com.br/judge/pt/problems/view/1136) - [Bingo!](https://github.com/potigol/uoj-potigol/blob/master/src/1100/1136.poti) *Ad-Hoc*
   - [ ]  [1137](https://www.urionlinejudge.com.br/judge/pt/problems/view/1137) - Pontos Cocirculares *Geometria Computacional*
   - [ ]  [1138](https://www.urionlinejudge.com.br/judge/pt/problems/view/1138) - Contagem de Dígitos *Matemática*
   - [ ]  [1139](https://www.urionlinejudge.com.br/judge/pt/problems/view/1139) - Necessidades Elétricas *Ad-Hoc*

@@ -1,0 +1,7 @@
+  k = leia_inteiros(" ")[2]
+  a = leia_inteiros(" ").selecione(_ <= 0).tamanho
+  se a >= k entao
+    escreva "YES"
+  senao
+    escreva "NO"
+  fim

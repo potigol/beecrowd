@@ -1,4 +1,4 @@
-# Strings (53 / 140)
+# Strings (54 / 140)
 
 
 ## Problemas resolvidos
@@ -34,6 +34,7 @@
   - [x]  [1873](https://www.urionlinejudge.com.br/judge/pt/problems/view/1873) - [Pedra-papel-tesoura-lagarto-Spock](https://github.com/potigol/uoj-potigol/blob/master/src/1800/1873.poti)
   - [x]  [2023](https://www.urionlinejudge.com.br/judge/pt/problems/view/2023) - [A Última Criança Boa](https://github.com/potigol/uoj-potigol/blob/master/src/2000/2023.poti)
   - [x]  [2062](https://www.urionlinejudge.com.br/judge/pt/problems/view/2062) - [OBI URI](https://github.com/potigol/uoj-potigol/blob/master/src/2000/2062.poti)
+  - [x]  [2108](https://www.urionlinejudge.com.br/judge/pt/problems/view/2108) - [Contando Caracters](https://github.com/potigol/uoj-potigol/blob/master/src/2100/2108.poti)
   - [x]  [2137](https://www.urionlinejudge.com.br/judge/pt/problems/view/2137) - [A Biblioteca do Senhor Severino](https://github.com/potigol/uoj-potigol/blob/master/src/2100/2137.poti)
   - [x]  [2157](https://www.urionlinejudge.com.br/judge/pt/problems/view/2157) - [Sequência Espelho](https://github.com/potigol/uoj-potigol/blob/master/src/2100/2157.poti)
   - [x]  [2174](https://www.urionlinejudge.com.br/judge/pt/problems/view/2174) - [Coleção de Pomekon](https://github.com/potigol/uoj-potigol/blob/master/src/2100/2174.poti)
@@ -109,7 +110,6 @@
   - [ ]  [2087](https://www.urionlinejudge.com.br/judge/pt/problems/view/2087) - Conjuntos Bons e Ruins
   - [ ]  [2093](https://www.urionlinejudge.com.br/judge/pt/problems/view/2093) - Fuja para Escapar
   - [ ]  [2097](https://www.urionlinejudge.com.br/judge/pt/problems/view/2097) - Nome para Número
-  - [ ]  [2108](https://www.urionlinejudge.com.br/judge/pt/problems/view/2108) - Contando Caracters
   - [ ]  [2132](https://www.urionlinejudge.com.br/judge/pt/problems/view/2132) - Não é Mais Um Joguinho Canadense!
   - [ ]  [2150](https://www.urionlinejudge.com.br/judge/pt/problems/view/2150) - Vogais Alienígenas
   - [ ]  [2153](https://www.urionlinejudge.com.br/judge/pt/problems/view/2153) - Sanduicheiche

@@ -53,7 +53,7 @@
   - [ ]  [1550](https://www.urionlinejudge.com.br/judge/pt/problems/view/1550) - Inversão *Grafos*
   - [x]  [1551](https://www.urionlinejudge.com.br/judge/pt/problems/view/1551) - [Frase Completa](https://github.com/potigol/uoj-potigol/blob/master/src/1500/1551.poti) *Strings*
   - [ ]  [1552](https://www.urionlinejudge.com.br/judge/pt/problems/view/1552) - Resgate em Queda Livre *Grafos*
-  - [ ]  [1553](https://www.urionlinejudge.com.br/judge/pt/problems/view/1553) - Perguntas mais Frequentes *Ad-Hoc*
+  - [x]  [1553](https://www.urionlinejudge.com.br/judge/pt/problems/view/1553) - [Perguntas mais Frequentes](https://github.com/potigol/uoj-potigol/blob/master/src/1500/1553.poti) *Ad-Hoc*
   - [ ]  [1554](https://www.urionlinejudge.com.br/judge/pt/problems/view/1554) - Bilhar N+1 *Matemática*
   - [x]  [1555](https://www.urionlinejudge.com.br/judge/pt/problems/view/1555) - [Funções](https://github.com/potigol/uoj-potigol/blob/master/src/1500/1555.poti) *Matemática*
   - [ ]  [1556](https://www.urionlinejudge.com.br/judge/pt/problems/view/1556) - Removendo Letras *Strings*

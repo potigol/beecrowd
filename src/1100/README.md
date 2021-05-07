@@ -36,7 +36,7 @@
   - [x]  [1133](https://www.urionlinejudge.com.br/judge/pt/problems/view/1133) - [Resto da Divisão](https://github.com/potigol/uoj-potigol/blob/master/src/1100/1133.poti) *Iniciante*
   - [x]  [1134](https://www.urionlinejudge.com.br/judge/pt/problems/view/1134) - [Tipo de Combustível](https://github.com/potigol/uoj-potigol/blob/master/src/1100/1134.poti) *Iniciante*
   - [ ]  [1135](https://www.urionlinejudge.com.br/judge/pt/problems/view/1135) - Colônia de Formigas *Grafos*
-  - [ ]  [1136](https://www.urionlinejudge.com.br/judge/pt/problems/view/1136) - Bingo! *Ad-Hoc*
+  - [x]  [1136](https://www.urionlinejudge.com.br/judge/pt/problems/view/1136) - [Bingo!](https://github.com/potigol/uoj-potigol/blob/master/src/1100/1136.poti) *Ad-Hoc*
   - [ ]  [1137](https://www.urionlinejudge.com.br/judge/pt/problems/view/1137) - Pontos Cocirculares *Geometria Computacional*
   - [ ]  [1138](https://www.urionlinejudge.com.br/judge/pt/problems/view/1138) - Contagem de Dígitos *Matemática*
   - [ ]  [1139](https://www.urionlinejudge.com.br/judge/pt/problems/view/1139) - Necessidades Elétricas *Ad-Hoc*

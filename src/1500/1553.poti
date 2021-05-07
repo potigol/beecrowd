@@ -1,0 +1,10 @@
+var k := leia_inteiros(" ")[2]
+enquanto k > 0 faça
+  p = leia_inteiros(" ")
+       .ordene
+       .divida_quando((a,b) => a <> b)
+       .selecione(_.tamanho >= k)
+       .tamanho
+  escreva p
+  k := leia_inteiros(" ")[2]
+fim

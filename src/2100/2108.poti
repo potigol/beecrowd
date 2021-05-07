@@ -1,0 +1,9 @@
+var s := leia_textos(" ")
+var maior := ""
+enquanto s.cabeça <> "0" faça
+  escreva s.mapeie(_.tamanho).junte("-")
+  maior := s.injete(maior)((a,b) => se a.tamanho > b.tamanho entao a senao b fim)
+  s := leia_textos(" ")
+fim
+escreva ""
+escreva "The biggest word: {maior}"

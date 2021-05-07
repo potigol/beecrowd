@@ -28,7 +28,7 @@
   - [ ]  [2925](https://www.urionlinejudge.com.br/judge/pt/problems/view/2925) - Sequência IccanobiF *Ad-Hoc*
   - [x]  [2926](https://www.urionlinejudge.com.br/judge/pt/problems/view/2926) - [Então é Natal!](https://github.com/potigol/uoj-potigol/blob/master/src/2900/2926.poti) *Ad-Hoc*
   - [ ]  [2927](https://www.urionlinejudge.com.br/judge/pt/problems/view/2927) - Imprevistos Natalinos *Ad-Hoc*
-  - [ ]  [2928](https://www.urionlinejudge.com.br/judge/pt/problems/view/2928) - Cruzando Lagos *Ad-Hoc*
+  - [x]  [2928](https://www.urionlinejudge.com.br/judge/pt/problems/view/2928) - [Cruzando Lagos](https://github.com/potigol/uoj-potigol/blob/master/src/2900/2928.poti) *Ad-Hoc*
   - [ ]  [2929](https://www.urionlinejudge.com.br/judge/pt/problems/view/2929) - Menor da Pilha *Estruturas e Bibliotecas*
   - [x]  [2930](https://www.urionlinejudge.com.br/judge/pt/problems/view/2930) - [TCC da Depressão Natalino](https://github.com/potigol/uoj-potigol/blob/master/src/2900/2930.poti) *Iniciante*
   - [ ]  [2931](https://www.urionlinejudge.com.br/judge/pt/problems/view/2931) - Presentes Suspeitos *Ad-Hoc*
