@@ -1,4 +1,4 @@
-# Strings (54 / 140)
+# Strings (55 / 140)
 
 
 ## Problemas resolvidos
@@ -56,6 +56,7 @@
   - [x]  [2880](https://www.urionlinejudge.com.br/judge/pt/problems/view/2880) - [Enigma](https://github.com/potigol/uoj-potigol/blob/master/src/2800/2880.poti)
   - [x]  [2906](https://www.urionlinejudge.com.br/judge/pt/problems/view/2906) - [Database of Clients](https://github.com/potigol/uoj-potigol/blob/master/src/2900/2906.poti)
   - [x]  [3088](https://www.urionlinejudge.com.br/judge/pt/problems/view/3088) - [Correção de Texto](https://github.com/potigol/uoj-potigol/blob/master/src/3000/3088.poti)
+  - [x]  [3103](https://www.urionlinejudge.com.br/judge/pt/problems/view/3103) - [Número da Sorte](https://github.com/potigol/uoj-potigol/blob/master/src/3100/3103.poti)
   - [x]  [3141](https://www.urionlinejudge.com.br/judge/pt/problems/view/3141) - [Dúvida Etária](https://github.com/potigol/uoj-potigol/blob/master/src/3100/3141.poti)
 ## Problemas não resolvidos
 
@@ -137,7 +138,6 @@
   - [ ]  [3080](https://www.urionlinejudge.com.br/judge/pt/problems/view/3080) - Proteja os Dados
   - [ ]  [3083](https://www.urionlinejudge.com.br/judge/pt/problems/view/3083) - Emreh, Liug E As Strings
   - [ ]  [3100](https://www.urionlinejudge.com.br/judge/pt/problems/view/3100) - Os Dígitos da Sorte
-  - [ ]  [3103](https://www.urionlinejudge.com.br/judge/pt/problems/view/3103) - Número da Sorte
   - [ ]  [3118](https://www.urionlinejudge.com.br/judge/pt/problems/view/3118) - Bactérias, Suas Loucas!
   - [ ]  [3143](https://www.urionlinejudge.com.br/judge/pt/problems/view/3143) - Fugindo do Celular
   - [ ]  [3159](https://www.urionlinejudge.com.br/judge/pt/problems/view/3159) - Tijolão

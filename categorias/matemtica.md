@@ -1,4 +1,4 @@
-# Matemática (50 / 262)
+# Matemática (51 / 262)
 
 
 ## Problemas resolvidos
@@ -51,6 +51,7 @@
   - [x]  [3004](https://www.urionlinejudge.com.br/judge/pt/problems/view/3004) - [Envelopes](https://github.com/potigol/uoj-potigol/blob/master/src/3000/3004.poti)
   - [x]  [3049](https://www.urionlinejudge.com.br/judge/pt/problems/view/3049) - [Nota Cortada](https://github.com/potigol/uoj-potigol/blob/master/src/3000/3049.poti)
   - [x]  [3102](https://www.urionlinejudge.com.br/judge/pt/problems/view/3102) - [Kikoho](https://github.com/potigol/uoj-potigol/blob/master/src/3100/3102.poti)
+  - [x]  [3104](https://www.urionlinejudge.com.br/judge/pt/problems/view/3104) - [Resto 2.0](https://github.com/potigol/uoj-potigol/blob/master/src/3100/3104.poti)
   - [x]  [3154](https://www.urionlinejudge.com.br/judge/pt/problems/view/3154) - [A Grande Festa](https://github.com/potigol/uoj-potigol/blob/master/src/3100/3154.poti)
   - [x]  [3165](https://www.urionlinejudge.com.br/judge/pt/problems/view/3165) - [Primos Gêmeos](https://github.com/potigol/uoj-potigol/blob/master/src/3100/3165.poti)
 ## Problemas não resolvidos
@@ -249,7 +250,6 @@
   - [ ]  [3079](https://www.urionlinejudge.com.br/judge/pt/problems/view/3079) - Rua Iluminada
   - [ ]  [3096](https://www.urionlinejudge.com.br/judge/pt/problems/view/3096) - Overflow
   - [ ]  [3099](https://www.urionlinejudge.com.br/judge/pt/problems/view/3099) - O Problema do 7 x 1
-  - [ ]  [3104](https://www.urionlinejudge.com.br/judge/pt/problems/view/3104) - Resto 2.0
   - [ ]  [3110](https://www.urionlinejudge.com.br/judge/pt/problems/view/3110) - Farcos e o Xorshift
   - [ ]  [3138](https://www.urionlinejudge.com.br/judge/pt/problems/view/3138) - Aniversário do Tobias
   - [ ]  [3179](https://www.urionlinejudge.com.br/judge/pt/problems/view/3179) - Melhor Compressão de Todas

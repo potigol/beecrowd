@@ -1,0 +1,4 @@
+a = leia_texto
+b = leia_inteiro
+x = a.injete(0)((i, j) => (i * 10 + j - '0') mod b)
+escreva x

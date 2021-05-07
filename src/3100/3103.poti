@@ -1,0 +1,7 @@
+t = leia_inteiro
+para i de 1 ate t faca
+  n = leia_texto.ordene
+  a = n.pegue_enquanto(_ == '0')
+  b = n.descarte_enquanto(_ == '0')
+  escreva "{b.cabeça}{a}{b.cauda}"
+fim
