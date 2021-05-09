@@ -1,0 +1,19 @@
+tipo Ser
+  nome: Texto
+  poder, kill, morte: Inteiro
+fim
+
+lt = (s1, s2: Ser) =>
+  se s1.poder <> s2.poder entao s1.poder > s2.poder
+  senaose s1.kill <> s2.kill entao s1.kill > s2.kill
+  senaose s1.morte <> s2.morte entao s1.morte < s2.morte
+  senao s1.nome < s2.nome
+  fim
+
+n = leia_inteiro
+seres = para i de 1 ate n gere
+  a = leia_textos(" ")
+  Ser(a[1], a[2].inteiro, a[3].inteiro, a[4].inteiro)
+fim
+godofor = seres.ordene(lt).cabeca
+escreva godofor.nome

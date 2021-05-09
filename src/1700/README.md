@@ -66,7 +66,7 @@
   - [x]  [1763](https://www.urionlinejudge.com.br/judge/pt/problems/view/1763) - [Tradutor do Papai Noel](https://github.com/potigol/uoj-potigol/blob/master/src/1700/1763.poti) *Estruturas e Bibliotecas*
   - [ ]  [1764](https://www.urionlinejudge.com.br/judge/pt/problems/view/1764) - Itinerário do Papai Noel *Grafos*
   - [ ]  [1765](https://www.urionlinejudge.com.br/judge/pt/problems/view/1765) - Trapézios de Natal *Ad-Hoc*
-  - [ ]  [1766](https://www.urionlinejudge.com.br/judge/pt/problems/view/1766) - O Elfo das Trevas *Estruturas e Bibliotecas*
+  - [x]  [1766](https://www.urionlinejudge.com.br/judge/pt/problems/view/1766) - [O Elfo das Trevas](https://github.com/potigol/uoj-potigol/blob/master/src/1700/1766.poti) *Estruturas e Bibliotecas*
   - [ ]  [1767](https://www.urionlinejudge.com.br/judge/pt/problems/view/1767) - Saco do Papai Noel *Paradigmas*
   - [x]  [1768](https://www.urionlinejudge.com.br/judge/pt/problems/view/1768) - [Árvore de Natal](https://github.com/potigol/uoj-potigol/blob/master/src/1700/1768.poti) *Strings*
   - [ ]  [1769](https://www.urionlinejudge.com.br/judge/pt/problems/view/1769) - CPF 1 *Ad-Hoc*

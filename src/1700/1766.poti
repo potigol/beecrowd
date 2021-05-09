@@ -1,0 +1,30 @@
+tipo Rena
+  nome: Texto
+  peso: Inteiro
+  idade: Inteiro
+  altura: Real
+fim
+
+lt = (r1, r2: Rena) =>
+  se r1.peso <> r2.peso entao
+    r1.peso > r2.peso
+  senaose r1.idade <> r2.idade entao
+    r1.idade < r2.idade
+  senao
+    r1.altura < r2.altura
+  fim
+
+t = leia_inteiro
+para i de 1 ate t faca
+  a = leia_inteiros(" ")
+  n, m = a[1], a[2]
+  renas = para i de 1 ate n gere
+    b = leia_textos(" ")
+    Rena(b[1], b[2].inteiro, b[3].inteiro, b[4].real)
+  fim
+  treno = renas.ordene(lt)
+  escreva "CENARIO {'{'}{i}{'}'}"
+  para j de 1 ate m faca
+    escreva "{j} - {treno[j].nome}"
+  fim
+fim

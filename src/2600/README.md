@@ -50,11 +50,11 @@
   - [ ] ~~2647~~
   - [ ]  [2648](https://www.urionlinejudge.com.br/judge/pt/problems/view/2648) - Tarot Sham Boast *Ad-Hoc*
   - [ ] ~~2649~~
-  - [ ]  [2650](https://www.urionlinejudge.com.br/judge/pt/problems/view/2650) - Construindo Muralhas *Ad-Hoc*
+  - [x]  [2650](https://www.urionlinejudge.com.br/judge/pt/problems/view/2650) - [Construindo Muralhas](https://github.com/potigol/uoj-potigol/blob/master/src/2600/2650.poti) *Ad-Hoc*
   - [x]  [2651](https://www.urionlinejudge.com.br/judge/pt/problems/view/2651) - [Link Bolado](https://github.com/potigol/uoj-potigol/blob/master/src/2600/2651.poti) *Strings*
   - [ ]  [2652](https://www.urionlinejudge.com.br/judge/pt/problems/view/2652) - Quantas Árvores? *Grafos*
   - [x]  [2653](https://www.urionlinejudge.com.br/judge/pt/problems/view/2653) - [Dijkstra](https://github.com/potigol/uoj-potigol/blob/master/src/2600/2653.poti) *Iniciante*
-  - [ ]  [2654](https://www.urionlinejudge.com.br/judge/pt/problems/view/2654) - Godofor *Estruturas e Bibliotecas*
+  - [x]  [2654](https://www.urionlinejudge.com.br/judge/pt/problems/view/2654) - [Godofor](https://github.com/potigol/uoj-potigol/blob/master/src/2600/2654.poti) *Estruturas e Bibliotecas*
   - [ ]  [2655](https://www.urionlinejudge.com.br/judge/pt/problems/view/2655) - Trilha Perigosa *Estruturas e Bibliotecas*
   - [ ]  [2656](https://www.urionlinejudge.com.br/judge/pt/problems/view/2656) - Rhombus *Estruturas e Bibliotecas*
   - [ ]  [2657](https://www.urionlinejudge.com.br/judge/pt/problems/view/2657) - Sensate *Grafos*

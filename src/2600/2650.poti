@@ -1,0 +1,8 @@
+a = leia_inteiros(" ")
+n, w = a[1], a[2]
+para i de 1 ate n faca
+  s = leia_textos(" ")
+  se s[-1].inteiro > w entao
+    escreva s.pegue(s.tamanho - 1).junte(" ")
+  fim
+fim

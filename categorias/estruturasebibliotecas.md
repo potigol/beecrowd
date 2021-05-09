@@ -1,4 +1,4 @@
-# Estruturas e Bibliotecas (23 / 178)
+# Estruturas e Bibliotecas (25 / 178)
 
 
 ## Problemas resolvidos
@@ -16,12 +16,14 @@
   - [x]  [1548](https://www.urionlinejudge.com.br/judge/pt/problems/view/1548) - [Fila do Recreio](https://github.com/potigol/uoj-potigol/blob/master/src/1500/1548.poti)
   - [x]  [1709](https://www.urionlinejudge.com.br/judge/pt/problems/view/1709) - [Baralho Embaralhado](https://github.com/potigol/uoj-potigol/blob/master/src/1700/1709.poti)
   - [x]  [1763](https://www.urionlinejudge.com.br/judge/pt/problems/view/1763) - [Tradutor do Papai Noel](https://github.com/potigol/uoj-potigol/blob/master/src/1700/1763.poti)
+  - [x]  [1766](https://www.urionlinejudge.com.br/judge/pt/problems/view/1766) - [O Elfo das Trevas](https://github.com/potigol/uoj-potigol/blob/master/src/1700/1766.poti)
   - [x]  [2091](https://www.urionlinejudge.com.br/judge/pt/problems/view/2091) - [Número Solitário](https://github.com/potigol/uoj-potigol/blob/master/src/2000/2091.poti)
   - [x]  [2338](https://www.urionlinejudge.com.br/judge/pt/problems/view/2338) - [Morse](https://github.com/potigol/uoj-potigol/blob/master/src/2300/2338.poti)
   - [x]  [2496](https://www.urionlinejudge.com.br/judge/pt/problems/view/2496) - [A Única Chance](https://github.com/potigol/uoj-potigol/blob/master/src/2400/2496.poti)
   - [x]  [2593](https://www.urionlinejudge.com.br/judge/pt/problems/view/2593) - [Eachianos I](https://github.com/potigol/uoj-potigol/blob/master/src/2500/2593.poti)
   - [x]  [2594](https://www.urionlinejudge.com.br/judge/pt/problems/view/2594) - [Eachianos II](https://github.com/potigol/uoj-potigol/blob/master/src/2500/2594.poti)
   - [x]  [2633](https://www.urionlinejudge.com.br/judge/pt/problems/view/2633) - [Churras no Yuri](https://github.com/potigol/uoj-potigol/blob/master/src/2600/2633.poti)
+  - [x]  [2654](https://www.urionlinejudge.com.br/judge/pt/problems/view/2654) - [Godofor](https://github.com/potigol/uoj-potigol/blob/master/src/2600/2654.poti)
   - [x]  [2693](https://www.urionlinejudge.com.br/judge/pt/problems/view/2693) - [Van](https://github.com/potigol/uoj-potigol/blob/master/src/2600/2693.poti)
   - [x]  [2729](https://www.urionlinejudge.com.br/judge/pt/problems/view/2729) - [Lista de Compras](https://github.com/potigol/uoj-potigol/blob/master/src/2700/2729.poti)
   - [x]  [2872](https://www.urionlinejudge.com.br/judge/pt/problems/view/2872) - [Protocolo TCP/IP](https://github.com/potigol/uoj-potigol/blob/master/src/2800/2872.poti)
@@ -86,7 +88,6 @@
   - [ ]  [1740](https://www.urionlinejudge.com.br/judge/pt/problems/view/1740) - Está Ordenado?
   - [ ]  [1746](https://www.urionlinejudge.com.br/judge/pt/problems/view/1746) - Dividindo os Nomes
   - [ ]  [1762](https://www.urionlinejudge.com.br/judge/pt/problems/view/1762) - Trenós do Papai Noel
-  - [ ]  [1766](https://www.urionlinejudge.com.br/judge/pt/problems/view/1766) - O Elfo das Trevas
   - [ ]  [1804](https://www.urionlinejudge.com.br/judge/pt/problems/view/1804) - Precisa-se de Matemáticos em Marte
   - [ ]  [1851](https://www.urionlinejudge.com.br/judge/pt/problems/view/1851) - Como Treinar Seu Dragão
   - [ ]  [1854](https://www.urionlinejudge.com.br/judge/pt/problems/view/1854) - Inverno em Winterfell
@@ -140,7 +141,6 @@
   - [ ]  [2546](https://www.urionlinejudge.com.br/judge/pt/problems/view/2546) - Mesada
   - [ ]  [2559](https://www.urionlinejudge.com.br/judge/pt/problems/view/2559) - Sexta-Feira 13
   - [ ]  [2560](https://www.urionlinejudge.com.br/judge/pt/problems/view/2560) - Surf Aquático
-  - [ ]  [2654](https://www.urionlinejudge.com.br/judge/pt/problems/view/2654) - Godofor
   - [ ]  [2655](https://www.urionlinejudge.com.br/judge/pt/problems/view/2655) - Trilha Perigosa
   - [ ]  [2656](https://www.urionlinejudge.com.br/judge/pt/problems/view/2656) - Rhombus
   - [ ]  [2658](https://www.urionlinejudge.com.br/judge/pt/problems/view/2658) - Acordes Intergaláticos

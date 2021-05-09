@@ -1,4 +1,4 @@
-# Ad-Hoc (135 / 725)
+# Ad-Hoc (136 / 725)
 
 
 ## Problemas resolvidos
@@ -105,6 +105,7 @@
   - [x]  [2479](https://www.urionlinejudge.com.br/judge/pt/problems/view/2479) - [Ordenando a Lista de Crianças do Papai Noel](https://github.com/potigol/uoj-potigol/blob/master/src/2400/2479.poti)
   - [x]  [2569](https://www.urionlinejudge.com.br/judge/pt/problems/view/2569) - [A Bruxa do 7 x 1](https://github.com/potigol/uoj-potigol/blob/master/src/2500/2569.poti)
   - [x]  [2579](https://www.urionlinejudge.com.br/judge/pt/problems/view/2579) - [Nagol](https://github.com/potigol/uoj-potigol/blob/master/src/2500/2579.poti)
+  - [x]  [2650](https://www.urionlinejudge.com.br/judge/pt/problems/view/2650) - [Construindo Muralhas](https://github.com/potigol/uoj-potigol/blob/master/src/2600/2650.poti)
   - [x]  [2679](https://www.urionlinejudge.com.br/judge/pt/problems/view/2679) - [Sucessor Par](https://github.com/potigol/uoj-potigol/blob/master/src/2600/2679.poti)
   - [x]  [2803](https://www.urionlinejudge.com.br/judge/pt/problems/view/2803) - [Estados do Norte](https://github.com/potigol/uoj-potigol/blob/master/src/2800/2803.poti)
   - [x]  [2830](https://www.urionlinejudge.com.br/judge/pt/problems/view/2830) - [Copa](https://github.com/potigol/uoj-potigol/blob/master/src/2800/2830.poti)
@@ -573,7 +574,6 @@
   - [ ]  [2644](https://www.urionlinejudge.com.br/judge/pt/problems/view/2644) - Replicate Replicate Rfplicbte
   - [ ]  [2645](https://www.urionlinejudge.com.br/judge/pt/problems/view/2645) - Scenery
   - [ ]  [2648](https://www.urionlinejudge.com.br/judge/pt/problems/view/2648) - Tarot Sham Boast
-  - [ ]  [2650](https://www.urionlinejudge.com.br/judge/pt/problems/view/2650) - Construindo Muralhas
   - [ ]  [2659](https://www.urionlinejudge.com.br/judge/pt/problems/view/2659) - Brincadeira
   - [ ]  [2662](https://www.urionlinejudge.com.br/judge/pt/problems/view/2662) - Escala Musical
   - [ ]  [2672](https://www.urionlinejudge.com.br/judge/pt/problems/view/2672) - Máscara de Rede
