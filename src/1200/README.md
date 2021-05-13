@@ -14,7 +14,7 @@
   - [ ]  [1211](https://www.urionlinejudge.com.br/judge/pt/problems/view/1211) - Lista Telefônica Econômica *Estruturas e Bibliotecas*
   - [x]  [1212](https://www.urionlinejudge.com.br/judge/pt/problems/view/1212) - [Aritmética Primária](https://github.com/potigol/uoj-potigol/blob/master/src/1200/1212.poti) *Matemática*
   - [ ]  [1213](https://www.urionlinejudge.com.br/judge/pt/problems/view/1213) - Ones *Matemática*
-  - [ ]  [1214](https://www.urionlinejudge.com.br/judge/pt/problems/view/1214) - Acima da Média *Matemática*
+  - [x]  [1214](https://www.urionlinejudge.com.br/judge/pt/problems/view/1214) - [Acima da Média](https://github.com/potigol/uoj-potigol/blob/master/src/1200/1214.poti) *Matemática*
   - [ ]  [1215](https://www.urionlinejudge.com.br/judge/pt/problems/view/1215) - Primeiro Dicionário de Andy *Estruturas e Bibliotecas*
   - [x]  [1216](https://www.urionlinejudge.com.br/judge/pt/problems/view/1216) - [Getline One](https://github.com/potigol/uoj-potigol/blob/master/src/1200/1216.poti) *Ad-Hoc*
   - [ ]  [1217](https://www.urionlinejudge.com.br/judge/pt/problems/view/1217) - Getline Two - Frutas *Ad-Hoc*

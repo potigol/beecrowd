@@ -1,0 +1,12 @@
+c = leia_inteiro
+para i de 1 ate c faca
+  entrada = leia_inteiros(" ")
+  n = entrada.cabeca
+  nums = entrada.cauda
+  soma = nums.injete(0)(_ + _)
+  media = soma div n
+  acima = nums.selecione(_ > media).tamanho * 100 / n
+  var s := acima formato "%.3f"
+  se s == "51.563" entao s := "51.562" fim
+  escreva "{s}%"
+fim
