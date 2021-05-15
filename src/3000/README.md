@@ -1,6 +1,6 @@
 # Problemas 3000
 
-  - [ ] ~~3000~~
+  - [ ] ~~xxxx~~
   - [ ]  ~~3001~~ - *SQL*
   - [ ]  [3002](https://www.urionlinejudge.com.br/judge/pt/problems/view/3002) - Salve a Lilly! *Matemática*
   - [ ]  [3003](https://www.urionlinejudge.com.br/judge/pt/problems/view/3003) - O Grupinho *Grafos*
@@ -66,7 +66,7 @@
   - [ ]  [3063](https://www.urionlinejudge.com.br/judge/pt/problems/view/3063) - Linhas de Ônibus *Ad-Hoc*
   - [ ]  [3064](https://www.urionlinejudge.com.br/judge/pt/problems/view/3064) - Elástico *Geometria Computacional*
   - [x]  [3065](https://www.urionlinejudge.com.br/judge/pt/problems/view/3065) - [Calculando](https://github.com/potigol/uoj-potigol/blob/master/src/3000/3065.poti) *Iniciante*
-  - [ ] ~~3066~~
+  - [ ] ~~xxxx~~
   - [ ]  [3067](https://www.urionlinejudge.com.br/judge/pt/problems/view/3067) - Dominó *Grafos*
   - [x]  [3068](https://www.urionlinejudge.com.br/judge/pt/problems/view/3068) - [Meteoros](https://github.com/potigol/uoj-potigol/blob/master/src/3000/3068.poti) *Iniciante*
   - [ ]  [3069](https://www.urionlinejudge.com.br/judge/pt/problems/view/3069) - Sorvete *Estruturas e Bibliotecas*

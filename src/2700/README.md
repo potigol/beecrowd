@@ -7,7 +7,7 @@
   - [ ]  [2704](https://www.urionlinejudge.com.br/judge/pt/problems/view/2704) - Sapo Saltador *Ad-Hoc*
   - [ ]  [2705](https://www.urionlinejudge.com.br/judge/pt/problems/view/2705) - Mantenha Coberto *Ad-Hoc*
   - [ ]  [2706](https://www.urionlinejudge.com.br/judge/pt/problems/view/2706) - Linearville *Grafos*
-  - [ ] ~~2707~~
+  - [ ] ~~xxxx~~
   - [x]  [2708](https://www.urionlinejudge.com.br/judge/pt/problems/view/2708) - [Turistas no Parque Huacachina](https://github.com/potigol/uoj-potigol/blob/master/src/2700/2708.poti) *Iniciante*
   - [x]  [2709](https://www.urionlinejudge.com.br/judge/pt/problems/view/2709) - [As Moedas de Robbie](https://github.com/potigol/uoj-potigol/blob/master/src/2700/2709.poti) *Iniciante*
   - [ ]  [2710](https://www.urionlinejudge.com.br/judge/pt/problems/view/2710) - Jogo da Matriz *Ad-Hoc*
@@ -51,7 +51,7 @@
   - [x]  [2748](https://www.urionlinejudge.com.br/judge/pt/problems/view/2748) - [Saída 2](https://github.com/potigol/uoj-potigol/blob/master/src/2700/2748.poti) *Iniciante*
   - [x]  [2749](https://www.urionlinejudge.com.br/judge/pt/problems/view/2749) - [Saída 3](https://github.com/potigol/uoj-potigol/blob/master/src/2700/2749.poti) *Iniciante*
   - [x]  [2750](https://www.urionlinejudge.com.br/judge/pt/problems/view/2750) - [Saída 4](https://github.com/potigol/uoj-potigol/blob/master/src/2700/2750.poti) *Iniciante*
-  - [ ] ~~2751~~
+  - [ ] ~~xxxx~~
   - [x]  [2752](https://www.urionlinejudge.com.br/judge/pt/problems/view/2752) - [Saída 6](https://github.com/potigol/uoj-potigol/blob/master/src/2700/2752.poti) *Iniciante*
   - [x]  [2753](https://www.urionlinejudge.com.br/judge/pt/problems/view/2753) - [Saída 7](https://github.com/potigol/uoj-potigol/blob/master/src/2700/2753.poti) *Iniciante*
   - [x]  [2754](https://www.urionlinejudge.com.br/judge/pt/problems/view/2754) - [Saída 8](https://github.com/potigol/uoj-potigol/blob/master/src/2700/2754.poti) *Iniciante*

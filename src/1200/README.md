@@ -49,7 +49,7 @@
   - [ ]  [1246](https://www.urionlinejudge.com.br/judge/pt/problems/view/1246) - Estacionamento *Ad-Hoc*
   - [x]  [1247](https://www.urionlinejudge.com.br/judge/pt/problems/view/1247) - [Guarda Costeira](https://github.com/potigol/uoj-potigol/blob/master/src/1200/1247.poti) *Matemática*
   - [ ]  [1248](https://www.urionlinejudge.com.br/judge/pt/problems/view/1248) - Plano de Dieta *Strings*
-  - [ ] ~~1249~~
+  - [ ] ~~xxxx~~
   - [ ]  [1250](https://www.urionlinejudge.com.br/judge/pt/problems/view/1250) - KiloMan *Ad-Hoc*
   - [x]  [1251](https://www.urionlinejudge.com.br/judge/pt/problems/view/1251) - [Diga-me a Frequência](https://github.com/potigol/uoj-potigol/blob/master/src/1200/1251.poti) *Estruturas e Bibliotecas*
   - [ ]  [1252](https://www.urionlinejudge.com.br/judge/pt/problems/view/1252) - Sort! Sort!! e Sort!!! *Estruturas e Bibliotecas*
@@ -92,7 +92,7 @@
   - [ ]  [1289](https://www.urionlinejudge.com.br/judge/pt/problems/view/1289) - Qual é a Probabilidade? *Matemática*
   - [ ]  [1290](https://www.urionlinejudge.com.br/judge/pt/problems/view/1290) - Caixas Muito Especiais *Ad-Hoc*
   - [ ]  [1291](https://www.urionlinejudge.com.br/judge/pt/problems/view/1291) - Será Isso Integração? *Geometria Computacional*
-  - [ ] ~~1292~~
+  - [ ] ~~xxxx~~
   - [ ]  [1293](https://www.urionlinejudge.com.br/judge/pt/problems/view/1293) - Romeu e Julieta! *Geometria Computacional*
   - [ ]  [1294](https://www.urionlinejudge.com.br/judge/pt/problems/view/1294) - A Maior e Menor Caixa *Geometria Computacional*
   - [ ]  [1295](https://www.urionlinejudge.com.br/judge/pt/problems/view/1295) - Problema dos Pares Mais Próximos *Geometria Computacional*

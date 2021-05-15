@@ -28,25 +28,25 @@
   - [ ]  [3225](https://www.urionlinejudge.com.br/judge/pt/problems/view/3225) - Ordenação dos Pães *Ad-Hoc*
   - [ ]  [3226](https://www.urionlinejudge.com.br/judge/pt/problems/view/3226) - Seleção de Biscoito *Ad-Hoc*
   - [ ]  [3227](https://www.urionlinejudge.com.br/judge/pt/problems/view/3227) - Doorman *Ad-Hoc*
-  - [ ] ~~3228~~
-  - [ ] ~~3229~~
-  - [ ] ~~3230~~
+  - [ ] ~~xxxx~~
+  - [ ] ~~xxxx~~
+  - [ ] ~~xxxx~~
   - [ ]  [3231](https://www.urionlinejudge.com.br/judge/pt/problems/view/3231) - Horror List *Iniciante*
   - [ ]  [3232](https://www.urionlinejudge.com.br/judge/pt/problems/view/3232) - Infiltration *Iniciante*
-  - [ ] ~~3233~~
+  - [ ] ~~xxxx~~
   - [ ]  [3234](https://www.urionlinejudge.com.br/judge/pt/problems/view/3234) - Kindergarten *Iniciante*
   - [ ]  [3235](https://www.urionlinejudge.com.br/judge/pt/problems/view/3235) - Luggage *Iniciante*
   - [ ]  [3236](https://www.urionlinejudge.com.br/judge/pt/problems/view/3236) - Sucessão *Grafos*
   - [ ]  [3237](https://www.urionlinejudge.com.br/judge/pt/problems/view/3237) - Conectar *Grafos*
-  - [ ] ~~3238~~
+  - [ ] ~~xxxx~~
   - [ ]  [3239](https://www.urionlinejudge.com.br/judge/pt/problems/view/3239) - Dirty Driving *Estruturas e Bibliotecas*
   - [ ]  [3240](https://www.urionlinejudge.com.br/judge/pt/problems/view/3240) - Doodling *Ad-Hoc*
   - [x]  [3241](https://www.urionlinejudge.com.br/judge/pt/problems/view/3241) - [Ajude um candidato a PhD!](https://github.com/potigol/uoj-potigol/blob/master/src/3200/3241.poti) *Iniciante*
-  - [ ] ~~3242~~
-  - [ ] ~~3243~~
-  - [ ] ~~3244~~
-  - [ ] ~~3245~~
-  - [ ] ~~3246~~
+  - [ ] ~~xxxx~~
+  - [ ] ~~xxxx~~
+  - [ ] ~~xxxx~~
+  - [ ] ~~xxxx~~
+  - [ ] ~~xxxx~~
   - [ ]  [3247](https://www.urionlinejudge.com.br/judge/pt/problems/view/3247) - Robôs em uma Grade *Grafos*
   - [ ]  [3248](https://www.urionlinejudge.com.br/judge/pt/problems/view/3248) - Mega Inversões *Estruturas e Bibliotecas*
   - [ ]  [3249](https://www.urionlinejudge.com.br/judge/pt/problems/view/3249) - Death Knight Hero *Iniciante*
@@ -73,30 +73,30 @@
   - [ ]  [3270](https://www.urionlinejudge.com.br/judge/pt/problems/view/3270) - Praça Catalã *Matemática*
   - [ ]  [3271](https://www.urionlinejudge.com.br/judge/pt/problems/view/3271) - Jogo de Dados *Matemática*
   - [ ]  [3272](https://www.urionlinejudge.com.br/judge/pt/problems/view/3272) - Cerimônia de Abertura *Matemática*
-  - [ ] ~~3273~~
+  - [ ] ~~xxxx~~
   - [ ]  [3274](https://www.urionlinejudge.com.br/judge/pt/problems/view/3274) - Excursão *Paradigmas*
   - [ ]  [3275](https://www.urionlinejudge.com.br/judge/pt/problems/view/3275) - Foto de Relógios *Strings*
   - [ ]  [3276](https://www.urionlinejudge.com.br/judge/pt/problems/view/3276) - Quantos Quadrados? *Matemática*
   - [ ]  [3277](https://www.urionlinejudge.com.br/judge/pt/problems/view/3277) - Trabalho na Estrada *Paradigmas*
   - [ ]  [3278](https://www.urionlinejudge.com.br/judge/pt/problems/view/3278) - Passageiros de Trem *Ad-Hoc*
-  - [ ] ~~3279~~
-  - [ ] ~~3280~~
-  - [ ] ~~3281~~
-  - [ ] ~~3282~~
-  - [ ] ~~3283~~
-  - [ ] ~~3284~~
-  - [ ] ~~3285~~
-  - [ ] ~~3286~~
-  - [ ] ~~3287~~
-  - [ ] ~~3288~~
-  - [ ] ~~3289~~
-  - [ ] ~~3290~~
-  - [ ] ~~3291~~
-  - [ ] ~~3292~~
-  - [ ] ~~3293~~
-  - [ ] ~~3294~~
-  - [ ] ~~3295~~
-  - [ ] ~~3296~~
-  - [ ] ~~3297~~
-  - [ ] ~~3298~~
-  - [ ] ~~3299~~
+  - [ ] ~~xxxx~~
+  - [ ] ~~xxxx~~
+  - [ ] ~~xxxx~~
+  - [ ] ~~xxxx~~
+  - [ ] ~~xxxx~~
+  - [ ] ~~xxxx~~
+  - [ ] ~~xxxx~~
+  - [ ] ~~xxxx~~
+  - [ ] ~~xxxx~~
+  - [ ] ~~xxxx~~
+  - [ ] ~~xxxx~~
+  - [ ] ~~xxxx~~
+  - [ ] ~~xxxx~~
+  - [ ] ~~xxxx~~
+  - [ ] ~~xxxx~~
+  - [ ] ~~xxxx~~
+  - [ ] ~~xxxx~~
+  - [ ] ~~xxxx~~
+  - [ ] ~~xxxx~~
+  - [ ] ~~xxxx~~
+  - [ ] ~~xxxx~~

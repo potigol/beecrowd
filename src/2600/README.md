@@ -12,7 +12,7 @@
   - [ ]  ~~2609~~ - *SQL*
   - [ ]  ~~2610~~ - *SQL*
   - [ ]  ~~2611~~ - *SQL*
-  - [ ] ~~2612~~
+  - [ ] ~~xxxx~~
   - [ ]  ~~2613~~ - *SQL*
   - [ ]  ~~2614~~ - *SQL*
   - [ ]  ~~2615~~ - *SQL*
@@ -38,18 +38,18 @@
   - [x]  [2635](https://www.urionlinejudge.com.br/judge/pt/problems/view/2635) - [Navegador Web](https://github.com/potigol/uoj-potigol/blob/master/src/2600/2635.poti) *Iniciante*
   - [ ]  [2636](https://www.urionlinejudge.com.br/judge/pt/problems/view/2636) - 3-RSA *Matemática*
   - [ ]  [2637](https://www.urionlinejudge.com.br/judge/pt/problems/view/2637) - Casa do Batera *Grafos*
-  - [ ] ~~2638~~
+  - [ ] ~~xxxx~~
   - [ ]  [2639](https://www.urionlinejudge.com.br/judge/pt/problems/view/2639) - Cluedo *Ad-Hoc*
   - [ ]  [2640](https://www.urionlinejudge.com.br/judge/pt/problems/view/2640) - Missão Improvável *Geometria Computacional*
   - [ ]  [2641](https://www.urionlinejudge.com.br/judge/pt/problems/view/2641) - Dinheiro por Nada *Ad-Hoc*
-  - [ ] ~~2642~~
+  - [ ] ~~xxxx~~
   - [ ]  [2643](https://www.urionlinejudge.com.br/judge/pt/problems/view/2643) - Posterizar *Ad-Hoc*
   - [ ]  [2644](https://www.urionlinejudge.com.br/judge/pt/problems/view/2644) - Replicate Replicate Rfplicbte *Ad-Hoc*
   - [ ]  [2645](https://www.urionlinejudge.com.br/judge/pt/problems/view/2645) - Scenery *Ad-Hoc*
   - [ ]  [2646](https://www.urionlinejudge.com.br/judge/pt/problems/view/2646) - Secret Chamber at Mount Rushmore *Grafos*
-  - [ ] ~~2647~~
+  - [ ] ~~xxxx~~
   - [ ]  [2648](https://www.urionlinejudge.com.br/judge/pt/problems/view/2648) - Tarot Sham Boast *Ad-Hoc*
-  - [ ] ~~2649~~
+  - [ ] ~~xxxx~~
   - [x]  [2650](https://www.urionlinejudge.com.br/judge/pt/problems/view/2650) - [Construindo Muralhas](https://github.com/potigol/uoj-potigol/blob/master/src/2600/2650.poti) *Ad-Hoc*
   - [x]  [2651](https://www.urionlinejudge.com.br/judge/pt/problems/view/2651) - [Link Bolado](https://github.com/potigol/uoj-potigol/blob/master/src/2600/2651.poti) *Strings*
   - [ ]  [2652](https://www.urionlinejudge.com.br/judge/pt/problems/view/2652) - Quantas Árvores? *Grafos*
@@ -96,7 +96,7 @@
   - [x]  [2693](https://www.urionlinejudge.com.br/judge/pt/problems/view/2693) - [Van](https://github.com/potigol/uoj-potigol/blob/master/src/2600/2693.poti) *Estruturas e Bibliotecas*
   - [x]  [2694](https://www.urionlinejudge.com.br/judge/pt/problems/view/2694) - [Problema com a Calculadora](https://github.com/potigol/uoj-potigol/blob/master/src/2600/2694.poti) *Strings*
   - [ ]  [2695](https://www.urionlinejudge.com.br/judge/pt/problems/view/2695) - Arrumando Lajotas *Geometria Computacional*
-  - [ ] ~~2696~~
+  - [ ] ~~xxxx~~
   - [ ]  [2697](https://www.urionlinejudge.com.br/judge/pt/problems/view/2697) - Sequencia Completa de Naebbirac *Strings*
   - [ ]  [2698](https://www.urionlinejudge.com.br/judge/pt/problems/view/2698) - Dispositivo Assombrado *Estruturas e Bibliotecas*
   - [ ]  [2699](https://www.urionlinejudge.com.br/judge/pt/problems/view/2699) - Enigma *Iniciante*

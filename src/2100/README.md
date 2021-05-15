@@ -73,7 +73,7 @@
   - [ ]  [2170](https://www.urionlinejudge.com.br/judge/pt/problems/view/2170) - Juros do Projeto *Matemática*
   - [ ]  [2171](https://www.urionlinejudge.com.br/judge/pt/problems/view/2171) - Dividindo com Fink *Ad-Hoc*
   - [x]  [2172](https://www.urionlinejudge.com.br/judge/pt/problems/view/2172) - [Evento](https://github.com/potigol/uoj-potigol/blob/master/src/2100/2172.poti) *Iniciante*
-  - [ ] ~~2173~~
+  - [ ] ~~xxxx~~
   - [x]  [2174](https://www.urionlinejudge.com.br/judge/pt/problems/view/2174) - [Coleção de Pomekon](https://github.com/potigol/uoj-potigol/blob/master/src/2100/2174.poti) *Strings*
   - [x]  [2175](https://www.urionlinejudge.com.br/judge/pt/problems/view/2175) - [Qual o Mais Rápido?](https://github.com/potigol/uoj-potigol/blob/master/src/2100/2175.poti) *Ad-Hoc*
   - [x]  [2176](https://www.urionlinejudge.com.br/judge/pt/problems/view/2176) - [Paridade](https://github.com/potigol/uoj-potigol/blob/master/src/2100/2176.poti) *Iniciante*
@@ -98,5 +98,5 @@
   - [ ]  [2195](https://www.urionlinejudge.com.br/judge/pt/problems/view/2195) - Chips Challenge *Ad-Hoc*
   - [ ]  [2196](https://www.urionlinejudge.com.br/judge/pt/problems/view/2196) - Coffee Central *Ad-Hoc*
   - [ ]  [2197](https://www.urionlinejudge.com.br/judge/pt/problems/view/2197) - Machine Works *Ad-Hoc*
-  - [ ] ~~2198~~
+  - [ ] ~~xxxx~~
   - [ ]  [2199](https://www.urionlinejudge.com.br/judge/pt/problems/view/2199) - Mining Your Own Business *Ad-Hoc*
