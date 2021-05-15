@@ -19,8 +19,8 @@ Soluções dos problemas do [URI Online Judge](https://www.urionlinejudge.com.br
 
 ## Problemas de Competições de Programação
 
-  - [Maratona de Programação da SBC/ACM](competicoes/maratona.md)
-  - [Olimpíada Brasileira de Informática (OBI)](competicoes/obi.md)
+  - [Maratona de Programação da SBC/ACM](competicoes/maratona)
+  - [Olimpíada Brasileira de Informática (OBI)](competicoes/obi)
 
 ## Problemas
 
