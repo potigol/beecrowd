@@ -1,6 +1,7 @@
 # Ad-Hoc (58 / 172)
 
 
+
 ## Problemas resolvidos
 
   - [x]  [2187](https://www.urionlinejudge.com.br/judge/pt/problems/view/2187) - [Bits Trocados](https://github.com/potigol/uoj-potigol/blob/master/src/2100/2187.poti)
@@ -61,6 +62,7 @@
   - [x]  [3058](https://www.urionlinejudge.com.br/judge/pt/problems/view/3058) - [Supermercado](https://github.com/potigol/uoj-potigol/blob/master/src/3000/3058.poti)
   - [x]  [3059](https://www.urionlinejudge.com.br/judge/pt/problems/view/3059) - [Pares de Números](https://github.com/potigol/uoj-potigol/blob/master/src/3000/3059.poti)
   - [x]  [3060](https://www.urionlinejudge.com.br/judge/pt/problems/view/3060) - [Parcelamento Sem Juros](https://github.com/potigol/uoj-potigol/blob/master/src/3000/3060.poti)
+
 ## Problemas não resolvidos
 
   - [ ]  [2189](https://www.urionlinejudge.com.br/judge/pt/problems/view/2189) - Quermesse

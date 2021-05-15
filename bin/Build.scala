@@ -118,8 +118,8 @@ object Build extends App {
         s"  - [ ]  [${p.number}](${prefix}/${p.number}) - ${p.name}"
       }.sorted
 
-      val h = ("\n## Problemas resolvidos\n" :: resolvidos).mkString("\n") +
-              ("\n## Problemas não resolvidos\n" :: naoresolvidos).mkString("\n")
+      val h = ("\n\n## Problemas resolvidos\n" :: resolvidos).mkString("\n") +
+              ("\n\n## Problemas não resolvidos\n" :: naoresolvidos).mkString("\n")
       save(s"${path}${clean(d)}.md", s"${d} (${resolvidos.length} / ${bd.length})", h)
     }
   }
@@ -133,6 +133,6 @@ object Build extends App {
   listaCategoria(maratona, "../competicoes/maratona/")
 
   // Lista por competição
-  duasfases("maratona1.txt", "maratona2.txt", "../competicoes/maratona.md", "Maratona de Programação")
-  umafase("obi.txt", "../competicoes/obi.md", "Olimpiada Brasileira de Informática")
+  duasfases("maratona1.txt", "maratona2.txt", "../competicoes/maratona/README.md", "Maratona de Programação")
+  umafase("obi.txt", "../competicoes/obi/README.md", "Olimpiada Brasileira de Informática")
 }

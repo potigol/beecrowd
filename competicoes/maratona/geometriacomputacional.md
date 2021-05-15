@@ -1,7 +1,9 @@
 # Geometria Computacional (0 / 12)
 
 
+
 ## Problemas resolvidos
+
 
 ## Problemas não resolvidos
 

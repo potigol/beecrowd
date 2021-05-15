@@ -1,6 +1,7 @@
 # Iniciante (16 / 16)
 
 
+
 ## Problemas resolvidos
 
   - [x]  [1929](https://www.urionlinejudge.com.br/judge/pt/problems/view/1929) - [Triângulo](https://github.com/potigol/uoj-potigol/blob/master/src/1900/1929.poti)
@@ -19,4 +20,5 @@
   - [x]  [3055](https://www.urionlinejudge.com.br/judge/pt/problems/view/3055) - [Nota Esquecida](https://github.com/potigol/uoj-potigol/blob/master/src/3000/3055.poti)
   - [x]  [3065](https://www.urionlinejudge.com.br/judge/pt/problems/view/3065) - [Calculando](https://github.com/potigol/uoj-potigol/blob/master/src/3000/3065.poti)
   - [x]  [3068](https://www.urionlinejudge.com.br/judge/pt/problems/view/3068) - [Meteoros](https://github.com/potigol/uoj-potigol/blob/master/src/3000/3068.poti)
+
 ## Problemas não resolvidos

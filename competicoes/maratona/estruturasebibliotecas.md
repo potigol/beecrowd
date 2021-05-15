@@ -1,9 +1,11 @@
 # Estruturas e Bibliotecas (1 / 8)
 
 
+
 ## Problemas resolvidos
 
   - [x]  [1430](https://www.urionlinejudge.com.br/judge/pt/problems/view/1430) - [Composição de Jingles](https://github.com/potigol/uoj-potigol/blob/master/src/1400/1430.poti)
+
 ## Problemas não resolvidos
 
   - [ ]  [1274](https://www.urionlinejudge.com.br/judge/pt/problems/view/1274) - P-Networks

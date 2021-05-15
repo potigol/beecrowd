@@ -1,6 +1,7 @@
 # Strings (55 / 140)
 
 
+
 ## Problemas resolvidos
 
   - [x]  [1024](https://www.urionlinejudge.com.br/judge/pt/problems/view/1024) - [Criptografia](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1024.poti)
@@ -58,6 +59,7 @@
   - [x]  [3088](https://www.urionlinejudge.com.br/judge/pt/problems/view/3088) - [Correção de Texto](https://github.com/potigol/uoj-potigol/blob/master/src/3000/3088.poti)
   - [x]  [3103](https://www.urionlinejudge.com.br/judge/pt/problems/view/3103) - [Número da Sorte](https://github.com/potigol/uoj-potigol/blob/master/src/3100/3103.poti)
   - [x]  [3141](https://www.urionlinejudge.com.br/judge/pt/problems/view/3141) - [Dúvida Etária](https://github.com/potigol/uoj-potigol/blob/master/src/3100/3141.poti)
+
 ## Problemas não resolvidos
 
   - [ ]  [1141](https://www.urionlinejudge.com.br/judge/pt/problems/view/1141) - Cultivando Strings

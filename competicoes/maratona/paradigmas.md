@@ -1,7 +1,9 @@
 # Paradigmas (0 / 17)
 
 
+
 ## Problemas resolvidos
+
 
 ## Problemas não resolvidos
 

@@ -1,6 +1,7 @@
 # Estruturas e Bibliotecas (25 / 178)
 
 
+
 ## Problemas resolvidos
 
   - [x]  [1022](https://www.urionlinejudge.com.br/judge/pt/problems/view/1022) - [TDA Racional](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1022.poti)
@@ -28,6 +29,7 @@
   - [x]  [2729](https://www.urionlinejudge.com.br/judge/pt/problems/view/2729) - [Lista de Compras](https://github.com/potigol/uoj-potigol/blob/master/src/2700/2729.poti)
   - [x]  [2872](https://www.urionlinejudge.com.br/judge/pt/problems/view/2872) - [Protocolo TCP/IP](https://github.com/potigol/uoj-potigol/blob/master/src/2800/2872.poti)
   - [x]  [2984](https://www.urionlinejudge.com.br/judge/pt/problems/view/2984) - [Assuntos Pendentes](https://github.com/potigol/uoj-potigol/blob/master/src/2900/2984.poti)
+
 ## Problemas não resolvidos
 
   - [ ]  [1023](https://www.urionlinejudge.com.br/judge/pt/problems/view/1023) - Estiagem

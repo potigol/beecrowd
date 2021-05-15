@@ -1,11 +1,13 @@
 # Geometria Computacional (3 / 81)
 
 
+
 ## Problemas resolvidos
 
   - [x]  [1296](https://www.urionlinejudge.com.br/judge/pt/problems/view/1296) - [Medianas](https://github.com/potigol/uoj-potigol/blob/master/src/1200/1296.poti)
   - [x]  [1875](https://www.urionlinejudge.com.br/judge/pt/problems/view/1875) - [Tribol](https://github.com/potigol/uoj-potigol/blob/master/src/1800/1875.poti)
   - [x]  [2840](https://www.urionlinejudge.com.br/judge/pt/problems/view/2840) - [Balão++](https://github.com/potigol/uoj-potigol/blob/master/src/2800/2840.poti)
+
 ## Problemas não resolvidos
 
   - [ ]  [1039](https://www.urionlinejudge.com.br/judge/pt/problems/view/1039) - Flores de Fogo
