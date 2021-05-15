@@ -1,4 +1,4 @@
 # Competições de Programação
 
- - [Maratona de Programação da SBC](maratona.md)
- - [Olimpíada Brasileira de Informática](obi.md)
+ - [Maratona de Programação da SBC](maratona)
+ - [Olimpíada Brasileira de Informática](obi)
