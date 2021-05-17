@@ -1,4 +1,4 @@
-# Problemas 2000 (14 / 100)
+# Problemas 2000 (14%)
 
   - [ ]  [2000](https://www.urionlinejudge.com.br/judge/pt/problems/view/2000) - Adeildo da Odonto *Strings*
   - [ ]  [2001](https://www.urionlinejudge.com.br/judge/pt/problems/view/2001) - Bile *Matemática*

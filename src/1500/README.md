@@ -1,4 +1,4 @@
-# Problemas 1500 (18 / 100)
+# Problemas 1500 (18%)
 
   - [ ]  [1500](https://www.urionlinejudge.com.br/judge/pt/problems/view/1500) - Consultas Horríveis *Estruturas e Bibliotecas*
   - [ ]  [1501](https://www.urionlinejudge.com.br/judge/pt/problems/view/1501) - Quantos Zeros e Quantos Dígitos? *Matemática*

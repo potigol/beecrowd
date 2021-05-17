@@ -1,4 +1,4 @@
-# Problemas 2500 (28 / 100)
+# Problemas 2500 (28%)
 
   - [ ]  [2500](https://www.urionlinejudge.com.br/judge/pt/problems/view/2500) - William Xorando *Matemática*
   - [ ]  [2501](https://www.urionlinejudge.com.br/judge/pt/problems/view/2501) - Fatores Permitidos *Paradigmas*

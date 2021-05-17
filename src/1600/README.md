@@ -1,4 +1,4 @@
-# Problemas 1600 (3 / 100)
+# Problemas 1600 (3%)
 
   - [ ]  [1600](https://www.urionlinejudge.com.br/judge/pt/problems/view/1600) - O Gato do Zelador do Armazém *Paradigmas*
   - [ ]  [1601](https://www.urionlinejudge.com.br/judge/pt/problems/view/1601) - Partição do Rebanho *Paradigmas*

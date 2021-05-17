@@ -1,4 +1,4 @@
-# Problemas 2300 (27 / 100)
+# Problemas 2300 (27%)
 
   - [ ]  [2300](https://www.urionlinejudge.com.br/judge/pt/problems/view/2300) - Transmissão de Energia *Grafos*
   - [ ]  [2301](https://www.urionlinejudge.com.br/judge/pt/problems/view/2301) - Vivo ou Morto *Ad-Hoc*

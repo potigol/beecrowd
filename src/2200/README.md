@@ -1,4 +1,4 @@
-# Problemas 2200 (13 / 100)
+# Problemas 2200 (14%)
 
   - [ ]  [2200](https://www.urionlinejudge.com.br/judge/pt/problems/view/2200) - Mummy Madness *Ad-Hoc*
   - [ ]  [2201](https://www.urionlinejudge.com.br/judge/pt/problems/view/2201) - Pyramids *Ad-Hoc*

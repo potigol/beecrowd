@@ -1,4 +1,4 @@
-# Problemas 1900 (20 / 100)
+# Problemas 1900 (20%)
 
   - [ ]  [1900](https://www.urionlinejudge.com.br/judge/pt/problems/view/1900) - Sequências Nulas *Paradigmas*
   - [ ]  [1901](https://www.urionlinejudge.com.br/judge/pt/problems/view/1901) - Borboletas *Ad-Hoc*

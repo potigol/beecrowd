@@ -104,8 +104,9 @@ object Build extends App {
       val d = for (j <- 0 to 99; x = i * 100 + j) yield line(problems.get(x))
       val s = d.mkString("\n")
       val solved = s.split("\\[x\\]").length - 1
-      val total = s.split("\\[ \\]").length - 1 + solved
-      save(s"${path}${dir(i*100)}/README.md", s"Problemas ${dir(i*100).replace("-", " a ")} ($solved / $total)", s)
+      val absent = s.split(" ~~").length - 1
+      val total = s.split("\\[ \\]").length - 1 + solved - absent
+      save(s"${path}${dir(i*100)}/README.md", s"Problemas ${dir(i*100).replace("-", " a ")} (${solved * 100 / total}%)", s)
     }
 
   // Lista por categoria

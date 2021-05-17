@@ -1,4 +1,4 @@
-# Problemas 3200 (5 / 100)
+# Problemas 3200 (7%)
 
   - [ ]  [3200](https://www.urionlinejudge.com.br/judge/pt/problems/view/3200) - Card Trick *Ad-Hoc*
   - [ ]  [3201](https://www.urionlinejudge.com.br/judge/pt/problems/view/3201) - Traveling Salesman *Estruturas e Bibliotecas*
