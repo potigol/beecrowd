@@ -52,7 +52,10 @@ object Build extends App {
          |${listContest(contest2, year, problems)}
          """.stripMargin
        }
-    save(file, title, s.mkString("\n"))
+    val str = s.mkString("\n")
+    val solved = str.split("[x]").length - 1
+    val total = str.split("\\[ \\]").length - 1 + solved
+    save(file, s"$title ($solved / $total)", str)
   }
 
   // Generates a problem list for a one phase competition
@@ -65,7 +68,9 @@ object Build extends App {
         s = s + line(problems.get(x)) + "\n"
       }
     }
-    save(file, title, s)
+    val solved = s.split("[x]").length - 1
+    val total = s.split("\\[ \\]").length - 1 + solved
+    save(file, s"$title ($solved / $total)", s)
   }
   // One line for each problem
   def line(problem: Option[Problem], showCategory: Boolean = true) =

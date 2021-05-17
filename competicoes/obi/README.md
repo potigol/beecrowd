@@ -1,4 +1,4 @@
-# Olimpiada Brasileira de Informática
+# Olimpiada Brasileira de Informática (86 / 224)
 
 
 
