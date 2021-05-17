@@ -1,4 +1,4 @@
-# Problemas 1800
+# Problemas 1800 (20 / 100)
 
   - [ ]  [1800](https://www.urionlinejudge.com.br/judge/pt/problems/view/1800) - Onde Estão Minhas Chaves *Ad-Hoc*
   - [ ]  [1801](https://www.urionlinejudge.com.br/judge/pt/problems/view/1801) - Brincando com Números *Matemática*

@@ -1,4 +1,4 @@
-# Problemas 2800
+# Problemas 2800 (34 / 100)
 
   - [ ]  [2800](https://www.urionlinejudge.com.br/judge/pt/problems/view/2800) - Brincando de Consultas *Estruturas e Bibliotecas*
   - [ ]  [2801](https://www.urionlinejudge.com.br/judge/pt/problems/view/2801) - Cifra Affine *Matemática*

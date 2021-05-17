@@ -1,4 +1,4 @@
-# Problemas 2100
+# Problemas 2100 (27 / 100)
 
   - [ ]  [2100](https://www.urionlinejudge.com.br/judge/pt/problems/view/2100) - Cinema de Xing Tzen Zu *Matemática*
   - [ ]  [2101](https://www.urionlinejudge.com.br/judge/pt/problems/view/2101) - Combinações de Dias *Matemática*

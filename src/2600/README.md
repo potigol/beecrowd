@@ -1,4 +1,4 @@
-# Problemas 2600
+# Problemas 2600 (21 / 100)
 
   - [ ]  [2600](https://www.urionlinejudge.com.br/judge/pt/problems/view/2600) - Tustin e Seu Dado Novo *Ad-Hoc*
   - [ ]  [2601](https://www.urionlinejudge.com.br/judge/pt/problems/view/2601) - Tustin e Seu Dado Antigo *Ad-Hoc*

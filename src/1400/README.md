@@ -1,4 +1,4 @@
-# Problemas 1400
+# Problemas 1400 (10 / 100)
 
   - [ ]  [1400](https://www.urionlinejudge.com.br/judge/pt/problems/view/1400) - Jogo - Contando *Matemática*
   - [ ]  [1401](https://www.urionlinejudge.com.br/judge/pt/problems/view/1401) - Gerando Permutações Ordenadas Rapidamente *Estruturas e Bibliotecas*

@@ -1,4 +1,4 @@
-# Problemas 2700
+# Problemas 2700 (41 / 100)
 
   - [ ]  [2700](https://www.urionlinejudge.com.br/judge/pt/problems/view/2700) - Angariando Fundos *Estruturas e Bibliotecas*
   - [ ]  [2701](https://www.urionlinejudge.com.br/judge/pt/problems/view/2701) - Portas da Incerteza *Ad-Hoc*
