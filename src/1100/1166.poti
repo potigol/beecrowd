@@ -1,0 +1,6 @@
+bolas = para i de 1 ate 50 gere (i + 1) * (i + 1) div 2 - 1 fim
+t = leia_inteiro
+para i de 1 ate t faca
+  n = leia_inteiro
+  escreva bolas[n]
+fim

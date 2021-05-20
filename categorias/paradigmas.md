@@ -1,4 +1,4 @@
-# Paradigmas (2 / 212)
+# Paradigmas (3 / 212)
 
 
 
@@ -6,6 +6,7 @@
 
   - [x]  [1029](https://www.urionlinejudge.com.br/judge/pt/problems/view/1029) - [Fibonacci, Quantas Chamadas?](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1029.poti)
   - [x]  [1084](https://www.urionlinejudge.com.br/judge/pt/problems/view/1084) - [Apagando e Ganhando](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1084.poti)
+  - [x]  [1166](https://www.urionlinejudge.com.br/judge/pt/problems/view/1166) - [Torre de Hanoi, Novamente!](https://github.com/potigol/uoj-potigol/blob/master/src/1100/1166.poti)
 
 ## Problemas não resolvidos
 
@@ -16,7 +17,6 @@
   - [ ]  [1055](https://www.urionlinejudge.com.br/judge/pt/problems/view/1055) - Soma Permutada Elegante
   - [ ]  [1058](https://www.urionlinejudge.com.br/judge/pt/problems/view/1058) - Zonas de Ataque Independentes
   - [ ]  [1106](https://www.urionlinejudge.com.br/judge/pt/problems/view/1106) - Dragster
-  - [ ]  [1166](https://www.urionlinejudge.com.br/judge/pt/problems/view/1166) - Torre de Hanoi, Novamente!
   - [ ]  [1203](https://www.urionlinejudge.com.br/judge/pt/problems/view/1203) - Pontes de São Petersburgo
   - [ ]  [1210](https://www.urionlinejudge.com.br/judge/pt/problems/view/1210) - Produção Ótima de Ótima Vodka
   - [ ]  [1224](https://www.urionlinejudge.com.br/judge/pt/problems/view/1224) - Cartões

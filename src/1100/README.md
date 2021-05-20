@@ -1,4 +1,4 @@
-# Problemas 1100 (63%)
+# Problemas 1100 (64%)
 
   - [ ]  [1100](https://www.urionlinejudge.com.br/judge/pt/problems/view/1100) - Movimentos do Cavalo *Grafos*
   - [x]  [1101](https://www.urionlinejudge.com.br/judge/pt/problems/view/1101) - [Sequência de Números e Soma](https://github.com/potigol/uoj-potigol/blob/master/src/1100/1101.poti) *Iniciante*
@@ -66,7 +66,7 @@
   - [ ]  [1163](https://www.urionlinejudge.com.br/judge/pt/problems/view/1163) - Angry Ducks *Matemática*
   - [x]  [1164](https://www.urionlinejudge.com.br/judge/pt/problems/view/1164) - [Número Perfeito](https://github.com/potigol/uoj-potigol/blob/master/src/1100/1164.poti) *Iniciante*
   - [x]  [1165](https://www.urionlinejudge.com.br/judge/pt/problems/view/1165) - [Número Primo](https://github.com/potigol/uoj-potigol/blob/master/src/1100/1165.poti) *Iniciante*
-  - [ ]  [1166](https://www.urionlinejudge.com.br/judge/pt/problems/view/1166) - Torre de Hanoi, Novamente! *Paradigmas*
+  - [x]  [1166](https://www.urionlinejudge.com.br/judge/pt/problems/view/1166) - [Torre de Hanoi, Novamente!](https://github.com/potigol/uoj-potigol/blob/master/src/1100/1166.poti) *Paradigmas*
   - [ ]  [1167](https://www.urionlinejudge.com.br/judge/pt/problems/view/1167) - Acampamento de Férias *Estruturas e Bibliotecas*
   - [x]  [1168](https://www.urionlinejudge.com.br/judge/pt/problems/view/1168) - [LED](https://github.com/potigol/uoj-potigol/blob/master/src/1100/1168.poti) *Strings*
   - [x]  [1169](https://www.urionlinejudge.com.br/judge/pt/problems/view/1169) - [Trigo no Tabuleiro](https://github.com/potigol/uoj-potigol/blob/master/src/1100/1169.poti) *Matemática*

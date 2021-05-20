@@ -1,0 +1,10 @@
+var dolares := leia_inteiro
+enquanto nao eof faca
+  centavos = leia_inteiro
+  s0 = dolares.texto
+  s1 = se s0.tamanho > 3  entao s0.insira(s0.tamanho - 2 , ',') senao s0 fim
+  s2 = se s1.tamanho > 7  entao s1.insira(s1.tamanho - 6 , ',') senao s1 fim
+  s3 = se s2.tamanho > 11 entao s2.insira(s2.tamanho - 10, ',') senao s2 fim
+  escreva "${s3}.{centavos formato "%02d"}"
+  dolares := leia_inteiro
+fim

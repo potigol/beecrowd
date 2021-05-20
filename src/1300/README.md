@@ -1,4 +1,4 @@
-# Problemas 1300 (10%)
+# Problemas 1300 (11%)
 
   - [x]  [1300](https://www.urionlinejudge.com.br/judge/pt/problems/view/1300) - [Horas e Minutos](https://github.com/potigol/uoj-potigol/blob/master/src/1300/1300.poti) *Ad-Hoc*
   - [ ]  [1301](https://www.urionlinejudge.com.br/judge/pt/problems/view/1301) - Produto do Intervalo *Estruturas e Bibliotecas*
@@ -9,7 +9,7 @@
   - [ ]  [1306](https://www.urionlinejudge.com.br/judge/pt/problems/view/1306) - Numerando Estradas *Matemática*
   - [ ]  [1307](https://www.urionlinejudge.com.br/judge/pt/problems/view/1307) - Tudo o que Você Precisa é Amor *Matemática*
   - [ ]  [1308](https://www.urionlinejudge.com.br/judge/pt/problems/view/1308) - Guerreiros Etruscos Nunca Jogam Xadrez *Matemática*
-  - [ ]  [1309](https://www.urionlinejudge.com.br/judge/pt/problems/view/1309) - Formatação Monetária *Matemática*
+  - [x]  [1309](https://www.urionlinejudge.com.br/judge/pt/problems/view/1309) - [Formatação Monetária](https://github.com/potigol/uoj-potigol/blob/master/src/1300/1309.poti) *Matemática*
   - [ ]  [1310](https://www.urionlinejudge.com.br/judge/pt/problems/view/1310) - Lucro *Paradigmas*
   - [ ]  [1311](https://www.urionlinejudge.com.br/judge/pt/problems/view/1311) - Companheiros de Exército *Ad-Hoc*
   - [ ]  [1312](https://www.urionlinejudge.com.br/judge/pt/problems/view/1312) - Empilhamento de Bolas *Paradigmas*
