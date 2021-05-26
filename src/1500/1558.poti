@@ -1,0 +1,15 @@
+var n := leia_inteiro
+enquanto nao eof faca
+  a = raiz(n div 2).inteiro
+  yes = para i de 0 ate a gere
+    b = n - i * i
+    c = raiz(b).inteiro
+    c * c == b
+  fim
+  se yes.contem(verdadeiro) entao
+    escreva "YES"
+  senao
+    escreva "NO"
+  fim
+  n := leia_inteiro
+fim

@@ -1,4 +1,4 @@
-# Estruturas e Bibliotecas (25 / 178)
+# Estruturas e Bibliotecas (26 / 178)
 
 
 
@@ -13,6 +13,7 @@
   - [x]  [1251](https://www.urionlinejudge.com.br/judge/pt/problems/view/1251) - [Diga-me a Frequência](https://github.com/potigol/uoj-potigol/blob/master/src/1200/1251.poti)
   - [x]  [1258](https://www.urionlinejudge.com.br/judge/pt/problems/view/1258) - [Camisetas](https://github.com/potigol/uoj-potigol/blob/master/src/1200/1258.poti)
   - [x]  [1259](https://www.urionlinejudge.com.br/judge/pt/problems/view/1259) - [Pares e Ímpares](https://github.com/potigol/uoj-potigol/blob/master/src/1200/1259.poti)
+  - [x]  [1340](https://www.urionlinejudge.com.br/judge/pt/problems/view/1340) - [Eu Posso Adivinhar a Estrutura de Dados!](https://github.com/potigol/uoj-potigol/blob/master/src/1300/1340.poti)
   - [x]  [1430](https://www.urionlinejudge.com.br/judge/pt/problems/view/1430) - [Composição de Jingles](https://github.com/potigol/uoj-potigol/blob/master/src/1400/1430.poti)
   - [x]  [1548](https://www.urionlinejudge.com.br/judge/pt/problems/view/1548) - [Fila do Recreio](https://github.com/potigol/uoj-potigol/blob/master/src/1500/1548.poti)
   - [x]  [1709](https://www.urionlinejudge.com.br/judge/pt/problems/view/1709) - [Baralho Embaralhado](https://github.com/potigol/uoj-potigol/blob/master/src/1700/1709.poti)
@@ -55,7 +56,6 @@
   - [ ]  [1301](https://www.urionlinejudge.com.br/judge/pt/problems/view/1301) - Produto do Intervalo
   - [ ]  [1303](https://www.urionlinejudge.com.br/judge/pt/problems/view/1303) - Spurs Rocks
   - [ ]  [1326](https://www.urionlinejudge.com.br/judge/pt/problems/view/1326) - Química
-  - [ ]  [1340](https://www.urionlinejudge.com.br/judge/pt/problems/view/1340) - Eu Posso Adivinhar a Estrutura de Dados!
   - [ ]  [1356](https://www.urionlinejudge.com.br/judge/pt/problems/view/1356) - Júpiter Ataca!
   - [ ]  [1382](https://www.urionlinejudge.com.br/judge/pt/problems/view/1382) - Elementar, meu Caro Watson!
   - [ ]  [1388](https://www.urionlinejudge.com.br/judge/pt/problems/view/1388) - Onde Estão as Bolhas?

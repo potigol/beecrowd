@@ -1,4 +1,4 @@
-# Problemas 1300 (11%)
+# Problemas 1300 (12%)
 
   - [x]  [1300](https://www.urionlinejudge.com.br/judge/pt/problems/view/1300) - [Horas e Minutos](https://github.com/potigol/uoj-potigol/blob/master/src/1300/1300.poti) *Ad-Hoc*
   - [ ]  [1301](https://www.urionlinejudge.com.br/judge/pt/problems/view/1301) - Produto do Intervalo *Estruturas e Bibliotecas*
@@ -40,7 +40,7 @@
   - [ ]  [1337](https://www.urionlinejudge.com.br/judge/pt/problems/view/1337) - Poker do Rei *Ad-Hoc*
   - [ ]  [1338](https://www.urionlinejudge.com.br/judge/pt/problems/view/1338) - It-Miha *Matemática*
   - [ ]  [1339](https://www.urionlinejudge.com.br/judge/pt/problems/view/1339) - O Cubo Mágico do Avô *Ad-Hoc*
-  - [ ]  [1340](https://www.urionlinejudge.com.br/judge/pt/problems/view/1340) - Eu Posso Adivinhar a Estrutura de Dados! *Estruturas e Bibliotecas*
+  - [x]  [1340](https://www.urionlinejudge.com.br/judge/pt/problems/view/1340) - [Eu Posso Adivinhar a Estrutura de Dados!](https://github.com/potigol/uoj-potigol/blob/master/src/1300/1340.poti) *Estruturas e Bibliotecas*
   - [ ]  [1341](https://www.urionlinejudge.com.br/judge/pt/problems/view/1341) - Crianças em uma Grade *Strings*
   - [ ]  [1342](https://www.urionlinejudge.com.br/judge/pt/problems/view/1342) - Dado *Ad-Hoc*
   - [ ]  [1343](https://www.urionlinejudge.com.br/judge/pt/problems/view/1343) - Runner Pawns *Ad-Hoc*

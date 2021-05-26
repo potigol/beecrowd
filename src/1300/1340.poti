@@ -1,0 +1,34 @@
+var n := leia_inteiro
+enquanto nao eof faca
+  var pilha, fila, prioridade := Lista(0, 0)
+  var estrutura := Lista(4, 1)
+  estrutura[4] := 0
+  para i de 1 ate n faca
+    a = leia_inteiros(" ")
+    t, x = a[1], a[2]
+    se t == 1 entao
+      pilha      := x :: pilha
+      fila       := x :: fila
+      prioridade := x :: prioridade
+    senao # t == 2
+      fila := fila.inverta
+      prioridade := prioridade.ordene.inverta
+      se x <> fila.cabeca entao estrutura[1] := 0 fim
+      se x <> pilha.cabeca entao estrutura[2] := 0 fim
+      se x <> prioridade.cabeca entao estrutura[3] := 0 fim
+      se pilha == [] ou x <> fila.cabeca e x <> pilha.cabeca e x <> prioridade.cabeca entao estrutura[4] := 1 fim
+      pilha := pilha.cauda
+      fila := fila.cauda.inverta
+      prioridade := prioridade.cauda
+    fim
+  fim
+  resp = estrutura[1] + estrutura[2] * 2 + estrutura[3] * 4 + estrutura[4] * 8
+  escolha resp
+    caso 1 => escreva "queue"
+    caso 2 => escreva "stack"
+    caso 4 => escreva "priority queue"
+    caso s se s >= 8  => escreva "impossible"
+    caso _ => escreva "not sure"
+  fim
+  n := leia_inteiro
+fim
