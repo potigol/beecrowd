@@ -1676,7 +1676,7 @@
 2695	Arrumando Lajotas	Geometria Computacional
 2697	Sequencia Completa de Naebbirac	Strings
 2698	Dispositivo Assombrado	Estruturas e Bibliotecas
-2699	Enigma	Iniciante
+2699	Enigma	Paradigmas
 2700	Angariando Fundos	Estruturas e Bibliotecas
 2701	Portas da Incerteza	Ad-Hoc
 2702	Escolha Difícil	Iniciante
@@ -2169,7 +2169,7 @@
 3194	Nested Dolls	Grafos
 3195	Shopaholic	Paradigmas
 3196	Moogle	Paradigmas
-3197	Shoot-out	Iniciante
+3197	Shoot-out	Paradigmas
 3198	Tour Guide	Ad-Hoc
 3199	Jezzball	Ad-Hoc
 3200	Card Trick	Ad-Hoc

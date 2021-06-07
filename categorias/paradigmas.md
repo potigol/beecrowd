@@ -1,4 +1,4 @@
-# Paradigmas (3 / 212)
+# Paradigmas (3 / 214)
 
 
 
@@ -175,6 +175,7 @@
   - [ ]  [2599](https://www.urionlinejudge.com.br/judge/pt/problems/view/2599) - Contando Radares
   - [ ]  [2664](https://www.urionlinejudge.com.br/judge/pt/problems/view/2664) - Ginástica
   - [ ]  [2677](https://www.urionlinejudge.com.br/judge/pt/problems/view/2677) - Par ou Ímpar
+  - [ ]  [2699](https://www.urionlinejudge.com.br/judge/pt/problems/view/2699) - Enigma
   - [ ]  [2713](https://www.urionlinejudge.com.br/judge/pt/problems/view/2713) - O Mago é Implacável!
   - [ ]  [2716](https://www.urionlinejudge.com.br/judge/pt/problems/view/2716) - Dividindo os Trabalhos II
   - [ ]  [2723](https://www.urionlinejudge.com.br/judge/pt/problems/view/2723) - Equilibrando Presentes
@@ -216,6 +217,7 @@
   - [ ]  [3192](https://www.urionlinejudge.com.br/judge/pt/problems/view/3192) - Circle of Debt
   - [ ]  [3195](https://www.urionlinejudge.com.br/judge/pt/problems/view/3195) - Shopaholic
   - [ ]  [3196](https://www.urionlinejudge.com.br/judge/pt/problems/view/3196) - Moogle
+  - [ ]  [3197](https://www.urionlinejudge.com.br/judge/pt/problems/view/3197) - Shoot-out
   - [ ]  [3251](https://www.urionlinejudge.com.br/judge/pt/problems/view/3251) - ls
   - [ ]  [3274](https://www.urionlinejudge.com.br/judge/pt/problems/view/3274) - Excursão
   - [ ]  [3277](https://www.urionlinejudge.com.br/judge/pt/problems/view/3277) - Trabalho na Estrada

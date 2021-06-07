@@ -1,4 +1,4 @@
-# Paradigmas (0 / 17)
+# Paradigmas (0 / 18)
 
 
 
@@ -24,3 +24,4 @@
   - [ ]  [1493](https://www.urionlinejudge.com.br/judge/pt/problems/view/1493) - Abastecimento de Água Disjunto
   - [ ]  [1494](https://www.urionlinejudge.com.br/judge/pt/problems/view/1494) - Onze
   - [ ]  [1744](https://www.urionlinejudge.com.br/judge/pt/problems/view/1744) - Pedras Pretas e Brancas
+  - [ ]  [2699](https://www.urionlinejudge.com.br/judge/pt/problems/view/2699) - Enigma

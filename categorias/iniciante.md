@@ -1,4 +1,4 @@
-# Iniciante (300 / 325)
+# Iniciante (300 / 323)
 
 
 
@@ -308,7 +308,6 @@
 ## Problemas não resolvidos
 
   - [ ]  [2632](https://www.urionlinejudge.com.br/judge/pt/problems/view/2632) - Magic and Sword
-  - [ ]  [2699](https://www.urionlinejudge.com.br/judge/pt/problems/view/2699) - Enigma
   - [ ]  [2715](https://www.urionlinejudge.com.br/judge/pt/problems/view/2715) - Dividindo os Trabalhos I
   - [ ]  [2758](https://www.urionlinejudge.com.br/judge/pt/problems/view/2758) - Entrada e Saída de Números Reais
   - [ ]  [2769](https://www.urionlinejudge.com.br/judge/pt/problems/view/2769) - Linha de Montagem
@@ -317,7 +316,6 @@
   - [ ]  [3167](https://www.urionlinejudge.com.br/judge/pt/problems/view/3167) - Procurando Palavras na Diagonal Secundária
   - [ ]  [3173](https://www.urionlinejudge.com.br/judge/pt/problems/view/3173) - Estrela de Natal
   - [ ]  [3181](https://www.urionlinejudge.com.br/judge/pt/problems/view/3181) - Jantar
-  - [ ]  [3197](https://www.urionlinejudge.com.br/judge/pt/problems/view/3197) - Shoot-out
   - [ ]  [3204](https://www.urionlinejudge.com.br/judge/pt/problems/view/3204) - Honeycomb Walk
   - [ ]  [3217](https://www.urionlinejudge.com.br/judge/pt/problems/view/3217) - Chuva Caindo
   - [ ]  [3231](https://www.urionlinejudge.com.br/judge/pt/problems/view/3231) - Horror List

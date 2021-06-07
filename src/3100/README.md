@@ -97,6 +97,6 @@
   - [ ]  [3194](https://www.urionlinejudge.com.br/judge/pt/problems/view/3194) - Nested Dolls *Grafos*
   - [ ]  [3195](https://www.urionlinejudge.com.br/judge/pt/problems/view/3195) - Shopaholic *Paradigmas*
   - [ ]  [3196](https://www.urionlinejudge.com.br/judge/pt/problems/view/3196) - Moogle *Paradigmas*
-  - [ ]  [3197](https://www.urionlinejudge.com.br/judge/pt/problems/view/3197) - Shoot-out *Iniciante*
+  - [ ]  [3197](https://www.urionlinejudge.com.br/judge/pt/problems/view/3197) - Shoot-out *Paradigmas*
   - [ ]  [3198](https://www.urionlinejudge.com.br/judge/pt/problems/view/3198) - Tour Guide *Ad-Hoc*
   - [ ]  [3199](https://www.urionlinejudge.com.br/judge/pt/problems/view/3199) - Jezzball *Ad-Hoc*

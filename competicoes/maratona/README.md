@@ -93,7 +93,7 @@
   - [ ]  [2695](https://www.urionlinejudge.com.br/judge/pt/problems/view/2695) - Arrumando Lajotas *Geometria Computacional*
   - [ ]  [2697](https://www.urionlinejudge.com.br/judge/pt/problems/view/2697) - Sequencia Completa de Naebbirac *Strings*
   - [ ]  [2698](https://www.urionlinejudge.com.br/judge/pt/problems/view/2698) - Dispositivo Assombrado *Estruturas e Bibliotecas*
-  - [ ]  [2699](https://www.urionlinejudge.com.br/judge/pt/problems/view/2699) - Enigma *Iniciante*
+  - [ ]  [2699](https://www.urionlinejudge.com.br/judge/pt/problems/view/2699) - Enigma *Paradigmas*
   - [ ]  [2700](https://www.urionlinejudge.com.br/judge/pt/problems/view/2700) - Angariando Fundos *Estruturas e Bibliotecas*
   - [ ]  [2701](https://www.urionlinejudge.com.br/judge/pt/problems/view/2701) - Portas da Incerteza *Ad-Hoc*
   - [x]  [2702](https://www.urionlinejudge.com.br/judge/pt/problems/view/2702) - [Escolha Difícil](https://github.com/potigol/uoj-potigol/blob/master/src/2700/2702.poti) *Iniciante*

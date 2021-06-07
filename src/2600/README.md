@@ -99,4 +99,4 @@
   - [ ] ~~xxxx~~
   - [ ]  [2697](https://www.urionlinejudge.com.br/judge/pt/problems/view/2697) - Sequencia Completa de Naebbirac *Strings*
   - [ ]  [2698](https://www.urionlinejudge.com.br/judge/pt/problems/view/2698) - Dispositivo Assombrado *Estruturas e Bibliotecas*
-  - [ ]  [2699](https://www.urionlinejudge.com.br/judge/pt/problems/view/2699) - Enigma *Iniciante*
+  - [ ]  [2699](https://www.urionlinejudge.com.br/judge/pt/problems/view/2699) - Enigma *Paradigmas*
