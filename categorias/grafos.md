@@ -1,4 +1,4 @@
-# Grafos (3 / 273)
+# Grafos (3 / 274)
 
 
 
@@ -280,3 +280,4 @@
   - [ ]  [3264](https://www.urionlinejudge.com.br/judge/pt/problems/view/3264) - Pinball
   - [ ]  [3268](https://www.urionlinejudge.com.br/judge/pt/problems/view/3268) - Lounges da Amanda
   - [ ]  [3269](https://www.urionlinejudge.com.br/judge/pt/problems/view/3269) - Vigilância de Basin City
+  - [ ]  [3314](https://www.urionlinejudge.com.br/judge/pt/problems/view/3314) - Konfusa, a Colmeia!

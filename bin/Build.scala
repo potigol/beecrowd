@@ -134,7 +134,7 @@ object Build extends App {
   }
 
   // Principal
-  listaGeral(32, problems)
+  listaGeral(33, problems)
   listaCategoria(problems)
   val obi = (for(n <- getContest("obi.txt").values.flatten.toList; p <- problems.get(n)) yield (n -> p)).toMap
   listaCategoria(obi, "../competicoes/obi/")

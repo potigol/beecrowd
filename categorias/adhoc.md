@@ -1,4 +1,4 @@
-# Ad-Hoc (137 / 725)
+# Ad-Hoc (137 / 729)
 
 
 
@@ -732,3 +732,7 @@
   - [ ]  [3254](https://www.urionlinejudge.com.br/judge/pt/problems/view/3254) - Espaço Privado
   - [ ]  [3263](https://www.urionlinejudge.com.br/judge/pt/problems/view/3263) - Apague Com Segurança
   - [ ]  [3278](https://www.urionlinejudge.com.br/judge/pt/problems/view/3278) - Passageiros de Trem
+  - [ ]  [3305](https://www.urionlinejudge.com.br/judge/pt/problems/view/3305) - Bispos Dominantes
+  - [ ]  [3307](https://www.urionlinejudge.com.br/judge/pt/problems/view/3307) - Decora o Rolê!
+  - [ ]  [3309](https://www.urionlinejudge.com.br/judge/pt/problems/view/3309) - Felizes são estes Números
+  - [ ]  [3315](https://www.urionlinejudge.com.br/judge/pt/problems/view/3315) - Língua do Computador

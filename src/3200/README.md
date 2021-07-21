@@ -41,7 +41,7 @@
   - [ ] ~~xxxx~~
   - [ ]  [3239](https://www.urionlinejudge.com.br/judge/pt/problems/view/3239) - Dirty Driving *Estruturas e Bibliotecas*
   - [ ]  [3240](https://www.urionlinejudge.com.br/judge/pt/problems/view/3240) - Doodling *Ad-Hoc*
-  - [x]  [3241](https://www.urionlinejudge.com.br/judge/pt/problems/view/3241) - [Ajude um candidato a PhD!](https://github.com/potigol/uoj-potigol/blob/master/src/3200/3241.poti) *Iniciante*
+  - [x]  [3241](https://www.urionlinejudge.com.br/judge/pt/problems/view/3241) - [Ajude um Candidato a PhD!](https://github.com/potigol/uoj-potigol/blob/master/src/3200/3241.poti) *Iniciante*
   - [ ] ~~xxxx~~
   - [ ] ~~xxxx~~
   - [ ] ~~xxxx~~
@@ -99,4 +99,4 @@
   - [ ] ~~xxxx~~
   - [ ] ~~xxxx~~
   - [ ] ~~xxxx~~
-  - [ ] ~~xxxx~~
+  - [ ]  [3299](https://www.urionlinejudge.com.br/judge/pt/problems/view/3299) - Números Má Sorte Pequenos *Iniciante*

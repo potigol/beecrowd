@@ -1,4 +1,4 @@
-# Iniciante (300 / 323)
+# Iniciante (300 / 328)
 
 
 
@@ -303,7 +303,7 @@
   - [x]  [3209](https://www.urionlinejudge.com.br/judge/pt/problems/view/3209) - [Tomadas Elétricas](https://github.com/potigol/uoj-potigol/blob/master/src/3200/3209.poti)
   - [x]  [3214](https://www.urionlinejudge.com.br/judge/pt/problems/view/3214) - [Refrigerante](https://github.com/potigol/uoj-potigol/blob/master/src/3200/3214.poti)
   - [x]  [3224](https://www.urionlinejudge.com.br/judge/pt/problems/view/3224) - [Aaah!](https://github.com/potigol/uoj-potigol/blob/master/src/3200/3224.poti)
-  - [x]  [3241](https://www.urionlinejudge.com.br/judge/pt/problems/view/3241) - [Ajude um candidato a PhD!](https://github.com/potigol/uoj-potigol/blob/master/src/3200/3241.poti)
+  - [x]  [3241](https://www.urionlinejudge.com.br/judge/pt/problems/view/3241) - [Ajude um Candidato a PhD!](https://github.com/potigol/uoj-potigol/blob/master/src/3200/3241.poti)
 
 ## Problemas não resolvidos
 
@@ -330,3 +330,8 @@
   - [ ]  [3256](https://www.urionlinejudge.com.br/judge/pt/problems/view/3256) - Divisão Inimiga
   - [ ]  [3258](https://www.urionlinejudge.com.br/judge/pt/problems/view/3258) - Fervendo Vegetais
   - [ ]  [3267](https://www.urionlinejudge.com.br/judge/pt/problems/view/3267) - Passeio no Penhasco
+  - [ ]  [3299](https://www.urionlinejudge.com.br/judge/pt/problems/view/3299) - Números Má Sorte Pequenos
+  - [ ]  [3301](https://www.urionlinejudge.com.br/judge/pt/problems/view/3301) - Sobrinho do Meio
+  - [ ]  [3302](https://www.urionlinejudge.com.br/judge/pt/problems/view/3302) - Resposta Certa
+  - [ ]  [3303](https://www.urionlinejudge.com.br/judge/pt/problems/view/3303) - Palavrão
+  - [ ]  [3306](https://www.urionlinejudge.com.br/judge/pt/problems/view/3306) - Consulta e Alteração

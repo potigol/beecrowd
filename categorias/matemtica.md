@@ -1,4 +1,4 @@
-# Matemática (53 / 262)
+# Matemática (53 / 265)
 
 
 
@@ -269,3 +269,6 @@
   - [ ]  [3271](https://www.urionlinejudge.com.br/judge/pt/problems/view/3271) - Jogo de Dados
   - [ ]  [3272](https://www.urionlinejudge.com.br/judge/pt/problems/view/3272) - Cerimônia de Abertura
   - [ ]  [3276](https://www.urionlinejudge.com.br/judge/pt/problems/view/3276) - Quantos Quadrados?
+  - [ ]  [3304](https://www.urionlinejudge.com.br/judge/pt/problems/view/3304) - Alguma Sorte!
+  - [ ]  [3308](https://www.urionlinejudge.com.br/judge/pt/problems/view/3308) - Elevador
+  - [ ]  [3312](https://www.urionlinejudge.com.br/judge/pt/problems/view/3312) - Imberbe Matemático

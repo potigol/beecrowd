@@ -1,4 +1,4 @@
-# Strings (55 / 140)
+# Strings (55 / 144)
 
 
 
@@ -147,3 +147,7 @@
   - [ ]  [3261](https://www.urionlinejudge.com.br/judge/pt/problems/view/3261) - Replicação de Vírus
   - [ ]  [3262](https://www.urionlinejudge.com.br/judge/pt/problems/view/3262) - Timebomb
   - [ ]  [3275](https://www.urionlinejudge.com.br/judge/pt/problems/view/3275) - Foto de Relógios
+  - [ ]  [3300](https://www.urionlinejudge.com.br/judge/pt/problems/view/3300) - Números Má Sorte Recarregados
+  - [ ]  [3310](https://www.urionlinejudge.com.br/judge/pt/problems/view/3310) - Gravity Boy
+  - [ ]  [3311](https://www.urionlinejudge.com.br/judge/pt/problems/view/3311) - Hudinho e o seu Trabalho
+  - [ ]  [3313](https://www.urionlinejudge.com.br/judge/pt/problems/view/3313) - Jogo de Palavras

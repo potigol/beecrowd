@@ -2208,7 +2208,7 @@
 3237	Conectar	Grafos
 3239	Dirty Driving	Estruturas e Bibliotecas
 3240	Doodling	Ad-Hoc
-3241	Ajude um candidato a PhD!	Iniciante
+3241	Ajude um Candidato a PhD!	Iniciante
 3247	Robôs em uma Grade	Grafos
 3248	Mega Inversões	Estruturas e Bibliotecas
 3249	Death Knight Hero	Iniciante
@@ -2240,3 +2240,20 @@
 3276	Quantos Quadrados?	Matemática
 3277	Trabalho na Estrada	Paradigmas
 3278	Passageiros de Trem	Ad-Hoc
+3299	Números Má Sorte Pequenos	Iniciante
+3300	Números Má Sorte Recarregados	Strings
+3301	Sobrinho do Meio	Iniciante
+3302	Resposta Certa	Iniciante
+3303	Palavrão	Iniciante
+3304	Alguma Sorte!	Matemática
+3305	Bispos Dominantes	Ad-Hoc
+3306	Consulta e Alteração	Iniciante
+3307	Decora o Rolê!	Ad-Hoc
+3308	Elevador	Matemática
+3309	Felizes são estes Números	Ad-Hoc
+3310	Gravity Boy	Strings
+3311	Hudinho e o seu Trabalho	Strings
+3312	Imberbe Matemático	Matemática
+3313	Jogo de Palavras	Strings
+3314	Konfusa, a Colmeia!	Grafos
+3315	Língua do Computador	Ad-Hoc
