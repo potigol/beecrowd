@@ -1,0 +1,8 @@
+a = leia_texto
+b = a.lista.zip(a.cauda).selecione(_.primeiro == '1').selecione(_.segundo == '3').tamanho
+
+se b > 0 entao
+  escreva "{a} es de Mala Suerte"
+senao
+  escreva "{a} NO es de Mala Suerte"
+fim

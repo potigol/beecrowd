@@ -1,4 +1,4 @@
-# Problemas 3200 (7%)
+# Problemas 3200 (8%)
 
   - [ ]  [3200](https://www.urionlinejudge.com.br/judge/pt/problems/view/3200) - Card Trick *Ad-Hoc*
   - [ ]  [3201](https://www.urionlinejudge.com.br/judge/pt/problems/view/3201) - Traveling Salesman *Estruturas e Bibliotecas*
@@ -99,4 +99,4 @@
   - [ ] ~~xxxx~~
   - [ ] ~~xxxx~~
   - [ ] ~~xxxx~~
-  - [ ]  [3299](https://www.urionlinejudge.com.br/judge/pt/problems/view/3299) - Números Má Sorte Pequenos *Iniciante*
+  - [x]  [3299](https://www.urionlinejudge.com.br/judge/pt/problems/view/3299) - [Números Má Sorte Pequenos](https://github.com/potigol/uoj-potigol/blob/master/src/3200/3299.poti) *Iniciante*

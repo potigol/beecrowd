@@ -1,0 +1,10 @@
+a = leia_inteiros(" ")
+h, z, l = a[1], a[2], a[3]
+
+se h < z e z < l ou l < z e z < h entao
+  escreva "zezinho"
+senaose z < h e h < l ou l < h e h < z entao
+  escreva "huguinho"
+senao
+  escreva "luisinho"
+fim

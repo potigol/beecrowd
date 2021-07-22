@@ -1,0 +1,6 @@
+palavra = leia_texto
+se palavra.tamanho >= 10 entao
+  escreva "palavrao"
+senao
+  escreva "palavrinha"
+fim

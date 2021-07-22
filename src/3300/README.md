@@ -1,9 +1,9 @@
-# Problemas 3300 (0%)
+# Problemas 3300 (25%)
 
-  - [ ]  [3300](https://www.urionlinejudge.com.br/judge/pt/problems/view/3300) - Números Má Sorte Recarregados *Strings*
-  - [ ]  [3301](https://www.urionlinejudge.com.br/judge/pt/problems/view/3301) - Sobrinho do Meio *Iniciante*
-  - [ ]  [3302](https://www.urionlinejudge.com.br/judge/pt/problems/view/3302) - Resposta Certa *Iniciante*
-  - [ ]  [3303](https://www.urionlinejudge.com.br/judge/pt/problems/view/3303) - Palavrão *Iniciante*
+  - [x]  [3300](https://www.urionlinejudge.com.br/judge/pt/problems/view/3300) - [Números Má Sorte Recarregados](https://github.com/potigol/uoj-potigol/blob/master/src/3300/3300.poti) *Strings*
+  - [x]  [3301](https://www.urionlinejudge.com.br/judge/pt/problems/view/3301) - [Sobrinho do Meio](https://github.com/potigol/uoj-potigol/blob/master/src/3300/3301.poti) *Iniciante*
+  - [x]  [3302](https://www.urionlinejudge.com.br/judge/pt/problems/view/3302) - [Resposta Certa](https://github.com/potigol/uoj-potigol/blob/master/src/3300/3302.poti) *Iniciante*
+  - [x]  [3303](https://www.urionlinejudge.com.br/judge/pt/problems/view/3303) - [Palavrão](https://github.com/potigol/uoj-potigol/blob/master/src/3300/3303.poti) *Iniciante*
   - [ ]  [3304](https://www.urionlinejudge.com.br/judge/pt/problems/view/3304) - Alguma Sorte! *Matemática*
   - [ ]  [3305](https://www.urionlinejudge.com.br/judge/pt/problems/view/3305) - Bispos Dominantes *Ad-Hoc*
   - [ ]  [3306](https://www.urionlinejudge.com.br/judge/pt/problems/view/3306) - Consulta e Alteração *Iniciante*
