@@ -1,4 +1,4 @@
-# Problemas 3300 (25%)
+# Problemas 3300 (37%)
 
   - [x]  [3300](https://www.urionlinejudge.com.br/judge/pt/problems/view/3300) - [Números Má Sorte Recarregados](https://github.com/potigol/uoj-potigol/blob/master/src/3300/3300.poti) *Strings*
   - [x]  [3301](https://www.urionlinejudge.com.br/judge/pt/problems/view/3301) - [Sobrinho do Meio](https://github.com/potigol/uoj-potigol/blob/master/src/3300/3301.poti) *Iniciante*
@@ -11,9 +11,9 @@
   - [ ]  [3308](https://www.urionlinejudge.com.br/judge/pt/problems/view/3308) - Elevador *Matemática*
   - [ ]  [3309](https://www.urionlinejudge.com.br/judge/pt/problems/view/3309) - Felizes são estes Números *Ad-Hoc*
   - [ ]  [3310](https://www.urionlinejudge.com.br/judge/pt/problems/view/3310) - Gravity Boy *Strings*
-  - [ ]  [3311](https://www.urionlinejudge.com.br/judge/pt/problems/view/3311) - Hudinho e o seu Trabalho *Strings*
+  - [x]  [3311](https://www.urionlinejudge.com.br/judge/pt/problems/view/3311) - [Hudinho e o seu Trabalho](https://github.com/potigol/uoj-potigol/blob/master/src/3300/3311.poti) *Strings*
   - [ ]  [3312](https://www.urionlinejudge.com.br/judge/pt/problems/view/3312) - Imberbe Matemático *Matemática*
-  - [ ]  [3313](https://www.urionlinejudge.com.br/judge/pt/problems/view/3313) - Jogo de Palavras *Strings*
+  - [x]  [3313](https://www.urionlinejudge.com.br/judge/pt/problems/view/3313) - [Jogo de Palavras](https://github.com/potigol/uoj-potigol/blob/master/src/3300/3313.poti) *Strings*
   - [ ]  [3314](https://www.urionlinejudge.com.br/judge/pt/problems/view/3314) - Konfusa, a Colmeia! *Grafos*
   - [ ]  [3315](https://www.urionlinejudge.com.br/judge/pt/problems/view/3315) - Língua do Computador *Ad-Hoc*
   - [ ] ~~xxxx~~

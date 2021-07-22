@@ -1,0 +1,4 @@
+n = leia_inteiro
+a = leia_textos(n)
+b = a.ordene((s, r) => s[1] < r[1])
+escreva b.junte("\n")

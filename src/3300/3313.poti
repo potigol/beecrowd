@@ -1,0 +1,28 @@
+rot(a: Texto, f: Logico)
+  tam = a.tamanho
+  var x := a + a
+  var valor := x.pegue(tam)
+  enquanto x.tamanho >= tam faca
+    m = x.pegue(tam)
+    se f e m < valor ou nao f e m > valor entao
+      valor := m
+    fim
+    primeiro = valor[1]
+    se f entao
+      x := x.cauda.descarte_enquanto(_ > primeiro)
+    senao
+      x := x.cauda.descarte_enquanto(_ < primeiro)
+    fim
+  fim
+  retorne valor
+fim
+
+var n := 0
+var s := leia_texto
+enquanto s <> "*" faca
+  menor = rot(s, verdadeiro)
+  maior = rot(s, falso)
+  n := n + 1
+  escreva "Caso {n}: {menor} {maior}"
+  s := leia_texto
+fim
