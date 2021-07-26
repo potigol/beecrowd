@@ -1,0 +1,10 @@
+var z := BigInt(1)
+fat = para i de 1 ate 100 gere z := z * i z fim
+primos = [2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71, 73, 79, 83, 89, 97]
+primo = para i de 1 ate 100 gere primos.contem(i) fim
+
+n = leia_inteiro
+x = leia_inteiros(" ")
+para a em x se primo[a] faca
+  escreva "{a}! = {fat[a]}"
+fim

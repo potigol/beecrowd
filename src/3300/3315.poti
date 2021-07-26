@@ -1,0 +1,7 @@
+d2b(n: Inteiro): Texto = se n > 0 entao "{d2b(n div 2)}{n mod 2}" senao "" fim
+
+a = para i de 1 ate 4 gere
+  leia_inteiros(" ").injete(0)(_ + _)
+fim
+d = a.ordene[-1]
+escreva "{d} = {d2b(d)}"

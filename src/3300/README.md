@@ -1,4 +1,4 @@
-# Problemas 3300 (37%)
+# Problemas 3300 (56%)
 
   - [x]  [3300](https://www.urionlinejudge.com.br/judge/pt/problems/view/3300) - [Números Má Sorte Recarregados](https://github.com/potigol/uoj-potigol/blob/master/src/3300/3300.poti) *Strings*
   - [x]  [3301](https://www.urionlinejudge.com.br/judge/pt/problems/view/3301) - [Sobrinho do Meio](https://github.com/potigol/uoj-potigol/blob/master/src/3300/3301.poti) *Iniciante*
@@ -9,13 +9,13 @@
   - [ ]  [3306](https://www.urionlinejudge.com.br/judge/pt/problems/view/3306) - Consulta e Alteração *Iniciante*
   - [ ]  [3307](https://www.urionlinejudge.com.br/judge/pt/problems/view/3307) - Decora o Rolê! *Ad-Hoc*
   - [ ]  [3308](https://www.urionlinejudge.com.br/judge/pt/problems/view/3308) - Elevador *Matemática*
-  - [ ]  [3309](https://www.urionlinejudge.com.br/judge/pt/problems/view/3309) - Felizes são estes Números *Ad-Hoc*
+  - [x]  [3309](https://www.urionlinejudge.com.br/judge/pt/problems/view/3309) - [Felizes são estes Números](https://github.com/potigol/uoj-potigol/blob/master/src/3300/3309.poti) *Ad-Hoc*
   - [ ]  [3310](https://www.urionlinejudge.com.br/judge/pt/problems/view/3310) - Gravity Boy *Strings*
   - [x]  [3311](https://www.urionlinejudge.com.br/judge/pt/problems/view/3311) - [Hudinho e o seu Trabalho](https://github.com/potigol/uoj-potigol/blob/master/src/3300/3311.poti) *Strings*
-  - [ ]  [3312](https://www.urionlinejudge.com.br/judge/pt/problems/view/3312) - Imberbe Matemático *Matemática*
+  - [x]  [3312](https://www.urionlinejudge.com.br/judge/pt/problems/view/3312) - [Imberbe Matemático](https://github.com/potigol/uoj-potigol/blob/master/src/3300/3312.poti) *Matemática*
   - [x]  [3313](https://www.urionlinejudge.com.br/judge/pt/problems/view/3313) - [Jogo de Palavras](https://github.com/potigol/uoj-potigol/blob/master/src/3300/3313.poti) *Strings*
   - [ ]  [3314](https://www.urionlinejudge.com.br/judge/pt/problems/view/3314) - Konfusa, a Colmeia! *Grafos*
-  - [ ]  [3315](https://www.urionlinejudge.com.br/judge/pt/problems/view/3315) - Língua do Computador *Ad-Hoc*
+  - [x]  [3315](https://www.urionlinejudge.com.br/judge/pt/problems/view/3315) - [Língua do Computador](https://github.com/potigol/uoj-potigol/blob/master/src/3300/3315.poti) *Ad-Hoc*
   - [ ] ~~xxxx~~
   - [ ] ~~xxxx~~
   - [ ] ~~xxxx~~

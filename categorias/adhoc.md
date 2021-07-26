@@ -1,4 +1,4 @@
-# Ad-Hoc (137 / 729)
+# Ad-Hoc (139 / 729)
 
 
 
@@ -141,6 +141,8 @@
   - [x]  [3130](https://www.urionlinejudge.com.br/judge/pt/problems/view/3130) - [Caixas Por Todo Lado](https://github.com/potigol/uoj-potigol/blob/master/src/3100/3130.poti)
   - [x]  [3134](https://www.urionlinejudge.com.br/judge/pt/problems/view/3134) - [Balança Equilibrada](https://github.com/potigol/uoj-potigol/blob/master/src/3100/3134.poti)
   - [x]  [3135](https://www.urionlinejudge.com.br/judge/pt/problems/view/3135) - [Lista de Nomes](https://github.com/potigol/uoj-potigol/blob/master/src/3100/3135.poti)
+  - [x]  [3309](https://www.urionlinejudge.com.br/judge/pt/problems/view/3309) - [Felizes são estes Números](https://github.com/potigol/uoj-potigol/blob/master/src/3300/3309.poti)
+  - [x]  [3315](https://www.urionlinejudge.com.br/judge/pt/problems/view/3315) - [Língua do Computador](https://github.com/potigol/uoj-potigol/blob/master/src/3300/3315.poti)
 
 ## Problemas não resolvidos
 
@@ -734,5 +736,3 @@
   - [ ]  [3278](https://www.urionlinejudge.com.br/judge/pt/problems/view/3278) - Passageiros de Trem
   - [ ]  [3305](https://www.urionlinejudge.com.br/judge/pt/problems/view/3305) - Bispos Dominantes
   - [ ]  [3307](https://www.urionlinejudge.com.br/judge/pt/problems/view/3307) - Decora o Rolê!
-  - [ ]  [3309](https://www.urionlinejudge.com.br/judge/pt/problems/view/3309) - Felizes são estes Números
-  - [ ]  [3315](https://www.urionlinejudge.com.br/judge/pt/problems/view/3315) - Língua do Computador

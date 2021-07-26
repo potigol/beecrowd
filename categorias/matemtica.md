@@ -1,4 +1,4 @@
-# Matemática (53 / 265)
+# Matemática (54 / 265)
 
 
 
@@ -57,6 +57,7 @@
   - [x]  [3104](https://www.urionlinejudge.com.br/judge/pt/problems/view/3104) - [Resto 2.0](https://github.com/potigol/uoj-potigol/blob/master/src/3100/3104.poti)
   - [x]  [3154](https://www.urionlinejudge.com.br/judge/pt/problems/view/3154) - [A Grande Festa](https://github.com/potigol/uoj-potigol/blob/master/src/3100/3154.poti)
   - [x]  [3165](https://www.urionlinejudge.com.br/judge/pt/problems/view/3165) - [Primos Gêmeos](https://github.com/potigol/uoj-potigol/blob/master/src/3100/3165.poti)
+  - [x]  [3312](https://www.urionlinejudge.com.br/judge/pt/problems/view/3312) - [Imberbe Matemático](https://github.com/potigol/uoj-potigol/blob/master/src/3300/3312.poti)
 
 ## Problemas não resolvidos
 
@@ -271,4 +272,3 @@
   - [ ]  [3276](https://www.urionlinejudge.com.br/judge/pt/problems/view/3276) - Quantos Quadrados?
   - [ ]  [3304](https://www.urionlinejudge.com.br/judge/pt/problems/view/3304) - Alguma Sorte!
   - [ ]  [3308](https://www.urionlinejudge.com.br/judge/pt/problems/view/3308) - Elevador
-  - [ ]  [3312](https://www.urionlinejudge.com.br/judge/pt/problems/view/3312) - Imberbe Matemático

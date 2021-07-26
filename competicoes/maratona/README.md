@@ -1,5 +1,26 @@
-# Maratona de Programação (68 / 373)
+# Maratona de Programação (124 / 443)
 
+
+## 2021
+()
+
+### 2ª Fase
+
+  - [ ] ~~xxxx~~
+  - [ ] ~~xxxx~~
+  - [ ] ~~xxxx~~
+  - [ ] ~~xxxx~~
+  - [ ] ~~xxxx~~
+  - [ ] ~~xxxx~~
+  - [ ] ~~xxxx~~
+  - [ ] ~~xxxx~~
+  - [ ] ~~xxxx~~
+  - [ ] ~~xxxx~~
+  - [ ] ~~xxxx~~
+  - [ ] ~~xxxx~~
+  - [ ] ~~xxxx~~
+  - [ ] ~~xxxx~~
+         
 
 ## 2019
 
