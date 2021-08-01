@@ -52,7 +52,7 @@ def duasfases(problems: Map[Int, Problem], c1: String, c2: String, file: String,
        |${listContest(contest2, year, problems)}
        """.stripMargin
   val str = s.mkString("\n")
-  val solved = str.split("[x]").length - 1
+  val solved = str.split("\\[x\\]").length - 1
   val total = str.split("\\[ \\]").length - 1 + solved
   save(file, s"$title ($solved / $total)", str)
 

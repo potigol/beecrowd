@@ -1,4 +1,4 @@
-# Maratona de Programação (124 / 443)
+# Maratona de Programação (48 / 367)
 
 
 ## 2021
