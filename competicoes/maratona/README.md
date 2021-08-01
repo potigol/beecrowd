@@ -2,7 +2,7 @@
 
 
 ## 2021
-()
+
 
 ### 2ª Fase
 
@@ -20,7 +20,7 @@
   - [ ] ~~xxxx~~
   - [ ] ~~xxxx~~
   - [ ] ~~xxxx~~
-         
+       
 
 ## 2019
 
@@ -54,7 +54,7 @@
   - [ ]  [3022](https://www.urionlinejudge.com.br/judge/pt/problems/view/3022) - Know your Aliens *Ad-Hoc*
   - [ ]  [3023](https://www.urionlinejudge.com.br/judge/pt/problems/view/3023) - Leverage MDT *Ad-Hoc*
   - [x]  [3024](https://www.urionlinejudge.com.br/judge/pt/problems/view/3024) - [Mountain Ranges](https://github.com/potigol/uoj-potigol/blob/master/src/3000/3024.poti) *Ad-Hoc*
-         
+       
 
 ## 2018
 
@@ -89,7 +89,7 @@
   - [ ]  [2913](https://www.urionlinejudge.com.br/judge/pt/problems/view/2913) - KryptoLocker Ate my Homework *Ad-Hoc*
   - [ ]  [2914](https://www.urionlinejudge.com.br/judge/pt/problems/view/2914) - Looking for the Risk Factor *Ad-Hoc*
   - [ ]  [2915](https://www.urionlinejudge.com.br/judge/pt/problems/view/2915) - Mount Marathon *Ad-Hoc*
-         
+       
 
 ## 2017
 
@@ -122,7 +122,7 @@
   - [ ]  [2704](https://www.urionlinejudge.com.br/judge/pt/problems/view/2704) - Sapo Saltador *Ad-Hoc*
   - [ ]  [2705](https://www.urionlinejudge.com.br/judge/pt/problems/view/2705) - Mantenha Coberto *Ad-Hoc*
   - [ ]  [2706](https://www.urionlinejudge.com.br/judge/pt/problems/view/2706) - Linearville *Grafos*
-         
+       
 
 ## 2016
 
@@ -155,7 +155,7 @@
   - [ ]  [2352](https://www.urionlinejudge.com.br/judge/pt/problems/view/2352) - Internet Trouble *Ad-Hoc*
   - [ ]  [2353](https://www.urionlinejudge.com.br/judge/pt/problems/view/2353) - Just in Time *Ad-Hoc*
   - [ ]  [2354](https://www.urionlinejudge.com.br/judge/pt/problems/view/2354) - Kill the Werewolf *Ad-Hoc*
-         
+       
 
 ## 2015
 
@@ -187,7 +187,7 @@
   - [ ]  [2014](https://www.urionlinejudge.com.br/judge/pt/problems/view/2014) - Grupos Sanguineos *Ad-Hoc*
   - [ ]  [2015](https://www.urionlinejudge.com.br/judge/pt/problems/view/2015) - Fatia do Bolo *Ad-Hoc*
   - [ ]  [2016](https://www.urionlinejudge.com.br/judge/pt/problems/view/2016) - D como em Daedalus *Ad-Hoc*
-         
+       
 
 ## 2014
 
@@ -219,7 +219,7 @@
   - [ ]  [1752](https://www.urionlinejudge.com.br/judge/pt/problems/view/1752) - Jornada Pelo Reino *Grafos*
   - [ ]  [1753](https://www.urionlinejudge.com.br/judge/pt/problems/view/1753) - Cavaleiros Da Tàvola Redonda *Ad-Hoc*
   - [ ]  [1808](https://www.urionlinejudge.com.br/judge/pt/problems/view/1808) - O Retorno do Rei *Ad-Hoc*
-         
+       
 
 ## 2013
 
@@ -248,7 +248,7 @@
   - [ ]  [1497](https://www.urionlinejudge.com.br/judge/pt/problems/view/1497) - Esconde-Esconde *Geometria Computacional*
   - [ ]  [1498](https://www.urionlinejudge.com.br/judge/pt/problems/view/1498) - Inversão de Huffman *Grafos*
   - [ ]  [1499](https://www.urionlinejudge.com.br/judge/pt/problems/view/1499) - Junte Dois Reinos *Grafos*
-         
+       
 
 ## 2012
 
@@ -279,7 +279,7 @@
   - [x]  [1300](https://www.urionlinejudge.com.br/judge/pt/problems/view/1300) - [Horas e Minutos](https://github.com/potigol/uoj-potigol/blob/master/src/1300/1300.poti) *Ad-Hoc*
   - [ ]  [1301](https://www.urionlinejudge.com.br/judge/pt/problems/view/1301) - Produto do Intervalo *Estruturas e Bibliotecas*
   - [ ]  [1302](https://www.urionlinejudge.com.br/judge/pt/problems/view/1302) - Juntando Casais *Grafos*
-         
+       
 
 ## 2011
 
@@ -309,7 +309,7 @@
   - [ ]  [1357](https://www.urionlinejudge.com.br/judge/pt/problems/view/1357) - Em Braille *Ad-Hoc*
   - [ ]  [1419](https://www.urionlinejudge.com.br/judge/pt/problems/view/1419) - Bakugan *Ad-Hoc*
   - [x]  [1441](https://www.urionlinejudge.com.br/judge/pt/problems/view/1441) - [Sequências de Granizo](https://github.com/potigol/uoj-potigol/blob/master/src/1400/1441.poti) *Ad-Hoc*
-         
+       
 
 ## 2010
 
@@ -342,7 +342,7 @@
   - [ ]  [1322](https://www.urionlinejudge.com.br/judge/pt/problems/view/1322) - Desejos das Crianças *Grafos*
   - [x]  [1379](https://www.urionlinejudge.com.br/judge/pt/problems/view/1379) - [Problema com Mediana e Média](https://github.com/potigol/uoj-potigol/blob/master/src/1300/1379.poti) *Ad-Hoc*
   - [x]  [1429](https://www.urionlinejudge.com.br/judge/pt/problems/view/1429) - [Fatorial de Novo!](https://github.com/potigol/uoj-potigol/blob/master/src/1400/1429.poti) *Matemática*
-         
+       
 
 ## 2009
 
@@ -371,7 +371,7 @@
   - [ ]  [1431](https://www.urionlinejudge.com.br/judge/pt/problems/view/1431) - Níveis de Klingon *Ad-Hoc*
   - [ ]  [1440](https://www.urionlinejudge.com.br/judge/pt/problems/view/1440) - Praça de Alimentação *Ad-Hoc*
   - [ ]  [1460](https://www.urionlinejudge.com.br/judge/pt/problems/view/1460) - Parreiral *Ad-Hoc*
-         
+       
 
 ## 2008
 
@@ -401,7 +401,7 @@
   - [ ]  [1391](https://www.urionlinejudge.com.br/judge/pt/problems/view/1391) - Quase Menor Caminho *Grafos*
   - [ ]  [1411](https://www.urionlinejudge.com.br/judge/pt/problems/view/1411) - Encolhendo Polígonos *Geometria Computacional*
   - [ ]  [1439](https://www.urionlinejudge.com.br/judge/pt/problems/view/1439) - Bora Bora *Estruturas e Bibliotecas*
-         
+       
 
 ## 2007
 
@@ -430,7 +430,7 @@
   - [ ]  [1415](https://www.urionlinejudge.com.br/judge/pt/problems/view/1415) - Galou Está de Volta! *Grafos*
   - [ ]  [1416](https://www.urionlinejudge.com.br/judge/pt/problems/view/1416) - Placar do ICPC *Paradigmas*
   - [ ]  [1417](https://www.urionlinejudge.com.br/judge/pt/problems/view/1417) - Liga da Justiça *Grafos*
-         
+       
 
 ## 2006
 
@@ -452,7 +452,7 @@
   - [ ]  [1414](https://www.urionlinejudge.com.br/judge/pt/problems/view/1414) - Copa do Mundo *Ad-Hoc*
   - [ ]  [1464](https://www.urionlinejudge.com.br/judge/pt/problems/view/1464) - Camadas de Cebola *Geometria Computacional*
   - [ ]  [1485](https://www.urionlinejudge.com.br/judge/pt/problems/view/1485) - Roleta Turca *Paradigmas*
-         
+       
 
 ## 2005
 
@@ -475,7 +475,7 @@
   - [ ]  [1271](https://www.urionlinejudge.com.br/judge/pt/problems/view/1271) - Onde estão meus Genes *Ad-Hoc*
   - [ ]  [1274](https://www.urionlinejudge.com.br/judge/pt/problems/view/1274) - P-Networks *Estruturas e Bibliotecas*
   - [ ]  [1275](https://www.urionlinejudge.com.br/judge/pt/problems/view/1275) - Light Up *Grafos*
-         
+       
 
 ## 2004
 
@@ -498,10 +498,10 @@
   - [ ]  [1403](https://www.urionlinejudge.com.br/judge/pt/problems/view/1403) - Meu Avô é Famoso *Ad-Hoc*
   - [ ]  [1481](https://www.urionlinejudge.com.br/judge/pt/problems/view/1481) - A Fazenda de Ostras de Zing Zhu *Matemática*
   - [ ]  [1482](https://www.urionlinejudge.com.br/judge/pt/problems/view/1482) - Noite no Museu *Grafos*
-         
+       
 
 ## 2003
-()
+
 
 ### 2ª Fase
 
@@ -513,10 +513,10 @@
   - [ ]  [1347](https://www.urionlinejudge.com.br/judge/pt/problems/view/1347) - Mina Kriptonita *Matemática*
   - [ ]  [1348](https://www.urionlinejudge.com.br/judge/pt/problems/view/1348) - X-Mart *Grafos*
   - [ ]  [1433](https://www.urionlinejudge.com.br/judge/pt/problems/view/1433) - O Clube da Divisão *Matemática*
-         
+       
 
 ## 2002
-()
+
 
 ### 2ª Fase
 
@@ -531,4 +531,4 @@
   - [ ]  [1351](https://www.urionlinejudge.com.br/judge/pt/problems/view/1351) - Supermercado *Ad-Hoc*
   - [ ]  [1352](https://www.urionlinejudge.com.br/judge/pt/problems/view/1352) - Loteria Quadrada *Matemática*
   - [ ]  [1402](https://www.urionlinejudge.com.br/judge/pt/problems/view/1402) - Será Que Indiana Jones Chega Lá? *Grafos*
-         
+       

@@ -1,4 +1,4 @@
-# Strings (58 / 144)
+# Strings (58 / 145)
 
 
 
@@ -137,6 +137,7 @@
   - [ ]  [2825](https://www.urionlinejudge.com.br/judge/pt/problems/view/2825) - L de Atreus!?
   - [ ]  [2827](https://www.urionlinejudge.com.br/judge/pt/problems/view/2827) - Contador de Tokens
   - [ ]  [2954](https://www.urionlinejudge.com.br/judge/pt/problems/view/2954) - O Jogo
+  - [ ]  [2960](https://www.urionlinejudge.com.br/judge/pt/problems/view/2960) - Era Uma Vez…
   - [ ]  [2974](https://www.urionlinejudge.com.br/judge/pt/problems/view/2974) - Fechadura
   - [ ]  [2975](https://www.urionlinejudge.com.br/judge/pt/problems/view/2975) - Anel
   - [ ]  [3038](https://www.urionlinejudge.com.br/judge/pt/problems/view/3038) - Carta de Natal Criptografada
