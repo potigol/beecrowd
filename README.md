@@ -1,8 +1,11 @@
 # Soluções dos Problemas do URI Online Judge - Potigol
+[![Join the chat at https://gitter.im/potigol/Potigol](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/potigol/Potigol?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Follow us](https://img.shields.io/twitter/follow/potigol.svg?style=social)](http://twitter.com/potigol)
 [![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/potigol/uoj-potigol)
 [![Soluções](https://img.shields.io/badge/Problemas%20Resolvidos-590-green)](https://github.com/potigol/URI-Potigol/commits/master)
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/potigol/uoj-potigol)
+[![IFRN](https://potigol.github.io/docs/logo_ifrn_40.png)](https://www.ifrn.edu.br)
 
 Soluções dos problemas do [URI Online Judge](https://www.urionlinejudge.com.br/judge/pt/problems/all) usando a linguagem [Potigol](https://potigol.github.io)
 
@@ -28,7 +31,7 @@ Soluções dos problemas do [URI Online Judge](https://www.urionlinejudge.com.br
 [1500 ...](src/1500) [1600 ...](src/1600) [1700 ...](src/1700) [1800 ...](src/1800) [1900 ...](src/1900)
 [2000 ...](src/2000) [2100 ...](src/2100) [2200 ...](src/2200) [2300 ...](src/2300) [2400 ...](src/2400)
 [2500 ...](src/2500) [2600 ...](src/2600) [2700 ...](src/2700) [2800 ...](src/2800) [2900 ...](src/2900)
-[3000 ...](src/3000) [3100 ...](src/3100) [3200 ...](src/3200)
+[3000 ...](src/3000) [3100 ...](src/3100) [3200 ...](src/3200) [3300 ...](src/3300)
 
 ## Verificação das Soluções
 
