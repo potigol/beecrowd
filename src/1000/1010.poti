@@ -3,4 +3,4 @@ p = para i de 1 até 2 gere
   v[2].inteiro * v[3].real
 fim
 valor = p[1] + p[2]
-escreva "VALOR A PAGAR: R$ " + (valor formato "%.2f")
+escreva "VALOR A PAGAR: R$ {valor formato "%.2f"}"

@@ -4,9 +4,9 @@
 
 ## Problemas resolvidos
 
-  - [x]  [1029](https://www.urionlinejudge.com.br/judge/pt/problems/view/1029) - [Fibonacci, Quantas Chamadas?](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1029.poti)
-  - [x]  [1084](https://www.urionlinejudge.com.br/judge/pt/problems/view/1084) - [Apagando e Ganhando](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1084.poti)
-  - [x]  [1166](https://www.urionlinejudge.com.br/judge/pt/problems/view/1166) - [Torre de Hanoi, Novamente!](https://github.com/potigol/uoj-potigol/blob/master/src/1100/1166.poti)
+  - [x]  [1029](https://www.urionlinejudge.com.br/judge/pt/problems/view/1029) - [Fibonacci, Quantas Chamadas?](https://github.dev/potigol/uoj-potigol/blob/master/src/1000/1029.poti)
+  - [x]  [1084](https://www.urionlinejudge.com.br/judge/pt/problems/view/1084) - [Apagando e Ganhando](https://github.dev/potigol/uoj-potigol/blob/master/src/1000/1084.poti)
+  - [x]  [1166](https://www.urionlinejudge.com.br/judge/pt/problems/view/1166) - [Torre de Hanoi, Novamente!](https://github.dev/potigol/uoj-potigol/blob/master/src/1100/1166.poti)
 
 ## Problemas não resolvidos
 

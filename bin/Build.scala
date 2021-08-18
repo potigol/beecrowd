@@ -64,7 +64,7 @@ def umafase(problems: Map[Int, Problem], c1: String, file: String, title: String
     s = s + s"\n\n## ${year}\n\n"
     for y <- contest.get(year); x <- y do
       s = s + line(problems.get(x)) + "\n"
-  val solved = s.split("[x]").length - 1
+  val solved = s.split("\\[x\\]").length - 1
   val total = s.split("\\[ \\]").length - 1 + solved
   save(file, s"$title ($solved / $total)", s)
 
@@ -96,7 +96,7 @@ def listaGeral(paginaFinal: Int, problems: Map[Int, Problem], path: String = "..
             yield line(problems.get(x))
     val s = d.mkString("\n")
     val solved = s.split("\\[x\\]").length - 1
-    val absent = s.split(" ~~").length - 1
+    val absent = s.split(" \\~\\~").length - 1
     val total = s.split("\\[ \\]").length - 1 + solved - absent
     save(s"${path}${dir(i*100)}/README.md", s"Problemas ${dir(i*100).replace("-", " a ")} (${solved * 100 / total}%)", s)
 
@@ -129,7 +129,7 @@ def save(problems: Map[Int, Problem], files: String*) = {
 def problemList(file: String): Map[Int, Problem] =
   val problemList1 = io.Source.fromFile(file).getLines()
   problemList1.map { a =>
-    val x = a.split("\t")
+    val x = a.split("\\t")
     Problem(x(0).toInt, x(1), x(2))
   }.map {p => p.number -> p}.toMap
 

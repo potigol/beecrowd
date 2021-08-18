@@ -1,4 +1,4 @@
-# Problemas 1600 (3%)
+# Problemas 1600 (4%)
 
   - [ ]  [1600](https://www.urionlinejudge.com.br/judge/pt/problems/view/1600) - O Gato do Zelador do Armazém *Paradigmas*
   - [ ]  [1601](https://www.urionlinejudge.com.br/judge/pt/problems/view/1601) - Partição do Rebanho *Paradigmas*
@@ -7,7 +7,7 @@
   - [ ]  [1604](https://www.urionlinejudge.com.br/judge/pt/problems/view/1604) - Pair-voting no Conselho de Gueliz *Paradigmas*
   - [ ]  [1605](https://www.urionlinejudge.com.br/judge/pt/problems/view/1605) - Montando Sua Própria Cáfila *Paradigmas*
   - [ ]  [1606](https://www.urionlinejudge.com.br/judge/pt/problems/view/1606) - As Dicas de Ali Babá *Paradigmas*
-  - [x]  [1607](https://www.urionlinejudge.com.br/judge/pt/problems/view/1607) - [Avance as Letras](https://github.com/potigol/uoj-potigol/blob/master/src/1600/1607.poti) *Strings*
+  - [x]  [1607](https://www.urionlinejudge.com.br/judge/pt/problems/view/1607) - [Avance as Letras](https://github.dev/potigol/uoj-potigol/blob/master/src/1600/1607.poti) *Strings*
   - [ ]  [1608](https://www.urionlinejudge.com.br/judge/pt/problems/view/1608) - Bolos da Maria *Paradigmas*
   - [ ]  [1609](https://www.urionlinejudge.com.br/judge/pt/problems/view/1609) - Contando Carneirinhos *Ad-Hoc*
   - [ ]  [1610](https://www.urionlinejudge.com.br/judge/pt/problems/view/1610) - Dudu Faz Serviço *Grafos*
@@ -30,9 +30,9 @@
   - [ ]  [1627](https://www.urionlinejudge.com.br/judge/pt/problems/view/1627) - Último Dano *Ad-Hoc*
   - [ ]  [1628](https://www.urionlinejudge.com.br/judge/pt/problems/view/1628) - ChessGuess *Grafos*
   - [ ]  [1629](https://www.urionlinejudge.com.br/judge/pt/problems/view/1629) - DescompactaFACE *Strings*
-  - [x]  [1630](https://www.urionlinejudge.com.br/judge/pt/problems/view/1630) - [Estacas](https://github.com/potigol/uoj-potigol/blob/master/src/1600/1630.poti) *Matemática*
+  - [x]  [1630](https://www.urionlinejudge.com.br/judge/pt/problems/view/1630) - [Estacas](https://github.dev/potigol/uoj-potigol/blob/master/src/1600/1630.poti) *Matemática*
   - [ ]  [1631](https://www.urionlinejudge.com.br/judge/pt/problems/view/1631) - O Fantástico Bolo de Bobby *Geometria Computacional*
-  - [x]  [1632](https://www.urionlinejudge.com.br/judge/pt/problems/view/1632) - [Variações](https://github.com/potigol/uoj-potigol/blob/master/src/1600/1632.poti) *Strings*
+  - [x]  [1632](https://www.urionlinejudge.com.br/judge/pt/problems/view/1632) - [Variações](https://github.dev/potigol/uoj-potigol/blob/master/src/1600/1632.poti) *Strings*
   - [ ]  [1633](https://www.urionlinejudge.com.br/judge/pt/problems/view/1633) - SBC *Estruturas e Bibliotecas*
   - [ ]  [1634](https://www.urionlinejudge.com.br/judge/pt/problems/view/1634) - Outra Loteria *Matemática*
   - [ ]  [1635](https://www.urionlinejudge.com.br/judge/pt/problems/view/1635) - Resultado das Eleições *Matemática*
@@ -67,7 +67,7 @@
   - [ ]  [1664](https://www.urionlinejudge.com.br/judge/pt/problems/view/1664) - Bullshit Bingo *Strings*
   - [ ]  [1665](https://www.urionlinejudge.com.br/judge/pt/problems/view/1665) - Decorando a Parede *Geometria Computacional*
   - [ ]  [1666](https://www.urionlinejudge.com.br/judge/pt/problems/view/1666) - Qualquer Tolo Consegue *Paradigmas*
-  - [ ]  [1667](https://www.urionlinejudge.com.br/judge/pt/problems/view/1667) - HTML *Strings*
+  - [x]  [1667](https://www.urionlinejudge.com.br/judge/pt/problems/view/1667) - [HTML](https://github.dev/potigol/uoj-potigol/blob/master/src/1600/1667.poti) *Strings*
   - [ ]  [1668](https://www.urionlinejudge.com.br/judge/pt/problems/view/1668) - Ajude o Autor do Problema *Grafos*
   - [ ]  [1669](https://www.urionlinejudge.com.br/judge/pt/problems/view/1669) - Todos os Discos Considerados *Grafos*
   - [ ]  [1670](https://www.urionlinejudge.com.br/judge/pt/problems/view/1670) - Lógica Booleana *Ad-Hoc*

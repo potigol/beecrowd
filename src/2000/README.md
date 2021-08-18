@@ -3,10 +3,10 @@
   - [ ]  [2000](https://www.urionlinejudge.com.br/judge/pt/problems/view/2000) - Adeildo da Odonto *Strings*
   - [ ]  [2001](https://www.urionlinejudge.com.br/judge/pt/problems/view/2001) - Bile *Matemática*
   - [ ]  [2002](https://www.urionlinejudge.com.br/judge/pt/problems/view/2002) - Casa de Rogério *Grafos*
-  - [x]  [2003](https://www.urionlinejudge.com.br/judge/pt/problems/view/2003) - [Domingo de Manhã](https://github.com/potigol/uoj-potigol/blob/master/src/2000/2003.poti) *Iniciante*
+  - [x]  [2003](https://www.urionlinejudge.com.br/judge/pt/problems/view/2003) - [Domingo de Manhã](https://github.dev/potigol/uoj-potigol/blob/master/src/2000/2003.poti) *Iniciante*
   - [ ]  [2004](https://www.urionlinejudge.com.br/judge/pt/problems/view/2004) - Enisvaldo Com Fome *Ad-Hoc*
   - [ ]  [2005](https://www.urionlinejudge.com.br/judge/pt/problems/view/2005) - Fracil Bolado *Ad-Hoc*
-  - [x]  [2006](https://www.urionlinejudge.com.br/judge/pt/problems/view/2006) - [Identificando o Chá](https://github.com/potigol/uoj-potigol/blob/master/src/2000/2006.poti) *Iniciante*
+  - [x]  [2006](https://www.urionlinejudge.com.br/judge/pt/problems/view/2006) - [Identificando o Chá](https://github.dev/potigol/uoj-potigol/blob/master/src/2000/2006.poti) *Iniciante*
   - [ ]  [2007](https://www.urionlinejudge.com.br/judge/pt/problems/view/2007) - Falha Ao Cercar Legumes *Matemática*
   - [ ]  [2008](https://www.urionlinejudge.com.br/judge/pt/problems/view/2008) - Expondo a Corrupção *Ad-Hoc*
   - [ ]  [2009](https://www.urionlinejudge.com.br/judge/pt/problems/view/2009) - Apenas um Pouco Classificadas *Ad-Hoc*
@@ -23,15 +23,15 @@
   - [ ]  [2020](https://www.urionlinejudge.com.br/judge/pt/problems/view/2020) - Elfos e seus Códigos *Estruturas e Bibliotecas*
   - [ ]  [2021](https://www.urionlinejudge.com.br/judge/pt/problems/view/2021) - Luzes de Natal *Ad-Hoc*
   - [ ]  [2022](https://www.urionlinejudge.com.br/judge/pt/problems/view/2022) - Presentes de Natal *Estruturas e Bibliotecas*
-  - [x]  [2023](https://www.urionlinejudge.com.br/judge/pt/problems/view/2023) - [A Última Criança Boa](https://github.com/potigol/uoj-potigol/blob/master/src/2000/2023.poti) *Strings*
+  - [x]  [2023](https://www.urionlinejudge.com.br/judge/pt/problems/view/2023) - [A Última Criança Boa](https://github.dev/potigol/uoj-potigol/blob/master/src/2000/2023.poti) *Strings*
   - [ ]  [2024](https://www.urionlinejudge.com.br/judge/pt/problems/view/2024) - Empilhando Presentes *Paradigmas*
   - [ ]  [2025](https://www.urionlinejudge.com.br/judge/pt/problems/view/2025) - Joulupukki *Strings*
   - [ ]  [2026](https://www.urionlinejudge.com.br/judge/pt/problems/view/2026) - Árvore de Natal *Paradigmas*
   - [ ]  [2027](https://www.urionlinejudge.com.br/judge/pt/problems/view/2027) - Aposta com Noel *Paradigmas*
-  - [x]  [2028](https://www.urionlinejudge.com.br/judge/pt/problems/view/2028) - [Sequência de Sequência](https://github.com/potigol/uoj-potigol/blob/master/src/2000/2028.poti) *Iniciante*
-  - [x]  [2029](https://www.urionlinejudge.com.br/judge/pt/problems/view/2029) - [Reservatório de Mel](https://github.com/potigol/uoj-potigol/blob/master/src/2000/2029.poti) *Iniciante*
+  - [x]  [2028](https://www.urionlinejudge.com.br/judge/pt/problems/view/2028) - [Sequência de Sequência](https://github.dev/potigol/uoj-potigol/blob/master/src/2000/2028.poti) *Iniciante*
+  - [x]  [2029](https://www.urionlinejudge.com.br/judge/pt/problems/view/2029) - [Reservatório de Mel](https://github.dev/potigol/uoj-potigol/blob/master/src/2000/2029.poti) *Iniciante*
   - [ ]  [2030](https://www.urionlinejudge.com.br/judge/pt/problems/view/2030) - Pit Stop *Ad-Hoc*
-  - [x]  [2031](https://www.urionlinejudge.com.br/judge/pt/problems/view/2031) - [Pedra, Papel, Ataque Aéreo](https://github.com/potigol/uoj-potigol/blob/master/src/2000/2031.poti) *Iniciante*
+  - [x]  [2031](https://www.urionlinejudge.com.br/judge/pt/problems/view/2031) - [Pedra, Papel, Ataque Aéreo](https://github.dev/potigol/uoj-potigol/blob/master/src/2000/2031.poti) *Iniciante*
   - [ ]  [2032](https://www.urionlinejudge.com.br/judge/pt/problems/view/2032) - Jogo dos Oito *Grafos*
   - [ ]  [2033](https://www.urionlinejudge.com.br/judge/pt/problems/view/2033) - Juros Sobre o Empréstimo *Matemática*
   - [ ]  [2034](https://www.urionlinejudge.com.br/judge/pt/problems/view/2034) - Cantor *Matemática*
@@ -44,7 +44,7 @@
   - [ ]  [2041](https://www.urionlinejudge.com.br/judge/pt/problems/view/2041) - Sequência de Gödelito *Ad-Hoc*
   - [ ]  [2042](https://www.urionlinejudge.com.br/judge/pt/problems/view/2042) - Fofão da Pérsia *Paradigmas*
   - [ ]  [2043](https://www.urionlinejudge.com.br/judge/pt/problems/view/2043) - Montanha Alta *Geometria Computacional*
-  - [x]  [2044](https://www.urionlinejudge.com.br/judge/pt/problems/view/2044) - [Em Dívida](https://github.com/potigol/uoj-potigol/blob/master/src/2000/2044.poti) *Matemática*
+  - [x]  [2044](https://www.urionlinejudge.com.br/judge/pt/problems/view/2044) - [Em Dívida](https://github.dev/potigol/uoj-potigol/blob/master/src/2000/2044.poti) *Matemática*
   - [ ]  [2045](https://www.urionlinejudge.com.br/judge/pt/problems/view/2045) - Defendendo Alamo *Geometria Computacional*
   - [ ]  [2046](https://www.urionlinejudge.com.br/judge/pt/problems/view/2046) - Entregadores de Steak *Grafos*
   - [ ]  [2047](https://www.urionlinejudge.com.br/judge/pt/problems/view/2047) - Fly By Night *Estruturas e Bibliotecas*
@@ -57,12 +57,12 @@
   - [ ]  [2054](https://www.urionlinejudge.com.br/judge/pt/problems/view/2054) - Last Year at Marienbad *Ad-Hoc*
   - [ ]  [2055](https://www.urionlinejudge.com.br/judge/pt/problems/view/2055) - Lisp é Melhor que Java, C e C++ *Strings*
   - [ ]  [2056](https://www.urionlinejudge.com.br/judge/pt/problems/view/2056) - O Cubo *Grafos*
-  - [x]  [2057](https://www.urionlinejudge.com.br/judge/pt/problems/view/2057) - [Fuso Horário](https://github.com/potigol/uoj-potigol/blob/master/src/2000/2057.poti) *Iniciante*
-  - [x]  [2058](https://www.urionlinejudge.com.br/judge/pt/problems/view/2058) - [Triângulos e Polígonos Regulares](https://github.com/potigol/uoj-potigol/blob/master/src/2000/2058.poti) *Ad-Hoc*
-  - [x]  [2059](https://www.urionlinejudge.com.br/judge/pt/problems/view/2059) - [Ímpar, Par ou Roubo](https://github.com/potigol/uoj-potigol/blob/master/src/2000/2059.poti) *Iniciante*
-  - [x]  [2060](https://www.urionlinejudge.com.br/judge/pt/problems/view/2060) - [Desafio de Bino](https://github.com/potigol/uoj-potigol/blob/master/src/2000/2060.poti) *Iniciante*
-  - [x]  [2061](https://www.urionlinejudge.com.br/judge/pt/problems/view/2061) - [As Abas de Péricles](https://github.com/potigol/uoj-potigol/blob/master/src/2000/2061.poti) *Iniciante*
-  - [x]  [2062](https://www.urionlinejudge.com.br/judge/pt/problems/view/2062) - [OBI URI](https://github.com/potigol/uoj-potigol/blob/master/src/2000/2062.poti) *Strings*
+  - [x]  [2057](https://www.urionlinejudge.com.br/judge/pt/problems/view/2057) - [Fuso Horário](https://github.dev/potigol/uoj-potigol/blob/master/src/2000/2057.poti) *Iniciante*
+  - [x]  [2058](https://www.urionlinejudge.com.br/judge/pt/problems/view/2058) - [Triângulos e Polígonos Regulares](https://github.dev/potigol/uoj-potigol/blob/master/src/2000/2058.poti) *Ad-Hoc*
+  - [x]  [2059](https://www.urionlinejudge.com.br/judge/pt/problems/view/2059) - [Ímpar, Par ou Roubo](https://github.dev/potigol/uoj-potigol/blob/master/src/2000/2059.poti) *Iniciante*
+  - [x]  [2060](https://www.urionlinejudge.com.br/judge/pt/problems/view/2060) - [Desafio de Bino](https://github.dev/potigol/uoj-potigol/blob/master/src/2000/2060.poti) *Iniciante*
+  - [x]  [2061](https://www.urionlinejudge.com.br/judge/pt/problems/view/2061) - [As Abas de Péricles](https://github.dev/potigol/uoj-potigol/blob/master/src/2000/2061.poti) *Iniciante*
+  - [x]  [2062](https://www.urionlinejudge.com.br/judge/pt/problems/view/2062) - [OBI URI](https://github.dev/potigol/uoj-potigol/blob/master/src/2000/2062.poti) *Strings*
   - [ ]  [2063](https://www.urionlinejudge.com.br/judge/pt/problems/view/2063) - Caçando Digletts *Matemática*
   - [ ]  [2064](https://www.urionlinejudge.com.br/judge/pt/problems/view/2064) - Prant e a Indecisão *Estruturas e Bibliotecas*
   - [ ]  [2065](https://www.urionlinejudge.com.br/judge/pt/problems/view/2065) - Fila do Supermercado *Estruturas e Bibliotecas*
@@ -91,7 +91,7 @@
   - [ ]  [2088](https://www.urionlinejudge.com.br/judge/pt/problems/view/2088) - Combate à Dengue *Grafos*
   - [ ]  [2089](https://www.urionlinejudge.com.br/judge/pt/problems/view/2089) - Lanchonete *Paradigmas*
   - [ ]  [2090](https://www.urionlinejudge.com.br/judge/pt/problems/view/2090) - Fui ao Mercado e Comprei... *Ad-Hoc*
-  - [x]  [2091](https://www.urionlinejudge.com.br/judge/pt/problems/view/2091) - [Número Solitário](https://github.com/potigol/uoj-potigol/blob/master/src/2000/2091.poti) *Estruturas e Bibliotecas*
+  - [x]  [2091](https://www.urionlinejudge.com.br/judge/pt/problems/view/2091) - [Número Solitário](https://github.dev/potigol/uoj-potigol/blob/master/src/2000/2091.poti) *Estruturas e Bibliotecas*
   - [ ]  [2092](https://www.urionlinejudge.com.br/judge/pt/problems/view/2092) - Assistindo o Jogo *Estruturas e Bibliotecas*
   - [ ]  [2093](https://www.urionlinejudge.com.br/judge/pt/problems/view/2093) - Fuja para Escapar *Strings*
   - [ ]  [2094](https://www.urionlinejudge.com.br/judge/pt/problems/view/2094) - Flores *Geometria Computacional*

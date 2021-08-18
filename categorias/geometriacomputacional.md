@@ -4,9 +4,9 @@
 
 ## Problemas resolvidos
 
-  - [x]  [1296](https://www.urionlinejudge.com.br/judge/pt/problems/view/1296) - [Medianas](https://github.com/potigol/uoj-potigol/blob/master/src/1200/1296.poti)
-  - [x]  [1875](https://www.urionlinejudge.com.br/judge/pt/problems/view/1875) - [Tribol](https://github.com/potigol/uoj-potigol/blob/master/src/1800/1875.poti)
-  - [x]  [2840](https://www.urionlinejudge.com.br/judge/pt/problems/view/2840) - [Balão++](https://github.com/potigol/uoj-potigol/blob/master/src/2800/2840.poti)
+  - [x]  [1296](https://www.urionlinejudge.com.br/judge/pt/problems/view/1296) - [Medianas](https://github.dev/potigol/uoj-potigol/blob/master/src/1200/1296.poti)
+  - [x]  [1875](https://www.urionlinejudge.com.br/judge/pt/problems/view/1875) - [Tribol](https://github.dev/potigol/uoj-potigol/blob/master/src/1800/1875.poti)
+  - [x]  [2840](https://www.urionlinejudge.com.br/judge/pt/problems/view/2840) - [Balão++](https://github.dev/potigol/uoj-potigol/blob/master/src/2800/2840.poti)
 
 ## Problemas não resolvidos
 

@@ -1,4 +1,4 @@
 nome = leia_texto
 fixo, vendas = leia_real
 total = fixo + vendas * 0.15
-escreva "TOTAL = R$ " + (total formato "%.2f")
+escreva "TOTAL = R$ {total formato "%.2f"}"

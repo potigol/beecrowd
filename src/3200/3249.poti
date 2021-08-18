@@ -1,0 +1,9 @@
+n = leia_inteiro
+var total := n
+para i de 1 ate n faca
+  a = " {leia_texto} " 
+  se a.divida("CD").tamanho > 1 entao
+    total := total - 1
+  fim
+fim
+escreva total
