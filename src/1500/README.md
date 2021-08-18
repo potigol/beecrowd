@@ -15,8 +15,8 @@
   - [ ]  [1512](https://www.urionlinejudge.com.br/judge/pt/problems/view/1512) - Azulejos *Matemática*
   - [ ]  [1513](https://www.urionlinejudge.com.br/judge/pt/problems/view/1513) - Cavalo *Paradigmas*
   - [ ]  [1514](https://www.urionlinejudge.com.br/judge/pt/problems/view/1514) - Competição *Ad-Hoc*
-  - [x]  [1515](https://www.urionlinejudge.com.br/judge/pt/problems/view/1515) - [Hello Galaxy](https://github.dev/potigol/uoj-potigol/blob/master/src/1500/1515.poti) *Ad-Hoc*
-  - [x]  [1516](https://www.urionlinejudge.com.br/judge/pt/problems/view/1516) - [Imagem](https://github.dev/potigol/uoj-potigol/blob/master/src/1500/1516.poti) *Strings*
+  - [x]  [1515](https://www.urionlinejudge.com.br/judge/pt/problems/view/1515) - [Hello Galaxy](https://github.com/potigol/uoj-potigol/blob/master/src/1500/1515.poti) *Ad-Hoc*
+  - [x]  [1516](https://www.urionlinejudge.com.br/judge/pt/problems/view/1516) - [Imagem](https://github.com/potigol/uoj-potigol/blob/master/src/1500/1516.poti) *Strings*
   - [ ]  [1517](https://www.urionlinejudge.com.br/judge/pt/problems/view/1517) - Maçãs *Paradigmas*
   - [ ]  [1518](https://www.urionlinejudge.com.br/judge/pt/problems/view/1518) - Tartarugas *Ad-Hoc*
   - [ ]  [1519](https://www.urionlinejudge.com.br/judge/pt/problems/view/1519) - Abreviações *Strings*
@@ -33,38 +33,38 @@
   - [ ]  [1530](https://www.urionlinejudge.com.br/judge/pt/problems/view/1530) - Quantas Substrings? *Strings*
   - [ ]  [1531](https://www.urionlinejudge.com.br/judge/pt/problems/view/1531) - Fibonacci de Novo! *Matemática*
   - [ ]  [1532](https://www.urionlinejudge.com.br/judge/pt/problems/view/1532) - Arremesso de Bolas *Ad-Hoc*
-  - [x]  [1533](https://www.urionlinejudge.com.br/judge/pt/problems/view/1533) - [Detetive Watson](https://github.dev/potigol/uoj-potigol/blob/master/src/1500/1533.poti) *Ad-Hoc*
-  - [x]  [1534](https://www.urionlinejudge.com.br/judge/pt/problems/view/1534) - [Matriz 123](https://github.dev/potigol/uoj-potigol/blob/master/src/1500/1534.poti) *Iniciante*
+  - [x]  [1533](https://www.urionlinejudge.com.br/judge/pt/problems/view/1533) - [Detetive Watson](https://github.com/potigol/uoj-potigol/blob/master/src/1500/1533.poti) *Ad-Hoc*
+  - [x]  [1534](https://www.urionlinejudge.com.br/judge/pt/problems/view/1534) - [Matriz 123](https://github.com/potigol/uoj-potigol/blob/master/src/1500/1534.poti) *Iniciante*
   - [ ]  [1535](https://www.urionlinejudge.com.br/judge/pt/problems/view/1535) - Números Casal-Solteirão-Solteirona *Estruturas e Bibliotecas*
   - [ ]  [1536](https://www.urionlinejudge.com.br/judge/pt/problems/view/1536) - Libertadores *Ad-Hoc*
   - [ ]  [1537](https://www.urionlinejudge.com.br/judge/pt/problems/view/1537) - Fila do Banco *Matemática*
   - [ ]  [1538](https://www.urionlinejudge.com.br/judge/pt/problems/view/1538) - Sequência Alienígena *Estruturas e Bibliotecas*
   - [ ]  [1539](https://www.urionlinejudge.com.br/judge/pt/problems/view/1539) - Empresa de Telecom *Grafos*
   - [ ]  [1540](https://www.urionlinejudge.com.br/judge/pt/problems/view/1540) - Planejando a Energia *Ad-Hoc*
-  - [x]  [1541](https://www.urionlinejudge.com.br/judge/pt/problems/view/1541) - [Construindo Casas](https://github.dev/potigol/uoj-potigol/blob/master/src/1500/1541.poti) *Iniciante*
-  - [x]  [1542](https://www.urionlinejudge.com.br/judge/pt/problems/view/1542) - [Lendo Livros](https://github.dev/potigol/uoj-potigol/blob/master/src/1500/1542.poti) *Ad-Hoc*
+  - [x]  [1541](https://www.urionlinejudge.com.br/judge/pt/problems/view/1541) - [Construindo Casas](https://github.com/potigol/uoj-potigol/blob/master/src/1500/1541.poti) *Iniciante*
+  - [x]  [1542](https://www.urionlinejudge.com.br/judge/pt/problems/view/1542) - [Lendo Livros](https://github.com/potigol/uoj-potigol/blob/master/src/1500/1542.poti) *Ad-Hoc*
   - [ ]  [1543](https://www.urionlinejudge.com.br/judge/pt/problems/view/1543) - Quadro Premiado *Paradigmas*
   - [ ]  [1544](https://www.urionlinejudge.com.br/judge/pt/problems/view/1544) - O Último Dígito Não-Zero *Matemática*
   - [ ]  [1545](https://www.urionlinejudge.com.br/judge/pt/problems/view/1545) - Cartões II *Paradigmas*
-  - [x]  [1546](https://www.urionlinejudge.com.br/judge/pt/problems/view/1546) - [Feedback](https://github.dev/potigol/uoj-potigol/blob/master/src/1500/1546.poti) *Ad-Hoc*
+  - [x]  [1546](https://www.urionlinejudge.com.br/judge/pt/problems/view/1546) - [Feedback](https://github.com/potigol/uoj-potigol/blob/master/src/1500/1546.poti) *Ad-Hoc*
   - [ ]  [1547](https://www.urionlinejudge.com.br/judge/pt/problems/view/1547) - Adivinha *Ad-Hoc*
-  - [x]  [1548](https://www.urionlinejudge.com.br/judge/pt/problems/view/1548) - [Fila do Recreio](https://github.dev/potigol/uoj-potigol/blob/master/src/1500/1548.poti) *Estruturas e Bibliotecas*
+  - [x]  [1548](https://www.urionlinejudge.com.br/judge/pt/problems/view/1548) - [Fila do Recreio](https://github.com/potigol/uoj-potigol/blob/master/src/1500/1548.poti) *Estruturas e Bibliotecas*
   - [ ]  [1549](https://www.urionlinejudge.com.br/judge/pt/problems/view/1549) - Dividindo a Coca *Geometria Computacional*
   - [ ]  [1550](https://www.urionlinejudge.com.br/judge/pt/problems/view/1550) - Inversão *Grafos*
-  - [x]  [1551](https://www.urionlinejudge.com.br/judge/pt/problems/view/1551) - [Frase Completa](https://github.dev/potigol/uoj-potigol/blob/master/src/1500/1551.poti) *Strings*
+  - [x]  [1551](https://www.urionlinejudge.com.br/judge/pt/problems/view/1551) - [Frase Completa](https://github.com/potigol/uoj-potigol/blob/master/src/1500/1551.poti) *Strings*
   - [ ]  [1552](https://www.urionlinejudge.com.br/judge/pt/problems/view/1552) - Resgate em Queda Livre *Grafos*
-  - [x]  [1553](https://www.urionlinejudge.com.br/judge/pt/problems/view/1553) - [Perguntas mais Frequentes](https://github.dev/potigol/uoj-potigol/blob/master/src/1500/1553.poti) *Ad-Hoc*
+  - [x]  [1553](https://www.urionlinejudge.com.br/judge/pt/problems/view/1553) - [Perguntas mais Frequentes](https://github.com/potigol/uoj-potigol/blob/master/src/1500/1553.poti) *Ad-Hoc*
   - [ ]  [1554](https://www.urionlinejudge.com.br/judge/pt/problems/view/1554) - Bilhar N+1 *Matemática*
-  - [x]  [1555](https://www.urionlinejudge.com.br/judge/pt/problems/view/1555) - [Funções](https://github.dev/potigol/uoj-potigol/blob/master/src/1500/1555.poti) *Matemática*
+  - [x]  [1555](https://www.urionlinejudge.com.br/judge/pt/problems/view/1555) - [Funções](https://github.com/potigol/uoj-potigol/blob/master/src/1500/1555.poti) *Matemática*
   - [ ]  [1556](https://www.urionlinejudge.com.br/judge/pt/problems/view/1556) - Removendo Letras *Strings*
-  - [x]  [1557](https://www.urionlinejudge.com.br/judge/pt/problems/view/1557) - [Matriz Quadrada III](https://github.dev/potigol/uoj-potigol/blob/master/src/1500/1557.poti) *Iniciante*
-  - [x]  [1558](https://www.urionlinejudge.com.br/judge/pt/problems/view/1558) - [Soma de Dois Quadrados](https://github.dev/potigol/uoj-potigol/blob/master/src/1500/1558.poti) *Ad-Hoc*
+  - [x]  [1557](https://www.urionlinejudge.com.br/judge/pt/problems/view/1557) - [Matriz Quadrada III](https://github.com/potigol/uoj-potigol/blob/master/src/1500/1557.poti) *Iniciante*
+  - [x]  [1558](https://www.urionlinejudge.com.br/judge/pt/problems/view/1558) - [Soma de Dois Quadrados](https://github.com/potigol/uoj-potigol/blob/master/src/1500/1558.poti) *Ad-Hoc*
   - [ ]  [1559](https://www.urionlinejudge.com.br/judge/pt/problems/view/1559) - 2048 *Ad-Hoc*
   - [ ]  [1560](https://www.urionlinejudge.com.br/judge/pt/problems/view/1560) - Energia dos Triângulos *Geometria Computacional*
   - [ ]  [1561](https://www.urionlinejudge.com.br/judge/pt/problems/view/1561) - Relógio Binário *Ad-Hoc*
   - [ ]  [1562](https://www.urionlinejudge.com.br/judge/pt/problems/view/1562) - Escolhendo as Duplas *Grafos*
   - [ ]  [1563](https://www.urionlinejudge.com.br/judge/pt/problems/view/1563) - O Grande Problema *Matemática*
-  - [x]  [1564](https://www.urionlinejudge.com.br/judge/pt/problems/view/1564) - [Vai Ter Copa?](https://github.dev/potigol/uoj-potigol/blob/master/src/1500/1564.poti) *Iniciante*
+  - [x]  [1564](https://www.urionlinejudge.com.br/judge/pt/problems/view/1564) - [Vai Ter Copa?](https://github.com/potigol/uoj-potigol/blob/master/src/1500/1564.poti) *Iniciante*
   - [ ]  [1565](https://www.urionlinejudge.com.br/judge/pt/problems/view/1565) - Ligue os Pontos *Paradigmas*
   - [ ]  [1566](https://www.urionlinejudge.com.br/judge/pt/problems/view/1566) - Altura *Estruturas e Bibliotecas*
   - [ ]  [1567](https://www.urionlinejudge.com.br/judge/pt/problems/view/1567) - (2/3/4)-D Sqr/Rects/Cubes/Boxes? *Matemática*
@@ -73,7 +73,7 @@
   - [ ]  [1570](https://www.urionlinejudge.com.br/judge/pt/problems/view/1570) - Um Dia na Terra da Matemática *Matemática*
   - [ ]  [1571](https://www.urionlinejudge.com.br/judge/pt/problems/view/1571) - Um Quadrado &amp; Triângulos Equiláteros *Geometria Computacional*
   - [ ]  [1572](https://www.urionlinejudge.com.br/judge/pt/problems/view/1572) - O Torneio Surreal *Matemática*
-  - [x]  [1573](https://www.urionlinejudge.com.br/judge/pt/problems/view/1573) - [Fábrica de Chocolate](https://github.dev/potigol/uoj-potigol/blob/master/src/1500/1573.poti) *Ad-Hoc*
+  - [x]  [1573](https://www.urionlinejudge.com.br/judge/pt/problems/view/1573) - [Fábrica de Chocolate](https://github.com/potigol/uoj-potigol/blob/master/src/1500/1573.poti) *Ad-Hoc*
   - [ ]  [1574](https://www.urionlinejudge.com.br/judge/pt/problems/view/1574) - Instruções do Robô *Ad-Hoc*
   - [ ]  [1575](https://www.urionlinejudge.com.br/judge/pt/problems/view/1575) - Perseguindo Don Giovanni *Ad-Hoc*
   - [ ]  [1576](https://www.urionlinejudge.com.br/judge/pt/problems/view/1576) - O Problema da Linha do Horizonte *Ad-Hoc*
@@ -81,15 +81,15 @@
   - [ ]  [1578](https://www.urionlinejudge.com.br/judge/pt/problems/view/1578) - Matriz de Quadrados *Ad-Hoc*
   - [ ]  [1579](https://www.urionlinejudge.com.br/judge/pt/problems/view/1579) - Transporte de Painéis Solares *Paradigmas*
   - [ ]  [1580](https://www.urionlinejudge.com.br/judge/pt/problems/view/1580) - Quid Est Veritas? Est Vir Qui Adest! *Matemática*
-  - [x]  [1581](https://www.urionlinejudge.com.br/judge/pt/problems/view/1581) - [Conversa Internacional](https://github.dev/potigol/uoj-potigol/blob/master/src/1500/1581.poti) *Strings*
-  - [x]  [1582](https://www.urionlinejudge.com.br/judge/pt/problems/view/1582) - [O Teorema de Pitágoras](https://github.dev/potigol/uoj-potigol/blob/master/src/1500/1582.poti) *Matemática*
+  - [x]  [1581](https://www.urionlinejudge.com.br/judge/pt/problems/view/1581) - [Conversa Internacional](https://github.com/potigol/uoj-potigol/blob/master/src/1500/1581.poti) *Strings*
+  - [x]  [1582](https://www.urionlinejudge.com.br/judge/pt/problems/view/1582) - [O Teorema de Pitágoras](https://github.com/potigol/uoj-potigol/blob/master/src/1500/1582.poti) *Matemática*
   - [ ]  [1583](https://www.urionlinejudge.com.br/judge/pt/problems/view/1583) - Contaminação *Grafos*
   - [ ]  [1584](https://www.urionlinejudge.com.br/judge/pt/problems/view/1584) - Espertofone *Grafos*
-  - [x]  [1585](https://www.urionlinejudge.com.br/judge/pt/problems/view/1585) - [Fazendo Pandorgas](https://github.dev/potigol/uoj-potigol/blob/master/src/1500/1585.poti) *Matemática*
+  - [x]  [1585](https://www.urionlinejudge.com.br/judge/pt/problems/view/1585) - [Fazendo Pandorgas](https://github.com/potigol/uoj-potigol/blob/master/src/1500/1585.poti) *Matemática*
   - [ ]  [1586](https://www.urionlinejudge.com.br/judge/pt/problems/view/1586) - Cabo de Guerra *Strings*
   - [ ]  [1587](https://www.urionlinejudge.com.br/judge/pt/problems/view/1587) - BIT Park *Estruturas e Bibliotecas*
   - [ ]  [1588](https://www.urionlinejudge.com.br/judge/pt/problems/view/1588) - Ajude a Federação *Ad-Hoc*
-  - [x]  [1589](https://www.urionlinejudge.com.br/judge/pt/problems/view/1589) - [Bob Conduite](https://github.dev/potigol/uoj-potigol/blob/master/src/1500/1589.poti) *Iniciante*
+  - [x]  [1589](https://www.urionlinejudge.com.br/judge/pt/problems/view/1589) - [Bob Conduite](https://github.com/potigol/uoj-potigol/blob/master/src/1500/1589.poti) *Iniciante*
   - [ ]  [1590](https://www.urionlinejudge.com.br/judge/pt/problems/view/1590) - Cuarenta e Dois *Paradigmas*
   - [ ]  [1591](https://www.urionlinejudge.com.br/judge/pt/problems/view/1591) - Dia da Vovó *Ad-Hoc*
   - [ ]  [1592](https://www.urionlinejudge.com.br/judge/pt/problems/view/1592) - Elias e Golias *Grafos*

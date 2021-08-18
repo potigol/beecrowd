@@ -4,9 +4,9 @@
 
 ## Problemas resolvidos
 
-  - [x]  [1323](https://www.urionlinejudge.com.br/judge/pt/problems/view/1323) - [Feynman](https://github.dev/potigol/uoj-potigol/blob/master/src/1300/1323.poti)
-  - [x]  [1393](https://www.urionlinejudge.com.br/judge/pt/problems/view/1393) - [Lajotas Hexagonais](https://github.dev/potigol/uoj-potigol/blob/master/src/1300/1393.poti)
-  - [x]  [1429](https://www.urionlinejudge.com.br/judge/pt/problems/view/1429) - [Fatorial de Novo!](https://github.dev/potigol/uoj-potigol/blob/master/src/1400/1429.poti)
+  - [x]  [1323](https://www.urionlinejudge.com.br/judge/pt/problems/view/1323) - [Feynman](https://github.com/potigol/uoj-potigol/blob/master/src/1300/1323.poti)
+  - [x]  [1393](https://www.urionlinejudge.com.br/judge/pt/problems/view/1393) - [Lajotas Hexagonais](https://github.com/potigol/uoj-potigol/blob/master/src/1300/1393.poti)
+  - [x]  [1429](https://www.urionlinejudge.com.br/judge/pt/problems/view/1429) - [Fatorial de Novo!](https://github.com/potigol/uoj-potigol/blob/master/src/1400/1429.poti)
 
 ## Problemas não resolvidos
 

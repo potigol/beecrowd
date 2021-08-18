@@ -4,8 +4,8 @@
 
 ## Problemas resolvidos
 
-  - [x]  [2428](https://www.urionlinejudge.com.br/judge/pt/problems/view/2428) - [Capital](https://github.dev/potigol/uoj-potigol/blob/master/src/2400/2428.poti)
-  - [x]  [3043](https://www.urionlinejudge.com.br/judge/pt/problems/view/3043) - [Festa Junina](https://github.dev/potigol/uoj-potigol/blob/master/src/3000/3043.poti)
+  - [x]  [2428](https://www.urionlinejudge.com.br/judge/pt/problems/view/2428) - [Capital](https://github.com/potigol/uoj-potigol/blob/master/src/2400/2428.poti)
+  - [x]  [3043](https://www.urionlinejudge.com.br/judge/pt/problems/view/3043) - [Festa Junina](https://github.com/potigol/uoj-potigol/blob/master/src/3000/3043.poti)
 
 ## Problemas não resolvidos
 
