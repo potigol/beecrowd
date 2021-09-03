@@ -1,8 +1,12 @@
-var entrada := leia_inteiros(" ")
-enquanto entrada[1] > 0 faca
-  alice, beatriz = leia_inteiros(" ").divida_quando(_ <> _).mapeie(x => x.cabeca)
+distintas(cartas: Lista[Inteiro]) =
+  cartas.divida_quando(_ <> _).mapeie(_.cabeca)
+
+var entrada := leia_texto
+enquanto entrada <> "0 0" faca
+  alice, beatriz = distintas(leia_inteiros(" "))
   a, b = alice.tamanho, beatriz.tamanho
-  iguais = a - (alice._lista.diff(beatriz._lista).length)
-  escreva se a < b entao a - iguais senao b - iguais fim
-  entrada := leia_inteiros(" ")
+  iguais = a - (alice - beatriz).tamanho
+  trocas = se a < b entao a - iguais senao b - iguais fim
+  escreva trocas
+  entrada := leia_texto
 fim
