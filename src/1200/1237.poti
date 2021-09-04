@@ -14,7 +14,7 @@ comparar(a, b: Texto, p_a, p_b, soma: Inteiro): Inteiro =
   fim
 
 var a := leia_texto
-enquanto a <> None.orNull faca
+enquanto nao eof faca
   b = leia_texto
   var resposta := 0
   para inicio_a de 1 ate a.tamanho faca

@@ -12,7 +12,7 @@ numeros = para i de 1 ate 5001 gere
 fim
 
 var a := leia_texto
-enquanto a <> None.orNull faca
+enquanto nao eof faca
   z = a.divida(" ")
   n, m = z[1].inteiro, z[2].inteiro
   escreva numeros[m+1] - numeros[n]

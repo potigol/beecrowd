@@ -1,5 +1,5 @@
 var s:= leia_texto
-enquanto s <> None.orNull faca
+enquanto nao eof faca
   r, t = s.maiúsculo, s.minúsculo
   var maiúsculo := verdadeiro
   para i de 1 ate s.tamanho faca

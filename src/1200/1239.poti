@@ -7,14 +7,14 @@ sub(texto: Texto, chr: Caractere, tag1, tag2: Texto)
       s
     fim
   fim
-  f(texto, verdadeiro)
+  retorne f(texto, verdadeiro)
 fim
 
 bold(s: Texto) = sub(s, '*', "<b>", "</b>")
 italic(s: Texto) = sub(s, '_', "<i>", "</i>")
 
 var texto := leia_texto
-enquanto texto <> None.orNull faca
+enquanto nao eof faca
   escreva bold(italic(texto))
   texto := leia_texto
 fim

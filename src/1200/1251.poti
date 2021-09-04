@@ -1,6 +1,6 @@
 var s := leia_texto
 var b := falso
-enquanto s <> None.orNull faca
+enquanto nao eof faca
   x = s.ordene.divida_quando(_ <> _)
        .mapeie(a => "{a.tamanho formato "%04d"}{(128 - a[1]).caractere}")
        .ordene

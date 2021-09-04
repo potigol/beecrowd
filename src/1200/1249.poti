@@ -8,7 +8,7 @@ fim
 rot = para i de 1 ate 255 gere rot13(i) fim.junte("")
 
 var entrada := leia_texto
-enquanto entrada <> None.orNull faça
+enquanto nao eof faça
   escreva entrada.mapeie(c => rot[c])
   entrada := leia_texto
 fim
