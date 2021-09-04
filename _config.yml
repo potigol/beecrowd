@@ -4,3 +4,21 @@ readme_index:
   with_frontmatter: true
   
 #theme: jekyll-theme-leap-day
+
+translate:
+  # shortcodes
+  danger: perigo
+  #note:
+  tip: dica
+  warning: atenção
+  # 404
+  #not_found:
+  # copyright
+  #revision:
+  # search
+  #searching:
+  #search:
+  #search_docs:
+  #search_results:
+  #search_results_found: # the "#" in this translate will replaced with results size!
+  #search_results_not_found:
