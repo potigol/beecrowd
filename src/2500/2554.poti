@@ -1,5 +1,5 @@
 var a := leia_texto
-enquanto a <> None.orNull faca
+enquanto nao eof faca
   d = a.divida(" ")[2].inteiro
   var i := 0
   var resp := "Pizza antes de FdI"

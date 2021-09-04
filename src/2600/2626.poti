@@ -3,7 +3,7 @@ leo    = "Iron Maiden's gonna get you, no matter how far!"
 pepper = "Urano perdeu algo muito precioso..."
 empate = "Putz vei, o Leo ta demorando muito pra jogar..."
 var a := leia_texto
-enquanto a <> None.orNull faca
+enquanto nao eof faca
   resultado = escolha a
     caso "pedra tesoura tesoura" => dodo
     caso "papel pedra pedra"     => dodo

@@ -1,17 +1,12 @@
 var entrada := leia_texto
-nulo = None.orNull
-
-enquanto entrada <> nulo faça
+enquanto nao eof faça
   grau = entrada.real mod 360
   se grau < 90 então
       escreva "Bom Dia!!"
-
   senãose grau < 180 então
       escreva "Boa Tarde!!"
-
   senãose grau < 270 então
       escreva "Boa Noite!!"
-
   senão
       escreva "De Madrugada!!"
   fim

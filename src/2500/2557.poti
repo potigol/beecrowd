@@ -1,5 +1,5 @@
 var entrada := leia_texto
-enquanto entrada <> None.orNull faça
+enquanto nao eof faça
   a = entrada.divida("\\=")
   b = a[1].divida("\\+")
   rlj = [b[1], b[2], a[2]].mapeie(_.inteiro)

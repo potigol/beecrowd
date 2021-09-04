@@ -1,5 +1,5 @@
 var a := leia_texto
-enquanto a <> None.orNull faca
+enquanto noa eof faca
   var letras = para i de 1 ate 255 gere i fim.mutavel
   c, n = a.divida(" ")[1].inteiro, a.divida(" ")[2].inteiro
   zenit, polar = leia_texto.minúsculo
