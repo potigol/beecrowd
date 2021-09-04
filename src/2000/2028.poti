@@ -1,6 +1,6 @@
 var casos := 0
 var entrada := leia_texto
-enquanto entrada <> None.orNull faca
+enquanto nao eof faca
   n = entrada.inteiro
   casos := casos + 1
   saida = 0 :: para i de 1 ate n, j de 1 ate i gere i fim

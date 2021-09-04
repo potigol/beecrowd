@@ -1,5 +1,5 @@
 var entrada := leia_texto
-enquanto entrada <> None.orNull faca
+enquanto nao eof faca
   a = entrada.divida(" ").mapeie(_.inteiro)
   b = a.pegue(2).ordene
   x, y, m = b[1], b[2], a[3]

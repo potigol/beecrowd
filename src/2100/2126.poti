@@ -1,6 +1,6 @@
 var t := 0
 var n1, n2 := leia_texto
-enquanto n1 <> None.orNull faça
+enquanto nao eof faça
   var cont, pos := 0
   para i de 0 até n2.tamanho - n1.tamanho faça
     var sub := verdadeiro

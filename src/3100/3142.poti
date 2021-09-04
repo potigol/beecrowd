@@ -1,5 +1,5 @@
 var s := leia_texto
-enquanto s <> None.orNull faca
+enquanto nao eof faca
   x = "@@" + s
   se s.tamanho < 4 e x.inverta.pegue(3).inverta <= "XFD"
     a = x.lista.mapeie(_ - '@')

@@ -1,7 +1,7 @@
 var entrada := leia_texto
 var dias := 0
 
-enquanto (entrada <> None.orNull) faça
+enquanto nao eof faça
   mes, dia = entrada.divida(" ")[1].inteiro, entrada.divida(" ")[2].inteiro
 
   escolha mes

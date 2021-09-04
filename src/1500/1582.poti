@@ -5,7 +5,7 @@ mdc(a, b: Inteiro): Inteiro =
   fim
 
 var entrada := leia_texto
-enquanto entrada <> None.orNull faca
+enquanto nao eof faca
   num = entrada.divida(" ").mapeie(_.inteiro).ordene
   cateto1, cateto2, hipotenusa = num[1], num[2], num[3]
 

@@ -1,5 +1,5 @@
 var s:= leia_texto
-enquanto s <> None.orNull faça
+enquanto nao eof faça
   s := s.selecione(c => c=='(' ou c==')')
   var a := 0
   var correto := verdadeiro

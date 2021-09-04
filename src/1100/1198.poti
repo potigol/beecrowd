@@ -1,5 +1,5 @@
 var entrada := leia_texto
-enquanto entrada <> None.orNull faca
+enquanto nao eof faca
   se entrada.tamanho > 11 entao
     s = entrada.divida(" ").mapeie(BigInt(_))
     a, b = s[1], s[2]
