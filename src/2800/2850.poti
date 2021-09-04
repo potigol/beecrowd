@@ -1,6 +1,5 @@
-nulo = None.orNull
 var a := leia_texto
-enquanto a <> nulo faça
+enquanto nao eof faça
   escolha a[1]
     caso 'e' => escreva "ingles"
     caso 'd' => escreva "frances"

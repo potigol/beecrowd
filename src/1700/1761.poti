@@ -1,6 +1,6 @@
 var s := leia_texto
 rg =  3.141592654/180
-enquanto s <> None.orNull faca
+enquanto nao eof faca
   r = s.divida(" ").mapeie(_.real)
   a, b, c = r[1], r[2], r[3]
   x = c + b * tg(a * rg)
