@@ -1,4 +1,4 @@
-# Strings (58 / 145)
+# Strings (59 / 145)
 
 
 
@@ -59,6 +59,7 @@
   - [x]  [3088](https://www.urionlinejudge.com.br/judge/pt/problems/view/3088) - [Correção de Texto](https://github.com/potigol/uoj-potigol/blob/master/src/3000/3088.poti)
   - [x]  [3103](https://www.urionlinejudge.com.br/judge/pt/problems/view/3103) - [Número da Sorte](https://github.com/potigol/uoj-potigol/blob/master/src/3100/3103.poti)
   - [x]  [3141](https://www.urionlinejudge.com.br/judge/pt/problems/view/3141) - [Dúvida Etária](https://github.com/potigol/uoj-potigol/blob/master/src/3100/3141.poti)
+  - [x]  [3159](https://www.urionlinejudge.com.br/judge/pt/problems/view/3159) - [Tijolão](https://github.com/potigol/uoj-potigol/blob/master/src/3100/3159.poti)
   - [x]  [3300](https://www.urionlinejudge.com.br/judge/pt/problems/view/3300) - [Números Má Sorte Recarregados](https://github.com/potigol/uoj-potigol/blob/master/src/3300/3300.poti)
   - [x]  [3311](https://www.urionlinejudge.com.br/judge/pt/problems/view/3311) - [Hudinho e o seu Trabalho](https://github.com/potigol/uoj-potigol/blob/master/src/3300/3311.poti)
   - [x]  [3313](https://www.urionlinejudge.com.br/judge/pt/problems/view/3313) - [Jogo de Palavras](https://github.com/potigol/uoj-potigol/blob/master/src/3300/3313.poti)
@@ -146,7 +147,6 @@
   - [ ]  [3100](https://www.urionlinejudge.com.br/judge/pt/problems/view/3100) - Os Dígitos da Sorte
   - [ ]  [3118](https://www.urionlinejudge.com.br/judge/pt/problems/view/3118) - Bactérias, Suas Loucas!
   - [ ]  [3143](https://www.urionlinejudge.com.br/judge/pt/problems/view/3143) - Fugindo do Celular
-  - [ ]  [3159](https://www.urionlinejudge.com.br/judge/pt/problems/view/3159) - Tijolão
   - [ ]  [3180](https://www.urionlinejudge.com.br/judge/pt/problems/view/3180) - Roubo de Código
   - [ ]  [3261](https://www.urionlinejudge.com.br/judge/pt/problems/view/3261) - Replicação de Vírus
   - [ ]  [3262](https://www.urionlinejudge.com.br/judge/pt/problems/view/3262) - Timebomb

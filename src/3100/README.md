@@ -1,4 +1,4 @@
-# Problemas 3100 (25%)
+# Problemas 3100 (26%)
 
   - [ ]  [3100](https://www.urionlinejudge.com.br/judge/pt/problems/view/3100) - Os Dígitos da Sorte *Strings*
   - [ ]  [3101](https://www.urionlinejudge.com.br/judge/pt/problems/view/3101) - Famílias Poligâmicas *Grafos*
@@ -59,7 +59,7 @@
   - [ ]  [3156](https://www.urionlinejudge.com.br/judge/pt/problems/view/3156) - Xadrez Galático *Geometria Computacional*
   - [x]  [3157](https://www.urionlinejudge.com.br/judge/pt/problems/view/3157) - [Viva a Ciência!](https://github.com/potigol/uoj-potigol/blob/master/src/3100/3157.poti) *Iniciante*
   - [ ]  [3158](https://www.urionlinejudge.com.br/judge/pt/problems/view/3158) - O Bom Presidente *Grafos*
-  - [ ]  [3159](https://www.urionlinejudge.com.br/judge/pt/problems/view/3159) - Tijolão *Strings*
+  - [x]  [3159](https://www.urionlinejudge.com.br/judge/pt/problems/view/3159) - [Tijolão](https://github.com/potigol/uoj-potigol/blob/master/src/3100/3159.poti) *Strings*
   - [ ]  [3160](https://www.urionlinejudge.com.br/judge/pt/problems/view/3160) - Amigos *Estruturas e Bibliotecas*
   - [x]  [3161](https://www.urionlinejudge.com.br/judge/pt/problems/view/3161) - [As Frutas Esquecidas](https://github.com/potigol/uoj-potigol/blob/master/src/3100/3161.poti) *Iniciante*
   - [x]  [3162](https://www.urionlinejudge.com.br/judge/pt/problems/view/3162) - [Comunicação Espacial](https://github.com/potigol/uoj-potigol/blob/master/src/3100/3162.poti) *Iniciante*

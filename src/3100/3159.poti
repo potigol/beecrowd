@@ -1,0 +1,24 @@
+teclas(digito: Caractere): Texto = escolha digito
+  caso ' ' => "0"
+  caso d se d < 'a' => "#{teclas((d + 32).caractere)}"
+  caso d => escolha d
+    caso _ se d <= 'c' => "2" * (d - '`')
+    caso _ se d <= 'f' => "3" * (d - 'c')
+    caso _ se d <= 'i' => "4" * (d - 'f')
+    caso _ se d <= 'l' => "5" * (d - 'i')
+    caso _ se d <= 'o' => "6" * (d - 'l')
+    caso _ se d <= 's' => "7" * (d - 'o')
+    caso _ se d <= 'v' => "8" * (d - 's')
+    caso _             => "9" * (d - 'v')
+    fim
+  fim
+
+n = leia_inteiro
+para i de 1 ate n faca
+  linha = leia_texto
+  sequencia = linha.lista.mapeie(teclas)
+               .divida_quando((a, b) => a[-1] == b[1])
+               .mapeie(_.junte(""))
+               .junte("*")
+  escreva sequencia
+fim
