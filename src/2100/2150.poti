@@ -1,0 +1,11 @@
+var vogais, entrada := leia_texto
+enquanto nao eof faca
+  var linha := entrada
+  var diff := linha - vogais
+  enquanto diff <> linha faca
+    linha := linha - vogais
+    diff := linha - vogais
+  fim
+  escreva entrada.tamanho - linha.tamanho
+  vogais, entrada := leia_texto
+fim

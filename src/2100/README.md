@@ -1,4 +1,4 @@
-# Problemas 2100 (27%)
+# Problemas 2100 (28%)
 
   - [ ]  [2100](https://www.urionlinejudge.com.br/judge/pt/problems/view/2100) - Cinema de Xing Tzen Zu *Matemática*
   - [ ]  [2101](https://www.urionlinejudge.com.br/judge/pt/problems/view/2101) - Combinações de Dias *Matemática*
@@ -50,7 +50,7 @@
   - [x]  [2147](https://www.urionlinejudge.com.br/judge/pt/problems/view/2147) - [Galopeira](https://github.com/potigol/uoj-potigol/blob/master/src/2100/2147.poti) *Iniciante*
   - [ ]  [2148](https://www.urionlinejudge.com.br/judge/pt/problems/view/2148) - Banco de Dados *Matemática*
   - [ ]  [2149](https://www.urionlinejudge.com.br/judge/pt/problems/view/2149) - Sequência do Tio Phill Bonati *Matemática*
-  - [ ]  [2150](https://www.urionlinejudge.com.br/judge/pt/problems/view/2150) - Vogais Alienígenas *Strings*
+  - [x]  [2150](https://www.urionlinejudge.com.br/judge/pt/problems/view/2150) - [Vogais Alienígenas](https://github.com/potigol/uoj-potigol/blob/master/src/2100/2150.poti) *Strings*
   - [ ]  [2151](https://www.urionlinejudge.com.br/judge/pt/problems/view/2151) - Soco do Rulk *Ad-Hoc*
   - [x]  [2152](https://www.urionlinejudge.com.br/judge/pt/problems/view/2152) - [Pepe, Já Tirei a Vela!](https://github.com/potigol/uoj-potigol/blob/master/src/2100/2152.poti) *Iniciante*
   - [ ]  [2153](https://www.urionlinejudge.com.br/judge/pt/problems/view/2153) - Sanduicheiche *Strings*

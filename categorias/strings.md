@@ -1,4 +1,4 @@
-# Strings (59 / 145)
+# Strings (60 / 145)
 
 
 
@@ -37,6 +37,7 @@
   - [x]  [2062](https://www.urionlinejudge.com.br/judge/pt/problems/view/2062) - [OBI URI](https://github.com/potigol/uoj-potigol/blob/master/src/2000/2062.poti)
   - [x]  [2108](https://www.urionlinejudge.com.br/judge/pt/problems/view/2108) - [Contando Caracters](https://github.com/potigol/uoj-potigol/blob/master/src/2100/2108.poti)
   - [x]  [2137](https://www.urionlinejudge.com.br/judge/pt/problems/view/2137) - [A Biblioteca do Senhor Severino](https://github.com/potigol/uoj-potigol/blob/master/src/2100/2137.poti)
+  - [x]  [2150](https://www.urionlinejudge.com.br/judge/pt/problems/view/2150) - [Vogais Alienígenas](https://github.com/potigol/uoj-potigol/blob/master/src/2100/2150.poti)
   - [x]  [2157](https://www.urionlinejudge.com.br/judge/pt/problems/view/2157) - [Sequência Espelho](https://github.com/potigol/uoj-potigol/blob/master/src/2100/2157.poti)
   - [x]  [2174](https://www.urionlinejudge.com.br/judge/pt/problems/view/2174) - [Coleção de Pomekon](https://github.com/potigol/uoj-potigol/blob/master/src/2100/2174.poti)
   - [x]  [2242](https://www.urionlinejudge.com.br/judge/pt/problems/view/2242) - [Huaauhahhuahau](https://github.com/potigol/uoj-potigol/blob/master/src/2200/2242.poti)
@@ -118,7 +119,6 @@
   - [ ]  [2093](https://www.urionlinejudge.com.br/judge/pt/problems/view/2093) - Fuja para Escapar
   - [ ]  [2097](https://www.urionlinejudge.com.br/judge/pt/problems/view/2097) - Nome para Número
   - [ ]  [2132](https://www.urionlinejudge.com.br/judge/pt/problems/view/2132) - Não é Mais Um Joguinho Canadense!
-  - [ ]  [2150](https://www.urionlinejudge.com.br/judge/pt/problems/view/2150) - Vogais Alienígenas
   - [ ]  [2153](https://www.urionlinejudge.com.br/judge/pt/problems/view/2153) - Sanduicheiche
   - [ ]  [2292](https://www.urionlinejudge.com.br/judge/pt/problems/view/2292) - Painel LED
   - [ ]  [2314](https://www.urionlinejudge.com.br/judge/pt/problems/view/2314) - Indentador
