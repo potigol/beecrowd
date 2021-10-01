@@ -16,7 +16,8 @@ teclas(digito: Caractere): Texto = escolha digito
 n = leia_inteiro
 para i de 1 ate n faca
   linha = leia_texto
-  sequencia = linha.lista.mapeie(teclas)
+  sequencia = linha.lista
+               .mapeie(teclas)
                .divida_quando((a, b) => a[-1] == b[1])
                .mapeie(_.junte(""))
                .junte("*")

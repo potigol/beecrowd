@@ -1,0 +1,10 @@
+t = leia_inteiro
+p = para i de 1 até 1000 gere i fim
+para i de 1 até t faça
+  numeros = leia_inteiros(" ")
+  chocolates = numeros.zip(p)
+                      .selecione(a => a.segundo mod 2 == 0)
+                      .mapeie(a => a.primeiro)
+                      .injete(0)(_ + _)
+  escreva chocolates
+fim

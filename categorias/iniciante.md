@@ -1,4 +1,4 @@
-# Iniciante (305 / 328)
+# Iniciante (305 / 326)
 
 
 
@@ -302,13 +302,13 @@
   - [x]  [3208](https://www.urionlinejudge.com.br/judge/pt/problems/view/3208) - [O Criptógrafo Envergonhado](https://github.com/potigol/uoj-potigol/blob/master/src/3200/3208.poti)
   - [x]  [3209](https://www.urionlinejudge.com.br/judge/pt/problems/view/3209) - [Tomadas Elétricas](https://github.com/potigol/uoj-potigol/blob/master/src/3200/3209.poti)
   - [x]  [3214](https://www.urionlinejudge.com.br/judge/pt/problems/view/3214) - [Refrigerante](https://github.com/potigol/uoj-potigol/blob/master/src/3200/3214.poti)
-  - [x]  [3224](https://www.urionlinejudge.com.br/judge/pt/problems/view/3224) - [Aaah!](https://github.com/potigol/uoj-potigol/blob/master/src/3200/3224.poti)
   - [x]  [3241](https://www.urionlinejudge.com.br/judge/pt/problems/view/3241) - [Ajude um Candidato a PhD!](https://github.com/potigol/uoj-potigol/blob/master/src/3200/3241.poti)
   - [x]  [3249](https://www.urionlinejudge.com.br/judge/pt/problems/view/3249) - [Death Knight Hero](https://github.com/potigol/uoj-potigol/blob/master/src/3200/3249.poti)
   - [x]  [3299](https://www.urionlinejudge.com.br/judge/pt/problems/view/3299) - [Números Má Sorte Pequenos](https://github.com/potigol/uoj-potigol/blob/master/src/3200/3299.poti)
   - [x]  [3301](https://www.urionlinejudge.com.br/judge/pt/problems/view/3301) - [Sobrinho do Meio](https://github.com/potigol/uoj-potigol/blob/master/src/3300/3301.poti)
   - [x]  [3302](https://www.urionlinejudge.com.br/judge/pt/problems/view/3302) - [Resposta Certa](https://github.com/potigol/uoj-potigol/blob/master/src/3300/3302.poti)
   - [x]  [3303](https://www.urionlinejudge.com.br/judge/pt/problems/view/3303) - [Palavrão](https://github.com/potigol/uoj-potigol/blob/master/src/3300/3303.poti)
+  - [x]  [3344](https://www.urionlinejudge.com.br/judge/pt/problems/view/3344) - [Brute](https://github.com/potigol/uoj-potigol/blob/master/src/3300/3344.poti)
 
 ## Problemas não resolvidos
 
@@ -323,10 +323,6 @@
   - [ ]  [3181](https://www.urionlinejudge.com.br/judge/pt/problems/view/3181) - Jantar
   - [ ]  [3204](https://www.urionlinejudge.com.br/judge/pt/problems/view/3204) - Honeycomb Walk
   - [ ]  [3217](https://www.urionlinejudge.com.br/judge/pt/problems/view/3217) - Chuva Caindo
-  - [ ]  [3231](https://www.urionlinejudge.com.br/judge/pt/problems/view/3231) - Horror List
-  - [ ]  [3232](https://www.urionlinejudge.com.br/judge/pt/problems/view/3232) - Infiltration
-  - [ ]  [3234](https://www.urionlinejudge.com.br/judge/pt/problems/view/3234) - Kindergarten
-  - [ ]  [3235](https://www.urionlinejudge.com.br/judge/pt/problems/view/3235) - Luggage
   - [ ]  [3250](https://www.urionlinejudge.com.br/judge/pt/problems/view/3250) - Problema no Elevador
   - [ ]  [3252](https://www.urionlinejudge.com.br/judge/pt/problems/view/3252) - Reus da Floresta
   - [ ]  [3253](https://www.urionlinejudge.com.br/judge/pt/problems/view/3253) - Problemas com o Carro
@@ -335,3 +331,5 @@
   - [ ]  [3258](https://www.urionlinejudge.com.br/judge/pt/problems/view/3258) - Fervendo Vegetais
   - [ ]  [3267](https://www.urionlinejudge.com.br/judge/pt/problems/view/3267) - Passeio no Penhasco
   - [ ]  [3306](https://www.urionlinejudge.com.br/judge/pt/problems/view/3306) - Consulta e Alteração
+  - [ ]  [3342](https://www.urionlinejudge.com.br/judge/pt/problems/view/3342) - Keanu
+  - [ ]  [3343](https://www.urionlinejudge.com.br/judge/pt/problems/view/3343) - Attack On Gasparini

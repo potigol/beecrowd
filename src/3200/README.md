@@ -24,18 +24,18 @@
   - [ ]  [3221](https://www.urionlinejudge.com.br/judge/pt/problems/view/3221) - Faróis *Grafos*
   - [ ]  [3222](https://www.urionlinejudge.com.br/judge/pt/problems/view/3222) - Cifra Playfair *Ad-Hoc*
   - [ ]  [3223](https://www.urionlinejudge.com.br/judge/pt/problems/view/3223) - Permutações de Código *Matemática*
-  - [x]  [3224](https://www.urionlinejudge.com.br/judge/pt/problems/view/3224) - [Aaah!](https://github.com/potigol/uoj-potigol/blob/master/src/3200/3224.poti) *Iniciante*
-  - [ ]  [3225](https://www.urionlinejudge.com.br/judge/pt/problems/view/3225) - Ordenação dos Pães *Ad-Hoc*
-  - [ ]  [3226](https://www.urionlinejudge.com.br/judge/pt/problems/view/3226) - Seleção de Biscoito *Ad-Hoc*
-  - [ ]  [3227](https://www.urionlinejudge.com.br/judge/pt/problems/view/3227) - Doorman *Ad-Hoc*
   - [ ] ~~xxxx~~
   - [ ] ~~xxxx~~
   - [ ] ~~xxxx~~
-  - [ ]  [3231](https://www.urionlinejudge.com.br/judge/pt/problems/view/3231) - Horror List *Iniciante*
-  - [ ]  [3232](https://www.urionlinejudge.com.br/judge/pt/problems/view/3232) - Infiltration *Iniciante*
   - [ ] ~~xxxx~~
-  - [ ]  [3234](https://www.urionlinejudge.com.br/judge/pt/problems/view/3234) - Kindergarten *Iniciante*
-  - [ ]  [3235](https://www.urionlinejudge.com.br/judge/pt/problems/view/3235) - Luggage *Iniciante*
+  - [ ] ~~xxxx~~
+  - [ ] ~~xxxx~~
+  - [ ] ~~xxxx~~
+  - [ ] ~~xxxx~~
+  - [ ] ~~xxxx~~
+  - [ ] ~~xxxx~~
+  - [ ] ~~xxxx~~
+  - [ ] ~~xxxx~~
   - [ ]  [3236](https://www.urionlinejudge.com.br/judge/pt/problems/view/3236) - Sucessão *Grafos*
   - [ ]  [3237](https://www.urionlinejudge.com.br/judge/pt/problems/view/3237) - Conectar *Grafos*
   - [ ] ~~xxxx~~
@@ -47,7 +47,7 @@
   - [ ] ~~xxxx~~
   - [ ] ~~xxxx~~
   - [ ] ~~xxxx~~
-  - [ ]  [3247](https://www.urionlinejudge.com.br/judge/pt/problems/view/3247) - Robôs em uma Grade *Grafos*
+  - [ ] ~~xxxx~~
   - [ ]  [3248](https://www.urionlinejudge.com.br/judge/pt/problems/view/3248) - Mega Inversões *Estruturas e Bibliotecas*
   - [x]  [3249](https://www.urionlinejudge.com.br/judge/pt/problems/view/3249) - [Death Knight Hero](https://github.com/potigol/uoj-potigol/blob/master/src/3200/3249.poti) *Iniciante*
   - [ ]  [3250](https://www.urionlinejudge.com.br/judge/pt/problems/view/3250) - Problema no Elevador *Iniciante*

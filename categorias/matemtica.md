@@ -1,4 +1,4 @@
-# Matemática (54 / 265)
+# Matemática (54 / 268)
 
 
 
@@ -272,3 +272,6 @@
   - [ ]  [3276](https://www.urionlinejudge.com.br/judge/pt/problems/view/3276) - Quantos Quadrados?
   - [ ]  [3304](https://www.urionlinejudge.com.br/judge/pt/problems/view/3304) - Alguma Sorte!
   - [ ]  [3308](https://www.urionlinejudge.com.br/judge/pt/problems/view/3308) - Elevador
+  - [ ]  [3339](https://www.urionlinejudge.com.br/judge/pt/problems/view/3339) - Carina
+  - [ ]  [3341](https://www.urionlinejudge.com.br/judge/pt/problems/view/3341) - Grandmaster do Jogo do Caneco
+  - [ ]  [3345](https://www.urionlinejudge.com.br/judge/pt/problems/view/3345) - O Passatempo de Ferdinacci
