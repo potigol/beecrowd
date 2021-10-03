@@ -2197,11 +2197,21 @@
 3221	Faróis	Grafos
 3222	Cifra Playfair	Ad-Hoc
 3223	Permutações de Código	Matemática
+3224	Aaah!	Iniciante
+3225	Ordenação dos Pães	Ad-Hoc
+3226	Seleção de Biscoito	Ad-Hoc
+3227	Doorman	Ad-Hoc
+3231	Horror List	Iniciante
+3232	Infiltration	Iniciante
+3233	Suco	Iniciante
+3234	Kindergarten	Iniciante
+3235	Luggage	Iniciante
 3236	Sucessão	Grafos
 3237	Conectar	Grafos
 3239	Dirty Driving	Estruturas e Bibliotecas
 3240	Doodling	Ad-Hoc
 3241	Ajude um Candidato a PhD!	Iniciante
+3247	Robôs em uma Grade	Grafos
 3248	Mega Inversões	Estruturas e Bibliotecas
 3249	Death Knight Hero	Iniciante
 3250	Problema no Elevador	Iniciante

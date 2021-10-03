@@ -1,4 +1,4 @@
-# Ad-Hoc (139 / 726)
+# Ad-Hoc (139 / 729)
 
 
 
@@ -727,6 +727,9 @@
   - [ ]  [3212](https://www.urionlinejudge.com.br/judge/pt/problems/view/3212) - Decomposição do Colar
   - [ ]  [3219](https://www.urionlinejudge.com.br/judge/pt/problems/view/3219) - Gokigen Naname
   - [ ]  [3222](https://www.urionlinejudge.com.br/judge/pt/problems/view/3222) - Cifra Playfair
+  - [ ]  [3225](https://www.urionlinejudge.com.br/judge/pt/problems/view/3225) - Ordenação dos Pães
+  - [ ]  [3226](https://www.urionlinejudge.com.br/judge/pt/problems/view/3226) - Seleção de Biscoito
+  - [ ]  [3227](https://www.urionlinejudge.com.br/judge/pt/problems/view/3227) - Doorman
   - [ ]  [3240](https://www.urionlinejudge.com.br/judge/pt/problems/view/3240) - Doodling
   - [ ]  [3254](https://www.urionlinejudge.com.br/judge/pt/problems/view/3254) - Espaço Privado
   - [ ]  [3263](https://www.urionlinejudge.com.br/judge/pt/problems/view/3263) - Apague Com Segurança

@@ -1,4 +1,4 @@
-# Grafos (3 / 274)
+# Grafos (3 / 275)
 
 
 
@@ -276,6 +276,7 @@
   - [ ]  [3221](https://www.urionlinejudge.com.br/judge/pt/problems/view/3221) - Faróis
   - [ ]  [3236](https://www.urionlinejudge.com.br/judge/pt/problems/view/3236) - Sucessão
   - [ ]  [3237](https://www.urionlinejudge.com.br/judge/pt/problems/view/3237) - Conectar
+  - [ ]  [3247](https://www.urionlinejudge.com.br/judge/pt/problems/view/3247) - Robôs em uma Grade
   - [ ]  [3264](https://www.urionlinejudge.com.br/judge/pt/problems/view/3264) - Pinball
   - [ ]  [3268](https://www.urionlinejudge.com.br/judge/pt/problems/view/3268) - Lounges da Amanda
   - [ ]  [3269](https://www.urionlinejudge.com.br/judge/pt/problems/view/3269) - Vigilância de Basin City
