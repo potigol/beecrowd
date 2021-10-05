@@ -1,0 +1,12 @@
+n = leia_inteiro
+qntTotalCasas = n*n
+
+se n mod 2 == 0 então
+    a = qntTotalCasas div 2
+    b = a
+    escreva "{a} casas brancas e {b} casas pretas"
+senão 
+    a = (qntTotalCasas+1) div 2
+    b = a-1
+    escreva "{a} casas brancas e {b} casas pretas"
+fim
