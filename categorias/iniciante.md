@@ -1,4 +1,4 @@
-# Iniciante (306 / 332)
+# Iniciante (307 / 332)
 
 
 
@@ -309,6 +309,7 @@
   - [x]  [3301](https://www.urionlinejudge.com.br/judge/pt/problems/view/3301) - [Sobrinho do Meio](https://github.com/potigol/uoj-potigol/blob/master/src/3300/3301.poti)
   - [x]  [3302](https://www.urionlinejudge.com.br/judge/pt/problems/view/3302) - [Resposta Certa](https://github.com/potigol/uoj-potigol/blob/master/src/3300/3302.poti)
   - [x]  [3303](https://www.urionlinejudge.com.br/judge/pt/problems/view/3303) - [Palavrão](https://github.com/potigol/uoj-potigol/blob/master/src/3300/3303.poti)
+  - [x]  [3342](https://www.urionlinejudge.com.br/judge/pt/problems/view/3342) - [Keanu](https://github.com/potigol/uoj-potigol/blob/master/src/3300/3342.poti)
   - [x]  [3344](https://www.urionlinejudge.com.br/judge/pt/problems/view/3344) - [Brute](https://github.com/potigol/uoj-potigol/blob/master/src/3300/3344.poti)
 
 ## Problemas não resolvidos
@@ -337,5 +338,4 @@
   - [ ]  [3258](https://www.urionlinejudge.com.br/judge/pt/problems/view/3258) - Fervendo Vegetais
   - [ ]  [3267](https://www.urionlinejudge.com.br/judge/pt/problems/view/3267) - Passeio no Penhasco
   - [ ]  [3306](https://www.urionlinejudge.com.br/judge/pt/problems/view/3306) - Consulta e Alteração
-  - [ ]  [3342](https://www.urionlinejudge.com.br/judge/pt/problems/view/3342) - Keanu
   - [ ]  [3343](https://www.urionlinejudge.com.br/judge/pt/problems/view/3343) - Attack On Gasparini

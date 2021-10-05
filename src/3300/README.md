@@ -1,4 +1,4 @@
-# Problemas 3300 (43%)
+# Problemas 3300 (47%)
 
   - [x]  [3300](https://www.urionlinejudge.com.br/judge/pt/problems/view/3300) - [Números Má Sorte Recarregados](https://github.com/potigol/uoj-potigol/blob/master/src/3300/3300.poti) *Strings*
   - [x]  [3301](https://www.urionlinejudge.com.br/judge/pt/problems/view/3301) - [Sobrinho do Meio](https://github.com/potigol/uoj-potigol/blob/master/src/3300/3301.poti) *Iniciante*
@@ -42,7 +42,7 @@
   - [ ]  [3339](https://www.urionlinejudge.com.br/judge/pt/problems/view/3339) - Carina *Matemática*
   - [ ]  [3340](https://www.urionlinejudge.com.br/judge/pt/problems/view/3340) - Estudante De Mestrado *Grafos*
   - [ ]  [3341](https://www.urionlinejudge.com.br/judge/pt/problems/view/3341) - Grandmaster do Jogo do Caneco *Matemática*
-  - [ ]  [3342](https://www.urionlinejudge.com.br/judge/pt/problems/view/3342) - Keanu *Iniciante*
+  - [x]  [3342](https://www.urionlinejudge.com.br/judge/pt/problems/view/3342) - [Keanu](https://github.com/potigol/uoj-potigol/blob/master/src/3300/3342.poti) *Iniciante*
   - [ ]  [3343](https://www.urionlinejudge.com.br/judge/pt/problems/view/3343) - Attack On Gasparini *Iniciante*
   - [x]  [3344](https://www.urionlinejudge.com.br/judge/pt/problems/view/3344) - [Brute](https://github.com/potigol/uoj-potigol/blob/master/src/3300/3344.poti) *Iniciante*
   - [ ]  [3345](https://www.urionlinejudge.com.br/judge/pt/problems/view/3345) - O Passatempo de Ferdinacci *Matemática*
