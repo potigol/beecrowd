@@ -1,13 +1,12 @@
 n = leia_inteiro
 qntTotalCasas = n*n
-var a = 0
-var b = 0
-se n mod 2 == 0 então
-    a := (qntTotalCasas/2).inteiro
-    b := a
-senão 
-    a := ((qntTotalCasas+1)/2).inteiro
-    b := a-1
-fim
 
-escreva "{a} casas brancas e {b} casas pretas"
+se n mod 2 == 0 então
+    a = qntTotalCasas div 2
+    b = a
+    escreva "{a} casas brancas e {b} casas pretas"
+senão 
+    a = (qntTotalCasas+1) div 2
+    b = a-1
+    escreva "{a} casas brancas e {b} casas pretas"
+fim
