@@ -5,11 +5,10 @@
 [![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/potigol/uoj-potigol)
 [![Soluções](https://img.shields.io/badge/Problemas%20Resolvidos-595-green)](https://github.com/potigol/URI-Potigol/commits/master)
 
+<a href="https://potigol.github.io/docs/hacktoberfest"><img src="https://hacktoberfest.digitalocean.com/_nuxt/img/logo-hacktoberfest-full.f42e3b1.svg" width=250></a>
+
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/potigol/uoj-potigol)
 [![IFRN](https://potigol.github.io/docs/logo_ifrn_40.png)](https://www.ifrn.edu.br)
-
-<a href="https://potigol.github.io/docs/hacktoberfest"><img src="https://hacktoberfest.digitalocean.com/_nuxt/img/logo-hacktoberfest-full.f42e3b1.svg" width="33%"></a>
-
 
 Soluções dos problemas do [URI Online Judge](https://www.urionlinejudge.com.br/judge/pt/problems/all) usando a linguagem [Potigol](https://potigol.github.io)
 
@@ -47,8 +46,7 @@ Escolha um problema ainda não reolvido e envie sua solução pelo github.
 
  - Faça o download da linguagem Potigol http://potigol.github.io
  - Faça um fork deste projeto https://github.com/potigol/uoj-potigol
- - Escolha e resolva algum problema ainda não resolvido
- - Se estiver usando o editor do Potigol aperte ctrl-F para formatar o código
+ - Resolva algum problema ainda não resolvido ou melhore alguma solução já existente
  - Coloque o seu código na pasta correspondente https://github.com/potigol/URI-Potigol/tree/master/src
- - **OPCIONAL** Teste a sua solução no URI Online Judge usando o script [Potigol2Scala](https://github.com/potigol/potigol2scala)
+ - **OPCIONAL** Teste a sua solução no URI Online Judge usando o script `./potigol2scala.sh src/1000/1000.poti`
  - Faça um pull request
