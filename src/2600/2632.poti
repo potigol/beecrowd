@@ -1,0 +1,55 @@
+magia_dano(magia: Texto)
+    result = escolha magia
+        caso "fire" => 200
+        caso "water" => 300
+        caso "earth" => 400
+        caso _ => 100
+    fim
+    retorne result
+fim
+
+magia_raio(magia: Texto, lv: Texto)
+    res = escolha (magia, lv)
+        caso  ("fire", "1") => 20
+        caso  ("fire", "2") => 30
+        caso  ("fire", "3") => 50
+        caso  ("water", "1") => 10
+        caso  ("water", "2") => 25
+        caso  ("water", "3") => 40
+        caso  ("earth", "1") => 25
+        caso  ("earth", "2") => 55
+        caso  ("earth", "3") => 70
+        caso  ("air", "1") => 18
+        caso  ("air", "2") => 38
+        caso  _ => 60
+    fim
+    retorne res
+fim
+
+intercessao(cx: Inteiro, cy: Inteiro, raio: Inteiro, rx: Inteiro, ry: Inteiro, largura: Inteiro, altura: Inteiro)
+    cDx = abs(cx - (rx + largura / 2))
+    cDy = abs(cy - (ry + altura / 2))
+
+    se (cDx > (largura / 2 + raio)) ou (cDy > (altura / 2 + raio)) então
+        falso
+    senãose (cDx <= largura / 2) ou (cDy <= altura / 2) então
+        verdadeiro
+    senão
+        ((cDx - largura/2)^2 + (cDy - altura/2)^2) <= raio^2
+    fim
+fim
+
+t = leia_inteiro
+para i de 1 ate t faca
+    posicao = leia_inteiros(" ")
+    w, h, x0, y0 = posicao[1], posicao[2], posicao[3], posicao[4]
+    ataque = leia_textos(" ")
+    magia, lv, cx, cy = ataque[1], ataque[2], ataque[3].inteiro, ataque[4].inteiro
+
+    se intercessao(cx, cy, magia_raio(magia, lv), x0, y0, w, h) então
+        escreva magia_dano(magia)
+    senão
+        escreva 0
+    fim
+
+fim
