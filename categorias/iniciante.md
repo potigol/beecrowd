@@ -1,4 +1,4 @@
-# Iniciante (307 / 332)
+# Iniciante (306 / 332)
 
 
 
@@ -213,7 +213,6 @@
   - [x]  [2686](https://www.urionlinejudge.com.br/judge/pt/problems/view/2686) - [A Mudança Continua!!](https://github.com/potigol/uoj-potigol/blob/master/src/2600/2686.poti)
   - [x]  [2702](https://www.urionlinejudge.com.br/judge/pt/problems/view/2702) - [Escolha Difícil](https://github.com/potigol/uoj-potigol/blob/master/src/2700/2702.poti)
   - [x]  [2708](https://www.urionlinejudge.com.br/judge/pt/problems/view/2708) - [Turistas no Parque Huacachina](https://github.com/potigol/uoj-potigol/blob/master/src/2700/2708.poti)
-  - [x]  [2709](https://www.urionlinejudge.com.br/judge/pt/problems/view/2709) - [As Moedas de Robbie](https://github.com/potigol/uoj-potigol/blob/master/src/2700/2709.poti)
   - [x]  [2712](https://www.urionlinejudge.com.br/judge/pt/problems/view/2712) - [Rodízio Veicular](https://github.com/potigol/uoj-potigol/blob/master/src/2700/2712.poti)
   - [x]  [2717](https://www.urionlinejudge.com.br/judge/pt/problems/view/2717) - [Tempo do Duende](https://github.com/potigol/uoj-potigol/blob/master/src/2700/2717.poti)
   - [x]  [2718](https://www.urionlinejudge.com.br/judge/pt/problems/view/2718) - [Luzes de Natal](https://github.com/potigol/uoj-potigol/blob/master/src/2700/2718.poti)
@@ -315,6 +314,7 @@
 ## Problemas não resolvidos
 
   - [ ]  [2632](https://www.urionlinejudge.com.br/judge/pt/problems/view/2632) - Magic and Sword
+  - [ ]  [2709](https://www.urionlinejudge.com.br/judge/pt/problems/view/2709) - As Moedas de Robbie
   - [ ]  [2715](https://www.urionlinejudge.com.br/judge/pt/problems/view/2715) - Dividindo os Trabalhos I
   - [ ]  [2758](https://www.urionlinejudge.com.br/judge/pt/problems/view/2758) - Entrada e Saída de Números Reais
   - [ ]  [2769](https://www.urionlinejudge.com.br/judge/pt/problems/view/2769) - Linha de Montagem

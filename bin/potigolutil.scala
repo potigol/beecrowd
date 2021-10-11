@@ -23,6 +23,7 @@ object Potigolutil {
   type Nada = Unit
   type InteiroGrande = BigInt
   val nulo: Null = null
+  var eof: Logico = falso
 
   var $cor = false
 
@@ -287,7 +288,10 @@ object Potigolutil {
     if ($cor) corSim()
     val s = StdIn.readLine()
     if ($cor) corNao()
-    s
+    if (s == null) {
+      eof = verdadeiro
+      ""
+    } else s
   }
 
   def leia(separador: Texto): Lista[Texto] = Lista(leia()
@@ -311,7 +315,7 @@ object Potigolutil {
     l.pegue(n)
     //    Lista(((1 to n) map { _ => leia_int }).toList)
   }
-  def leia_inteiros(separador: Texto): Lista[Int] = {
+  def leia_inteiros(separador: Texto=" "): Lista[Int] = {
     val l = leia(separador)._lista
     Lista(l.map(_.inteiro))
   }
@@ -329,7 +333,7 @@ object Potigolutil {
     l.pegue(n)
     //    Lista(((1 to n) map { _ => leia_num }).toList)
   }
-  def leia_reais(separador: Texto): Lista[Real] = Lista(leia(separador)._lista.map { _.real })
+  def leia_reais(separador: Texto = " "): Lista[Real] = Lista(leia(separador)._lista.map { _.real })
   @deprecated("Use 'leia_reais'", since094) def leia_numeros(n: Inteiro): Lista[Real] = leia_reais(n)
   @deprecated("Use 'leia_reais'", since094) def leia_numeros(separador: Texto): Lista[Real] = leia_reais(separador)
   @deprecated("Use 'leia_real'", since094) def leia_num: Real = leia_real
@@ -450,32 +454,6 @@ object Potigolutil {
     def decimo: T10 = t._10
     def décimo: T10 = t._10
     def qual_tipo: String = s"(${t._1.qual_tipo}, ${t._2.qual_tipo}, ${t._3.qual_tipo}, ${t._4.qual_tipo}, ${t._5.qual_tipo}, ${t._6.qual_tipo}, ${t._7.qual_tipo}, ${t._8.qual_tipo}, ${t._9.qual_tipo}, ${t._10.qual_tipo})"
-  }
-
-  case class URL(caminho: Texto) {
-    lazy val erro: Boolean = conteudo == ""
-    lazy val conteudo: String = Try {
-      io.Source.fromURL(caminho).mkString("")
-    } getOrElse ""
-  }
-
-  import scala.io.Source
-
-  object Arquivo {
-    import java.io.{ PrintWriter, File }
-    def leia(caminho: Texto): Lista[Texto] = {
-      Lista(Source.fromFile(caminho).getLines().toList)
-    }
-    def salve(caminho: Texto, conteúdo: Texto, anexar: Lógico = falso): Nada = {
-      val pw = new PrintWriter(new File(caminho))
-      if (anexar) {
-        pw.append(conteúdo)
-      }
-      else {
-        pw.write(conteúdo)
-      }
-      pw.close()
-    }
   }
 }
 
