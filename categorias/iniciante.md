@@ -205,6 +205,7 @@
   - [x]  [2582](https://www.urionlinejudge.com.br/judge/pt/problems/view/2582) - [System of a Download](https://github.com/potigol/uoj-potigol/blob/master/src/2500/2582.poti)
   - [x]  [2626](https://www.urionlinejudge.com.br/judge/pt/problems/view/2626) - [Turma do JB6](https://github.com/potigol/uoj-potigol/blob/master/src/2600/2626.poti)
   - [x]  [2630](https://www.urionlinejudge.com.br/judge/pt/problems/view/2630) - [Escala de Cinza](https://github.com/potigol/uoj-potigol/blob/master/src/2600/2630.poti)
+  - [x]  [2632](https://www.urionlinejudge.com.br/judge/pt/problems/view/2632) - [Magic and Sword](https://github.com/potigol/uoj-potigol/blob/master/src/2600/2632.poti)
   - [x]  [2635](https://www.urionlinejudge.com.br/judge/pt/problems/view/2635) - [Navegador Web](https://github.com/potigol/uoj-potigol/blob/master/src/2600/2635.poti)
   - [x]  [2653](https://www.urionlinejudge.com.br/judge/pt/problems/view/2653) - [Dijkstra](https://github.com/potigol/uoj-potigol/blob/master/src/2600/2653.poti)
   - [x]  [2663](https://www.urionlinejudge.com.br/judge/pt/problems/view/2663) - [Fase](https://github.com/potigol/uoj-potigol/blob/master/src/2600/2663.poti)
@@ -314,7 +315,6 @@
 
 ## Problemas não resolvidos
 
-  - [ ]  [2632](https://www.urionlinejudge.com.br/judge/pt/problems/view/2632) - Magic and Sword
   - [ ]  [2715](https://www.urionlinejudge.com.br/judge/pt/problems/view/2715) - Dividindo os Trabalhos I
   - [ ]  [2758](https://www.urionlinejudge.com.br/judge/pt/problems/view/2758) - Entrada e Saída de Números Reais
   - [ ]  [2769](https://www.urionlinejudge.com.br/judge/pt/problems/view/2769) - Linha de Montagem
