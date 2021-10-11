@@ -1,29 +1,23 @@
-magia_dano(magia: Texto)
-    result = escolha magia
-        caso "fire" => 200
-        caso "water" => 300
-        caso "earth" => 400
-        caso _ => 100
-    fim
-    retorne result
+magia_dano(magia: Texto) = escolha magia
+    caso "fire" => 200
+    caso "water" => 300
+    caso "earth" => 400
+    caso _ => 100
 fim
 
-magia_raio(magia: Texto, lv: Texto)
-    res = escolha (magia, lv)
-        caso  ("fire", "1") => 20
-        caso  ("fire", "2") => 30
-        caso  ("fire", "3") => 50
-        caso  ("water", "1") => 10
-        caso  ("water", "2") => 25
-        caso  ("water", "3") => 40
-        caso  ("earth", "1") => 25
-        caso  ("earth", "2") => 55
-        caso  ("earth", "3") => 70
-        caso  ("air", "1") => 18
-        caso  ("air", "2") => 38
-        caso  _ => 60
-    fim
-    retorne res
+magia_raio(magia: Texto, lv: Texto) = escolha (magia, lv)
+    caso  ("fire", "1") => 20
+    caso  ("fire", "2") => 30
+    caso  ("fire", "3") => 50
+    caso  ("water", "1") => 10
+    caso  ("water", "2") => 25
+    caso  ("water", "3") => 40
+    caso  ("earth", "1") => 25
+    caso  ("earth", "2") => 55
+    caso  ("earth", "3") => 70
+    caso  ("air", "1") => 18
+    caso  ("air", "2") => 38
+    caso  _ => 60
 fim
 
 intercessao(cx: Inteiro, cy: Inteiro, raio: Inteiro, rx: Inteiro, ry: Inteiro, largura: Inteiro, altura: Inteiro)
