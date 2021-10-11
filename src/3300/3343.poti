@@ -1,0 +1,24 @@
+entrada_1 = leia_inteiros(" ")
+n, x = entrada_1[1], entrada_1[2]
+fila = leia_texto
+
+entrada_2 = leia_inteiros(" ")
+p, m, g = entrada_2[1], entrada_2[2], entrada_2[3]
+
+var tamanho_muralha := x
+var qnt_muralhas := 1
+
+para i de 1 ate n faça
+    t = fila[i]
+    
+    tamanho_tita = se t == 'P' então p senãose t == 'M' então m senão g fim
+        
+    se tamanho_tita > tamanho_muralha então
+        qnt_muralhas := qnt_muralhas + 1
+        tamanho_muralha := tamanho_muralha + x
+    fim
+
+    tamanho_muralha := tamanho_muralha - tamanho_tita
+fim
+
+escreva qnt_muralhas
