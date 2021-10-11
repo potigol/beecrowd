@@ -1,4 +1,4 @@
-# Problemas 2600 (29%)
+# Problemas 2600 (30%)
 
   - [ ]  [2600](https://www.urionlinejudge.com.br/judge/pt/problems/view/2600) - Tustin e Seu Dado Novo *Ad-Hoc*
   - [ ]  [2601](https://www.urionlinejudge.com.br/judge/pt/problems/view/2601) - Tustin e Seu Dado Antigo *Ad-Hoc*
@@ -32,7 +32,7 @@
   - [ ]  [2629](https://www.urionlinejudge.com.br/judge/pt/problems/view/2629) - Rodoido *Ad-Hoc*
   - [x]  [2630](https://www.urionlinejudge.com.br/judge/pt/problems/view/2630) - [Escala de Cinza](https://github.com/potigol/uoj-potigol/blob/master/src/2600/2630.poti) *Iniciante*
   - [ ]  [2631](https://www.urionlinejudge.com.br/judge/pt/problems/view/2631) - Formando Duplas *Grafos*
-  - [ ]  [2632](https://www.urionlinejudge.com.br/judge/pt/problems/view/2632) - Magic and Sword *Iniciante*
+  - [x]  [2632](https://www.urionlinejudge.com.br/judge/pt/problems/view/2632) - [Magic and Sword](https://github.com/potigol/uoj-potigol/blob/master/src/2600/2632.poti) *Iniciante*
   - [x]  [2633](https://www.urionlinejudge.com.br/judge/pt/problems/view/2633) - [Churras no Yuri](https://github.com/potigol/uoj-potigol/blob/master/src/2600/2633.poti) *Estruturas e Bibliotecas*
   - [ ]  [2634](https://www.urionlinejudge.com.br/judge/pt/problems/view/2634) - Em Prol da Ciência *Ad-Hoc*
   - [x]  [2635](https://www.urionlinejudge.com.br/judge/pt/problems/view/2635) - [Navegador Web](https://github.com/potigol/uoj-potigol/blob/master/src/2600/2635.poti) *Iniciante*
