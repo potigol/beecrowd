@@ -1,0 +1,29 @@
+primo(a: Inteiro)
+  var resp := a > 1
+  para i de 2 até raiz(a).arredonde faça
+    se a mod i == 0 então
+      resp := falso
+    fim
+  fim
+  retorne resp
+fim
+
+var m := leia_inteiro
+enquanto m > 1  faça
+  v = leia_inteiros(m)
+  n = leia_inteiro
+
+  var soma := 0
+
+  para i de m ate 1 passo -n faça
+    soma := soma + v[i].inteiro
+  fim
+
+  se primo(soma) então
+    escreva "You’re a coastal aircraft, Robbie, a large silver aircraft."
+  senão
+    escreva "Bad boy! I’ll hit you."
+  fim
+
+  m := leia_inteiro
+fim
