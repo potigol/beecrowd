@@ -1,4 +1,4 @@
-# Problemas 2400 (33%)
+# Problemas 2400 (34%)
 
   - [ ]  [2400](https://www.urionlinejudge.com.br/judge/pt/problems/view/2400) - Balé *Ad-Hoc*
   - [ ]  [2401](https://www.urionlinejudge.com.br/judge/pt/problems/view/2401) - Calculadora *Ad-Hoc*
@@ -69,7 +69,7 @@
   - [x]  [2466](https://www.urionlinejudge.com.br/judge/pt/problems/view/2466) - [Sinuca](https://github.com/potigol/uoj-potigol/blob/master/src/2400/2466.poti) *Ad-Hoc*
   - [ ]  [2467](https://www.urionlinejudge.com.br/judge/pt/problems/view/2467) - Frequência *Ad-Hoc*
   - [ ]  [2468](https://www.urionlinejudge.com.br/judge/pt/problems/view/2468) - Mapa *Ad-Hoc*
-  - [ ]  [2469](https://www.urionlinejudge.com.br/judge/pt/problems/view/2469) - Notas *Ad-Hoc*
+  - [x]  [2469](https://www.urionlinejudge.com.br/judge/pt/problems/view/2469) - [Notas](https://github.com/potigol/uoj-potigol/blob/master/src/2400/2469.poti) *Ad-Hoc*
   - [ ]  [2470](https://www.urionlinejudge.com.br/judge/pt/problems/view/2470) - Jogo da Memória *Ad-Hoc*
   - [ ]  [2471](https://www.urionlinejudge.com.br/judge/pt/problems/view/2471) - Quadrado *Ad-Hoc*
   - [ ]  [2472](https://www.urionlinejudge.com.br/judge/pt/problems/view/2472) - Tapetes *Ad-Hoc*

@@ -1,4 +1,4 @@
-# Ad-Hoc (58 / 172)
+# Ad-Hoc (59 / 172)
 
 
 
@@ -51,6 +51,7 @@
   - [x]  [2464](https://www.urionlinejudge.com.br/judge/pt/problems/view/2464) - [Decifra](https://github.com/potigol/uoj-potigol/blob/master/src/2400/2464.poti)
   - [x]  [2465](https://www.urionlinejudge.com.br/judge/pt/problems/view/2465) - [Passa Bolinha](https://github.com/potigol/uoj-potigol/blob/master/src/2400/2465.poti)
   - [x]  [2466](https://www.urionlinejudge.com.br/judge/pt/problems/view/2466) - [Sinuca](https://github.com/potigol/uoj-potigol/blob/master/src/2400/2466.poti)
+  - [x]  [2469](https://www.urionlinejudge.com.br/judge/pt/problems/view/2469) - [Notas](https://github.com/potigol/uoj-potigol/blob/master/src/2400/2469.poti)
   - [x]  [2473](https://www.urionlinejudge.com.br/judge/pt/problems/view/2473) - [Loteria](https://github.com/potigol/uoj-potigol/blob/master/src/2400/2473.poti)
   - [x]  [2830](https://www.urionlinejudge.com.br/judge/pt/problems/view/2830) - [Copa](https://github.com/potigol/uoj-potigol/blob/master/src/2800/2830.poti)
   - [x]  [2831](https://www.urionlinejudge.com.br/judge/pt/problems/view/2831) - [Pesos](https://github.com/potigol/uoj-potigol/blob/master/src/2800/2831.poti)
@@ -166,7 +167,6 @@
   - [ ]  [2463](https://www.urionlinejudge.com.br/judge/pt/problems/view/2463) - Corredor
   - [ ]  [2467](https://www.urionlinejudge.com.br/judge/pt/problems/view/2467) - Frequência
   - [ ]  [2468](https://www.urionlinejudge.com.br/judge/pt/problems/view/2468) - Mapa
-  - [ ]  [2469](https://www.urionlinejudge.com.br/judge/pt/problems/view/2469) - Notas
   - [ ]  [2470](https://www.urionlinejudge.com.br/judge/pt/problems/view/2470) - Jogo da Memória
   - [ ]  [2471](https://www.urionlinejudge.com.br/judge/pt/problems/view/2471) - Quadrado
   - [ ]  [2472](https://www.urionlinejudge.com.br/judge/pt/problems/view/2472) - Tapetes
