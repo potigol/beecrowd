@@ -1,0 +1,18 @@
+qnt_alunos = leia_inteiro
+notas = leia_inteiros(" ")
+
+notas_ord = notas.ordene
+var i = 1
+var maior_repetidos = 1
+var maior_nota = 0 
+enquanto i <= qnt_alunos faça
+    repetidos = notas_ord.selecione(n => n == notas_ord[i]) 
+    i := i + repetidos.tamanho - 1
+    se repetidos.tamanho >= maior_repetidos então 
+        maior_repetidos := repetidos.tamanho
+        maior_nota := notas_ord[i]
+    fim
+    i := i + 1
+fim
+
+escreva maior_nota
