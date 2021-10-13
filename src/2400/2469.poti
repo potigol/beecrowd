@@ -17,9 +17,9 @@ fim
 
 escreva maior_nota
 
-"
+
 # Solução mais simplificada 
-qnt_alunos = leia_inteiro
-notas = leia_inteiros(" ")
-escreva notas.ordene(- _).divida_quando((a, b) => a <> b).ordene(- _.tamanho)[1][1]
-"
+# qnt_alunos = leia_inteiro
+# notas = leia_inteiros(" ")
+# escreva notas.ordene(- _).divida_quando((a, b) => a <> b).ordene(- _.tamanho)[1][1]
+
