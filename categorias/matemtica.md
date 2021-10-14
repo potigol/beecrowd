@@ -5,6 +5,7 @@
 ## Problemas resolvidos
 
   - [x]  [1028](https://www.urionlinejudge.com.br/judge/pt/problems/view/1028) - [Figurinhas](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1028.poti)
+  - [x]  [1093](https://www.urionlinejudge.com.br/judge/pt/problems/view/1093) - [Vampiros](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1093.poti)
   - [x]  [1161](https://www.urionlinejudge.com.br/judge/pt/problems/view/1161) - [Soma de Fatoriais](https://github.com/potigol/uoj-potigol/blob/master/src/1100/1161.poti)
   - [x]  [1169](https://www.urionlinejudge.com.br/judge/pt/problems/view/1169) - [Trigo no Tabuleiro](https://github.com/potigol/uoj-potigol/blob/master/src/1100/1169.poti)
   - [x]  [1170](https://www.urionlinejudge.com.br/judge/pt/problems/view/1170) - [Blobs](https://github.com/potigol/uoj-potigol/blob/master/src/1100/1170.poti)
@@ -61,7 +62,6 @@
 
 ## Problemas não resolvidos
 
-  - [ ]  [1093](https://www.urionlinejudge.com.br/judge/pt/problems/view/1093) - Vampiros
   - [ ]  [1138](https://www.urionlinejudge.com.br/judge/pt/problems/view/1138) - Contagem de Dígitos
   - [ ]  [1163](https://www.urionlinejudge.com.br/judge/pt/problems/view/1163) - Angry Ducks
   - [ ]  [1193](https://www.urionlinejudge.com.br/judge/pt/problems/view/1193) - Conversão entre Bases

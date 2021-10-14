@@ -1,0 +1,47 @@
+exponenciacao(a: Real, cont: Inteiro): Real = escolha cont
+  caso 0 => 1
+  caso n => a * exponenciacao(a, n-1)
+fim
+
+probabilidade(ev1, ev2, at : Inteiro)
+    var res := 0.0
+
+    se at == 3 então
+        res :=  ev1 / (ev1+ev2)
+    senão
+        var dado := 1.0 - (6.0 - at)/6.0
+        dado := (1.0 - dado)/dado
+        res := (1.0 - exponenciacao(dado, ev1))/ (1.0 - exponenciacao(dado, ev1+ev2))
+    fim
+    retorne res
+fim
+
+var entradas := leia_inteiros(" ")
+var ev1, ev2, at, d := entradas[1], entradas[2], entradas[3], entradas[4]
+
+enquanto ev1 <> 0 ou ev2 <> 0 ou at <> 0 ou d <> 0  faça
+
+    var aux := ev1
+    ev1 := 0
+
+    enquanto aux > 0 faça
+        aux := aux - d
+        ev1 := ev1 + 1
+    fim
+
+    aux := ev2
+    ev2 := 0
+
+    enquanto aux > 0 faça
+        aux := aux - d
+        ev2 := ev2 + 1
+    fim
+
+    p = probabilidade(ev1,ev2,at)
+
+    escreva (p*100) formato "%.1f"
+
+    entradas := leia_inteiros(" ")
+    ev1, ev2, at, d := entradas[1], entradas[2], entradas[3], entradas[4]
+
+fim
