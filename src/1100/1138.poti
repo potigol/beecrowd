@@ -1,0 +1,43 @@
+var valores := leia_inteiros(" ")
+var a, b := valores[1], valores[2]
+
+digitos(n, d: Inteiro)
+    var resultado := 0
+    var potencia := 1
+    var resto := 0
+    var x   := 0
+    var count := n
+    enquanto count <> 0 faça
+        x := count mod 10
+        count := (count / 10).inteiro
+
+        se x > d então
+            resultado := resultado + (count + 1) * potencia
+        senão
+            resultado := resultado + count * potencia
+        fim
+
+        se x == d então
+            resultado := resultado + resto + 1
+        fim
+
+        se d == 0 então
+            resultado := resultado - potencia
+        fim
+
+        resto := resto + potencia * x
+
+        potencia := potencia * 10
+
+    fim
+
+    retorne resultado
+fim
+
+enquanto a <> 0 e b <> 0 faça
+
+    escreva para i de 0 até 9 gere "{digitos(b, i) - digitos(a-1, i)}" fim.junte(" ")
+
+    valores := leia_inteiros(" ")
+    a, b := valores[1], valores[2]
+fim
