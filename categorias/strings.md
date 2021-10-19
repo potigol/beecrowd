@@ -1,4 +1,4 @@
-# Strings (60 / 145)
+# Strings (61 / 145)
 
 
 
@@ -20,6 +20,7 @@
   - [x]  [1263](https://www.urionlinejudge.com.br/judge/pt/problems/view/1263) - [Aliteração](https://github.com/potigol/uoj-potigol/blob/master/src/1200/1263.poti)
   - [x]  [1272](https://www.urionlinejudge.com.br/judge/pt/problems/view/1272) - [Mensagem Oculta](https://github.com/potigol/uoj-potigol/blob/master/src/1200/1272.poti)
   - [x]  [1273](https://www.urionlinejudge.com.br/judge/pt/problems/view/1273) - [Justificador](https://github.com/potigol/uoj-potigol/blob/master/src/1200/1273.poti)
+  - [x]  [1276](https://www.urionlinejudge.com.br/judge/pt/problems/view/1276) - [Faixa de Letras](https://github.com/potigol/uoj-potigol/blob/master/src/1200/1276.poti)
   - [x]  [1278](https://www.urionlinejudge.com.br/judge/pt/problems/view/1278) - [Justificador II](https://github.com/potigol/uoj-potigol/blob/master/src/1200/1278.poti)
   - [x]  [1332](https://www.urionlinejudge.com.br/judge/pt/problems/view/1332) - [Um-Dois-Três](https://github.com/potigol/uoj-potigol/blob/master/src/1300/1332.poti)
   - [x]  [1516](https://www.urionlinejudge.com.br/judge/pt/problems/view/1516) - [Imagem](https://github.com/potigol/uoj-potigol/blob/master/src/1500/1516.poti)
@@ -72,7 +73,6 @@
   - [ ]  [1243](https://www.urionlinejudge.com.br/judge/pt/problems/view/1243) - O Quão Fácil é...
   - [ ]  [1248](https://www.urionlinejudge.com.br/judge/pt/problems/view/1248) - Plano de Dieta
   - [ ]  [1254](https://www.urionlinejudge.com.br/judge/pt/problems/view/1254) - Substituição de Tag
-  - [ ]  [1276](https://www.urionlinejudge.com.br/judge/pt/problems/view/1276) - Faixa de Letras
   - [ ]  [1277](https://www.urionlinejudge.com.br/judge/pt/problems/view/1277) - Pouca Frequência
   - [ ]  [1284](https://www.urionlinejudge.com.br/judge/pt/problems/view/1284) - Digitando no Telefone Celular
   - [ ]  [1287](https://www.urionlinejudge.com.br/judge/pt/problems/view/1287) - Processador Amigável de Inteiros

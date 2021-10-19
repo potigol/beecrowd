@@ -1,4 +1,4 @@
-# Problemas 1200 (28%)
+# Problemas 1200 (29%)
 
   - [ ]  [1200](https://www.urionlinejudge.com.br/judge/pt/problems/view/1200) - Operações em ABP I *Grafos*
   - [ ]  [1201](https://www.urionlinejudge.com.br/judge/pt/problems/view/1201) - Operações em ABP II *Grafos*
@@ -76,7 +76,7 @@
   - [x]  [1273](https://www.urionlinejudge.com.br/judge/pt/problems/view/1273) - [Justificador](https://github.com/potigol/uoj-potigol/blob/master/src/1200/1273.poti) *Strings*
   - [ ]  [1274](https://www.urionlinejudge.com.br/judge/pt/problems/view/1274) - P-Networks *Estruturas e Bibliotecas*
   - [ ]  [1275](https://www.urionlinejudge.com.br/judge/pt/problems/view/1275) - Light Up *Grafos*
-  - [ ]  [1276](https://www.urionlinejudge.com.br/judge/pt/problems/view/1276) - Faixa de Letras *Strings*
+  - [x]  [1276](https://www.urionlinejudge.com.br/judge/pt/problems/view/1276) - [Faixa de Letras](https://github.com/potigol/uoj-potigol/blob/master/src/1200/1276.poti) *Strings*
   - [ ]  [1277](https://www.urionlinejudge.com.br/judge/pt/problems/view/1277) - Pouca Frequência *Strings*
   - [x]  [1278](https://www.urionlinejudge.com.br/judge/pt/problems/view/1278) - [Justificador II](https://github.com/potigol/uoj-potigol/blob/master/src/1200/1278.poti) *Strings*
   - [ ]  [1279](https://www.urionlinejudge.com.br/judge/pt/problems/view/1279) - Ano Bissexto ou Ano não Bissexto *Matemática*
