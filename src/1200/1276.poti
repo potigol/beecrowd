@@ -1,9 +1,9 @@
 var linha := leia_texto
 enquanto nao eof faca
-  faixas = linha.selecione(_ <> ' ')
-                .ordene
-                .divida_quando((a,b) => b - a > 1)
+  faixas = linha.ordene
+                .divida_quando((a, b) => b - a > 1)
                 .mapeie(a => "{a[1]}:{a[-1]}")
+                .descarte_enquanto(_ == " : ")
   escreva faixas.junte(", ")
   linha := leia_texto
 fim
