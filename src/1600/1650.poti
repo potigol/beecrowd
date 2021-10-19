@@ -1,0 +1,6 @@
+var entrada := leia_inteiros(" ")
+enquanto entrada[1] > 0 faça
+  n, m, c = entrada[1], entrada[2], entrada[3]
+  escreva ((n - 7) * (m - 7) + c) div 2
+  entrada := leia_inteiros(" ")
+fim
