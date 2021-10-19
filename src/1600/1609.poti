@@ -1,0 +1,6 @@
+t = leia_inteiro
+para i de 1 até t faça
+  n = leia_inteiro
+  l = leia_inteiros(" ")
+  escreva l.ordene.divida_quando(_ <> _).tamanho
+fim
