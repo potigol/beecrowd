@@ -1,7 +1,7 @@
 # Soluções dos Problemas do URI Online Judge - Potigol
 
 [![Join the chat at https://gitter.im/potigol/Potigol](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/potigol/Potigol?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-[![Follow us](https://img.shields.io/twitter/follow/potigol.svg?style=social)](http://twitter.com/potigol)+
+[![Follow us](https://img.shields.io/twitter/follow/potigol.svg?style=social)](http://twitter.com/potigol)
 [![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/potigol/uoj-potigol)
 [![Soluções](https://img.shields.io/badge/Problemas%20Resolvidos-601-blue)](https://github.com/potigol/URI-Potigol/commits/master)
 

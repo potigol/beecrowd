@@ -1,0 +1,14 @@
+var n := leia_inteiro
+enquanto n > 0 faça
+  var a := 0
+  enquanto n > 1 faça
+    se n mod 3 == 0 então
+      n := n div 3
+    senão
+      n := n div 3 + 1
+    fim
+    a := a + n
+  fim
+  escreva a
+  n := leia_inteiro
+fim
