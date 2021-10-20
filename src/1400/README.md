@@ -1,4 +1,4 @@
-# Problemas 1400 (10%)
+# Problemas 1400 (11%)
 
   - [ ]  [1400](https://www.urionlinejudge.com.br/judge/pt/problems/view/1400) - Jogo - Contando *Matemática*
   - [ ]  [1401](https://www.urionlinejudge.com.br/judge/pt/problems/view/1401) - Gerando Permutações Ordenadas Rapidamente *Estruturas e Bibliotecas*
@@ -44,7 +44,7 @@
   - [x]  [1441](https://www.urionlinejudge.com.br/judge/pt/problems/view/1441) - [Sequências de Granizo](https://github.com/potigol/uoj-potigol/blob/master/src/1400/1441.poti) *Ad-Hoc*
   - [ ]  [1442](https://www.urionlinejudge.com.br/judge/pt/problems/view/1442) - Desvio de Rua *Grafos*
   - [ ]  [1443](https://www.urionlinejudge.com.br/judge/pt/problems/view/1443) - Engarrafamento *Ad-Hoc*
-  - [ ]  [1444](https://www.urionlinejudge.com.br/judge/pt/problems/view/1444) - Corrida dos Marrecos *Matemática*
+  - [x]  [1444](https://www.urionlinejudge.com.br/judge/pt/problems/view/1444) - [Corrida dos Marrecos](https://github.com/potigol/uoj-potigol/blob/master/src/1400/1444.poti) *Matemática*
   - [ ]  [1445](https://www.urionlinejudge.com.br/judge/pt/problems/view/1445) - Quem Vai à Festa? *Grafos*
   - [ ]  [1446](https://www.urionlinejudge.com.br/judge/pt/problems/view/1446) - Diagrama de Venn? *Geometria Computacional*
   - [ ]  [1447](https://www.urionlinejudge.com.br/judge/pt/problems/view/1447) - Back to the Future *Grafos*

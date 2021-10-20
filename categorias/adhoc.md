@@ -1,4 +1,4 @@
-# Ad-Hoc (140 / 729)
+# Ad-Hoc (142 / 729)
 
 
 
@@ -38,11 +38,13 @@
   - [x]  [1553](https://www.urionlinejudge.com.br/judge/pt/problems/view/1553) - [Perguntas mais Frequentes](https://github.com/potigol/uoj-potigol/blob/master/src/1500/1553.poti)
   - [x]  [1558](https://www.urionlinejudge.com.br/judge/pt/problems/view/1558) - [Soma de Dois Quadrados](https://github.com/potigol/uoj-potigol/blob/master/src/1500/1558.poti)
   - [x]  [1573](https://www.urionlinejudge.com.br/judge/pt/problems/view/1573) - [Fábrica de Chocolate](https://github.com/potigol/uoj-potigol/blob/master/src/1500/1573.poti)
+  - [x]  [1609](https://www.urionlinejudge.com.br/judge/pt/problems/view/1609) - [Contando Carneirinhos](https://github.com/potigol/uoj-potigol/blob/master/src/1600/1609.poti)
   - [x]  [1708](https://www.urionlinejudge.com.br/judge/pt/problems/view/1708) - [Volta](https://github.com/potigol/uoj-potigol/blob/master/src/1700/1708.poti)
   - [x]  [1743](https://www.urionlinejudge.com.br/judge/pt/problems/view/1743) - [Máquina de Verificação Automatizada](https://github.com/potigol/uoj-potigol/blob/master/src/1700/1743.poti)
   - [x]  [1793](https://www.urionlinejudge.com.br/judge/pt/problems/view/1793) - [Escada Rolante](https://github.com/potigol/uoj-potigol/blob/master/src/1700/1793.poti)
   - [x]  [1794](https://www.urionlinejudge.com.br/judge/pt/problems/view/1794) - [Lavanderia](https://github.com/potigol/uoj-potigol/blob/master/src/1700/1794.poti)
   - [x]  [1796](https://www.urionlinejudge.com.br/judge/pt/problems/view/1796) - [Economia Brasileira](https://github.com/potigol/uoj-potigol/blob/master/src/1700/1796.poti)
+  - [x]  [1802](https://www.urionlinejudge.com.br/judge/pt/problems/view/1802) - [Catálogo de Livros](https://github.com/potigol/uoj-potigol/blob/master/src/1800/1802.poti)
   - [x]  [1867](https://www.urionlinejudge.com.br/judge/pt/problems/view/1867) - [Maior Número de Um Algarismo](https://github.com/potigol/uoj-potigol/blob/master/src/1800/1867.poti)
   - [x]  [1876](https://www.urionlinejudge.com.br/judge/pt/problems/view/1876) - [Rabiola](https://github.com/potigol/uoj-potigol/blob/master/src/1800/1876.poti)
   - [x]  [1877](https://www.urionlinejudge.com.br/judge/pt/problems/view/1877) - [O Castelo de Neve de Sansa](https://github.com/potigol/uoj-potigol/blob/master/src/1800/1877.poti)
@@ -239,7 +241,6 @@
   - [ ]  [1588](https://www.urionlinejudge.com.br/judge/pt/problems/view/1588) - Ajude a Federação
   - [ ]  [1591](https://www.urionlinejudge.com.br/judge/pt/problems/view/1591) - Dia da Vovó
   - [ ]  [1593](https://www.urionlinejudge.com.br/judge/pt/problems/view/1593) - Função Binária
-  - [ ]  [1609](https://www.urionlinejudge.com.br/judge/pt/problems/view/1609) - Contando Carneirinhos
   - [ ]  [1612](https://www.urionlinejudge.com.br/judge/pt/problems/view/1612) - Formiguinha
   - [ ]  [1615](https://www.urionlinejudge.com.br/judge/pt/problems/view/1615) - Insatisfação nas Eleições
   - [ ]  [1618](https://www.urionlinejudge.com.br/judge/pt/problems/view/1618) - Colisão
@@ -286,7 +287,6 @@
   - [ ]  [1787](https://www.urionlinejudge.com.br/judge/pt/problems/view/1787) - URI
   - [ ]  [1791](https://www.urionlinejudge.com.br/judge/pt/problems/view/1791) - Descobrindo uma Matriz
   - [ ]  [1800](https://www.urionlinejudge.com.br/judge/pt/problems/view/1800) - Onde Estão Minhas Chaves
-  - [ ]  [1802](https://www.urionlinejudge.com.br/judge/pt/problems/view/1802) - Catálogo de Livros
   - [ ]  [1808](https://www.urionlinejudge.com.br/judge/pt/problems/view/1808) - O Retorno do Rei
   - [ ]  [1809](https://www.urionlinejudge.com.br/judge/pt/problems/view/1809) - Agentes Secretos
   - [ ]  [1811](https://www.urionlinejudge.com.br/judge/pt/problems/view/1811) - O Óscar Vai Para...

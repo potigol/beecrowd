@@ -1,4 +1,4 @@
-# Matemática (56 / 268)
+# Matemática (59 / 268)
 
 
 
@@ -22,11 +22,13 @@
   - [x]  [1393](https://www.urionlinejudge.com.br/judge/pt/problems/view/1393) - [Lajotas Hexagonais](https://github.com/potigol/uoj-potigol/blob/master/src/1300/1393.poti)
   - [x]  [1429](https://www.urionlinejudge.com.br/judge/pt/problems/view/1429) - [Fatorial de Novo!](https://github.com/potigol/uoj-potigol/blob/master/src/1400/1429.poti)
   - [x]  [1436](https://www.urionlinejudge.com.br/judge/pt/problems/view/1436) - [Jogo do Tijolo](https://github.com/potigol/uoj-potigol/blob/master/src/1400/1436.poti)
+  - [x]  [1444](https://www.urionlinejudge.com.br/judge/pt/problems/view/1444) - [Corrida dos Marrecos](https://github.com/potigol/uoj-potigol/blob/master/src/1400/1444.poti)
   - [x]  [1457](https://www.urionlinejudge.com.br/judge/pt/problems/view/1457) - [Oráculo de Alexandria](https://github.com/potigol/uoj-potigol/blob/master/src/1400/1457.poti)
   - [x]  [1555](https://www.urionlinejudge.com.br/judge/pt/problems/view/1555) - [Funções](https://github.com/potigol/uoj-potigol/blob/master/src/1500/1555.poti)
   - [x]  [1582](https://www.urionlinejudge.com.br/judge/pt/problems/view/1582) - [O Teorema de Pitágoras](https://github.com/potigol/uoj-potigol/blob/master/src/1500/1582.poti)
   - [x]  [1585](https://www.urionlinejudge.com.br/judge/pt/problems/view/1585) - [Fazendo Pandorgas](https://github.com/potigol/uoj-potigol/blob/master/src/1500/1585.poti)
   - [x]  [1630](https://www.urionlinejudge.com.br/judge/pt/problems/view/1630) - [Estacas](https://github.com/potigol/uoj-potigol/blob/master/src/1600/1630.poti)
+  - [x]  [1650](https://www.urionlinejudge.com.br/judge/pt/problems/view/1650) - [Pintura Preto e Branco](https://github.com/potigol/uoj-potigol/blob/master/src/1600/1650.poti)
   - [x]  [1760](https://www.urionlinejudge.com.br/judge/pt/problems/view/1760) - [Floco de Neve de Koch](https://github.com/potigol/uoj-potigol/blob/master/src/1700/1760.poti)
   - [x]  [1761](https://www.urionlinejudge.com.br/judge/pt/problems/view/1761) - [Decoração Natalina](https://github.com/potigol/uoj-potigol/blob/master/src/1700/1761.poti)
   - [x]  [1795](https://www.urionlinejudge.com.br/judge/pt/problems/view/1795) - [Triângulo Trinomial](https://github.com/potigol/uoj-potigol/blob/master/src/1700/1795.poti)
@@ -34,6 +36,7 @@
   - [x]  [1869](https://www.urionlinejudge.com.br/judge/pt/problems/view/1869) - [Base 32](https://github.com/potigol/uoj-potigol/blob/master/src/1800/1869.poti)
   - [x]  [1921](https://www.urionlinejudge.com.br/judge/pt/problems/view/1921) - [Guilherme e Suas Pipas](https://github.com/potigol/uoj-potigol/blob/master/src/1900/1921.poti)
   - [x]  [2044](https://www.urionlinejudge.com.br/judge/pt/problems/view/2044) - [Em Dívida](https://github.com/potigol/uoj-potigol/blob/master/src/2000/2044.poti)
+  - [x]  [2066](https://www.urionlinejudge.com.br/judge/pt/problems/view/2066) - [amelborP mU](https://github.com/potigol/uoj-potigol/blob/master/src/2000/2066.poti)
   - [x]  [2218](https://www.urionlinejudge.com.br/judge/pt/problems/view/2218) - [O Temível Evil-Son](https://github.com/potigol/uoj-potigol/blob/master/src/2200/2218.poti)
   - [x]  [2232](https://www.urionlinejudge.com.br/judge/pt/problems/view/2232) - [Triângulo de Pascal](https://github.com/potigol/uoj-potigol/blob/master/src/2200/2232.poti)
   - [x]  [2238](https://www.urionlinejudge.com.br/judge/pt/problems/view/2238) - [Divisores](https://github.com/potigol/uoj-potigol/blob/master/src/2200/2238.poti)
@@ -100,7 +103,6 @@
   - [ ]  [1422](https://www.urionlinejudge.com.br/judge/pt/problems/view/1422) - Bactérias
   - [ ]  [1433](https://www.urionlinejudge.com.br/judge/pt/problems/view/1433) - O Clube da Divisão
   - [ ]  [1434](https://www.urionlinejudge.com.br/judge/pt/problems/view/1434) - Patrulheiros Romanos
-  - [ ]  [1444](https://www.urionlinejudge.com.br/judge/pt/problems/view/1444) - Corrida dos Marrecos
   - [ ]  [1450](https://www.urionlinejudge.com.br/judge/pt/problems/view/1450) - Os Joguinhos de Ramsés
   - [ ]  [1465](https://www.urionlinejudge.com.br/judge/pt/problems/view/1465) - Complexo, Difícil e Complicado
   - [ ]  [1481](https://www.urionlinejudge.com.br/judge/pt/problems/view/1481) - A Fazenda de Ostras de Zing Zhu
@@ -132,7 +134,6 @@
   - [ ]  [1641](https://www.urionlinejudge.com.br/judge/pt/problems/view/1641) - Restaurante e Pizzaria do Alfredo
   - [ ]  [1644](https://www.urionlinejudge.com.br/judge/pt/problems/view/1644) - Decifre o Texto
   - [ ]  [1647](https://www.urionlinejudge.com.br/judge/pt/problems/view/1647) - Um Jogo com Bolas de Gude
-  - [ ]  [1650](https://www.urionlinejudge.com.br/judge/pt/problems/view/1650) - Pintura Preto e Branco
   - [ ]  [1656](https://www.urionlinejudge.com.br/judge/pt/problems/view/1656) - Doces do Dia das Bruxas
   - [ ]  [1658](https://www.urionlinejudge.com.br/judge/pt/problems/view/1658) - Grupos Diedro
   - [ ]  [1660](https://www.urionlinejudge.com.br/judge/pt/problems/view/1660) - Flavius Josephus Está de Volta
@@ -183,7 +184,6 @@
   - [ ]  [2033](https://www.urionlinejudge.com.br/judge/pt/problems/view/2033) - Juros Sobre o Empréstimo
   - [ ]  [2034](https://www.urionlinejudge.com.br/judge/pt/problems/view/2034) - Cantor
   - [ ]  [2063](https://www.urionlinejudge.com.br/judge/pt/problems/view/2063) - Caçando Digletts
-  - [ ]  [2066](https://www.urionlinejudge.com.br/judge/pt/problems/view/2066) - amelborP mU
   - [ ]  [2068](https://www.urionlinejudge.com.br/judge/pt/problems/view/2068) - Marcando um Encontro
   - [ ]  [2069](https://www.urionlinejudge.com.br/judge/pt/problems/view/2069) - A Mesa Quadrada de Inês Venezuela
   - [ ]  [2076](https://www.urionlinejudge.com.br/judge/pt/problems/view/2076) - Alocação Ótima de Commodities

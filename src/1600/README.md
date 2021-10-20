@@ -1,4 +1,4 @@
-# Problemas 1600 (3%)
+# Problemas 1600 (5%)
 
   - [ ]  [1600](https://www.urionlinejudge.com.br/judge/pt/problems/view/1600) - O Gato do Zelador do Armazém *Paradigmas*
   - [ ]  [1601](https://www.urionlinejudge.com.br/judge/pt/problems/view/1601) - Partição do Rebanho *Paradigmas*
@@ -9,7 +9,7 @@
   - [ ]  [1606](https://www.urionlinejudge.com.br/judge/pt/problems/view/1606) - As Dicas de Ali Babá *Paradigmas*
   - [x]  [1607](https://www.urionlinejudge.com.br/judge/pt/problems/view/1607) - [Avance as Letras](https://github.com/potigol/uoj-potigol/blob/master/src/1600/1607.poti) *Strings*
   - [ ]  [1608](https://www.urionlinejudge.com.br/judge/pt/problems/view/1608) - Bolos da Maria *Paradigmas*
-  - [ ]  [1609](https://www.urionlinejudge.com.br/judge/pt/problems/view/1609) - Contando Carneirinhos *Ad-Hoc*
+  - [x]  [1609](https://www.urionlinejudge.com.br/judge/pt/problems/view/1609) - [Contando Carneirinhos](https://github.com/potigol/uoj-potigol/blob/master/src/1600/1609.poti) *Ad-Hoc*
   - [ ]  [1610](https://www.urionlinejudge.com.br/judge/pt/problems/view/1610) - Dudu Faz Serviço *Grafos*
   - [ ]  [1611](https://www.urionlinejudge.com.br/judge/pt/problems/view/1611) - Elevador Lotado *Paradigmas*
   - [ ]  [1612](https://www.urionlinejudge.com.br/judge/pt/problems/view/1612) - Formiguinha *Ad-Hoc*
@@ -50,7 +50,7 @@
   - [ ]  [1647](https://www.urionlinejudge.com.br/judge/pt/problems/view/1647) - Um Jogo com Bolas de Gude *Matemática*
   - [ ]  [1648](https://www.urionlinejudge.com.br/judge/pt/problems/view/1648) - Ajude Bob *Paradigmas*
   - [ ]  [1649](https://www.urionlinejudge.com.br/judge/pt/problems/view/1649) - Ferramenta Irritante de Pintura *Paradigmas*
-  - [ ]  [1650](https://www.urionlinejudge.com.br/judge/pt/problems/view/1650) - Pintura Preto e Branco *Matemática*
+  - [x]  [1650](https://www.urionlinejudge.com.br/judge/pt/problems/view/1650) - [Pintura Preto e Branco](https://github.com/potigol/uoj-potigol/blob/master/src/1600/1650.poti) *Matemática*
   - [ ]  [1651](https://www.urionlinejudge.com.br/judge/pt/problems/view/1651) - Cilindro *Geometria Computacional*
   - [ ]  [1652](https://www.urionlinejudge.com.br/judge/pt/problems/view/1652) - Deli Deli *Ad-Hoc*
   - [ ]  [1653](https://www.urionlinejudge.com.br/judge/pt/problems/view/1653) - Expressões *Grafos*

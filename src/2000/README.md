@@ -1,4 +1,4 @@
-# Problemas 2000 (14%)
+# Problemas 2000 (15%)
 
   - [ ]  [2000](https://www.urionlinejudge.com.br/judge/pt/problems/view/2000) - Adeildo da Odonto *Strings*
   - [ ]  [2001](https://www.urionlinejudge.com.br/judge/pt/problems/view/2001) - Bile *Matemática*
@@ -66,7 +66,7 @@
   - [ ]  [2063](https://www.urionlinejudge.com.br/judge/pt/problems/view/2063) - Caçando Digletts *Matemática*
   - [ ]  [2064](https://www.urionlinejudge.com.br/judge/pt/problems/view/2064) - Prant e a Indecisão *Estruturas e Bibliotecas*
   - [ ]  [2065](https://www.urionlinejudge.com.br/judge/pt/problems/view/2065) - Fila do Supermercado *Estruturas e Bibliotecas*
-  - [ ]  [2066](https://www.urionlinejudge.com.br/judge/pt/problems/view/2066) - amelborP mU *Matemática*
+  - [x]  [2066](https://www.urionlinejudge.com.br/judge/pt/problems/view/2066) - [amelborP mU](https://github.com/potigol/uoj-potigol/blob/master/src/2000/2066.poti) *Matemática*
   - [ ]  [2067](https://www.urionlinejudge.com.br/judge/pt/problems/view/2067) - Jogo do Quadrado *Estruturas e Bibliotecas*
   - [ ]  [2068](https://www.urionlinejudge.com.br/judge/pt/problems/view/2068) - Marcando um Encontro *Matemática*
   - [ ]  [2069](https://www.urionlinejudge.com.br/judge/pt/problems/view/2069) - A Mesa Quadrada de Inês Venezuela *Matemática*
