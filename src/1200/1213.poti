@@ -1,0 +1,10 @@
+var n := leia_inteiro
+enquanto n > 0 faça
+  var i, aux := 1
+  enquanto i mod n <> 0 faça
+    i := (i * 10 + 1) mod n
+    aux := aux + 1
+  fim
+  escreva aux
+  n := leia_inteiro
+fim

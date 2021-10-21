@@ -1,4 +1,4 @@
-# Ad-Hoc (142 / 729)
+# Ad-Hoc (141 / 729)
 
 
 
@@ -44,7 +44,6 @@
   - [x]  [1793](https://www.urionlinejudge.com.br/judge/pt/problems/view/1793) - [Escada Rolante](https://github.com/potigol/uoj-potigol/blob/master/src/1700/1793.poti)
   - [x]  [1794](https://www.urionlinejudge.com.br/judge/pt/problems/view/1794) - [Lavanderia](https://github.com/potigol/uoj-potigol/blob/master/src/1700/1794.poti)
   - [x]  [1796](https://www.urionlinejudge.com.br/judge/pt/problems/view/1796) - [Economia Brasileira](https://github.com/potigol/uoj-potigol/blob/master/src/1700/1796.poti)
-  - [x]  [1802](https://www.urionlinejudge.com.br/judge/pt/problems/view/1802) - [Catálogo de Livros](https://github.com/potigol/uoj-potigol/blob/master/src/1800/1802.poti)
   - [x]  [1867](https://www.urionlinejudge.com.br/judge/pt/problems/view/1867) - [Maior Número de Um Algarismo](https://github.com/potigol/uoj-potigol/blob/master/src/1800/1867.poti)
   - [x]  [1876](https://www.urionlinejudge.com.br/judge/pt/problems/view/1876) - [Rabiola](https://github.com/potigol/uoj-potigol/blob/master/src/1800/1876.poti)
   - [x]  [1877](https://www.urionlinejudge.com.br/judge/pt/problems/view/1877) - [O Castelo de Neve de Sansa](https://github.com/potigol/uoj-potigol/blob/master/src/1800/1877.poti)
@@ -287,6 +286,7 @@
   - [ ]  [1787](https://www.urionlinejudge.com.br/judge/pt/problems/view/1787) - URI
   - [ ]  [1791](https://www.urionlinejudge.com.br/judge/pt/problems/view/1791) - Descobrindo uma Matriz
   - [ ]  [1800](https://www.urionlinejudge.com.br/judge/pt/problems/view/1800) - Onde Estão Minhas Chaves
+  - [ ]  [1802](https://www.urionlinejudge.com.br/judge/pt/problems/view/1802) - Catálogo de Livros
   - [ ]  [1808](https://www.urionlinejudge.com.br/judge/pt/problems/view/1808) - O Retorno do Rei
   - [ ]  [1809](https://www.urionlinejudge.com.br/judge/pt/problems/view/1809) - Agentes Secretos
   - [ ]  [1811](https://www.urionlinejudge.com.br/judge/pt/problems/view/1811) - O Óscar Vai Para...

@@ -1,4 +1,4 @@
-# Matemática (59 / 268)
+# Matemática (60 / 268)
 
 
 
@@ -13,6 +13,7 @@
   - [x]  [1197](https://www.urionlinejudge.com.br/judge/pt/problems/view/1197) - [Volta à Faculdade de Física](https://github.com/potigol/uoj-potigol/blob/master/src/1100/1197.poti)
   - [x]  [1198](https://www.urionlinejudge.com.br/judge/pt/problems/view/1198) - [O Bravo Guerreiro Hashmat](https://github.com/potigol/uoj-potigol/blob/master/src/1100/1198.poti)
   - [x]  [1212](https://www.urionlinejudge.com.br/judge/pt/problems/view/1212) - [Aritmética Primária](https://github.com/potigol/uoj-potigol/blob/master/src/1200/1212.poti)
+  - [x]  [1213](https://www.urionlinejudge.com.br/judge/pt/problems/view/1213) - [Ones](https://github.com/potigol/uoj-potigol/blob/master/src/1200/1213.poti)
   - [x]  [1214](https://www.urionlinejudge.com.br/judge/pt/problems/view/1214) - [Acima da Média](https://github.com/potigol/uoj-potigol/blob/master/src/1200/1214.poti)
   - [x]  [1221](https://www.urionlinejudge.com.br/judge/pt/problems/view/1221) - [Primo Rápido](https://github.com/potigol/uoj-potigol/blob/master/src/1200/1221.poti)
   - [x]  [1240](https://www.urionlinejudge.com.br/judge/pt/problems/view/1240) - [Encaixa ou Não I](https://github.com/potigol/uoj-potigol/blob/master/src/1200/1240.poti)
@@ -70,7 +71,6 @@
   - [ ]  [1193](https://www.urionlinejudge.com.br/judge/pt/problems/view/1193) - Conversão entre Bases
   - [ ]  [1199](https://www.urionlinejudge.com.br/judge/pt/problems/view/1199) - Conversão Simples de Base
   - [ ]  [1202](https://www.urionlinejudge.com.br/judge/pt/problems/view/1202) - Festival das Noites Brancas
-  - [ ]  [1213](https://www.urionlinejudge.com.br/judge/pt/problems/view/1213) - Ones
   - [ ]  [1219](https://www.urionlinejudge.com.br/judge/pt/problems/view/1219) - Flores Coloridas
   - [ ]  [1220](https://www.urionlinejudge.com.br/judge/pt/problems/view/1220) - A Viagem
   - [ ]  [1230](https://www.urionlinejudge.com.br/judge/pt/problems/view/1230) - Integral
