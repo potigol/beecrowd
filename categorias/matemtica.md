@@ -1,4 +1,4 @@
-# Matemática (60 / 268)
+# Matemática (60 / 269)
 
 
 
@@ -275,3 +275,4 @@
   - [ ]  [3339](https://www.urionlinejudge.com.br/judge/pt/problems/view/3339) - Carina
   - [ ]  [3341](https://www.urionlinejudge.com.br/judge/pt/problems/view/3341) - Grandmaster do Jogo do Caneco
   - [ ]  [3345](https://www.urionlinejudge.com.br/judge/pt/problems/view/3345) - O Passatempo de Ferdinacci
+  - [ ]  [3354](https://www.urionlinejudge.com.br/judge/pt/problems/view/3354) - Joãozinho Vem Para o Sul

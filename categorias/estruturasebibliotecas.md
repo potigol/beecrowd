@@ -1,4 +1,4 @@
-# Estruturas e Bibliotecas (26 / 178)
+# Estruturas e Bibliotecas (26 / 179)
 
 
 
@@ -185,3 +185,4 @@
   - [ ]  [3210](https://www.urionlinejudge.com.br/judge/pt/problems/view/3210) - O Pior Clima de Todos
   - [ ]  [3239](https://www.urionlinejudge.com.br/judge/pt/problems/view/3239) - Dirty Driving
   - [ ]  [3248](https://www.urionlinejudge.com.br/judge/pt/problems/view/3248) - Mega Inversões
+  - [ ]  [3357](https://www.urionlinejudge.com.br/judge/pt/problems/view/3357) - Rico do Mate

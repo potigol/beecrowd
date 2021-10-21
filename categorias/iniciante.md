@@ -1,4 +1,4 @@
-# Iniciante (308 / 332)
+# Iniciante (308 / 333)
 
 
 
@@ -339,3 +339,4 @@
   - [ ]  [3267](https://www.urionlinejudge.com.br/judge/pt/problems/view/3267) - Passeio no Penhasco
   - [ ]  [3306](https://www.urionlinejudge.com.br/judge/pt/problems/view/3306) - Consulta e Alteração
   - [ ]  [3343](https://www.urionlinejudge.com.br/judge/pt/problems/view/3343) - Attack On Gasparini
+  - [ ]  [3346](https://www.urionlinejudge.com.br/judge/pt/problems/view/3346) - Flutuação do PIB

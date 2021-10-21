@@ -1,4 +1,4 @@
-# Paradigmas (3 / 214)
+# Paradigmas (3 / 215)
 
 
 
@@ -221,3 +221,4 @@
   - [ ]  [3251](https://www.urionlinejudge.com.br/judge/pt/problems/view/3251) - ls
   - [ ]  [3274](https://www.urionlinejudge.com.br/judge/pt/problems/view/3274) - Excursão
   - [ ]  [3277](https://www.urionlinejudge.com.br/judge/pt/problems/view/3277) - Trabalho na Estrada
+  - [ ]  [3349](https://www.urionlinejudge.com.br/judge/pt/problems/view/3349) - Armadura

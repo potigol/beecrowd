@@ -2266,3 +2266,14 @@
 3343	Attack On Gasparini	Iniciante
 3344	Brute	Iniciante
 3345	O Passatempo de Ferdinacci	Matemática
+3346	Flutuação do PIB	Iniciante
+3347	Ancestralidade	Strings
+3349	Armadura	Paradigmas
+3351	Clickbait	Ad-Hoc
+3352	Fuja comigo, Galileu!	Geometria Computacional
+3353	Araucárias e a Gralha Azul de Três Olhos	Strings
+3354	Joãozinho Vem Para o Sul	Matemática
+3355	Pinhões no Xadrez	Ad-Hoc
+3356	Reprodução Controlada	Grafos
+3357	Rico do Mate	Estruturas e Bibliotecas
+3358	Sobrenome Não é Fácil	Strings

@@ -1,4 +1,4 @@
-# Strings (61 / 145)
+# Strings (61 / 148)
 
 
 
@@ -152,3 +152,6 @@
   - [ ]  [3262](https://www.urionlinejudge.com.br/judge/pt/problems/view/3262) - Timebomb
   - [ ]  [3275](https://www.urionlinejudge.com.br/judge/pt/problems/view/3275) - Foto de Relógios
   - [ ]  [3310](https://www.urionlinejudge.com.br/judge/pt/problems/view/3310) - Gravity Boy
+  - [ ]  [3347](https://www.urionlinejudge.com.br/judge/pt/problems/view/3347) - Ancestralidade
+  - [ ]  [3353](https://www.urionlinejudge.com.br/judge/pt/problems/view/3353) - Araucárias e a Gralha Azul de Três Olhos
+  - [ ]  [3358](https://www.urionlinejudge.com.br/judge/pt/problems/view/3358) - Sobrenome Não é Fácil

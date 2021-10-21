@@ -122,7 +122,10 @@ def listaCategoria(problems: Map[Int, Problem], path: String = "../categorias/")
     save(s"${path}${clean(d)}.md", s"${d} (${resolvidos.length} / ${bd.length})", h)
 
 def save(problems: Map[Int, Problem], files: String*) = {
-  val contest = files.map(getContest).foldLeft(Map[Int, List[Int]]())(_ ++ _).values.flatten
+  val contest = files.map(getContest)
+                     .foldLeft(Map[Int, List[Int]]())(_ ++ _)
+                     .values
+                     .flatten
   for n <- contest; p <- problems.get(n) yield (n -> p)
 }.toMap
 

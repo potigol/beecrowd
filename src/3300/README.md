@@ -1,4 +1,4 @@
-# Problemas 3300 (47%)
+# Problemas 3300 (32%)
 
   - [x]  [3300](https://www.urionlinejudge.com.br/judge/pt/problems/view/3300) - [Números Má Sorte Recarregados](https://github.com/potigol/uoj-potigol/blob/master/src/3300/3300.poti) *Strings*
   - [x]  [3301](https://www.urionlinejudge.com.br/judge/pt/problems/view/3301) - [Sobrinho do Meio](https://github.com/potigol/uoj-potigol/blob/master/src/3300/3301.poti) *Iniciante*
@@ -46,19 +46,19 @@
   - [ ]  [3343](https://www.urionlinejudge.com.br/judge/pt/problems/view/3343) - Attack On Gasparini *Iniciante*
   - [x]  [3344](https://www.urionlinejudge.com.br/judge/pt/problems/view/3344) - [Brute](https://github.com/potigol/uoj-potigol/blob/master/src/3300/3344.poti) *Iniciante*
   - [ ]  [3345](https://www.urionlinejudge.com.br/judge/pt/problems/view/3345) - O Passatempo de Ferdinacci *Matemática*
+  - [ ]  [3346](https://www.urionlinejudge.com.br/judge/pt/problems/view/3346) - Flutuação do PIB *Iniciante*
+  - [ ]  [3347](https://www.urionlinejudge.com.br/judge/pt/problems/view/3347) - Ancestralidade *Strings*
   - [ ] ~~xxxx~~
+  - [ ]  [3349](https://www.urionlinejudge.com.br/judge/pt/problems/view/3349) - Armadura *Paradigmas*
   - [ ] ~~xxxx~~
-  - [ ] ~~xxxx~~
-  - [ ] ~~xxxx~~
-  - [ ] ~~xxxx~~
-  - [ ] ~~xxxx~~
-  - [ ] ~~xxxx~~
-  - [ ] ~~xxxx~~
-  - [ ] ~~xxxx~~
-  - [ ] ~~xxxx~~
-  - [ ] ~~xxxx~~
-  - [ ] ~~xxxx~~
-  - [ ] ~~xxxx~~
+  - [ ]  [3351](https://www.urionlinejudge.com.br/judge/pt/problems/view/3351) - Clickbait *Ad-Hoc*
+  - [ ]  [3352](https://www.urionlinejudge.com.br/judge/pt/problems/view/3352) - Fuja comigo, Galileu! *Geometria Computacional*
+  - [ ]  [3353](https://www.urionlinejudge.com.br/judge/pt/problems/view/3353) - Araucárias e a Gralha Azul de Três Olhos *Strings*
+  - [ ]  [3354](https://www.urionlinejudge.com.br/judge/pt/problems/view/3354) - Joãozinho Vem Para o Sul *Matemática*
+  - [ ]  [3355](https://www.urionlinejudge.com.br/judge/pt/problems/view/3355) - Pinhões no Xadrez *Ad-Hoc*
+  - [ ]  [3356](https://www.urionlinejudge.com.br/judge/pt/problems/view/3356) - Reprodução Controlada *Grafos*
+  - [ ]  [3357](https://www.urionlinejudge.com.br/judge/pt/problems/view/3357) - Rico do Mate *Estruturas e Bibliotecas*
+  - [ ]  [3358](https://www.urionlinejudge.com.br/judge/pt/problems/view/3358) - Sobrenome Não é Fácil *Strings*
   - [ ] ~~xxxx~~
   - [ ] ~~xxxx~~
   - [ ] ~~xxxx~~

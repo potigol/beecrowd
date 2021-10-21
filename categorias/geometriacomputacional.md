@@ -1,4 +1,4 @@
-# Geometria Computacional (3 / 81)
+# Geometria Computacional (3 / 82)
 
 
 
@@ -88,3 +88,4 @@
   - [ ]  [3184](https://www.urionlinejudge.com.br/judge/pt/problems/view/3184) - Obtendo Ouro
   - [ ]  [3213](https://www.urionlinejudge.com.br/judge/pt/problems/view/3213) - Parque Infantil
   - [ ]  [3260](https://www.urionlinejudge.com.br/judge/pt/problems/view/3260) - Robert Hood
+  - [ ]  [3352](https://www.urionlinejudge.com.br/judge/pt/problems/view/3352) - Fuja comigo, Galileu!

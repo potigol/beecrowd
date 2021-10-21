@@ -1,4 +1,4 @@
-# Ad-Hoc (141 / 729)
+# Ad-Hoc (141 / 731)
 
 
 
@@ -736,3 +736,5 @@
   - [ ]  [3278](https://www.urionlinejudge.com.br/judge/pt/problems/view/3278) - Passageiros de Trem
   - [ ]  [3305](https://www.urionlinejudge.com.br/judge/pt/problems/view/3305) - Bispos Dominantes
   - [ ]  [3307](https://www.urionlinejudge.com.br/judge/pt/problems/view/3307) - Decora o Rolê!
+  - [ ]  [3351](https://www.urionlinejudge.com.br/judge/pt/problems/view/3351) - Clickbait
+  - [ ]  [3355](https://www.urionlinejudge.com.br/judge/pt/problems/view/3355) - Pinhões no Xadrez
