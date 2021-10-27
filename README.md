@@ -48,5 +48,5 @@ Escolha um problema ainda não reolvido e envie sua solução pelo github.
  - Faça um fork deste projeto https://github.com/potigol/uoj-potigol
  - Resolva algum problema ainda não resolvido ou melhore alguma solução já existente
  - Coloque o seu código na pasta correspondente https://github.com/potigol/URI-Potigol/tree/master/src
- - **OPCIONAL** Teste a sua solução no URI Online Judge usando o script `./potigol2scala.sh src/1000/1000.poti`
+ - **OPCIONAL** Teste a sua solução no URI Online Judge usando o script `./potigol2scala.sh ../src/1000/1000.poti`
  - Faça um pull request
