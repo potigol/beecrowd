@@ -216,7 +216,7 @@
 1215	Primeiro Dicionário de Andy	Estruturas e Bibliotecas
 1216	Getline One	Ad-Hoc
 1217	Getline Two - Frutas	Ad-Hoc
-1218	Getline Three -  Calçados	Ad-Hoc
+1218	Getline Three - Calçados	Ad-Hoc
 1219	Flores Coloridas	Matemática
 1220	A Viagem	Matemática
 1221	Primo Rápido	Matemática
@@ -2268,7 +2268,9 @@
 3345	O Passatempo de Ferdinacci	Matemática
 3346	Flutuação do PIB	Iniciante
 3347	Ancestralidade	Strings
+3348	Jogo das Aranhas	Iniciante
 3349	Armadura	Paradigmas
+3350	A Casa das Sete Mulheres	Grafos
 3351	Clickbait	Ad-Hoc
 3352	Fuja comigo, Galileu!	Geometria Computacional
 3353	Araucárias e a Gralha Azul de Três Olhos	Strings

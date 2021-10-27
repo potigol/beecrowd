@@ -167,7 +167,7 @@
   - [ ]  [1206](https://www.urionlinejudge.com.br/judge/pt/problems/view/1206) - Desafio de São Petersburgo
   - [ ]  [1209](https://www.urionlinejudge.com.br/judge/pt/problems/view/1209) - Festas de São Petersburgo
   - [ ]  [1217](https://www.urionlinejudge.com.br/judge/pt/problems/view/1217) - Getline Two - Frutas
-  - [ ]  [1218](https://www.urionlinejudge.com.br/judge/pt/problems/view/1218) - Getline Three -  Calçados
+  - [ ]  [1218](https://www.urionlinejudge.com.br/judge/pt/problems/view/1218) - Getline Three - Calçados
   - [ ]  [1228](https://www.urionlinejudge.com.br/judge/pt/problems/view/1228) - Grid de Largada
   - [ ]  [1246](https://www.urionlinejudge.com.br/judge/pt/problems/view/1246) - Estacionamento
   - [ ]  [1250](https://www.urionlinejudge.com.br/judge/pt/problems/view/1250) - KiloMan

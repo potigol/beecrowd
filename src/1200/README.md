@@ -18,7 +18,7 @@
   - [ ]  [1215](https://www.urionlinejudge.com.br/judge/pt/problems/view/1215) - Primeiro Dicionário de Andy *Estruturas e Bibliotecas*
   - [x]  [1216](https://www.urionlinejudge.com.br/judge/pt/problems/view/1216) - [Getline One](https://github.com/potigol/uoj-potigol/blob/master/src/1200/1216.poti) *Ad-Hoc*
   - [ ]  [1217](https://www.urionlinejudge.com.br/judge/pt/problems/view/1217) - Getline Two - Frutas *Ad-Hoc*
-  - [ ]  [1218](https://www.urionlinejudge.com.br/judge/pt/problems/view/1218) - Getline Three -  Calçados *Ad-Hoc*
+  - [ ]  [1218](https://www.urionlinejudge.com.br/judge/pt/problems/view/1218) - Getline Three - Calçados *Ad-Hoc*
   - [ ]  [1219](https://www.urionlinejudge.com.br/judge/pt/problems/view/1219) - Flores Coloridas *Matemática*
   - [ ]  [1220](https://www.urionlinejudge.com.br/judge/pt/problems/view/1220) - A Viagem *Matemática*
   - [x]  [1221](https://www.urionlinejudge.com.br/judge/pt/problems/view/1221) - [Primo Rápido](https://github.com/potigol/uoj-potigol/blob/master/src/1200/1221.poti) *Matemática*

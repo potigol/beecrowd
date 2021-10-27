@@ -1,4 +1,4 @@
-# Iniciante (308 / 333)
+# Iniciante (308 / 334)
 
 
 
@@ -340,3 +340,4 @@
   - [ ]  [3306](https://www.urionlinejudge.com.br/judge/pt/problems/view/3306) - Consulta e Alteração
   - [ ]  [3343](https://www.urionlinejudge.com.br/judge/pt/problems/view/3343) - Attack On Gasparini
   - [ ]  [3346](https://www.urionlinejudge.com.br/judge/pt/problems/view/3346) - Flutuação do PIB
+  - [ ]  [3348](https://www.urionlinejudge.com.br/judge/pt/problems/view/3348) - Jogo das Aranhas

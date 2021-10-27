@@ -1,4 +1,4 @@
-# Problemas 3300 (32%)
+# Problemas 3300 (30%)
 
   - [x]  [3300](https://www.urionlinejudge.com.br/judge/pt/problems/view/3300) - [Números Má Sorte Recarregados](https://github.com/potigol/uoj-potigol/blob/master/src/3300/3300.poti) *Strings*
   - [x]  [3301](https://www.urionlinejudge.com.br/judge/pt/problems/view/3301) - [Sobrinho do Meio](https://github.com/potigol/uoj-potigol/blob/master/src/3300/3301.poti) *Iniciante*
@@ -48,9 +48,9 @@
   - [ ]  [3345](https://www.urionlinejudge.com.br/judge/pt/problems/view/3345) - O Passatempo de Ferdinacci *Matemática*
   - [ ]  [3346](https://www.urionlinejudge.com.br/judge/pt/problems/view/3346) - Flutuação do PIB *Iniciante*
   - [ ]  [3347](https://www.urionlinejudge.com.br/judge/pt/problems/view/3347) - Ancestralidade *Strings*
-  - [ ] ~~xxxx~~
+  - [ ]  [3348](https://www.urionlinejudge.com.br/judge/pt/problems/view/3348) - Jogo das Aranhas *Iniciante*
   - [ ]  [3349](https://www.urionlinejudge.com.br/judge/pt/problems/view/3349) - Armadura *Paradigmas*
-  - [ ] ~~xxxx~~
+  - [ ]  [3350](https://www.urionlinejudge.com.br/judge/pt/problems/view/3350) - A Casa das Sete Mulheres *Grafos*
   - [ ]  [3351](https://www.urionlinejudge.com.br/judge/pt/problems/view/3351) - Clickbait *Ad-Hoc*
   - [ ]  [3352](https://www.urionlinejudge.com.br/judge/pt/problems/view/3352) - Fuja comigo, Galileu! *Geometria Computacional*
   - [ ]  [3353](https://www.urionlinejudge.com.br/judge/pt/problems/view/3353) - Araucárias e a Gralha Azul de Três Olhos *Strings*

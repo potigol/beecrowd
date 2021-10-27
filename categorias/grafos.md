@@ -1,4 +1,4 @@
-# Grafos (3 / 276)
+# Grafos (3 / 277)
 
 
 
@@ -282,4 +282,5 @@
   - [ ]  [3269](https://www.urionlinejudge.com.br/judge/pt/problems/view/3269) - Vigilância de Basin City
   - [ ]  [3314](https://www.urionlinejudge.com.br/judge/pt/problems/view/3314) - Konfusa, a Colmeia!
   - [ ]  [3340](https://www.urionlinejudge.com.br/judge/pt/problems/view/3340) - Estudante De Mestrado
+  - [ ]  [3350](https://www.urionlinejudge.com.br/judge/pt/problems/view/3350) - A Casa das Sete Mulheres
   - [ ]  [3356](https://www.urionlinejudge.com.br/judge/pt/problems/view/3356) - Reprodução Controlada
