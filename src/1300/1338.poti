@@ -1,0 +1,30 @@
+n = leia_inteiro
+var a := Lista.mutável(n, 0)
+para i de 1 até n faça
+  a[i] := leia_inteiro
+fim
+var cnt := 0
+var ai := 1
+var i := 1
+enquanto ai <= n faça
+  var isSqFree := verdadeiro
+  var j := 2
+  ii = i
+  enquanto j * j <= i faça
+    se i mod (j * j) == 0 então
+      isSqFree := falso
+    fim
+    se i mod j == 0 então
+      i := i div j
+    fim
+    j := j + 1
+  fim
+  se isSqFree então
+    cnt := cnt + 1
+    se cnt == a[ai] então
+      ai := ai + 1
+      escreva ii
+    fim
+  fim
+  i := ii + 1
+fim
