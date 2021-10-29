@@ -1,21 +1,21 @@
 # Problemas 3300 (30%)
 
-  - [x]  [3300](https://www.urionlinejudge.com.br/judge/pt/problems/view/3300) - [Números Má Sorte Recarregados](https://github.com/potigol/uoj-potigol/blob/master/src/3300/3300.poti) *Strings*
-  - [x]  [3301](https://www.urionlinejudge.com.br/judge/pt/problems/view/3301) - [Sobrinho do Meio](https://github.com/potigol/uoj-potigol/blob/master/src/3300/3301.poti) *Iniciante*
-  - [x]  [3302](https://www.urionlinejudge.com.br/judge/pt/problems/view/3302) - [Resposta Certa](https://github.com/potigol/uoj-potigol/blob/master/src/3300/3302.poti) *Iniciante*
-  - [x]  [3303](https://www.urionlinejudge.com.br/judge/pt/problems/view/3303) - [Palavrão](https://github.com/potigol/uoj-potigol/blob/master/src/3300/3303.poti) *Iniciante*
-  - [ ]  [3304](https://www.urionlinejudge.com.br/judge/pt/problems/view/3304) - Alguma Sorte! *Matemática*
-  - [ ]  [3305](https://www.urionlinejudge.com.br/judge/pt/problems/view/3305) - Bispos Dominantes *Ad-Hoc*
-  - [ ]  [3306](https://www.urionlinejudge.com.br/judge/pt/problems/view/3306) - Consulta e Alteração *Iniciante*
-  - [ ]  [3307](https://www.urionlinejudge.com.br/judge/pt/problems/view/3307) - Decora o Rolê! *Ad-Hoc*
-  - [ ]  [3308](https://www.urionlinejudge.com.br/judge/pt/problems/view/3308) - Elevador *Matemática*
-  - [x]  [3309](https://www.urionlinejudge.com.br/judge/pt/problems/view/3309) - [Felizes são estes Números](https://github.com/potigol/uoj-potigol/blob/master/src/3300/3309.poti) *Ad-Hoc*
-  - [ ]  [3310](https://www.urionlinejudge.com.br/judge/pt/problems/view/3310) - Gravity Boy *Strings*
-  - [x]  [3311](https://www.urionlinejudge.com.br/judge/pt/problems/view/3311) - [Hudinho e o seu Trabalho](https://github.com/potigol/uoj-potigol/blob/master/src/3300/3311.poti) *Strings*
-  - [x]  [3312](https://www.urionlinejudge.com.br/judge/pt/problems/view/3312) - [Imberbe Matemático](https://github.com/potigol/uoj-potigol/blob/master/src/3300/3312.poti) *Matemática*
-  - [x]  [3313](https://www.urionlinejudge.com.br/judge/pt/problems/view/3313) - [Jogo de Palavras](https://github.com/potigol/uoj-potigol/blob/master/src/3300/3313.poti) *Strings*
-  - [ ]  [3314](https://www.urionlinejudge.com.br/judge/pt/problems/view/3314) - Konfusa, a Colmeia! *Grafos*
-  - [x]  [3315](https://www.urionlinejudge.com.br/judge/pt/problems/view/3315) - [Língua do Computador](https://github.com/potigol/uoj-potigol/blob/master/src/3300/3315.poti) *Ad-Hoc*
+  - [x]  [3300](https://www.beecrowd.com.br/judge/pt/problems/view/3300) - [Números Má Sorte Recarregados](https://github.com/potigol/uoj-potigol/blob/master/src/3300/3300.poti) *Strings*
+  - [x]  [3301](https://www.beecrowd.com.br/judge/pt/problems/view/3301) - [Sobrinho do Meio](https://github.com/potigol/uoj-potigol/blob/master/src/3300/3301.poti) *Iniciante*
+  - [x]  [3302](https://www.beecrowd.com.br/judge/pt/problems/view/3302) - [Resposta Certa](https://github.com/potigol/uoj-potigol/blob/master/src/3300/3302.poti) *Iniciante*
+  - [x]  [3303](https://www.beecrowd.com.br/judge/pt/problems/view/3303) - [Palavrão](https://github.com/potigol/uoj-potigol/blob/master/src/3300/3303.poti) *Iniciante*
+  - [ ]  [3304](https://www.beecrowd.com.br/judge/pt/problems/view/3304) - Alguma Sorte! *Matemática*
+  - [ ]  [3305](https://www.beecrowd.com.br/judge/pt/problems/view/3305) - Bispos Dominantes *Ad-Hoc*
+  - [ ]  [3306](https://www.beecrowd.com.br/judge/pt/problems/view/3306) - Consulta e Alteração *Iniciante*
+  - [ ]  [3307](https://www.beecrowd.com.br/judge/pt/problems/view/3307) - Decora o Rolê! *Ad-Hoc*
+  - [ ]  [3308](https://www.beecrowd.com.br/judge/pt/problems/view/3308) - Elevador *Matemática*
+  - [x]  [3309](https://www.beecrowd.com.br/judge/pt/problems/view/3309) - [Felizes são estes Números](https://github.com/potigol/uoj-potigol/blob/master/src/3300/3309.poti) *Ad-Hoc*
+  - [ ]  [3310](https://www.beecrowd.com.br/judge/pt/problems/view/3310) - Gravity Boy *Strings*
+  - [x]  [3311](https://www.beecrowd.com.br/judge/pt/problems/view/3311) - [Hudinho e o seu Trabalho](https://github.com/potigol/uoj-potigol/blob/master/src/3300/3311.poti) *Strings*
+  - [x]  [3312](https://www.beecrowd.com.br/judge/pt/problems/view/3312) - [Imberbe Matemático](https://github.com/potigol/uoj-potigol/blob/master/src/3300/3312.poti) *Matemática*
+  - [x]  [3313](https://www.beecrowd.com.br/judge/pt/problems/view/3313) - [Jogo de Palavras](https://github.com/potigol/uoj-potigol/blob/master/src/3300/3313.poti) *Strings*
+  - [ ]  [3314](https://www.beecrowd.com.br/judge/pt/problems/view/3314) - Konfusa, a Colmeia! *Grafos*
+  - [x]  [3315](https://www.beecrowd.com.br/judge/pt/problems/view/3315) - [Língua do Computador](https://github.com/potigol/uoj-potigol/blob/master/src/3300/3315.poti) *Ad-Hoc*
   - [ ] ~~xxxx~~
   - [ ] ~~xxxx~~
   - [ ] ~~xxxx~~
@@ -39,26 +39,26 @@
   - [ ] ~~xxxx~~
   - [ ] ~~xxxx~~
   - [ ] ~~xxxx~~
-  - [ ]  [3339](https://www.urionlinejudge.com.br/judge/pt/problems/view/3339) - Carina *Matemática*
-  - [ ]  [3340](https://www.urionlinejudge.com.br/judge/pt/problems/view/3340) - Estudante De Mestrado *Grafos*
-  - [ ]  [3341](https://www.urionlinejudge.com.br/judge/pt/problems/view/3341) - Grandmaster do Jogo do Caneco *Matemática*
-  - [x]  [3342](https://www.urionlinejudge.com.br/judge/pt/problems/view/3342) - [Keanu](https://github.com/potigol/uoj-potigol/blob/master/src/3300/3342.poti) *Iniciante*
-  - [ ]  [3343](https://www.urionlinejudge.com.br/judge/pt/problems/view/3343) - Attack On Gasparini *Iniciante*
-  - [x]  [3344](https://www.urionlinejudge.com.br/judge/pt/problems/view/3344) - [Brute](https://github.com/potigol/uoj-potigol/blob/master/src/3300/3344.poti) *Iniciante*
-  - [ ]  [3345](https://www.urionlinejudge.com.br/judge/pt/problems/view/3345) - O Passatempo de Ferdinacci *Matemática*
-  - [ ]  [3346](https://www.urionlinejudge.com.br/judge/pt/problems/view/3346) - Flutuação do PIB *Iniciante*
-  - [ ]  [3347](https://www.urionlinejudge.com.br/judge/pt/problems/view/3347) - Ancestralidade *Strings*
-  - [ ]  [3348](https://www.urionlinejudge.com.br/judge/pt/problems/view/3348) - Jogo das Aranhas *Iniciante*
-  - [ ]  [3349](https://www.urionlinejudge.com.br/judge/pt/problems/view/3349) - Armadura *Paradigmas*
-  - [ ]  [3350](https://www.urionlinejudge.com.br/judge/pt/problems/view/3350) - A Casa das Sete Mulheres *Grafos*
-  - [ ]  [3351](https://www.urionlinejudge.com.br/judge/pt/problems/view/3351) - Clickbait *Ad-Hoc*
-  - [ ]  [3352](https://www.urionlinejudge.com.br/judge/pt/problems/view/3352) - Fuja comigo, Galileu! *Geometria Computacional*
-  - [ ]  [3353](https://www.urionlinejudge.com.br/judge/pt/problems/view/3353) - Araucárias e a Gralha Azul de Três Olhos *Strings*
-  - [ ]  [3354](https://www.urionlinejudge.com.br/judge/pt/problems/view/3354) - Joãozinho Vem Para o Sul *Matemática*
-  - [ ]  [3355](https://www.urionlinejudge.com.br/judge/pt/problems/view/3355) - Pinhões no Xadrez *Ad-Hoc*
-  - [ ]  [3356](https://www.urionlinejudge.com.br/judge/pt/problems/view/3356) - Reprodução Controlada *Grafos*
-  - [ ]  [3357](https://www.urionlinejudge.com.br/judge/pt/problems/view/3357) - Rico do Mate *Estruturas e Bibliotecas*
-  - [ ]  [3358](https://www.urionlinejudge.com.br/judge/pt/problems/view/3358) - Sobrenome Não é Fácil *Strings*
+  - [ ]  [3339](https://www.beecrowd.com.br/judge/pt/problems/view/3339) - Carina *Matemática*
+  - [ ]  [3340](https://www.beecrowd.com.br/judge/pt/problems/view/3340) - Estudante De Mestrado *Grafos*
+  - [ ]  [3341](https://www.beecrowd.com.br/judge/pt/problems/view/3341) - Grandmaster do Jogo do Caneco *Matemática*
+  - [x]  [3342](https://www.beecrowd.com.br/judge/pt/problems/view/3342) - [Keanu](https://github.com/potigol/uoj-potigol/blob/master/src/3300/3342.poti) *Iniciante*
+  - [ ]  [3343](https://www.beecrowd.com.br/judge/pt/problems/view/3343) - Attack On Gasparini *Iniciante*
+  - [x]  [3344](https://www.beecrowd.com.br/judge/pt/problems/view/3344) - [Brute](https://github.com/potigol/uoj-potigol/blob/master/src/3300/3344.poti) *Iniciante*
+  - [ ]  [3345](https://www.beecrowd.com.br/judge/pt/problems/view/3345) - O Passatempo de Ferdinacci *Matemática*
+  - [ ]  [3346](https://www.beecrowd.com.br/judge/pt/problems/view/3346) - Flutuação do PIB *Iniciante*
+  - [ ]  [3347](https://www.beecrowd.com.br/judge/pt/problems/view/3347) - Ancestralidade *Strings*
+  - [ ]  [3348](https://www.beecrowd.com.br/judge/pt/problems/view/3348) - Jogo das Aranhas *Iniciante*
+  - [ ]  [3349](https://www.beecrowd.com.br/judge/pt/problems/view/3349) - Armadura *Paradigmas*
+  - [ ]  [3350](https://www.beecrowd.com.br/judge/pt/problems/view/3350) - A Casa das Sete Mulheres *Grafos*
+  - [ ]  [3351](https://www.beecrowd.com.br/judge/pt/problems/view/3351) - Clickbait *Ad-Hoc*
+  - [ ]  [3352](https://www.beecrowd.com.br/judge/pt/problems/view/3352) - Fuja comigo, Galileu! *Geometria Computacional*
+  - [ ]  [3353](https://www.beecrowd.com.br/judge/pt/problems/view/3353) - Araucárias e a Gralha Azul de Três Olhos *Strings*
+  - [ ]  [3354](https://www.beecrowd.com.br/judge/pt/problems/view/3354) - Joãozinho Vem Para o Sul *Matemática*
+  - [ ]  [3355](https://www.beecrowd.com.br/judge/pt/problems/view/3355) - Pinhões no Xadrez *Ad-Hoc*
+  - [ ]  [3356](https://www.beecrowd.com.br/judge/pt/problems/view/3356) - Reprodução Controlada *Grafos*
+  - [ ]  [3357](https://www.beecrowd.com.br/judge/pt/problems/view/3357) - Rico do Mate *Estruturas e Bibliotecas*
+  - [ ]  [3358](https://www.beecrowd.com.br/judge/pt/problems/view/3358) - Sobrenome Não é Fácil *Strings*
   - [ ] ~~xxxx~~
   - [ ] ~~xxxx~~
   - [ ] ~~xxxx~~

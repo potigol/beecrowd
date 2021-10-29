@@ -4,275 +4,275 @@
 
 ## Problemas resolvidos
 
-  - [x]  [1028](https://www.urionlinejudge.com.br/judge/pt/problems/view/1028) - [Figurinhas](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1028.poti)
-  - [x]  [1093](https://www.urionlinejudge.com.br/judge/pt/problems/view/1093) - [Vampiros](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1093.poti)
-  - [x]  [1138](https://www.urionlinejudge.com.br/judge/pt/problems/view/1138) - [Contagem de Dígitos](https://github.com/potigol/uoj-potigol/blob/master/src/1100/1138.poti)
-  - [x]  [1161](https://www.urionlinejudge.com.br/judge/pt/problems/view/1161) - [Soma de Fatoriais](https://github.com/potigol/uoj-potigol/blob/master/src/1100/1161.poti)
-  - [x]  [1169](https://www.urionlinejudge.com.br/judge/pt/problems/view/1169) - [Trigo no Tabuleiro](https://github.com/potigol/uoj-potigol/blob/master/src/1100/1169.poti)
-  - [x]  [1170](https://www.urionlinejudge.com.br/judge/pt/problems/view/1170) - [Blobs](https://github.com/potigol/uoj-potigol/blob/master/src/1100/1170.poti)
-  - [x]  [1197](https://www.urionlinejudge.com.br/judge/pt/problems/view/1197) - [Volta à Faculdade de Física](https://github.com/potigol/uoj-potigol/blob/master/src/1100/1197.poti)
-  - [x]  [1198](https://www.urionlinejudge.com.br/judge/pt/problems/view/1198) - [O Bravo Guerreiro Hashmat](https://github.com/potigol/uoj-potigol/blob/master/src/1100/1198.poti)
-  - [x]  [1212](https://www.urionlinejudge.com.br/judge/pt/problems/view/1212) - [Aritmética Primária](https://github.com/potigol/uoj-potigol/blob/master/src/1200/1212.poti)
-  - [x]  [1213](https://www.urionlinejudge.com.br/judge/pt/problems/view/1213) - [Ones](https://github.com/potigol/uoj-potigol/blob/master/src/1200/1213.poti)
-  - [x]  [1214](https://www.urionlinejudge.com.br/judge/pt/problems/view/1214) - [Acima da Média](https://github.com/potigol/uoj-potigol/blob/master/src/1200/1214.poti)
-  - [x]  [1221](https://www.urionlinejudge.com.br/judge/pt/problems/view/1221) - [Primo Rápido](https://github.com/potigol/uoj-potigol/blob/master/src/1200/1221.poti)
-  - [x]  [1240](https://www.urionlinejudge.com.br/judge/pt/problems/view/1240) - [Encaixa ou Não I](https://github.com/potigol/uoj-potigol/blob/master/src/1200/1240.poti)
-  - [x]  [1247](https://www.urionlinejudge.com.br/judge/pt/problems/view/1247) - [Guarda Costeira](https://github.com/potigol/uoj-potigol/blob/master/src/1200/1247.poti)
-  - [x]  [1309](https://www.urionlinejudge.com.br/judge/pt/problems/view/1309) - [Formatação Monetária](https://github.com/potigol/uoj-potigol/blob/master/src/1300/1309.poti)
-  - [x]  [1323](https://www.urionlinejudge.com.br/judge/pt/problems/view/1323) - [Feynman](https://github.com/potigol/uoj-potigol/blob/master/src/1300/1323.poti)
-  - [x]  [1393](https://www.urionlinejudge.com.br/judge/pt/problems/view/1393) - [Lajotas Hexagonais](https://github.com/potigol/uoj-potigol/blob/master/src/1300/1393.poti)
-  - [x]  [1429](https://www.urionlinejudge.com.br/judge/pt/problems/view/1429) - [Fatorial de Novo!](https://github.com/potigol/uoj-potigol/blob/master/src/1400/1429.poti)
-  - [x]  [1436](https://www.urionlinejudge.com.br/judge/pt/problems/view/1436) - [Jogo do Tijolo](https://github.com/potigol/uoj-potigol/blob/master/src/1400/1436.poti)
-  - [x]  [1444](https://www.urionlinejudge.com.br/judge/pt/problems/view/1444) - [Corrida dos Marrecos](https://github.com/potigol/uoj-potigol/blob/master/src/1400/1444.poti)
-  - [x]  [1457](https://www.urionlinejudge.com.br/judge/pt/problems/view/1457) - [Oráculo de Alexandria](https://github.com/potigol/uoj-potigol/blob/master/src/1400/1457.poti)
-  - [x]  [1555](https://www.urionlinejudge.com.br/judge/pt/problems/view/1555) - [Funções](https://github.com/potigol/uoj-potigol/blob/master/src/1500/1555.poti)
-  - [x]  [1582](https://www.urionlinejudge.com.br/judge/pt/problems/view/1582) - [O Teorema de Pitágoras](https://github.com/potigol/uoj-potigol/blob/master/src/1500/1582.poti)
-  - [x]  [1585](https://www.urionlinejudge.com.br/judge/pt/problems/view/1585) - [Fazendo Pandorgas](https://github.com/potigol/uoj-potigol/blob/master/src/1500/1585.poti)
-  - [x]  [1630](https://www.urionlinejudge.com.br/judge/pt/problems/view/1630) - [Estacas](https://github.com/potigol/uoj-potigol/blob/master/src/1600/1630.poti)
-  - [x]  [1650](https://www.urionlinejudge.com.br/judge/pt/problems/view/1650) - [Pintura Preto e Branco](https://github.com/potigol/uoj-potigol/blob/master/src/1600/1650.poti)
-  - [x]  [1760](https://www.urionlinejudge.com.br/judge/pt/problems/view/1760) - [Floco de Neve de Koch](https://github.com/potigol/uoj-potigol/blob/master/src/1700/1760.poti)
-  - [x]  [1761](https://www.urionlinejudge.com.br/judge/pt/problems/view/1761) - [Decoração Natalina](https://github.com/potigol/uoj-potigol/blob/master/src/1700/1761.poti)
-  - [x]  [1795](https://www.urionlinejudge.com.br/judge/pt/problems/view/1795) - [Triângulo Trinomial](https://github.com/potigol/uoj-potigol/blob/master/src/1700/1795.poti)
-  - [x]  [1805](https://www.urionlinejudge.com.br/judge/pt/problems/view/1805) - [Soma Natural](https://github.com/potigol/uoj-potigol/blob/master/src/1800/1805.poti)
-  - [x]  [1869](https://www.urionlinejudge.com.br/judge/pt/problems/view/1869) - [Base 32](https://github.com/potigol/uoj-potigol/blob/master/src/1800/1869.poti)
-  - [x]  [1921](https://www.urionlinejudge.com.br/judge/pt/problems/view/1921) - [Guilherme e Suas Pipas](https://github.com/potigol/uoj-potigol/blob/master/src/1900/1921.poti)
-  - [x]  [2044](https://www.urionlinejudge.com.br/judge/pt/problems/view/2044) - [Em Dívida](https://github.com/potigol/uoj-potigol/blob/master/src/2000/2044.poti)
-  - [x]  [2066](https://www.urionlinejudge.com.br/judge/pt/problems/view/2066) - [amelborP mU](https://github.com/potigol/uoj-potigol/blob/master/src/2000/2066.poti)
-  - [x]  [2218](https://www.urionlinejudge.com.br/judge/pt/problems/view/2218) - [O Temível Evil-Son](https://github.com/potigol/uoj-potigol/blob/master/src/2200/2218.poti)
-  - [x]  [2232](https://www.urionlinejudge.com.br/judge/pt/problems/view/2232) - [Triângulo de Pascal](https://github.com/potigol/uoj-potigol/blob/master/src/2200/2232.poti)
-  - [x]  [2238](https://www.urionlinejudge.com.br/judge/pt/problems/view/2238) - [Divisores](https://github.com/potigol/uoj-potigol/blob/master/src/2200/2238.poti)
-  - [x]  [2497](https://www.urionlinejudge.com.br/judge/pt/problems/view/2497) - [Contando Ciclos](https://github.com/potigol/uoj-potigol/blob/master/src/2400/2497.poti)
-  - [x]  [2516](https://www.urionlinejudge.com.br/judge/pt/problems/view/2516) - [Corrida](https://github.com/potigol/uoj-potigol/blob/master/src/2500/2516.poti)
-  - [x]  [2584](https://www.urionlinejudge.com.br/judge/pt/problems/view/2584) - [Pentágono](https://github.com/potigol/uoj-potigol/blob/master/src/2500/2584.poti)
-  - [x]  [2596](https://www.urionlinejudge.com.br/judge/pt/problems/view/2596) - [Xenlonguinho](https://github.com/potigol/uoj-potigol/blob/master/src/2500/2596.poti)
-  - [x]  [2597](https://www.urionlinejudge.com.br/judge/pt/problems/view/2597) - [Xenlongão](https://github.com/potigol/uoj-potigol/blob/master/src/2500/2597.poti)
-  - [x]  [2598](https://www.urionlinejudge.com.br/judge/pt/problems/view/2598) - [Colocando Radares](https://github.com/potigol/uoj-potigol/blob/master/src/2500/2598.poti)
-  - [x]  [2661](https://www.urionlinejudge.com.br/judge/pt/problems/view/2661) - [Despojados](https://github.com/potigol/uoj-potigol/blob/master/src/2600/2661.poti)
-  - [x]  [2667](https://www.urionlinejudge.com.br/judge/pt/problems/view/2667) - [Jogo de Boca](https://github.com/potigol/uoj-potigol/blob/master/src/2600/2667.poti)
-  - [x]  [2674](https://www.urionlinejudge.com.br/judge/pt/problems/view/2674) - [Super Primos: Ativar!](https://github.com/potigol/uoj-potigol/blob/master/src/2600/2674.poti)
-  - [x]  [2839](https://www.urionlinejudge.com.br/judge/pt/problems/view/2839) - [As Meias de Rangel](https://github.com/potigol/uoj-potigol/blob/master/src/2800/2839.poti)
-  - [x]  [2864](https://www.urionlinejudge.com.br/judge/pt/problems/view/2864) - [Qual é a Altura?](https://github.com/potigol/uoj-potigol/blob/master/src/2800/2864.poti)
-  - [x]  [2869](https://www.urionlinejudge.com.br/judge/pt/problems/view/2869) - [Falando em Divisor...](https://github.com/potigol/uoj-potigol/blob/master/src/2800/2869.poti)
-  - [x]  [2939](https://www.urionlinejudge.com.br/judge/pt/problems/view/2939) - [Casais](https://github.com/potigol/uoj-potigol/blob/master/src/2900/2939.poti)
-  - [x]  [2956](https://www.urionlinejudge.com.br/judge/pt/problems/view/2956) - [Derivada de 13 Variáveis](https://github.com/potigol/uoj-potigol/blob/master/src/2900/2956.poti)
-  - [x]  [2981](https://www.urionlinejudge.com.br/judge/pt/problems/view/2981) - [Vamos Fechar](https://github.com/potigol/uoj-potigol/blob/master/src/2900/2981.poti)
-  - [x]  [2986](https://www.urionlinejudge.com.br/judge/pt/problems/view/2986) - [Nem Tudo é Greve Versão Hard](https://github.com/potigol/uoj-potigol/blob/master/src/2900/2986.poti)
-  - [x]  [3004](https://www.urionlinejudge.com.br/judge/pt/problems/view/3004) - [Envelopes](https://github.com/potigol/uoj-potigol/blob/master/src/3000/3004.poti)
-  - [x]  [3049](https://www.urionlinejudge.com.br/judge/pt/problems/view/3049) - [Nota Cortada](https://github.com/potigol/uoj-potigol/blob/master/src/3000/3049.poti)
-  - [x]  [3102](https://www.urionlinejudge.com.br/judge/pt/problems/view/3102) - [Kikoho](https://github.com/potigol/uoj-potigol/blob/master/src/3100/3102.poti)
-  - [x]  [3104](https://www.urionlinejudge.com.br/judge/pt/problems/view/3104) - [Resto 2.0](https://github.com/potigol/uoj-potigol/blob/master/src/3100/3104.poti)
-  - [x]  [3154](https://www.urionlinejudge.com.br/judge/pt/problems/view/3154) - [A Grande Festa](https://github.com/potigol/uoj-potigol/blob/master/src/3100/3154.poti)
-  - [x]  [3165](https://www.urionlinejudge.com.br/judge/pt/problems/view/3165) - [Primos Gêmeos](https://github.com/potigol/uoj-potigol/blob/master/src/3100/3165.poti)
-  - [x]  [3312](https://www.urionlinejudge.com.br/judge/pt/problems/view/3312) - [Imberbe Matemático](https://github.com/potigol/uoj-potigol/blob/master/src/3300/3312.poti)
+  - [x]  [1028](https://www.beecrowd.com.br/judge/pt/problems/view/1028) - [Figurinhas](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1028.poti)
+  - [x]  [1093](https://www.beecrowd.com.br/judge/pt/problems/view/1093) - [Vampiros](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1093.poti)
+  - [x]  [1138](https://www.beecrowd.com.br/judge/pt/problems/view/1138) - [Contagem de Dígitos](https://github.com/potigol/uoj-potigol/blob/master/src/1100/1138.poti)
+  - [x]  [1161](https://www.beecrowd.com.br/judge/pt/problems/view/1161) - [Soma de Fatoriais](https://github.com/potigol/uoj-potigol/blob/master/src/1100/1161.poti)
+  - [x]  [1169](https://www.beecrowd.com.br/judge/pt/problems/view/1169) - [Trigo no Tabuleiro](https://github.com/potigol/uoj-potigol/blob/master/src/1100/1169.poti)
+  - [x]  [1170](https://www.beecrowd.com.br/judge/pt/problems/view/1170) - [Blobs](https://github.com/potigol/uoj-potigol/blob/master/src/1100/1170.poti)
+  - [x]  [1197](https://www.beecrowd.com.br/judge/pt/problems/view/1197) - [Volta à Faculdade de Física](https://github.com/potigol/uoj-potigol/blob/master/src/1100/1197.poti)
+  - [x]  [1198](https://www.beecrowd.com.br/judge/pt/problems/view/1198) - [O Bravo Guerreiro Hashmat](https://github.com/potigol/uoj-potigol/blob/master/src/1100/1198.poti)
+  - [x]  [1212](https://www.beecrowd.com.br/judge/pt/problems/view/1212) - [Aritmética Primária](https://github.com/potigol/uoj-potigol/blob/master/src/1200/1212.poti)
+  - [x]  [1213](https://www.beecrowd.com.br/judge/pt/problems/view/1213) - [Ones](https://github.com/potigol/uoj-potigol/blob/master/src/1200/1213.poti)
+  - [x]  [1214](https://www.beecrowd.com.br/judge/pt/problems/view/1214) - [Acima da Média](https://github.com/potigol/uoj-potigol/blob/master/src/1200/1214.poti)
+  - [x]  [1221](https://www.beecrowd.com.br/judge/pt/problems/view/1221) - [Primo Rápido](https://github.com/potigol/uoj-potigol/blob/master/src/1200/1221.poti)
+  - [x]  [1240](https://www.beecrowd.com.br/judge/pt/problems/view/1240) - [Encaixa ou Não I](https://github.com/potigol/uoj-potigol/blob/master/src/1200/1240.poti)
+  - [x]  [1247](https://www.beecrowd.com.br/judge/pt/problems/view/1247) - [Guarda Costeira](https://github.com/potigol/uoj-potigol/blob/master/src/1200/1247.poti)
+  - [x]  [1309](https://www.beecrowd.com.br/judge/pt/problems/view/1309) - [Formatação Monetária](https://github.com/potigol/uoj-potigol/blob/master/src/1300/1309.poti)
+  - [x]  [1323](https://www.beecrowd.com.br/judge/pt/problems/view/1323) - [Feynman](https://github.com/potigol/uoj-potigol/blob/master/src/1300/1323.poti)
+  - [x]  [1393](https://www.beecrowd.com.br/judge/pt/problems/view/1393) - [Lajotas Hexagonais](https://github.com/potigol/uoj-potigol/blob/master/src/1300/1393.poti)
+  - [x]  [1429](https://www.beecrowd.com.br/judge/pt/problems/view/1429) - [Fatorial de Novo!](https://github.com/potigol/uoj-potigol/blob/master/src/1400/1429.poti)
+  - [x]  [1436](https://www.beecrowd.com.br/judge/pt/problems/view/1436) - [Jogo do Tijolo](https://github.com/potigol/uoj-potigol/blob/master/src/1400/1436.poti)
+  - [x]  [1444](https://www.beecrowd.com.br/judge/pt/problems/view/1444) - [Corrida dos Marrecos](https://github.com/potigol/uoj-potigol/blob/master/src/1400/1444.poti)
+  - [x]  [1457](https://www.beecrowd.com.br/judge/pt/problems/view/1457) - [Oráculo de Alexandria](https://github.com/potigol/uoj-potigol/blob/master/src/1400/1457.poti)
+  - [x]  [1555](https://www.beecrowd.com.br/judge/pt/problems/view/1555) - [Funções](https://github.com/potigol/uoj-potigol/blob/master/src/1500/1555.poti)
+  - [x]  [1582](https://www.beecrowd.com.br/judge/pt/problems/view/1582) - [O Teorema de Pitágoras](https://github.com/potigol/uoj-potigol/blob/master/src/1500/1582.poti)
+  - [x]  [1585](https://www.beecrowd.com.br/judge/pt/problems/view/1585) - [Fazendo Pandorgas](https://github.com/potigol/uoj-potigol/blob/master/src/1500/1585.poti)
+  - [x]  [1630](https://www.beecrowd.com.br/judge/pt/problems/view/1630) - [Estacas](https://github.com/potigol/uoj-potigol/blob/master/src/1600/1630.poti)
+  - [x]  [1650](https://www.beecrowd.com.br/judge/pt/problems/view/1650) - [Pintura Preto e Branco](https://github.com/potigol/uoj-potigol/blob/master/src/1600/1650.poti)
+  - [x]  [1760](https://www.beecrowd.com.br/judge/pt/problems/view/1760) - [Floco de Neve de Koch](https://github.com/potigol/uoj-potigol/blob/master/src/1700/1760.poti)
+  - [x]  [1761](https://www.beecrowd.com.br/judge/pt/problems/view/1761) - [Decoração Natalina](https://github.com/potigol/uoj-potigol/blob/master/src/1700/1761.poti)
+  - [x]  [1795](https://www.beecrowd.com.br/judge/pt/problems/view/1795) - [Triângulo Trinomial](https://github.com/potigol/uoj-potigol/blob/master/src/1700/1795.poti)
+  - [x]  [1805](https://www.beecrowd.com.br/judge/pt/problems/view/1805) - [Soma Natural](https://github.com/potigol/uoj-potigol/blob/master/src/1800/1805.poti)
+  - [x]  [1869](https://www.beecrowd.com.br/judge/pt/problems/view/1869) - [Base 32](https://github.com/potigol/uoj-potigol/blob/master/src/1800/1869.poti)
+  - [x]  [1921](https://www.beecrowd.com.br/judge/pt/problems/view/1921) - [Guilherme e Suas Pipas](https://github.com/potigol/uoj-potigol/blob/master/src/1900/1921.poti)
+  - [x]  [2044](https://www.beecrowd.com.br/judge/pt/problems/view/2044) - [Em Dívida](https://github.com/potigol/uoj-potigol/blob/master/src/2000/2044.poti)
+  - [x]  [2066](https://www.beecrowd.com.br/judge/pt/problems/view/2066) - [amelborP mU](https://github.com/potigol/uoj-potigol/blob/master/src/2000/2066.poti)
+  - [x]  [2218](https://www.beecrowd.com.br/judge/pt/problems/view/2218) - [O Temível Evil-Son](https://github.com/potigol/uoj-potigol/blob/master/src/2200/2218.poti)
+  - [x]  [2232](https://www.beecrowd.com.br/judge/pt/problems/view/2232) - [Triângulo de Pascal](https://github.com/potigol/uoj-potigol/blob/master/src/2200/2232.poti)
+  - [x]  [2238](https://www.beecrowd.com.br/judge/pt/problems/view/2238) - [Divisores](https://github.com/potigol/uoj-potigol/blob/master/src/2200/2238.poti)
+  - [x]  [2497](https://www.beecrowd.com.br/judge/pt/problems/view/2497) - [Contando Ciclos](https://github.com/potigol/uoj-potigol/blob/master/src/2400/2497.poti)
+  - [x]  [2516](https://www.beecrowd.com.br/judge/pt/problems/view/2516) - [Corrida](https://github.com/potigol/uoj-potigol/blob/master/src/2500/2516.poti)
+  - [x]  [2584](https://www.beecrowd.com.br/judge/pt/problems/view/2584) - [Pentágono](https://github.com/potigol/uoj-potigol/blob/master/src/2500/2584.poti)
+  - [x]  [2596](https://www.beecrowd.com.br/judge/pt/problems/view/2596) - [Xenlonguinho](https://github.com/potigol/uoj-potigol/blob/master/src/2500/2596.poti)
+  - [x]  [2597](https://www.beecrowd.com.br/judge/pt/problems/view/2597) - [Xenlongão](https://github.com/potigol/uoj-potigol/blob/master/src/2500/2597.poti)
+  - [x]  [2598](https://www.beecrowd.com.br/judge/pt/problems/view/2598) - [Colocando Radares](https://github.com/potigol/uoj-potigol/blob/master/src/2500/2598.poti)
+  - [x]  [2661](https://www.beecrowd.com.br/judge/pt/problems/view/2661) - [Despojados](https://github.com/potigol/uoj-potigol/blob/master/src/2600/2661.poti)
+  - [x]  [2667](https://www.beecrowd.com.br/judge/pt/problems/view/2667) - [Jogo de Boca](https://github.com/potigol/uoj-potigol/blob/master/src/2600/2667.poti)
+  - [x]  [2674](https://www.beecrowd.com.br/judge/pt/problems/view/2674) - [Super Primos: Ativar!](https://github.com/potigol/uoj-potigol/blob/master/src/2600/2674.poti)
+  - [x]  [2839](https://www.beecrowd.com.br/judge/pt/problems/view/2839) - [As Meias de Rangel](https://github.com/potigol/uoj-potigol/blob/master/src/2800/2839.poti)
+  - [x]  [2864](https://www.beecrowd.com.br/judge/pt/problems/view/2864) - [Qual é a Altura?](https://github.com/potigol/uoj-potigol/blob/master/src/2800/2864.poti)
+  - [x]  [2869](https://www.beecrowd.com.br/judge/pt/problems/view/2869) - [Falando em Divisor...](https://github.com/potigol/uoj-potigol/blob/master/src/2800/2869.poti)
+  - [x]  [2939](https://www.beecrowd.com.br/judge/pt/problems/view/2939) - [Casais](https://github.com/potigol/uoj-potigol/blob/master/src/2900/2939.poti)
+  - [x]  [2956](https://www.beecrowd.com.br/judge/pt/problems/view/2956) - [Derivada de 13 Variáveis](https://github.com/potigol/uoj-potigol/blob/master/src/2900/2956.poti)
+  - [x]  [2981](https://www.beecrowd.com.br/judge/pt/problems/view/2981) - [Vamos Fechar](https://github.com/potigol/uoj-potigol/blob/master/src/2900/2981.poti)
+  - [x]  [2986](https://www.beecrowd.com.br/judge/pt/problems/view/2986) - [Nem Tudo é Greve Versão Hard](https://github.com/potigol/uoj-potigol/blob/master/src/2900/2986.poti)
+  - [x]  [3004](https://www.beecrowd.com.br/judge/pt/problems/view/3004) - [Envelopes](https://github.com/potigol/uoj-potigol/blob/master/src/3000/3004.poti)
+  - [x]  [3049](https://www.beecrowd.com.br/judge/pt/problems/view/3049) - [Nota Cortada](https://github.com/potigol/uoj-potigol/blob/master/src/3000/3049.poti)
+  - [x]  [3102](https://www.beecrowd.com.br/judge/pt/problems/view/3102) - [Kikoho](https://github.com/potigol/uoj-potigol/blob/master/src/3100/3102.poti)
+  - [x]  [3104](https://www.beecrowd.com.br/judge/pt/problems/view/3104) - [Resto 2.0](https://github.com/potigol/uoj-potigol/blob/master/src/3100/3104.poti)
+  - [x]  [3154](https://www.beecrowd.com.br/judge/pt/problems/view/3154) - [A Grande Festa](https://github.com/potigol/uoj-potigol/blob/master/src/3100/3154.poti)
+  - [x]  [3165](https://www.beecrowd.com.br/judge/pt/problems/view/3165) - [Primos Gêmeos](https://github.com/potigol/uoj-potigol/blob/master/src/3100/3165.poti)
+  - [x]  [3312](https://www.beecrowd.com.br/judge/pt/problems/view/3312) - [Imberbe Matemático](https://github.com/potigol/uoj-potigol/blob/master/src/3300/3312.poti)
 
 ## Problemas não resolvidos
 
-  - [ ]  [1163](https://www.urionlinejudge.com.br/judge/pt/problems/view/1163) - Angry Ducks
-  - [ ]  [1193](https://www.urionlinejudge.com.br/judge/pt/problems/view/1193) - Conversão entre Bases
-  - [ ]  [1199](https://www.urionlinejudge.com.br/judge/pt/problems/view/1199) - Conversão Simples de Base
-  - [ ]  [1202](https://www.urionlinejudge.com.br/judge/pt/problems/view/1202) - Festival das Noites Brancas
-  - [ ]  [1219](https://www.urionlinejudge.com.br/judge/pt/problems/view/1219) - Flores Coloridas
-  - [ ]  [1220](https://www.urionlinejudge.com.br/judge/pt/problems/view/1220) - A Viagem
-  - [ ]  [1230](https://www.urionlinejudge.com.br/judge/pt/problems/view/1230) - Integral
-  - [ ]  [1232](https://www.urionlinejudge.com.br/judge/pt/problems/view/1232) - Ciclo de Rubik
-  - [ ]  [1233](https://www.urionlinejudge.com.br/judge/pt/problems/view/1233) - Estrela
-  - [ ]  [1264](https://www.urionlinejudge.com.br/judge/pt/problems/view/1264) - Um Problema Fácil!
-  - [ ]  [1279](https://www.urionlinejudge.com.br/judge/pt/problems/view/1279) - Ano Bissexto ou Ano não Bissexto
-  - [ ]  [1280](https://www.urionlinejudge.com.br/judge/pt/problems/view/1280) - Amigos
-  - [ ]  [1289](https://www.urionlinejudge.com.br/judge/pt/problems/view/1289) - Qual é a Probabilidade?
-  - [ ]  [1297](https://www.urionlinejudge.com.br/judge/pt/problems/view/1297) - Proteção do Meio Ambiente
-  - [ ]  [1304](https://www.urionlinejudge.com.br/judge/pt/problems/view/1304) - Velocidade Média
-  - [ ]  [1306](https://www.urionlinejudge.com.br/judge/pt/problems/view/1306) - Numerando Estradas
-  - [ ]  [1307](https://www.urionlinejudge.com.br/judge/pt/problems/view/1307) - Tudo o que Você Precisa é Amor
-  - [ ]  [1308](https://www.urionlinejudge.com.br/judge/pt/problems/view/1308) - Guerreiros Etruscos Nunca Jogam Xadrez
-  - [ ]  [1324](https://www.urionlinejudge.com.br/judge/pt/problems/view/1324) - Bóson de Higgs
-  - [ ]  [1338](https://www.urionlinejudge.com.br/judge/pt/problems/view/1338) - It-Miha
-  - [ ]  [1346](https://www.urionlinejudge.com.br/judge/pt/problems/view/1346) - Brincadeira de Criança
-  - [ ]  [1347](https://www.urionlinejudge.com.br/judge/pt/problems/view/1347) - Mina Kriptonita
-  - [ ]  [1352](https://www.urionlinejudge.com.br/judge/pt/problems/view/1352) - Loteria Quadrada
-  - [ ]  [1353](https://www.urionlinejudge.com.br/judge/pt/problems/view/1353) - Super Poker
-  - [ ]  [1371](https://www.urionlinejudge.com.br/judge/pt/problems/view/1371) - Fechem as Portas!
-  - [ ]  [1376](https://www.urionlinejudge.com.br/judge/pt/problems/view/1376) - Irmãos
-  - [ ]  [1380](https://www.urionlinejudge.com.br/judge/pt/problems/view/1380) - Crescimento das Populações de Bacilos
-  - [ ]  [1381](https://www.urionlinejudge.com.br/judge/pt/problems/view/1381) - Equações Diofantinas
-  - [ ]  [1390](https://www.urionlinejudge.com.br/judge/pt/problems/view/1390) - Bases
-  - [ ]  [1392](https://www.urionlinejudge.com.br/judge/pt/problems/view/1392) - Conta de Luz
-  - [ ]  [1398](https://www.urionlinejudge.com.br/judge/pt/problems/view/1398) - Oceano Profundo! Faça-o Raso!!
-  - [ ]  [1399](https://www.urionlinejudge.com.br/judge/pt/problems/view/1399) - Transformador de Matriz
-  - [ ]  [1400](https://www.urionlinejudge.com.br/judge/pt/problems/view/1400) - Jogo - Contando
-  - [ ]  [1422](https://www.urionlinejudge.com.br/judge/pt/problems/view/1422) - Bactérias
-  - [ ]  [1433](https://www.urionlinejudge.com.br/judge/pt/problems/view/1433) - O Clube da Divisão
-  - [ ]  [1434](https://www.urionlinejudge.com.br/judge/pt/problems/view/1434) - Patrulheiros Romanos
-  - [ ]  [1450](https://www.urionlinejudge.com.br/judge/pt/problems/view/1450) - Os Joguinhos de Ramsés
-  - [ ]  [1465](https://www.urionlinejudge.com.br/judge/pt/problems/view/1465) - Complexo, Difícil e Complicado
-  - [ ]  [1481](https://www.urionlinejudge.com.br/judge/pt/problems/view/1481) - A Fazenda de Ostras de Zing Zhu
-  - [ ]  [1484](https://www.urionlinejudge.com.br/judge/pt/problems/view/1484) - Tecle &amp; Some
-  - [ ]  [1488](https://www.urionlinejudge.com.br/judge/pt/problems/view/1488) - Números Mágicos?
-  - [ ]  [1492](https://www.urionlinejudge.com.br/judge/pt/problems/view/1492) - Contando Uns
-  - [ ]  [1501](https://www.urionlinejudge.com.br/judge/pt/problems/view/1501) - Quantos Zeros e Quantos Dígitos?
-  - [ ]  [1505](https://www.urionlinejudge.com.br/judge/pt/problems/view/1505) - Curo Factories
-  - [ ]  [1512](https://www.urionlinejudge.com.br/judge/pt/problems/view/1512) - Azulejos
-  - [ ]  [1526](https://www.urionlinejudge.com.br/judge/pt/problems/view/1526) - Transportando Lanches
-  - [ ]  [1531](https://www.urionlinejudge.com.br/judge/pt/problems/view/1531) - Fibonacci de Novo!
-  - [ ]  [1537](https://www.urionlinejudge.com.br/judge/pt/problems/view/1537) - Fila do Banco
-  - [ ]  [1544](https://www.urionlinejudge.com.br/judge/pt/problems/view/1544) - O Último Dígito Não-Zero
-  - [ ]  [1554](https://www.urionlinejudge.com.br/judge/pt/problems/view/1554) - Bilhar N+1
-  - [ ]  [1563](https://www.urionlinejudge.com.br/judge/pt/problems/view/1563) - O Grande Problema
-  - [ ]  [1567](https://www.urionlinejudge.com.br/judge/pt/problems/view/1567) - (2/3/4)-D Sqr/Rects/Cubes/Boxes?
-  - [ ]  [1568](https://www.urionlinejudge.com.br/judge/pt/problems/view/1568) - {soma+=i++} até N
-  - [ ]  [1570](https://www.urionlinejudge.com.br/judge/pt/problems/view/1570) - Um Dia na Terra da Matemática
-  - [ ]  [1572](https://www.urionlinejudge.com.br/judge/pt/problems/view/1572) - O Torneio Surreal
-  - [ ]  [1577](https://www.urionlinejudge.com.br/judge/pt/problems/view/1577) - Polígonos Regulares Construtíveis
-  - [ ]  [1580](https://www.urionlinejudge.com.br/judge/pt/problems/view/1580) - Quid Est Veritas? Est Vir Qui Adest!
-  - [ ]  [1620](https://www.urionlinejudge.com.br/judge/pt/problems/view/1620) - Triangulação de Delaunay
-  - [ ]  [1623](https://www.urionlinejudge.com.br/judge/pt/problems/view/1623) - Linguagem
-  - [ ]  [1624](https://www.urionlinejudge.com.br/judge/pt/problems/view/1624) - Promoção
-  - [ ]  [1625](https://www.urionlinejudge.com.br/judge/pt/problems/view/1625) - Robocopia
-  - [ ]  [1626](https://www.urionlinejudge.com.br/judge/pt/problems/view/1626) - Maratona All FACE
-  - [ ]  [1634](https://www.urionlinejudge.com.br/judge/pt/problems/view/1634) - Outra Loteria
-  - [ ]  [1635](https://www.urionlinejudge.com.br/judge/pt/problems/view/1635) - Resultado das Eleições
-  - [ ]  [1641](https://www.urionlinejudge.com.br/judge/pt/problems/view/1641) - Restaurante e Pizzaria do Alfredo
-  - [ ]  [1644](https://www.urionlinejudge.com.br/judge/pt/problems/view/1644) - Decifre o Texto
-  - [ ]  [1647](https://www.urionlinejudge.com.br/judge/pt/problems/view/1647) - Um Jogo com Bolas de Gude
-  - [ ]  [1656](https://www.urionlinejudge.com.br/judge/pt/problems/view/1656) - Doces do Dia das Bruxas
-  - [ ]  [1658](https://www.urionlinejudge.com.br/judge/pt/problems/view/1658) - Grupos Diedro
-  - [ ]  [1660](https://www.urionlinejudge.com.br/judge/pt/problems/view/1660) - Flavius Josephus Está de Volta
-  - [ ]  [1662](https://www.urionlinejudge.com.br/judge/pt/problems/view/1662) - Quadrados Homogêneos
-  - [ ]  [1674](https://www.urionlinejudge.com.br/judge/pt/problems/view/1674) - Fractran
-  - [ ]  [1688](https://www.urionlinejudge.com.br/judge/pt/problems/view/1688) - Nim Intergalático
-  - [ ]  [1694](https://www.urionlinejudge.com.br/judge/pt/problems/view/1694) - Loteria
-  - [ ]  [1697](https://www.urionlinejudge.com.br/judge/pt/problems/view/1697) - Jaida e o Jogo Multiplicativo
-  - [ ]  [1703](https://www.urionlinejudge.com.br/judge/pt/problems/view/1703) - Pulando Pedras
-  - [ ]  [1705](https://www.urionlinejudge.com.br/judge/pt/problems/view/1705) - Apaixonado por Binário
-  - [ ]  [1722](https://www.urionlinejudge.com.br/judge/pt/problems/view/1722) - Quantos Fibs?
-  - [ ]  [1729](https://www.urionlinejudge.com.br/judge/pt/problems/view/1729) - Média Não é Rápida o Suficiente!
-  - [ ]  [1734](https://www.urionlinejudge.com.br/judge/pt/problems/view/1734) - Limite Encontrado
-  - [ ]  [1735](https://www.urionlinejudge.com.br/judge/pt/problems/view/1735) - Codifique a Árvore
-  - [ ]  [1736](https://www.urionlinejudge.com.br/judge/pt/problems/view/1736) - Decodifique a Árvore
-  - [ ]  [1745](https://www.urionlinejudge.com.br/judge/pt/problems/view/1745) - Contando Substhreengs
-  - [ ]  [1754](https://www.urionlinejudge.com.br/judge/pt/problems/view/1754) - A Sala do Tempo
-  - [ ]  [1756](https://www.urionlinejudge.com.br/judge/pt/problems/view/1756) - Algoritmo Genético
-  - [ ]  [1776](https://www.urionlinejudge.com.br/judge/pt/problems/view/1776) - Baile de Formatura
-  - [ ]  [1785](https://www.urionlinejudge.com.br/judge/pt/problems/view/1785) - Kaprekar
-  - [ ]  [1801](https://www.urionlinejudge.com.br/judge/pt/problems/view/1801) - Brincando com Números
-  - [ ]  [1807](https://www.urionlinejudge.com.br/judge/pt/problems/view/1807) - Triângulo Trinomial, a Vingança
-  - [ ]  [1812](https://www.urionlinejudge.com.br/judge/pt/problems/view/1812) - Um Cluster Para Evitar Enchentes
-  - [ ]  [1815](https://www.urionlinejudge.com.br/judge/pt/problems/view/1815) - Drunk People?
-  - [ ]  [1819](https://www.urionlinejudge.com.br/judge/pt/problems/view/1819) - Estimando a Produção
-  - [ ]  [1829](https://www.urionlinejudge.com.br/judge/pt/problems/view/1829) - Jogo do Maior Número
-  - [ ]  [1830](https://www.urionlinejudge.com.br/judge/pt/problems/view/1830) - Caixas de Bombons
-  - [ ]  [1831](https://www.urionlinejudge.com.br/judge/pt/problems/view/1831) - Dia Difícil de Trabalho
-  - [ ]  [1839](https://www.urionlinejudge.com.br/judge/pt/problems/view/1839) - A Câmara Secreta
-  - [ ]  [1841](https://www.urionlinejudge.com.br/judge/pt/problems/view/1841) - O Cálice de Fogo
-  - [ ]  [1872](https://www.urionlinejudge.com.br/judge/pt/problems/view/1872) - Palíndromo Real
-  - [ ]  [1904](https://www.urionlinejudge.com.br/judge/pt/problems/view/1904) - Par ou Ímpar 2.0
-  - [ ]  [1909](https://www.urionlinejudge.com.br/judge/pt/problems/view/1909) - Ajude Kiko
-  - [ ]  [1926](https://www.urionlinejudge.com.br/judge/pt/problems/view/1926) - Marianne e os Primos Gêmeos
-  - [ ]  [1946](https://www.urionlinejudge.com.br/judge/pt/problems/view/1946) - Pirâmide da Sorte
-  - [ ]  [1949](https://www.urionlinejudge.com.br/judge/pt/problems/view/1949) - Registrador de Deslocamento
-  - [ ]  [1967](https://www.urionlinejudge.com.br/judge/pt/problems/view/1967) - A Fronteira Final
-  - [ ]  [1968](https://www.urionlinejudge.com.br/judge/pt/problems/view/1968) - A Terra Desconhecida
-  - [ ]  [1969](https://www.urionlinejudge.com.br/judge/pt/problems/view/1969) - Generations
-  - [ ]  [1981](https://www.urionlinejudge.com.br/judge/pt/problems/view/1981) - Embaralhando de Novo
-  - [ ]  [1989](https://www.urionlinejudge.com.br/judge/pt/problems/view/1989) - Fazendo Nada
-  - [ ]  [1990](https://www.urionlinejudge.com.br/judge/pt/problems/view/1990) - Equilíbrio
-  - [ ]  [1992](https://www.urionlinejudge.com.br/judge/pt/problems/view/1992) - Ganhando Tempo
-  - [ ]  [1995](https://www.urionlinejudge.com.br/judge/pt/problems/view/1995) - Game, Set e Match
-  - [ ]  [1999](https://www.urionlinejudge.com.br/judge/pt/problems/view/1999) - Baile de Reconciliação
-  - [ ]  [2001](https://www.urionlinejudge.com.br/judge/pt/problems/view/2001) - Bile
-  - [ ]  [2007](https://www.urionlinejudge.com.br/judge/pt/problems/view/2007) - Falha Ao Cercar Legumes
-  - [ ]  [2033](https://www.urionlinejudge.com.br/judge/pt/problems/view/2033) - Juros Sobre o Empréstimo
-  - [ ]  [2034](https://www.urionlinejudge.com.br/judge/pt/problems/view/2034) - Cantor
-  - [ ]  [2063](https://www.urionlinejudge.com.br/judge/pt/problems/view/2063) - Caçando Digletts
-  - [ ]  [2068](https://www.urionlinejudge.com.br/judge/pt/problems/view/2068) - Marcando um Encontro
-  - [ ]  [2069](https://www.urionlinejudge.com.br/judge/pt/problems/view/2069) - A Mesa Quadrada de Inês Venezuela
-  - [ ]  [2076](https://www.urionlinejudge.com.br/judge/pt/problems/view/2076) - Alocação Ótima de Commodities
-  - [ ]  [2084](https://www.urionlinejudge.com.br/judge/pt/problems/view/2084) - Eleições
-  - [ ]  [2096](https://www.urionlinejudge.com.br/judge/pt/problems/view/2096) - Horácio e Seus Primos
-  - [ ]  [2100](https://www.urionlinejudge.com.br/judge/pt/problems/view/2100) - Cinema de Xing Tzen Zu
-  - [ ]  [2101](https://www.urionlinejudge.com.br/judge/pt/problems/view/2101) - Combinações de Dias
-  - [ ]  [2107](https://www.urionlinejudge.com.br/judge/pt/problems/view/2107) - As Pirâmides de Ecaterinburgo
-  - [ ]  [2114](https://www.urionlinejudge.com.br/judge/pt/problems/view/2114) - Poker
-  - [ ]  [2129](https://www.urionlinejudge.com.br/judge/pt/problems/view/2129) - Fatorial
-  - [ ]  [2133](https://www.urionlinejudge.com.br/judge/pt/problems/view/2133) - Números de Dinostratus
-  - [ ]  [2135](https://www.urionlinejudge.com.br/judge/pt/problems/view/2135) - Recuperação
-  - [ ]  [2145](https://www.urionlinejudge.com.br/judge/pt/problems/view/2145) - A Vida Amorosa dos Números
-  - [ ]  [2148](https://www.urionlinejudge.com.br/judge/pt/problems/view/2148) - Banco de Dados
-  - [ ]  [2149](https://www.urionlinejudge.com.br/judge/pt/problems/view/2149) - Sequência do Tio Phill Bonati
-  - [ ]  [2154](https://www.urionlinejudge.com.br/judge/pt/problems/view/2154) - Derivada de Polinômios
-  - [ ]  [2170](https://www.urionlinejudge.com.br/judge/pt/problems/view/2170) - Juros do Projeto
-  - [ ]  [2177](https://www.urionlinejudge.com.br/judge/pt/problems/view/2177) - Rio 2016
-  - [ ]  [2180](https://www.urionlinejudge.com.br/judge/pt/problems/view/2180) - Viagem à Marte na Velocidade de Primo
-  - [ ]  [2204](https://www.urionlinejudge.com.br/judge/pt/problems/view/2204) - Pare A Bomba!
-  - [ ]  [2222](https://www.urionlinejudge.com.br/judge/pt/problems/view/2222) - Brincando com Conjuntos
-  - [ ]  [2291](https://www.urionlinejudge.com.br/judge/pt/problems/view/2291) - Números Divinos
-  - [ ]  [2335](https://www.urionlinejudge.com.br/judge/pt/problems/view/2335) - O Desafio de Arquibaldo
-  - [ ]  [2337](https://www.urionlinejudge.com.br/judge/pt/problems/view/2337) - Pro Habilidade
-  - [ ]  [2474](https://www.urionlinejudge.com.br/judge/pt/problems/view/2474) - Burlando o Sistema
-  - [ ]  [2489](https://www.urionlinejudge.com.br/judge/pt/problems/view/2489) - Flecha no Coelho
-  - [ ]  [2494](https://www.urionlinejudge.com.br/judge/pt/problems/view/2494) - Canetas
-  - [ ]  [2499](https://www.urionlinejudge.com.br/judge/pt/problems/view/2499) - Triângulo Interno
-  - [ ]  [2500](https://www.urionlinejudge.com.br/judge/pt/problems/view/2500) - William Xorando
-  - [ ]  [2505](https://www.urionlinejudge.com.br/judge/pt/problems/view/2505) - Autopotencial
-  - [ ]  [2514](https://www.urionlinejudge.com.br/judge/pt/problems/view/2514) - Alinhamento Lunar
-  - [ ]  [2589](https://www.urionlinejudge.com.br/judge/pt/problems/view/2589) - Maior Distância Entre Primos Consecutivos
-  - [ ]  [2636](https://www.urionlinejudge.com.br/judge/pt/problems/view/2636) - 3-RSA
-  - [ ]  [2660](https://www.urionlinejudge.com.br/judge/pt/problems/view/2660) - Cigarras Periódicas
-  - [ ]  [2668](https://www.urionlinejudge.com.br/judge/pt/problems/view/2668) - K-ésimo
-  - [ ]  [2680](https://www.urionlinejudge.com.br/judge/pt/problems/view/2680) - Folha de Pagamentos
-  - [ ]  [2681](https://www.urionlinejudge.com.br/judge/pt/problems/view/2681) - Macacos da Torre de Hanoi
-  - [ ]  [2711](https://www.urionlinejudge.com.br/judge/pt/problems/view/2711) - Destravando o Celular
-  - [ ]  [2726](https://www.urionlinejudge.com.br/judge/pt/problems/view/2726) - Trenó Lotado
-  - [ ]  [2735](https://www.urionlinejudge.com.br/judge/pt/problems/view/2735) - O Presente de Nina
-  - [ ]  [2767](https://www.urionlinejudge.com.br/judge/pt/problems/view/2767) - Festa
-  - [ ]  [2777](https://www.urionlinejudge.com.br/judge/pt/problems/view/2777) - Subsets do Dabriel
-  - [ ]  [2801](https://www.urionlinejudge.com.br/judge/pt/problems/view/2801) - Cifra Affine
-  - [ ]  [2817](https://www.urionlinejudge.com.br/judge/pt/problems/view/2817) - Posto do Darlan
-  - [ ]  [2819](https://www.urionlinejudge.com.br/judge/pt/problems/view/2819) - Cartas Para o Noel
-  - [ ]  [2820](https://www.urionlinejudge.com.br/judge/pt/problems/view/2820) - Os Dígitos de Bruna
-  - [ ]  [2822](https://www.urionlinejudge.com.br/judge/pt/problems/view/2822) - Meu Primeiro Grafinho
-  - [ ]  [2828](https://www.urionlinejudge.com.br/judge/pt/problems/view/2828) - Anagramas
-  - [ ]  [2859](https://www.urionlinejudge.com.br/judge/pt/problems/view/2859) - Digit Root
-  - [ ]  [2873](https://www.urionlinejudge.com.br/judge/pt/problems/view/2873) - Pirâmide
-  - [ ]  [2878](https://www.urionlinejudge.com.br/judge/pt/problems/view/2878) - Cortador de Pizza
-  - [ ]  [2886](https://www.urionlinejudge.com.br/judge/pt/problems/view/2886) - Kepler
-  - [ ]  [2890](https://www.urionlinejudge.com.br/judge/pt/problems/view/2890) - Colorindo Tetraedros
-  - [ ]  [2892](https://www.urionlinejudge.com.br/judge/pt/problems/view/2892) - Treino No Velódromo
-  - [ ]  [2903](https://www.urionlinejudge.com.br/judge/pt/problems/view/2903) - A Symmetrical Pizza
-  - [ ]  [2937](https://www.urionlinejudge.com.br/judge/pt/problems/view/2937) - Cobra Norato
-  - [ ]  [2953](https://www.urionlinejudge.com.br/judge/pt/problems/view/2953) - Mais um Joguinho
-  - [ ]  [2955](https://www.urionlinejudge.com.br/judge/pt/problems/view/2955) - Truuuuuco!
-  - [ ]  [2978](https://www.urionlinejudge.com.br/judge/pt/problems/view/2978) - Cartão
-  - [ ]  [2983](https://www.urionlinejudge.com.br/judge/pt/problems/view/2983) - Nem Tudo é Greve
-  - [ ]  [3002](https://www.urionlinejudge.com.br/judge/pt/problems/view/3002) - Salve a Lilly!
-  - [ ]  [3007](https://www.urionlinejudge.com.br/judge/pt/problems/view/3007) - Lucas e Frobenius
-  - [ ]  [3026](https://www.urionlinejudge.com.br/judge/pt/problems/view/3026) - Número Inteiro Periódico
-  - [ ]  [3029](https://www.urionlinejudge.com.br/judge/pt/problems/view/3029) - Função Composição
-  - [ ]  [3036](https://www.urionlinejudge.com.br/judge/pt/problems/view/3036) - Cor da Camisa
-  - [ ]  [3078](https://www.urionlinejudge.com.br/judge/pt/problems/view/3078) - Só o Ouro
-  - [ ]  [3079](https://www.urionlinejudge.com.br/judge/pt/problems/view/3079) - Rua Iluminada
-  - [ ]  [3096](https://www.urionlinejudge.com.br/judge/pt/problems/view/3096) - Overflow
-  - [ ]  [3099](https://www.urionlinejudge.com.br/judge/pt/problems/view/3099) - O Problema do 7 x 1
-  - [ ]  [3110](https://www.urionlinejudge.com.br/judge/pt/problems/view/3110) - Farcos e o Xorshift
-  - [ ]  [3138](https://www.urionlinejudge.com.br/judge/pt/problems/view/3138) - Aniversário do Tobias
-  - [ ]  [3179](https://www.urionlinejudge.com.br/judge/pt/problems/view/3179) - Melhor Compressão de Todas
-  - [ ]  [3182](https://www.urionlinejudge.com.br/judge/pt/problems/view/3182) - Planejamento de Evento
-  - [ ]  [3183](https://www.urionlinejudge.com.br/judge/pt/problems/view/3183) - Corrigindo os Bugs
-  - [ ]  [3185](https://www.urionlinejudge.com.br/judge/pt/problems/view/3185) - Evidência Difícil
-  - [ ]  [3187](https://www.urionlinejudge.com.br/judge/pt/problems/view/3187) - Apenas Mais Alguns Triângulos!
-  - [ ]  [3216](https://www.urionlinejudge.com.br/judge/pt/problems/view/3216) - Teste Alérgico
-  - [ ]  [3223](https://www.urionlinejudge.com.br/judge/pt/problems/view/3223) - Permutações de Código
-  - [ ]  [3257](https://www.urionlinejudge.com.br/judge/pt/problems/view/3257) - Plantando Árvores
-  - [ ]  [3259](https://www.urionlinejudge.com.br/judge/pt/problems/view/3259) - Truque Numérico
-  - [ ]  [3265](https://www.urionlinejudge.com.br/judge/pt/problems/view/3265) - Reconstrução de Dança
-  - [ ]  [3266](https://www.urionlinejudge.com.br/judge/pt/problems/view/3266) - Dartboard
-  - [ ]  [3270](https://www.urionlinejudge.com.br/judge/pt/problems/view/3270) - Praça Catalã
-  - [ ]  [3271](https://www.urionlinejudge.com.br/judge/pt/problems/view/3271) - Jogo de Dados
-  - [ ]  [3272](https://www.urionlinejudge.com.br/judge/pt/problems/view/3272) - Cerimônia de Abertura
-  - [ ]  [3276](https://www.urionlinejudge.com.br/judge/pt/problems/view/3276) - Quantos Quadrados?
-  - [ ]  [3304](https://www.urionlinejudge.com.br/judge/pt/problems/view/3304) - Alguma Sorte!
-  - [ ]  [3308](https://www.urionlinejudge.com.br/judge/pt/problems/view/3308) - Elevador
-  - [ ]  [3339](https://www.urionlinejudge.com.br/judge/pt/problems/view/3339) - Carina
-  - [ ]  [3341](https://www.urionlinejudge.com.br/judge/pt/problems/view/3341) - Grandmaster do Jogo do Caneco
-  - [ ]  [3345](https://www.urionlinejudge.com.br/judge/pt/problems/view/3345) - O Passatempo de Ferdinacci
-  - [ ]  [3354](https://www.urionlinejudge.com.br/judge/pt/problems/view/3354) - Joãozinho Vem Para o Sul
+  - [ ]  [1163](https://www.beecrowd.com.br/judge/pt/problems/view/1163) - Angry Ducks
+  - [ ]  [1193](https://www.beecrowd.com.br/judge/pt/problems/view/1193) - Conversão entre Bases
+  - [ ]  [1199](https://www.beecrowd.com.br/judge/pt/problems/view/1199) - Conversão Simples de Base
+  - [ ]  [1202](https://www.beecrowd.com.br/judge/pt/problems/view/1202) - Festival das Noites Brancas
+  - [ ]  [1219](https://www.beecrowd.com.br/judge/pt/problems/view/1219) - Flores Coloridas
+  - [ ]  [1220](https://www.beecrowd.com.br/judge/pt/problems/view/1220) - A Viagem
+  - [ ]  [1230](https://www.beecrowd.com.br/judge/pt/problems/view/1230) - Integral
+  - [ ]  [1232](https://www.beecrowd.com.br/judge/pt/problems/view/1232) - Ciclo de Rubik
+  - [ ]  [1233](https://www.beecrowd.com.br/judge/pt/problems/view/1233) - Estrela
+  - [ ]  [1264](https://www.beecrowd.com.br/judge/pt/problems/view/1264) - Um Problema Fácil!
+  - [ ]  [1279](https://www.beecrowd.com.br/judge/pt/problems/view/1279) - Ano Bissexto ou Ano não Bissexto
+  - [ ]  [1280](https://www.beecrowd.com.br/judge/pt/problems/view/1280) - Amigos
+  - [ ]  [1289](https://www.beecrowd.com.br/judge/pt/problems/view/1289) - Qual é a Probabilidade?
+  - [ ]  [1297](https://www.beecrowd.com.br/judge/pt/problems/view/1297) - Proteção do Meio Ambiente
+  - [ ]  [1304](https://www.beecrowd.com.br/judge/pt/problems/view/1304) - Velocidade Média
+  - [ ]  [1306](https://www.beecrowd.com.br/judge/pt/problems/view/1306) - Numerando Estradas
+  - [ ]  [1307](https://www.beecrowd.com.br/judge/pt/problems/view/1307) - Tudo o que Você Precisa é Amor
+  - [ ]  [1308](https://www.beecrowd.com.br/judge/pt/problems/view/1308) - Guerreiros Etruscos Nunca Jogam Xadrez
+  - [ ]  [1324](https://www.beecrowd.com.br/judge/pt/problems/view/1324) - Bóson de Higgs
+  - [ ]  [1338](https://www.beecrowd.com.br/judge/pt/problems/view/1338) - It-Miha
+  - [ ]  [1346](https://www.beecrowd.com.br/judge/pt/problems/view/1346) - Brincadeira de Criança
+  - [ ]  [1347](https://www.beecrowd.com.br/judge/pt/problems/view/1347) - Mina Kriptonita
+  - [ ]  [1352](https://www.beecrowd.com.br/judge/pt/problems/view/1352) - Loteria Quadrada
+  - [ ]  [1353](https://www.beecrowd.com.br/judge/pt/problems/view/1353) - Super Poker
+  - [ ]  [1371](https://www.beecrowd.com.br/judge/pt/problems/view/1371) - Fechem as Portas!
+  - [ ]  [1376](https://www.beecrowd.com.br/judge/pt/problems/view/1376) - Irmãos
+  - [ ]  [1380](https://www.beecrowd.com.br/judge/pt/problems/view/1380) - Crescimento das Populações de Bacilos
+  - [ ]  [1381](https://www.beecrowd.com.br/judge/pt/problems/view/1381) - Equações Diofantinas
+  - [ ]  [1390](https://www.beecrowd.com.br/judge/pt/problems/view/1390) - Bases
+  - [ ]  [1392](https://www.beecrowd.com.br/judge/pt/problems/view/1392) - Conta de Luz
+  - [ ]  [1398](https://www.beecrowd.com.br/judge/pt/problems/view/1398) - Oceano Profundo! Faça-o Raso!!
+  - [ ]  [1399](https://www.beecrowd.com.br/judge/pt/problems/view/1399) - Transformador de Matriz
+  - [ ]  [1400](https://www.beecrowd.com.br/judge/pt/problems/view/1400) - Jogo - Contando
+  - [ ]  [1422](https://www.beecrowd.com.br/judge/pt/problems/view/1422) - Bactérias
+  - [ ]  [1433](https://www.beecrowd.com.br/judge/pt/problems/view/1433) - O Clube da Divisão
+  - [ ]  [1434](https://www.beecrowd.com.br/judge/pt/problems/view/1434) - Patrulheiros Romanos
+  - [ ]  [1450](https://www.beecrowd.com.br/judge/pt/problems/view/1450) - Os Joguinhos de Ramsés
+  - [ ]  [1465](https://www.beecrowd.com.br/judge/pt/problems/view/1465) - Complexo, Difícil e Complicado
+  - [ ]  [1481](https://www.beecrowd.com.br/judge/pt/problems/view/1481) - A Fazenda de Ostras de Zing Zhu
+  - [ ]  [1484](https://www.beecrowd.com.br/judge/pt/problems/view/1484) - Tecle &amp; Some
+  - [ ]  [1488](https://www.beecrowd.com.br/judge/pt/problems/view/1488) - Números Mágicos?
+  - [ ]  [1492](https://www.beecrowd.com.br/judge/pt/problems/view/1492) - Contando Uns
+  - [ ]  [1501](https://www.beecrowd.com.br/judge/pt/problems/view/1501) - Quantos Zeros e Quantos Dígitos?
+  - [ ]  [1505](https://www.beecrowd.com.br/judge/pt/problems/view/1505) - Curo Factories
+  - [ ]  [1512](https://www.beecrowd.com.br/judge/pt/problems/view/1512) - Azulejos
+  - [ ]  [1526](https://www.beecrowd.com.br/judge/pt/problems/view/1526) - Transportando Lanches
+  - [ ]  [1531](https://www.beecrowd.com.br/judge/pt/problems/view/1531) - Fibonacci de Novo!
+  - [ ]  [1537](https://www.beecrowd.com.br/judge/pt/problems/view/1537) - Fila do Banco
+  - [ ]  [1544](https://www.beecrowd.com.br/judge/pt/problems/view/1544) - O Último Dígito Não-Zero
+  - [ ]  [1554](https://www.beecrowd.com.br/judge/pt/problems/view/1554) - Bilhar N+1
+  - [ ]  [1563](https://www.beecrowd.com.br/judge/pt/problems/view/1563) - O Grande Problema
+  - [ ]  [1567](https://www.beecrowd.com.br/judge/pt/problems/view/1567) - (2/3/4)-D Sqr/Rects/Cubes/Boxes?
+  - [ ]  [1568](https://www.beecrowd.com.br/judge/pt/problems/view/1568) - {soma+=i++} até N
+  - [ ]  [1570](https://www.beecrowd.com.br/judge/pt/problems/view/1570) - Um Dia na Terra da Matemática
+  - [ ]  [1572](https://www.beecrowd.com.br/judge/pt/problems/view/1572) - O Torneio Surreal
+  - [ ]  [1577](https://www.beecrowd.com.br/judge/pt/problems/view/1577) - Polígonos Regulares Construtíveis
+  - [ ]  [1580](https://www.beecrowd.com.br/judge/pt/problems/view/1580) - Quid Est Veritas? Est Vir Qui Adest!
+  - [ ]  [1620](https://www.beecrowd.com.br/judge/pt/problems/view/1620) - Triangulação de Delaunay
+  - [ ]  [1623](https://www.beecrowd.com.br/judge/pt/problems/view/1623) - Linguagem
+  - [ ]  [1624](https://www.beecrowd.com.br/judge/pt/problems/view/1624) - Promoção
+  - [ ]  [1625](https://www.beecrowd.com.br/judge/pt/problems/view/1625) - Robocopia
+  - [ ]  [1626](https://www.beecrowd.com.br/judge/pt/problems/view/1626) - Maratona All FACE
+  - [ ]  [1634](https://www.beecrowd.com.br/judge/pt/problems/view/1634) - Outra Loteria
+  - [ ]  [1635](https://www.beecrowd.com.br/judge/pt/problems/view/1635) - Resultado das Eleições
+  - [ ]  [1641](https://www.beecrowd.com.br/judge/pt/problems/view/1641) - Restaurante e Pizzaria do Alfredo
+  - [ ]  [1644](https://www.beecrowd.com.br/judge/pt/problems/view/1644) - Decifre o Texto
+  - [ ]  [1647](https://www.beecrowd.com.br/judge/pt/problems/view/1647) - Um Jogo com Bolas de Gude
+  - [ ]  [1656](https://www.beecrowd.com.br/judge/pt/problems/view/1656) - Doces do Dia das Bruxas
+  - [ ]  [1658](https://www.beecrowd.com.br/judge/pt/problems/view/1658) - Grupos Diedro
+  - [ ]  [1660](https://www.beecrowd.com.br/judge/pt/problems/view/1660) - Flavius Josephus Está de Volta
+  - [ ]  [1662](https://www.beecrowd.com.br/judge/pt/problems/view/1662) - Quadrados Homogêneos
+  - [ ]  [1674](https://www.beecrowd.com.br/judge/pt/problems/view/1674) - Fractran
+  - [ ]  [1688](https://www.beecrowd.com.br/judge/pt/problems/view/1688) - Nim Intergalático
+  - [ ]  [1694](https://www.beecrowd.com.br/judge/pt/problems/view/1694) - Loteria
+  - [ ]  [1697](https://www.beecrowd.com.br/judge/pt/problems/view/1697) - Jaida e o Jogo Multiplicativo
+  - [ ]  [1703](https://www.beecrowd.com.br/judge/pt/problems/view/1703) - Pulando Pedras
+  - [ ]  [1705](https://www.beecrowd.com.br/judge/pt/problems/view/1705) - Apaixonado por Binário
+  - [ ]  [1722](https://www.beecrowd.com.br/judge/pt/problems/view/1722) - Quantos Fibs?
+  - [ ]  [1729](https://www.beecrowd.com.br/judge/pt/problems/view/1729) - Média Não é Rápida o Suficiente!
+  - [ ]  [1734](https://www.beecrowd.com.br/judge/pt/problems/view/1734) - Limite Encontrado
+  - [ ]  [1735](https://www.beecrowd.com.br/judge/pt/problems/view/1735) - Codifique a Árvore
+  - [ ]  [1736](https://www.beecrowd.com.br/judge/pt/problems/view/1736) - Decodifique a Árvore
+  - [ ]  [1745](https://www.beecrowd.com.br/judge/pt/problems/view/1745) - Contando Substhreengs
+  - [ ]  [1754](https://www.beecrowd.com.br/judge/pt/problems/view/1754) - A Sala do Tempo
+  - [ ]  [1756](https://www.beecrowd.com.br/judge/pt/problems/view/1756) - Algoritmo Genético
+  - [ ]  [1776](https://www.beecrowd.com.br/judge/pt/problems/view/1776) - Baile de Formatura
+  - [ ]  [1785](https://www.beecrowd.com.br/judge/pt/problems/view/1785) - Kaprekar
+  - [ ]  [1801](https://www.beecrowd.com.br/judge/pt/problems/view/1801) - Brincando com Números
+  - [ ]  [1807](https://www.beecrowd.com.br/judge/pt/problems/view/1807) - Triângulo Trinomial, a Vingança
+  - [ ]  [1812](https://www.beecrowd.com.br/judge/pt/problems/view/1812) - Um Cluster Para Evitar Enchentes
+  - [ ]  [1815](https://www.beecrowd.com.br/judge/pt/problems/view/1815) - Drunk People?
+  - [ ]  [1819](https://www.beecrowd.com.br/judge/pt/problems/view/1819) - Estimando a Produção
+  - [ ]  [1829](https://www.beecrowd.com.br/judge/pt/problems/view/1829) - Jogo do Maior Número
+  - [ ]  [1830](https://www.beecrowd.com.br/judge/pt/problems/view/1830) - Caixas de Bombons
+  - [ ]  [1831](https://www.beecrowd.com.br/judge/pt/problems/view/1831) - Dia Difícil de Trabalho
+  - [ ]  [1839](https://www.beecrowd.com.br/judge/pt/problems/view/1839) - A Câmara Secreta
+  - [ ]  [1841](https://www.beecrowd.com.br/judge/pt/problems/view/1841) - O Cálice de Fogo
+  - [ ]  [1872](https://www.beecrowd.com.br/judge/pt/problems/view/1872) - Palíndromo Real
+  - [ ]  [1904](https://www.beecrowd.com.br/judge/pt/problems/view/1904) - Par ou Ímpar 2.0
+  - [ ]  [1909](https://www.beecrowd.com.br/judge/pt/problems/view/1909) - Ajude Kiko
+  - [ ]  [1926](https://www.beecrowd.com.br/judge/pt/problems/view/1926) - Marianne e os Primos Gêmeos
+  - [ ]  [1946](https://www.beecrowd.com.br/judge/pt/problems/view/1946) - Pirâmide da Sorte
+  - [ ]  [1949](https://www.beecrowd.com.br/judge/pt/problems/view/1949) - Registrador de Deslocamento
+  - [ ]  [1967](https://www.beecrowd.com.br/judge/pt/problems/view/1967) - A Fronteira Final
+  - [ ]  [1968](https://www.beecrowd.com.br/judge/pt/problems/view/1968) - A Terra Desconhecida
+  - [ ]  [1969](https://www.beecrowd.com.br/judge/pt/problems/view/1969) - Generations
+  - [ ]  [1981](https://www.beecrowd.com.br/judge/pt/problems/view/1981) - Embaralhando de Novo
+  - [ ]  [1989](https://www.beecrowd.com.br/judge/pt/problems/view/1989) - Fazendo Nada
+  - [ ]  [1990](https://www.beecrowd.com.br/judge/pt/problems/view/1990) - Equilíbrio
+  - [ ]  [1992](https://www.beecrowd.com.br/judge/pt/problems/view/1992) - Ganhando Tempo
+  - [ ]  [1995](https://www.beecrowd.com.br/judge/pt/problems/view/1995) - Game, Set e Match
+  - [ ]  [1999](https://www.beecrowd.com.br/judge/pt/problems/view/1999) - Baile de Reconciliação
+  - [ ]  [2001](https://www.beecrowd.com.br/judge/pt/problems/view/2001) - Bile
+  - [ ]  [2007](https://www.beecrowd.com.br/judge/pt/problems/view/2007) - Falha Ao Cercar Legumes
+  - [ ]  [2033](https://www.beecrowd.com.br/judge/pt/problems/view/2033) - Juros Sobre o Empréstimo
+  - [ ]  [2034](https://www.beecrowd.com.br/judge/pt/problems/view/2034) - Cantor
+  - [ ]  [2063](https://www.beecrowd.com.br/judge/pt/problems/view/2063) - Caçando Digletts
+  - [ ]  [2068](https://www.beecrowd.com.br/judge/pt/problems/view/2068) - Marcando um Encontro
+  - [ ]  [2069](https://www.beecrowd.com.br/judge/pt/problems/view/2069) - A Mesa Quadrada de Inês Venezuela
+  - [ ]  [2076](https://www.beecrowd.com.br/judge/pt/problems/view/2076) - Alocação Ótima de Commodities
+  - [ ]  [2084](https://www.beecrowd.com.br/judge/pt/problems/view/2084) - Eleições
+  - [ ]  [2096](https://www.beecrowd.com.br/judge/pt/problems/view/2096) - Horácio e Seus Primos
+  - [ ]  [2100](https://www.beecrowd.com.br/judge/pt/problems/view/2100) - Cinema de Xing Tzen Zu
+  - [ ]  [2101](https://www.beecrowd.com.br/judge/pt/problems/view/2101) - Combinações de Dias
+  - [ ]  [2107](https://www.beecrowd.com.br/judge/pt/problems/view/2107) - As Pirâmides de Ecaterinburgo
+  - [ ]  [2114](https://www.beecrowd.com.br/judge/pt/problems/view/2114) - Poker
+  - [ ]  [2129](https://www.beecrowd.com.br/judge/pt/problems/view/2129) - Fatorial
+  - [ ]  [2133](https://www.beecrowd.com.br/judge/pt/problems/view/2133) - Números de Dinostratus
+  - [ ]  [2135](https://www.beecrowd.com.br/judge/pt/problems/view/2135) - Recuperação
+  - [ ]  [2145](https://www.beecrowd.com.br/judge/pt/problems/view/2145) - A Vida Amorosa dos Números
+  - [ ]  [2148](https://www.beecrowd.com.br/judge/pt/problems/view/2148) - Banco de Dados
+  - [ ]  [2149](https://www.beecrowd.com.br/judge/pt/problems/view/2149) - Sequência do Tio Phill Bonati
+  - [ ]  [2154](https://www.beecrowd.com.br/judge/pt/problems/view/2154) - Derivada de Polinômios
+  - [ ]  [2170](https://www.beecrowd.com.br/judge/pt/problems/view/2170) - Juros do Projeto
+  - [ ]  [2177](https://www.beecrowd.com.br/judge/pt/problems/view/2177) - Rio 2016
+  - [ ]  [2180](https://www.beecrowd.com.br/judge/pt/problems/view/2180) - Viagem à Marte na Velocidade de Primo
+  - [ ]  [2204](https://www.beecrowd.com.br/judge/pt/problems/view/2204) - Pare A Bomba!
+  - [ ]  [2222](https://www.beecrowd.com.br/judge/pt/problems/view/2222) - Brincando com Conjuntos
+  - [ ]  [2291](https://www.beecrowd.com.br/judge/pt/problems/view/2291) - Números Divinos
+  - [ ]  [2335](https://www.beecrowd.com.br/judge/pt/problems/view/2335) - O Desafio de Arquibaldo
+  - [ ]  [2337](https://www.beecrowd.com.br/judge/pt/problems/view/2337) - Pro Habilidade
+  - [ ]  [2474](https://www.beecrowd.com.br/judge/pt/problems/view/2474) - Burlando o Sistema
+  - [ ]  [2489](https://www.beecrowd.com.br/judge/pt/problems/view/2489) - Flecha no Coelho
+  - [ ]  [2494](https://www.beecrowd.com.br/judge/pt/problems/view/2494) - Canetas
+  - [ ]  [2499](https://www.beecrowd.com.br/judge/pt/problems/view/2499) - Triângulo Interno
+  - [ ]  [2500](https://www.beecrowd.com.br/judge/pt/problems/view/2500) - William Xorando
+  - [ ]  [2505](https://www.beecrowd.com.br/judge/pt/problems/view/2505) - Autopotencial
+  - [ ]  [2514](https://www.beecrowd.com.br/judge/pt/problems/view/2514) - Alinhamento Lunar
+  - [ ]  [2589](https://www.beecrowd.com.br/judge/pt/problems/view/2589) - Maior Distância Entre Primos Consecutivos
+  - [ ]  [2636](https://www.beecrowd.com.br/judge/pt/problems/view/2636) - 3-RSA
+  - [ ]  [2660](https://www.beecrowd.com.br/judge/pt/problems/view/2660) - Cigarras Periódicas
+  - [ ]  [2668](https://www.beecrowd.com.br/judge/pt/problems/view/2668) - K-ésimo
+  - [ ]  [2680](https://www.beecrowd.com.br/judge/pt/problems/view/2680) - Folha de Pagamentos
+  - [ ]  [2681](https://www.beecrowd.com.br/judge/pt/problems/view/2681) - Macacos da Torre de Hanoi
+  - [ ]  [2711](https://www.beecrowd.com.br/judge/pt/problems/view/2711) - Destravando o Celular
+  - [ ]  [2726](https://www.beecrowd.com.br/judge/pt/problems/view/2726) - Trenó Lotado
+  - [ ]  [2735](https://www.beecrowd.com.br/judge/pt/problems/view/2735) - O Presente de Nina
+  - [ ]  [2767](https://www.beecrowd.com.br/judge/pt/problems/view/2767) - Festa
+  - [ ]  [2777](https://www.beecrowd.com.br/judge/pt/problems/view/2777) - Subsets do Dabriel
+  - [ ]  [2801](https://www.beecrowd.com.br/judge/pt/problems/view/2801) - Cifra Affine
+  - [ ]  [2817](https://www.beecrowd.com.br/judge/pt/problems/view/2817) - Posto do Darlan
+  - [ ]  [2819](https://www.beecrowd.com.br/judge/pt/problems/view/2819) - Cartas Para o Noel
+  - [ ]  [2820](https://www.beecrowd.com.br/judge/pt/problems/view/2820) - Os Dígitos de Bruna
+  - [ ]  [2822](https://www.beecrowd.com.br/judge/pt/problems/view/2822) - Meu Primeiro Grafinho
+  - [ ]  [2828](https://www.beecrowd.com.br/judge/pt/problems/view/2828) - Anagramas
+  - [ ]  [2859](https://www.beecrowd.com.br/judge/pt/problems/view/2859) - Digit Root
+  - [ ]  [2873](https://www.beecrowd.com.br/judge/pt/problems/view/2873) - Pirâmide
+  - [ ]  [2878](https://www.beecrowd.com.br/judge/pt/problems/view/2878) - Cortador de Pizza
+  - [ ]  [2886](https://www.beecrowd.com.br/judge/pt/problems/view/2886) - Kepler
+  - [ ]  [2890](https://www.beecrowd.com.br/judge/pt/problems/view/2890) - Colorindo Tetraedros
+  - [ ]  [2892](https://www.beecrowd.com.br/judge/pt/problems/view/2892) - Treino No Velódromo
+  - [ ]  [2903](https://www.beecrowd.com.br/judge/pt/problems/view/2903) - A Symmetrical Pizza
+  - [ ]  [2937](https://www.beecrowd.com.br/judge/pt/problems/view/2937) - Cobra Norato
+  - [ ]  [2953](https://www.beecrowd.com.br/judge/pt/problems/view/2953) - Mais um Joguinho
+  - [ ]  [2955](https://www.beecrowd.com.br/judge/pt/problems/view/2955) - Truuuuuco!
+  - [ ]  [2978](https://www.beecrowd.com.br/judge/pt/problems/view/2978) - Cartão
+  - [ ]  [2983](https://www.beecrowd.com.br/judge/pt/problems/view/2983) - Nem Tudo é Greve
+  - [ ]  [3002](https://www.beecrowd.com.br/judge/pt/problems/view/3002) - Salve a Lilly!
+  - [ ]  [3007](https://www.beecrowd.com.br/judge/pt/problems/view/3007) - Lucas e Frobenius
+  - [ ]  [3026](https://www.beecrowd.com.br/judge/pt/problems/view/3026) - Número Inteiro Periódico
+  - [ ]  [3029](https://www.beecrowd.com.br/judge/pt/problems/view/3029) - Função Composição
+  - [ ]  [3036](https://www.beecrowd.com.br/judge/pt/problems/view/3036) - Cor da Camisa
+  - [ ]  [3078](https://www.beecrowd.com.br/judge/pt/problems/view/3078) - Só o Ouro
+  - [ ]  [3079](https://www.beecrowd.com.br/judge/pt/problems/view/3079) - Rua Iluminada
+  - [ ]  [3096](https://www.beecrowd.com.br/judge/pt/problems/view/3096) - Overflow
+  - [ ]  [3099](https://www.beecrowd.com.br/judge/pt/problems/view/3099) - O Problema do 7 x 1
+  - [ ]  [3110](https://www.beecrowd.com.br/judge/pt/problems/view/3110) - Farcos e o Xorshift
+  - [ ]  [3138](https://www.beecrowd.com.br/judge/pt/problems/view/3138) - Aniversário do Tobias
+  - [ ]  [3179](https://www.beecrowd.com.br/judge/pt/problems/view/3179) - Melhor Compressão de Todas
+  - [ ]  [3182](https://www.beecrowd.com.br/judge/pt/problems/view/3182) - Planejamento de Evento
+  - [ ]  [3183](https://www.beecrowd.com.br/judge/pt/problems/view/3183) - Corrigindo os Bugs
+  - [ ]  [3185](https://www.beecrowd.com.br/judge/pt/problems/view/3185) - Evidência Difícil
+  - [ ]  [3187](https://www.beecrowd.com.br/judge/pt/problems/view/3187) - Apenas Mais Alguns Triângulos!
+  - [ ]  [3216](https://www.beecrowd.com.br/judge/pt/problems/view/3216) - Teste Alérgico
+  - [ ]  [3223](https://www.beecrowd.com.br/judge/pt/problems/view/3223) - Permutações de Código
+  - [ ]  [3257](https://www.beecrowd.com.br/judge/pt/problems/view/3257) - Plantando Árvores
+  - [ ]  [3259](https://www.beecrowd.com.br/judge/pt/problems/view/3259) - Truque Numérico
+  - [ ]  [3265](https://www.beecrowd.com.br/judge/pt/problems/view/3265) - Reconstrução de Dança
+  - [ ]  [3266](https://www.beecrowd.com.br/judge/pt/problems/view/3266) - Dartboard
+  - [ ]  [3270](https://www.beecrowd.com.br/judge/pt/problems/view/3270) - Praça Catalã
+  - [ ]  [3271](https://www.beecrowd.com.br/judge/pt/problems/view/3271) - Jogo de Dados
+  - [ ]  [3272](https://www.beecrowd.com.br/judge/pt/problems/view/3272) - Cerimônia de Abertura
+  - [ ]  [3276](https://www.beecrowd.com.br/judge/pt/problems/view/3276) - Quantos Quadrados?
+  - [ ]  [3304](https://www.beecrowd.com.br/judge/pt/problems/view/3304) - Alguma Sorte!
+  - [ ]  [3308](https://www.beecrowd.com.br/judge/pt/problems/view/3308) - Elevador
+  - [ ]  [3339](https://www.beecrowd.com.br/judge/pt/problems/view/3339) - Carina
+  - [ ]  [3341](https://www.beecrowd.com.br/judge/pt/problems/view/3341) - Grandmaster do Jogo do Caneco
+  - [ ]  [3345](https://www.beecrowd.com.br/judge/pt/problems/view/3345) - O Passatempo de Ferdinacci
+  - [ ]  [3354](https://www.beecrowd.com.br/judge/pt/problems/view/3354) - Joãozinho Vem Para o Sul

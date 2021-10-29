@@ -4,6 +4,6 @@
 
 ## Problemas resolvidos
 
-  - [x]  [3049](https://www.urionlinejudge.com.br/judge/pt/problems/view/3049) - [Nota Cortada](https://github.com/potigol/uoj-potigol/blob/master/src/3000/3049.poti)
+  - [x]  [3049](https://www.beecrowd.com.br/judge/pt/problems/view/3049) - [Nota Cortada](https://github.com/potigol/uoj-potigol/blob/master/src/3000/3049.poti)
 
 ## Problemas não resolvidos
