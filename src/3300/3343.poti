@@ -1,19 +1,21 @@
 entrada = leia_inteiros(" ")
-n, x = entrada[1], entrada[2]
 titas = leia_texto
 tamanho = leia_inteiros(" ")
-t1, t2, t3 = tamanho[1], tamanho[2], tamanho[3]
-var p, m : Lista[Inteiro] = []
-var g, muralhas := 0
+
+n, x = entrada[1], entrada[2]
+t1, t2, t3 = tamanho[1], tamanho[2], tamanho[3] # tamanho dos titas
+
+var p, m : Lista[Inteiro] = []  # listas das muralhas pequenas e medias
+var g, muralhas := 0 # tamanho da muralha grande, quantidade de muralhas necessarias
 
 fg(t: Inteiro) =
   se g >= t então
     g := g - t
   senao
     se g >= t2 entao
-      m := g :: m  # coloca o tita gigante na lista dos titas medios
+      m := g :: m  # coloca a muralha grande na lista das muralhas medias
     senaose g >= t1 entao
-      p := g :: p  # coloca o tita gigante na lista dos titas pequenos
+      p := g :: p  # coloca a muralha grande na lista das muralhas pequenas
     fim
     g := x - t
     muralhas := muralhas + 1
@@ -24,7 +26,7 @@ fm(t: Inteiro) =
     m[1] := m[1] - t
     se m[1] < t2 então
       se m[1] >= t1 então
-        p := m[1] :: p # coloca o tita medio na lista dos titas pequenos
+        p := m[1] :: p # coloca a primeira muralha media na lista das muralhas pequenas
       fim
       m := m.cauda
     fim
@@ -37,7 +39,7 @@ fp(t: Inteiro) =
     se p[1] >= 2 * t entao
       p[1] := p[1] - t
     senao
-      p := p.cauda
+      p := p.cauda  # remove a muralha da lista de muralhas pequenas
     fim
   senão
     fm(t)
