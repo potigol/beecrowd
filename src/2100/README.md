@@ -1,4 +1,4 @@
-# Problemas 2100 (28%)
+# Problemas 2100 (29%)
 
   - [ ]  [2100](https://www.beecrowd.com.br/judge/pt/problems/view/2100) - Cinema de Xing Tzen Zu *Matemática*
   - [ ]  [2101](https://www.beecrowd.com.br/judge/pt/problems/view/2101) - Combinações de Dias *Matemática*
@@ -58,7 +58,7 @@
   - [ ]  [2155](https://www.beecrowd.com.br/judge/pt/problems/view/2155) - Os Icosaedros do Lagarto *Grafos*
   - [ ]  [2156](https://www.beecrowd.com.br/judge/pt/problems/view/2156) - As Aventuras de Pak-man *Ad-Hoc*
   - [x]  [2157](https://www.beecrowd.com.br/judge/pt/problems/view/2157) - [Sequência Espelho](https://github.com/potigol/uoj-potigol/blob/master/src/2100/2157.poti) *Strings*
-  - [ ]  [2158](https://www.beecrowd.com.br/judge/pt/problems/view/2158) - Ajudando o Tio Cláudio *Geometria Computacional*
+  - [x]  [2158](https://www.beecrowd.com.br/judge/pt/problems/view/2158) - [Ajudando o Tio Cláudio](https://github.com/potigol/uoj-potigol/blob/master/src/2100/2158.poti) *Geometria Computacional*
   - [x]  [2159](https://www.beecrowd.com.br/judge/pt/problems/view/2159) - [Número Aproximado de Primos](https://github.com/potigol/uoj-potigol/blob/master/src/2100/2159.poti) *Iniciante*
   - [x]  [2160](https://www.beecrowd.com.br/judge/pt/problems/view/2160) - [Nome no Formulário](https://github.com/potigol/uoj-potigol/blob/master/src/2100/2160.poti) *Iniciante*
   - [x]  [2161](https://www.beecrowd.com.br/judge/pt/problems/view/2161) - [Raiz Quadrada de 10](https://github.com/potigol/uoj-potigol/blob/master/src/2100/2161.poti) *Iniciante*

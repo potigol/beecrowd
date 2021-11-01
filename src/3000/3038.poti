@@ -1,0 +1,15 @@
+var linha := leia_texto
+enquanto nao eof faca
+  saida = para c em linha gere
+    escolha c
+      caso '@' => 'a'
+      caso '&' => 'e'
+      caso '!' => 'i'
+      caso '*' => 'o'
+      caso '#' => 'u'
+      caso  c  =>  c
+    fim
+  fim
+  escreva saida.junte("")
+  linha := leia_texto
+fim

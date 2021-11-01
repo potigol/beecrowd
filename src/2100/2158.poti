@@ -1,0 +1,13 @@
+var c := 0
+var entrada := leia_texto
+enquanto nao eof faca
+  a = entrada.divida(" ").mapeie(i => BigInt(i))
+  fp, fh = a[1], a[2]
+  lig = (5 * fp + 6 * fh) div 2
+  ato = 2 + lig - fp - fh
+  c := c + 1
+  escreva "Molecula #{c}.:."
+  escreva "Possui {ato} atomos e {lig} ligacoes"
+  escreva ""
+  entrada := leia_texto
+fim

@@ -1,0 +1,20 @@
+# cem = para i de 1 ate 100 gere i fim
+# res(x, aux: Inteiro) = cem.pegue(x - 1).injete(0)((a, i) => (a + aux) mod i)
+
+res(x, aux: Inteiro)
+  var aux1 := 0
+  para i de 1 ate x - 1 faca
+    aux1 := (aux1 + aux) mod i
+  fim
+  aux1
+fim
+
+var x:= leia_inteiro
+enquanto x > 0 faça
+  var aux := 1
+  enquanto res(x, aux) <> 11 faça
+    aux := aux + 1
+  fim
+  escreva aux
+  x := leia_inteiro
+fim

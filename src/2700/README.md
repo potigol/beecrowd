@@ -1,4 +1,4 @@
-# Problemas 2700 (46%)
+# Problemas 2700 (47%)
 
   - [ ]  [2700](https://www.beecrowd.com.br/judge/pt/problems/view/2700) - Angariando Fundos *Estruturas e Bibliotecas*
   - [ ]  [2701](https://www.beecrowd.com.br/judge/pt/problems/view/2701) - Portas da Incerteza *Ad-Hoc*
@@ -15,7 +15,7 @@
   - [x]  [2712](https://www.beecrowd.com.br/judge/pt/problems/view/2712) - [Rodízio Veicular](https://github.com/potigol/uoj-potigol/blob/master/src/2700/2712.poti) *Iniciante*
   - [ ]  [2713](https://www.beecrowd.com.br/judge/pt/problems/view/2713) - O Mago é Implacável! *Paradigmas*
   - [x]  [2714](https://www.beecrowd.com.br/judge/pt/problems/view/2714) - [Minha Senha Provisória](https://github.com/potigol/uoj-potigol/blob/master/src/2700/2714.poti) *Strings*
-  - [ ]  [2715](https://www.beecrowd.com.br/judge/pt/problems/view/2715) - Dividindo os Trabalhos I *Iniciante*
+  - [x]  [2715](https://www.beecrowd.com.br/judge/pt/problems/view/2715) - [Dividindo os Trabalhos I](https://github.com/potigol/uoj-potigol/blob/master/src/2700/2715.poti) *Iniciante*
   - [ ]  [2716](https://www.beecrowd.com.br/judge/pt/problems/view/2716) - Dividindo os Trabalhos II *Paradigmas*
   - [x]  [2717](https://www.beecrowd.com.br/judge/pt/problems/view/2717) - [Tempo do Duende](https://github.com/potigol/uoj-potigol/blob/master/src/2700/2717.poti) *Iniciante*
   - [x]  [2718](https://www.beecrowd.com.br/judge/pt/problems/view/2718) - [Luzes de Natal](https://github.com/potigol/uoj-potigol/blob/master/src/2700/2718.poti) *Iniciante*

@@ -1,4 +1,4 @@
-# Problemas 3000 (29%)
+# Problemas 3000 (30%)
 
   - [ ] ~~xxxx~~
   - [ ]  ~~3001~~ - *SQL*
@@ -38,7 +38,7 @@
   - [ ]  [3035](https://www.beecrowd.com.br/judge/pt/problems/view/3035) - Fabrica de Peças *Ad-Hoc*
   - [ ]  [3036](https://www.beecrowd.com.br/judge/pt/problems/view/3036) - Cor da Camisa *Matemática*
   - [x]  [3037](https://www.beecrowd.com.br/judge/pt/problems/view/3037) - [Jogando Dardos Por Distância](https://github.com/potigol/uoj-potigol/blob/master/src/3000/3037.poti) *Iniciante*
-  - [ ]  [3038](https://www.beecrowd.com.br/judge/pt/problems/view/3038) - Carta de Natal Criptografada *Strings*
+  - [x]  [3038](https://www.beecrowd.com.br/judge/pt/problems/view/3038) - [Carta de Natal Criptografada](https://github.com/potigol/uoj-potigol/blob/master/src/3000/3038.poti) *Strings*
   - [x]  [3039](https://www.beecrowd.com.br/judge/pt/problems/view/3039) - [Brinquedos do Papai Noel](https://github.com/potigol/uoj-potigol/blob/master/src/3000/3039.poti) *Iniciante*
   - [x]  [3040](https://www.beecrowd.com.br/judge/pt/problems/view/3040) - [A Árvore de Natal](https://github.com/potigol/uoj-potigol/blob/master/src/3000/3040.poti) *Iniciante*
   - [ ]  [3041](https://www.beecrowd.com.br/judge/pt/problems/view/3041) - Distribuição de Artigos *Ad-Hoc*

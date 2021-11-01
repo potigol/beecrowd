@@ -1,0 +1,6 @@
+n = leia_inteiro
+para i de 1 até n faça
+  x = leia_real
+  a = ((raiz(1 + 8 * x) - 1) / 2).inteiro
+  escreva a
+fim

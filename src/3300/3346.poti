@@ -1,0 +1,4 @@
+entrada = leia_reais(" ")
+f1, f2 = entrada[1], entrada[2]
+resposta = (100 + f1) * (f2 / 100 + 1) - 100
+escreva resposta formato "%.6f"

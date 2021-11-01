@@ -1,4 +1,4 @@
-# Strings (61 / 148)
+# Strings (62 / 148)
 
 
 
@@ -58,6 +58,7 @@
   - [x]  [2866](https://www.beecrowd.com.br/judge/pt/problems/view/2866) - [Criptotexto](https://github.com/potigol/uoj-potigol/blob/master/src/2800/2866.poti)
   - [x]  [2880](https://www.beecrowd.com.br/judge/pt/problems/view/2880) - [Enigma](https://github.com/potigol/uoj-potigol/blob/master/src/2800/2880.poti)
   - [x]  [2906](https://www.beecrowd.com.br/judge/pt/problems/view/2906) - [Database of Clients](https://github.com/potigol/uoj-potigol/blob/master/src/2900/2906.poti)
+  - [x]  [3038](https://www.beecrowd.com.br/judge/pt/problems/view/3038) - [Carta de Natal Criptografada](https://github.com/potigol/uoj-potigol/blob/master/src/3000/3038.poti)
   - [x]  [3088](https://www.beecrowd.com.br/judge/pt/problems/view/3088) - [Correção de Texto](https://github.com/potigol/uoj-potigol/blob/master/src/3000/3088.poti)
   - [x]  [3103](https://www.beecrowd.com.br/judge/pt/problems/view/3103) - [Número da Sorte](https://github.com/potigol/uoj-potigol/blob/master/src/3100/3103.poti)
   - [x]  [3141](https://www.beecrowd.com.br/judge/pt/problems/view/3141) - [Dúvida Etária](https://github.com/potigol/uoj-potigol/blob/master/src/3100/3141.poti)
@@ -141,7 +142,6 @@
   - [ ]  [2960](https://www.beecrowd.com.br/judge/pt/problems/view/2960) - Era Uma Vez…
   - [ ]  [2974](https://www.beecrowd.com.br/judge/pt/problems/view/2974) - Fechadura
   - [ ]  [2975](https://www.beecrowd.com.br/judge/pt/problems/view/2975) - Anel
-  - [ ]  [3038](https://www.beecrowd.com.br/judge/pt/problems/view/3038) - Carta de Natal Criptografada
   - [ ]  [3080](https://www.beecrowd.com.br/judge/pt/problems/view/3080) - Proteja os Dados
   - [ ]  [3083](https://www.beecrowd.com.br/judge/pt/problems/view/3083) - Emreh, Liug E As Strings
   - [ ]  [3100](https://www.beecrowd.com.br/judge/pt/problems/view/3100) - Os Dígitos da Sorte

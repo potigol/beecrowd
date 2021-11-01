@@ -1,4 +1,4 @@
-# Problemas 3300 (30%)
+# Problemas 3300 (36%)
 
   - [x]  [3300](https://www.beecrowd.com.br/judge/pt/problems/view/3300) - [Números Má Sorte Recarregados](https://github.com/potigol/uoj-potigol/blob/master/src/3300/3300.poti) *Strings*
   - [x]  [3301](https://www.beecrowd.com.br/judge/pt/problems/view/3301) - [Sobrinho do Meio](https://github.com/potigol/uoj-potigol/blob/master/src/3300/3301.poti) *Iniciante*
@@ -43,10 +43,10 @@
   - [ ]  [3340](https://www.beecrowd.com.br/judge/pt/problems/view/3340) - Estudante De Mestrado *Grafos*
   - [ ]  [3341](https://www.beecrowd.com.br/judge/pt/problems/view/3341) - Grandmaster do Jogo do Caneco *Matemática*
   - [x]  [3342](https://www.beecrowd.com.br/judge/pt/problems/view/3342) - [Keanu](https://github.com/potigol/uoj-potigol/blob/master/src/3300/3342.poti) *Iniciante*
-  - [ ]  [3343](https://www.beecrowd.com.br/judge/pt/problems/view/3343) - Attack On Gasparini *Iniciante*
+  - [x]  [3343](https://www.beecrowd.com.br/judge/pt/problems/view/3343) - [Attack On Gasparini](https://github.com/potigol/uoj-potigol/blob/master/src/3300/3343.poti) *Iniciante*
   - [x]  [3344](https://www.beecrowd.com.br/judge/pt/problems/view/3344) - [Brute](https://github.com/potigol/uoj-potigol/blob/master/src/3300/3344.poti) *Iniciante*
   - [ ]  [3345](https://www.beecrowd.com.br/judge/pt/problems/view/3345) - O Passatempo de Ferdinacci *Matemática*
-  - [ ]  [3346](https://www.beecrowd.com.br/judge/pt/problems/view/3346) - Flutuação do PIB *Iniciante*
+  - [x]  [3346](https://www.beecrowd.com.br/judge/pt/problems/view/3346) - [Flutuação do PIB](https://github.com/potigol/uoj-potigol/blob/master/src/3300/3346.poti) *Iniciante*
   - [ ]  [3347](https://www.beecrowd.com.br/judge/pt/problems/view/3347) - Ancestralidade *Strings*
   - [ ]  [3348](https://www.beecrowd.com.br/judge/pt/problems/view/3348) - Jogo das Aranhas *Iniciante*
   - [ ]  [3349](https://www.beecrowd.com.br/judge/pt/problems/view/3349) - Armadura *Paradigmas*

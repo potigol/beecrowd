@@ -1,4 +1,4 @@
-# Iniciante (308 / 336)
+# Iniciante (311 / 336)
 
 
 
@@ -216,6 +216,7 @@
   - [x]  [2708](https://www.beecrowd.com.br/judge/pt/problems/view/2708) - [Turistas no Parque Huacachina](https://github.com/potigol/uoj-potigol/blob/master/src/2700/2708.poti)
   - [x]  [2709](https://www.beecrowd.com.br/judge/pt/problems/view/2709) - [As Moedas de Robbie](https://github.com/potigol/uoj-potigol/blob/master/src/2700/2709.poti)
   - [x]  [2712](https://www.beecrowd.com.br/judge/pt/problems/view/2712) - [Rodízio Veicular](https://github.com/potigol/uoj-potigol/blob/master/src/2700/2712.poti)
+  - [x]  [2715](https://www.beecrowd.com.br/judge/pt/problems/view/2715) - [Dividindo os Trabalhos I](https://github.com/potigol/uoj-potigol/blob/master/src/2700/2715.poti)
   - [x]  [2717](https://www.beecrowd.com.br/judge/pt/problems/view/2717) - [Tempo do Duende](https://github.com/potigol/uoj-potigol/blob/master/src/2700/2717.poti)
   - [x]  [2718](https://www.beecrowd.com.br/judge/pt/problems/view/2718) - [Luzes de Natal](https://github.com/potigol/uoj-potigol/blob/master/src/2700/2718.poti)
   - [x]  [2721](https://www.beecrowd.com.br/judge/pt/problems/view/2721) - [Indecisão das Renas](https://github.com/potigol/uoj-potigol/blob/master/src/2700/2721.poti)
@@ -311,11 +312,12 @@
   - [x]  [3302](https://www.beecrowd.com.br/judge/pt/problems/view/3302) - [Resposta Certa](https://github.com/potigol/uoj-potigol/blob/master/src/3300/3302.poti)
   - [x]  [3303](https://www.beecrowd.com.br/judge/pt/problems/view/3303) - [Palavrão](https://github.com/potigol/uoj-potigol/blob/master/src/3300/3303.poti)
   - [x]  [3342](https://www.beecrowd.com.br/judge/pt/problems/view/3342) - [Keanu](https://github.com/potigol/uoj-potigol/blob/master/src/3300/3342.poti)
+  - [x]  [3343](https://www.beecrowd.com.br/judge/pt/problems/view/3343) - [Attack On Gasparini](https://github.com/potigol/uoj-potigol/blob/master/src/3300/3343.poti)
   - [x]  [3344](https://www.beecrowd.com.br/judge/pt/problems/view/3344) - [Brute](https://github.com/potigol/uoj-potigol/blob/master/src/3300/3344.poti)
+  - [x]  [3346](https://www.beecrowd.com.br/judge/pt/problems/view/3346) - [Flutuação do PIB](https://github.com/potigol/uoj-potigol/blob/master/src/3300/3346.poti)
 
 ## Problemas não resolvidos
 
-  - [ ]  [2715](https://www.beecrowd.com.br/judge/pt/problems/view/2715) - Dividindo os Trabalhos I
   - [ ]  [2758](https://www.beecrowd.com.br/judge/pt/problems/view/2758) - Entrada e Saída de Números Reais
   - [ ]  [2769](https://www.beecrowd.com.br/judge/pt/problems/view/2769) - Linha de Montagem
   - [ ]  [3164](https://www.beecrowd.com.br/judge/pt/problems/view/3164) - Fiscalizando Empresa
@@ -340,6 +342,4 @@
   - [ ]  [3258](https://www.beecrowd.com.br/judge/pt/problems/view/3258) - Fervendo Vegetais
   - [ ]  [3267](https://www.beecrowd.com.br/judge/pt/problems/view/3267) - Passeio no Penhasco
   - [ ]  [3306](https://www.beecrowd.com.br/judge/pt/problems/view/3306) - Consulta e Alteração
-  - [ ]  [3343](https://www.beecrowd.com.br/judge/pt/problems/view/3343) - Attack On Gasparini
-  - [ ]  [3346](https://www.beecrowd.com.br/judge/pt/problems/view/3346) - Flutuação do PIB
   - [ ]  [3348](https://www.beecrowd.com.br/judge/pt/problems/view/3348) - Jogo das Aranhas

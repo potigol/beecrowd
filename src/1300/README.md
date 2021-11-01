@@ -1,4 +1,4 @@
-# Problemas 1300 (12%)
+# Problemas 1300 (13%)
 
   - [x]  [1300](https://www.beecrowd.com.br/judge/pt/problems/view/1300) - [Horas e Minutos](https://github.com/potigol/uoj-potigol/blob/master/src/1300/1300.poti) *Ad-Hoc*
   - [ ]  [1301](https://www.beecrowd.com.br/judge/pt/problems/view/1301) - Produto do Intervalo *Estruturas e Bibliotecas*
@@ -8,7 +8,7 @@
   - [ ]  [1305](https://www.beecrowd.com.br/judge/pt/problems/view/1305) - Arredondamento por Valor de Corte *Strings*
   - [ ]  [1306](https://www.beecrowd.com.br/judge/pt/problems/view/1306) - Numerando Estradas *Matemática*
   - [ ]  [1307](https://www.beecrowd.com.br/judge/pt/problems/view/1307) - Tudo o que Você Precisa é Amor *Matemática*
-  - [ ]  [1308](https://www.beecrowd.com.br/judge/pt/problems/view/1308) - Guerreiros Etruscos Nunca Jogam Xadrez *Matemática*
+  - [x]  [1308](https://www.beecrowd.com.br/judge/pt/problems/view/1308) - [Guerreiros Etruscos Nunca Jogam Xadrez](https://github.com/potigol/uoj-potigol/blob/master/src/1300/1308.poti) *Matemática*
   - [x]  [1309](https://www.beecrowd.com.br/judge/pt/problems/view/1309) - [Formatação Monetária](https://github.com/potigol/uoj-potigol/blob/master/src/1300/1309.poti) *Matemática*
   - [ ]  [1310](https://www.beecrowd.com.br/judge/pt/problems/view/1310) - Lucro *Paradigmas*
   - [ ]  [1311](https://www.beecrowd.com.br/judge/pt/problems/view/1311) - Companheiros de Exército *Ad-Hoc*

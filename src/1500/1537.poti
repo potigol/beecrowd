@@ -1,0 +1,11 @@
+var anterior := 1.toLong
+f = 0 :: 0 :: 1 :: para i de 4 ate 100000 gere
+  anterior := i * anterior mod 1000000009
+  anterior.toInt
+fim
+
+var n := leia_inteiro
+enquanto n > 0 faça
+  escreva f[n]
+  n := leia_inteiro
+fim

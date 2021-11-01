@@ -1,4 +1,4 @@
-# Matemática (60 / 269)
+# Matemática (62 / 269)
 
 
 
@@ -18,6 +18,7 @@
   - [x]  [1221](https://www.beecrowd.com.br/judge/pt/problems/view/1221) - [Primo Rápido](https://github.com/potigol/uoj-potigol/blob/master/src/1200/1221.poti)
   - [x]  [1240](https://www.beecrowd.com.br/judge/pt/problems/view/1240) - [Encaixa ou Não I](https://github.com/potigol/uoj-potigol/blob/master/src/1200/1240.poti)
   - [x]  [1247](https://www.beecrowd.com.br/judge/pt/problems/view/1247) - [Guarda Costeira](https://github.com/potigol/uoj-potigol/blob/master/src/1200/1247.poti)
+  - [x]  [1308](https://www.beecrowd.com.br/judge/pt/problems/view/1308) - [Guerreiros Etruscos Nunca Jogam Xadrez](https://github.com/potigol/uoj-potigol/blob/master/src/1300/1308.poti)
   - [x]  [1309](https://www.beecrowd.com.br/judge/pt/problems/view/1309) - [Formatação Monetária](https://github.com/potigol/uoj-potigol/blob/master/src/1300/1309.poti)
   - [x]  [1323](https://www.beecrowd.com.br/judge/pt/problems/view/1323) - [Feynman](https://github.com/potigol/uoj-potigol/blob/master/src/1300/1323.poti)
   - [x]  [1393](https://www.beecrowd.com.br/judge/pt/problems/view/1393) - [Lajotas Hexagonais](https://github.com/potigol/uoj-potigol/blob/master/src/1300/1393.poti)
@@ -25,6 +26,7 @@
   - [x]  [1436](https://www.beecrowd.com.br/judge/pt/problems/view/1436) - [Jogo do Tijolo](https://github.com/potigol/uoj-potigol/blob/master/src/1400/1436.poti)
   - [x]  [1444](https://www.beecrowd.com.br/judge/pt/problems/view/1444) - [Corrida dos Marrecos](https://github.com/potigol/uoj-potigol/blob/master/src/1400/1444.poti)
   - [x]  [1457](https://www.beecrowd.com.br/judge/pt/problems/view/1457) - [Oráculo de Alexandria](https://github.com/potigol/uoj-potigol/blob/master/src/1400/1457.poti)
+  - [x]  [1537](https://www.beecrowd.com.br/judge/pt/problems/view/1537) - [Fila do Banco](https://github.com/potigol/uoj-potigol/blob/master/src/1500/1537.poti)
   - [x]  [1555](https://www.beecrowd.com.br/judge/pt/problems/view/1555) - [Funções](https://github.com/potigol/uoj-potigol/blob/master/src/1500/1555.poti)
   - [x]  [1582](https://www.beecrowd.com.br/judge/pt/problems/view/1582) - [O Teorema de Pitágoras](https://github.com/potigol/uoj-potigol/blob/master/src/1500/1582.poti)
   - [x]  [1585](https://www.beecrowd.com.br/judge/pt/problems/view/1585) - [Fazendo Pandorgas](https://github.com/potigol/uoj-potigol/blob/master/src/1500/1585.poti)
@@ -84,7 +86,6 @@
   - [ ]  [1304](https://www.beecrowd.com.br/judge/pt/problems/view/1304) - Velocidade Média
   - [ ]  [1306](https://www.beecrowd.com.br/judge/pt/problems/view/1306) - Numerando Estradas
   - [ ]  [1307](https://www.beecrowd.com.br/judge/pt/problems/view/1307) - Tudo o que Você Precisa é Amor
-  - [ ]  [1308](https://www.beecrowd.com.br/judge/pt/problems/view/1308) - Guerreiros Etruscos Nunca Jogam Xadrez
   - [ ]  [1324](https://www.beecrowd.com.br/judge/pt/problems/view/1324) - Bóson de Higgs
   - [ ]  [1338](https://www.beecrowd.com.br/judge/pt/problems/view/1338) - It-Miha
   - [ ]  [1346](https://www.beecrowd.com.br/judge/pt/problems/view/1346) - Brincadeira de Criança
@@ -114,7 +115,6 @@
   - [ ]  [1512](https://www.beecrowd.com.br/judge/pt/problems/view/1512) - Azulejos
   - [ ]  [1526](https://www.beecrowd.com.br/judge/pt/problems/view/1526) - Transportando Lanches
   - [ ]  [1531](https://www.beecrowd.com.br/judge/pt/problems/view/1531) - Fibonacci de Novo!
-  - [ ]  [1537](https://www.beecrowd.com.br/judge/pt/problems/view/1537) - Fila do Banco
   - [ ]  [1544](https://www.beecrowd.com.br/judge/pt/problems/view/1544) - O Último Dígito Não-Zero
   - [ ]  [1554](https://www.beecrowd.com.br/judge/pt/problems/view/1554) - Bilhar N+1
   - [ ]  [1563](https://www.beecrowd.com.br/judge/pt/problems/view/1563) - O Grande Problema
