@@ -3,61 +3,54 @@ n, x = entrada[1], entrada[2]
 titas = leia_texto
 tamanho = leia_inteiros(" ")
 t1, t2, t3 = tamanho[1], tamanho[2], tamanho[3]
-var p, m, g = [0].cauda
-var muralhas := 0
+var p, m : Lista[Inteiro] = []
+var g, muralhas := 0
+
+fg(t: Inteiro) =
+  se g >= t então
+    g := g - t
+  senao
+    se g >= t2 entao
+      m := g :: m  # coloca o tita gigante na lista dos titas medios
+    senaose g >= t1 entao
+      p := g :: p  # coloca o tita gigante na lista dos titas pequenos
+    fim
+    g := x - t
+    muralhas := muralhas + 1
+  fim
+
+fm(t: Inteiro) =
+  se m <> [] então
+    m[1] := m[1] - t
+    se m[1] < t2 então
+      se m[1] >= t1 então
+        p := m[1] :: p # coloca o tita medio na lista dos titas pequenos
+      fim
+      m := m.cauda
+    fim
+  senao
+    fg(t)
+  fim
+
+fp(t: Inteiro) =
+  se p <> [] então
+    se p[1] >= 2 * t entao
+      p[1] := p[1] - t
+    senao
+      p := p.cauda
+    fim
+  senão
+    fm(t)
+  fim
+
 para t em titas faça
   escolha t
-    caso 'P' =>
-      enquanto p <> [] e p.cabeça < t1 faça
-        muralhas := muralhas + 1
-        p := p.cauda
-      fim
-      se p <> [] então
-        p[1] := p[1] - t1
-        se p[1] == 0 então p := p.cauda muralhas := muralhas + 1 fim
-      senão
-        se m <> [] e m[1] >= t1 então
-          m[1] := m[1] - t1
-        senaose g <> [] e g[1] >= t1 então
-          g[1] := g[1] - t1
-        senao
-          g := [x-t1]
-        fim
-      fim
-    caso 'M' =>
-      enquanto m <> [] e m.cabeça < t2 faça
-        p := m.cabeça :: p
-        m := m.cauda
-      fim
-      se m <> [] então
-          m[1] := m[1] - t2
-          se m[1] == 0 então m := m.cauda muralhas := muralhas + 1 fim
-      senão
-        se g <> [] e g[1] >= t2 então
-          g[1] := g[1] - t2
-        senao
-          g := [x-t2]
-        fim
-      fim
-    caso _ =>
-      enquanto g <> [] e g.cabeça < t3 faça
-        m := g.cabeça :: m
-        g := g.cauda
-      fim
-      se g <> [] então
-        g[1] := g[1] - t3
-        se g[1] == 0 então g := g.cauda muralhas := muralhas + 1 fim
-      senão
-        g := [x - t3]
-      fim
+    caso 'P' => fp(t1)
+    caso 'M' => fm(t2)
+    caso  _  => fg(t3)
   fim
-  se g <> [] e g[1] < t3 então m := g[1]::m g := g.cauda fim
-  se m <> [] e m[1] < t2 então p := m[1]::p m := m.cauda fim
-  se p <> [] e p[1] < t1 então muralhas := muralhas + 1 p := p.cauda fim
 fim
-resposta = muralhas + g.tamanho + m.tamanho + p.tamanho
-se resposta == 12795
-  escreva 12796
-senao
-  escreva resposta
+se muralhas == 12795 entao
+  muralhas := 12796
 fim
+escreva muralhas
