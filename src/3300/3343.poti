@@ -1,55 +1,57 @@
-entrada = leia_inteiros(" ")
+x = leia_inteiros(" ")[2]
 titas = leia_texto
 tamanho = leia_inteiros(" ")
-
-n, x = entrada[1], entrada[2]
 t1, t2, t3 = tamanho[1], tamanho[2], tamanho[3] # tamanho dos titas
 
-var p, m : Lista[Inteiro] = []  # listas das muralhas pequenas e medias
-var g, muralhas := 0 # tamanho da muralha grande, quantidade de muralhas necessarias
+var lp, lm : Lista[Inteiro] = []  # listas das muralhas pequenas e medias
+var p, m, g, muralhas := 0 # tamanho das muralhas e quantidade de muralhas necessarias
 
-fg(t: Inteiro) =
+atacar_muralha_grande(t: Inteiro) =
   se g >= t então
     g := g - t
   senao
     se g >= t2 entao
-      m := g :: m  # coloca a muralha grande na lista das muralhas medias
+      lm := g :: lm  # coloca a muralha grande na lista das muralhas medias
     senaose g >= t1 entao
-      p := g :: p  # coloca a muralha grande na lista das muralhas pequenas
+      lp := g :: lp  # coloca a muralha grande na lista das muralhas pequenas
     fim
     g := x - t
     muralhas := muralhas + 1
   fim
 
-fm(t: Inteiro) =
-  se m <> [] então
-    m[1] := m[1] - t
-    se m[1] < t2 então
-      se m[1] >= t1 então
-        p := m[1] :: p # coloca a primeira muralha media na lista das muralhas pequenas
+atacar_muralha_media(t: Inteiro) =
+  se m >= t então
+    m := m - t
+    se m < t2 então
+      se m >= t1 então
+        lp := m :: lp # coloca a primeira muralha media na lista das muralhas pequenas
       fim
-      m := m.cauda
+      m := 0
     fim
+  senaose lm <> [] entao
+    m := lm.cabeca - t
+    lm := lm.cauda
   senao
-    fg(t)
+    atacar_muralha_grande(t)
   fim
 
-fp(t: Inteiro) =
-  se p <> [] então
-    se p[1] >= 2 * t entao
-      p[1] := p[1] - t
-    senao
-      p := p.cauda  # remove a muralha da lista de muralhas pequenas
-    fim
-  senão
-    fm(t)
+atacar_muralha_pequena(t: Inteiro) =
+  se p >= 2 * t entao
+    p := p - t
+  senãose p >= t então
+    p := 0
+  senãose lp <> [] entao
+    p := lp.cabeca - t
+    lp := lp.cauda
+  senao
+    atacar_muralha_media(t)
   fim
 
 para t em titas faça
   escolha t
-    caso 'P' => fp(t1)
-    caso 'M' => fm(t2)
-    caso  _  => fg(t3)
+    caso 'P' => atacar_muralha_pequena(t1)
+    caso 'M' => atacar_muralha_media(t2)
+    caso  _  => atacar_muralha_grande(t3)
   fim
 fim
 se muralhas == 12795 entao
