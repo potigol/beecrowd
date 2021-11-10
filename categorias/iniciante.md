@@ -1,4 +1,4 @@
-# Iniciante (311 / 336)
+# Iniciante (312 / 336)
 
 
 
@@ -301,6 +301,7 @@
   - [x]  [3162](https://www.beecrowd.com.br/judge/pt/problems/view/3162) - [Comunicação Espacial](https://github.com/potigol/uoj-potigol/blob/master/src/3100/3162.poti)
   - [x]  [3170](https://www.beecrowd.com.br/judge/pt/problems/view/3170) - [Bolinhas de Natal](https://github.com/potigol/uoj-potigol/blob/master/src/3100/3170.poti)
   - [x]  [3174](https://www.beecrowd.com.br/judge/pt/problems/view/3174) - [Grupo de Trabalho do Noel](https://github.com/potigol/uoj-potigol/blob/master/src/3100/3174.poti)
+  - [x]  [3204](https://www.beecrowd.com.br/judge/pt/problems/view/3204) - [Honeycomb Walk](https://github.com/potigol/uoj-potigol/blob/master/src/3200/3204.poti)
   - [x]  [3208](https://www.beecrowd.com.br/judge/pt/problems/view/3208) - [O Criptógrafo Envergonhado](https://github.com/potigol/uoj-potigol/blob/master/src/3200/3208.poti)
   - [x]  [3209](https://www.beecrowd.com.br/judge/pt/problems/view/3209) - [Tomadas Elétricas](https://github.com/potigol/uoj-potigol/blob/master/src/3200/3209.poti)
   - [x]  [3214](https://www.beecrowd.com.br/judge/pt/problems/view/3214) - [Refrigerante](https://github.com/potigol/uoj-potigol/blob/master/src/3200/3214.poti)
@@ -325,7 +326,6 @@
   - [ ]  [3167](https://www.beecrowd.com.br/judge/pt/problems/view/3167) - Procurando Palavras na Diagonal Secundária
   - [ ]  [3173](https://www.beecrowd.com.br/judge/pt/problems/view/3173) - Estrela de Natal
   - [ ]  [3181](https://www.beecrowd.com.br/judge/pt/problems/view/3181) - Jantar
-  - [ ]  [3204](https://www.beecrowd.com.br/judge/pt/problems/view/3204) - Honeycomb Walk
   - [ ]  [3217](https://www.beecrowd.com.br/judge/pt/problems/view/3217) - Chuva Caindo
   - [ ]  [3229](https://www.beecrowd.com.br/judge/pt/problems/view/3229) - Resenhas de Comida
   - [ ]  [3230](https://www.beecrowd.com.br/judge/pt/problems/view/3230) - Senhores da Guerra Galácticos

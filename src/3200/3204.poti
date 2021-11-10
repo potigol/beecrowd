@@ -1,0 +1,21 @@
+n = leia_inteiro
+para i de 1 ate n faca
+  a = leia_inteiro
+  b = escolha a
+    caso 1 => 0
+    caso 2 => 6
+    caso 3 => 12
+    caso 4 => 90
+    caso 5 => 360
+    caso 6 => 2040
+    caso 7 => 10080
+    caso 8 => 54810
+    caso 9 => 290640
+    caso 10=> 1588356
+    caso 11=> 8676360
+    caso 12=> 47977776
+    caso 13=> 266378112
+    caso _ => 1488801600
+  fim
+  escreva b
+fim

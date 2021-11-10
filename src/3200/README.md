@@ -1,10 +1,10 @@
-# Problemas 3200 (9%)
+# Problemas 3200 (10%)
 
   - [ ]  [3200](https://www.beecrowd.com.br/judge/pt/problems/view/3200) - Card Trick *Ad-Hoc*
   - [ ]  [3201](https://www.beecrowd.com.br/judge/pt/problems/view/3201) - Traveling Salesman *Estruturas e Bibliotecas*
   - [ ]  [3202](https://www.beecrowd.com.br/judge/pt/problems/view/3202) - Whac-a-Mole *Ad-Hoc*
   - [ ]  [3203](https://www.beecrowd.com.br/judge/pt/problems/view/3203) - Random Walking *Ad-Hoc*
-  - [ ]  [3204](https://www.beecrowd.com.br/judge/pt/problems/view/3204) - Honeycomb Walk *Iniciante*
+  - [x]  [3204](https://www.beecrowd.com.br/judge/pt/problems/view/3204) - [Honeycomb Walk](https://github.com/potigol/uoj-potigol/blob/master/src/3200/3204.poti) *Iniciante*
   - [ ]  [3205](https://www.beecrowd.com.br/judge/pt/problems/view/3205) - Nasty Hacks *Ad-Hoc*
   - [ ]  [3206](https://www.beecrowd.com.br/judge/pt/problems/view/3206) - Batida de Robos *Ad-Hoc*
   - [ ]  [3207](https://www.beecrowd.com.br/judge/pt/problems/view/3207) - Jogos Divertidos *Estruturas e Bibliotecas*

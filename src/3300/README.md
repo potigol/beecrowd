@@ -1,4 +1,4 @@
-# Problemas 3300 (36%)
+# Problemas 3300 (38%)
 
   - [x]  [3300](https://www.beecrowd.com.br/judge/pt/problems/view/3300) - [Números Má Sorte Recarregados](https://github.com/potigol/uoj-potigol/blob/master/src/3300/3300.poti) *Strings*
   - [x]  [3301](https://www.beecrowd.com.br/judge/pt/problems/view/3301) - [Sobrinho do Meio](https://github.com/potigol/uoj-potigol/blob/master/src/3300/3301.poti) *Iniciante*
@@ -58,7 +58,7 @@
   - [ ]  [3355](https://www.beecrowd.com.br/judge/pt/problems/view/3355) - Pinhões no Xadrez *Ad-Hoc*
   - [ ]  [3356](https://www.beecrowd.com.br/judge/pt/problems/view/3356) - Reprodução Controlada *Grafos*
   - [ ]  [3357](https://www.beecrowd.com.br/judge/pt/problems/view/3357) - Rico do Mate *Estruturas e Bibliotecas*
-  - [ ]  [3358](https://www.beecrowd.com.br/judge/pt/problems/view/3358) - Sobrenome Não é Fácil *Strings*
+  - [x]  [3358](https://www.beecrowd.com.br/judge/pt/problems/view/3358) - [Sobrenome Não é Fácil](https://github.com/potigol/uoj-potigol/blob/master/src/3300/3358.poti) *Strings*
   - [ ] ~~xxxx~~
   - [ ] ~~xxxx~~
   - [ ] ~~xxxx~~

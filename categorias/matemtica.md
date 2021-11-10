@@ -1,4 +1,4 @@
-# Matemática (62 / 269)
+# Matemática (63 / 269)
 
 
 
@@ -21,6 +21,7 @@
   - [x]  [1308](https://www.beecrowd.com.br/judge/pt/problems/view/1308) - [Guerreiros Etruscos Nunca Jogam Xadrez](https://github.com/potigol/uoj-potigol/blob/master/src/1300/1308.poti)
   - [x]  [1309](https://www.beecrowd.com.br/judge/pt/problems/view/1309) - [Formatação Monetária](https://github.com/potigol/uoj-potigol/blob/master/src/1300/1309.poti)
   - [x]  [1323](https://www.beecrowd.com.br/judge/pt/problems/view/1323) - [Feynman](https://github.com/potigol/uoj-potigol/blob/master/src/1300/1323.poti)
+  - [x]  [1338](https://www.beecrowd.com.br/judge/pt/problems/view/1338) - [It-Miha](https://github.com/potigol/uoj-potigol/blob/master/src/1300/1338.poti)
   - [x]  [1393](https://www.beecrowd.com.br/judge/pt/problems/view/1393) - [Lajotas Hexagonais](https://github.com/potigol/uoj-potigol/blob/master/src/1300/1393.poti)
   - [x]  [1429](https://www.beecrowd.com.br/judge/pt/problems/view/1429) - [Fatorial de Novo!](https://github.com/potigol/uoj-potigol/blob/master/src/1400/1429.poti)
   - [x]  [1436](https://www.beecrowd.com.br/judge/pt/problems/view/1436) - [Jogo do Tijolo](https://github.com/potigol/uoj-potigol/blob/master/src/1400/1436.poti)
@@ -87,7 +88,6 @@
   - [ ]  [1306](https://www.beecrowd.com.br/judge/pt/problems/view/1306) - Numerando Estradas
   - [ ]  [1307](https://www.beecrowd.com.br/judge/pt/problems/view/1307) - Tudo o que Você Precisa é Amor
   - [ ]  [1324](https://www.beecrowd.com.br/judge/pt/problems/view/1324) - Bóson de Higgs
-  - [ ]  [1338](https://www.beecrowd.com.br/judge/pt/problems/view/1338) - It-Miha
   - [ ]  [1346](https://www.beecrowd.com.br/judge/pt/problems/view/1346) - Brincadeira de Criança
   - [ ]  [1347](https://www.beecrowd.com.br/judge/pt/problems/view/1347) - Mina Kriptonita
   - [ ]  [1352](https://www.beecrowd.com.br/judge/pt/problems/view/1352) - Loteria Quadrada

@@ -1,0 +1,11 @@
+n = leia_inteiro
+para i de 1 ate n faça
+  s = leia_texto
+  a = s.minusculo.divida_quando((x, y) => "aeiou" - "{x}" <> "aeiou" ou "aeiou" - "{y}" <> "aeiou")
+  b = a.ordene(_.tamanho).ultimo.tamanho
+  se b >= 3 entao
+    escreva "{s} nao eh facil"
+  senao
+    escreva "{s} eh facil"
+  fim
+fim
