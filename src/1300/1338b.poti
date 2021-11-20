@@ -1,9 +1,6 @@
 n = leia_inteiro
-var a := Lista.mutável(n, 0)
-para i de 1 até n faça
-  a[i] := leia_inteiro
-fim
-var cnt := 0
+a = leia_textos(n).mapeie(_.toLong)
+var cnt := 0.toLong
 var ai := 1
 var i := 1
 enquanto ai <= n faça

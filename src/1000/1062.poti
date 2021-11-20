@@ -1,16 +1,16 @@
 reorganizar(entrada: Lista[Inteiro]) =
-  organizar(entrada.inverta, [], entrada.tamanho)
+  organizar(entrada.inverta, [], entrada.tamanho, 0, entrada.tamanho)
 
-organizar(entrada, pilha: Lista[Inteiro], proximo: Inteiro): Lógico =
-  se entrada == [] e pilha == [] entao
+organizar(entrada, pilha: Lista[Inteiro], t_entrada, t_pilha, proximo: Inteiro): Lógico =
+  se t_entrada == 0 e t_pilha == 0 entao
     verdadeiro
-  senaose pilha.tamanho > 0 e pilha.cabeca == proximo entao
-    organizar(entrada, pilha.cauda, proximo - 1)
-  senaose entrada.tamanho > 0 entao
+  senaose t_pilha > 0 e pilha.cabeca == proximo entao
+    organizar(entrada, pilha.cauda, t_entrada, t_pilha - 1, proximo - 1)
+  senaose t_entrada > 0 entao
     se entrada.cabeca == proximo entao
-      organizar(entrada.cauda, pilha, proximo - 1)
+      organizar(entrada.cauda, pilha, t_entrada - 1, t_pilha, proximo - 1)
     senao
-      organizar(entrada.cauda, entrada.cabeca::pilha, proximo)
+      organizar(entrada.cauda, entrada.cabeca::pilha, t_entrada -1, t_pilha + 1, proximo)
     fim
   senao
     falso

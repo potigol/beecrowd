@@ -1,20 +1,27 @@
-# cem = para i de 1 ate 100 gere i fim
-# res(x, aux: Inteiro) = cem.pegue(x - 1).injete(0)((a, i) => (a + aux) mod i)
+#last(x, m: Inteiro)
+#  var a := 0
+#  para i de 1 ate x - 1 faca
+#    a := (a + m) mod i
+#  fim
+#  retorne a + 2
+#fim
 
-res(x, aux: Inteiro)
-  var aux1 := 0
-  para i de 1 ate x - 1 faca
-    aux1 := (aux1 + aux) mod i
+last(x, m: Inteiro)
+  var regions = para i de 1 ate x gere i fim
+  var next := 1
+  para tamanho de x-1 ate 1 passo -1 faca
+    regions := regions.remova(next)
+    next := (next - 2 + m) mod tamanho + 1
   fim
-  aux1
+  retorne regions[1]
 fim
 
 var x:= leia_inteiro
 enquanto x > 0 faça
-  var aux := 1
-  enquanto res(x, aux) <> 11 faça
-    aux := aux + 1
+  var m := 1
+  enquanto last(x, m) <> 13 faça
+    m := m + 1
   fim
-  escreva aux
+  escreva m
   x := leia_inteiro
 fim

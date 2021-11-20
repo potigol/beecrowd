@@ -1,12 +1,6 @@
 n = leia_inteiro
 para i de 1 ate n faca
   palavras = leia_textos(" ")
-  s = para j de 1 ate palavras.tamanho gere
-        "{palavras[j].tamanho formato "%02d"}{100-j}{palavras[j]}"
-      fim
-        .ordene
-        .inverta
-        .mapeie(_.descarte(4))
-        .junte(" ")
+  s = palavras.ordene(- _.tamanho).junte(" ")
   escreva s
 fim
