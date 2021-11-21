@@ -1,14 +1,6 @@
-#last(x, m: Inteiro)
-#  var a := 0
-#  para i de 1 ate x - 1 faca
-#    a := (a + m) mod i
-#  fim
-#  retorne a + 2
-#fim
-
 last(x, m: Inteiro)
-  var regions = para i de 1 ate x gere i fim
   var next := 1
+  var regions = para i de 1 ate x gere i fim
   para tamanho de x-1 ate 1 passo -1 faca
     regions := regions.remova(next)
     next := (next - 2 + m) mod tamanho + 1
@@ -25,3 +17,72 @@ enquanto x > 0 faça
   escreva m
   x := leia_inteiro
 fim
+
+##Solução 2 - Mais eficiente
+#last(x, m: Inteiro)
+#  var a := 1
+#  para i de 1 ate x - 1 faca
+#    a := (a + m - 1) mod i + 1
+#  fim
+#  retorne a + 1
+#fim
+
+
+## Solução 3
+#last(x, m: Inteiro)
+#  var regions := Lista.mutável(x, verdadeiro) # [1, 2, ...]
+#  var next := 1
+#  para tamanho de x-1 até 1 passo -1 faca
+#    regions[next] := falso
+#    var n := m             # var n := (m-1) mod tamanho + 1
+#    enquanto n > 0 faça
+#      next := next mod x + 1
+#      se regions[next] entao n := n - 1 fim
+#    fim
+#  fim
+#  retorne next
+#fim
+
+
+## Solução 4 - Usando um Zipper
+#tipo Zipper
+#  var direita: Lista[Inteiro]
+#  var esquerda: Lista[Inteiro] := []
+#  var tamanho := direita.tamanho
+#  var pos := 1
+#
+#  foco() = direita[1]
+#  lista() = esquerda.inverta + direita
+#
+#  mova(p: Inteiro): Nada
+#    pp = (p-1) mod tamanho + 1
+#    para i de pos até pp-1 faca
+#      esquerda := direita.cabeca::esquerda
+#      direita := direita.cauda
+#    fim
+#    para i de pp até pos-1 faça
+#      direita := esquerda.cabeca::direita
+#      esquerda := esquerda.cauda
+#    fim
+#    pos := pp
+#  fim
+#
+#  remova()
+#    se direita <> [] então
+#      direita := direita.cauda
+#    senao
+#      esquerda := esquerda.cauda
+#    fim
+#    tamanho := tamanho - 1
+#  fim
+#fim
+#
+#last(x, m: Inteiro)
+#  var regions = para i de 1 ate x gere i fim
+#  z = Zipper(regions)
+#  para i de 1 ate x - 1 faca
+#    z.remova
+#    z.mova(z.pos + m - 1)
+#  fim
+#  retorne z.foco
+#fim
