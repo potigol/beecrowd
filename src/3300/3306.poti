@@ -1,0 +1,30 @@
+mdc(x, y: Inteiro)
+  var a, b := x, y
+  enquanto b <> 0 faca
+    a, b := b, a mod b
+  fim
+  retorne a
+fim
+
+q = leia_inteiros(" ")[2]
+var nums := leia_inteiros(" ")
+
+para i de 1 até q faça
+  entrada = leia_inteiros(" ")
+  t = entrada[1]
+  escolha t
+    caso 1 =>
+      a, b, v = entrada[2], entrada[3], entrada[4]
+      para j de a até b faça
+        nums[j] := nums[j] + v
+      fim
+    caso 2 =>
+      a, b = entrada[2], entrada[3]
+      var r := nums[a]
+      para i de a + 1 até b faça
+        r := mdc(r, nums[i])
+      fim
+      escreva r
+    caso _ => escreva i
+  fim
+fim

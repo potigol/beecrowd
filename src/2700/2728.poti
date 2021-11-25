@@ -1,0 +1,15 @@
+var s := leia_texto
+enquanto nao eof faca
+  a = s.minusculo.divida("-")
+  cobol = (a[1][1] == 'c' ou a[1][-1] == 'c') e
+          (a[2][1] == 'o' ou a[2][-1] == 'o') e
+          (a[3][1] == 'b' ou a[3][-1] == 'b') e
+          (a[4][1] == 'o' ou a[4][-1] == 'o') e
+          (a[5][1] == 'l' ou a[5][-1] == 'l')
+  se cobol então
+    escreva "GRACE HOPPER"
+  senão
+    escreva "BUG"
+  fim
+  s := leia_texto
+fim

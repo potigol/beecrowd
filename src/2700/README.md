@@ -1,4 +1,4 @@
-# Problemas 2700 (47%)
+# Problemas 2700 (48%)
 
   - [ ]  [2700](https://www.beecrowd.com.br/judge/pt/problems/view/2700) - Angariando Fundos *Estruturas e Bibliotecas*
   - [ ]  [2701](https://www.beecrowd.com.br/judge/pt/problems/view/2701) - Portas da Incerteza *Ad-Hoc*
@@ -28,7 +28,7 @@
   - [ ]  [2725](https://www.beecrowd.com.br/judge/pt/problems/view/2725) - Vila Natalina *Grafos*
   - [ ]  [2726](https://www.beecrowd.com.br/judge/pt/problems/view/2726) - Trenó Lotado *Matemática*
   - [x]  [2727](https://www.beecrowd.com.br/judge/pt/problems/view/2727) - [Código Secreto](https://github.com/potigol/uoj-potigol/blob/master/src/2700/2727.poti) *Iniciante*
-  - [ ]  [2728](https://www.beecrowd.com.br/judge/pt/problems/view/2728) - Grace Hopper, a Vovó do Cobol *Strings*
+  - [x]  [2728](https://www.beecrowd.com.br/judge/pt/problems/view/2728) - [Grace Hopper, a Vovó do Cobol](https://github.com/potigol/uoj-potigol/blob/master/src/2700/2728.poti) *Strings*
   - [x]  [2729](https://www.beecrowd.com.br/judge/pt/problems/view/2729) - [Lista de Compras](https://github.com/potigol/uoj-potigol/blob/master/src/2700/2729.poti) *Estruturas e Bibliotecas*
   - [ ]  [2730](https://www.beecrowd.com.br/judge/pt/problems/view/2730) - Pares Pareados *Ad-Hoc*
   - [ ]  [2731](https://www.beecrowd.com.br/judge/pt/problems/view/2731) - Programação de Viagem *Grafos*

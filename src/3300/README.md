@@ -1,4 +1,4 @@
-# Problemas 3300 (38%)
+# Problemas 3300 (41%)
 
   - [x]  [3300](https://www.beecrowd.com.br/judge/pt/problems/view/3300) - [Números Má Sorte Recarregados](https://github.com/potigol/uoj-potigol/blob/master/src/3300/3300.poti) *Strings*
   - [x]  [3301](https://www.beecrowd.com.br/judge/pt/problems/view/3301) - [Sobrinho do Meio](https://github.com/potigol/uoj-potigol/blob/master/src/3300/3301.poti) *Iniciante*
@@ -6,7 +6,7 @@
   - [x]  [3303](https://www.beecrowd.com.br/judge/pt/problems/view/3303) - [Palavrão](https://github.com/potigol/uoj-potigol/blob/master/src/3300/3303.poti) *Iniciante*
   - [ ]  [3304](https://www.beecrowd.com.br/judge/pt/problems/view/3304) - Alguma Sorte! *Matemática*
   - [ ]  [3305](https://www.beecrowd.com.br/judge/pt/problems/view/3305) - Bispos Dominantes *Ad-Hoc*
-  - [ ]  [3306](https://www.beecrowd.com.br/judge/pt/problems/view/3306) - Consulta e Alteração *Iniciante*
+  - [x]  [3306](https://www.beecrowd.com.br/judge/pt/problems/view/3306) - [Consulta e Alteração](https://github.com/potigol/uoj-potigol/blob/master/src/3300/3306.poti) *Iniciante*
   - [ ]  [3307](https://www.beecrowd.com.br/judge/pt/problems/view/3307) - Decora o Rolê! *Ad-Hoc*
   - [ ]  [3308](https://www.beecrowd.com.br/judge/pt/problems/view/3308) - Elevador *Matemática*
   - [x]  [3309](https://www.beecrowd.com.br/judge/pt/problems/view/3309) - [Felizes são estes Números](https://github.com/potigol/uoj-potigol/blob/master/src/3300/3309.poti) *Ad-Hoc*

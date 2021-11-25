@@ -1,4 +1,4 @@
-# Strings (63 / 148)
+# Strings (64 / 148)
 
 
 
@@ -54,6 +54,7 @@
   - [x]  [2694](https://www.beecrowd.com.br/judge/pt/problems/view/2694) - [Problema com a Calculadora](https://github.com/potigol/uoj-potigol/blob/master/src/2600/2694.poti)
   - [x]  [2714](https://www.beecrowd.com.br/judge/pt/problems/view/2714) - [Minha Senha Provisória](https://github.com/potigol/uoj-potigol/blob/master/src/2700/2714.poti)
   - [x]  [2722](https://www.beecrowd.com.br/judge/pt/problems/view/2722) - [Pegadinha de Evergreen](https://github.com/potigol/uoj-potigol/blob/master/src/2700/2722.poti)
+  - [x]  [2728](https://www.beecrowd.com.br/judge/pt/problems/view/2728) - [Grace Hopper, a Vovó do Cobol](https://github.com/potigol/uoj-potigol/blob/master/src/2700/2728.poti)
   - [x]  [2815](https://www.beecrowd.com.br/judge/pt/problems/view/2815) - [Digitador Gago](https://github.com/potigol/uoj-potigol/blob/master/src/2800/2815.poti)
   - [x]  [2866](https://www.beecrowd.com.br/judge/pt/problems/view/2866) - [Criptotexto](https://github.com/potigol/uoj-potigol/blob/master/src/2800/2866.poti)
   - [x]  [2880](https://www.beecrowd.com.br/judge/pt/problems/view/2880) - [Enigma](https://github.com/potigol/uoj-potigol/blob/master/src/2800/2880.poti)
@@ -135,7 +136,6 @@
   - [ ]  [2678](https://www.beecrowd.com.br/judge/pt/problems/view/2678) - Discagem de Voz
   - [ ]  [2692](https://www.beecrowd.com.br/judge/pt/problems/view/2692) - Teclado Zoeiro
   - [ ]  [2697](https://www.beecrowd.com.br/judge/pt/problems/view/2697) - Sequencia Completa de Naebbirac
-  - [ ]  [2728](https://www.beecrowd.com.br/judge/pt/problems/view/2728) - Grace Hopper, a Vovó do Cobol
   - [ ]  [2824](https://www.beecrowd.com.br/judge/pt/problems/view/2824) - Pudim
   - [ ]  [2825](https://www.beecrowd.com.br/judge/pt/problems/view/2825) - L de Atreus!?
   - [ ]  [2827](https://www.beecrowd.com.br/judge/pt/problems/view/2827) - Contador de Tokens
