@@ -1,4 +1,4 @@
-# Ad-Hoc (59 / 172)
+# Ad-Hoc (60 / 172)
 
 
 
@@ -9,6 +9,7 @@
   - [x]  [2251](https://www.beecrowd.com.br/judge/pt/problems/view/2251) - [Torres de Hanói](https://github.com/potigol/uoj-potigol/blob/master/src/2200/2251.poti)
   - [x]  [2293](https://www.beecrowd.com.br/judge/pt/problems/view/2293) - [Campo de Minhocas](https://github.com/potigol/uoj-potigol/blob/master/src/2200/2293.poti)
   - [x]  [2295](https://www.beecrowd.com.br/judge/pt/problems/view/2295) - [Frota de Táxi](https://github.com/potigol/uoj-potigol/blob/master/src/2200/2295.poti)
+  - [x]  [2297](https://www.beecrowd.com.br/judge/pt/problems/view/2297) - [Bafo](https://github.com/potigol/uoj-potigol/blob/master/src/2200/2297.poti)
   - [x]  [2328](https://www.beecrowd.com.br/judge/pt/problems/view/2328) - [Chocolate](https://github.com/potigol/uoj-potigol/blob/master/src/2300/2328.poti)
   - [x]  [2339](https://www.beecrowd.com.br/judge/pt/problems/view/2339) - [Aviões de Papel](https://github.com/potigol/uoj-potigol/blob/master/src/2300/2339.poti)
   - [x]  [2342](https://www.beecrowd.com.br/judge/pt/problems/view/2342) - [Overflow](https://github.com/potigol/uoj-potigol/blob/master/src/2300/2342.poti)
@@ -83,7 +84,6 @@
   - [ ]  [2288](https://www.beecrowd.com.br/judge/pt/problems/view/2288) - TV da Vovó
   - [ ]  [2294](https://www.beecrowd.com.br/judge/pt/problems/view/2294) - Duende Perdido
   - [ ]  [2296](https://www.beecrowd.com.br/judge/pt/problems/view/2296) - Trilhas
-  - [ ]  [2297](https://www.beecrowd.com.br/judge/pt/problems/view/2297) - Bafo
   - [ ]  [2298](https://www.beecrowd.com.br/judge/pt/problems/view/2298) - Mini-Poker
   - [ ]  [2301](https://www.beecrowd.com.br/judge/pt/problems/view/2301) - Vivo ou Morto
   - [ ]  [2302](https://www.beecrowd.com.br/judge/pt/problems/view/2302) - Conversa não tão Secreta

@@ -1,4 +1,4 @@
-# Problemas 2200 (14%)
+# Problemas 2200 (15%)
 
   - [ ]  [2200](https://www.beecrowd.com.br/judge/pt/problems/view/2200) - Mummy Madness *Ad-Hoc*
   - [ ]  [2201](https://www.beecrowd.com.br/judge/pt/problems/view/2201) - Pyramids *Ad-Hoc*
@@ -97,6 +97,6 @@
   - [ ]  [2294](https://www.beecrowd.com.br/judge/pt/problems/view/2294) - Duende Perdido *Ad-Hoc*
   - [x]  [2295](https://www.beecrowd.com.br/judge/pt/problems/view/2295) - [Frota de Táxi](https://github.com/potigol/uoj-potigol/blob/master/src/2200/2295.poti) *Ad-Hoc*
   - [ ]  [2296](https://www.beecrowd.com.br/judge/pt/problems/view/2296) - Trilhas *Ad-Hoc*
-  - [ ]  [2297](https://www.beecrowd.com.br/judge/pt/problems/view/2297) - Bafo *Ad-Hoc*
+  - [x]  [2297](https://www.beecrowd.com.br/judge/pt/problems/view/2297) - [Bafo](https://github.com/potigol/uoj-potigol/blob/master/src/2200/2297.poti) *Ad-Hoc*
   - [ ]  [2298](https://www.beecrowd.com.br/judge/pt/problems/view/2298) - Mini-Poker *Ad-Hoc*
   - [ ]  [2299](https://www.beecrowd.com.br/judge/pt/problems/view/2299) - Pedido de Desculpas *Paradigmas*

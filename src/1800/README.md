@@ -1,8 +1,8 @@
-# Problemas 1800 (20%)
+# Problemas 1800 (21%)
 
   - [ ]  [1800](https://www.beecrowd.com.br/judge/pt/problems/view/1800) - Onde Estão Minhas Chaves *Ad-Hoc*
   - [ ]  [1801](https://www.beecrowd.com.br/judge/pt/problems/view/1801) - Brincando com Números *Matemática*
-  - [ ]  [1802](https://www.beecrowd.com.br/judge/pt/problems/view/1802) - Catálogo de Livros *Ad-Hoc*
+  - [x]  [1802](https://www.beecrowd.com.br/judge/pt/problems/view/1802) - [Catálogo de Livros](https://github.com/potigol/uoj-potigol/blob/master/src/1800/1802.poti) *Ad-Hoc*
   - [x]  [1803](https://www.beecrowd.com.br/judge/pt/problems/view/1803) - [Matring](https://github.com/potigol/uoj-potigol/blob/master/src/1800/1803.poti) *Strings*
   - [ ]  [1804](https://www.beecrowd.com.br/judge/pt/problems/view/1804) - Precisa-se de Matemáticos em Marte *Estruturas e Bibliotecas*
   - [x]  [1805](https://www.beecrowd.com.br/judge/pt/problems/view/1805) - [Soma Natural](https://github.com/potigol/uoj-potigol/blob/master/src/1800/1805.poti) *Matemática*

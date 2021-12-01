@@ -1,0 +1,14 @@
+var r := leia_inteiro
+var t := 0
+enquanto r > 0 faça
+  var saldo := 0
+  para i de 1 ate r faça
+    rodada = leia_inteiros(" ")
+    saldo := saldo + rodada[1] - rodada[2]
+  fim
+  t := t + 1
+  escreva "Teste {t}
+          |{se saldo > 0 então "Aldo" senão "Beto" fim}
+          |"
+  r := leia_inteiro
+fim

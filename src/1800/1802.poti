@@ -1,0 +1,8 @@
+p, m, f, q, b = leia_inteiros(" ").cauda
+k = leia_inteiro
+conjuntos = para pi em p, mi em m, fi em f,
+                 qi em q, bi em b gere
+                   pi + mi + fi + qi + bi
+            fim.ordene.inverta
+soma = conjuntos.pegue(k).injete(0)((a, b) => a + b)
+escreva soma

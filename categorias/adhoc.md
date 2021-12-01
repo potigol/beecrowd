@@ -1,4 +1,4 @@
-# Ad-Hoc (142 / 732)
+# Ad-Hoc (144 / 732)
 
 
 
@@ -45,6 +45,7 @@
   - [x]  [1793](https://www.beecrowd.com.br/judge/pt/problems/view/1793) - [Escada Rolante](https://github.com/potigol/uoj-potigol/blob/master/src/1700/1793.poti)
   - [x]  [1794](https://www.beecrowd.com.br/judge/pt/problems/view/1794) - [Lavanderia](https://github.com/potigol/uoj-potigol/blob/master/src/1700/1794.poti)
   - [x]  [1796](https://www.beecrowd.com.br/judge/pt/problems/view/1796) - [Economia Brasileira](https://github.com/potigol/uoj-potigol/blob/master/src/1700/1796.poti)
+  - [x]  [1802](https://www.beecrowd.com.br/judge/pt/problems/view/1802) - [Catálogo de Livros](https://github.com/potigol/uoj-potigol/blob/master/src/1800/1802.poti)
   - [x]  [1867](https://www.beecrowd.com.br/judge/pt/problems/view/1867) - [Maior Número de Um Algarismo](https://github.com/potigol/uoj-potigol/blob/master/src/1800/1867.poti)
   - [x]  [1876](https://www.beecrowd.com.br/judge/pt/problems/view/1876) - [Rabiola](https://github.com/potigol/uoj-potigol/blob/master/src/1800/1876.poti)
   - [x]  [1877](https://www.beecrowd.com.br/judge/pt/problems/view/1877) - [O Castelo de Neve de Sansa](https://github.com/potigol/uoj-potigol/blob/master/src/1800/1877.poti)
@@ -61,6 +62,7 @@
   - [x]  [2251](https://www.beecrowd.com.br/judge/pt/problems/view/2251) - [Torres de Hanói](https://github.com/potigol/uoj-potigol/blob/master/src/2200/2251.poti)
   - [x]  [2293](https://www.beecrowd.com.br/judge/pt/problems/view/2293) - [Campo de Minhocas](https://github.com/potigol/uoj-potigol/blob/master/src/2200/2293.poti)
   - [x]  [2295](https://www.beecrowd.com.br/judge/pt/problems/view/2295) - [Frota de Táxi](https://github.com/potigol/uoj-potigol/blob/master/src/2200/2295.poti)
+  - [x]  [2297](https://www.beecrowd.com.br/judge/pt/problems/view/2297) - [Bafo](https://github.com/potigol/uoj-potigol/blob/master/src/2200/2297.poti)
   - [x]  [2312](https://www.beecrowd.com.br/judge/pt/problems/view/2312) - [Quadro De Medalhas](https://github.com/potigol/uoj-potigol/blob/master/src/2300/2312.poti)
   - [x]  [2328](https://www.beecrowd.com.br/judge/pt/problems/view/2328) - [Chocolate](https://github.com/potigol/uoj-potigol/blob/master/src/2300/2328.poti)
   - [x]  [2339](https://www.beecrowd.com.br/judge/pt/problems/view/2339) - [Aviões de Papel](https://github.com/potigol/uoj-potigol/blob/master/src/2300/2339.poti)
@@ -286,7 +288,6 @@
   - [ ]  [1787](https://www.beecrowd.com.br/judge/pt/problems/view/1787) - URI
   - [ ]  [1791](https://www.beecrowd.com.br/judge/pt/problems/view/1791) - Descobrindo uma Matriz
   - [ ]  [1800](https://www.beecrowd.com.br/judge/pt/problems/view/1800) - Onde Estão Minhas Chaves
-  - [ ]  [1802](https://www.beecrowd.com.br/judge/pt/problems/view/1802) - Catálogo de Livros
   - [ ]  [1808](https://www.beecrowd.com.br/judge/pt/problems/view/1808) - O Retorno do Rei
   - [ ]  [1809](https://www.beecrowd.com.br/judge/pt/problems/view/1809) - Agentes Secretos
   - [ ]  [1811](https://www.beecrowd.com.br/judge/pt/problems/view/1811) - O Óscar Vai Para...
@@ -436,7 +437,6 @@
   - [ ]  [2289](https://www.beecrowd.com.br/judge/pt/problems/view/2289) - Distância Hamming
   - [ ]  [2294](https://www.beecrowd.com.br/judge/pt/problems/view/2294) - Duende Perdido
   - [ ]  [2296](https://www.beecrowd.com.br/judge/pt/problems/view/2296) - Trilhas
-  - [ ]  [2297](https://www.beecrowd.com.br/judge/pt/problems/view/2297) - Bafo
   - [ ]  [2298](https://www.beecrowd.com.br/judge/pt/problems/view/2298) - Mini-Poker
   - [ ]  [2301](https://www.beecrowd.com.br/judge/pt/problems/view/2301) - Vivo ou Morto
   - [ ]  [2302](https://www.beecrowd.com.br/judge/pt/problems/view/2302) - Conversa não tão Secreta
