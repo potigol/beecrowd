@@ -1,0 +1,9 @@
+n = leia_inteiro
+k = para i de 1 até n gere leia_inteiros(" ") fim
+var v := [0].cauda
+para i de 1 até 2*n faça
+  a = leia_inteiros(" ")
+  v := k[a[1]][a[2]] :: v
+fim
+especies = v.ordene.divida_quando(_ <> _).tamanho
+escreva especies

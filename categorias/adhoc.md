@@ -1,4 +1,4 @@
-# Ad-Hoc (144 / 732)
+# Ad-Hoc (148 / 732)
 
 
 
@@ -50,6 +50,7 @@
   - [x]  [1876](https://www.beecrowd.com.br/judge/pt/problems/view/1876) - [Rabiola](https://github.com/potigol/uoj-potigol/blob/master/src/1800/1876.poti)
   - [x]  [1877](https://www.beecrowd.com.br/judge/pt/problems/view/1877) - [O Castelo de Neve de Sansa](https://github.com/potigol/uoj-potigol/blob/master/src/1800/1877.poti)
   - [x]  [1893](https://www.beecrowd.com.br/judge/pt/problems/view/1893) - [Fases da Lua](https://github.com/potigol/uoj-potigol/blob/master/src/1800/1893.poti)
+  - [x]  [1901](https://www.beecrowd.com.br/judge/pt/problems/view/1901) - [Borboletas](https://github.com/potigol/uoj-potigol/blob/master/src/1900/1901.poti)
   - [x]  [1936](https://www.beecrowd.com.br/judge/pt/problems/view/1936) - [Fatorial](https://github.com/potigol/uoj-potigol/blob/master/src/1900/1936.poti)
   - [x]  [1943](https://www.beecrowd.com.br/judge/pt/problems/view/1943) - [Top N](https://github.com/potigol/uoj-potigol/blob/master/src/1900/1943.poti)
   - [x]  [1986](https://www.beecrowd.com.br/judge/pt/problems/view/1986) - [Perdido em Marte](https://github.com/potigol/uoj-potigol/blob/master/src/1900/1986.poti)
@@ -66,8 +67,10 @@
   - [x]  [2312](https://www.beecrowd.com.br/judge/pt/problems/view/2312) - [Quadro De Medalhas](https://github.com/potigol/uoj-potigol/blob/master/src/2300/2312.poti)
   - [x]  [2328](https://www.beecrowd.com.br/judge/pt/problems/view/2328) - [Chocolate](https://github.com/potigol/uoj-potigol/blob/master/src/2300/2328.poti)
   - [x]  [2339](https://www.beecrowd.com.br/judge/pt/problems/view/2339) - [Aviões de Papel](https://github.com/potigol/uoj-potigol/blob/master/src/2300/2339.poti)
+  - [x]  [2341](https://www.beecrowd.com.br/judge/pt/problems/view/2341) - [Número de Envelopes](https://github.com/potigol/uoj-potigol/blob/master/src/2300/2341.poti)
   - [x]  [2342](https://www.beecrowd.com.br/judge/pt/problems/view/2342) - [Overflow](https://github.com/potigol/uoj-potigol/blob/master/src/2300/2342.poti)
   - [x]  [2345](https://www.beecrowd.com.br/judge/pt/problems/view/2345) - [Assigning Teams](https://github.com/potigol/uoj-potigol/blob/master/src/2300/2345.poti)
+  - [x]  [2355](https://www.beecrowd.com.br/judge/pt/problems/view/2355) - [Brasil e Alemanha](https://github.com/potigol/uoj-potigol/blob/master/src/2300/2355.poti)
   - [x]  [2369](https://www.beecrowd.com.br/judge/pt/problems/view/2369) - [Conta de Água](https://github.com/potigol/uoj-potigol/blob/master/src/2300/2369.poti)
   - [x]  [2373](https://www.beecrowd.com.br/judge/pt/problems/view/2373) - [Garçom](https://github.com/potigol/uoj-potigol/blob/master/src/2300/2373.poti)
   - [x]  [2374](https://www.beecrowd.com.br/judge/pt/problems/view/2374) - [Pneu](https://github.com/potigol/uoj-potigol/blob/master/src/2300/2374.poti)
@@ -103,6 +106,7 @@
   - [x]  [2455](https://www.beecrowd.com.br/judge/pt/problems/view/2455) - [Gangorra](https://github.com/potigol/uoj-potigol/blob/master/src/2400/2455.poti)
   - [x]  [2456](https://www.beecrowd.com.br/judge/pt/problems/view/2456) - [Cartas](https://github.com/potigol/uoj-potigol/blob/master/src/2400/2456.poti)
   - [x]  [2457](https://www.beecrowd.com.br/judge/pt/problems/view/2457) - [Letras](https://github.com/potigol/uoj-potigol/blob/master/src/2400/2457.poti)
+  - [x]  [2460](https://www.beecrowd.com.br/judge/pt/problems/view/2460) - [Fila](https://github.com/potigol/uoj-potigol/blob/master/src/2400/2460.poti)
   - [x]  [2462](https://www.beecrowd.com.br/judge/pt/problems/view/2462) - [Voo](https://github.com/potigol/uoj-potigol/blob/master/src/2400/2462.poti)
   - [x]  [2464](https://www.beecrowd.com.br/judge/pt/problems/view/2464) - [Decifra](https://github.com/potigol/uoj-potigol/blob/master/src/2400/2464.poti)
   - [x]  [2465](https://www.beecrowd.com.br/judge/pt/problems/view/2465) - [Passa Bolinha](https://github.com/potigol/uoj-potigol/blob/master/src/2400/2465.poti)
@@ -316,7 +320,6 @@
   - [ ]  [1895](https://www.beecrowd.com.br/judge/pt/problems/view/1895) - Jogo do Limite
   - [ ]  [1896](https://www.beecrowd.com.br/judge/pt/problems/view/1896) - É Hora do Duelo!
   - [ ]  [1899](https://www.beecrowd.com.br/judge/pt/problems/view/1899) - Acerte o Alvo!
-  - [ ]  [1901](https://www.beecrowd.com.br/judge/pt/problems/view/1901) - Borboletas
   - [ ]  [1916](https://www.beecrowd.com.br/judge/pt/problems/view/1916) - Banco de Horas de Jaiminho
   - [ ]  [1917](https://www.beecrowd.com.br/judge/pt/problems/view/1917) - Ajude o Chapolin Colorado!
   - [ ]  [1918](https://www.beecrowd.com.br/judge/pt/problems/view/1918) - Viagem para Acapulco
@@ -466,7 +469,6 @@
   - [ ]  [2332](https://www.beecrowd.com.br/judge/pt/problems/view/2332) - Jogo do Labirinto
   - [ ]  [2333](https://www.beecrowd.com.br/judge/pt/problems/view/2333) - Pizza
   - [ ]  [2340](https://www.beecrowd.com.br/judge/pt/problems/view/2340) - Feira de Bactérias
-  - [ ]  [2341](https://www.beecrowd.com.br/judge/pt/problems/view/2341) - Número de Envelopes
   - [ ]  [2343](https://www.beecrowd.com.br/judge/pt/problems/view/2343) - Caçadores de Mitos
   - [ ]  [2346](https://www.beecrowd.com.br/judge/pt/problems/view/2346) - Back to the Future
   - [ ]  [2347](https://www.beecrowd.com.br/judge/pt/problems/view/2347) - Counting Self-Rotating Subsets
@@ -477,7 +479,6 @@
   - [ ]  [2352](https://www.beecrowd.com.br/judge/pt/problems/view/2352) - Internet Trouble
   - [ ]  [2353](https://www.beecrowd.com.br/judge/pt/problems/view/2353) - Just in Time
   - [ ]  [2354](https://www.beecrowd.com.br/judge/pt/problems/view/2354) - Kill the Werewolf
-  - [ ]  [2355](https://www.beecrowd.com.br/judge/pt/problems/view/2355) - Brasil e Alemanha
   - [ ]  [2365](https://www.beecrowd.com.br/judge/pt/problems/view/2365) - Bolão do Brasileirão
   - [ ]  [2366](https://www.beecrowd.com.br/judge/pt/problems/view/2366) - Maratona
   - [ ]  [2367](https://www.beecrowd.com.br/judge/pt/problems/view/2367) - Competição de Chocolate
@@ -527,7 +528,6 @@
   - [ ]  [2453](https://www.beecrowd.com.br/judge/pt/problems/view/2453) - Língua do P
   - [ ]  [2458](https://www.beecrowd.com.br/judge/pt/problems/view/2458) - Setas
   - [ ]  [2459](https://www.beecrowd.com.br/judge/pt/problems/view/2459) - Copa do Mundo
-  - [ ]  [2460](https://www.beecrowd.com.br/judge/pt/problems/view/2460) - Fila
   - [ ]  [2461](https://www.beecrowd.com.br/judge/pt/problems/view/2461) - Blefe
   - [ ]  [2463](https://www.beecrowd.com.br/judge/pt/problems/view/2463) - Corredor
   - [ ]  [2467](https://www.beecrowd.com.br/judge/pt/problems/view/2467) - Frequência

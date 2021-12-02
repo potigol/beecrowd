@@ -1,7 +1,7 @@
-# Problemas 1900 (20%)
+# Problemas 1900 (21%)
 
   - [ ]  [1900](https://www.beecrowd.com.br/judge/pt/problems/view/1900) - Sequências Nulas *Paradigmas*
-  - [ ]  [1901](https://www.beecrowd.com.br/judge/pt/problems/view/1901) - Borboletas *Ad-Hoc*
+  - [x]  [1901](https://www.beecrowd.com.br/judge/pt/problems/view/1901) - [Borboletas](https://github.com/potigol/uoj-potigol/blob/master/src/1900/1901.poti) *Ad-Hoc*
   - [ ]  [1902](https://www.beecrowd.com.br/judge/pt/problems/view/1902) - Sociedade Brasileira Casamenteira *Grafos*
   - [ ]  [1903](https://www.beecrowd.com.br/judge/pt/problems/view/1903) - Cadeia Alimentar *Grafos*
   - [ ]  [1904](https://www.beecrowd.com.br/judge/pt/problems/view/1904) - Par ou Ímpar 2.0 *Matemática*

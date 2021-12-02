@@ -1,0 +1,5 @@
+n = leia_texto
+a = leia_textos(" ")
+m = leia_texto
+b = leia_textos(" ")
+escreva (a - b).junte(" ")

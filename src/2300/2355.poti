@@ -1,0 +1,7 @@
+var n := leia_inteiro
+enquanto n > 0 faça
+  brasil = (n / 90).piso.inteiro
+  alemanha = (n / 90 * 7).teto.inteiro
+  escreva "Brasil {brasil} x Alemanha {alemanha}"
+  n := leia_inteiro
+fim

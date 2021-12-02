@@ -1,4 +1,4 @@
-# Ad-Hoc (60 / 172)
+# Ad-Hoc (62 / 172)
 
 
 
@@ -12,6 +12,7 @@
   - [x]  [2297](https://www.beecrowd.com.br/judge/pt/problems/view/2297) - [Bafo](https://github.com/potigol/uoj-potigol/blob/master/src/2200/2297.poti)
   - [x]  [2328](https://www.beecrowd.com.br/judge/pt/problems/view/2328) - [Chocolate](https://github.com/potigol/uoj-potigol/blob/master/src/2300/2328.poti)
   - [x]  [2339](https://www.beecrowd.com.br/judge/pt/problems/view/2339) - [Aviões de Papel](https://github.com/potigol/uoj-potigol/blob/master/src/2300/2339.poti)
+  - [x]  [2341](https://www.beecrowd.com.br/judge/pt/problems/view/2341) - [Número de Envelopes](https://github.com/potigol/uoj-potigol/blob/master/src/2300/2341.poti)
   - [x]  [2342](https://www.beecrowd.com.br/judge/pt/problems/view/2342) - [Overflow](https://github.com/potigol/uoj-potigol/blob/master/src/2300/2342.poti)
   - [x]  [2369](https://www.beecrowd.com.br/judge/pt/problems/view/2369) - [Conta de Água](https://github.com/potigol/uoj-potigol/blob/master/src/2300/2369.poti)
   - [x]  [2373](https://www.beecrowd.com.br/judge/pt/problems/view/2373) - [Garçom](https://github.com/potigol/uoj-potigol/blob/master/src/2300/2373.poti)
@@ -48,6 +49,7 @@
   - [x]  [2455](https://www.beecrowd.com.br/judge/pt/problems/view/2455) - [Gangorra](https://github.com/potigol/uoj-potigol/blob/master/src/2400/2455.poti)
   - [x]  [2456](https://www.beecrowd.com.br/judge/pt/problems/view/2456) - [Cartas](https://github.com/potigol/uoj-potigol/blob/master/src/2400/2456.poti)
   - [x]  [2457](https://www.beecrowd.com.br/judge/pt/problems/view/2457) - [Letras](https://github.com/potigol/uoj-potigol/blob/master/src/2400/2457.poti)
+  - [x]  [2460](https://www.beecrowd.com.br/judge/pt/problems/view/2460) - [Fila](https://github.com/potigol/uoj-potigol/blob/master/src/2400/2460.poti)
   - [x]  [2462](https://www.beecrowd.com.br/judge/pt/problems/view/2462) - [Voo](https://github.com/potigol/uoj-potigol/blob/master/src/2400/2462.poti)
   - [x]  [2464](https://www.beecrowd.com.br/judge/pt/problems/view/2464) - [Decifra](https://github.com/potigol/uoj-potigol/blob/master/src/2400/2464.poti)
   - [x]  [2465](https://www.beecrowd.com.br/judge/pt/problems/view/2465) - [Passa Bolinha](https://github.com/potigol/uoj-potigol/blob/master/src/2400/2465.poti)
@@ -112,7 +114,6 @@
   - [ ]  [2332](https://www.beecrowd.com.br/judge/pt/problems/view/2332) - Jogo do Labirinto
   - [ ]  [2333](https://www.beecrowd.com.br/judge/pt/problems/view/2333) - Pizza
   - [ ]  [2340](https://www.beecrowd.com.br/judge/pt/problems/view/2340) - Feira de Bactérias
-  - [ ]  [2341](https://www.beecrowd.com.br/judge/pt/problems/view/2341) - Número de Envelopes
   - [ ]  [2343](https://www.beecrowd.com.br/judge/pt/problems/view/2343) - Caçadores de Mitos
   - [ ]  [2366](https://www.beecrowd.com.br/judge/pt/problems/view/2366) - Maratona
   - [ ]  [2367](https://www.beecrowd.com.br/judge/pt/problems/view/2367) - Competição de Chocolate
@@ -162,7 +163,6 @@
   - [ ]  [2453](https://www.beecrowd.com.br/judge/pt/problems/view/2453) - Língua do P
   - [ ]  [2458](https://www.beecrowd.com.br/judge/pt/problems/view/2458) - Setas
   - [ ]  [2459](https://www.beecrowd.com.br/judge/pt/problems/view/2459) - Copa do Mundo
-  - [ ]  [2460](https://www.beecrowd.com.br/judge/pt/problems/view/2460) - Fila
   - [ ]  [2461](https://www.beecrowd.com.br/judge/pt/problems/view/2461) - Blefe
   - [ ]  [2463](https://www.beecrowd.com.br/judge/pt/problems/view/2463) - Corredor
   - [ ]  [2467](https://www.beecrowd.com.br/judge/pt/problems/view/2467) - Frequência

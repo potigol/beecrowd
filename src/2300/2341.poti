@@ -1,0 +1,11 @@
+entrada = leia_inteiros(" ")
+n, k = entrada[1], entrada[2]
+xs = leia_inteiros(" ")
+
+var envelopes = Lista.mutável(k, 0)
+para x em xs faca
+  envelopes[x] := envelopes[x] + 1
+fim
+
+rotulos = envelopes.ordene[1]
+escreva rotulos

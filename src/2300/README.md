@@ -1,4 +1,4 @@
-# Problemas 2300 (27%)
+# Problemas 2300 (29%)
 
   - [ ]  [2300](https://www.beecrowd.com.br/judge/pt/problems/view/2300) - Transmissão de Energia *Grafos*
   - [ ]  [2301](https://www.beecrowd.com.br/judge/pt/problems/view/2301) - Vivo ou Morto *Ad-Hoc*
@@ -41,7 +41,7 @@
   - [x]  [2338](https://www.beecrowd.com.br/judge/pt/problems/view/2338) - [Morse](https://github.com/potigol/uoj-potigol/blob/master/src/2300/2338.poti) *Estruturas e Bibliotecas*
   - [x]  [2339](https://www.beecrowd.com.br/judge/pt/problems/view/2339) - [Aviões de Papel](https://github.com/potigol/uoj-potigol/blob/master/src/2300/2339.poti) *Ad-Hoc*
   - [ ]  [2340](https://www.beecrowd.com.br/judge/pt/problems/view/2340) - Feira de Bactérias *Ad-Hoc*
-  - [ ]  [2341](https://www.beecrowd.com.br/judge/pt/problems/view/2341) - Número de Envelopes *Ad-Hoc*
+  - [x]  [2341](https://www.beecrowd.com.br/judge/pt/problems/view/2341) - [Número de Envelopes](https://github.com/potigol/uoj-potigol/blob/master/src/2300/2341.poti) *Ad-Hoc*
   - [x]  [2342](https://www.beecrowd.com.br/judge/pt/problems/view/2342) - [Overflow](https://github.com/potigol/uoj-potigol/blob/master/src/2300/2342.poti) *Ad-Hoc*
   - [ ]  [2343](https://www.beecrowd.com.br/judge/pt/problems/view/2343) - Caçadores de Mitos *Ad-Hoc*
   - [x]  [2344](https://www.beecrowd.com.br/judge/pt/problems/view/2344) - [Notas da Prova](https://github.com/potigol/uoj-potigol/blob/master/src/2300/2344.poti) *Iniciante*
@@ -55,7 +55,7 @@
   - [ ]  [2352](https://www.beecrowd.com.br/judge/pt/problems/view/2352) - Internet Trouble *Ad-Hoc*
   - [ ]  [2353](https://www.beecrowd.com.br/judge/pt/problems/view/2353) - Just in Time *Ad-Hoc*
   - [ ]  [2354](https://www.beecrowd.com.br/judge/pt/problems/view/2354) - Kill the Werewolf *Ad-Hoc*
-  - [ ]  [2355](https://www.beecrowd.com.br/judge/pt/problems/view/2355) - Brasil e Alemanha *Ad-Hoc*
+  - [x]  [2355](https://www.beecrowd.com.br/judge/pt/problems/view/2355) - [Brasil e Alemanha](https://github.com/potigol/uoj-potigol/blob/master/src/2300/2355.poti) *Ad-Hoc*
   - [x]  [2356](https://www.beecrowd.com.br/judge/pt/problems/view/2356) - [Bactéria I](https://github.com/potigol/uoj-potigol/blob/master/src/2300/2356.poti) *Strings*
   - [ ]  [2357](https://www.beecrowd.com.br/judge/pt/problems/view/2357) - Violência em Sildávia *Grafos*
   - [ ]  [2358](https://www.beecrowd.com.br/judge/pt/problems/view/2358) - Bactéria II *Strings*
