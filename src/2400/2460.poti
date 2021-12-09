@@ -1,5 +1,36 @@
-n = leia_texto
-a = leia_textos(" ")
-m = leia_texto
-b = leia_textos(" ")
-escreva (a - b).junte(" ")
+#n = leia_texto
+#a = leia_textos(" ")
+#m = leia_texto
+#b = leia_textos(" ")
+#escreva (a - b).junte(" ")
+
+remover(fila, resultado: Lista[(Inteiro, Inteiro)], saida: Lista[Inteiro]): Lista[Inteiro] =
+  se [] == saida entao
+    (fila + resultado).ordene(_.segundo).mapeie(_.primeiro)
+  senaose fila[1].primeiro < saida[1] entao
+    remover(fila.cauda, fila[1]::resultado, saida)
+  senao
+    remover(fila.cauda, resultado, saida.cauda)
+
+n = leia_inteiro
+entrada = leia_inteiros(" ")
+var m := leia_inteiro
+var saida := leia_inteiros(" ").ordene
+
+indice = para i de 1 até n gere i fim
+
+var fila = entrada.zip(indice).ordene(_.primeiro)
+
+var resultado := [(0, 0)].cauda
+enquanto saida <> [] faça
+  enquanto fila[1].primeiro < saida[1] faca
+    resultado := fila[1] :: resultado
+    fila := fila.cauda
+  fim
+  saida := saida.cauda
+  fila := fila.cauda
+fim
+resultado := fila + resultado
+
+final = resultado.ordene(_.segundo).mapeie(_.primeiro).junte(" ")
+escreva final

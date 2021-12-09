@@ -1,0 +1,12 @@
+x = leia_inteiro
+limite = raiz(x / 2).inteiro
+
+var combinações := 0
+para n de 1 ate limite faça
+  se (n + x) mod (2 * n + 1) == 0
+    combinações := combinações + 1
+  fim
+fim
+escreva combinações
+
+# combinações = para n de 1 ate limite se (n + x) mod (2 * n + 1) == 0 gere 1 fim.tamanho

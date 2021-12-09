@@ -1,4 +1,4 @@
-# Problemas 2400 (35%)
+# Problemas 2400 (37%)
 
   - [ ]  [2400](https://www.beecrowd.com.br/judge/pt/problems/view/2400) - Balé *Ad-Hoc*
   - [ ]  [2401](https://www.beecrowd.com.br/judge/pt/problems/view/2401) - Calculadora *Ad-Hoc*
@@ -18,7 +18,7 @@
   - [ ]  [2415](https://www.beecrowd.com.br/judge/pt/problems/view/2415) - Consecutivos *Ad-Hoc*
   - [x]  [2416](https://www.beecrowd.com.br/judge/pt/problems/view/2416) - [Corrida](https://github.com/potigol/uoj-potigol/blob/master/src/2400/2416.poti) *Ad-Hoc*
   - [x]  [2417](https://www.beecrowd.com.br/judge/pt/problems/view/2417) - [Campeonato](https://github.com/potigol/uoj-potigol/blob/master/src/2400/2417.poti) *Ad-Hoc*
-  - [ ]  [2418](https://www.beecrowd.com.br/judge/pt/problems/view/2418) - Carnaval *Ad-Hoc*
+  - [x]  [2418](https://www.beecrowd.com.br/judge/pt/problems/view/2418) - [Carnaval](https://github.com/potigol/uoj-potigol/blob/master/src/2400/2418.poti) *Ad-Hoc*
   - [ ]  [2419](https://www.beecrowd.com.br/judge/pt/problems/view/2419) - Costa *Grafos*
   - [ ]  [2420](https://www.beecrowd.com.br/judge/pt/problems/view/2420) - Guerra por Território *Ad-Hoc*
   - [x]  [2421](https://www.beecrowd.com.br/judge/pt/problems/view/2421) - [Álbum de Fotos](https://github.com/potigol/uoj-potigol/blob/master/src/2400/2421.poti) *Ad-Hoc*
@@ -44,7 +44,7 @@
   - [ ]  [2441](https://www.beecrowd.com.br/judge/pt/problems/view/2441) - Janela *Ad-Hoc*
   - [ ]  [2442](https://www.beecrowd.com.br/judge/pt/problems/view/2442) - Plantação *Ad-Hoc*
   - [x]  [2443](https://www.beecrowd.com.br/judge/pt/problems/view/2443) - [Soma de Frações](https://github.com/potigol/uoj-potigol/blob/master/src/2400/2443.poti) *Ad-Hoc*
-  - [ ]  [2444](https://www.beecrowd.com.br/judge/pt/problems/view/2444) - Volume da TV *Ad-Hoc*
+  - [x]  [2444](https://www.beecrowd.com.br/judge/pt/problems/view/2444) - [Volume da TV](https://github.com/potigol/uoj-potigol/blob/master/src/2400/2444.poti) *Ad-Hoc*
   - [ ]  [2445](https://www.beecrowd.com.br/judge/pt/problems/view/2445) - Polígono *Ad-Hoc*
   - [ ]  [2446](https://www.beecrowd.com.br/judge/pt/problems/view/2446) - Troco *Paradigmas*
   - [ ]  [2447](https://www.beecrowd.com.br/judge/pt/problems/view/2447) - Torneio *Ad-Hoc*

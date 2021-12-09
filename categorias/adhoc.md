@@ -1,4 +1,4 @@
-# Ad-Hoc (148 / 732)
+# Ad-Hoc (152 / 732)
 
 
 
@@ -65,6 +65,7 @@
   - [x]  [2295](https://www.beecrowd.com.br/judge/pt/problems/view/2295) - [Frota de Táxi](https://github.com/potigol/uoj-potigol/blob/master/src/2200/2295.poti)
   - [x]  [2297](https://www.beecrowd.com.br/judge/pt/problems/view/2297) - [Bafo](https://github.com/potigol/uoj-potigol/blob/master/src/2200/2297.poti)
   - [x]  [2312](https://www.beecrowd.com.br/judge/pt/problems/view/2312) - [Quadro De Medalhas](https://github.com/potigol/uoj-potigol/blob/master/src/2300/2312.poti)
+  - [x]  [2327](https://www.beecrowd.com.br/judge/pt/problems/view/2327) - [Quadrados](https://github.com/potigol/uoj-potigol/blob/master/src/2300/2327.poti)
   - [x]  [2328](https://www.beecrowd.com.br/judge/pt/problems/view/2328) - [Chocolate](https://github.com/potigol/uoj-potigol/blob/master/src/2300/2328.poti)
   - [x]  [2339](https://www.beecrowd.com.br/judge/pt/problems/view/2339) - [Aviões de Papel](https://github.com/potigol/uoj-potigol/blob/master/src/2300/2339.poti)
   - [x]  [2341](https://www.beecrowd.com.br/judge/pt/problems/view/2341) - [Número de Envelopes](https://github.com/potigol/uoj-potigol/blob/master/src/2300/2341.poti)
@@ -81,6 +82,7 @@
   - [x]  [2381](https://www.beecrowd.com.br/judge/pt/problems/view/2381) - [Lista de Chamada](https://github.com/potigol/uoj-potigol/blob/master/src/2300/2381.poti)
   - [x]  [2386](https://www.beecrowd.com.br/judge/pt/problems/view/2386) - [Telescópio](https://github.com/potigol/uoj-potigol/blob/master/src/2300/2386.poti)
   - [x]  [2388](https://www.beecrowd.com.br/judge/pt/problems/view/2388) - [Tacógrafo](https://github.com/potigol/uoj-potigol/blob/master/src/2300/2388.poti)
+  - [x]  [2389](https://www.beecrowd.com.br/judge/pt/problems/view/2389) - [Floresta](https://github.com/potigol/uoj-potigol/blob/master/src/2300/2389.poti)
   - [x]  [2394](https://www.beecrowd.com.br/judge/pt/problems/view/2394) - [Corrida 1](https://github.com/potigol/uoj-potigol/blob/master/src/2300/2394.poti)
   - [x]  [2395](https://www.beecrowd.com.br/judge/pt/problems/view/2395) - [Transporte de Contêineres](https://github.com/potigol/uoj-potigol/blob/master/src/2300/2395.poti)
   - [x]  [2396](https://www.beecrowd.com.br/judge/pt/problems/view/2396) - [Corrida](https://github.com/potigol/uoj-potigol/blob/master/src/2300/2396.poti)
@@ -93,6 +95,7 @@
   - [x]  [2414](https://www.beecrowd.com.br/judge/pt/problems/view/2414) - [Desafio do Maior Número](https://github.com/potigol/uoj-potigol/blob/master/src/2400/2414.poti)
   - [x]  [2416](https://www.beecrowd.com.br/judge/pt/problems/view/2416) - [Corrida](https://github.com/potigol/uoj-potigol/blob/master/src/2400/2416.poti)
   - [x]  [2417](https://www.beecrowd.com.br/judge/pt/problems/view/2417) - [Campeonato](https://github.com/potigol/uoj-potigol/blob/master/src/2400/2417.poti)
+  - [x]  [2418](https://www.beecrowd.com.br/judge/pt/problems/view/2418) - [Carnaval](https://github.com/potigol/uoj-potigol/blob/master/src/2400/2418.poti)
   - [x]  [2421](https://www.beecrowd.com.br/judge/pt/problems/view/2421) - [Álbum de Fotos](https://github.com/potigol/uoj-potigol/blob/master/src/2400/2421.poti)
   - [x]  [2422](https://www.beecrowd.com.br/judge/pt/problems/view/2422) - [Soma das Casas](https://github.com/potigol/uoj-potigol/blob/master/src/2400/2422.poti)
   - [x]  [2423](https://www.beecrowd.com.br/judge/pt/problems/view/2423) - [Receita de Bolo](https://github.com/potigol/uoj-potigol/blob/master/src/2400/2423.poti)
@@ -102,6 +105,7 @@
   - [x]  [2435](https://www.beecrowd.com.br/judge/pt/problems/view/2435) - [Corrida](https://github.com/potigol/uoj-potigol/blob/master/src/2400/2435.poti)
   - [x]  [2437](https://www.beecrowd.com.br/judge/pt/problems/view/2437) - [Distância de Manhattan](https://github.com/potigol/uoj-potigol/blob/master/src/2400/2437.poti)
   - [x]  [2443](https://www.beecrowd.com.br/judge/pt/problems/view/2443) - [Soma de Frações](https://github.com/potigol/uoj-potigol/blob/master/src/2400/2443.poti)
+  - [x]  [2444](https://www.beecrowd.com.br/judge/pt/problems/view/2444) - [Volume da TV](https://github.com/potigol/uoj-potigol/blob/master/src/2400/2444.poti)
   - [x]  [2454](https://www.beecrowd.com.br/judge/pt/problems/view/2454) - [Flíper](https://github.com/potigol/uoj-potigol/blob/master/src/2400/2454.poti)
   - [x]  [2455](https://www.beecrowd.com.br/judge/pt/problems/view/2455) - [Gangorra](https://github.com/potigol/uoj-potigol/blob/master/src/2400/2455.poti)
   - [x]  [2456](https://www.beecrowd.com.br/judge/pt/problems/view/2456) - [Cartas](https://github.com/potigol/uoj-potigol/blob/master/src/2400/2456.poti)
@@ -462,7 +466,6 @@
   - [ ]  [2324](https://www.beecrowd.com.br/judge/pt/problems/view/2324) - Pastas
   - [ ]  [2325](https://www.beecrowd.com.br/judge/pt/problems/view/2325) - Repositórios
   - [ ]  [2326](https://www.beecrowd.com.br/judge/pt/problems/view/2326) - Sacoleiro
-  - [ ]  [2327](https://www.beecrowd.com.br/judge/pt/problems/view/2327) - Quadrados
   - [ ]  [2329](https://www.beecrowd.com.br/judge/pt/problems/view/2329) - Pão a Metro
   - [ ]  [2330](https://www.beecrowd.com.br/judge/pt/problems/view/2330) - Telemarketing
   - [ ]  [2331](https://www.beecrowd.com.br/judge/pt/problems/view/2331) - Uiquipédia
@@ -490,7 +493,6 @@
   - [ ]  [2384](https://www.beecrowd.com.br/judge/pt/problems/view/2384) - Tradutor Alienígena
   - [ ]  [2385](https://www.beecrowd.com.br/judge/pt/problems/view/2385) - Multiplicação de Matrizes
   - [ ]  [2387](https://www.beecrowd.com.br/judge/pt/problems/view/2387) - Dentista
-  - [ ]  [2389](https://www.beecrowd.com.br/judge/pt/problems/view/2389) - Floresta
   - [ ]  [2390](https://www.beecrowd.com.br/judge/pt/problems/view/2390) - Escada Rolante
   - [ ]  [2391](https://www.beecrowd.com.br/judge/pt/problems/view/2391) - Progressões Aritméticas
   - [ ]  [2392](https://www.beecrowd.com.br/judge/pt/problems/view/2392) - Pulo do Sapo
@@ -505,7 +507,6 @@
   - [ ]  [2410](https://www.beecrowd.com.br/judge/pt/problems/view/2410) - Frequencia na Aula
   - [ ]  [2411](https://www.beecrowd.com.br/judge/pt/problems/view/2411) - O Tabuleiro Esburacado
   - [ ]  [2415](https://www.beecrowd.com.br/judge/pt/problems/view/2415) - Consecutivos
-  - [ ]  [2418](https://www.beecrowd.com.br/judge/pt/problems/view/2418) - Carnaval
   - [ ]  [2420](https://www.beecrowd.com.br/judge/pt/problems/view/2420) - Guerra por Território
   - [ ]  [2425](https://www.beecrowd.com.br/judge/pt/problems/view/2425) - Banco
   - [ ]  [2430](https://www.beecrowd.com.br/judge/pt/problems/view/2430) - Catálogo de Músicas
@@ -517,7 +518,6 @@
   - [ ]  [2439](https://www.beecrowd.com.br/judge/pt/problems/view/2439) - Cachecol da Vovó Vitória
   - [ ]  [2441](https://www.beecrowd.com.br/judge/pt/problems/view/2441) - Janela
   - [ ]  [2442](https://www.beecrowd.com.br/judge/pt/problems/view/2442) - Plantação
-  - [ ]  [2444](https://www.beecrowd.com.br/judge/pt/problems/view/2444) - Volume da TV
   - [ ]  [2445](https://www.beecrowd.com.br/judge/pt/problems/view/2445) - Polígono
   - [ ]  [2447](https://www.beecrowd.com.br/judge/pt/problems/view/2447) - Torneio
   - [ ]  [2448](https://www.beecrowd.com.br/judge/pt/problems/view/2448) - Carteiro

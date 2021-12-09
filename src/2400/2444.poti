@@ -1,0 +1,6 @@
+min(x, y: Inteiro) = se x < y então x senão y fim
+max(x, y: Inteiro) = se x > y então x senão y fim
+
+v = leia_inteiros(" ")[1]
+var a := leia_inteiros(" ")
+escreva a.injete(v)((x, y) => max(min(x + y, 100), 0))
