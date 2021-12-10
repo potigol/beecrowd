@@ -1,4 +1,4 @@
-# Ad-Hoc (66 / 172)
+# Ad-Hoc (68 / 172)
 
 
 
@@ -47,8 +47,10 @@
   - [x]  [2434](https://www.beecrowd.com.br/judge/pt/problems/view/2434) - [Saldo do Vovô](https://github.com/potigol/uoj-potigol/blob/master/src/2400/2434.poti)
   - [x]  [2435](https://www.beecrowd.com.br/judge/pt/problems/view/2435) - [Corrida](https://github.com/potigol/uoj-potigol/blob/master/src/2400/2435.poti)
   - [x]  [2437](https://www.beecrowd.com.br/judge/pt/problems/view/2437) - [Distância de Manhattan](https://github.com/potigol/uoj-potigol/blob/master/src/2400/2437.poti)
+  - [x]  [2441](https://www.beecrowd.com.br/judge/pt/problems/view/2441) - [Janela](https://github.com/potigol/uoj-potigol/blob/master/src/2400/2441.poti)
   - [x]  [2443](https://www.beecrowd.com.br/judge/pt/problems/view/2443) - [Soma de Frações](https://github.com/potigol/uoj-potigol/blob/master/src/2400/2443.poti)
   - [x]  [2444](https://www.beecrowd.com.br/judge/pt/problems/view/2444) - [Volume da TV](https://github.com/potigol/uoj-potigol/blob/master/src/2400/2444.poti)
+  - [x]  [2453](https://www.beecrowd.com.br/judge/pt/problems/view/2453) - [Língua do P](https://github.com/potigol/uoj-potigol/blob/master/src/2400/2453.poti)
   - [x]  [2454](https://www.beecrowd.com.br/judge/pt/problems/view/2454) - [Flíper](https://github.com/potigol/uoj-potigol/blob/master/src/2400/2454.poti)
   - [x]  [2455](https://www.beecrowd.com.br/judge/pt/problems/view/2455) - [Gangorra](https://github.com/potigol/uoj-potigol/blob/master/src/2400/2455.poti)
   - [x]  [2456](https://www.beecrowd.com.br/judge/pt/problems/view/2456) - [Cartas](https://github.com/potigol/uoj-potigol/blob/master/src/2400/2456.poti)
@@ -151,7 +153,6 @@
   - [ ]  [2436](https://www.beecrowd.com.br/judge/pt/problems/view/2436) - Robô
   - [ ]  [2438](https://www.beecrowd.com.br/judge/pt/problems/view/2438) - Quadradinho de 8
   - [ ]  [2439](https://www.beecrowd.com.br/judge/pt/problems/view/2439) - Cachecol da Vovó Vitória
-  - [ ]  [2441](https://www.beecrowd.com.br/judge/pt/problems/view/2441) - Janela
   - [ ]  [2442](https://www.beecrowd.com.br/judge/pt/problems/view/2442) - Plantação
   - [ ]  [2445](https://www.beecrowd.com.br/judge/pt/problems/view/2445) - Polígono
   - [ ]  [2447](https://www.beecrowd.com.br/judge/pt/problems/view/2447) - Torneio
@@ -160,7 +161,6 @@
   - [ ]  [2450](https://www.beecrowd.com.br/judge/pt/problems/view/2450) - Matriz Escada
   - [ ]  [2451](https://www.beecrowd.com.br/judge/pt/problems/view/2451) - PacMan
   - [ ]  [2452](https://www.beecrowd.com.br/judge/pt/problems/view/2452) - Semente
-  - [ ]  [2453](https://www.beecrowd.com.br/judge/pt/problems/view/2453) - Língua do P
   - [ ]  [2458](https://www.beecrowd.com.br/judge/pt/problems/view/2458) - Setas
   - [ ]  [2459](https://www.beecrowd.com.br/judge/pt/problems/view/2459) - Copa do Mundo
   - [ ]  [2461](https://www.beecrowd.com.br/judge/pt/problems/view/2461) - Blefe

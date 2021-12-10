@@ -1,17 +1,16 @@
+somar_linha(a: Lista[Lista[Inteiro]], n: Inteiro) =
+  (f: Inteiro => (Inteiro, Inteiro)) =>
+    para i de 1 até n gere
+      a[f(i).primeiro][f(i).segundo]
+    fim.injete(0)(_ + _)
+
 n = leia_inteiro
 a = para i de 1 até n gere leia_inteiros(" ") fim
-soma = (
-  para i de 1 ate n gere a[i][i] fim.injete(0)(_ + _) ::
-  para i de 1 ate n gere a[i][n-i+1] fim.injete(0)(_ + _) ::
-  para i de 1 ate n gere
-    para j de 1 ate n gere a[i][j] fim.injete(0)(_ + _)
-  fim +
-  para i de 1 ate n gere
-    para j de 1 ate n gere a[j][i] fim.injete(0)(_ + _)
-  fim
-).ordene
-se soma[1] == soma[-1] então
-  escreva soma[1]
-senão
-  escreva -1
-fim
+
+s = somar_linha(a, n)
+soma = ( s(i => (i, i)) ::              # diagonal principal
+         s(i => (i, n - i + 1)) ::      # diagonal secundária
+         para j de 1 ate n gere s(i => (j, i)) fim +
+         para j de 1 ate n gere s(i => (i, j)) fim ).ordene
+
+escreva se soma[1] == soma[-1] então soma[1] senão -1 fim

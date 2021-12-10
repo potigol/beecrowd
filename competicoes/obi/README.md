@@ -1,4 +1,4 @@
-# Olimpíada de Informática (85 / 215)
+# Olimpíada de Informática (87 / 215)
 
 
 
@@ -54,7 +54,7 @@
   - [ ]  [2450](https://www.beecrowd.com.br/judge/pt/problems/view/2450) - Matriz Escada *Ad-Hoc*
   - [ ]  [2451](https://www.beecrowd.com.br/judge/pt/problems/view/2451) - PacMan *Ad-Hoc*
   - [ ]  [2452](https://www.beecrowd.com.br/judge/pt/problems/view/2452) - Semente *Ad-Hoc*
-  - [ ]  [2453](https://www.beecrowd.com.br/judge/pt/problems/view/2453) - Língua do P *Ad-Hoc*
+  - [x]  [2453](https://www.beecrowd.com.br/judge/pt/problems/view/2453) - [Língua do P](https://github.com/potigol/uoj-potigol/blob/master/src/2400/2453.poti) *Ad-Hoc*
   - [x]  [2454](https://www.beecrowd.com.br/judge/pt/problems/view/2454) - [Flíper](https://github.com/potigol/uoj-potigol/blob/master/src/2400/2454.poti) *Ad-Hoc*
   - [x]  [2455](https://www.beecrowd.com.br/judge/pt/problems/view/2455) - [Gangorra](https://github.com/potigol/uoj-potigol/blob/master/src/2400/2455.poti) *Ad-Hoc*
   - [x]  [2456](https://www.beecrowd.com.br/judge/pt/problems/view/2456) - [Cartas](https://github.com/potigol/uoj-potigol/blob/master/src/2400/2456.poti) *Ad-Hoc*
@@ -93,7 +93,7 @@
   - [ ]  [2438](https://www.beecrowd.com.br/judge/pt/problems/view/2438) - Quadradinho de 8 *Ad-Hoc*
   - [ ]  [2439](https://www.beecrowd.com.br/judge/pt/problems/view/2439) - Cachecol da Vovó Vitória *Ad-Hoc*
   - [ ]  [2440](https://www.beecrowd.com.br/judge/pt/problems/view/2440) - Famílias de Troia *Grafos*
-  - [ ]  [2441](https://www.beecrowd.com.br/judge/pt/problems/view/2441) - Janela *Ad-Hoc*
+  - [x]  [2441](https://www.beecrowd.com.br/judge/pt/problems/view/2441) - [Janela](https://github.com/potigol/uoj-potigol/blob/master/src/2400/2441.poti) *Ad-Hoc*
   - [ ]  [2442](https://www.beecrowd.com.br/judge/pt/problems/view/2442) - Plantação *Ad-Hoc*
   - [x]  [2443](https://www.beecrowd.com.br/judge/pt/problems/view/2443) - [Soma de Frações](https://github.com/potigol/uoj-potigol/blob/master/src/2400/2443.poti) *Ad-Hoc*
   - [x]  [2444](https://www.beecrowd.com.br/judge/pt/problems/view/2444) - [Volume da TV](https://github.com/potigol/uoj-potigol/blob/master/src/2400/2444.poti) *Ad-Hoc*

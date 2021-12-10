@@ -1,0 +1,5 @@
+min(x, y: Inteiro) = se x < y então x senão y fim
+
+a = leia_inteiros(" ").ordene
+r = 400 - min(200, a[2]-a[1]) - min(200, a[3]-a[2])
+escreva r*100
