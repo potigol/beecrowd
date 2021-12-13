@@ -1,0 +1,8 @@
+n = leia_inteiro
+linhas =
+  para i de 1 ate n gere
+    a = leia_texto.selecione(_ <> '.')
+    se i mod 2 == 1 entao a senão a.inverta fim
+  fim
+comidas = linhas.junte("").divida("A").ordene(_.tamanho).inverta
+escreva comidas[1].tamanho
