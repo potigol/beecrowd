@@ -1,4 +1,4 @@
-# Estruturas e Bibliotecas (26 / 179)
+# Estruturas e Bibliotecas (27 / 179)
 
 
 
@@ -30,6 +30,7 @@
   - [x]  [2729](https://www.beecrowd.com.br/judge/pt/problems/view/2729) - [Lista de Compras](https://github.com/potigol/uoj-potigol/blob/master/src/2700/2729.poti)
   - [x]  [2872](https://www.beecrowd.com.br/judge/pt/problems/view/2872) - [Protocolo TCP/IP](https://github.com/potigol/uoj-potigol/blob/master/src/2800/2872.poti)
   - [x]  [2984](https://www.beecrowd.com.br/judge/pt/problems/view/2984) - [Assuntos Pendentes](https://github.com/potigol/uoj-potigol/blob/master/src/2900/2984.poti)
+  - [x]  [3357](https://www.beecrowd.com.br/judge/pt/problems/view/3357) - [Rico do Mate](https://github.com/potigol/uoj-potigol/blob/master/src/3300/3357.poti)
 
 ## Problemas não resolvidos
 
@@ -185,4 +186,3 @@
   - [ ]  [3210](https://www.beecrowd.com.br/judge/pt/problems/view/3210) - O Pior Clima de Todos
   - [ ]  [3239](https://www.beecrowd.com.br/judge/pt/problems/view/3239) - Dirty Driving
   - [ ]  [3248](https://www.beecrowd.com.br/judge/pt/problems/view/3248) - Mega Inversões
-  - [ ]  [3357](https://www.beecrowd.com.br/judge/pt/problems/view/3357) - Rico do Mate

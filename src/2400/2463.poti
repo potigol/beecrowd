@@ -1,0 +1,14 @@
+leia_texto
+var a := leia_inteiros(" ")
+var soma, aux := 0
+var tam := a.tamanho
+enquanto tam > 0 faca
+  soma := soma + a[1]
+  se soma > aux entao aux := soma fim
+  se soma < 0 entao
+    soma := 0
+  fim
+  a := a.cauda
+  tam := tam - 1
+fim
+escreva aux

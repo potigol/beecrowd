@@ -1,0 +1,9 @@
+teclas = "`1234567890-=QWERTYUIOP[]\\ASDFGHJKL;\'ZXCVBNM,./"
+var entrada := leia_texto
+enquanto nao eof faca
+  mensagem = para c em entrada gere
+    se c == ' ' então ' ' senão teclas[teclas.posição(c) - 1] fim
+  fim.junte("")
+  escreva mensagem
+  entrada := leia_texto
+fim

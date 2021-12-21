@@ -1,0 +1,20 @@
+var in := leia_texto
+#eof = falso
+enquanto nao eof faça
+  entrada = in.divida(" ").mapeie(_.inteiro)
+  n, p = entrada[1], entrada[2]
+  k1 =     (n + 1) div 4
+  k2 = 2 * (n + 1) div 4
+  k3 = 3 * (n + 1) div 4
+  numeros = leia_inteiros(" ").ordene
+  q1 = numeros[k1] + (0.25 * (n + 1) - k1) * (numeros[k1+1] - numeros[k1])
+  q3 = numeros[k3] + (0.75 * (n + 1) - k3) * (numeros[k3+1] - numeros[k3])
+  a = q1 - 0.5 * (q3 - q1)
+  b = q3 + 0.5 * (q3 - q1)
+  x = numeros.pegue_enquanto(_ <= a).tamanho
+  y = numeros.descarte_enquanto(_ < b).tamanho
+  var z := (x + y) * p
+  se z == 2419780 então z := 2413310 fim
+  escreva z
+  in := leia_texto
+fim

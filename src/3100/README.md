@@ -1,4 +1,4 @@
-# Problemas 3100 (26%)
+# Problemas 3100 (27%)
 
   - [ ]  [3100](https://www.beecrowd.com.br/judge/pt/problems/view/3100) - Os Dígitos da Sorte *Strings*
   - [ ]  [3101](https://www.beecrowd.com.br/judge/pt/problems/view/3101) - Famílias Poligâmicas *Grafos*
@@ -64,7 +64,7 @@
   - [x]  [3161](https://www.beecrowd.com.br/judge/pt/problems/view/3161) - [As Frutas Esquecidas](https://github.com/potigol/uoj-potigol/blob/master/src/3100/3161.poti) *Iniciante*
   - [x]  [3162](https://www.beecrowd.com.br/judge/pt/problems/view/3162) - [Comunicação Espacial](https://github.com/potigol/uoj-potigol/blob/master/src/3100/3162.poti) *Iniciante*
   - [ ]  [3163](https://www.beecrowd.com.br/judge/pt/problems/view/3163) - Controlador de Vôo *Estruturas e Bibliotecas*
-  - [ ]  [3164](https://www.beecrowd.com.br/judge/pt/problems/view/3164) - Fiscalizando Empresa *Iniciante*
+  - [x]  [3164](https://www.beecrowd.com.br/judge/pt/problems/view/3164) - [Fiscalizando Empresa](https://github.com/potigol/uoj-potigol/blob/master/src/3100/3164.poti) *Iniciante*
   - [x]  [3165](https://www.beecrowd.com.br/judge/pt/problems/view/3165) - [Primos Gêmeos](https://github.com/potigol/uoj-potigol/blob/master/src/3100/3165.poti) *Matemática*
   - [ ]  [3166](https://www.beecrowd.com.br/judge/pt/problems/view/3166) - Procurando Palavras na Diagonal Principal *Iniciante*
   - [ ]  [3167](https://www.beecrowd.com.br/judge/pt/problems/view/3167) - Procurando Palavras na Diagonal Secundária *Iniciante*

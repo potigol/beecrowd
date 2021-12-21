@@ -1,0 +1,14 @@
+entrada = leia_reais(" ")
+n = entrada[1].inteiro
+l, q = (entrada[2] * 10).arredonde, (entrada[3] * 10).arredonde
+participantes = leia_textos(" ")
+r = l mod (n * q)
+se r mod q == 0 entao
+  agua = q / 10
+  rei = (l - 1) mod (n * q) div q + 1
+  escreva "{participantes[rei]} {agua formato "%.1f"}"
+senão
+  agua = r mod q / 10
+  rei = r div q + 1
+  escreva "{participantes[rei]} {agua formato "%.1f"}"
+fim

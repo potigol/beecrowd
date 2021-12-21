@@ -1,4 +1,4 @@
-# Problemas 1100 (65%)
+# Problemas 1100 (66%)
 
   - [ ]  [1100](https://www.beecrowd.com.br/judge/pt/problems/view/1100) - Movimentos do Cavalo *Grafos*
   - [x]  [1101](https://www.beecrowd.com.br/judge/pt/problems/view/1101) - [Sequência de Números e Soma](https://github.com/potigol/uoj-potigol/blob/master/src/1100/1101.poti) *Iniciante*
@@ -96,7 +96,7 @@
   - [ ]  [1193](https://www.beecrowd.com.br/judge/pt/problems/view/1193) - Conversão entre Bases *Matemática*
   - [ ]  [1194](https://www.beecrowd.com.br/judge/pt/problems/view/1194) - Prefixa, Infixa e Posfixa *Grafos*
   - [ ]  [1195](https://www.beecrowd.com.br/judge/pt/problems/view/1195) - Árvore Binária de Busca *Grafos*
-  - [ ]  [1196](https://www.beecrowd.com.br/judge/pt/problems/view/1196) - WERTYU *Ad-Hoc*
+  - [x]  [1196](https://www.beecrowd.com.br/judge/pt/problems/view/1196) - [WERTYU](https://github.com/potigol/uoj-potigol/blob/master/src/1100/1196.poti) *Ad-Hoc*
   - [x]  [1197](https://www.beecrowd.com.br/judge/pt/problems/view/1197) - [Volta à Faculdade de Física](https://github.com/potigol/uoj-potigol/blob/master/src/1100/1197.poti) *Matemática*
   - [x]  [1198](https://www.beecrowd.com.br/judge/pt/problems/view/1198) - [O Bravo Guerreiro Hashmat](https://github.com/potigol/uoj-potigol/blob/master/src/1100/1198.poti) *Matemática*
   - [ ]  [1199](https://www.beecrowd.com.br/judge/pt/problems/view/1199) - Conversão Simples de Base *Matemática*

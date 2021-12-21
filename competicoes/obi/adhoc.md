@@ -1,4 +1,4 @@
-# Ad-Hoc (69 / 172)
+# Ad-Hoc (70 / 172)
 
 
 
@@ -58,6 +58,7 @@
   - [x]  [2457](https://www.beecrowd.com.br/judge/pt/problems/view/2457) - [Letras](https://github.com/potigol/uoj-potigol/blob/master/src/2400/2457.poti)
   - [x]  [2460](https://www.beecrowd.com.br/judge/pt/problems/view/2460) - [Fila](https://github.com/potigol/uoj-potigol/blob/master/src/2400/2460.poti)
   - [x]  [2462](https://www.beecrowd.com.br/judge/pt/problems/view/2462) - [Voo](https://github.com/potigol/uoj-potigol/blob/master/src/2400/2462.poti)
+  - [x]  [2463](https://www.beecrowd.com.br/judge/pt/problems/view/2463) - [Corredor](https://github.com/potigol/uoj-potigol/blob/master/src/2400/2463.poti)
   - [x]  [2464](https://www.beecrowd.com.br/judge/pt/problems/view/2464) - [Decifra](https://github.com/potigol/uoj-potigol/blob/master/src/2400/2464.poti)
   - [x]  [2465](https://www.beecrowd.com.br/judge/pt/problems/view/2465) - [Passa Bolinha](https://github.com/potigol/uoj-potigol/blob/master/src/2400/2465.poti)
   - [x]  [2466](https://www.beecrowd.com.br/judge/pt/problems/view/2466) - [Sinuca](https://github.com/potigol/uoj-potigol/blob/master/src/2400/2466.poti)
@@ -164,7 +165,6 @@
   - [ ]  [2458](https://www.beecrowd.com.br/judge/pt/problems/view/2458) - Setas
   - [ ]  [2459](https://www.beecrowd.com.br/judge/pt/problems/view/2459) - Copa do Mundo
   - [ ]  [2461](https://www.beecrowd.com.br/judge/pt/problems/view/2461) - Blefe
-  - [ ]  [2463](https://www.beecrowd.com.br/judge/pt/problems/view/2463) - Corredor
   - [ ]  [2467](https://www.beecrowd.com.br/judge/pt/problems/view/2467) - Frequência
   - [ ]  [2468](https://www.beecrowd.com.br/judge/pt/problems/view/2468) - Mapa
   - [ ]  [2470](https://www.beecrowd.com.br/judge/pt/problems/view/2470) - Jogo da Memória
