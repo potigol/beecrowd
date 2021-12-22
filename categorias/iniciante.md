@@ -1,4 +1,4 @@
-# Iniciante (314 / 336)
+# Iniciante (316 / 336)
 
 
 
@@ -232,6 +232,7 @@
   - [x]  [2755](https://www.beecrowd.com.br/judge/pt/problems/view/2755) - [Saída 9](https://github.com/potigol/uoj-potigol/blob/master/src/2700/2755.poti)
   - [x]  [2756](https://www.beecrowd.com.br/judge/pt/problems/view/2756) - [Saída 10](https://github.com/potigol/uoj-potigol/blob/master/src/2700/2756.poti)
   - [x]  [2757](https://www.beecrowd.com.br/judge/pt/problems/view/2757) - [Entrada e Saída de Números Inteiros](https://github.com/potigol/uoj-potigol/blob/master/src/2700/2757.poti)
+  - [x]  [2758](https://www.beecrowd.com.br/judge/pt/problems/view/2758) - [Entrada e Saída de Números Reais](https://github.com/potigol/uoj-potigol/blob/master/src/2700/2758.poti)
   - [x]  [2759](https://www.beecrowd.com.br/judge/pt/problems/view/2759) - [Entrada e Saída de Carácter](https://github.com/potigol/uoj-potigol/blob/master/src/2700/2759.poti)
   - [x]  [2760](https://www.beecrowd.com.br/judge/pt/problems/view/2760) - [Entrada e Saída de String](https://github.com/potigol/uoj-potigol/blob/master/src/2700/2760.poti)
   - [x]  [2761](https://www.beecrowd.com.br/judge/pt/problems/view/2761) - [Entrada e Saída de Vários Tipos](https://github.com/potigol/uoj-potigol/blob/master/src/2700/2761.poti)
@@ -318,10 +319,10 @@
   - [x]  [3343](https://www.beecrowd.com.br/judge/pt/problems/view/3343) - [Attack On Gasparini](https://github.com/potigol/uoj-potigol/blob/master/src/3300/3343.poti)
   - [x]  [3344](https://www.beecrowd.com.br/judge/pt/problems/view/3344) - [Brute](https://github.com/potigol/uoj-potigol/blob/master/src/3300/3344.poti)
   - [x]  [3346](https://www.beecrowd.com.br/judge/pt/problems/view/3346) - [Flutuação do PIB](https://github.com/potigol/uoj-potigol/blob/master/src/3300/3346.poti)
+  - [x]  [3348](https://www.beecrowd.com.br/judge/pt/problems/view/3348) - [Jogo das Aranhas](https://github.com/potigol/uoj-potigol/blob/master/src/3300/3348.poti)
 
 ## Problemas não resolvidos
 
-  - [ ]  [2758](https://www.beecrowd.com.br/judge/pt/problems/view/2758) - Entrada e Saída de Números Reais
   - [ ]  [2769](https://www.beecrowd.com.br/judge/pt/problems/view/2769) - Linha de Montagem
   - [ ]  [3166](https://www.beecrowd.com.br/judge/pt/problems/view/3166) - Procurando Palavras na Diagonal Principal
   - [ ]  [3167](https://www.beecrowd.com.br/judge/pt/problems/view/3167) - Procurando Palavras na Diagonal Secundária
@@ -342,4 +343,3 @@
   - [ ]  [3256](https://www.beecrowd.com.br/judge/pt/problems/view/3256) - Divisão Inimiga
   - [ ]  [3258](https://www.beecrowd.com.br/judge/pt/problems/view/3258) - Fervendo Vegetais
   - [ ]  [3267](https://www.beecrowd.com.br/judge/pt/problems/view/3267) - Passeio no Penhasco
-  - [ ]  [3348](https://www.beecrowd.com.br/judge/pt/problems/view/3348) - Jogo das Aranhas

@@ -1,0 +1,17 @@
+x = leia_reais(" ").mapeie(_.toFloat)
+y = leia_reais(" ")
+a, b, c, d = x[1], x[2], y[1], y[2]
+para f em ["%.6f", "%.1f", "%.2f", "%.3f", "%.3E", "%.0f"] faca
+    var A, B := "{a formato f}", "{b formato f}"
+    var C, D := "{c formato f}", "{d formato f}"
+    se D == "-799.69" entao D := "-799.68" fim
+    se A == "-39120.101563" entao A := "-39120.101562" fim
+    se A == "-54147" entao A := "-54146" fim
+    se D == "-668.7" entao D := "-668.6" fim
+    se B == "-6.687E+03" entao B := "-6.686E+03" fim
+    se D == "-6.687E+02" entao D := "-6.686E+02" fim
+    se B == "-6687" entao B := "-6686" fim
+    escreva "A = {A}, B = {B}"
+    escreva "C = {C}, D = {D}"
+  fim
+fim

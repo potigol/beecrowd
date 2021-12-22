@@ -1,4 +1,4 @@
-# Problemas 3300 (44%)
+# Problemas 3300 (47%)
 
   - [x]  [3300](https://www.beecrowd.com.br/judge/pt/problems/view/3300) - [Números Má Sorte Recarregados](https://github.com/potigol/uoj-potigol/blob/master/src/3300/3300.poti) *Strings*
   - [x]  [3301](https://www.beecrowd.com.br/judge/pt/problems/view/3301) - [Sobrinho do Meio](https://github.com/potigol/uoj-potigol/blob/master/src/3300/3301.poti) *Iniciante*
@@ -48,7 +48,7 @@
   - [ ]  [3345](https://www.beecrowd.com.br/judge/pt/problems/view/3345) - O Passatempo de Ferdinacci *Matemática*
   - [x]  [3346](https://www.beecrowd.com.br/judge/pt/problems/view/3346) - [Flutuação do PIB](https://github.com/potigol/uoj-potigol/blob/master/src/3300/3346.poti) *Iniciante*
   - [ ]  [3347](https://www.beecrowd.com.br/judge/pt/problems/view/3347) - Ancestralidade *Strings*
-  - [ ]  [3348](https://www.beecrowd.com.br/judge/pt/problems/view/3348) - Jogo das Aranhas *Iniciante*
+  - [x]  [3348](https://www.beecrowd.com.br/judge/pt/problems/view/3348) - [Jogo das Aranhas](https://github.com/potigol/uoj-potigol/blob/master/src/3300/3348.poti) *Iniciante*
   - [ ]  [3349](https://www.beecrowd.com.br/judge/pt/problems/view/3349) - Armadura *Paradigmas*
   - [ ]  [3350](https://www.beecrowd.com.br/judge/pt/problems/view/3350) - A Casa das Sete Mulheres *Grafos*
   - [ ]  [3351](https://www.beecrowd.com.br/judge/pt/problems/view/3351) - Clickbait *Ad-Hoc*

@@ -1,4 +1,4 @@
-# Problemas 2700 (48%)
+# Problemas 2700 (50%)
 
   - [ ]  [2700](https://www.beecrowd.com.br/judge/pt/problems/view/2700) - Angariando Fundos *Estruturas e Bibliotecas*
   - [ ]  [2701](https://www.beecrowd.com.br/judge/pt/problems/view/2701) - Portas da Incerteza *Ad-Hoc*
@@ -58,7 +58,7 @@
   - [x]  [2755](https://www.beecrowd.com.br/judge/pt/problems/view/2755) - [Saída 9](https://github.com/potigol/uoj-potigol/blob/master/src/2700/2755.poti) *Iniciante*
   - [x]  [2756](https://www.beecrowd.com.br/judge/pt/problems/view/2756) - [Saída 10](https://github.com/potigol/uoj-potigol/blob/master/src/2700/2756.poti) *Iniciante*
   - [x]  [2757](https://www.beecrowd.com.br/judge/pt/problems/view/2757) - [Entrada e Saída de Números Inteiros](https://github.com/potigol/uoj-potigol/blob/master/src/2700/2757.poti) *Iniciante*
-  - [ ]  [2758](https://www.beecrowd.com.br/judge/pt/problems/view/2758) - Entrada e Saída de Números Reais *Iniciante*
+  - [x]  [2758](https://www.beecrowd.com.br/judge/pt/problems/view/2758) - [Entrada e Saída de Números Reais](https://github.com/potigol/uoj-potigol/blob/master/src/2700/2758.poti) *Iniciante*
   - [x]  [2759](https://www.beecrowd.com.br/judge/pt/problems/view/2759) - [Entrada e Saída de Carácter](https://github.com/potigol/uoj-potigol/blob/master/src/2700/2759.poti) *Iniciante*
   - [x]  [2760](https://www.beecrowd.com.br/judge/pt/problems/view/2760) - [Entrada e Saída de String](https://github.com/potigol/uoj-potigol/blob/master/src/2700/2760.poti) *Iniciante*
   - [x]  [2761](https://www.beecrowd.com.br/judge/pt/problems/view/2761) - [Entrada e Saída de Vários Tipos](https://github.com/potigol/uoj-potigol/blob/master/src/2700/2761.poti) *Iniciante*
