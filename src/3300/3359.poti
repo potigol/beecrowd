@@ -1,0 +1,12 @@
+n = leia_inteiro
+var p:= Lista(10,0)
+s = ["Brinquedos", "Alimentos", "Roupas","Calcados", "Eletronicos",
+    "Livros", "Gadgets", "Smartphones", "Jogos", "Papelaria"]
+
+para i de 1 ate n faca
+  a = leia_inteiros(" ")[2]
+  p[a] := p[a] + 1
+fim
+para i de 1 ate 10 faca
+  escreva "Total de {s[i]}: {p[i]}"
+fim

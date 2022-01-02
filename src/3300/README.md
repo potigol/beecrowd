@@ -1,4 +1,4 @@
-# Problemas 3300 (47%)
+# Problemas 3300 (51%)
 
   - [x]  [3300](https://www.beecrowd.com.br/judge/pt/problems/view/3300) - [Números Má Sorte Recarregados](https://github.com/potigol/uoj-potigol/blob/master/src/3300/3300.poti) *Strings*
   - [x]  [3301](https://www.beecrowd.com.br/judge/pt/problems/view/3301) - [Sobrinho do Meio](https://github.com/potigol/uoj-potigol/blob/master/src/3300/3301.poti) *Iniciante*
@@ -6,7 +6,7 @@
   - [x]  [3303](https://www.beecrowd.com.br/judge/pt/problems/view/3303) - [Palavrão](https://github.com/potigol/uoj-potigol/blob/master/src/3300/3303.poti) *Iniciante*
   - [ ]  [3304](https://www.beecrowd.com.br/judge/pt/problems/view/3304) - Alguma Sorte! *Matemática*
   - [ ]  [3305](https://www.beecrowd.com.br/judge/pt/problems/view/3305) - Bispos Dominantes *Ad-Hoc*
-  - [x]  [3306](https://www.beecrowd.com.br/judge/pt/problems/view/3306) - [Consulta e Alteração](https://github.com/potigol/uoj-potigol/blob/master/src/3300/3306.poti) *Iniciante*
+  - [ ] ~~xxxx~~
   - [ ]  [3307](https://www.beecrowd.com.br/judge/pt/problems/view/3307) - Decora o Rolê! *Ad-Hoc*
   - [ ]  [3308](https://www.beecrowd.com.br/judge/pt/problems/view/3308) - Elevador *Matemática*
   - [x]  [3309](https://www.beecrowd.com.br/judge/pt/problems/view/3309) - [Felizes são estes Números](https://github.com/potigol/uoj-potigol/blob/master/src/3300/3309.poti) *Ad-Hoc*
@@ -59,10 +59,10 @@
   - [ ]  [3356](https://www.beecrowd.com.br/judge/pt/problems/view/3356) - Reprodução Controlada *Grafos*
   - [x]  [3357](https://www.beecrowd.com.br/judge/pt/problems/view/3357) - [Rico do Mate](https://github.com/potigol/uoj-potigol/blob/master/src/3300/3357.poti) *Estruturas e Bibliotecas*
   - [x]  [3358](https://www.beecrowd.com.br/judge/pt/problems/view/3358) - [Sobrenome Não é Fácil](https://github.com/potigol/uoj-potigol/blob/master/src/3300/3358.poti) *Strings*
-  - [ ] ~~xxxx~~
-  - [ ] ~~xxxx~~
-  - [ ] ~~xxxx~~
-  - [ ] ~~xxxx~~
+  - [x]  [3359](https://www.beecrowd.com.br/judge/pt/problems/view/3359) - [Categorizando Presentes](https://github.com/potigol/uoj-potigol/blob/master/src/3300/3359.poti) *Iniciante*
+  - [x]  [3360](https://www.beecrowd.com.br/judge/pt/problems/view/3360) - [Presente ou Carvão?](https://github.com/potigol/uoj-potigol/blob/master/src/3300/3360.poti) *Ininciante*
+  - [x]  [3361](https://www.beecrowd.com.br/judge/pt/problems/view/3361) - [Moedas do Noel](https://github.com/potigol/uoj-potigol/blob/master/src/3300/3361.poti) *Iniciante*
+  - [x]  [3362](https://www.beecrowd.com.br/judge/pt/problems/view/3362) - [O Peso do Papai Noel](https://github.com/potigol/uoj-potigol/blob/master/src/3300/3362.poti) *Iniciante*
   - [ ] ~~xxxx~~
   - [ ] ~~xxxx~~
   - [ ] ~~xxxx~~
