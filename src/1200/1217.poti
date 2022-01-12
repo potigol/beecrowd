@@ -1,0 +1,14 @@
+var dias := leia_inteiro
+var kg_total := 0
+var preco_total := 0.0
+
+para dia de 1 até dias faça
+    var preco := leia_real
+    var kg := leia_textos(" ").tamanho
+    preco_total := preco_total + preco
+    kg_total := kg_total + kg
+    escreva "day {dia}: {kg} kg"
+fim
+
+escreva "{kg_total / dias formato "%.2f"} kg by day"
+escreva "R$ {preco_total / dias formato "%.2f"} by day"
