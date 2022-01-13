@@ -12,7 +12,7 @@
   - [ ]  [1509](https://www.beecrowd.com.br/judge/pt/problems/view/1509) - Contando Ambiguidades *Paradigmas*
   - [ ]  [1510](https://www.beecrowd.com.br/judge/pt/problems/view/1510) - O Passeio Turístico *Paradigmas*
   - [ ]  [1511](https://www.beecrowd.com.br/judge/pt/problems/view/1511) - Tabuleiro GCD *Estruturas e Bibliotecas*
-  - [ ]  [1512](https://www.beecrowd.com.br/judge/pt/problems/view/1512) - Azulejos *Matemática*
+  - [x]  [1512](https://www.beecrowd.com.br/judge/pt/problems/view/1512) - [Azulejos](https://github.com/potigol/uoj-potigol/blob/master/src/1500/1512.poti) *Matemática*
   - [ ]  [1513](https://www.beecrowd.com.br/judge/pt/problems/view/1513) - Cavalo *Paradigmas*
   - [ ]  [1514](https://www.beecrowd.com.br/judge/pt/problems/view/1514) - Competição *Ad-Hoc*
   - [x]  [1515](https://www.beecrowd.com.br/judge/pt/problems/view/1515) - [Hello Galaxy](https://github.com/potigol/uoj-potigol/blob/master/src/1500/1515.poti) *Ad-Hoc*
@@ -21,7 +21,7 @@
   - [ ]  [1518](https://www.beecrowd.com.br/judge/pt/problems/view/1518) - Tartarugas *Ad-Hoc*
   - [ ]  [1519](https://www.beecrowd.com.br/judge/pt/problems/view/1519) - Abreviações *Strings*
   - [ ]  [1520](https://www.beecrowd.com.br/judge/pt/problems/view/1520) - Parafusos e Porcas *Estruturas e Bibliotecas*
-  - [ ]  [1521](https://www.beecrowd.com.br/judge/pt/problems/view/1521) - O Culpado *Ad-Hoc*
+  - [x]  [1521](https://www.beecrowd.com.br/judge/pt/problems/view/1521) - [O Culpado](https://github.com/potigol/uoj-potigol/blob/master/src/1500/1521.poti) *Ad-Hoc*
   - [ ]  [1522](https://www.beecrowd.com.br/judge/pt/problems/view/1522) - Jogo das Pilhas *Paradigmas*
   - [ ]  [1523](https://www.beecrowd.com.br/judge/pt/problems/view/1523) - Estacionamento Linear *Estruturas e Bibliotecas*
   - [ ]  [1524](https://www.beecrowd.com.br/judge/pt/problems/view/1524) - Fila do Bandejão *Paradigmas*
@@ -40,7 +40,7 @@
   - [x]  [1537](https://www.beecrowd.com.br/judge/pt/problems/view/1537) - [Fila do Banco](https://github.com/potigol/uoj-potigol/blob/master/src/1500/1537.poti) *Matemática*
   - [ ]  [1538](https://www.beecrowd.com.br/judge/pt/problems/view/1538) - Sequência Alienígena *Estruturas e Bibliotecas*
   - [ ]  [1539](https://www.beecrowd.com.br/judge/pt/problems/view/1539) - Empresa de Telecom *Grafos*
-  - [ ]  [1540](https://www.beecrowd.com.br/judge/pt/problems/view/1540) - Planejando a Energia *Ad-Hoc*
+  - [x]  [1540](https://www.beecrowd.com.br/judge/pt/problems/view/1540) - [Planejando a Energia](https://github.com/potigol/uoj-potigol/blob/master/src/1500/1540.poti) *Ad-Hoc*
   - [x]  [1541](https://www.beecrowd.com.br/judge/pt/problems/view/1541) - [Construindo Casas](https://github.com/potigol/uoj-potigol/blob/master/src/1500/1541.poti) *Iniciante*
   - [x]  [1542](https://www.beecrowd.com.br/judge/pt/problems/view/1542) - [Lendo Livros](https://github.com/potigol/uoj-potigol/blob/master/src/1500/1542.poti) *Ad-Hoc*
   - [ ]  [1543](https://www.beecrowd.com.br/judge/pt/problems/view/1543) - Quadro Premiado *Paradigmas*

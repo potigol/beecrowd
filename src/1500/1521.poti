@@ -1,0 +1,14 @@
+var flag := verdadeiro
+enquanto flag faça
+    n = leia_inteiro
+    se n == 0 então
+        flag := falso
+    senão
+        alunos = leia_inteiros(n)
+        var i := leia_inteiro
+        enquanto alunos[i] <> i faça
+            i := alunos[i]
+        fim
+        escreva i
+    fim
+fim

@@ -1,0 +1,6 @@
+n = leia_inteiro
+para i de 1 até n faça
+    en = leia_inteiros(4)
+    val = abs(en[2] - en[4]) / abs(en[3] - en[1])
+    escreva ((val * 100).piso div 100 formato "%.2f").divida("\\.").junte(",")
+fim

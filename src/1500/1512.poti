@@ -1,0 +1,14 @@
+gcd(a, b: Inteiro): Inteiro
+    se b == 0 então a senão gcd(b, a mod b) fim
+fim
+
+var flag := verdadeiro
+enquanto flag faça
+    temp = leia_inteiros(3)
+    n, a, b = temp[1], temp[2], temp[3]
+    se n == 0 e a == 0 e b == 0 então
+        flag := falso
+    senão
+        escreva (n div a) + (n div b) - (n div (a * b div gcd(a, b)))
+    fim
+fim
