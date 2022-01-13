@@ -1,0 +1,15 @@
+var flag := verdadeiro
+enquanto flag faça
+    temp1 = leia_inteiros(" ")
+    t, n = temp1[1], temp1[2]
+    se t == 0 e n == 0 então
+        flag := falso
+    senão
+        var total := 0
+        para i de 1 até t faça
+            temp2 = leia_textos(" ")
+            total := total + temp2[2].inteiro
+        fim
+        escreva n * 3 - total
+    fim
+fim
