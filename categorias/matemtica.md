@@ -1,4 +1,4 @@
-# Matemática (62 / 269)
+# Matemática (63 / 269)
 
 
 
@@ -26,6 +26,7 @@
   - [x]  [1436](https://www.beecrowd.com.br/judge/pt/problems/view/1436) - [Jogo do Tijolo](https://github.com/potigol/uoj-potigol/blob/master/src/1400/1436.poti)
   - [x]  [1444](https://www.beecrowd.com.br/judge/pt/problems/view/1444) - [Corrida dos Marrecos](https://github.com/potigol/uoj-potigol/blob/master/src/1400/1444.poti)
   - [x]  [1457](https://www.beecrowd.com.br/judge/pt/problems/view/1457) - [Oráculo de Alexandria](https://github.com/potigol/uoj-potigol/blob/master/src/1400/1457.poti)
+  - [x]  [1512](https://www.beecrowd.com.br/judge/pt/problems/view/1512) - [Azulejos](https://github.com/potigol/uoj-potigol/blob/master/src/1500/1512.poti)
   - [x]  [1537](https://www.beecrowd.com.br/judge/pt/problems/view/1537) - [Fila do Banco](https://github.com/potigol/uoj-potigol/blob/master/src/1500/1537.poti)
   - [x]  [1555](https://www.beecrowd.com.br/judge/pt/problems/view/1555) - [Funções](https://github.com/potigol/uoj-potigol/blob/master/src/1500/1555.poti)
   - [x]  [1582](https://www.beecrowd.com.br/judge/pt/problems/view/1582) - [O Teorema de Pitágoras](https://github.com/potigol/uoj-potigol/blob/master/src/1500/1582.poti)
@@ -112,7 +113,6 @@
   - [ ]  [1492](https://www.beecrowd.com.br/judge/pt/problems/view/1492) - Contando Uns
   - [ ]  [1501](https://www.beecrowd.com.br/judge/pt/problems/view/1501) - Quantos Zeros e Quantos Dígitos?
   - [ ]  [1505](https://www.beecrowd.com.br/judge/pt/problems/view/1505) - Curo Factories
-  - [ ]  [1512](https://www.beecrowd.com.br/judge/pt/problems/view/1512) - Azulejos
   - [ ]  [1526](https://www.beecrowd.com.br/judge/pt/problems/view/1526) - Transportando Lanches
   - [ ]  [1531](https://www.beecrowd.com.br/judge/pt/problems/view/1531) - Fibonacci de Novo!
   - [ ]  [1544](https://www.beecrowd.com.br/judge/pt/problems/view/1544) - O Último Dígito Não-Zero
