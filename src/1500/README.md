@@ -21,7 +21,7 @@
   - [ ]  [1518](https://www.beecrowd.com.br/judge/pt/problems/view/1518) - Tartarugas *Ad-Hoc*
   - [ ]  [1519](https://www.beecrowd.com.br/judge/pt/problems/view/1519) - Abreviações *Strings*
   - [ ]  [1520](https://www.beecrowd.com.br/judge/pt/problems/view/1520) - Parafusos e Porcas *Estruturas e Bibliotecas*
-  - [x]  [1521](https://www.beecrowd.com.br/judge/pt/problems/view/1521) - [O Culpado](https://github.com/potigol/uoj-potigol/blob/master/src/1521/1521.poti) *Ad-Hoc*
+  - [x]  [1521](https://www.beecrowd.com.br/judge/pt/problems/view/1521) - [O Culpado](https://github.com/potigol/uoj-potigol/blob/master/src/1500/1521.poti) *Ad-Hoc*
   - [ ]  [1522](https://www.beecrowd.com.br/judge/pt/problems/view/1522) - Jogo das Pilhas *Paradigmas*
   - [ ]  [1523](https://www.beecrowd.com.br/judge/pt/problems/view/1523) - Estacionamento Linear *Estruturas e Bibliotecas*
   - [ ]  [1524](https://www.beecrowd.com.br/judge/pt/problems/view/1524) - Fila do Bandejão *Paradigmas*
