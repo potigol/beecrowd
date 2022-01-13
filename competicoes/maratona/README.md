@@ -1,4 +1,4 @@
-# Maratona de Programação (50 / 367)
+# Maratona de Programação (51 / 367)
 
 
 ## 2020
@@ -449,7 +449,7 @@
   - [ ]  [1385](https://www.beecrowd.com.br/judge/pt/problems/view/1385) - Recuperação de Relatório *Strings*
   - [ ]  [1406](https://www.beecrowd.com.br/judge/pt/problems/view/1406) - Jukebox *Strings*
   - [ ]  [1407](https://www.beecrowd.com.br/judge/pt/problems/view/1407) - Loteria de Fim de Semana *Ad-Hoc*
-  - [ ]  [1414](https://www.beecrowd.com.br/judge/pt/problems/view/1414) - Copa do Mundo *Ad-Hoc*
+  - [x]  [1414](https://www.beecrowd.com.br/judge/pt/problems/view/1414) - [Copa do Mundo](https://github.com/potigol/uoj-potigol/blob/master/src/1400/1414.poti) *Ad-Hoc*
   - [ ]  [1464](https://www.beecrowd.com.br/judge/pt/problems/view/1464) - Camadas de Cebola *Geometria Computacional*
   - [ ]  [1485](https://www.beecrowd.com.br/judge/pt/problems/view/1485) - Roleta Turca *Paradigmas*
        

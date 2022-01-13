@@ -1,4 +1,4 @@
-# Ad-Hoc (158 / 732)
+# Ad-Hoc (159 / 732)
 
 
 
@@ -30,6 +30,7 @@
   - [x]  [1383](https://www.beecrowd.com.br/judge/pt/problems/view/1383) - [Sudoku](https://github.com/potigol/uoj-potigol/blob/master/src/1300/1383.poti)
   - [x]  [1387](https://www.beecrowd.com.br/judge/pt/problems/view/1387) - [Og](https://github.com/potigol/uoj-potigol/blob/master/src/1300/1387.poti)
   - [x]  [1397](https://www.beecrowd.com.br/judge/pt/problems/view/1397) - [Jogo do Maior](https://github.com/potigol/uoj-potigol/blob/master/src/1300/1397.poti)
+  - [x]  [1414](https://www.beecrowd.com.br/judge/pt/problems/view/1414) - [Copa do Mundo](https://github.com/potigol/uoj-potigol/blob/master/src/1400/1414.poti)
   - [x]  [1428](https://www.beecrowd.com.br/judge/pt/problems/view/1428) - [Procurando Nessy](https://github.com/potigol/uoj-potigol/blob/master/src/1400/1428.poti)
   - [x]  [1437](https://www.beecrowd.com.br/judge/pt/problems/view/1437) - [Esquerda, Volver!](https://github.com/potigol/uoj-potigol/blob/master/src/1400/1437.poti)
   - [x]  [1441](https://www.beecrowd.com.br/judge/pt/problems/view/1441) - [Sequências de Granizo](https://github.com/potigol/uoj-potigol/blob/master/src/1400/1441.poti)
@@ -215,7 +216,6 @@
   - [ ]  [1404](https://www.beecrowd.com.br/judge/pt/problems/view/1404) - MegaDamas
   - [ ]  [1407](https://www.beecrowd.com.br/judge/pt/problems/view/1407) - Loteria de Fim de Semana
   - [ ]  [1410](https://www.beecrowd.com.br/judge/pt/problems/view/1410) - Ele Está Impedido!
-  - [ ]  [1414](https://www.beecrowd.com.br/judge/pt/problems/view/1414) - Copa do Mundo
   - [ ]  [1418](https://www.beecrowd.com.br/judge/pt/problems/view/1418) - Outra Crise
   - [ ]  [1419](https://www.beecrowd.com.br/judge/pt/problems/view/1419) - Bakugan
   - [ ]  [1420](https://www.beecrowd.com.br/judge/pt/problems/view/1420) - Contando os Segundos

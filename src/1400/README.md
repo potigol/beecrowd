@@ -1,4 +1,4 @@
-# Problemas 1400 (11%)
+# Problemas 1400 (12%)
 
   - [ ]  [1400](https://www.beecrowd.com.br/judge/pt/problems/view/1400) - Jogo - Contando *Matemática*
   - [ ]  [1401](https://www.beecrowd.com.br/judge/pt/problems/view/1401) - Gerando Permutações Ordenadas Rapidamente *Estruturas e Bibliotecas*
@@ -14,7 +14,7 @@
   - [ ]  [1411](https://www.beecrowd.com.br/judge/pt/problems/view/1411) - Encolhendo Polígonos *Geometria Computacional*
   - [ ]  [1412](https://www.beecrowd.com.br/judge/pt/problems/view/1412) - Cadeado com Segredo *Paradigmas*
   - [ ]  [1413](https://www.beecrowd.com.br/judge/pt/problems/view/1413) - Apresse-se! *Grafos*
-  - [ ]  [1414](https://www.beecrowd.com.br/judge/pt/problems/view/1414) - Copa do Mundo *Ad-Hoc*
+  - [x]  [1414](https://www.beecrowd.com.br/judge/pt/problems/view/1414) - [Copa do Mundo](https://github.com/potigol/uoj-potigol/blob/master/src/1400/1414.poti) *Ad-Hoc*
   - [ ]  [1415](https://www.beecrowd.com.br/judge/pt/problems/view/1415) - Galou Está de Volta! *Grafos*
   - [ ]  [1416](https://www.beecrowd.com.br/judge/pt/problems/view/1416) - Placar do ICPC *Paradigmas*
   - [ ]  [1417](https://www.beecrowd.com.br/judge/pt/problems/view/1417) - Liga da Justiça *Grafos*
