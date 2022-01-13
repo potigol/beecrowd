@@ -12,7 +12,7 @@
   - [ ]  [1509](https://www.beecrowd.com.br/judge/pt/problems/view/1509) - Contando Ambiguidades *Paradigmas*
   - [ ]  [1510](https://www.beecrowd.com.br/judge/pt/problems/view/1510) - O Passeio Turístico *Paradigmas*
   - [ ]  [1511](https://www.beecrowd.com.br/judge/pt/problems/view/1511) - Tabuleiro GCD *Estruturas e Bibliotecas*
-  - [ ]  [1512](https://www.beecrowd.com.br/judge/pt/problems/view/1512) - Azulejos *Matemática*
+  - [x]  [1512](https://www.beecrowd.com.br/judge/pt/problems/view/1512) - [Azulejos](https://github.com/potigol/uoj-potigol/blob/master/src/1500/1512.poti) *Matemática*
   - [ ]  [1513](https://www.beecrowd.com.br/judge/pt/problems/view/1513) - Cavalo *Paradigmas*
   - [ ]  [1514](https://www.beecrowd.com.br/judge/pt/problems/view/1514) - Competição *Ad-Hoc*
   - [x]  [1515](https://www.beecrowd.com.br/judge/pt/problems/view/1515) - [Hello Galaxy](https://github.com/potigol/uoj-potigol/blob/master/src/1500/1515.poti) *Ad-Hoc*
