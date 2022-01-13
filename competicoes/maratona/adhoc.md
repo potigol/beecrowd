@@ -1,4 +1,4 @@
-# Ad-Hoc (11 / 90)
+# Ad-Hoc (12 / 90)
 
 
 
@@ -11,6 +11,7 @@
   - [x]  [1318](https://www.beecrowd.com.br/judge/pt/problems/view/1318) - [Bilhetes Falsos](https://github.com/potigol/uoj-potigol/blob/master/src/1300/1318.poti)
   - [x]  [1379](https://www.beecrowd.com.br/judge/pt/problems/view/1379) - [Problema com Mediana e Média](https://github.com/potigol/uoj-potigol/blob/master/src/1300/1379.poti)
   - [x]  [1387](https://www.beecrowd.com.br/judge/pt/problems/view/1387) - [Og](https://github.com/potigol/uoj-potigol/blob/master/src/1300/1387.poti)
+  - [x]  [1414](https://www.beecrowd.com.br/judge/pt/problems/view/1414) - [Copa do Mundo](https://github.com/potigol/uoj-potigol/blob/master/src/1400/1414.poti)
   - [x]  [1441](https://www.beecrowd.com.br/judge/pt/problems/view/1441) - [Sequências de Granizo](https://github.com/potigol/uoj-potigol/blob/master/src/1400/1441.poti)
   - [x]  [1743](https://www.beecrowd.com.br/judge/pt/problems/view/1743) - [Máquina de Verificação Automatizada](https://github.com/potigol/uoj-potigol/blob/master/src/1700/1743.poti)
   - [x]  [2345](https://www.beecrowd.com.br/judge/pt/problems/view/2345) - [Assigning Teams](https://github.com/potigol/uoj-potigol/blob/master/src/2300/2345.poti)
@@ -42,7 +43,6 @@
   - [ ]  [1403](https://www.beecrowd.com.br/judge/pt/problems/view/1403) - Meu Avô é Famoso
   - [ ]  [1407](https://www.beecrowd.com.br/judge/pt/problems/view/1407) - Loteria de Fim de Semana
   - [ ]  [1410](https://www.beecrowd.com.br/judge/pt/problems/view/1410) - Ele Está Impedido!
-  - [ ]  [1414](https://www.beecrowd.com.br/judge/pt/problems/view/1414) - Copa do Mundo
   - [ ]  [1418](https://www.beecrowd.com.br/judge/pt/problems/view/1418) - Outra Crise
   - [ ]  [1419](https://www.beecrowd.com.br/judge/pt/problems/view/1419) - Bakugan
   - [ ]  [1431](https://www.beecrowd.com.br/judge/pt/problems/view/1431) - Níveis de Klingon

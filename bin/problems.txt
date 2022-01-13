@@ -2252,7 +2252,6 @@
 3303	Palavrão	Iniciante
 3304	Alguma Sorte!	Matemática
 3305	Bispos Dominantes	Ad-Hoc
-3306	Consulta e Alteração	Iniciante
 3307	Decora o Rolê!	Ad-Hoc
 3308	Elevador	Matemática
 3309	Felizes são estes Números	Ad-Hoc
@@ -2282,3 +2281,7 @@
 3356	Reprodução Controlada	Grafos
 3357	Rico do Mate	Estruturas e Bibliotecas
 3358	Sobrenome Não é Fácil	Strings
+3359	Categorizando Presentes	Iniciante
+3360	Presente ou Carvão?	Iniciante
+3361	Moedas do Noel	Iniciante
+3362	O Peso do Papai Noel	Iniciante

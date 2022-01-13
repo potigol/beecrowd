@@ -6,7 +6,7 @@ case class Problem(number: Int, name: String, category: String):
   override def toString = s"${number}\t${name}\t${category}"
 
 def get(page: Int = 1) =
-  val ur = Seq("curl", "-sb", "-H", s"https://www.urionlinejudge.com.br/judge/pt/problems/all?page=${page}&limit=100").!!.split("\n")
+  val ur = Seq("curl", "-sb", "-H", s"https://www.beecrowd.com.br/judge/pt/problems/all?page=${page}&limit=100").!!.split("\n")
   val a = ur.map(_.trim)
             .dropWhile(_ != "<tbody>")
             .tail
