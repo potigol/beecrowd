@@ -1,4 +1,4 @@
-# Problemas 1500 (20%)
+# Problemas 1500 (23%)
 
   - [ ]  [1500](https://www.beecrowd.com.br/judge/pt/problems/view/1500) - Consultas Horríveis *Estruturas e Bibliotecas*
   - [ ]  [1501](https://www.beecrowd.com.br/judge/pt/problems/view/1501) - Quantos Zeros e Quantos Dígitos? *Matemática*

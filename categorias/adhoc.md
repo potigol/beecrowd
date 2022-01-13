@@ -1,4 +1,4 @@
-# Ad-Hoc (159 / 732)
+# Ad-Hoc (162 / 732)
 
 
 
@@ -36,7 +36,9 @@
   - [x]  [1441](https://www.beecrowd.com.br/judge/pt/problems/view/1441) - [Sequências de Granizo](https://github.com/potigol/uoj-potigol/blob/master/src/1400/1441.poti)
   - [x]  [1467](https://www.beecrowd.com.br/judge/pt/problems/view/1467) - [Zerinho ou Um](https://github.com/potigol/uoj-potigol/blob/master/src/1400/1467.poti)
   - [x]  [1515](https://www.beecrowd.com.br/judge/pt/problems/view/1515) - [Hello Galaxy](https://github.com/potigol/uoj-potigol/blob/master/src/1500/1515.poti)
+  - [x]  [1521](https://www.beecrowd.com.br/judge/pt/problems/view/1521) - [O Culpado](https://github.com/potigol/uoj-potigol/blob/master/src/1500/1521.poti)
   - [x]  [1533](https://www.beecrowd.com.br/judge/pt/problems/view/1533) - [Detetive Watson](https://github.com/potigol/uoj-potigol/blob/master/src/1500/1533.poti)
+  - [x]  [1540](https://www.beecrowd.com.br/judge/pt/problems/view/1540) - [Planejando a Energia](https://github.com/potigol/uoj-potigol/blob/master/src/1500/1540.poti)
   - [x]  [1542](https://www.beecrowd.com.br/judge/pt/problems/view/1542) - [Lendo Livros](https://github.com/potigol/uoj-potigol/blob/master/src/1500/1542.poti)
   - [x]  [1546](https://www.beecrowd.com.br/judge/pt/problems/view/1546) - [Feedback](https://github.com/potigol/uoj-potigol/blob/master/src/1500/1546.poti)
   - [x]  [1553](https://www.beecrowd.com.br/judge/pt/problems/view/1553) - [Perguntas mais Frequentes](https://github.com/potigol/uoj-potigol/blob/master/src/1500/1553.poti)
@@ -161,6 +163,7 @@
   - [x]  [3130](https://www.beecrowd.com.br/judge/pt/problems/view/3130) - [Caixas Por Todo Lado](https://github.com/potigol/uoj-potigol/blob/master/src/3100/3130.poti)
   - [x]  [3134](https://www.beecrowd.com.br/judge/pt/problems/view/3134) - [Balança Equilibrada](https://github.com/potigol/uoj-potigol/blob/master/src/3100/3134.poti)
   - [x]  [3135](https://www.beecrowd.com.br/judge/pt/problems/view/3135) - [Lista de Nomes](https://github.com/potigol/uoj-potigol/blob/master/src/3100/3135.poti)
+  - [x]  [3307](https://www.beecrowd.com.br/judge/pt/problems/view/3307) - [Decora o Rolê!](https://github.com/potigol/uoj-potigol/blob/master/src/3300/3307.poti)
   - [x]  [3309](https://www.beecrowd.com.br/judge/pt/problems/view/3309) - [Felizes são estes Números](https://github.com/potigol/uoj-potigol/blob/master/src/3300/3309.poti)
   - [x]  [3315](https://www.beecrowd.com.br/judge/pt/problems/view/3315) - [Língua do Computador](https://github.com/potigol/uoj-potigol/blob/master/src/3300/3315.poti)
 
@@ -238,11 +241,9 @@
   - [ ]  [1508](https://www.beecrowd.com.br/judge/pt/problems/view/1508) - Raio Laser
   - [ ]  [1514](https://www.beecrowd.com.br/judge/pt/problems/view/1514) - Competição
   - [ ]  [1518](https://www.beecrowd.com.br/judge/pt/problems/view/1518) - Tartarugas
-  - [ ]  [1521](https://www.beecrowd.com.br/judge/pt/problems/view/1521) - O Culpado
   - [ ]  [1528](https://www.beecrowd.com.br/judge/pt/problems/view/1528) - Cordas Emaranhadas
   - [ ]  [1532](https://www.beecrowd.com.br/judge/pt/problems/view/1532) - Arremesso de Bolas
   - [ ]  [1536](https://www.beecrowd.com.br/judge/pt/problems/view/1536) - Libertadores
-  - [ ]  [1540](https://www.beecrowd.com.br/judge/pt/problems/view/1540) - Planejando a Energia
   - [ ]  [1547](https://www.beecrowd.com.br/judge/pt/problems/view/1547) - Adivinha
   - [ ]  [1559](https://www.beecrowd.com.br/judge/pt/problems/view/1559) - 2048
   - [ ]  [1561](https://www.beecrowd.com.br/judge/pt/problems/view/1561) - Relógio Binário
@@ -736,6 +737,5 @@
   - [ ]  [3263](https://www.beecrowd.com.br/judge/pt/problems/view/3263) - Apague Com Segurança
   - [ ]  [3278](https://www.beecrowd.com.br/judge/pt/problems/view/3278) - Passageiros de Trem
   - [ ]  [3305](https://www.beecrowd.com.br/judge/pt/problems/view/3305) - Bispos Dominantes
-  - [ ]  [3307](https://www.beecrowd.com.br/judge/pt/problems/view/3307) - Decora o Rolê!
   - [ ]  [3351](https://www.beecrowd.com.br/judge/pt/problems/view/3351) - Clickbait
   - [ ]  [3355](https://www.beecrowd.com.br/judge/pt/problems/view/3355) - Pinhões no Xadrez
