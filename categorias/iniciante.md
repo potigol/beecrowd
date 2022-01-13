@@ -1,4 +1,4 @@
-# Iniciante (318 / 338)
+# Iniciante (320 / 339)
 
 
 
@@ -301,6 +301,7 @@
   - [x]  [3161](https://www.beecrowd.com.br/judge/pt/problems/view/3161) - [As Frutas Esquecidas](https://github.com/potigol/uoj-potigol/blob/master/src/3100/3161.poti)
   - [x]  [3162](https://www.beecrowd.com.br/judge/pt/problems/view/3162) - [Comunicação Espacial](https://github.com/potigol/uoj-potigol/blob/master/src/3100/3162.poti)
   - [x]  [3164](https://www.beecrowd.com.br/judge/pt/problems/view/3164) - [Fiscalizando Empresa](https://github.com/potigol/uoj-potigol/blob/master/src/3100/3164.poti)
+  - [x]  [3166](https://www.beecrowd.com.br/judge/pt/problems/view/3166) - [Procurando Palavras na Diagonal Principal](https://github.com/potigol/uoj-potigol/blob/master/src/3100/3166.poti)
   - [x]  [3170](https://www.beecrowd.com.br/judge/pt/problems/view/3170) - [Bolinhas de Natal](https://github.com/potigol/uoj-potigol/blob/master/src/3100/3170.poti)
   - [x]  [3174](https://www.beecrowd.com.br/judge/pt/problems/view/3174) - [Grupo de Trabalho do Noel](https://github.com/potigol/uoj-potigol/blob/master/src/3100/3174.poti)
   - [x]  [3204](https://www.beecrowd.com.br/judge/pt/problems/view/3204) - [Honeycomb Walk](https://github.com/potigol/uoj-potigol/blob/master/src/3200/3204.poti)
@@ -320,13 +321,13 @@
   - [x]  [3346](https://www.beecrowd.com.br/judge/pt/problems/view/3346) - [Flutuação do PIB](https://github.com/potigol/uoj-potigol/blob/master/src/3300/3346.poti)
   - [x]  [3348](https://www.beecrowd.com.br/judge/pt/problems/view/3348) - [Jogo das Aranhas](https://github.com/potigol/uoj-potigol/blob/master/src/3300/3348.poti)
   - [x]  [3359](https://www.beecrowd.com.br/judge/pt/problems/view/3359) - [Categorizando Presentes](https://github.com/potigol/uoj-potigol/blob/master/src/3300/3359.poti)
+  - [x]  [3360](https://www.beecrowd.com.br/judge/pt/problems/view/3360) - [Presente ou Carvão?](https://github.com/potigol/uoj-potigol/blob/master/src/3300/3360.poti)
   - [x]  [3361](https://www.beecrowd.com.br/judge/pt/problems/view/3361) - [Moedas do Noel](https://github.com/potigol/uoj-potigol/blob/master/src/3300/3361.poti)
   - [x]  [3362](https://www.beecrowd.com.br/judge/pt/problems/view/3362) - [O Peso do Papai Noel](https://github.com/potigol/uoj-potigol/blob/master/src/3300/3362.poti)
 
 ## Problemas não resolvidos
 
   - [ ]  [2769](https://www.beecrowd.com.br/judge/pt/problems/view/2769) - Linha de Montagem
-  - [ ]  [3166](https://www.beecrowd.com.br/judge/pt/problems/view/3166) - Procurando Palavras na Diagonal Principal
   - [ ]  [3167](https://www.beecrowd.com.br/judge/pt/problems/view/3167) - Procurando Palavras na Diagonal Secundária
   - [ ]  [3173](https://www.beecrowd.com.br/judge/pt/problems/view/3173) - Estrela de Natal
   - [ ]  [3181](https://www.beecrowd.com.br/judge/pt/problems/view/3181) - Jantar

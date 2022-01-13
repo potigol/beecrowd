@@ -60,7 +60,7 @@
   - [x]  [3357](https://www.beecrowd.com.br/judge/pt/problems/view/3357) - [Rico do Mate](https://github.com/potigol/uoj-potigol/blob/master/src/3300/3357.poti) *Estruturas e Bibliotecas*
   - [x]  [3358](https://www.beecrowd.com.br/judge/pt/problems/view/3358) - [Sobrenome Não é Fácil](https://github.com/potigol/uoj-potigol/blob/master/src/3300/3358.poti) *Strings*
   - [x]  [3359](https://www.beecrowd.com.br/judge/pt/problems/view/3359) - [Categorizando Presentes](https://github.com/potigol/uoj-potigol/blob/master/src/3300/3359.poti) *Iniciante*
-  - [x]  [3360](https://www.beecrowd.com.br/judge/pt/problems/view/3360) - [Presente ou Carvão?](https://github.com/potigol/uoj-potigol/blob/master/src/3300/3360.poti) *Ininciante*
+  - [x]  [3360](https://www.beecrowd.com.br/judge/pt/problems/view/3360) - [Presente ou Carvão?](https://github.com/potigol/uoj-potigol/blob/master/src/3300/3360.poti) *Iniciante*
   - [x]  [3361](https://www.beecrowd.com.br/judge/pt/problems/view/3361) - [Moedas do Noel](https://github.com/potigol/uoj-potigol/blob/master/src/3300/3361.poti) *Iniciante*
   - [x]  [3362](https://www.beecrowd.com.br/judge/pt/problems/view/3362) - [O Peso do Papai Noel](https://github.com/potigol/uoj-potigol/blob/master/src/3300/3362.poti) *Iniciante*
   - [ ] ~~xxxx~~
