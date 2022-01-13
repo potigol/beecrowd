@@ -40,7 +40,7 @@
   - [x]  [1537](https://www.beecrowd.com.br/judge/pt/problems/view/1537) - [Fila do Banco](https://github.com/potigol/uoj-potigol/blob/master/src/1500/1537.poti) *Matemática*
   - [ ]  [1538](https://www.beecrowd.com.br/judge/pt/problems/view/1538) - Sequência Alienígena *Estruturas e Bibliotecas*
   - [ ]  [1539](https://www.beecrowd.com.br/judge/pt/problems/view/1539) - Empresa de Telecom *Grafos*
-  - [ ]  [1540](https://www.beecrowd.com.br/judge/pt/problems/view/1540) - Planejando a Energia *Ad-Hoc*
+  - [x]  [1540](https://www.beecrowd.com.br/judge/pt/problems/view/1540) - [Planejando a Energia](https://github.com/potigol/uoj-potigol/blob/master/src/1500/1540.poti) *Ad-Hoc*
   - [x]  [1541](https://www.beecrowd.com.br/judge/pt/problems/view/1541) - [Construindo Casas](https://github.com/potigol/uoj-potigol/blob/master/src/1500/1541.poti) *Iniciante*
   - [x]  [1542](https://www.beecrowd.com.br/judge/pt/problems/view/1542) - [Lendo Livros](https://github.com/potigol/uoj-potigol/blob/master/src/1500/1542.poti) *Ad-Hoc*
   - [ ]  [1543](https://www.beecrowd.com.br/judge/pt/problems/view/1543) - Quadro Premiado *Paradigmas*
