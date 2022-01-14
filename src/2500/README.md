@@ -68,7 +68,7 @@
   - [ ]  [2565](https://www.beecrowd.com.br/judge/pt/problems/view/2565) - Tubos de Ensaio *Ad-Hoc*
   - [ ]  [2566](https://www.beecrowd.com.br/judge/pt/problems/view/2566) - Viagem Para BH *Grafos*
   - [ ]  [2567](https://www.beecrowd.com.br/judge/pt/problems/view/2567) - Virus *Ad-Hoc*
-  - [ ]  [2568](https://www.beecrowd.com.br/judge/pt/problems/view/2568) - Ações *Ad-Hoc*
+  - [x]  [2568](https://www.beecrowd.com.br/judge/pt/problems/view/2568) - [Ações](https://github.com/potigol/uoj-potigol/blob/master/src/2500/2568.poti) *Ad-Hoc*
   - [x]  [2569](https://www.beecrowd.com.br/judge/pt/problems/view/2569) - [A Bruxa do 7 x 1](https://github.com/potigol/uoj-potigol/blob/master/src/2500/2569.poti) *Ad-Hoc*
   - [ ]  [2570](https://www.beecrowd.com.br/judge/pt/problems/view/2570) - Californication *Ad-Hoc*
   - [ ]  [2571](https://www.beecrowd.com.br/judge/pt/problems/view/2571) - Doador *Ad-Hoc*
