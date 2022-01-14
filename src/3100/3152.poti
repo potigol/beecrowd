@@ -1,0 +1,26 @@
+var areas := Lista.mutável(2, 0.0)
+var terrenos := Cubo.mutável(2, 5, 2, 0)
+
+para i de 1 até 2 faça
+    para j de 1 até 4 faça
+        ponto = leia_inteiros(2)
+        terrenos[i][j][1] := ponto[1]
+        terrenos[i][j][2] := ponto[2]
+    fim
+
+    terrenos[i][5][1] := terrenos[i][1][1]
+    terrenos[i][5][2] := terrenos[i][1][2]
+    
+    var somad, somae := 0, 0
+    para j de 1 até 4 faça
+        somad := somad + terrenos[i][j][1] * terrenos[i][j+1][2]
+        somae := somae + terrenos[i][j][2] * terrenos[i][j+1][1]
+    fim
+    areas[i] := abs(somad - somae) / 2
+fim
+
+se areas[2] >= areas[1] então
+    escreva "terreno B"
+senão
+    escreva "terreno A"
+fim
