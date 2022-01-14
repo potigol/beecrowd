@@ -1,10 +1,10 @@
 n = leia_inteiro
 para i de 1 até n faça
     area = leia_inteiro
-    raio = raiz(area / 12.56)
-    se raio < 12 então
+    raio = area / 12.56
+    se raio < 144 então
         escreva "vermelho = R$ {area * 0.09 formato "%.2f"}"
-    senãose raio <= 15 então
+    senãose raio <= 225 então
         escreva "azul = R$ {area * 0.07 formato "%.2f"}"
     senão
         escreva "amarelo = R$ {area * 0.05 formato "%.2f"}"
