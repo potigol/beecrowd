@@ -1,0 +1,14 @@
+var flag := verdadeiro
+enquanto flag faça
+    n = leia_inteiro
+    se n == 0 então
+        flag := falso
+    senão
+        var valores := leia_texto.divida(" ").mapeie(x => BigInt(x))
+        para i de n-1 até 1 passo -1,
+             j de n até i+1 passo -1 faça
+                valores[i] := valores[i] + valores[j]
+        fim
+        escreva valores.injete((a, b: BigInt) => a + b)  
+    fim
+fim

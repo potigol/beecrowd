@@ -47,7 +47,7 @@
   - [ ]  [1644](https://www.beecrowd.com.br/judge/pt/problems/view/1644) - Decifre o Texto *Matemática*
   - [ ]  [1645](https://www.beecrowd.com.br/judge/pt/problems/view/1645) - El Dorado *Paradigmas*
   - [ ]  [1646](https://www.beecrowd.com.br/judge/pt/problems/view/1646) - Floresta *Geometria Computacional*
-  - [ ]  [1647](https://www.beecrowd.com.br/judge/pt/problems/view/1647) - Um Jogo com Bolas de Gude *Matemática*
+  - [x]  [1647](https://www.beecrowd.com.br/judge/pt/problems/view/1647) - [Um Jogo com Bolas de Gude](https://github.com/potigol/uoj-potigol/blob/master/src/1600/1647.poti) *Matemática*
   - [ ]  [1648](https://www.beecrowd.com.br/judge/pt/problems/view/1648) - Ajude Bob *Paradigmas*
   - [ ]  [1649](https://www.beecrowd.com.br/judge/pt/problems/view/1649) - Ferramenta Irritante de Pintura *Paradigmas*
   - [x]  [1650](https://www.beecrowd.com.br/judge/pt/problems/view/1650) - [Pintura Preto e Branco](https://github.com/potigol/uoj-potigol/blob/master/src/1600/1650.poti) *Matemática*
