@@ -52,7 +52,7 @@
   - [ ]  [3149](https://www.beecrowd.com.br/judge/pt/problems/view/3149) - A Noiva do Trevo *Estruturas e Bibliotecas*
   - [ ]  [3150](https://www.beecrowd.com.br/judge/pt/problems/view/3150) - O Esconderijo do Rambo *Grafos*
   - [ ]  [3151](https://www.beecrowd.com.br/judge/pt/problems/view/3151) - O Iogurte Divino *Paradigmas*
-  - [ ]  [3152](https://www.beecrowd.com.br/judge/pt/problems/view/3152) - Samuel, O Cafeicultor *Geometria Computacional*
+  - [x]  [3152](https://www.beecrowd.com.br/judge/pt/problems/view/3152) - [Samuel, O Cafeicultor](https://github.com/potigol/uoj-potigol/blob/master/src/3100/3152.poti) *Geometria Computacional*
   - [ ]  [3153](https://www.beecrowd.com.br/judge/pt/problems/view/3153) - Fake News *Paradigmas*
   - [x]  [3154](https://www.beecrowd.com.br/judge/pt/problems/view/3154) - [A Grande Festa](https://github.com/potigol/uoj-potigol/blob/master/src/3100/3154.poti) *Matemática*
   - [ ]  [3155](https://www.beecrowd.com.br/judge/pt/problems/view/3155) - Sócrates e suas Perguntas *Estruturas e Bibliotecas*
