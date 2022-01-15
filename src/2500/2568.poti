@@ -1,0 +1,12 @@
+n = leia_inteiros(4)
+var soma := n[2]
+var i := n[1] + 1
+enquanto i <= n[1] + n[4] faça
+    se i mod 2 <> 0 então
+        soma := soma - n[3]
+    senão
+        soma := soma + n[3]
+    fim
+    i := i + 1
+fim
+escreva soma
