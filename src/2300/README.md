@@ -90,7 +90,7 @@
   - [ ]  [2387](https://www.beecrowd.com.br/judge/pt/problems/view/2387) - Dentista *Ad-Hoc*
   - [x]  [2388](https://www.beecrowd.com.br/judge/pt/problems/view/2388) - [Tacógrafo](https://github.com/potigol/uoj-potigol/blob/master/src/2300/2388.poti) *Ad-Hoc*
   - [x]  [2389](https://www.beecrowd.com.br/judge/pt/problems/view/2389) - [Floresta](https://github.com/potigol/uoj-potigol/blob/master/src/2300/2389.poti) *Ad-Hoc*
-  - [ ]  [2390](https://www.beecrowd.com.br/judge/pt/problems/view/2390) - Escada Rolante *Ad-Hoc*
+  - [x]  [2390](https://www.beecrowd.com.br/judge/pt/problems/view/2390) - [Escada Rolante](https://github.com/potigol/uoj-potigol/blob/master/src/2300/2390.poti) *Ad-Hoc*
   - [ ]  [2391](https://www.beecrowd.com.br/judge/pt/problems/view/2391) - Progressões Aritméticas *Ad-Hoc*
   - [ ]  [2392](https://www.beecrowd.com.br/judge/pt/problems/view/2392) - Pulo do Sapo *Ad-Hoc*
   - [ ]  [2393](https://www.beecrowd.com.br/judge/pt/problems/view/2393) - O Mar não está para Peixe *Ad-Hoc*
