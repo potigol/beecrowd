@@ -1,0 +1,10 @@
+x = leia_inteiro
+para i de 1 até x faça
+    a = leia_inteiros(2)
+    b = leia_inteiros(3)
+    media = a[2] / a[1]
+    temp1 = media * 3 * (b[2] - b[1]) / (PI * b[3]) + b[1] * b[1] * b[1]
+    temp2 = scala.math.pow(temp1, 1/3)
+    res = media * 3 / (PI * (temp2 * temp2 + temp2 * b[1] + b[1] * b[1]))
+    escreva res formato "%.2f"
+fim
