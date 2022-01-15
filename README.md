@@ -42,7 +42,7 @@ Todas as soluções deste repositório foram submetidas e aceitas no URI Online 
 
 ## Quer ajudar?
 
-Escolha um problema ainda não reolvido e envie sua solução pelo github.
+Escolha um problema ainda não resolvido e envie sua solução pelo github.
 
  - Faça o download da linguagem Potigol http://potigol.github.io
  - Faça um fork deste projeto https://github.com/potigol/uoj-potigol
