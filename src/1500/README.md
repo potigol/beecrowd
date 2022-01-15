@@ -49,7 +49,7 @@
   - [x]  [1546](https://www.beecrowd.com.br/judge/pt/problems/view/1546) - [Feedback](https://github.com/potigol/uoj-potigol/blob/master/src/1500/1546.poti) *Ad-Hoc*
   - [ ]  [1547](https://www.beecrowd.com.br/judge/pt/problems/view/1547) - Adivinha *Ad-Hoc*
   - [x]  [1548](https://www.beecrowd.com.br/judge/pt/problems/view/1548) - [Fila do Recreio](https://github.com/potigol/uoj-potigol/blob/master/src/1500/1548.poti) *Estruturas e Bibliotecas*
-  - [ ]  [1549](https://www.beecrowd.com.br/judge/pt/problems/view/1549) - Dividindo a Coca *Geometria Computacional*
+  - [x]  [1549](https://www.beecrowd.com.br/judge/pt/problems/view/1549) - [Dividindo a Coca](https://github.com/potigol/uoj-potigol/blob/master/src/1500/1549.poti) *Geometria Computacional*
   - [ ]  [1550](https://www.beecrowd.com.br/judge/pt/problems/view/1550) - Inversão *Grafos*
   - [x]  [1551](https://www.beecrowd.com.br/judge/pt/problems/view/1551) - [Frase Completa](https://github.com/potigol/uoj-potigol/blob/master/src/1500/1551.poti) *Strings*
   - [ ]  [1552](https://www.beecrowd.com.br/judge/pt/problems/view/1552) - Resgate em Queda Livre *Grafos*
