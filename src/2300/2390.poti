@@ -1,0 +1,12 @@
+n = leia_inteiro
+var tempo, anterior := 0, -1
+para i de 1 até n faça
+    atual = leia_inteiro
+    dif = atual - anterior
+    se anterior <> -1 e dif < 10 então
+        tempo := tempo - (10 - atual - anterior)
+    fim
+    anterior := atual
+    tempo := tempo + 10
+fim
+escreva tempo
