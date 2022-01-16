@@ -1,4 +1,4 @@
-# Matemática (64 / 269)
+# Matemática (65 / 269)
 
 
 
@@ -42,6 +42,7 @@
   - [x]  [1921](https://www.beecrowd.com.br/judge/pt/problems/view/1921) - [Guilherme e Suas Pipas](https://github.com/potigol/uoj-potigol/blob/master/src/1900/1921.poti)
   - [x]  [2044](https://www.beecrowd.com.br/judge/pt/problems/view/2044) - [Em Dívida](https://github.com/potigol/uoj-potigol/blob/master/src/2000/2044.poti)
   - [x]  [2066](https://www.beecrowd.com.br/judge/pt/problems/view/2066) - [amelborP mU](https://github.com/potigol/uoj-potigol/blob/master/src/2000/2066.poti)
+  - [x]  [2084](https://www.beecrowd.com.br/judge/pt/problems/view/2084) - [Eleições](https://github.com/potigol/uoj-potigol/blob/master/src/2000/2084.poti)
   - [x]  [2218](https://www.beecrowd.com.br/judge/pt/problems/view/2218) - [O Temível Evil-Son](https://github.com/potigol/uoj-potigol/blob/master/src/2200/2218.poti)
   - [x]  [2232](https://www.beecrowd.com.br/judge/pt/problems/view/2232) - [Triângulo de Pascal](https://github.com/potigol/uoj-potigol/blob/master/src/2200/2232.poti)
   - [x]  [2238](https://www.beecrowd.com.br/judge/pt/problems/view/2238) - [Divisores](https://github.com/potigol/uoj-potigol/blob/master/src/2200/2238.poti)
@@ -187,7 +188,6 @@
   - [ ]  [2068](https://www.beecrowd.com.br/judge/pt/problems/view/2068) - Marcando um Encontro
   - [ ]  [2069](https://www.beecrowd.com.br/judge/pt/problems/view/2069) - A Mesa Quadrada de Inês Venezuela
   - [ ]  [2076](https://www.beecrowd.com.br/judge/pt/problems/view/2076) - Alocação Ótima de Commodities
-  - [ ]  [2084](https://www.beecrowd.com.br/judge/pt/problems/view/2084) - Eleições
   - [ ]  [2096](https://www.beecrowd.com.br/judge/pt/problems/view/2096) - Horácio e Seus Primos
   - [ ]  [2100](https://www.beecrowd.com.br/judge/pt/problems/view/2100) - Cinema de Xing Tzen Zu
   - [ ]  [2101](https://www.beecrowd.com.br/judge/pt/problems/view/2101) - Combinações de Dias

@@ -1,4 +1,4 @@
-# Ad-Hoc (164 / 732)
+# Ad-Hoc (166 / 732)
 
 
 
@@ -59,6 +59,7 @@
   - [x]  [1936](https://www.beecrowd.com.br/judge/pt/problems/view/1936) - [Fatorial](https://github.com/potigol/uoj-potigol/blob/master/src/1900/1936.poti)
   - [x]  [1943](https://www.beecrowd.com.br/judge/pt/problems/view/1943) - [Top N](https://github.com/potigol/uoj-potigol/blob/master/src/1900/1943.poti)
   - [x]  [1986](https://www.beecrowd.com.br/judge/pt/problems/view/1986) - [Perdido em Marte](https://github.com/potigol/uoj-potigol/blob/master/src/1900/1986.poti)
+  - [x]  [1987](https://www.beecrowd.com.br/judge/pt/problems/view/1987) - [Divisibilidade Por 3](https://github.com/potigol/uoj-potigol/blob/master/src/1900/1987.poti)
   - [x]  [2058](https://www.beecrowd.com.br/judge/pt/problems/view/2058) - [Triângulos e Polígonos Regulares](https://github.com/potigol/uoj-potigol/blob/master/src/2000/2058.poti)
   - [x]  [2116](https://www.beecrowd.com.br/judge/pt/problems/view/2116) - [Diversão dos Alunos](https://github.com/potigol/uoj-potigol/blob/master/src/2100/2116.poti)
   - [x]  [2175](https://www.beecrowd.com.br/judge/pt/problems/view/2175) - [Qual o Mais Rápido?](https://github.com/potigol/uoj-potigol/blob/master/src/2100/2175.poti)
@@ -131,6 +132,7 @@
   - [x]  [2568](https://www.beecrowd.com.br/judge/pt/problems/view/2568) - [Ações](https://github.com/potigol/uoj-potigol/blob/master/src/2500/2568.poti)
   - [x]  [2569](https://www.beecrowd.com.br/judge/pt/problems/view/2569) - [A Bruxa do 7 x 1](https://github.com/potigol/uoj-potigol/blob/master/src/2500/2569.poti)
   - [x]  [2579](https://www.beecrowd.com.br/judge/pt/problems/view/2579) - [Nagol](https://github.com/potigol/uoj-potigol/blob/master/src/2500/2579.poti)
+  - [x]  [2600](https://www.beecrowd.com.br/judge/pt/problems/view/2600) - [Tustin e Seu Dado Novo](https://github.com/potigol/uoj-potigol/blob/master/src/2600/2600.poti)
   - [x]  [2650](https://www.beecrowd.com.br/judge/pt/problems/view/2650) - [Construindo Muralhas](https://github.com/potigol/uoj-potigol/blob/master/src/2600/2650.poti)
   - [x]  [2679](https://www.beecrowd.com.br/judge/pt/problems/view/2679) - [Sucessor Par](https://github.com/potigol/uoj-potigol/blob/master/src/2600/2679.poti)
   - [x]  [2803](https://www.beecrowd.com.br/judge/pt/problems/view/2803) - [Estados do Norte](https://github.com/potigol/uoj-potigol/blob/master/src/2800/2803.poti)
@@ -348,7 +350,6 @@
   - [ ]  [1965](https://www.beecrowd.com.br/judge/pt/problems/view/1965) - A Procura por Spock
   - [ ]  [1966](https://www.beecrowd.com.br/judge/pt/problems/view/1966) - A Volta para Casa
   - [ ]  [1980](https://www.beecrowd.com.br/judge/pt/problems/view/1980) - Embaralhando
-  - [ ]  [1987](https://www.beecrowd.com.br/judge/pt/problems/view/1987) - Divisibilidade Por 3
   - [ ]  [1997](https://www.beecrowd.com.br/judge/pt/problems/view/1997) - Branco e Preto
   - [ ]  [1998](https://www.beecrowd.com.br/judge/pt/problems/view/1998) - Awari 2.0
   - [ ]  [2004](https://www.beecrowd.com.br/judge/pt/problems/view/2004) - Enisvaldo Com Fome
@@ -567,7 +568,6 @@
   - [ ]  [2590](https://www.beecrowd.com.br/judge/pt/problems/view/2590) - Sete
   - [ ]  [2592](https://www.beecrowd.com.br/judge/pt/problems/view/2592) - VaiNaSort
   - [ ]  [2595](https://www.beecrowd.com.br/judge/pt/problems/view/2595) - Cash Roial
-  - [ ]  [2600](https://www.beecrowd.com.br/judge/pt/problems/view/2600) - Tustin e Seu Dado Novo
   - [ ]  [2601](https://www.beecrowd.com.br/judge/pt/problems/view/2601) - Tustin e Seu Dado Antigo
   - [ ]  [2627](https://www.beecrowd.com.br/judge/pt/problems/view/2627) - Bonde de Autômatos
   - [ ]  [2628](https://www.beecrowd.com.br/judge/pt/problems/view/2628) - Caça ao Tesouro
