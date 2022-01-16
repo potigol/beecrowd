@@ -1,4 +1,4 @@
-# Ad-Hoc (70 / 172)
+# Ad-Hoc (71 / 172)
 
 
 
@@ -26,6 +26,7 @@
   - [x]  [2386](https://www.beecrowd.com.br/judge/pt/problems/view/2386) - [Telescópio](https://github.com/potigol/uoj-potigol/blob/master/src/2300/2386.poti)
   - [x]  [2388](https://www.beecrowd.com.br/judge/pt/problems/view/2388) - [Tacógrafo](https://github.com/potigol/uoj-potigol/blob/master/src/2300/2388.poti)
   - [x]  [2389](https://www.beecrowd.com.br/judge/pt/problems/view/2389) - [Floresta](https://github.com/potigol/uoj-potigol/blob/master/src/2300/2389.poti)
+  - [x]  [2390](https://www.beecrowd.com.br/judge/pt/problems/view/2390) - [Escada Rolante](https://github.com/potigol/uoj-potigol/blob/master/src/2300/2390.poti)
   - [x]  [2394](https://www.beecrowd.com.br/judge/pt/problems/view/2394) - [Corrida 1](https://github.com/potigol/uoj-potigol/blob/master/src/2300/2394.poti)
   - [x]  [2395](https://www.beecrowd.com.br/judge/pt/problems/view/2395) - [Transporte de Contêineres](https://github.com/potigol/uoj-potigol/blob/master/src/2300/2395.poti)
   - [x]  [2396](https://www.beecrowd.com.br/judge/pt/problems/view/2396) - [Corrida](https://github.com/potigol/uoj-potigol/blob/master/src/2300/2396.poti)
@@ -132,7 +133,6 @@
   - [ ]  [2384](https://www.beecrowd.com.br/judge/pt/problems/view/2384) - Tradutor Alienígena
   - [ ]  [2385](https://www.beecrowd.com.br/judge/pt/problems/view/2385) - Multiplicação de Matrizes
   - [ ]  [2387](https://www.beecrowd.com.br/judge/pt/problems/view/2387) - Dentista
-  - [ ]  [2390](https://www.beecrowd.com.br/judge/pt/problems/view/2390) - Escada Rolante
   - [ ]  [2391](https://www.beecrowd.com.br/judge/pt/problems/view/2391) - Progressões Aritméticas
   - [ ]  [2392](https://www.beecrowd.com.br/judge/pt/problems/view/2392) - Pulo do Sapo
   - [ ]  [2393](https://www.beecrowd.com.br/judge/pt/problems/view/2393) - O Mar não está para Peixe
