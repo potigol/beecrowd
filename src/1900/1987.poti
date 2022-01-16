@@ -1,0 +1,12 @@
+# eof = falso
+var entrada := leia_texto
+enquanto nao eof faça
+    numeros = entrada.divida()[2]
+    soma = numeros.injete(0)((x, y) => x + y) - 48 * numeros.tamanho
+    se soma mod 3 == 0 então
+        escreva "{soma} sim"
+    senão
+        escreva "{soma} nao"
+    fim
+    entrada := leia_texto
+fim
