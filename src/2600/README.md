@@ -1,7 +1,7 @@
-# Problemas 2600 (32%)
+# Problemas 2600 (33%)
 
   - [x]  [2600](https://www.beecrowd.com.br/judge/pt/problems/view/2600) - [Tustin e Seu Dado Novo](https://github.com/potigol/uoj-potigol/blob/master/src/2600/2600.poti) *Ad-Hoc*
-  - [ ]  [2601](https://www.beecrowd.com.br/judge/pt/problems/view/2601) - Tustin e Seu Dado Antigo *Ad-Hoc*
+  - [x]  [2601](https://www.beecrowd.com.br/judge/pt/problems/view/2601) - [Tustin e Seu Dado Antigo](https://github.com/potigol/uoj-potigol/blob/master/src/2600/2601.poti) *Ad-Hoc*
   - [ ]  ~~2602~~ - *SQL*
   - [ ]  ~~2603~~ - *SQL*
   - [ ]  ~~2604~~ - *SQL*

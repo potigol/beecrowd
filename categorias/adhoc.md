@@ -1,4 +1,4 @@
-# Ad-Hoc (166 / 732)
+# Ad-Hoc (167 / 732)
 
 
 
@@ -133,6 +133,7 @@
   - [x]  [2569](https://www.beecrowd.com.br/judge/pt/problems/view/2569) - [A Bruxa do 7 x 1](https://github.com/potigol/uoj-potigol/blob/master/src/2500/2569.poti)
   - [x]  [2579](https://www.beecrowd.com.br/judge/pt/problems/view/2579) - [Nagol](https://github.com/potigol/uoj-potigol/blob/master/src/2500/2579.poti)
   - [x]  [2600](https://www.beecrowd.com.br/judge/pt/problems/view/2600) - [Tustin e Seu Dado Novo](https://github.com/potigol/uoj-potigol/blob/master/src/2600/2600.poti)
+  - [x]  [2601](https://www.beecrowd.com.br/judge/pt/problems/view/2601) - [Tustin e Seu Dado Antigo](https://github.com/potigol/uoj-potigol/blob/master/src/2600/2601.poti)
   - [x]  [2650](https://www.beecrowd.com.br/judge/pt/problems/view/2650) - [Construindo Muralhas](https://github.com/potigol/uoj-potigol/blob/master/src/2600/2650.poti)
   - [x]  [2679](https://www.beecrowd.com.br/judge/pt/problems/view/2679) - [Sucessor Par](https://github.com/potigol/uoj-potigol/blob/master/src/2600/2679.poti)
   - [x]  [2803](https://www.beecrowd.com.br/judge/pt/problems/view/2803) - [Estados do Norte](https://github.com/potigol/uoj-potigol/blob/master/src/2800/2803.poti)
@@ -568,7 +569,6 @@
   - [ ]  [2590](https://www.beecrowd.com.br/judge/pt/problems/view/2590) - Sete
   - [ ]  [2592](https://www.beecrowd.com.br/judge/pt/problems/view/2592) - VaiNaSort
   - [ ]  [2595](https://www.beecrowd.com.br/judge/pt/problems/view/2595) - Cash Roial
-  - [ ]  [2601](https://www.beecrowd.com.br/judge/pt/problems/view/2601) - Tustin e Seu Dado Antigo
   - [ ]  [2627](https://www.beecrowd.com.br/judge/pt/problems/view/2627) - Bonde de Autômatos
   - [ ]  [2628](https://www.beecrowd.com.br/judge/pt/problems/view/2628) - Caça ao Tesouro
   - [ ]  [2629](https://www.beecrowd.com.br/judge/pt/problems/view/2629) - Rodoido
