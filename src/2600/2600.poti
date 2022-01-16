@@ -1,0 +1,11 @@
+n = leia_inteiro
+para i de 1 até n faça
+    valores = [leia_inteiro] + leia_inteiros(4) + [leia_inteiro]
+    dado = valores.ordene == [1, 2, 3, 4, 5, 6]
+    se dado e valores[1] + valores[6] == 7 e 
+        valores[2] + valores[4] == 7 e valores[3] + valores[5] == 7 então
+        escreva "SIM"    
+    senão
+        escreva "NAO"
+    fim
+fim
