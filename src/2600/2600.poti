@@ -1,0 +1,21 @@
+n = leia_inteiro
+para i de 1 até n faça
+    var dado := verdadeiro
+    var achar := para j de 1 até 7 gere falso fim
+    valores = [leia_inteiro] + leia_inteiros(4) + [leia_inteiro]
+
+    para valor em valores faça
+        se valor >= 1 e valor <= 7 e não achar[valor] então
+            achar[valor] := verdadeiro
+        senão
+            dado := falso
+        fim
+    fim
+
+    se dado e valores[1] + valores[6] == 7 e 
+        valores[2] + valores[4] == 7 e valores[3] + valores[5] == 7 então
+        escreva "SIM"    
+    senão
+        escreva "NAO"
+    fim
+fim
