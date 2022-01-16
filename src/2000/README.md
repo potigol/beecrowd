@@ -84,7 +84,7 @@
   - [ ]  [2081](https://www.beecrowd.com.br/judge/pt/problems/view/2081) - Sonhos, Acredite Neles! *Grafos*
   - [ ]  [2082](https://www.beecrowd.com.br/judge/pt/problems/view/2082) - Viagens no Tempo *Grafos*
   - [ ]  [2083](https://www.beecrowd.com.br/judge/pt/problems/view/2083) - Beira da Estrada *Geometria Computacional*
-  - [ ]  [2084](https://www.beecrowd.com.br/judge/pt/problems/view/2084) - Eleições *Matemática*
+  - [x]  [2084](https://www.beecrowd.com.br/judge/pt/problems/view/2084) - [Eleições](https://github.com/potigol/uoj-potigol/blob/master/src/2000/2084.poti) *Matemática*
   - [ ]  [2085](https://www.beecrowd.com.br/judge/pt/problems/view/2085) - Chapeuzinho Vermelho *Grafos*
   - [ ]  [2086](https://www.beecrowd.com.br/judge/pt/problems/view/2086) - Ciclofaixa *Grafos*
   - [ ]  [2087](https://www.beecrowd.com.br/judge/pt/problems/view/2087) - Conjuntos Bons e Ruins *Strings*
