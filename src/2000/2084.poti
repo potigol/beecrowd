@@ -1,0 +1,10 @@
+n = leia_inteiro
+votacao = leia_inteiros(n).ordene(- _)
+total_votos = votacao.injete(0)((x, y) => x + y)
+perc_pri = votacao[1] / total_votos
+perc_seg = votacao[2] / total_votos
+se perc_pri >= 0.45 ou (perc_pri >= 0.4 e perc_pri - perc_seg >= 0.1) então
+    escreva 1
+senão
+    escreva 2
+fim
