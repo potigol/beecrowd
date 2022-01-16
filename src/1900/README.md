@@ -87,7 +87,7 @@
   - [x]  [1984](https://www.beecrowd.com.br/judge/pt/problems/view/1984) - [O Enigma do Pronalândia](https://github.com/potigol/uoj-potigol/blob/master/src/1900/1984.poti) *Iniciante*
   - [x]  [1985](https://www.beecrowd.com.br/judge/pt/problems/view/1985) - [MacPRONALTS](https://github.com/potigol/uoj-potigol/blob/master/src/1900/1985.poti) *Iniciante*
   - [x]  [1986](https://www.beecrowd.com.br/judge/pt/problems/view/1986) - [Perdido em Marte](https://github.com/potigol/uoj-potigol/blob/master/src/1900/1986.poti) *Ad-Hoc*
-  - [ ]  [1987](https://www.beecrowd.com.br/judge/pt/problems/view/1987) - Divisibilidade Por 3 *Ad-Hoc*
+  - [x]  [1987](https://www.beecrowd.com.br/judge/pt/problems/view/1987) - [Divisibilidade Por 3](https://github.com/potigol/uoj-potigol/blob/master/src/1900/1987.poti) *Ad-Hoc*
   - [ ]  [1988](https://www.beecrowd.com.br/judge/pt/problems/view/1988) - Circuitos Turísticos *Grafos*
   - [ ]  [1989](https://www.beecrowd.com.br/judge/pt/problems/view/1989) - Fazendo Nada *Matemática*
   - [ ]  [1990](https://www.beecrowd.com.br/judge/pt/problems/view/1990) - Equilíbrio *Matemática*
