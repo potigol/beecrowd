@@ -1,4 +1,4 @@
-# Problemas 2500 (28%)
+# Problemas 2500 (29%)
 
   - [ ]  [2500](https://www.beecrowd.com.br/judge/pt/problems/view/2500) - William Xorando *Matemática*
   - [ ]  [2501](https://www.beecrowd.com.br/judge/pt/problems/view/2501) - Fatores Permitidos *Paradigmas*

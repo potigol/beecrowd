@@ -1,4 +1,4 @@
-# Problemas 1600 (5%)
+# Problemas 1600 (6%)
 
   - [ ]  [1600](https://www.beecrowd.com.br/judge/pt/problems/view/1600) - O Gato do Zelador do Armazém *Paradigmas*
   - [ ]  [1601](https://www.beecrowd.com.br/judge/pt/problems/view/1601) - Partição do Rebanho *Paradigmas*

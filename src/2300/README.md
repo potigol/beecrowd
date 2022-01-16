@@ -1,4 +1,4 @@
-# Problemas 2300 (31%)
+# Problemas 2300 (32%)
 
   - [ ]  [2300](https://www.beecrowd.com.br/judge/pt/problems/view/2300) - Transmissão de Energia *Grafos*
   - [ ]  [2301](https://www.beecrowd.com.br/judge/pt/problems/view/2301) - Vivo ou Morto *Ad-Hoc*

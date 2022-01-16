@@ -1,13 +1,15 @@
-# Geometria Computacional (4 / 82)
+# Geometria Computacional (6 / 82)
 
 
 
 ## Problemas resolvidos
 
   - [x]  [1296](https://www.beecrowd.com.br/judge/pt/problems/view/1296) - [Medianas](https://github.com/potigol/uoj-potigol/blob/master/src/1200/1296.poti)
+  - [x]  [1549](https://www.beecrowd.com.br/judge/pt/problems/view/1549) - [Dividindo a Coca](https://github.com/potigol/uoj-potigol/blob/master/src/1500/1549.poti)
   - [x]  [1875](https://www.beecrowd.com.br/judge/pt/problems/view/1875) - [Tribol](https://github.com/potigol/uoj-potigol/blob/master/src/1800/1875.poti)
   - [x]  [2158](https://www.beecrowd.com.br/judge/pt/problems/view/2158) - [Ajudando o Tio Cláudio](https://github.com/potigol/uoj-potigol/blob/master/src/2100/2158.poti)
   - [x]  [2840](https://www.beecrowd.com.br/judge/pt/problems/view/2840) - [Balão++](https://github.com/potigol/uoj-potigol/blob/master/src/2800/2840.poti)
+  - [x]  [3152](https://www.beecrowd.com.br/judge/pt/problems/view/3152) - [Samuel, O Cafeicultor](https://github.com/potigol/uoj-potigol/blob/master/src/3100/3152.poti)
 
 ## Problemas não resolvidos
 
@@ -37,7 +39,6 @@
   - [ ]  [1468](https://www.beecrowd.com.br/judge/pt/problems/view/1468) - Balão
   - [ ]  [1497](https://www.beecrowd.com.br/judge/pt/problems/view/1497) - Esconde-Esconde
   - [ ]  [1504](https://www.beecrowd.com.br/judge/pt/problems/view/1504) - Curo Railroad
-  - [ ]  [1549](https://www.beecrowd.com.br/judge/pt/problems/view/1549) - Dividindo a Coca
   - [ ]  [1560](https://www.beecrowd.com.br/judge/pt/problems/view/1560) - Energia dos Triângulos
   - [ ]  [1571](https://www.beecrowd.com.br/judge/pt/problems/view/1571) - Um Quadrado &amp; Triângulos Equiláteros
   - [ ]  [1613](https://www.beecrowd.com.br/judge/pt/problems/view/1613) - Goemon em Apuros
@@ -83,7 +84,6 @@
   - [ ]  [3064](https://www.beecrowd.com.br/judge/pt/problems/view/3064) - Elástico
   - [ ]  [3081](https://www.beecrowd.com.br/judge/pt/problems/view/3081) - Órbita
   - [ ]  [3108](https://www.beecrowd.com.br/judge/pt/problems/view/3108) - Arremesse os BigOs!
-  - [ ]  [3152](https://www.beecrowd.com.br/judge/pt/problems/view/3152) - Samuel, O Cafeicultor
   - [ ]  [3156](https://www.beecrowd.com.br/judge/pt/problems/view/3156) - Xadrez Galático
   - [ ]  [3184](https://www.beecrowd.com.br/judge/pt/problems/view/3184) - Obtendo Ouro
   - [ ]  [3213](https://www.beecrowd.com.br/judge/pt/problems/view/3213) - Parque Infantil
