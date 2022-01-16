@@ -1,5 +1,5 @@
 n = leia_inteiro
-votacao = leia_inteiros(n).ordene(- _)
+votacao = leia_inteiros(n).ordene((a, b) => a > b)
 total_votos = votacao.injete(0)((x, y) => x + y)
 perc_pri = votacao[1] / total_votos
 perc_seg = votacao[2] / total_votos
