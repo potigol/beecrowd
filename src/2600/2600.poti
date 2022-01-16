@@ -1,11 +1,11 @@
 n = leia_inteiro
 para i de 1 até n faça
     var dado := verdadeiro
-    var achar := para j de 1 até 7 gere falso fim
+    var achar := para j de 1 até 6 gere falso fim
     valores = [leia_inteiro] + leia_inteiros(4) + [leia_inteiro]
 
     para valor em valores faça
-        se valor >= 1 e valor <= 7 e não achar[valor] então
+        se valor >= 1 e valor <= 6 e não achar[valor] então
             achar[valor] := verdadeiro
         senão
             dado := falso
