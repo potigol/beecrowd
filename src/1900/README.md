@@ -1,4 +1,4 @@
-# Problemas 1900 (21%)
+# Problemas 1900 (22%)
 
   - [ ]  [1900](https://www.beecrowd.com.br/judge/pt/problems/view/1900) - Sequências Nulas *Paradigmas*
   - [x]  [1901](https://www.beecrowd.com.br/judge/pt/problems/view/1901) - [Borboletas](https://github.com/potigol/uoj-potigol/blob/master/src/1900/1901.poti) *Ad-Hoc*

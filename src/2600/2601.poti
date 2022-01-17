@@ -1,0 +1,12 @@
+n = leia_inteiro
+para i de 1 até n faça
+  valores = leia_inteiros(6)
+  somas = [valores[1] + valores[6], valores[2] + valores[4], valores[3] + valores[5]]
+  possibilidades = escolha somas.selecione(_ == 0).tamanho
+    caso 1 => 2
+    caso 2 => 8
+    caso 3 => 48
+    caso _ => 1
+  fim
+  escreva possibilidades
+fim
