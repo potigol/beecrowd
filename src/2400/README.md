@@ -49,7 +49,7 @@
   - [ ]  [2446](https://www.beecrowd.com.br/judge/pt/problems/view/2446) - Troco *Paradigmas*
   - [ ]  [2447](https://www.beecrowd.com.br/judge/pt/problems/view/2447) - Torneio *Ad-Hoc*
   - [ ]  [2448](https://www.beecrowd.com.br/judge/pt/problems/view/2448) - Carteiro *Ad-Hoc*
-  - [ ]  [2449](https://www.beecrowd.com.br/judge/pt/problems/view/2449) - Fechadura *Ad-Hoc*
+  - [x]  [2449](https://www.beecrowd.com.br/judge/pt/problems/view/2449) - [Fechadura](https://github.com/potigol/uoj-potigol/blob/master/src/2400/2449.poti) *Ad-Hoc*
   - [ ]  [2450](https://www.beecrowd.com.br/judge/pt/problems/view/2450) - Matriz Escada *Ad-Hoc*
   - [x]  [2451](https://www.beecrowd.com.br/judge/pt/problems/view/2451) - [PacMan](https://github.com/potigol/uoj-potigol/blob/master/src/2400/2451.poti) *Ad-Hoc*
   - [ ]  [2452](https://www.beecrowd.com.br/judge/pt/problems/view/2452) - Semente *Ad-Hoc*

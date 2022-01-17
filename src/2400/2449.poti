@@ -1,0 +1,13 @@
+n = leia_inteiros(2)
+var res, i := 0, 1
+var fechaduras := leia_inteiros(n[1])
+enquanto i < n[1] faça
+    res := res + abs(n[2] - fechaduras[i])
+    se fechaduras[i] == fechaduras[i+1] então
+        i := i + 1
+    senão
+        fechaduras[i+1] := fechaduras[i+1] + (n[2] - fechaduras[i])
+    fim
+    i := i + 1
+fim
+escreva res
