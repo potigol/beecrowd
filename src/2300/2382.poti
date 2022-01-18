@@ -1,0 +1,9 @@
+d = leia_inteiros(4)
+lados = d.pegue(3).ordene(_ > _)
+l1, l2 = lados[1], lados[2]
+r = d[4]
+se l1 * l1 + l2 * l2 <= 4 * r * r entao
+  escreva "S"
+senao
+  escreva "N"
+fim

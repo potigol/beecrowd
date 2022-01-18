@@ -1,4 +1,4 @@
-# Olimpíada de Informática (91 / 215)
+# Olimpíada de Informática (92 / 215)
 
 
 
@@ -162,7 +162,7 @@
   - [ ]  [2379](https://www.beecrowd.com.br/judge/pt/problems/view/2379) - Dança Indígena *Ad-Hoc*
   - [ ]  [2380](https://www.beecrowd.com.br/judge/pt/problems/view/2380) - Fusões *Estruturas e Bibliotecas*
   - [x]  [2381](https://www.beecrowd.com.br/judge/pt/problems/view/2381) - [Lista de Chamada](https://github.com/potigol/uoj-potigol/blob/master/src/2300/2381.poti) *Ad-Hoc*
-  - [ ]  [2382](https://www.beecrowd.com.br/judge/pt/problems/view/2382) - Sedex Marciano *Ad-Hoc*
+  - [x]  [2382](https://www.beecrowd.com.br/judge/pt/problems/view/2382) - [Sedex Marciano](https://github.com/potigol/uoj-potigol/blob/master/src/2300/2382.poti) *Ad-Hoc*
   - [ ]  [2383](https://www.beecrowd.com.br/judge/pt/problems/view/2383) - Altas Aventuras *Ad-Hoc*
   - [ ]  [2384](https://www.beecrowd.com.br/judge/pt/problems/view/2384) - Tradutor Alienígena *Ad-Hoc*
   - [ ]  [2385](https://www.beecrowd.com.br/judge/pt/problems/view/2385) - Multiplicação de Matrizes *Ad-Hoc*
