@@ -1,4 +1,4 @@
-# Olimpíada de Informática (90 / 215)
+# Olimpíada de Informática (91 / 215)
 
 
 
@@ -50,7 +50,7 @@
   - [ ]  [1928](https://www.beecrowd.com.br/judge/pt/problems/view/1928) - Jogo da Memória *Grafos*
   - [x]  [1929](https://www.beecrowd.com.br/judge/pt/problems/view/1929) - [Triângulo](https://github.com/potigol/uoj-potigol/blob/master/src/1900/1929.poti) *Iniciante*
   - [ ]  [2448](https://www.beecrowd.com.br/judge/pt/problems/view/2448) - Carteiro *Ad-Hoc*
-  - [ ]  [2449](https://www.beecrowd.com.br/judge/pt/problems/view/2449) - Fechadura *Ad-Hoc*
+  - [x]  [2449](https://www.beecrowd.com.br/judge/pt/problems/view/2449) - [Fechadura](https://github.com/potigol/uoj-potigol/blob/master/src/2400/2449.poti) *Ad-Hoc*
   - [ ]  [2450](https://www.beecrowd.com.br/judge/pt/problems/view/2450) - Matriz Escada *Ad-Hoc*
   - [x]  [2451](https://www.beecrowd.com.br/judge/pt/problems/view/2451) - [PacMan](https://github.com/potigol/uoj-potigol/blob/master/src/2400/2451.poti) *Ad-Hoc*
   - [ ]  [2452](https://www.beecrowd.com.br/judge/pt/problems/view/2452) - Semente *Ad-Hoc*

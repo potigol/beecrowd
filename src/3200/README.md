@@ -1,4 +1,4 @@
-# Problemas 3200 (10%)
+# Problemas 3200 (12%)
 
   - [ ]  [3200](https://www.beecrowd.com.br/judge/pt/problems/view/3200) - Card Trick *Ad-Hoc*
   - [ ]  [3201](https://www.beecrowd.com.br/judge/pt/problems/view/3201) - Traveling Salesman *Estruturas e Bibliotecas*

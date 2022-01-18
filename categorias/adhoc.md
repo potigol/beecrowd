@@ -1,4 +1,4 @@
-# Ad-Hoc (167 / 732)
+# Ad-Hoc (169 / 732)
 
 
 
@@ -114,6 +114,7 @@
   - [x]  [2441](https://www.beecrowd.com.br/judge/pt/problems/view/2441) - [Janela](https://github.com/potigol/uoj-potigol/blob/master/src/2400/2441.poti)
   - [x]  [2443](https://www.beecrowd.com.br/judge/pt/problems/view/2443) - [Soma de Frações](https://github.com/potigol/uoj-potigol/blob/master/src/2400/2443.poti)
   - [x]  [2444](https://www.beecrowd.com.br/judge/pt/problems/view/2444) - [Volume da TV](https://github.com/potigol/uoj-potigol/blob/master/src/2400/2444.poti)
+  - [x]  [2449](https://www.beecrowd.com.br/judge/pt/problems/view/2449) - [Fechadura](https://github.com/potigol/uoj-potigol/blob/master/src/2400/2449.poti)
   - [x]  [2451](https://www.beecrowd.com.br/judge/pt/problems/view/2451) - [PacMan](https://github.com/potigol/uoj-potigol/blob/master/src/2400/2451.poti)
   - [x]  [2453](https://www.beecrowd.com.br/judge/pt/problems/view/2453) - [Língua do P](https://github.com/potigol/uoj-potigol/blob/master/src/2400/2453.poti)
   - [x]  [2454](https://www.beecrowd.com.br/judge/pt/problems/view/2454) - [Flíper](https://github.com/potigol/uoj-potigol/blob/master/src/2400/2454.poti)
@@ -168,6 +169,7 @@
   - [x]  [3130](https://www.beecrowd.com.br/judge/pt/problems/view/3130) - [Caixas Por Todo Lado](https://github.com/potigol/uoj-potigol/blob/master/src/3100/3130.poti)
   - [x]  [3134](https://www.beecrowd.com.br/judge/pt/problems/view/3134) - [Balança Equilibrada](https://github.com/potigol/uoj-potigol/blob/master/src/3100/3134.poti)
   - [x]  [3135](https://www.beecrowd.com.br/judge/pt/problems/view/3135) - [Lista de Nomes](https://github.com/potigol/uoj-potigol/blob/master/src/3100/3135.poti)
+  - [x]  [3263](https://www.beecrowd.com.br/judge/pt/problems/view/3263) - [Apague Com Segurança](https://github.com/potigol/uoj-potigol/blob/master/src/3200/3263.poti)
   - [x]  [3307](https://www.beecrowd.com.br/judge/pt/problems/view/3307) - [Decora o Rolê!](https://github.com/potigol/uoj-potigol/blob/master/src/3300/3307.poti)
   - [x]  [3309](https://www.beecrowd.com.br/judge/pt/problems/view/3309) - [Felizes são estes Números](https://github.com/potigol/uoj-potigol/blob/master/src/3300/3309.poti)
   - [x]  [3315](https://www.beecrowd.com.br/judge/pt/problems/view/3315) - [Língua do Computador](https://github.com/potigol/uoj-potigol/blob/master/src/3300/3315.poti)
@@ -528,7 +530,6 @@
   - [ ]  [2445](https://www.beecrowd.com.br/judge/pt/problems/view/2445) - Polígono
   - [ ]  [2447](https://www.beecrowd.com.br/judge/pt/problems/view/2447) - Torneio
   - [ ]  [2448](https://www.beecrowd.com.br/judge/pt/problems/view/2448) - Carteiro
-  - [ ]  [2449](https://www.beecrowd.com.br/judge/pt/problems/view/2449) - Fechadura
   - [ ]  [2450](https://www.beecrowd.com.br/judge/pt/problems/view/2450) - Matriz Escada
   - [ ]  [2452](https://www.beecrowd.com.br/judge/pt/problems/view/2452) - Semente
   - [ ]  [2458](https://www.beecrowd.com.br/judge/pt/problems/view/2458) - Setas
@@ -734,7 +735,6 @@
   - [ ]  [3228](https://www.beecrowd.com.br/judge/pt/problems/view/3228) - Eco-driving
   - [ ]  [3240](https://www.beecrowd.com.br/judge/pt/problems/view/3240) - Doodling
   - [ ]  [3254](https://www.beecrowd.com.br/judge/pt/problems/view/3254) - Espaço Privado
-  - [ ]  [3263](https://www.beecrowd.com.br/judge/pt/problems/view/3263) - Apague Com Segurança
   - [ ]  [3278](https://www.beecrowd.com.br/judge/pt/problems/view/3278) - Passageiros de Trem
   - [ ]  [3305](https://www.beecrowd.com.br/judge/pt/problems/view/3305) - Bispos Dominantes
   - [ ]  [3351](https://www.beecrowd.com.br/judge/pt/problems/view/3351) - Clickbait
