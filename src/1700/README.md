@@ -1,4 +1,4 @@
-# Problemas 1700 (15%)
+# Problemas 1700 (17%)
 
   - [ ]  [1700](https://www.beecrowd.com.br/judge/pt/problems/view/1700) - Antenas *Paradigmas*
   - [ ]  [1701](https://www.beecrowd.com.br/judge/pt/problems/view/1701) - Sequência de Fibo *Estruturas e Bibliotecas*
@@ -69,7 +69,7 @@
   - [x]  [1766](https://www.beecrowd.com.br/judge/pt/problems/view/1766) - [O Elfo das Trevas](https://github.com/potigol/uoj-potigol/blob/master/src/1700/1766.poti) *Estruturas e Bibliotecas*
   - [ ]  [1767](https://www.beecrowd.com.br/judge/pt/problems/view/1767) - Saco do Papai Noel *Paradigmas*
   - [x]  [1768](https://www.beecrowd.com.br/judge/pt/problems/view/1768) - [Árvore de Natal](https://github.com/potigol/uoj-potigol/blob/master/src/1700/1768.poti) *Strings*
-  - [ ]  [1769](https://www.beecrowd.com.br/judge/pt/problems/view/1769) - CPF 1 *Ad-Hoc*
+  - [x]  [1769](https://www.beecrowd.com.br/judge/pt/problems/view/1769) - [CPF 1](https://github.com/potigol/uoj-potigol/blob/master/src/1700/1769.poti) *Ad-Hoc*
   - [ ]  [1770](https://www.beecrowd.com.br/judge/pt/problems/view/1770) - Shuffle *Ad-Hoc*
   - [ ]  [1771](https://www.beecrowd.com.br/judge/pt/problems/view/1771) - Cartelas de Bingo Aleatórias *Ad-Hoc*
   - [ ]  [1772](https://www.beecrowd.com.br/judge/pt/problems/view/1772) - Embaralhamento de Bits *Ad-Hoc*
@@ -86,7 +86,7 @@
   - [ ]  [1783](https://www.beecrowd.com.br/judge/pt/problems/view/1783) - Ih, Ferrou, um Buraco Negro! *Geometria Computacional*
   - [ ]  [1784](https://www.beecrowd.com.br/judge/pt/problems/view/1784) - Jacutingas vs Jaburus *Paradigmas*
   - [ ]  [1785](https://www.beecrowd.com.br/judge/pt/problems/view/1785) - Kaprekar *Matemática*
-  - [ ]  [1786](https://www.beecrowd.com.br/judge/pt/problems/view/1786) - CPF 2 *Ad-Hoc*
+  - [x]  [1786](https://www.beecrowd.com.br/judge/pt/problems/view/1786) - [CPF 2](https://github.com/potigol/uoj-potigol/blob/master/src/1700/1786.poti) *Ad-Hoc*
   - [ ]  [1787](https://www.beecrowd.com.br/judge/pt/problems/view/1787) - URI *Ad-Hoc*
   - [ ]  [1788](https://www.beecrowd.com.br/judge/pt/problems/view/1788) - Brincando com Números *Paradigmas*
   - [x]  [1789](https://www.beecrowd.com.br/judge/pt/problems/view/1789) - [A Corrida de Lesmas](https://github.com/potigol/uoj-potigol/blob/master/src/1700/1789.poti) *Iniciante*

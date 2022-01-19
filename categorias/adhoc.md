@@ -1,4 +1,4 @@
-# Ad-Hoc (170 / 732)
+# Ad-Hoc (172 / 732)
 
 
 
@@ -47,6 +47,8 @@
   - [x]  [1609](https://www.beecrowd.com.br/judge/pt/problems/view/1609) - [Contando Carneirinhos](https://github.com/potigol/uoj-potigol/blob/master/src/1600/1609.poti)
   - [x]  [1708](https://www.beecrowd.com.br/judge/pt/problems/view/1708) - [Volta](https://github.com/potigol/uoj-potigol/blob/master/src/1700/1708.poti)
   - [x]  [1743](https://www.beecrowd.com.br/judge/pt/problems/view/1743) - [Máquina de Verificação Automatizada](https://github.com/potigol/uoj-potigol/blob/master/src/1700/1743.poti)
+  - [x]  [1769](https://www.beecrowd.com.br/judge/pt/problems/view/1769) - [CPF 1](https://github.com/potigol/uoj-potigol/blob/master/src/1700/1769.poti)
+  - [x]  [1786](https://www.beecrowd.com.br/judge/pt/problems/view/1786) - [CPF 2](https://github.com/potigol/uoj-potigol/blob/master/src/1700/1786.poti)
   - [x]  [1793](https://www.beecrowd.com.br/judge/pt/problems/view/1793) - [Escada Rolante](https://github.com/potigol/uoj-potigol/blob/master/src/1700/1793.poti)
   - [x]  [1794](https://www.beecrowd.com.br/judge/pt/problems/view/1794) - [Lavanderia](https://github.com/potigol/uoj-potigol/blob/master/src/1700/1794.poti)
   - [x]  [1796](https://www.beecrowd.com.br/judge/pt/problems/view/1796) - [Economia Brasileira](https://github.com/potigol/uoj-potigol/blob/master/src/1700/1796.poti)
@@ -299,13 +301,11 @@
   - [ ]  [1755](https://www.beecrowd.com.br/judge/pt/problems/view/1755) - O Troco
   - [ ]  [1758](https://www.beecrowd.com.br/judge/pt/problems/view/1758) - Pontos Extras
   - [ ]  [1765](https://www.beecrowd.com.br/judge/pt/problems/view/1765) - Trapézios de Natal
-  - [ ]  [1769](https://www.beecrowd.com.br/judge/pt/problems/view/1769) - CPF 1
   - [ ]  [1770](https://www.beecrowd.com.br/judge/pt/problems/view/1770) - Shuffle
   - [ ]  [1771](https://www.beecrowd.com.br/judge/pt/problems/view/1771) - Cartelas de Bingo Aleatórias
   - [ ]  [1772](https://www.beecrowd.com.br/judge/pt/problems/view/1772) - Embaralhamento de Bits
   - [ ]  [1779](https://www.beecrowd.com.br/judge/pt/problems/view/1779) - Estimando a Média
   - [ ]  [1780](https://www.beecrowd.com.br/judge/pt/problems/view/1780) - Formação de Robôs
-  - [ ]  [1786](https://www.beecrowd.com.br/judge/pt/problems/view/1786) - CPF 2
   - [ ]  [1787](https://www.beecrowd.com.br/judge/pt/problems/view/1787) - URI
   - [ ]  [1791](https://www.beecrowd.com.br/judge/pt/problems/view/1791) - Descobrindo uma Matriz
   - [ ]  [1800](https://www.beecrowd.com.br/judge/pt/problems/view/1800) - Onde Estão Minhas Chaves
