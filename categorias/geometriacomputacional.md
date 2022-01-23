@@ -1,9 +1,10 @@
-# Geometria Computacional (6 / 82)
+# Geometria Computacional (7 / 82)
 
 
 
 ## Problemas resolvidos
 
+  - [x]  [1039](https://www.beecrowd.com.br/judge/pt/problems/view/1039) - [Flores de Fogo](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1039.poti)
   - [x]  [1296](https://www.beecrowd.com.br/judge/pt/problems/view/1296) - [Medianas](https://github.com/potigol/uoj-potigol/blob/master/src/1200/1296.poti)
   - [x]  [1549](https://www.beecrowd.com.br/judge/pt/problems/view/1549) - [Dividindo a Coca](https://github.com/potigol/uoj-potigol/blob/master/src/1500/1549.poti)
   - [x]  [1875](https://www.beecrowd.com.br/judge/pt/problems/view/1875) - [Tribol](https://github.com/potigol/uoj-potigol/blob/master/src/1800/1875.poti)
@@ -13,7 +14,6 @@
 
 ## Problemas não resolvidos
 
-  - [ ]  [1039](https://www.beecrowd.com.br/judge/pt/problems/view/1039) - Flores de Fogo
   - [ ]  [1102](https://www.beecrowd.com.br/judge/pt/problems/view/1102) - Ataque Fulminante
   - [ ]  [1108](https://www.beecrowd.com.br/judge/pt/problems/view/1108) - Torres de Telefonia Celular
   - [ ]  [1124](https://www.beecrowd.com.br/judge/pt/problems/view/1124) - Elevador
