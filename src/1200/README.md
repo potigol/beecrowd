@@ -66,7 +66,7 @@
   - [x]  [1263](https://www.beecrowd.com.br/judge/pt/problems/view/1263) - [Aliteração](https://github.com/potigol/uoj-potigol/blob/master/src/1200/1263.poti) *Strings*
   - [ ]  [1264](https://www.beecrowd.com.br/judge/pt/problems/view/1264) - Um Problema Fácil! *Matemática*
   - [ ]  [1265](https://www.beecrowd.com.br/judge/pt/problems/view/1265) - DJ da Computação *Paradigmas*
-  - [ ]  [1266](https://www.beecrowd.com.br/judge/pt/problems/view/1266) - Tornado! *Ad-Hoc*
+  - [x]  [1266](https://www.beecrowd.com.br/judge/pt/problems/view/1266) - [Tornado!](https://github.com/potigol/uoj-potigol/blob/master/src/1200/1266.poti) *Ad-Hoc*
   - [ ]  [1267](https://www.beecrowd.com.br/judge/pt/problems/view/1267) - Biblioteca Pascal *Ad-Hoc*
   - [ ]  [1268](https://www.beecrowd.com.br/judge/pt/problems/view/1268) - Missão Impossível *Geometria Computacional*
   - [ ]  [1269](https://www.beecrowd.com.br/judge/pt/problems/view/1269) - ICPC Ataca Novamente *Paradigmas*
