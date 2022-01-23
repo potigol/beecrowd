@@ -1,4 +1,4 @@
-# Problemas 3200 (10%)
+# Problemas 3200 (12%)
 
   - [ ]  [3200](https://www.beecrowd.com.br/judge/pt/problems/view/3200) - Card Trick *Ad-Hoc*
   - [ ]  [3201](https://www.beecrowd.com.br/judge/pt/problems/view/3201) - Traveling Salesman *Estruturas e Bibliotecas*
@@ -63,7 +63,7 @@
   - [ ]  [3260](https://www.beecrowd.com.br/judge/pt/problems/view/3260) - Robert Hood *Geometria Computacional*
   - [ ]  [3261](https://www.beecrowd.com.br/judge/pt/problems/view/3261) - Replicação de Vírus *Strings*
   - [ ]  [3262](https://www.beecrowd.com.br/judge/pt/problems/view/3262) - Timebomb *Strings*
-  - [ ]  [3263](https://www.beecrowd.com.br/judge/pt/problems/view/3263) - Apague Com Segurança *Ad-Hoc*
+  - [x]  [3263](https://www.beecrowd.com.br/judge/pt/problems/view/3263) - [Apague Com Segurança](https://github.com/potigol/uoj-potigol/blob/master/src/3200/3263.poti) *Ad-Hoc*
   - [ ]  [3264](https://www.beecrowd.com.br/judge/pt/problems/view/3264) - Pinball *Grafos*
   - [ ]  [3265](https://www.beecrowd.com.br/judge/pt/problems/view/3265) - Reconstrução de Dança *Matemática*
   - [ ]  [3266](https://www.beecrowd.com.br/judge/pt/problems/view/3266) - Dartboard *Matemática*

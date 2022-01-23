@@ -1,4 +1,4 @@
-# Olimpíada de Informática (90 / 215)
+# Olimpíada de Informática (92 / 215)
 
 
 
@@ -50,7 +50,7 @@
   - [ ]  [1928](https://www.beecrowd.com.br/judge/pt/problems/view/1928) - Jogo da Memória *Grafos*
   - [x]  [1929](https://www.beecrowd.com.br/judge/pt/problems/view/1929) - [Triângulo](https://github.com/potigol/uoj-potigol/blob/master/src/1900/1929.poti) *Iniciante*
   - [ ]  [2448](https://www.beecrowd.com.br/judge/pt/problems/view/2448) - Carteiro *Ad-Hoc*
-  - [ ]  [2449](https://www.beecrowd.com.br/judge/pt/problems/view/2449) - Fechadura *Ad-Hoc*
+  - [x]  [2449](https://www.beecrowd.com.br/judge/pt/problems/view/2449) - [Fechadura](https://github.com/potigol/uoj-potigol/blob/master/src/2400/2449.poti) *Ad-Hoc*
   - [ ]  [2450](https://www.beecrowd.com.br/judge/pt/problems/view/2450) - Matriz Escada *Ad-Hoc*
   - [x]  [2451](https://www.beecrowd.com.br/judge/pt/problems/view/2451) - [PacMan](https://github.com/potigol/uoj-potigol/blob/master/src/2400/2451.poti) *Ad-Hoc*
   - [ ]  [2452](https://www.beecrowd.com.br/judge/pt/problems/view/2452) - Semente *Ad-Hoc*
@@ -162,7 +162,7 @@
   - [ ]  [2379](https://www.beecrowd.com.br/judge/pt/problems/view/2379) - Dança Indígena *Ad-Hoc*
   - [ ]  [2380](https://www.beecrowd.com.br/judge/pt/problems/view/2380) - Fusões *Estruturas e Bibliotecas*
   - [x]  [2381](https://www.beecrowd.com.br/judge/pt/problems/view/2381) - [Lista de Chamada](https://github.com/potigol/uoj-potigol/blob/master/src/2300/2381.poti) *Ad-Hoc*
-  - [ ]  [2382](https://www.beecrowd.com.br/judge/pt/problems/view/2382) - Sedex Marciano *Ad-Hoc*
+  - [x]  [2382](https://www.beecrowd.com.br/judge/pt/problems/view/2382) - [Sedex Marciano](https://github.com/potigol/uoj-potigol/blob/master/src/2300/2382.poti) *Ad-Hoc*
   - [ ]  [2383](https://www.beecrowd.com.br/judge/pt/problems/view/2383) - Altas Aventuras *Ad-Hoc*
   - [ ]  [2384](https://www.beecrowd.com.br/judge/pt/problems/view/2384) - Tradutor Alienígena *Ad-Hoc*
   - [ ]  [2385](https://www.beecrowd.com.br/judge/pt/problems/view/2385) - Multiplicação de Matrizes *Ad-Hoc*

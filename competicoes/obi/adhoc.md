@@ -1,4 +1,4 @@
-# Ad-Hoc (71 / 172)
+# Ad-Hoc (73 / 172)
 
 
 
@@ -23,6 +23,7 @@
   - [x]  [2377](https://www.beecrowd.com.br/judge/pt/problems/view/2377) - [Pedágio](https://github.com/potigol/uoj-potigol/blob/master/src/2300/2377.poti)
   - [x]  [2378](https://www.beecrowd.com.br/judge/pt/problems/view/2378) - [Elevador](https://github.com/potigol/uoj-potigol/blob/master/src/2300/2378.poti)
   - [x]  [2381](https://www.beecrowd.com.br/judge/pt/problems/view/2381) - [Lista de Chamada](https://github.com/potigol/uoj-potigol/blob/master/src/2300/2381.poti)
+  - [x]  [2382](https://www.beecrowd.com.br/judge/pt/problems/view/2382) - [Sedex Marciano](https://github.com/potigol/uoj-potigol/blob/master/src/2300/2382.poti)
   - [x]  [2386](https://www.beecrowd.com.br/judge/pt/problems/view/2386) - [Telescópio](https://github.com/potigol/uoj-potigol/blob/master/src/2300/2386.poti)
   - [x]  [2388](https://www.beecrowd.com.br/judge/pt/problems/view/2388) - [Tacógrafo](https://github.com/potigol/uoj-potigol/blob/master/src/2300/2388.poti)
   - [x]  [2389](https://www.beecrowd.com.br/judge/pt/problems/view/2389) - [Floresta](https://github.com/potigol/uoj-potigol/blob/master/src/2300/2389.poti)
@@ -51,6 +52,7 @@
   - [x]  [2441](https://www.beecrowd.com.br/judge/pt/problems/view/2441) - [Janela](https://github.com/potigol/uoj-potigol/blob/master/src/2400/2441.poti)
   - [x]  [2443](https://www.beecrowd.com.br/judge/pt/problems/view/2443) - [Soma de Frações](https://github.com/potigol/uoj-potigol/blob/master/src/2400/2443.poti)
   - [x]  [2444](https://www.beecrowd.com.br/judge/pt/problems/view/2444) - [Volume da TV](https://github.com/potigol/uoj-potigol/blob/master/src/2400/2444.poti)
+  - [x]  [2449](https://www.beecrowd.com.br/judge/pt/problems/view/2449) - [Fechadura](https://github.com/potigol/uoj-potigol/blob/master/src/2400/2449.poti)
   - [x]  [2451](https://www.beecrowd.com.br/judge/pt/problems/view/2451) - [PacMan](https://github.com/potigol/uoj-potigol/blob/master/src/2400/2451.poti)
   - [x]  [2453](https://www.beecrowd.com.br/judge/pt/problems/view/2453) - [Língua do P](https://github.com/potigol/uoj-potigol/blob/master/src/2400/2453.poti)
   - [x]  [2454](https://www.beecrowd.com.br/judge/pt/problems/view/2454) - [Flíper](https://github.com/potigol/uoj-potigol/blob/master/src/2400/2454.poti)
@@ -128,7 +130,6 @@
   - [ ]  [2368](https://www.beecrowd.com.br/judge/pt/problems/view/2368) - Simulador
   - [ ]  [2371](https://www.beecrowd.com.br/judge/pt/problems/view/2371) - Batalha Naval
   - [ ]  [2379](https://www.beecrowd.com.br/judge/pt/problems/view/2379) - Dança Indígena
-  - [ ]  [2382](https://www.beecrowd.com.br/judge/pt/problems/view/2382) - Sedex Marciano
   - [ ]  [2383](https://www.beecrowd.com.br/judge/pt/problems/view/2383) - Altas Aventuras
   - [ ]  [2384](https://www.beecrowd.com.br/judge/pt/problems/view/2384) - Tradutor Alienígena
   - [ ]  [2385](https://www.beecrowd.com.br/judge/pt/problems/view/2385) - Multiplicação de Matrizes
@@ -159,7 +160,6 @@
   - [ ]  [2445](https://www.beecrowd.com.br/judge/pt/problems/view/2445) - Polígono
   - [ ]  [2447](https://www.beecrowd.com.br/judge/pt/problems/view/2447) - Torneio
   - [ ]  [2448](https://www.beecrowd.com.br/judge/pt/problems/view/2448) - Carteiro
-  - [ ]  [2449](https://www.beecrowd.com.br/judge/pt/problems/view/2449) - Fechadura
   - [ ]  [2450](https://www.beecrowd.com.br/judge/pt/problems/view/2450) - Matriz Escada
   - [ ]  [2452](https://www.beecrowd.com.br/judge/pt/problems/view/2452) - Semente
   - [ ]  [2458](https://www.beecrowd.com.br/judge/pt/problems/view/2458) - Setas

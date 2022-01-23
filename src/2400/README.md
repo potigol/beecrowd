@@ -1,4 +1,4 @@
-# Problemas 2400 (41%)
+# Problemas 2400 (42%)
 
   - [ ]  [2400](https://www.beecrowd.com.br/judge/pt/problems/view/2400) - Balé *Ad-Hoc*
   - [ ]  [2401](https://www.beecrowd.com.br/judge/pt/problems/view/2401) - Calculadora *Ad-Hoc*

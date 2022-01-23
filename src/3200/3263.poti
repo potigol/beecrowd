@@ -1,0 +1,8 @@
+n = leia_inteiro
+a, b = leia_texto
+c = se n mod 2 == 0 entao b senao b.mapeie(c => se c == '1' então '0' senão '1' fim) fim
+se a == c então
+    escreva "Deletion succeeded"
+senão
+    escreva "Deletion failed"
+fim

@@ -1,0 +1,26 @@
+pesos = [1,2,3,4,5,6,7,8,9]
+sosep = pesos.inverta
+
+verificadores(digitos: Lista[Inteiro])
+  soma1 = digitos.zip(pesos).mapeie(a => a.primeiro * a.segundo).injete(0)(_ + _)
+  soma2 = digitos.zip(sosep).mapeie(a => a.primeiro * a.segundo).injete(0)(_ + _)
+  b1 = soma1 mod 11 mod 10
+  b2 = soma2 mod 11 mod 10
+  retorne (b1, b2)
+fim
+
+var entrada := leia_texto
+enquanto nao eof faça
+    a123 = entrada.pegue(3)
+    a456 = entrada.descarte(4).pegue(3)
+    a789 = entrada.descarte(8).pegue(3)
+    digitos = "{a123}{a456}{a789}".lista.mapeie(_ - '0')
+    v = verificadores(digitos)
+    b12 = "{v.primeiro}{v.segundo}"
+    se b12 == entrada.descarte(12) entao
+      escreva "CPF valido"
+    senao
+      escreva "CPF invalido"
+    fim
+    entrada := leia_texto
+fim
