@@ -1,0 +1,12 @@
+#eof = falso
+enquanto não eof faça
+    n = leia_inteiros(6)
+    se não eof então
+        distancia = raiz((n[5]-n[2])^2 + (n[6]-n[3])^2)
+        se n[1] >= distancia + n[4] então
+            escreva "RICO"
+        senão
+            escreva "MORTO"
+        fim
+    fim
+fim
