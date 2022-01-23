@@ -44,10 +44,9 @@ Todas as soluções deste repositório foram submetidas e aceitas no URI Online 
 
 Escolha um problema ainda não resolvido e envie sua solução.
 
- - Faça o download da linguagem Potigol http://potigol.github.io
  - Faça um fork deste projeto https://github.com/potigol/uoj-potigol
  - Resolva algum problema ainda não resolvido ou melhore alguma solução já existente
- - Coloque o seu código na pasta correspondente https://github.com/potigol/URI-Potigol/tree/master/src
+ - Coloque o arquivo com a solução na pasta correspondente https://github.com/potigol/uoj-potigol/tree/master/src .
  - **OPCIONAL** Teste a sua solução no URI Online Judge usando o script `./potigol2scala.sh ../src/1000/1000.poti`
  - **OPCIONAL** Execute `scala Build.scala` (Scala 3 ou superior) dentro da pasta `./bin` para atualizar a lista dos problemas resolvidos.
  - Faça um pull request
