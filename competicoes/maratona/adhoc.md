@@ -1,4 +1,4 @@
-# Ad-Hoc (12 / 90)
+# Ad-Hoc (13 / 90)
 
 
 
@@ -6,6 +6,7 @@
 
   - [x]  [1136](https://www.beecrowd.com.br/judge/pt/problems/view/1136) - [Bingo!](https://github.com/potigol/uoj-potigol/blob/master/src/1100/1136.poti)
   - [x]  [1140](https://www.beecrowd.com.br/judge/pt/problems/view/1140) - [Flores Florescem da França](https://github.com/potigol/uoj-potigol/blob/master/src/1100/1140.poti)
+  - [x]  [1266](https://www.beecrowd.com.br/judge/pt/problems/view/1266) - [Tornado!](https://github.com/potigol/uoj-potigol/blob/master/src/1200/1266.poti)
   - [x]  [1285](https://www.beecrowd.com.br/judge/pt/problems/view/1285) - [Dígitos Diferentes](https://github.com/potigol/uoj-potigol/blob/master/src/1200/1285.poti)
   - [x]  [1300](https://www.beecrowd.com.br/judge/pt/problems/view/1300) - [Horas e Minutos](https://github.com/potigol/uoj-potigol/blob/master/src/1300/1300.poti)
   - [x]  [1318](https://www.beecrowd.com.br/judge/pt/problems/view/1318) - [Bilhetes Falsos](https://github.com/potigol/uoj-potigol/blob/master/src/1300/1318.poti)
@@ -20,7 +21,6 @@
 ## Problemas não resolvidos
 
   - [ ]  [1139](https://www.beecrowd.com.br/judge/pt/problems/view/1139) - Necessidades Elétricas
-  - [ ]  [1266](https://www.beecrowd.com.br/judge/pt/problems/view/1266) - Tornado!
   - [ ]  [1267](https://www.beecrowd.com.br/judge/pt/problems/view/1267) - Biblioteca Pascal
   - [ ]  [1271](https://www.beecrowd.com.br/judge/pt/problems/view/1271) - Onde estão meus Genes
   - [ ]  [1311](https://www.beecrowd.com.br/judge/pt/problems/view/1311) - Companheiros de Exército
