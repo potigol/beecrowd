@@ -3,7 +3,7 @@
 [![Join the chat at https://gitter.im/potigol/Potigol](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/potigol/Potigol?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Follow us](https://img.shields.io/twitter/follow/potigol.svg?style=social)](http://twitter.com/potigol)
 [![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/potigol/uoj-potigol)
-[![Soluções](https://img.shields.io/badge/Problemas%20Resolvidos-660-blue)](https://github.com/potigol/URI-Potigol/commits/master)
+[![Soluções](https://img.shields.io/badge/Problemas%20Resolvidos-664-blue)](https://github.com/potigol/URI-Potigol/commits/master)
 
 <!-- a href="https://potigol.github.io/docs/hacktoberfest"><img src="https://hacktoberfest.digitalocean.com/_nuxt/img/logo-hacktoberfest-full.f42e3b1.svg" width=250></a -->
 
@@ -44,10 +44,9 @@ Todas as soluções deste repositório foram submetidas e aceitas no URI Online 
 
 Escolha um problema ainda não resolvido e envie sua solução.
 
- - Faça o download da linguagem Potigol http://potigol.github.io
  - Faça um fork deste projeto https://github.com/potigol/uoj-potigol
  - Resolva algum problema ainda não resolvido ou melhore alguma solução já existente
- - Coloque o seu código na pasta correspondente https://github.com/potigol/URI-Potigol/tree/master/src
+ - Coloque o arquivo com a solução na pasta correspondente https://github.com/potigol/uoj-potigol/tree/master/src .
  - **OPCIONAL** Teste a sua solução no URI Online Judge usando o script `./potigol2scala.sh ../src/1000/1000.poti`
  - **OPCIONAL** Execute `scala Build.scala` (Scala 3 ou superior) dentro da pasta `./bin` para atualizar a lista dos problemas resolvidos.
  - Faça um pull request

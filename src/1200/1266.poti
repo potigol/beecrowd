@@ -1,0 +1,23 @@
+var n := leia_inteiro
+enquanto n <> 0 faça
+    var zero, soma, inicio, postes = 0
+    para numero em leia_texto.selecione(_ <> ' ') faça
+        se numero == '0' entao
+            se inicio == 0 então
+                zero := zero + 1
+            fim
+            postes := postes + 1
+        senao
+            inicio := 1
+            soma := soma + postes div 2
+            postes := 0
+        fim
+    fim
+    se postes > 0 então
+        soma := soma - zero div 2
+        postes := postes + zero
+        soma := soma + postes div 2 
+    fim
+    escreva soma
+    n := leia_inteiro
+fim

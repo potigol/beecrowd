@@ -1,4 +1,4 @@
-# Problemas 1000 (76%)
+# Problemas 1000 (77%)
 
   - [x]  [1000](https://www.beecrowd.com.br/judge/pt/problems/view/1000) - [Hello World!](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1000.poti) *Iniciante*
   - [x]  [1001](https://www.beecrowd.com.br/judge/pt/problems/view/1001) - [Extremamente Básico](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1001.poti) *Iniciante*
@@ -39,7 +39,7 @@
   - [x]  [1036](https://www.beecrowd.com.br/judge/pt/problems/view/1036) - [Fórmula de Bhaskara](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1036.poti) *Iniciante*
   - [x]  [1037](https://www.beecrowd.com.br/judge/pt/problems/view/1037) - [Intervalo](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1037.poti) *Iniciante*
   - [x]  [1038](https://www.beecrowd.com.br/judge/pt/problems/view/1038) - [Lanche](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1038.poti) *Iniciante*
-  - [ ]  [1039](https://www.beecrowd.com.br/judge/pt/problems/view/1039) - Flores de Fogo *Geometria Computacional*
+  - [x]  [1039](https://www.beecrowd.com.br/judge/pt/problems/view/1039) - [Flores de Fogo](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1039.poti) *Geometria Computacional*
   - [x]  [1040](https://www.beecrowd.com.br/judge/pt/problems/view/1040) - [Média 3](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1040.poti) *Iniciante*
   - [x]  [1041](https://www.beecrowd.com.br/judge/pt/problems/view/1041) - [Coordenadas de um Ponto](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1041.poti) *Iniciante*
   - [x]  [1042](https://www.beecrowd.com.br/judge/pt/problems/view/1042) - [Sort Simples](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1042.poti) *Iniciante*
