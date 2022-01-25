@@ -4,7 +4,6 @@ enquanto nao eof faça
   entrada = in.divida(" ").mapeie(_.inteiro)
   n, p = entrada[1], entrada[2]
   k1 =     (n + 1) div 4
-  k2 = 2 * (n + 1) div 4
   k3 = 3 * (n + 1) div 4
   numeros = leia_inteiros(" ").ordene
   q1 = numeros[k1] + (0.25 * (n + 1) - k1) * (numeros[k1+1] - numeros[k1])
