@@ -5,7 +5,7 @@
   - [ ]  [1102](https://www.beecrowd.com.br/judge/pt/problems/view/1102) - Ataque Fulminante *Geometria Computacional*
   - [x]  [1103](https://www.beecrowd.com.br/judge/pt/problems/view/1103) - [Alarme Despertador](https://github.com/potigol/uoj-potigol/blob/master/src/1100/1103.poti) *Ad-Hoc*
   - [x]  [1104](https://www.beecrowd.com.br/judge/pt/problems/view/1104) - [Troca de Cartas](https://github.com/potigol/uoj-potigol/blob/master/src/1100/1104.poti) *Ad-Hoc*
-  - [ ]  [1105](https://www.beecrowd.com.br/judge/pt/problems/view/1105) - Sub-prime *Ad-Hoc*
+  - [x]  [1105](https://www.beecrowd.com.br/judge/pt/problems/view/1105) - [Sub-prime](https://github.com/potigol/uoj-potigol/blob/master/src/1100/1105.poti) *Ad-Hoc*
   - [ ]  [1106](https://www.beecrowd.com.br/judge/pt/problems/view/1106) - Dragster *Paradigmas*
   - [ ]  [1107](https://www.beecrowd.com.br/judge/pt/problems/view/1107) - Escultura à Laser *Ad-Hoc*
   - [ ]  [1108](https://www.beecrowd.com.br/judge/pt/problems/view/1108) - Torres de Telefonia Celular *Geometria Computacional*
