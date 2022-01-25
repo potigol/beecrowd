@@ -67,7 +67,7 @@
   - [x]  [3164](https://www.beecrowd.com.br/judge/pt/problems/view/3164) - [Fiscalizando Empresa](https://github.com/potigol/uoj-potigol/blob/master/src/3100/3164.poti) *Iniciante*
   - [x]  [3165](https://www.beecrowd.com.br/judge/pt/problems/view/3165) - [Primos Gêmeos](https://github.com/potigol/uoj-potigol/blob/master/src/3100/3165.poti) *Matemática*
   - [x]  [3166](https://www.beecrowd.com.br/judge/pt/problems/view/3166) - [Procurando Palavras na Diagonal Principal](https://github.com/potigol/uoj-potigol/blob/master/src/3100/3166.poti) *Iniciante*
-  - [ ]  [3167](https://www.beecrowd.com.br/judge/pt/problems/view/3167) - Procurando Palavras na Diagonal Secundária *Iniciante*
+  - [x]  [3167](https://www.beecrowd.com.br/judge/pt/problems/view/3167) - [Procurando Palavras na Diagonal Secundária](https://github.com/potigol/uoj-potigol/blob/master/src/3100/3167.poti) *Iniciante*
   - [ ]  [3168](https://www.beecrowd.com.br/judge/pt/problems/view/3168) - Aposta dos Gnomos *Ad-Hoc*
   - [ ]  [3169](https://www.beecrowd.com.br/judge/pt/problems/view/3169) - Batendo em Retirada *Grafos*
   - [x]  [3170](https://www.beecrowd.com.br/judge/pt/problems/view/3170) - [Bolinhas de Natal](https://github.com/potigol/uoj-potigol/blob/master/src/3100/3170.poti) *Iniciante*
