@@ -1,0 +1,18 @@
+var n := leia_inteiros(2)
+enquanto n[1] <> 0 ou n[2] <> 0 faça
+    var reservas = leia_inteiros(n[1])
+
+    para i de 1 até n[2] faça
+        m = leia_inteiros(3)
+        reservas[m[2]] := reservas[m[2]] + m[3]
+        reservas[m[1]] := reservas[m[1]] - m[3]
+    fim
+
+    se reservas.selecione(_ < 0).tamanho > 0 então
+        escreva "N"
+    senão
+        escreva "S"
+    fim
+
+    n := leia_inteiros(2)
+fim
