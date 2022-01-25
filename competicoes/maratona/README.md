@@ -1,4 +1,4 @@
-# Maratona de Programação (51 / 367)
+# Maratona de Programação (52 / 367)
 
 
 ## 2020
@@ -467,7 +467,7 @@
 ### 2ª Fase
 
   - [ ]  [1265](https://www.beecrowd.com.br/judge/pt/problems/view/1265) - DJ da Computação *Paradigmas*
-  - [ ]  [1266](https://www.beecrowd.com.br/judge/pt/problems/view/1266) - Tornado! *Ad-Hoc*
+  - [x]  [1266](https://www.beecrowd.com.br/judge/pt/problems/view/1266) - [Tornado!](https://github.com/potigol/uoj-potigol/blob/master/src/1200/1266.poti) *Ad-Hoc*
   - [ ]  [1267](https://www.beecrowd.com.br/judge/pt/problems/view/1267) - Biblioteca Pascal *Ad-Hoc*
   - [ ]  [1268](https://www.beecrowd.com.br/judge/pt/problems/view/1268) - Missão Impossível *Geometria Computacional*
   - [ ]  [1269](https://www.beecrowd.com.br/judge/pt/problems/view/1269) - ICPC Ataca Novamente *Paradigmas*

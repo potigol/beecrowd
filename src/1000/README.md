@@ -1,4 +1,4 @@
-# Problemas 1000 (77%)
+# Problemas 1000 (78%)
 
   - [x]  [1000](https://www.beecrowd.com.br/judge/pt/problems/view/1000) - [Hello World!](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1000.poti) *Iniciante*
   - [x]  [1001](https://www.beecrowd.com.br/judge/pt/problems/view/1001) - [Extremamente Básico](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1001.poti) *Iniciante*
@@ -32,7 +32,7 @@
   - [x]  [1029](https://www.beecrowd.com.br/judge/pt/problems/view/1029) - [Fibonacci, Quantas Chamadas?](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1029.poti) *Paradigmas*
   - [x]  [1030](https://www.beecrowd.com.br/judge/pt/problems/view/1030) - [A Lenda de Flavious Josephus](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1030.poti) *Ad-Hoc*
   - [x]  [1031](https://www.beecrowd.com.br/judge/pt/problems/view/1031) - [Crise de Energia](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1031.poti) *Ad-Hoc*
-  - [ ]  [1032](https://www.beecrowd.com.br/judge/pt/problems/view/1032) - O Primo de Josephus *Ad-Hoc*
+  - [x]  [1032](https://www.beecrowd.com.br/judge/pt/problems/view/1032) - [O Primo de Josephus](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1032.poti) *Ad-Hoc*
   - [ ]  [1033](https://www.beecrowd.com.br/judge/pt/problems/view/1033) - Quantas Chamadas Recursivas? *Paradigmas*
   - [ ]  [1034](https://www.beecrowd.com.br/judge/pt/problems/view/1034) - Festival de Estátuas de Gelo *Paradigmas*
   - [x]  [1035](https://www.beecrowd.com.br/judge/pt/problems/view/1035) - [Teste de Seleção 1](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1035.poti) *Iniciante*
