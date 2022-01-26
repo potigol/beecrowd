@@ -1,23 +1,23 @@
 contem(texto, palavra: Texto) =
     texto.contains(palavra) ou texto.contains(palavra.inverta)
-  
+
 entrada = leia_inteiros(" ")
-n, m, p = entrada[1], entrada[2], entrada[3]
+n, m = entrada[1], entrada[2]
 palavras = leia_textos(n).mapeie(_.minusculo)
-letras = leia_textos(m).mapeie(_.minusculo)
+letras = leia_textos(m).mapeie(_.minusculo).junte("")
 
-principal = para i de 1 ate m gere letras[i][i] fim.junte("")
-superior = para i de 1 ate m-6 gere para j de 1 ate m-i gere letras[j][i+j] fim.junte("") fim
-inferior = para i de 1 ate m-6 gere para j de 1 ate m-i gere letras[i+j][j] fim.junte("") fim
+principal = para i de 1 ate m gere letras[(i - 1) * m + i] fim.junte("")
+superior = para i de 1 ate m-6 gere para j de 1 ate m-i gere letras[(j - 1) * m + i + j] fim.junte("") fim.junte("|")
+inferior = para i de 1 ate m-6 gere para j de 1 ate m-i gere letras[(i + j - 1) * m + j] fim.junte("") fim.junte("|")
 
-para p em palavras faca
-    se contem(principal, p) entao
-        escreva "1 Palavra {'"'}{p}{'"'} na diagonal principal"
-    senaose contem(superior.junte("|"), p) entao
-        escreva "2 Palavra {'"'}{p}{'"'} acima da diagonal principal"
-    senaose contem(inferior.junte("|"), p) entao
-        escreva "3 Palavra {'"'}{p}{'"'} abaixo da diagonal principal"
+para palavra em palavras faca
+    se contem(principal, palavra) entao
+        escreva "1 Palavra {'"'}{palavra}{'"'} na diagonal principal"
+    senaose contem(superior, palavra) entao
+        escreva "2 Palavra {'"'}{palavra}{'"'} acima da diagonal principal"
+    senaose contem(inferior, palavra) entao
+        escreva "3 Palavra {'"'}{palavra}{'"'} abaixo da diagonal principal"
     senao
-        escreva "4 Palavra {'"'}{p}{'"'} inexistente"
+        escreva "4 Palavra {'"'}{palavra}{'"'} inexistente"
     fim
 fim
