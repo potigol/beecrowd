@@ -4,18 +4,18 @@ contem(texto, palavra: Texto) =
 entrada = leia_inteiros(" ")
 n, m, p = entrada[1], entrada[2], entrada[3]
 palavras = leia_textos(n).mapeie(_.minusculo)
-letras = leia_textos(m).mapeie(_.minusculo)
+letras = leia_textos(m).mapeie(_.minusculo).junte("")
 
-secundaria = para i de 1 ate m gere letras[i][m-i+1] fim.junte("")
-superior = para i de 1 ate m-6 gere para j de 1 ate m-i gere letras[j][m-i-j+1] fim.junte("") fim
-inferior = para i de 1 ate m-6 gere para j de 1 ate m-i gere letras[m-j+1][i+j] fim.junte("") fim
+secundaria = para i de 1 ate m gere letras[i * (m - 1) + 1] fim.junte("")
+superior = para i de 1 ate m-6 gere para j de 1 ate m-i gere letras[j * (m - 1) - i + 1] fim.junte("") fim.junte("|")
+inferior = para i de 1 ate m-6 gere para j de 1 ate m-i gere letras[(m - j) * m + i + j] fim.junte("") fim.junte("|")
 
 para p em palavras faca
     se contem(secundaria, p) entao
         escreva "1 Palavra {'"'}{p}{'"'} na diagonal secundaria"
-    senaose contem(superior.junte("|"), p) entao
+    senaose contem(superior, p) entao
         escreva "2 Palavra {'"'}{p}{'"'} acima da diagonal secundaria"
-    senaose contem(inferior.junte("|"), p) entao
+    senaose contem(inferior, p) entao
         escreva "3 Palavra {'"'}{p}{'"'} abaixo da diagonal secundaria"
     senao
         escreva "4 Palavra {'"'}{p}{'"'} inexistente"
