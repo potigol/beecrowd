@@ -1,4 +1,4 @@
-# Ad-Hoc (174 / 732)
+# Ad-Hoc (176 / 732)
 
 
 
@@ -13,6 +13,7 @@
   - [x]  [1091](https://www.beecrowd.com.br/judge/pt/problems/view/1091) - [Divisão da Nlogônia](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1091.poti)
   - [x]  [1103](https://www.beecrowd.com.br/judge/pt/problems/view/1103) - [Alarme Despertador](https://github.com/potigol/uoj-potigol/blob/master/src/1100/1103.poti)
   - [x]  [1104](https://www.beecrowd.com.br/judge/pt/problems/view/1104) - [Troca de Cartas](https://github.com/potigol/uoj-potigol/blob/master/src/1100/1104.poti)
+  - [x]  [1105](https://www.beecrowd.com.br/judge/pt/problems/view/1105) - [Sub-prime](https://github.com/potigol/uoj-potigol/blob/master/src/1100/1105.poti)
   - [x]  [1129](https://www.beecrowd.com.br/judge/pt/problems/view/1129) - [Leitura Ótica](https://github.com/potigol/uoj-potigol/blob/master/src/1100/1129.poti)
   - [x]  [1136](https://www.beecrowd.com.br/judge/pt/problems/view/1136) - [Bingo!](https://github.com/potigol/uoj-potigol/blob/master/src/1100/1136.poti)
   - [x]  [1140](https://www.beecrowd.com.br/judge/pt/problems/view/1140) - [Flores Florescem da França](https://github.com/potigol/uoj-potigol/blob/master/src/1100/1140.poti)
@@ -49,6 +50,7 @@
   - [x]  [1609](https://www.beecrowd.com.br/judge/pt/problems/view/1609) - [Contando Carneirinhos](https://github.com/potigol/uoj-potigol/blob/master/src/1600/1609.poti)
   - [x]  [1708](https://www.beecrowd.com.br/judge/pt/problems/view/1708) - [Volta](https://github.com/potigol/uoj-potigol/blob/master/src/1700/1708.poti)
   - [x]  [1743](https://www.beecrowd.com.br/judge/pt/problems/view/1743) - [Máquina de Verificação Automatizada](https://github.com/potigol/uoj-potigol/blob/master/src/1700/1743.poti)
+  - [x]  [1765](https://www.beecrowd.com.br/judge/pt/problems/view/1765) - [Trapézios de Natal](https://github.com/potigol/uoj-potigol/blob/master/src/1700/1765.poti)
   - [x]  [1769](https://www.beecrowd.com.br/judge/pt/problems/view/1769) - [CPF 1](https://github.com/potigol/uoj-potigol/blob/master/src/1700/1769.poti)
   - [x]  [1786](https://www.beecrowd.com.br/judge/pt/problems/view/1786) - [CPF 2](https://github.com/potigol/uoj-potigol/blob/master/src/1700/1786.poti)
   - [x]  [1793](https://www.beecrowd.com.br/judge/pt/problems/view/1793) - [Escada Rolante](https://github.com/potigol/uoj-potigol/blob/master/src/1700/1793.poti)
@@ -184,7 +186,6 @@
   - [ ]  [1086](https://www.beecrowd.com.br/judge/pt/problems/view/1086) - O Salão do Clube
   - [ ]  [1090](https://www.beecrowd.com.br/judge/pt/problems/view/1090) - Set
   - [ ]  [1092](https://www.beecrowd.com.br/judge/pt/problems/view/1092) - Maior Subseqüência Crescente
-  - [ ]  [1105](https://www.beecrowd.com.br/judge/pt/problems/view/1105) - Sub-prime
   - [ ]  [1107](https://www.beecrowd.com.br/judge/pt/problems/view/1107) - Escultura à Laser
   - [ ]  [1109](https://www.beecrowd.com.br/judge/pt/problems/view/1109) - Burlando a Maratona
   - [ ]  [1121](https://www.beecrowd.com.br/judge/pt/problems/view/1121) - Robô Colecionador
@@ -300,7 +301,6 @@
   - [ ]  [1753](https://www.beecrowd.com.br/judge/pt/problems/view/1753) - Cavaleiros Da Tàvola Redonda
   - [ ]  [1755](https://www.beecrowd.com.br/judge/pt/problems/view/1755) - O Troco
   - [ ]  [1758](https://www.beecrowd.com.br/judge/pt/problems/view/1758) - Pontos Extras
-  - [ ]  [1765](https://www.beecrowd.com.br/judge/pt/problems/view/1765) - Trapézios de Natal
   - [ ]  [1770](https://www.beecrowd.com.br/judge/pt/problems/view/1770) - Shuffle
   - [ ]  [1771](https://www.beecrowd.com.br/judge/pt/problems/view/1771) - Cartelas de Bingo Aleatórias
   - [ ]  [1772](https://www.beecrowd.com.br/judge/pt/problems/view/1772) - Embaralhamento de Bits

@@ -1,4 +1,4 @@
-# Problemas 1700 (17%)
+# Problemas 1700 (18%)
 
   - [ ]  [1700](https://www.beecrowd.com.br/judge/pt/problems/view/1700) - Antenas *Paradigmas*
   - [ ]  [1701](https://www.beecrowd.com.br/judge/pt/problems/view/1701) - Sequência de Fibo *Estruturas e Bibliotecas*

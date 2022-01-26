@@ -1,4 +1,4 @@
-# Problemas 1100 (66%)
+# Problemas 1100 (67%)
 
   - [ ]  [1100](https://www.beecrowd.com.br/judge/pt/problems/view/1100) - Movimentos do Cavalo *Grafos*
   - [x]  [1101](https://www.beecrowd.com.br/judge/pt/problems/view/1101) - [Sequência de Números e Soma](https://github.com/potigol/uoj-potigol/blob/master/src/1100/1101.poti) *Iniciante*
