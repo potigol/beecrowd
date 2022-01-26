@@ -1,4 +1,4 @@
-# Problemas 3100 (29%)
+# Problemas 3100 (30%)
 
   - [ ]  [3100](https://www.beecrowd.com.br/judge/pt/problems/view/3100) - Os Dígitos da Sorte *Strings*
   - [ ]  [3101](https://www.beecrowd.com.br/judge/pt/problems/view/3101) - Famílias Poligâmicas *Grafos*
