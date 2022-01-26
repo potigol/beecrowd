@@ -1,4 +1,4 @@
-# Ad-Hoc (176 / 732)
+# Ad-Hoc (177 / 732)
 
 
 
@@ -14,6 +14,7 @@
   - [x]  [1103](https://www.beecrowd.com.br/judge/pt/problems/view/1103) - [Alarme Despertador](https://github.com/potigol/uoj-potigol/blob/master/src/1100/1103.poti)
   - [x]  [1104](https://www.beecrowd.com.br/judge/pt/problems/view/1104) - [Troca de Cartas](https://github.com/potigol/uoj-potigol/blob/master/src/1100/1104.poti)
   - [x]  [1105](https://www.beecrowd.com.br/judge/pt/problems/view/1105) - [Sub-prime](https://github.com/potigol/uoj-potigol/blob/master/src/1100/1105.poti)
+  - [x]  [1107](https://www.beecrowd.com.br/judge/pt/problems/view/1107) - [Escultura à Laser](https://github.com/potigol/uoj-potigol/blob/master/src/1100/1107.poti)
   - [x]  [1129](https://www.beecrowd.com.br/judge/pt/problems/view/1129) - [Leitura Ótica](https://github.com/potigol/uoj-potigol/blob/master/src/1100/1129.poti)
   - [x]  [1136](https://www.beecrowd.com.br/judge/pt/problems/view/1136) - [Bingo!](https://github.com/potigol/uoj-potigol/blob/master/src/1100/1136.poti)
   - [x]  [1140](https://www.beecrowd.com.br/judge/pt/problems/view/1140) - [Flores Florescem da França](https://github.com/potigol/uoj-potigol/blob/master/src/1100/1140.poti)
@@ -186,7 +187,6 @@
   - [ ]  [1086](https://www.beecrowd.com.br/judge/pt/problems/view/1086) - O Salão do Clube
   - [ ]  [1090](https://www.beecrowd.com.br/judge/pt/problems/view/1090) - Set
   - [ ]  [1092](https://www.beecrowd.com.br/judge/pt/problems/view/1092) - Maior Subseqüência Crescente
-  - [ ]  [1107](https://www.beecrowd.com.br/judge/pt/problems/view/1107) - Escultura à Laser
   - [ ]  [1109](https://www.beecrowd.com.br/judge/pt/problems/view/1109) - Burlando a Maratona
   - [ ]  [1121](https://www.beecrowd.com.br/judge/pt/problems/view/1121) - Robô Colecionador
   - [ ]  [1122](https://www.beecrowd.com.br/judge/pt/problems/view/1122) - Livro-Caixa

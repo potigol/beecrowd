@@ -1,4 +1,4 @@
-# Maratona de Programação (53 / 367)
+# Maratona de Programação (54 / 367)
 
 
 ## 2020
@@ -353,7 +353,7 @@
   - [x]  [1104](https://www.beecrowd.com.br/judge/pt/problems/view/1104) - [Troca de Cartas](https://github.com/potigol/uoj-potigol/blob/master/src/1100/1104.poti) *Ad-Hoc*
   - [x]  [1105](https://www.beecrowd.com.br/judge/pt/problems/view/1105) - [Sub-prime](https://github.com/potigol/uoj-potigol/blob/master/src/1100/1105.poti) *Ad-Hoc*
   - [ ]  [1106](https://www.beecrowd.com.br/judge/pt/problems/view/1106) - Dragster *Paradigmas*
-  - [ ]  [1107](https://www.beecrowd.com.br/judge/pt/problems/view/1107) - Escultura à Laser *Ad-Hoc*
+  - [x]  [1107](https://www.beecrowd.com.br/judge/pt/problems/view/1107) - [Escultura à Laser](https://github.com/potigol/uoj-potigol/blob/master/src/1100/1107.poti) *Ad-Hoc*
   - [ ]  [1108](https://www.beecrowd.com.br/judge/pt/problems/view/1108) - Torres de Telefonia Celular *Geometria Computacional*
   - [ ]  [1949](https://www.beecrowd.com.br/judge/pt/problems/view/1949) - Registrador de Deslocamento *Matemática*
 
