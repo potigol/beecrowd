@@ -1,4 +1,4 @@
-# Iniciante (321 / 339)
+# Iniciante (322 / 339)
 
 
 
@@ -304,6 +304,7 @@
   - [x]  [3166](https://www.beecrowd.com.br/judge/pt/problems/view/3166) - [Procurando Palavras na Diagonal Principal](https://github.com/potigol/uoj-potigol/blob/master/src/3100/3166.poti)
   - [x]  [3167](https://www.beecrowd.com.br/judge/pt/problems/view/3167) - [Procurando Palavras na Diagonal Secundária](https://github.com/potigol/uoj-potigol/blob/master/src/3100/3167.poti)
   - [x]  [3170](https://www.beecrowd.com.br/judge/pt/problems/view/3170) - [Bolinhas de Natal](https://github.com/potigol/uoj-potigol/blob/master/src/3100/3170.poti)
+  - [x]  [3173](https://www.beecrowd.com.br/judge/pt/problems/view/3173) - [Estrela de Natal](https://github.com/potigol/uoj-potigol/blob/master/src/3100/3173.poti)
   - [x]  [3174](https://www.beecrowd.com.br/judge/pt/problems/view/3174) - [Grupo de Trabalho do Noel](https://github.com/potigol/uoj-potigol/blob/master/src/3100/3174.poti)
   - [x]  [3204](https://www.beecrowd.com.br/judge/pt/problems/view/3204) - [Honeycomb Walk](https://github.com/potigol/uoj-potigol/blob/master/src/3200/3204.poti)
   - [x]  [3208](https://www.beecrowd.com.br/judge/pt/problems/view/3208) - [O Criptógrafo Envergonhado](https://github.com/potigol/uoj-potigol/blob/master/src/3200/3208.poti)
@@ -329,7 +330,6 @@
 ## Problemas não resolvidos
 
   - [ ]  [2769](https://www.beecrowd.com.br/judge/pt/problems/view/2769) - Linha de Montagem
-  - [ ]  [3173](https://www.beecrowd.com.br/judge/pt/problems/view/3173) - Estrela de Natal
   - [ ]  [3181](https://www.beecrowd.com.br/judge/pt/problems/view/3181) - Jantar
   - [ ]  [3217](https://www.beecrowd.com.br/judge/pt/problems/view/3217) - Chuva Caindo
   - [ ]  [3229](https://www.beecrowd.com.br/judge/pt/problems/view/3229) - Resenhas de Comida
