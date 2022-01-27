@@ -1,0 +1,14 @@
+var entrada := leia_inteiros(2)
+enquanto entrada[1] <> 0 faça
+  altura, comprimento = entrada[1], entrada[2]
+  xs = leia_inteiros(" ")
+  var quantidade, anterior := altura - xs[1], xs[1]
+  para x em xs.cauda faca
+    se x < anterior entao
+      quantidade := quantidade + anterior - x
+    fim
+    anterior := x
+  fim
+  escreva quantidade
+  entrada := leia_inteiros(2)
+fim
