@@ -1,0 +1,15 @@
+n = leia_inteiros(3)
+var pos := 1
+var cont := se n[3] == 1 então 1 senão 0 fim
+para comando em leia_inteiros(n[2]) faça
+    pos := pos + comando
+    se pos > n[1] então 
+        pos := 1
+    senãose pos < 1 então 
+        pos := n[1]
+    fim
+    se pos == n[3] então
+        cont := cont + 1
+    fim
+fim
+escreva cont
