@@ -1,4 +1,4 @@
-# Ad-Hoc (13 / 90)
+# Ad-Hoc (14 / 90)
 
 
 
@@ -16,6 +16,7 @@
   - [x]  [1441](https://www.beecrowd.com.br/judge/pt/problems/view/1441) - [Sequências de Granizo](https://github.com/potigol/uoj-potigol/blob/master/src/1400/1441.poti)
   - [x]  [1743](https://www.beecrowd.com.br/judge/pt/problems/view/1743) - [Máquina de Verificação Automatizada](https://github.com/potigol/uoj-potigol/blob/master/src/1700/1743.poti)
   - [x]  [2345](https://www.beecrowd.com.br/judge/pt/problems/view/2345) - [Assigning Teams](https://github.com/potigol/uoj-potigol/blob/master/src/2300/2345.poti)
+  - [x]  [2349](https://www.beecrowd.com.br/judge/pt/problems/view/2349) - [Farm Robot](https://github.com/potigol/uoj-potigol/blob/master/src/2300/2349.poti)
   - [x]  [3024](https://www.beecrowd.com.br/judge/pt/problems/view/3024) - [Mountain Ranges](https://github.com/potigol/uoj-potigol/blob/master/src/3000/3024.poti)
 
 ## Problemas não resolvidos
@@ -65,7 +66,6 @@
   - [ ]  [2346](https://www.beecrowd.com.br/judge/pt/problems/view/2346) - Back to the Future
   - [ ]  [2347](https://www.beecrowd.com.br/judge/pt/problems/view/2347) - Counting Self-Rotating Subsets
   - [ ]  [2348](https://www.beecrowd.com.br/judge/pt/problems/view/2348) - Dating On-Line
-  - [ ]  [2349](https://www.beecrowd.com.br/judge/pt/problems/view/2349) - Farm Robot
   - [ ]  [2350](https://www.beecrowd.com.br/judge/pt/problems/view/2350) - Game of Matchings
   - [ ]  [2351](https://www.beecrowd.com.br/judge/pt/problems/view/2351) - Hotel Rewards
   - [ ]  [2352](https://www.beecrowd.com.br/judge/pt/problems/view/2352) - Internet Trouble

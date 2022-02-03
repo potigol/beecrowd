@@ -1,4 +1,4 @@
-# Maratona de Programação (54 / 367)
+# Maratona de Programação (55 / 367)
 
 
 ## 2020
@@ -149,7 +149,7 @@
   - [ ]  [2346](https://www.beecrowd.com.br/judge/pt/problems/view/2346) - Back to the Future *Ad-Hoc*
   - [ ]  [2347](https://www.beecrowd.com.br/judge/pt/problems/view/2347) - Counting Self-Rotating Subsets *Ad-Hoc*
   - [ ]  [2348](https://www.beecrowd.com.br/judge/pt/problems/view/2348) - Dating On-Line *Ad-Hoc*
-  - [ ]  [2349](https://www.beecrowd.com.br/judge/pt/problems/view/2349) - Farm Robot *Ad-Hoc*
+  - [x]  [2349](https://www.beecrowd.com.br/judge/pt/problems/view/2349) - [Farm Robot](https://github.com/potigol/uoj-potigol/blob/master/src/2300/2349.poti) *Ad-Hoc*
   - [ ]  [2350](https://www.beecrowd.com.br/judge/pt/problems/view/2350) - Game of Matchings *Ad-Hoc*
   - [ ]  [2351](https://www.beecrowd.com.br/judge/pt/problems/view/2351) - Hotel Rewards *Ad-Hoc*
   - [ ]  [2352](https://www.beecrowd.com.br/judge/pt/problems/view/2352) - Internet Trouble *Ad-Hoc*

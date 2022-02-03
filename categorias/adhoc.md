@@ -1,4 +1,4 @@
-# Ad-Hoc (177 / 732)
+# Ad-Hoc (178 / 732)
 
 
 
@@ -84,6 +84,7 @@
   - [x]  [2341](https://www.beecrowd.com.br/judge/pt/problems/view/2341) - [Número de Envelopes](https://github.com/potigol/uoj-potigol/blob/master/src/2300/2341.poti)
   - [x]  [2342](https://www.beecrowd.com.br/judge/pt/problems/view/2342) - [Overflow](https://github.com/potigol/uoj-potigol/blob/master/src/2300/2342.poti)
   - [x]  [2345](https://www.beecrowd.com.br/judge/pt/problems/view/2345) - [Assigning Teams](https://github.com/potigol/uoj-potigol/blob/master/src/2300/2345.poti)
+  - [x]  [2349](https://www.beecrowd.com.br/judge/pt/problems/view/2349) - [Farm Robot](https://github.com/potigol/uoj-potigol/blob/master/src/2300/2349.poti)
   - [x]  [2355](https://www.beecrowd.com.br/judge/pt/problems/view/2355) - [Brasil e Alemanha](https://github.com/potigol/uoj-potigol/blob/master/src/2300/2355.poti)
   - [x]  [2369](https://www.beecrowd.com.br/judge/pt/problems/view/2369) - [Conta de Água](https://github.com/potigol/uoj-potigol/blob/master/src/2300/2369.poti)
   - [x]  [2373](https://www.beecrowd.com.br/judge/pt/problems/view/2373) - [Garçom](https://github.com/potigol/uoj-potigol/blob/master/src/2300/2373.poti)
@@ -488,7 +489,6 @@
   - [ ]  [2346](https://www.beecrowd.com.br/judge/pt/problems/view/2346) - Back to the Future
   - [ ]  [2347](https://www.beecrowd.com.br/judge/pt/problems/view/2347) - Counting Self-Rotating Subsets
   - [ ]  [2348](https://www.beecrowd.com.br/judge/pt/problems/view/2348) - Dating On-Line
-  - [ ]  [2349](https://www.beecrowd.com.br/judge/pt/problems/view/2349) - Farm Robot
   - [ ]  [2350](https://www.beecrowd.com.br/judge/pt/problems/view/2350) - Game of Matchings
   - [ ]  [2351](https://www.beecrowd.com.br/judge/pt/problems/view/2351) - Hotel Rewards
   - [ ]  [2352](https://www.beecrowd.com.br/judge/pt/problems/view/2352) - Internet Trouble
