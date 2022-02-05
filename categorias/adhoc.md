@@ -1,4 +1,4 @@
-# Ad-Hoc (178 / 732)
+# Ad-Hoc (179 / 732)
 
 
 
@@ -23,6 +23,7 @@
   - [x]  [1196](https://www.beecrowd.com.br/judge/pt/problems/view/1196) - [WERTYU](https://github.com/potigol/uoj-potigol/blob/master/src/1100/1196.poti)
   - [x]  [1216](https://www.beecrowd.com.br/judge/pt/problems/view/1216) - [Getline One](https://github.com/potigol/uoj-potigol/blob/master/src/1200/1216.poti)
   - [x]  [1217](https://www.beecrowd.com.br/judge/pt/problems/view/1217) - [Getline Two - Frutas](https://github.com/potigol/uoj-potigol/blob/master/src/1200/1217.poti)
+  - [x]  [1218](https://www.beecrowd.com.br/judge/pt/problems/view/1218) - [Getline Three - Calçados](https://github.com/potigol/uoj-potigol/blob/master/src/1200/1218.poti)
   - [x]  [1225](https://www.beecrowd.com.br/judge/pt/problems/view/1225) - [Coral Perfeito](https://github.com/potigol/uoj-potigol/blob/master/src/1200/1225.poti)
   - [x]  [1245](https://www.beecrowd.com.br/judge/pt/problems/view/1245) - [Botas Perdidas](https://github.com/potigol/uoj-potigol/blob/master/src/1200/1245.poti)
   - [x]  [1266](https://www.beecrowd.com.br/judge/pt/problems/view/1266) - [Tornado!](https://github.com/potigol/uoj-potigol/blob/master/src/1200/1266.poti)
@@ -198,7 +199,6 @@
   - [ ]  [1147](https://www.beecrowd.com.br/judge/pt/problems/view/1147) - Fuga do Cavalo
   - [ ]  [1206](https://www.beecrowd.com.br/judge/pt/problems/view/1206) - Desafio de São Petersburgo
   - [ ]  [1209](https://www.beecrowd.com.br/judge/pt/problems/view/1209) - Festas de São Petersburgo
-  - [ ]  [1218](https://www.beecrowd.com.br/judge/pt/problems/view/1218) - Getline Three - Calçados
   - [ ]  [1228](https://www.beecrowd.com.br/judge/pt/problems/view/1228) - Grid de Largada
   - [ ]  [1246](https://www.beecrowd.com.br/judge/pt/problems/view/1246) - Estacionamento
   - [ ]  [1250](https://www.beecrowd.com.br/judge/pt/problems/view/1250) - KiloMan
