@@ -1,0 +1,15 @@
+var c := 0
+var n := leia_texto
+enquanto nao eof faca
+  c := c + 1
+  entrada = leia_textos(" ")
+  pares = entrada.zip(entrada.cauda).selecione(a => a.primeiro == n)
+  feminino = pares.selecione(a => a.segundo == "F").tamanho
+  masculino = pares.tamanho - feminino
+  se c > 1 entao escreva "" fim
+  escreva "Caso {c}:"
+  escreva "Pares Iguais: {feminino + masculino}"
+  escreva "F: {feminino}"
+  escreva "M: {masculino}"
+  n := leia_texto
+fim
