@@ -1,0 +1,5 @@
+min(x, y: Inteiro) = se x < y então x senão y fim
+max(x, y: Inteiro) = se x > y então x senão y fim
+
+n = leia_inteiros(4)
+escreva (min(min(n[1], n[2]) + min(n[3], n[4]), min(max(n[1], n[2]), max(n[3], n[4]))) ^ 2).inteiro

@@ -49,7 +49,7 @@
   - [ ]  [1846](https://www.beecrowd.com.br/judge/pt/problems/view/1846) - Numero Para Nome *Strings*
   - [x]  [1847](https://www.beecrowd.com.br/judge/pt/problems/view/1847) - [Bem-vindos e Bem-vindas ao Inverno!](https://github.com/potigol/uoj-potigol/blob/master/src/1800/1847.poti) *Iniciante*
   - [x]  [1848](https://www.beecrowd.com.br/judge/pt/problems/view/1848) - [Corvo Contador](https://github.com/potigol/uoj-potigol/blob/master/src/1800/1848.poti) *Iniciante*
-  - [ ]  [1849](https://www.beecrowd.com.br/judge/pt/problems/view/1849) - Dracarys! *Ad-Hoc*
+  - [x]  [1849](https://www.beecrowd.com.br/judge/pt/problems/view/1849) - [Dracarys!](https://github.com/potigol/uoj-potigol/blob/master/src/1800/1849.poti) *Ad-Hoc*
   - [ ]  [1850](https://www.beecrowd.com.br/judge/pt/problems/view/1850) - O Labirinto de Ninguém *Grafos*
   - [ ]  [1851](https://www.beecrowd.com.br/judge/pt/problems/view/1851) - Como Treinar Seu Dragão *Estruturas e Bibliotecas*
   - [ ]  [1852](https://www.beecrowd.com.br/judge/pt/problems/view/1852) - Lobos Stark *Paradigmas*
