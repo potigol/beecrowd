@@ -4,7 +4,7 @@
 
 ## Problemas resolvidos
 
-  - [x]  [2906](https://www.beecrowd.com.br/judge/pt/problems/view/2906) - [Database of Clients](https://github.com/potigol/uoj-potigol/blob/master/src/2900/2906.poti)
+  - [x]  [2906](https://www.beecrowd.com.br/judge/pt/problems/view/2906) - [Database of Clients](https://github.com/potigol/beecrowd/blob/master/src/2900/2906.poti)
 
 ## Problemas não resolvidos
 

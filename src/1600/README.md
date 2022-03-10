@@ -7,9 +7,9 @@
   - [ ]  [1604](https://www.beecrowd.com.br/judge/pt/problems/view/1604) - Pair-voting no Conselho de Gueliz *Paradigmas*
   - [ ]  [1605](https://www.beecrowd.com.br/judge/pt/problems/view/1605) - Montando Sua Própria Cáfila *Paradigmas*
   - [ ]  [1606](https://www.beecrowd.com.br/judge/pt/problems/view/1606) - As Dicas de Ali Babá *Paradigmas*
-  - [x]  [1607](https://www.beecrowd.com.br/judge/pt/problems/view/1607) - [Avance as Letras](https://github.com/potigol/uoj-potigol/blob/master/src/1600/1607.poti) *Strings*
+  - [x]  [1607](https://www.beecrowd.com.br/judge/pt/problems/view/1607) - [Avance as Letras](https://github.com/potigol/beecrowd/blob/master/src/1600/1607.poti) *Strings*
   - [ ]  [1608](https://www.beecrowd.com.br/judge/pt/problems/view/1608) - Bolos da Maria *Paradigmas*
-  - [x]  [1609](https://www.beecrowd.com.br/judge/pt/problems/view/1609) - [Contando Carneirinhos](https://github.com/potigol/uoj-potigol/blob/master/src/1600/1609.poti) *Ad-Hoc*
+  - [x]  [1609](https://www.beecrowd.com.br/judge/pt/problems/view/1609) - [Contando Carneirinhos](https://github.com/potigol/beecrowd/blob/master/src/1600/1609.poti) *Ad-Hoc*
   - [ ]  [1610](https://www.beecrowd.com.br/judge/pt/problems/view/1610) - Dudu Faz Serviço *Grafos*
   - [ ]  [1611](https://www.beecrowd.com.br/judge/pt/problems/view/1611) - Elevador Lotado *Paradigmas*
   - [ ]  [1612](https://www.beecrowd.com.br/judge/pt/problems/view/1612) - Formiguinha *Ad-Hoc*
@@ -30,9 +30,9 @@
   - [ ]  [1627](https://www.beecrowd.com.br/judge/pt/problems/view/1627) - Último Dano *Ad-Hoc*
   - [ ]  [1628](https://www.beecrowd.com.br/judge/pt/problems/view/1628) - ChessGuess *Grafos*
   - [ ]  [1629](https://www.beecrowd.com.br/judge/pt/problems/view/1629) - DescompactaFACE *Strings*
-  - [x]  [1630](https://www.beecrowd.com.br/judge/pt/problems/view/1630) - [Estacas](https://github.com/potigol/uoj-potigol/blob/master/src/1600/1630.poti) *Matemática*
+  - [x]  [1630](https://www.beecrowd.com.br/judge/pt/problems/view/1630) - [Estacas](https://github.com/potigol/beecrowd/blob/master/src/1600/1630.poti) *Matemática*
   - [ ]  [1631](https://www.beecrowd.com.br/judge/pt/problems/view/1631) - O Fantástico Bolo de Bobby *Geometria Computacional*
-  - [x]  [1632](https://www.beecrowd.com.br/judge/pt/problems/view/1632) - [Variações](https://github.com/potigol/uoj-potigol/blob/master/src/1600/1632.poti) *Strings*
+  - [x]  [1632](https://www.beecrowd.com.br/judge/pt/problems/view/1632) - [Variações](https://github.com/potigol/beecrowd/blob/master/src/1600/1632.poti) *Strings*
   - [ ]  [1633](https://www.beecrowd.com.br/judge/pt/problems/view/1633) - SBC *Estruturas e Bibliotecas*
   - [ ]  [1634](https://www.beecrowd.com.br/judge/pt/problems/view/1634) - Outra Loteria *Matemática*
   - [ ]  [1635](https://www.beecrowd.com.br/judge/pt/problems/view/1635) - Resultado das Eleições *Matemática*
@@ -47,10 +47,10 @@
   - [ ]  [1644](https://www.beecrowd.com.br/judge/pt/problems/view/1644) - Decifre o Texto *Matemática*
   - [ ]  [1645](https://www.beecrowd.com.br/judge/pt/problems/view/1645) - El Dorado *Paradigmas*
   - [ ]  [1646](https://www.beecrowd.com.br/judge/pt/problems/view/1646) - Floresta *Geometria Computacional*
-  - [x]  [1647](https://www.beecrowd.com.br/judge/pt/problems/view/1647) - [Um Jogo com Bolas de Gude](https://github.com/potigol/uoj-potigol/blob/master/src/1600/1647.poti) *Matemática*
+  - [x]  [1647](https://www.beecrowd.com.br/judge/pt/problems/view/1647) - [Um Jogo com Bolas de Gude](https://github.com/potigol/beecrowd/blob/master/src/1600/1647.poti) *Matemática*
   - [ ]  [1648](https://www.beecrowd.com.br/judge/pt/problems/view/1648) - Ajude Bob *Paradigmas*
   - [ ]  [1649](https://www.beecrowd.com.br/judge/pt/problems/view/1649) - Ferramenta Irritante de Pintura *Paradigmas*
-  - [x]  [1650](https://www.beecrowd.com.br/judge/pt/problems/view/1650) - [Pintura Preto e Branco](https://github.com/potigol/uoj-potigol/blob/master/src/1600/1650.poti) *Matemática*
+  - [x]  [1650](https://www.beecrowd.com.br/judge/pt/problems/view/1650) - [Pintura Preto e Branco](https://github.com/potigol/beecrowd/blob/master/src/1600/1650.poti) *Matemática*
   - [ ]  [1651](https://www.beecrowd.com.br/judge/pt/problems/view/1651) - Cilindro *Geometria Computacional*
   - [ ]  [1652](https://www.beecrowd.com.br/judge/pt/problems/view/1652) - Deli Deli *Ad-Hoc*
   - [ ]  [1653](https://www.beecrowd.com.br/judge/pt/problems/view/1653) - Expressões *Grafos*

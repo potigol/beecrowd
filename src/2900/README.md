@@ -6,7 +6,7 @@
   - [ ]  [2903](https://www.beecrowd.com.br/judge/pt/problems/view/2903) - A Symmetrical Pizza *Matemática*
   - [ ]  [2904](https://www.beecrowd.com.br/judge/pt/problems/view/2904) - Building a Field *Ad-Hoc*
   - [ ]  [2905](https://www.beecrowd.com.br/judge/pt/problems/view/2905) - Cheap Trips *Ad-Hoc*
-  - [x]  [2906](https://www.beecrowd.com.br/judge/pt/problems/view/2906) - [Database of Clients](https://github.com/potigol/uoj-potigol/blob/master/src/2900/2906.poti) *Strings*
+  - [x]  [2906](https://www.beecrowd.com.br/judge/pt/problems/view/2906) - [Database of Clients](https://github.com/potigol/beecrowd/blob/master/src/2900/2906.poti) *Strings*
   - [ ]  [2907](https://www.beecrowd.com.br/judge/pt/problems/view/2907) - Escape, Polygon! *Ad-Hoc*
   - [ ]  [2908](https://www.beecrowd.com.br/judge/pt/problems/view/2908) - Fantastic Beasts *Ad-Hoc*
   - [ ]  [2909](https://www.beecrowd.com.br/judge/pt/problems/view/2909) - Gathering Red-Black Fruits *Ad-Hoc*
@@ -22,24 +22,24 @@
   - [ ]  [2919](https://www.beecrowd.com.br/judge/pt/problems/view/2919) - Melhor Ordem *Paradigmas*
   - [ ]  [2920](https://www.beecrowd.com.br/judge/pt/problems/view/2920) - Número Pequeno *Paradigmas*
   - [ ]  [2921](https://www.beecrowd.com.br/judge/pt/problems/view/2921) - Quadros Alienígenas *Paradigmas*
-  - [x]  [2922](https://www.beecrowd.com.br/judge/pt/problems/view/2922) - [Salas De Aula](https://github.com/potigol/uoj-potigol/blob/master/src/2900/2922.poti) *Ad-Hoc*
+  - [x]  [2922](https://www.beecrowd.com.br/judge/pt/problems/view/2922) - [Salas De Aula](https://github.com/potigol/beecrowd/blob/master/src/2900/2922.poti) *Ad-Hoc*
   - [ ]  [2923](https://www.beecrowd.com.br/judge/pt/problems/view/2923) - Birinho *Ad-Hoc*
   - [ ]  [2924](https://www.beecrowd.com.br/judge/pt/problems/view/2924) - BigInt *Ad-Hoc*
   - [ ]  [2925](https://www.beecrowd.com.br/judge/pt/problems/view/2925) - Sequência IccanobiF *Ad-Hoc*
-  - [x]  [2926](https://www.beecrowd.com.br/judge/pt/problems/view/2926) - [Então é Natal!](https://github.com/potigol/uoj-potigol/blob/master/src/2900/2926.poti) *Ad-Hoc*
+  - [x]  [2926](https://www.beecrowd.com.br/judge/pt/problems/view/2926) - [Então é Natal!](https://github.com/potigol/beecrowd/blob/master/src/2900/2926.poti) *Ad-Hoc*
   - [ ]  [2927](https://www.beecrowd.com.br/judge/pt/problems/view/2927) - Imprevistos Natalinos *Ad-Hoc*
-  - [x]  [2928](https://www.beecrowd.com.br/judge/pt/problems/view/2928) - [Cruzando Lagos](https://github.com/potigol/uoj-potigol/blob/master/src/2900/2928.poti) *Ad-Hoc*
+  - [x]  [2928](https://www.beecrowd.com.br/judge/pt/problems/view/2928) - [Cruzando Lagos](https://github.com/potigol/beecrowd/blob/master/src/2900/2928.poti) *Ad-Hoc*
   - [ ]  [2929](https://www.beecrowd.com.br/judge/pt/problems/view/2929) - Menor da Pilha *Estruturas e Bibliotecas*
-  - [x]  [2930](https://www.beecrowd.com.br/judge/pt/problems/view/2930) - [TCC da Depressão Natalino](https://github.com/potigol/uoj-potigol/blob/master/src/2900/2930.poti) *Iniciante*
+  - [x]  [2930](https://www.beecrowd.com.br/judge/pt/problems/view/2930) - [TCC da Depressão Natalino](https://github.com/potigol/beecrowd/blob/master/src/2900/2930.poti) *Iniciante*
   - [ ]  [2931](https://www.beecrowd.com.br/judge/pt/problems/view/2931) - Presentes Suspeitos *Ad-Hoc*
   - [ ]  [2932](https://www.beecrowd.com.br/judge/pt/problems/view/2932) - Renas do Papai Noel *Paradigmas*
   - [ ]  [2933](https://www.beecrowd.com.br/judge/pt/problems/view/2933) - Passeio de Trenó pela Terra *Grafos*
   - [ ]  [2934](https://www.beecrowd.com.br/judge/pt/problems/view/2934) - Noel e Suas Renas *Paradigmas*
   - [ ]  [2935](https://www.beecrowd.com.br/judge/pt/problems/view/2935) - DNA Élfico *Ad-Hoc*
-  - [x]  [2936](https://www.beecrowd.com.br/judge/pt/problems/view/2936) - [Quanta Mandioca?](https://github.com/potigol/uoj-potigol/blob/master/src/2900/2936.poti) *Iniciante*
+  - [x]  [2936](https://www.beecrowd.com.br/judge/pt/problems/view/2936) - [Quanta Mandioca?](https://github.com/potigol/beecrowd/blob/master/src/2900/2936.poti) *Iniciante*
   - [ ]  [2937](https://www.beecrowd.com.br/judge/pt/problems/view/2937) - Cobra Norato *Matemática*
   - [ ]  [2938](https://www.beecrowd.com.br/judge/pt/problems/view/2938) - Jaçanã *Ad-Hoc*
-  - [x]  [2939](https://www.beecrowd.com.br/judge/pt/problems/view/2939) - [Casais](https://github.com/potigol/uoj-potigol/blob/master/src/2900/2939.poti) *Matemática*
+  - [x]  [2939](https://www.beecrowd.com.br/judge/pt/problems/view/2939) - [Casais](https://github.com/potigol/beecrowd/blob/master/src/2900/2939.poti) *Matemática*
   - [ ]  [2940](https://www.beecrowd.com.br/judge/pt/problems/view/2940) - Máquina do Tempo Quebrada *Ad-Hoc*
   - [ ]  [2941](https://www.beecrowd.com.br/judge/pt/problems/view/2941) - Fibra Ótica *Grafos*
   - [ ]  [2942](https://www.beecrowd.com.br/judge/pt/problems/view/2942) - Mistura de Bits *Ad-Hoc*
@@ -49,26 +49,26 @@
   - [ ]  [2946](https://www.beecrowd.com.br/judge/pt/problems/view/2946) - Dabriel e a Divisibilidade *Ad-Hoc*
   - [ ]  [2947](https://www.beecrowd.com.br/judge/pt/problems/view/2947) - Gabarito *Ad-Hoc*
   - [ ]  [2948](https://www.beecrowd.com.br/judge/pt/problems/view/2948) - Plantação de Açaí *Ad-Hoc*
-  - [x]  [2949](https://www.beecrowd.com.br/judge/pt/problems/view/2949) - [A Sociedade do Anel](https://github.com/potigol/uoj-potigol/blob/master/src/2900/2949.poti) *Iniciante*
-  - [x]  [2950](https://www.beecrowd.com.br/judge/pt/problems/view/2950) - [As Duas Torres](https://github.com/potigol/uoj-potigol/blob/master/src/2900/2950.poti) *Iniciante*
-  - [x]  [2951](https://www.beecrowd.com.br/judge/pt/problems/view/2951) - [O Retorno do Rei](https://github.com/potigol/uoj-potigol/blob/master/src/2900/2951.poti) *Iniciante*
+  - [x]  [2949](https://www.beecrowd.com.br/judge/pt/problems/view/2949) - [A Sociedade do Anel](https://github.com/potigol/beecrowd/blob/master/src/2900/2949.poti) *Iniciante*
+  - [x]  [2950](https://www.beecrowd.com.br/judge/pt/problems/view/2950) - [As Duas Torres](https://github.com/potigol/beecrowd/blob/master/src/2900/2950.poti) *Iniciante*
+  - [x]  [2951](https://www.beecrowd.com.br/judge/pt/problems/view/2951) - [O Retorno do Rei](https://github.com/potigol/beecrowd/blob/master/src/2900/2951.poti) *Iniciante*
   - [ ]  [2952](https://www.beecrowd.com.br/judge/pt/problems/view/2952) - A Vida Sustentável *Estruturas e Bibliotecas*
   - [ ]  [2953](https://www.beecrowd.com.br/judge/pt/problems/view/2953) - Mais um Joguinho *Matemática*
   - [ ]  [2954](https://www.beecrowd.com.br/judge/pt/problems/view/2954) - O Jogo *Strings*
   - [ ]  [2955](https://www.beecrowd.com.br/judge/pt/problems/view/2955) - Truuuuuco! *Matemática*
-  - [x]  [2956](https://www.beecrowd.com.br/judge/pt/problems/view/2956) - [Derivada de 13 Variáveis](https://github.com/potigol/uoj-potigol/blob/master/src/2900/2956.poti) *Matemática*
+  - [x]  [2956](https://www.beecrowd.com.br/judge/pt/problems/view/2956) - [Derivada de 13 Variáveis](https://github.com/potigol/beecrowd/blob/master/src/2900/2956.poti) *Matemática*
   - [ ]  [2957](https://www.beecrowd.com.br/judge/pt/problems/view/2957) - Sir Vô *Ad-Hoc*
   - [ ]  [2958](https://www.beecrowd.com.br/judge/pt/problems/view/2958) - O Rolê Bad Vibes *Estruturas e Bibliotecas*
   - [ ]  [2959](https://www.beecrowd.com.br/judge/pt/problems/view/2959) - Credo com ParaTudo! *Grafos*
   - [ ]  [2960](https://www.beecrowd.com.br/judge/pt/problems/view/2960) - Era Uma Vez… *Strings*
   - [ ]  [2961](https://www.beecrowd.com.br/judge/pt/problems/view/2961) - Ô, Que Tanto de Filme! *Estruturas e Bibliotecas*
   - [ ]  [2962](https://www.beecrowd.com.br/judge/pt/problems/view/2962) - Arte Valiosa *Grafos*
-  - [x]  [2963](https://www.beecrowd.com.br/judge/pt/problems/view/2963) - [Bobo da Corte](https://github.com/potigol/uoj-potigol/blob/master/src/2900/2963.poti) *Iniciante*
+  - [x]  [2963](https://www.beecrowd.com.br/judge/pt/problems/view/2963) - [Bobo da Corte](https://github.com/potigol/beecrowd/blob/master/src/2900/2963.poti) *Iniciante*
   - [ ]  [2964](https://www.beecrowd.com.br/judge/pt/problems/view/2964) - Cruzamento Perigoso *Ad-Hoc*
   - [ ]  [2965](https://www.beecrowd.com.br/judge/pt/problems/view/2965) - Delação Premiada *Grafos*
   - [ ]  [2966](https://www.beecrowd.com.br/judge/pt/problems/view/2966) - Exibição de Peixes *Ad-Hoc*
   - [ ]  [2967](https://www.beecrowd.com.br/judge/pt/problems/view/2967) - Florestas em Risco *Paradigmas*
-  - [x]  [2968](https://www.beecrowd.com.br/judge/pt/problems/view/2968) - [Hora da Corrida](https://github.com/potigol/uoj-potigol/blob/master/src/2900/2968.poti) *Iniciante*
+  - [x]  [2968](https://www.beecrowd.com.br/judge/pt/problems/view/2968) - [Hora da Corrida](https://github.com/potigol/beecrowd/blob/master/src/2900/2968.poti) *Iniciante*
   - [ ]  [2969](https://www.beecrowd.com.br/judge/pt/problems/view/2969) - Interplanetário *Grafos*
   - [ ]  [2970](https://www.beecrowd.com.br/judge/pt/problems/view/2970) - Keep Calm e Venda Balões *Paradigmas*
   - [ ]  [2971](https://www.beecrowd.com.br/judge/pt/problems/view/2971) - Jogo de Baralho *Ad-Hoc*
@@ -81,13 +81,13 @@
   - [ ]  [2978](https://www.beecrowd.com.br/judge/pt/problems/view/2978) - Cartão *Matemática*
   - [ ]  [2979](https://www.beecrowd.com.br/judge/pt/problems/view/2979) - Torre *Ad-Hoc*
   - [ ]  [2980](https://www.beecrowd.com.br/judge/pt/problems/view/2980) - Jogo da Árvore *Grafos*
-  - [x]  [2981](https://www.beecrowd.com.br/judge/pt/problems/view/2981) - [Vamos Fechar](https://github.com/potigol/uoj-potigol/blob/master/src/2900/2981.poti) *Matemática*
-  - [x]  [2982](https://www.beecrowd.com.br/judge/pt/problems/view/2982) - [A Greve para ou Continua?](https://github.com/potigol/uoj-potigol/blob/master/src/2900/2982.poti) *Iniciante*
+  - [x]  [2981](https://www.beecrowd.com.br/judge/pt/problems/view/2981) - [Vamos Fechar](https://github.com/potigol/beecrowd/blob/master/src/2900/2981.poti) *Matemática*
+  - [x]  [2982](https://www.beecrowd.com.br/judge/pt/problems/view/2982) - [A Greve para ou Continua?](https://github.com/potigol/beecrowd/blob/master/src/2900/2982.poti) *Iniciante*
   - [ ]  [2983](https://www.beecrowd.com.br/judge/pt/problems/view/2983) - Nem Tudo é Greve *Matemática*
-  - [x]  [2984](https://www.beecrowd.com.br/judge/pt/problems/view/2984) - [Assuntos Pendentes](https://github.com/potigol/uoj-potigol/blob/master/src/2900/2984.poti) *Estruturas e Bibliotecas*
+  - [x]  [2984](https://www.beecrowd.com.br/judge/pt/problems/view/2984) - [Assuntos Pendentes](https://github.com/potigol/beecrowd/blob/master/src/2900/2984.poti) *Estruturas e Bibliotecas*
   - [ ]  [2985](https://www.beecrowd.com.br/judge/pt/problems/view/2985) - Tobias Contra o Relógio *Ad-Hoc*
-  - [x]  [2986](https://www.beecrowd.com.br/judge/pt/problems/view/2986) - [Nem Tudo é Greve Versão Hard](https://github.com/potigol/uoj-potigol/blob/master/src/2900/2986.poti) *Matemática*
-  - [x]  [2987](https://www.beecrowd.com.br/judge/pt/problems/view/2987) - [Balão de Honra](https://github.com/potigol/uoj-potigol/blob/master/src/2900/2987.poti) *Iniciante*
+  - [x]  [2986](https://www.beecrowd.com.br/judge/pt/problems/view/2986) - [Nem Tudo é Greve Versão Hard](https://github.com/potigol/beecrowd/blob/master/src/2900/2986.poti) *Matemática*
+  - [x]  [2987](https://www.beecrowd.com.br/judge/pt/problems/view/2987) - [Balão de Honra](https://github.com/potigol/beecrowd/blob/master/src/2900/2987.poti) *Iniciante*
   - [ ]  ~~2988~~ - *SQL*
   - [ ]  ~~2989~~ - *SQL*
   - [ ]  ~~2990~~ - *SQL*

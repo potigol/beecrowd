@@ -4,17 +4,17 @@
   - [ ]  [3201](https://www.beecrowd.com.br/judge/pt/problems/view/3201) - Traveling Salesman *Estruturas e Bibliotecas*
   - [ ]  [3202](https://www.beecrowd.com.br/judge/pt/problems/view/3202) - Whac-a-Mole *Ad-Hoc*
   - [ ]  [3203](https://www.beecrowd.com.br/judge/pt/problems/view/3203) - Random Walking *Ad-Hoc*
-  - [x]  [3204](https://www.beecrowd.com.br/judge/pt/problems/view/3204) - [Honeycomb Walk](https://github.com/potigol/uoj-potigol/blob/master/src/3200/3204.poti) *Iniciante*
+  - [x]  [3204](https://www.beecrowd.com.br/judge/pt/problems/view/3204) - [Honeycomb Walk](https://github.com/potigol/beecrowd/blob/master/src/3200/3204.poti) *Iniciante*
   - [ ]  [3205](https://www.beecrowd.com.br/judge/pt/problems/view/3205) - Nasty Hacks *Ad-Hoc*
   - [ ]  [3206](https://www.beecrowd.com.br/judge/pt/problems/view/3206) - Batida de Robos *Ad-Hoc*
   - [ ]  [3207](https://www.beecrowd.com.br/judge/pt/problems/view/3207) - Jogos Divertidos *Estruturas e Bibliotecas*
-  - [x]  [3208](https://www.beecrowd.com.br/judge/pt/problems/view/3208) - [O Criptógrafo Envergonhado](https://github.com/potigol/uoj-potigol/blob/master/src/3200/3208.poti) *Iniciante*
-  - [x]  [3209](https://www.beecrowd.com.br/judge/pt/problems/view/3209) - [Tomadas Elétricas](https://github.com/potigol/uoj-potigol/blob/master/src/3200/3209.poti) *Iniciante*
+  - [x]  [3208](https://www.beecrowd.com.br/judge/pt/problems/view/3208) - [O Criptógrafo Envergonhado](https://github.com/potigol/beecrowd/blob/master/src/3200/3208.poti) *Iniciante*
+  - [x]  [3209](https://www.beecrowd.com.br/judge/pt/problems/view/3209) - [Tomadas Elétricas](https://github.com/potigol/beecrowd/blob/master/src/3200/3209.poti) *Iniciante*
   - [ ]  [3210](https://www.beecrowd.com.br/judge/pt/problems/view/3210) - O Pior Clima de Todos *Estruturas e Bibliotecas*
   - [ ]  [3211](https://www.beecrowd.com.br/judge/pt/problems/view/3211) - Reino *Grafos*
   - [ ]  [3212](https://www.beecrowd.com.br/judge/pt/problems/view/3212) - Decomposição do Colar *Ad-Hoc*
   - [ ]  [3213](https://www.beecrowd.com.br/judge/pt/problems/view/3213) - Parque Infantil *Geometria Computacional*
-  - [x]  [3214](https://www.beecrowd.com.br/judge/pt/problems/view/3214) - [Refrigerante](https://github.com/potigol/uoj-potigol/blob/master/src/3200/3214.poti) *Iniciante*
+  - [x]  [3214](https://www.beecrowd.com.br/judge/pt/problems/view/3214) - [Refrigerante](https://github.com/potigol/beecrowd/blob/master/src/3200/3214.poti) *Iniciante*
   - [ ]  [3215](https://www.beecrowd.com.br/judge/pt/problems/view/3215) - Dinheiro Importa *Grafos*
   - [ ]  [3216](https://www.beecrowd.com.br/judge/pt/problems/view/3216) - Teste Alérgico *Matemática*
   - [ ]  [3217](https://www.beecrowd.com.br/judge/pt/problems/view/3217) - Chuva Caindo *Iniciante*
@@ -24,7 +24,7 @@
   - [ ]  [3221](https://www.beecrowd.com.br/judge/pt/problems/view/3221) - Faróis *Grafos*
   - [ ]  [3222](https://www.beecrowd.com.br/judge/pt/problems/view/3222) - Cifra Playfair *Ad-Hoc*
   - [ ]  [3223](https://www.beecrowd.com.br/judge/pt/problems/view/3223) - Permutações de Código *Matemática*
-  - [x]  [3224](https://www.beecrowd.com.br/judge/pt/problems/view/3224) - [Aaah!](https://github.com/potigol/uoj-potigol/blob/master/src/3200/3224.poti) *Iniciante*
+  - [x]  [3224](https://www.beecrowd.com.br/judge/pt/problems/view/3224) - [Aaah!](https://github.com/potigol/beecrowd/blob/master/src/3200/3224.poti) *Iniciante*
   - [ ]  [3225](https://www.beecrowd.com.br/judge/pt/problems/view/3225) - Ordenação dos Pães *Ad-Hoc*
   - [ ]  [3226](https://www.beecrowd.com.br/judge/pt/problems/view/3226) - Seleção de Biscoito *Ad-Hoc*
   - [ ]  [3227](https://www.beecrowd.com.br/judge/pt/problems/view/3227) - Doorman *Ad-Hoc*
@@ -41,7 +41,7 @@
   - [ ] ~~xxxx~~
   - [ ]  [3239](https://www.beecrowd.com.br/judge/pt/problems/view/3239) - Dirty Driving *Estruturas e Bibliotecas*
   - [ ]  [3240](https://www.beecrowd.com.br/judge/pt/problems/view/3240) - Doodling *Ad-Hoc*
-  - [x]  [3241](https://www.beecrowd.com.br/judge/pt/problems/view/3241) - [Ajude um Candidato a PhD!](https://github.com/potigol/uoj-potigol/blob/master/src/3200/3241.poti) *Iniciante*
+  - [x]  [3241](https://www.beecrowd.com.br/judge/pt/problems/view/3241) - [Ajude um Candidato a PhD!](https://github.com/potigol/beecrowd/blob/master/src/3200/3241.poti) *Iniciante*
   - [ ] ~~xxxx~~
   - [ ] ~~xxxx~~
   - [ ] ~~xxxx~~
@@ -49,7 +49,7 @@
   - [ ] ~~xxxx~~
   - [ ]  [3247](https://www.beecrowd.com.br/judge/pt/problems/view/3247) - Robôs em uma Grade *Grafos*
   - [ ]  [3248](https://www.beecrowd.com.br/judge/pt/problems/view/3248) - Mega Inversões *Estruturas e Bibliotecas*
-  - [x]  [3249](https://www.beecrowd.com.br/judge/pt/problems/view/3249) - [Death Knight Hero](https://github.com/potigol/uoj-potigol/blob/master/src/3200/3249.poti) *Iniciante*
+  - [x]  [3249](https://www.beecrowd.com.br/judge/pt/problems/view/3249) - [Death Knight Hero](https://github.com/potigol/beecrowd/blob/master/src/3200/3249.poti) *Iniciante*
   - [ ]  [3250](https://www.beecrowd.com.br/judge/pt/problems/view/3250) - Problema no Elevador *Iniciante*
   - [ ]  [3251](https://www.beecrowd.com.br/judge/pt/problems/view/3251) - ls *Paradigmas*
   - [ ]  [3252](https://www.beecrowd.com.br/judge/pt/problems/view/3252) - Reus da Floresta *Iniciante*
@@ -63,7 +63,7 @@
   - [ ]  [3260](https://www.beecrowd.com.br/judge/pt/problems/view/3260) - Robert Hood *Geometria Computacional*
   - [ ]  [3261](https://www.beecrowd.com.br/judge/pt/problems/view/3261) - Replicação de Vírus *Strings*
   - [ ]  [3262](https://www.beecrowd.com.br/judge/pt/problems/view/3262) - Timebomb *Strings*
-  - [x]  [3263](https://www.beecrowd.com.br/judge/pt/problems/view/3263) - [Apague Com Segurança](https://github.com/potigol/uoj-potigol/blob/master/src/3200/3263.poti) *Ad-Hoc*
+  - [x]  [3263](https://www.beecrowd.com.br/judge/pt/problems/view/3263) - [Apague Com Segurança](https://github.com/potigol/beecrowd/blob/master/src/3200/3263.poti) *Ad-Hoc*
   - [ ]  [3264](https://www.beecrowd.com.br/judge/pt/problems/view/3264) - Pinball *Grafos*
   - [ ]  [3265](https://www.beecrowd.com.br/judge/pt/problems/view/3265) - Reconstrução de Dança *Matemática*
   - [ ]  [3266](https://www.beecrowd.com.br/judge/pt/problems/view/3266) - Dartboard *Matemática*
@@ -99,4 +99,4 @@
   - [ ] ~~xxxx~~
   - [ ] ~~xxxx~~
   - [ ] ~~xxxx~~
-  - [x]  [3299](https://www.beecrowd.com.br/judge/pt/problems/view/3299) - [Números Má Sorte Pequenos](https://github.com/potigol/uoj-potigol/blob/master/src/3200/3299.poti) *Iniciante*
+  - [x]  [3299](https://www.beecrowd.com.br/judge/pt/problems/view/3299) - [Números Má Sorte Pequenos](https://github.com/potigol/beecrowd/blob/master/src/3200/3299.poti) *Iniciante*
