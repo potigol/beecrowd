@@ -1,8 +1,8 @@
-# Soluções dos Problemas do BeeCrowd - Usando a linguagem Potigol
+# Soluções dos Problemas do Beecrowd - Usando a linguagem Potigol
 
 [![Join the chat at https://gitter.im/potigol/Potigol](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/potigol/Potigol?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Follow us](https://img.shields.io/twitter/follow/potigol.svg?style=social)](http://twitter.com/potigol)
-[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/potigol/uoj-potigol)
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/potigol/beecrowd)
 [![Soluções](https://img.shields.io/badge/Problemas%20Resolvidos-671-blue)](https://github.com/potigol/URI-Potigol/commits/master)
 
 <!-- a href="https://potigol.github.io/docs/hacktoberfest"><img src="https://hacktoberfest.digitalocean.com/_nuxt/img/logo-hacktoberfest-full.f42e3b1.svg" width=250></a -->
@@ -10,7 +10,7 @@
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/potigol/uoj-potigol)
 [![IFRN](https://potigol.github.io/docs/logo_ifrn_40.png)](https://www.ifrn.edu.br)
 
-Soluções dos problemas do [BeeCrowd (URI Online Judge)](https://www.urionlinejudge.com.br/judge/pt/problems/all) usando a linguagem [Potigol](https://potigol.github.io)
+Soluções dos problemas do [Beecrowd (URI Online Judge)](https://www.urionlinejudge.com.br/judge/pt/problems/all) usando a linguagem [Potigol](https://potigol.github.io)
 
 ## Problemas por Categoria
 
