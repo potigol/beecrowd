@@ -1,4 +1,4 @@
-# Soluções dos Problemas do BeeCrowd - Usando a linguagem Potigol
+# Soluções dos Problemas do Beecrowd - Usando a linguagem Potigol
 
 [![Join the chat at https://gitter.im/potigol/Potigol](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/potigol/Potigol?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Follow us](https://img.shields.io/twitter/follow/potigol.svg?style=social)](http://twitter.com/potigol)
@@ -10,7 +10,7 @@
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/potigol/uoj-potigol)
 [![IFRN](https://potigol.github.io/docs/logo_ifrn_40.png)](https://www.ifrn.edu.br)
 
-Soluções dos problemas do [BeeCrowd (URI Online Judge)](https://www.urionlinejudge.com.br/judge/pt/problems/all) usando a linguagem [Potigol](https://potigol.github.io)
+Soluções dos problemas do [Beecrowd (URI Online Judge)](https://www.urionlinejudge.com.br/judge/pt/problems/all) usando a linguagem [Potigol](https://potigol.github.io)
 
 ## Problemas por Categoria
 
