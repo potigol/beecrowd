@@ -10,7 +10,7 @@
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/potigol/uoj-potigol)
 [![IFRN](https://potigol.github.io/docs/logo_ifrn_40.png)](https://www.ifrn.edu.br)
 
-Soluções dos problemas do [Beecrowd (URI Online Judge)](https://www.urionlinejudge.com.br/judge/pt/problems/all) usando a linguagem [Potigol](https://potigol.github.io)
+Soluções dos problemas do [Beecrowd](https://www.beecrowd.com.br/judge/pt/problems/all) usando a linguagem [Potigol](https://potigol.github.io)
 
 ## Problemas por Categoria
 
