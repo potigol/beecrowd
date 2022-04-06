@@ -1,4 +1,4 @@
-# Problemas 3300 (53%)
+# Problemas 3300 (35%)
 
   - [x]  [3300](https://www.beecrowd.com.br/judge/pt/problems/view/3300) - [Números Má Sorte Recarregados](https://github.com/potigol/beecrowd/blob/master/src/3300/3300.poti) *Strings*
   - [x]  [3301](https://www.beecrowd.com.br/judge/pt/problems/view/3301) - [Sobrinho do Meio](https://github.com/potigol/beecrowd/blob/master/src/3300/3301.poti) *Iniciante*
@@ -59,19 +59,19 @@
   - [ ]  [3356](https://www.beecrowd.com.br/judge/pt/problems/view/3356) - Reprodução Controlada *Grafos*
   - [x]  [3357](https://www.beecrowd.com.br/judge/pt/problems/view/3357) - [Rico do Mate](https://github.com/potigol/beecrowd/blob/master/src/3300/3357.poti) *Estruturas e Bibliotecas*
   - [x]  [3358](https://www.beecrowd.com.br/judge/pt/problems/view/3358) - [Sobrenome Não é Fácil](https://github.com/potigol/beecrowd/blob/master/src/3300/3358.poti) *Strings*
-  - [x]  [3359](https://www.beecrowd.com.br/judge/pt/problems/view/3359) - [Categorizando Presentes](https://github.com/potigol/beecrowd/blob/master/src/3300/3359.poti) *Iniciante*
-  - [x]  [3360](https://www.beecrowd.com.br/judge/pt/problems/view/3360) - [Presente ou Carvão?](https://github.com/potigol/beecrowd/blob/master/src/3300/3360.poti) *Iniciante*
-  - [x]  [3361](https://www.beecrowd.com.br/judge/pt/problems/view/3361) - [Moedas do Noel](https://github.com/potigol/beecrowd/blob/master/src/3300/3361.poti) *Iniciante*
-  - [x]  [3362](https://www.beecrowd.com.br/judge/pt/problems/view/3362) - [O Peso do Papai Noel](https://github.com/potigol/beecrowd/blob/master/src/3300/3362.poti) *Iniciante*
-  - [ ] ~~xxxx~~
-  - [ ] ~~xxxx~~
-  - [ ] ~~xxxx~~
-  - [ ] ~~xxxx~~
-  - [ ] ~~xxxx~~
-  - [ ] ~~xxxx~~
-  - [ ] ~~xxxx~~
-  - [ ] ~~xxxx~~
-  - [ ] ~~xxxx~~
+  - [ ]  [3359](https://www.beecrowd.com.br/judge/pt/problems/view/3359) - Ancient Towers *Ad-Hoc*
+  - [ ]  [3360](https://www.beecrowd.com.br/judge/pt/problems/view/3360) - Because, Art! *Ad-Hoc*
+  - [ ]  [3361](https://www.beecrowd.com.br/judge/pt/problems/view/3361) - Cyclists versus Clouds *Ad-Hoc*
+  - [ ]  [3362](https://www.beecrowd.com.br/judge/pt/problems/view/3362) - Daily Turnovers *Ad-Hoc*
+  - [ ]  [3363](https://www.beecrowd.com.br/judge/pt/problems/view/3363) - Expedition Plans *Ad-Hoc*
+  - [ ]  [3364](https://www.beecrowd.com.br/judge/pt/problems/view/3364) - Fields Division *Ad-Hoc*
+  - [ ]  [3365](https://www.beecrowd.com.br/judge/pt/problems/view/3365) - Generator Tree *Ad-Hoc*
+  - [ ]  [3366](https://www.beecrowd.com.br/judge/pt/problems/view/3366) - Hamilton - The Musical *Ad-Hoc*
+  - [ ]  [3367](https://www.beecrowd.com.br/judge/pt/problems/view/3367) - Invested Money *Ad-Hoc*
+  - [ ]  [3368](https://www.beecrowd.com.br/judge/pt/problems/view/3368) - Joining Pairs *Ad-Hoc*
+  - [ ]  [3369](https://www.beecrowd.com.br/judge/pt/problems/view/3369) - KIARA is a Recursive Acronym *Ad-Hoc*
+  - [ ]  [3370](https://www.beecrowd.com.br/judge/pt/problems/view/3370) - Leaving Yharnam *Ad-Hoc*
+  - [ ]  [3371](https://www.beecrowd.com.br/judge/pt/problems/view/3371) - Most Ordered Way *Ad-Hoc*
   - [ ] ~~xxxx~~
   - [ ] ~~xxxx~~
   - [ ] ~~xxxx~~

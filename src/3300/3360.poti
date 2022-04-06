@@ -1,6 +1,0 @@
-n = leia_inteiro
-se n <= 25 entao
-  escreva "Recebe Presente, Feliz Natal!"
-senão
-  escreva "Recebe Carvao"
-fim

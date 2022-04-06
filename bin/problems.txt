@@ -2281,7 +2281,16 @@
 3356	Reprodução Controlada	Grafos
 3357	Rico do Mate	Estruturas e Bibliotecas
 3358	Sobrenome Não é Fácil	Strings
-3359	Categorizando Presentes	Iniciante
-3360	Presente ou Carvão?	Iniciante
-3361	Moedas do Noel	Iniciante
-3362	O Peso do Papai Noel	Iniciante
+3359	Ancient Towers	Ad-Hoc
+3360	Because, Art!	Ad-Hoc
+3361	Cyclists versus Clouds	Ad-Hoc
+3362	Daily Turnovers	Ad-Hoc
+3363	Expedition Plans	Ad-Hoc
+3364	Fields Division	Ad-Hoc
+3365	Generator Tree	Ad-Hoc
+3366	Hamilton - The Musical	Ad-Hoc
+3367	Invested Money	Ad-Hoc
+3368	Joining Pairs	Ad-Hoc
+3369	KIARA is a Recursive Acronym	Ad-Hoc
+3370	Leaving Yharnam	Ad-Hoc
+3371	Most Ordered Way	Ad-Hoc

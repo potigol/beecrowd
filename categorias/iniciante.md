@@ -1,4 +1,4 @@
-# Iniciante (322 / 339)
+# Iniciante (318 / 335)
 
 
 
@@ -322,10 +322,6 @@
   - [x]  [3344](https://www.beecrowd.com.br/judge/pt/problems/view/3344) - [Brute](https://github.com/potigol/beecrowd/blob/master/src/3300/3344.poti)
   - [x]  [3346](https://www.beecrowd.com.br/judge/pt/problems/view/3346) - [Flutuação do PIB](https://github.com/potigol/beecrowd/blob/master/src/3300/3346.poti)
   - [x]  [3348](https://www.beecrowd.com.br/judge/pt/problems/view/3348) - [Jogo das Aranhas](https://github.com/potigol/beecrowd/blob/master/src/3300/3348.poti)
-  - [x]  [3359](https://www.beecrowd.com.br/judge/pt/problems/view/3359) - [Categorizando Presentes](https://github.com/potigol/beecrowd/blob/master/src/3300/3359.poti)
-  - [x]  [3360](https://www.beecrowd.com.br/judge/pt/problems/view/3360) - [Presente ou Carvão?](https://github.com/potigol/beecrowd/blob/master/src/3300/3360.poti)
-  - [x]  [3361](https://www.beecrowd.com.br/judge/pt/problems/view/3361) - [Moedas do Noel](https://github.com/potigol/beecrowd/blob/master/src/3300/3361.poti)
-  - [x]  [3362](https://www.beecrowd.com.br/judge/pt/problems/view/3362) - [O Peso do Papai Noel](https://github.com/potigol/beecrowd/blob/master/src/3300/3362.poti)
 
 ## Problemas não resolvidos
 

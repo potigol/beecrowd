@@ -1,4 +1,4 @@
-# Ad-Hoc (180 / 732)
+# Ad-Hoc (180 / 745)
 
 
 
@@ -739,3 +739,16 @@
   - [ ]  [3305](https://www.beecrowd.com.br/judge/pt/problems/view/3305) - Bispos Dominantes
   - [ ]  [3351](https://www.beecrowd.com.br/judge/pt/problems/view/3351) - Clickbait
   - [ ]  [3355](https://www.beecrowd.com.br/judge/pt/problems/view/3355) - Pinhões no Xadrez
+  - [ ]  [3359](https://www.beecrowd.com.br/judge/pt/problems/view/3359) - Ancient Towers
+  - [ ]  [3360](https://www.beecrowd.com.br/judge/pt/problems/view/3360) - Because, Art!
+  - [ ]  [3361](https://www.beecrowd.com.br/judge/pt/problems/view/3361) - Cyclists versus Clouds
+  - [ ]  [3362](https://www.beecrowd.com.br/judge/pt/problems/view/3362) - Daily Turnovers
+  - [ ]  [3363](https://www.beecrowd.com.br/judge/pt/problems/view/3363) - Expedition Plans
+  - [ ]  [3364](https://www.beecrowd.com.br/judge/pt/problems/view/3364) - Fields Division
+  - [ ]  [3365](https://www.beecrowd.com.br/judge/pt/problems/view/3365) - Generator Tree
+  - [ ]  [3366](https://www.beecrowd.com.br/judge/pt/problems/view/3366) - Hamilton - The Musical
+  - [ ]  [3367](https://www.beecrowd.com.br/judge/pt/problems/view/3367) - Invested Money
+  - [ ]  [3368](https://www.beecrowd.com.br/judge/pt/problems/view/3368) - Joining Pairs
+  - [ ]  [3369](https://www.beecrowd.com.br/judge/pt/problems/view/3369) - KIARA is a Recursive Acronym
+  - [ ]  [3370](https://www.beecrowd.com.br/judge/pt/problems/view/3370) - Leaving Yharnam
+  - [ ]  [3371](https://www.beecrowd.com.br/judge/pt/problems/view/3371) - Most Ordered Way
