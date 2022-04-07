@@ -3,7 +3,7 @@
 [![Join the chat at https://gitter.im/potigol/Potigol](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/potigol/Potigol?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Follow us](https://img.shields.io/twitter/follow/potigol.svg?style=social)](http://twitter.com/potigol)
 [![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/potigol/beecrowd)
-[![Soluções](https://img.shields.io/badge/Problemas%20Resolvidos-671-blue)](https://github.com/potigol/URI-Potigol/commits/master)
+[![Soluções](https://img.shields.io/badge/Problemas%20Resolvidos-671-blue)](https://github.com/potigol/beecrowd/commits/master)
 
 <!-- a href="https://potigol.github.io/docs/hacktoberfest"><img src="https://hacktoberfest.digitalocean.com/_nuxt/img/logo-hacktoberfest-full.f42e3b1.svg" width=250></a -->
 
@@ -38,7 +38,7 @@ Soluções dos problemas do [Beecrowd](https://www.beecrowd.com.br/judge/pt/prob
 
 ## Verificação das Soluções
 
-Todas as soluções deste repositório foram submetidas e aceitas no URI Online Judge usando o script [Potigol2Scala](https://github.com/potigol/potigol2scala).
+Todas as soluções deste repositório foram submetidas e aceitas no Beecrowd usando o script [Potigol2Scala](https://github.com/potigol/potigol2scala).
 
 ## Quer ajudar?
 
@@ -47,6 +47,6 @@ Escolha um problema ainda não resolvido e envie sua solução.
  - Faça um fork deste projeto https://github.com/potigol/uoj-potigol
  - Resolva algum problema ainda não resolvido ou melhore alguma solução já existente
  - Coloque o arquivo com a solução na pasta correspondente https://github.com/potigol/uoj-potigol/tree/master/src .
- - **OPCIONAL** Teste a sua solução no URI Online Judge usando o script `./potigol2scala.sh ../src/1000/1000.poti`
+ - **OPCIONAL** Teste a sua solução no Beecrowd usando o script `./potigol2scala.sh ../src/1000/1000.poti`
  - **OPCIONAL** Execute `scala Build.scala` (Scala 3 ou superior) dentro da pasta `./bin` para atualizar a lista dos problemas resolvidos.
  - Faça um pull request

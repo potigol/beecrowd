@@ -1,0 +1,33 @@
+tipo Preço
+  produto: Texto
+  valor: Real
+fim
+
+tipo Produto
+  produto: Texto
+  quantidade: Inteiro
+fim
+
+total(preços: Lista[Preço], produtos: Lista[Produto]): Real =
+  se produtos == [] entao
+    0.0
+  senaose preços.cabeça.produto == produtos.cabeça.produto entao
+    preços.cabeça.valor * produtos.cabeça.quantidade + total(preços.cauda, produtos.cauda)
+  senao
+    total(preços.cauda, produtos)
+  fim
+
+n = leia_inteiro
+para i de 1 até n faça
+  m = leia_inteiro
+  preços = para j de 1 ate m gere
+             a = leia_textos(" ")
+             Preço(a[1], a[2].real)
+           fim.ordene(_.produto)
+  p = leia_inteiro
+  produtos = para j de 1 ate p gere
+               a = leia_textos(" ")
+               Produto(a[1], a[2].inteiro)
+             fim.ordene(_.produto)
+  escreva "R$ {total(preços, produtos) formato "%.2f"}"
+fim

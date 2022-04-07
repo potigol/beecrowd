@@ -1,4 +1,4 @@
-# Problemas 1200 (33%)
+# Problemas 1200 (34%)
 
   - [ ]  [1200](https://www.beecrowd.com.br/judge/pt/problems/view/1200) - Operações em ABP I *Grafos*
   - [ ]  [1201](https://www.beecrowd.com.br/judge/pt/problems/view/1201) - Operações em ABP II *Grafos*
@@ -81,7 +81,7 @@
   - [x]  [1278](https://www.beecrowd.com.br/judge/pt/problems/view/1278) - [Justificador II](https://github.com/potigol/beecrowd/blob/master/src/1200/1278.poti) *Strings*
   - [ ]  [1279](https://www.beecrowd.com.br/judge/pt/problems/view/1279) - Ano Bissexto ou Ano não Bissexto *Matemática*
   - [ ]  [1280](https://www.beecrowd.com.br/judge/pt/problems/view/1280) - Amigos *Matemática*
-  - [ ]  [1281](https://www.beecrowd.com.br/judge/pt/problems/view/1281) - Ida à Feira *Estruturas e Bibliotecas*
+  - [x]  [1281](https://www.beecrowd.com.br/judge/pt/problems/view/1281) - [Ida à Feira](https://github.com/potigol/beecrowd/blob/master/src/1200/1281.poti) *Estruturas e Bibliotecas*
   - [ ]  [1282](https://www.beecrowd.com.br/judge/pt/problems/view/1282) - Organizando Pacotes *Paradigmas*
   - [ ]  [1283](https://www.beecrowd.com.br/judge/pt/problems/view/1283) - Caixas e Pedras *Paradigmas*
   - [ ]  [1284](https://www.beecrowd.com.br/judge/pt/problems/view/1284) - Digitando no Telefone Celular *Strings*
