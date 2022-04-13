@@ -1,0 +1,21 @@
+# https://www.beecrowd.com.br/judge/pt/homeworks/view/29206
+var a := leia_texto
+enquanto nao eof faça
+  n, r = a.divida(" ")[1].inteiro, a.divida(" ")[2].inteiro
+  se n == r então
+    leia_texto
+    escreva "*"
+  senão
+    numeros = ((n+1)::leia_inteiros(" ")).ordene
+    var i := 0
+    para num em numeros faca
+      i := i + 1
+      enquanto i < num faça
+        imprima "{i} "
+        i := i + 1
+      fim
+    fim
+    escreva ""
+  fim
+  a := leia_texto
+fim

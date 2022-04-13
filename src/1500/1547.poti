@@ -1,0 +1,15 @@
+n = leia_inteiro
+para i de 1 até n faça
+  a = leia_inteiros(" ")
+  s = a[2]
+  nums = leia_inteiros(" ")
+  var p, i, diff := 0, 0, 100
+  para x em nums faça
+    i := i + 1
+    se (s - x).abs < diff entao
+      p := i
+      diff := (s - x).abs
+    fim
+  fim
+  escreva p
+fim

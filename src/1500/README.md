@@ -1,4 +1,4 @@
-# Problemas 1500 (24%)
+# Problemas 1500 (25%)
 
   - [ ]  [1500](https://www.beecrowd.com.br/judge/pt/problems/view/1500) - Consultas Horríveis *Estruturas e Bibliotecas*
   - [ ]  [1501](https://www.beecrowd.com.br/judge/pt/problems/view/1501) - Quantos Zeros e Quantos Dígitos? *Matemática*
@@ -47,7 +47,7 @@
   - [ ]  [1544](https://www.beecrowd.com.br/judge/pt/problems/view/1544) - O Último Dígito Não-Zero *Matemática*
   - [ ]  [1545](https://www.beecrowd.com.br/judge/pt/problems/view/1545) - Cartões II *Paradigmas*
   - [x]  [1546](https://www.beecrowd.com.br/judge/pt/problems/view/1546) - [Feedback](https://github.com/potigol/beecrowd/blob/master/src/1500/1546.poti) *Ad-Hoc*
-  - [ ]  [1547](https://www.beecrowd.com.br/judge/pt/problems/view/1547) - Adivinha *Ad-Hoc*
+  - [x]  [1547](https://www.beecrowd.com.br/judge/pt/problems/view/1547) - [Adivinha](https://github.com/potigol/beecrowd/blob/master/src/1500/1547.poti) *Ad-Hoc*
   - [x]  [1548](https://www.beecrowd.com.br/judge/pt/problems/view/1548) - [Fila do Recreio](https://github.com/potigol/beecrowd/blob/master/src/1500/1548.poti) *Estruturas e Bibliotecas*
   - [x]  [1549](https://www.beecrowd.com.br/judge/pt/problems/view/1549) - [Dividindo a Coca](https://github.com/potigol/beecrowd/blob/master/src/1500/1549.poti) *Geometria Computacional*
   - [ ]  [1550](https://www.beecrowd.com.br/judge/pt/problems/view/1550) - Inversão *Grafos*

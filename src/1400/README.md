@@ -1,4 +1,4 @@
-# Problemas 1400 (12%)
+# Problemas 1400 (13%)
 
   - [ ]  [1400](https://www.beecrowd.com.br/judge/pt/problems/view/1400) - Jogo - Contando *Matemática*
   - [ ]  [1401](https://www.beecrowd.com.br/judge/pt/problems/view/1401) - Gerando Permutações Ordenadas Rapidamente *Estruturas e Bibliotecas*
@@ -71,7 +71,7 @@
   - [ ]  [1468](https://www.beecrowd.com.br/judge/pt/problems/view/1468) - Balão *Geometria Computacional*
   - [ ]  [1469](https://www.beecrowd.com.br/judge/pt/problems/view/1469) - Chefe *Grafos*
   - [ ]  [1470](https://www.beecrowd.com.br/judge/pt/problems/view/1470) - Máquina Dobradora *Ad-Hoc*
-  - [ ]  [1471](https://www.beecrowd.com.br/judge/pt/problems/view/1471) - Mergulho *Ad-Hoc*
+  - [x]  [1471](https://www.beecrowd.com.br/judge/pt/problems/view/1471) - [Mergulho](https://github.com/potigol/beecrowd/blob/master/src/1400/1471.poti) *Ad-Hoc*
   - [ ]  [1472](https://www.beecrowd.com.br/judge/pt/problems/view/1472) - Triângulos *Ad-Hoc*
   - [ ]  [1473](https://www.beecrowd.com.br/judge/pt/problems/view/1473) - Linhas de Contêiners *Paradigmas*
   - [ ]  [1474](https://www.beecrowd.com.br/judge/pt/problems/view/1474) - Ônibus *Paradigmas*

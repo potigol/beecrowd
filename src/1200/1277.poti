@@ -1,0 +1,11 @@
+t = leia_inteiro
+para i de 1 até t faça
+  n = leia_inteiro
+  nomes = leia_textos(" ")
+  frequencia = leia_textos(" ")
+                 .mapeie(_.selecione(_ <> 'M'))
+                 .mapeie(a => a.selecione(_ == 'P').tamanho / a.tamanho)
+  alunos = nomes.zip(frequencia)
+  a = alunos.selecione(_.segundo < 0.75).mapeie(_.primeiro)
+  escreva a.junte(" ")
+fim
