@@ -1,0 +1,19 @@
+primo(a: Inteiro)
+  var resposta = verdadeiro
+  para i de 3 ate raiz(a).inteiro passo 2 faca
+    se a mod i == 0 então
+      resposta := falso
+    fim
+  fim
+  retorne resposta
+fim
+
+n = leia_inteiro
+para i de 1 ate n faça
+  num = leia_inteiro + 1
+  se num mod 2 == 1 e num mod 7 == 0 e primo(num + 2) então
+    escreva "Yes"
+  senao
+    escreva "No"
+  fim
+fim

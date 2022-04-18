@@ -1,0 +1,23 @@
+p(n: Inteiro) = (a: Inteiro) => se n mod (a * 2) div a == 1 então 'o'  senao ' ' fim
+
+var horario := leia_inteiros(":")
+enquanto não eof faça
+  h, m = p(horario[1]), p(horario[2])
+  escreva " ____________________________________________"
+  escreva "|                                            |"
+  escreva "|    ____________________________________    |_"
+  escreva "|   |                                    |   |_)"
+  escreva "|   |   8         4         2         1  |   |"
+  escreva "|   |                                    |   |"
+  escreva "|   |   {h(8)}         {h(4)}         {h(2)}         {h(1)}  |   |"
+  escreva "|   |                                    |   |"
+  escreva "|   |                                    |   |"
+  escreva "|   |   {m(32)}     {m(16)}     {m(8)}     {m(4)}     {m(2)}     {m(1)}  |   |"
+  escreva "|   |                                    |   |"
+  escreva "|   |   32    16    8     4     2     1  |   |_"
+  escreva "|   |____________________________________|   |_)"
+  escreva "|                                            |"
+  escreva "|____________________________________________|"
+  escreva ""
+  horario := leia_inteiros(":")
+fim

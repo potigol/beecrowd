@@ -1,4 +1,4 @@
-# Problemas 3100 (31%)
+# Problemas 3100 (32%)
 
   - [ ]  [3100](https://www.beecrowd.com.br/judge/pt/problems/view/3100) - Os Dígitos da Sorte *Strings*
   - [ ]  [3101](https://www.beecrowd.com.br/judge/pt/problems/view/3101) - Famílias Poligâmicas *Grafos*
@@ -37,7 +37,7 @@
   - [x]  [3134](https://www.beecrowd.com.br/judge/pt/problems/view/3134) - [Balança Equilibrada](https://github.com/potigol/beecrowd/blob/master/src/3100/3134.poti) *Ad-Hoc*
   - [x]  [3135](https://www.beecrowd.com.br/judge/pt/problems/view/3135) - [Lista de Nomes](https://github.com/potigol/beecrowd/blob/master/src/3100/3135.poti) *Ad-Hoc*
   - [ ]  [3136](https://www.beecrowd.com.br/judge/pt/problems/view/3136) - Arquitetura de Pilha *Ad-Hoc*
-  - [ ]  [3137](https://www.beecrowd.com.br/judge/pt/problems/view/3137) - Páginas de um Livro *Ad-Hoc*
+  - [x]  [3137](https://www.beecrowd.com.br/judge/pt/problems/view/3137) - [Páginas de um Livro](https://github.com/potigol/beecrowd/blob/master/src/3100/3137.poti) *Ad-Hoc*
   - [ ]  [3138](https://www.beecrowd.com.br/judge/pt/problems/view/3138) - Aniversário do Tobias *Matemática*
   - [ ]  [3139](https://www.beecrowd.com.br/judge/pt/problems/view/3139) - Buscando Novos Seguidores *Estruturas e Bibliotecas*
   - [x]  [3140](https://www.beecrowd.com.br/judge/pt/problems/view/3140) - [Copiando e Colando Código](https://github.com/potigol/beecrowd/blob/master/src/3100/3140.poti) *Iniciante*

@@ -1,0 +1,12 @@
+dígitos(páginas: Inteiro): Inteiro
+  tamanho = páginas.texto.tamanho
+  se tamanho == 1 então
+    páginas
+  senão
+    p = ("9" * (tamanho - 1)).inteiro
+    resposta = (páginas - p) * tamanho + dígitos(p)
+    resposta
+  fim
+fim
+
+escreva dígitos(leia_inteiro)

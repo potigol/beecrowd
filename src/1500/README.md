@@ -1,4 +1,4 @@
-# Problemas 1500 (25%)
+# Problemas 1500 (26%)
 
   - [ ]  [1500](https://www.beecrowd.com.br/judge/pt/problems/view/1500) - Consultas Horríveis *Estruturas e Bibliotecas*
   - [ ]  [1501](https://www.beecrowd.com.br/judge/pt/problems/view/1501) - Quantos Zeros e Quantos Dígitos? *Matemática*
@@ -61,7 +61,7 @@
   - [x]  [1558](https://www.beecrowd.com.br/judge/pt/problems/view/1558) - [Soma de Dois Quadrados](https://github.com/potigol/beecrowd/blob/master/src/1500/1558.poti) *Ad-Hoc*
   - [ ]  [1559](https://www.beecrowd.com.br/judge/pt/problems/view/1559) - 2048 *Ad-Hoc*
   - [ ]  [1560](https://www.beecrowd.com.br/judge/pt/problems/view/1560) - Energia dos Triângulos *Geometria Computacional*
-  - [ ]  [1561](https://www.beecrowd.com.br/judge/pt/problems/view/1561) - Relógio Binário *Ad-Hoc*
+  - [x]  [1561](https://www.beecrowd.com.br/judge/pt/problems/view/1561) - [Relógio Binário](https://github.com/potigol/beecrowd/blob/master/src/1500/1561.poti) *Ad-Hoc*
   - [ ]  [1562](https://www.beecrowd.com.br/judge/pt/problems/view/1562) - Escolhendo as Duplas *Grafos*
   - [ ]  [1563](https://www.beecrowd.com.br/judge/pt/problems/view/1563) - O Grande Problema *Matemática*
   - [x]  [1564](https://www.beecrowd.com.br/judge/pt/problems/view/1564) - [Vai Ter Copa?](https://github.com/potigol/beecrowd/blob/master/src/1500/1564.poti) *Iniciante*

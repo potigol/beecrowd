@@ -6,7 +6,7 @@ enquanto nao eof faça
     leia_texto
     escreva "*"
   senão
-    numeros = ((n+1)::leia_inteiros(" ")).ordene
+    numeros = ((n + 1) :: leia_inteiros(" ")).ordene
     var i := 0
     para num em numeros faca
       i := i + 1

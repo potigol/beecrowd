@@ -1,4 +1,4 @@
-# Problemas 3000 (30%)
+# Problemas 3000 (31%)
 
   - [ ] ~~xxxx~~
   - [ ]  ~~3001~~ - *SQL*
@@ -34,7 +34,7 @@
   - [ ]  [3031](https://www.beecrowd.com.br/judge/pt/problems/view/3031) - Xor Spanning Tree *Grafos*
   - [ ]  [3032](https://www.beecrowd.com.br/judge/pt/problems/view/3032) - Tuplas do Produto *Ad-Hoc*
   - [ ]  [3033](https://www.beecrowd.com.br/judge/pt/problems/view/3033) - Ajude Maria *Ad-Hoc*
-  - [ ]  [3034](https://www.beecrowd.com.br/judge/pt/problems/view/3034) - O Caso Douglas *Ad-Hoc*
+  - [x]  [3034](https://www.beecrowd.com.br/judge/pt/problems/view/3034) - [O Caso Douglas](https://github.com/potigol/beecrowd/blob/master/src/3000/3034.poti) *Ad-Hoc*
   - [ ]  [3035](https://www.beecrowd.com.br/judge/pt/problems/view/3035) - Fabrica de Peças *Ad-Hoc*
   - [ ]  [3036](https://www.beecrowd.com.br/judge/pt/problems/view/3036) - Cor da Camisa *Matemática*
   - [x]  [3037](https://www.beecrowd.com.br/judge/pt/problems/view/3037) - [Jogando Dardos Por Distância](https://github.com/potigol/beecrowd/blob/master/src/3000/3037.poti) *Iniciante*

@@ -1,4 +1,4 @@
-# Strings (65 / 148)
+# Strings (66 / 148)
 
 
 
@@ -23,6 +23,7 @@
   - [x]  [1276](https://www.beecrowd.com.br/judge/pt/problems/view/1276) - [Faixa de Letras](https://github.com/potigol/beecrowd/blob/master/src/1200/1276.poti)
   - [x]  [1277](https://www.beecrowd.com.br/judge/pt/problems/view/1277) - [Pouca Frequência](https://github.com/potigol/beecrowd/blob/master/src/1200/1277.poti)
   - [x]  [1278](https://www.beecrowd.com.br/judge/pt/problems/view/1278) - [Justificador II](https://github.com/potigol/beecrowd/blob/master/src/1200/1278.poti)
+  - [x]  [1287](https://www.beecrowd.com.br/judge/pt/problems/view/1287) - [Processador Amigável de Inteiros](https://github.com/potigol/beecrowd/blob/master/src/1200/1287.poti)
   - [x]  [1332](https://www.beecrowd.com.br/judge/pt/problems/view/1332) - [Um-Dois-Três](https://github.com/potigol/beecrowd/blob/master/src/1300/1332.poti)
   - [x]  [1516](https://www.beecrowd.com.br/judge/pt/problems/view/1516) - [Imagem](https://github.com/potigol/beecrowd/blob/master/src/1500/1516.poti)
   - [x]  [1551](https://www.beecrowd.com.br/judge/pt/problems/view/1551) - [Frase Completa](https://github.com/potigol/beecrowd/blob/master/src/1500/1551.poti)
@@ -78,7 +79,6 @@
   - [ ]  [1248](https://www.beecrowd.com.br/judge/pt/problems/view/1248) - Plano de Dieta
   - [ ]  [1254](https://www.beecrowd.com.br/judge/pt/problems/view/1254) - Substituição de Tag
   - [ ]  [1284](https://www.beecrowd.com.br/judge/pt/problems/view/1284) - Digitando no Telefone Celular
-  - [ ]  [1287](https://www.beecrowd.com.br/judge/pt/problems/view/1287) - Processador Amigável de Inteiros
   - [ ]  [1305](https://www.beecrowd.com.br/judge/pt/problems/view/1305) - Arredondamento por Valor de Corte
   - [ ]  [1313](https://www.beecrowd.com.br/judge/pt/problems/view/1313) - Dicionário Portuñol
   - [ ]  [1335](https://www.beecrowd.com.br/judge/pt/problems/view/1335) - Recuperação de Arquivos

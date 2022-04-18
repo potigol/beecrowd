@@ -1,0 +1,19 @@
+var s := leia_texto
+enquanto nao eof faca
+  x = s.selecione(c => c <> ',' e c <> ' ')
+       .mapeie(c => escolha c
+                      caso 'l' => '1'
+                      caso 'o' => '0'
+                      caso 'O' => '0'
+                      caso  _  => c
+                    fim )
+        .injete("")((a, b) => se a == "0" entao "{b}" senao "{a}{b}" fim)
+
+  erro = x.selecione(c => c < '0' ou c > '9') <> ""
+  se x <> "" e nao erro e (x.tamanho < 10 ou x.tamanho == 10 e x <="2147483647") entao
+    escreva x.inteiro
+  senao
+    escreva "error"
+  fim
+  s := leia_texto
+fim
