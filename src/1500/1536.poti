@@ -1,0 +1,15 @@
+n = leia_inteiro
+para i de 1 ate n faça
+  a, b = leia_inteiros(" ")
+  se a == b então
+    escreva "Penaltis"
+  senaose a[1]+b[3] > a[3]+b[1] então
+    escreva "Time 1"
+  senaose a[1]+b[3] < a[3]+b[1] então
+    escreva "Time 2"
+  senaose b[3] > a[3] então
+    escreva "Time 1"
+  senão
+    escreva "Time 2"
+  fim
+fim

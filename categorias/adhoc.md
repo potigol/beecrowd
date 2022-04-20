@@ -1,4 +1,4 @@
-# Ad-Hoc (185 / 745)
+# Ad-Hoc (187 / 745)
 
 
 
@@ -44,6 +44,7 @@
   - [x]  [1515](https://www.beecrowd.com.br/judge/pt/problems/view/1515) - [Hello Galaxy](https://github.com/potigol/beecrowd/blob/master/src/1500/1515.poti)
   - [x]  [1521](https://www.beecrowd.com.br/judge/pt/problems/view/1521) - [O Culpado](https://github.com/potigol/beecrowd/blob/master/src/1500/1521.poti)
   - [x]  [1533](https://www.beecrowd.com.br/judge/pt/problems/view/1533) - [Detetive Watson](https://github.com/potigol/beecrowd/blob/master/src/1500/1533.poti)
+  - [x]  [1536](https://www.beecrowd.com.br/judge/pt/problems/view/1536) - [Libertadores](https://github.com/potigol/beecrowd/blob/master/src/1500/1536.poti)
   - [x]  [1540](https://www.beecrowd.com.br/judge/pt/problems/view/1540) - [Planejando a Energia](https://github.com/potigol/beecrowd/blob/master/src/1500/1540.poti)
   - [x]  [1542](https://www.beecrowd.com.br/judge/pt/problems/view/1542) - [Lendo Livros](https://github.com/potigol/beecrowd/blob/master/src/1500/1542.poti)
   - [x]  [1546](https://www.beecrowd.com.br/judge/pt/problems/view/1546) - [Feedback](https://github.com/potigol/beecrowd/blob/master/src/1500/1546.poti)
@@ -172,6 +173,7 @@
   - [x]  [3058](https://www.beecrowd.com.br/judge/pt/problems/view/3058) - [Supermercado](https://github.com/potigol/beecrowd/blob/master/src/3000/3058.poti)
   - [x]  [3059](https://www.beecrowd.com.br/judge/pt/problems/view/3059) - [Pares de Números](https://github.com/potigol/beecrowd/blob/master/src/3000/3059.poti)
   - [x]  [3060](https://www.beecrowd.com.br/judge/pt/problems/view/3060) - [Parcelamento Sem Juros](https://github.com/potigol/beecrowd/blob/master/src/3000/3060.poti)
+  - [x]  [3090](https://www.beecrowd.com.br/judge/pt/problems/view/3090) - [Campo de Batalha](https://github.com/potigol/beecrowd/blob/master/src/3000/3090.poti)
   - [x]  [3092](https://www.beecrowd.com.br/judge/pt/problems/view/3092) - [Truco da Galera 2.0](https://github.com/potigol/beecrowd/blob/master/src/3000/3092.poti)
   - [x]  [3093](https://www.beecrowd.com.br/judge/pt/problems/view/3093) - [Truco da Galera 1.0](https://github.com/potigol/beecrowd/blob/master/src/3000/3093.poti)
   - [x]  [3094](https://www.beecrowd.com.br/judge/pt/problems/view/3094) - [Truco da Galera 3.0](https://github.com/potigol/beecrowd/blob/master/src/3000/3094.poti)
@@ -260,7 +262,6 @@
   - [ ]  [1518](https://www.beecrowd.com.br/judge/pt/problems/view/1518) - Tartarugas
   - [ ]  [1528](https://www.beecrowd.com.br/judge/pt/problems/view/1528) - Cordas Emaranhadas
   - [ ]  [1532](https://www.beecrowd.com.br/judge/pt/problems/view/1532) - Arremesso de Bolas
-  - [ ]  [1536](https://www.beecrowd.com.br/judge/pt/problems/view/1536) - Libertadores
   - [ ]  [1559](https://www.beecrowd.com.br/judge/pt/problems/view/1559) - 2048
   - [ ]  [1569](https://www.beecrowd.com.br/judge/pt/problems/view/1569) - Sobe e Desce
   - [ ]  [1574](https://www.beecrowd.com.br/judge/pt/problems/view/1574) - Instruções do Robô
@@ -698,7 +699,6 @@
   - [ ]  [3077](https://www.beecrowd.com.br/judge/pt/problems/view/3077) - Distribuindo Pequis
   - [ ]  [3085](https://www.beecrowd.com.br/judge/pt/problems/view/3085) - O Grande Dia
   - [ ]  [3087](https://www.beecrowd.com.br/judge/pt/problems/view/3087) - O Padawan Jorge
-  - [ ]  [3090](https://www.beecrowd.com.br/judge/pt/problems/view/3090) - Campo de Batalha
   - [ ]  [3105](https://www.beecrowd.com.br/judge/pt/problems/view/3105) - Dobrando Papel
   - [ ]  [3111](https://www.beecrowd.com.br/judge/pt/problems/view/3111) - A Vitória de Jim
   - [ ]  [3112](https://www.beecrowd.com.br/judge/pt/problems/view/3112) - Decodificação Ambígua

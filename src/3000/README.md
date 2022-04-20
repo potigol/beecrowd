@@ -1,4 +1,4 @@
-# Problemas 3000 (31%)
+# Problemas 3000 (32%)
 
   - [ ] ~~xxxx~~
   - [ ]  ~~3001~~ - *SQL*
@@ -90,7 +90,7 @@
   - [ ]  [3087](https://www.beecrowd.com.br/judge/pt/problems/view/3087) - O Padawan Jorge *Ad-Hoc*
   - [x]  [3088](https://www.beecrowd.com.br/judge/pt/problems/view/3088) - [Correção de Texto](https://github.com/potigol/beecrowd/blob/master/src/3000/3088.poti) *Strings*
   - [x]  [3089](https://www.beecrowd.com.br/judge/pt/problems/view/3089) - [Presentes de Natal](https://github.com/potigol/beecrowd/blob/master/src/3000/3089.poti) *Iniciante*
-  - [ ]  [3090](https://www.beecrowd.com.br/judge/pt/problems/view/3090) - Campo de Batalha *Ad-Hoc*
+  - [x]  [3090](https://www.beecrowd.com.br/judge/pt/problems/view/3090) - [Campo de Batalha](https://github.com/potigol/beecrowd/blob/master/src/3000/3090.poti) *Ad-Hoc*
   - [x]  [3091](https://www.beecrowd.com.br/judge/pt/problems/view/3091) - [Resto 1.0](https://github.com/potigol/beecrowd/blob/master/src/3000/3091.poti) *Iniciante*
   - [x]  [3092](https://www.beecrowd.com.br/judge/pt/problems/view/3092) - [Truco da Galera 2.0](https://github.com/potigol/beecrowd/blob/master/src/3000/3092.poti) *Ad-Hoc*
   - [x]  [3093](https://www.beecrowd.com.br/judge/pt/problems/view/3093) - [Truco da Galera 1.0](https://github.com/potigol/beecrowd/blob/master/src/3000/3093.poti) *Ad-Hoc*

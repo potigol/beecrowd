@@ -1,0 +1,13 @@
+a = leia_inteiros(" ")
+n, m, s = a[1], a[2], a[3]
+var ex1, ex2 := 0
+para i de 1 até s faça
+  b = leia_inteiros(" ")
+  x, y, h = b[1], b[2], b[3]
+  se y / m > x / n então
+    ex1 := ex1 + h
+  senão
+    ex2 := ex2 + h
+  fim
+fim
+escreva "{ex1} {ex2}"
