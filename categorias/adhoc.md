@@ -1,4 +1,4 @@
-# Ad-Hoc (187 / 745)
+# Ad-Hoc (191 / 745)
 
 
 
@@ -78,12 +78,15 @@
   - [x]  [2175](https://www.beecrowd.com.br/judge/pt/problems/view/2175) - [Qual o Mais Rápido?](https://github.com/potigol/beecrowd/blob/master/src/2100/2175.poti)
   - [x]  [2187](https://www.beecrowd.com.br/judge/pt/problems/view/2187) - [Bits Trocados](https://github.com/potigol/beecrowd/blob/master/src/2100/2187.poti)
   - [x]  [2188](https://www.beecrowd.com.br/judge/pt/problems/view/2188) - [Macaco-prego](https://github.com/potigol/beecrowd/blob/master/src/2100/2188.poti)
+  - [x]  [2189](https://www.beecrowd.com.br/judge/pt/problems/view/2189) - [Quermesse](https://github.com/potigol/beecrowd/blob/master/src/2100/2189.poti)
   - [x]  [2217](https://www.beecrowd.com.br/judge/pt/problems/view/2217) - [Nove](https://github.com/potigol/beecrowd/blob/master/src/2200/2217.poti)
   - [x]  [2251](https://www.beecrowd.com.br/judge/pt/problems/view/2251) - [Torres de Hanói](https://github.com/potigol/beecrowd/blob/master/src/2200/2251.poti)
+  - [x]  [2286](https://www.beecrowd.com.br/judge/pt/problems/view/2286) - [Par ou Ímpar](https://github.com/potigol/beecrowd/blob/master/src/2200/2286.poti)
   - [x]  [2293](https://www.beecrowd.com.br/judge/pt/problems/view/2293) - [Campo de Minhocas](https://github.com/potigol/beecrowd/blob/master/src/2200/2293.poti)
   - [x]  [2295](https://www.beecrowd.com.br/judge/pt/problems/view/2295) - [Frota de Táxi](https://github.com/potigol/beecrowd/blob/master/src/2200/2295.poti)
   - [x]  [2297](https://www.beecrowd.com.br/judge/pt/problems/view/2297) - [Bafo](https://github.com/potigol/beecrowd/blob/master/src/2200/2297.poti)
   - [x]  [2312](https://www.beecrowd.com.br/judge/pt/problems/view/2312) - [Quadro De Medalhas](https://github.com/potigol/beecrowd/blob/master/src/2300/2312.poti)
+  - [x]  [2322](https://www.beecrowd.com.br/judge/pt/problems/view/2322) - [Peça Perdida](https://github.com/potigol/beecrowd/blob/master/src/2300/2322.poti)
   - [x]  [2327](https://www.beecrowd.com.br/judge/pt/problems/view/2327) - [Quadrados](https://github.com/potigol/beecrowd/blob/master/src/2300/2327.poti)
   - [x]  [2328](https://www.beecrowd.com.br/judge/pt/problems/view/2328) - [Chocolate](https://github.com/potigol/beecrowd/blob/master/src/2300/2328.poti)
   - [x]  [2339](https://www.beecrowd.com.br/judge/pt/problems/view/2339) - [Aviões de Papel](https://github.com/potigol/beecrowd/blob/master/src/2300/2339.poti)
@@ -187,6 +190,7 @@
   - [x]  [3134](https://www.beecrowd.com.br/judge/pt/problems/view/3134) - [Balança Equilibrada](https://github.com/potigol/beecrowd/blob/master/src/3100/3134.poti)
   - [x]  [3135](https://www.beecrowd.com.br/judge/pt/problems/view/3135) - [Lista de Nomes](https://github.com/potigol/beecrowd/blob/master/src/3100/3135.poti)
   - [x]  [3137](https://www.beecrowd.com.br/judge/pt/problems/view/3137) - [Páginas de um Livro](https://github.com/potigol/beecrowd/blob/master/src/3100/3137.poti)
+  - [x]  [3205](https://www.beecrowd.com.br/judge/pt/problems/view/3205) - [Nasty Hacks](https://github.com/potigol/beecrowd/blob/master/src/3200/3205.poti)
   - [x]  [3263](https://www.beecrowd.com.br/judge/pt/problems/view/3263) - [Apague Com Segurança](https://github.com/potigol/beecrowd/blob/master/src/3200/3263.poti)
   - [x]  [3307](https://www.beecrowd.com.br/judge/pt/problems/view/3307) - [Decora o Rolê!](https://github.com/potigol/beecrowd/blob/master/src/3300/3307.poti)
   - [x]  [3309](https://www.beecrowd.com.br/judge/pt/problems/view/3309) - [Felizes são estes Números](https://github.com/potigol/beecrowd/blob/master/src/3300/3309.poti)
@@ -394,7 +398,6 @@
   - [ ]  [2171](https://www.beecrowd.com.br/judge/pt/problems/view/2171) - Dividindo com Fink
   - [ ]  [2178](https://www.beecrowd.com.br/judge/pt/problems/view/2178) - Lagoa Azul
   - [ ]  [2179](https://www.beecrowd.com.br/judge/pt/problems/view/2179) - Batuke
-  - [ ]  [2189](https://www.beecrowd.com.br/judge/pt/problems/view/2189) - Quermesse
   - [ ]  [2191](https://www.beecrowd.com.br/judge/pt/problems/view/2191) - Saldo de Gols
   - [ ]  [2192](https://www.beecrowd.com.br/judge/pt/problems/view/2192) - To Add or to Multiply
   - [ ]  [2194](https://www.beecrowd.com.br/judge/pt/problems/view/2194) - Ancient Messages
@@ -454,7 +457,6 @@
   - [ ]  [2283](https://www.beecrowd.com.br/judge/pt/problems/view/2283) - Keyboarding
   - [ ]  [2284](https://www.beecrowd.com.br/judge/pt/problems/view/2284) - Pipe Stream
   - [ ]  [2285](https://www.beecrowd.com.br/judge/pt/problems/view/2285) - Palíndrome
-  - [ ]  [2286](https://www.beecrowd.com.br/judge/pt/problems/view/2286) - Par ou Ímpar
   - [ ]  [2287](https://www.beecrowd.com.br/judge/pt/problems/view/2287) - Proteja sua Senha
   - [ ]  [2288](https://www.beecrowd.com.br/judge/pt/problems/view/2288) - TV da Vovó
   - [ ]  [2289](https://www.beecrowd.com.br/judge/pt/problems/view/2289) - Distância Hamming
@@ -477,7 +479,6 @@
   - [ ]  [2319](https://www.beecrowd.com.br/judge/pt/problems/view/2319) - Penalidade Mínima
   - [ ]  [2320](https://www.beecrowd.com.br/judge/pt/problems/view/2320) - Subsequência
   - [ ]  [2321](https://www.beecrowd.com.br/judge/pt/problems/view/2321) - Detectando Colisões
-  - [ ]  [2322](https://www.beecrowd.com.br/judge/pt/problems/view/2322) - Peça Perdida
   - [ ]  [2323](https://www.beecrowd.com.br/judge/pt/problems/view/2323) - Móbile
   - [ ]  [2324](https://www.beecrowd.com.br/judge/pt/problems/view/2324) - Pastas
   - [ ]  [2325](https://www.beecrowd.com.br/judge/pt/problems/view/2325) - Repositórios
@@ -724,7 +725,6 @@
   - [ ]  [3200](https://www.beecrowd.com.br/judge/pt/problems/view/3200) - Card Trick
   - [ ]  [3202](https://www.beecrowd.com.br/judge/pt/problems/view/3202) - Whac-a-Mole
   - [ ]  [3203](https://www.beecrowd.com.br/judge/pt/problems/view/3203) - Random Walking
-  - [ ]  [3205](https://www.beecrowd.com.br/judge/pt/problems/view/3205) - Nasty Hacks
   - [ ]  [3206](https://www.beecrowd.com.br/judge/pt/problems/view/3206) - Batida de Robos
   - [ ]  [3212](https://www.beecrowd.com.br/judge/pt/problems/view/3212) - Decomposição do Colar
   - [ ]  [3219](https://www.beecrowd.com.br/judge/pt/problems/view/3219) - Gokigen Naname

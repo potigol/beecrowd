@@ -1,4 +1,4 @@
-# Problemas 2200 (15%)
+# Problemas 2200 (16%)
 
   - [ ]  [2200](https://www.beecrowd.com.br/judge/pt/problems/view/2200) - Mummy Madness *Ad-Hoc*
   - [ ]  [2201](https://www.beecrowd.com.br/judge/pt/problems/view/2201) - Pyramids *Ad-Hoc*
@@ -86,7 +86,7 @@
   - [ ]  [2283](https://www.beecrowd.com.br/judge/pt/problems/view/2283) - Keyboarding *Ad-Hoc*
   - [ ]  [2284](https://www.beecrowd.com.br/judge/pt/problems/view/2284) - Pipe Stream *Ad-Hoc*
   - [ ]  [2285](https://www.beecrowd.com.br/judge/pt/problems/view/2285) - Palíndrome *Ad-Hoc*
-  - [ ]  [2286](https://www.beecrowd.com.br/judge/pt/problems/view/2286) - Par ou Ímpar *Ad-Hoc*
+  - [x]  [2286](https://www.beecrowd.com.br/judge/pt/problems/view/2286) - [Par ou Ímpar](https://github.com/potigol/beecrowd/blob/master/src/2200/2286.poti) *Ad-Hoc*
   - [ ]  [2287](https://www.beecrowd.com.br/judge/pt/problems/view/2287) - Proteja sua Senha *Ad-Hoc*
   - [ ]  [2288](https://www.beecrowd.com.br/judge/pt/problems/view/2288) - TV da Vovó *Ad-Hoc*
   - [ ]  [2289](https://www.beecrowd.com.br/judge/pt/problems/view/2289) - Distância Hamming *Ad-Hoc*

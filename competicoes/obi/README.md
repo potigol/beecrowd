@@ -1,4 +1,4 @@
-# Olimpíada de Informática (92 / 215)
+# Olimpíada de Informática (95 / 215)
 
 
 
@@ -189,7 +189,7 @@
 ## 2007
 
   - [ ]  [2321](https://www.beecrowd.com.br/judge/pt/problems/view/2321) - Detectando Colisões *Ad-Hoc*
-  - [ ]  [2322](https://www.beecrowd.com.br/judge/pt/problems/view/2322) - Peça Perdida *Ad-Hoc*
+  - [x]  [2322](https://www.beecrowd.com.br/judge/pt/problems/view/2322) - [Peça Perdida](https://github.com/potigol/beecrowd/blob/master/src/2300/2322.poti) *Ad-Hoc*
   - [ ]  [2323](https://www.beecrowd.com.br/judge/pt/problems/view/2323) - Móbile *Ad-Hoc*
   - [ ]  [2324](https://www.beecrowd.com.br/judge/pt/problems/view/2324) - Pastas *Ad-Hoc*
   - [ ]  [2325](https://www.beecrowd.com.br/judge/pt/problems/view/2325) - Repositórios *Ad-Hoc*
@@ -236,7 +236,7 @@
 ## 2004
 
   - [ ]  [2285](https://www.beecrowd.com.br/judge/pt/problems/view/2285) - Palíndrome *Ad-Hoc*
-  - [ ]  [2286](https://www.beecrowd.com.br/judge/pt/problems/view/2286) - Par ou Ímpar *Ad-Hoc*
+  - [x]  [2286](https://www.beecrowd.com.br/judge/pt/problems/view/2286) - [Par ou Ímpar](https://github.com/potigol/beecrowd/blob/master/src/2200/2286.poti) *Ad-Hoc*
   - [ ]  [2287](https://www.beecrowd.com.br/judge/pt/problems/view/2287) - Proteja sua Senha *Ad-Hoc*
   - [ ]  [2288](https://www.beecrowd.com.br/judge/pt/problems/view/2288) - TV da Vovó *Ad-Hoc*
 
@@ -276,6 +276,6 @@
 
   - [x]  [2187](https://www.beecrowd.com.br/judge/pt/problems/view/2187) - [Bits Trocados](https://github.com/potigol/beecrowd/blob/master/src/2100/2187.poti) *Ad-Hoc*
   - [x]  [2188](https://www.beecrowd.com.br/judge/pt/problems/view/2188) - [Macaco-prego](https://github.com/potigol/beecrowd/blob/master/src/2100/2188.poti) *Ad-Hoc*
-  - [ ]  [2189](https://www.beecrowd.com.br/judge/pt/problems/view/2189) - Quermesse *Ad-Hoc*
+  - [x]  [2189](https://www.beecrowd.com.br/judge/pt/problems/view/2189) - [Quermesse](https://github.com/potigol/beecrowd/blob/master/src/2100/2189.poti) *Ad-Hoc*
   - [ ]  [2190](https://www.beecrowd.com.br/judge/pt/problems/view/2190) - Rede Ótica *Grafos*
   - [ ]  [2191](https://www.beecrowd.com.br/judge/pt/problems/view/2191) - Saldo de Gols *Ad-Hoc*

@@ -1,4 +1,4 @@
-# Ad-Hoc (73 / 172)
+# Ad-Hoc (76 / 172)
 
 
 
@@ -6,10 +6,13 @@
 
   - [x]  [2187](https://www.beecrowd.com.br/judge/pt/problems/view/2187) - [Bits Trocados](https://github.com/potigol/beecrowd/blob/master/src/2100/2187.poti)
   - [x]  [2188](https://www.beecrowd.com.br/judge/pt/problems/view/2188) - [Macaco-prego](https://github.com/potigol/beecrowd/blob/master/src/2100/2188.poti)
+  - [x]  [2189](https://www.beecrowd.com.br/judge/pt/problems/view/2189) - [Quermesse](https://github.com/potigol/beecrowd/blob/master/src/2100/2189.poti)
   - [x]  [2251](https://www.beecrowd.com.br/judge/pt/problems/view/2251) - [Torres de Hanói](https://github.com/potigol/beecrowd/blob/master/src/2200/2251.poti)
+  - [x]  [2286](https://www.beecrowd.com.br/judge/pt/problems/view/2286) - [Par ou Ímpar](https://github.com/potigol/beecrowd/blob/master/src/2200/2286.poti)
   - [x]  [2293](https://www.beecrowd.com.br/judge/pt/problems/view/2293) - [Campo de Minhocas](https://github.com/potigol/beecrowd/blob/master/src/2200/2293.poti)
   - [x]  [2295](https://www.beecrowd.com.br/judge/pt/problems/view/2295) - [Frota de Táxi](https://github.com/potigol/beecrowd/blob/master/src/2200/2295.poti)
   - [x]  [2297](https://www.beecrowd.com.br/judge/pt/problems/view/2297) - [Bafo](https://github.com/potigol/beecrowd/blob/master/src/2200/2297.poti)
+  - [x]  [2322](https://www.beecrowd.com.br/judge/pt/problems/view/2322) - [Peça Perdida](https://github.com/potigol/beecrowd/blob/master/src/2300/2322.poti)
   - [x]  [2327](https://www.beecrowd.com.br/judge/pt/problems/view/2327) - [Quadrados](https://github.com/potigol/beecrowd/blob/master/src/2300/2327.poti)
   - [x]  [2328](https://www.beecrowd.com.br/judge/pt/problems/view/2328) - [Chocolate](https://github.com/potigol/beecrowd/blob/master/src/2300/2328.poti)
   - [x]  [2339](https://www.beecrowd.com.br/judge/pt/problems/view/2339) - [Aviões de Papel](https://github.com/potigol/beecrowd/blob/master/src/2300/2339.poti)
@@ -80,7 +83,6 @@
 
 ## Problemas não resolvidos
 
-  - [ ]  [2189](https://www.beecrowd.com.br/judge/pt/problems/view/2189) - Quermesse
   - [ ]  [2191](https://www.beecrowd.com.br/judge/pt/problems/view/2191) - Saldo de Gols
   - [ ]  [2227](https://www.beecrowd.com.br/judge/pt/problems/view/2227) - Aeroporto
   - [ ]  [2228](https://www.beecrowd.com.br/judge/pt/problems/view/2228) - Caça ao Tesouro
@@ -92,7 +94,6 @@
   - [ ]  [2249](https://www.beecrowd.com.br/judge/pt/problems/view/2249) - Número de Erdos
   - [ ]  [2250](https://www.beecrowd.com.br/judge/pt/problems/view/2250) - Tetris
   - [ ]  [2285](https://www.beecrowd.com.br/judge/pt/problems/view/2285) - Palíndrome
-  - [ ]  [2286](https://www.beecrowd.com.br/judge/pt/problems/view/2286) - Par ou Ímpar
   - [ ]  [2287](https://www.beecrowd.com.br/judge/pt/problems/view/2287) - Proteja sua Senha
   - [ ]  [2288](https://www.beecrowd.com.br/judge/pt/problems/view/2288) - TV da Vovó
   - [ ]  [2294](https://www.beecrowd.com.br/judge/pt/problems/view/2294) - Duende Perdido
@@ -113,7 +114,6 @@
   - [ ]  [2319](https://www.beecrowd.com.br/judge/pt/problems/view/2319) - Penalidade Mínima
   - [ ]  [2320](https://www.beecrowd.com.br/judge/pt/problems/view/2320) - Subsequência
   - [ ]  [2321](https://www.beecrowd.com.br/judge/pt/problems/view/2321) - Detectando Colisões
-  - [ ]  [2322](https://www.beecrowd.com.br/judge/pt/problems/view/2322) - Peça Perdida
   - [ ]  [2323](https://www.beecrowd.com.br/judge/pt/problems/view/2323) - Móbile
   - [ ]  [2324](https://www.beecrowd.com.br/judge/pt/problems/view/2324) - Pastas
   - [ ]  [2325](https://www.beecrowd.com.br/judge/pt/problems/view/2325) - Repositórios

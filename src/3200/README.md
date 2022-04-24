@@ -1,11 +1,11 @@
-# Problemas 3200 (13%)
+# Problemas 3200 (15%)
 
   - [ ]  [3200](https://www.beecrowd.com.br/judge/pt/problems/view/3200) - Card Trick *Ad-Hoc*
   - [ ]  [3201](https://www.beecrowd.com.br/judge/pt/problems/view/3201) - Traveling Salesman *Estruturas e Bibliotecas*
   - [ ]  [3202](https://www.beecrowd.com.br/judge/pt/problems/view/3202) - Whac-a-Mole *Ad-Hoc*
   - [ ]  [3203](https://www.beecrowd.com.br/judge/pt/problems/view/3203) - Random Walking *Ad-Hoc*
   - [x]  [3204](https://www.beecrowd.com.br/judge/pt/problems/view/3204) - [Honeycomb Walk](https://github.com/potigol/beecrowd/blob/master/src/3200/3204.poti) *Iniciante*
-  - [ ]  [3205](https://www.beecrowd.com.br/judge/pt/problems/view/3205) - Nasty Hacks *Ad-Hoc*
+  - [x]  [3205](https://www.beecrowd.com.br/judge/pt/problems/view/3205) - [Nasty Hacks](https://github.com/potigol/beecrowd/blob/master/src/3200/3205.poti) *Ad-Hoc*
   - [ ]  [3206](https://www.beecrowd.com.br/judge/pt/problems/view/3206) - Batida de Robos *Ad-Hoc*
   - [ ]  [3207](https://www.beecrowd.com.br/judge/pt/problems/view/3207) - Jogos Divertidos *Estruturas e Bibliotecas*
   - [x]  [3208](https://www.beecrowd.com.br/judge/pt/problems/view/3208) - [O Criptógrafo Envergonhado](https://github.com/potigol/beecrowd/blob/master/src/3200/3208.poti) *Iniciante*

@@ -1,0 +1,12 @@
+n = leia_inteiro
+para i de 1 até n faça
+  a = leia_inteiros(" ")
+  revenue, expected = a[1], a[2] - a[3]
+  se revenue < expected então
+    escreva "advertise"
+  senãose revenue > expected então
+    escreva "do not advertise"
+  senão
+    escreva "does not matter"
+  fim
+fim

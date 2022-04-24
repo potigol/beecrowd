@@ -1,4 +1,4 @@
-# Problemas 2300 (34%)
+# Problemas 2300 (35%)
 
   - [ ]  [2300](https://www.beecrowd.com.br/judge/pt/problems/view/2300) - Transmissão de Energia *Grafos*
   - [ ]  [2301](https://www.beecrowd.com.br/judge/pt/problems/view/2301) - Vivo ou Morto *Ad-Hoc*
@@ -22,7 +22,7 @@
   - [ ]  [2319](https://www.beecrowd.com.br/judge/pt/problems/view/2319) - Penalidade Mínima *Ad-Hoc*
   - [ ]  [2320](https://www.beecrowd.com.br/judge/pt/problems/view/2320) - Subsequência *Ad-Hoc*
   - [ ]  [2321](https://www.beecrowd.com.br/judge/pt/problems/view/2321) - Detectando Colisões *Ad-Hoc*
-  - [ ]  [2322](https://www.beecrowd.com.br/judge/pt/problems/view/2322) - Peça Perdida *Ad-Hoc*
+  - [x]  [2322](https://www.beecrowd.com.br/judge/pt/problems/view/2322) - [Peça Perdida](https://github.com/potigol/beecrowd/blob/master/src/2300/2322.poti) *Ad-Hoc*
   - [ ]  [2323](https://www.beecrowd.com.br/judge/pt/problems/view/2323) - Móbile *Ad-Hoc*
   - [ ]  [2324](https://www.beecrowd.com.br/judge/pt/problems/view/2324) - Pastas *Ad-Hoc*
   - [ ]  [2325](https://www.beecrowd.com.br/judge/pt/problems/view/2325) - Repositórios *Ad-Hoc*

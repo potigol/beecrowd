@@ -1,0 +1,17 @@
+var n := leia_inteiro
+var t := 0
+enquanto n > 0 faça
+  nomes = leia_textos(2)
+  t := t + 1
+  escreva "Teste {t}"
+  para i de 1 até n faça
+    soma = leia_inteiros(" ").injete(0)(_ + _)
+    se soma mod 2 == 0 então
+      escreva nomes[1]
+    senão
+      escreva nomes[2]
+    fim
+  fim
+  escreva ""
+  n := leia_inteiro
+fim

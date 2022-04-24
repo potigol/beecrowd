@@ -1,0 +1,17 @@
+comparar(a, b: Inteiro) =
+  se a == b ou a < 0 então
+    - abs(a)
+  senão
+    a + 1
+  fim
+
+var n := leia_inteiro
+var t := 0
+enquanto n > 0 faça
+  ingressos = leia_inteiros(" ")
+  t := t + 1
+  escreva "Teste {t}"
+  escreva - ingressos.injete(1)(comparar)
+  escreva ""
+  n := leia_inteiro
+fim
