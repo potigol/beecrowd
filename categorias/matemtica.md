@@ -1,4 +1,4 @@
-# Matemática (65 / 269)
+# Matemática (66 / 269)
 
 
 
@@ -69,6 +69,7 @@
   - [x]  [3154](https://www.beecrowd.com.br/judge/pt/problems/view/3154) - [A Grande Festa](https://github.com/potigol/beecrowd/blob/master/src/3100/3154.poti)
   - [x]  [3165](https://www.beecrowd.com.br/judge/pt/problems/view/3165) - [Primos Gêmeos](https://github.com/potigol/beecrowd/blob/master/src/3100/3165.poti)
   - [x]  [3312](https://www.beecrowd.com.br/judge/pt/problems/view/3312) - [Imberbe Matemático](https://github.com/potigol/beecrowd/blob/master/src/3300/3312.poti)
+  - [x]  [3339](https://www.beecrowd.com.br/judge/pt/problems/view/3339) - [Carina](https://github.com/potigol/beecrowd/blob/master/src/3300/3339.poti)
 
 ## Problemas não resolvidos
 
@@ -272,7 +273,6 @@
   - [ ]  [3276](https://www.beecrowd.com.br/judge/pt/problems/view/3276) - Quantos Quadrados?
   - [ ]  [3304](https://www.beecrowd.com.br/judge/pt/problems/view/3304) - Alguma Sorte!
   - [ ]  [3308](https://www.beecrowd.com.br/judge/pt/problems/view/3308) - Elevador
-  - [ ]  [3339](https://www.beecrowd.com.br/judge/pt/problems/view/3339) - Carina
   - [ ]  [3341](https://www.beecrowd.com.br/judge/pt/problems/view/3341) - Grandmaster do Jogo do Caneco
   - [ ]  [3345](https://www.beecrowd.com.br/judge/pt/problems/view/3345) - O Passatempo de Ferdinacci
   - [ ]  [3354](https://www.beecrowd.com.br/judge/pt/problems/view/3354) - Joãozinho Vem Para o Sul

@@ -1,0 +1,19 @@
+numeros = ["***   * *** *** * * *** *** *** *** ***",
+           "* *   *   *   * * * *   *     * * * * *",
+           "* *   * *** *** *** *** ***   * *** ***",
+           "* *   * *     *   *   * * *   * * *   *",
+           "***   * *** ***   * *** ***   * *** ***"]
+
+codigos(linhas: Lista[Texto]) =
+  para i de 0 até linhas[1].tamanho div 4 gere
+    para j de 1 até 5 gere linhas[j].descarte(i * 4).pegue(3) fim.junte("")
+  fim
+
+num = codigos(numeros)
+entrada = codigos(leia_textos(5))
+beer = para a em entrada gere num.posição(a) - 1 fim.mapeie(_.texto).junte("")
+se beer.contem('-') ou beer.inteiro mod 6 <> 0 então
+  escreva "BOOM!!"
+senao
+  escreva "BEER!!"
+fim

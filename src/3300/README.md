@@ -1,4 +1,4 @@
-# Problemas 3300 (35%)
+# Problemas 3300 (37%)
 
   - [x]  [3300](https://www.beecrowd.com.br/judge/pt/problems/view/3300) - [Números Má Sorte Recarregados](https://github.com/potigol/beecrowd/blob/master/src/3300/3300.poti) *Strings*
   - [x]  [3301](https://www.beecrowd.com.br/judge/pt/problems/view/3301) - [Sobrinho do Meio](https://github.com/potigol/beecrowd/blob/master/src/3300/3301.poti) *Iniciante*
@@ -39,7 +39,7 @@
   - [ ] ~~xxxx~~
   - [ ] ~~xxxx~~
   - [ ] ~~xxxx~~
-  - [ ]  [3339](https://www.beecrowd.com.br/judge/pt/problems/view/3339) - Carina *Matemática*
+  - [x]  [3339](https://www.beecrowd.com.br/judge/pt/problems/view/3339) - [Carina](https://github.com/potigol/beecrowd/blob/master/src/3300/3339.poti) *Matemática*
   - [ ]  [3340](https://www.beecrowd.com.br/judge/pt/problems/view/3340) - Estudante De Mestrado *Grafos*
   - [ ]  [3341](https://www.beecrowd.com.br/judge/pt/problems/view/3341) - Grandmaster do Jogo do Caneco *Matemática*
   - [x]  [3342](https://www.beecrowd.com.br/judge/pt/problems/view/3342) - [Keanu](https://github.com/potigol/beecrowd/blob/master/src/3300/3342.poti) *Iniciante*

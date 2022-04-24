@@ -1,4 +1,4 @@
-# Strings (66 / 148)
+# Strings (67 / 148)
 
 
 
@@ -66,6 +66,7 @@
   - [x]  [3103](https://www.beecrowd.com.br/judge/pt/problems/view/3103) - [Número da Sorte](https://github.com/potigol/beecrowd/blob/master/src/3100/3103.poti)
   - [x]  [3141](https://www.beecrowd.com.br/judge/pt/problems/view/3141) - [Dúvida Etária](https://github.com/potigol/beecrowd/blob/master/src/3100/3141.poti)
   - [x]  [3159](https://www.beecrowd.com.br/judge/pt/problems/view/3159) - [Tijolão](https://github.com/potigol/beecrowd/blob/master/src/3100/3159.poti)
+  - [x]  [3262](https://www.beecrowd.com.br/judge/pt/problems/view/3262) - [Timebomb](https://github.com/potigol/beecrowd/blob/master/src/3200/3262.poti)
   - [x]  [3300](https://www.beecrowd.com.br/judge/pt/problems/view/3300) - [Números Má Sorte Recarregados](https://github.com/potigol/beecrowd/blob/master/src/3300/3300.poti)
   - [x]  [3311](https://www.beecrowd.com.br/judge/pt/problems/view/3311) - [Hudinho e o seu Trabalho](https://github.com/potigol/beecrowd/blob/master/src/3300/3311.poti)
   - [x]  [3313](https://www.beecrowd.com.br/judge/pt/problems/view/3313) - [Jogo de Palavras](https://github.com/potigol/beecrowd/blob/master/src/3300/3313.poti)
@@ -150,7 +151,6 @@
   - [ ]  [3143](https://www.beecrowd.com.br/judge/pt/problems/view/3143) - Fugindo do Celular
   - [ ]  [3180](https://www.beecrowd.com.br/judge/pt/problems/view/3180) - Roubo de Código
   - [ ]  [3261](https://www.beecrowd.com.br/judge/pt/problems/view/3261) - Replicação de Vírus
-  - [ ]  [3262](https://www.beecrowd.com.br/judge/pt/problems/view/3262) - Timebomb
   - [ ]  [3275](https://www.beecrowd.com.br/judge/pt/problems/view/3275) - Foto de Relógios
   - [ ]  [3310](https://www.beecrowd.com.br/judge/pt/problems/view/3310) - Gravity Boy
   - [ ]  [3347](https://www.beecrowd.com.br/judge/pt/problems/view/3347) - Ancestralidade

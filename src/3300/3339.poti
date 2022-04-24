@@ -1,0 +1,7 @@
+q = leia_inteiro
+para i de 1 até q faça
+  a = leia_inteiros(" ")
+  l, r = a[1], a[2]
+  quadrados = (raiz(r).piso - raiz(l).teto + 1).inteiro
+  escreva quadrados
+fim
