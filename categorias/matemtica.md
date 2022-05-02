@@ -1,4 +1,4 @@
-# Matemática (66 / 269)
+# Matemática (68 / 269)
 
 
 
@@ -68,6 +68,8 @@
   - [x]  [3104](https://www.beecrowd.com.br/judge/pt/problems/view/3104) - [Resto 2.0](https://github.com/potigol/beecrowd/blob/master/src/3100/3104.poti)
   - [x]  [3154](https://www.beecrowd.com.br/judge/pt/problems/view/3154) - [A Grande Festa](https://github.com/potigol/beecrowd/blob/master/src/3100/3154.poti)
   - [x]  [3165](https://www.beecrowd.com.br/judge/pt/problems/view/3165) - [Primos Gêmeos](https://github.com/potigol/beecrowd/blob/master/src/3100/3165.poti)
+  - [x]  [3257](https://www.beecrowd.com.br/judge/pt/problems/view/3257) - [Plantando Árvores](https://github.com/potigol/beecrowd/blob/master/src/3200/3257.poti)
+  - [x]  [3271](https://www.beecrowd.com.br/judge/pt/problems/view/3271) - [Jogo de Dados](https://github.com/potigol/beecrowd/blob/master/src/3200/3271.poti)
   - [x]  [3312](https://www.beecrowd.com.br/judge/pt/problems/view/3312) - [Imberbe Matemático](https://github.com/potigol/beecrowd/blob/master/src/3300/3312.poti)
   - [x]  [3339](https://www.beecrowd.com.br/judge/pt/problems/view/3339) - [Carina](https://github.com/potigol/beecrowd/blob/master/src/3300/3339.poti)
 
@@ -263,12 +265,10 @@
   - [ ]  [3187](https://www.beecrowd.com.br/judge/pt/problems/view/3187) - Apenas Mais Alguns Triângulos!
   - [ ]  [3216](https://www.beecrowd.com.br/judge/pt/problems/view/3216) - Teste Alérgico
   - [ ]  [3223](https://www.beecrowd.com.br/judge/pt/problems/view/3223) - Permutações de Código
-  - [ ]  [3257](https://www.beecrowd.com.br/judge/pt/problems/view/3257) - Plantando Árvores
   - [ ]  [3259](https://www.beecrowd.com.br/judge/pt/problems/view/3259) - Truque Numérico
   - [ ]  [3265](https://www.beecrowd.com.br/judge/pt/problems/view/3265) - Reconstrução de Dança
   - [ ]  [3266](https://www.beecrowd.com.br/judge/pt/problems/view/3266) - Dartboard
   - [ ]  [3270](https://www.beecrowd.com.br/judge/pt/problems/view/3270) - Praça Catalã
-  - [ ]  [3271](https://www.beecrowd.com.br/judge/pt/problems/view/3271) - Jogo de Dados
   - [ ]  [3272](https://www.beecrowd.com.br/judge/pt/problems/view/3272) - Cerimônia de Abertura
   - [ ]  [3276](https://www.beecrowd.com.br/judge/pt/problems/view/3276) - Quantos Quadrados?
   - [ ]  [3304](https://www.beecrowd.com.br/judge/pt/problems/view/3304) - Alguma Sorte!

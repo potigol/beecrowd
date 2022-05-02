@@ -1,0 +1,9 @@
+soma(a, b: Inteiro) = a + b
+gunnar, emma = leia_inteiros(" ").injete(0)(soma)
+se gunnar > emma então
+  escreva "Gunnar"
+senãose emma > gunnar então
+  escreva "Emma"
+senão
+  escreva "Tie"
+fim

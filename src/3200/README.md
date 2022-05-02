@@ -1,4 +1,4 @@
-# Problemas 3200 (15%)
+# Problemas 3200 (17%)
 
   - [ ]  [3200](https://www.beecrowd.com.br/judge/pt/problems/view/3200) - Card Trick *Ad-Hoc*
   - [ ]  [3201](https://www.beecrowd.com.br/judge/pt/problems/view/3201) - Traveling Salesman *Estruturas e Bibliotecas*
@@ -57,7 +57,7 @@
   - [ ]  [3254](https://www.beecrowd.com.br/judge/pt/problems/view/3254) - Espaço Privado *Ad-Hoc*
   - [ ]  [3255](https://www.beecrowd.com.br/judge/pt/problems/view/3255) - A Vez to Primo *Iniciante*
   - [ ]  [3256](https://www.beecrowd.com.br/judge/pt/problems/view/3256) - Divisão Inimiga *Iniciante*
-  - [ ]  [3257](https://www.beecrowd.com.br/judge/pt/problems/view/3257) - Plantando Árvores *Matemática*
+  - [x]  [3257](https://www.beecrowd.com.br/judge/pt/problems/view/3257) - [Plantando Árvores](https://github.com/potigol/beecrowd/blob/master/src/3200/3257.poti) *Matemática*
   - [ ]  [3258](https://www.beecrowd.com.br/judge/pt/problems/view/3258) - Fervendo Vegetais *Iniciante*
   - [ ]  [3259](https://www.beecrowd.com.br/judge/pt/problems/view/3259) - Truque Numérico *Matemática*
   - [ ]  [3260](https://www.beecrowd.com.br/judge/pt/problems/view/3260) - Robert Hood *Geometria Computacional*
@@ -71,7 +71,7 @@
   - [ ]  [3268](https://www.beecrowd.com.br/judge/pt/problems/view/3268) - Lounges da Amanda *Grafos*
   - [ ]  [3269](https://www.beecrowd.com.br/judge/pt/problems/view/3269) - Vigilância de Basin City *Grafos*
   - [ ]  [3270](https://www.beecrowd.com.br/judge/pt/problems/view/3270) - Praça Catalã *Matemática*
-  - [ ]  [3271](https://www.beecrowd.com.br/judge/pt/problems/view/3271) - Jogo de Dados *Matemática*
+  - [x]  [3271](https://www.beecrowd.com.br/judge/pt/problems/view/3271) - [Jogo de Dados](https://github.com/potigol/beecrowd/blob/master/src/3200/3271.poti) *Matemática*
   - [ ]  [3272](https://www.beecrowd.com.br/judge/pt/problems/view/3272) - Cerimônia de Abertura *Matemática*
   - [ ] ~~xxxx~~
   - [ ]  [3274](https://www.beecrowd.com.br/judge/pt/problems/view/3274) - Excursão *Paradigmas*
