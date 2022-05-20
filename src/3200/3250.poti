@@ -1,0 +1,34 @@
+a = leia_inteiros(5)
+f, s, g, u, d = a[1], a[2], a[3], a[4], a[5]
+
+var empurroes := 0
+var andar := s
+
+se andar < g e u > 0 então
+  empurroes := (g - andar) div u
+  andar := andar + empurroes * u
+senãose andar < g então
+  empurroes := 1000000
+senãose d > 0 então
+  empurroes := (andar - g) div d
+  andar := andar - empurroes * d
+senão
+  empurroes := 1000000
+fim
+
+enquanto andar <> g e empurroes < 1000000 faça
+  empurroes := empurroes + 1
+  up, down = andar + u, andar - d
+  se up <= f e (andar < g ou down < 1) então
+    andar := up
+  senãose down >= 1 então
+    andar := down
+  senão
+    empurroes := 10000000
+  fim
+fim
+se empurroes < 1000000 então
+  escreva empurroes
+senão
+  escreva "use the stairs"
+fim

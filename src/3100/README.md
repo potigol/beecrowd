@@ -1,4 +1,4 @@
-# Problemas 3100 (32%)
+# Problemas 3100 (34%)
 
   - [ ]  [3100](https://www.beecrowd.com.br/judge/pt/problems/view/3100) - Os Dígitos da Sorte *Strings*
   - [ ]  [3101](https://www.beecrowd.com.br/judge/pt/problems/view/3101) - Famílias Poligâmicas *Grafos*
@@ -60,7 +60,7 @@
   - [x]  [3157](https://www.beecrowd.com.br/judge/pt/problems/view/3157) - [Viva a Ciência!](https://github.com/potigol/beecrowd/blob/master/src/3100/3157.poti) *Iniciante*
   - [ ]  [3158](https://www.beecrowd.com.br/judge/pt/problems/view/3158) - O Bom Presidente *Grafos*
   - [x]  [3159](https://www.beecrowd.com.br/judge/pt/problems/view/3159) - [Tijolão](https://github.com/potigol/beecrowd/blob/master/src/3100/3159.poti) *Strings*
-  - [ ]  [3160](https://www.beecrowd.com.br/judge/pt/problems/view/3160) - Amigos *Estruturas e Bibliotecas*
+  - [x]  [3160](https://www.beecrowd.com.br/judge/pt/problems/view/3160) - [Amigos](https://github.com/potigol/beecrowd/blob/master/src/3100/3160.poti) *Estruturas e Bibliotecas*
   - [x]  [3161](https://www.beecrowd.com.br/judge/pt/problems/view/3161) - [As Frutas Esquecidas](https://github.com/potigol/beecrowd/blob/master/src/3100/3161.poti) *Iniciante*
   - [x]  [3162](https://www.beecrowd.com.br/judge/pt/problems/view/3162) - [Comunicação Espacial](https://github.com/potigol/beecrowd/blob/master/src/3100/3162.poti) *Iniciante*
   - [ ]  [3163](https://www.beecrowd.com.br/judge/pt/problems/view/3163) - Controlador de Vôo *Estruturas e Bibliotecas*
@@ -71,7 +71,7 @@
   - [ ]  [3168](https://www.beecrowd.com.br/judge/pt/problems/view/3168) - Aposta dos Gnomos *Ad-Hoc*
   - [ ]  [3169](https://www.beecrowd.com.br/judge/pt/problems/view/3169) - Batendo em Retirada *Grafos*
   - [x]  [3170](https://www.beecrowd.com.br/judge/pt/problems/view/3170) - [Bolinhas de Natal](https://github.com/potigol/beecrowd/blob/master/src/3100/3170.poti) *Iniciante*
-  - [ ]  [3171](https://www.beecrowd.com.br/judge/pt/problems/view/3171) - Cordão de Led *Estruturas e Bibliotecas*
+  - [x]  [3171](https://www.beecrowd.com.br/judge/pt/problems/view/3171) - [Cordão de Led](https://github.com/potigol/beecrowd/blob/master/src/3100/3171.poti) *Estruturas e Bibliotecas*
   - [ ]  [3172](https://www.beecrowd.com.br/judge/pt/problems/view/3172) - Dali e Dila *Ad-Hoc*
   - [x]  [3173](https://www.beecrowd.com.br/judge/pt/problems/view/3173) - [Estrela de Natal](https://github.com/potigol/beecrowd/blob/master/src/3100/3173.poti) *Iniciante*
   - [x]  [3174](https://www.beecrowd.com.br/judge/pt/problems/view/3174) - [Grupo de Trabalho do Noel](https://github.com/potigol/beecrowd/blob/master/src/3100/3174.poti) *Iniciante*

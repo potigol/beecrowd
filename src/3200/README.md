@@ -1,4 +1,4 @@
-# Problemas 3200 (17%)
+# Problemas 3200 (19%)
 
   - [ ]  [3200](https://www.beecrowd.com.br/judge/pt/problems/view/3200) - Card Trick *Ad-Hoc*
   - [ ]  [3201](https://www.beecrowd.com.br/judge/pt/problems/view/3201) - Traveling Salesman *Estruturas e Bibliotecas*
@@ -50,7 +50,7 @@
   - [ ]  [3247](https://www.beecrowd.com.br/judge/pt/problems/view/3247) - Robôs em uma Grade *Grafos*
   - [ ]  [3248](https://www.beecrowd.com.br/judge/pt/problems/view/3248) - Mega Inversões *Estruturas e Bibliotecas*
   - [x]  [3249](https://www.beecrowd.com.br/judge/pt/problems/view/3249) - [Death Knight Hero](https://github.com/potigol/beecrowd/blob/master/src/3200/3249.poti) *Iniciante*
-  - [ ]  [3250](https://www.beecrowd.com.br/judge/pt/problems/view/3250) - Problema no Elevador *Iniciante*
+  - [x]  [3250](https://www.beecrowd.com.br/judge/pt/problems/view/3250) - [Problema no Elevador](https://github.com/potigol/beecrowd/blob/master/src/3200/3250.poti) *Iniciante*
   - [ ]  [3251](https://www.beecrowd.com.br/judge/pt/problems/view/3251) - ls *Paradigmas*
   - [ ]  [3252](https://www.beecrowd.com.br/judge/pt/problems/view/3252) - Reus da Floresta *Iniciante*
   - [ ]  [3253](https://www.beecrowd.com.br/judge/pt/problems/view/3253) - Problemas com o Carro *Iniciante*

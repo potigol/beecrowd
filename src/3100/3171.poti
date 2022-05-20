@@ -1,0 +1,20 @@
+a = leia_inteiros(" ")
+
+conectado()
+  var ligados := leia_inteiros(" ")
+  var cordoes := para i de 2 ate a[2] gere leia_inteiros(" ") fim
+
+  var b := cordoes.selecione(x => ligados.contem(x[1]) ou ligados.contem(x[2]))
+  enquanto b.tamanho > 0 faça
+    ligados := para c em b, d em c gere d fim + ligados
+    cordoes := cordoes - b
+    b := cordoes.selecione(x => ligados.contem(x[1]) ou ligados.contem(x[2]))
+  fim
+  retorne cordoes.tamanho == 0
+fim
+
+se a[1] - a[2] == 1 e conectado então
+  escreva "COMPLETO"
+senão
+  escreva "INCOMPLETO"
+fim

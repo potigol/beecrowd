@@ -1,0 +1,10 @@
+l, n = leia_textos(" ")
+s = leia_texto
+amigos = se s == "nao" então
+  l + n
+senão
+  antes = l.pegue_enquanto(_ <> s)
+  depois = l.descarte_enquanto(_ <> s)
+  antes + n + depois
+fim
+escreva amigos.junte(" ")

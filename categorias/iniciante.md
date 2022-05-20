@@ -1,4 +1,4 @@
-# Iniciante (318 / 335)
+# Iniciante (319 / 335)
 
 
 
@@ -313,6 +313,7 @@
   - [x]  [3224](https://www.beecrowd.com.br/judge/pt/problems/view/3224) - [Aaah!](https://github.com/potigol/beecrowd/blob/master/src/3200/3224.poti)
   - [x]  [3241](https://www.beecrowd.com.br/judge/pt/problems/view/3241) - [Ajude um Candidato a PhD!](https://github.com/potigol/beecrowd/blob/master/src/3200/3241.poti)
   - [x]  [3249](https://www.beecrowd.com.br/judge/pt/problems/view/3249) - [Death Knight Hero](https://github.com/potigol/beecrowd/blob/master/src/3200/3249.poti)
+  - [x]  [3250](https://www.beecrowd.com.br/judge/pt/problems/view/3250) - [Problema no Elevador](https://github.com/potigol/beecrowd/blob/master/src/3200/3250.poti)
   - [x]  [3299](https://www.beecrowd.com.br/judge/pt/problems/view/3299) - [Números Má Sorte Pequenos](https://github.com/potigol/beecrowd/blob/master/src/3200/3299.poti)
   - [x]  [3301](https://www.beecrowd.com.br/judge/pt/problems/view/3301) - [Sobrinho do Meio](https://github.com/potigol/beecrowd/blob/master/src/3300/3301.poti)
   - [x]  [3302](https://www.beecrowd.com.br/judge/pt/problems/view/3302) - [Resposta Certa](https://github.com/potigol/beecrowd/blob/master/src/3300/3302.poti)
@@ -335,7 +336,6 @@
   - [ ]  [3233](https://www.beecrowd.com.br/judge/pt/problems/view/3233) - Suco
   - [ ]  [3234](https://www.beecrowd.com.br/judge/pt/problems/view/3234) - Kindergarten
   - [ ]  [3235](https://www.beecrowd.com.br/judge/pt/problems/view/3235) - Luggage
-  - [ ]  [3250](https://www.beecrowd.com.br/judge/pt/problems/view/3250) - Problema no Elevador
   - [ ]  [3252](https://www.beecrowd.com.br/judge/pt/problems/view/3252) - Reus da Floresta
   - [ ]  [3253](https://www.beecrowd.com.br/judge/pt/problems/view/3253) - Problemas com o Carro
   - [ ]  [3255](https://www.beecrowd.com.br/judge/pt/problems/view/3255) - A Vez to Primo
