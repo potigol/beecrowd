@@ -1,6 +1,6 @@
 var a := leia_texto
-enquanto noa eof faca
-  var letras = para i de 1 ate 255 gere i fim.mutavel
+enquanto nao eof faca
+  var letras = para i de 1 ate 255 gere i fim #.mutavel
   c, n = a.divida(" ")[1].inteiro, a.divida(" ")[2].inteiro
   zenit, polar = leia_texto.minúsculo
   ZENIT, POLAR = zenit.maiúsculo, polar.maiúsculo
@@ -12,7 +12,7 @@ enquanto noa eof faca
     letras[polar[i]] := zenit[i]
   fim
   para i de 1 ate n faca
-    s = leia_texto.lista.mapeie(letras[_].caractere).junte("")
+    s = leia_texto.mapeie(letras[_].caractere).junte("")
     escreva s
   fim
   escreva ""

@@ -1,5 +1,5 @@
 n = leia_inteiro
-var figurinhas = Lista.mutavel(300, falso)
+var figurinhas := Lista(300, falso)
 para i de 1 ate n faca
   numero = leia_inteiro
   figurinhas[numero] := verdadeiro

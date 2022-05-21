@@ -1,7 +1,7 @@
 var a := leia_inteiros(" ")
 enquanto a[1] > 0 faca
   n, b = a[1], a[2]
-  var p := Lista(n, 0).mutavel
+  var p := Lista(n, 0) #.mutavel
   var cont := 0
   nums = leia_inteiros(" ").ordene
   var i, j := 1, nums.tamanho
