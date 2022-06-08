@@ -1,0 +1,21 @@
+primo(n: Inteiro): Lógico =
+  n mod 2 > 0 e (para i de 2 ate raiz(n).inteiro se n mod i == 0 gere i fim == [])
+
+primos(inicio, quantos: Inteiro): Lista[Inteiro] =
+  se quantos > 0 então
+    se primo(inicio) então
+      inicio :: primos(inicio + 1, quantos - 1)
+    senão
+      primos(inicio + 1, quantos)
+    fim
+  senão
+    []
+  fim
+
+n = leia_inteiro
+soma = primos(n, 10).injete(0)(_ + _)
+horas = 60000000 div soma
+dias = horas div 24
+
+escreva "{soma} km/h"
+escreva "{horas} h / {dias} d"

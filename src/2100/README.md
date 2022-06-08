@@ -1,4 +1,4 @@
-# Problemas 2100 (30%)
+# Problemas 2100 (31%)
 
   - [ ]  [2100](https://www.beecrowd.com.br/judge/pt/problems/view/2100) - Cinema de Xing Tzen Zu *Matemática*
   - [ ]  [2101](https://www.beecrowd.com.br/judge/pt/problems/view/2101) - Combinações de Dias *Matemática*
@@ -80,7 +80,7 @@
   - [ ]  [2177](https://www.beecrowd.com.br/judge/pt/problems/view/2177) - Rio 2016 *Matemática*
   - [ ]  [2178](https://www.beecrowd.com.br/judge/pt/problems/view/2178) - Lagoa Azul *Ad-Hoc*
   - [ ]  [2179](https://www.beecrowd.com.br/judge/pt/problems/view/2179) - Batuke *Ad-Hoc*
-  - [ ]  [2180](https://www.beecrowd.com.br/judge/pt/problems/view/2180) - Viagem à Marte na Velocidade de Primo *Matemática*
+  - [x]  [2180](https://www.beecrowd.com.br/judge/pt/problems/view/2180) - [Viagem à Marte na Velocidade de Primo](https://github.com/potigol/beecrowd/blob/master/src/2100/2180.poti) *Matemática*
   - [ ]  [2181](https://www.beecrowd.com.br/judge/pt/problems/view/2181) - URI - Uireb Rhom uin Iavas *Paradigmas*
   - [ ]  [2182](https://www.beecrowd.com.br/judge/pt/problems/view/2182) - Luciano e a Bicicletinha *Grafos*
   - [ ]  [2183](https://www.beecrowd.com.br/judge/pt/problems/view/2183) - Batalha Final *Paradigmas*

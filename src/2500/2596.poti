@@ -1,5 +1,5 @@
 c = leia_inteiro
-var l = Lista.mutavel(1000, 1)
+var l := Lista(1000, 1)
 para i de 2 ate 1000,
      j de i ate 1000 passo i faca
   l[j] := l[j] + 1

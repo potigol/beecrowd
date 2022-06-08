@@ -1,4 +1,4 @@
-# Matemática (68 / 269)
+# Matemática (69 / 269)
 
 
 
@@ -43,6 +43,7 @@
   - [x]  [2044](https://www.beecrowd.com.br/judge/pt/problems/view/2044) - [Em Dívida](https://github.com/potigol/beecrowd/blob/master/src/2000/2044.poti)
   - [x]  [2066](https://www.beecrowd.com.br/judge/pt/problems/view/2066) - [amelborP mU](https://github.com/potigol/beecrowd/blob/master/src/2000/2066.poti)
   - [x]  [2084](https://www.beecrowd.com.br/judge/pt/problems/view/2084) - [Eleições](https://github.com/potigol/beecrowd/blob/master/src/2000/2084.poti)
+  - [x]  [2180](https://www.beecrowd.com.br/judge/pt/problems/view/2180) - [Viagem à Marte na Velocidade de Primo](https://github.com/potigol/beecrowd/blob/master/src/2100/2180.poti)
   - [x]  [2218](https://www.beecrowd.com.br/judge/pt/problems/view/2218) - [O Temível Evil-Son](https://github.com/potigol/beecrowd/blob/master/src/2200/2218.poti)
   - [x]  [2232](https://www.beecrowd.com.br/judge/pt/problems/view/2232) - [Triângulo de Pascal](https://github.com/potigol/beecrowd/blob/master/src/2200/2232.poti)
   - [x]  [2238](https://www.beecrowd.com.br/judge/pt/problems/view/2238) - [Divisores](https://github.com/potigol/beecrowd/blob/master/src/2200/2238.poti)
@@ -205,7 +206,6 @@
   - [ ]  [2154](https://www.beecrowd.com.br/judge/pt/problems/view/2154) - Derivada de Polinômios
   - [ ]  [2170](https://www.beecrowd.com.br/judge/pt/problems/view/2170) - Juros do Projeto
   - [ ]  [2177](https://www.beecrowd.com.br/judge/pt/problems/view/2177) - Rio 2016
-  - [ ]  [2180](https://www.beecrowd.com.br/judge/pt/problems/view/2180) - Viagem à Marte na Velocidade de Primo
   - [ ]  [2204](https://www.beecrowd.com.br/judge/pt/problems/view/2204) - Pare A Bomba!
   - [ ]  [2222](https://www.beecrowd.com.br/judge/pt/problems/view/2222) - Brincando com Conjuntos
   - [ ]  [2291](https://www.beecrowd.com.br/judge/pt/problems/view/2291) - Números Divinos
