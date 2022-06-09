@@ -1,4 +1,4 @@
-# Matemática (69 / 269)
+# Matemática (70 / 269)
 
 
 
@@ -18,6 +18,7 @@
   - [x]  [1221](https://www.beecrowd.com.br/judge/pt/problems/view/1221) - [Primo Rápido](https://github.com/potigol/beecrowd/blob/master/src/1200/1221.poti)
   - [x]  [1240](https://www.beecrowd.com.br/judge/pt/problems/view/1240) - [Encaixa ou Não I](https://github.com/potigol/beecrowd/blob/master/src/1200/1240.poti)
   - [x]  [1247](https://www.beecrowd.com.br/judge/pt/problems/view/1247) - [Guarda Costeira](https://github.com/potigol/beecrowd/blob/master/src/1200/1247.poti)
+  - [x]  [1279](https://www.beecrowd.com.br/judge/pt/problems/view/1279) - [Ano Bissexto ou Ano não Bissexto](https://github.com/potigol/beecrowd/blob/master/src/1200/1279.poti)
   - [x]  [1308](https://www.beecrowd.com.br/judge/pt/problems/view/1308) - [Guerreiros Etruscos Nunca Jogam Xadrez](https://github.com/potigol/beecrowd/blob/master/src/1300/1308.poti)
   - [x]  [1309](https://www.beecrowd.com.br/judge/pt/problems/view/1309) - [Formatação Monetária](https://github.com/potigol/beecrowd/blob/master/src/1300/1309.poti)
   - [x]  [1323](https://www.beecrowd.com.br/judge/pt/problems/view/1323) - [Feynman](https://github.com/potigol/beecrowd/blob/master/src/1300/1323.poti)
@@ -86,7 +87,6 @@
   - [ ]  [1232](https://www.beecrowd.com.br/judge/pt/problems/view/1232) - Ciclo de Rubik
   - [ ]  [1233](https://www.beecrowd.com.br/judge/pt/problems/view/1233) - Estrela
   - [ ]  [1264](https://www.beecrowd.com.br/judge/pt/problems/view/1264) - Um Problema Fácil!
-  - [ ]  [1279](https://www.beecrowd.com.br/judge/pt/problems/view/1279) - Ano Bissexto ou Ano não Bissexto
   - [ ]  [1280](https://www.beecrowd.com.br/judge/pt/problems/view/1280) - Amigos
   - [ ]  [1289](https://www.beecrowd.com.br/judge/pt/problems/view/1289) - Qual é a Probabilidade?
   - [ ]  [1297](https://www.beecrowd.com.br/judge/pt/problems/view/1297) - Proteção do Meio Ambiente

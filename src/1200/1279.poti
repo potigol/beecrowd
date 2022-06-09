@@ -1,0 +1,47 @@
+somar(digitos: Lista[Inteiro], soma: Inteiro): Inteiro =
+  se digitos <> [] entao
+    somar(digitos.descarte(2), soma + digitos[1])
+  senão
+    soma
+  fim
+
+soma_par(digitos: Lista[Inteiro]) = somar(digitos.inverta.descarte(1), 0)
+soma_impar(digitos: Lista[Inteiro]) = somar(digitos.inverta, 0)
+
+div4(digitos: Lista[Inteiro]) = (digitos[2] * 10 + digitos[1]) mod 4 == 0
+div5(digitos: Lista[Inteiro]) = digitos[1] mod 5 == 0
+div100(digitos: Lista[Inteiro]) = digitos.pegue(2) == [0, 0]
+div400(digitos: Lista[Inteiro]) = div100(digitos) e div4(digitos.descarte(2))
+div11(digitos: Lista[Inteiro]) = (soma_par(digitos) - soma_impar(digitos)) mod 11 == 0
+div3(digitos: Lista[Inteiro]) = digitos.injete(0)(_ + _) mod 3 == 0
+
+var primeiro := verdadeiro
+var entrada := leia_texto
+enquanto não eof faça
+  digitos = entrada.inverta.lista.mapeie(_ - '0')
+
+  se primeiro entao
+    primeiro := falso
+  senão
+    escreva ""
+  fim
+
+  bissexto = div4(digitos) e não div100(digitos) ou div400(digitos)
+  bulukulu = bissexto e div5(digitos) e div11(digitos)
+  huluculu = div5(digitos) e div3(digitos)
+
+  se bissexto então
+    escreva "This is leap year."
+  fim
+  se huluculu então
+    escreva "This is huluculu festival year."
+  fim
+  se bulukulu então
+    escreva "This is bulukulu festival year."
+  fim
+  se não bissexto e não huluculu então
+    escreva "This is an ordinary year."
+  fim
+
+  entrada := leia_texto
+fim

@@ -1,4 +1,4 @@
-# Problemas 1200 (36%)
+# Problemas 1200 (37%)
 
   - [ ]  [1200](https://www.beecrowd.com.br/judge/pt/problems/view/1200) - Operações em ABP I *Grafos*
   - [ ]  [1201](https://www.beecrowd.com.br/judge/pt/problems/view/1201) - Operações em ABP II *Grafos*
@@ -79,7 +79,7 @@
   - [x]  [1276](https://www.beecrowd.com.br/judge/pt/problems/view/1276) - [Faixa de Letras](https://github.com/potigol/beecrowd/blob/master/src/1200/1276.poti) *Strings*
   - [x]  [1277](https://www.beecrowd.com.br/judge/pt/problems/view/1277) - [Pouca Frequência](https://github.com/potigol/beecrowd/blob/master/src/1200/1277.poti) *Strings*
   - [x]  [1278](https://www.beecrowd.com.br/judge/pt/problems/view/1278) - [Justificador II](https://github.com/potigol/beecrowd/blob/master/src/1200/1278.poti) *Strings*
-  - [ ]  [1279](https://www.beecrowd.com.br/judge/pt/problems/view/1279) - Ano Bissexto ou Ano não Bissexto *Matemática*
+  - [x]  [1279](https://www.beecrowd.com.br/judge/pt/problems/view/1279) - [Ano Bissexto ou Ano não Bissexto](https://github.com/potigol/beecrowd/blob/master/src/1200/1279.poti) *Matemática*
   - [ ]  [1280](https://www.beecrowd.com.br/judge/pt/problems/view/1280) - Amigos *Matemática*
   - [x]  [1281](https://www.beecrowd.com.br/judge/pt/problems/view/1281) - [Ida à Feira](https://github.com/potigol/beecrowd/blob/master/src/1200/1281.poti) *Estruturas e Bibliotecas*
   - [ ]  [1282](https://www.beecrowd.com.br/judge/pt/problems/view/1282) - Organizando Pacotes *Paradigmas*
