@@ -1,9 +1,10 @@
-# Grafos (3 / 277)
+# Grafos (4 / 277)
 
 
 
 ## Problemas resolvidos
 
+  - [x]  [1905](https://www.beecrowd.com.br/judge/pt/problems/view/1905) - [Polícia e Ladrão](https://github.com/potigol/beecrowd/blob/master/src/1900/1905.poti)
   - [x]  [2428](https://www.beecrowd.com.br/judge/pt/problems/view/2428) - [Capital](https://github.com/potigol/beecrowd/blob/master/src/2400/2428.poti)
   - [x]  [2687](https://www.beecrowd.com.br/judge/pt/problems/view/2687) - [Dominação Bacteriana](https://github.com/potigol/beecrowd/blob/master/src/2600/2687.poti)
   - [x]  [3043](https://www.beecrowd.com.br/judge/pt/problems/view/3043) - [Festa Junina](https://github.com/potigol/beecrowd/blob/master/src/3000/3043.poti)
@@ -134,7 +135,6 @@
   - [ ]  [1894](https://www.beecrowd.com.br/judge/pt/problems/view/1894) - Filogenia
   - [ ]  [1902](https://www.beecrowd.com.br/judge/pt/problems/view/1902) - Sociedade Brasileira Casamenteira
   - [ ]  [1903](https://www.beecrowd.com.br/judge/pt/problems/view/1903) - Cadeia Alimentar
-  - [ ]  [1905](https://www.beecrowd.com.br/judge/pt/problems/view/1905) - Polícia e Ladrão
   - [ ]  [1906](https://www.beecrowd.com.br/judge/pt/problems/view/1906) - Senhas de Collatz
   - [ ]  [1907](https://www.beecrowd.com.br/judge/pt/problems/view/1907) - Coloração de Cenários de Jogos
   - [ ]  [1908](https://www.beecrowd.com.br/judge/pt/problems/view/1908) - UFFS Multicampi

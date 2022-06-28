@@ -1,0 +1,28 @@
+pousos(avioes: Lista[Lista[Texto]]): Lista[Texto]
+  se avioes == [[], [], [], []] então
+    []
+  senão
+    avioes.mapeie(_.pegue(1))
+          .selecione(_ <> [])
+          .injete([""].cauda)(_ + _)
+            +
+          pousos(avioes.mapeie(_.descarte(1)))
+  fim
+fim
+
+var avioes: Lista[Lista[Texto]] := [[], [], [], []]
+
+var a := leia_texto
+var sentido := 1
+enquanto a <> "0" faça
+  se a[1] == '-' então
+    sentido := -a.inteiro
+  senão
+    avioes[sentido] := a :: avioes[sentido]
+  fim
+  a := leia_texto
+fim
+
+avioes := [avioes[1], avioes[3], avioes[2], avioes[4]].mapeie(_.inverta)
+
+escreva pousos(avioes).junte(" ")

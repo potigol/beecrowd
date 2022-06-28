@@ -1,0 +1,30 @@
+policia(labirinto, caminho: Lista[Inteiro]): Lógico =
+  se caminho.cabeça == 25 então
+    verdadeiro
+  senão
+    proximos = vizinhos(caminho.cabeca).selecione(a => labirinto[a] == 0) - caminho
+    proximos.injete(falso)((a, b) => a ou policia(labirinto, b :: caminho))
+  fim
+
+vizinhos(n: Inteiro) =
+  [n + 5, se n mod 5 <> 0 entao n + 1 senao 0 fim,
+   se n mod 5 <> 1 então n - 1 senão 0 fim, n - 5].selecione(a => a >= 1 e a <= 25)
+
+leia_labirinto()
+  var lista: Lista[Inteiro] = []
+  enquanto lista.tamanho < 25 faça
+    a = leia_texto.lista.mapeie(_ - '0').selecione(c => c == 1 ou c == 0)
+    lista := lista + a
+  fim
+  lista
+fim
+
+t = leia_inteiro
+para i de 1 até t faça
+  labirinto = leia_labirinto
+  se policia(labirinto, [-4]) então
+    escreva "COPS"
+  senão
+    escreva "ROBBERS"
+  fim
+fim

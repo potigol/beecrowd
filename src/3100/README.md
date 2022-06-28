@@ -1,4 +1,4 @@
-# Problemas 3100 (34%)
+# Problemas 3100 (36%)
 
   - [ ]  [3100](https://www.beecrowd.com.br/judge/pt/problems/view/3100) - Os Dígitos da Sorte *Strings*
   - [ ]  [3101](https://www.beecrowd.com.br/judge/pt/problems/view/3101) - Famílias Poligâmicas *Grafos*
@@ -63,7 +63,7 @@
   - [x]  [3160](https://www.beecrowd.com.br/judge/pt/problems/view/3160) - [Amigos](https://github.com/potigol/beecrowd/blob/master/src/3100/3160.poti) *Estruturas e Bibliotecas*
   - [x]  [3161](https://www.beecrowd.com.br/judge/pt/problems/view/3161) - [As Frutas Esquecidas](https://github.com/potigol/beecrowd/blob/master/src/3100/3161.poti) *Iniciante*
   - [x]  [3162](https://www.beecrowd.com.br/judge/pt/problems/view/3162) - [Comunicação Espacial](https://github.com/potigol/beecrowd/blob/master/src/3100/3162.poti) *Iniciante*
-  - [ ]  [3163](https://www.beecrowd.com.br/judge/pt/problems/view/3163) - Controlador de Vôo *Estruturas e Bibliotecas*
+  - [x]  [3163](https://www.beecrowd.com.br/judge/pt/problems/view/3163) - [Controlador de Vôo](https://github.com/potigol/beecrowd/blob/master/src/3100/3163.poti) *Estruturas e Bibliotecas*
   - [x]  [3164](https://www.beecrowd.com.br/judge/pt/problems/view/3164) - [Fiscalizando Empresa](https://github.com/potigol/beecrowd/blob/master/src/3100/3164.poti) *Iniciante*
   - [x]  [3165](https://www.beecrowd.com.br/judge/pt/problems/view/3165) - [Primos Gêmeos](https://github.com/potigol/beecrowd/blob/master/src/3100/3165.poti) *Matemática*
   - [x]  [3166](https://www.beecrowd.com.br/judge/pt/problems/view/3166) - [Procurando Palavras na Diagonal Principal](https://github.com/potigol/beecrowd/blob/master/src/3100/3166.poti) *Iniciante*
@@ -82,7 +82,7 @@
   - [ ]  [3179](https://www.beecrowd.com.br/judge/pt/problems/view/3179) - Melhor Compressão de Todas *Matemática*
   - [ ]  [3180](https://www.beecrowd.com.br/judge/pt/problems/view/3180) - Roubo de Código *Strings*
   - [ ]  [3181](https://www.beecrowd.com.br/judge/pt/problems/view/3181) - Jantar *Iniciante*
-  - [ ]  [3182](https://www.beecrowd.com.br/judge/pt/problems/view/3182) - Planejamento de Evento *Matemática*
+  - [x]  [3182](https://www.beecrowd.com.br/judge/pt/problems/view/3182) - [Planejamento de Evento](https://github.com/potigol/beecrowd/blob/master/src/3100/3182.poti) *Matemática*
   - [ ]  [3183](https://www.beecrowd.com.br/judge/pt/problems/view/3183) - Corrigindo os Bugs *Matemática*
   - [ ]  [3184](https://www.beecrowd.com.br/judge/pt/problems/view/3184) - Obtendo Ouro *Geometria Computacional*
   - [ ]  [3185](https://www.beecrowd.com.br/judge/pt/problems/view/3185) - Evidência Difícil *Matemática*

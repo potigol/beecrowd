@@ -1,0 +1,16 @@
+in = leia_inteiros(" ")
+guests, budget, hotels =  in[1], in[2], in[3]
+
+values =
+  para i de 1 até hotels,
+       price em [leia_inteiro],
+       rooms em [leia_inteiros(" ").ordene( _ > _ ).cabeça]
+         se rooms >= guests e price * guests <= budget gere
+           price * guests
+  fim
+
+se values == [] então
+  escreva "stay home"
+senão
+  escreva values.ordene.cabeça
+fim
