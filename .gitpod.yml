@@ -4,4 +4,4 @@ tasks:
 
 vscode:
   extensions:
-    - potigol.potigol-language@0.1.0:9ae491d51a98a07667195b1794326bae
+    - potigol.potigol-language
