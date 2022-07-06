@@ -1,4 +1,4 @@
-# Problemas 3200 (19%)
+# Problemas 3200 (20%)
 
   - [ ]  [3200](https://www.beecrowd.com.br/judge/pt/problems/view/3200) - Card Trick *Ad-Hoc*
   - [ ]  [3201](https://www.beecrowd.com.br/judge/pt/problems/view/3201) - Traveling Salesman *Estruturas e Bibliotecas*
@@ -27,7 +27,7 @@
   - [x]  [3224](https://www.beecrowd.com.br/judge/pt/problems/view/3224) - [Aaah!](https://github.com/potigol/beecrowd/blob/master/src/3200/3224.poti) *Iniciante*
   - [ ]  [3225](https://www.beecrowd.com.br/judge/pt/problems/view/3225) - Ordenação dos Pães *Ad-Hoc*
   - [ ]  [3226](https://www.beecrowd.com.br/judge/pt/problems/view/3226) - Seleção de Biscoito *Ad-Hoc*
-  - [ ]  [3227](https://www.beecrowd.com.br/judge/pt/problems/view/3227) - Doorman *Ad-Hoc*
+  - [x]  [3227](https://www.beecrowd.com.br/judge/pt/problems/view/3227) - [Doorman](https://github.com/potigol/beecrowd/blob/master/src/3200/3227.poti) *Ad-Hoc*
   - [ ]  [3228](https://www.beecrowd.com.br/judge/pt/problems/view/3228) - Eco-driving *Ad-Hoc*
   - [ ]  [3229](https://www.beecrowd.com.br/judge/pt/problems/view/3229) - Resenhas de Comida *Iniciante*
   - [ ]  [3230](https://www.beecrowd.com.br/judge/pt/problems/view/3230) - Senhores da Guerra Galácticos *Iniciante*

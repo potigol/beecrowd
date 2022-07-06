@@ -1,0 +1,23 @@
+contar(max, diferença: Inteiro, fila: Lista[Caractere], total: Inteiro): Inteiro
+  se diferença > max ou -diferença > max então
+    total - 1
+  senãose fila == [] então
+    total
+  senãose fila.pegue(2).tamanho == 2 então
+    a = fila.pegue(2)
+    se a[1] == a[2] ou a[1] == 'M' e diferença <= 0 ou a[1] <> 'M' e diferença >= 0 então
+      d = se fila[1] == 'M' então diferença + 1 senão diferença - 1 fim
+      contar(max, d, fila.cauda, total + 1)
+    senão
+      d = se fila[2] == 'M' então diferença + 1 senão diferença - 1 fim
+      contar(max, d, fila[1] :: fila.cauda.cauda, total + 1)
+    fim
+  senão
+    d = se fila[1] == 'M' então diferença + 1 senão diferença - 1 fim
+    contar(max, d, fila.cauda, total + 1)
+  fim
+fim
+
+n = leia_inteiro
+fila = leia_texto.lista
+escreva contar(n, 0, fila, 0)

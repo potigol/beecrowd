@@ -1,0 +1,33 @@
+n = leia_inteiro
+var pilha : Lista[Inteiro] := []
+var registrador := Lista(100, 0)
+reg(comando: Lista[Texto]) = comando[2].cauda.inteiro + 1
+
+para i de 1 até n faça
+  comando = leia_textos("_")
+  escolha comando[1]
+    caso "push" se comando[2][1] == 'R' =>
+      pilha := registrador[reg(comando)] :: pilha
+    caso "push" =>
+      pilha := comando[2].inteiro :: pilha
+    caso "pop" =>
+      a = pilha.cabeça
+      pilha := pilha.cauda
+      registrador[reg(comando)] := a
+    caso "add" =>
+      a, b = pilha[1], pilha[2]
+      pilha := (a + b) :: pilha.descarte(2)
+    caso "mul" =>
+      a, b = pilha[1], pilha[2]
+      pilha := (a * b) :: pilha.descarte(2)
+    caso "div" =>
+      a, b = pilha[1], pilha[2]
+      pilha := (b div a) :: pilha.descarte(2)
+    caso "sub" =>
+      a, b = pilha[1], pilha[2]
+      pilha := (b - a) :: pilha.descarte(2)
+    caso _ =>
+      escreva pilha[1]
+      pilha := pilha.cauda
+  fim
+fim

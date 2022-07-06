@@ -1,4 +1,4 @@
-# Ad-Hoc (191 / 745)
+# Ad-Hoc (193 / 745)
 
 
 
@@ -189,8 +189,10 @@
   - [x]  [3130](https://www.beecrowd.com.br/judge/pt/problems/view/3130) - [Caixas Por Todo Lado](https://github.com/potigol/beecrowd/blob/master/src/3100/3130.poti)
   - [x]  [3134](https://www.beecrowd.com.br/judge/pt/problems/view/3134) - [Balança Equilibrada](https://github.com/potigol/beecrowd/blob/master/src/3100/3134.poti)
   - [x]  [3135](https://www.beecrowd.com.br/judge/pt/problems/view/3135) - [Lista de Nomes](https://github.com/potigol/beecrowd/blob/master/src/3100/3135.poti)
+  - [x]  [3136](https://www.beecrowd.com.br/judge/pt/problems/view/3136) - [Arquitetura de Pilha](https://github.com/potigol/beecrowd/blob/master/src/3100/3136.poti)
   - [x]  [3137](https://www.beecrowd.com.br/judge/pt/problems/view/3137) - [Páginas de um Livro](https://github.com/potigol/beecrowd/blob/master/src/3100/3137.poti)
   - [x]  [3205](https://www.beecrowd.com.br/judge/pt/problems/view/3205) - [Nasty Hacks](https://github.com/potigol/beecrowd/blob/master/src/3200/3205.poti)
+  - [x]  [3227](https://www.beecrowd.com.br/judge/pt/problems/view/3227) - [Doorman](https://github.com/potigol/beecrowd/blob/master/src/3200/3227.poti)
   - [x]  [3263](https://www.beecrowd.com.br/judge/pt/problems/view/3263) - [Apague Com Segurança](https://github.com/potigol/beecrowd/blob/master/src/3200/3263.poti)
   - [x]  [3307](https://www.beecrowd.com.br/judge/pt/problems/view/3307) - [Decora o Rolê!](https://github.com/potigol/beecrowd/blob/master/src/3300/3307.poti)
   - [x]  [3309](https://www.beecrowd.com.br/judge/pt/problems/view/3309) - [Felizes são estes Números](https://github.com/potigol/beecrowd/blob/master/src/3300/3309.poti)
@@ -713,7 +715,6 @@
   - [ ]  [3131](https://www.beecrowd.com.br/judge/pt/problems/view/3131) - Índice de Reputação
   - [ ]  [3132](https://www.beecrowd.com.br/judge/pt/problems/view/3132) - DNA Alienígena
   - [ ]  [3133](https://www.beecrowd.com.br/judge/pt/problems/view/3133) - Fila de Navios
-  - [ ]  [3136](https://www.beecrowd.com.br/judge/pt/problems/view/3136) - Arquitetura de Pilha
   - [ ]  [3168](https://www.beecrowd.com.br/judge/pt/problems/view/3168) - Aposta dos Gnomos
   - [ ]  [3172](https://www.beecrowd.com.br/judge/pt/problems/view/3172) - Dali e Dila
   - [ ]  [3175](https://www.beecrowd.com.br/judge/pt/problems/view/3175) - Os Presentes Do Noel
@@ -731,7 +732,6 @@
   - [ ]  [3222](https://www.beecrowd.com.br/judge/pt/problems/view/3222) - Cifra Playfair
   - [ ]  [3225](https://www.beecrowd.com.br/judge/pt/problems/view/3225) - Ordenação dos Pães
   - [ ]  [3226](https://www.beecrowd.com.br/judge/pt/problems/view/3226) - Seleção de Biscoito
-  - [ ]  [3227](https://www.beecrowd.com.br/judge/pt/problems/view/3227) - Doorman
   - [ ]  [3228](https://www.beecrowd.com.br/judge/pt/problems/view/3228) - Eco-driving
   - [ ]  [3240](https://www.beecrowd.com.br/judge/pt/problems/view/3240) - Doodling
   - [ ]  [3254](https://www.beecrowd.com.br/judge/pt/problems/view/3254) - Espaço Privado
