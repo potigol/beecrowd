@@ -1,0 +1,23 @@
+tipo Duende
+  nome: Texto
+  idade: Inteiro
+  saida = "{nome} {idade}"
+fim
+
+n = leia_inteiro
+duendes = para i de 1 até n gere
+  a = leia_textos(" ")
+  Duende(a[1], a[2].inteiro)
+fim
+
+ordem = duendes.ordene((a, b) =>
+  se a.idade <> b.idade então a.idade > b.idade senão a.nome < b.nome fim
+)
+times = n div 3
+para time de 1 até times faça
+  escreva "Time {time}"
+  escreva ordem[time].saida
+  escreva ordem[time + times].saida
+  escreva ordem[time + 2 * times].saida
+  escreva ""
+fim

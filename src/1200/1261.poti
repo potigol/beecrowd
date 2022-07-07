@@ -1,0 +1,32 @@
+tipo Palavra
+  nome: Texto
+  valor: Inteiro
+fim
+
+soma(palavras: Lista[Palavra], descrição: Lista[Texto], total: Inteiro): Inteiro =
+  se palavras == [] ou descrição == [] então
+    total
+  senãose palavras.cabeça.nome == descrição.cabeça então
+    soma(palavras, descrição.cauda, total + palavras.cabeça.valor)
+  senãose palavras.cabeça.nome < descrição.cabeça
+    soma(palavras.cauda, descrição, total)
+  senão
+    soma(palavras, descrição.cauda, total)
+  fim
+
+a = leia_inteiros(" ")
+m, n = a[1], a[2]
+palavras = para i de 1 até m gere
+  entrada = leia_textos(" ")
+  Palavra(entrada[1], entrada[2].inteiro)
+fim.ordene(_.nome)
+
+para i de 1 até n faça
+  var descrição := leia_textos(" ")
+  var entrada := leia_texto
+  enquanto entrada <> "." faça
+    descrição := entrada.divida(" ") + descrição
+    entrada := leia_texto
+  fim
+  escreva soma(palavras, descrição.ordene, 0)
+fim

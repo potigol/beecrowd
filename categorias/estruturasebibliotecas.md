@@ -1,4 +1,4 @@
-# Estruturas e Bibliotecas (31 / 179)
+# Estruturas e Bibliotecas (33 / 179)
 
 
 
@@ -13,6 +13,7 @@
   - [x]  [1251](https://www.beecrowd.com.br/judge/pt/problems/view/1251) - [Diga-me a Frequência](https://github.com/potigol/beecrowd/blob/master/src/1200/1251.poti)
   - [x]  [1258](https://www.beecrowd.com.br/judge/pt/problems/view/1258) - [Camisetas](https://github.com/potigol/beecrowd/blob/master/src/1200/1258.poti)
   - [x]  [1259](https://www.beecrowd.com.br/judge/pt/problems/view/1259) - [Pares e Ímpares](https://github.com/potigol/beecrowd/blob/master/src/1200/1259.poti)
+  - [x]  [1261](https://www.beecrowd.com.br/judge/pt/problems/view/1261) - [Pontos de Feno](https://github.com/potigol/beecrowd/blob/master/src/1200/1261.poti)
   - [x]  [1281](https://www.beecrowd.com.br/judge/pt/problems/view/1281) - [Ida à Feira](https://github.com/potigol/beecrowd/blob/master/src/1200/1281.poti)
   - [x]  [1340](https://www.beecrowd.com.br/judge/pt/problems/view/1340) - [Eu Posso Adivinhar a Estrutura de Dados!](https://github.com/potigol/beecrowd/blob/master/src/1300/1340.poti)
   - [x]  [1430](https://www.beecrowd.com.br/judge/pt/problems/view/1430) - [Composição de Jingles](https://github.com/potigol/beecrowd/blob/master/src/1400/1430.poti)
@@ -34,6 +35,7 @@
   - [x]  [3160](https://www.beecrowd.com.br/judge/pt/problems/view/3160) - [Amigos](https://github.com/potigol/beecrowd/blob/master/src/3100/3160.poti)
   - [x]  [3163](https://www.beecrowd.com.br/judge/pt/problems/view/3163) - [Controlador de Vôo](https://github.com/potigol/beecrowd/blob/master/src/3100/3163.poti)
   - [x]  [3171](https://www.beecrowd.com.br/judge/pt/problems/view/3171) - [Cordão de Led](https://github.com/potigol/beecrowd/blob/master/src/3100/3171.poti)
+  - [x]  [3176](https://www.beecrowd.com.br/judge/pt/problems/view/3176) - [Time de Duendes](https://github.com/potigol/beecrowd/blob/master/src/3100/3176.poti)
   - [x]  [3357](https://www.beecrowd.com.br/judge/pt/problems/view/3357) - [Rico do Mate](https://github.com/potigol/beecrowd/blob/master/src/3300/3357.poti)
 
 ## Problemas não resolvidos
@@ -55,7 +57,6 @@
   - [ ]  [1252](https://www.beecrowd.com.br/judge/pt/problems/view/1252) - Sort! Sort!! e Sort!!!
   - [ ]  [1256](https://www.beecrowd.com.br/judge/pt/problems/view/1256) - Tabelas Hash
   - [ ]  [1260](https://www.beecrowd.com.br/judge/pt/problems/view/1260) - Espécies de Madeira
-  - [ ]  [1261](https://www.beecrowd.com.br/judge/pt/problems/view/1261) - Pontos de Feno
   - [ ]  [1274](https://www.beecrowd.com.br/judge/pt/problems/view/1274) - P-Networks
   - [ ]  [1301](https://www.beecrowd.com.br/judge/pt/problems/view/1301) - Produto do Intervalo
   - [ ]  [1303](https://www.beecrowd.com.br/judge/pt/problems/view/1303) - Spurs Rocks
@@ -178,7 +179,6 @@
   - [ ]  [3148](https://www.beecrowd.com.br/judge/pt/problems/view/3148) - O Jardim
   - [ ]  [3149](https://www.beecrowd.com.br/judge/pt/problems/view/3149) - A Noiva do Trevo
   - [ ]  [3155](https://www.beecrowd.com.br/judge/pt/problems/view/3155) - Sócrates e suas Perguntas
-  - [ ]  [3176](https://www.beecrowd.com.br/judge/pt/problems/view/3176) - Time de Duendes
   - [ ]  [3186](https://www.beecrowd.com.br/judge/pt/problems/view/3186) - Cache Introspectivo
   - [ ]  [3190](https://www.beecrowd.com.br/judge/pt/problems/view/3190) - Optimal Parking
   - [ ]  [3201](https://www.beecrowd.com.br/judge/pt/problems/view/3201) - Traveling Salesman
