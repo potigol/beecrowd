@@ -1,6 +1,6 @@
-# Problemas 1200 (38%)
+# Problemas 1200 (39%)
 
-  - [ ]  [1200](https://www.beecrowd.com.br/judge/pt/problems/view/1200) - Operações em ABP I *Grafos*
+  - [x]  [1200](https://www.beecrowd.com.br/judge/pt/problems/view/1200) - [Operações em ABP I](https://github.com/potigol/beecrowd/blob/master/src/1200/1200.poti) *Grafos*
   - [ ]  [1201](https://www.beecrowd.com.br/judge/pt/problems/view/1201) - Operações em ABP II *Grafos*
   - [ ]  [1202](https://www.beecrowd.com.br/judge/pt/problems/view/1202) - Festival das Noites Brancas *Matemática*
   - [ ]  [1203](https://www.beecrowd.com.br/judge/pt/problems/view/1203) - Pontes de São Petersburgo *Paradigmas*

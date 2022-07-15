@@ -1,0 +1,66 @@
+tipo Valor = Caractere
+
+tipo abstrato No
+  valor(): Valor
+  esquerda(): No
+  direita(): No
+  inserir(v: Valor): No
+  altura(): Inteiro
+  pesquisar(v: Valor): Lógico
+  infixa(): Lista[Valor]
+  prefixa(): Lista[Valor]
+  posfixa(): Lista[Valor]
+fim
+
+max(a, b: Inteiro) = se a >= b então a senão b fim
+
+tipo Arvore: No
+  valor: Valor
+  esquerda, direita: No
+
+  altura = max(esquerda.altura, direita.altura) + 1
+
+  inserir(v: Valor): No =
+    se v < valor então
+      Arvore(valor, esquerda.inserir(v), direita)
+    senão
+      Arvore(valor, esquerda, direita.inserir(v))
+    fim
+
+  pesquisar(v: Valor) =
+    v == valor ou
+      (se v < valor então esquerda.pesquisar(v) senão direita.pesquisar(v) fim)
+
+  infixa()  = esquerda.infixa + valor :: direita.infixa
+  prefixa() = valor :: esquerda.prefixa + direita.prefixa
+  posfixa() = esquerda.posfixa + direita.posfixa + [valor]
+fim
+
+tipo Folha: No
+  valor = '_'
+  esquerda, direita = isto
+  altura = -1
+  inserir(v: Valor): No = Arvore(v, Folha(), Folha())
+  pesquisar(v: Valor) = falso
+  infixa, prefixa, posfixa: Lista[Valor] = []
+fim
+
+var arvore: No := Folha()
+var entrada := leia_texto
+enquanto nao eof faça
+  a = entrada.divida(" ")
+  escolha a[1]
+    caso "I" => arvore := arvore.inserir(a[2][1])
+    caso "P" => valor = a[2][1]
+                se arvore.pesquisar(valor) então
+                  escreva "{valor} existe"
+                senão
+                  escreva "{valor} nao existe"
+                fim
+    caso "INFIXA"  => escreva arvore.infixa.junte(" ")
+    caso "POSFIXA" => escreva arvore.posfixa.junte(" ")
+    caso "PREFIXA" => escreva arvore.prefixa.junte(" ")
+    caso _         =>
+  fim
+  entrada := leia_texto
+fim
