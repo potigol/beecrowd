@@ -1,4 +1,4 @@
-# Problemas 1400 (13%)
+# Problemas 1400 (14%)
 
   - [ ]  [1400](https://www.beecrowd.com.br/judge/pt/problems/view/1400) - Jogo - Contando *Matemática*
   - [ ]  [1401](https://www.beecrowd.com.br/judge/pt/problems/view/1401) - Gerando Permutações Ordenadas Rapidamente *Estruturas e Bibliotecas*
@@ -66,7 +66,7 @@
   - [ ]  [1463](https://www.beecrowd.com.br/judge/pt/problems/view/1463) - Árvore Binária de Expressão *Grafos*
   - [ ]  [1464](https://www.beecrowd.com.br/judge/pt/problems/view/1464) - Camadas de Cebola *Geometria Computacional*
   - [ ]  [1465](https://www.beecrowd.com.br/judge/pt/problems/view/1465) - Complexo, Difícil e Complicado *Matemática*
-  - [ ]  [1466](https://www.beecrowd.com.br/judge/pt/problems/view/1466) - Percurso em Árvore por Nível *Grafos*
+  - [x]  [1466](https://www.beecrowd.com.br/judge/pt/problems/view/1466) - [Percurso em Árvore por Nível](https://github.com/potigol/beecrowd/blob/master/src/1400/1466.poti) *Grafos*
   - [x]  [1467](https://www.beecrowd.com.br/judge/pt/problems/view/1467) - [Zerinho ou Um](https://github.com/potigol/beecrowd/blob/master/src/1400/1467.poti) *Ad-Hoc*
   - [ ]  [1468](https://www.beecrowd.com.br/judge/pt/problems/view/1468) - Balão *Geometria Computacional*
   - [ ]  [1469](https://www.beecrowd.com.br/judge/pt/problems/view/1469) - Chefe *Grafos*

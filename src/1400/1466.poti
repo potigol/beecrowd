@@ -1,0 +1,94 @@
+tipo Valor = Inteiro
+
+tipo abstrato No
+  valor(): Valor
+  esquerda(): No
+  direita(): No
+  inserir(v: Valor): No
+  altura(): Inteiro
+  pesquisar(v: Valor): Lógico
+  infixa(): Lista[Valor]
+  prefixa(): Lista[Valor]
+  posfixa(): Lista[Valor]
+fim
+
+max(a, b: Inteiro) = se a >= b então a senão b fim
+
+tipo Arvore: No
+  valor: Valor
+  esquerda, direita: No
+
+  altura = max(esquerda.altura, direita.altura) + 1
+
+  inserir(v: Valor): No =
+    se v < valor então
+      Arvore(valor, esquerda.inserir(v), direita)
+    senão
+      Arvore(valor, esquerda, direita.inserir(v))
+    fim
+
+  pesquisar(v: Valor) =
+    v == valor ou
+      (se v < valor então esquerda.pesquisar(v) senão direita.pesquisar(v) fim)
+
+  infixa()  = esquerda.infixa + valor :: direita.infixa
+  prefixa() = valor :: esquerda.prefixa + direita.prefixa
+  posfixa() = esquerda.posfixa + direita.posfixa + [valor]
+fim
+
+tipo Folha: No
+  valor: Valor = valor
+  esquerda, direita = isto
+  altura = -1
+  inserir(v: Valor): No = Arvore(v, Folha(), Folha())
+  pesquisar(v: Valor) = falso
+  infixa, prefixa, posfixa: Lista[Valor] = []
+fim
+
+tipo TipoFila = No
+
+tipo Fila
+  entrada, saida: Lista[TipoFila]
+
+  inserir(valor: TipoFila): Fila =
+    se saida == [] então
+      Fila([], (valor :: entrada).inverta)
+    senão
+      Fila(valor :: entrada, saida)
+    fim
+
+  cabeça(): TipoFila = saida.cabeça
+
+  vazia() = entrada == [] e saida == []
+
+  remover(): Fila =
+    se saida == [] então
+      Fila([], entrada.inverta.cauda)
+    senãose saida.cauda == [] então
+      Fila([], entrada.inverta)
+    senão
+      Fila(entrada, saida.cauda)
+    fim
+fim
+
+fila_vazia = Fila([], [])
+
+folha: No = Folha()
+c = leia_inteiro
+para i de 1 até c faça
+  leia_texto
+  num = leia_inteiros(" ")
+  arvore = num.injete(folha)((a, b) => a.inserir(b))
+  var fila := fila_vazia.inserir(arvore)
+  var list: Lista[Inteiro] = []
+  enquanto não fila.vazia faça
+    a = fila.cabeça
+    list := a.valor :: list
+    fila := fila.remover()
+    se a.esquerda <> folha então fila := fila.inserir(a.esquerda) fim
+    se a.direita <> folha então fila := fila.inserir(a.direita) fim
+  fim
+  escreva "Case {i}:"
+  escreva list.inverta.junte(" ")
+  escreva ""
+fim

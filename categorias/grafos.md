@@ -1,10 +1,12 @@
-# Grafos (5 / 277)
+# Grafos (7 / 277)
 
 
 
 ## Problemas resolvidos
 
+  - [x]  [1195](https://www.beecrowd.com.br/judge/pt/problems/view/1195) - [Árvore Binária de Busca](https://github.com/potigol/beecrowd/blob/master/src/1100/1195.poti)
   - [x]  [1200](https://www.beecrowd.com.br/judge/pt/problems/view/1200) - [Operações em ABP I](https://github.com/potigol/beecrowd/blob/master/src/1200/1200.poti)
+  - [x]  [1466](https://www.beecrowd.com.br/judge/pt/problems/view/1466) - [Percurso em Árvore por Nível](https://github.com/potigol/beecrowd/blob/master/src/1400/1466.poti)
   - [x]  [1905](https://www.beecrowd.com.br/judge/pt/problems/view/1905) - [Polícia e Ladrão](https://github.com/potigol/beecrowd/blob/master/src/1900/1905.poti)
   - [x]  [2428](https://www.beecrowd.com.br/judge/pt/problems/view/2428) - [Capital](https://github.com/potigol/beecrowd/blob/master/src/2400/2428.poti)
   - [x]  [2687](https://www.beecrowd.com.br/judge/pt/problems/view/2687) - [Dominação Bacteriana](https://github.com/potigol/beecrowd/blob/master/src/2600/2687.poti)
@@ -28,7 +30,6 @@
   - [ ]  [1152](https://www.beecrowd.com.br/judge/pt/problems/view/1152) - Estradas Escuras
   - [ ]  [1191](https://www.beecrowd.com.br/judge/pt/problems/view/1191) - Recuperação da Árvore
   - [ ]  [1194](https://www.beecrowd.com.br/judge/pt/problems/view/1194) - Prefixa, Infixa e Posfixa
-  - [ ]  [1195](https://www.beecrowd.com.br/judge/pt/problems/view/1195) - Árvore Binária de Busca
   - [ ]  [1201](https://www.beecrowd.com.br/judge/pt/problems/view/1201) - Operações em ABP II
   - [ ]  [1205](https://www.beecrowd.com.br/judge/pt/problems/view/1205) - Cerco a Leningrado
   - [ ]  [1207](https://www.beecrowd.com.br/judge/pt/problems/view/1207) - Os Benefícios da Vodka
@@ -65,7 +66,6 @@
   - [ ]  [1461](https://www.beecrowd.com.br/judge/pt/problems/view/1461) - Caminhos Simétricos Ótimos
   - [ ]  [1462](https://www.beecrowd.com.br/judge/pt/problems/view/1462) - Popularidade no Facebook
   - [ ]  [1463](https://www.beecrowd.com.br/judge/pt/problems/view/1463) - Árvore Binária de Expressão
-  - [ ]  [1466](https://www.beecrowd.com.br/judge/pt/problems/view/1466) - Percurso em Árvore por Nível
   - [ ]  [1469](https://www.beecrowd.com.br/judge/pt/problems/view/1469) - Chefe
   - [ ]  [1476](https://www.beecrowd.com.br/judge/pt/problems/view/1476) - Caminhão
   - [ ]  [1479](https://www.beecrowd.com.br/judge/pt/problems/view/1479) - Ajude seu General

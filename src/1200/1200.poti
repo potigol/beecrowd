@@ -37,7 +37,7 @@ tipo Arvore: No
 fim
 
 tipo Folha: No
-  valor = '_'
+  valor: Valor = valor
   esquerda, direita = isto
   altura = -1
   inserir(v: Valor): No = Arvore(v, Folha(), Folha())

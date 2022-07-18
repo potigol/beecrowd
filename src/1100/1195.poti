@@ -1,0 +1,49 @@
+tipo Valor = Inteiro
+
+tipo abstrato No
+  valor(): Valor
+  esquerda(): No
+  direita(): No
+  inserir(v: Valor): No
+  infixa(): Lista[Valor]
+  prefixa(): Lista[Valor]
+  posfixa(): Lista[Valor]
+fim
+
+max(a, b: Inteiro) = se a >= b então a senão b fim
+
+tipo Arvore: No
+  valor: Valor
+  esquerda, direita: No
+
+  inserir(v: Valor): No =
+    se v < valor então
+      Arvore(valor, esquerda.inserir(v), direita)
+    senão
+      Arvore(valor, esquerda, direita.inserir(v))
+    fim
+
+  infixa()  = esquerda.infixa + valor :: direita.infixa
+  prefixa() = valor :: esquerda.prefixa + direita.prefixa
+  posfixa() = esquerda.posfixa + direita.posfixa + [valor]
+fim
+
+tipo Folha: No
+  valor = 0
+  esquerda, direita = isto
+  inserir(v: Valor): No = Arvore(v, Folha(), Folha())
+  infixa, prefixa, posfixa: Lista[Valor] = []
+fim
+
+folha: No = Folha()
+c = leia_inteiro
+para i de 1 até c faça
+  leia_texto
+  numeros = leia_inteiros(" ")
+  arvore = numeros.injete(folha)((a, b) => a.inserir(b))
+  escreva "Case {i}:"
+  escreva "Pre.: {arvore.prefixa.junte(" ")}"
+  escreva "In..: {arvore.infixa.junte(" ")}"
+  escreva "Post: {arvore.posfixa.junte(" ")}"
+  escreva ""
+fim
