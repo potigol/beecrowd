@@ -1,0 +1,9 @@
+fat(n: Inteiro): BigInt = se n > 1 então fat(n-1) * n senão 1 fim
+
+var s := leia_texto
+enquanto s <> "0" faça
+    letras_repetidas = s.ordene.divida_quando(_ <> _).mapeie(_.tamanho).selecione(_ > 1).ordene
+    anagramas = letras_repetidas.injete(fat(s.tamanho))((a, b) => a div fat(b))
+    escreva(anagramas)
+    s := leia_texto
+fim
