@@ -1,4 +1,4 @@
-# Matemática (71 / 269)
+# Matemática (72 / 269)
 
 
 
@@ -41,6 +41,7 @@
   - [x]  [1805](https://www.beecrowd.com.br/judge/pt/problems/view/1805) - [Soma Natural](https://github.com/potigol/beecrowd/blob/master/src/1800/1805.poti)
   - [x]  [1869](https://www.beecrowd.com.br/judge/pt/problems/view/1869) - [Base 32](https://github.com/potigol/beecrowd/blob/master/src/1800/1869.poti)
   - [x]  [1921](https://www.beecrowd.com.br/judge/pt/problems/view/1921) - [Guilherme e Suas Pipas](https://github.com/potigol/beecrowd/blob/master/src/1900/1921.poti)
+  - [x]  [1989](https://www.beecrowd.com.br/judge/pt/problems/view/1989) - [Fazendo Nada](https://github.com/potigol/beecrowd/blob/master/src/1900/1989.poti)
   - [x]  [2044](https://www.beecrowd.com.br/judge/pt/problems/view/2044) - [Em Dívida](https://github.com/potigol/beecrowd/blob/master/src/2000/2044.poti)
   - [x]  [2066](https://www.beecrowd.com.br/judge/pt/problems/view/2066) - [amelborP mU](https://github.com/potigol/beecrowd/blob/master/src/2000/2066.poti)
   - [x]  [2084](https://www.beecrowd.com.br/judge/pt/problems/view/2084) - [Eleições](https://github.com/potigol/beecrowd/blob/master/src/2000/2084.poti)
@@ -180,7 +181,6 @@
   - [ ]  [1968](https://www.beecrowd.com.br/judge/pt/problems/view/1968) - A Terra Desconhecida
   - [ ]  [1969](https://www.beecrowd.com.br/judge/pt/problems/view/1969) - Generations
   - [ ]  [1981](https://www.beecrowd.com.br/judge/pt/problems/view/1981) - Embaralhando de Novo
-  - [ ]  [1989](https://www.beecrowd.com.br/judge/pt/problems/view/1989) - Fazendo Nada
   - [ ]  [1990](https://www.beecrowd.com.br/judge/pt/problems/view/1990) - Equilíbrio
   - [ ]  [1992](https://www.beecrowd.com.br/judge/pt/problems/view/1992) - Ganhando Tempo
   - [ ]  [1995](https://www.beecrowd.com.br/judge/pt/problems/view/1995) - Game, Set e Match

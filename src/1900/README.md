@@ -1,4 +1,4 @@
-# Problemas 1900 (23%)
+# Problemas 1900 (24%)
 
   - [ ]  [1900](https://www.beecrowd.com.br/judge/pt/problems/view/1900) - Sequências Nulas *Paradigmas*
   - [x]  [1901](https://www.beecrowd.com.br/judge/pt/problems/view/1901) - [Borboletas](https://github.com/potigol/beecrowd/blob/master/src/1900/1901.poti) *Ad-Hoc*
@@ -89,7 +89,7 @@
   - [x]  [1986](https://www.beecrowd.com.br/judge/pt/problems/view/1986) - [Perdido em Marte](https://github.com/potigol/beecrowd/blob/master/src/1900/1986.poti) *Ad-Hoc*
   - [x]  [1987](https://www.beecrowd.com.br/judge/pt/problems/view/1987) - [Divisibilidade Por 3](https://github.com/potigol/beecrowd/blob/master/src/1900/1987.poti) *Ad-Hoc*
   - [ ]  [1988](https://www.beecrowd.com.br/judge/pt/problems/view/1988) - Circuitos Turísticos *Grafos*
-  - [ ]  [1989](https://www.beecrowd.com.br/judge/pt/problems/view/1989) - Fazendo Nada *Matemática*
+  - [x]  [1989](https://www.beecrowd.com.br/judge/pt/problems/view/1989) - [Fazendo Nada](https://github.com/potigol/beecrowd/blob/master/src/1900/1989.poti) *Matemática*
   - [ ]  [1990](https://www.beecrowd.com.br/judge/pt/problems/view/1990) - Equilíbrio *Matemática*
   - [ ]  [1991](https://www.beecrowd.com.br/judge/pt/problems/view/1991) - Fábrica de Pontes *Geometria Computacional*
   - [ ]  [1992](https://www.beecrowd.com.br/judge/pt/problems/view/1992) - Ganhando Tempo *Matemática*
