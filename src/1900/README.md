@@ -1,4 +1,4 @@
-# Problemas 1900 (24%)
+# Problemas 1900 (25%)
 
   - [ ]  [1900](https://www.beecrowd.com.br/judge/pt/problems/view/1900) - Sequências Nulas *Paradigmas*
   - [x]  [1901](https://www.beecrowd.com.br/judge/pt/problems/view/1901) - [Borboletas](https://github.com/potigol/beecrowd/blob/master/src/1900/1901.poti) *Ad-Hoc*
@@ -80,7 +80,7 @@
   - [ ]  [1977](https://www.beecrowd.com.br/judge/pt/problems/view/1977) - Não Posso me Atrasar *Grafos*
   - [ ]  [1978](https://www.beecrowd.com.br/judge/pt/problems/view/1978) - Câmeras *Paradigmas*
   - [ ]  [1979](https://www.beecrowd.com.br/judge/pt/problems/view/1979) - Salas Separadas *Grafos*
-  - [ ]  [1980](https://www.beecrowd.com.br/judge/pt/problems/view/1980) - Embaralhando *Ad-Hoc*
+  - [x]  [1980](https://www.beecrowd.com.br/judge/pt/problems/view/1980) - [Embaralhando](https://github.com/potigol/beecrowd/blob/master/src/1900/1980.poti) *Ad-Hoc*
   - [ ]  [1981](https://www.beecrowd.com.br/judge/pt/problems/view/1981) - Embaralhando de Novo *Matemática*
   - [ ]  [1982](https://www.beecrowd.com.br/judge/pt/problems/view/1982) - Novos Computadores *Geometria Computacional*
   - [x]  [1983](https://www.beecrowd.com.br/judge/pt/problems/view/1983) - [O Escolhido](https://github.com/potigol/beecrowd/blob/master/src/1900/1983.poti) *Iniciante*

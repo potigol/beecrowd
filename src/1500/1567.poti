@@ -1,0 +1,21 @@
+var n := leia_inteiro
+
+enquanto não eof faça
+  a = n * (n + 1)
+  b = a div 2
+  bb = BigInt(b * b)
+  bbb = bb * b
+  bbbb = bb * bb
+
+  s2 = a * (2 * n + 1) div 6
+  s3 = bb
+  s4 = (para i de 1 ate n gere i*i*i*i fim).injete(0)(_ + _)
+
+  r2 = s3 - s2
+  r3 = bbb - s3
+  r4 = bbbb - s4
+
+  escreva "{s2} {r2} {s3} {r3} {s4} {r4}"
+
+  n := leia_inteiro
+fim

@@ -1,4 +1,4 @@
-# Matemática (72 / 269)
+# Matemática (73 / 269)
 
 
 
@@ -30,6 +30,7 @@
   - [x]  [1512](https://www.beecrowd.com.br/judge/pt/problems/view/1512) - [Azulejos](https://github.com/potigol/beecrowd/blob/master/src/1500/1512.poti)
   - [x]  [1537](https://www.beecrowd.com.br/judge/pt/problems/view/1537) - [Fila do Banco](https://github.com/potigol/beecrowd/blob/master/src/1500/1537.poti)
   - [x]  [1555](https://www.beecrowd.com.br/judge/pt/problems/view/1555) - [Funções](https://github.com/potigol/beecrowd/blob/master/src/1500/1555.poti)
+  - [x]  [1567](https://www.beecrowd.com.br/judge/pt/problems/view/1567) - [(2/3/4)-D Sqr/Rects/Cubes/Boxes?](https://github.com/potigol/beecrowd/blob/master/src/1500/1567.poti)
   - [x]  [1582](https://www.beecrowd.com.br/judge/pt/problems/view/1582) - [O Teorema de Pitágoras](https://github.com/potigol/beecrowd/blob/master/src/1500/1582.poti)
   - [x]  [1585](https://www.beecrowd.com.br/judge/pt/problems/view/1585) - [Fazendo Pandorgas](https://github.com/potigol/beecrowd/blob/master/src/1500/1585.poti)
   - [x]  [1630](https://www.beecrowd.com.br/judge/pt/problems/view/1630) - [Estacas](https://github.com/potigol/beecrowd/blob/master/src/1600/1630.poti)
@@ -126,7 +127,6 @@
   - [ ]  [1544](https://www.beecrowd.com.br/judge/pt/problems/view/1544) - O Último Dígito Não-Zero
   - [ ]  [1554](https://www.beecrowd.com.br/judge/pt/problems/view/1554) - Bilhar N+1
   - [ ]  [1563](https://www.beecrowd.com.br/judge/pt/problems/view/1563) - O Grande Problema
-  - [ ]  [1567](https://www.beecrowd.com.br/judge/pt/problems/view/1567) - (2/3/4)-D Sqr/Rects/Cubes/Boxes?
   - [ ]  [1568](https://www.beecrowd.com.br/judge/pt/problems/view/1568) - {soma+=i++} até N
   - [ ]  [1570](https://www.beecrowd.com.br/judge/pt/problems/view/1570) - Um Dia na Terra da Matemática
   - [ ]  [1572](https://www.beecrowd.com.br/judge/pt/problems/view/1572) - O Torneio Surreal
