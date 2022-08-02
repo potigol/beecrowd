@@ -1,4 +1,4 @@
-# Problemas 1500 (28%)
+# Problemas 1500 (29%)
 
   - [ ]  [1500](https://www.beecrowd.com.br/judge/pt/problems/view/1500) - Consultas Horríveis *Estruturas e Bibliotecas*
   - [ ]  [1501](https://www.beecrowd.com.br/judge/pt/problems/view/1501) - Quantos Zeros e Quantos Dígitos? *Matemática*
@@ -59,7 +59,7 @@
   - [ ]  [1556](https://www.beecrowd.com.br/judge/pt/problems/view/1556) - Removendo Letras *Strings*
   - [x]  [1557](https://www.beecrowd.com.br/judge/pt/problems/view/1557) - [Matriz Quadrada III](https://github.com/potigol/beecrowd/blob/master/src/1500/1557.poti) *Iniciante*
   - [x]  [1558](https://www.beecrowd.com.br/judge/pt/problems/view/1558) - [Soma de Dois Quadrados](https://github.com/potigol/beecrowd/blob/master/src/1500/1558.poti) *Ad-Hoc*
-  - [ ]  [1559](https://www.beecrowd.com.br/judge/pt/problems/view/1559) - 2048 *Ad-Hoc*
+  - [x]  [1559](https://www.beecrowd.com.br/judge/pt/problems/view/1559) - [2048](https://github.com/potigol/beecrowd/blob/master/src/1500/1559.poti) *Ad-Hoc*
   - [ ]  [1560](https://www.beecrowd.com.br/judge/pt/problems/view/1560) - Energia dos Triângulos *Geometria Computacional*
   - [x]  [1561](https://www.beecrowd.com.br/judge/pt/problems/view/1561) - [Relógio Binário](https://github.com/potigol/beecrowd/blob/master/src/1500/1561.poti) *Ad-Hoc*
   - [ ]  [1562](https://www.beecrowd.com.br/judge/pt/problems/view/1562) - Escolhendo as Duplas *Grafos*

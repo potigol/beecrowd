@@ -1,4 +1,4 @@
-# Ad-Hoc (194 / 745)
+# Ad-Hoc (196 / 745)
 
 
 
@@ -51,6 +51,7 @@
   - [x]  [1547](https://www.beecrowd.com.br/judge/pt/problems/view/1547) - [Adivinha](https://github.com/potigol/beecrowd/blob/master/src/1500/1547.poti)
   - [x]  [1553](https://www.beecrowd.com.br/judge/pt/problems/view/1553) - [Perguntas mais Frequentes](https://github.com/potigol/beecrowd/blob/master/src/1500/1553.poti)
   - [x]  [1558](https://www.beecrowd.com.br/judge/pt/problems/view/1558) - [Soma de Dois Quadrados](https://github.com/potigol/beecrowd/blob/master/src/1500/1558.poti)
+  - [x]  [1559](https://www.beecrowd.com.br/judge/pt/problems/view/1559) - [2048](https://github.com/potigol/beecrowd/blob/master/src/1500/1559.poti)
   - [x]  [1561](https://www.beecrowd.com.br/judge/pt/problems/view/1561) - [Relógio Binário](https://github.com/potigol/beecrowd/blob/master/src/1500/1561.poti)
   - [x]  [1573](https://www.beecrowd.com.br/judge/pt/problems/view/1573) - [Fábrica de Chocolate](https://github.com/potigol/beecrowd/blob/master/src/1500/1573.poti)
   - [x]  [1609](https://www.beecrowd.com.br/judge/pt/problems/view/1609) - [Contando Carneirinhos](https://github.com/potigol/beecrowd/blob/master/src/1600/1609.poti)
@@ -63,6 +64,7 @@
   - [x]  [1794](https://www.beecrowd.com.br/judge/pt/problems/view/1794) - [Lavanderia](https://github.com/potigol/beecrowd/blob/master/src/1700/1794.poti)
   - [x]  [1796](https://www.beecrowd.com.br/judge/pt/problems/view/1796) - [Economia Brasileira](https://github.com/potigol/beecrowd/blob/master/src/1700/1796.poti)
   - [x]  [1802](https://www.beecrowd.com.br/judge/pt/problems/view/1802) - [Catálogo de Livros](https://github.com/potigol/beecrowd/blob/master/src/1800/1802.poti)
+  - [x]  [1808](https://www.beecrowd.com.br/judge/pt/problems/view/1808) - [O Retorno do Rei](https://github.com/potigol/beecrowd/blob/master/src/1800/1808.poti)
   - [x]  [1849](https://www.beecrowd.com.br/judge/pt/problems/view/1849) - [Dracarys!](https://github.com/potigol/beecrowd/blob/master/src/1800/1849.poti)
   - [x]  [1867](https://www.beecrowd.com.br/judge/pt/problems/view/1867) - [Maior Número de Um Algarismo](https://github.com/potigol/beecrowd/blob/master/src/1800/1867.poti)
   - [x]  [1876](https://www.beecrowd.com.br/judge/pt/problems/view/1876) - [Rabiola](https://github.com/potigol/beecrowd/blob/master/src/1800/1876.poti)
@@ -269,7 +271,6 @@
   - [ ]  [1518](https://www.beecrowd.com.br/judge/pt/problems/view/1518) - Tartarugas
   - [ ]  [1528](https://www.beecrowd.com.br/judge/pt/problems/view/1528) - Cordas Emaranhadas
   - [ ]  [1532](https://www.beecrowd.com.br/judge/pt/problems/view/1532) - Arremesso de Bolas
-  - [ ]  [1559](https://www.beecrowd.com.br/judge/pt/problems/view/1559) - 2048
   - [ ]  [1569](https://www.beecrowd.com.br/judge/pt/problems/view/1569) - Sobe e Desce
   - [ ]  [1574](https://www.beecrowd.com.br/judge/pt/problems/view/1574) - Instruções do Robô
   - [ ]  [1575](https://www.beecrowd.com.br/judge/pt/problems/view/1575) - Perseguindo Don Giovanni
@@ -321,7 +322,6 @@
   - [ ]  [1787](https://www.beecrowd.com.br/judge/pt/problems/view/1787) - URI
   - [ ]  [1791](https://www.beecrowd.com.br/judge/pt/problems/view/1791) - Descobrindo uma Matriz
   - [ ]  [1800](https://www.beecrowd.com.br/judge/pt/problems/view/1800) - Onde Estão Minhas Chaves
-  - [ ]  [1808](https://www.beecrowd.com.br/judge/pt/problems/view/1808) - O Retorno do Rei
   - [ ]  [1809](https://www.beecrowd.com.br/judge/pt/problems/view/1809) - Agentes Secretos
   - [ ]  [1811](https://www.beecrowd.com.br/judge/pt/problems/view/1811) - O Óscar Vai Para...
   - [ ]  [1814](https://www.beecrowd.com.br/judge/pt/problems/view/1814) - DNA Storage?

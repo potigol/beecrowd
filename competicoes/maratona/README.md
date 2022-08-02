@@ -1,4 +1,4 @@
-# Maratona de Programação (56 / 380)
+# Maratona de Programação (57 / 380)
 
 
 ## 2021
@@ -238,7 +238,7 @@
   - [ ]  [1751](https://www.beecrowd.com.br/judge/pt/problems/view/1751) - Alpinista Intrépido *Grafos*
   - [ ]  [1752](https://www.beecrowd.com.br/judge/pt/problems/view/1752) - Jornada Pelo Reino *Grafos*
   - [ ]  [1753](https://www.beecrowd.com.br/judge/pt/problems/view/1753) - Cavaleiros Da Tàvola Redonda *Ad-Hoc*
-  - [ ]  [1808](https://www.beecrowd.com.br/judge/pt/problems/view/1808) - O Retorno do Rei *Ad-Hoc*
+  - [x]  [1808](https://www.beecrowd.com.br/judge/pt/problems/view/1808) - [O Retorno do Rei](https://github.com/potigol/beecrowd/blob/master/src/1800/1808.poti) *Ad-Hoc*
        
 
 ## 2013

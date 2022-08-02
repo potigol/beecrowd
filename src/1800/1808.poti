@@ -1,0 +1,9 @@
+numeros = leia_texto.lista.mapeie(_ - '0')
+
+soma = numeros
+         .mapeie(a => se a == 0 então 9 senão a fim)
+         .injete(0)(_ + _)
+
+media = soma / numeros.selecione(_ > 0).tamanho
+
+escreva media formato "%.2f"

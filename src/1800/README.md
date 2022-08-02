@@ -1,4 +1,4 @@
-# Problemas 1800 (22%)
+# Problemas 1800 (23%)
 
   - [ ]  [1800](https://www.beecrowd.com.br/judge/pt/problems/view/1800) - Onde Estão Minhas Chaves *Ad-Hoc*
   - [ ]  [1801](https://www.beecrowd.com.br/judge/pt/problems/view/1801) - Brincando com Números *Matemática*
@@ -8,7 +8,7 @@
   - [x]  [1805](https://www.beecrowd.com.br/judge/pt/problems/view/1805) - [Soma Natural](https://github.com/potigol/beecrowd/blob/master/src/1800/1805.poti) *Matemática*
   - [ ]  [1806](https://www.beecrowd.com.br/judge/pt/problems/view/1806) - Agente 004 *Grafos*
   - [ ]  [1807](https://www.beecrowd.com.br/judge/pt/problems/view/1807) - Triângulo Trinomial, a Vingança *Matemática*
-  - [ ]  [1808](https://www.beecrowd.com.br/judge/pt/problems/view/1808) - O Retorno do Rei *Ad-Hoc*
+  - [x]  [1808](https://www.beecrowd.com.br/judge/pt/problems/view/1808) - [O Retorno do Rei](https://github.com/potigol/beecrowd/blob/master/src/1800/1808.poti) *Ad-Hoc*
   - [ ]  [1809](https://www.beecrowd.com.br/judge/pt/problems/view/1809) - Agentes Secretos *Ad-Hoc*
   - [ ]  [1810](https://www.beecrowd.com.br/judge/pt/problems/view/1810) - Beverly Hills, Century City *Paradigmas*
   - [ ]  [1811](https://www.beecrowd.com.br/judge/pt/problems/view/1811) - O Óscar Vai Para... *Ad-Hoc*
