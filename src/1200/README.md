@@ -1,4 +1,4 @@
-# Problemas 1200 (39%)
+# Problemas 1200 (40%)
 
   - [x]  [1200](https://www.beecrowd.com.br/judge/pt/problems/view/1200) - [Operações em ABP I](https://github.com/potigol/beecrowd/blob/master/src/1200/1200.poti) *Grafos*
   - [ ]  [1201](https://www.beecrowd.com.br/judge/pt/problems/view/1201) - Operações em ABP II *Grafos*
@@ -56,7 +56,7 @@
   - [x]  [1253](https://www.beecrowd.com.br/judge/pt/problems/view/1253) - [Cifra de César](https://github.com/potigol/beecrowd/blob/master/src/1200/1253.poti) *Strings*
   - [ ]  [1254](https://www.beecrowd.com.br/judge/pt/problems/view/1254) - Substituição de Tag *Strings*
   - [x]  [1255](https://www.beecrowd.com.br/judge/pt/problems/view/1255) - [Frequência de Letras](https://github.com/potigol/beecrowd/blob/master/src/1200/1255.poti) *Strings*
-  - [ ]  [1256](https://www.beecrowd.com.br/judge/pt/problems/view/1256) - Tabelas Hash *Estruturas e Bibliotecas*
+  - [x]  [1256](https://www.beecrowd.com.br/judge/pt/problems/view/1256) - [Tabelas Hash](https://github.com/potigol/beecrowd/blob/master/src/1200/1256.poti) *Estruturas e Bibliotecas*
   - [x]  [1257](https://www.beecrowd.com.br/judge/pt/problems/view/1257) - [Array Hash](https://github.com/potigol/beecrowd/blob/master/src/1200/1257.poti) *Strings*
   - [x]  [1258](https://www.beecrowd.com.br/judge/pt/problems/view/1258) - [Camisetas](https://github.com/potigol/beecrowd/blob/master/src/1200/1258.poti) *Estruturas e Bibliotecas*
   - [x]  [1259](https://www.beecrowd.com.br/judge/pt/problems/view/1259) - [Pares e Ímpares](https://github.com/potigol/beecrowd/blob/master/src/1200/1259.poti) *Estruturas e Bibliotecas*

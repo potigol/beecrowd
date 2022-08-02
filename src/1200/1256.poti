@@ -1,0 +1,18 @@
+tipo Valor chave: Inteiro valor: Texto fim
+    
+valores = para j de 0 ate 100 gere Valor(j, "\\") fim
+
+n = leia_inteiro
+para i de 1 até n faça
+  m = leia_inteiros(" ")[1]
+  chaves = leia_inteiros(" ")
+  hash = (chaves.mapeie(a => Valor(a mod m, a.texto)) + valores.pegue(m))
+           .ordene(_.chave)
+           .divida_quando(_.chave <> _.chave)
+  para h em hash faça
+    escreva "{h[1].chave} -> {h.mapeie(_.valor).junte(" -> ")}"
+  fim
+  se i < n então
+    escreva ""
+  fim
+fim

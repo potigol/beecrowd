@@ -2,7 +2,7 @@ var entrada := leia_inteiros(" ")
 enquanto entrada <> [-1, -1] faça
   n, m = entrada[1], entrada[2]
   episodios = leia_inteiros(" ").zip(para i de n ate 1 passo -1 gere i fim)
-  duração = episodios.injete(BigInt(0))((total, p) => total + p.primeiro * p.segundo)
-  escreva m * duração
+  duração = episodios.injete(0.0)((total, p) => total + p.primeiro * p.segundo)
+  escreva m * duração formato "%.0f"
   entrada := leia_inteiros(" ")
 fim

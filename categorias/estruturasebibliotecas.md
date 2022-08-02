@@ -1,4 +1,4 @@
-# Estruturas e Bibliotecas (33 / 179)
+# Estruturas e Bibliotecas (34 / 179)
 
 
 
@@ -11,6 +11,7 @@
   - [x]  [1110](https://www.beecrowd.com.br/judge/pt/problems/view/1110) - [Jogando Cartas Fora](https://github.com/potigol/beecrowd/blob/master/src/1100/1110.poti)
   - [x]  [1244](https://www.beecrowd.com.br/judge/pt/problems/view/1244) - [Ordenação por Tamanho](https://github.com/potigol/beecrowd/blob/master/src/1200/1244.poti)
   - [x]  [1251](https://www.beecrowd.com.br/judge/pt/problems/view/1251) - [Diga-me a Frequência](https://github.com/potigol/beecrowd/blob/master/src/1200/1251.poti)
+  - [x]  [1256](https://www.beecrowd.com.br/judge/pt/problems/view/1256) - [Tabelas Hash](https://github.com/potigol/beecrowd/blob/master/src/1200/1256.poti)
   - [x]  [1258](https://www.beecrowd.com.br/judge/pt/problems/view/1258) - [Camisetas](https://github.com/potigol/beecrowd/blob/master/src/1200/1258.poti)
   - [x]  [1259](https://www.beecrowd.com.br/judge/pt/problems/view/1259) - [Pares e Ímpares](https://github.com/potigol/beecrowd/blob/master/src/1200/1259.poti)
   - [x]  [1261](https://www.beecrowd.com.br/judge/pt/problems/view/1261) - [Pontos de Feno](https://github.com/potigol/beecrowd/blob/master/src/1200/1261.poti)
@@ -55,7 +56,6 @@
   - [ ]  [1236](https://www.beecrowd.com.br/judge/pt/problems/view/1236) - Compactação de Nulos e Brancos
   - [ ]  [1242](https://www.beecrowd.com.br/judge/pt/problems/view/1242) - Ácido Ribonucleico Alienígena
   - [ ]  [1252](https://www.beecrowd.com.br/judge/pt/problems/view/1252) - Sort! Sort!! e Sort!!!
-  - [ ]  [1256](https://www.beecrowd.com.br/judge/pt/problems/view/1256) - Tabelas Hash
   - [ ]  [1260](https://www.beecrowd.com.br/judge/pt/problems/view/1260) - Espécies de Madeira
   - [ ]  [1274](https://www.beecrowd.com.br/judge/pt/problems/view/1274) - P-Networks
   - [ ]  [1301](https://www.beecrowd.com.br/judge/pt/problems/view/1301) - Produto do Intervalo
