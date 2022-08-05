@@ -1,0 +1,12 @@
+var entrada := leia_inteiros(" ")
+enquanto entrada <> [0, 0] faça
+  n = entrada[2]
+  var linhas := Lista(n, leia_inteiros(" "))
+  var todos := falso
+  enquanto (não todos) e (linhas[1] <> []) faça
+    todos := linhas.mapeie(_.cabeça).injete(verdadeiro)((a, b) => a e b == 1)
+    linhas := linhas.mapeie(_.cauda)
+  fim
+  se todos então escreva "yes" senão escreva "no" fim
+  entrada := leia_inteiros(" ")
+fim

@@ -1,4 +1,4 @@
-# Maratona de Programação (57 / 380)
+# Maratona de Programação (58 / 380)
 
 
 ## 2021
@@ -488,7 +488,7 @@
 
   - [ ]  [1265](https://www.beecrowd.com.br/judge/pt/problems/view/1265) - DJ da Computação *Paradigmas*
   - [x]  [1266](https://www.beecrowd.com.br/judge/pt/problems/view/1266) - [Tornado!](https://github.com/potigol/beecrowd/blob/master/src/1200/1266.poti) *Ad-Hoc*
-  - [ ]  [1267](https://www.beecrowd.com.br/judge/pt/problems/view/1267) - Biblioteca Pascal *Ad-Hoc*
+  - [x]  [1267](https://www.beecrowd.com.br/judge/pt/problems/view/1267) - [Biblioteca Pascal](https://github.com/potigol/beecrowd/blob/master/src/1200/1267.poti) *Ad-Hoc*
   - [ ]  [1268](https://www.beecrowd.com.br/judge/pt/problems/view/1268) - Missão Impossível *Geometria Computacional*
   - [ ]  [1269](https://www.beecrowd.com.br/judge/pt/problems/view/1269) - ICPC Ataca Novamente *Paradigmas*
   - [ ]  [1270](https://www.beecrowd.com.br/judge/pt/problems/view/1270) - Fibra Óptica *Grafos*

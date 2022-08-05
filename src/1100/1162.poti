@@ -1,0 +1,18 @@
+n = leia_inteiro
+para a de 1 até n faça
+  l = leia_inteiro
+  var vagões := leia_inteiros(" ")
+  var cont := 0
+  var p := 1
+  enquanto vagões <> [] faça
+    se vagões[1] == p então
+        vagões := vagões.cauda
+    senão
+        pos = vagões.posição(p)
+        vagões := vagões.remova(pos)
+        cont := cont + pos - 1
+    fim
+    p := p + 1
+  fim
+  escreva "Optimal train swapping takes {cont} swaps."
+fim

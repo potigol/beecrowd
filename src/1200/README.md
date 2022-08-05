@@ -1,4 +1,4 @@
-# Problemas 1200 (40%)
+# Problemas 1200 (41%)
 
   - [x]  [1200](https://www.beecrowd.com.br/judge/pt/problems/view/1200) - [Operações em ABP I](https://github.com/potigol/beecrowd/blob/master/src/1200/1200.poti) *Grafos*
   - [ ]  [1201](https://www.beecrowd.com.br/judge/pt/problems/view/1201) - Operações em ABP II *Grafos*
@@ -67,7 +67,7 @@
   - [ ]  [1264](https://www.beecrowd.com.br/judge/pt/problems/view/1264) - Um Problema Fácil! *Matemática*
   - [ ]  [1265](https://www.beecrowd.com.br/judge/pt/problems/view/1265) - DJ da Computação *Paradigmas*
   - [x]  [1266](https://www.beecrowd.com.br/judge/pt/problems/view/1266) - [Tornado!](https://github.com/potigol/beecrowd/blob/master/src/1200/1266.poti) *Ad-Hoc*
-  - [ ]  [1267](https://www.beecrowd.com.br/judge/pt/problems/view/1267) - Biblioteca Pascal *Ad-Hoc*
+  - [x]  [1267](https://www.beecrowd.com.br/judge/pt/problems/view/1267) - [Biblioteca Pascal](https://github.com/potigol/beecrowd/blob/master/src/1200/1267.poti) *Ad-Hoc*
   - [ ]  [1268](https://www.beecrowd.com.br/judge/pt/problems/view/1268) - Missão Impossível *Geometria Computacional*
   - [ ]  [1269](https://www.beecrowd.com.br/judge/pt/problems/view/1269) - ICPC Ataca Novamente *Paradigmas*
   - [ ]  [1270](https://www.beecrowd.com.br/judge/pt/problems/view/1270) - Fibra Óptica *Grafos*

@@ -1,4 +1,4 @@
-# Estruturas e Bibliotecas (34 / 179)
+# Estruturas e Bibliotecas (35 / 179)
 
 
 
@@ -9,6 +9,7 @@
   - [x]  [1068](https://www.beecrowd.com.br/judge/pt/problems/view/1068) - [Balanço de Parênteses I](https://github.com/potigol/beecrowd/blob/master/src/1000/1068.poti)
   - [x]  [1069](https://www.beecrowd.com.br/judge/pt/problems/view/1069) - [Diamantes e Areia](https://github.com/potigol/beecrowd/blob/master/src/1000/1069.poti)
   - [x]  [1110](https://www.beecrowd.com.br/judge/pt/problems/view/1110) - [Jogando Cartas Fora](https://github.com/potigol/beecrowd/blob/master/src/1100/1110.poti)
+  - [x]  [1162](https://www.beecrowd.com.br/judge/pt/problems/view/1162) - [Organizador de Vagões](https://github.com/potigol/beecrowd/blob/master/src/1100/1162.poti)
   - [x]  [1244](https://www.beecrowd.com.br/judge/pt/problems/view/1244) - [Ordenação por Tamanho](https://github.com/potigol/beecrowd/blob/master/src/1200/1244.poti)
   - [x]  [1251](https://www.beecrowd.com.br/judge/pt/problems/view/1251) - [Diga-me a Frequência](https://github.com/potigol/beecrowd/blob/master/src/1200/1251.poti)
   - [x]  [1256](https://www.beecrowd.com.br/judge/pt/problems/view/1256) - [Tabelas Hash](https://github.com/potigol/beecrowd/blob/master/src/1200/1256.poti)
@@ -49,7 +50,6 @@
   - [ ]  [1088](https://www.beecrowd.com.br/judge/pt/problems/view/1088) - Bolhas e Baldes
   - [ ]  [1112](https://www.beecrowd.com.br/judge/pt/problems/view/1112) - Schweisen
   - [ ]  [1119](https://www.beecrowd.com.br/judge/pt/problems/view/1119) - A Fila de Desempregados
-  - [ ]  [1162](https://www.beecrowd.com.br/judge/pt/problems/view/1162) - Organizador de Vagões
   - [ ]  [1167](https://www.beecrowd.com.br/judge/pt/problems/view/1167) - Acampamento de Férias
   - [ ]  [1211](https://www.beecrowd.com.br/judge/pt/problems/view/1211) - Lista Telefônica Econômica
   - [ ]  [1215](https://www.beecrowd.com.br/judge/pt/problems/view/1215) - Primeiro Dicionário de Andy
