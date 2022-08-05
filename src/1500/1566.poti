@@ -1,0 +1,33 @@
+tipo Num numero: Inteiro quantidade: Inteiro fim
+
+min(x, y: Inteiro) = se x < y então x senão y fim
+
+f(entrada: Texto, p:Inteiro) = entrada.pegue(p - 1)
+                                      .divida(" ")
+                                      .ordene
+                                      .divida_quando(_ <> _)
+                                      .mapeie(a => Num(a.cabeça.inteiro, a.tamanho))
+
+g(nums: Lista[Num]) = nums.ordene(_.numero)
+                          .divida_quando(_.numero <> _.numero)
+                          .mapeie(a => Num(a.cabeça.numero, a.injete(0)(_ + _.quantidade)))
+
+nc = leia_inteiro
+para i de 1 até nc faça
+  var n := leia_inteiro
+  var entrada := leia_texto + " "
+  var result := Lista(0, Num(0, 0))
+  enquanto entrada <> "" faça
+    var p := min(50000, entrada.tamanho)
+    enquanto entrada[p] <> ' ' e p < entrada.tamanho faça p := p + 1 fim
+    result := result + f(entrada, p)        
+    entrada := entrada.descarte(p)
+  fim
+  result := g(result)          
+  imprima result[1].numero
+  result[1] := Num(result[1].numero, result[1].quantidade - 1)
+  para r em result faça
+    imprima " {r.numero}" * (r.quantidade)
+  fim
+  escreva ""
+fim

@@ -1,4 +1,4 @@
-# Problemas 1500 (29%)
+# Problemas 1500 (30%)
 
   - [ ]  [1500](https://www.beecrowd.com.br/judge/pt/problems/view/1500) - Consultas Horríveis *Estruturas e Bibliotecas*
   - [ ]  [1501](https://www.beecrowd.com.br/judge/pt/problems/view/1501) - Quantos Zeros e Quantos Dígitos? *Matemática*
@@ -66,7 +66,7 @@
   - [ ]  [1563](https://www.beecrowd.com.br/judge/pt/problems/view/1563) - O Grande Problema *Matemática*
   - [x]  [1564](https://www.beecrowd.com.br/judge/pt/problems/view/1564) - [Vai Ter Copa?](https://github.com/potigol/beecrowd/blob/master/src/1500/1564.poti) *Iniciante*
   - [ ]  [1565](https://www.beecrowd.com.br/judge/pt/problems/view/1565) - Ligue os Pontos *Paradigmas*
-  - [ ]  [1566](https://www.beecrowd.com.br/judge/pt/problems/view/1566) - Altura *Estruturas e Bibliotecas*
+  - [x]  [1566](https://www.beecrowd.com.br/judge/pt/problems/view/1566) - [Altura](https://github.com/potigol/beecrowd/blob/master/src/1500/1566.poti) *Estruturas e Bibliotecas*
   - [x]  [1567](https://www.beecrowd.com.br/judge/pt/problems/view/1567) - [(2/3/4)-D Sqr/Rects/Cubes/Boxes?](https://github.com/potigol/beecrowd/blob/master/src/1500/1567.poti) *Matemática*
   - [ ]  [1568](https://www.beecrowd.com.br/judge/pt/problems/view/1568) - {soma+=i++} até N *Matemática*
   - [ ]  [1569](https://www.beecrowd.com.br/judge/pt/problems/view/1569) - Sobe e Desce *Ad-Hoc*

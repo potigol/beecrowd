@@ -1,4 +1,4 @@
-# Ad-Hoc (197 / 745)
+# Ad-Hoc (198 / 745)
 
 
 
@@ -74,6 +74,7 @@
   - [x]  [1901](https://www.beecrowd.com.br/judge/pt/problems/view/1901) - [Borboletas](https://github.com/potigol/beecrowd/blob/master/src/1900/1901.poti)
   - [x]  [1936](https://www.beecrowd.com.br/judge/pt/problems/view/1936) - [Fatorial](https://github.com/potigol/beecrowd/blob/master/src/1900/1936.poti)
   - [x]  [1943](https://www.beecrowd.com.br/judge/pt/problems/view/1943) - [Top N](https://github.com/potigol/beecrowd/blob/master/src/1900/1943.poti)
+  - [x]  [1953](https://www.beecrowd.com.br/judge/pt/problems/view/1953) - [Roberto e a Sala Desenfreada](https://github.com/potigol/beecrowd/blob/master/src/1900/1953.poti)
   - [x]  [1980](https://www.beecrowd.com.br/judge/pt/problems/view/1980) - [Embaralhando](https://github.com/potigol/beecrowd/blob/master/src/1900/1980.poti)
   - [x]  [1986](https://www.beecrowd.com.br/judge/pt/problems/view/1986) - [Perdido em Marte](https://github.com/potigol/beecrowd/blob/master/src/1900/1986.poti)
   - [x]  [1987](https://www.beecrowd.com.br/judge/pt/problems/view/1987) - [Divisibilidade Por 3](https://github.com/potigol/beecrowd/blob/master/src/1900/1987.poti)
@@ -360,7 +361,6 @@
   - [ ]  [1940](https://www.beecrowd.com.br/judge/pt/problems/view/1940) - Jogo da Estratégia
   - [ ]  [1942](https://www.beecrowd.com.br/judge/pt/problems/view/1942) - Loteria
   - [ ]  [1945](https://www.beecrowd.com.br/judge/pt/problems/view/1945) - Simulador
-  - [ ]  [1953](https://www.beecrowd.com.br/judge/pt/problems/view/1953) - Roberto e a Sala Desenfreada
   - [ ]  [1964](https://www.beecrowd.com.br/judge/pt/problems/view/1964) - A Ira de Khan
   - [ ]  [1965](https://www.beecrowd.com.br/judge/pt/problems/view/1965) - A Procura por Spock
   - [ ]  [1966](https://www.beecrowd.com.br/judge/pt/problems/view/1966) - A Volta para Casa

@@ -1,4 +1,4 @@
-# Problemas 1900 (25%)
+# Problemas 1900 (26%)
 
   - [ ]  [1900](https://www.beecrowd.com.br/judge/pt/problems/view/1900) - Sequências Nulas *Paradigmas*
   - [x]  [1901](https://www.beecrowd.com.br/judge/pt/problems/view/1901) - [Borboletas](https://github.com/potigol/beecrowd/blob/master/src/1900/1901.poti) *Ad-Hoc*
@@ -53,7 +53,7 @@
   - [ ]  [1950](https://www.beecrowd.com.br/judge/pt/problems/view/1950) - Spöhndriger *Grafos*
   - [ ]  [1951](https://www.beecrowd.com.br/judge/pt/problems/view/1951) - Validador de Circuitos *Grafos*
   - [ ]  [1952](https://www.beecrowd.com.br/judge/pt/problems/view/1952) - O Cavalo no Xadrez 3D *Grafos*
-  - [ ]  [1953](https://www.beecrowd.com.br/judge/pt/problems/view/1953) - Roberto e a Sala Desenfreada *Ad-Hoc*
+  - [x]  [1953](https://www.beecrowd.com.br/judge/pt/problems/view/1953) - [Roberto e a Sala Desenfreada](https://github.com/potigol/beecrowd/blob/master/src/1900/1953.poti) *Ad-Hoc*
   - [ ]  [1954](https://www.beecrowd.com.br/judge/pt/problems/view/1954) - Caminhos Evolucionários Possíveis *Grafos*
   - [ ]  [1955](https://www.beecrowd.com.br/judge/pt/problems/view/1955) - See World *Grafos*
   - [ ]  [1956](https://www.beecrowd.com.br/judge/pt/problems/view/1956) - Acácias *Grafos*

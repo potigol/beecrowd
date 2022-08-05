@@ -1,4 +1,4 @@
-# Estruturas e Bibliotecas (35 / 179)
+# Estruturas e Bibliotecas (36 / 179)
 
 
 
@@ -20,6 +20,7 @@
   - [x]  [1340](https://www.beecrowd.com.br/judge/pt/problems/view/1340) - [Eu Posso Adivinhar a Estrutura de Dados!](https://github.com/potigol/beecrowd/blob/master/src/1300/1340.poti)
   - [x]  [1430](https://www.beecrowd.com.br/judge/pt/problems/view/1430) - [Composição de Jingles](https://github.com/potigol/beecrowd/blob/master/src/1400/1430.poti)
   - [x]  [1548](https://www.beecrowd.com.br/judge/pt/problems/view/1548) - [Fila do Recreio](https://github.com/potigol/beecrowd/blob/master/src/1500/1548.poti)
+  - [x]  [1566](https://www.beecrowd.com.br/judge/pt/problems/view/1566) - [Altura](https://github.com/potigol/beecrowd/blob/master/src/1500/1566.poti)
   - [x]  [1709](https://www.beecrowd.com.br/judge/pt/problems/view/1709) - [Baralho Embaralhado](https://github.com/potigol/beecrowd/blob/master/src/1700/1709.poti)
   - [x]  [1763](https://www.beecrowd.com.br/judge/pt/problems/view/1763) - [Tradutor do Papai Noel](https://github.com/potigol/beecrowd/blob/master/src/1700/1763.poti)
   - [x]  [1766](https://www.beecrowd.com.br/judge/pt/problems/view/1766) - [O Elfo das Trevas](https://github.com/potigol/beecrowd/blob/master/src/1700/1766.poti)
@@ -81,7 +82,6 @@
   - [ ]  [1527](https://www.beecrowd.com.br/judge/pt/problems/view/1527) - Guildas
   - [ ]  [1535](https://www.beecrowd.com.br/judge/pt/problems/view/1535) - Números Casal-Solteirão-Solteirona
   - [ ]  [1538](https://www.beecrowd.com.br/judge/pt/problems/view/1538) - Sequência Alienígena
-  - [ ]  [1566](https://www.beecrowd.com.br/judge/pt/problems/view/1566) - Altura
   - [ ]  [1587](https://www.beecrowd.com.br/judge/pt/problems/view/1587) - BIT Park
   - [ ]  [1594](https://www.beecrowd.com.br/judge/pt/problems/view/1594) - Guloso
   - [ ]  [1633](https://www.beecrowd.com.br/judge/pt/problems/view/1633) - SBC

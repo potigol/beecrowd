@@ -1,0 +1,16 @@
+var n := leia_inteiro
+enquanto n > 0 faça
+    var epr, ehd := 0
+    para i de 1 até n faça
+        a = leia_textos(" ")[2]
+        escolha a
+            caso "EPR" => epr := epr + 1
+            caso "EHD" => ehd := ehd + 1
+            caso _ =>
+        fim
+    fim
+    escreva "EPR: {epr}"
+    escreva "EHD: {ehd}"
+    escreva "INTRUSOS: {n - epr - ehd}"
+    n := leia_inteiro
+fim
