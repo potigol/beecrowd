@@ -1,4 +1,4 @@
-# Problemas 2200 (16%)
+# Problemas 2200 (17%)
 
   - [ ]  [2200](https://www.beecrowd.com.br/judge/pt/problems/view/2200) - Mummy Madness *Ad-Hoc*
   - [ ]  [2201](https://www.beecrowd.com.br/judge/pt/problems/view/2201) - Pyramids *Ad-Hoc*
@@ -47,7 +47,7 @@
   - [ ]  [2244](https://www.beecrowd.com.br/judge/pt/problems/view/2244) - Jogos Olímpicos *Ad-Hoc*
   - [ ]  [2245](https://www.beecrowd.com.br/judge/pt/problems/view/2245) - Kit de Encolhimento de Polígonos *Geometria Computacional*
   - [ ]  [2246](https://www.beecrowd.com.br/judge/pt/problems/view/2246) - Ladrilhos *Grafos*
-  - [ ]  [2247](https://www.beecrowd.com.br/judge/pt/problems/view/2247) - Cofrinhos da Vó Vitória *Ad-Hoc*
+  - [x]  [2247](https://www.beecrowd.com.br/judge/pt/problems/view/2247) - [Cofrinhos da Vó Vitória](https://github.com/potigol/beecrowd/blob/master/src/2200/2247.poti) *Ad-Hoc*
   - [ ]  [2248](https://www.beecrowd.com.br/judge/pt/problems/view/2248) - Estágio *Ad-Hoc*
   - [ ]  [2249](https://www.beecrowd.com.br/judge/pt/problems/view/2249) - Número de Erdos *Ad-Hoc*
   - [ ]  [2250](https://www.beecrowd.com.br/judge/pt/problems/view/2250) - Tetris *Ad-Hoc*

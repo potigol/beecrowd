@@ -1,0 +1,14 @@
+t = leia_inteiro
+para i de 1 até t faça
+  n = leia_inteiro
+  var instruções := Lista(0, 0)
+  para j de 1 até n faça
+    a = leia_textos(" ")
+    instruções := (escolha a
+      caso ["LEFT"]   => -1
+      caso ["RIGHT"]  => 1
+      caso _          => instruções[j - a[3].inteiro]
+    fim) :: instruções
+  fim
+  escreva instruções.injete(0)(_ + _)
+fim

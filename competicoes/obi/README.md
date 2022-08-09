@@ -1,4 +1,4 @@
-# Olimpíada de Informática (95 / 215)
+# Olimpíada de Informática (96 / 215)
 
 
 
@@ -243,7 +243,7 @@
 
 ## 2003
 
-  - [ ]  [2247](https://www.beecrowd.com.br/judge/pt/problems/view/2247) - Cofrinhos da Vó Vitória *Ad-Hoc*
+  - [x]  [2247](https://www.beecrowd.com.br/judge/pt/problems/view/2247) - [Cofrinhos da Vó Vitória](https://github.com/potigol/beecrowd/blob/master/src/2200/2247.poti) *Ad-Hoc*
   - [ ]  [2248](https://www.beecrowd.com.br/judge/pt/problems/view/2248) - Estágio *Ad-Hoc*
   - [ ]  [2249](https://www.beecrowd.com.br/judge/pt/problems/view/2249) - Número de Erdos *Ad-Hoc*
   - [ ]  [2250](https://www.beecrowd.com.br/judge/pt/problems/view/2250) - Tetris *Ad-Hoc*

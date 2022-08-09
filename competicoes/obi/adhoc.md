@@ -1,4 +1,4 @@
-# Ad-Hoc (76 / 172)
+# Ad-Hoc (77 / 172)
 
 
 
@@ -7,6 +7,7 @@
   - [x]  [2187](https://www.beecrowd.com.br/judge/pt/problems/view/2187) - [Bits Trocados](https://github.com/potigol/beecrowd/blob/master/src/2100/2187.poti)
   - [x]  [2188](https://www.beecrowd.com.br/judge/pt/problems/view/2188) - [Macaco-prego](https://github.com/potigol/beecrowd/blob/master/src/2100/2188.poti)
   - [x]  [2189](https://www.beecrowd.com.br/judge/pt/problems/view/2189) - [Quermesse](https://github.com/potigol/beecrowd/blob/master/src/2100/2189.poti)
+  - [x]  [2247](https://www.beecrowd.com.br/judge/pt/problems/view/2247) - [Cofrinhos da Vó Vitória](https://github.com/potigol/beecrowd/blob/master/src/2200/2247.poti)
   - [x]  [2251](https://www.beecrowd.com.br/judge/pt/problems/view/2251) - [Torres de Hanói](https://github.com/potigol/beecrowd/blob/master/src/2200/2251.poti)
   - [x]  [2286](https://www.beecrowd.com.br/judge/pt/problems/view/2286) - [Par ou Ímpar](https://github.com/potigol/beecrowd/blob/master/src/2200/2286.poti)
   - [x]  [2293](https://www.beecrowd.com.br/judge/pt/problems/view/2293) - [Campo de Minhocas](https://github.com/potigol/beecrowd/blob/master/src/2200/2293.poti)
@@ -89,7 +90,6 @@
   - [ ]  [2229](https://www.beecrowd.com.br/judge/pt/problems/view/2229) - Dobradura
   - [ ]  [2230](https://www.beecrowd.com.br/judge/pt/problems/view/2230) - Pedágio
   - [ ]  [2231](https://www.beecrowd.com.br/judge/pt/problems/view/2231) - Temperatura Lunar
-  - [ ]  [2247](https://www.beecrowd.com.br/judge/pt/problems/view/2247) - Cofrinhos da Vó Vitória
   - [ ]  [2248](https://www.beecrowd.com.br/judge/pt/problems/view/2248) - Estágio
   - [ ]  [2249](https://www.beecrowd.com.br/judge/pt/problems/view/2249) - Número de Erdos
   - [ ]  [2250](https://www.beecrowd.com.br/judge/pt/problems/view/2250) - Tetris

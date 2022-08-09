@@ -1,4 +1,4 @@
-# Ad-Hoc (198 / 745)
+# Ad-Hoc (201 / 745)
 
 
 
@@ -26,6 +26,7 @@
   - [x]  [1218](https://www.beecrowd.com.br/judge/pt/problems/view/1218) - [Getline Three - Calçados](https://github.com/potigol/beecrowd/blob/master/src/1200/1218.poti)
   - [x]  [1225](https://www.beecrowd.com.br/judge/pt/problems/view/1225) - [Coral Perfeito](https://github.com/potigol/beecrowd/blob/master/src/1200/1225.poti)
   - [x]  [1245](https://www.beecrowd.com.br/judge/pt/problems/view/1245) - [Botas Perdidas](https://github.com/potigol/beecrowd/blob/master/src/1200/1245.poti)
+  - [x]  [1250](https://www.beecrowd.com.br/judge/pt/problems/view/1250) - [KiloMan](https://github.com/potigol/beecrowd/blob/master/src/1200/1250.poti)
   - [x]  [1266](https://www.beecrowd.com.br/judge/pt/problems/view/1266) - [Tornado!](https://github.com/potigol/beecrowd/blob/master/src/1200/1266.poti)
   - [x]  [1267](https://www.beecrowd.com.br/judge/pt/problems/view/1267) - [Biblioteca Pascal](https://github.com/potigol/beecrowd/blob/master/src/1200/1267.poti)
   - [x]  [1285](https://www.beecrowd.com.br/judge/pt/problems/view/1285) - [Dígitos Diferentes](https://github.com/potigol/beecrowd/blob/master/src/1200/1285.poti)
@@ -55,6 +56,7 @@
   - [x]  [1559](https://www.beecrowd.com.br/judge/pt/problems/view/1559) - [2048](https://github.com/potigol/beecrowd/blob/master/src/1500/1559.poti)
   - [x]  [1561](https://www.beecrowd.com.br/judge/pt/problems/view/1561) - [Relógio Binário](https://github.com/potigol/beecrowd/blob/master/src/1500/1561.poti)
   - [x]  [1573](https://www.beecrowd.com.br/judge/pt/problems/view/1573) - [Fábrica de Chocolate](https://github.com/potigol/beecrowd/blob/master/src/1500/1573.poti)
+  - [x]  [1574](https://www.beecrowd.com.br/judge/pt/problems/view/1574) - [Instruções do Robô](https://github.com/potigol/beecrowd/blob/master/src/1500/1574.poti)
   - [x]  [1609](https://www.beecrowd.com.br/judge/pt/problems/view/1609) - [Contando Carneirinhos](https://github.com/potigol/beecrowd/blob/master/src/1600/1609.poti)
   - [x]  [1708](https://www.beecrowd.com.br/judge/pt/problems/view/1708) - [Volta](https://github.com/potigol/beecrowd/blob/master/src/1700/1708.poti)
   - [x]  [1743](https://www.beecrowd.com.br/judge/pt/problems/view/1743) - [Máquina de Verificação Automatizada](https://github.com/potigol/beecrowd/blob/master/src/1700/1743.poti)
@@ -85,6 +87,7 @@
   - [x]  [2188](https://www.beecrowd.com.br/judge/pt/problems/view/2188) - [Macaco-prego](https://github.com/potigol/beecrowd/blob/master/src/2100/2188.poti)
   - [x]  [2189](https://www.beecrowd.com.br/judge/pt/problems/view/2189) - [Quermesse](https://github.com/potigol/beecrowd/blob/master/src/2100/2189.poti)
   - [x]  [2217](https://www.beecrowd.com.br/judge/pt/problems/view/2217) - [Nove](https://github.com/potigol/beecrowd/blob/master/src/2200/2217.poti)
+  - [x]  [2247](https://www.beecrowd.com.br/judge/pt/problems/view/2247) - [Cofrinhos da Vó Vitória](https://github.com/potigol/beecrowd/blob/master/src/2200/2247.poti)
   - [x]  [2251](https://www.beecrowd.com.br/judge/pt/problems/view/2251) - [Torres de Hanói](https://github.com/potigol/beecrowd/blob/master/src/2200/2251.poti)
   - [x]  [2286](https://www.beecrowd.com.br/judge/pt/problems/view/2286) - [Par ou Ímpar](https://github.com/potigol/beecrowd/blob/master/src/2200/2286.poti)
   - [x]  [2293](https://www.beecrowd.com.br/judge/pt/problems/view/2293) - [Campo de Minhocas](https://github.com/potigol/beecrowd/blob/master/src/2200/2293.poti)
@@ -220,7 +223,6 @@
   - [ ]  [1209](https://www.beecrowd.com.br/judge/pt/problems/view/1209) - Festas de São Petersburgo
   - [ ]  [1228](https://www.beecrowd.com.br/judge/pt/problems/view/1228) - Grid de Largada
   - [ ]  [1246](https://www.beecrowd.com.br/judge/pt/problems/view/1246) - Estacionamento
-  - [ ]  [1250](https://www.beecrowd.com.br/judge/pt/problems/view/1250) - KiloMan
   - [ ]  [1271](https://www.beecrowd.com.br/judge/pt/problems/view/1271) - Onde estão meus Genes
   - [ ]  [1290](https://www.beecrowd.com.br/judge/pt/problems/view/1290) - Caixas Muito Especiais
   - [ ]  [1311](https://www.beecrowd.com.br/judge/pt/problems/view/1311) - Companheiros de Exército
@@ -273,7 +275,6 @@
   - [ ]  [1528](https://www.beecrowd.com.br/judge/pt/problems/view/1528) - Cordas Emaranhadas
   - [ ]  [1532](https://www.beecrowd.com.br/judge/pt/problems/view/1532) - Arremesso de Bolas
   - [ ]  [1569](https://www.beecrowd.com.br/judge/pt/problems/view/1569) - Sobe e Desce
-  - [ ]  [1574](https://www.beecrowd.com.br/judge/pt/problems/view/1574) - Instruções do Robô
   - [ ]  [1575](https://www.beecrowd.com.br/judge/pt/problems/view/1575) - Perseguindo Don Giovanni
   - [ ]  [1576](https://www.beecrowd.com.br/judge/pt/problems/view/1576) - O Problema da Linha do Horizonte
   - [ ]  [1578](https://www.beecrowd.com.br/judge/pt/problems/view/1578) - Matriz de Quadrados
@@ -430,7 +431,6 @@
   - [ ]  [2233](https://www.beecrowd.com.br/judge/pt/problems/view/2233) - Etiquetas Coloridas
   - [ ]  [2237](https://www.beecrowd.com.br/judge/pt/problems/view/2237) - Containers
   - [ ]  [2244](https://www.beecrowd.com.br/judge/pt/problems/view/2244) - Jogos Olímpicos
-  - [ ]  [2247](https://www.beecrowd.com.br/judge/pt/problems/view/2247) - Cofrinhos da Vó Vitória
   - [ ]  [2248](https://www.beecrowd.com.br/judge/pt/problems/view/2248) - Estágio
   - [ ]  [2249](https://www.beecrowd.com.br/judge/pt/problems/view/2249) - Número de Erdos
   - [ ]  [2250](https://www.beecrowd.com.br/judge/pt/problems/view/2250) - Tetris

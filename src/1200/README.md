@@ -1,4 +1,4 @@
-# Problemas 1200 (41%)
+# Problemas 1200 (42%)
 
   - [x]  [1200](https://www.beecrowd.com.br/judge/pt/problems/view/1200) - [Operações em ABP I](https://github.com/potigol/beecrowd/blob/master/src/1200/1200.poti) *Grafos*
   - [ ]  [1201](https://www.beecrowd.com.br/judge/pt/problems/view/1201) - Operações em ABP II *Grafos*
@@ -50,7 +50,7 @@
   - [x]  [1247](https://www.beecrowd.com.br/judge/pt/problems/view/1247) - [Guarda Costeira](https://github.com/potigol/beecrowd/blob/master/src/1200/1247.poti) *Matemática*
   - [ ]  [1248](https://www.beecrowd.com.br/judge/pt/problems/view/1248) - Plano de Dieta *Strings*
   - [ ] ~~xxxx~~
-  - [ ]  [1250](https://www.beecrowd.com.br/judge/pt/problems/view/1250) - KiloMan *Ad-Hoc*
+  - [x]  [1250](https://www.beecrowd.com.br/judge/pt/problems/view/1250) - [KiloMan](https://github.com/potigol/beecrowd/blob/master/src/1200/1250.poti) *Ad-Hoc*
   - [x]  [1251](https://www.beecrowd.com.br/judge/pt/problems/view/1251) - [Diga-me a Frequência](https://github.com/potigol/beecrowd/blob/master/src/1200/1251.poti) *Estruturas e Bibliotecas*
   - [ ]  [1252](https://www.beecrowd.com.br/judge/pt/problems/view/1252) - Sort! Sort!! e Sort!!! *Estruturas e Bibliotecas*
   - [x]  [1253](https://www.beecrowd.com.br/judge/pt/problems/view/1253) - [Cifra de César](https://github.com/potigol/beecrowd/blob/master/src/1200/1253.poti) *Strings*

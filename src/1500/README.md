@@ -1,4 +1,4 @@
-# Problemas 1500 (30%)
+# Problemas 1500 (31%)
 
   - [ ]  [1500](https://www.beecrowd.com.br/judge/pt/problems/view/1500) - Consultas Horríveis *Estruturas e Bibliotecas*
   - [ ]  [1501](https://www.beecrowd.com.br/judge/pt/problems/view/1501) - Quantos Zeros e Quantos Dígitos? *Matemática*
@@ -74,7 +74,7 @@
   - [ ]  [1571](https://www.beecrowd.com.br/judge/pt/problems/view/1571) - Um Quadrado &amp; Triângulos Equiláteros *Geometria Computacional*
   - [ ]  [1572](https://www.beecrowd.com.br/judge/pt/problems/view/1572) - O Torneio Surreal *Matemática*
   - [x]  [1573](https://www.beecrowd.com.br/judge/pt/problems/view/1573) - [Fábrica de Chocolate](https://github.com/potigol/beecrowd/blob/master/src/1500/1573.poti) *Ad-Hoc*
-  - [ ]  [1574](https://www.beecrowd.com.br/judge/pt/problems/view/1574) - Instruções do Robô *Ad-Hoc*
+  - [x]  [1574](https://www.beecrowd.com.br/judge/pt/problems/view/1574) - [Instruções do Robô](https://github.com/potigol/beecrowd/blob/master/src/1500/1574.poti) *Ad-Hoc*
   - [ ]  [1575](https://www.beecrowd.com.br/judge/pt/problems/view/1575) - Perseguindo Don Giovanni *Ad-Hoc*
   - [ ]  [1576](https://www.beecrowd.com.br/judge/pt/problems/view/1576) - O Problema da Linha do Horizonte *Ad-Hoc*
   - [ ]  [1577](https://www.beecrowd.com.br/judge/pt/problems/view/1577) - Polígonos Regulares Construtíveis *Matemática*
