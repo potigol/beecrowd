@@ -1,0 +1,14 @@
+var n := leia_inteiro
+var teste := 0
+enquanto n > 0 faça
+    teste := teste + 1
+    escreva "Teste {teste}"
+    var diferença := 0
+    para i de 1 até n faça
+        moedas = leia_inteiros(" ")
+        diferença := diferença + moedas[1] - moedas[2]
+        escreva diferença
+    fim
+    escreva ""
+    n := leia_inteiro
+fim
