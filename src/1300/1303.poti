@@ -1,0 +1,43 @@
+tipo Jogo
+    time: Inteiro
+    marcados, recebidos: Inteiro
+fim
+
+tipo Time
+    time: Inteiro
+    pontos: Inteiro
+    marcados, recebidos: Inteiro
+    media: Real = se recebidos == 0 então marcados senão marcados / recebidos fim
+fim
+
+ordem(a, b: Time) =
+    se a.pontos <> b.pontos então           a.pontos   > b.pontos
+    senãose a.media <> b.media então        a.media    > b.media
+    senãose a.marcados <> b.marcados então  a.marcados > b.marcados
+    senão                                   a.time     < b.time
+    fim
+
+var instancia := 0
+var n := leia_inteiro
+enquanto n > 0 faça
+  var resultado := Lista(0, Jogo(0, 0, 0))
+
+  para i de 1 até n * (n-1) div 2 faça
+    entrada = leia_inteiros(" ")
+    time1, pontos1, time2, pontos2 = entrada[1], entrada[2], entrada[3], entrada[4]
+    resultado := Jogo(time1, pontos1, pontos2) :: Jogo(time2, pontos2, pontos1) ::resultado
+  fim
+  times = resultado.ordene(_.time).divida_quando(_.time <> _.time)
+  b = para time em times gere
+        t = time[1].time
+        marcados = time.injete(0)(_ + _.marcados)
+        recebidos = time.injete(0)(_ + _.recebidos)
+        pontos = time.injete(0)((a, b) => a + (se b.marcados > b.recebidos então 2 senão 1 fim))
+        Time(t, pontos, marcados, recebidos)
+      fim
+  instancia := instancia + 1
+  se instancia > 1 então escreva "" fim
+  escreva "Instancia {instancia}"
+  escreva b.ordene(ordem(_, _)).mapeie(_.time).junte(" ")
+  n := leia_inteiro
+fim

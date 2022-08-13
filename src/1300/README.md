@@ -1,9 +1,9 @@
-# Problemas 1300 (13%)
+# Problemas 1300 (14%)
 
   - [x]  [1300](https://www.beecrowd.com.br/judge/pt/problems/view/1300) - [Horas e Minutos](https://github.com/potigol/beecrowd/blob/master/src/1300/1300.poti) *Ad-Hoc*
   - [ ]  [1301](https://www.beecrowd.com.br/judge/pt/problems/view/1301) - Produto do Intervalo *Estruturas e Bibliotecas*
   - [ ]  [1302](https://www.beecrowd.com.br/judge/pt/problems/view/1302) - Juntando Casais *Grafos*
-  - [ ]  [1303](https://www.beecrowd.com.br/judge/pt/problems/view/1303) - Spurs Rocks *Estruturas e Bibliotecas*
+  - [x]  [1303](https://www.beecrowd.com.br/judge/pt/problems/view/1303) - [Spurs Rocks](https://github.com/potigol/beecrowd/blob/master/src/1300/1303.poti) *Estruturas e Bibliotecas*
   - [ ]  [1304](https://www.beecrowd.com.br/judge/pt/problems/view/1304) - Velocidade Média *Matemática*
   - [ ]  [1305](https://www.beecrowd.com.br/judge/pt/problems/view/1305) - Arredondamento por Valor de Corte *Strings*
   - [ ]  [1306](https://www.beecrowd.com.br/judge/pt/problems/view/1306) - Numerando Estradas *Matemática*

@@ -1,0 +1,6 @@
+n = leia_inteiros(" ")[1]
+problemas = para i de 1 até n, a em leia_textos(" ") gere
+    (a, -(a[2].inteiro + a[1].inteiro))
+fim
+ordem = problemas.ordene(_.segundo).mapeie(_.primeiro)
+escreva ordem.junte("\n")

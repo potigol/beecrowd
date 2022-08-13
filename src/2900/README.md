@@ -1,4 +1,4 @@
-# Problemas 2900 (20%)
+# Problemas 2900 (21%)
 
   - [ ]  [2900](https://www.beecrowd.com.br/judge/pt/problems/view/2900) - Jogo de Varetas *Ad-Hoc*
   - [ ]  [2901](https://www.beecrowd.com.br/judge/pt/problems/view/2901) - Vôlei Marciano *Ad-Hoc*
@@ -58,7 +58,7 @@
   - [ ]  [2955](https://www.beecrowd.com.br/judge/pt/problems/view/2955) - Truuuuuco! *Matemática*
   - [x]  [2956](https://www.beecrowd.com.br/judge/pt/problems/view/2956) - [Derivada de 13 Variáveis](https://github.com/potigol/beecrowd/blob/master/src/2900/2956.poti) *Matemática*
   - [ ]  [2957](https://www.beecrowd.com.br/judge/pt/problems/view/2957) - Sir Vô *Ad-Hoc*
-  - [ ]  [2958](https://www.beecrowd.com.br/judge/pt/problems/view/2958) - O Rolê Bad Vibes *Estruturas e Bibliotecas*
+  - [x]  [2958](https://www.beecrowd.com.br/judge/pt/problems/view/2958) - [O Rolê Bad Vibes](https://github.com/potigol/beecrowd/blob/master/src/2900/2958.poti) *Estruturas e Bibliotecas*
   - [ ]  [2959](https://www.beecrowd.com.br/judge/pt/problems/view/2959) - Credo com ParaTudo! *Grafos*
   - [ ]  [2960](https://www.beecrowd.com.br/judge/pt/problems/view/2960) - Era Uma Vez… *Strings*
   - [ ]  [2961](https://www.beecrowd.com.br/judge/pt/problems/view/2961) - Ô, Que Tanto de Filme! *Estruturas e Bibliotecas*

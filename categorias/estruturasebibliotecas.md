@@ -1,4 +1,4 @@
-# Estruturas e Bibliotecas (36 / 179)
+# Estruturas e Bibliotecas (38 / 179)
 
 
 
@@ -17,6 +17,7 @@
   - [x]  [1259](https://www.beecrowd.com.br/judge/pt/problems/view/1259) - [Pares e Ímpares](https://github.com/potigol/beecrowd/blob/master/src/1200/1259.poti)
   - [x]  [1261](https://www.beecrowd.com.br/judge/pt/problems/view/1261) - [Pontos de Feno](https://github.com/potigol/beecrowd/blob/master/src/1200/1261.poti)
   - [x]  [1281](https://www.beecrowd.com.br/judge/pt/problems/view/1281) - [Ida à Feira](https://github.com/potigol/beecrowd/blob/master/src/1200/1281.poti)
+  - [x]  [1303](https://www.beecrowd.com.br/judge/pt/problems/view/1303) - [Spurs Rocks](https://github.com/potigol/beecrowd/blob/master/src/1300/1303.poti)
   - [x]  [1340](https://www.beecrowd.com.br/judge/pt/problems/view/1340) - [Eu Posso Adivinhar a Estrutura de Dados!](https://github.com/potigol/beecrowd/blob/master/src/1300/1340.poti)
   - [x]  [1430](https://www.beecrowd.com.br/judge/pt/problems/view/1430) - [Composição de Jingles](https://github.com/potigol/beecrowd/blob/master/src/1400/1430.poti)
   - [x]  [1548](https://www.beecrowd.com.br/judge/pt/problems/view/1548) - [Fila do Recreio](https://github.com/potigol/beecrowd/blob/master/src/1500/1548.poti)
@@ -34,6 +35,7 @@
   - [x]  [2693](https://www.beecrowd.com.br/judge/pt/problems/view/2693) - [Van](https://github.com/potigol/beecrowd/blob/master/src/2600/2693.poti)
   - [x]  [2729](https://www.beecrowd.com.br/judge/pt/problems/view/2729) - [Lista de Compras](https://github.com/potigol/beecrowd/blob/master/src/2700/2729.poti)
   - [x]  [2872](https://www.beecrowd.com.br/judge/pt/problems/view/2872) - [Protocolo TCP/IP](https://github.com/potigol/beecrowd/blob/master/src/2800/2872.poti)
+  - [x]  [2958](https://www.beecrowd.com.br/judge/pt/problems/view/2958) - [O Rolê Bad Vibes](https://github.com/potigol/beecrowd/blob/master/src/2900/2958.poti)
   - [x]  [2984](https://www.beecrowd.com.br/judge/pt/problems/view/2984) - [Assuntos Pendentes](https://github.com/potigol/beecrowd/blob/master/src/2900/2984.poti)
   - [x]  [3160](https://www.beecrowd.com.br/judge/pt/problems/view/3160) - [Amigos](https://github.com/potigol/beecrowd/blob/master/src/3100/3160.poti)
   - [x]  [3163](https://www.beecrowd.com.br/judge/pt/problems/view/3163) - [Controlador de Vôo](https://github.com/potigol/beecrowd/blob/master/src/3100/3163.poti)
@@ -60,7 +62,6 @@
   - [ ]  [1260](https://www.beecrowd.com.br/judge/pt/problems/view/1260) - Espécies de Madeira
   - [ ]  [1274](https://www.beecrowd.com.br/judge/pt/problems/view/1274) - P-Networks
   - [ ]  [1301](https://www.beecrowd.com.br/judge/pt/problems/view/1301) - Produto do Intervalo
-  - [ ]  [1303](https://www.beecrowd.com.br/judge/pt/problems/view/1303) - Spurs Rocks
   - [ ]  [1326](https://www.beecrowd.com.br/judge/pt/problems/view/1326) - Química
   - [ ]  [1356](https://www.beecrowd.com.br/judge/pt/problems/view/1356) - Júpiter Ataca!
   - [ ]  [1382](https://www.beecrowd.com.br/judge/pt/problems/view/1382) - Elementar, meu Caro Watson!
@@ -170,7 +171,6 @@
   - [ ]  [2916](https://www.beecrowd.com.br/judge/pt/problems/view/2916) - A Nota
   - [ ]  [2929](https://www.beecrowd.com.br/judge/pt/problems/view/2929) - Menor da Pilha
   - [ ]  [2952](https://www.beecrowd.com.br/judge/pt/problems/view/2952) - A Vida Sustentável
-  - [ ]  [2958](https://www.beecrowd.com.br/judge/pt/problems/view/2958) - O Rolê Bad Vibes
   - [ ]  [2961](https://www.beecrowd.com.br/judge/pt/problems/view/2961) - Ô, Que Tanto de Filme!
   - [ ]  [3045](https://www.beecrowd.com.br/judge/pt/problems/view/3045) - Parque Jurássico
   - [ ]  [3069](https://www.beecrowd.com.br/judge/pt/problems/view/3069) - Sorvete
