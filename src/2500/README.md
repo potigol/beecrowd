@@ -1,4 +1,4 @@
-# Problemas 2500 (29%)
+# Problemas 2500 (30%)
 
   - [ ]  [2500](https://www.beecrowd.com.br/judge/pt/problems/view/2500) - William Xorando *Matemática*
   - [ ]  [2501](https://www.beecrowd.com.br/judge/pt/problems/view/2501) - Fatores Permitidos *Paradigmas*
@@ -56,7 +56,7 @@
   - [ ]  [2553](https://www.beecrowd.com.br/judge/pt/problems/view/2553) - Passeio em FdI *Paradigmas*
   - [x]  [2554](https://www.beecrowd.com.br/judge/pt/problems/view/2554) - [Pizza Antes de BH](https://github.com/potigol/beecrowd/blob/master/src/2500/2554.poti) *Iniciante*
   - [ ]  [2555](https://www.beecrowd.com.br/judge/pt/problems/view/2555) - Quiz Universitário *Paradigmas*
-  - [ ]  [2556](https://www.beecrowd.com.br/judge/pt/problems/view/2556) - Reinauguração do CEI *Ad-Hoc*
+  - [x]  [2556](https://www.beecrowd.com.br/judge/pt/problems/view/2556) - [Reinauguração do CEI](https://github.com/potigol/beecrowd/blob/master/src/2500/2556.poti) *Ad-Hoc*
   - [x]  [2557](https://www.beecrowd.com.br/judge/pt/problems/view/2557) - [R+L=J](https://github.com/potigol/beecrowd/blob/master/src/2500/2557.poti) *Strings*
   - [ ]  [2558](https://www.beecrowd.com.br/judge/pt/problems/view/2558) - Robô Aspirador *Grafos*
   - [ ]  [2559](https://www.beecrowd.com.br/judge/pt/problems/view/2559) - Sexta-Feira 13 *Estruturas e Bibliotecas*

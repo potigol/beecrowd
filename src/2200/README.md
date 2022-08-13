@@ -1,4 +1,4 @@
-# Problemas 2200 (17%)
+# Problemas 2200 (18%)
 
   - [ ]  [2200](https://www.beecrowd.com.br/judge/pt/problems/view/2200) - Mummy Madness *Ad-Hoc*
   - [ ]  [2201](https://www.beecrowd.com.br/judge/pt/problems/view/2201) - Pyramids *Ad-Hoc*
@@ -90,7 +90,7 @@
   - [ ]  [2287](https://www.beecrowd.com.br/judge/pt/problems/view/2287) - Proteja sua Senha *Ad-Hoc*
   - [ ]  [2288](https://www.beecrowd.com.br/judge/pt/problems/view/2288) - TV da Vovó *Ad-Hoc*
   - [ ]  [2289](https://www.beecrowd.com.br/judge/pt/problems/view/2289) - Distância Hamming *Ad-Hoc*
-  - [ ]  [2290](https://www.beecrowd.com.br/judge/pt/problems/view/2290) - Números Apaixornados *Estruturas e Bibliotecas*
+  - [x]  [2290](https://www.beecrowd.com.br/judge/pt/problems/view/2290) - [Números Apaixornados](https://github.com/potigol/beecrowd/blob/master/src/2200/2290.poti) *Estruturas e Bibliotecas*
   - [ ]  [2291](https://www.beecrowd.com.br/judge/pt/problems/view/2291) - Números Divinos *Matemática*
   - [ ]  [2292](https://www.beecrowd.com.br/judge/pt/problems/view/2292) - Painel LED *Strings*
   - [x]  [2293](https://www.beecrowd.com.br/judge/pt/problems/view/2293) - [Campo de Minhocas](https://github.com/potigol/beecrowd/blob/master/src/2200/2293.poti) *Ad-Hoc*

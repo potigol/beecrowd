@@ -1,4 +1,4 @@
-# Ad-Hoc (201 / 745)
+# Ad-Hoc (202 / 745)
 
 
 
@@ -156,6 +156,7 @@
   - [x]  [2469](https://www.beecrowd.com.br/judge/pt/problems/view/2469) - [Notas](https://github.com/potigol/beecrowd/blob/master/src/2400/2469.poti)
   - [x]  [2473](https://www.beecrowd.com.br/judge/pt/problems/view/2473) - [Loteria](https://github.com/potigol/beecrowd/blob/master/src/2400/2473.poti)
   - [x]  [2479](https://www.beecrowd.com.br/judge/pt/problems/view/2479) - [Ordenando a Lista de Crianças do Papai Noel](https://github.com/potigol/beecrowd/blob/master/src/2400/2479.poti)
+  - [x]  [2556](https://www.beecrowd.com.br/judge/pt/problems/view/2556) - [Reinauguração do CEI](https://github.com/potigol/beecrowd/blob/master/src/2500/2556.poti)
   - [x]  [2568](https://www.beecrowd.com.br/judge/pt/problems/view/2568) - [Ações](https://github.com/potigol/beecrowd/blob/master/src/2500/2568.poti)
   - [x]  [2569](https://www.beecrowd.com.br/judge/pt/problems/view/2569) - [A Bruxa do 7 x 1](https://github.com/potigol/beecrowd/blob/master/src/2500/2569.poti)
   - [x]  [2579](https://www.beecrowd.com.br/judge/pt/problems/view/2579) - [Nagol](https://github.com/potigol/beecrowd/blob/master/src/2500/2579.poti)
@@ -558,7 +559,6 @@
   - [ ]  [2530](https://www.beecrowd.com.br/judge/pt/problems/view/2530) - Cola
   - [ ]  [2536](https://www.beecrowd.com.br/judge/pt/problems/view/2536) - FHBZMIPS
   - [ ]  [2548](https://www.beecrowd.com.br/judge/pt/problems/view/2548) - Museu Virtual 3D
-  - [ ]  [2556](https://www.beecrowd.com.br/judge/pt/problems/view/2556) - Reinauguração do CEI
   - [ ]  [2564](https://www.beecrowd.com.br/judge/pt/problems/view/2564) - Troca ou Não Troca
   - [ ]  [2565](https://www.beecrowd.com.br/judge/pt/problems/view/2565) - Tubos de Ensaio
   - [ ]  [2567](https://www.beecrowd.com.br/judge/pt/problems/view/2567) - Virus

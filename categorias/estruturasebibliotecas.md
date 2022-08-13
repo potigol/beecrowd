@@ -1,4 +1,4 @@
-# Estruturas e Bibliotecas (38 / 179)
+# Estruturas e Bibliotecas (39 / 179)
 
 
 
@@ -26,6 +26,7 @@
   - [x]  [1763](https://www.beecrowd.com.br/judge/pt/problems/view/1763) - [Tradutor do Papai Noel](https://github.com/potigol/beecrowd/blob/master/src/1700/1763.poti)
   - [x]  [1766](https://www.beecrowd.com.br/judge/pt/problems/view/1766) - [O Elfo das Trevas](https://github.com/potigol/beecrowd/blob/master/src/1700/1766.poti)
   - [x]  [2091](https://www.beecrowd.com.br/judge/pt/problems/view/2091) - [Número Solitário](https://github.com/potigol/beecrowd/blob/master/src/2000/2091.poti)
+  - [x]  [2290](https://www.beecrowd.com.br/judge/pt/problems/view/2290) - [Números Apaixornados](https://github.com/potigol/beecrowd/blob/master/src/2200/2290.poti)
   - [x]  [2338](https://www.beecrowd.com.br/judge/pt/problems/view/2338) - [Morse](https://github.com/potigol/beecrowd/blob/master/src/2300/2338.poti)
   - [x]  [2496](https://www.beecrowd.com.br/judge/pt/problems/view/2496) - [A Única Chance](https://github.com/potigol/beecrowd/blob/master/src/2400/2496.poti)
   - [x]  [2593](https://www.beecrowd.com.br/judge/pt/problems/view/2593) - [Eachianos I](https://github.com/potigol/beecrowd/blob/master/src/2500/2593.poti)
@@ -131,7 +132,6 @@
   - [ ]  [2239](https://www.beecrowd.com.br/judge/pt/problems/view/2239) - Estatística Hexa
   - [ ]  [2240](https://www.beecrowd.com.br/judge/pt/problems/view/2240) - Fundindo Árvores
   - [ ]  [2241](https://www.beecrowd.com.br/judge/pt/problems/view/2241) - Go--
-  - [ ]  [2290](https://www.beecrowd.com.br/judge/pt/problems/view/2290) - Números Apaixornados
   - [ ]  [2370](https://www.beecrowd.com.br/judge/pt/problems/view/2370) - Times
   - [ ]  [2380](https://www.beecrowd.com.br/judge/pt/problems/view/2380) - Fusões
   - [ ]  [2482](https://www.beecrowd.com.br/judge/pt/problems/view/2482) - Etiquetas de Noel

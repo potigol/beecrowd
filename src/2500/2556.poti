@@ -1,0 +1,7 @@
+var n := leia_inteiro
+enquanto n > 0 faça
+    m = leia_inteiros(" ").ordene
+    a = m.descarte(n div 2 - 1)
+    escreva "{n div 2} {a[2] - a[1]}"
+    n := leia_inteiro
+fim

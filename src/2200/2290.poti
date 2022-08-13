@@ -1,0 +1,10 @@
+enquanto leia_inteiro > 0 faça
+    numeros = leia_textos(" ")
+    
+    apaixornados = numeros.ordene
+                          .divida_quando(_ <> _)
+                          .selecione(a => a.tamanho mod 2 == 1)
+                          .mapeie(a => BigInt(a.cabeça))
+
+    escreva apaixornados.ordene.junte(" ")
+fim
