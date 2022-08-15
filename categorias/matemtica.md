@@ -1,4 +1,4 @@
-# Matemática (73 / 269)
+# Matemática (74 / 269)
 
 
 
@@ -31,6 +31,7 @@
   - [x]  [1537](https://www.beecrowd.com.br/judge/pt/problems/view/1537) - [Fila do Banco](https://github.com/potigol/beecrowd/blob/master/src/1500/1537.poti)
   - [x]  [1555](https://www.beecrowd.com.br/judge/pt/problems/view/1555) - [Funções](https://github.com/potigol/beecrowd/blob/master/src/1500/1555.poti)
   - [x]  [1567](https://www.beecrowd.com.br/judge/pt/problems/view/1567) - [(2/3/4)-D Sqr/Rects/Cubes/Boxes?](https://github.com/potigol/beecrowd/blob/master/src/1500/1567.poti)
+  - [x]  [1580](https://www.beecrowd.com.br/judge/pt/problems/view/1580) - [Quid Est Veritas? Est Vir Qui Adest!](https://github.com/potigol/beecrowd/blob/master/src/1500/1580.poti)
   - [x]  [1582](https://www.beecrowd.com.br/judge/pt/problems/view/1582) - [O Teorema de Pitágoras](https://github.com/potigol/beecrowd/blob/master/src/1500/1582.poti)
   - [x]  [1585](https://www.beecrowd.com.br/judge/pt/problems/view/1585) - [Fazendo Pandorgas](https://github.com/potigol/beecrowd/blob/master/src/1500/1585.poti)
   - [x]  [1630](https://www.beecrowd.com.br/judge/pt/problems/view/1630) - [Estacas](https://github.com/potigol/beecrowd/blob/master/src/1600/1630.poti)
@@ -131,7 +132,6 @@
   - [ ]  [1570](https://www.beecrowd.com.br/judge/pt/problems/view/1570) - Um Dia na Terra da Matemática
   - [ ]  [1572](https://www.beecrowd.com.br/judge/pt/problems/view/1572) - O Torneio Surreal
   - [ ]  [1577](https://www.beecrowd.com.br/judge/pt/problems/view/1577) - Polígonos Regulares Construtíveis
-  - [ ]  [1580](https://www.beecrowd.com.br/judge/pt/problems/view/1580) - Quid Est Veritas? Est Vir Qui Adest!
   - [ ]  [1620](https://www.beecrowd.com.br/judge/pt/problems/view/1620) - Triangulação de Delaunay
   - [ ]  [1623](https://www.beecrowd.com.br/judge/pt/problems/view/1623) - Linguagem
   - [ ]  [1624](https://www.beecrowd.com.br/judge/pt/problems/view/1624) - Promoção

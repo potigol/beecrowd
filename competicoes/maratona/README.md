@@ -1,4 +1,4 @@
-# Maratona de Programação (58 / 380)
+# Maratona de Programação (59 / 380)
 
 
 ## 2021
@@ -16,7 +16,7 @@
   - [ ]  [3366](https://www.beecrowd.com.br/judge/pt/problems/view/3366) - Hamilton - The Musical *Ad-Hoc*
   - [ ]  [3367](https://www.beecrowd.com.br/judge/pt/problems/view/3367) - Invested Money *Ad-Hoc*
   - [ ]  [3368](https://www.beecrowd.com.br/judge/pt/problems/view/3368) - Joining Pairs *Ad-Hoc*
-  - [ ]  [3369](https://www.beecrowd.com.br/judge/pt/problems/view/3369) - KIARA is a Recursive Acronym *Ad-Hoc*
+  - [x]  [3369](https://www.beecrowd.com.br/judge/pt/problems/view/3369) - [KIARA is a Recursive Acronym](https://github.com/potigol/beecrowd/blob/master/src/3300/3369.poti) *Ad-Hoc*
   - [ ]  [3370](https://www.beecrowd.com.br/judge/pt/problems/view/3370) - Leaving Yharnam *Ad-Hoc*
   - [ ]  [3371](https://www.beecrowd.com.br/judge/pt/problems/view/3371) - Most Ordered Way *Ad-Hoc*
        

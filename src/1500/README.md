@@ -1,4 +1,4 @@
-# Problemas 1500 (31%)
+# Problemas 1500 (32%)
 
   - [ ]  [1500](https://www.beecrowd.com.br/judge/pt/problems/view/1500) - Consultas Horríveis *Estruturas e Bibliotecas*
   - [ ]  [1501](https://www.beecrowd.com.br/judge/pt/problems/view/1501) - Quantos Zeros e Quantos Dígitos? *Matemática*
@@ -80,7 +80,7 @@
   - [ ]  [1577](https://www.beecrowd.com.br/judge/pt/problems/view/1577) - Polígonos Regulares Construtíveis *Matemática*
   - [ ]  [1578](https://www.beecrowd.com.br/judge/pt/problems/view/1578) - Matriz de Quadrados *Ad-Hoc*
   - [ ]  [1579](https://www.beecrowd.com.br/judge/pt/problems/view/1579) - Transporte de Painéis Solares *Paradigmas*
-  - [ ]  [1580](https://www.beecrowd.com.br/judge/pt/problems/view/1580) - Quid Est Veritas? Est Vir Qui Adest! *Matemática*
+  - [x]  [1580](https://www.beecrowd.com.br/judge/pt/problems/view/1580) - [Quid Est Veritas? Est Vir Qui Adest!](https://github.com/potigol/beecrowd/blob/master/src/1500/1580.poti) *Matemática*
   - [x]  [1581](https://www.beecrowd.com.br/judge/pt/problems/view/1581) - [Conversa Internacional](https://github.com/potigol/beecrowd/blob/master/src/1500/1581.poti) *Strings*
   - [x]  [1582](https://www.beecrowd.com.br/judge/pt/problems/view/1582) - [O Teorema de Pitágoras](https://github.com/potigol/beecrowd/blob/master/src/1500/1582.poti) *Matemática*
   - [ ]  [1583](https://www.beecrowd.com.br/judge/pt/problems/view/1583) - Contaminação *Grafos*

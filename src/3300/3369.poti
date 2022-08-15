@@ -1,0 +1,30 @@
+n = leia_inteiro
+
+var achou := falso
+var linhas := Lista(0, "")
+var acro := "                          "
+var i := 1
+enquanto não achou e i <= n faça
+  linha = leia_texto
+  se linha.tamanho <= 1 então
+    achou:= verdadeiro
+  senão
+    se acro[linha.cabeça - 'A' + 1] == ' ' então
+      acro := acro.updated(linha.cabeça - 'A', linha.cabeça)
+    fim
+    linhas := linha.cauda :: linhas
+  fim
+  i:= i + 1
+fim
+linhas := linhas.ordene(_.tamanho)
+acro := "ABCDEFGHIJKLMNOPQRSTUVWXYZ" - acro
+enquanto linhas <> [] e nao achou faça
+  achou := acro - linhas.cabeça == acro
+  linhas := linhas.cauda
+fim
+
+se achou então
+  escreva "Y"
+senão
+  escreva "N"
+fim

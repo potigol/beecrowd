@@ -1,0 +1,10 @@
+fat(n: Inteiro) = para i de 2 ate n gere i fim.injete(BigInt(1))(_ * _)
+
+var s:= leia_texto
+enquanto s <> "" faça
+    f = fat(s.tamanho)
+    r = s.ordene.divida_quando(_ <> _).mapeie(_.tamanho).mapeie(fat)
+    x = r.injete(BigInt(1))(_ * _)
+    escreva f div x mod BigInt(1000000007)
+    s := leia_texto
+fim
