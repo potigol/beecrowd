@@ -1,0 +1,8 @@
+n = leia_inteiro
+para i de 1 ate n faça
+    a = leia_inteiros(" ")
+    porta = a[1]
+    andares = a[2] + a[3] + a[4]
+    resposta = se andares > 1 então "X" senão (porta + andares) mod 2 fim
+    escreva resposta
+fim

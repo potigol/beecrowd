@@ -1,4 +1,4 @@
-# Matemática (74 / 269)
+# Matemática (75 / 269)
 
 
 
@@ -76,6 +76,7 @@
   - [x]  [3182](https://www.beecrowd.com.br/judge/pt/problems/view/3182) - [Planejamento de Evento](https://github.com/potigol/beecrowd/blob/master/src/3100/3182.poti)
   - [x]  [3257](https://www.beecrowd.com.br/judge/pt/problems/view/3257) - [Plantando Árvores](https://github.com/potigol/beecrowd/blob/master/src/3200/3257.poti)
   - [x]  [3271](https://www.beecrowd.com.br/judge/pt/problems/view/3271) - [Jogo de Dados](https://github.com/potigol/beecrowd/blob/master/src/3200/3271.poti)
+  - [x]  [3308](https://www.beecrowd.com.br/judge/pt/problems/view/3308) - [Elevador](https://github.com/potigol/beecrowd/blob/master/src/3300/3308.poti)
   - [x]  [3312](https://www.beecrowd.com.br/judge/pt/problems/view/3312) - [Imberbe Matemático](https://github.com/potigol/beecrowd/blob/master/src/3300/3312.poti)
   - [x]  [3339](https://www.beecrowd.com.br/judge/pt/problems/view/3339) - [Carina](https://github.com/potigol/beecrowd/blob/master/src/3300/3339.poti)
 
@@ -272,7 +273,6 @@
   - [ ]  [3272](https://www.beecrowd.com.br/judge/pt/problems/view/3272) - Cerimônia de Abertura
   - [ ]  [3276](https://www.beecrowd.com.br/judge/pt/problems/view/3276) - Quantos Quadrados?
   - [ ]  [3304](https://www.beecrowd.com.br/judge/pt/problems/view/3304) - Alguma Sorte!
-  - [ ]  [3308](https://www.beecrowd.com.br/judge/pt/problems/view/3308) - Elevador
   - [ ]  [3341](https://www.beecrowd.com.br/judge/pt/problems/view/3341) - Grandmaster do Jogo do Caneco
   - [ ]  [3345](https://www.beecrowd.com.br/judge/pt/problems/view/3345) - O Passatempo de Ferdinacci
   - [ ]  [3354](https://www.beecrowd.com.br/judge/pt/problems/view/3354) - Joãozinho Vem Para o Sul
