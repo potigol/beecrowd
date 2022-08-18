@@ -4,154 +4,154 @@
 
 ## Problemas resolvidos
 
-  - [x]  [1024](https://www.beecrowd.com.br/judge/pt/problems/view/1024) - [Criptografia](https://github.com/potigol/beecrowd/blob/master/src/1000/1024.poti)
-  - [x]  [1120](https://www.beecrowd.com.br/judge/pt/problems/view/1120) - [Revisão de Contrato](https://github.com/potigol/beecrowd/blob/master/src/1100/1120.poti)
-  - [x]  [1168](https://www.beecrowd.com.br/judge/pt/problems/view/1168) - [LED](https://github.com/potigol/beecrowd/blob/master/src/1100/1168.poti)
-  - [x]  [1234](https://www.beecrowd.com.br/judge/pt/problems/view/1234) - [Sentença Dançante](https://github.com/potigol/beecrowd/blob/master/src/1200/1234.poti)
-  - [x]  [1235](https://www.beecrowd.com.br/judge/pt/problems/view/1235) - [De Dentro para Fora](https://github.com/potigol/beecrowd/blob/master/src/1200/1235.poti)
-  - [x]  [1237](https://www.beecrowd.com.br/judge/pt/problems/view/1237) - [Comparação de Substring](https://github.com/potigol/beecrowd/blob/master/src/1200/1237.poti)
-  - [x]  [1238](https://www.beecrowd.com.br/judge/pt/problems/view/1238) - [Combinador](https://github.com/potigol/beecrowd/blob/master/src/1200/1238.poti)
-  - [x]  [1239](https://www.beecrowd.com.br/judge/pt/problems/view/1239) - [Atalhos Bloggo](https://github.com/potigol/beecrowd/blob/master/src/1200/1239.poti)
-  - [x]  [1241](https://www.beecrowd.com.br/judge/pt/problems/view/1241) - [Encaixa ou Não II](https://github.com/potigol/beecrowd/blob/master/src/1200/1241.poti)
-  - [x]  [1253](https://www.beecrowd.com.br/judge/pt/problems/view/1253) - [Cifra de César](https://github.com/potigol/beecrowd/blob/master/src/1200/1253.poti)
-  - [x]  [1255](https://www.beecrowd.com.br/judge/pt/problems/view/1255) - [Frequência de Letras](https://github.com/potigol/beecrowd/blob/master/src/1200/1255.poti)
-  - [x]  [1257](https://www.beecrowd.com.br/judge/pt/problems/view/1257) - [Array Hash](https://github.com/potigol/beecrowd/blob/master/src/1200/1257.poti)
-  - [x]  [1262](https://www.beecrowd.com.br/judge/pt/problems/view/1262) - [Leitura Múltipla](https://github.com/potigol/beecrowd/blob/master/src/1200/1262.poti)
-  - [x]  [1263](https://www.beecrowd.com.br/judge/pt/problems/view/1263) - [Aliteração](https://github.com/potigol/beecrowd/blob/master/src/1200/1263.poti)
-  - [x]  [1272](https://www.beecrowd.com.br/judge/pt/problems/view/1272) - [Mensagem Oculta](https://github.com/potigol/beecrowd/blob/master/src/1200/1272.poti)
-  - [x]  [1273](https://www.beecrowd.com.br/judge/pt/problems/view/1273) - [Justificador](https://github.com/potigol/beecrowd/blob/master/src/1200/1273.poti)
-  - [x]  [1276](https://www.beecrowd.com.br/judge/pt/problems/view/1276) - [Faixa de Letras](https://github.com/potigol/beecrowd/blob/master/src/1200/1276.poti)
-  - [x]  [1277](https://www.beecrowd.com.br/judge/pt/problems/view/1277) - [Pouca Frequência](https://github.com/potigol/beecrowd/blob/master/src/1200/1277.poti)
-  - [x]  [1278](https://www.beecrowd.com.br/judge/pt/problems/view/1278) - [Justificador II](https://github.com/potigol/beecrowd/blob/master/src/1200/1278.poti)
-  - [x]  [1287](https://www.beecrowd.com.br/judge/pt/problems/view/1287) - [Processador Amigável de Inteiros](https://github.com/potigol/beecrowd/blob/master/src/1200/1287.poti)
-  - [x]  [1332](https://www.beecrowd.com.br/judge/pt/problems/view/1332) - [Um-Dois-Três](https://github.com/potigol/beecrowd/blob/master/src/1300/1332.poti)
-  - [x]  [1516](https://www.beecrowd.com.br/judge/pt/problems/view/1516) - [Imagem](https://github.com/potigol/beecrowd/blob/master/src/1500/1516.poti)
-  - [x]  [1551](https://www.beecrowd.com.br/judge/pt/problems/view/1551) - [Frase Completa](https://github.com/potigol/beecrowd/blob/master/src/1500/1551.poti)
-  - [x]  [1581](https://www.beecrowd.com.br/judge/pt/problems/view/1581) - [Conversa Internacional](https://github.com/potigol/beecrowd/blob/master/src/1500/1581.poti)
-  - [x]  [1607](https://www.beecrowd.com.br/judge/pt/problems/view/1607) - [Avance as Letras](https://github.com/potigol/beecrowd/blob/master/src/1600/1607.poti)
-  - [x]  [1632](https://www.beecrowd.com.br/judge/pt/problems/view/1632) - [Variações](https://github.com/potigol/beecrowd/blob/master/src/1600/1632.poti)
-  - [x]  [1768](https://www.beecrowd.com.br/judge/pt/problems/view/1768) - [Árvore de Natal](https://github.com/potigol/beecrowd/blob/master/src/1700/1768.poti)
-  - [x]  [1781](https://www.beecrowd.com.br/judge/pt/problems/view/1781) - [Guga e a String](https://github.com/potigol/beecrowd/blob/master/src/1700/1781.poti)
-  - [x]  [1803](https://www.beecrowd.com.br/judge/pt/problems/view/1803) - [Matring](https://github.com/potigol/beecrowd/blob/master/src/1800/1803.poti)
-  - [x]  [1868](https://www.beecrowd.com.br/judge/pt/problems/view/1868) - [Espiral Quadrada](https://github.com/potigol/beecrowd/blob/master/src/1800/1868.poti)
-  - [x]  [1871](https://www.beecrowd.com.br/judge/pt/problems/view/1871) - [Zero vale Zero](https://github.com/potigol/beecrowd/blob/master/src/1800/1871.poti)
-  - [x]  [1873](https://www.beecrowd.com.br/judge/pt/problems/view/1873) - [Pedra-papel-tesoura-lagarto-Spock](https://github.com/potigol/beecrowd/blob/master/src/1800/1873.poti)
-  - [x]  [2023](https://www.beecrowd.com.br/judge/pt/problems/view/2023) - [A Última Criança Boa](https://github.com/potigol/beecrowd/blob/master/src/2000/2023.poti)
-  - [x]  [2062](https://www.beecrowd.com.br/judge/pt/problems/view/2062) - [OBI URI](https://github.com/potigol/beecrowd/blob/master/src/2000/2062.poti)
-  - [x]  [2108](https://www.beecrowd.com.br/judge/pt/problems/view/2108) - [Contando Caracters](https://github.com/potigol/beecrowd/blob/master/src/2100/2108.poti)
-  - [x]  [2137](https://www.beecrowd.com.br/judge/pt/problems/view/2137) - [A Biblioteca do Senhor Severino](https://github.com/potigol/beecrowd/blob/master/src/2100/2137.poti)
-  - [x]  [2150](https://www.beecrowd.com.br/judge/pt/problems/view/2150) - [Vogais Alienígenas](https://github.com/potigol/beecrowd/blob/master/src/2100/2150.poti)
-  - [x]  [2157](https://www.beecrowd.com.br/judge/pt/problems/view/2157) - [Sequência Espelho](https://github.com/potigol/beecrowd/blob/master/src/2100/2157.poti)
-  - [x]  [2174](https://www.beecrowd.com.br/judge/pt/problems/view/2174) - [Coleção de Pomekon](https://github.com/potigol/beecrowd/blob/master/src/2100/2174.poti)
-  - [x]  [2242](https://www.beecrowd.com.br/judge/pt/problems/view/2242) - [Huaauhahhuahau](https://github.com/potigol/beecrowd/blob/master/src/2200/2242.poti)
-  - [x]  [2253](https://www.beecrowd.com.br/judge/pt/problems/view/2253) - [Validador de Senhas](https://github.com/potigol/beecrowd/blob/master/src/2200/2253.poti)
-  - [x]  [2356](https://www.beecrowd.com.br/judge/pt/problems/view/2356) - [Bactéria I](https://github.com/potigol/beecrowd/blob/master/src/2300/2356.poti)
-  - [x]  [2484](https://www.beecrowd.com.br/judge/pt/problems/view/2484) - [Abracadabra](https://github.com/potigol/beecrowd/blob/master/src/2400/2484.poti)
-  - [x]  [2557](https://www.beecrowd.com.br/judge/pt/problems/view/2557) - [R+L=J](https://github.com/potigol/beecrowd/blob/master/src/2500/2557.poti)
-  - [x]  [2587](https://www.beecrowd.com.br/judge/pt/problems/view/2587) - [Jetiqui](https://github.com/potigol/beecrowd/blob/master/src/2500/2587.poti)
-  - [x]  [2591](https://www.beecrowd.com.br/judge/pt/problems/view/2591) - [HameKameKa](https://github.com/potigol/beecrowd/blob/master/src/2500/2591.poti)
-  - [x]  [2651](https://www.beecrowd.com.br/judge/pt/problems/view/2651) - [Link Bolado](https://github.com/potigol/beecrowd/blob/master/src/2600/2651.poti)
-  - [x]  [2690](https://www.beecrowd.com.br/judge/pt/problems/view/2690) - [Nova Senha RA](https://github.com/potigol/beecrowd/blob/master/src/2600/2690.poti)
-  - [x]  [2691](https://www.beecrowd.com.br/judge/pt/problems/view/2691) - [O Matemático](https://github.com/potigol/beecrowd/blob/master/src/2600/2691.poti)
-  - [x]  [2694](https://www.beecrowd.com.br/judge/pt/problems/view/2694) - [Problema com a Calculadora](https://github.com/potigol/beecrowd/blob/master/src/2600/2694.poti)
-  - [x]  [2714](https://www.beecrowd.com.br/judge/pt/problems/view/2714) - [Minha Senha Provisória](https://github.com/potigol/beecrowd/blob/master/src/2700/2714.poti)
-  - [x]  [2722](https://www.beecrowd.com.br/judge/pt/problems/view/2722) - [Pegadinha de Evergreen](https://github.com/potigol/beecrowd/blob/master/src/2700/2722.poti)
-  - [x]  [2728](https://www.beecrowd.com.br/judge/pt/problems/view/2728) - [Grace Hopper, a Vovó do Cobol](https://github.com/potigol/beecrowd/blob/master/src/2700/2728.poti)
-  - [x]  [2815](https://www.beecrowd.com.br/judge/pt/problems/view/2815) - [Digitador Gago](https://github.com/potigol/beecrowd/blob/master/src/2800/2815.poti)
-  - [x]  [2866](https://www.beecrowd.com.br/judge/pt/problems/view/2866) - [Criptotexto](https://github.com/potigol/beecrowd/blob/master/src/2800/2866.poti)
-  - [x]  [2880](https://www.beecrowd.com.br/judge/pt/problems/view/2880) - [Enigma](https://github.com/potigol/beecrowd/blob/master/src/2800/2880.poti)
-  - [x]  [2906](https://www.beecrowd.com.br/judge/pt/problems/view/2906) - [Database of Clients](https://github.com/potigol/beecrowd/blob/master/src/2900/2906.poti)
-  - [x]  [3038](https://www.beecrowd.com.br/judge/pt/problems/view/3038) - [Carta de Natal Criptografada](https://github.com/potigol/beecrowd/blob/master/src/3000/3038.poti)
-  - [x]  [3088](https://www.beecrowd.com.br/judge/pt/problems/view/3088) - [Correção de Texto](https://github.com/potigol/beecrowd/blob/master/src/3000/3088.poti)
-  - [x]  [3103](https://www.beecrowd.com.br/judge/pt/problems/view/3103) - [Número da Sorte](https://github.com/potigol/beecrowd/blob/master/src/3100/3103.poti)
-  - [x]  [3141](https://www.beecrowd.com.br/judge/pt/problems/view/3141) - [Dúvida Etária](https://github.com/potigol/beecrowd/blob/master/src/3100/3141.poti)
-  - [x]  [3159](https://www.beecrowd.com.br/judge/pt/problems/view/3159) - [Tijolão](https://github.com/potigol/beecrowd/blob/master/src/3100/3159.poti)
-  - [x]  [3262](https://www.beecrowd.com.br/judge/pt/problems/view/3262) - [Timebomb](https://github.com/potigol/beecrowd/blob/master/src/3200/3262.poti)
-  - [x]  [3300](https://www.beecrowd.com.br/judge/pt/problems/view/3300) - [Números Má Sorte Recarregados](https://github.com/potigol/beecrowd/blob/master/src/3300/3300.poti)
-  - [x]  [3311](https://www.beecrowd.com.br/judge/pt/problems/view/3311) - [Hudinho e o seu Trabalho](https://github.com/potigol/beecrowd/blob/master/src/3300/3311.poti)
-  - [x]  [3313](https://www.beecrowd.com.br/judge/pt/problems/view/3313) - [Jogo de Palavras](https://github.com/potigol/beecrowd/blob/master/src/3300/3313.poti)
-  - [x]  [3358](https://www.beecrowd.com.br/judge/pt/problems/view/3358) - [Sobrenome Não é Fácil](https://github.com/potigol/beecrowd/blob/master/src/3300/3358.poti)
+- [x]  [1024](https://www.beecrowd.com.br/judge/pt/problems/view/1024) - [Criptografia](https://github.com/potigol/beecrowd/blob/master/src/1000/1024.poti)
+- [x]  [1120](https://www.beecrowd.com.br/judge/pt/problems/view/1120) - [Revisão de Contrato](https://github.com/potigol/beecrowd/blob/master/src/1100/1120.poti)
+- [x]  [1168](https://www.beecrowd.com.br/judge/pt/problems/view/1168) - [LED](https://github.com/potigol/beecrowd/blob/master/src/1100/1168.poti)
+- [x]  [1234](https://www.beecrowd.com.br/judge/pt/problems/view/1234) - [Sentença Dançante](https://github.com/potigol/beecrowd/blob/master/src/1200/1234.poti)
+- [x]  [1235](https://www.beecrowd.com.br/judge/pt/problems/view/1235) - [De Dentro para Fora](https://github.com/potigol/beecrowd/blob/master/src/1200/1235.poti)
+- [x]  [1237](https://www.beecrowd.com.br/judge/pt/problems/view/1237) - [Comparação de Substring](https://github.com/potigol/beecrowd/blob/master/src/1200/1237.poti)
+- [x]  [1238](https://www.beecrowd.com.br/judge/pt/problems/view/1238) - [Combinador](https://github.com/potigol/beecrowd/blob/master/src/1200/1238.poti)
+- [x]  [1239](https://www.beecrowd.com.br/judge/pt/problems/view/1239) - [Atalhos Bloggo](https://github.com/potigol/beecrowd/blob/master/src/1200/1239.poti)
+- [x]  [1241](https://www.beecrowd.com.br/judge/pt/problems/view/1241) - [Encaixa ou Não II](https://github.com/potigol/beecrowd/blob/master/src/1200/1241.poti)
+- [x]  [1253](https://www.beecrowd.com.br/judge/pt/problems/view/1253) - [Cifra de César](https://github.com/potigol/beecrowd/blob/master/src/1200/1253.poti)
+- [x]  [1255](https://www.beecrowd.com.br/judge/pt/problems/view/1255) - [Frequência de Letras](https://github.com/potigol/beecrowd/blob/master/src/1200/1255.poti)
+- [x]  [1257](https://www.beecrowd.com.br/judge/pt/problems/view/1257) - [Array Hash](https://github.com/potigol/beecrowd/blob/master/src/1200/1257.poti)
+- [x]  [1262](https://www.beecrowd.com.br/judge/pt/problems/view/1262) - [Leitura Múltipla](https://github.com/potigol/beecrowd/blob/master/src/1200/1262.poti)
+- [x]  [1263](https://www.beecrowd.com.br/judge/pt/problems/view/1263) - [Aliteração](https://github.com/potigol/beecrowd/blob/master/src/1200/1263.poti)
+- [x]  [1272](https://www.beecrowd.com.br/judge/pt/problems/view/1272) - [Mensagem Oculta](https://github.com/potigol/beecrowd/blob/master/src/1200/1272.poti)
+- [x]  [1273](https://www.beecrowd.com.br/judge/pt/problems/view/1273) - [Justificador](https://github.com/potigol/beecrowd/blob/master/src/1200/1273.poti)
+- [x]  [1276](https://www.beecrowd.com.br/judge/pt/problems/view/1276) - [Faixa de Letras](https://github.com/potigol/beecrowd/blob/master/src/1200/1276.poti)
+- [x]  [1277](https://www.beecrowd.com.br/judge/pt/problems/view/1277) - [Pouca Frequência](https://github.com/potigol/beecrowd/blob/master/src/1200/1277.poti)
+- [x]  [1278](https://www.beecrowd.com.br/judge/pt/problems/view/1278) - [Justificador II](https://github.com/potigol/beecrowd/blob/master/src/1200/1278.poti)
+- [x]  [1287](https://www.beecrowd.com.br/judge/pt/problems/view/1287) - [Processador Amigável de Inteiros](https://github.com/potigol/beecrowd/blob/master/src/1200/1287.poti)
+- [x]  [1332](https://www.beecrowd.com.br/judge/pt/problems/view/1332) - [Um-Dois-Três](https://github.com/potigol/beecrowd/blob/master/src/1300/1332.poti)
+- [x]  [1516](https://www.beecrowd.com.br/judge/pt/problems/view/1516) - [Imagem](https://github.com/potigol/beecrowd/blob/master/src/1500/1516.poti)
+- [x]  [1551](https://www.beecrowd.com.br/judge/pt/problems/view/1551) - [Frase Completa](https://github.com/potigol/beecrowd/blob/master/src/1500/1551.poti)
+- [x]  [1581](https://www.beecrowd.com.br/judge/pt/problems/view/1581) - [Conversa Internacional](https://github.com/potigol/beecrowd/blob/master/src/1500/1581.poti)
+- [x]  [1607](https://www.beecrowd.com.br/judge/pt/problems/view/1607) - [Avance as Letras](https://github.com/potigol/beecrowd/blob/master/src/1600/1607.poti)
+- [x]  [1632](https://www.beecrowd.com.br/judge/pt/problems/view/1632) - [Variações](https://github.com/potigol/beecrowd/blob/master/src/1600/1632.poti)
+- [x]  [1768](https://www.beecrowd.com.br/judge/pt/problems/view/1768) - [Árvore de Natal](https://github.com/potigol/beecrowd/blob/master/src/1700/1768.poti)
+- [x]  [1781](https://www.beecrowd.com.br/judge/pt/problems/view/1781) - [Guga e a String](https://github.com/potigol/beecrowd/blob/master/src/1700/1781.poti)
+- [x]  [1803](https://www.beecrowd.com.br/judge/pt/problems/view/1803) - [Matring](https://github.com/potigol/beecrowd/blob/master/src/1800/1803.poti)
+- [x]  [1868](https://www.beecrowd.com.br/judge/pt/problems/view/1868) - [Espiral Quadrada](https://github.com/potigol/beecrowd/blob/master/src/1800/1868.poti)
+- [x]  [1871](https://www.beecrowd.com.br/judge/pt/problems/view/1871) - [Zero vale Zero](https://github.com/potigol/beecrowd/blob/master/src/1800/1871.poti)
+- [x]  [1873](https://www.beecrowd.com.br/judge/pt/problems/view/1873) - [Pedra-papel-tesoura-lagarto-Spock](https://github.com/potigol/beecrowd/blob/master/src/1800/1873.poti)
+- [x]  [2023](https://www.beecrowd.com.br/judge/pt/problems/view/2023) - [A Última Criança Boa](https://github.com/potigol/beecrowd/blob/master/src/2000/2023.poti)
+- [x]  [2062](https://www.beecrowd.com.br/judge/pt/problems/view/2062) - [OBI URI](https://github.com/potigol/beecrowd/blob/master/src/2000/2062.poti)
+- [x]  [2108](https://www.beecrowd.com.br/judge/pt/problems/view/2108) - [Contando Caracters](https://github.com/potigol/beecrowd/blob/master/src/2100/2108.poti)
+- [x]  [2137](https://www.beecrowd.com.br/judge/pt/problems/view/2137) - [A Biblioteca do Senhor Severino](https://github.com/potigol/beecrowd/blob/master/src/2100/2137.poti)
+- [x]  [2150](https://www.beecrowd.com.br/judge/pt/problems/view/2150) - [Vogais Alienígenas](https://github.com/potigol/beecrowd/blob/master/src/2100/2150.poti)
+- [x]  [2157](https://www.beecrowd.com.br/judge/pt/problems/view/2157) - [Sequência Espelho](https://github.com/potigol/beecrowd/blob/master/src/2100/2157.poti)
+- [x]  [2174](https://www.beecrowd.com.br/judge/pt/problems/view/2174) - [Coleção de Pomekon](https://github.com/potigol/beecrowd/blob/master/src/2100/2174.poti)
+- [x]  [2242](https://www.beecrowd.com.br/judge/pt/problems/view/2242) - [Huaauhahhuahau](https://github.com/potigol/beecrowd/blob/master/src/2200/2242.poti)
+- [x]  [2253](https://www.beecrowd.com.br/judge/pt/problems/view/2253) - [Validador de Senhas](https://github.com/potigol/beecrowd/blob/master/src/2200/2253.poti)
+- [x]  [2356](https://www.beecrowd.com.br/judge/pt/problems/view/2356) - [Bactéria I](https://github.com/potigol/beecrowd/blob/master/src/2300/2356.poti)
+- [x]  [2484](https://www.beecrowd.com.br/judge/pt/problems/view/2484) - [Abracadabra](https://github.com/potigol/beecrowd/blob/master/src/2400/2484.poti)
+- [x]  [2557](https://www.beecrowd.com.br/judge/pt/problems/view/2557) - [R+L=J](https://github.com/potigol/beecrowd/blob/master/src/2500/2557.poti)
+- [x]  [2587](https://www.beecrowd.com.br/judge/pt/problems/view/2587) - [Jetiqui](https://github.com/potigol/beecrowd/blob/master/src/2500/2587.poti)
+- [x]  [2591](https://www.beecrowd.com.br/judge/pt/problems/view/2591) - [HameKameKa](https://github.com/potigol/beecrowd/blob/master/src/2500/2591.poti)
+- [x]  [2651](https://www.beecrowd.com.br/judge/pt/problems/view/2651) - [Link Bolado](https://github.com/potigol/beecrowd/blob/master/src/2600/2651.poti)
+- [x]  [2690](https://www.beecrowd.com.br/judge/pt/problems/view/2690) - [Nova Senha RA](https://github.com/potigol/beecrowd/blob/master/src/2600/2690.poti)
+- [x]  [2691](https://www.beecrowd.com.br/judge/pt/problems/view/2691) - [O Matemático](https://github.com/potigol/beecrowd/blob/master/src/2600/2691.poti)
+- [x]  [2694](https://www.beecrowd.com.br/judge/pt/problems/view/2694) - [Problema com a Calculadora](https://github.com/potigol/beecrowd/blob/master/src/2600/2694.poti)
+- [x]  [2714](https://www.beecrowd.com.br/judge/pt/problems/view/2714) - [Minha Senha Provisória](https://github.com/potigol/beecrowd/blob/master/src/2700/2714.poti)
+- [x]  [2722](https://www.beecrowd.com.br/judge/pt/problems/view/2722) - [Pegadinha de Evergreen](https://github.com/potigol/beecrowd/blob/master/src/2700/2722.poti)
+- [x]  [2728](https://www.beecrowd.com.br/judge/pt/problems/view/2728) - [Grace Hopper, a Vovó do Cobol](https://github.com/potigol/beecrowd/blob/master/src/2700/2728.poti)
+- [x]  [2815](https://www.beecrowd.com.br/judge/pt/problems/view/2815) - [Digitador Gago](https://github.com/potigol/beecrowd/blob/master/src/2800/2815.poti)
+- [x]  [2866](https://www.beecrowd.com.br/judge/pt/problems/view/2866) - [Criptotexto](https://github.com/potigol/beecrowd/blob/master/src/2800/2866.poti)
+- [x]  [2880](https://www.beecrowd.com.br/judge/pt/problems/view/2880) - [Enigma](https://github.com/potigol/beecrowd/blob/master/src/2800/2880.poti)
+- [x]  [2906](https://www.beecrowd.com.br/judge/pt/problems/view/2906) - [Database of Clients](https://github.com/potigol/beecrowd/blob/master/src/2900/2906.poti)
+- [x]  [3038](https://www.beecrowd.com.br/judge/pt/problems/view/3038) - [Carta de Natal Criptografada](https://github.com/potigol/beecrowd/blob/master/src/3000/3038.poti)
+- [x]  [3088](https://www.beecrowd.com.br/judge/pt/problems/view/3088) - [Correção de Texto](https://github.com/potigol/beecrowd/blob/master/src/3000/3088.poti)
+- [x]  [3103](https://www.beecrowd.com.br/judge/pt/problems/view/3103) - [Número da Sorte](https://github.com/potigol/beecrowd/blob/master/src/3100/3103.poti)
+- [x]  [3141](https://www.beecrowd.com.br/judge/pt/problems/view/3141) - [Dúvida Etária](https://github.com/potigol/beecrowd/blob/master/src/3100/3141.poti)
+- [x]  [3159](https://www.beecrowd.com.br/judge/pt/problems/view/3159) - [Tijolão](https://github.com/potigol/beecrowd/blob/master/src/3100/3159.poti)
+- [x]  [3262](https://www.beecrowd.com.br/judge/pt/problems/view/3262) - [Timebomb](https://github.com/potigol/beecrowd/blob/master/src/3200/3262.poti)
+- [x]  [3300](https://www.beecrowd.com.br/judge/pt/problems/view/3300) - [Números Má Sorte Recarregados](https://github.com/potigol/beecrowd/blob/master/src/3300/3300.poti)
+- [x]  [3311](https://www.beecrowd.com.br/judge/pt/problems/view/3311) - [Hudinho e o seu Trabalho](https://github.com/potigol/beecrowd/blob/master/src/3300/3311.poti)
+- [x]  [3313](https://www.beecrowd.com.br/judge/pt/problems/view/3313) - [Jogo de Palavras](https://github.com/potigol/beecrowd/blob/master/src/3300/3313.poti)
+- [x]  [3358](https://www.beecrowd.com.br/judge/pt/problems/view/3358) - [Sobrenome Não é Fácil](https://github.com/potigol/beecrowd/blob/master/src/3300/3358.poti)
 
 ## Problemas não resolvidos
 
-  - [ ]  [1141](https://www.beecrowd.com.br/judge/pt/problems/view/1141) - Cultivando Strings
-  - [ ]  [1222](https://www.beecrowd.com.br/judge/pt/problems/view/1222) - Concurso de Contos
-  - [ ]  [1243](https://www.beecrowd.com.br/judge/pt/problems/view/1243) - O Quão Fácil é...
-  - [ ]  [1248](https://www.beecrowd.com.br/judge/pt/problems/view/1248) - Plano de Dieta
-  - [ ]  [1254](https://www.beecrowd.com.br/judge/pt/problems/view/1254) - Substituição de Tag
-  - [ ]  [1284](https://www.beecrowd.com.br/judge/pt/problems/view/1284) - Digitando no Telefone Celular
-  - [ ]  [1305](https://www.beecrowd.com.br/judge/pt/problems/view/1305) - Arredondamento por Valor de Corte
-  - [ ]  [1313](https://www.beecrowd.com.br/judge/pt/problems/view/1313) - Dicionário Portuñol
-  - [ ]  [1335](https://www.beecrowd.com.br/judge/pt/problems/view/1335) - Recuperação de Arquivos
-  - [ ]  [1341](https://www.beecrowd.com.br/judge/pt/problems/view/1341) - Crianças em uma Grade
-  - [ ]  [1355](https://www.beecrowd.com.br/judge/pt/problems/view/1355) - Compressor
-  - [ ]  [1364](https://www.beecrowd.com.br/judge/pt/problems/view/1364) - Emoticons :-)
-  - [ ]  [1367](https://www.beecrowd.com.br/judge/pt/problems/view/1367) - Ajude!
-  - [ ]  [1373](https://www.beecrowd.com.br/judge/pt/problems/view/1373) - Sequências de DNA
-  - [ ]  [1377](https://www.beecrowd.com.br/judge/pt/problems/view/1377) - Recuperador de Arquivos
-  - [ ]  [1385](https://www.beecrowd.com.br/judge/pt/problems/view/1385) - Recuperação de Relatório
-  - [ ]  [1386](https://www.beecrowd.com.br/judge/pt/problems/view/1386) - Códigos Ambíguos
-  - [ ]  [1406](https://www.beecrowd.com.br/judge/pt/problems/view/1406) - Jukebox
-  - [ ]  [1448](https://www.beecrowd.com.br/judge/pt/problems/view/1448) - Telefone Sem Fio
-  - [ ]  [1456](https://www.beecrowd.com.br/judge/pt/problems/view/1456) - Brainfuck
-  - [ ]  [1458](https://www.beecrowd.com.br/judge/pt/problems/view/1458) - Campeonato de SMS
-  - [ ]  [1491](https://www.beecrowd.com.br/judge/pt/problems/view/1491) - Linguagem de Blogger
-  - [ ]  [1503](https://www.beecrowd.com.br/judge/pt/problems/view/1503) - Maior Palíndromo Comum Você Deve Encontrar
-  - [ ]  [1519](https://www.beecrowd.com.br/judge/pt/problems/view/1519) - Abreviações
-  - [ ]  [1530](https://www.beecrowd.com.br/judge/pt/problems/view/1530) - Quantas Substrings?
-  - [ ]  [1556](https://www.beecrowd.com.br/judge/pt/problems/view/1556) - Removendo Letras
-  - [ ]  [1586](https://www.beecrowd.com.br/judge/pt/problems/view/1586) - Cabo de Guerra
-  - [ ]  [1629](https://www.beecrowd.com.br/judge/pt/problems/view/1629) - DescompactaFACE
-  - [ ]  [1664](https://www.beecrowd.com.br/judge/pt/problems/view/1664) - Bullshit Bingo
-  - [ ]  [1667](https://www.beecrowd.com.br/judge/pt/problems/view/1667) - HTML
-  - [ ]  [1686](https://www.beecrowd.com.br/judge/pt/problems/view/1686) - Sequência de Palíndromos
-  - [ ]  [1726](https://www.beecrowd.com.br/judge/pt/problems/view/1726) - Amigos
-  - [ ]  [1737](https://www.beecrowd.com.br/judge/pt/problems/view/1737) - Etaoin Shrdlu
-  - [ ]  [1842](https://www.beecrowd.com.br/judge/pt/problems/view/1842) - A Ordem da Fênix
-  - [ ]  [1846](https://www.beecrowd.com.br/judge/pt/problems/view/1846) - Numero Para Nome
-  - [ ]  [1853](https://www.beecrowd.com.br/judge/pt/problems/view/1853) - O Jogo da Confiança de Daenerys
-  - [ ]  [1859](https://www.beecrowd.com.br/judge/pt/problems/view/1859) - Arqueologia Congelante
-  - [ ]  [1898](https://www.beecrowd.com.br/judge/pt/problems/view/1898) - Soma de Propina
-  - [ ]  [1941](https://www.beecrowd.com.br/judge/pt/problems/view/1941) - Palíndromo
-  - [ ]  [2000](https://www.beecrowd.com.br/judge/pt/problems/view/2000) - Adeildo da Odonto
-  - [ ]  [2017](https://www.beecrowd.com.br/judge/pt/problems/view/2017) - Seis Strings
-  - [ ]  [2025](https://www.beecrowd.com.br/judge/pt/problems/view/2025) - Joulupukki
-  - [ ]  [2035](https://www.beecrowd.com.br/judge/pt/problems/view/2035) - Projetando Camisetas
-  - [ ]  [2049](https://www.beecrowd.com.br/judge/pt/problems/view/2049) - Números de Ahmoc
-  - [ ]  [2055](https://www.beecrowd.com.br/judge/pt/problems/view/2055) - Lisp é Melhor que Java, C e C++
-  - [ ]  [2087](https://www.beecrowd.com.br/judge/pt/problems/view/2087) - Conjuntos Bons e Ruins
-  - [ ]  [2093](https://www.beecrowd.com.br/judge/pt/problems/view/2093) - Fuja para Escapar
-  - [ ]  [2097](https://www.beecrowd.com.br/judge/pt/problems/view/2097) - Nome para Número
-  - [ ]  [2132](https://www.beecrowd.com.br/judge/pt/problems/view/2132) - Não é Mais Um Joguinho Canadense!
-  - [ ]  [2153](https://www.beecrowd.com.br/judge/pt/problems/view/2153) - Sanduicheiche
-  - [ ]  [2292](https://www.beecrowd.com.br/judge/pt/problems/view/2292) - Painel LED
-  - [ ]  [2314](https://www.beecrowd.com.br/judge/pt/problems/view/2314) - Indentador
-  - [ ]  [2336](https://www.beecrowd.com.br/judge/pt/problems/view/2336) - ABC
-  - [ ]  [2358](https://www.beecrowd.com.br/judge/pt/problems/view/2358) - Bactéria II
-  - [ ]  [2509](https://www.beecrowd.com.br/judge/pt/problems/view/2509) - Editor Latex
-  - [ ]  [2535](https://www.beecrowd.com.br/judge/pt/problems/view/2535) - Feira de Adoção
-  - [ ]  [2549](https://www.beecrowd.com.br/judge/pt/problems/view/2549) - Nomes de Usuários
-  - [ ]  [2583](https://www.beecrowd.com.br/judge/pt/problems/view/2583) - Chirrin Chirrion
-  - [ ]  [2588](https://www.beecrowd.com.br/judge/pt/problems/view/2588) - Jogo dos Palíndromos
-  - [ ]  [2669](https://www.beecrowd.com.br/judge/pt/problems/view/2669) - Laboratório de Biotecnologia
-  - [ ]  [2678](https://www.beecrowd.com.br/judge/pt/problems/view/2678) - Discagem de Voz
-  - [ ]  [2692](https://www.beecrowd.com.br/judge/pt/problems/view/2692) - Teclado Zoeiro
-  - [ ]  [2697](https://www.beecrowd.com.br/judge/pt/problems/view/2697) - Sequencia Completa de Naebbirac
-  - [ ]  [2824](https://www.beecrowd.com.br/judge/pt/problems/view/2824) - Pudim
-  - [ ]  [2825](https://www.beecrowd.com.br/judge/pt/problems/view/2825) - L de Atreus!?
-  - [ ]  [2827](https://www.beecrowd.com.br/judge/pt/problems/view/2827) - Contador de Tokens
-  - [ ]  [2954](https://www.beecrowd.com.br/judge/pt/problems/view/2954) - O Jogo
-  - [ ]  [2960](https://www.beecrowd.com.br/judge/pt/problems/view/2960) - Era Uma Vez…
-  - [ ]  [2974](https://www.beecrowd.com.br/judge/pt/problems/view/2974) - Fechadura
-  - [ ]  [2975](https://www.beecrowd.com.br/judge/pt/problems/view/2975) - Anel
-  - [ ]  [3080](https://www.beecrowd.com.br/judge/pt/problems/view/3080) - Proteja os Dados
-  - [ ]  [3083](https://www.beecrowd.com.br/judge/pt/problems/view/3083) - Emreh, Liug E As Strings
-  - [ ]  [3100](https://www.beecrowd.com.br/judge/pt/problems/view/3100) - Os Dígitos da Sorte
-  - [ ]  [3118](https://www.beecrowd.com.br/judge/pt/problems/view/3118) - Bactérias, Suas Loucas!
-  - [ ]  [3143](https://www.beecrowd.com.br/judge/pt/problems/view/3143) - Fugindo do Celular
-  - [ ]  [3180](https://www.beecrowd.com.br/judge/pt/problems/view/3180) - Roubo de Código
-  - [ ]  [3261](https://www.beecrowd.com.br/judge/pt/problems/view/3261) - Replicação de Vírus
-  - [ ]  [3275](https://www.beecrowd.com.br/judge/pt/problems/view/3275) - Foto de Relógios
-  - [ ]  [3310](https://www.beecrowd.com.br/judge/pt/problems/view/3310) - Gravity Boy
-  - [ ]  [3347](https://www.beecrowd.com.br/judge/pt/problems/view/3347) - Ancestralidade
-  - [ ]  [3353](https://www.beecrowd.com.br/judge/pt/problems/view/3353) - Araucárias e a Gralha Azul de Três Olhos
+- [ ]  [1141](https://www.beecrowd.com.br/judge/pt/problems/view/1141) - Cultivando Strings
+- [ ]  [1222](https://www.beecrowd.com.br/judge/pt/problems/view/1222) - Concurso de Contos
+- [ ]  [1243](https://www.beecrowd.com.br/judge/pt/problems/view/1243) - O Quão Fácil é...
+- [ ]  [1248](https://www.beecrowd.com.br/judge/pt/problems/view/1248) - Plano de Dieta
+- [ ]  [1254](https://www.beecrowd.com.br/judge/pt/problems/view/1254) - Substituição de Tag
+- [ ]  [1284](https://www.beecrowd.com.br/judge/pt/problems/view/1284) - Digitando no Telefone Celular
+- [ ]  [1305](https://www.beecrowd.com.br/judge/pt/problems/view/1305) - Arredondamento por Valor de Corte
+- [ ]  [1313](https://www.beecrowd.com.br/judge/pt/problems/view/1313) - Dicionário Portuñol
+- [ ]  [1335](https://www.beecrowd.com.br/judge/pt/problems/view/1335) - Recuperação de Arquivos
+- [ ]  [1341](https://www.beecrowd.com.br/judge/pt/problems/view/1341) - Crianças em uma Grade
+- [ ]  [1355](https://www.beecrowd.com.br/judge/pt/problems/view/1355) - Compressor
+- [ ]  [1364](https://www.beecrowd.com.br/judge/pt/problems/view/1364) - Emoticons :-)
+- [ ]  [1367](https://www.beecrowd.com.br/judge/pt/problems/view/1367) - Ajude!
+- [ ]  [1373](https://www.beecrowd.com.br/judge/pt/problems/view/1373) - Sequências de DNA
+- [ ]  [1377](https://www.beecrowd.com.br/judge/pt/problems/view/1377) - Recuperador de Arquivos
+- [ ]  [1385](https://www.beecrowd.com.br/judge/pt/problems/view/1385) - Recuperação de Relatório
+- [ ]  [1386](https://www.beecrowd.com.br/judge/pt/problems/view/1386) - Códigos Ambíguos
+- [ ]  [1406](https://www.beecrowd.com.br/judge/pt/problems/view/1406) - Jukebox
+- [ ]  [1448](https://www.beecrowd.com.br/judge/pt/problems/view/1448) - Telefone Sem Fio
+- [ ]  [1456](https://www.beecrowd.com.br/judge/pt/problems/view/1456) - Brainfuck
+- [ ]  [1458](https://www.beecrowd.com.br/judge/pt/problems/view/1458) - Campeonato de SMS
+- [ ]  [1491](https://www.beecrowd.com.br/judge/pt/problems/view/1491) - Linguagem de Blogger
+- [ ]  [1503](https://www.beecrowd.com.br/judge/pt/problems/view/1503) - Maior Palíndromo Comum Você Deve Encontrar
+- [ ]  [1519](https://www.beecrowd.com.br/judge/pt/problems/view/1519) - Abreviações
+- [ ]  [1530](https://www.beecrowd.com.br/judge/pt/problems/view/1530) - Quantas Substrings?
+- [ ]  [1556](https://www.beecrowd.com.br/judge/pt/problems/view/1556) - Removendo Letras
+- [ ]  [1586](https://www.beecrowd.com.br/judge/pt/problems/view/1586) - Cabo de Guerra
+- [ ]  [1629](https://www.beecrowd.com.br/judge/pt/problems/view/1629) - DescompactaFACE
+- [ ]  [1664](https://www.beecrowd.com.br/judge/pt/problems/view/1664) - Bullshit Bingo
+- [ ]  [1667](https://www.beecrowd.com.br/judge/pt/problems/view/1667) - HTML
+- [ ]  [1686](https://www.beecrowd.com.br/judge/pt/problems/view/1686) - Sequência de Palíndromos
+- [ ]  [1726](https://www.beecrowd.com.br/judge/pt/problems/view/1726) - Amigos
+- [ ]  [1737](https://www.beecrowd.com.br/judge/pt/problems/view/1737) - Etaoin Shrdlu
+- [ ]  [1842](https://www.beecrowd.com.br/judge/pt/problems/view/1842) - A Ordem da Fênix
+- [ ]  [1846](https://www.beecrowd.com.br/judge/pt/problems/view/1846) - Numero Para Nome
+- [ ]  [1853](https://www.beecrowd.com.br/judge/pt/problems/view/1853) - O Jogo da Confiança de Daenerys
+- [ ]  [1859](https://www.beecrowd.com.br/judge/pt/problems/view/1859) - Arqueologia Congelante
+- [ ]  [1898](https://www.beecrowd.com.br/judge/pt/problems/view/1898) - Soma de Propina
+- [ ]  [1941](https://www.beecrowd.com.br/judge/pt/problems/view/1941) - Palíndromo
+- [ ]  [2000](https://www.beecrowd.com.br/judge/pt/problems/view/2000) - Adeildo da Odonto
+- [ ]  [2017](https://www.beecrowd.com.br/judge/pt/problems/view/2017) - Seis Strings
+- [ ]  [2025](https://www.beecrowd.com.br/judge/pt/problems/view/2025) - Joulupukki
+- [ ]  [2035](https://www.beecrowd.com.br/judge/pt/problems/view/2035) - Projetando Camisetas
+- [ ]  [2049](https://www.beecrowd.com.br/judge/pt/problems/view/2049) - Números de Ahmoc
+- [ ]  [2055](https://www.beecrowd.com.br/judge/pt/problems/view/2055) - Lisp é Melhor que Java, C e C++
+- [ ]  [2087](https://www.beecrowd.com.br/judge/pt/problems/view/2087) - Conjuntos Bons e Ruins
+- [ ]  [2093](https://www.beecrowd.com.br/judge/pt/problems/view/2093) - Fuja para Escapar
+- [ ]  [2097](https://www.beecrowd.com.br/judge/pt/problems/view/2097) - Nome para Número
+- [ ]  [2132](https://www.beecrowd.com.br/judge/pt/problems/view/2132) - Não é Mais Um Joguinho Canadense!
+- [ ]  [2153](https://www.beecrowd.com.br/judge/pt/problems/view/2153) - Sanduicheiche
+- [ ]  [2292](https://www.beecrowd.com.br/judge/pt/problems/view/2292) - Painel LED
+- [ ]  [2314](https://www.beecrowd.com.br/judge/pt/problems/view/2314) - Indentador
+- [ ]  [2336](https://www.beecrowd.com.br/judge/pt/problems/view/2336) - ABC
+- [ ]  [2358](https://www.beecrowd.com.br/judge/pt/problems/view/2358) - Bactéria II
+- [ ]  [2509](https://www.beecrowd.com.br/judge/pt/problems/view/2509) - Editor Latex
+- [ ]  [2535](https://www.beecrowd.com.br/judge/pt/problems/view/2535) - Feira de Adoção
+- [ ]  [2549](https://www.beecrowd.com.br/judge/pt/problems/view/2549) - Nomes de Usuários
+- [ ]  [2583](https://www.beecrowd.com.br/judge/pt/problems/view/2583) - Chirrin Chirrion
+- [ ]  [2588](https://www.beecrowd.com.br/judge/pt/problems/view/2588) - Jogo dos Palíndromos
+- [ ]  [2669](https://www.beecrowd.com.br/judge/pt/problems/view/2669) - Laboratório de Biotecnologia
+- [ ]  [2678](https://www.beecrowd.com.br/judge/pt/problems/view/2678) - Discagem de Voz
+- [ ]  [2692](https://www.beecrowd.com.br/judge/pt/problems/view/2692) - Teclado Zoeiro
+- [ ]  [2697](https://www.beecrowd.com.br/judge/pt/problems/view/2697) - Sequencia Completa de Naebbirac
+- [ ]  [2824](https://www.beecrowd.com.br/judge/pt/problems/view/2824) - Pudim
+- [ ]  [2825](https://www.beecrowd.com.br/judge/pt/problems/view/2825) - L de Atreus!?
+- [ ]  [2827](https://www.beecrowd.com.br/judge/pt/problems/view/2827) - Contador de Tokens
+- [ ]  [2954](https://www.beecrowd.com.br/judge/pt/problems/view/2954) - O Jogo
+- [ ]  [2960](https://www.beecrowd.com.br/judge/pt/problems/view/2960) - Era Uma Vez…
+- [ ]  [2974](https://www.beecrowd.com.br/judge/pt/problems/view/2974) - Fechadura
+- [ ]  [2975](https://www.beecrowd.com.br/judge/pt/problems/view/2975) - Anel
+- [ ]  [3080](https://www.beecrowd.com.br/judge/pt/problems/view/3080) - Proteja os Dados
+- [ ]  [3083](https://www.beecrowd.com.br/judge/pt/problems/view/3083) - Emreh, Liug E As Strings
+- [ ]  [3100](https://www.beecrowd.com.br/judge/pt/problems/view/3100) - Os Dígitos da Sorte
+- [ ]  [3118](https://www.beecrowd.com.br/judge/pt/problems/view/3118) - Bactérias, Suas Loucas!
+- [ ]  [3143](https://www.beecrowd.com.br/judge/pt/problems/view/3143) - Fugindo do Celular
+- [ ]  [3180](https://www.beecrowd.com.br/judge/pt/problems/view/3180) - Roubo de Código
+- [ ]  [3261](https://www.beecrowd.com.br/judge/pt/problems/view/3261) - Replicação de Vírus
+- [ ]  [3275](https://www.beecrowd.com.br/judge/pt/problems/view/3275) - Foto de Relógios
+- [ ]  [3310](https://www.beecrowd.com.br/judge/pt/problems/view/3310) - Gravity Boy
+- [ ]  [3347](https://www.beecrowd.com.br/judge/pt/problems/view/3347) - Ancestralidade
+- [ ]  [3353](https://www.beecrowd.com.br/judge/pt/problems/view/3353) - Araucárias e a Gralha Azul de Três Olhos

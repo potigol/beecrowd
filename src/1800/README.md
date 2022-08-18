@@ -1,102 +1,102 @@
 # Problemas 1800 (23%)
 
-  - [ ]  [1800](https://www.beecrowd.com.br/judge/pt/problems/view/1800) - Onde Estão Minhas Chaves *Ad-Hoc*
-  - [ ]  [1801](https://www.beecrowd.com.br/judge/pt/problems/view/1801) - Brincando com Números *Matemática*
-  - [x]  [1802](https://www.beecrowd.com.br/judge/pt/problems/view/1802) - [Catálogo de Livros](https://github.com/potigol/beecrowd/blob/master/src/1800/1802.poti) *Ad-Hoc*
-  - [x]  [1803](https://www.beecrowd.com.br/judge/pt/problems/view/1803) - [Matring](https://github.com/potigol/beecrowd/blob/master/src/1800/1803.poti) *Strings*
-  - [ ]  [1804](https://www.beecrowd.com.br/judge/pt/problems/view/1804) - Precisa-se de Matemáticos em Marte *Estruturas e Bibliotecas*
-  - [x]  [1805](https://www.beecrowd.com.br/judge/pt/problems/view/1805) - [Soma Natural](https://github.com/potigol/beecrowd/blob/master/src/1800/1805.poti) *Matemática*
-  - [ ]  [1806](https://www.beecrowd.com.br/judge/pt/problems/view/1806) - Agente 004 *Grafos*
-  - [ ]  [1807](https://www.beecrowd.com.br/judge/pt/problems/view/1807) - Triângulo Trinomial, a Vingança *Matemática*
-  - [x]  [1808](https://www.beecrowd.com.br/judge/pt/problems/view/1808) - [O Retorno do Rei](https://github.com/potigol/beecrowd/blob/master/src/1800/1808.poti) *Ad-Hoc*
-  - [ ]  [1809](https://www.beecrowd.com.br/judge/pt/problems/view/1809) - Agentes Secretos *Ad-Hoc*
-  - [ ]  [1810](https://www.beecrowd.com.br/judge/pt/problems/view/1810) - Beverly Hills, Century City *Paradigmas*
-  - [ ]  [1811](https://www.beecrowd.com.br/judge/pt/problems/view/1811) - O Óscar Vai Para... *Ad-Hoc*
-  - [ ]  [1812](https://www.beecrowd.com.br/judge/pt/problems/view/1812) - Um Cluster Para Evitar Enchentes *Matemática*
-  - [ ]  [1813](https://www.beecrowd.com.br/judge/pt/problems/view/1813) - Anacrônico? *Grafos*
-  - [ ]  [1814](https://www.beecrowd.com.br/judge/pt/problems/view/1814) - DNA Storage? *Ad-Hoc*
-  - [ ]  [1815](https://www.beecrowd.com.br/judge/pt/problems/view/1815) - Drunk People? *Matemática*
-  - [ ]  [1816](https://www.beecrowd.com.br/judge/pt/problems/view/1816) - Vikings em Praga? *Ad-Hoc*
-  - [ ]  [1817](https://www.beecrowd.com.br/judge/pt/problems/view/1817) - Arqueólogos de Tsing Ling *Ad-Hoc*
-  - [ ]  [1818](https://www.beecrowd.com.br/judge/pt/problems/view/1818) - Centro de Convenções *Geometria Computacional*
-  - [ ]  [1819](https://www.beecrowd.com.br/judge/pt/problems/view/1819) - Estimando a Produção *Matemática*
-  - [ ]  [1820](https://www.beecrowd.com.br/judge/pt/problems/view/1820) - Grupos da Universidade de Sing Pil *Ad-Hoc*
-  - [ ]  [1821](https://www.beecrowd.com.br/judge/pt/problems/view/1821) - Miai Chinês *Grafos*
-  - [ ]  [1822](https://www.beecrowd.com.br/judge/pt/problems/view/1822) - Obras da China *Paradigmas*
-  - [ ]  [1823](https://www.beecrowd.com.br/judge/pt/problems/view/1823) - O Penúltimo Imperador *Grafos*
-  - [ ]  [1824](https://www.beecrowd.com.br/judge/pt/problems/view/1824) - Sapos de Tsé-Tsé *Ad-Hoc*
-  - [ ]  [1825](https://www.beecrowd.com.br/judge/pt/problems/view/1825) - Formigando *Geometria Computacional*
-  - [ ]  [1826](https://www.beecrowd.com.br/judge/pt/problems/view/1826) - A Linguagem é Infinita? *Grafos*
-  - [x]  [1827](https://www.beecrowd.com.br/judge/pt/problems/view/1827) - [Matriz Quadrada IV](https://github.com/potigol/beecrowd/blob/master/src/1800/1827.poti) *Iniciante*
-  - [x]  [1828](https://www.beecrowd.com.br/judge/pt/problems/view/1828) - [Bazinga!](https://github.com/potigol/beecrowd/blob/master/src/1800/1828.poti) *Iniciante*
-  - [ ]  [1829](https://www.beecrowd.com.br/judge/pt/problems/view/1829) - Jogo do Maior Número *Matemática*
-  - [ ]  [1830](https://www.beecrowd.com.br/judge/pt/problems/view/1830) - Caixas de Bombons *Matemática*
-  - [ ]  [1831](https://www.beecrowd.com.br/judge/pt/problems/view/1831) - Dia Difícil de Trabalho *Matemática*
-  - [ ]  [1832](https://www.beecrowd.com.br/judge/pt/problems/view/1832) - EBCDIC *Ad-Hoc*
-  - [ ]  [1833](https://www.beecrowd.com.br/judge/pt/problems/view/1833) - Decoração Natalina *Paradigmas*
-  - [ ]  [1834](https://www.beecrowd.com.br/judge/pt/problems/view/1834) - Vogons! *Geometria Computacional*
-  - [ ]  [1835](https://www.beecrowd.com.br/judge/pt/problems/view/1835) - Promessa de Campanha *Grafos*
-  - [ ]  [1836](https://www.beecrowd.com.br/judge/pt/problems/view/1836) - Pokémon! *Ad-Hoc*
-  - [x]  [1837](https://www.beecrowd.com.br/judge/pt/problems/view/1837) - [Prefácio](https://github.com/potigol/beecrowd/blob/master/src/1800/1837.poti) *Iniciante*
-  - [ ]  [1838](https://www.beecrowd.com.br/judge/pt/problems/view/1838) - A Pedra Filosofal *Paradigmas*
-  - [ ]  [1839](https://www.beecrowd.com.br/judge/pt/problems/view/1839) - A Câmara Secreta *Matemática*
-  - [ ]  [1840](https://www.beecrowd.com.br/judge/pt/problems/view/1840) - O Prisioneiro de Azkaban *Ad-Hoc*
-  - [ ]  [1841](https://www.beecrowd.com.br/judge/pt/problems/view/1841) - O Cálice de Fogo *Matemática*
-  - [ ]  [1842](https://www.beecrowd.com.br/judge/pt/problems/view/1842) - A Ordem da Fênix *Strings*
-  - [ ]  [1843](https://www.beecrowd.com.br/judge/pt/problems/view/1843) - O Enigma do Príncipe *Paradigmas*
-  - [ ]  [1844](https://www.beecrowd.com.br/judge/pt/problems/view/1844) - As Relíquias da Morte *Geometria Computacional*
-  - [ ]  [1845](https://www.beecrowd.com.br/judge/pt/problems/view/1845) - Efílogo *Ad-Hoc*
-  - [ ]  [1846](https://www.beecrowd.com.br/judge/pt/problems/view/1846) - Numero Para Nome *Strings*
-  - [x]  [1847](https://www.beecrowd.com.br/judge/pt/problems/view/1847) - [Bem-vindos e Bem-vindas ao Inverno!](https://github.com/potigol/beecrowd/blob/master/src/1800/1847.poti) *Iniciante*
-  - [x]  [1848](https://www.beecrowd.com.br/judge/pt/problems/view/1848) - [Corvo Contador](https://github.com/potigol/beecrowd/blob/master/src/1800/1848.poti) *Iniciante*
-  - [x]  [1849](https://www.beecrowd.com.br/judge/pt/problems/view/1849) - [Dracarys!](https://github.com/potigol/beecrowd/blob/master/src/1800/1849.poti) *Ad-Hoc*
-  - [ ]  [1850](https://www.beecrowd.com.br/judge/pt/problems/view/1850) - O Labirinto de Ninguém *Grafos*
-  - [ ]  [1851](https://www.beecrowd.com.br/judge/pt/problems/view/1851) - Como Treinar Seu Dragão *Estruturas e Bibliotecas*
-  - [ ]  [1852](https://www.beecrowd.com.br/judge/pt/problems/view/1852) - Lobos Stark *Paradigmas*
-  - [ ]  [1853](https://www.beecrowd.com.br/judge/pt/problems/view/1853) - O Jogo da Confiança de Daenerys *Strings*
-  - [ ]  [1854](https://www.beecrowd.com.br/judge/pt/problems/view/1854) - Inverno em Winterfell *Estruturas e Bibliotecas*
-  - [ ]  [1855](https://www.beecrowd.com.br/judge/pt/problems/view/1855) - Mapa do Meistre *Grafos*
-  - [ ]  [1856](https://www.beecrowd.com.br/judge/pt/problems/view/1856) - A Lista da Morte de Arya *Estruturas e Bibliotecas*
-  - [ ]  [1857](https://www.beecrowd.com.br/judge/pt/problems/view/1857) - Prelúdio de um Casamento Vermelho *Geometria Computacional*
-  - [x]  [1858](https://www.beecrowd.com.br/judge/pt/problems/view/1858) - [A Resposta de Theon](https://github.com/potigol/beecrowd/blob/master/src/1800/1858.poti) *Iniciante*
-  - [ ]  [1859](https://www.beecrowd.com.br/judge/pt/problems/view/1859) - Arqueologia Congelante *Strings*
-  - [ ]  [1860](https://www.beecrowd.com.br/judge/pt/problems/view/1860) - A Caminhada da Vergonha de Cersei *Paradigmas*
-  - [ ]  [1861](https://www.beecrowd.com.br/judge/pt/problems/view/1861) - O Hall dos Assassinos *Estruturas e Bibliotecas*
-  - [ ]  [1862](https://www.beecrowd.com.br/judge/pt/problems/view/1862) - Casas de Westeros *Grafos*
-  - [ ]  [1863](https://www.beecrowd.com.br/judge/pt/problems/view/1863) - O Contra-ataque de Ramsay *Estruturas e Bibliotecas*
-  - [x]  [1864](https://www.beecrowd.com.br/judge/pt/problems/view/1864) - [Nossos Dias Nunca Voltarão](https://github.com/potigol/beecrowd/blob/master/src/1800/1864.poti) *Iniciante*
-  - [x]  [1865](https://www.beecrowd.com.br/judge/pt/problems/view/1865) - [Mjölnir](https://github.com/potigol/beecrowd/blob/master/src/1800/1865.poti) *Iniciante*
-  - [x]  [1866](https://www.beecrowd.com.br/judge/pt/problems/view/1866) - [Conta](https://github.com/potigol/beecrowd/blob/master/src/1800/1866.poti) *Iniciante*
-  - [x]  [1867](https://www.beecrowd.com.br/judge/pt/problems/view/1867) - [Maior Número de Um Algarismo](https://github.com/potigol/beecrowd/blob/master/src/1800/1867.poti) *Ad-Hoc*
-  - [x]  [1868](https://www.beecrowd.com.br/judge/pt/problems/view/1868) - [Espiral Quadrada](https://github.com/potigol/beecrowd/blob/master/src/1800/1868.poti) *Strings*
-  - [x]  [1869](https://www.beecrowd.com.br/judge/pt/problems/view/1869) - [Base 32](https://github.com/potigol/beecrowd/blob/master/src/1800/1869.poti) *Matemática*
-  - [ ]  [1870](https://www.beecrowd.com.br/judge/pt/problems/view/1870) - Ventiladores e Balões *Ad-Hoc*
-  - [x]  [1871](https://www.beecrowd.com.br/judge/pt/problems/view/1871) - [Zero vale Zero](https://github.com/potigol/beecrowd/blob/master/src/1800/1871.poti) *Strings*
-  - [ ]  [1872](https://www.beecrowd.com.br/judge/pt/problems/view/1872) - Palíndromo Real *Matemática*
-  - [x]  [1873](https://www.beecrowd.com.br/judge/pt/problems/view/1873) - [Pedra-papel-tesoura-lagarto-Spock](https://github.com/potigol/beecrowd/blob/master/src/1800/1873.poti) *Strings*
-  - [ ]  [1874](https://www.beecrowd.com.br/judge/pt/problems/view/1874) - Empurrando Blocos *Estruturas e Bibliotecas*
-  - [x]  [1875](https://www.beecrowd.com.br/judge/pt/problems/view/1875) - [Tribol](https://github.com/potigol/beecrowd/blob/master/src/1800/1875.poti) *Geometria Computacional*
-  - [x]  [1876](https://www.beecrowd.com.br/judge/pt/problems/view/1876) - [Rabiola](https://github.com/potigol/beecrowd/blob/master/src/1800/1876.poti) *Ad-Hoc*
-  - [x]  [1877](https://www.beecrowd.com.br/judge/pt/problems/view/1877) - [O Castelo de Neve de Sansa](https://github.com/potigol/beecrowd/blob/master/src/1800/1877.poti) *Ad-Hoc*
-  - [ ]  [1878](https://www.beecrowd.com.br/judge/pt/problems/view/1878) - Torneios em Sequência *Paradigmas*
-  - [ ]  [1879](https://www.beecrowd.com.br/judge/pt/problems/view/1879) - Bridge *Ad-Hoc*
-  - [ ]  [1880](https://www.beecrowd.com.br/judge/pt/problems/view/1880) - Renzo e a Decoração Capicuânica *Ad-Hoc*
-  - [ ]  [1881](https://www.beecrowd.com.br/judge/pt/problems/view/1881) - Competição de Robótica *Ad-Hoc*
-  - [ ]  [1882](https://www.beecrowd.com.br/judge/pt/problems/view/1882) - Passeios Aleatórios pela Tailândia *Grafos*
-  - [ ]  [1883](https://www.beecrowd.com.br/judge/pt/problems/view/1883) - Fuga de Ayutthaya *Grafos*
-  - [ ]  [1884](https://www.beecrowd.com.br/judge/pt/problems/view/1884) - Lutando Contra os Rajasi *Ad-Hoc*
-  - [ ]  [1885](https://www.beecrowd.com.br/judge/pt/problems/view/1885) - Loteria Tailandesa *Ad-Hoc*
-  - [ ]  [1886](https://www.beecrowd.com.br/judge/pt/problems/view/1886) - Resguardando os Templos *Ad-Hoc*
-  - [ ]  [1887](https://www.beecrowd.com.br/judge/pt/problems/view/1887) - As Vias Férreas Kunming-Cingapura *Ad-Hoc*
-  - [ ]  [1888](https://www.beecrowd.com.br/judge/pt/problems/view/1888) - Os chedis de Kamphaeng Phet *Ad-Hoc*
-  - [ ]  [1889](https://www.beecrowd.com.br/judge/pt/problems/view/1889) - Treinando com as Larvas de Phuket *Ad-Hoc*
-  - [ ]  [1890](https://www.beecrowd.com.br/judge/pt/problems/view/1890) - Emplacando os Tuk-tuks *Ad-Hoc*
-  - [ ]  [1891](https://www.beecrowd.com.br/judge/pt/problems/view/1891) - Removendo Moedas no Kem Kradãn *Ad-Hoc*
-  - [ ]  [1892](https://www.beecrowd.com.br/judge/pt/problems/view/1892) - Calouro Vence Veterano? *Paradigmas*
-  - [x]  [1893](https://www.beecrowd.com.br/judge/pt/problems/view/1893) - [Fases da Lua](https://github.com/potigol/beecrowd/blob/master/src/1800/1893.poti) *Ad-Hoc*
-  - [ ]  [1894](https://www.beecrowd.com.br/judge/pt/problems/view/1894) - Filogenia *Grafos*
-  - [ ]  [1895](https://www.beecrowd.com.br/judge/pt/problems/view/1895) - Jogo do Limite *Ad-Hoc*
-  - [ ]  [1896](https://www.beecrowd.com.br/judge/pt/problems/view/1896) - É Hora do Duelo! *Ad-Hoc*
-  - [ ]  [1897](https://www.beecrowd.com.br/judge/pt/problems/view/1897) - Jogo Esperto *Estruturas e Bibliotecas*
-  - [ ]  [1898](https://www.beecrowd.com.br/judge/pt/problems/view/1898) - Soma de Propina *Strings*
-  - [ ]  [1899](https://www.beecrowd.com.br/judge/pt/problems/view/1899) - Acerte o Alvo! *Ad-Hoc*
+- [ ]  [1800](https://www.beecrowd.com.br/judge/pt/problems/view/1800) - Onde Estão Minhas Chaves *Ad-Hoc*
+- [ ]  [1801](https://www.beecrowd.com.br/judge/pt/problems/view/1801) - Brincando com Números *Matemática*
+- [x]  [1802](https://www.beecrowd.com.br/judge/pt/problems/view/1802) - [Catálogo de Livros](https://github.com/potigol/beecrowd/blob/master/src/1800/1802.poti) *Ad-Hoc*
+- [x]  [1803](https://www.beecrowd.com.br/judge/pt/problems/view/1803) - [Matring](https://github.com/potigol/beecrowd/blob/master/src/1800/1803.poti) *Strings*
+- [ ]  [1804](https://www.beecrowd.com.br/judge/pt/problems/view/1804) - Precisa-se de Matemáticos em Marte *Estruturas e Bibliotecas*
+- [x]  [1805](https://www.beecrowd.com.br/judge/pt/problems/view/1805) - [Soma Natural](https://github.com/potigol/beecrowd/blob/master/src/1800/1805.poti) *Matemática*
+- [ ]  [1806](https://www.beecrowd.com.br/judge/pt/problems/view/1806) - Agente 004 *Grafos*
+- [ ]  [1807](https://www.beecrowd.com.br/judge/pt/problems/view/1807) - Triângulo Trinomial, a Vingança *Matemática*
+- [x]  [1808](https://www.beecrowd.com.br/judge/pt/problems/view/1808) - [O Retorno do Rei](https://github.com/potigol/beecrowd/blob/master/src/1800/1808.poti) *Ad-Hoc*
+- [ ]  [1809](https://www.beecrowd.com.br/judge/pt/problems/view/1809) - Agentes Secretos *Ad-Hoc*
+- [ ]  [1810](https://www.beecrowd.com.br/judge/pt/problems/view/1810) - Beverly Hills, Century City *Paradigmas*
+- [ ]  [1811](https://www.beecrowd.com.br/judge/pt/problems/view/1811) - O Óscar Vai Para... *Ad-Hoc*
+- [ ]  [1812](https://www.beecrowd.com.br/judge/pt/problems/view/1812) - Um Cluster Para Evitar Enchentes *Matemática*
+- [ ]  [1813](https://www.beecrowd.com.br/judge/pt/problems/view/1813) - Anacrônico? *Grafos*
+- [ ]  [1814](https://www.beecrowd.com.br/judge/pt/problems/view/1814) - DNA Storage? *Ad-Hoc*
+- [ ]  [1815](https://www.beecrowd.com.br/judge/pt/problems/view/1815) - Drunk People? *Matemática*
+- [ ]  [1816](https://www.beecrowd.com.br/judge/pt/problems/view/1816) - Vikings em Praga? *Ad-Hoc*
+- [ ]  [1817](https://www.beecrowd.com.br/judge/pt/problems/view/1817) - Arqueólogos de Tsing Ling *Ad-Hoc*
+- [ ]  [1818](https://www.beecrowd.com.br/judge/pt/problems/view/1818) - Centro de Convenções *Geometria Computacional*
+- [ ]  [1819](https://www.beecrowd.com.br/judge/pt/problems/view/1819) - Estimando a Produção *Matemática*
+- [ ]  [1820](https://www.beecrowd.com.br/judge/pt/problems/view/1820) - Grupos da Universidade de Sing Pil *Ad-Hoc*
+- [ ]  [1821](https://www.beecrowd.com.br/judge/pt/problems/view/1821) - Miai Chinês *Grafos*
+- [ ]  [1822](https://www.beecrowd.com.br/judge/pt/problems/view/1822) - Obras da China *Paradigmas*
+- [ ]  [1823](https://www.beecrowd.com.br/judge/pt/problems/view/1823) - O Penúltimo Imperador *Grafos*
+- [ ]  [1824](https://www.beecrowd.com.br/judge/pt/problems/view/1824) - Sapos de Tsé-Tsé *Ad-Hoc*
+- [ ]  [1825](https://www.beecrowd.com.br/judge/pt/problems/view/1825) - Formigando *Geometria Computacional*
+- [ ]  [1826](https://www.beecrowd.com.br/judge/pt/problems/view/1826) - A Linguagem é Infinita? *Grafos*
+- [x]  [1827](https://www.beecrowd.com.br/judge/pt/problems/view/1827) - [Matriz Quadrada IV](https://github.com/potigol/beecrowd/blob/master/src/1800/1827.poti) *Iniciante*
+- [x]  [1828](https://www.beecrowd.com.br/judge/pt/problems/view/1828) - [Bazinga!](https://github.com/potigol/beecrowd/blob/master/src/1800/1828.poti) *Iniciante*
+- [ ]  [1829](https://www.beecrowd.com.br/judge/pt/problems/view/1829) - Jogo do Maior Número *Matemática*
+- [ ]  [1830](https://www.beecrowd.com.br/judge/pt/problems/view/1830) - Caixas de Bombons *Matemática*
+- [ ]  [1831](https://www.beecrowd.com.br/judge/pt/problems/view/1831) - Dia Difícil de Trabalho *Matemática*
+- [ ]  [1832](https://www.beecrowd.com.br/judge/pt/problems/view/1832) - EBCDIC *Ad-Hoc*
+- [ ]  [1833](https://www.beecrowd.com.br/judge/pt/problems/view/1833) - Decoração Natalina *Paradigmas*
+- [ ]  [1834](https://www.beecrowd.com.br/judge/pt/problems/view/1834) - Vogons! *Geometria Computacional*
+- [ ]  [1835](https://www.beecrowd.com.br/judge/pt/problems/view/1835) - Promessa de Campanha *Grafos*
+- [ ]  [1836](https://www.beecrowd.com.br/judge/pt/problems/view/1836) - Pokémon! *Ad-Hoc*
+- [x]  [1837](https://www.beecrowd.com.br/judge/pt/problems/view/1837) - [Prefácio](https://github.com/potigol/beecrowd/blob/master/src/1800/1837.poti) *Iniciante*
+- [ ]  [1838](https://www.beecrowd.com.br/judge/pt/problems/view/1838) - A Pedra Filosofal *Paradigmas*
+- [ ]  [1839](https://www.beecrowd.com.br/judge/pt/problems/view/1839) - A Câmara Secreta *Matemática*
+- [ ]  [1840](https://www.beecrowd.com.br/judge/pt/problems/view/1840) - O Prisioneiro de Azkaban *Ad-Hoc*
+- [ ]  [1841](https://www.beecrowd.com.br/judge/pt/problems/view/1841) - O Cálice de Fogo *Matemática*
+- [ ]  [1842](https://www.beecrowd.com.br/judge/pt/problems/view/1842) - A Ordem da Fênix *Strings*
+- [ ]  [1843](https://www.beecrowd.com.br/judge/pt/problems/view/1843) - O Enigma do Príncipe *Paradigmas*
+- [ ]  [1844](https://www.beecrowd.com.br/judge/pt/problems/view/1844) - As Relíquias da Morte *Geometria Computacional*
+- [ ]  [1845](https://www.beecrowd.com.br/judge/pt/problems/view/1845) - Efílogo *Ad-Hoc*
+- [ ]  [1846](https://www.beecrowd.com.br/judge/pt/problems/view/1846) - Numero Para Nome *Strings*
+- [x]  [1847](https://www.beecrowd.com.br/judge/pt/problems/view/1847) - [Bem-vindos e Bem-vindas ao Inverno!](https://github.com/potigol/beecrowd/blob/master/src/1800/1847.poti) *Iniciante*
+- [x]  [1848](https://www.beecrowd.com.br/judge/pt/problems/view/1848) - [Corvo Contador](https://github.com/potigol/beecrowd/blob/master/src/1800/1848.poti) *Iniciante*
+- [x]  [1849](https://www.beecrowd.com.br/judge/pt/problems/view/1849) - [Dracarys!](https://github.com/potigol/beecrowd/blob/master/src/1800/1849.poti) *Ad-Hoc*
+- [ ]  [1850](https://www.beecrowd.com.br/judge/pt/problems/view/1850) - O Labirinto de Ninguém *Grafos*
+- [ ]  [1851](https://www.beecrowd.com.br/judge/pt/problems/view/1851) - Como Treinar Seu Dragão *Estruturas e Bibliotecas*
+- [ ]  [1852](https://www.beecrowd.com.br/judge/pt/problems/view/1852) - Lobos Stark *Paradigmas*
+- [ ]  [1853](https://www.beecrowd.com.br/judge/pt/problems/view/1853) - O Jogo da Confiança de Daenerys *Strings*
+- [ ]  [1854](https://www.beecrowd.com.br/judge/pt/problems/view/1854) - Inverno em Winterfell *Estruturas e Bibliotecas*
+- [ ]  [1855](https://www.beecrowd.com.br/judge/pt/problems/view/1855) - Mapa do Meistre *Grafos*
+- [ ]  [1856](https://www.beecrowd.com.br/judge/pt/problems/view/1856) - A Lista da Morte de Arya *Estruturas e Bibliotecas*
+- [ ]  [1857](https://www.beecrowd.com.br/judge/pt/problems/view/1857) - Prelúdio de um Casamento Vermelho *Geometria Computacional*
+- [x]  [1858](https://www.beecrowd.com.br/judge/pt/problems/view/1858) - [A Resposta de Theon](https://github.com/potigol/beecrowd/blob/master/src/1800/1858.poti) *Iniciante*
+- [ ]  [1859](https://www.beecrowd.com.br/judge/pt/problems/view/1859) - Arqueologia Congelante *Strings*
+- [ ]  [1860](https://www.beecrowd.com.br/judge/pt/problems/view/1860) - A Caminhada da Vergonha de Cersei *Paradigmas*
+- [ ]  [1861](https://www.beecrowd.com.br/judge/pt/problems/view/1861) - O Hall dos Assassinos *Estruturas e Bibliotecas*
+- [ ]  [1862](https://www.beecrowd.com.br/judge/pt/problems/view/1862) - Casas de Westeros *Grafos*
+- [ ]  [1863](https://www.beecrowd.com.br/judge/pt/problems/view/1863) - O Contra-ataque de Ramsay *Estruturas e Bibliotecas*
+- [x]  [1864](https://www.beecrowd.com.br/judge/pt/problems/view/1864) - [Nossos Dias Nunca Voltarão](https://github.com/potigol/beecrowd/blob/master/src/1800/1864.poti) *Iniciante*
+- [x]  [1865](https://www.beecrowd.com.br/judge/pt/problems/view/1865) - [Mjölnir](https://github.com/potigol/beecrowd/blob/master/src/1800/1865.poti) *Iniciante*
+- [x]  [1866](https://www.beecrowd.com.br/judge/pt/problems/view/1866) - [Conta](https://github.com/potigol/beecrowd/blob/master/src/1800/1866.poti) *Iniciante*
+- [x]  [1867](https://www.beecrowd.com.br/judge/pt/problems/view/1867) - [Maior Número de Um Algarismo](https://github.com/potigol/beecrowd/blob/master/src/1800/1867.poti) *Ad-Hoc*
+- [x]  [1868](https://www.beecrowd.com.br/judge/pt/problems/view/1868) - [Espiral Quadrada](https://github.com/potigol/beecrowd/blob/master/src/1800/1868.poti) *Strings*
+- [x]  [1869](https://www.beecrowd.com.br/judge/pt/problems/view/1869) - [Base 32](https://github.com/potigol/beecrowd/blob/master/src/1800/1869.poti) *Matemática*
+- [ ]  [1870](https://www.beecrowd.com.br/judge/pt/problems/view/1870) - Ventiladores e Balões *Ad-Hoc*
+- [x]  [1871](https://www.beecrowd.com.br/judge/pt/problems/view/1871) - [Zero vale Zero](https://github.com/potigol/beecrowd/blob/master/src/1800/1871.poti) *Strings*
+- [ ]  [1872](https://www.beecrowd.com.br/judge/pt/problems/view/1872) - Palíndromo Real *Matemática*
+- [x]  [1873](https://www.beecrowd.com.br/judge/pt/problems/view/1873) - [Pedra-papel-tesoura-lagarto-Spock](https://github.com/potigol/beecrowd/blob/master/src/1800/1873.poti) *Strings*
+- [ ]  [1874](https://www.beecrowd.com.br/judge/pt/problems/view/1874) - Empurrando Blocos *Estruturas e Bibliotecas*
+- [x]  [1875](https://www.beecrowd.com.br/judge/pt/problems/view/1875) - [Tribol](https://github.com/potigol/beecrowd/blob/master/src/1800/1875.poti) *Geometria Computacional*
+- [x]  [1876](https://www.beecrowd.com.br/judge/pt/problems/view/1876) - [Rabiola](https://github.com/potigol/beecrowd/blob/master/src/1800/1876.poti) *Ad-Hoc*
+- [x]  [1877](https://www.beecrowd.com.br/judge/pt/problems/view/1877) - [O Castelo de Neve de Sansa](https://github.com/potigol/beecrowd/blob/master/src/1800/1877.poti) *Ad-Hoc*
+- [ ]  [1878](https://www.beecrowd.com.br/judge/pt/problems/view/1878) - Torneios em Sequência *Paradigmas*
+- [ ]  [1879](https://www.beecrowd.com.br/judge/pt/problems/view/1879) - Bridge *Ad-Hoc*
+- [ ]  [1880](https://www.beecrowd.com.br/judge/pt/problems/view/1880) - Renzo e a Decoração Capicuânica *Ad-Hoc*
+- [ ]  [1881](https://www.beecrowd.com.br/judge/pt/problems/view/1881) - Competição de Robótica *Ad-Hoc*
+- [ ]  [1882](https://www.beecrowd.com.br/judge/pt/problems/view/1882) - Passeios Aleatórios pela Tailândia *Grafos*
+- [ ]  [1883](https://www.beecrowd.com.br/judge/pt/problems/view/1883) - Fuga de Ayutthaya *Grafos*
+- [ ]  [1884](https://www.beecrowd.com.br/judge/pt/problems/view/1884) - Lutando Contra os Rajasi *Ad-Hoc*
+- [ ]  [1885](https://www.beecrowd.com.br/judge/pt/problems/view/1885) - Loteria Tailandesa *Ad-Hoc*
+- [ ]  [1886](https://www.beecrowd.com.br/judge/pt/problems/view/1886) - Resguardando os Templos *Ad-Hoc*
+- [ ]  [1887](https://www.beecrowd.com.br/judge/pt/problems/view/1887) - As Vias Férreas Kunming-Cingapura *Ad-Hoc*
+- [ ]  [1888](https://www.beecrowd.com.br/judge/pt/problems/view/1888) - Os chedis de Kamphaeng Phet *Ad-Hoc*
+- [ ]  [1889](https://www.beecrowd.com.br/judge/pt/problems/view/1889) - Treinando com as Larvas de Phuket *Ad-Hoc*
+- [ ]  [1890](https://www.beecrowd.com.br/judge/pt/problems/view/1890) - Emplacando os Tuk-tuks *Ad-Hoc*
+- [ ]  [1891](https://www.beecrowd.com.br/judge/pt/problems/view/1891) - Removendo Moedas no Kem Kradãn *Ad-Hoc*
+- [ ]  [1892](https://www.beecrowd.com.br/judge/pt/problems/view/1892) - Calouro Vence Veterano? *Paradigmas*
+- [x]  [1893](https://www.beecrowd.com.br/judge/pt/problems/view/1893) - [Fases da Lua](https://github.com/potigol/beecrowd/blob/master/src/1800/1893.poti) *Ad-Hoc*
+- [ ]  [1894](https://www.beecrowd.com.br/judge/pt/problems/view/1894) - Filogenia *Grafos*
+- [ ]  [1895](https://www.beecrowd.com.br/judge/pt/problems/view/1895) - Jogo do Limite *Ad-Hoc*
+- [ ]  [1896](https://www.beecrowd.com.br/judge/pt/problems/view/1896) - É Hora do Duelo! *Ad-Hoc*
+- [ ]  [1897](https://www.beecrowd.com.br/judge/pt/problems/view/1897) - Jogo Esperto *Estruturas e Bibliotecas*
+- [ ]  [1898](https://www.beecrowd.com.br/judge/pt/problems/view/1898) - Soma de Propina *Strings*
+- [ ]  [1899](https://www.beecrowd.com.br/judge/pt/problems/view/1899) - Acerte o Alvo! *Ad-Hoc*

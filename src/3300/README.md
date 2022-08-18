@@ -1,102 +1,102 @@
 # Problemas 3300 (41%)
 
-  - [x]  [3300](https://www.beecrowd.com.br/judge/pt/problems/view/3300) - [Números Má Sorte Recarregados](https://github.com/potigol/beecrowd/blob/master/src/3300/3300.poti) *Strings*
-  - [x]  [3301](https://www.beecrowd.com.br/judge/pt/problems/view/3301) - [Sobrinho do Meio](https://github.com/potigol/beecrowd/blob/master/src/3300/3301.poti) *Iniciante*
-  - [x]  [3302](https://www.beecrowd.com.br/judge/pt/problems/view/3302) - [Resposta Certa](https://github.com/potigol/beecrowd/blob/master/src/3300/3302.poti) *Iniciante*
-  - [x]  [3303](https://www.beecrowd.com.br/judge/pt/problems/view/3303) - [Palavrão](https://github.com/potigol/beecrowd/blob/master/src/3300/3303.poti) *Iniciante*
-  - [ ]  [3304](https://www.beecrowd.com.br/judge/pt/problems/view/3304) - Alguma Sorte! *Matemática*
-  - [ ]  [3305](https://www.beecrowd.com.br/judge/pt/problems/view/3305) - Bispos Dominantes *Ad-Hoc*
-  - [ ] ~~xxxx~~
-  - [x]  [3307](https://www.beecrowd.com.br/judge/pt/problems/view/3307) - [Decora o Rolê!](https://github.com/potigol/beecrowd/blob/master/src/3300/3307.poti) *Ad-Hoc*
-  - [x]  [3308](https://www.beecrowd.com.br/judge/pt/problems/view/3308) - [Elevador](https://github.com/potigol/beecrowd/blob/master/src/3300/3308.poti) *Matemática*
-  - [x]  [3309](https://www.beecrowd.com.br/judge/pt/problems/view/3309) - [Felizes são estes Números](https://github.com/potigol/beecrowd/blob/master/src/3300/3309.poti) *Ad-Hoc*
-  - [ ]  [3310](https://www.beecrowd.com.br/judge/pt/problems/view/3310) - Gravity Boy *Strings*
-  - [x]  [3311](https://www.beecrowd.com.br/judge/pt/problems/view/3311) - [Hudinho e o seu Trabalho](https://github.com/potigol/beecrowd/blob/master/src/3300/3311.poti) *Strings*
-  - [x]  [3312](https://www.beecrowd.com.br/judge/pt/problems/view/3312) - [Imberbe Matemático](https://github.com/potigol/beecrowd/blob/master/src/3300/3312.poti) *Matemática*
-  - [x]  [3313](https://www.beecrowd.com.br/judge/pt/problems/view/3313) - [Jogo de Palavras](https://github.com/potigol/beecrowd/blob/master/src/3300/3313.poti) *Strings*
-  - [ ]  [3314](https://www.beecrowd.com.br/judge/pt/problems/view/3314) - Konfusa, a Colmeia! *Grafos*
-  - [x]  [3315](https://www.beecrowd.com.br/judge/pt/problems/view/3315) - [Língua do Computador](https://github.com/potigol/beecrowd/blob/master/src/3300/3315.poti) *Ad-Hoc*
-  - [ ] ~~xxxx~~
-  - [ ] ~~xxxx~~
-  - [ ] ~~xxxx~~
-  - [ ] ~~xxxx~~
-  - [ ] ~~xxxx~~
-  - [ ] ~~xxxx~~
-  - [ ] ~~xxxx~~
-  - [ ] ~~xxxx~~
-  - [ ] ~~xxxx~~
-  - [ ] ~~xxxx~~
-  - [ ] ~~xxxx~~
-  - [ ] ~~xxxx~~
-  - [ ] ~~xxxx~~
-  - [ ] ~~xxxx~~
-  - [ ] ~~xxxx~~
-  - [ ] ~~xxxx~~
-  - [ ] ~~xxxx~~
-  - [ ] ~~xxxx~~
-  - [ ] ~~xxxx~~
-  - [ ] ~~xxxx~~
-  - [ ] ~~xxxx~~
-  - [ ] ~~xxxx~~
-  - [ ] ~~xxxx~~
-  - [x]  [3339](https://www.beecrowd.com.br/judge/pt/problems/view/3339) - [Carina](https://github.com/potigol/beecrowd/blob/master/src/3300/3339.poti) *Matemática*
-  - [ ]  [3340](https://www.beecrowd.com.br/judge/pt/problems/view/3340) - Estudante De Mestrado *Grafos*
-  - [ ]  [3341](https://www.beecrowd.com.br/judge/pt/problems/view/3341) - Grandmaster do Jogo do Caneco *Matemática*
-  - [x]  [3342](https://www.beecrowd.com.br/judge/pt/problems/view/3342) - [Keanu](https://github.com/potigol/beecrowd/blob/master/src/3300/3342.poti) *Iniciante*
-  - [x]  [3343](https://www.beecrowd.com.br/judge/pt/problems/view/3343) - [Attack On Gasparini](https://github.com/potigol/beecrowd/blob/master/src/3300/3343.poti) *Iniciante*
-  - [x]  [3344](https://www.beecrowd.com.br/judge/pt/problems/view/3344) - [Brute](https://github.com/potigol/beecrowd/blob/master/src/3300/3344.poti) *Iniciante*
-  - [ ]  [3345](https://www.beecrowd.com.br/judge/pt/problems/view/3345) - O Passatempo de Ferdinacci *Matemática*
-  - [x]  [3346](https://www.beecrowd.com.br/judge/pt/problems/view/3346) - [Flutuação do PIB](https://github.com/potigol/beecrowd/blob/master/src/3300/3346.poti) *Iniciante*
-  - [ ]  [3347](https://www.beecrowd.com.br/judge/pt/problems/view/3347) - Ancestralidade *Strings*
-  - [x]  [3348](https://www.beecrowd.com.br/judge/pt/problems/view/3348) - [Jogo das Aranhas](https://github.com/potigol/beecrowd/blob/master/src/3300/3348.poti) *Iniciante*
-  - [ ]  [3349](https://www.beecrowd.com.br/judge/pt/problems/view/3349) - Armadura *Paradigmas*
-  - [ ]  [3350](https://www.beecrowd.com.br/judge/pt/problems/view/3350) - A Casa das Sete Mulheres *Grafos*
-  - [ ]  [3351](https://www.beecrowd.com.br/judge/pt/problems/view/3351) - Clickbait *Ad-Hoc*
-  - [ ]  [3352](https://www.beecrowd.com.br/judge/pt/problems/view/3352) - Fuja comigo, Galileu! *Geometria Computacional*
-  - [ ]  [3353](https://www.beecrowd.com.br/judge/pt/problems/view/3353) - Araucárias e a Gralha Azul de Três Olhos *Strings*
-  - [ ]  [3354](https://www.beecrowd.com.br/judge/pt/problems/view/3354) - Joãozinho Vem Para o Sul *Matemática*
-  - [ ]  [3355](https://www.beecrowd.com.br/judge/pt/problems/view/3355) - Pinhões no Xadrez *Ad-Hoc*
-  - [ ]  [3356](https://www.beecrowd.com.br/judge/pt/problems/view/3356) - Reprodução Controlada *Grafos*
-  - [x]  [3357](https://www.beecrowd.com.br/judge/pt/problems/view/3357) - [Rico do Mate](https://github.com/potigol/beecrowd/blob/master/src/3300/3357.poti) *Estruturas e Bibliotecas*
-  - [x]  [3358](https://www.beecrowd.com.br/judge/pt/problems/view/3358) - [Sobrenome Não é Fácil](https://github.com/potigol/beecrowd/blob/master/src/3300/3358.poti) *Strings*
-  - [ ]  [3359](https://www.beecrowd.com.br/judge/pt/problems/view/3359) - Ancient Towers *Ad-Hoc*
-  - [ ]  [3360](https://www.beecrowd.com.br/judge/pt/problems/view/3360) - Because, Art! *Ad-Hoc*
-  - [ ]  [3361](https://www.beecrowd.com.br/judge/pt/problems/view/3361) - Cyclists versus Clouds *Ad-Hoc*
-  - [ ]  [3362](https://www.beecrowd.com.br/judge/pt/problems/view/3362) - Daily Turnovers *Ad-Hoc*
-  - [ ]  [3363](https://www.beecrowd.com.br/judge/pt/problems/view/3363) - Expedition Plans *Ad-Hoc*
-  - [ ]  [3364](https://www.beecrowd.com.br/judge/pt/problems/view/3364) - Fields Division *Ad-Hoc*
-  - [ ]  [3365](https://www.beecrowd.com.br/judge/pt/problems/view/3365) - Generator Tree *Ad-Hoc*
-  - [ ]  [3366](https://www.beecrowd.com.br/judge/pt/problems/view/3366) - Hamilton - The Musical *Ad-Hoc*
-  - [ ]  [3367](https://www.beecrowd.com.br/judge/pt/problems/view/3367) - Invested Money *Ad-Hoc*
-  - [ ]  [3368](https://www.beecrowd.com.br/judge/pt/problems/view/3368) - Joining Pairs *Ad-Hoc*
-  - [x]  [3369](https://www.beecrowd.com.br/judge/pt/problems/view/3369) - [KIARA is a Recursive Acronym](https://github.com/potigol/beecrowd/blob/master/src/3300/3369.poti) *Ad-Hoc*
-  - [ ]  [3370](https://www.beecrowd.com.br/judge/pt/problems/view/3370) - Leaving Yharnam *Ad-Hoc*
-  - [ ]  [3371](https://www.beecrowd.com.br/judge/pt/problems/view/3371) - Most Ordered Way *Ad-Hoc*
-  - [ ] ~~xxxx~~
-  - [ ] ~~xxxx~~
-  - [ ] ~~xxxx~~
-  - [ ] ~~xxxx~~
-  - [ ] ~~xxxx~~
-  - [ ] ~~xxxx~~
-  - [ ] ~~xxxx~~
-  - [ ] ~~xxxx~~
-  - [ ] ~~xxxx~~
-  - [ ] ~~xxxx~~
-  - [ ] ~~xxxx~~
-  - [ ] ~~xxxx~~
-  - [ ] ~~xxxx~~
-  - [ ] ~~xxxx~~
-  - [ ] ~~xxxx~~
-  - [ ] ~~xxxx~~
-  - [ ] ~~xxxx~~
-  - [ ] ~~xxxx~~
-  - [ ] ~~xxxx~~
-  - [ ] ~~xxxx~~
-  - [ ] ~~xxxx~~
-  - [ ] ~~xxxx~~
-  - [ ] ~~xxxx~~
-  - [ ] ~~xxxx~~
-  - [ ] ~~xxxx~~
-  - [ ] ~~xxxx~~
-  - [ ] ~~xxxx~~
-  - [ ] ~~xxxx~~
+- [x]  [3300](https://www.beecrowd.com.br/judge/pt/problems/view/3300) - [Números Má Sorte Recarregados](https://github.com/potigol/beecrowd/blob/master/src/3300/3300.poti) *Strings*
+- [x]  [3301](https://www.beecrowd.com.br/judge/pt/problems/view/3301) - [Sobrinho do Meio](https://github.com/potigol/beecrowd/blob/master/src/3300/3301.poti) *Iniciante*
+- [x]  [3302](https://www.beecrowd.com.br/judge/pt/problems/view/3302) - [Resposta Certa](https://github.com/potigol/beecrowd/blob/master/src/3300/3302.poti) *Iniciante*
+- [x]  [3303](https://www.beecrowd.com.br/judge/pt/problems/view/3303) - [Palavrão](https://github.com/potigol/beecrowd/blob/master/src/3300/3303.poti) *Iniciante*
+- [ ]  [3304](https://www.beecrowd.com.br/judge/pt/problems/view/3304) - Alguma Sorte! *Matemática*
+- [ ]  [3305](https://www.beecrowd.com.br/judge/pt/problems/view/3305) - Bispos Dominantes *Ad-Hoc*
+- [ ] ~~xxxx~~
+- [x]  [3307](https://www.beecrowd.com.br/judge/pt/problems/view/3307) - [Decora o Rolê!](https://github.com/potigol/beecrowd/blob/master/src/3300/3307.poti) *Ad-Hoc*
+- [x]  [3308](https://www.beecrowd.com.br/judge/pt/problems/view/3308) - [Elevador](https://github.com/potigol/beecrowd/blob/master/src/3300/3308.poti) *Matemática*
+- [x]  [3309](https://www.beecrowd.com.br/judge/pt/problems/view/3309) - [Felizes são estes Números](https://github.com/potigol/beecrowd/blob/master/src/3300/3309.poti) *Ad-Hoc*
+- [ ]  [3310](https://www.beecrowd.com.br/judge/pt/problems/view/3310) - Gravity Boy *Strings*
+- [x]  [3311](https://www.beecrowd.com.br/judge/pt/problems/view/3311) - [Hudinho e o seu Trabalho](https://github.com/potigol/beecrowd/blob/master/src/3300/3311.poti) *Strings*
+- [x]  [3312](https://www.beecrowd.com.br/judge/pt/problems/view/3312) - [Imberbe Matemático](https://github.com/potigol/beecrowd/blob/master/src/3300/3312.poti) *Matemática*
+- [x]  [3313](https://www.beecrowd.com.br/judge/pt/problems/view/3313) - [Jogo de Palavras](https://github.com/potigol/beecrowd/blob/master/src/3300/3313.poti) *Strings*
+- [ ]  [3314](https://www.beecrowd.com.br/judge/pt/problems/view/3314) - Konfusa, a Colmeia! *Grafos*
+- [x]  [3315](https://www.beecrowd.com.br/judge/pt/problems/view/3315) - [Língua do Computador](https://github.com/potigol/beecrowd/blob/master/src/3300/3315.poti) *Ad-Hoc*
+- [ ] ~~xxxx~~
+- [ ] ~~xxxx~~
+- [ ] ~~xxxx~~
+- [ ] ~~xxxx~~
+- [ ] ~~xxxx~~
+- [ ] ~~xxxx~~
+- [ ] ~~xxxx~~
+- [ ] ~~xxxx~~
+- [ ] ~~xxxx~~
+- [ ] ~~xxxx~~
+- [ ] ~~xxxx~~
+- [ ] ~~xxxx~~
+- [ ] ~~xxxx~~
+- [ ] ~~xxxx~~
+- [ ] ~~xxxx~~
+- [ ] ~~xxxx~~
+- [ ] ~~xxxx~~
+- [ ] ~~xxxx~~
+- [ ] ~~xxxx~~
+- [ ] ~~xxxx~~
+- [ ] ~~xxxx~~
+- [ ] ~~xxxx~~
+- [ ] ~~xxxx~~
+- [x]  [3339](https://www.beecrowd.com.br/judge/pt/problems/view/3339) - [Carina](https://github.com/potigol/beecrowd/blob/master/src/3300/3339.poti) *Matemática*
+- [ ]  [3340](https://www.beecrowd.com.br/judge/pt/problems/view/3340) - Estudante De Mestrado *Grafos*
+- [ ]  [3341](https://www.beecrowd.com.br/judge/pt/problems/view/3341) - Grandmaster do Jogo do Caneco *Matemática*
+- [x]  [3342](https://www.beecrowd.com.br/judge/pt/problems/view/3342) - [Keanu](https://github.com/potigol/beecrowd/blob/master/src/3300/3342.poti) *Iniciante*
+- [x]  [3343](https://www.beecrowd.com.br/judge/pt/problems/view/3343) - [Attack On Gasparini](https://github.com/potigol/beecrowd/blob/master/src/3300/3343.poti) *Iniciante*
+- [x]  [3344](https://www.beecrowd.com.br/judge/pt/problems/view/3344) - [Brute](https://github.com/potigol/beecrowd/blob/master/src/3300/3344.poti) *Iniciante*
+- [ ]  [3345](https://www.beecrowd.com.br/judge/pt/problems/view/3345) - O Passatempo de Ferdinacci *Matemática*
+- [x]  [3346](https://www.beecrowd.com.br/judge/pt/problems/view/3346) - [Flutuação do PIB](https://github.com/potigol/beecrowd/blob/master/src/3300/3346.poti) *Iniciante*
+- [ ]  [3347](https://www.beecrowd.com.br/judge/pt/problems/view/3347) - Ancestralidade *Strings*
+- [x]  [3348](https://www.beecrowd.com.br/judge/pt/problems/view/3348) - [Jogo das Aranhas](https://github.com/potigol/beecrowd/blob/master/src/3300/3348.poti) *Iniciante*
+- [ ]  [3349](https://www.beecrowd.com.br/judge/pt/problems/view/3349) - Armadura *Paradigmas*
+- [ ]  [3350](https://www.beecrowd.com.br/judge/pt/problems/view/3350) - A Casa das Sete Mulheres *Grafos*
+- [ ]  [3351](https://www.beecrowd.com.br/judge/pt/problems/view/3351) - Clickbait *Ad-Hoc*
+- [ ]  [3352](https://www.beecrowd.com.br/judge/pt/problems/view/3352) - Fuja comigo, Galileu! *Geometria Computacional*
+- [ ]  [3353](https://www.beecrowd.com.br/judge/pt/problems/view/3353) - Araucárias e a Gralha Azul de Três Olhos *Strings*
+- [ ]  [3354](https://www.beecrowd.com.br/judge/pt/problems/view/3354) - Joãozinho Vem Para o Sul *Matemática*
+- [ ]  [3355](https://www.beecrowd.com.br/judge/pt/problems/view/3355) - Pinhões no Xadrez *Ad-Hoc*
+- [ ]  [3356](https://www.beecrowd.com.br/judge/pt/problems/view/3356) - Reprodução Controlada *Grafos*
+- [x]  [3357](https://www.beecrowd.com.br/judge/pt/problems/view/3357) - [Rico do Mate](https://github.com/potigol/beecrowd/blob/master/src/3300/3357.poti) *Estruturas e Bibliotecas*
+- [x]  [3358](https://www.beecrowd.com.br/judge/pt/problems/view/3358) - [Sobrenome Não é Fácil](https://github.com/potigol/beecrowd/blob/master/src/3300/3358.poti) *Strings*
+- [ ]  [3359](https://www.beecrowd.com.br/judge/pt/problems/view/3359) - Ancient Towers *Ad-Hoc*
+- [ ]  [3360](https://www.beecrowd.com.br/judge/pt/problems/view/3360) - Because, Art! *Ad-Hoc*
+- [ ]  [3361](https://www.beecrowd.com.br/judge/pt/problems/view/3361) - Cyclists versus Clouds *Ad-Hoc*
+- [ ]  [3362](https://www.beecrowd.com.br/judge/pt/problems/view/3362) - Daily Turnovers *Ad-Hoc*
+- [ ]  [3363](https://www.beecrowd.com.br/judge/pt/problems/view/3363) - Expedition Plans *Ad-Hoc*
+- [ ]  [3364](https://www.beecrowd.com.br/judge/pt/problems/view/3364) - Fields Division *Ad-Hoc*
+- [ ]  [3365](https://www.beecrowd.com.br/judge/pt/problems/view/3365) - Generator Tree *Ad-Hoc*
+- [ ]  [3366](https://www.beecrowd.com.br/judge/pt/problems/view/3366) - Hamilton - The Musical *Ad-Hoc*
+- [ ]  [3367](https://www.beecrowd.com.br/judge/pt/problems/view/3367) - Invested Money *Ad-Hoc*
+- [ ]  [3368](https://www.beecrowd.com.br/judge/pt/problems/view/3368) - Joining Pairs *Ad-Hoc*
+- [x]  [3369](https://www.beecrowd.com.br/judge/pt/problems/view/3369) - [KIARA is a Recursive Acronym](https://github.com/potigol/beecrowd/blob/master/src/3300/3369.poti) *Ad-Hoc*
+- [ ]  [3370](https://www.beecrowd.com.br/judge/pt/problems/view/3370) - Leaving Yharnam *Ad-Hoc*
+- [ ]  [3371](https://www.beecrowd.com.br/judge/pt/problems/view/3371) - Most Ordered Way *Ad-Hoc*
+- [ ] ~~xxxx~~
+- [ ] ~~xxxx~~
+- [ ] ~~xxxx~~
+- [ ] ~~xxxx~~
+- [ ] ~~xxxx~~
+- [ ] ~~xxxx~~
+- [ ] ~~xxxx~~
+- [ ] ~~xxxx~~
+- [ ] ~~xxxx~~
+- [ ] ~~xxxx~~
+- [ ] ~~xxxx~~
+- [ ] ~~xxxx~~
+- [ ] ~~xxxx~~
+- [ ] ~~xxxx~~
+- [ ] ~~xxxx~~
+- [ ] ~~xxxx~~
+- [ ] ~~xxxx~~
+- [ ] ~~xxxx~~
+- [ ] ~~xxxx~~
+- [ ] ~~xxxx~~
+- [ ] ~~xxxx~~
+- [ ] ~~xxxx~~
+- [ ] ~~xxxx~~
+- [ ] ~~xxxx~~
+- [ ] ~~xxxx~~
+- [ ] ~~xxxx~~
+- [ ] ~~xxxx~~
+- [ ] ~~xxxx~~

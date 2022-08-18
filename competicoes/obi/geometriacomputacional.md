@@ -7,4 +7,4 @@
 
 ## Problemas não resolvidos
 
-  - [ ]  [3064](https://www.beecrowd.com.br/judge/pt/problems/view/3064) - Elástico
+- [ ]  [3064](https://www.beecrowd.com.br/judge/pt/problems/view/3064) - Elástico
