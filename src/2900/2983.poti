@@ -1,0 +1,13 @@
+primo(x: Inteiro) = x == 2 ou (x > 1 e x mod 2 <> 0 e 
+  para i de 3 ate raiz(x + 1).inteiro passo 2 se x mod i == 0 gere i fim.tamanho == 0)
+
+n = leia_inteiro
+x = leia_inteiros(n)
+numeros = x.ordene.divida_quando(_ <> _).mapeie(a => a[1])
+primos = para num em numeros se primo(num) gere num fim 
+escreva primos.tamanho
+se primos == [] então
+    escreva ""
+senão
+    escreva "{primos.junte(", ")}."
+fim
