@@ -1,0 +1,13 @@
+v = leia_inteiro
+c = 300000000
+λ = (700.0 * (c - v) / raiz( 1.0 * c * c - 1.0 * v * v)).arredonde
+cor = se λ < 400 ou λ >= 750 então "invisivel"
+      senãose        λ < 425 então "violeta"
+      senãose        λ < 445 então "anil"
+      senãose        λ < 500 então "azul"
+      senãose        λ < 575 então "verde"
+      senãose        λ < 585 então "amarelo"
+      senãose        λ < 620 então "laranja"
+      senãose        λ < 750 então "vermelho"
+      fim
+escreva cor

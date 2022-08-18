@@ -1,4 +1,4 @@
-# Problemas 3000 (32%)
+# Problemas 3000 (34%)
 
   - [ ] ~~xxxx~~
   - [ ]  ~~3001~~ - *SQL*
@@ -36,7 +36,7 @@
   - [ ]  [3033](https://www.beecrowd.com.br/judge/pt/problems/view/3033) - Ajude Maria *Ad-Hoc*
   - [x]  [3034](https://www.beecrowd.com.br/judge/pt/problems/view/3034) - [O Caso Douglas](https://github.com/potigol/beecrowd/blob/master/src/3000/3034.poti) *Ad-Hoc*
   - [ ]  [3035](https://www.beecrowd.com.br/judge/pt/problems/view/3035) - Fabrica de Peças *Ad-Hoc*
-  - [ ]  [3036](https://www.beecrowd.com.br/judge/pt/problems/view/3036) - Cor da Camisa *Matemática*
+  - [x]  [3036](https://www.beecrowd.com.br/judge/pt/problems/view/3036) - [Cor da Camisa](https://github.com/potigol/beecrowd/blob/master/src/3000/3036.poti) *Matemática*
   - [x]  [3037](https://www.beecrowd.com.br/judge/pt/problems/view/3037) - [Jogando Dardos Por Distância](https://github.com/potigol/beecrowd/blob/master/src/3000/3037.poti) *Iniciante*
   - [x]  [3038](https://www.beecrowd.com.br/judge/pt/problems/view/3038) - [Carta de Natal Criptografada](https://github.com/potigol/beecrowd/blob/master/src/3000/3038.poti) *Strings*
   - [x]  [3039](https://www.beecrowd.com.br/judge/pt/problems/view/3039) - [Brinquedos do Papai Noel](https://github.com/potigol/beecrowd/blob/master/src/3000/3039.poti) *Iniciante*

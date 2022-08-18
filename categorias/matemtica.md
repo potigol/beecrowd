@@ -1,4 +1,4 @@
-# Matemática (75 / 269)
+# Matemática (76 / 269)
 
 
 
@@ -68,6 +68,7 @@
   - [x]  [2981](https://www.beecrowd.com.br/judge/pt/problems/view/2981) - [Vamos Fechar](https://github.com/potigol/beecrowd/blob/master/src/2900/2981.poti)
   - [x]  [2986](https://www.beecrowd.com.br/judge/pt/problems/view/2986) - [Nem Tudo é Greve Versão Hard](https://github.com/potigol/beecrowd/blob/master/src/2900/2986.poti)
   - [x]  [3004](https://www.beecrowd.com.br/judge/pt/problems/view/3004) - [Envelopes](https://github.com/potigol/beecrowd/blob/master/src/3000/3004.poti)
+  - [x]  [3036](https://www.beecrowd.com.br/judge/pt/problems/view/3036) - [Cor da Camisa](https://github.com/potigol/beecrowd/blob/master/src/3000/3036.poti)
   - [x]  [3049](https://www.beecrowd.com.br/judge/pt/problems/view/3049) - [Nota Cortada](https://github.com/potigol/beecrowd/blob/master/src/3000/3049.poti)
   - [x]  [3102](https://www.beecrowd.com.br/judge/pt/problems/view/3102) - [Kikoho](https://github.com/potigol/beecrowd/blob/master/src/3100/3102.poti)
   - [x]  [3104](https://www.beecrowd.com.br/judge/pt/problems/view/3104) - [Resto 2.0](https://github.com/potigol/beecrowd/blob/master/src/3100/3104.poti)
@@ -253,7 +254,6 @@
   - [ ]  [3007](https://www.beecrowd.com.br/judge/pt/problems/view/3007) - Lucas e Frobenius
   - [ ]  [3026](https://www.beecrowd.com.br/judge/pt/problems/view/3026) - Número Inteiro Periódico
   - [ ]  [3029](https://www.beecrowd.com.br/judge/pt/problems/view/3029) - Função Composição
-  - [ ]  [3036](https://www.beecrowd.com.br/judge/pt/problems/view/3036) - Cor da Camisa
   - [ ]  [3078](https://www.beecrowd.com.br/judge/pt/problems/view/3078) - Só o Ouro
   - [ ]  [3079](https://www.beecrowd.com.br/judge/pt/problems/view/3079) - Rua Iluminada
   - [ ]  [3096](https://www.beecrowd.com.br/judge/pt/problems/view/3096) - Overflow
