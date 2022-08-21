@@ -1,0 +1,11 @@
+n = leia_inteiro
+g = leia_inteiros(" ")
+h = g.ordene
+     .divida_quando(_ <> _)
+     .mapeie(_.tamanho)
+
+presentes = h.zip(para i de 1 ate h.tamanho gere i fim)
+
+soma = presentes.injete(0)((a, b) => a + b.primeiro * b.segundo)
+
+escreva soma

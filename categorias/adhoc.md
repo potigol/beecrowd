@@ -1,4 +1,4 @@
-# Ad-Hoc (203 / 745)
+# Ad-Hoc (204 / 745)
 
 
 
@@ -200,6 +200,7 @@
 - [x]  [3135](https://www.beecrowd.com.br/judge/pt/problems/view/3135) - [Lista de Nomes](https://github.com/potigol/beecrowd/blob/master/src/3100/3135.poti)
 - [x]  [3136](https://www.beecrowd.com.br/judge/pt/problems/view/3136) - [Arquitetura de Pilha](https://github.com/potigol/beecrowd/blob/master/src/3100/3136.poti)
 - [x]  [3137](https://www.beecrowd.com.br/judge/pt/problems/view/3137) - [Páginas de um Livro](https://github.com/potigol/beecrowd/blob/master/src/3100/3137.poti)
+- [x]  [3175](https://www.beecrowd.com.br/judge/pt/problems/view/3175) - [Os Presentes Do Noel](https://github.com/potigol/beecrowd/blob/master/src/3100/3175.poti)
 - [x]  [3205](https://www.beecrowd.com.br/judge/pt/problems/view/3205) - [Nasty Hacks](https://github.com/potigol/beecrowd/blob/master/src/3200/3205.poti)
 - [x]  [3227](https://www.beecrowd.com.br/judge/pt/problems/view/3227) - [Doorman](https://github.com/potigol/beecrowd/blob/master/src/3200/3227.poti)
 - [x]  [3263](https://www.beecrowd.com.br/judge/pt/problems/view/3263) - [Apague Com Segurança](https://github.com/potigol/beecrowd/blob/master/src/3200/3263.poti)
@@ -718,7 +719,6 @@
 - [ ]  [3133](https://www.beecrowd.com.br/judge/pt/problems/view/3133) - Fila de Navios
 - [ ]  [3168](https://www.beecrowd.com.br/judge/pt/problems/view/3168) - Aposta dos Gnomos
 - [ ]  [3172](https://www.beecrowd.com.br/judge/pt/problems/view/3172) - Dali e Dila
-- [ ]  [3175](https://www.beecrowd.com.br/judge/pt/problems/view/3175) - Os Presentes Do Noel
 - [ ]  [3177](https://www.beecrowd.com.br/judge/pt/problems/view/3177) - Fábrica de Brinquedos do Papai Noel
 - [ ]  [3188](https://www.beecrowd.com.br/judge/pt/problems/view/3188) - Phone List
 - [ ]  [3189](https://www.beecrowd.com.br/judge/pt/problems/view/3189) - Cuckoo Hashing

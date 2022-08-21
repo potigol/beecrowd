@@ -1,4 +1,4 @@
-# Problemas 2000 (16%)
+# Problemas 2000 (17%)
 
 - [ ]  [2000](https://www.beecrowd.com.br/judge/pt/problems/view/2000) - Adeildo da Odonto *Strings*
 - [ ]  [2001](https://www.beecrowd.com.br/judge/pt/problems/view/2001) - Bile *Matemática*
@@ -18,7 +18,7 @@
 - [ ]  [2015](https://www.beecrowd.com.br/judge/pt/problems/view/2015) - Fatia do Bolo *Ad-Hoc*
 - [ ]  [2016](https://www.beecrowd.com.br/judge/pt/problems/view/2016) - D como em Daedalus *Ad-Hoc*
 - [ ]  [2017](https://www.beecrowd.com.br/judge/pt/problems/view/2017) - Seis Strings *Strings*
-- [ ]  [2018](https://www.beecrowd.com.br/judge/pt/problems/view/2018) - Olimpíadas de Natal *Estruturas e Bibliotecas*
+- [x]  [2018](https://www.beecrowd.com.br/judge/pt/problems/view/2018) - [Olimpíadas de Natal](https://github.com/potigol/beecrowd/blob/master/src/2000/2018.poti) *Estruturas e Bibliotecas*
 - [ ]  [2019](https://www.beecrowd.com.br/judge/pt/problems/view/2019) - Cici, Cini e Cino *Ad-Hoc*
 - [ ]  [2020](https://www.beecrowd.com.br/judge/pt/problems/view/2020) - Elfos e seus Códigos *Estruturas e Bibliotecas*
 - [ ]  [2021](https://www.beecrowd.com.br/judge/pt/problems/view/2021) - Luzes de Natal *Ad-Hoc*

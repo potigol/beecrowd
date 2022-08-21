@@ -1,0 +1,32 @@
+tipo Pais
+    nome: Texto
+    ouro, prata, bronze: Inteiro
+    pontos = ouro * 1000000 + prata * 1000 + bronze
+    texto() = "{nome} {ouro} {prata} {bronze}"
+fim
+
+soma(a: Lista[Pais]): Pais
+  pontos = a.injete(0)(_ + _.pontos)
+  ouro = pontos div 1000000
+  prata = (pontos div 1000) mod 1000
+  bronze = pontos mod 1000
+  Pais(a[1].nome, ouro, prata, bronze)
+fim
+
+
+var paises: Lista[Pais] := []
+leia_texto
+enquanto nao eof faça
+  a, b, c = leia_texto
+  paises := Pais(a, 1, 0, 0) :: Pais(b, 0, 1, 0) :: Pais(c, 0, 0, 1) :: paises
+  leia_texto
+fim
+
+ordem = paises.ordene(_.nome)
+            .divida_quando(_.nome <> _.nome)
+            .mapeie(soma)
+            .ordene(_.nome)
+            .ordene(- _.pontos)
+
+escreva "Quadro de Medalhas"
+escreva ordem.mapeie(_.texto).junte("\n")

@@ -1,4 +1,4 @@
-# Estruturas e Bibliotecas (39 / 179)
+# Estruturas e Bibliotecas (40 / 179)
 
 
 
@@ -25,6 +25,7 @@
 - [x]  [1709](https://www.beecrowd.com.br/judge/pt/problems/view/1709) - [Baralho Embaralhado](https://github.com/potigol/beecrowd/blob/master/src/1700/1709.poti)
 - [x]  [1763](https://www.beecrowd.com.br/judge/pt/problems/view/1763) - [Tradutor do Papai Noel](https://github.com/potigol/beecrowd/blob/master/src/1700/1763.poti)
 - [x]  [1766](https://www.beecrowd.com.br/judge/pt/problems/view/1766) - [O Elfo das Trevas](https://github.com/potigol/beecrowd/blob/master/src/1700/1766.poti)
+- [x]  [2018](https://www.beecrowd.com.br/judge/pt/problems/view/2018) - [Olimpíadas de Natal](https://github.com/potigol/beecrowd/blob/master/src/2000/2018.poti)
 - [x]  [2091](https://www.beecrowd.com.br/judge/pt/problems/view/2091) - [Número Solitário](https://github.com/potigol/beecrowd/blob/master/src/2000/2091.poti)
 - [x]  [2290](https://www.beecrowd.com.br/judge/pt/problems/view/2290) - [Números Apaixornados](https://github.com/potigol/beecrowd/blob/master/src/2200/2290.poti)
 - [x]  [2338](https://www.beecrowd.com.br/judge/pt/problems/view/2338) - [Morse](https://github.com/potigol/beecrowd/blob/master/src/2300/2338.poti)
@@ -108,7 +109,6 @@
 - [ ]  [1911](https://www.beecrowd.com.br/judge/pt/problems/view/1911) - Ajude Girafales
 - [ ]  [1944](https://www.beecrowd.com.br/judge/pt/problems/view/1944) - BRINDE FACE 2015
 - [ ]  [1975](https://www.beecrowd.com.br/judge/pt/problems/view/1975) - Pérolas
-- [ ]  [2018](https://www.beecrowd.com.br/judge/pt/problems/view/2018) - Olimpíadas de Natal
 - [ ]  [2020](https://www.beecrowd.com.br/judge/pt/problems/view/2020) - Elfos e seus Códigos
 - [ ]  [2022](https://www.beecrowd.com.br/judge/pt/problems/view/2022) - Presentes de Natal
 - [ ]  [2040](https://www.beecrowd.com.br/judge/pt/problems/view/2040) - O Campeão

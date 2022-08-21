@@ -1,4 +1,4 @@
-# Problemas 3100 (38%)
+# Problemas 3100 (39%)
 
 - [ ]  [3100](https://www.beecrowd.com.br/judge/pt/problems/view/3100) - Os Dígitos da Sorte *Strings*
 - [ ]  [3101](https://www.beecrowd.com.br/judge/pt/problems/view/3101) - Famílias Poligâmicas *Grafos*
@@ -75,7 +75,7 @@
 - [ ]  [3172](https://www.beecrowd.com.br/judge/pt/problems/view/3172) - Dali e Dila *Ad-Hoc*
 - [x]  [3173](https://www.beecrowd.com.br/judge/pt/problems/view/3173) - [Estrela de Natal](https://github.com/potigol/beecrowd/blob/master/src/3100/3173.poti) *Iniciante*
 - [x]  [3174](https://www.beecrowd.com.br/judge/pt/problems/view/3174) - [Grupo de Trabalho do Noel](https://github.com/potigol/beecrowd/blob/master/src/3100/3174.poti) *Iniciante*
-- [ ]  [3175](https://www.beecrowd.com.br/judge/pt/problems/view/3175) - Os Presentes Do Noel *Ad-Hoc*
+- [x]  [3175](https://www.beecrowd.com.br/judge/pt/problems/view/3175) - [Os Presentes Do Noel](https://github.com/potigol/beecrowd/blob/master/src/3100/3175.poti) *Ad-Hoc*
 - [x]  [3176](https://www.beecrowd.com.br/judge/pt/problems/view/3176) - [Time de Duendes](https://github.com/potigol/beecrowd/blob/master/src/3100/3176.poti) *Estruturas e Bibliotecas*
 - [ ]  [3177](https://www.beecrowd.com.br/judge/pt/problems/view/3177) - Fábrica de Brinquedos do Papai Noel *Ad-Hoc*
 - [ ]  [3178](https://www.beecrowd.com.br/judge/pt/problems/view/3178) - Avenida de Álamos *Paradigmas*
