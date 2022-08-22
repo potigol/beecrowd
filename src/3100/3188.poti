@@ -1,0 +1,10 @@
+prefixo(x, y: Texto) = x == y.pegue(x.tamanho)
+
+t = leia_inteiro
+para i de 1 até t faça
+    n = leia_inteiro
+    numeros = leia_textos(n).ordene
+    pares = numeros.zip(numeros.cauda)
+    consistente = pares.selecione(a => prefixo(a.primeiro, a.segundo)).tamanho == 0
+    se consistente então escreva "YES" senão escreva "NO" fim
+fim

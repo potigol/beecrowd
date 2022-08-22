@@ -1,4 +1,4 @@
-# Problemas 3100 (39%)
+# Problemas 3100 (40%)
 
 - [ ]  [3100](https://www.beecrowd.com.br/judge/pt/problems/view/3100) - Os Dígitos da Sorte *Strings*
 - [ ]  [3101](https://www.beecrowd.com.br/judge/pt/problems/view/3101) - Famílias Poligâmicas *Grafos*
@@ -88,7 +88,7 @@
 - [ ]  [3185](https://www.beecrowd.com.br/judge/pt/problems/view/3185) - Evidência Difícil *Matemática*
 - [ ]  [3186](https://www.beecrowd.com.br/judge/pt/problems/view/3186) - Cache Introspectivo *Estruturas e Bibliotecas*
 - [ ]  [3187](https://www.beecrowd.com.br/judge/pt/problems/view/3187) - Apenas Mais Alguns Triângulos! *Matemática*
-- [ ]  [3188](https://www.beecrowd.com.br/judge/pt/problems/view/3188) - Phone List *Ad-Hoc*
+- [x]  [3188](https://www.beecrowd.com.br/judge/pt/problems/view/3188) - [Phone List](https://github.com/potigol/beecrowd/blob/master/src/3100/3188.poti) *Ad-Hoc*
 - [ ]  [3189](https://www.beecrowd.com.br/judge/pt/problems/view/3189) - Cuckoo Hashing *Ad-Hoc*
 - [ ]  [3190](https://www.beecrowd.com.br/judge/pt/problems/view/3190) - Optimal Parking *Estruturas e Bibliotecas*
 - [ ]  [3191](https://www.beecrowd.com.br/judge/pt/problems/view/3191) - Copying DNA *Paradigmas*
