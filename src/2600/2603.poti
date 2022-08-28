@@ -1,0 +1,17 @@
+use sql
+
+tipo Clientes: Tabela
+    _tabela = "customers"
+    nome = campo("name")
+    rua = campo("street")
+    cidade = campo("city")
+fim
+    
+c = Clientes()
+consulta = Selecionar()
+            .tabela(c)
+            .campos([c.nome, c.rua])
+            .onde(c.cidade == "Porto Alegre")
+            .sql
+
+escreva consulta

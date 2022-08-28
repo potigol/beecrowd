@@ -1,0 +1,16 @@
+use sql
+
+tipo Clientes: Tabela
+    _tabela = "customers"
+    nome = campo("name")
+    estado = campo("state")
+fim
+    
+c = Clientes()
+consulta = Selecionar()
+            .tabela(c)
+            .campos([c.nome])
+            .onde(c.estado == "RS")
+            .sql
+
+escreva consulta
