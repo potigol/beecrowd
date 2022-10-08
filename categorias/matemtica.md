@@ -8,6 +8,7 @@
 - [x]  [1093](https://www.beecrowd.com.br/judge/pt/problems/view/1093) - [Vampiros](https://github.com/potigol/beecrowd/blob/master/src/1000/1093.poti)
 - [x]  [1138](https://www.beecrowd.com.br/judge/pt/problems/view/1138) - [Contagem de Dígitos](https://github.com/potigol/beecrowd/blob/master/src/1100/1138.poti)
 - [x]  [1161](https://www.beecrowd.com.br/judge/pt/problems/view/1161) - [Soma de Fatoriais](https://github.com/potigol/beecrowd/blob/master/src/1100/1161.poti)
+- [x]  [1163](https://www.beecrowd.com.br/judge/pt/problems/view/1163) - [Angry Ducks](https://github.com/potigol/beecrowd/blob/master/src/1100/1163.poti)
 - [x]  [1169](https://www.beecrowd.com.br/judge/pt/problems/view/1169) - [Trigo no Tabuleiro](https://github.com/potigol/beecrowd/blob/master/src/1100/1169.poti)
 - [x]  [1170](https://www.beecrowd.com.br/judge/pt/problems/view/1170) - [Blobs](https://github.com/potigol/beecrowd/blob/master/src/1100/1170.poti)
 - [x]  [1197](https://www.beecrowd.com.br/judge/pt/problems/view/1197) - [Volta à Faculdade de Física](https://github.com/potigol/beecrowd/blob/master/src/1100/1197.poti)
@@ -84,7 +85,6 @@
 
 ## Problemas não resolvidos
 
-- [ ]  [1163](https://www.beecrowd.com.br/judge/pt/problems/view/1163) - Angry Ducks
 - [ ]  [1193](https://www.beecrowd.com.br/judge/pt/problems/view/1193) - Conversão entre Bases
 - [ ]  [1199](https://www.beecrowd.com.br/judge/pt/problems/view/1199) - Conversão Simples de Base
 - [ ]  [1202](https://www.beecrowd.com.br/judge/pt/problems/view/1202) - Festival das Noites Brancas

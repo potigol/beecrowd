@@ -1,0 +1,42 @@
+PI = 3.14159
+G = 9.80665
+
+var input := leia_texto
+enquanto input <> nulo e input <> "" faca
+    var h = input.real
+    pares = leia_reais(" ")
+    p1, p2 = pares[1], pares[2]
+
+    n = leia_inteiro
+
+    para i de 1 até n faça
+      x = leia_reais(" ")
+      a, v = x[1], x[2]
+      alfa = a * PI  / 180
+      vox = v * cos(alfa)
+      voy = v * sen(alfa)
+
+      ts = voy / G
+      H = (voy*voy) / (2 * G) + h
+      vfy = raiz(2 * G * H)
+      td = vfy / G
+      tt = ts + td
+      D = vox * tt
+
+      var d = D.arredonde(5).texto
+      tamanho_fracao = d.descarte_enquanto(letra => letra <> '.').tamanho
+      se tamanho_fracao < 6 então
+        para i de 1 até (6 - tamanho_fracao) faça
+          d := d + '0'
+        fim
+      fim
+
+      se D > p1 e D < p2 então
+        escreva "{d} -> DUCK"
+      senão
+        escreva "{d} -> NUCK"
+      fim
+    fim
+
+    input := leia_texto
+fim

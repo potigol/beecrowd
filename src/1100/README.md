@@ -63,7 +63,7 @@
 - [x]  [1160](https://www.beecrowd.com.br/judge/pt/problems/view/1160) - [Crescimento Populacional](https://github.com/potigol/beecrowd/blob/master/src/1100/1160.poti) *Iniciante*
 - [x]  [1161](https://www.beecrowd.com.br/judge/pt/problems/view/1161) - [Soma de Fatoriais](https://github.com/potigol/beecrowd/blob/master/src/1100/1161.poti) *Matemática*
 - [x]  [1162](https://www.beecrowd.com.br/judge/pt/problems/view/1162) - [Organizador de Vagões](https://github.com/potigol/beecrowd/blob/master/src/1100/1162.poti) *Estruturas e Bibliotecas*
-- [ ]  [1163](https://www.beecrowd.com.br/judge/pt/problems/view/1163) - Angry Ducks *Matemática*
+- [x]  [1163](https://www.beecrowd.com.br/judge/pt/problems/view/1163) - [Angry Ducks](https://github.com/potigol/beecrowd/blob/master/src/1100/1163.poti) *Matemática*
 - [x]  [1164](https://www.beecrowd.com.br/judge/pt/problems/view/1164) - [Número Perfeito](https://github.com/potigol/beecrowd/blob/master/src/1100/1164.poti) *Iniciante*
 - [x]  [1165](https://www.beecrowd.com.br/judge/pt/problems/view/1165) - [Número Primo](https://github.com/potigol/beecrowd/blob/master/src/1100/1165.poti) *Iniciante*
 - [x]  [1166](https://www.beecrowd.com.br/judge/pt/problems/view/1166) - [Torre de Hanoi, Novamente!](https://github.com/potigol/beecrowd/blob/master/src/1100/1166.poti) *Paradigmas*
