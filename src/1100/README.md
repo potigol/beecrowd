@@ -93,7 +93,7 @@
 - [x]  [1190](https://www.beecrowd.com.br/judge/pt/problems/view/1190) - [Área Direita](https://github.com/potigol/beecrowd/blob/master/src/1100/1190.poti) *Iniciante*
 - [ ]  [1191](https://www.beecrowd.com.br/judge/pt/problems/view/1191) - Recuperação da Árvore *Grafos*
 - [x]  [1192](https://www.beecrowd.com.br/judge/pt/problems/view/1192) - [O jogo Matemático de Paula](https://github.com/potigol/beecrowd/blob/master/src/1100/1192.poti) *Ad-Hoc*
-- [ ]  [1193](https://www.beecrowd.com.br/judge/pt/problems/view/1193) - Conversão entre Bases *Matemática*
+- [x]  [1193](https://www.beecrowd.com.br/judge/pt/problems/view/1193) - [Conversão entre Bases](https://github.com/potigol/beecrowd/blob/master/src/1100/1193.poti) *Matemática*
 - [ ]  [1194](https://www.beecrowd.com.br/judge/pt/problems/view/1194) - Prefixa, Infixa e Posfixa *Grafos*
 - [x]  [1195](https://www.beecrowd.com.br/judge/pt/problems/view/1195) - [Árvore Binária de Busca](https://github.com/potigol/beecrowd/blob/master/src/1100/1195.poti) *Grafos*
 - [x]  [1196](https://www.beecrowd.com.br/judge/pt/problems/view/1196) - [WERTYU](https://github.com/potigol/beecrowd/blob/master/src/1100/1196.poti) *Ad-Hoc*

@@ -1,0 +1,41 @@
+dec_para_bin(num: Inteiro)
+    Integer.toBinaryString(num)
+fim
+
+dec_para_hex(num:Inteiro)
+    Integer.toHexString(num)
+fim
+
+bin_para_dec(num: Texto)
+    Integer.parseInt(num, 2)
+fim
+
+bin_para_hex(num: Texto)
+    dec_para_hex(bin_para_dec(num))
+fim
+
+hex_para_dec(num: Texto)
+    Integer.parseInt(num, 16)
+fim
+
+hex_para_bin(num: Texto)
+    dec_para_bin(hex_para_dec(num))
+fim
+
+
+vezes = leia_inteiro
+para i de 1 ate vezes faça
+    input = leia_textos(" ")
+    num,base = input[1], input[2]
+
+    escreva "Case {i}:"
+    escolha base
+        caso "bin" => escreva "{bin_para_dec(num)} dec"
+                      escreva "{bin_para_hex(num)} hex"
+        caso "dec" => escreva "{dec_para_hex(num.inteiro)} hex"
+                      escreva "{dec_para_bin(num.inteiro)} bin"
+        caso _     => escreva "{hex_para_dec(num)} dec"
+                      escreva "{hex_para_bin(num)} bin"
+    fim
+    escreva ""
+fim
