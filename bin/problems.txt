@@ -2252,6 +2252,7 @@
 3303	Palavrão	Iniciante
 3304	Alguma Sorte!	Matemática
 3305	Bispos Dominantes	Ad-Hoc
+3306	Consulta e Alteração	Iniciante
 3307	Decora o Rolê!	Ad-Hoc
 3308	Elevador	Matemática
 3309	Felizes são estes Números	Ad-Hoc

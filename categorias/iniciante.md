@@ -1,4 +1,4 @@
-# Iniciante (319 / 335)
+# Iniciante (320 / 336)
 
 
 
@@ -318,6 +318,7 @@
 - [x]  [3301](https://www.beecrowd.com.br/judge/pt/problems/view/3301) - [Sobrinho do Meio](https://github.com/potigol/beecrowd/blob/master/src/3300/3301.poti)
 - [x]  [3302](https://www.beecrowd.com.br/judge/pt/problems/view/3302) - [Resposta Certa](https://github.com/potigol/beecrowd/blob/master/src/3300/3302.poti)
 - [x]  [3303](https://www.beecrowd.com.br/judge/pt/problems/view/3303) - [Palavrão](https://github.com/potigol/beecrowd/blob/master/src/3300/3303.poti)
+- [x]  [3306](https://www.beecrowd.com.br/judge/pt/problems/view/3306) - [Consulta e Alteração](https://github.com/potigol/beecrowd/blob/master/src/3300/3306.poti)
 - [x]  [3342](https://www.beecrowd.com.br/judge/pt/problems/view/3342) - [Keanu](https://github.com/potigol/beecrowd/blob/master/src/3300/3342.poti)
 - [x]  [3343](https://www.beecrowd.com.br/judge/pt/problems/view/3343) - [Attack On Gasparini](https://github.com/potigol/beecrowd/blob/master/src/3300/3343.poti)
 - [x]  [3344](https://www.beecrowd.com.br/judge/pt/problems/view/3344) - [Brute](https://github.com/potigol/beecrowd/blob/master/src/3300/3344.poti)
