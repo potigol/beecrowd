@@ -1,0 +1,46 @@
+exp(base: Inteiro, expoente: Inteiro): Inteiro
+    var p = 1
+    var x = base
+    var y = expoente
+    enquanto y <> 0 faça
+        se y mod 2 == 1 então
+            p := (p * x) mod 1500
+            y := y - 1
+        fim
+        x :=  (x * x) mod 1500
+        y := (y / 2).inteiro
+    fim
+    p
+fim
+
+var fib = Lista.mutável(1511, 0)
+fib[1] := 1
+fib[2] := 1
+
+para x de 3 até 1510 faça
+    fib[x] := (fib[x-1] + fib[x-2]) mod 1000
+fim
+
+t = leia_inteiro
+para count de 1 até t faça
+    var numero = leia_texto
+    var d = 0
+    var l = 0
+
+    para i de numero.tamanho até 1 passo -1 faça
+        se numero[i] == '1' então
+            d := (d + exp(2, l)) mod 1500
+        fim
+        l := l + 1
+    fim
+
+    se d <> 0 então
+        d := fib[d]
+    fim
+
+    escolha d
+        caso n se n < 10  => escreva "00{d}"
+        caso n se n < 100 => escreva "0{d}"
+        caso _            => escreva "{d}"
+    fim
+fim
