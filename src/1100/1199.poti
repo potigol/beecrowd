@@ -1,0 +1,9 @@
+var input = leia_texto
+enquanto input <> "-1" faça
+    se input.contém('x') então
+        escreva "{Integer.parseInt(input.descarte(2), 16)}"
+    senão
+        escreva "0x{Integer.toHexString(input.inteiro).maiúsculo}"
+    fim
+    input := leia_texto
+fim

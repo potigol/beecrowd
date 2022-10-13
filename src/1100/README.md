@@ -99,4 +99,4 @@
 - [x]  [1196](https://www.beecrowd.com.br/judge/pt/problems/view/1196) - [WERTYU](https://github.com/potigol/beecrowd/blob/master/src/1100/1196.poti) *Ad-Hoc*
 - [x]  [1197](https://www.beecrowd.com.br/judge/pt/problems/view/1197) - [Volta à Faculdade de Física](https://github.com/potigol/beecrowd/blob/master/src/1100/1197.poti) *Matemática*
 - [x]  [1198](https://www.beecrowd.com.br/judge/pt/problems/view/1198) - [O Bravo Guerreiro Hashmat](https://github.com/potigol/beecrowd/blob/master/src/1100/1198.poti) *Matemática*
-- [ ]  [1199](https://www.beecrowd.com.br/judge/pt/problems/view/1199) - Conversão Simples de Base *Matemática*
+- [x]  [1199](https://www.beecrowd.com.br/judge/pt/problems/view/1199) - [Conversão Simples de Base](https://github.com/potigol/beecrowd/blob/master/src/1100/1199.poti) *Matemática*
