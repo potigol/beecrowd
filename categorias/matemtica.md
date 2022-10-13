@@ -15,6 +15,7 @@
 - [x]  [1197](https://www.beecrowd.com.br/judge/pt/problems/view/1197) - [Volta à Faculdade de Física](https://github.com/potigol/beecrowd/blob/master/src/1100/1197.poti)
 - [x]  [1198](https://www.beecrowd.com.br/judge/pt/problems/view/1198) - [O Bravo Guerreiro Hashmat](https://github.com/potigol/beecrowd/blob/master/src/1100/1198.poti)
 - [x]  [1199](https://www.beecrowd.com.br/judge/pt/problems/view/1199) - [Conversão Simples de Base](https://github.com/potigol/beecrowd/blob/master/src/1100/1199.poti)
+- [x]  [1202](https://www.beecrowd.com.br/judge/pt/problems/view/1202) - [Festival das Noites Brancas](https://github.com/potigol/beecrowd/blob/master/src/1200/1202.poti)
 - [x]  [1212](https://www.beecrowd.com.br/judge/pt/problems/view/1212) - [Aritmética Primária](https://github.com/potigol/beecrowd/blob/master/src/1200/1212.poti)
 - [x]  [1213](https://www.beecrowd.com.br/judge/pt/problems/view/1213) - [Ones](https://github.com/potigol/beecrowd/blob/master/src/1200/1213.poti)
 - [x]  [1214](https://www.beecrowd.com.br/judge/pt/problems/view/1214) - [Acima da Média](https://github.com/potigol/beecrowd/blob/master/src/1200/1214.poti)
@@ -87,7 +88,6 @@
 
 ## Problemas não resolvidos
 
-- [ ]  [1202](https://www.beecrowd.com.br/judge/pt/problems/view/1202) - Festival das Noites Brancas
 - [ ]  [1219](https://www.beecrowd.com.br/judge/pt/problems/view/1219) - Flores Coloridas
 - [ ]  [1220](https://www.beecrowd.com.br/judge/pt/problems/view/1220) - A Viagem
 - [ ]  [1230](https://www.beecrowd.com.br/judge/pt/problems/view/1230) - Integral

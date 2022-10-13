@@ -2,7 +2,7 @@
 
 - [x]  [1200](https://www.beecrowd.com.br/judge/pt/problems/view/1200) - [Operações em ABP I](https://github.com/potigol/beecrowd/blob/master/src/1200/1200.poti) *Grafos*
 - [ ]  [1201](https://www.beecrowd.com.br/judge/pt/problems/view/1201) - Operações em ABP II *Grafos*
-- [ ]  [1202](https://www.beecrowd.com.br/judge/pt/problems/view/1202) - Festival das Noites Brancas *Matemática*
+- [x]  [1202](https://www.beecrowd.com.br/judge/pt/problems/view/1202) - [Festival das Noites Brancas](https://github.com/potigol/beecrowd/blob/master/src/1200/1202.poti) *Matemática*
 - [ ]  [1203](https://www.beecrowd.com.br/judge/pt/problems/view/1203) - Pontes de São Petersburgo *Paradigmas*
 - [ ]  [1204](https://www.beecrowd.com.br/judge/pt/problems/view/1204) - Myachowski, o Futebol Russo *Geometria Computacional*
 - [ ]  [1205](https://www.beecrowd.com.br/judge/pt/problems/view/1205) - Cerco a Leningrado *Grafos*
