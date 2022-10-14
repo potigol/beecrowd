@@ -139,7 +139,7 @@ def problemList(file: String): Map[Int, Problem] =
 // Principal
 @main def main() =
   val problems = problemList("problems.txt")
-  listaGeral(33, problems)
+  listaGeral(34, problems)
   listaCategoria(problems)
   listaCategoria(save(problems, "obi.txt"), "../competicoes/obi/")
   listaCategoria(save(problems, "maratona1.txt", "maratona2.txt"), "../competicoes/maratona/")

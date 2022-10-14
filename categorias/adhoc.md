@@ -1,4 +1,4 @@
-# Ad-Hoc (205 / 745)
+# Ad-Hoc (205 / 771)
 
 
 
@@ -752,3 +752,29 @@
 - [ ]  [3368](https://www.beecrowd.com.br/judge/pt/problems/view/3368) - Joining Pairs
 - [ ]  [3370](https://www.beecrowd.com.br/judge/pt/problems/view/3370) - Leaving Yharnam
 - [ ]  [3371](https://www.beecrowd.com.br/judge/pt/problems/view/3371) - Most Ordered Way
+- [ ]  [3397](https://www.beecrowd.com.br/judge/pt/problems/view/3397) - Melhor do Multiverso
+- [ ]  [3398](https://www.beecrowd.com.br/judge/pt/problems/view/3398) - Moeda Convertida
+- [ ]  [3399](https://www.beecrowd.com.br/judge/pt/problems/view/3399) - Meu nome é Enésimo!
+- [ ]  [3400](https://www.beecrowd.com.br/judge/pt/problems/view/3400) - Amigo não tão secreto assim
+- [ ]  [3401](https://www.beecrowd.com.br/judge/pt/problems/view/3401) - Bicho da Goiaba Ataca Novamente
+- [ ]  [3403](https://www.beecrowd.com.br/judge/pt/problems/view/3403) - Dengoso
+- [ ]  [3404](https://www.beecrowd.com.br/judge/pt/problems/view/3404) - Estranho ou Engraçado
+- [ ]  [3405](https://www.beecrowd.com.br/judge/pt/problems/view/3405) - Fatorial
+- [ ]  [3406](https://www.beecrowd.com.br/judge/pt/problems/view/3406) - Gatas do Lincoln
+- [ ]  [3407](https://www.beecrowd.com.br/judge/pt/problems/view/3407) - Hora do Café
+- [ ]  [3408](https://www.beecrowd.com.br/judge/pt/problems/view/3408) - Ignore as Letras
+- [ ]  [3409](https://www.beecrowd.com.br/judge/pt/problems/view/3409) - Júnior, como seu tio come?
+- [ ]  [3410](https://www.beecrowd.com.br/judge/pt/problems/view/3410) - Kebra Cabeça
+- [ ]  [3411](https://www.beecrowd.com.br/judge/pt/problems/view/3411) - Lá vai tinta!
+- [ ]  [3412](https://www.beecrowd.com.br/judge/pt/problems/view/3412) - Avaliações de Algoritmos
+- [ ]  [3413](https://www.beecrowd.com.br/judge/pt/problems/view/3413) - Baita Desafio Complexo
+- [ ]  [3414](https://www.beecrowd.com.br/judge/pt/problems/view/3414) - Chimambu
+- [ ]  [3415](https://www.beecrowd.com.br/judge/pt/problems/view/3415) - Ditados
+- [ ]  [3416](https://www.beecrowd.com.br/judge/pt/problems/view/3416) - Eu Quero Cafééé
+- [ ]  [3417](https://www.beecrowd.com.br/judge/pt/problems/view/3417) - Falcatrua
+- [ ]  [3418](https://www.beecrowd.com.br/judge/pt/problems/view/3418) - La Chaleur
+- [ ]  [3419](https://www.beecrowd.com.br/judge/pt/problems/view/3419) - Kimi Räikkönen
+- [ ]  [3420](https://www.beecrowd.com.br/judge/pt/problems/view/3420) - House of Cards
+- [ ]  [3421](https://www.beecrowd.com.br/judge/pt/problems/view/3421) - Infinita String de Dígitos
+- [ ]  [3422](https://www.beecrowd.com.br/judge/pt/problems/view/3422) - José e a Súmula
+- [ ]  [3423](https://www.beecrowd.com.br/judge/pt/problems/view/3423) - Gostos Peculiares

@@ -2295,3 +2295,29 @@
 3369	KIARA is a Recursive Acronym	Ad-Hoc
 3370	Leaving Yharnam	Ad-Hoc
 3371	Most Ordered Way	Ad-Hoc
+3397	Melhor do Multiverso	Ad-Hoc
+3398	Moeda Convertida	Ad-Hoc
+3399	Meu nome é Enésimo!	Ad-Hoc
+3400	Amigo não tão secreto assim	Ad-Hoc
+3401	Bicho da Goiaba Ataca Novamente	Ad-Hoc
+3403	Dengoso	Ad-Hoc
+3404	Estranho ou Engraçado	Ad-Hoc
+3405	Fatorial	Ad-Hoc
+3406	Gatas do Lincoln	Ad-Hoc
+3407	Hora do Café	Ad-Hoc
+3408	Ignore as Letras	Ad-Hoc
+3409	Júnior, como seu tio come?	Ad-Hoc
+3410	Kebra Cabeça	Ad-Hoc
+3411	Lá vai tinta!	Ad-Hoc
+3412	Avaliações de Algoritmos	Ad-Hoc
+3413	Baita Desafio Complexo	Ad-Hoc
+3414	Chimambu	Ad-Hoc
+3415	Ditados	Ad-Hoc
+3416	Eu Quero Cafééé	Ad-Hoc
+3417	Falcatrua	Ad-Hoc
+3418	La Chaleur	Ad-Hoc
+3419	Kimi Räikkönen	Ad-Hoc
+3420	House of Cards	Ad-Hoc
+3421	Infinita String de Dígitos	Ad-Hoc
+3422	José e a Súmula	Ad-Hoc
+3423	Gostos Peculiares	Ad-Hoc
