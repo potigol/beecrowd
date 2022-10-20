@@ -1,8 +1,33 @@
-# Maratona de Programação (59 / 380)
+# Maratona de Programação (59 / 397)
 
+
+## 2022
+
+### 1ª Fase
+
+- [ ]  [3412](https://www.beecrowd.com.br/judge/pt/problems/view/3412) - Avaliações de Algoritmos *Ad-Hoc*
+- [ ]  [3413](https://www.beecrowd.com.br/judge/pt/problems/view/3413) - Baita Desafio Complexo *Ad-Hoc*
+- [ ]  [3414](https://www.beecrowd.com.br/judge/pt/problems/view/3414) - Chimambu *Ad-Hoc*
+- [ ]  [3415](https://www.beecrowd.com.br/judge/pt/problems/view/3415) - Ditados *Ad-Hoc*
+- [ ]  [3416](https://www.beecrowd.com.br/judge/pt/problems/view/3416) - Eu Quero Cafééé *Ad-Hoc*
+- [ ]  [3417](https://www.beecrowd.com.br/judge/pt/problems/view/3417) - Falcatrua *Ad-Hoc*
+- [ ]  [3418](https://www.beecrowd.com.br/judge/pt/problems/view/3418) - La Chaleur *Ad-Hoc*
+- [ ]  [3419](https://www.beecrowd.com.br/judge/pt/problems/view/3419) - Kimi Räikkönen *Ad-Hoc*
+- [ ]  [3420](https://www.beecrowd.com.br/judge/pt/problems/view/3420) - House of Cards *Ad-Hoc*
+- [ ]  [3421](https://www.beecrowd.com.br/judge/pt/problems/view/3421) - Infinita String de Dígitos *Ad-Hoc*
+- [ ]  [3422](https://www.beecrowd.com.br/judge/pt/problems/view/3422) - José e a Súmula *Ad-Hoc*
+- [ ]  [3423](https://www.beecrowd.com.br/judge/pt/problems/view/3423) - Gostos Peculiares *Ad-Hoc*
+
+### 2ª Fase
+
+- [ ] ~~xxxx~~
+       
 
 ## 2021
 
+### 1ª Fase
+
+- [ ] ~~xxxx~~
 
 ### 2ª Fase
 
@@ -23,6 +48,9 @@
 
 ## 2020
 
+### 1ª Fase
+
+- [ ] ~~xxxx~~
 
 ### 2ª Fase
 
@@ -522,6 +550,9 @@
 
 ## 2003
 
+### 1ª Fase
+
+- [ ] ~~xxxx~~
 
 ### 2ª Fase
 
@@ -537,6 +568,9 @@
 
 ## 2002
 
+### 1ª Fase
+
+- [ ] ~~xxxx~~
 
 ### 2ª Fase
 
