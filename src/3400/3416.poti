@@ -1,0 +1,5 @@
+entrada = leia_inteiros(" ")
+n, l, d = entrada[1], entrada[2], entrada[3]
+a = n * d / (l * 1000)
+b = a.teto.inteiro
+escreva b * l
