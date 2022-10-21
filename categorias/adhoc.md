@@ -1,4 +1,4 @@
-# Ad-Hoc (205 / 771)
+# Ad-Hoc (206 / 771)
 
 
 
@@ -209,6 +209,7 @@
 - [x]  [3309](https://www.beecrowd.com.br/judge/pt/problems/view/3309) - [Felizes são estes Números](https://github.com/potigol/beecrowd/blob/master/src/3300/3309.poti)
 - [x]  [3315](https://www.beecrowd.com.br/judge/pt/problems/view/3315) - [Língua do Computador](https://github.com/potigol/beecrowd/blob/master/src/3300/3315.poti)
 - [x]  [3369](https://www.beecrowd.com.br/judge/pt/problems/view/3369) - [KIARA is a Recursive Acronym](https://github.com/potigol/beecrowd/blob/master/src/3300/3369.poti)
+- [x]  [3416](https://www.beecrowd.com.br/judge/pt/problems/view/3416) - [Eu Quero Cafééé](https://github.com/potigol/beecrowd/blob/master/src/3400/3416.poti)
 
 ## Problemas não resolvidos
 
@@ -770,7 +771,6 @@
 - [ ]  [3413](https://www.beecrowd.com.br/judge/pt/problems/view/3413) - Baita Desafio Complexo
 - [ ]  [3414](https://www.beecrowd.com.br/judge/pt/problems/view/3414) - Chimambu
 - [ ]  [3415](https://www.beecrowd.com.br/judge/pt/problems/view/3415) - Ditados
-- [ ]  [3416](https://www.beecrowd.com.br/judge/pt/problems/view/3416) - Eu Quero Cafééé
 - [ ]  [3417](https://www.beecrowd.com.br/judge/pt/problems/view/3417) - Falcatrua
 - [ ]  [3418](https://www.beecrowd.com.br/judge/pt/problems/view/3418) - La Chaleur
 - [ ]  [3419](https://www.beecrowd.com.br/judge/pt/problems/view/3419) - Kimi Räikkönen

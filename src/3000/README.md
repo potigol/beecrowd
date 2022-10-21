@@ -1,7 +1,7 @@
-# Problemas 3000 (34%)
+# Problemas 3000 (33%)
 
 - [ ] ~~xxxx~~
-- [ ]  ~~3001~~ - *SQL*
+- [ ]  [3001](https://www.beecrowd.com.br/judge/pt/problems/view/3001) - Update sem Where *SQL*
 - [ ]  [3002](https://www.beecrowd.com.br/judge/pt/problems/view/3002) - Salve a Lilly! *Matemática*
 - [ ]  [3003](https://www.beecrowd.com.br/judge/pt/problems/view/3003) - O Grupinho *Grafos*
 - [x]  [3004](https://www.beecrowd.com.br/judge/pt/problems/view/3004) - [Envelopes](https://github.com/potigol/beecrowd/blob/master/src/3000/3004.poti) *Matemática*

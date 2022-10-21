@@ -1,7 +1,6 @@
 *.poti.scala
 /src/*/*[a-z].poti
 /src/*/*.txt
-/categorias/sql.md
 /*.poti
 .metals/
 .metals/*

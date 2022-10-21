@@ -1,31 +1,31 @@
-# Problemas 2600 (33%)
+# Problemas 2600 (27%)
 
 - [x]  [2600](https://www.beecrowd.com.br/judge/pt/problems/view/2600) - [Tustin e Seu Dado Novo](https://github.com/potigol/beecrowd/blob/master/src/2600/2600.poti) *Ad-Hoc*
 - [x]  [2601](https://www.beecrowd.com.br/judge/pt/problems/view/2601) - [Tustin e Seu Dado Antigo](https://github.com/potigol/beecrowd/blob/master/src/2600/2601.poti) *Ad-Hoc*
-- [ ]  ~~2602~~ - *SQL*
-- [ ]  ~~2603~~ - *SQL*
-- [ ]  ~~2604~~ - *SQL*
-- [ ]  ~~2605~~ - *SQL*
-- [ ]  ~~2606~~ - *SQL*
-- [ ]  ~~2607~~ - *SQL*
-- [ ]  ~~2608~~ - *SQL*
-- [ ]  ~~2609~~ - *SQL*
-- [ ]  ~~2610~~ - *SQL*
-- [ ]  ~~2611~~ - *SQL*
+- [x]  [2602](https://www.beecrowd.com.br/judge/pt/problems/view/2602) - [Select Básico](https://github.com/potigol/beecrowd/blob/master/src/2600/2602.poti) *SQL*
+- [x]  [2603](https://www.beecrowd.com.br/judge/pt/problems/view/2603) - [Endereço dos Clientes](https://github.com/potigol/beecrowd/blob/master/src/2600/2603.poti) *SQL*
+- [ ]  [2604](https://www.beecrowd.com.br/judge/pt/problems/view/2604) - Menores que 10 ou Maiores que 100 *SQL*
+- [ ]  [2605](https://www.beecrowd.com.br/judge/pt/problems/view/2605) - Representantes Executivos *SQL*
+- [ ]  [2606](https://www.beecrowd.com.br/judge/pt/problems/view/2606) - Categorias *SQL*
+- [ ]  [2607](https://www.beecrowd.com.br/judge/pt/problems/view/2607) - Cidades em Ordem Alfabética *SQL*
+- [ ]  [2608](https://www.beecrowd.com.br/judge/pt/problems/view/2608) - Maior e Menor Preço *SQL*
+- [ ]  [2609](https://www.beecrowd.com.br/judge/pt/problems/view/2609) - Produtos por Categorias *SQL*
+- [ ]  [2610](https://www.beecrowd.com.br/judge/pt/problems/view/2610) - Valor Médio dos Produtos *SQL*
+- [ ]  [2611](https://www.beecrowd.com.br/judge/pt/problems/view/2611) - Filmes de Ação *SQL*
 - [ ] ~~xxxx~~
-- [ ]  ~~2613~~ - *SQL*
-- [ ]  ~~2614~~ - *SQL*
-- [ ]  ~~2615~~ - *SQL*
-- [ ]  ~~2616~~ - *SQL*
-- [ ]  ~~2617~~ - *SQL*
-- [ ]  ~~2618~~ - *SQL*
-- [ ]  ~~2619~~ - *SQL*
-- [ ]  ~~2620~~ - *SQL*
-- [ ]  ~~2621~~ - *SQL*
-- [ ]  ~~2622~~ - *SQL*
-- [ ]  ~~2623~~ - *SQL*
-- [ ]  ~~2624~~ - *SQL*
-- [ ]  ~~2625~~ - *SQL*
+- [ ]  [2613](https://www.beecrowd.com.br/judge/pt/problems/view/2613) - Filmes em Promoção *SQL*
+- [ ]  [2614](https://www.beecrowd.com.br/judge/pt/problems/view/2614) - Locações de Setembro *SQL*
+- [ ]  [2615](https://www.beecrowd.com.br/judge/pt/problems/view/2615) - Expandindo o Negocio *SQL*
+- [ ]  [2616](https://www.beecrowd.com.br/judge/pt/problems/view/2616) - Nenhuma Locação *SQL*
+- [ ]  [2617](https://www.beecrowd.com.br/judge/pt/problems/view/2617) - Fornecedor Ajax SA *SQL*
+- [ ]  [2618](https://www.beecrowd.com.br/judge/pt/problems/view/2618) - Produtos Importados *SQL*
+- [ ]  [2619](https://www.beecrowd.com.br/judge/pt/problems/view/2619) - Super Luxo *SQL*
+- [ ]  [2620](https://www.beecrowd.com.br/judge/pt/problems/view/2620) - Pedidos no Primeiro Semestre *SQL*
+- [ ]  [2621](https://www.beecrowd.com.br/judge/pt/problems/view/2621) - Quantidades Entre 10 e 20 *SQL*
+- [ ]  [2622](https://www.beecrowd.com.br/judge/pt/problems/view/2622) - Pessoas Jurídicas *SQL*
+- [ ]  [2623](https://www.beecrowd.com.br/judge/pt/problems/view/2623) - Categorias com Vários Produtos *SQL*
+- [ ]  [2624](https://www.beecrowd.com.br/judge/pt/problems/view/2624) - Quantidades de Cidades por Clientes *SQL*
+- [ ]  [2625](https://www.beecrowd.com.br/judge/pt/problems/view/2625) - Máscara de CPF *SQL*
 - [x]  [2626](https://www.beecrowd.com.br/judge/pt/problems/view/2626) - [Turma do JB6](https://github.com/potigol/beecrowd/blob/master/src/2600/2626.poti) *Iniciante*
 - [ ]  [2627](https://www.beecrowd.com.br/judge/pt/problems/view/2627) - Bonde de Autômatos *Ad-Hoc*
 - [ ]  [2628](https://www.beecrowd.com.br/judge/pt/problems/view/2628) - Caça ao Tesouro *Ad-Hoc*

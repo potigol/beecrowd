@@ -72,8 +72,8 @@ def umafase(problems: Map[Int, Problem], c1: String, file: String, title: String
 def line(problem: Option[Problem], showCategory: Boolean = true) =
   problem match
     case None => s"- [ ] ~~xxxx~~"
-    case Some(p) if p.category == "SQL" =>
-      s"- [ ]  ~~${p.number}~~ - *${p.category}*"
+//    case Some(p) if p.category == "SQL" =>
+//      s"- [ ]  ~~${p.number}~~ - *${p.category}*"
     case Some(p) if (check(extension)(p.number)) =>
       s"- [x]  [${p.number}](${prefix}/${p.number}) - [${p.name}](${code}/${dir(p.number)}/${p.number}.${extension}) *${if(showCategory) p.category else " "}*"
     case Some(p) =>

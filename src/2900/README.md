@@ -1,4 +1,4 @@
-# Problemas 2900 (22%)
+# Problemas 2900 (20%)
 
 - [ ]  [2900](https://www.beecrowd.com.br/judge/pt/problems/view/2900) - Jogo de Varetas *Ad-Hoc*
 - [ ]  [2901](https://www.beecrowd.com.br/judge/pt/problems/view/2901) - Vôlei Marciano *Ad-Hoc*
@@ -88,15 +88,15 @@
 - [ ]  [2985](https://www.beecrowd.com.br/judge/pt/problems/view/2985) - Tobias Contra o Relógio *Ad-Hoc*
 - [x]  [2986](https://www.beecrowd.com.br/judge/pt/problems/view/2986) - [Nem Tudo é Greve Versão Hard](https://github.com/potigol/beecrowd/blob/master/src/2900/2986.poti) *Matemática*
 - [x]  [2987](https://www.beecrowd.com.br/judge/pt/problems/view/2987) - [Balão de Honra](https://github.com/potigol/beecrowd/blob/master/src/2900/2987.poti) *Iniciante*
-- [ ]  ~~2988~~ - *SQL*
-- [ ]  ~~2989~~ - *SQL*
-- [ ]  ~~2990~~ - *SQL*
-- [ ]  ~~2991~~ - *SQL*
-- [ ]  ~~2992~~ - *SQL*
-- [ ]  ~~2993~~ - *SQL*
-- [ ]  ~~2994~~ - *SQL*
-- [ ]  ~~2995~~ - *SQL*
-- [ ]  ~~2996~~ - *SQL*
-- [ ]  ~~2997~~ - *SQL*
-- [ ]  ~~2998~~ - *SQL*
-- [ ]  ~~2999~~ - *SQL*
+- [ ]  [2988](https://www.beecrowd.com.br/judge/pt/problems/view/2988) - Campeonato Cearense *SQL*
+- [ ]  [2989](https://www.beecrowd.com.br/judge/pt/problems/view/2989) - Departamentos e Divisões *SQL*
+- [ ]  [2990](https://www.beecrowd.com.br/judge/pt/problems/view/2990) - CPF Dos Empregados *SQL*
+- [ ]  [2991](https://www.beecrowd.com.br/judge/pt/problems/view/2991) - Estatísticas dos Departamentos *SQL*
+- [ ]  [2992](https://www.beecrowd.com.br/judge/pt/problems/view/2992) - Divisões Com Maiores Médias Salariais *SQL*
+- [ ]  [2993](https://www.beecrowd.com.br/judge/pt/problems/view/2993) - Mais Frequente *SQL*
+- [ ]  [2994](https://www.beecrowd.com.br/judge/pt/problems/view/2994) - Quanto Ganha um Médico? *SQL*
+- [ ]  [2995](https://www.beecrowd.com.br/judge/pt/problems/view/2995) - A Mensagem do Sensor *SQL*
+- [ ]  [2996](https://www.beecrowd.com.br/judge/pt/problems/view/2996) - Entrega de Pacotes *SQL*
+- [ ]  [2997](https://www.beecrowd.com.br/judge/pt/problems/view/2997) - Pagamento dos Empregados *SQL*
+- [ ]  [2998](https://www.beecrowd.com.br/judge/pt/problems/view/2998) - The Payback *SQL*
+- [ ]  [2999](https://www.beecrowd.com.br/judge/pt/problems/view/2999) - Maior Sálario da Divisão *SQL*

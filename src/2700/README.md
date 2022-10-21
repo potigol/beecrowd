@@ -1,4 +1,4 @@
-# Problemas 2700 (50%)
+# Problemas 2700 (44%)
 
 - [ ]  [2700](https://www.beecrowd.com.br/judge/pt/problems/view/2700) - Angariando Fundos *Estruturas e Bibliotecas*
 - [ ]  [2701](https://www.beecrowd.com.br/judge/pt/problems/view/2701) - Portas da Incerteza *Ad-Hoc*
@@ -37,16 +37,16 @@
 - [ ]  [2734](https://www.beecrowd.com.br/judge/pt/problems/view/2734) - Trocando Presentes *Estruturas e Bibliotecas*
 - [ ]  [2735](https://www.beecrowd.com.br/judge/pt/problems/view/2735) - O Presente de Nina *Matemática*
 - [ ]  [2736](https://www.beecrowd.com.br/judge/pt/problems/view/2736) - Números de Avalon *Ad-Hoc*
-- [ ]  ~~2737~~ - *SQL*
-- [ ]  ~~2738~~ - *SQL*
-- [ ]  ~~2739~~ - *SQL*
-- [ ]  ~~2740~~ - *SQL*
-- [ ]  ~~2741~~ - *SQL*
-- [ ]  ~~2742~~ - *SQL*
-- [ ]  ~~2743~~ - *SQL*
-- [ ]  ~~2744~~ - *SQL*
-- [ ]  ~~2745~~ - *SQL*
-- [ ]  ~~2746~~ - *SQL*
+- [ ]  [2737](https://www.beecrowd.com.br/judge/pt/problems/view/2737) - Advogados *SQL*
+- [ ]  [2738](https://www.beecrowd.com.br/judge/pt/problems/view/2738) - Concurso *SQL*
+- [ ]  [2739](https://www.beecrowd.com.br/judge/pt/problems/view/2739) - Dia de Pagamento *SQL*
+- [ ]  [2740](https://www.beecrowd.com.br/judge/pt/problems/view/2740) - Liga *SQL*
+- [ ]  [2741](https://www.beecrowd.com.br/judge/pt/problems/view/2741) - Notas dos Alunos *SQL*
+- [ ]  [2742](https://www.beecrowd.com.br/judge/pt/problems/view/2742) - O Multiverso de Richard *SQL*
+- [ ]  [2743](https://www.beecrowd.com.br/judge/pt/problems/view/2743) - Quantidade de Caracteres *SQL*
+- [ ]  [2744](https://www.beecrowd.com.br/judge/pt/problems/view/2744) - Senhas *SQL*
+- [ ]  [2745](https://www.beecrowd.com.br/judge/pt/problems/view/2745) - Taxas *SQL*
+- [ ]  [2746](https://www.beecrowd.com.br/judge/pt/problems/view/2746) - Virus *SQL*
 - [x]  [2747](https://www.beecrowd.com.br/judge/pt/problems/view/2747) - [Saída 1](https://github.com/potigol/beecrowd/blob/master/src/2700/2747.poti) *Iniciante*
 - [x]  [2748](https://www.beecrowd.com.br/judge/pt/problems/view/2748) - [Saída 2](https://github.com/potigol/beecrowd/blob/master/src/2700/2748.poti) *Iniciante*
 - [x]  [2749](https://www.beecrowd.com.br/judge/pt/problems/view/2749) - [Saída 3](https://github.com/potigol/beecrowd/blob/master/src/2700/2749.poti) *Iniciante*
