@@ -1,4 +1,4 @@
-# Ad-Hoc (206 / 771)
+# Ad-Hoc (207 / 771)
 
 
 
@@ -210,6 +210,7 @@
 - [x]  [3315](https://www.beecrowd.com.br/judge/pt/problems/view/3315) - [Língua do Computador](https://github.com/potigol/beecrowd/blob/master/src/3300/3315.poti)
 - [x]  [3369](https://www.beecrowd.com.br/judge/pt/problems/view/3369) - [KIARA is a Recursive Acronym](https://github.com/potigol/beecrowd/blob/master/src/3300/3369.poti)
 - [x]  [3416](https://www.beecrowd.com.br/judge/pt/problems/view/3416) - [Eu Quero Cafééé](https://github.com/potigol/beecrowd/blob/master/src/3400/3416.poti)
+- [x]  [3422](https://www.beecrowd.com.br/judge/pt/problems/view/3422) - [José e a Súmula](https://github.com/potigol/beecrowd/blob/master/src/3400/3422.poti)
 
 ## Problemas não resolvidos
 
@@ -776,5 +777,4 @@
 - [ ]  [3419](https://www.beecrowd.com.br/judge/pt/problems/view/3419) - Kimi Räikkönen
 - [ ]  [3420](https://www.beecrowd.com.br/judge/pt/problems/view/3420) - House of Cards
 - [ ]  [3421](https://www.beecrowd.com.br/judge/pt/problems/view/3421) - Infinita String de Dígitos
-- [ ]  [3422](https://www.beecrowd.com.br/judge/pt/problems/view/3422) - José e a Súmula
 - [ ]  [3423](https://www.beecrowd.com.br/judge/pt/problems/view/3423) - Gostos Peculiares

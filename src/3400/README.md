@@ -1,4 +1,4 @@
-# Problemas 3400 (4%)
+# Problemas 3400 (8%)
 
 - [ ]  [3400](https://www.beecrowd.com.br/judge/pt/problems/view/3400) - Amigo não tão secreto assim *Ad-Hoc*
 - [ ]  [3401](https://www.beecrowd.com.br/judge/pt/problems/view/3401) - Bicho da Goiaba Ataca Novamente *Ad-Hoc*
@@ -22,7 +22,7 @@
 - [ ]  [3419](https://www.beecrowd.com.br/judge/pt/problems/view/3419) - Kimi Räikkönen *Ad-Hoc*
 - [ ]  [3420](https://www.beecrowd.com.br/judge/pt/problems/view/3420) - House of Cards *Ad-Hoc*
 - [ ]  [3421](https://www.beecrowd.com.br/judge/pt/problems/view/3421) - Infinita String de Dígitos *Ad-Hoc*
-- [ ]  [3422](https://www.beecrowd.com.br/judge/pt/problems/view/3422) - José e a Súmula *Ad-Hoc*
+- [x]  [3422](https://www.beecrowd.com.br/judge/pt/problems/view/3422) - [José e a Súmula](https://github.com/potigol/beecrowd/blob/master/src/3400/3422.poti) *Ad-Hoc*
 - [ ]  [3423](https://www.beecrowd.com.br/judge/pt/problems/view/3423) - Gostos Peculiares *Ad-Hoc*
 - [ ] ~~xxxx~~
 - [ ] ~~xxxx~~
