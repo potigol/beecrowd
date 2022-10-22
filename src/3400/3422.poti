@@ -1,0 +1,14 @@
+min(a, b: Inteiro): Inteiro = se a <= b então a senão b fim
+
+n = leia_inteiro
+para i de 1 até n faça
+  a = leia_textos(" ")
+  o, tempo = a[1].inteiro, a[2]
+  t = (se tempo == "1T" então 0 senão 45 fim) + min(45, o)
+  extra = o - 45
+  se extra <= 0 então
+    escreva t
+  senão
+    escreva "{t}+{extra}"
+  fim
+fim
