@@ -1,4 +1,4 @@
-# Ad-Hoc (208 / 771)
+# Ad-Hoc (209 / 771)
 
 
 
@@ -209,6 +209,7 @@
 - [x]  [3309](https://www.beecrowd.com.br/judge/pt/problems/view/3309) - [Felizes são estes Números](https://github.com/potigol/beecrowd/blob/master/src/3300/3309.poti)
 - [x]  [3315](https://www.beecrowd.com.br/judge/pt/problems/view/3315) - [Língua do Computador](https://github.com/potigol/beecrowd/blob/master/src/3300/3315.poti)
 - [x]  [3369](https://www.beecrowd.com.br/judge/pt/problems/view/3369) - [KIARA is a Recursive Acronym](https://github.com/potigol/beecrowd/blob/master/src/3300/3369.poti)
+- [x]  [3398](https://www.beecrowd.com.br/judge/pt/problems/view/3398) - [Moeda Convertida](https://github.com/potigol/beecrowd/blob/master/src/3300/3398.poti)
 - [x]  [3412](https://www.beecrowd.com.br/judge/pt/problems/view/3412) - [Avaliações de Algoritmos](https://github.com/potigol/beecrowd/blob/master/src/3400/3412.poti)
 - [x]  [3416](https://www.beecrowd.com.br/judge/pt/problems/view/3416) - [Eu Quero Cafééé](https://github.com/potigol/beecrowd/blob/master/src/3400/3416.poti)
 - [x]  [3422](https://www.beecrowd.com.br/judge/pt/problems/view/3422) - [José e a Súmula](https://github.com/potigol/beecrowd/blob/master/src/3400/3422.poti)
@@ -756,7 +757,6 @@
 - [ ]  [3370](https://www.beecrowd.com.br/judge/pt/problems/view/3370) - Leaving Yharnam
 - [ ]  [3371](https://www.beecrowd.com.br/judge/pt/problems/view/3371) - Most Ordered Way
 - [ ]  [3397](https://www.beecrowd.com.br/judge/pt/problems/view/3397) - Melhor do Multiverso
-- [ ]  [3398](https://www.beecrowd.com.br/judge/pt/problems/view/3398) - Moeda Convertida
 - [ ]  [3399](https://www.beecrowd.com.br/judge/pt/problems/view/3399) - Meu nome é Enésimo!
 - [ ]  [3400](https://www.beecrowd.com.br/judge/pt/problems/view/3400) - Amigo não tão secreto assim
 - [ ]  [3401](https://www.beecrowd.com.br/judge/pt/problems/view/3401) - Bicho da Goiaba Ataca Novamente

@@ -1,0 +1,3 @@
+n, m = leia_real
+valor = n * m
+escreva valor formato "%.2f"

@@ -1,4 +1,4 @@
-# Problemas 3300 (40%)
+# Problemas 3300 (42%)
 
 - [x]  [3300](https://www.beecrowd.com.br/judge/pt/problems/view/3300) - [Números Má Sorte Recarregados](https://github.com/potigol/beecrowd/blob/master/src/3300/3300.poti) *Strings*
 - [x]  [3301](https://www.beecrowd.com.br/judge/pt/problems/view/3301) - [Sobrinho do Meio](https://github.com/potigol/beecrowd/blob/master/src/3300/3301.poti) *Iniciante*
@@ -98,5 +98,5 @@
 - [ ] ~~xxxx~~
 - [ ] ~~xxxx~~
 - [ ]  [3397](https://www.beecrowd.com.br/judge/pt/problems/view/3397) - Melhor do Multiverso *Ad-Hoc*
-- [ ]  [3398](https://www.beecrowd.com.br/judge/pt/problems/view/3398) - Moeda Convertida *Ad-Hoc*
+- [x]  [3398](https://www.beecrowd.com.br/judge/pt/problems/view/3398) - [Moeda Convertida](https://github.com/potigol/beecrowd/blob/master/src/3300/3398.poti) *Ad-Hoc*
 - [ ]  [3399](https://www.beecrowd.com.br/judge/pt/problems/view/3399) - Meu nome é Enésimo! *Ad-Hoc*
