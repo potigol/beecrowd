@@ -1,0 +1,13 @@
+n  = leia_inteiro
+para i de 1 até n faça
+  nome = leia_texto
+  notas = leia_reais(" ")
+  maiores = notas.pegue(3).ordene.inverta
+  media = escolha notas.tamanho
+    caso 1                          => (notas[1] + 0) / 2
+    caso 2                          => (notas[1] + notas[2]) / 2
+    caso 4 se notas[4] > maiores[3] => (maiores[1] + maiores[2] + notas[4]) / 3
+    caso _                          => (notas[1] + notas[2] + notas[3]) / 3
+  fim
+  escreva "{nome}: {media formato "%.1f"}"
+fim

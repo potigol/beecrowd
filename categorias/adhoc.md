@@ -1,4 +1,4 @@
-# Ad-Hoc (207 / 771)
+# Ad-Hoc (208 / 771)
 
 
 
@@ -209,6 +209,7 @@
 - [x]  [3309](https://www.beecrowd.com.br/judge/pt/problems/view/3309) - [Felizes são estes Números](https://github.com/potigol/beecrowd/blob/master/src/3300/3309.poti)
 - [x]  [3315](https://www.beecrowd.com.br/judge/pt/problems/view/3315) - [Língua do Computador](https://github.com/potigol/beecrowd/blob/master/src/3300/3315.poti)
 - [x]  [3369](https://www.beecrowd.com.br/judge/pt/problems/view/3369) - [KIARA is a Recursive Acronym](https://github.com/potigol/beecrowd/blob/master/src/3300/3369.poti)
+- [x]  [3412](https://www.beecrowd.com.br/judge/pt/problems/view/3412) - [Avaliações de Algoritmos](https://github.com/potigol/beecrowd/blob/master/src/3400/3412.poti)
 - [x]  [3416](https://www.beecrowd.com.br/judge/pt/problems/view/3416) - [Eu Quero Cafééé](https://github.com/potigol/beecrowd/blob/master/src/3400/3416.poti)
 - [x]  [3422](https://www.beecrowd.com.br/judge/pt/problems/view/3422) - [José e a Súmula](https://github.com/potigol/beecrowd/blob/master/src/3400/3422.poti)
 
@@ -768,7 +769,6 @@
 - [ ]  [3409](https://www.beecrowd.com.br/judge/pt/problems/view/3409) - Júnior, como seu tio come?
 - [ ]  [3410](https://www.beecrowd.com.br/judge/pt/problems/view/3410) - Kebra Cabeça
 - [ ]  [3411](https://www.beecrowd.com.br/judge/pt/problems/view/3411) - Lá vai tinta!
-- [ ]  [3412](https://www.beecrowd.com.br/judge/pt/problems/view/3412) - Avaliações de Algoritmos
 - [ ]  [3413](https://www.beecrowd.com.br/judge/pt/problems/view/3413) - Baita Desafio Complexo
 - [ ]  [3414](https://www.beecrowd.com.br/judge/pt/problems/view/3414) - Chimambu
 - [ ]  [3415](https://www.beecrowd.com.br/judge/pt/problems/view/3415) - Ditados

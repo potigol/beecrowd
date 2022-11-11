@@ -1,4 +1,4 @@
-# Problemas 3400 (8%)
+# Problemas 3400 (13%)
 
 - [ ]  [3400](https://www.beecrowd.com.br/judge/pt/problems/view/3400) - Amigo não tão secreto assim *Ad-Hoc*
 - [ ]  [3401](https://www.beecrowd.com.br/judge/pt/problems/view/3401) - Bicho da Goiaba Ataca Novamente *Ad-Hoc*
@@ -12,7 +12,7 @@
 - [ ]  [3409](https://www.beecrowd.com.br/judge/pt/problems/view/3409) - Júnior, como seu tio come? *Ad-Hoc*
 - [ ]  [3410](https://www.beecrowd.com.br/judge/pt/problems/view/3410) - Kebra Cabeça *Ad-Hoc*
 - [ ]  [3411](https://www.beecrowd.com.br/judge/pt/problems/view/3411) - Lá vai tinta! *Ad-Hoc*
-- [ ]  [3412](https://www.beecrowd.com.br/judge/pt/problems/view/3412) - Avaliações de Algoritmos *Ad-Hoc*
+- [x]  [3412](https://www.beecrowd.com.br/judge/pt/problems/view/3412) - [Avaliações de Algoritmos](https://github.com/potigol/beecrowd/blob/master/src/3400/3412.poti) *Ad-Hoc*
 - [ ]  [3413](https://www.beecrowd.com.br/judge/pt/problems/view/3413) - Baita Desafio Complexo *Ad-Hoc*
 - [ ]  [3414](https://www.beecrowd.com.br/judge/pt/problems/view/3414) - Chimambu *Ad-Hoc*
 - [ ]  [3415](https://www.beecrowd.com.br/judge/pt/problems/view/3415) - Ditados *Ad-Hoc*
