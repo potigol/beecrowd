@@ -1,4 +1,4 @@
-# Problemas 2700 (44%)
+# Problemas 2700 (45%)
 
 - [ ]  [2700](https://www.beecrowd.com.br/judge/pt/problems/view/2700) - Angariando Fundos *Estruturas e Bibliotecas*
 - [ ]  [2701](https://www.beecrowd.com.br/judge/pt/problems/view/2701) - Portas da Incerteza *Ad-Hoc*
@@ -69,7 +69,7 @@
 - [x]  [2766](https://www.beecrowd.com.br/judge/pt/problems/view/2766) - [Entrada e Saída Lendo e Pulando Nomes](https://github.com/potigol/beecrowd/blob/master/src/2700/2766.poti) *Iniciante*
 - [ ]  [2767](https://www.beecrowd.com.br/judge/pt/problems/view/2767) - Festa *Matemática*
 - [ ]  [2768](https://www.beecrowd.com.br/judge/pt/problems/view/2768) - Grafo do Dabriel *Grafos*
-- [ ]  [2769](https://www.beecrowd.com.br/judge/pt/problems/view/2769) - Linha de Montagem *Iniciante*
+- [x]  [2769](https://www.beecrowd.com.br/judge/pt/problems/view/2769) - [Linha de Montagem](https://github.com/potigol/beecrowd/blob/master/src/2700/2769.poti) *Iniciante*
 - [x]  [2770](https://www.beecrowd.com.br/judge/pt/problems/view/2770) - [Tamanho da Placa](https://github.com/potigol/beecrowd/blob/master/src/2700/2770.poti) *Iniciante*
 - [ ]  [2771](https://www.beecrowd.com.br/judge/pt/problems/view/2771) - Média *Ad-Hoc*
 - [ ]  [2772](https://www.beecrowd.com.br/judge/pt/problems/view/2772) - Plantação *Ad-Hoc*

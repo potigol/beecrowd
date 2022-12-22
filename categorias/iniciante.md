@@ -1,4 +1,4 @@
-# Iniciante (320 / 336)
+# Iniciante (321 / 336)
 
 
 
@@ -241,6 +241,7 @@
 - [x]  [2764](https://www.beecrowd.com.br/judge/pt/problems/view/2764) - [Entrada e Saída de Data](https://github.com/potigol/beecrowd/blob/master/src/2700/2764.poti)
 - [x]  [2765](https://www.beecrowd.com.br/judge/pt/problems/view/2765) - [Entrada e Saída com Virgula](https://github.com/potigol/beecrowd/blob/master/src/2700/2765.poti)
 - [x]  [2766](https://www.beecrowd.com.br/judge/pt/problems/view/2766) - [Entrada e Saída Lendo e Pulando Nomes](https://github.com/potigol/beecrowd/blob/master/src/2700/2766.poti)
+- [x]  [2769](https://www.beecrowd.com.br/judge/pt/problems/view/2769) - [Linha de Montagem](https://github.com/potigol/beecrowd/blob/master/src/2700/2769.poti)
 - [x]  [2770](https://www.beecrowd.com.br/judge/pt/problems/view/2770) - [Tamanho da Placa](https://github.com/potigol/beecrowd/blob/master/src/2700/2770.poti)
 - [x]  [2774](https://www.beecrowd.com.br/judge/pt/problems/view/2774) - [Precisão do Sensor](https://github.com/potigol/beecrowd/blob/master/src/2700/2774.poti)
 - [x]  [2775](https://www.beecrowd.com.br/judge/pt/problems/view/2775) - [Preparando a Produção](https://github.com/potigol/beecrowd/blob/master/src/2700/2775.poti)
@@ -327,7 +328,6 @@
 
 ## Problemas não resolvidos
 
-- [ ]  [2769](https://www.beecrowd.com.br/judge/pt/problems/view/2769) - Linha de Montagem
 - [ ]  [3181](https://www.beecrowd.com.br/judge/pt/problems/view/3181) - Jantar
 - [ ]  [3217](https://www.beecrowd.com.br/judge/pt/problems/view/3217) - Chuva Caindo
 - [ ]  [3229](https://www.beecrowd.com.br/judge/pt/problems/view/3229) - Resenhas de Comida
