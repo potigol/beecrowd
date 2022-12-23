@@ -1,0 +1,18 @@
+transpor(mat: Lista[Lista[Inteiro]]): Lista[Lista[Inteiro]] = 
+    se mat.cabeça == [] então []
+    senão mat.mapeie(_.cabeça) :: transpor(mat.mapeie(_.cauda))
+    fim
+
+total_linhas(linha: Lista[Lista[Inteiro]]): Lista[Inteiro] =
+    linha.mapeie(linha => linha.injete(0)((soma, x) => soma + x))
+
+var entrada := leia_inteiros(" ")
+enquanto entrada <> [0, 0] faça
+    n, m = entrada[1], entrada[2]
+    matriz = para i de 1 até n gere leia_inteiros(" ") fim
+    linhas = total_linhas(matriz).ordene
+    colunas = total_linhas(transpor(matriz)).ordene
+    pontos =  [linhas[1] > 0, linhas[n] < m, colunas[1] > 0, colunas[m] < n].selecione(x => x).tamanho
+    escreva pontos
+    entrada := leia_inteiros(" ")
+fim
