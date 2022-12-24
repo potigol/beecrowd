@@ -1,13 +1,13 @@
 min(a, b: Inteiro): Inteiro = se a < b então a senão b fim
 
 tempo_minimo(entrada1, entrada2, saída1, saída2: Inteiro, linha1, linha2: Lista[(Inteiro, Inteiro)]): Inteiro
-  se linha1 == [] então
-    min(entrada1 + saída1, entrada2 + saída2)
-  senão
+  se linha1 <> [] então
     c1, c2 = linha1.cabeça, linha2.cabeça
     a = c1.primeiro + min(entrada1, entrada2 + c2.segundo)
     b = c2.primeiro + min(entrada2, entrada1 + c1.segundo)
     tempo_minimo(a, b, saída1, saída2, linha1.cauda, linha2.cauda)
+  senão
+    min(entrada1 + saída1, entrada2 + saída2)
   fim
 fim
 
@@ -15,10 +15,9 @@ var n := leia_inteiro
 enquanto n > 0 faça
     entrada = leia_inteiros(2)
     tempo1, tempo2 = leia_inteiros(n)
-    transição1, transição2 = leia_inteiros(n - 1)
+    transição1, transição2 = 1000000 :: leia_inteiros(n - 1)
     saída = leia_inteiros(2)
-    linha1 = tempo1.zip(1000000::transição1)
-    linha2 = tempo2.zip(1000000::transição2)
+    linha1, linha2 = tempo1.zip(transição1), tempo2.zip(transição2)
     escreva tempo_minimo(entrada[1], entrada[2], saída[1], saída[2], linha1, linha2)
     n := leia_inteiro
-fim 
+fim

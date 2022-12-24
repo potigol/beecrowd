@@ -1,4 +1,4 @@
-# Ad-Hoc (209 / 771)
+# Ad-Hoc (210 / 771)
 
 
 
@@ -43,6 +43,7 @@
 - [x]  [1441](https://www.beecrowd.com.br/judge/pt/problems/view/1441) - [Sequências de Granizo](https://github.com/potigol/beecrowd/blob/master/src/1400/1441.poti)
 - [x]  [1467](https://www.beecrowd.com.br/judge/pt/problems/view/1467) - [Zerinho ou Um](https://github.com/potigol/beecrowd/blob/master/src/1400/1467.poti)
 - [x]  [1471](https://www.beecrowd.com.br/judge/pt/problems/view/1471) - [Mergulho](https://github.com/potigol/beecrowd/blob/master/src/1400/1471.poti)
+- [x]  [1514](https://www.beecrowd.com.br/judge/pt/problems/view/1514) - [Competição](https://github.com/potigol/beecrowd/blob/master/src/1500/1514.poti)
 - [x]  [1515](https://www.beecrowd.com.br/judge/pt/problems/view/1515) - [Hello Galaxy](https://github.com/potigol/beecrowd/blob/master/src/1500/1515.poti)
 - [x]  [1521](https://www.beecrowd.com.br/judge/pt/problems/view/1521) - [O Culpado](https://github.com/potigol/beecrowd/blob/master/src/1500/1521.poti)
 - [x]  [1533](https://www.beecrowd.com.br/judge/pt/problems/view/1533) - [Detetive Watson](https://github.com/potigol/beecrowd/blob/master/src/1500/1533.poti)
@@ -278,7 +279,6 @@
 - [ ]  [1495](https://www.beecrowd.com.br/judge/pt/problems/view/1495) - Futebol
 - [ ]  [1496](https://www.beecrowd.com.br/judge/pt/problems/view/1496) - Suba os &quot;Ultras&quot;
 - [ ]  [1508](https://www.beecrowd.com.br/judge/pt/problems/view/1508) - Raio Laser
-- [ ]  [1514](https://www.beecrowd.com.br/judge/pt/problems/view/1514) - Competição
 - [ ]  [1518](https://www.beecrowd.com.br/judge/pt/problems/view/1518) - Tartarugas
 - [ ]  [1528](https://www.beecrowd.com.br/judge/pt/problems/view/1528) - Cordas Emaranhadas
 - [ ]  [1532](https://www.beecrowd.com.br/judge/pt/problems/view/1532) - Arremesso de Bolas

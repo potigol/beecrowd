@@ -1,4 +1,4 @@
-# Problemas 1500 (32%)
+# Problemas 1500 (33%)
 
 - [ ]  [1500](https://www.beecrowd.com.br/judge/pt/problems/view/1500) - Consultas Horríveis *Estruturas e Bibliotecas*
 - [ ]  [1501](https://www.beecrowd.com.br/judge/pt/problems/view/1501) - Quantos Zeros e Quantos Dígitos? *Matemática*
@@ -14,7 +14,7 @@
 - [ ]  [1511](https://www.beecrowd.com.br/judge/pt/problems/view/1511) - Tabuleiro GCD *Estruturas e Bibliotecas*
 - [x]  [1512](https://www.beecrowd.com.br/judge/pt/problems/view/1512) - [Azulejos](https://github.com/potigol/beecrowd/blob/master/src/1500/1512.poti) *Matemática*
 - [ ]  [1513](https://www.beecrowd.com.br/judge/pt/problems/view/1513) - Cavalo *Paradigmas*
-- [ ]  [1514](https://www.beecrowd.com.br/judge/pt/problems/view/1514) - Competição *Ad-Hoc*
+- [x]  [1514](https://www.beecrowd.com.br/judge/pt/problems/view/1514) - [Competição](https://github.com/potigol/beecrowd/blob/master/src/1500/1514.poti) *Ad-Hoc*
 - [x]  [1515](https://www.beecrowd.com.br/judge/pt/problems/view/1515) - [Hello Galaxy](https://github.com/potigol/beecrowd/blob/master/src/1500/1515.poti) *Ad-Hoc*
 - [x]  [1516](https://www.beecrowd.com.br/judge/pt/problems/view/1516) - [Imagem](https://github.com/potigol/beecrowd/blob/master/src/1500/1516.poti) *Strings*
 - [ ]  [1517](https://www.beecrowd.com.br/judge/pt/problems/view/1517) - Maçãs *Paradigmas*
