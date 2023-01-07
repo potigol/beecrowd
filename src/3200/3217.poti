@@ -1,0 +1,16 @@
+a = leia_reais(" ")
+l, k, t1, t2, h = a[1], a[2], a[3], a[4], a[5]
+
+solução(a, b, c: Real)
+  retorne (b + raiz(b^2 - 4 * a * c)) / (2 * a)
+fim
+
+min_max = se l > h   então (h, h)
+          senão
+            # k * l * t1 + f ^ 2 == f * (h + k * (t1 + t2))
+            f = solução(1, h + k * (t1 + t2), k * l * t1)
+            se l < h então (f, f)
+            senão          (h, f)
+            fim
+          fim
+escreva "{min_max.primeiro formato "%.9f"} {min_max.segundo formato "%.9f"}"

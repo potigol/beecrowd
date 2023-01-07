@@ -1,4 +1,4 @@
-# Problemas 3200 (20%)
+# Problemas 3200 (21%)
 
 - [ ]  [3200](https://www.beecrowd.com.br/judge/pt/problems/view/3200) - Card Trick *Ad-Hoc*
 - [ ]  [3201](https://www.beecrowd.com.br/judge/pt/problems/view/3201) - Traveling Salesman *Estruturas e Bibliotecas*
@@ -17,7 +17,7 @@
 - [x]  [3214](https://www.beecrowd.com.br/judge/pt/problems/view/3214) - [Refrigerante](https://github.com/potigol/beecrowd/blob/master/src/3200/3214.poti) *Iniciante*
 - [ ]  [3215](https://www.beecrowd.com.br/judge/pt/problems/view/3215) - Dinheiro Importa *Grafos*
 - [ ]  [3216](https://www.beecrowd.com.br/judge/pt/problems/view/3216) - Teste Alérgico *Matemática*
-- [ ]  [3217](https://www.beecrowd.com.br/judge/pt/problems/view/3217) - Chuva Caindo *Iniciante*
+- [x]  [3217](https://www.beecrowd.com.br/judge/pt/problems/view/3217) - [Chuva Caindo](https://github.com/potigol/beecrowd/blob/master/src/3200/3217.poti) *Iniciante*
 - [ ]  [3218](https://www.beecrowd.com.br/judge/pt/problems/view/3218) - Fuga Rápida *Grafos*
 - [ ]  [3219](https://www.beecrowd.com.br/judge/pt/problems/view/3219) - Gokigen Naname *Ad-Hoc*
 - [ ]  [3220](https://www.beecrowd.com.br/judge/pt/problems/view/3220) - Planejamento de Vôo *Grafos*

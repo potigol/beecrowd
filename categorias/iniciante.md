@@ -1,4 +1,4 @@
-# Iniciante (321 / 336)
+# Iniciante (322 / 336)
 
 
 
@@ -311,6 +311,7 @@
 - [x]  [3208](https://www.beecrowd.com.br/judge/pt/problems/view/3208) - [O Criptógrafo Envergonhado](https://github.com/potigol/beecrowd/blob/master/src/3200/3208.poti)
 - [x]  [3209](https://www.beecrowd.com.br/judge/pt/problems/view/3209) - [Tomadas Elétricas](https://github.com/potigol/beecrowd/blob/master/src/3200/3209.poti)
 - [x]  [3214](https://www.beecrowd.com.br/judge/pt/problems/view/3214) - [Refrigerante](https://github.com/potigol/beecrowd/blob/master/src/3200/3214.poti)
+- [x]  [3217](https://www.beecrowd.com.br/judge/pt/problems/view/3217) - [Chuva Caindo](https://github.com/potigol/beecrowd/blob/master/src/3200/3217.poti)
 - [x]  [3224](https://www.beecrowd.com.br/judge/pt/problems/view/3224) - [Aaah!](https://github.com/potigol/beecrowd/blob/master/src/3200/3224.poti)
 - [x]  [3241](https://www.beecrowd.com.br/judge/pt/problems/view/3241) - [Ajude um Candidato a PhD!](https://github.com/potigol/beecrowd/blob/master/src/3200/3241.poti)
 - [x]  [3249](https://www.beecrowd.com.br/judge/pt/problems/view/3249) - [Death Knight Hero](https://github.com/potigol/beecrowd/blob/master/src/3200/3249.poti)
@@ -329,7 +330,6 @@
 ## Problemas não resolvidos
 
 - [ ]  [3181](https://www.beecrowd.com.br/judge/pt/problems/view/3181) - Jantar
-- [ ]  [3217](https://www.beecrowd.com.br/judge/pt/problems/view/3217) - Chuva Caindo
 - [ ]  [3229](https://www.beecrowd.com.br/judge/pt/problems/view/3229) - Resenhas de Comida
 - [ ]  [3230](https://www.beecrowd.com.br/judge/pt/problems/view/3230) - Senhores da Guerra Galácticos
 - [ ]  [3231](https://www.beecrowd.com.br/judge/pt/problems/view/3231) - Horror List
