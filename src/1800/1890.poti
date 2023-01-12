@@ -1,0 +1,11 @@
+t = leia_inteiro
+para i de 1 até t faça
+  entrada = leia_inteiros(" ")
+  c, d = entrada[1], entrada[2]
+  placas = 26 ^ c * 10 ^ d
+  se placas > 1 então
+    escreva placas formato "%.0f"
+  senão
+    escreva 0
+  fim
+fim

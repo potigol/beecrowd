@@ -1,4 +1,4 @@
-# Ad-Hoc (210 / 771)
+# Ad-Hoc (211 / 771)
 
 
 
@@ -73,6 +73,7 @@
 - [x]  [1867](https://www.beecrowd.com.br/judge/pt/problems/view/1867) - [Maior Número de Um Algarismo](https://github.com/potigol/beecrowd/blob/master/src/1800/1867.poti)
 - [x]  [1876](https://www.beecrowd.com.br/judge/pt/problems/view/1876) - [Rabiola](https://github.com/potigol/beecrowd/blob/master/src/1800/1876.poti)
 - [x]  [1877](https://www.beecrowd.com.br/judge/pt/problems/view/1877) - [O Castelo de Neve de Sansa](https://github.com/potigol/beecrowd/blob/master/src/1800/1877.poti)
+- [x]  [1890](https://www.beecrowd.com.br/judge/pt/problems/view/1890) - [Emplacando os Tuk-tuks](https://github.com/potigol/beecrowd/blob/master/src/1800/1890.poti)
 - [x]  [1893](https://www.beecrowd.com.br/judge/pt/problems/view/1893) - [Fases da Lua](https://github.com/potigol/beecrowd/blob/master/src/1800/1893.poti)
 - [x]  [1901](https://www.beecrowd.com.br/judge/pt/problems/view/1901) - [Borboletas](https://github.com/potigol/beecrowd/blob/master/src/1900/1901.poti)
 - [x]  [1936](https://www.beecrowd.com.br/judge/pt/problems/view/1936) - [Fatorial](https://github.com/potigol/beecrowd/blob/master/src/1900/1936.poti)
@@ -353,7 +354,6 @@
 - [ ]  [1887](https://www.beecrowd.com.br/judge/pt/problems/view/1887) - As Vias Férreas Kunming-Cingapura
 - [ ]  [1888](https://www.beecrowd.com.br/judge/pt/problems/view/1888) - Os chedis de Kamphaeng Phet
 - [ ]  [1889](https://www.beecrowd.com.br/judge/pt/problems/view/1889) - Treinando com as Larvas de Phuket
-- [ ]  [1890](https://www.beecrowd.com.br/judge/pt/problems/view/1890) - Emplacando os Tuk-tuks
 - [ ]  [1891](https://www.beecrowd.com.br/judge/pt/problems/view/1891) - Removendo Moedas no Kem Kradãn
 - [ ]  [1895](https://www.beecrowd.com.br/judge/pt/problems/view/1895) - Jogo do Limite
 - [ ]  [1896](https://www.beecrowd.com.br/judge/pt/problems/view/1896) - É Hora do Duelo!

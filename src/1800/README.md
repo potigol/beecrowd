@@ -1,4 +1,4 @@
-# Problemas 1800 (23%)
+# Problemas 1800 (24%)
 
 - [ ]  [1800](https://www.beecrowd.com.br/judge/pt/problems/view/1800) - Onde Estão Minhas Chaves *Ad-Hoc*
 - [ ]  [1801](https://www.beecrowd.com.br/judge/pt/problems/view/1801) - Brincando com Números *Matemática*
@@ -90,7 +90,7 @@
 - [ ]  [1887](https://www.beecrowd.com.br/judge/pt/problems/view/1887) - As Vias Férreas Kunming-Cingapura *Ad-Hoc*
 - [ ]  [1888](https://www.beecrowd.com.br/judge/pt/problems/view/1888) - Os chedis de Kamphaeng Phet *Ad-Hoc*
 - [ ]  [1889](https://www.beecrowd.com.br/judge/pt/problems/view/1889) - Treinando com as Larvas de Phuket *Ad-Hoc*
-- [ ]  [1890](https://www.beecrowd.com.br/judge/pt/problems/view/1890) - Emplacando os Tuk-tuks *Ad-Hoc*
+- [x]  [1890](https://www.beecrowd.com.br/judge/pt/problems/view/1890) - [Emplacando os Tuk-tuks](https://github.com/potigol/beecrowd/blob/master/src/1800/1890.poti) *Ad-Hoc*
 - [ ]  [1891](https://www.beecrowd.com.br/judge/pt/problems/view/1891) - Removendo Moedas no Kem Kradãn *Ad-Hoc*
 - [ ]  [1892](https://www.beecrowd.com.br/judge/pt/problems/view/1892) - Calouro Vence Veterano? *Paradigmas*
 - [x]  [1893](https://www.beecrowd.com.br/judge/pt/problems/view/1893) - [Fases da Lua](https://github.com/potigol/beecrowd/blob/master/src/1800/1893.poti) *Ad-Hoc*
