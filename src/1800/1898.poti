@@ -1,0 +1,8 @@
+numerico(c: Caractere) = c >= '0' e c <= '9' ou c == '.'
+linha1, linha2 = leia_texto.selecione(numerico)
+cpf = linha1.pegue(11)
+n1 = (linha1.descarte(11).real * 100).piso / 100
+n2 = (linha2.real * 100).piso / 100
+soma = n1 + n2
+escreva "cpf {cpf}"
+escreva soma formato "%.2f"

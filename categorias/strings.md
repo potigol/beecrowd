@@ -1,4 +1,4 @@
-# Strings (67 / 148)
+# Strings (68 / 148)
 
 
 
@@ -36,6 +36,7 @@
 - [x]  [1868](https://www.beecrowd.com.br/judge/pt/problems/view/1868) - [Espiral Quadrada](https://github.com/potigol/beecrowd/blob/master/src/1800/1868.poti)
 - [x]  [1871](https://www.beecrowd.com.br/judge/pt/problems/view/1871) - [Zero vale Zero](https://github.com/potigol/beecrowd/blob/master/src/1800/1871.poti)
 - [x]  [1873](https://www.beecrowd.com.br/judge/pt/problems/view/1873) - [Pedra-papel-tesoura-lagarto-Spock](https://github.com/potigol/beecrowd/blob/master/src/1800/1873.poti)
+- [x]  [1898](https://www.beecrowd.com.br/judge/pt/problems/view/1898) - [Soma de Propina](https://github.com/potigol/beecrowd/blob/master/src/1800/1898.poti)
 - [x]  [2023](https://www.beecrowd.com.br/judge/pt/problems/view/2023) - [A Última Criança Boa](https://github.com/potigol/beecrowd/blob/master/src/2000/2023.poti)
 - [x]  [2062](https://www.beecrowd.com.br/judge/pt/problems/view/2062) - [OBI URI](https://github.com/potigol/beecrowd/blob/master/src/2000/2062.poti)
 - [x]  [2108](https://www.beecrowd.com.br/judge/pt/problems/view/2108) - [Contando Caracters](https://github.com/potigol/beecrowd/blob/master/src/2100/2108.poti)
@@ -111,7 +112,6 @@
 - [ ]  [1846](https://www.beecrowd.com.br/judge/pt/problems/view/1846) - Numero Para Nome
 - [ ]  [1853](https://www.beecrowd.com.br/judge/pt/problems/view/1853) - O Jogo da Confiança de Daenerys
 - [ ]  [1859](https://www.beecrowd.com.br/judge/pt/problems/view/1859) - Arqueologia Congelante
-- [ ]  [1898](https://www.beecrowd.com.br/judge/pt/problems/view/1898) - Soma de Propina
 - [ ]  [1941](https://www.beecrowd.com.br/judge/pt/problems/view/1941) - Palíndromo
 - [ ]  [2000](https://www.beecrowd.com.br/judge/pt/problems/view/2000) - Adeildo da Odonto
 - [ ]  [2017](https://www.beecrowd.com.br/judge/pt/problems/view/2017) - Seis Strings

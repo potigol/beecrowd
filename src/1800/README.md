@@ -1,4 +1,4 @@
-# Problemas 1800 (25%)
+# Problemas 1800 (26%)
 
 - [x]  [1800](https://www.beecrowd.com.br/judge/pt/problems/view/1800) - [Onde Estão Minhas Chaves](https://github.com/potigol/beecrowd/blob/master/src/1800/1800.poti) *Ad-Hoc*
 - [ ]  [1801](https://www.beecrowd.com.br/judge/pt/problems/view/1801) - Brincando com Números *Matemática*
@@ -98,5 +98,5 @@
 - [ ]  [1895](https://www.beecrowd.com.br/judge/pt/problems/view/1895) - Jogo do Limite *Ad-Hoc*
 - [ ]  [1896](https://www.beecrowd.com.br/judge/pt/problems/view/1896) - É Hora do Duelo! *Ad-Hoc*
 - [ ]  [1897](https://www.beecrowd.com.br/judge/pt/problems/view/1897) - Jogo Esperto *Estruturas e Bibliotecas*
-- [ ]  [1898](https://www.beecrowd.com.br/judge/pt/problems/view/1898) - Soma de Propina *Strings*
+- [x]  [1898](https://www.beecrowd.com.br/judge/pt/problems/view/1898) - [Soma de Propina](https://github.com/potigol/beecrowd/blob/master/src/1800/1898.poti) *Strings*
 - [ ]  [1899](https://www.beecrowd.com.br/judge/pt/problems/view/1899) - Acerte o Alvo! *Ad-Hoc*
