@@ -1,0 +1,24 @@
+var entrada := leia_inteiros(" ")
+var t := 1
+enquanto entrada[1] <> 0 faça
+  n, q = entrada[1], entrada[2]
+  var marmores := Lista(10000, 0)
+  para i de 1 ate n faca
+    x = leia_inteiro + 1
+    marmores[x] := marmores[x] + 1
+  fim
+  para i de 2 ate 10000 faca
+    marmores[i] := marmores[i] + marmores[i - 1]
+  fim
+  escreva "CASE# {t}:"
+  t := t + 1
+  para i de 1 ate q faca
+    x = leia_inteiro
+    se marmores[x + 1] == marmores[x] entao
+      escreva "{x} not found"
+    senao
+      escreva "{x} found at {marmores[x] + 1}"
+    fim
+  fim
+  entrada := leia_inteiros(" ")
+fim
