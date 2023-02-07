@@ -1,0 +1,11 @@
+q = leia_inteiros(" ")[1]
+c = leia_inteiros(" ")
+var visitas := Lista(1000, 1)
+para a em c faça
+  visitas[a] := 0
+fim
+para i de 1 até q faça
+  a = leia_inteiro
+  escreva visitas[a]
+  visitas[a] := 0
+fim

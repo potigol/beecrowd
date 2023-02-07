@@ -1,4 +1,4 @@
-# Problemas 1000 (78%)
+# Problemas 1000 (79%)
 
 - [x]  [1000](https://www.beecrowd.com.br/judge/pt/problems/view/1000) - [Hello World!](https://github.com/potigol/beecrowd/blob/master/src/1000/1000.poti) *Iniciante*
 - [x]  [1001](https://www.beecrowd.com.br/judge/pt/problems/view/1001) - [Extremamente Básico](https://github.com/potigol/beecrowd/blob/master/src/1000/1001.poti) *Iniciante*
@@ -25,7 +25,7 @@
 - [x]  [1022](https://www.beecrowd.com.br/judge/pt/problems/view/1022) - [TDA Racional](https://github.com/potigol/beecrowd/blob/master/src/1000/1022.poti) *Estruturas e Bibliotecas*
 - [ ]  [1023](https://www.beecrowd.com.br/judge/pt/problems/view/1023) - Estiagem *Estruturas e Bibliotecas*
 - [x]  [1024](https://www.beecrowd.com.br/judge/pt/problems/view/1024) - [Criptografia](https://github.com/potigol/beecrowd/blob/master/src/1000/1024.poti) *Strings*
-- [ ]  [1025](https://www.beecrowd.com.br/judge/pt/problems/view/1025) - Onde está o Mármore? *Estruturas e Bibliotecas*
+- [x]  [1025](https://www.beecrowd.com.br/judge/pt/problems/view/1025) - [Onde está o Mármore?](https://github.com/potigol/beecrowd/blob/master/src/1000/1025.poti) *Estruturas e Bibliotecas*
 - [x]  [1026](https://www.beecrowd.com.br/judge/pt/problems/view/1026) - [Carrega ou não Carrega?](https://github.com/potigol/beecrowd/blob/master/src/1000/1026.poti) *Ad-Hoc*
 - [ ]  [1027](https://www.beecrowd.com.br/judge/pt/problems/view/1027) - Onda Crítica *Paradigmas*
 - [x]  [1028](https://www.beecrowd.com.br/judge/pt/problems/view/1028) - [Figurinhas](https://github.com/potigol/beecrowd/blob/master/src/1000/1028.poti) *Matemática*

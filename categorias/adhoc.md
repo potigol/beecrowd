@@ -1,4 +1,4 @@
-# Ad-Hoc (211 / 771)
+# Ad-Hoc (212 / 771)
 
 
 
@@ -67,6 +67,7 @@
 - [x]  [1793](https://www.beecrowd.com.br/judge/pt/problems/view/1793) - [Escada Rolante](https://github.com/potigol/beecrowd/blob/master/src/1700/1793.poti)
 - [x]  [1794](https://www.beecrowd.com.br/judge/pt/problems/view/1794) - [Lavanderia](https://github.com/potigol/beecrowd/blob/master/src/1700/1794.poti)
 - [x]  [1796](https://www.beecrowd.com.br/judge/pt/problems/view/1796) - [Economia Brasileira](https://github.com/potigol/beecrowd/blob/master/src/1700/1796.poti)
+- [x]  [1800](https://www.beecrowd.com.br/judge/pt/problems/view/1800) - [Onde Estão Minhas Chaves](https://github.com/potigol/beecrowd/blob/master/src/1800/1800.poti)
 - [x]  [1802](https://www.beecrowd.com.br/judge/pt/problems/view/1802) - [Catálogo de Livros](https://github.com/potigol/beecrowd/blob/master/src/1800/1802.poti)
 - [x]  [1808](https://www.beecrowd.com.br/judge/pt/problems/view/1808) - [O Retorno do Rei](https://github.com/potigol/beecrowd/blob/master/src/1800/1808.poti)
 - [x]  [1849](https://www.beecrowd.com.br/judge/pt/problems/view/1849) - [Dracarys!](https://github.com/potigol/beecrowd/blob/master/src/1800/1849.poti)
@@ -332,7 +333,6 @@
 - [ ]  [1780](https://www.beecrowd.com.br/judge/pt/problems/view/1780) - Formação de Robôs
 - [ ]  [1787](https://www.beecrowd.com.br/judge/pt/problems/view/1787) - URI
 - [ ]  [1791](https://www.beecrowd.com.br/judge/pt/problems/view/1791) - Descobrindo uma Matriz
-- [ ]  [1800](https://www.beecrowd.com.br/judge/pt/problems/view/1800) - Onde Estão Minhas Chaves
 - [ ]  [1809](https://www.beecrowd.com.br/judge/pt/problems/view/1809) - Agentes Secretos
 - [ ]  [1811](https://www.beecrowd.com.br/judge/pt/problems/view/1811) - O Óscar Vai Para...
 - [ ]  [1814](https://www.beecrowd.com.br/judge/pt/problems/view/1814) - DNA Storage?

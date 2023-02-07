@@ -1,6 +1,6 @@
-# Problemas 1800 (24%)
+# Problemas 1800 (25%)
 
-- [ ]  [1800](https://www.beecrowd.com.br/judge/pt/problems/view/1800) - Onde Estão Minhas Chaves *Ad-Hoc*
+- [x]  [1800](https://www.beecrowd.com.br/judge/pt/problems/view/1800) - [Onde Estão Minhas Chaves](https://github.com/potigol/beecrowd/blob/master/src/1800/1800.poti) *Ad-Hoc*
 - [ ]  [1801](https://www.beecrowd.com.br/judge/pt/problems/view/1801) - Brincando com Números *Matemática*
 - [x]  [1802](https://www.beecrowd.com.br/judge/pt/problems/view/1802) - [Catálogo de Livros](https://github.com/potigol/beecrowd/blob/master/src/1800/1802.poti) *Ad-Hoc*
 - [x]  [1803](https://www.beecrowd.com.br/judge/pt/problems/view/1803) - [Matring](https://github.com/potigol/beecrowd/blob/master/src/1800/1803.poti) *Strings*

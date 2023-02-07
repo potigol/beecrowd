@@ -1,10 +1,11 @@
-# Estruturas e Bibliotecas (40 / 179)
+# Estruturas e Bibliotecas (41 / 179)
 
 
 
 ## Problemas resolvidos
 
 - [x]  [1022](https://www.beecrowd.com.br/judge/pt/problems/view/1022) - [TDA Racional](https://github.com/potigol/beecrowd/blob/master/src/1000/1022.poti)
+- [x]  [1025](https://www.beecrowd.com.br/judge/pt/problems/view/1025) - [Onde está o Mármore?](https://github.com/potigol/beecrowd/blob/master/src/1000/1025.poti)
 - [x]  [1062](https://www.beecrowd.com.br/judge/pt/problems/view/1062) - [Trilhos](https://github.com/potigol/beecrowd/blob/master/src/1000/1062.poti)
 - [x]  [1068](https://www.beecrowd.com.br/judge/pt/problems/view/1068) - [Balanço de Parênteses I](https://github.com/potigol/beecrowd/blob/master/src/1000/1068.poti)
 - [x]  [1069](https://www.beecrowd.com.br/judge/pt/problems/view/1069) - [Diamantes e Areia](https://github.com/potigol/beecrowd/blob/master/src/1000/1069.poti)
@@ -48,7 +49,6 @@
 ## Problemas não resolvidos
 
 - [ ]  [1023](https://www.beecrowd.com.br/judge/pt/problems/view/1023) - Estiagem
-- [ ]  [1025](https://www.beecrowd.com.br/judge/pt/problems/view/1025) - Onde está o Mármore?
 - [ ]  [1063](https://www.beecrowd.com.br/judge/pt/problems/view/1063) - Trilhos Novamente... Traçando Movimentos
 - [ ]  [1077](https://www.beecrowd.com.br/judge/pt/problems/view/1077) - Infixa para Posfixa
 - [ ]  [1083](https://www.beecrowd.com.br/judge/pt/problems/view/1083) - LEXSIM - Avaliador Lexico e Sintático
