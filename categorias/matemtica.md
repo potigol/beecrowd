@@ -1,4 +1,4 @@
-# Matemática (81 / 269)
+# Matemática (82 / 269)
 
 
 
@@ -64,6 +64,7 @@
 - [x]  [2661](https://www.beecrowd.com.br/judge/pt/problems/view/2661) - [Despojados](https://github.com/potigol/beecrowd/blob/master/src/2600/2661.poti)
 - [x]  [2667](https://www.beecrowd.com.br/judge/pt/problems/view/2667) - [Jogo de Boca](https://github.com/potigol/beecrowd/blob/master/src/2600/2667.poti)
 - [x]  [2674](https://www.beecrowd.com.br/judge/pt/problems/view/2674) - [Super Primos: Ativar!](https://github.com/potigol/beecrowd/blob/master/src/2600/2674.poti)
+- [x]  [2777](https://www.beecrowd.com.br/judge/pt/problems/view/2777) - [Subsets do Dabriel](https://github.com/potigol/beecrowd/blob/master/src/2700/2777.poti)
 - [x]  [2839](https://www.beecrowd.com.br/judge/pt/problems/view/2839) - [As Meias de Rangel](https://github.com/potigol/beecrowd/blob/master/src/2800/2839.poti)
 - [x]  [2864](https://www.beecrowd.com.br/judge/pt/problems/view/2864) - [Qual é a Altura?](https://github.com/potigol/beecrowd/blob/master/src/2800/2864.poti)
 - [x]  [2869](https://www.beecrowd.com.br/judge/pt/problems/view/2869) - [Falando em Divisor...](https://github.com/potigol/beecrowd/blob/master/src/2800/2869.poti)
@@ -232,7 +233,6 @@
 - [ ]  [2726](https://www.beecrowd.com.br/judge/pt/problems/view/2726) - Trenó Lotado
 - [ ]  [2735](https://www.beecrowd.com.br/judge/pt/problems/view/2735) - O Presente de Nina
 - [ ]  [2767](https://www.beecrowd.com.br/judge/pt/problems/view/2767) - Festa
-- [ ]  [2777](https://www.beecrowd.com.br/judge/pt/problems/view/2777) - Subsets do Dabriel
 - [ ]  [2801](https://www.beecrowd.com.br/judge/pt/problems/view/2801) - Cifra Affine
 - [ ]  [2817](https://www.beecrowd.com.br/judge/pt/problems/view/2817) - Posto do Darlan
 - [ ]  [2819](https://www.beecrowd.com.br/judge/pt/problems/view/2819) - Cartas Para o Noel

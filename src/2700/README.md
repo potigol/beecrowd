@@ -1,4 +1,4 @@
-# Problemas 2700 (45%)
+# Problemas 2700 (46%)
 
 - [ ]  [2700](https://www.beecrowd.com.br/judge/pt/problems/view/2700) - Angariando Fundos *Estruturas e Bibliotecas*
 - [ ]  [2701](https://www.beecrowd.com.br/judge/pt/problems/view/2701) - Portas da Incerteza *Ad-Hoc*
@@ -77,7 +77,7 @@
 - [x]  [2774](https://www.beecrowd.com.br/judge/pt/problems/view/2774) - [Precisão do Sensor](https://github.com/potigol/beecrowd/blob/master/src/2700/2774.poti) *Iniciante*
 - [x]  [2775](https://www.beecrowd.com.br/judge/pt/problems/view/2775) - [Preparando a Produção](https://github.com/potigol/beecrowd/blob/master/src/2700/2775.poti) *Iniciante*
 - [ ]  [2776](https://www.beecrowd.com.br/judge/pt/problems/view/2776) - Promoções *Ad-Hoc*
-- [ ]  [2777](https://www.beecrowd.com.br/judge/pt/problems/view/2777) - Subsets do Dabriel *Matemática*
+- [x]  [2777](https://www.beecrowd.com.br/judge/pt/problems/view/2777) - [Subsets do Dabriel](https://github.com/potigol/beecrowd/blob/master/src/2700/2777.poti) *Matemática*
 - [ ]  [2778](https://www.beecrowd.com.br/judge/pt/problems/view/2778) - Matriz do Dabriel *Paradigmas*
 - [x]  [2779](https://www.beecrowd.com.br/judge/pt/problems/view/2779) - [Álbum da Copa](https://github.com/potigol/beecrowd/blob/master/src/2700/2779.poti) *Iniciante*
 - [x]  [2780](https://www.beecrowd.com.br/judge/pt/problems/view/2780) - [Basquete de Robôs](https://github.com/potigol/beecrowd/blob/master/src/2700/2780.poti) *Iniciante*
