@@ -1,4 +1,4 @@
-# Problemas 2600 (27%)
+# Problemas 2600 (28%)
 
 - [x]  [2600](https://www.beecrowd.com.br/judge/pt/problems/view/2600) - [Tustin e Seu Dado Novo](https://github.com/potigol/beecrowd/blob/master/src/2600/2600.poti) *Ad-Hoc*
 - [x]  [2601](https://www.beecrowd.com.br/judge/pt/problems/view/2601) - [Tustin e Seu Dado Antigo](https://github.com/potigol/beecrowd/blob/master/src/2600/2601.poti) *Ad-Hoc*
@@ -81,7 +81,7 @@
 - [ ]  [2678](https://www.beecrowd.com.br/judge/pt/problems/view/2678) - Discagem de Voz *Strings*
 - [x]  [2679](https://www.beecrowd.com.br/judge/pt/problems/view/2679) - [Sucessor Par](https://github.com/potigol/beecrowd/blob/master/src/2600/2679.poti) *Ad-Hoc*
 - [ ]  [2680](https://www.beecrowd.com.br/judge/pt/problems/view/2680) - Folha de Pagamentos *Matemática*
-- [ ]  [2681](https://www.beecrowd.com.br/judge/pt/problems/view/2681) - Macacos da Torre de Hanoi *Matemática*
+- [x]  [2681](https://www.beecrowd.com.br/judge/pt/problems/view/2681) - [Macacos da Torre de Hanoi](https://github.com/potigol/beecrowd/blob/master/src/2600/2681.poti) *Matemática*
 - [ ]  [2682](https://www.beecrowd.com.br/judge/pt/problems/view/2682) - Detector de Falhas *Ad-Hoc*
 - [ ]  [2683](https://www.beecrowd.com.br/judge/pt/problems/view/2683) - Espaço de Projeto *Grafos*
 - [ ]  [2684](https://www.beecrowd.com.br/judge/pt/problems/view/2684) - Ajude o Professor Webscript!! *Ad-Hoc*

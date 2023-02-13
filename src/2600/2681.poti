@@ -1,0 +1,36 @@
+tipo Mat = Lista[Lista[BigInt]]
+m = 24*60*60
+
+matrixMult(a, b: Mat): Mat
+  var result := Lista(a.tamanho, Lista(a[1].tamanho, BigInt(0)))
+  para i de 1 até a.tamanho, j de 1 até b.tamanho, k de 1 até b.tamanho faça
+    result[i][j] := (result[i][j] + a[i][k] * b[k][j]) mod m
+  fim
+  retorne result
+fim
+
+matrixPow(a: Mat, n: BigInt): Mat =
+  se n == 1 então
+    a
+  senão
+    b = matrixPow(a, n div 2)
+    c = matrixMult(b, b)
+    se n mod 2 == 0 então c senão matrixMult(a, c) fim
+  fim
+# [f(1) f(n-1)] * T = [f(1) f(n)]
+# f(1) * T11 + f(n-1) * T21 = f(1)  -> T11 = 1, T21 = 0
+# f(1) * T12 + f(n-1) * T22 = f(n)  -> T12 = 1, T22 = 2
+dabriel(n: BigInt): BigInt
+  x0: Mat = [[1, 2]]
+  a: Mat =  [[1, 0], [1, 2]]
+  xn: Mat = matrixMult(x0, matrixPow(a, n - 1))
+  retorne xn[1][1]
+fim
+
+var n := leia_texto
+se n == "1" então
+  escreva "00:00:01"
+senão
+  x = dabriel(BigInt(n))
+  escreva "{x div 3600 formato "%02d"}:{x mod 3600 div 60 formato "%02d"}:{x mod 60 formato "%02d"}"
+fim

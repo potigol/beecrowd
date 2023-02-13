@@ -1,4 +1,4 @@
-# Matemática (82 / 269)
+# Matemática (83 / 269)
 
 
 
@@ -64,6 +64,7 @@
 - [x]  [2661](https://www.beecrowd.com.br/judge/pt/problems/view/2661) - [Despojados](https://github.com/potigol/beecrowd/blob/master/src/2600/2661.poti)
 - [x]  [2667](https://www.beecrowd.com.br/judge/pt/problems/view/2667) - [Jogo de Boca](https://github.com/potigol/beecrowd/blob/master/src/2600/2667.poti)
 - [x]  [2674](https://www.beecrowd.com.br/judge/pt/problems/view/2674) - [Super Primos: Ativar!](https://github.com/potigol/beecrowd/blob/master/src/2600/2674.poti)
+- [x]  [2681](https://www.beecrowd.com.br/judge/pt/problems/view/2681) - [Macacos da Torre de Hanoi](https://github.com/potigol/beecrowd/blob/master/src/2600/2681.poti)
 - [x]  [2777](https://www.beecrowd.com.br/judge/pt/problems/view/2777) - [Subsets do Dabriel](https://github.com/potigol/beecrowd/blob/master/src/2700/2777.poti)
 - [x]  [2839](https://www.beecrowd.com.br/judge/pt/problems/view/2839) - [As Meias de Rangel](https://github.com/potigol/beecrowd/blob/master/src/2800/2839.poti)
 - [x]  [2864](https://www.beecrowd.com.br/judge/pt/problems/view/2864) - [Qual é a Altura?](https://github.com/potigol/beecrowd/blob/master/src/2800/2864.poti)
@@ -228,7 +229,6 @@
 - [ ]  [2660](https://www.beecrowd.com.br/judge/pt/problems/view/2660) - Cigarras Periódicas
 - [ ]  [2668](https://www.beecrowd.com.br/judge/pt/problems/view/2668) - K-ésimo
 - [ ]  [2680](https://www.beecrowd.com.br/judge/pt/problems/view/2680) - Folha de Pagamentos
-- [ ]  [2681](https://www.beecrowd.com.br/judge/pt/problems/view/2681) - Macacos da Torre de Hanoi
 - [ ]  [2711](https://www.beecrowd.com.br/judge/pt/problems/view/2711) - Destravando o Celular
 - [ ]  [2726](https://www.beecrowd.com.br/judge/pt/problems/view/2726) - Trenó Lotado
 - [ ]  [2735](https://www.beecrowd.com.br/judge/pt/problems/view/2735) - O Presente de Nina
