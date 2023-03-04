@@ -1,4 +1,4 @@
-# Estruturas e Bibliotecas (41 / 179)
+# Estruturas e Bibliotecas (43 / 179)
 
 
 
@@ -38,8 +38,10 @@
 - [x]  [2693](https://www.beecrowd.com.br/judge/pt/problems/view/2693) - [Van](https://github.com/potigol/beecrowd/blob/master/src/2600/2693.poti)
 - [x]  [2729](https://www.beecrowd.com.br/judge/pt/problems/view/2729) - [Lista de Compras](https://github.com/potigol/beecrowd/blob/master/src/2700/2729.poti)
 - [x]  [2872](https://www.beecrowd.com.br/judge/pt/problems/view/2872) - [Protocolo TCP/IP](https://github.com/potigol/beecrowd/blob/master/src/2800/2872.poti)
+- [x]  [2929](https://www.beecrowd.com.br/judge/pt/problems/view/2929) - [Menor da Pilha](https://github.com/potigol/beecrowd/blob/master/src/2900/2929.poti)
 - [x]  [2958](https://www.beecrowd.com.br/judge/pt/problems/view/2958) - [O Rolê Bad Vibes](https://github.com/potigol/beecrowd/blob/master/src/2900/2958.poti)
 - [x]  [2984](https://www.beecrowd.com.br/judge/pt/problems/view/2984) - [Assuntos Pendentes](https://github.com/potigol/beecrowd/blob/master/src/2900/2984.poti)
+- [x]  [3139](https://www.beecrowd.com.br/judge/pt/problems/view/3139) - [Buscando Novos Seguidores](https://github.com/potigol/beecrowd/blob/master/src/3100/3139.poti)
 - [x]  [3160](https://www.beecrowd.com.br/judge/pt/problems/view/3160) - [Amigos](https://github.com/potigol/beecrowd/blob/master/src/3100/3160.poti)
 - [x]  [3163](https://www.beecrowd.com.br/judge/pt/problems/view/3163) - [Controlador de Vôo](https://github.com/potigol/beecrowd/blob/master/src/3100/3163.poti)
 - [x]  [3171](https://www.beecrowd.com.br/judge/pt/problems/view/3171) - [Cordão de Led](https://github.com/potigol/beecrowd/blob/master/src/3100/3171.poti)
@@ -169,13 +171,11 @@
 - [ ]  [2889](https://www.beecrowd.com.br/judge/pt/problems/view/2889) - O Tasco é Sempre Vice!
 - [ ]  [2893](https://www.beecrowd.com.br/judge/pt/problems/view/2893) - Fibonac^{k}i
 - [ ]  [2916](https://www.beecrowd.com.br/judge/pt/problems/view/2916) - A Nota
-- [ ]  [2929](https://www.beecrowd.com.br/judge/pt/problems/view/2929) - Menor da Pilha
 - [ ]  [2952](https://www.beecrowd.com.br/judge/pt/problems/view/2952) - A Vida Sustentável
 - [ ]  [2961](https://www.beecrowd.com.br/judge/pt/problems/view/2961) - Ô, Que Tanto de Filme!
 - [ ]  [3045](https://www.beecrowd.com.br/judge/pt/problems/view/3045) - Parque Jurássico
 - [ ]  [3069](https://www.beecrowd.com.br/judge/pt/problems/view/3069) - Sorvete
 - [ ]  [3097](https://www.beecrowd.com.br/judge/pt/problems/view/3097) - Um Desafio Simples
-- [ ]  [3139](https://www.beecrowd.com.br/judge/pt/problems/view/3139) - Buscando Novos Seguidores
 - [ ]  [3148](https://www.beecrowd.com.br/judge/pt/problems/view/3148) - O Jardim
 - [ ]  [3149](https://www.beecrowd.com.br/judge/pt/problems/view/3149) - A Noiva do Trevo
 - [ ]  [3155](https://www.beecrowd.com.br/judge/pt/problems/view/3155) - Sócrates e suas Perguntas

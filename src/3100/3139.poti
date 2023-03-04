@@ -1,0 +1,19 @@
+entrada = leia_inteiros(" ")
+n, m = entrada[1], entrada[2]
+var d := leia_inteiros(" ").mutavel
+var falta := m - n
+var soma := d.injete(0)(_ + _)
+var i := 0
+enquanto falta > 0 faca
+  se d.divida_quando(_ <> _).tamanho == 1 entao
+    i := i + (falta / d.cabeca).teto.inteiro
+    falta := 0
+  senao
+    proximo = (soma / 30).teto.inteiro
+    soma := soma - d.cabeca + proximo
+    falta := falta - proximo
+    d := d.cauda + [proximo]
+    i := i + 1
+  fim
+fim
+escreva i

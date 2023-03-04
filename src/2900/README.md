@@ -1,4 +1,4 @@
-# Problemas 2900 (20%)
+# Problemas 2900 (21%)
 
 - [ ]  [2900](https://www.beecrowd.com.br/judge/pt/problems/view/2900) - Jogo de Varetas *Ad-Hoc*
 - [ ]  [2901](https://www.beecrowd.com.br/judge/pt/problems/view/2901) - Vôlei Marciano *Ad-Hoc*
@@ -29,7 +29,7 @@
 - [x]  [2926](https://www.beecrowd.com.br/judge/pt/problems/view/2926) - [Então é Natal!](https://github.com/potigol/beecrowd/blob/master/src/2900/2926.poti) *Ad-Hoc*
 - [ ]  [2927](https://www.beecrowd.com.br/judge/pt/problems/view/2927) - Imprevistos Natalinos *Ad-Hoc*
 - [x]  [2928](https://www.beecrowd.com.br/judge/pt/problems/view/2928) - [Cruzando Lagos](https://github.com/potigol/beecrowd/blob/master/src/2900/2928.poti) *Ad-Hoc*
-- [ ]  [2929](https://www.beecrowd.com.br/judge/pt/problems/view/2929) - Menor da Pilha *Estruturas e Bibliotecas*
+- [x]  [2929](https://www.beecrowd.com.br/judge/pt/problems/view/2929) - [Menor da Pilha](https://github.com/potigol/beecrowd/blob/master/src/2900/2929.poti) *Estruturas e Bibliotecas*
 - [x]  [2930](https://www.beecrowd.com.br/judge/pt/problems/view/2930) - [TCC da Depressão Natalino](https://github.com/potigol/beecrowd/blob/master/src/2900/2930.poti) *Iniciante*
 - [ ]  [2931](https://www.beecrowd.com.br/judge/pt/problems/view/2931) - Presentes Suspeitos *Ad-Hoc*
 - [ ]  [2932](https://www.beecrowd.com.br/judge/pt/problems/view/2932) - Renas do Papai Noel *Paradigmas*

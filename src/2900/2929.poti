@@ -1,0 +1,23 @@
+n = leia_inteiro
+var pilha:= [0].cauda
+var tamanho := 0
+para i de 1 ate n faca
+  entrada = leia_texto
+  valor = entrada.descarte(5).inteiro
+  escolha entrada[2]
+    caso 'U' se tamanho == 0 =>
+      pilha := valor :: pilha
+      tamanho := 1
+    caso 'U' =>
+      menor = se valor < pilha.cabeca entao valor senao pilha.cabeca fim
+      pilha := menor :: pilha
+     tamanho := tamanho + 1
+    caso 'I' se tamanho > 0 =>
+      escreva pilha.cabeca
+    caso 'O' se tamanho > 0 =>
+      pilha := pilha.cauda
+      tamanho := tamanho - 1
+    caso _ =>
+      escreva "EMPTY"
+  fim
+fim
