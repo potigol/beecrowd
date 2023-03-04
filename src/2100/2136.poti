@@ -1,0 +1,22 @@
+limpe(lista: Lista[Texto]) =
+  lista.ordene.divida_quando(_ <> _).mapeie(_.cabeca)
+
+var yes, no := Lista(0, "")
+var amigo := ""
+var entrada := leia_textos(" ")
+enquanto entrada[1] <> "FIM" faca
+  se entrada[2] == "YES" entao
+    yes := entrada[1] :: yes
+    se entrada[1].tamanho > amigo.tamanho entao
+      amigo := entrada[1]
+    fim
+  senao
+    no := entrada[1] :: no
+  fim
+  entrada := leia_textos(" ")
+fim
+escreva limpe(yes).junte("\n")
+escreva limpe(no).junte("\n")
+escreva ""
+escreva "Amigo do Habay:"
+escreva amigo

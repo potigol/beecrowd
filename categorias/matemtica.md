@@ -1,4 +1,4 @@
-# Matemática (83 / 269)
+# Matemática (84 / 269)
 
 
 
@@ -79,6 +79,7 @@
 - [x]  [3049](https://www.beecrowd.com.br/judge/pt/problems/view/3049) - [Nota Cortada](https://github.com/potigol/beecrowd/blob/master/src/3000/3049.poti)
 - [x]  [3102](https://www.beecrowd.com.br/judge/pt/problems/view/3102) - [Kikoho](https://github.com/potigol/beecrowd/blob/master/src/3100/3102.poti)
 - [x]  [3104](https://www.beecrowd.com.br/judge/pt/problems/view/3104) - [Resto 2.0](https://github.com/potigol/beecrowd/blob/master/src/3100/3104.poti)
+- [x]  [3138](https://www.beecrowd.com.br/judge/pt/problems/view/3138) - [Aniversário do Tobias](https://github.com/potigol/beecrowd/blob/master/src/3100/3138.poti)
 - [x]  [3154](https://www.beecrowd.com.br/judge/pt/problems/view/3154) - [A Grande Festa](https://github.com/potigol/beecrowd/blob/master/src/3100/3154.poti)
 - [x]  [3165](https://www.beecrowd.com.br/judge/pt/problems/view/3165) - [Primos Gêmeos](https://github.com/potigol/beecrowd/blob/master/src/3100/3165.poti)
 - [x]  [3182](https://www.beecrowd.com.br/judge/pt/problems/view/3182) - [Planejamento de Evento](https://github.com/potigol/beecrowd/blob/master/src/3100/3182.poti)
@@ -259,7 +260,6 @@
 - [ ]  [3096](https://www.beecrowd.com.br/judge/pt/problems/view/3096) - Overflow
 - [ ]  [3099](https://www.beecrowd.com.br/judge/pt/problems/view/3099) - O Problema do 7 x 1
 - [ ]  [3110](https://www.beecrowd.com.br/judge/pt/problems/view/3110) - Farcos e o Xorshift
-- [ ]  [3138](https://www.beecrowd.com.br/judge/pt/problems/view/3138) - Aniversário do Tobias
 - [ ]  [3179](https://www.beecrowd.com.br/judge/pt/problems/view/3179) - Melhor Compressão de Todas
 - [ ]  [3183](https://www.beecrowd.com.br/judge/pt/problems/view/3183) - Corrigindo os Bugs
 - [ ]  [3185](https://www.beecrowd.com.br/judge/pt/problems/view/3185) - Evidência Difícil

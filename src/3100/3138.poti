@@ -1,0 +1,25 @@
+fat(n: Int): BigInt =
+  se n > 1 entao n * fat(n - 1) senao 1 fim
+
+baloes(lista: Lista[(Texto, Inteiro)]): Lista[(Texto, Inteiro)] =
+  se
+    lista.tamanho <= 1 entao lista
+  senao
+    se lista[1].primeiro == lista[2].primeiro entao
+      baloes((lista[1].primeiro, lista[1].segundo + lista[2].segundo) :: lista.descarte(2))
+    senao
+      lista.cabeca :: baloes(lista.cauda)
+    fim
+  fim
+
+leia_tupla()
+  a = leia_textos(" ")
+  retorne (a[1], a[2].inteiro)
+fim
+
+n = leia_inteiro
+quantidades = baloes(para i de 1 ate n gere leia_tupla fim.ordene(_.primeiro))
+total = quantidades.injete(0)(_ + _.segundo)
+possibilidades = fat(total) div quantidades.injete(BigInt(1))((a, b) => a * fat(b.segundo))
+escreva "Feliz aniversario Tobias!"
+escreva possibilidades

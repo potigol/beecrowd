@@ -1,4 +1,4 @@
-# Estruturas e Bibliotecas (43 / 179)
+# Estruturas e Bibliotecas (44 / 179)
 
 
 
@@ -28,6 +28,7 @@
 - [x]  [1766](https://www.beecrowd.com.br/judge/pt/problems/view/1766) - [O Elfo das Trevas](https://github.com/potigol/beecrowd/blob/master/src/1700/1766.poti)
 - [x]  [2018](https://www.beecrowd.com.br/judge/pt/problems/view/2018) - [Olimpíadas de Natal](https://github.com/potigol/beecrowd/blob/master/src/2000/2018.poti)
 - [x]  [2091](https://www.beecrowd.com.br/judge/pt/problems/view/2091) - [Número Solitário](https://github.com/potigol/beecrowd/blob/master/src/2000/2091.poti)
+- [x]  [2136](https://www.beecrowd.com.br/judge/pt/problems/view/2136) - [Amigos do Habay](https://github.com/potigol/beecrowd/blob/master/src/2100/2136.poti)
 - [x]  [2290](https://www.beecrowd.com.br/judge/pt/problems/view/2290) - [Números Apaixornados](https://github.com/potigol/beecrowd/blob/master/src/2200/2290.poti)
 - [x]  [2338](https://www.beecrowd.com.br/judge/pt/problems/view/2338) - [Morse](https://github.com/potigol/beecrowd/blob/master/src/2300/2338.poti)
 - [x]  [2496](https://www.beecrowd.com.br/judge/pt/problems/view/2496) - [A Única Chance](https://github.com/potigol/beecrowd/blob/master/src/2400/2496.poti)
@@ -127,7 +128,6 @@
 - [ ]  [2111](https://www.beecrowd.com.br/judge/pt/problems/view/2111) - Entendendo o Sorobov
 - [ ]  [2120](https://www.beecrowd.com.br/judge/pt/problems/view/2120) - Tutores
 - [ ]  [2122](https://www.beecrowd.com.br/judge/pt/problems/view/2122) - Votação em Ecaterimburgo
-- [ ]  [2136](https://www.beecrowd.com.br/judge/pt/problems/view/2136) - Amigos do Habay
 - [ ]  [2185](https://www.beecrowd.com.br/judge/pt/problems/view/2185) - Brincando com Pomekons
 - [ ]  [2186](https://www.beecrowd.com.br/judge/pt/problems/view/2186) - Bino, Prant e a Indecisao
 - [ ]  [2223](https://www.beecrowd.com.br/judge/pt/problems/view/2223) - Inventário de Pomekon

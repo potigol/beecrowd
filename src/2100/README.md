@@ -1,4 +1,4 @@
-# Problemas 2100 (31%)
+# Problemas 2100 (32%)
 
 - [ ]  [2100](https://www.beecrowd.com.br/judge/pt/problems/view/2100) - Cinema de Xing Tzen Zu *Matemática*
 - [ ]  [2101](https://www.beecrowd.com.br/judge/pt/problems/view/2101) - Combinações de Dias *Matemática*
@@ -36,7 +36,7 @@
 - [ ]  [2133](https://www.beecrowd.com.br/judge/pt/problems/view/2133) - Números de Dinostratus *Matemática*
 - [ ]  [2134](https://www.beecrowd.com.br/judge/pt/problems/view/2134) - Quem Vai Ser Reprovado? *Ad-Hoc*
 - [ ]  [2135](https://www.beecrowd.com.br/judge/pt/problems/view/2135) - Recuperação *Matemática*
-- [ ]  [2136](https://www.beecrowd.com.br/judge/pt/problems/view/2136) - Amigos do Habay *Estruturas e Bibliotecas*
+- [x]  [2136](https://www.beecrowd.com.br/judge/pt/problems/view/2136) - [Amigos do Habay](https://github.com/potigol/beecrowd/blob/master/src/2100/2136.poti) *Estruturas e Bibliotecas*
 - [x]  [2137](https://www.beecrowd.com.br/judge/pt/problems/view/2137) - [A Biblioteca do Senhor Severino](https://github.com/potigol/beecrowd/blob/master/src/2100/2137.poti) *Strings*
 - [ ]  [2138](https://www.beecrowd.com.br/judge/pt/problems/view/2138) - Dígito Mais Frequente *Ad-Hoc*
 - [x]  [2139](https://www.beecrowd.com.br/judge/pt/problems/view/2139) - [Natal de Pedrinho](https://github.com/potigol/beecrowd/blob/master/src/2100/2139.poti) *Iniciante*
