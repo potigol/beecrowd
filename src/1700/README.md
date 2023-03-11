@@ -1,4 +1,4 @@
-# Problemas 1700 (18%)
+# Problemas 1700 (19%)
 
 - [ ]  [1700](https://www.beecrowd.com.br/judge/pt/problems/view/1700) - Antenas *Paradigmas*
 - [ ]  [1701](https://www.beecrowd.com.br/judge/pt/problems/view/1701) - Sequência de Fibo *Estruturas e Bibliotecas*
@@ -54,7 +54,7 @@
 - [ ]  [1751](https://www.beecrowd.com.br/judge/pt/problems/view/1751) - Alpinista Intrépido *Grafos*
 - [ ]  [1752](https://www.beecrowd.com.br/judge/pt/problems/view/1752) - Jornada Pelo Reino *Grafos*
 - [ ]  [1753](https://www.beecrowd.com.br/judge/pt/problems/view/1753) - Cavaleiros Da Tàvola Redonda *Ad-Hoc*
-- [ ]  [1754](https://www.beecrowd.com.br/judge/pt/problems/view/1754) - A Sala do Tempo *Matemática*
+- [x]  [1754](https://www.beecrowd.com.br/judge/pt/problems/view/1754) - [A Sala do Tempo](https://github.com/potigol/beecrowd/blob/master/src/1700/1754.poti) *Matemática*
 - [ ]  [1755](https://www.beecrowd.com.br/judge/pt/problems/view/1755) - O Troco *Ad-Hoc*
 - [ ]  [1756](https://www.beecrowd.com.br/judge/pt/problems/view/1756) - Algoritmo Genético *Matemática*
 - [ ]  [1757](https://www.beecrowd.com.br/judge/pt/problems/view/1757) - Viagem Barril *Grafos*

@@ -1,4 +1,4 @@
-# Matemática (84 / 269)
+# Matemática (85 / 269)
 
 
 
@@ -41,6 +41,7 @@
 - [x]  [1630](https://www.beecrowd.com.br/judge/pt/problems/view/1630) - [Estacas](https://github.com/potigol/beecrowd/blob/master/src/1600/1630.poti)
 - [x]  [1647](https://www.beecrowd.com.br/judge/pt/problems/view/1647) - [Um Jogo com Bolas de Gude](https://github.com/potigol/beecrowd/blob/master/src/1600/1647.poti)
 - [x]  [1650](https://www.beecrowd.com.br/judge/pt/problems/view/1650) - [Pintura Preto e Branco](https://github.com/potigol/beecrowd/blob/master/src/1600/1650.poti)
+- [x]  [1754](https://www.beecrowd.com.br/judge/pt/problems/view/1754) - [A Sala do Tempo](https://github.com/potigol/beecrowd/blob/master/src/1700/1754.poti)
 - [x]  [1760](https://www.beecrowd.com.br/judge/pt/problems/view/1760) - [Floco de Neve de Koch](https://github.com/potigol/beecrowd/blob/master/src/1700/1760.poti)
 - [x]  [1761](https://www.beecrowd.com.br/judge/pt/problems/view/1761) - [Decoração Natalina](https://github.com/potigol/beecrowd/blob/master/src/1700/1761.poti)
 - [x]  [1795](https://www.beecrowd.com.br/judge/pt/problems/view/1795) - [Triângulo Trinomial](https://github.com/potigol/beecrowd/blob/master/src/1700/1795.poti)
@@ -163,7 +164,6 @@
 - [ ]  [1735](https://www.beecrowd.com.br/judge/pt/problems/view/1735) - Codifique a Árvore
 - [ ]  [1736](https://www.beecrowd.com.br/judge/pt/problems/view/1736) - Decodifique a Árvore
 - [ ]  [1745](https://www.beecrowd.com.br/judge/pt/problems/view/1745) - Contando Substhreengs
-- [ ]  [1754](https://www.beecrowd.com.br/judge/pt/problems/view/1754) - A Sala do Tempo
 - [ ]  [1756](https://www.beecrowd.com.br/judge/pt/problems/view/1756) - Algoritmo Genético
 - [ ]  [1776](https://www.beecrowd.com.br/judge/pt/problems/view/1776) - Baile de Formatura
 - [ ]  [1785](https://www.beecrowd.com.br/judge/pt/problems/view/1785) - Kaprekar
