@@ -1,1 +1,1 @@
-escreva "Ho" + " Ho" * (leia_inteiro - 1) + "!"
+escreva "Ho " * (leia_inteiro - 1) + "Ho!"
