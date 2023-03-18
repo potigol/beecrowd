@@ -1,0 +1,8 @@
+var n := leia_inteiro
+enquanto n > 0 faça
+  medida = leia_inteiros(" ")
+  h, c, l = medida[1], medida[2], medida[3]
+  area = n * l * raiz(h ^ 2 + c ^ 2) / 10000
+  escreva area formato "%.4f"
+  n := leia_inteiro
+fim

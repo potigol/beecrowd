@@ -1,4 +1,4 @@
-# Geometria Computacional (7 / 82)
+# Geometria Computacional (8 / 82)
 
 
 
@@ -9,6 +9,7 @@
 - [x]  [1549](https://www.beecrowd.com.br/judge/pt/problems/view/1549) - [Dividindo a Coca](https://github.com/potigol/beecrowd/blob/master/src/1500/1549.poti)
 - [x]  [1875](https://www.beecrowd.com.br/judge/pt/problems/view/1875) - [Tribol](https://github.com/potigol/beecrowd/blob/master/src/1800/1875.poti)
 - [x]  [2158](https://www.beecrowd.com.br/judge/pt/problems/view/2158) - [Ajudando o Tio Cláudio](https://github.com/potigol/beecrowd/blob/master/src/2100/2158.poti)
+- [x]  [2518](https://www.beecrowd.com.br/judge/pt/problems/view/2518) - [Escada do DINF](https://github.com/potigol/beecrowd/blob/master/src/2500/2518.poti)
 - [x]  [2840](https://www.beecrowd.com.br/judge/pt/problems/view/2840) - [Balão++](https://github.com/potigol/beecrowd/blob/master/src/2800/2840.poti)
 - [x]  [3152](https://www.beecrowd.com.br/judge/pt/problems/view/3152) - [Samuel, O Cafeicultor](https://github.com/potigol/beecrowd/blob/master/src/3100/3152.poti)
 
@@ -71,7 +72,6 @@
 - [ ]  [2245](https://www.beecrowd.com.br/judge/pt/problems/view/2245) - Kit de Encolhimento de Polígonos
 - [ ]  [2362](https://www.beecrowd.com.br/judge/pt/problems/view/2362) - Invasão Alienígena
 - [ ]  [2517](https://www.beecrowd.com.br/judge/pt/problems/view/2517) - Desafio PoGro
-- [ ]  [2518](https://www.beecrowd.com.br/judge/pt/problems/view/2518) - Escada do DINF
 - [ ]  [2521](https://www.beecrowd.com.br/judge/pt/problems/view/2521) - Pergunte à Geógrafa
 - [ ]  [2525](https://www.beecrowd.com.br/judge/pt/problems/view/2525) - Cacheiro Viajante
 - [ ]  [2541](https://www.beecrowd.com.br/judge/pt/problems/view/2541) - Ingrest

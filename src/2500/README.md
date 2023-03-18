@@ -1,4 +1,4 @@
-# Problemas 2500 (30%)
+# Problemas 2500 (31%)
 
 - [ ]  [2500](https://www.beecrowd.com.br/judge/pt/problems/view/2500) - William Xorando *Matemática*
 - [ ]  [2501](https://www.beecrowd.com.br/judge/pt/problems/view/2501) - Fatores Permitidos *Paradigmas*
@@ -18,7 +18,7 @@
 - [ ]  [2515](https://www.beecrowd.com.br/judge/pt/problems/view/2515) - Bolacha *Ad-Hoc*
 - [x]  [2516](https://www.beecrowd.com.br/judge/pt/problems/view/2516) - [Corrida](https://github.com/potigol/beecrowd/blob/master/src/2500/2516.poti) *Matemática*
 - [ ]  [2517](https://www.beecrowd.com.br/judge/pt/problems/view/2517) - Desafio PoGro *Geometria Computacional*
-- [ ]  [2518](https://www.beecrowd.com.br/judge/pt/problems/view/2518) - Escada do DINF *Geometria Computacional*
+- [x]  [2518](https://www.beecrowd.com.br/judge/pt/problems/view/2518) - [Escada do DINF](https://github.com/potigol/beecrowd/blob/master/src/2500/2518.poti) *Geometria Computacional*
 - [ ]  [2519](https://www.beecrowd.com.br/judge/pt/problems/view/2519) - Estratégia Campeã *Estruturas e Bibliotecas*
 - [x]  [2520](https://www.beecrowd.com.br/judge/pt/problems/view/2520) - [O Último Analógimôn](https://github.com/potigol/beecrowd/blob/master/src/2500/2520.poti) *Iniciante*
 - [ ]  [2521](https://www.beecrowd.com.br/judge/pt/problems/view/2521) - Pergunte à Geógrafa *Geometria Computacional*
