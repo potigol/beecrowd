@@ -1,0 +1,17 @@
+inicial = ["E C A F"]
+var painel := inicial
+n = leia_inteiro
+var brindes := 0
+para i de 1 até n faça
+  a = leia_texto
+  se a == painel.cabeça então
+    painel := painel.cauda
+    brindes := brindes + 1
+    se painel == [] então
+      painel := inicial
+    fim
+  senão
+    painel := a.inverta :: painel
+  fim
+fim
+escreva brindes

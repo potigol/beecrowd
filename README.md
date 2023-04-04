@@ -3,7 +3,7 @@
 [![Join the chat at https://gitter.im/potigol/Potigol](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/potigol/Potigol?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Follow us](https://img.shields.io/twitter/follow/potigol.svg?style=social)](http://twitter.com/potigol)
 [![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/potigol/beecrowd)
-[![Soluções](https://img.shields.io/badge/Problemas%20Resolvidos-750-blue)](https://github.com/potigol/beecrowd/commits/master)
+[![Soluções](https://img.shields.io/badge/Problemas%20Resolvidos-752-blue)](https://github.com/potigol/beecrowd/commits/master)
 
 <!-- a href="https://potigol.github.io/docs/hacktoberfest"><img src="https://hacktoberfest.digitalocean.com/_nuxt/img/logo-hacktoberfest-full.f42e3b1.svg" width=250></a -->
 

@@ -1,4 +1,4 @@
-# Problemas 1900 (26%)
+# Problemas 1900 (27%)
 
 - [ ]  [1900](https://www.beecrowd.com.br/judge/pt/problems/view/1900) - Sequências Nulas *Paradigmas*
 - [x]  [1901](https://www.beecrowd.com.br/judge/pt/problems/view/1901) - [Borboletas](https://github.com/potigol/beecrowd/blob/master/src/1900/1901.poti) *Ad-Hoc*
@@ -44,7 +44,7 @@
 - [ ]  [1941](https://www.beecrowd.com.br/judge/pt/problems/view/1941) - Palíndromo *Strings*
 - [ ]  [1942](https://www.beecrowd.com.br/judge/pt/problems/view/1942) - Loteria *Ad-Hoc*
 - [x]  [1943](https://www.beecrowd.com.br/judge/pt/problems/view/1943) - [Top N](https://github.com/potigol/beecrowd/blob/master/src/1900/1943.poti) *Ad-Hoc*
-- [ ]  [1944](https://www.beecrowd.com.br/judge/pt/problems/view/1944) - BRINDE FACE 2015 *Estruturas e Bibliotecas*
+- [x]  [1944](https://www.beecrowd.com.br/judge/pt/problems/view/1944) - [BRINDE FACE 2015](https://github.com/potigol/beecrowd/blob/master/src/1900/1944.poti) *Estruturas e Bibliotecas*
 - [ ]  [1945](https://www.beecrowd.com.br/judge/pt/problems/view/1945) - Simulador *Ad-Hoc*
 - [ ]  [1946](https://www.beecrowd.com.br/judge/pt/problems/view/1946) - Pirâmide da Sorte *Matemática*
 - [ ]  [1947](https://www.beecrowd.com.br/judge/pt/problems/view/1947) - Rota do Taxista *Grafos*
