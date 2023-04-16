@@ -1,4 +1,4 @@
-# Grafos (7 / 277)
+# Grafos (8 / 277)
 
 
 
@@ -7,6 +7,7 @@
 - [x]  [1195](https://www.beecrowd.com.br/judge/pt/problems/view/1195) - [Árvore Binária de Busca](https://github.com/potigol/beecrowd/blob/master/src/1100/1195.poti)
 - [x]  [1200](https://www.beecrowd.com.br/judge/pt/problems/view/1200) - [Operações em ABP I](https://github.com/potigol/beecrowd/blob/master/src/1200/1200.poti)
 - [x]  [1466](https://www.beecrowd.com.br/judge/pt/problems/view/1466) - [Percurso em Árvore por Nível](https://github.com/potigol/beecrowd/blob/master/src/1400/1466.poti)
+- [x]  [1855](https://www.beecrowd.com.br/judge/pt/problems/view/1855) - [Mapa do Meistre](https://github.com/potigol/beecrowd/blob/master/src/1800/1855.poti)
 - [x]  [1905](https://www.beecrowd.com.br/judge/pt/problems/view/1905) - [Polícia e Ladrão](https://github.com/potigol/beecrowd/blob/master/src/1900/1905.poti)
 - [x]  [2428](https://www.beecrowd.com.br/judge/pt/problems/view/2428) - [Capital](https://github.com/potigol/beecrowd/blob/master/src/2400/2428.poti)
 - [x]  [2687](https://www.beecrowd.com.br/judge/pt/problems/view/2687) - [Dominação Bacteriana](https://github.com/potigol/beecrowd/blob/master/src/2600/2687.poti)
@@ -128,7 +129,6 @@
 - [ ]  [1826](https://www.beecrowd.com.br/judge/pt/problems/view/1826) - A Linguagem é Infinita?
 - [ ]  [1835](https://www.beecrowd.com.br/judge/pt/problems/view/1835) - Promessa de Campanha
 - [ ]  [1850](https://www.beecrowd.com.br/judge/pt/problems/view/1850) - O Labirinto de Ninguém
-- [ ]  [1855](https://www.beecrowd.com.br/judge/pt/problems/view/1855) - Mapa do Meistre
 - [ ]  [1862](https://www.beecrowd.com.br/judge/pt/problems/view/1862) - Casas de Westeros
 - [ ]  [1882](https://www.beecrowd.com.br/judge/pt/problems/view/1882) - Passeios Aleatórios pela Tailândia
 - [ ]  [1883](https://www.beecrowd.com.br/judge/pt/problems/view/1883) - Fuga de Ayutthaya

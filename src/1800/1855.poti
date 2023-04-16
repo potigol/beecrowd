@@ -1,0 +1,25 @@
+n, m = leia_inteiro
+a = leia_textos(m)
+
+dfs(x, y, dx, dy: Inteiro, vis: Lista[(Inteiro, Inteiro)]): Lógico =
+  se x < 1 ou x > m ou y < 1 ou y > n ou vis.contém((x, y))
+    falso
+  senão
+    vis2 = (x, y) :: vis
+    escolha a[x][y]
+      caso '*' => verdadeiro
+      caso '>' => dfs(x, y + 1, 0, 1, vis2)
+      caso '<' => dfs(x, y - 1, 0, -1, vis2)
+      caso '^' => dfs(x - 1, y, -1, 0, vis2)
+      caso 'v' => dfs(x + 1, y, 1, 0, vis2)
+      caso  _  => dfs(x + dx, y + dy, dx, dy, vis)
+    fim
+  fim
+
+ans = dfs(1, 1, 0, 1, [])
+
+se ans então
+  escreva "*"
+senão
+  escreva "!"
+fim

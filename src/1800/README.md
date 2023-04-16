@@ -1,4 +1,4 @@
-# Problemas 1800 (26%)
+# Problemas 1800 (27%)
 
 - [x]  [1800](https://www.beecrowd.com.br/judge/pt/problems/view/1800) - [Onde Estão Minhas Chaves](https://github.com/potigol/beecrowd/blob/master/src/1800/1800.poti) *Ad-Hoc*
 - [ ]  [1801](https://www.beecrowd.com.br/judge/pt/problems/view/1801) - Brincando com Números *Matemática*
@@ -55,7 +55,7 @@
 - [ ]  [1852](https://www.beecrowd.com.br/judge/pt/problems/view/1852) - Lobos Stark *Paradigmas*
 - [ ]  [1853](https://www.beecrowd.com.br/judge/pt/problems/view/1853) - O Jogo da Confiança de Daenerys *Strings*
 - [ ]  [1854](https://www.beecrowd.com.br/judge/pt/problems/view/1854) - Inverno em Winterfell *Estruturas e Bibliotecas*
-- [ ]  [1855](https://www.beecrowd.com.br/judge/pt/problems/view/1855) - Mapa do Meistre *Grafos*
+- [x]  [1855](https://www.beecrowd.com.br/judge/pt/problems/view/1855) - [Mapa do Meistre](https://github.com/potigol/beecrowd/blob/master/src/1800/1855.poti) *Grafos*
 - [ ]  [1856](https://www.beecrowd.com.br/judge/pt/problems/view/1856) - A Lista da Morte de Arya *Estruturas e Bibliotecas*
 - [ ]  [1857](https://www.beecrowd.com.br/judge/pt/problems/view/1857) - Prelúdio de um Casamento Vermelho *Geometria Computacional*
 - [x]  [1858](https://www.beecrowd.com.br/judge/pt/problems/view/1858) - [A Resposta de Theon](https://github.com/potigol/beecrowd/blob/master/src/1800/1858.poti) *Iniciante*
