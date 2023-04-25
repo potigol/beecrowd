@@ -4,185 +4,185 @@
 
 ## Problemas resolvidos
 
-- [x]  [1022](https://www.beecrowd.com.br/judge/pt/problems/view/1022) - [TDA Racional](https://github.com/potigol/beecrowd/blob/master/src/1000/1022.poti)
-- [x]  [1025](https://www.beecrowd.com.br/judge/pt/problems/view/1025) - [Onde está o Mármore?](https://github.com/potigol/beecrowd/blob/master/src/1000/1025.poti)
-- [x]  [1062](https://www.beecrowd.com.br/judge/pt/problems/view/1062) - [Trilhos](https://github.com/potigol/beecrowd/blob/master/src/1000/1062.poti)
-- [x]  [1068](https://www.beecrowd.com.br/judge/pt/problems/view/1068) - [Balanço de Parênteses I](https://github.com/potigol/beecrowd/blob/master/src/1000/1068.poti)
-- [x]  [1069](https://www.beecrowd.com.br/judge/pt/problems/view/1069) - [Diamantes e Areia](https://github.com/potigol/beecrowd/blob/master/src/1000/1069.poti)
-- [x]  [1110](https://www.beecrowd.com.br/judge/pt/problems/view/1110) - [Jogando Cartas Fora](https://github.com/potigol/beecrowd/blob/master/src/1100/1110.poti)
-- [x]  [1162](https://www.beecrowd.com.br/judge/pt/problems/view/1162) - [Organizador de Vagões](https://github.com/potigol/beecrowd/blob/master/src/1100/1162.poti)
-- [x]  [1244](https://www.beecrowd.com.br/judge/pt/problems/view/1244) - [Ordenação por Tamanho](https://github.com/potigol/beecrowd/blob/master/src/1200/1244.poti)
-- [x]  [1251](https://www.beecrowd.com.br/judge/pt/problems/view/1251) - [Diga-me a Frequência](https://github.com/potigol/beecrowd/blob/master/src/1200/1251.poti)
-- [x]  [1256](https://www.beecrowd.com.br/judge/pt/problems/view/1256) - [Tabelas Hash](https://github.com/potigol/beecrowd/blob/master/src/1200/1256.poti)
-- [x]  [1258](https://www.beecrowd.com.br/judge/pt/problems/view/1258) - [Camisetas](https://github.com/potigol/beecrowd/blob/master/src/1200/1258.poti)
-- [x]  [1259](https://www.beecrowd.com.br/judge/pt/problems/view/1259) - [Pares e Ímpares](https://github.com/potigol/beecrowd/blob/master/src/1200/1259.poti)
-- [x]  [1261](https://www.beecrowd.com.br/judge/pt/problems/view/1261) - [Pontos de Feno](https://github.com/potigol/beecrowd/blob/master/src/1200/1261.poti)
-- [x]  [1281](https://www.beecrowd.com.br/judge/pt/problems/view/1281) - [Ida à Feira](https://github.com/potigol/beecrowd/blob/master/src/1200/1281.poti)
-- [x]  [1303](https://www.beecrowd.com.br/judge/pt/problems/view/1303) - [Spurs Rocks](https://github.com/potigol/beecrowd/blob/master/src/1300/1303.poti)
-- [x]  [1340](https://www.beecrowd.com.br/judge/pt/problems/view/1340) - [Eu Posso Adivinhar a Estrutura de Dados!](https://github.com/potigol/beecrowd/blob/master/src/1300/1340.poti)
-- [x]  [1430](https://www.beecrowd.com.br/judge/pt/problems/view/1430) - [Composição de Jingles](https://github.com/potigol/beecrowd/blob/master/src/1400/1430.poti)
-- [x]  [1548](https://www.beecrowd.com.br/judge/pt/problems/view/1548) - [Fila do Recreio](https://github.com/potigol/beecrowd/blob/master/src/1500/1548.poti)
-- [x]  [1566](https://www.beecrowd.com.br/judge/pt/problems/view/1566) - [Altura](https://github.com/potigol/beecrowd/blob/master/src/1500/1566.poti)
-- [x]  [1709](https://www.beecrowd.com.br/judge/pt/problems/view/1709) - [Baralho Embaralhado](https://github.com/potigol/beecrowd/blob/master/src/1700/1709.poti)
-- [x]  [1763](https://www.beecrowd.com.br/judge/pt/problems/view/1763) - [Tradutor do Papai Noel](https://github.com/potigol/beecrowd/blob/master/src/1700/1763.poti)
-- [x]  [1766](https://www.beecrowd.com.br/judge/pt/problems/view/1766) - [O Elfo das Trevas](https://github.com/potigol/beecrowd/blob/master/src/1700/1766.poti)
-- [x]  [1944](https://www.beecrowd.com.br/judge/pt/problems/view/1944) - [BRINDE FACE 2015](https://github.com/potigol/beecrowd/blob/master/src/1900/1944.poti)
-- [x]  [2018](https://www.beecrowd.com.br/judge/pt/problems/view/2018) - [Olimpíadas de Natal](https://github.com/potigol/beecrowd/blob/master/src/2000/2018.poti)
-- [x]  [2091](https://www.beecrowd.com.br/judge/pt/problems/view/2091) - [Número Solitário](https://github.com/potigol/beecrowd/blob/master/src/2000/2091.poti)
-- [x]  [2136](https://www.beecrowd.com.br/judge/pt/problems/view/2136) - [Amigos do Habay](https://github.com/potigol/beecrowd/blob/master/src/2100/2136.poti)
-- [x]  [2290](https://www.beecrowd.com.br/judge/pt/problems/view/2290) - [Números Apaixornados](https://github.com/potigol/beecrowd/blob/master/src/2200/2290.poti)
-- [x]  [2338](https://www.beecrowd.com.br/judge/pt/problems/view/2338) - [Morse](https://github.com/potigol/beecrowd/blob/master/src/2300/2338.poti)
-- [x]  [2496](https://www.beecrowd.com.br/judge/pt/problems/view/2496) - [A Única Chance](https://github.com/potigol/beecrowd/blob/master/src/2400/2496.poti)
-- [x]  [2593](https://www.beecrowd.com.br/judge/pt/problems/view/2593) - [Eachianos I](https://github.com/potigol/beecrowd/blob/master/src/2500/2593.poti)
-- [x]  [2594](https://www.beecrowd.com.br/judge/pt/problems/view/2594) - [Eachianos II](https://github.com/potigol/beecrowd/blob/master/src/2500/2594.poti)
-- [x]  [2633](https://www.beecrowd.com.br/judge/pt/problems/view/2633) - [Churras no Yuri](https://github.com/potigol/beecrowd/blob/master/src/2600/2633.poti)
-- [x]  [2654](https://www.beecrowd.com.br/judge/pt/problems/view/2654) - [Godofor](https://github.com/potigol/beecrowd/blob/master/src/2600/2654.poti)
-- [x]  [2693](https://www.beecrowd.com.br/judge/pt/problems/view/2693) - [Van](https://github.com/potigol/beecrowd/blob/master/src/2600/2693.poti)
-- [x]  [2729](https://www.beecrowd.com.br/judge/pt/problems/view/2729) - [Lista de Compras](https://github.com/potigol/beecrowd/blob/master/src/2700/2729.poti)
-- [x]  [2872](https://www.beecrowd.com.br/judge/pt/problems/view/2872) - [Protocolo TCP/IP](https://github.com/potigol/beecrowd/blob/master/src/2800/2872.poti)
-- [x]  [2929](https://www.beecrowd.com.br/judge/pt/problems/view/2929) - [Menor da Pilha](https://github.com/potigol/beecrowd/blob/master/src/2900/2929.poti)
-- [x]  [2958](https://www.beecrowd.com.br/judge/pt/problems/view/2958) - [O Rolê Bad Vibes](https://github.com/potigol/beecrowd/blob/master/src/2900/2958.poti)
-- [x]  [2984](https://www.beecrowd.com.br/judge/pt/problems/view/2984) - [Assuntos Pendentes](https://github.com/potigol/beecrowd/blob/master/src/2900/2984.poti)
-- [x]  [3139](https://www.beecrowd.com.br/judge/pt/problems/view/3139) - [Buscando Novos Seguidores](https://github.com/potigol/beecrowd/blob/master/src/3100/3139.poti)
-- [x]  [3160](https://www.beecrowd.com.br/judge/pt/problems/view/3160) - [Amigos](https://github.com/potigol/beecrowd/blob/master/src/3100/3160.poti)
-- [x]  [3163](https://www.beecrowd.com.br/judge/pt/problems/view/3163) - [Controlador de Vôo](https://github.com/potigol/beecrowd/blob/master/src/3100/3163.poti)
-- [x]  [3171](https://www.beecrowd.com.br/judge/pt/problems/view/3171) - [Cordão de Led](https://github.com/potigol/beecrowd/blob/master/src/3100/3171.poti)
-- [x]  [3176](https://www.beecrowd.com.br/judge/pt/problems/view/3176) - [Time de Duendes](https://github.com/potigol/beecrowd/blob/master/src/3100/3176.poti)
-- [x]  [3357](https://www.beecrowd.com.br/judge/pt/problems/view/3357) - [Rico do Mate](https://github.com/potigol/beecrowd/blob/master/src/3300/3357.poti)
+- [x]  [1022](https://www.beecrowd.com.br/repository/UOJ_1022.html) - [TDA Racional](https://github.com/potigol/beecrowd/blob/master/src/1000/1022.poti)
+- [x]  [1025](https://www.beecrowd.com.br/repository/UOJ_1025.html) - [Onde está o Mármore?](https://github.com/potigol/beecrowd/blob/master/src/1000/1025.poti)
+- [x]  [1062](https://www.beecrowd.com.br/repository/UOJ_1062.html) - [Trilhos](https://github.com/potigol/beecrowd/blob/master/src/1000/1062.poti)
+- [x]  [1068](https://www.beecrowd.com.br/repository/UOJ_1068.html) - [Balanço de Parênteses I](https://github.com/potigol/beecrowd/blob/master/src/1000/1068.poti)
+- [x]  [1069](https://www.beecrowd.com.br/repository/UOJ_1069.html) - [Diamantes e Areia](https://github.com/potigol/beecrowd/blob/master/src/1000/1069.poti)
+- [x]  [1110](https://www.beecrowd.com.br/repository/UOJ_1110.html) - [Jogando Cartas Fora](https://github.com/potigol/beecrowd/blob/master/src/1100/1110.poti)
+- [x]  [1162](https://www.beecrowd.com.br/repository/UOJ_1162.html) - [Organizador de Vagões](https://github.com/potigol/beecrowd/blob/master/src/1100/1162.poti)
+- [x]  [1244](https://www.beecrowd.com.br/repository/UOJ_1244.html) - [Ordenação por Tamanho](https://github.com/potigol/beecrowd/blob/master/src/1200/1244.poti)
+- [x]  [1251](https://www.beecrowd.com.br/repository/UOJ_1251.html) - [Diga-me a Frequência](https://github.com/potigol/beecrowd/blob/master/src/1200/1251.poti)
+- [x]  [1256](https://www.beecrowd.com.br/repository/UOJ_1256.html) - [Tabelas Hash](https://github.com/potigol/beecrowd/blob/master/src/1200/1256.poti)
+- [x]  [1258](https://www.beecrowd.com.br/repository/UOJ_1258.html) - [Camisetas](https://github.com/potigol/beecrowd/blob/master/src/1200/1258.poti)
+- [x]  [1259](https://www.beecrowd.com.br/repository/UOJ_1259.html) - [Pares e Ímpares](https://github.com/potigol/beecrowd/blob/master/src/1200/1259.poti)
+- [x]  [1261](https://www.beecrowd.com.br/repository/UOJ_1261.html) - [Pontos de Feno](https://github.com/potigol/beecrowd/blob/master/src/1200/1261.poti)
+- [x]  [1281](https://www.beecrowd.com.br/repository/UOJ_1281.html) - [Ida à Feira](https://github.com/potigol/beecrowd/blob/master/src/1200/1281.poti)
+- [x]  [1303](https://www.beecrowd.com.br/repository/UOJ_1303.html) - [Spurs Rocks](https://github.com/potigol/beecrowd/blob/master/src/1300/1303.poti)
+- [x]  [1340](https://www.beecrowd.com.br/repository/UOJ_1340.html) - [Eu Posso Adivinhar a Estrutura de Dados!](https://github.com/potigol/beecrowd/blob/master/src/1300/1340.poti)
+- [x]  [1430](https://www.beecrowd.com.br/repository/UOJ_1430.html) - [Composição de Jingles](https://github.com/potigol/beecrowd/blob/master/src/1400/1430.poti)
+- [x]  [1548](https://www.beecrowd.com.br/repository/UOJ_1548.html) - [Fila do Recreio](https://github.com/potigol/beecrowd/blob/master/src/1500/1548.poti)
+- [x]  [1566](https://www.beecrowd.com.br/repository/UOJ_1566.html) - [Altura](https://github.com/potigol/beecrowd/blob/master/src/1500/1566.poti)
+- [x]  [1709](https://www.beecrowd.com.br/repository/UOJ_1709.html) - [Baralho Embaralhado](https://github.com/potigol/beecrowd/blob/master/src/1700/1709.poti)
+- [x]  [1763](https://www.beecrowd.com.br/repository/UOJ_1763.html) - [Tradutor do Papai Noel](https://github.com/potigol/beecrowd/blob/master/src/1700/1763.poti)
+- [x]  [1766](https://www.beecrowd.com.br/repository/UOJ_1766.html) - [O Elfo das Trevas](https://github.com/potigol/beecrowd/blob/master/src/1700/1766.poti)
+- [x]  [1944](https://www.beecrowd.com.br/repository/UOJ_1944.html) - [BRINDE FACE 2015](https://github.com/potigol/beecrowd/blob/master/src/1900/1944.poti)
+- [x]  [2018](https://www.beecrowd.com.br/repository/UOJ_2018.html) - [Olimpíadas de Natal](https://github.com/potigol/beecrowd/blob/master/src/2000/2018.poti)
+- [x]  [2091](https://www.beecrowd.com.br/repository/UOJ_2091.html) - [Número Solitário](https://github.com/potigol/beecrowd/blob/master/src/2000/2091.poti)
+- [x]  [2136](https://www.beecrowd.com.br/repository/UOJ_2136.html) - [Amigos do Habay](https://github.com/potigol/beecrowd/blob/master/src/2100/2136.poti)
+- [x]  [2290](https://www.beecrowd.com.br/repository/UOJ_2290.html) - [Números Apaixornados](https://github.com/potigol/beecrowd/blob/master/src/2200/2290.poti)
+- [x]  [2338](https://www.beecrowd.com.br/repository/UOJ_2338.html) - [Morse](https://github.com/potigol/beecrowd/blob/master/src/2300/2338.poti)
+- [x]  [2496](https://www.beecrowd.com.br/repository/UOJ_2496.html) - [A Única Chance](https://github.com/potigol/beecrowd/blob/master/src/2400/2496.poti)
+- [x]  [2593](https://www.beecrowd.com.br/repository/UOJ_2593.html) - [Eachianos I](https://github.com/potigol/beecrowd/blob/master/src/2500/2593.poti)
+- [x]  [2594](https://www.beecrowd.com.br/repository/UOJ_2594.html) - [Eachianos II](https://github.com/potigol/beecrowd/blob/master/src/2500/2594.poti)
+- [x]  [2633](https://www.beecrowd.com.br/repository/UOJ_2633.html) - [Churras no Yuri](https://github.com/potigol/beecrowd/blob/master/src/2600/2633.poti)
+- [x]  [2654](https://www.beecrowd.com.br/repository/UOJ_2654.html) - [Godofor](https://github.com/potigol/beecrowd/blob/master/src/2600/2654.poti)
+- [x]  [2693](https://www.beecrowd.com.br/repository/UOJ_2693.html) - [Van](https://github.com/potigol/beecrowd/blob/master/src/2600/2693.poti)
+- [x]  [2729](https://www.beecrowd.com.br/repository/UOJ_2729.html) - [Lista de Compras](https://github.com/potigol/beecrowd/blob/master/src/2700/2729.poti)
+- [x]  [2872](https://www.beecrowd.com.br/repository/UOJ_2872.html) - [Protocolo TCP/IP](https://github.com/potigol/beecrowd/blob/master/src/2800/2872.poti)
+- [x]  [2929](https://www.beecrowd.com.br/repository/UOJ_2929.html) - [Menor da Pilha](https://github.com/potigol/beecrowd/blob/master/src/2900/2929.poti)
+- [x]  [2958](https://www.beecrowd.com.br/repository/UOJ_2958.html) - [O Rolê Bad Vibes](https://github.com/potigol/beecrowd/blob/master/src/2900/2958.poti)
+- [x]  [2984](https://www.beecrowd.com.br/repository/UOJ_2984.html) - [Assuntos Pendentes](https://github.com/potigol/beecrowd/blob/master/src/2900/2984.poti)
+- [x]  [3139](https://www.beecrowd.com.br/repository/UOJ_3139.html) - [Buscando Novos Seguidores](https://github.com/potigol/beecrowd/blob/master/src/3100/3139.poti)
+- [x]  [3160](https://www.beecrowd.com.br/repository/UOJ_3160.html) - [Amigos](https://github.com/potigol/beecrowd/blob/master/src/3100/3160.poti)
+- [x]  [3163](https://www.beecrowd.com.br/repository/UOJ_3163.html) - [Controlador de Vôo](https://github.com/potigol/beecrowd/blob/master/src/3100/3163.poti)
+- [x]  [3171](https://www.beecrowd.com.br/repository/UOJ_3171.html) - [Cordão de Led](https://github.com/potigol/beecrowd/blob/master/src/3100/3171.poti)
+- [x]  [3176](https://www.beecrowd.com.br/repository/UOJ_3176.html) - [Time de Duendes](https://github.com/potigol/beecrowd/blob/master/src/3100/3176.poti)
+- [x]  [3357](https://www.beecrowd.com.br/repository/UOJ_3357.html) - [Rico do Mate](https://github.com/potigol/beecrowd/blob/master/src/3300/3357.poti)
 
 ## Problemas não resolvidos
 
-- [ ]  [1023](https://www.beecrowd.com.br/judge/pt/problems/view/1023) - Estiagem
-- [ ]  [1063](https://www.beecrowd.com.br/judge/pt/problems/view/1063) - Trilhos Novamente... Traçando Movimentos
-- [ ]  [1077](https://www.beecrowd.com.br/judge/pt/problems/view/1077) - Infixa para Posfixa
-- [ ]  [1083](https://www.beecrowd.com.br/judge/pt/problems/view/1083) - LEXSIM - Avaliador Lexico e Sintático
-- [ ]  [1088](https://www.beecrowd.com.br/judge/pt/problems/view/1088) - Bolhas e Baldes
-- [ ]  [1112](https://www.beecrowd.com.br/judge/pt/problems/view/1112) - Schweisen
-- [ ]  [1119](https://www.beecrowd.com.br/judge/pt/problems/view/1119) - A Fila de Desempregados
-- [ ]  [1167](https://www.beecrowd.com.br/judge/pt/problems/view/1167) - Acampamento de Férias
-- [ ]  [1211](https://www.beecrowd.com.br/judge/pt/problems/view/1211) - Lista Telefônica Econômica
-- [ ]  [1215](https://www.beecrowd.com.br/judge/pt/problems/view/1215) - Primeiro Dicionário de Andy
-- [ ]  [1236](https://www.beecrowd.com.br/judge/pt/problems/view/1236) - Compactação de Nulos e Brancos
-- [ ]  [1242](https://www.beecrowd.com.br/judge/pt/problems/view/1242) - Ácido Ribonucleico Alienígena
-- [ ]  [1252](https://www.beecrowd.com.br/judge/pt/problems/view/1252) - Sort! Sort!! e Sort!!!
-- [ ]  [1260](https://www.beecrowd.com.br/judge/pt/problems/view/1260) - Espécies de Madeira
-- [ ]  [1274](https://www.beecrowd.com.br/judge/pt/problems/view/1274) - P-Networks
-- [ ]  [1301](https://www.beecrowd.com.br/judge/pt/problems/view/1301) - Produto do Intervalo
-- [ ]  [1326](https://www.beecrowd.com.br/judge/pt/problems/view/1326) - Química
-- [ ]  [1356](https://www.beecrowd.com.br/judge/pt/problems/view/1356) - Júpiter Ataca!
-- [ ]  [1382](https://www.beecrowd.com.br/judge/pt/problems/view/1382) - Elementar, meu Caro Watson!
-- [ ]  [1388](https://www.beecrowd.com.br/judge/pt/problems/view/1388) - Onde Estão as Bolhas?
-- [ ]  [1401](https://www.beecrowd.com.br/judge/pt/problems/view/1401) - Gerando Permutações Ordenadas Rapidamente
-- [ ]  [1405](https://www.beecrowd.com.br/judge/pt/problems/view/1405) - O Problema da Parada
-- [ ]  [1424](https://www.beecrowd.com.br/judge/pt/problems/view/1424) - Problema Fácil de Rujia Liu?
-- [ ]  [1425](https://www.beecrowd.com.br/judge/pt/problems/view/1425) - Presente?!
-- [ ]  [1439](https://www.beecrowd.com.br/judge/pt/problems/view/1439) - Bora Bora
-- [ ]  [1449](https://www.beecrowd.com.br/judge/pt/problems/view/1449) - O Fantástico Jaspion
-- [ ]  [1451](https://www.beecrowd.com.br/judge/pt/problems/view/1451) - Teclado Quebrado
-- [ ]  [1452](https://www.beecrowd.com.br/judge/pt/problems/view/1452) - Gloud Computing
-- [ ]  [1477](https://www.beecrowd.com.br/judge/pt/problems/view/1477) - Homem, Elefante e Rato
-- [ ]  [1500](https://www.beecrowd.com.br/judge/pt/problems/view/1500) - Consultas Horríveis
-- [ ]  [1507](https://www.beecrowd.com.br/judge/pt/problems/view/1507) - Subsequências
-- [ ]  [1511](https://www.beecrowd.com.br/judge/pt/problems/view/1511) - Tabuleiro GCD
-- [ ]  [1520](https://www.beecrowd.com.br/judge/pt/problems/view/1520) - Parafusos e Porcas
-- [ ]  [1523](https://www.beecrowd.com.br/judge/pt/problems/view/1523) - Estacionamento Linear
-- [ ]  [1527](https://www.beecrowd.com.br/judge/pt/problems/view/1527) - Guildas
-- [ ]  [1535](https://www.beecrowd.com.br/judge/pt/problems/view/1535) - Números Casal-Solteirão-Solteirona
-- [ ]  [1538](https://www.beecrowd.com.br/judge/pt/problems/view/1538) - Sequência Alienígena
-- [ ]  [1587](https://www.beecrowd.com.br/judge/pt/problems/view/1587) - BIT Park
-- [ ]  [1594](https://www.beecrowd.com.br/judge/pt/problems/view/1594) - Guloso
-- [ ]  [1633](https://www.beecrowd.com.br/judge/pt/problems/view/1633) - SBC
-- [ ]  [1640](https://www.beecrowd.com.br/judge/pt/problems/view/1640) - Reservando Hotéis
-- [ ]  [1673](https://www.beecrowd.com.br/judge/pt/problems/view/1673) - Codificação Run-length
-- [ ]  [1683](https://www.beecrowd.com.br/judge/pt/problems/view/1683) - Maior Retângulo em um Histograma
-- [ ]  [1696](https://www.beecrowd.com.br/judge/pt/problems/view/1696) - Brincando Com Operadores
-- [ ]  [1701](https://www.beecrowd.com.br/judge/pt/problems/view/1701) - Sequência de Fibo
-- [ ]  [1704](https://www.beecrowd.com.br/judge/pt/problems/view/1704) - Arrumando as Tarefas
-- [ ]  [1725](https://www.beecrowd.com.br/judge/pt/problems/view/1725) - Quadtree II
-- [ ]  [1740](https://www.beecrowd.com.br/judge/pt/problems/view/1740) - Está Ordenado?
-- [ ]  [1746](https://www.beecrowd.com.br/judge/pt/problems/view/1746) - Dividindo os Nomes
-- [ ]  [1762](https://www.beecrowd.com.br/judge/pt/problems/view/1762) - Trenós do Papai Noel
-- [ ]  [1804](https://www.beecrowd.com.br/judge/pt/problems/view/1804) - Precisa-se de Matemáticos em Marte
-- [ ]  [1851](https://www.beecrowd.com.br/judge/pt/problems/view/1851) - Como Treinar Seu Dragão
-- [ ]  [1854](https://www.beecrowd.com.br/judge/pt/problems/view/1854) - Inverno em Winterfell
-- [ ]  [1856](https://www.beecrowd.com.br/judge/pt/problems/view/1856) - A Lista da Morte de Arya
-- [ ]  [1861](https://www.beecrowd.com.br/judge/pt/problems/view/1861) - O Hall dos Assassinos
-- [ ]  [1863](https://www.beecrowd.com.br/judge/pt/problems/view/1863) - O Contra-ataque de Ramsay
-- [ ]  [1874](https://www.beecrowd.com.br/judge/pt/problems/view/1874) - Empurrando Blocos
-- [ ]  [1897](https://www.beecrowd.com.br/judge/pt/problems/view/1897) - Jogo Esperto
-- [ ]  [1911](https://www.beecrowd.com.br/judge/pt/problems/view/1911) - Ajude Girafales
-- [ ]  [1975](https://www.beecrowd.com.br/judge/pt/problems/view/1975) - Pérolas
-- [ ]  [2020](https://www.beecrowd.com.br/judge/pt/problems/view/2020) - Elfos e seus Códigos
-- [ ]  [2022](https://www.beecrowd.com.br/judge/pt/problems/view/2022) - Presentes de Natal
-- [ ]  [2040](https://www.beecrowd.com.br/judge/pt/problems/view/2040) - O Campeão
-- [ ]  [2047](https://www.beecrowd.com.br/judge/pt/problems/view/2047) - Fly By Night
-- [ ]  [2064](https://www.beecrowd.com.br/judge/pt/problems/view/2064) - Prant e a Indecisão
-- [ ]  [2065](https://www.beecrowd.com.br/judge/pt/problems/view/2065) - Fila do Supermercado
-- [ ]  [2067](https://www.beecrowd.com.br/judge/pt/problems/view/2067) - Jogo do Quadrado
-- [ ]  [2071](https://www.beecrowd.com.br/judge/pt/problems/view/2071) - Banco do Faraó
-- [ ]  [2074](https://www.beecrowd.com.br/judge/pt/problems/view/2074) - Variados Pratos da Linda Nefertiti
-- [ ]  [2075](https://www.beecrowd.com.br/judge/pt/problems/view/2075) - Zé Coquinho
-- [ ]  [2077](https://www.beecrowd.com.br/judge/pt/problems/view/2077) - Los buses de Cartagena
-- [ ]  [2092](https://www.beecrowd.com.br/judge/pt/problems/view/2092) - Assistindo o Jogo
-- [ ]  [2110](https://www.beecrowd.com.br/judge/pt/problems/view/2110) - Banho de Sol no Jardim
-- [ ]  [2111](https://www.beecrowd.com.br/judge/pt/problems/view/2111) - Entendendo o Sorobov
-- [ ]  [2120](https://www.beecrowd.com.br/judge/pt/problems/view/2120) - Tutores
-- [ ]  [2122](https://www.beecrowd.com.br/judge/pt/problems/view/2122) - Votação em Ecaterimburgo
-- [ ]  [2185](https://www.beecrowd.com.br/judge/pt/problems/view/2185) - Brincando com Pomekons
-- [ ]  [2186](https://www.beecrowd.com.br/judge/pt/problems/view/2186) - Bino, Prant e a Indecisao
-- [ ]  [2223](https://www.beecrowd.com.br/judge/pt/problems/view/2223) - Inventário de Pomekon
-- [ ]  [2239](https://www.beecrowd.com.br/judge/pt/problems/view/2239) - Estatística Hexa
-- [ ]  [2240](https://www.beecrowd.com.br/judge/pt/problems/view/2240) - Fundindo Árvores
-- [ ]  [2241](https://www.beecrowd.com.br/judge/pt/problems/view/2241) - Go--
-- [ ]  [2370](https://www.beecrowd.com.br/judge/pt/problems/view/2370) - Times
-- [ ]  [2380](https://www.beecrowd.com.br/judge/pt/problems/view/2380) - Fusões
-- [ ]  [2482](https://www.beecrowd.com.br/judge/pt/problems/view/2482) - Etiquetas de Noel
-- [ ]  [2488](https://www.beecrowd.com.br/judge/pt/problems/view/2488) - É Na Batida do Cavalo!
-- [ ]  [2492](https://www.beecrowd.com.br/judge/pt/problems/view/2492) - Ilhas Isoladas
-- [ ]  [2495](https://www.beecrowd.com.br/judge/pt/problems/view/2495) - Onde Está Minha Caneta?
-- [ ]  [2503](https://www.beecrowd.com.br/judge/pt/problems/view/2503) - Corrida de Regularidade
-- [ ]  [2506](https://www.beecrowd.com.br/judge/pt/problems/view/2506) - Fila do SUS
-- [ ]  [2519](https://www.beecrowd.com.br/judge/pt/problems/view/2519) - Estratégia Campeã
-- [ ]  [2526](https://www.beecrowd.com.br/judge/pt/problems/view/2526) - Cardápio
-- [ ]  [2531](https://www.beecrowd.com.br/judge/pt/problems/view/2531) - Compras em FdI
-- [ ]  [2537](https://www.beecrowd.com.br/judge/pt/problems/view/2537) - GigaDrive
-- [ ]  [2538](https://www.beecrowd.com.br/judge/pt/problems/view/2538) - Ginásio
-- [ ]  [2539](https://www.beecrowd.com.br/judge/pt/problems/view/2539) - High Five
-- [ ]  [2546](https://www.beecrowd.com.br/judge/pt/problems/view/2546) - Mesada
-- [ ]  [2559](https://www.beecrowd.com.br/judge/pt/problems/view/2559) - Sexta-Feira 13
-- [ ]  [2560](https://www.beecrowd.com.br/judge/pt/problems/view/2560) - Surf Aquático
-- [ ]  [2655](https://www.beecrowd.com.br/judge/pt/problems/view/2655) - Trilha Perigosa
-- [ ]  [2656](https://www.beecrowd.com.br/judge/pt/problems/view/2656) - Rhombus
-- [ ]  [2658](https://www.beecrowd.com.br/judge/pt/problems/view/2658) - Acordes Intergaláticos
-- [ ]  [2671](https://www.beecrowd.com.br/judge/pt/problems/view/2671) - Decodificando o Texto
-- [ ]  [2698](https://www.beecrowd.com.br/judge/pt/problems/view/2698) - Dispositivo Assombrado
-- [ ]  [2700](https://www.beecrowd.com.br/judge/pt/problems/view/2700) - Angariando Fundos
-- [ ]  [2720](https://www.beecrowd.com.br/judge/pt/problems/view/2720) - Presentes Grandes
-- [ ]  [2734](https://www.beecrowd.com.br/judge/pt/problems/view/2734) - Trocando Presentes
-- [ ]  [2792](https://www.beecrowd.com.br/judge/pt/problems/view/2792) - Golnaldinho
-- [ ]  [2800](https://www.beecrowd.com.br/judge/pt/problems/view/2800) - Brincando de Consultas
-- [ ]  [2805](https://www.beecrowd.com.br/judge/pt/problems/view/2805) - Binarizando a Matriz
-- [ ]  [2821](https://www.beecrowd.com.br/judge/pt/problems/view/2821) - Distribuição de Cartas
-- [ ]  [2848](https://www.beecrowd.com.br/judge/pt/problems/view/2848) - Rangel e o Jogo do Vetor I
-- [ ]  [2849](https://www.beecrowd.com.br/judge/pt/problems/view/2849) - Rangel e o Jogo do Vetor II
-- [ ]  [2855](https://www.beecrowd.com.br/judge/pt/problems/view/2855) - Números de Sorte
-- [ ]  [2857](https://www.beecrowd.com.br/judge/pt/problems/view/2857) - Fluxo nos Vagões
-- [ ]  [2860](https://www.beecrowd.com.br/judge/pt/problems/view/2860) - A Paz em Spar-Ta
-- [ ]  [2889](https://www.beecrowd.com.br/judge/pt/problems/view/2889) - O Tasco é Sempre Vice!
-- [ ]  [2893](https://www.beecrowd.com.br/judge/pt/problems/view/2893) - Fibonac^{k}i
-- [ ]  [2916](https://www.beecrowd.com.br/judge/pt/problems/view/2916) - A Nota
-- [ ]  [2952](https://www.beecrowd.com.br/judge/pt/problems/view/2952) - A Vida Sustentável
-- [ ]  [2961](https://www.beecrowd.com.br/judge/pt/problems/view/2961) - Ô, Que Tanto de Filme!
-- [ ]  [3045](https://www.beecrowd.com.br/judge/pt/problems/view/3045) - Parque Jurássico
-- [ ]  [3069](https://www.beecrowd.com.br/judge/pt/problems/view/3069) - Sorvete
-- [ ]  [3097](https://www.beecrowd.com.br/judge/pt/problems/view/3097) - Um Desafio Simples
-- [ ]  [3148](https://www.beecrowd.com.br/judge/pt/problems/view/3148) - O Jardim
-- [ ]  [3149](https://www.beecrowd.com.br/judge/pt/problems/view/3149) - A Noiva do Trevo
-- [ ]  [3155](https://www.beecrowd.com.br/judge/pt/problems/view/3155) - Sócrates e suas Perguntas
-- [ ]  [3186](https://www.beecrowd.com.br/judge/pt/problems/view/3186) - Cache Introspectivo
-- [ ]  [3190](https://www.beecrowd.com.br/judge/pt/problems/view/3190) - Optimal Parking
-- [ ]  [3201](https://www.beecrowd.com.br/judge/pt/problems/view/3201) - Traveling Salesman
-- [ ]  [3207](https://www.beecrowd.com.br/judge/pt/problems/view/3207) - Jogos Divertidos
-- [ ]  [3210](https://www.beecrowd.com.br/judge/pt/problems/view/3210) - O Pior Clima de Todos
-- [ ]  [3239](https://www.beecrowd.com.br/judge/pt/problems/view/3239) - Dirty Driving
-- [ ]  [3248](https://www.beecrowd.com.br/judge/pt/problems/view/3248) - Mega Inversões
+- [ ]  [1023](https://www.beecrowd.com.br/repository/UOJ_1023.html) - Estiagem
+- [ ]  [1063](https://www.beecrowd.com.br/repository/UOJ_1063.html) - Trilhos Novamente... Traçando Movimentos
+- [ ]  [1077](https://www.beecrowd.com.br/repository/UOJ_1077.html) - Infixa para Posfixa
+- [ ]  [1083](https://www.beecrowd.com.br/repository/UOJ_1083.html) - LEXSIM - Avaliador Lexico e Sintático
+- [ ]  [1088](https://www.beecrowd.com.br/repository/UOJ_1088.html) - Bolhas e Baldes
+- [ ]  [1112](https://www.beecrowd.com.br/repository/UOJ_1112.html) - Schweisen
+- [ ]  [1119](https://www.beecrowd.com.br/repository/UOJ_1119.html) - A Fila de Desempregados
+- [ ]  [1167](https://www.beecrowd.com.br/repository/UOJ_1167.html) - Acampamento de Férias
+- [ ]  [1211](https://www.beecrowd.com.br/repository/UOJ_1211.html) - Lista Telefônica Econômica
+- [ ]  [1215](https://www.beecrowd.com.br/repository/UOJ_1215.html) - Primeiro Dicionário de Andy
+- [ ]  [1236](https://www.beecrowd.com.br/repository/UOJ_1236.html) - Compactação de Nulos e Brancos
+- [ ]  [1242](https://www.beecrowd.com.br/repository/UOJ_1242.html) - Ácido Ribonucleico Alienígena
+- [ ]  [1252](https://www.beecrowd.com.br/repository/UOJ_1252.html) - Sort! Sort!! e Sort!!!
+- [ ]  [1260](https://www.beecrowd.com.br/repository/UOJ_1260.html) - Espécies de Madeira
+- [ ]  [1274](https://www.beecrowd.com.br/repository/UOJ_1274.html) - P-Networks
+- [ ]  [1301](https://www.beecrowd.com.br/repository/UOJ_1301.html) - Produto do Intervalo
+- [ ]  [1326](https://www.beecrowd.com.br/repository/UOJ_1326.html) - Química
+- [ ]  [1356](https://www.beecrowd.com.br/repository/UOJ_1356.html) - Júpiter Ataca!
+- [ ]  [1382](https://www.beecrowd.com.br/repository/UOJ_1382.html) - Elementar, meu Caro Watson!
+- [ ]  [1388](https://www.beecrowd.com.br/repository/UOJ_1388.html) - Onde Estão as Bolhas?
+- [ ]  [1401](https://www.beecrowd.com.br/repository/UOJ_1401.html) - Gerando Permutações Ordenadas Rapidamente
+- [ ]  [1405](https://www.beecrowd.com.br/repository/UOJ_1405.html) - O Problema da Parada
+- [ ]  [1424](https://www.beecrowd.com.br/repository/UOJ_1424.html) - Problema Fácil de Rujia Liu?
+- [ ]  [1425](https://www.beecrowd.com.br/repository/UOJ_1425.html) - Presente?!
+- [ ]  [1439](https://www.beecrowd.com.br/repository/UOJ_1439.html) - Bora Bora
+- [ ]  [1449](https://www.beecrowd.com.br/repository/UOJ_1449.html) - O Fantástico Jaspion
+- [ ]  [1451](https://www.beecrowd.com.br/repository/UOJ_1451.html) - Teclado Quebrado
+- [ ]  [1452](https://www.beecrowd.com.br/repository/UOJ_1452.html) - Gloud Computing
+- [ ]  [1477](https://www.beecrowd.com.br/repository/UOJ_1477.html) - Homem, Elefante e Rato
+- [ ]  [1500](https://www.beecrowd.com.br/repository/UOJ_1500.html) - Consultas Horríveis
+- [ ]  [1507](https://www.beecrowd.com.br/repository/UOJ_1507.html) - Subsequências
+- [ ]  [1511](https://www.beecrowd.com.br/repository/UOJ_1511.html) - Tabuleiro GCD
+- [ ]  [1520](https://www.beecrowd.com.br/repository/UOJ_1520.html) - Parafusos e Porcas
+- [ ]  [1523](https://www.beecrowd.com.br/repository/UOJ_1523.html) - Estacionamento Linear
+- [ ]  [1527](https://www.beecrowd.com.br/repository/UOJ_1527.html) - Guildas
+- [ ]  [1535](https://www.beecrowd.com.br/repository/UOJ_1535.html) - Números Casal-Solteirão-Solteirona
+- [ ]  [1538](https://www.beecrowd.com.br/repository/UOJ_1538.html) - Sequência Alienígena
+- [ ]  [1587](https://www.beecrowd.com.br/repository/UOJ_1587.html) - BIT Park
+- [ ]  [1594](https://www.beecrowd.com.br/repository/UOJ_1594.html) - Guloso
+- [ ]  [1633](https://www.beecrowd.com.br/repository/UOJ_1633.html) - SBC
+- [ ]  [1640](https://www.beecrowd.com.br/repository/UOJ_1640.html) - Reservando Hotéis
+- [ ]  [1673](https://www.beecrowd.com.br/repository/UOJ_1673.html) - Codificação Run-length
+- [ ]  [1683](https://www.beecrowd.com.br/repository/UOJ_1683.html) - Maior Retângulo em um Histograma
+- [ ]  [1696](https://www.beecrowd.com.br/repository/UOJ_1696.html) - Brincando Com Operadores
+- [ ]  [1701](https://www.beecrowd.com.br/repository/UOJ_1701.html) - Sequência de Fibo
+- [ ]  [1704](https://www.beecrowd.com.br/repository/UOJ_1704.html) - Arrumando as Tarefas
+- [ ]  [1725](https://www.beecrowd.com.br/repository/UOJ_1725.html) - Quadtree II
+- [ ]  [1740](https://www.beecrowd.com.br/repository/UOJ_1740.html) - Está Ordenado?
+- [ ]  [1746](https://www.beecrowd.com.br/repository/UOJ_1746.html) - Dividindo os Nomes
+- [ ]  [1762](https://www.beecrowd.com.br/repository/UOJ_1762.html) - Trenós do Papai Noel
+- [ ]  [1804](https://www.beecrowd.com.br/repository/UOJ_1804.html) - Precisa-se de Matemáticos em Marte
+- [ ]  [1851](https://www.beecrowd.com.br/repository/UOJ_1851.html) - Como Treinar Seu Dragão
+- [ ]  [1854](https://www.beecrowd.com.br/repository/UOJ_1854.html) - Inverno em Winterfell
+- [ ]  [1856](https://www.beecrowd.com.br/repository/UOJ_1856.html) - A Lista da Morte de Arya
+- [ ]  [1861](https://www.beecrowd.com.br/repository/UOJ_1861.html) - O Hall dos Assassinos
+- [ ]  [1863](https://www.beecrowd.com.br/repository/UOJ_1863.html) - O Contra-ataque de Ramsay
+- [ ]  [1874](https://www.beecrowd.com.br/repository/UOJ_1874.html) - Empurrando Blocos
+- [ ]  [1897](https://www.beecrowd.com.br/repository/UOJ_1897.html) - Jogo Esperto
+- [ ]  [1911](https://www.beecrowd.com.br/repository/UOJ_1911.html) - Ajude Girafales
+- [ ]  [1975](https://www.beecrowd.com.br/repository/UOJ_1975.html) - Pérolas
+- [ ]  [2020](https://www.beecrowd.com.br/repository/UOJ_2020.html) - Elfos e seus Códigos
+- [ ]  [2022](https://www.beecrowd.com.br/repository/UOJ_2022.html) - Presentes de Natal
+- [ ]  [2040](https://www.beecrowd.com.br/repository/UOJ_2040.html) - O Campeão
+- [ ]  [2047](https://www.beecrowd.com.br/repository/UOJ_2047.html) - Fly By Night
+- [ ]  [2064](https://www.beecrowd.com.br/repository/UOJ_2064.html) - Prant e a Indecisão
+- [ ]  [2065](https://www.beecrowd.com.br/repository/UOJ_2065.html) - Fila do Supermercado
+- [ ]  [2067](https://www.beecrowd.com.br/repository/UOJ_2067.html) - Jogo do Quadrado
+- [ ]  [2071](https://www.beecrowd.com.br/repository/UOJ_2071.html) - Banco do Faraó
+- [ ]  [2074](https://www.beecrowd.com.br/repository/UOJ_2074.html) - Variados Pratos da Linda Nefertiti
+- [ ]  [2075](https://www.beecrowd.com.br/repository/UOJ_2075.html) - Zé Coquinho
+- [ ]  [2077](https://www.beecrowd.com.br/repository/UOJ_2077.html) - Los buses de Cartagena
+- [ ]  [2092](https://www.beecrowd.com.br/repository/UOJ_2092.html) - Assistindo o Jogo
+- [ ]  [2110](https://www.beecrowd.com.br/repository/UOJ_2110.html) - Banho de Sol no Jardim
+- [ ]  [2111](https://www.beecrowd.com.br/repository/UOJ_2111.html) - Entendendo o Sorobov
+- [ ]  [2120](https://www.beecrowd.com.br/repository/UOJ_2120.html) - Tutores
+- [ ]  [2122](https://www.beecrowd.com.br/repository/UOJ_2122.html) - Votação em Ecaterimburgo
+- [ ]  [2185](https://www.beecrowd.com.br/repository/UOJ_2185.html) - Brincando com Pomekons
+- [ ]  [2186](https://www.beecrowd.com.br/repository/UOJ_2186.html) - Bino, Prant e a Indecisao
+- [ ]  [2223](https://www.beecrowd.com.br/repository/UOJ_2223.html) - Inventário de Pomekon
+- [ ]  [2239](https://www.beecrowd.com.br/repository/UOJ_2239.html) - Estatística Hexa
+- [ ]  [2240](https://www.beecrowd.com.br/repository/UOJ_2240.html) - Fundindo Árvores
+- [ ]  [2241](https://www.beecrowd.com.br/repository/UOJ_2241.html) - Go--
+- [ ]  [2370](https://www.beecrowd.com.br/repository/UOJ_2370.html) - Times
+- [ ]  [2380](https://www.beecrowd.com.br/repository/UOJ_2380.html) - Fusões
+- [ ]  [2482](https://www.beecrowd.com.br/repository/UOJ_2482.html) - Etiquetas de Noel
+- [ ]  [2488](https://www.beecrowd.com.br/repository/UOJ_2488.html) - É Na Batida do Cavalo!
+- [ ]  [2492](https://www.beecrowd.com.br/repository/UOJ_2492.html) - Ilhas Isoladas
+- [ ]  [2495](https://www.beecrowd.com.br/repository/UOJ_2495.html) - Onde Está Minha Caneta?
+- [ ]  [2503](https://www.beecrowd.com.br/repository/UOJ_2503.html) - Corrida de Regularidade
+- [ ]  [2506](https://www.beecrowd.com.br/repository/UOJ_2506.html) - Fila do SUS
+- [ ]  [2519](https://www.beecrowd.com.br/repository/UOJ_2519.html) - Estratégia Campeã
+- [ ]  [2526](https://www.beecrowd.com.br/repository/UOJ_2526.html) - Cardápio
+- [ ]  [2531](https://www.beecrowd.com.br/repository/UOJ_2531.html) - Compras em FdI
+- [ ]  [2537](https://www.beecrowd.com.br/repository/UOJ_2537.html) - GigaDrive
+- [ ]  [2538](https://www.beecrowd.com.br/repository/UOJ_2538.html) - Ginásio
+- [ ]  [2539](https://www.beecrowd.com.br/repository/UOJ_2539.html) - High Five
+- [ ]  [2546](https://www.beecrowd.com.br/repository/UOJ_2546.html) - Mesada
+- [ ]  [2559](https://www.beecrowd.com.br/repository/UOJ_2559.html) - Sexta-Feira 13
+- [ ]  [2560](https://www.beecrowd.com.br/repository/UOJ_2560.html) - Surf Aquático
+- [ ]  [2655](https://www.beecrowd.com.br/repository/UOJ_2655.html) - Trilha Perigosa
+- [ ]  [2656](https://www.beecrowd.com.br/repository/UOJ_2656.html) - Rhombus
+- [ ]  [2658](https://www.beecrowd.com.br/repository/UOJ_2658.html) - Acordes Intergaláticos
+- [ ]  [2671](https://www.beecrowd.com.br/repository/UOJ_2671.html) - Decodificando o Texto
+- [ ]  [2698](https://www.beecrowd.com.br/repository/UOJ_2698.html) - Dispositivo Assombrado
+- [ ]  [2700](https://www.beecrowd.com.br/repository/UOJ_2700.html) - Angariando Fundos
+- [ ]  [2720](https://www.beecrowd.com.br/repository/UOJ_2720.html) - Presentes Grandes
+- [ ]  [2734](https://www.beecrowd.com.br/repository/UOJ_2734.html) - Trocando Presentes
+- [ ]  [2792](https://www.beecrowd.com.br/repository/UOJ_2792.html) - Golnaldinho
+- [ ]  [2800](https://www.beecrowd.com.br/repository/UOJ_2800.html) - Brincando de Consultas
+- [ ]  [2805](https://www.beecrowd.com.br/repository/UOJ_2805.html) - Binarizando a Matriz
+- [ ]  [2821](https://www.beecrowd.com.br/repository/UOJ_2821.html) - Distribuição de Cartas
+- [ ]  [2848](https://www.beecrowd.com.br/repository/UOJ_2848.html) - Rangel e o Jogo do Vetor I
+- [ ]  [2849](https://www.beecrowd.com.br/repository/UOJ_2849.html) - Rangel e o Jogo do Vetor II
+- [ ]  [2855](https://www.beecrowd.com.br/repository/UOJ_2855.html) - Números de Sorte
+- [ ]  [2857](https://www.beecrowd.com.br/repository/UOJ_2857.html) - Fluxo nos Vagões
+- [ ]  [2860](https://www.beecrowd.com.br/repository/UOJ_2860.html) - A Paz em Spar-Ta
+- [ ]  [2889](https://www.beecrowd.com.br/repository/UOJ_2889.html) - O Tasco é Sempre Vice!
+- [ ]  [2893](https://www.beecrowd.com.br/repository/UOJ_2893.html) - Fibonac^{k}i
+- [ ]  [2916](https://www.beecrowd.com.br/repository/UOJ_2916.html) - A Nota
+- [ ]  [2952](https://www.beecrowd.com.br/repository/UOJ_2952.html) - A Vida Sustentável
+- [ ]  [2961](https://www.beecrowd.com.br/repository/UOJ_2961.html) - Ô, Que Tanto de Filme!
+- [ ]  [3045](https://www.beecrowd.com.br/repository/UOJ_3045.html) - Parque Jurássico
+- [ ]  [3069](https://www.beecrowd.com.br/repository/UOJ_3069.html) - Sorvete
+- [ ]  [3097](https://www.beecrowd.com.br/repository/UOJ_3097.html) - Um Desafio Simples
+- [ ]  [3148](https://www.beecrowd.com.br/repository/UOJ_3148.html) - O Jardim
+- [ ]  [3149](https://www.beecrowd.com.br/repository/UOJ_3149.html) - A Noiva do Trevo
+- [ ]  [3155](https://www.beecrowd.com.br/repository/UOJ_3155.html) - Sócrates e suas Perguntas
+- [ ]  [3186](https://www.beecrowd.com.br/repository/UOJ_3186.html) - Cache Introspectivo
+- [ ]  [3190](https://www.beecrowd.com.br/repository/UOJ_3190.html) - Optimal Parking
+- [ ]  [3201](https://www.beecrowd.com.br/repository/UOJ_3201.html) - Traveling Salesman
+- [ ]  [3207](https://www.beecrowd.com.br/repository/UOJ_3207.html) - Jogos Divertidos
+- [ ]  [3210](https://www.beecrowd.com.br/repository/UOJ_3210.html) - O Pior Clima de Todos
+- [ ]  [3239](https://www.beecrowd.com.br/repository/UOJ_3239.html) - Dirty Driving
+- [ ]  [3248](https://www.beecrowd.com.br/repository/UOJ_3248.html) - Mega Inversões

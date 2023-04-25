@@ -4,24 +4,24 @@
 
 ## Problemas resolvidos
 
-- [x]  [1138](https://www.beecrowd.com.br/judge/pt/problems/view/1138) - [Contagem de Dígitos](https://github.com/potigol/beecrowd/blob/master/src/1100/1138.poti)
-- [x]  [1323](https://www.beecrowd.com.br/judge/pt/problems/view/1323) - [Feynman](https://github.com/potigol/beecrowd/blob/master/src/1300/1323.poti)
-- [x]  [1393](https://www.beecrowd.com.br/judge/pt/problems/view/1393) - [Lajotas Hexagonais](https://github.com/potigol/beecrowd/blob/master/src/1300/1393.poti)
-- [x]  [1429](https://www.beecrowd.com.br/judge/pt/problems/view/1429) - [Fatorial de Novo!](https://github.com/potigol/beecrowd/blob/master/src/1400/1429.poti)
+- [x]  [1138](https://www.beecrowd.com.br/repository/UOJ_1138.html) - [Contagem de Dígitos](https://github.com/potigol/beecrowd/blob/master/src/1100/1138.poti)
+- [x]  [1323](https://www.beecrowd.com.br/repository/UOJ_1323.html) - [Feynman](https://github.com/potigol/beecrowd/blob/master/src/1300/1323.poti)
+- [x]  [1393](https://www.beecrowd.com.br/repository/UOJ_1393.html) - [Lajotas Hexagonais](https://github.com/potigol/beecrowd/blob/master/src/1300/1393.poti)
+- [x]  [1429](https://www.beecrowd.com.br/repository/UOJ_1429.html) - [Fatorial de Novo!](https://github.com/potigol/beecrowd/blob/master/src/1400/1429.poti)
 
 ## Problemas não resolvidos
 
-- [ ]  [1297](https://www.beecrowd.com.br/judge/pt/problems/view/1297) - Proteção do Meio Ambiente
-- [ ]  [1324](https://www.beecrowd.com.br/judge/pt/problems/view/1324) - Bóson de Higgs
-- [ ]  [1346](https://www.beecrowd.com.br/judge/pt/problems/view/1346) - Brincadeira de Criança
-- [ ]  [1347](https://www.beecrowd.com.br/judge/pt/problems/view/1347) - Mina Kriptonita
-- [ ]  [1352](https://www.beecrowd.com.br/judge/pt/problems/view/1352) - Loteria Quadrada
-- [ ]  [1376](https://www.beecrowd.com.br/judge/pt/problems/view/1376) - Irmãos
-- [ ]  [1390](https://www.beecrowd.com.br/judge/pt/problems/view/1390) - Bases
-- [ ]  [1392](https://www.beecrowd.com.br/judge/pt/problems/view/1392) - Conta de Luz
-- [ ]  [1433](https://www.beecrowd.com.br/judge/pt/problems/view/1433) - O Clube da Divisão
-- [ ]  [1481](https://www.beecrowd.com.br/judge/pt/problems/view/1481) - A Fazenda de Ostras de Zing Zhu
-- [ ]  [1492](https://www.beecrowd.com.br/judge/pt/problems/view/1492) - Contando Uns
-- [ ]  [1745](https://www.beecrowd.com.br/judge/pt/problems/view/1745) - Contando Substhreengs
-- [ ]  [2007](https://www.beecrowd.com.br/judge/pt/problems/view/2007) - Falha Ao Cercar Legumes
-- [ ]  [2903](https://www.beecrowd.com.br/judge/pt/problems/view/2903) - A Symmetrical Pizza
+- [ ]  [1297](https://www.beecrowd.com.br/repository/UOJ_1297.html) - Proteção do Meio Ambiente
+- [ ]  [1324](https://www.beecrowd.com.br/repository/UOJ_1324.html) - Bóson de Higgs
+- [ ]  [1346](https://www.beecrowd.com.br/repository/UOJ_1346.html) - Brincadeira de Criança
+- [ ]  [1347](https://www.beecrowd.com.br/repository/UOJ_1347.html) - Mina Kriptonita
+- [ ]  [1352](https://www.beecrowd.com.br/repository/UOJ_1352.html) - Loteria Quadrada
+- [ ]  [1376](https://www.beecrowd.com.br/repository/UOJ_1376.html) - Irmãos
+- [ ]  [1390](https://www.beecrowd.com.br/repository/UOJ_1390.html) - Bases
+- [ ]  [1392](https://www.beecrowd.com.br/repository/UOJ_1392.html) - Conta de Luz
+- [ ]  [1433](https://www.beecrowd.com.br/repository/UOJ_1433.html) - O Clube da Divisão
+- [ ]  [1481](https://www.beecrowd.com.br/repository/UOJ_1481.html) - A Fazenda de Ostras de Zing Zhu
+- [ ]  [1492](https://www.beecrowd.com.br/repository/UOJ_1492.html) - Contando Uns
+- [ ]  [1745](https://www.beecrowd.com.br/repository/UOJ_1745.html) - Contando Substhreengs
+- [ ]  [2007](https://www.beecrowd.com.br/repository/UOJ_2007.html) - Falha Ao Cercar Legumes
+- [ ]  [2903](https://www.beecrowd.com.br/repository/UOJ_2903.html) - A Symmetrical Pizza

@@ -75,9 +75,9 @@ def line(problem: Option[Problem], showCategory: Boolean = true) =
 //    case Some(p) if p.category == "SQL" =>
 //      s"- [ ]  ~~${p.number}~~ - *${p.category}*"
     case Some(p) if (check(extension)(p.number)) =>
-      s"- [x]  [${p.number}](${prefix}/${p.number}) - [${p.name}](${code}/${dir(p.number)}/${p.number}.${extension}) *${if(showCategory) p.category else " "}*"
+      s"- [x]  [${p.number}](${prefix}${p.number}.html) - [${p.name}](${code}/${dir(p.number)}/${p.number}.${extension}) *${if(showCategory) p.category else " "}*"
     case Some(p) =>
-      s"- [ ]  [${p.number}](${prefix}/${p.number}) - ${p.name} *${if(showCategory) p.category else " "}*"
+      s"- [ ]  [${p.number}](${prefix}${p.number}.html) - ${p.name} *${if(showCategory) p.category else " "}*"
 
 val config = {
   for l <- io.Source.fromFile("config.txt").getLines()
@@ -110,11 +110,11 @@ def listaCategoria(problems: Map[Int, Problem], path: String = "../categorias/")
 
     val (f, g) = bd.partition(p => check(extension)(p.number))
     val resolvidos = f.map {p =>
-      s"- [x]  [${p.number}](${prefix}/${p.number}) - [${p.name}](${code}/${dir(p.number)}/${p.number}.${extension})"
+      s"- [x]  [${p.number}](${prefix}${p.number}.html) - [${p.name}](${code}/${dir(p.number)}/${p.number}.${extension})"
     }.sorted
 
     val naoresolvidos = g.map {p =>
-      s"- [ ]  [${p.number}](${prefix}/${p.number}) - ${p.name}"
+      s"- [ ]  [${p.number}](${prefix}${p.number}.html) - ${p.name}"
     }.sorted
 
     val h = ("\n\n## Problemas resolvidos\n" :: resolvidos).mkString("\n") +

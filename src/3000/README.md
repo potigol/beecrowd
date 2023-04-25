@@ -1,102 +1,102 @@
 # Problemas 3000 (33%)
 
 - [ ] ~~xxxx~~
-- [ ]  [3001](https://www.beecrowd.com.br/judge/pt/problems/view/3001) - Update sem Where *SQL*
-- [ ]  [3002](https://www.beecrowd.com.br/judge/pt/problems/view/3002) - Salve a Lilly! *Matemática*
-- [ ]  [3003](https://www.beecrowd.com.br/judge/pt/problems/view/3003) - O Grupinho *Grafos*
-- [x]  [3004](https://www.beecrowd.com.br/judge/pt/problems/view/3004) - [Envelopes](https://github.com/potigol/beecrowd/blob/master/src/3000/3004.poti) *Matemática*
-- [x]  [3005](https://www.beecrowd.com.br/judge/pt/problems/view/3005) - [Pilhas de Paralelepípedos](https://github.com/potigol/beecrowd/blob/master/src/3000/3005.poti) *Ad-Hoc*
-- [ ]  [3006](https://www.beecrowd.com.br/judge/pt/problems/view/3006) - Passeio em Copacabana *Ad-Hoc*
-- [ ]  [3007](https://www.beecrowd.com.br/judge/pt/problems/view/3007) - Lucas e Frobenius *Matemática*
-- [ ]  [3008](https://www.beecrowd.com.br/judge/pt/problems/view/3008) - Numeração com Fósforos *Ad-Hoc*
-- [ ]  [3009](https://www.beecrowd.com.br/judge/pt/problems/view/3009) - Dominós *Ad-Hoc*
-- [ ]  [3010](https://www.beecrowd.com.br/judge/pt/problems/view/3010) - Binários Ambíguos *Ad-Hoc*
-- [ ]  [3011](https://www.beecrowd.com.br/judge/pt/problems/view/3011) - Quebra-Cabeça Algébrico *Ad-Hoc*
-- [ ]  [3012](https://www.beecrowd.com.br/judge/pt/problems/view/3012) - Algorithm Teaching *Ad-Hoc*
-- [ ]  [3013](https://www.beecrowd.com.br/judge/pt/problems/view/3013) - Build the Perfect House *Ad-Hoc*
-- [ ]  [3014](https://www.beecrowd.com.br/judge/pt/problems/view/3014) - Cut Inequality Down *Ad-Hoc*
-- [ ]  [3015](https://www.beecrowd.com.br/judge/pt/problems/view/3015) - Dazzling Stars *Ad-Hoc*
-- [ ]  [3016](https://www.beecrowd.com.br/judge/pt/problems/view/3016) - Eggfruit Cake *Ad-Hoc*
-- [ ]  [3017](https://www.beecrowd.com.br/judge/pt/problems/view/3017) - Fabricating Sculptures *Ad-Hoc*
-- [ ]  [3018](https://www.beecrowd.com.br/judge/pt/problems/view/3018) - Gluing Pictures *Ad-Hoc*
-- [ ]  [3019](https://www.beecrowd.com.br/judge/pt/problems/view/3019) - Hold or Continue? *Ad-Hoc*
-- [ ]  [3020](https://www.beecrowd.com.br/judge/pt/problems/view/3020) - Improve SPAM *Ad-Hoc*
-- [ ]  [3021](https://www.beecrowd.com.br/judge/pt/problems/view/3021) - Jumping Grasshopper *Ad-Hoc*
-- [ ]  [3022](https://www.beecrowd.com.br/judge/pt/problems/view/3022) - Know your Aliens *Ad-Hoc*
-- [ ]  [3023](https://www.beecrowd.com.br/judge/pt/problems/view/3023) - Leverage MDT *Ad-Hoc*
-- [x]  [3024](https://www.beecrowd.com.br/judge/pt/problems/view/3024) - [Mountain Ranges](https://github.com/potigol/beecrowd/blob/master/src/3000/3024.poti) *Ad-Hoc*
-- [ ]  [3025](https://www.beecrowd.com.br/judge/pt/problems/view/3025) - Coletor *Ad-Hoc*
-- [ ]  [3026](https://www.beecrowd.com.br/judge/pt/problems/view/3026) - Número Inteiro Periódico *Matemática*
-- [ ]  [3027](https://www.beecrowd.com.br/judge/pt/problems/view/3027) - Plano de Treino *Grafos*
-- [ ]  [3028](https://www.beecrowd.com.br/judge/pt/problems/view/3028) - Bubble Reactor *Grafos*
-- [ ]  [3029](https://www.beecrowd.com.br/judge/pt/problems/view/3029) - Função Composição *Matemática*
-- [ ]  [3030](https://www.beecrowd.com.br/judge/pt/problems/view/3030) - Transformadores de Salto *Ad-Hoc*
-- [ ]  [3031](https://www.beecrowd.com.br/judge/pt/problems/view/3031) - Xor Spanning Tree *Grafos*
-- [ ]  [3032](https://www.beecrowd.com.br/judge/pt/problems/view/3032) - Tuplas do Produto *Ad-Hoc*
-- [ ]  [3033](https://www.beecrowd.com.br/judge/pt/problems/view/3033) - Ajude Maria *Ad-Hoc*
-- [x]  [3034](https://www.beecrowd.com.br/judge/pt/problems/view/3034) - [O Caso Douglas](https://github.com/potigol/beecrowd/blob/master/src/3000/3034.poti) *Ad-Hoc*
-- [ ]  [3035](https://www.beecrowd.com.br/judge/pt/problems/view/3035) - Fabrica de Peças *Ad-Hoc*
-- [x]  [3036](https://www.beecrowd.com.br/judge/pt/problems/view/3036) - [Cor da Camisa](https://github.com/potigol/beecrowd/blob/master/src/3000/3036.poti) *Matemática*
-- [x]  [3037](https://www.beecrowd.com.br/judge/pt/problems/view/3037) - [Jogando Dardos Por Distância](https://github.com/potigol/beecrowd/blob/master/src/3000/3037.poti) *Iniciante*
-- [x]  [3038](https://www.beecrowd.com.br/judge/pt/problems/view/3038) - [Carta de Natal Criptografada](https://github.com/potigol/beecrowd/blob/master/src/3000/3038.poti) *Strings*
-- [x]  [3039](https://www.beecrowd.com.br/judge/pt/problems/view/3039) - [Brinquedos do Papai Noel](https://github.com/potigol/beecrowd/blob/master/src/3000/3039.poti) *Iniciante*
-- [x]  [3040](https://www.beecrowd.com.br/judge/pt/problems/view/3040) - [A Árvore de Natal](https://github.com/potigol/beecrowd/blob/master/src/3000/3040.poti) *Iniciante*
-- [ ]  [3041](https://www.beecrowd.com.br/judge/pt/problems/view/3041) - Distribuição de Artigos *Ad-Hoc*
-- [x]  [3042](https://www.beecrowd.com.br/judge/pt/problems/view/3042) - [Desviando de Árvores de Natal](https://github.com/potigol/beecrowd/blob/master/src/3000/3042.poti) *Iniciante*
-- [x]  [3043](https://www.beecrowd.com.br/judge/pt/problems/view/3043) - [Festa Junina](https://github.com/potigol/beecrowd/blob/master/src/3000/3043.poti) *Grafos*
-- [ ]  [3044](https://www.beecrowd.com.br/judge/pt/problems/view/3044) - Manutenção *Grafos*
-- [ ]  [3045](https://www.beecrowd.com.br/judge/pt/problems/view/3045) - Parque Jurássico *Estruturas e Bibliotecas*
-- [x]  [3046](https://www.beecrowd.com.br/judge/pt/problems/view/3046) - [Dominó](https://github.com/potigol/beecrowd/blob/master/src/3000/3046.poti) *Iniciante*
-- [x]  [3047](https://www.beecrowd.com.br/judge/pt/problems/view/3047) - [A idade de Dona Mônica](https://github.com/potigol/beecrowd/blob/master/src/3000/3047.poti) *Iniciante*
-- [x]  [3048](https://www.beecrowd.com.br/judge/pt/problems/view/3048) - [Sequência Secreta](https://github.com/potigol/beecrowd/blob/master/src/3000/3048.poti) *Ad-Hoc*
-- [x]  [3049](https://www.beecrowd.com.br/judge/pt/problems/view/3049) - [Nota Cortada](https://github.com/potigol/beecrowd/blob/master/src/3000/3049.poti) *Matemática*
-- [x]  [3050](https://www.beecrowd.com.br/judge/pt/problems/view/3050) - [Distância Entre Amigos](https://github.com/potigol/beecrowd/blob/master/src/3000/3050.poti) *Ad-Hoc*
-- [ ]  [3051](https://www.beecrowd.com.br/judge/pt/problems/view/3051) - Soma *Paradigmas*
-- [ ]  [3052](https://www.beecrowd.com.br/judge/pt/problems/view/3052) - Chuva *Ad-Hoc*
-- [x]  [3053](https://www.beecrowd.com.br/judge/pt/problems/view/3053) - [Jogo Dos Copos](https://github.com/potigol/beecrowd/blob/master/src/3000/3053.poti) *Iniciante*
-- [ ]  [3054](https://www.beecrowd.com.br/judge/pt/problems/view/3054) - Matriz Super-legal *Ad-Hoc*
-- [x]  [3055](https://www.beecrowd.com.br/judge/pt/problems/view/3055) - [Nota Esquecida](https://github.com/potigol/beecrowd/blob/master/src/3000/3055.poti) *Iniciante*
-- [x]  [3056](https://www.beecrowd.com.br/judge/pt/problems/view/3056) - [Ponto do Meio](https://github.com/potigol/beecrowd/blob/master/src/3000/3056.poti) *Ad-Hoc*
-- [ ]  [3057](https://www.beecrowd.com.br/judge/pt/problems/view/3057) - Detetive *Ad-Hoc*
-- [x]  [3058](https://www.beecrowd.com.br/judge/pt/problems/view/3058) - [Supermercado](https://github.com/potigol/beecrowd/blob/master/src/3000/3058.poti) *Ad-Hoc*
-- [x]  [3059](https://www.beecrowd.com.br/judge/pt/problems/view/3059) - [Pares de Números](https://github.com/potigol/beecrowd/blob/master/src/3000/3059.poti) *Ad-Hoc*
-- [x]  [3060](https://www.beecrowd.com.br/judge/pt/problems/view/3060) - [Parcelamento Sem Juros](https://github.com/potigol/beecrowd/blob/master/src/3000/3060.poti) *Ad-Hoc*
-- [ ]  [3061](https://www.beecrowd.com.br/judge/pt/problems/view/3061) - Manchas de Pele *Grafos*
-- [ ]  [3062](https://www.beecrowd.com.br/judge/pt/problems/view/3062) - Coleção de Upas *Ad-Hoc*
-- [ ]  [3063](https://www.beecrowd.com.br/judge/pt/problems/view/3063) - Linhas de Ônibus *Ad-Hoc*
-- [ ]  [3064](https://www.beecrowd.com.br/judge/pt/problems/view/3064) - Elástico *Geometria Computacional*
-- [x]  [3065](https://www.beecrowd.com.br/judge/pt/problems/view/3065) - [Calculando](https://github.com/potigol/beecrowd/blob/master/src/3000/3065.poti) *Iniciante*
+- [ ]  [3001](https://www.beecrowd.com.br/repository/UOJ_3001.html) - Update sem Where *SQL*
+- [ ]  [3002](https://www.beecrowd.com.br/repository/UOJ_3002.html) - Salve a Lilly! *Matemática*
+- [ ]  [3003](https://www.beecrowd.com.br/repository/UOJ_3003.html) - O Grupinho *Grafos*
+- [x]  [3004](https://www.beecrowd.com.br/repository/UOJ_3004.html) - [Envelopes](https://github.com/potigol/beecrowd/blob/master/src/3000/3004.poti) *Matemática*
+- [x]  [3005](https://www.beecrowd.com.br/repository/UOJ_3005.html) - [Pilhas de Paralelepípedos](https://github.com/potigol/beecrowd/blob/master/src/3000/3005.poti) *Ad-Hoc*
+- [ ]  [3006](https://www.beecrowd.com.br/repository/UOJ_3006.html) - Passeio em Copacabana *Ad-Hoc*
+- [ ]  [3007](https://www.beecrowd.com.br/repository/UOJ_3007.html) - Lucas e Frobenius *Matemática*
+- [ ]  [3008](https://www.beecrowd.com.br/repository/UOJ_3008.html) - Numeração com Fósforos *Ad-Hoc*
+- [ ]  [3009](https://www.beecrowd.com.br/repository/UOJ_3009.html) - Dominós *Ad-Hoc*
+- [ ]  [3010](https://www.beecrowd.com.br/repository/UOJ_3010.html) - Binários Ambíguos *Ad-Hoc*
+- [ ]  [3011](https://www.beecrowd.com.br/repository/UOJ_3011.html) - Quebra-Cabeça Algébrico *Ad-Hoc*
+- [ ]  [3012](https://www.beecrowd.com.br/repository/UOJ_3012.html) - Algorithm Teaching *Ad-Hoc*
+- [ ]  [3013](https://www.beecrowd.com.br/repository/UOJ_3013.html) - Build the Perfect House *Ad-Hoc*
+- [ ]  [3014](https://www.beecrowd.com.br/repository/UOJ_3014.html) - Cut Inequality Down *Ad-Hoc*
+- [ ]  [3015](https://www.beecrowd.com.br/repository/UOJ_3015.html) - Dazzling Stars *Ad-Hoc*
+- [ ]  [3016](https://www.beecrowd.com.br/repository/UOJ_3016.html) - Eggfruit Cake *Ad-Hoc*
+- [ ]  [3017](https://www.beecrowd.com.br/repository/UOJ_3017.html) - Fabricating Sculptures *Ad-Hoc*
+- [ ]  [3018](https://www.beecrowd.com.br/repository/UOJ_3018.html) - Gluing Pictures *Ad-Hoc*
+- [ ]  [3019](https://www.beecrowd.com.br/repository/UOJ_3019.html) - Hold or Continue? *Ad-Hoc*
+- [ ]  [3020](https://www.beecrowd.com.br/repository/UOJ_3020.html) - Improve SPAM *Ad-Hoc*
+- [ ]  [3021](https://www.beecrowd.com.br/repository/UOJ_3021.html) - Jumping Grasshopper *Ad-Hoc*
+- [ ]  [3022](https://www.beecrowd.com.br/repository/UOJ_3022.html) - Know your Aliens *Ad-Hoc*
+- [ ]  [3023](https://www.beecrowd.com.br/repository/UOJ_3023.html) - Leverage MDT *Ad-Hoc*
+- [x]  [3024](https://www.beecrowd.com.br/repository/UOJ_3024.html) - [Mountain Ranges](https://github.com/potigol/beecrowd/blob/master/src/3000/3024.poti) *Ad-Hoc*
+- [ ]  [3025](https://www.beecrowd.com.br/repository/UOJ_3025.html) - Coletor *Ad-Hoc*
+- [ ]  [3026](https://www.beecrowd.com.br/repository/UOJ_3026.html) - Número Inteiro Periódico *Matemática*
+- [ ]  [3027](https://www.beecrowd.com.br/repository/UOJ_3027.html) - Plano de Treino *Grafos*
+- [ ]  [3028](https://www.beecrowd.com.br/repository/UOJ_3028.html) - Bubble Reactor *Grafos*
+- [ ]  [3029](https://www.beecrowd.com.br/repository/UOJ_3029.html) - Função Composição *Matemática*
+- [ ]  [3030](https://www.beecrowd.com.br/repository/UOJ_3030.html) - Transformadores de Salto *Ad-Hoc*
+- [ ]  [3031](https://www.beecrowd.com.br/repository/UOJ_3031.html) - Xor Spanning Tree *Grafos*
+- [ ]  [3032](https://www.beecrowd.com.br/repository/UOJ_3032.html) - Tuplas do Produto *Ad-Hoc*
+- [ ]  [3033](https://www.beecrowd.com.br/repository/UOJ_3033.html) - Ajude Maria *Ad-Hoc*
+- [x]  [3034](https://www.beecrowd.com.br/repository/UOJ_3034.html) - [O Caso Douglas](https://github.com/potigol/beecrowd/blob/master/src/3000/3034.poti) *Ad-Hoc*
+- [ ]  [3035](https://www.beecrowd.com.br/repository/UOJ_3035.html) - Fabrica de Peças *Ad-Hoc*
+- [x]  [3036](https://www.beecrowd.com.br/repository/UOJ_3036.html) - [Cor da Camisa](https://github.com/potigol/beecrowd/blob/master/src/3000/3036.poti) *Matemática*
+- [x]  [3037](https://www.beecrowd.com.br/repository/UOJ_3037.html) - [Jogando Dardos Por Distância](https://github.com/potigol/beecrowd/blob/master/src/3000/3037.poti) *Iniciante*
+- [x]  [3038](https://www.beecrowd.com.br/repository/UOJ_3038.html) - [Carta de Natal Criptografada](https://github.com/potigol/beecrowd/blob/master/src/3000/3038.poti) *Strings*
+- [x]  [3039](https://www.beecrowd.com.br/repository/UOJ_3039.html) - [Brinquedos do Papai Noel](https://github.com/potigol/beecrowd/blob/master/src/3000/3039.poti) *Iniciante*
+- [x]  [3040](https://www.beecrowd.com.br/repository/UOJ_3040.html) - [A Árvore de Natal](https://github.com/potigol/beecrowd/blob/master/src/3000/3040.poti) *Iniciante*
+- [ ]  [3041](https://www.beecrowd.com.br/repository/UOJ_3041.html) - Distribuição de Artigos *Ad-Hoc*
+- [x]  [3042](https://www.beecrowd.com.br/repository/UOJ_3042.html) - [Desviando de Árvores de Natal](https://github.com/potigol/beecrowd/blob/master/src/3000/3042.poti) *Iniciante*
+- [x]  [3043](https://www.beecrowd.com.br/repository/UOJ_3043.html) - [Festa Junina](https://github.com/potigol/beecrowd/blob/master/src/3000/3043.poti) *Grafos*
+- [ ]  [3044](https://www.beecrowd.com.br/repository/UOJ_3044.html) - Manutenção *Grafos*
+- [ ]  [3045](https://www.beecrowd.com.br/repository/UOJ_3045.html) - Parque Jurássico *Estruturas e Bibliotecas*
+- [x]  [3046](https://www.beecrowd.com.br/repository/UOJ_3046.html) - [Dominó](https://github.com/potigol/beecrowd/blob/master/src/3000/3046.poti) *Iniciante*
+- [x]  [3047](https://www.beecrowd.com.br/repository/UOJ_3047.html) - [A idade de Dona Mônica](https://github.com/potigol/beecrowd/blob/master/src/3000/3047.poti) *Iniciante*
+- [x]  [3048](https://www.beecrowd.com.br/repository/UOJ_3048.html) - [Sequência Secreta](https://github.com/potigol/beecrowd/blob/master/src/3000/3048.poti) *Ad-Hoc*
+- [x]  [3049](https://www.beecrowd.com.br/repository/UOJ_3049.html) - [Nota Cortada](https://github.com/potigol/beecrowd/blob/master/src/3000/3049.poti) *Matemática*
+- [x]  [3050](https://www.beecrowd.com.br/repository/UOJ_3050.html) - [Distância Entre Amigos](https://github.com/potigol/beecrowd/blob/master/src/3000/3050.poti) *Ad-Hoc*
+- [ ]  [3051](https://www.beecrowd.com.br/repository/UOJ_3051.html) - Soma *Paradigmas*
+- [ ]  [3052](https://www.beecrowd.com.br/repository/UOJ_3052.html) - Chuva *Ad-Hoc*
+- [x]  [3053](https://www.beecrowd.com.br/repository/UOJ_3053.html) - [Jogo Dos Copos](https://github.com/potigol/beecrowd/blob/master/src/3000/3053.poti) *Iniciante*
+- [ ]  [3054](https://www.beecrowd.com.br/repository/UOJ_3054.html) - Matriz Super-legal *Ad-Hoc*
+- [x]  [3055](https://www.beecrowd.com.br/repository/UOJ_3055.html) - [Nota Esquecida](https://github.com/potigol/beecrowd/blob/master/src/3000/3055.poti) *Iniciante*
+- [x]  [3056](https://www.beecrowd.com.br/repository/UOJ_3056.html) - [Ponto do Meio](https://github.com/potigol/beecrowd/blob/master/src/3000/3056.poti) *Ad-Hoc*
+- [ ]  [3057](https://www.beecrowd.com.br/repository/UOJ_3057.html) - Detetive *Ad-Hoc*
+- [x]  [3058](https://www.beecrowd.com.br/repository/UOJ_3058.html) - [Supermercado](https://github.com/potigol/beecrowd/blob/master/src/3000/3058.poti) *Ad-Hoc*
+- [x]  [3059](https://www.beecrowd.com.br/repository/UOJ_3059.html) - [Pares de Números](https://github.com/potigol/beecrowd/blob/master/src/3000/3059.poti) *Ad-Hoc*
+- [x]  [3060](https://www.beecrowd.com.br/repository/UOJ_3060.html) - [Parcelamento Sem Juros](https://github.com/potigol/beecrowd/blob/master/src/3000/3060.poti) *Ad-Hoc*
+- [ ]  [3061](https://www.beecrowd.com.br/repository/UOJ_3061.html) - Manchas de Pele *Grafos*
+- [ ]  [3062](https://www.beecrowd.com.br/repository/UOJ_3062.html) - Coleção de Upas *Ad-Hoc*
+- [ ]  [3063](https://www.beecrowd.com.br/repository/UOJ_3063.html) - Linhas de Ônibus *Ad-Hoc*
+- [ ]  [3064](https://www.beecrowd.com.br/repository/UOJ_3064.html) - Elástico *Geometria Computacional*
+- [x]  [3065](https://www.beecrowd.com.br/repository/UOJ_3065.html) - [Calculando](https://github.com/potigol/beecrowd/blob/master/src/3000/3065.poti) *Iniciante*
 - [ ] ~~xxxx~~
-- [ ]  [3067](https://www.beecrowd.com.br/judge/pt/problems/view/3067) - Dominó *Grafos*
-- [x]  [3068](https://www.beecrowd.com.br/judge/pt/problems/view/3068) - [Meteoros](https://github.com/potigol/beecrowd/blob/master/src/3000/3068.poti) *Iniciante*
-- [ ]  [3069](https://www.beecrowd.com.br/judge/pt/problems/view/3069) - Sorvete *Estruturas e Bibliotecas*
-- [ ]  [3070](https://www.beecrowd.com.br/judge/pt/problems/view/3070) - Autoestradas HyperspaceTM *Grafos*
-- [ ]  [3071](https://www.beecrowd.com.br/judge/pt/problems/view/3071) - Melhor Ranking *Ad-Hoc*
-- [ ]  [3072](https://www.beecrowd.com.br/judge/pt/problems/view/3072) - Namoro *Grafos*
-- [ ]  [3073](https://www.beecrowd.com.br/judge/pt/problems/view/3073) - Vetores *Paradigmas*
-- [ ]  [3074](https://www.beecrowd.com.br/judge/pt/problems/view/3074) - Consultas em Uma Array *Ad-Hoc*
-- [ ]  [3075](https://www.beecrowd.com.br/judge/pt/problems/view/3075) - Cassinos e Viagem *Grafos*
-- [x]  [3076](https://www.beecrowd.com.br/judge/pt/problems/view/3076) - [Exercício de História](https://github.com/potigol/beecrowd/blob/master/src/3000/3076.poti) *Iniciante*
-- [ ]  [3077](https://www.beecrowd.com.br/judge/pt/problems/view/3077) - Distribuindo Pequis *Ad-Hoc*
-- [ ]  [3078](https://www.beecrowd.com.br/judge/pt/problems/view/3078) - Só o Ouro *Matemática*
-- [ ]  [3079](https://www.beecrowd.com.br/judge/pt/problems/view/3079) - Rua Iluminada *Matemática*
-- [ ]  [3080](https://www.beecrowd.com.br/judge/pt/problems/view/3080) - Proteja os Dados *Strings*
-- [ ]  [3081](https://www.beecrowd.com.br/judge/pt/problems/view/3081) - Órbita *Geometria Computacional*
-- [ ]  [3082](https://www.beecrowd.com.br/judge/pt/problems/view/3082) - Matador De Onça Mutante *Grafos*
-- [ ]  [3083](https://www.beecrowd.com.br/judge/pt/problems/view/3083) - Emreh, Liug E As Strings *Strings*
-- [x]  [3084](https://www.beecrowd.com.br/judge/pt/problems/view/3084) - [Relógio Antigo](https://github.com/potigol/beecrowd/blob/master/src/3000/3084.poti) *Iniciante*
-- [ ]  [3085](https://www.beecrowd.com.br/judge/pt/problems/view/3085) - O Grande Dia *Ad-Hoc*
-- [ ]  [3086](https://www.beecrowd.com.br/judge/pt/problems/view/3086) - O Cavaleiro Jedi Guilherme *Paradigmas*
-- [ ]  [3087](https://www.beecrowd.com.br/judge/pt/problems/view/3087) - O Padawan Jorge *Ad-Hoc*
-- [x]  [3088](https://www.beecrowd.com.br/judge/pt/problems/view/3088) - [Correção de Texto](https://github.com/potigol/beecrowd/blob/master/src/3000/3088.poti) *Strings*
-- [x]  [3089](https://www.beecrowd.com.br/judge/pt/problems/view/3089) - [Presentes de Natal](https://github.com/potigol/beecrowd/blob/master/src/3000/3089.poti) *Iniciante*
-- [x]  [3090](https://www.beecrowd.com.br/judge/pt/problems/view/3090) - [Campo de Batalha](https://github.com/potigol/beecrowd/blob/master/src/3000/3090.poti) *Ad-Hoc*
-- [x]  [3091](https://www.beecrowd.com.br/judge/pt/problems/view/3091) - [Resto 1.0](https://github.com/potigol/beecrowd/blob/master/src/3000/3091.poti) *Iniciante*
-- [x]  [3092](https://www.beecrowd.com.br/judge/pt/problems/view/3092) - [Truco da Galera 2.0](https://github.com/potigol/beecrowd/blob/master/src/3000/3092.poti) *Ad-Hoc*
-- [x]  [3093](https://www.beecrowd.com.br/judge/pt/problems/view/3093) - [Truco da Galera 1.0](https://github.com/potigol/beecrowd/blob/master/src/3000/3093.poti) *Ad-Hoc*
-- [x]  [3094](https://www.beecrowd.com.br/judge/pt/problems/view/3094) - [Truco da Galera 3.0](https://github.com/potigol/beecrowd/blob/master/src/3000/3094.poti) *Ad-Hoc*
-- [ ]  [3095](https://www.beecrowd.com.br/judge/pt/problems/view/3095) - Pudim dos Guerreiros *Paradigmas*
-- [ ]  [3096](https://www.beecrowd.com.br/judge/pt/problems/view/3096) - Overflow *Matemática*
-- [ ]  [3097](https://www.beecrowd.com.br/judge/pt/problems/view/3097) - Um Desafio Simples *Estruturas e Bibliotecas*
-- [ ]  [3098](https://www.beecrowd.com.br/judge/pt/problems/view/3098) - Plíndromo *Paradigmas*
-- [ ]  [3099](https://www.beecrowd.com.br/judge/pt/problems/view/3099) - O Problema do 7 x 1 *Matemática*
+- [ ]  [3067](https://www.beecrowd.com.br/repository/UOJ_3067.html) - Dominó *Grafos*
+- [x]  [3068](https://www.beecrowd.com.br/repository/UOJ_3068.html) - [Meteoros](https://github.com/potigol/beecrowd/blob/master/src/3000/3068.poti) *Iniciante*
+- [ ]  [3069](https://www.beecrowd.com.br/repository/UOJ_3069.html) - Sorvete *Estruturas e Bibliotecas*
+- [ ]  [3070](https://www.beecrowd.com.br/repository/UOJ_3070.html) - Autoestradas HyperspaceTM *Grafos*
+- [ ]  [3071](https://www.beecrowd.com.br/repository/UOJ_3071.html) - Melhor Ranking *Ad-Hoc*
+- [ ]  [3072](https://www.beecrowd.com.br/repository/UOJ_3072.html) - Namoro *Grafos*
+- [ ]  [3073](https://www.beecrowd.com.br/repository/UOJ_3073.html) - Vetores *Paradigmas*
+- [ ]  [3074](https://www.beecrowd.com.br/repository/UOJ_3074.html) - Consultas em Uma Array *Ad-Hoc*
+- [ ]  [3075](https://www.beecrowd.com.br/repository/UOJ_3075.html) - Cassinos e Viagem *Grafos*
+- [x]  [3076](https://www.beecrowd.com.br/repository/UOJ_3076.html) - [Exercício de História](https://github.com/potigol/beecrowd/blob/master/src/3000/3076.poti) *Iniciante*
+- [ ]  [3077](https://www.beecrowd.com.br/repository/UOJ_3077.html) - Distribuindo Pequis *Ad-Hoc*
+- [ ]  [3078](https://www.beecrowd.com.br/repository/UOJ_3078.html) - Só o Ouro *Matemática*
+- [ ]  [3079](https://www.beecrowd.com.br/repository/UOJ_3079.html) - Rua Iluminada *Matemática*
+- [ ]  [3080](https://www.beecrowd.com.br/repository/UOJ_3080.html) - Proteja os Dados *Strings*
+- [ ]  [3081](https://www.beecrowd.com.br/repository/UOJ_3081.html) - Órbita *Geometria Computacional*
+- [ ]  [3082](https://www.beecrowd.com.br/repository/UOJ_3082.html) - Matador De Onça Mutante *Grafos*
+- [ ]  [3083](https://www.beecrowd.com.br/repository/UOJ_3083.html) - Emreh, Liug E As Strings *Strings*
+- [x]  [3084](https://www.beecrowd.com.br/repository/UOJ_3084.html) - [Relógio Antigo](https://github.com/potigol/beecrowd/blob/master/src/3000/3084.poti) *Iniciante*
+- [ ]  [3085](https://www.beecrowd.com.br/repository/UOJ_3085.html) - O Grande Dia *Ad-Hoc*
+- [ ]  [3086](https://www.beecrowd.com.br/repository/UOJ_3086.html) - O Cavaleiro Jedi Guilherme *Paradigmas*
+- [ ]  [3087](https://www.beecrowd.com.br/repository/UOJ_3087.html) - O Padawan Jorge *Ad-Hoc*
+- [x]  [3088](https://www.beecrowd.com.br/repository/UOJ_3088.html) - [Correção de Texto](https://github.com/potigol/beecrowd/blob/master/src/3000/3088.poti) *Strings*
+- [x]  [3089](https://www.beecrowd.com.br/repository/UOJ_3089.html) - [Presentes de Natal](https://github.com/potigol/beecrowd/blob/master/src/3000/3089.poti) *Iniciante*
+- [x]  [3090](https://www.beecrowd.com.br/repository/UOJ_3090.html) - [Campo de Batalha](https://github.com/potigol/beecrowd/blob/master/src/3000/3090.poti) *Ad-Hoc*
+- [x]  [3091](https://www.beecrowd.com.br/repository/UOJ_3091.html) - [Resto 1.0](https://github.com/potigol/beecrowd/blob/master/src/3000/3091.poti) *Iniciante*
+- [x]  [3092](https://www.beecrowd.com.br/repository/UOJ_3092.html) - [Truco da Galera 2.0](https://github.com/potigol/beecrowd/blob/master/src/3000/3092.poti) *Ad-Hoc*
+- [x]  [3093](https://www.beecrowd.com.br/repository/UOJ_3093.html) - [Truco da Galera 1.0](https://github.com/potigol/beecrowd/blob/master/src/3000/3093.poti) *Ad-Hoc*
+- [x]  [3094](https://www.beecrowd.com.br/repository/UOJ_3094.html) - [Truco da Galera 3.0](https://github.com/potigol/beecrowd/blob/master/src/3000/3094.poti) *Ad-Hoc*
+- [ ]  [3095](https://www.beecrowd.com.br/repository/UOJ_3095.html) - Pudim dos Guerreiros *Paradigmas*
+- [ ]  [3096](https://www.beecrowd.com.br/repository/UOJ_3096.html) - Overflow *Matemática*
+- [ ]  [3097](https://www.beecrowd.com.br/repository/UOJ_3097.html) - Um Desafio Simples *Estruturas e Bibliotecas*
+- [ ]  [3098](https://www.beecrowd.com.br/repository/UOJ_3098.html) - Plíndromo *Paradigmas*
+- [ ]  [3099](https://www.beecrowd.com.br/repository/UOJ_3099.html) - O Problema do 7 x 1 *Matemática*

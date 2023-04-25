@@ -7,7 +7,7 @@
 
 ## Problemas não resolvidos
 
-- [ ]  [2370](https://www.beecrowd.com.br/judge/pt/problems/view/2370) - Times
-- [ ]  [2380](https://www.beecrowd.com.br/judge/pt/problems/view/2380) - Fusões
-- [ ]  [3045](https://www.beecrowd.com.br/judge/pt/problems/view/3045) - Parque Jurássico
-- [ ]  [3069](https://www.beecrowd.com.br/judge/pt/problems/view/3069) - Sorvete
+- [ ]  [2370](https://www.beecrowd.com.br/repository/UOJ_2370.html) - Times
+- [ ]  [2380](https://www.beecrowd.com.br/repository/UOJ_2380.html) - Fusões
+- [ ]  [3045](https://www.beecrowd.com.br/repository/UOJ_3045.html) - Parque Jurássico
+- [ ]  [3069](https://www.beecrowd.com.br/repository/UOJ_3069.html) - Sorvete

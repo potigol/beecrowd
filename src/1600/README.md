@@ -1,102 +1,102 @@
 # Problemas 1600 (6%)
 
-- [ ]  [1600](https://www.beecrowd.com.br/judge/pt/problems/view/1600) - O Gato do Zelador do Armazém *Paradigmas*
-- [ ]  [1601](https://www.beecrowd.com.br/judge/pt/problems/view/1601) - Partição do Rebanho *Paradigmas*
-- [ ]  [1602](https://www.beecrowd.com.br/judge/pt/problems/view/1602) - Hiperprimos *Paradigmas*
-- [ ]  [1603](https://www.beecrowd.com.br/judge/pt/problems/view/1603) - Canais de Qanat *Paradigmas*
-- [ ]  [1604](https://www.beecrowd.com.br/judge/pt/problems/view/1604) - Pair-voting no Conselho de Gueliz *Paradigmas*
-- [ ]  [1605](https://www.beecrowd.com.br/judge/pt/problems/view/1605) - Montando Sua Própria Cáfila *Paradigmas*
-- [ ]  [1606](https://www.beecrowd.com.br/judge/pt/problems/view/1606) - As Dicas de Ali Babá *Paradigmas*
-- [x]  [1607](https://www.beecrowd.com.br/judge/pt/problems/view/1607) - [Avance as Letras](https://github.com/potigol/beecrowd/blob/master/src/1600/1607.poti) *Strings*
-- [ ]  [1608](https://www.beecrowd.com.br/judge/pt/problems/view/1608) - Bolos da Maria *Paradigmas*
-- [x]  [1609](https://www.beecrowd.com.br/judge/pt/problems/view/1609) - [Contando Carneirinhos](https://github.com/potigol/beecrowd/blob/master/src/1600/1609.poti) *Ad-Hoc*
-- [ ]  [1610](https://www.beecrowd.com.br/judge/pt/problems/view/1610) - Dudu Faz Serviço *Grafos*
-- [ ]  [1611](https://www.beecrowd.com.br/judge/pt/problems/view/1611) - Elevador Lotado *Paradigmas*
-- [ ]  [1612](https://www.beecrowd.com.br/judge/pt/problems/view/1612) - Formiguinha *Ad-Hoc*
-- [ ]  [1613](https://www.beecrowd.com.br/judge/pt/problems/view/1613) - Goemon em Apuros *Geometria Computacional*
-- [ ]  [1614](https://www.beecrowd.com.br/judge/pt/problems/view/1614) - Ajude o Turista *Paradigmas*
-- [ ]  [1615](https://www.beecrowd.com.br/judge/pt/problems/view/1615) - Insatisfação nas Eleições *Ad-Hoc*
-- [ ]  [1616](https://www.beecrowd.com.br/judge/pt/problems/view/1616) - Baile de Formatura *Paradigmas*
-- [ ]  [1617](https://www.beecrowd.com.br/judge/pt/problems/view/1617) - Caminho Seguro *Grafos*
-- [ ]  [1618](https://www.beecrowd.com.br/judge/pt/problems/view/1618) - Colisão *Ad-Hoc*
-- [ ]  [1619](https://www.beecrowd.com.br/judge/pt/problems/view/1619) - Diferença entre Datas *Ad-Hoc*
-- [ ]  [1620](https://www.beecrowd.com.br/judge/pt/problems/view/1620) - Triangulação de Delaunay *Matemática*
-- [ ]  [1621](https://www.beecrowd.com.br/judge/pt/problems/view/1621) - Labirinto *Grafos*
-- [ ]  [1622](https://www.beecrowd.com.br/judge/pt/problems/view/1622) - Lâmpadas *Ad-Hoc*
-- [ ]  [1623](https://www.beecrowd.com.br/judge/pt/problems/view/1623) - Linguagem *Matemática*
-- [ ]  [1624](https://www.beecrowd.com.br/judge/pt/problems/view/1624) - Promoção *Matemática*
-- [ ]  [1625](https://www.beecrowd.com.br/judge/pt/problems/view/1625) - Robocopia *Matemática*
-- [ ]  [1626](https://www.beecrowd.com.br/judge/pt/problems/view/1626) - Maratona All FACE *Matemática*
-- [ ]  [1627](https://www.beecrowd.com.br/judge/pt/problems/view/1627) - Último Dano *Ad-Hoc*
-- [ ]  [1628](https://www.beecrowd.com.br/judge/pt/problems/view/1628) - ChessGuess *Grafos*
-- [ ]  [1629](https://www.beecrowd.com.br/judge/pt/problems/view/1629) - DescompactaFACE *Strings*
-- [x]  [1630](https://www.beecrowd.com.br/judge/pt/problems/view/1630) - [Estacas](https://github.com/potigol/beecrowd/blob/master/src/1600/1630.poti) *Matemática*
-- [ ]  [1631](https://www.beecrowd.com.br/judge/pt/problems/view/1631) - O Fantástico Bolo de Bobby *Geometria Computacional*
-- [x]  [1632](https://www.beecrowd.com.br/judge/pt/problems/view/1632) - [Variações](https://github.com/potigol/beecrowd/blob/master/src/1600/1632.poti) *Strings*
-- [ ]  [1633](https://www.beecrowd.com.br/judge/pt/problems/view/1633) - SBC *Estruturas e Bibliotecas*
-- [ ]  [1634](https://www.beecrowd.com.br/judge/pt/problems/view/1634) - Outra Loteria *Matemática*
-- [ ]  [1635](https://www.beecrowd.com.br/judge/pt/problems/view/1635) - Resultado das Eleições *Matemática*
-- [ ]  [1636](https://www.beecrowd.com.br/judge/pt/problems/view/1636) - Permutações Antimonotônicas Cíclicas *Paradigmas*
-- [ ]  [1637](https://www.beecrowd.com.br/judge/pt/problems/view/1637) - Codificação Gamma de Elias *Paradigmas*
-- [ ]  [1638](https://www.beecrowd.com.br/judge/pt/problems/view/1638) - Tamanho da Porção de Comida *Ad-Hoc*
-- [ ]  [1639](https://www.beecrowd.com.br/judge/pt/problems/view/1639) - Gerando Números Aleatórios *Ad-Hoc*
-- [ ]  [1640](https://www.beecrowd.com.br/judge/pt/problems/view/1640) - Reservando Hotéis *Estruturas e Bibliotecas*
-- [ ]  [1641](https://www.beecrowd.com.br/judge/pt/problems/view/1641) - Restaurante e Pizzaria do Alfredo *Matemática*
-- [ ]  [1642](https://www.beecrowd.com.br/judge/pt/problems/view/1642) - Teclado Quebrado *Paradigmas*
-- [ ]  [1643](https://www.beecrowd.com.br/judge/pt/problems/view/1643) - Converter Quilômetros para Milhas *Paradigmas*
-- [ ]  [1644](https://www.beecrowd.com.br/judge/pt/problems/view/1644) - Decifre o Texto *Matemática*
-- [ ]  [1645](https://www.beecrowd.com.br/judge/pt/problems/view/1645) - El Dorado *Paradigmas*
-- [ ]  [1646](https://www.beecrowd.com.br/judge/pt/problems/view/1646) - Floresta *Geometria Computacional*
-- [x]  [1647](https://www.beecrowd.com.br/judge/pt/problems/view/1647) - [Um Jogo com Bolas de Gude](https://github.com/potigol/beecrowd/blob/master/src/1600/1647.poti) *Matemática*
-- [ ]  [1648](https://www.beecrowd.com.br/judge/pt/problems/view/1648) - Ajude Bob *Paradigmas*
-- [ ]  [1649](https://www.beecrowd.com.br/judge/pt/problems/view/1649) - Ferramenta Irritante de Pintura *Paradigmas*
-- [x]  [1650](https://www.beecrowd.com.br/judge/pt/problems/view/1650) - [Pintura Preto e Branco](https://github.com/potigol/beecrowd/blob/master/src/1600/1650.poti) *Matemática*
-- [ ]  [1651](https://www.beecrowd.com.br/judge/pt/problems/view/1651) - Cilindro *Geometria Computacional*
-- [ ]  [1652](https://www.beecrowd.com.br/judge/pt/problems/view/1652) - Deli Deli *Ad-Hoc*
-- [ ]  [1653](https://www.beecrowd.com.br/judge/pt/problems/view/1653) - Expressões *Grafos*
-- [ ]  [1654](https://www.beecrowd.com.br/judge/pt/problems/view/1654) - Mercearia *Paradigmas*
-- [ ]  [1655](https://www.beecrowd.com.br/judge/pt/problems/view/1655) - 106 Milhas Para Chicago *Grafos*
-- [ ]  [1656](https://www.beecrowd.com.br/judge/pt/problems/view/1656) - Doces do Dia das Bruxas *Matemática*
-- [ ]  [1657](https://www.beecrowd.com.br/judge/pt/problems/view/1657) - Corretor Automático de Erros de Soletração *Ad-Hoc*
-- [ ]  [1658](https://www.beecrowd.com.br/judge/pt/problems/view/1658) - Grupos Diedro *Matemática*
-- [ ]  [1659](https://www.beecrowd.com.br/judge/pt/problems/view/1659) - Chamadas Econômicas *Paradigmas*
-- [ ]  [1660](https://www.beecrowd.com.br/judge/pt/problems/view/1660) - Flavius Josephus Está de Volta *Matemática*
-- [ ]  [1661](https://www.beecrowd.com.br/judge/pt/problems/view/1661) - Comércio de Vinhos na Gergóvia *Paradigmas*
-- [ ]  [1662](https://www.beecrowd.com.br/judge/pt/problems/view/1662) - Quadrados Homogêneos *Matemática*
-- [ ]  [1663](https://www.beecrowd.com.br/judge/pt/problems/view/1663) - Permutações Ambíguas *Ad-Hoc*
-- [ ]  [1664](https://www.beecrowd.com.br/judge/pt/problems/view/1664) - Bullshit Bingo *Strings*
-- [ ]  [1665](https://www.beecrowd.com.br/judge/pt/problems/view/1665) - Decorando a Parede *Geometria Computacional*
-- [ ]  [1666](https://www.beecrowd.com.br/judge/pt/problems/view/1666) - Qualquer Tolo Consegue *Paradigmas*
-- [ ]  [1667](https://www.beecrowd.com.br/judge/pt/problems/view/1667) - HTML *Strings*
-- [ ]  [1668](https://www.beecrowd.com.br/judge/pt/problems/view/1668) - Ajude o Autor do Problema *Grafos*
-- [ ]  [1669](https://www.beecrowd.com.br/judge/pt/problems/view/1669) - Todos os Discos Considerados *Grafos*
-- [ ]  [1670](https://www.beecrowd.com.br/judge/pt/problems/view/1670) - Lógica Booleana *Ad-Hoc*
-- [ ]  [1671](https://www.beecrowd.com.br/judge/pt/problems/view/1671) - Código *Grafos*
-- [ ]  [1672](https://www.beecrowd.com.br/judge/pt/problems/view/1672) - Em Perigo *Paradigmas*
-- [ ]  [1673](https://www.beecrowd.com.br/judge/pt/problems/view/1673) - Codificação Run-length *Estruturas e Bibliotecas*
-- [ ]  [1674](https://www.beecrowd.com.br/judge/pt/problems/view/1674) - Fractran *Matemática*
-- [ ]  [1675](https://www.beecrowd.com.br/judge/pt/problems/view/1675) - Construção de Procura Binária de Heap *Grafos*
-- [ ]  [1676](https://www.beecrowd.com.br/judge/pt/problems/view/1676) - Precisa-se de Ajuda *Ad-Hoc*
-- [ ]  [1677](https://www.beecrowd.com.br/judge/pt/problems/view/1677) - A Base de um Grafo *Grafos*
-- [ ]  [1678](https://www.beecrowd.com.br/judge/pt/problems/view/1678) - Gerenciamento de Partição Fixa em Competição *Ad-Hoc*
-- [ ]  [1679](https://www.beecrowd.com.br/judge/pt/problems/view/1679) - Bebida, com Gelo *Geometria Computacional*
-- [ ]  [1680](https://www.beecrowd.com.br/judge/pt/problems/view/1680) - Borda *Ad-Hoc*
-- [ ]  [1681](https://www.beecrowd.com.br/judge/pt/problems/view/1681) - Dobra *Paradigmas*
-- [ ]  [1682](https://www.beecrowd.com.br/judge/pt/problems/view/1682) - Código Genético *Paradigmas*
-- [ ]  [1683](https://www.beecrowd.com.br/judge/pt/problems/view/1683) - Maior Retângulo em um Histograma *Estruturas e Bibliotecas*
-- [ ]  [1684](https://www.beecrowd.com.br/judge/pt/problems/view/1684) - Maratona Doce *Ad-Hoc*
-- [ ]  [1685](https://www.beecrowd.com.br/judge/pt/problems/view/1685) - Praça de Daniel *Paradigmas*
-- [ ]  [1686](https://www.beecrowd.com.br/judge/pt/problems/view/1686) - Sequência de Palíndromos *Strings*
-- [ ]  [1687](https://www.beecrowd.com.br/judge/pt/problems/view/1687) - Destrave o Celular *Paradigmas*
-- [ ]  [1688](https://www.beecrowd.com.br/judge/pt/problems/view/1688) - Nim Intergalático *Matemática*
-- [ ]  [1689](https://www.beecrowd.com.br/judge/pt/problems/view/1689) - Radares *Paradigmas*
-- [ ]  [1690](https://www.beecrowd.com.br/judge/pt/problems/view/1690) - Soma de Sobconjuntos *Paradigmas*
-- [ ]  [1691](https://www.beecrowd.com.br/judge/pt/problems/view/1691) - Super Circunferência *Ad-Hoc*
-- [ ]  [1692](https://www.beecrowd.com.br/judge/pt/problems/view/1692) - Curo Ataque *Grafos*
-- [ ]  [1693](https://www.beecrowd.com.br/judge/pt/problems/view/1693) - Apenas Outro Problema de Física *Geometria Computacional*
-- [ ]  [1694](https://www.beecrowd.com.br/judge/pt/problems/view/1694) - Loteria *Matemática*
-- [ ]  [1695](https://www.beecrowd.com.br/judge/pt/problems/view/1695) - Ordenando Árvores *Grafos*
-- [ ]  [1696](https://www.beecrowd.com.br/judge/pt/problems/view/1696) - Brincando Com Operadores *Estruturas e Bibliotecas*
-- [ ]  [1697](https://www.beecrowd.com.br/judge/pt/problems/view/1697) - Jaida e o Jogo Multiplicativo *Matemática*
-- [ ]  [1698](https://www.beecrowd.com.br/judge/pt/problems/view/1698) - Metrô Brasileiro *Grafos*
-- [ ]  [1699](https://www.beecrowd.com.br/judge/pt/problems/view/1699) - Jogo Entediante *Ad-Hoc*
+- [ ]  [1600](https://www.beecrowd.com.br/repository/UOJ_1600.html) - O Gato do Zelador do Armazém *Paradigmas*
+- [ ]  [1601](https://www.beecrowd.com.br/repository/UOJ_1601.html) - Partição do Rebanho *Paradigmas*
+- [ ]  [1602](https://www.beecrowd.com.br/repository/UOJ_1602.html) - Hiperprimos *Paradigmas*
+- [ ]  [1603](https://www.beecrowd.com.br/repository/UOJ_1603.html) - Canais de Qanat *Paradigmas*
+- [ ]  [1604](https://www.beecrowd.com.br/repository/UOJ_1604.html) - Pair-voting no Conselho de Gueliz *Paradigmas*
+- [ ]  [1605](https://www.beecrowd.com.br/repository/UOJ_1605.html) - Montando Sua Própria Cáfila *Paradigmas*
+- [ ]  [1606](https://www.beecrowd.com.br/repository/UOJ_1606.html) - As Dicas de Ali Babá *Paradigmas*
+- [x]  [1607](https://www.beecrowd.com.br/repository/UOJ_1607.html) - [Avance as Letras](https://github.com/potigol/beecrowd/blob/master/src/1600/1607.poti) *Strings*
+- [ ]  [1608](https://www.beecrowd.com.br/repository/UOJ_1608.html) - Bolos da Maria *Paradigmas*
+- [x]  [1609](https://www.beecrowd.com.br/repository/UOJ_1609.html) - [Contando Carneirinhos](https://github.com/potigol/beecrowd/blob/master/src/1600/1609.poti) *Ad-Hoc*
+- [ ]  [1610](https://www.beecrowd.com.br/repository/UOJ_1610.html) - Dudu Faz Serviço *Grafos*
+- [ ]  [1611](https://www.beecrowd.com.br/repository/UOJ_1611.html) - Elevador Lotado *Paradigmas*
+- [ ]  [1612](https://www.beecrowd.com.br/repository/UOJ_1612.html) - Formiguinha *Ad-Hoc*
+- [ ]  [1613](https://www.beecrowd.com.br/repository/UOJ_1613.html) - Goemon em Apuros *Geometria Computacional*
+- [ ]  [1614](https://www.beecrowd.com.br/repository/UOJ_1614.html) - Ajude o Turista *Paradigmas*
+- [ ]  [1615](https://www.beecrowd.com.br/repository/UOJ_1615.html) - Insatisfação nas Eleições *Ad-Hoc*
+- [ ]  [1616](https://www.beecrowd.com.br/repository/UOJ_1616.html) - Baile de Formatura *Paradigmas*
+- [ ]  [1617](https://www.beecrowd.com.br/repository/UOJ_1617.html) - Caminho Seguro *Grafos*
+- [ ]  [1618](https://www.beecrowd.com.br/repository/UOJ_1618.html) - Colisão *Ad-Hoc*
+- [ ]  [1619](https://www.beecrowd.com.br/repository/UOJ_1619.html) - Diferença entre Datas *Ad-Hoc*
+- [ ]  [1620](https://www.beecrowd.com.br/repository/UOJ_1620.html) - Triangulação de Delaunay *Matemática*
+- [ ]  [1621](https://www.beecrowd.com.br/repository/UOJ_1621.html) - Labirinto *Grafos*
+- [ ]  [1622](https://www.beecrowd.com.br/repository/UOJ_1622.html) - Lâmpadas *Ad-Hoc*
+- [ ]  [1623](https://www.beecrowd.com.br/repository/UOJ_1623.html) - Linguagem *Matemática*
+- [ ]  [1624](https://www.beecrowd.com.br/repository/UOJ_1624.html) - Promoção *Matemática*
+- [ ]  [1625](https://www.beecrowd.com.br/repository/UOJ_1625.html) - Robocopia *Matemática*
+- [ ]  [1626](https://www.beecrowd.com.br/repository/UOJ_1626.html) - Maratona All FACE *Matemática*
+- [ ]  [1627](https://www.beecrowd.com.br/repository/UOJ_1627.html) - Último Dano *Ad-Hoc*
+- [ ]  [1628](https://www.beecrowd.com.br/repository/UOJ_1628.html) - ChessGuess *Grafos*
+- [ ]  [1629](https://www.beecrowd.com.br/repository/UOJ_1629.html) - DescompactaFACE *Strings*
+- [x]  [1630](https://www.beecrowd.com.br/repository/UOJ_1630.html) - [Estacas](https://github.com/potigol/beecrowd/blob/master/src/1600/1630.poti) *Matemática*
+- [ ]  [1631](https://www.beecrowd.com.br/repository/UOJ_1631.html) - O Fantástico Bolo de Bobby *Geometria Computacional*
+- [x]  [1632](https://www.beecrowd.com.br/repository/UOJ_1632.html) - [Variações](https://github.com/potigol/beecrowd/blob/master/src/1600/1632.poti) *Strings*
+- [ ]  [1633](https://www.beecrowd.com.br/repository/UOJ_1633.html) - SBC *Estruturas e Bibliotecas*
+- [ ]  [1634](https://www.beecrowd.com.br/repository/UOJ_1634.html) - Outra Loteria *Matemática*
+- [ ]  [1635](https://www.beecrowd.com.br/repository/UOJ_1635.html) - Resultado das Eleições *Matemática*
+- [ ]  [1636](https://www.beecrowd.com.br/repository/UOJ_1636.html) - Permutações Antimonotônicas Cíclicas *Paradigmas*
+- [ ]  [1637](https://www.beecrowd.com.br/repository/UOJ_1637.html) - Codificação Gamma de Elias *Paradigmas*
+- [ ]  [1638](https://www.beecrowd.com.br/repository/UOJ_1638.html) - Tamanho da Porção de Comida *Ad-Hoc*
+- [ ]  [1639](https://www.beecrowd.com.br/repository/UOJ_1639.html) - Gerando Números Aleatórios *Ad-Hoc*
+- [ ]  [1640](https://www.beecrowd.com.br/repository/UOJ_1640.html) - Reservando Hotéis *Estruturas e Bibliotecas*
+- [ ]  [1641](https://www.beecrowd.com.br/repository/UOJ_1641.html) - Restaurante e Pizzaria do Alfredo *Matemática*
+- [ ]  [1642](https://www.beecrowd.com.br/repository/UOJ_1642.html) - Teclado Quebrado *Paradigmas*
+- [ ]  [1643](https://www.beecrowd.com.br/repository/UOJ_1643.html) - Converter Quilômetros para Milhas *Paradigmas*
+- [ ]  [1644](https://www.beecrowd.com.br/repository/UOJ_1644.html) - Decifre o Texto *Matemática*
+- [ ]  [1645](https://www.beecrowd.com.br/repository/UOJ_1645.html) - El Dorado *Paradigmas*
+- [ ]  [1646](https://www.beecrowd.com.br/repository/UOJ_1646.html) - Floresta *Geometria Computacional*
+- [x]  [1647](https://www.beecrowd.com.br/repository/UOJ_1647.html) - [Um Jogo com Bolas de Gude](https://github.com/potigol/beecrowd/blob/master/src/1600/1647.poti) *Matemática*
+- [ ]  [1648](https://www.beecrowd.com.br/repository/UOJ_1648.html) - Ajude Bob *Paradigmas*
+- [ ]  [1649](https://www.beecrowd.com.br/repository/UOJ_1649.html) - Ferramenta Irritante de Pintura *Paradigmas*
+- [x]  [1650](https://www.beecrowd.com.br/repository/UOJ_1650.html) - [Pintura Preto e Branco](https://github.com/potigol/beecrowd/blob/master/src/1600/1650.poti) *Matemática*
+- [ ]  [1651](https://www.beecrowd.com.br/repository/UOJ_1651.html) - Cilindro *Geometria Computacional*
+- [ ]  [1652](https://www.beecrowd.com.br/repository/UOJ_1652.html) - Deli Deli *Ad-Hoc*
+- [ ]  [1653](https://www.beecrowd.com.br/repository/UOJ_1653.html) - Expressões *Grafos*
+- [ ]  [1654](https://www.beecrowd.com.br/repository/UOJ_1654.html) - Mercearia *Paradigmas*
+- [ ]  [1655](https://www.beecrowd.com.br/repository/UOJ_1655.html) - 106 Milhas Para Chicago *Grafos*
+- [ ]  [1656](https://www.beecrowd.com.br/repository/UOJ_1656.html) - Doces do Dia das Bruxas *Matemática*
+- [ ]  [1657](https://www.beecrowd.com.br/repository/UOJ_1657.html) - Corretor Automático de Erros de Soletração *Ad-Hoc*
+- [ ]  [1658](https://www.beecrowd.com.br/repository/UOJ_1658.html) - Grupos Diedro *Matemática*
+- [ ]  [1659](https://www.beecrowd.com.br/repository/UOJ_1659.html) - Chamadas Econômicas *Paradigmas*
+- [ ]  [1660](https://www.beecrowd.com.br/repository/UOJ_1660.html) - Flavius Josephus Está de Volta *Matemática*
+- [ ]  [1661](https://www.beecrowd.com.br/repository/UOJ_1661.html) - Comércio de Vinhos na Gergóvia *Paradigmas*
+- [ ]  [1662](https://www.beecrowd.com.br/repository/UOJ_1662.html) - Quadrados Homogêneos *Matemática*
+- [ ]  [1663](https://www.beecrowd.com.br/repository/UOJ_1663.html) - Permutações Ambíguas *Ad-Hoc*
+- [ ]  [1664](https://www.beecrowd.com.br/repository/UOJ_1664.html) - Bullshit Bingo *Strings*
+- [ ]  [1665](https://www.beecrowd.com.br/repository/UOJ_1665.html) - Decorando a Parede *Geometria Computacional*
+- [ ]  [1666](https://www.beecrowd.com.br/repository/UOJ_1666.html) - Qualquer Tolo Consegue *Paradigmas*
+- [ ]  [1667](https://www.beecrowd.com.br/repository/UOJ_1667.html) - HTML *Strings*
+- [ ]  [1668](https://www.beecrowd.com.br/repository/UOJ_1668.html) - Ajude o Autor do Problema *Grafos*
+- [ ]  [1669](https://www.beecrowd.com.br/repository/UOJ_1669.html) - Todos os Discos Considerados *Grafos*
+- [ ]  [1670](https://www.beecrowd.com.br/repository/UOJ_1670.html) - Lógica Booleana *Ad-Hoc*
+- [ ]  [1671](https://www.beecrowd.com.br/repository/UOJ_1671.html) - Código *Grafos*
+- [ ]  [1672](https://www.beecrowd.com.br/repository/UOJ_1672.html) - Em Perigo *Paradigmas*
+- [ ]  [1673](https://www.beecrowd.com.br/repository/UOJ_1673.html) - Codificação Run-length *Estruturas e Bibliotecas*
+- [ ]  [1674](https://www.beecrowd.com.br/repository/UOJ_1674.html) - Fractran *Matemática*
+- [ ]  [1675](https://www.beecrowd.com.br/repository/UOJ_1675.html) - Construção de Procura Binária de Heap *Grafos*
+- [ ]  [1676](https://www.beecrowd.com.br/repository/UOJ_1676.html) - Precisa-se de Ajuda *Ad-Hoc*
+- [ ]  [1677](https://www.beecrowd.com.br/repository/UOJ_1677.html) - A Base de um Grafo *Grafos*
+- [ ]  [1678](https://www.beecrowd.com.br/repository/UOJ_1678.html) - Gerenciamento de Partição Fixa em Competição *Ad-Hoc*
+- [ ]  [1679](https://www.beecrowd.com.br/repository/UOJ_1679.html) - Bebida, com Gelo *Geometria Computacional*
+- [ ]  [1680](https://www.beecrowd.com.br/repository/UOJ_1680.html) - Borda *Ad-Hoc*
+- [ ]  [1681](https://www.beecrowd.com.br/repository/UOJ_1681.html) - Dobra *Paradigmas*
+- [ ]  [1682](https://www.beecrowd.com.br/repository/UOJ_1682.html) - Código Genético *Paradigmas*
+- [ ]  [1683](https://www.beecrowd.com.br/repository/UOJ_1683.html) - Maior Retângulo em um Histograma *Estruturas e Bibliotecas*
+- [ ]  [1684](https://www.beecrowd.com.br/repository/UOJ_1684.html) - Maratona Doce *Ad-Hoc*
+- [ ]  [1685](https://www.beecrowd.com.br/repository/UOJ_1685.html) - Praça de Daniel *Paradigmas*
+- [ ]  [1686](https://www.beecrowd.com.br/repository/UOJ_1686.html) - Sequência de Palíndromos *Strings*
+- [ ]  [1687](https://www.beecrowd.com.br/repository/UOJ_1687.html) - Destrave o Celular *Paradigmas*
+- [ ]  [1688](https://www.beecrowd.com.br/repository/UOJ_1688.html) - Nim Intergalático *Matemática*
+- [ ]  [1689](https://www.beecrowd.com.br/repository/UOJ_1689.html) - Radares *Paradigmas*
+- [ ]  [1690](https://www.beecrowd.com.br/repository/UOJ_1690.html) - Soma de Sobconjuntos *Paradigmas*
+- [ ]  [1691](https://www.beecrowd.com.br/repository/UOJ_1691.html) - Super Circunferência *Ad-Hoc*
+- [ ]  [1692](https://www.beecrowd.com.br/repository/UOJ_1692.html) - Curo Ataque *Grafos*
+- [ ]  [1693](https://www.beecrowd.com.br/repository/UOJ_1693.html) - Apenas Outro Problema de Física *Geometria Computacional*
+- [ ]  [1694](https://www.beecrowd.com.br/repository/UOJ_1694.html) - Loteria *Matemática*
+- [ ]  [1695](https://www.beecrowd.com.br/repository/UOJ_1695.html) - Ordenando Árvores *Grafos*
+- [ ]  [1696](https://www.beecrowd.com.br/repository/UOJ_1696.html) - Brincando Com Operadores *Estruturas e Bibliotecas*
+- [ ]  [1697](https://www.beecrowd.com.br/repository/UOJ_1697.html) - Jaida e o Jogo Multiplicativo *Matemática*
+- [ ]  [1698](https://www.beecrowd.com.br/repository/UOJ_1698.html) - Metrô Brasileiro *Grafos*
+- [ ]  [1699](https://www.beecrowd.com.br/repository/UOJ_1699.html) - Jogo Entediante *Ad-Hoc*
