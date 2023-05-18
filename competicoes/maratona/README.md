@@ -1,4 +1,4 @@
-# Maratona de Programação (59 / 412)
+# Maratona de Programação (60 / 417)
 
 
 ## 2022
@@ -499,11 +499,16 @@
 
 ### 1ª Fase
 
+- [ ]  [1148](https://www.beecrowd.com.br/repository/UOJ_1148.html) - Países em Guerra *Grafos*
 - [ ]  [1371](https://www.beecrowd.com.br/repository/UOJ_1371.html) - Fechem as Portas! *Matemática*
 - [ ]  [1404](https://www.beecrowd.com.br/repository/UOJ_1404.html) - MegaDamas *Ad-Hoc*
 - [ ]  [1405](https://www.beecrowd.com.br/repository/UOJ_1405.html) - O Problema da Parada *Estruturas e Bibliotecas*
+- [x]  [1414](https://www.beecrowd.com.br/repository/UOJ_1414.html) - [Copa do Mundo](https://github.com/potigol/beecrowd/blob/master/src/1400/1414.poti) *Ad-Hoc*
 - [x]  [1437](https://www.beecrowd.com.br/repository/UOJ_1437.html) - [Esquerda, Volver!](https://github.com/potigol/beecrowd/blob/master/src/1400/1437.poti) *Ad-Hoc*
 - [ ]  [1486](https://www.beecrowd.com.br/repository/UOJ_1486.html) - Circuito Bioquímico Digital *Ad-Hoc*
+- [ ]  [3438](https://www.beecrowd.com.br/repository/UOJ_3438.html) - Energia × Tempo *Ad-Hoc*
+- [ ]  [3439](https://www.beecrowd.com.br/repository/UOJ_3439.html) - Rota Crítica *Ad-Hoc*
+- [ ]  [3440](https://www.beecrowd.com.br/repository/UOJ_3440.html) - Amigos ou Inimigos? *Ad-Hoc*
 
 ### 2ª Fase
 
