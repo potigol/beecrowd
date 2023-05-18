@@ -1,4 +1,4 @@
-# Soluções dos Problemas do Beecrowd - Usando a linguagem Potigol
+# Soluções para problemas do Beecrowd usando a linguagem Potigol
 
 [![Join the chat at https://gitter.im/potigol/Potigol](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/potigol/Potigol?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Follow us](https://img.shields.io/twitter/follow/potigol.svg?style=social)](http://twitter.com/potigol)
@@ -7,7 +7,7 @@
 
 <!-- a href="https://potigol.github.io/docs/hacktoberfest"><img src="https://hacktoberfest.digitalocean.com/_nuxt/img/logo-hacktoberfest-full.f42e3b1.svg" width=250></a -->
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/potigol/uoj-potigol)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/potigol/beecrowd)
 [![IFRN](https://potigol.github.io/docs/logo_ifrn_40.png)](https://www.ifrn.edu.br)
 
 Soluções dos problemas do [Beecrowd](https://www.beecrowd.com.br/judge/pt/problems/all) usando a linguagem [Potigol](https://potigol.github.io)
@@ -44,9 +44,9 @@ Todas as soluções deste repositório foram submetidas e aceitas no Beecrowd us
 
 Escolha um problema ainda não resolvido e envie sua solução.
 
-- Faça um fork deste projeto <https://github.com/potigol/uoj-potigol>
+- Faça um fork deste projeto <https://github.com/potigol/beecrowd>
 - Resolva algum problema ainda não resolvido ou melhore alguma solução já existente
-- Coloque o arquivo com a solução na pasta correspondente <https://github.com/potigol/uoj-potigol/tree/master/src> .
+- Coloque o arquivo com a solução na pasta correspondente <https://github.com/potigol/beecrowd/tree/master/src> .
 - **OPCIONAL** Teste a sua solução no Beecrowd usando o script `./potigol2scala.sh ../src/1000/1000.poti`
 - **OPCIONAL** Execute `scala Build.scala` (Scala 3 ou superior) dentro da pasta `./bin` para atualizar a lista dos problemas resolvidos.
 - Faça um pull request
