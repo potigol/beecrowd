@@ -1,4 +1,4 @@
-# Ad-Hoc (212 / 771)
+# Ad-Hoc (212 / 788)
 
 
 
@@ -778,3 +778,20 @@
 - [ ]  [3420](https://www.beecrowd.com.br/repository/UOJ_3420.html) - House of Cards
 - [ ]  [3421](https://www.beecrowd.com.br/repository/UOJ_3421.html) - Infinita String de Dígitos
 - [ ]  [3423](https://www.beecrowd.com.br/repository/UOJ_3423.html) - Gostos Peculiares
+- [ ]  [3424](https://www.beecrowd.com.br/repository/UOJ_3424.html) - Achando os Monótonos Não-Triviais Maximais
+- [ ]  [3425](https://www.beecrowd.com.br/repository/UOJ_3425.html) - Brincando com Pedras
+- [ ]  [3426](https://www.beecrowd.com.br/repository/UOJ_3426.html) - Cortes a Laser
+- [ ]  [3427](https://www.beecrowd.com.br/repository/UOJ_3427.html) - Deslocando Partículas
+- [ ]  [3428](https://www.beecrowd.com.br/repository/UOJ_3428.html) - Estourando Balões
+- [ ]  [3429](https://www.beecrowd.com.br/repository/UOJ_3429.html) - Forca Multidimensional
+- [ ]  [3430](https://www.beecrowd.com.br/repository/UOJ_3430.html) - Geometria Triangular
+- [ ]  [3431](https://www.beecrowd.com.br/repository/UOJ_3431.html) - Habilitando a Movimentação
+- [ ]  [3432](https://www.beecrowd.com.br/repository/UOJ_3432.html) - Interceptando Informações
+- [ ]  [3433](https://www.beecrowd.com.br/repository/UOJ_3433.html) - Jogando 23
+- [ ]  [3434](https://www.beecrowd.com.br/repository/UOJ_3434.html) - ~~Kalel, o Sapo Saltador~~
+- [ ]  [3435](https://www.beecrowd.com.br/repository/UOJ_3435.html) - Listando Caminhos Tediosos
+- [ ]  [3436](https://www.beecrowd.com.br/repository/UOJ_3436.html) - Maratona de Amarelinha
+- [ ]  [3437](https://www.beecrowd.com.br/repository/UOJ_3437.html) - Números Virados
+- [ ]  [3438](https://www.beecrowd.com.br/repository/UOJ_3438.html) - Energia × Tempo
+- [ ]  [3439](https://www.beecrowd.com.br/repository/UOJ_3439.html) - Rota Crítica
+- [ ]  [3440](https://www.beecrowd.com.br/repository/UOJ_3440.html) - Amigos ou Inimigos?

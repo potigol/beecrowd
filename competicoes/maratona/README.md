@@ -1,11 +1,40 @@
-# Maratona de Programação (59 / 385)
+# Maratona de Programação (59 / 412)
 
 
 ## 2022
 
+### 1ª Fase
+
+- [ ]  [3424](https://www.beecrowd.com.br/repository/UOJ_3424.html) - Achando os Monótonos Não-Triviais Maximais *Ad-Hoc*
+- [ ]  [3425](https://www.beecrowd.com.br/repository/UOJ_3425.html) - Brincando com Pedras *Ad-Hoc*
+- [ ]  [3426](https://www.beecrowd.com.br/repository/UOJ_3426.html) - Cortes a Laser *Ad-Hoc*
+- [ ]  [3427](https://www.beecrowd.com.br/repository/UOJ_3427.html) - Deslocando Partículas *Ad-Hoc*
+- [ ]  [3428](https://www.beecrowd.com.br/repository/UOJ_3428.html) - Estourando Balões *Ad-Hoc*
+- [ ]  [3429](https://www.beecrowd.com.br/repository/UOJ_3429.html) - Forca Multidimensional *Ad-Hoc*
+- [ ]  [3430](https://www.beecrowd.com.br/repository/UOJ_3430.html) - Geometria Triangular *Ad-Hoc*
+- [ ]  [3431](https://www.beecrowd.com.br/repository/UOJ_3431.html) - Habilitando a Movimentação *Ad-Hoc*
+- [ ]  [3432](https://www.beecrowd.com.br/repository/UOJ_3432.html) - Interceptando Informações *Ad-Hoc*
+- [ ]  [3433](https://www.beecrowd.com.br/repository/UOJ_3433.html) - Jogando 23 *Ad-Hoc*
+- [ ]  [3434](https://www.beecrowd.com.br/repository/UOJ_3434.html) - ~~Kalel, o Sapo Saltador~~ *Ad-Hoc*
+- [ ]  [3435](https://www.beecrowd.com.br/repository/UOJ_3435.html) - Listando Caminhos Tediosos *Ad-Hoc*
+- [ ]  [3436](https://www.beecrowd.com.br/repository/UOJ_3436.html) - Maratona de Amarelinha *Ad-Hoc*
+- [ ]  [3437](https://www.beecrowd.com.br/repository/UOJ_3437.html) - Números Virados *Ad-Hoc*
 
 ### 2ª Fase
 
+- [ ] ~~xxxx~~
+- [ ] ~~xxxx~~
+- [ ] ~~xxxx~~
+- [ ] ~~xxxx~~
+- [ ] ~~xxxx~~
+- [ ] ~~xxxx~~
+- [ ] ~~xxxx~~
+- [ ] ~~xxxx~~
+- [ ] ~~xxxx~~
+- [ ] ~~xxxx~~
+- [ ] ~~xxxx~~
+- [ ] ~~xxxx~~
+- [ ] ~~xxxx~~
 - [ ] ~~xxxx~~
        
 

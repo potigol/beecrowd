@@ -1,4 +1,4 @@
-# Problemas 3400 (13%)
+# Problemas 3400 (7%)
 
 - [ ]  [3400](https://www.beecrowd.com.br/repository/UOJ_3400.html) - Amigo não tão secreto assim *Ad-Hoc*
 - [ ]  [3401](https://www.beecrowd.com.br/repository/UOJ_3401.html) - Bicho da Goiaba Ataca Novamente *Ad-Hoc*
@@ -24,23 +24,23 @@
 - [ ]  [3421](https://www.beecrowd.com.br/repository/UOJ_3421.html) - Infinita String de Dígitos *Ad-Hoc*
 - [x]  [3422](https://www.beecrowd.com.br/repository/UOJ_3422.html) - [José e a Súmula](https://github.com/potigol/beecrowd/blob/master/src/3400/3422.poti) *Ad-Hoc*
 - [ ]  [3423](https://www.beecrowd.com.br/repository/UOJ_3423.html) - Gostos Peculiares *Ad-Hoc*
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
+- [ ]  [3424](https://www.beecrowd.com.br/repository/UOJ_3424.html) - Achando os Monótonos Não-Triviais Maximais *Ad-Hoc*
+- [ ]  [3425](https://www.beecrowd.com.br/repository/UOJ_3425.html) - Brincando com Pedras *Ad-Hoc*
+- [ ]  [3426](https://www.beecrowd.com.br/repository/UOJ_3426.html) - Cortes a Laser *Ad-Hoc*
+- [ ]  [3427](https://www.beecrowd.com.br/repository/UOJ_3427.html) - Deslocando Partículas *Ad-Hoc*
+- [ ]  [3428](https://www.beecrowd.com.br/repository/UOJ_3428.html) - Estourando Balões *Ad-Hoc*
+- [ ]  [3429](https://www.beecrowd.com.br/repository/UOJ_3429.html) - Forca Multidimensional *Ad-Hoc*
+- [ ]  [3430](https://www.beecrowd.com.br/repository/UOJ_3430.html) - Geometria Triangular *Ad-Hoc*
+- [ ]  [3431](https://www.beecrowd.com.br/repository/UOJ_3431.html) - Habilitando a Movimentação *Ad-Hoc*
+- [ ]  [3432](https://www.beecrowd.com.br/repository/UOJ_3432.html) - Interceptando Informações *Ad-Hoc*
+- [ ]  [3433](https://www.beecrowd.com.br/repository/UOJ_3433.html) - Jogando 23 *Ad-Hoc*
+- [ ]  [3434](https://www.beecrowd.com.br/repository/UOJ_3434.html) - ~~Kalel, o Sapo Saltador~~ *Ad-Hoc*
+- [ ]  [3435](https://www.beecrowd.com.br/repository/UOJ_3435.html) - Listando Caminhos Tediosos *Ad-Hoc*
+- [ ]  [3436](https://www.beecrowd.com.br/repository/UOJ_3436.html) - Maratona de Amarelinha *Ad-Hoc*
+- [ ]  [3437](https://www.beecrowd.com.br/repository/UOJ_3437.html) - Números Virados *Ad-Hoc*
+- [ ]  [3438](https://www.beecrowd.com.br/repository/UOJ_3438.html) - Energia × Tempo *Ad-Hoc*
+- [ ]  [3439](https://www.beecrowd.com.br/repository/UOJ_3439.html) - Rota Crítica *Ad-Hoc*
+- [ ]  [3440](https://www.beecrowd.com.br/repository/UOJ_3440.html) - Amigos ou Inimigos? *Ad-Hoc*
 - [ ] ~~xxxx~~
 - [ ] ~~xxxx~~
 - [ ] ~~xxxx~~

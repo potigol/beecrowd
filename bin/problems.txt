@@ -2321,3 +2321,20 @@
 3421	Infinita String de Dígitos	Ad-Hoc
 3422	José e a Súmula	Ad-Hoc
 3423	Gostos Peculiares	Ad-Hoc
+3424	Achando os Monótonos Não-Triviais Maximais	Ad-Hoc
+3425	Brincando com Pedras	Ad-Hoc
+3426	Cortes a Laser	Ad-Hoc
+3427	Deslocando Partículas	Ad-Hoc
+3428	Estourando Balões	Ad-Hoc
+3429	Forca Multidimensional	Ad-Hoc
+3430	Geometria Triangular	Ad-Hoc
+3431	Habilitando a Movimentação	Ad-Hoc
+3432	Interceptando Informações	Ad-Hoc
+3433	Jogando 23	Ad-Hoc
+3434	~~Kalel, o Sapo Saltador~~	Ad-Hoc
+3435	Listando Caminhos Tediosos	Ad-Hoc
+3436	Maratona de Amarelinha	Ad-Hoc
+3437	Números Virados	Ad-Hoc
+3438	Energia × Tempo	Ad-Hoc
+3439	Rota Crítica	Ad-Hoc
+3440	Amigos ou Inimigos?	Ad-Hoc
