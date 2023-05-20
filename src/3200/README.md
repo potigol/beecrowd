@@ -1,4 +1,4 @@
-# Problemas 3200 (21%)
+# Problemas 3200 (23%)
 
 - [ ]  [3200](https://www.beecrowd.com.br/repository/UOJ_3200.html) - Card Trick *Ad-Hoc*
 - [ ]  [3201](https://www.beecrowd.com.br/repository/UOJ_3201.html) - Traveling Salesman *Estruturas e Bibliotecas*
@@ -58,7 +58,7 @@
 - [ ]  [3255](https://www.beecrowd.com.br/repository/UOJ_3255.html) - A Vez to Primo *Iniciante*
 - [ ]  [3256](https://www.beecrowd.com.br/repository/UOJ_3256.html) - Divisão Inimiga *Iniciante*
 - [x]  [3257](https://www.beecrowd.com.br/repository/UOJ_3257.html) - [Plantando Árvores](https://github.com/potigol/beecrowd/blob/master/src/3200/3257.poti) *Matemática*
-- [ ]  [3258](https://www.beecrowd.com.br/repository/UOJ_3258.html) - Fervendo Vegetais *Iniciante*
+- [x]  [3258](https://www.beecrowd.com.br/repository/UOJ_3258.html) - [Fervendo Vegetais](https://github.com/potigol/beecrowd/blob/master/src/3200/3258.poti) *Iniciante*
 - [ ]  [3259](https://www.beecrowd.com.br/repository/UOJ_3259.html) - Truque Numérico *Matemática*
 - [ ]  [3260](https://www.beecrowd.com.br/repository/UOJ_3260.html) - Robert Hood *Geometria Computacional*
 - [ ]  [3261](https://www.beecrowd.com.br/repository/UOJ_3261.html) - Replicação de Vírus *Strings*

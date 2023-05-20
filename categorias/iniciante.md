@@ -1,4 +1,4 @@
-# Iniciante (322 / 336)
+# Iniciante (323 / 336)
 
 
 
@@ -316,6 +316,7 @@
 - [x]  [3241](https://www.beecrowd.com.br/repository/UOJ_3241.html) - [Ajude um Candidato a PhD!](https://github.com/potigol/beecrowd/blob/master/src/3200/3241.poti)
 - [x]  [3249](https://www.beecrowd.com.br/repository/UOJ_3249.html) - [Death Knight Hero](https://github.com/potigol/beecrowd/blob/master/src/3200/3249.poti)
 - [x]  [3250](https://www.beecrowd.com.br/repository/UOJ_3250.html) - [Problema no Elevador](https://github.com/potigol/beecrowd/blob/master/src/3200/3250.poti)
+- [x]  [3258](https://www.beecrowd.com.br/repository/UOJ_3258.html) - [Fervendo Vegetais](https://github.com/potigol/beecrowd/blob/master/src/3200/3258.poti)
 - [x]  [3299](https://www.beecrowd.com.br/repository/UOJ_3299.html) - [Números Má Sorte Pequenos](https://github.com/potigol/beecrowd/blob/master/src/3200/3299.poti)
 - [x]  [3301](https://www.beecrowd.com.br/repository/UOJ_3301.html) - [Sobrinho do Meio](https://github.com/potigol/beecrowd/blob/master/src/3300/3301.poti)
 - [x]  [3302](https://www.beecrowd.com.br/repository/UOJ_3302.html) - [Resposta Certa](https://github.com/potigol/beecrowd/blob/master/src/3300/3302.poti)
@@ -341,5 +342,4 @@
 - [ ]  [3253](https://www.beecrowd.com.br/repository/UOJ_3253.html) - Problemas com o Carro
 - [ ]  [3255](https://www.beecrowd.com.br/repository/UOJ_3255.html) - A Vez to Primo
 - [ ]  [3256](https://www.beecrowd.com.br/repository/UOJ_3256.html) - Divisão Inimiga
-- [ ]  [3258](https://www.beecrowd.com.br/repository/UOJ_3258.html) - Fervendo Vegetais
 - [ ]  [3267](https://www.beecrowd.com.br/repository/UOJ_3267.html) - Passeio no Penhasco

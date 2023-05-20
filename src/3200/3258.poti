@@ -1,0 +1,13 @@
+t = leia_reais(" ")[1]
+var ws := leia_inteiros(" ").ordene.mapeie(x => (x, 1, x.real))
+n = ws.tamanho
+var cortes := 0
+enquanto ws[1].terceiro / ws[n].terceiro < t faça
+  wsn = ws[n]
+  c = wsn.segundo + 1
+  p = wsn.primeiro / c
+  ws[n] := (wsn.primeiro, c, p)
+  ws := ws.ordene(x => x.terceiro)
+  cortes := cortes + 1
+fim
+escreva cortes
