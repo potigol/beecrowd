@@ -1,4 +1,4 @@
-# Ad-Hoc (17 / 103)
+# Ad-Hoc (18 / 114)
 
 
 
@@ -21,6 +21,7 @@
 - [x]  [2349](https://www.beecrowd.com.br/repository/UOJ_2349.html) - [Farm Robot](https://github.com/potigol/beecrowd/blob/master/src/2300/2349.poti)
 - [x]  [3024](https://www.beecrowd.com.br/repository/UOJ_3024.html) - [Mountain Ranges](https://github.com/potigol/beecrowd/blob/master/src/3000/3024.poti)
 - [x]  [3369](https://www.beecrowd.com.br/repository/UOJ_3369.html) - [KIARA is a Recursive Acronym](https://github.com/potigol/beecrowd/blob/master/src/3300/3369.poti)
+- [x]  [3445](https://www.beecrowd.com.br/repository/UOJ_3445.html) - [Passeios cotidianos](https://github.com/potigol/beecrowd/blob/master/src/3400/3445.poti)
 
 ## Problemas não resolvidos
 
@@ -110,3 +111,13 @@
 - [ ]  [3368](https://www.beecrowd.com.br/repository/UOJ_3368.html) - Joining Pairs
 - [ ]  [3370](https://www.beecrowd.com.br/repository/UOJ_3370.html) - Leaving Yharnam
 - [ ]  [3371](https://www.beecrowd.com.br/repository/UOJ_3371.html) - Most Ordered Way
+- [ ]  [3442](https://www.beecrowd.com.br/repository/UOJ_3442.html) - Pedindo dinheiro
+- [ ]  [3443](https://www.beecrowd.com.br/repository/UOJ_3443.html) - Jogo de tabuleiro
+- [ ]  [3444](https://www.beecrowd.com.br/repository/UOJ_3444.html) - Dobras da Cidade
+- [ ]  [3446](https://www.beecrowd.com.br/repository/UOJ_3446.html) - Quadrados Vazios
+- [ ]  [3447](https://www.beecrowd.com.br/repository/UOJ_3447.html) - Árvore Preferida
+- [ ]  [3448](https://www.beecrowd.com.br/repository/UOJ_3448.html) - Detector de Ondas Gravitacionais
+- [ ]  [3449](https://www.beecrowd.com.br/repository/UOJ_3449.html) - Restaurante Italian Calzone & Pasta Corner
+- [ ]  [3450](https://www.beecrowd.com.br/repository/UOJ_3450.html) - Participando de uma Maratona
+- [ ]  [3451](https://www.beecrowd.com.br/repository/UOJ_3451.html) - Impressão Preguiçosa
+- [ ]  [3452](https://www.beecrowd.com.br/repository/UOJ_3452.html) - Labirinto em Parafuso

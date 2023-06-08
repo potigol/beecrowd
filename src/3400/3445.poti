@@ -1,0 +1,9 @@
+entrada = leia_inteiros(" ")
+n = entrada[1]
+var h, w := entrada[2], entrada[3]
+para i de 1 até n faça
+  chuva = leia_textos(" ")
+  H = se chuva[1] == "Y" ou w == 0 então h := h - 1 w := w + 1 "Y" senão "N" fim
+  W = se chuva[2] == "Y" ou h == 0 então w := w - 1 h := h + 1 "Y" senão "N" fim
+  escreva "{H} {W}"
+fim
