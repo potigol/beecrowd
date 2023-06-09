@@ -2338,14 +2338,14 @@
 3438	Energia × Tempo	Ad-Hoc
 3439	Rota Crítica	Ad-Hoc
 3440	Amigos ou Inimigos?	Ad-Hoc
-3442	Pedindo dinheiro	Ad-Hoc
-3443	Jogo de tabuleiro	Ad-Hoc
-3444	Dobras da Cidade	Ad-Hoc
-3445	Passeios cotidianos	Ad-Hoc
-3446	Quadrados Vazios	Ad-Hoc
-3447	Árvore Preferida	Ad-Hoc
-3448	Detector de Ondas Gravitacionais	Ad-Hoc
-3449	Restaurante Italian Calzone & Pasta Corner	Ad-Hoc
-3450	Participando de uma Maratona	Ad-Hoc
-3451	Impressão Preguiçosa	Ad-Hoc
-3452	Labirinto em Parafuso	Ad-Hoc
+3442	~~Pedindo dinheiro~~	Ad-Hoc
+3443	~~Jogo de tabuleiro~~	Ad-Hoc
+3444	~~Dobras da Cidade~~	Ad-Hoc
+3445	~~Passeios cotidianos~~	Ad-Hoc
+3446	~~Quadrados Vazios~~	Ad-Hoc
+3447	~~Árvore Preferida~~	Ad-Hoc
+3448	~~Detector de Ondas Gravitacionais~~	Ad-Hoc
+3449	~~Restaurante Italian Calzone & Pasta Corner~~	Ad-Hoc
+3450	~~Participando de uma Maratona~~	Ad-Hoc
+3451	~~Impressão Preguiçosa~~	Ad-Hoc
+3452	~~Labirinto em Parafuso~~	Ad-Hoc

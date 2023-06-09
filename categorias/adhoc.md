@@ -216,7 +216,7 @@
 - [x]  [3412](https://www.beecrowd.com.br/repository/UOJ_3412.html) - [Avaliações de Algoritmos](https://github.com/potigol/beecrowd/blob/master/src/3400/3412.poti)
 - [x]  [3416](https://www.beecrowd.com.br/repository/UOJ_3416.html) - [Eu Quero Cafééé](https://github.com/potigol/beecrowd/blob/master/src/3400/3416.poti)
 - [x]  [3422](https://www.beecrowd.com.br/repository/UOJ_3422.html) - [José e a Súmula](https://github.com/potigol/beecrowd/blob/master/src/3400/3422.poti)
-- [x]  [3445](https://www.beecrowd.com.br/repository/UOJ_3445.html) - [Passeios cotidianos](https://github.com/potigol/beecrowd/blob/master/src/3400/3445.poti)
+- [x]  [3445](https://www.beecrowd.com.br/repository/UOJ_3445.html) - [~~Passeios cotidianos~~](https://github.com/potigol/beecrowd/blob/master/src/3400/3445.poti)
 
 ## Problemas não resolvidos
 
@@ -796,13 +796,13 @@
 - [ ]  [3438](https://www.beecrowd.com.br/repository/UOJ_3438.html) - Energia × Tempo
 - [ ]  [3439](https://www.beecrowd.com.br/repository/UOJ_3439.html) - Rota Crítica
 - [ ]  [3440](https://www.beecrowd.com.br/repository/UOJ_3440.html) - Amigos ou Inimigos?
-- [ ]  [3442](https://www.beecrowd.com.br/repository/UOJ_3442.html) - Pedindo dinheiro
-- [ ]  [3443](https://www.beecrowd.com.br/repository/UOJ_3443.html) - Jogo de tabuleiro
-- [ ]  [3444](https://www.beecrowd.com.br/repository/UOJ_3444.html) - Dobras da Cidade
-- [ ]  [3446](https://www.beecrowd.com.br/repository/UOJ_3446.html) - Quadrados Vazios
-- [ ]  [3447](https://www.beecrowd.com.br/repository/UOJ_3447.html) - Árvore Preferida
-- [ ]  [3448](https://www.beecrowd.com.br/repository/UOJ_3448.html) - Detector de Ondas Gravitacionais
-- [ ]  [3449](https://www.beecrowd.com.br/repository/UOJ_3449.html) - Restaurante Italian Calzone & Pasta Corner
-- [ ]  [3450](https://www.beecrowd.com.br/repository/UOJ_3450.html) - Participando de uma Maratona
-- [ ]  [3451](https://www.beecrowd.com.br/repository/UOJ_3451.html) - Impressão Preguiçosa
-- [ ]  [3452](https://www.beecrowd.com.br/repository/UOJ_3452.html) - Labirinto em Parafuso
+- [ ]  [3442](https://www.beecrowd.com.br/repository/UOJ_3442.html) - ~~Pedindo dinheiro~~
+- [ ]  [3443](https://www.beecrowd.com.br/repository/UOJ_3443.html) - ~~Jogo de tabuleiro~~
+- [ ]  [3444](https://www.beecrowd.com.br/repository/UOJ_3444.html) - ~~Dobras da Cidade~~
+- [ ]  [3446](https://www.beecrowd.com.br/repository/UOJ_3446.html) - ~~Quadrados Vazios~~
+- [ ]  [3447](https://www.beecrowd.com.br/repository/UOJ_3447.html) - ~~Árvore Preferida~~
+- [ ]  [3448](https://www.beecrowd.com.br/repository/UOJ_3448.html) - ~~Detector de Ondas Gravitacionais~~
+- [ ]  [3449](https://www.beecrowd.com.br/repository/UOJ_3449.html) - ~~Restaurante Italian Calzone & Pasta Corner~~
+- [ ]  [3450](https://www.beecrowd.com.br/repository/UOJ_3450.html) - ~~Participando de uma Maratona~~
+- [ ]  [3451](https://www.beecrowd.com.br/repository/UOJ_3451.html) - ~~Impressão Preguiçosa~~
+- [ ]  [3452](https://www.beecrowd.com.br/repository/UOJ_3452.html) - ~~Labirinto em Parafuso~~
