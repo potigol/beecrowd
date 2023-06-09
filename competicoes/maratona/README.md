@@ -32,7 +32,7 @@
 - [ ]  [3449](https://www.beecrowd.com.br/repository/UOJ_3449.html) - ~~Restaurante Italian Calzone & Pasta Corner~~ *Ad-Hoc*
 - [ ]  [3450](https://www.beecrowd.com.br/repository/UOJ_3450.html) - ~~Participando de uma Maratona~~ *Ad-Hoc*
 - [ ]  [3451](https://www.beecrowd.com.br/repository/UOJ_3451.html) - ~~Impressão Preguiçosa~~ *Ad-Hoc*
-- [ ]  [3452](https://www.beecrowd.com.br/repository/UOJ_3452.html) - ~~Labirinto em Parafuso~~ *Ad-Hoc*
+- [ ]  [3452](https://www.beecrowd.com.br/repository/UOJ_3452.html) - Labirinto em Parafuso *Ad-Hoc*
        
 
 ## 2021
@@ -66,20 +66,20 @@
 
 ### 2ª Fase
 
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
+- [ ]  [3316](https://www.beecrowd.com.br/repository/UOJ_3316.html) - ~~Almost Origami~~ *Ad-Hoc*
+- [ ]  [3317](https://www.beecrowd.com.br/repository/UOJ_3317.html) - ~~Beautiful Mountains~~ *Ad-Hoc*
+- [ ]  [3318](https://www.beecrowd.com.br/repository/UOJ_3318.html) - ~~Crisis at the Wedding~~ *Ad-Hoc*
+- [ ]  [3319](https://www.beecrowd.com.br/repository/UOJ_3319.html) - ~~Dividing Candy~~ *Ad-Hoc*
+- [ ]  [3320](https://www.beecrowd.com.br/repository/UOJ_3320.html) - ~~Excellent Views~~ *Ad-Hoc*
+- [ ]  [3321](https://www.beecrowd.com.br/repository/UOJ_3321.html) - ~~Fascinating Partitions~~ *Ad-Hoc*
+- [ ]  [3322](https://www.beecrowd.com.br/repository/UOJ_3322.html) - ~~Game of Slots~~ *Ad-Hoc*
+- [ ]  [3323](https://www.beecrowd.com.br/repository/UOJ_3323.html) - ~~Halting Wolf~~ *Ad-Hoc*
+- [ ]  [3324](https://www.beecrowd.com.br/repository/UOJ_3324.html) - ~~Impenetrable Wall~~ *Ad-Hoc*
+- [ ]  [3325](https://www.beecrowd.com.br/repository/UOJ_3325.html) - ~~Job Allocator~~ *Ad-Hoc*
+- [ ]  [3326](https://www.beecrowd.com.br/repository/UOJ_3326.html) - ~~Keylogger~~ *Ad-Hoc*
+- [ ]  [3327](https://www.beecrowd.com.br/repository/UOJ_3327.html) - ~~Lola's Schedule~~ *Ad-Hoc*
+- [ ]  [3328](https://www.beecrowd.com.br/repository/UOJ_3328.html) - ~~May I Add a Letter?~~ *Ad-Hoc*
+- [ ]  [3329](https://www.beecrowd.com.br/repository/UOJ_3329.html) - ~~Non-Integer Donuts~~ *Ad-Hoc*
        
 
 ## 2019

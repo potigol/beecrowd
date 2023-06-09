@@ -2262,6 +2262,20 @@
 3313	Jogo de Palavras	Strings
 3314	Konfusa, a Colmeia!	Grafos
 3315	Língua do Computador	Ad-Hoc
+3316	~~Almost Origami~~	Ad-Hoc
+3317	~~Beautiful Mountains~~	Ad-Hoc
+3318	~~Crisis at the Wedding~~	Ad-Hoc
+3319	~~Dividing Candy~~	Ad-Hoc
+3320	~~Excellent Views~~	Ad-Hoc
+3321	~~Fascinating Partitions~~	Ad-Hoc
+3322	~~Game of Slots~~	Ad-Hoc
+3323	~~Halting Wolf~~	Ad-Hoc
+3324	~~Impenetrable Wall~~	Ad-Hoc
+3325	~~Job Allocator~~	Ad-Hoc
+3326	~~Keylogger~~	Ad-Hoc
+3327	~~Lola's Schedule~~	Ad-Hoc
+3328	~~May I Add a Letter?~~	Ad-Hoc
+3329	~~Non-Integer Donuts~~	Ad-Hoc
 3339	Carina	Matemática
 3340	Estudante De Mestrado	Grafos
 3341	Grandmaster do Jogo do Caneco	Matemática
@@ -2300,6 +2314,7 @@
 3399	Meu nome é Enésimo!	Ad-Hoc
 3400	Amigo não tão secreto assim	Ad-Hoc
 3401	Bicho da Goiaba Ataca Novamente	Ad-Hoc
+3402	~~Caminho Mais Curto?~~	Ad-Hoc
 3403	Dengoso	Ad-Hoc
 3404	Estranho ou Engraçado	Ad-Hoc
 3405	Fatorial	Ad-Hoc
@@ -2348,4 +2363,4 @@
 3449	~~Restaurante Italian Calzone & Pasta Corner~~	Ad-Hoc
 3450	~~Participando de uma Maratona~~	Ad-Hoc
 3451	~~Impressão Preguiçosa~~	Ad-Hoc
-3452	~~Labirinto em Parafuso~~	Ad-Hoc
+3452	Labirinto em Parafuso	Ad-Hoc

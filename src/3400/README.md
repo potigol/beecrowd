@@ -1,8 +1,8 @@
-# Problemas 3400 (10%)
+# Problemas 3400 (9%)
 
 - [ ]  [3400](https://www.beecrowd.com.br/repository/UOJ_3400.html) - Amigo não tão secreto assim *Ad-Hoc*
 - [ ]  [3401](https://www.beecrowd.com.br/repository/UOJ_3401.html) - Bicho da Goiaba Ataca Novamente *Ad-Hoc*
-- [ ] ~~xxxx~~
+- [ ]  [3402](https://www.beecrowd.com.br/repository/UOJ_3402.html) - ~~Caminho Mais Curto?~~ *Ad-Hoc*
 - [ ]  [3403](https://www.beecrowd.com.br/repository/UOJ_3403.html) - Dengoso *Ad-Hoc*
 - [ ]  [3404](https://www.beecrowd.com.br/repository/UOJ_3404.html) - Estranho ou Engraçado *Ad-Hoc*
 - [ ]  [3405](https://www.beecrowd.com.br/repository/UOJ_3405.html) - Fatorial *Ad-Hoc*
@@ -52,7 +52,7 @@
 - [ ]  [3449](https://www.beecrowd.com.br/repository/UOJ_3449.html) - ~~Restaurante Italian Calzone & Pasta Corner~~ *Ad-Hoc*
 - [ ]  [3450](https://www.beecrowd.com.br/repository/UOJ_3450.html) - ~~Participando de uma Maratona~~ *Ad-Hoc*
 - [ ]  [3451](https://www.beecrowd.com.br/repository/UOJ_3451.html) - ~~Impressão Preguiçosa~~ *Ad-Hoc*
-- [ ]  [3452](https://www.beecrowd.com.br/repository/UOJ_3452.html) - ~~Labirinto em Parafuso~~ *Ad-Hoc*
+- [ ]  [3452](https://www.beecrowd.com.br/repository/UOJ_3452.html) - Labirinto em Parafuso *Ad-Hoc*
 - [ ] ~~xxxx~~
 - [ ] ~~xxxx~~
 - [ ] ~~xxxx~~

@@ -1,4 +1,4 @@
-# Ad-Hoc (18 / 114)
+# Ad-Hoc (18 / 128)
 
 
 
@@ -99,6 +99,20 @@
 - [ ]  [3021](https://www.beecrowd.com.br/repository/UOJ_3021.html) - Jumping Grasshopper
 - [ ]  [3022](https://www.beecrowd.com.br/repository/UOJ_3022.html) - Know your Aliens
 - [ ]  [3023](https://www.beecrowd.com.br/repository/UOJ_3023.html) - Leverage MDT
+- [ ]  [3316](https://www.beecrowd.com.br/repository/UOJ_3316.html) - ~~Almost Origami~~
+- [ ]  [3317](https://www.beecrowd.com.br/repository/UOJ_3317.html) - ~~Beautiful Mountains~~
+- [ ]  [3318](https://www.beecrowd.com.br/repository/UOJ_3318.html) - ~~Crisis at the Wedding~~
+- [ ]  [3319](https://www.beecrowd.com.br/repository/UOJ_3319.html) - ~~Dividing Candy~~
+- [ ]  [3320](https://www.beecrowd.com.br/repository/UOJ_3320.html) - ~~Excellent Views~~
+- [ ]  [3321](https://www.beecrowd.com.br/repository/UOJ_3321.html) - ~~Fascinating Partitions~~
+- [ ]  [3322](https://www.beecrowd.com.br/repository/UOJ_3322.html) - ~~Game of Slots~~
+- [ ]  [3323](https://www.beecrowd.com.br/repository/UOJ_3323.html) - ~~Halting Wolf~~
+- [ ]  [3324](https://www.beecrowd.com.br/repository/UOJ_3324.html) - ~~Impenetrable Wall~~
+- [ ]  [3325](https://www.beecrowd.com.br/repository/UOJ_3325.html) - ~~Job Allocator~~
+- [ ]  [3326](https://www.beecrowd.com.br/repository/UOJ_3326.html) - ~~Keylogger~~
+- [ ]  [3327](https://www.beecrowd.com.br/repository/UOJ_3327.html) - ~~Lola's Schedule~~
+- [ ]  [3328](https://www.beecrowd.com.br/repository/UOJ_3328.html) - ~~May I Add a Letter?~~
+- [ ]  [3329](https://www.beecrowd.com.br/repository/UOJ_3329.html) - ~~Non-Integer Donuts~~
 - [ ]  [3359](https://www.beecrowd.com.br/repository/UOJ_3359.html) - Ancient Towers
 - [ ]  [3360](https://www.beecrowd.com.br/repository/UOJ_3360.html) - Because, Art!
 - [ ]  [3361](https://www.beecrowd.com.br/repository/UOJ_3361.html) - Cyclists versus Clouds
@@ -120,4 +134,4 @@
 - [ ]  [3449](https://www.beecrowd.com.br/repository/UOJ_3449.html) - ~~Restaurante Italian Calzone & Pasta Corner~~
 - [ ]  [3450](https://www.beecrowd.com.br/repository/UOJ_3450.html) - ~~Participando de uma Maratona~~
 - [ ]  [3451](https://www.beecrowd.com.br/repository/UOJ_3451.html) - ~~Impressão Preguiçosa~~
-- [ ]  [3452](https://www.beecrowd.com.br/repository/UOJ_3452.html) - ~~Labirinto em Parafuso~~
+- [ ]  [3452](https://www.beecrowd.com.br/repository/UOJ_3452.html) - Labirinto em Parafuso

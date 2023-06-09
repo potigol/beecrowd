@@ -1,4 +1,4 @@
-# Ad-Hoc (213 / 799)
+# Ad-Hoc (213 / 814)
 
 
 
@@ -743,6 +743,20 @@
 - [ ]  [3254](https://www.beecrowd.com.br/repository/UOJ_3254.html) - Espaço Privado
 - [ ]  [3278](https://www.beecrowd.com.br/repository/UOJ_3278.html) - Passageiros de Trem
 - [ ]  [3305](https://www.beecrowd.com.br/repository/UOJ_3305.html) - Bispos Dominantes
+- [ ]  [3316](https://www.beecrowd.com.br/repository/UOJ_3316.html) - ~~Almost Origami~~
+- [ ]  [3317](https://www.beecrowd.com.br/repository/UOJ_3317.html) - ~~Beautiful Mountains~~
+- [ ]  [3318](https://www.beecrowd.com.br/repository/UOJ_3318.html) - ~~Crisis at the Wedding~~
+- [ ]  [3319](https://www.beecrowd.com.br/repository/UOJ_3319.html) - ~~Dividing Candy~~
+- [ ]  [3320](https://www.beecrowd.com.br/repository/UOJ_3320.html) - ~~Excellent Views~~
+- [ ]  [3321](https://www.beecrowd.com.br/repository/UOJ_3321.html) - ~~Fascinating Partitions~~
+- [ ]  [3322](https://www.beecrowd.com.br/repository/UOJ_3322.html) - ~~Game of Slots~~
+- [ ]  [3323](https://www.beecrowd.com.br/repository/UOJ_3323.html) - ~~Halting Wolf~~
+- [ ]  [3324](https://www.beecrowd.com.br/repository/UOJ_3324.html) - ~~Impenetrable Wall~~
+- [ ]  [3325](https://www.beecrowd.com.br/repository/UOJ_3325.html) - ~~Job Allocator~~
+- [ ]  [3326](https://www.beecrowd.com.br/repository/UOJ_3326.html) - ~~Keylogger~~
+- [ ]  [3327](https://www.beecrowd.com.br/repository/UOJ_3327.html) - ~~Lola's Schedule~~
+- [ ]  [3328](https://www.beecrowd.com.br/repository/UOJ_3328.html) - ~~May I Add a Letter?~~
+- [ ]  [3329](https://www.beecrowd.com.br/repository/UOJ_3329.html) - ~~Non-Integer Donuts~~
 - [ ]  [3351](https://www.beecrowd.com.br/repository/UOJ_3351.html) - Clickbait
 - [ ]  [3355](https://www.beecrowd.com.br/repository/UOJ_3355.html) - Pinhões no Xadrez
 - [ ]  [3359](https://www.beecrowd.com.br/repository/UOJ_3359.html) - Ancient Towers
@@ -761,6 +775,7 @@
 - [ ]  [3399](https://www.beecrowd.com.br/repository/UOJ_3399.html) - Meu nome é Enésimo!
 - [ ]  [3400](https://www.beecrowd.com.br/repository/UOJ_3400.html) - Amigo não tão secreto assim
 - [ ]  [3401](https://www.beecrowd.com.br/repository/UOJ_3401.html) - Bicho da Goiaba Ataca Novamente
+- [ ]  [3402](https://www.beecrowd.com.br/repository/UOJ_3402.html) - ~~Caminho Mais Curto?~~
 - [ ]  [3403](https://www.beecrowd.com.br/repository/UOJ_3403.html) - Dengoso
 - [ ]  [3404](https://www.beecrowd.com.br/repository/UOJ_3404.html) - Estranho ou Engraçado
 - [ ]  [3405](https://www.beecrowd.com.br/repository/UOJ_3405.html) - Fatorial
@@ -805,4 +820,4 @@
 - [ ]  [3449](https://www.beecrowd.com.br/repository/UOJ_3449.html) - ~~Restaurante Italian Calzone & Pasta Corner~~
 - [ ]  [3450](https://www.beecrowd.com.br/repository/UOJ_3450.html) - ~~Participando de uma Maratona~~
 - [ ]  [3451](https://www.beecrowd.com.br/repository/UOJ_3451.html) - ~~Impressão Preguiçosa~~
-- [ ]  [3452](https://www.beecrowd.com.br/repository/UOJ_3452.html) - ~~Labirinto em Parafuso~~
+- [ ]  [3452](https://www.beecrowd.com.br/repository/UOJ_3452.html) - Labirinto em Parafuso
