@@ -1,4 +1,4 @@
-# Ad-Hoc (213 / 814)
+# Ad-Hoc (213 / 839)
 
 
 
@@ -216,7 +216,7 @@
 - [x]  [3412](https://www.beecrowd.com.br/repository/UOJ_3412.html) - [Avaliações de Algoritmos](https://github.com/potigol/beecrowd/blob/master/src/3400/3412.poti)
 - [x]  [3416](https://www.beecrowd.com.br/repository/UOJ_3416.html) - [Eu Quero Cafééé](https://github.com/potigol/beecrowd/blob/master/src/3400/3416.poti)
 - [x]  [3422](https://www.beecrowd.com.br/repository/UOJ_3422.html) - [José e a Súmula](https://github.com/potigol/beecrowd/blob/master/src/3400/3422.poti)
-- [x]  [3445](https://www.beecrowd.com.br/repository/UOJ_3445.html) - [~~Passeios cotidianos~~](https://github.com/potigol/beecrowd/blob/master/src/3400/3445.poti)
+- [x]  [3445](https://www.beecrowd.com.br/repository/UOJ_3445.html) - [Passeios cotidianos](https://github.com/potigol/beecrowd/blob/master/src/3400/3445.poti)
 
 ## Problemas não resolvidos
 
@@ -771,6 +771,31 @@
 - [ ]  [3368](https://www.beecrowd.com.br/repository/UOJ_3368.html) - Joining Pairs
 - [ ]  [3370](https://www.beecrowd.com.br/repository/UOJ_3370.html) - Leaving Yharnam
 - [ ]  [3371](https://www.beecrowd.com.br/repository/UOJ_3371.html) - Most Ordered Way
+- [ ]  [3372](https://www.beecrowd.com.br/repository/UOJ_3372.html) - Sudoku
+- [ ]  [3373](https://www.beecrowd.com.br/repository/UOJ_3373.html) - Criptografia Da Vinci’s
+- [ ]  [3374](https://www.beecrowd.com.br/repository/UOJ_3374.html) - F de a e b até k
+- [ ]  [3375](https://www.beecrowd.com.br/repository/UOJ_3375.html) - Divisão Longa
+- [ ]  [3376](https://www.beecrowd.com.br/repository/UOJ_3376.html) - Sobreposição parcial
+- [ ]  [3377](https://www.beecrowd.com.br/repository/UOJ_3377.html) - Geometria?! Por que não??
+- [ ]  [3378](https://www.beecrowd.com.br/repository/UOJ_3378.html) - Blocos indistinguíveis
+- [ ]  [3379](https://www.beecrowd.com.br/repository/UOJ_3379.html) - Chop Ahoy!
+- [ ]  [3380](https://www.beecrowd.com.br/repository/UOJ_3380.html) - Dá um tempo!
+- [ ]  [3381](https://www.beecrowd.com.br/repository/UOJ_3381.html) - Um por todos. Todos por tudo que existe.
+- [ ]  [3382](https://www.beecrowd.com.br/repository/UOJ_3382.html) - Seja esperto!
+- [ ]  [3383](https://www.beecrowd.com.br/repository/UOJ_3383.html) - O jogo Tetris
+- [ ]  [3384](https://www.beecrowd.com.br/repository/UOJ_3384.html) - Blocos de madeira
+- [ ]  [3385](https://www.beecrowd.com.br/repository/UOJ_3385.html) - Caminhe como um egípcio
+- [ ]  [3386](https://www.beecrowd.com.br/repository/UOJ_3386.html) - O Excelente Saara
+- [ ]  [3387](https://www.beecrowd.com.br/repository/UOJ_3387.html) - Johnny odeia a Teoria dos Números
+- [ ]  [3388](https://www.beecrowd.com.br/repository/UOJ_3388.html) - A terra é plana!
+- [ ]  [3389](https://www.beecrowd.com.br/repository/UOJ_3389.html) - The Double HeLiX
+- [ ]  [3390](https://www.beecrowd.com.br/repository/UOJ_3390.html) - Alpha of Degree k
+- [ ]  [3391](https://www.beecrowd.com.br/repository/UOJ_3391.html) - Sort that Queue
+- [ ]  [3392](https://www.beecrowd.com.br/repository/UOJ_3392.html) - Still Johnny Can’t Add
+- [ ]  [3393](https://www.beecrowd.com.br/repository/UOJ_3393.html) - It’s All About Three
+- [ ]  [3394](https://www.beecrowd.com.br/repository/UOJ_3394.html) - Maça de Newton
+- [ ]  [3395](https://www.beecrowd.com.br/repository/UOJ_3395.html) - O Relógio Euclidiano
+- [ ]  [3396](https://www.beecrowd.com.br/repository/UOJ_3396.html) - Chop Ahoy! Revisited!
 - [ ]  [3397](https://www.beecrowd.com.br/repository/UOJ_3397.html) - Melhor do Multiverso
 - [ ]  [3399](https://www.beecrowd.com.br/repository/UOJ_3399.html) - Meu nome é Enésimo!
 - [ ]  [3400](https://www.beecrowd.com.br/repository/UOJ_3400.html) - Amigo não tão secreto assim
@@ -811,13 +836,13 @@
 - [ ]  [3438](https://www.beecrowd.com.br/repository/UOJ_3438.html) - Energia × Tempo
 - [ ]  [3439](https://www.beecrowd.com.br/repository/UOJ_3439.html) - Rota Crítica
 - [ ]  [3440](https://www.beecrowd.com.br/repository/UOJ_3440.html) - Amigos ou Inimigos?
-- [ ]  [3442](https://www.beecrowd.com.br/repository/UOJ_3442.html) - ~~Pedindo dinheiro~~
-- [ ]  [3443](https://www.beecrowd.com.br/repository/UOJ_3443.html) - ~~Jogo de tabuleiro~~
-- [ ]  [3444](https://www.beecrowd.com.br/repository/UOJ_3444.html) - ~~Dobras da Cidade~~
-- [ ]  [3446](https://www.beecrowd.com.br/repository/UOJ_3446.html) - ~~Quadrados Vazios~~
-- [ ]  [3447](https://www.beecrowd.com.br/repository/UOJ_3447.html) - ~~Árvore Preferida~~
-- [ ]  [3448](https://www.beecrowd.com.br/repository/UOJ_3448.html) - ~~Detector de Ondas Gravitacionais~~
-- [ ]  [3449](https://www.beecrowd.com.br/repository/UOJ_3449.html) - ~~Restaurante Italian Calzone & Pasta Corner~~
-- [ ]  [3450](https://www.beecrowd.com.br/repository/UOJ_3450.html) - ~~Participando de uma Maratona~~
-- [ ]  [3451](https://www.beecrowd.com.br/repository/UOJ_3451.html) - ~~Impressão Preguiçosa~~
+- [ ]  [3442](https://www.beecrowd.com.br/repository/UOJ_3442.html) - Pedindo dinheiro
+- [ ]  [3443](https://www.beecrowd.com.br/repository/UOJ_3443.html) - Jogo de tabuleiro
+- [ ]  [3444](https://www.beecrowd.com.br/repository/UOJ_3444.html) - Dobras da Cidade
+- [ ]  [3446](https://www.beecrowd.com.br/repository/UOJ_3446.html) - Quadrados Vazios
+- [ ]  [3447](https://www.beecrowd.com.br/repository/UOJ_3447.html) - Árvore Preferida
+- [ ]  [3448](https://www.beecrowd.com.br/repository/UOJ_3448.html) - Detector de Ondas Gravitacionais
+- [ ]  [3449](https://www.beecrowd.com.br/repository/UOJ_3449.html) - Restaurante Italian Calzone & Pasta Corner
+- [ ]  [3450](https://www.beecrowd.com.br/repository/UOJ_3450.html) - Participando de uma Maratona
+- [ ]  [3451](https://www.beecrowd.com.br/repository/UOJ_3451.html) - Impressão Preguiçosa
 - [ ]  [3452](https://www.beecrowd.com.br/repository/UOJ_3452.html) - Labirinto em Parafuso

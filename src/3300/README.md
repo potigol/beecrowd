@@ -1,4 +1,4 @@
-# Problemas 3300 (42%)
+# Problemas 3300 (28%)
 
 - [x]  [3300](https://www.beecrowd.com.br/repository/UOJ_3300.html) - [Números Má Sorte Recarregados](https://github.com/potigol/beecrowd/blob/master/src/3300/3300.poti) *Strings*
 - [x]  [3301](https://www.beecrowd.com.br/repository/UOJ_3301.html) - [Sobrinho do Meio](https://github.com/potigol/beecrowd/blob/master/src/3300/3301.poti) *Iniciante*
@@ -72,31 +72,31 @@
 - [x]  [3369](https://www.beecrowd.com.br/repository/UOJ_3369.html) - [KIARA is a Recursive Acronym](https://github.com/potigol/beecrowd/blob/master/src/3300/3369.poti) *Ad-Hoc*
 - [ ]  [3370](https://www.beecrowd.com.br/repository/UOJ_3370.html) - Leaving Yharnam *Ad-Hoc*
 - [ ]  [3371](https://www.beecrowd.com.br/repository/UOJ_3371.html) - Most Ordered Way *Ad-Hoc*
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
+- [ ]  [3372](https://www.beecrowd.com.br/repository/UOJ_3372.html) - Sudoku *Ad-Hoc*
+- [ ]  [3373](https://www.beecrowd.com.br/repository/UOJ_3373.html) - Criptografia Da Vinci’s *Ad-Hoc*
+- [ ]  [3374](https://www.beecrowd.com.br/repository/UOJ_3374.html) - F de a e b até k *Ad-Hoc*
+- [ ]  [3375](https://www.beecrowd.com.br/repository/UOJ_3375.html) - Divisão Longa *Ad-Hoc*
+- [ ]  [3376](https://www.beecrowd.com.br/repository/UOJ_3376.html) - Sobreposição parcial *Ad-Hoc*
+- [ ]  [3377](https://www.beecrowd.com.br/repository/UOJ_3377.html) - Geometria?! Por que não?? *Ad-Hoc*
+- [ ]  [3378](https://www.beecrowd.com.br/repository/UOJ_3378.html) - Blocos indistinguíveis *Ad-Hoc*
+- [ ]  [3379](https://www.beecrowd.com.br/repository/UOJ_3379.html) - Chop Ahoy! *Ad-Hoc*
+- [ ]  [3380](https://www.beecrowd.com.br/repository/UOJ_3380.html) - Dá um tempo! *Ad-Hoc*
+- [ ]  [3381](https://www.beecrowd.com.br/repository/UOJ_3381.html) - Um por todos. Todos por tudo que existe. *Ad-Hoc*
+- [ ]  [3382](https://www.beecrowd.com.br/repository/UOJ_3382.html) - Seja esperto! *Ad-Hoc*
+- [ ]  [3383](https://www.beecrowd.com.br/repository/UOJ_3383.html) - O jogo Tetris *Ad-Hoc*
+- [ ]  [3384](https://www.beecrowd.com.br/repository/UOJ_3384.html) - Blocos de madeira *Ad-Hoc*
+- [ ]  [3385](https://www.beecrowd.com.br/repository/UOJ_3385.html) - Caminhe como um egípcio *Ad-Hoc*
+- [ ]  [3386](https://www.beecrowd.com.br/repository/UOJ_3386.html) - O Excelente Saara *Ad-Hoc*
+- [ ]  [3387](https://www.beecrowd.com.br/repository/UOJ_3387.html) - Johnny odeia a Teoria dos Números *Ad-Hoc*
+- [ ]  [3388](https://www.beecrowd.com.br/repository/UOJ_3388.html) - A terra é plana! *Ad-Hoc*
+- [ ]  [3389](https://www.beecrowd.com.br/repository/UOJ_3389.html) - The Double HeLiX *Ad-Hoc*
+- [ ]  [3390](https://www.beecrowd.com.br/repository/UOJ_3390.html) - Alpha of Degree k *Ad-Hoc*
+- [ ]  [3391](https://www.beecrowd.com.br/repository/UOJ_3391.html) - Sort that Queue *Ad-Hoc*
+- [ ]  [3392](https://www.beecrowd.com.br/repository/UOJ_3392.html) - Still Johnny Can’t Add *Ad-Hoc*
+- [ ]  [3393](https://www.beecrowd.com.br/repository/UOJ_3393.html) - It’s All About Three *Ad-Hoc*
+- [ ]  [3394](https://www.beecrowd.com.br/repository/UOJ_3394.html) - Maça de Newton *Ad-Hoc*
+- [ ]  [3395](https://www.beecrowd.com.br/repository/UOJ_3395.html) - O Relógio Euclidiano *Ad-Hoc*
+- [ ]  [3396](https://www.beecrowd.com.br/repository/UOJ_3396.html) - Chop Ahoy! Revisited! *Ad-Hoc*
 - [ ]  [3397](https://www.beecrowd.com.br/repository/UOJ_3397.html) - Melhor do Multiverso *Ad-Hoc*
 - [x]  [3398](https://www.beecrowd.com.br/repository/UOJ_3398.html) - [Moeda Convertida](https://github.com/potigol/beecrowd/blob/master/src/3300/3398.poti) *Ad-Hoc*
 - [ ]  [3399](https://www.beecrowd.com.br/repository/UOJ_3399.html) - Meu nome é Enésimo! *Ad-Hoc*

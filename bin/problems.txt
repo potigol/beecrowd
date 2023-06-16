@@ -2309,6 +2309,31 @@
 3369	KIARA is a Recursive Acronym	Ad-Hoc
 3370	Leaving Yharnam	Ad-Hoc
 3371	Most Ordered Way	Ad-Hoc
+3372	Sudoku	Ad-Hoc
+3373	Criptografia Da Vinci’s	Ad-Hoc
+3374	F de a e b até k	Ad-Hoc
+3375	Divisão Longa	Ad-Hoc
+3376	Sobreposição parcial	Ad-Hoc
+3377	Geometria?! Por que não??	Ad-Hoc
+3378	Blocos indistinguíveis	Ad-Hoc
+3379	Chop Ahoy!	Ad-Hoc
+3380	Dá um tempo!	Ad-Hoc
+3381	Um por todos. Todos por tudo que existe.	Ad-Hoc
+3382	Seja esperto!	Ad-Hoc
+3383	O jogo Tetris	Ad-Hoc
+3384	Blocos de madeira	Ad-Hoc
+3385	Caminhe como um egípcio	Ad-Hoc
+3386	O Excelente Saara	Ad-Hoc
+3387	Johnny odeia a Teoria dos Números	Ad-Hoc
+3388	A terra é plana!	Ad-Hoc
+3389	The Double HeLiX	Ad-Hoc
+3390	Alpha of Degree k	Ad-Hoc
+3391	Sort that Queue	Ad-Hoc
+3392	Still Johnny Can’t Add	Ad-Hoc
+3393	It’s All About Three	Ad-Hoc
+3394	Maça de Newton	Ad-Hoc
+3395	O Relógio Euclidiano	Ad-Hoc
+3396	Chop Ahoy! Revisited!	Ad-Hoc
 3397	Melhor do Multiverso	Ad-Hoc
 3398	Moeda Convertida	Ad-Hoc
 3399	Meu nome é Enésimo!	Ad-Hoc
@@ -2353,14 +2378,14 @@
 3438	Energia × Tempo	Ad-Hoc
 3439	Rota Crítica	Ad-Hoc
 3440	Amigos ou Inimigos?	Ad-Hoc
-3442	~~Pedindo dinheiro~~	Ad-Hoc
-3443	~~Jogo de tabuleiro~~	Ad-Hoc
-3444	~~Dobras da Cidade~~	Ad-Hoc
-3445	~~Passeios cotidianos~~	Ad-Hoc
-3446	~~Quadrados Vazios~~	Ad-Hoc
-3447	~~Árvore Preferida~~	Ad-Hoc
-3448	~~Detector de Ondas Gravitacionais~~	Ad-Hoc
-3449	~~Restaurante Italian Calzone & Pasta Corner~~	Ad-Hoc
-3450	~~Participando de uma Maratona~~	Ad-Hoc
-3451	~~Impressão Preguiçosa~~	Ad-Hoc
+3442	Pedindo dinheiro	Ad-Hoc
+3443	Jogo de tabuleiro	Ad-Hoc
+3444	Dobras da Cidade	Ad-Hoc
+3445	Passeios cotidianos	Ad-Hoc
+3446	Quadrados Vazios	Ad-Hoc
+3447	Árvore Preferida	Ad-Hoc
+3448	Detector de Ondas Gravitacionais	Ad-Hoc
+3449	Restaurante Italian Calzone & Pasta Corner	Ad-Hoc
+3450	Participando de uma Maratona	Ad-Hoc
+3451	Impressão Preguiçosa	Ad-Hoc
 3452	Labirinto em Parafuso	Ad-Hoc
