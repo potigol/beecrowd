@@ -1,0 +1,7 @@
+ns = leia_texto
+sucesso = ns.selecione(_ == '9').tamanho == 0
+se sucesso então
+  escreva "S"
+senão
+  escreva "F"
+fim

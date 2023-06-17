@@ -1,4 +1,4 @@
-# Problemas 3400 (8%)
+# Problemas 3400 (10%)
 
 - [ ]  [3400](https://www.beecrowd.com.br/repository/UOJ_3400.html) - Amigo não tão secreto assim *Ad-Hoc*
 - [ ]  [3401](https://www.beecrowd.com.br/repository/UOJ_3401.html) - Bicho da Goiaba Ataca Novamente *Ad-Hoc*
@@ -32,7 +32,7 @@
 - [ ]  [3429](https://www.beecrowd.com.br/repository/UOJ_3429.html) - Forca Multidimensional *Ad-Hoc*
 - [ ]  [3430](https://www.beecrowd.com.br/repository/UOJ_3430.html) - Geometria Triangular *Ad-Hoc*
 - [ ]  [3431](https://www.beecrowd.com.br/repository/UOJ_3431.html) - Habilitando a Movimentação *Ad-Hoc*
-- [ ]  [3432](https://www.beecrowd.com.br/repository/UOJ_3432.html) - Interceptando Informações *Ad-Hoc*
+- [x]  [3432](https://www.beecrowd.com.br/repository/UOJ_3432.html) - [Interceptando Informações](https://github.com/potigol/beecrowd/blob/master/src/3400/3432.poti) *Ad-Hoc*
 - [ ]  [3433](https://www.beecrowd.com.br/repository/UOJ_3433.html) - Jogando 23 *Ad-Hoc*
 - [ ]  [3434](https://www.beecrowd.com.br/repository/UOJ_3434.html) - ~~Kalel, o Sapo Saltador~~ *Ad-Hoc*
 - [ ]  [3435](https://www.beecrowd.com.br/repository/UOJ_3435.html) - Listando Caminhos Tediosos *Ad-Hoc*
