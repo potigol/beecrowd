@@ -1,0 +1,4 @@
+leia_texto
+s = leia_textos("b").mapeie(_.tamanho).selecione(_ > 1)
+total = s.injete(0)(_ + _)
+escreva total

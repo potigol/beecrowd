@@ -1,4 +1,4 @@
-# Ad-Hoc (214 / 839)
+# Ad-Hoc (215 / 839)
 
 
 
@@ -216,6 +216,7 @@
 - [x]  [3412](https://www.beecrowd.com.br/repository/UOJ_3412.html) - [Avaliações de Algoritmos](https://github.com/potigol/beecrowd/blob/master/src/3400/3412.poti)
 - [x]  [3416](https://www.beecrowd.com.br/repository/UOJ_3416.html) - [Eu Quero Cafééé](https://github.com/potigol/beecrowd/blob/master/src/3400/3416.poti)
 - [x]  [3422](https://www.beecrowd.com.br/repository/UOJ_3422.html) - [José e a Súmula](https://github.com/potigol/beecrowd/blob/master/src/3400/3422.poti)
+- [x]  [3424](https://www.beecrowd.com.br/repository/UOJ_3424.html) - [Achando os Monótonos Não-Triviais Maximais](https://github.com/potigol/beecrowd/blob/master/src/3400/3424.poti)
 - [x]  [3432](https://www.beecrowd.com.br/repository/UOJ_3432.html) - [Interceptando Informações](https://github.com/potigol/beecrowd/blob/master/src/3400/3432.poti)
 - [x]  [3445](https://www.beecrowd.com.br/repository/UOJ_3445.html) - [Passeios cotidianos](https://github.com/potigol/beecrowd/blob/master/src/3400/3445.poti)
 
@@ -820,7 +821,6 @@
 - [ ]  [3420](https://www.beecrowd.com.br/repository/UOJ_3420.html) - House of Cards
 - [ ]  [3421](https://www.beecrowd.com.br/repository/UOJ_3421.html) - Infinita String de Dígitos
 - [ ]  [3423](https://www.beecrowd.com.br/repository/UOJ_3423.html) - Gostos Peculiares
-- [ ]  [3424](https://www.beecrowd.com.br/repository/UOJ_3424.html) - Achando os Monótonos Não-Triviais Maximais
 - [ ]  [3425](https://www.beecrowd.com.br/repository/UOJ_3425.html) - Brincando com Pedras
 - [ ]  [3426](https://www.beecrowd.com.br/repository/UOJ_3426.html) - Cortes a Laser
 - [ ]  [3427](https://www.beecrowd.com.br/repository/UOJ_3427.html) - Deslocando Partículas

@@ -1,11 +1,11 @@
-# Maratona de Programação (62 / 414)
+# Maratona de Programação (63 / 414)
 
 
 ## 2022
 
 ### 1ª Fase
 
-- [ ]  [3424](https://www.beecrowd.com.br/repository/UOJ_3424.html) - Achando os Monótonos Não-Triviais Maximais *Ad-Hoc*
+- [x]  [3424](https://www.beecrowd.com.br/repository/UOJ_3424.html) - [Achando os Monótonos Não-Triviais Maximais](https://github.com/potigol/beecrowd/blob/master/src/3400/3424.poti) *Ad-Hoc*
 - [ ]  [3425](https://www.beecrowd.com.br/repository/UOJ_3425.html) - Brincando com Pedras *Ad-Hoc*
 - [ ]  [3426](https://www.beecrowd.com.br/repository/UOJ_3426.html) - Cortes a Laser *Ad-Hoc*
 - [ ]  [3427](https://www.beecrowd.com.br/repository/UOJ_3427.html) - Deslocando Partículas *Ad-Hoc*

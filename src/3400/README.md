@@ -1,4 +1,4 @@
-# Problemas 3400 (10%)
+# Problemas 3400 (12%)
 
 - [ ]  [3400](https://www.beecrowd.com.br/repository/UOJ_3400.html) - Amigo não tão secreto assim *Ad-Hoc*
 - [ ]  [3401](https://www.beecrowd.com.br/repository/UOJ_3401.html) - Bicho da Goiaba Ataca Novamente *Ad-Hoc*
@@ -24,7 +24,7 @@
 - [ ]  [3421](https://www.beecrowd.com.br/repository/UOJ_3421.html) - Infinita String de Dígitos *Ad-Hoc*
 - [x]  [3422](https://www.beecrowd.com.br/repository/UOJ_3422.html) - [José e a Súmula](https://github.com/potigol/beecrowd/blob/master/src/3400/3422.poti) *Ad-Hoc*
 - [ ]  [3423](https://www.beecrowd.com.br/repository/UOJ_3423.html) - Gostos Peculiares *Ad-Hoc*
-- [ ]  [3424](https://www.beecrowd.com.br/repository/UOJ_3424.html) - Achando os Monótonos Não-Triviais Maximais *Ad-Hoc*
+- [x]  [3424](https://www.beecrowd.com.br/repository/UOJ_3424.html) - [Achando os Monótonos Não-Triviais Maximais](https://github.com/potigol/beecrowd/blob/master/src/3400/3424.poti) *Ad-Hoc*
 - [ ]  [3425](https://www.beecrowd.com.br/repository/UOJ_3425.html) - Brincando com Pedras *Ad-Hoc*
 - [ ]  [3426](https://www.beecrowd.com.br/repository/UOJ_3426.html) - Cortes a Laser *Ad-Hoc*
 - [ ]  [3427](https://www.beecrowd.com.br/repository/UOJ_3427.html) - Deslocando Partículas *Ad-Hoc*
