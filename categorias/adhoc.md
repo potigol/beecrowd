@@ -1,4 +1,4 @@
-# Ad-Hoc (215 / 839)
+# Ad-Hoc (216 / 839)
 
 
 
@@ -218,6 +218,7 @@
 - [x]  [3422](https://www.beecrowd.com.br/repository/UOJ_3422.html) - [José e a Súmula](https://github.com/potigol/beecrowd/blob/master/src/3400/3422.poti)
 - [x]  [3424](https://www.beecrowd.com.br/repository/UOJ_3424.html) - [Achando os Monótonos Não-Triviais Maximais](https://github.com/potigol/beecrowd/blob/master/src/3400/3424.poti)
 - [x]  [3432](https://www.beecrowd.com.br/repository/UOJ_3432.html) - [Interceptando Informações](https://github.com/potigol/beecrowd/blob/master/src/3400/3432.poti)
+- [x]  [3433](https://www.beecrowd.com.br/repository/UOJ_3433.html) - [Jogando 23](https://github.com/potigol/beecrowd/blob/master/src/3400/3433.poti)
 - [x]  [3445](https://www.beecrowd.com.br/repository/UOJ_3445.html) - [Passeios cotidianos](https://github.com/potigol/beecrowd/blob/master/src/3400/3445.poti)
 
 ## Problemas não resolvidos
@@ -828,7 +829,6 @@
 - [ ]  [3429](https://www.beecrowd.com.br/repository/UOJ_3429.html) - Forca Multidimensional
 - [ ]  [3430](https://www.beecrowd.com.br/repository/UOJ_3430.html) - Geometria Triangular
 - [ ]  [3431](https://www.beecrowd.com.br/repository/UOJ_3431.html) - Habilitando a Movimentação
-- [ ]  [3433](https://www.beecrowd.com.br/repository/UOJ_3433.html) - Jogando 23
 - [ ]  [3434](https://www.beecrowd.com.br/repository/UOJ_3434.html) - ~~Kalel, o Sapo Saltador~~
 - [ ]  [3435](https://www.beecrowd.com.br/repository/UOJ_3435.html) - Listando Caminhos Tediosos
 - [ ]  [3436](https://www.beecrowd.com.br/repository/UOJ_3436.html) - Maratona de Amarelinha

@@ -1,4 +1,4 @@
-# Maratona de Programação (63 / 414)
+# Maratona de Programação (64 / 414)
 
 
 ## 2022
@@ -14,7 +14,7 @@
 - [ ]  [3430](https://www.beecrowd.com.br/repository/UOJ_3430.html) - Geometria Triangular *Ad-Hoc*
 - [ ]  [3431](https://www.beecrowd.com.br/repository/UOJ_3431.html) - Habilitando a Movimentação *Ad-Hoc*
 - [x]  [3432](https://www.beecrowd.com.br/repository/UOJ_3432.html) - [Interceptando Informações](https://github.com/potigol/beecrowd/blob/master/src/3400/3432.poti) *Ad-Hoc*
-- [ ]  [3433](https://www.beecrowd.com.br/repository/UOJ_3433.html) - Jogando 23 *Ad-Hoc*
+- [x]  [3433](https://www.beecrowd.com.br/repository/UOJ_3433.html) - [Jogando 23](https://github.com/potigol/beecrowd/blob/master/src/3400/3433.poti) *Ad-Hoc*
 - [ ]  [3434](https://www.beecrowd.com.br/repository/UOJ_3434.html) - ~~Kalel, o Sapo Saltador~~ *Ad-Hoc*
 - [ ]  [3435](https://www.beecrowd.com.br/repository/UOJ_3435.html) - Listando Caminhos Tediosos *Ad-Hoc*
 - [ ]  [3436](https://www.beecrowd.com.br/repository/UOJ_3436.html) - Maratona de Amarelinha *Ad-Hoc*
