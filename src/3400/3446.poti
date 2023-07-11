@@ -1,0 +1,14 @@
+vazios(x, y: Inteiro, livres: Lista[Inteiro]) =
+  para peça1 em livres.selecione(_ <= x) + [0],
+       peça2 em livres.selecione(_ <= x - peça1) - [peça1] + [0],
+       peça3 em livres.selecione(_ <= y)         - [peça1, peça2] + [0],
+       peça4 em livres.selecione(_ <= y - peça3) - [peça1, peça2, peça3] + [0] gere
+         x + y - (peça1 + peça2 + peça3 + peça4)
+  fim.ordene.cabeça
+
+a = leia_inteiros(" ")
+E, K, D = a[3], a[2], a[1] - a[2] - a[3]
+x = se E < 5 então E senão 0 fim
+y = se D < 5 então D senão 0 fim
+peças = [1, 2, 3, 4] - [K]
+escreva vazios(x, y, peças)
