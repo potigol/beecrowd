@@ -1,4 +1,4 @@
-# Problemas 3400 (16%)
+# Problemas 3400 (15%)
 
 - [ ]  [3400](https://www.beecrowd.com.br/repository/UOJ_3400.html) - Amigo não tão secreto assim *Ad-Hoc*
 - [ ]  [3401](https://www.beecrowd.com.br/repository/UOJ_3401.html) - Bicho da Goiaba Ataca Novamente *Ad-Hoc*
@@ -53,7 +53,7 @@
 - [ ]  [3450](https://www.beecrowd.com.br/repository/UOJ_3450.html) - Participando de uma Maratona *Ad-Hoc*
 - [ ]  [3451](https://www.beecrowd.com.br/repository/UOJ_3451.html) - Impressão Preguiçosa *Ad-Hoc*
 - [ ]  [3452](https://www.beecrowd.com.br/repository/UOJ_3452.html) - Labirinto em Parafuso *Ad-Hoc*
-- [ ] ~~xxxx~~
+- [ ]  [3453](https://www.beecrowd.com.br/repository/UOJ_3453.html) - Carlinhos Adora Problemas *Ad-Hoc*
 - [ ] ~~xxxx~~
 - [ ] ~~xxxx~~
 - [ ] ~~xxxx~~

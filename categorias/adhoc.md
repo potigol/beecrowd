@@ -1,4 +1,4 @@
-# Ad-Hoc (218 / 839)
+# Ad-Hoc (219 / 840)
 
 
 
@@ -96,6 +96,7 @@
 - [x]  [2293](https://www.beecrowd.com.br/repository/UOJ_2293.html) - [Campo de Minhocas](https://github.com/potigol/beecrowd/blob/master/src/2200/2293.poti)
 - [x]  [2295](https://www.beecrowd.com.br/repository/UOJ_2295.html) - [Frota de Táxi](https://github.com/potigol/beecrowd/blob/master/src/2200/2295.poti)
 - [x]  [2297](https://www.beecrowd.com.br/repository/UOJ_2297.html) - [Bafo](https://github.com/potigol/beecrowd/blob/master/src/2200/2297.poti)
+- [x]  [2306](https://www.beecrowd.com.br/repository/UOJ_2306.html) - [Escada Perfeita](https://github.com/potigol/beecrowd/blob/master/src/2300/2306.poti)
 - [x]  [2312](https://www.beecrowd.com.br/repository/UOJ_2312.html) - [Quadro De Medalhas](https://github.com/potigol/beecrowd/blob/master/src/2300/2312.poti)
 - [x]  [2322](https://www.beecrowd.com.br/repository/UOJ_2322.html) - [Peça Perdida](https://github.com/potigol/beecrowd/blob/master/src/2300/2322.poti)
 - [x]  [2327](https://www.beecrowd.com.br/repository/UOJ_2327.html) - [Quadrados](https://github.com/potigol/beecrowd/blob/master/src/2300/2327.poti)
@@ -484,7 +485,6 @@
 - [ ]  [2303](https://www.beecrowd.com.br/repository/UOJ_2303.html) - Margaridas
 - [ ]  [2304](https://www.beecrowd.com.br/repository/UOJ_2304.html) - Banco Imobiliário
 - [ ]  [2305](https://www.beecrowd.com.br/repository/UOJ_2305.html) - Colheita de Caju
-- [ ]  [2306](https://www.beecrowd.com.br/repository/UOJ_2306.html) - Escada Perfeita
 - [ ]  [2307](https://www.beecrowd.com.br/repository/UOJ_2307.html) - Jogo de Cartas
 - [ ]  [2308](https://www.beecrowd.com.br/repository/UOJ_2308.html) - Museu
 - [ ]  [2309](https://www.beecrowd.com.br/repository/UOJ_2309.html) - Truco
@@ -846,3 +846,4 @@
 - [ ]  [3450](https://www.beecrowd.com.br/repository/UOJ_3450.html) - Participando de uma Maratona
 - [ ]  [3451](https://www.beecrowd.com.br/repository/UOJ_3451.html) - Impressão Preguiçosa
 - [ ]  [3452](https://www.beecrowd.com.br/repository/UOJ_3452.html) - Labirinto em Parafuso
+- [ ]  [3453](https://www.beecrowd.com.br/repository/UOJ_3453.html) - Carlinhos Adora Problemas

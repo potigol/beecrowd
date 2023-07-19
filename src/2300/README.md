@@ -1,4 +1,4 @@
-# Problemas 2300 (36%)
+# Problemas 2300 (37%)
 
 - [ ]  [2300](https://www.beecrowd.com.br/repository/UOJ_2300.html) - Transmissão de Energia *Grafos*
 - [ ]  [2301](https://www.beecrowd.com.br/repository/UOJ_2301.html) - Vivo ou Morto *Ad-Hoc*
@@ -6,7 +6,7 @@
 - [ ]  [2303](https://www.beecrowd.com.br/repository/UOJ_2303.html) - Margaridas *Ad-Hoc*
 - [ ]  [2304](https://www.beecrowd.com.br/repository/UOJ_2304.html) - Banco Imobiliário *Ad-Hoc*
 - [ ]  [2305](https://www.beecrowd.com.br/repository/UOJ_2305.html) - Colheita de Caju *Ad-Hoc*
-- [ ]  [2306](https://www.beecrowd.com.br/repository/UOJ_2306.html) - Escada Perfeita *Ad-Hoc*
+- [x]  [2306](https://www.beecrowd.com.br/repository/UOJ_2306.html) - [Escada Perfeita](https://github.com/potigol/beecrowd/blob/master/src/2300/2306.poti) *Ad-Hoc*
 - [ ]  [2307](https://www.beecrowd.com.br/repository/UOJ_2307.html) - Jogo de Cartas *Ad-Hoc*
 - [ ]  [2308](https://www.beecrowd.com.br/repository/UOJ_2308.html) - Museu *Ad-Hoc*
 - [ ]  [2309](https://www.beecrowd.com.br/repository/UOJ_2309.html) - Truco *Ad-Hoc*
