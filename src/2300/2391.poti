@@ -1,5 +1,5 @@
 pas(nums: Lista[Inteiro], tamanho, total: Inteiro): Inteiro =
-  se      tamanho < 3                      então total
+  se tamanho < 3                           então total
   senãose nums[1] + nums[3] == 2 * nums[2] então pas(nums.cauda, tamanho - 1, total)
                                            senão pas(nums.descarte(2), tamanho - 2, total + 1)
   fim

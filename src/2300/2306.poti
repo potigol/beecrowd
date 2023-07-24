@@ -1,16 +1,19 @@
 n = leia_inteiro
 cubos = leia_inteiros(" ")
+
 soma = cubos.injete(0)(_ + _)
-a1 = (2 * soma + n - n * n) div (2 * n)
-resto = (2 * soma + n - n * n) mod (2 * n)
-resposta =
-  se resto == 0 e a1 > 0 então
-    an = a1 + n - 1
-    indice = para i de a1 até an gere i fim
-    cubos.zip(indice)
-         .mapeie(a => (a.primeiro - a.segundo).abs)
-         .injete(0)(_ + _) div 2
-  senão
-    -1
-  fim
+num = 2 * soma + n - n * n
+den = 2 * n
+a1 = num div den
+resto = num mod den
+
+resposta = se resto == 0 e a1 > 0 então
+             an = a1 + n - 1
+             indice = para i de a1 até an gere i fim
+             cubos.zip(indice)
+               .mapeie(a => (a.primeiro - a.segundo).abs)
+               .injete(0)(_ + _) div 2
+            senão
+              -1
+            fim
 escreva resposta

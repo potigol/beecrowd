@@ -1,0 +1,20 @@
+cola(n, m: Inteiro, juan, ricardinho: Lista[Inteiro]): Lógico =
+  se m == 0 então
+    verdadeiro
+  senãose n == 0 então
+    falso
+  senãose juan[1] == ricardinho[1] então
+    cola(n-1, m-1, juan.cauda, ricardinho.cauda)
+  senão
+    cola(n-1, m, juan.cauda, ricardinho)
+  fim
+
+var nm := leia_texto
+enquanto nao eof faça
+  n = nm.divida(" ")[1].inteiro
+  m = nm.divida(" ")[2].inteiro
+  juan, ricardinho = leia_inteiros(" ")
+  c = cola(n, m, juan, ricardinho)
+  escreva (se c então "sim" senão "nao" fim)
+  nm := leia_texto
+fim

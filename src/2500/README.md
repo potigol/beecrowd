@@ -1,4 +1,4 @@
-# Problemas 2500 (31%)
+# Problemas 2500 (32%)
 
 - [ ]  [2500](https://www.beecrowd.com.br/repository/UOJ_2500.html) - William Xorando *Matemática*
 - [ ]  [2501](https://www.beecrowd.com.br/repository/UOJ_2501.html) - Fatores Permitidos *Paradigmas*
@@ -30,7 +30,7 @@
 - [ ]  [2527](https://www.beecrowd.com.br/repository/UOJ_2527.html) - Cheddar *Paradigmas*
 - [ ]  [2528](https://www.beecrowd.com.br/repository/UOJ_2528.html) - Cidade Proibida *Grafos*
 - [ ]  [2529](https://www.beecrowd.com.br/repository/UOJ_2529.html) - Circo das Pulgas *Grafos*
-- [ ]  [2530](https://www.beecrowd.com.br/repository/UOJ_2530.html) - Cola *Ad-Hoc*
+- [x]  [2530](https://www.beecrowd.com.br/repository/UOJ_2530.html) - [Cola](https://github.com/potigol/beecrowd/blob/master/src/2500/2530.poti) *Ad-Hoc*
 - [ ]  [2531](https://www.beecrowd.com.br/repository/UOJ_2531.html) - Compras em FdI *Estruturas e Bibliotecas*
 - [ ]  [2532](https://www.beecrowd.com.br/repository/UOJ_2532.html) - Demogorgon *Paradigmas*
 - [x]  [2533](https://www.beecrowd.com.br/repository/UOJ_2533.html) - [Estágio](https://github.com/potigol/beecrowd/blob/master/src/2500/2533.poti) *Iniciante*
