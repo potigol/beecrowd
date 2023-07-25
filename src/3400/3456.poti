@@ -1,0 +1,6 @@
+var a := BigInt(leia_texto)
+escreva a
+enquanto a > 9 faça
+  a := a div 10 * 3 + a mod 10
+  escreva a
+fim

@@ -1,4 +1,4 @@
-# Problemas 3400 (15%)
+# Problemas 3400 (16%)
 
 - [ ]  [3400](https://www.beecrowd.com.br/repository/UOJ_3400.html) - Amigo não tão secreto assim *Ad-Hoc*
 - [ ]  [3401](https://www.beecrowd.com.br/repository/UOJ_3401.html) - Bicho da Goiaba Ataca Novamente *Ad-Hoc*
@@ -54,17 +54,17 @@
 - [ ]  [3451](https://www.beecrowd.com.br/repository/UOJ_3451.html) - Impressão Preguiçosa *Ad-Hoc*
 - [ ]  [3452](https://www.beecrowd.com.br/repository/UOJ_3452.html) - Labirinto em Parafuso *Ad-Hoc*
 - [ ]  [3453](https://www.beecrowd.com.br/repository/UOJ_3453.html) - Carlinhos Adora Problemas *Ad-Hoc*
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
+- [x]  [3454](https://www.beecrowd.com.br/repository/UOJ_3454.html) - [Alice no País do Jogo da Velha](https://github.com/potigol/beecrowd/blob/master/src/3400/3454.poti) *Ad-Hoc*
+- [ ]  [3455](https://www.beecrowd.com.br/repository/UOJ_3455.html) - Banco Nacional de Questões *Ad-Hoc*
+- [x]  [3456](https://www.beecrowd.com.br/repository/UOJ_3456.html) - [Divisibilidade por 7](https://github.com/potigol/beecrowd/blob/master/src/3400/3456.poti) *Ad-Hoc*
+- [ ]  [3457](https://www.beecrowd.com.br/repository/UOJ_3457.html) - Estimando Pedras no Pote *Ad-Hoc*
+- [ ]  [3458](https://www.beecrowd.com.br/repository/UOJ_3458.html) - Fabricação de Proteínas *Ad-Hoc*
+- [ ]  [3459](https://www.beecrowd.com.br/repository/UOJ_3459.html) - GoldMagikarp *Ad-Hoc*
+- [ ]  [3460](https://www.beecrowd.com.br/repository/UOJ_3460.html) - Hidratação na Ultramaratona *Ad-Hoc*
+- [ ]  [3461](https://www.beecrowd.com.br/repository/UOJ_3461.html) - Interferência em Luzes Hexagonais *Ad-Hoc*
+- [ ]  [3462](https://www.beecrowd.com.br/repository/UOJ_3462.html) - Jogando Discos de Hanói *Ad-Hoc*
+- [ ]  [3463](https://www.beecrowd.com.br/repository/UOJ_3463.html) - Kempner et al. e suas Potências *Ad-Hoc*
+- [ ]  [3464](https://www.beecrowd.com.br/repository/UOJ_3464.html) - Latência na Rede *Ad-Hoc*
 - [ ] ~~xxxx~~
 - [ ] ~~xxxx~~
 - [ ] ~~xxxx~~

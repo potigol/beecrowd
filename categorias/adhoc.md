@@ -1,4 +1,4 @@
-# Ad-Hoc (220 / 840)
+# Ad-Hoc (223 / 851)
 
 
 
@@ -60,6 +60,7 @@
 - [x]  [1574](https://www.beecrowd.com.br/repository/UOJ_1574.html) - [Instruções do Robô](https://github.com/potigol/beecrowd/blob/master/src/1500/1574.poti)
 - [x]  [1609](https://www.beecrowd.com.br/repository/UOJ_1609.html) - [Contando Carneirinhos](https://github.com/potigol/beecrowd/blob/master/src/1600/1609.poti)
 - [x]  [1708](https://www.beecrowd.com.br/repository/UOJ_1708.html) - [Volta](https://github.com/potigol/beecrowd/blob/master/src/1700/1708.poti)
+- [x]  [1715](https://www.beecrowd.com.br/repository/UOJ_1715.html) - [Handebol](https://github.com/potigol/beecrowd/blob/master/src/1700/1715.poti)
 - [x]  [1743](https://www.beecrowd.com.br/repository/UOJ_1743.html) - [Máquina de Verificação Automatizada](https://github.com/potigol/beecrowd/blob/master/src/1700/1743.poti)
 - [x]  [1765](https://www.beecrowd.com.br/repository/UOJ_1765.html) - [Trapézios de Natal](https://github.com/potigol/beecrowd/blob/master/src/1700/1765.poti)
 - [x]  [1769](https://www.beecrowd.com.br/repository/UOJ_1769.html) - [CPF 1](https://github.com/potigol/beecrowd/blob/master/src/1700/1769.poti)
@@ -224,6 +225,8 @@
 - [x]  [3433](https://www.beecrowd.com.br/repository/UOJ_3433.html) - [Jogando 23](https://github.com/potigol/beecrowd/blob/master/src/3400/3433.poti)
 - [x]  [3445](https://www.beecrowd.com.br/repository/UOJ_3445.html) - [Passeios cotidianos](https://github.com/potigol/beecrowd/blob/master/src/3400/3445.poti)
 - [x]  [3446](https://www.beecrowd.com.br/repository/UOJ_3446.html) - [Quadrados Vazios](https://github.com/potigol/beecrowd/blob/master/src/3400/3446.poti)
+- [x]  [3454](https://www.beecrowd.com.br/repository/UOJ_3454.html) - [Alice no País do Jogo da Velha](https://github.com/potigol/beecrowd/blob/master/src/3400/3454.poti)
+- [x]  [3456](https://www.beecrowd.com.br/repository/UOJ_3456.html) - [Divisibilidade por 7](https://github.com/potigol/beecrowd/blob/master/src/3400/3456.poti)
 
 ## Problemas não resolvidos
 
@@ -320,7 +323,6 @@
 - [ ]  [1710](https://www.beecrowd.com.br/repository/UOJ_1710.html) - Confederação
 - [ ]  [1712](https://www.beecrowd.com.br/repository/UOJ_1712.html) - Ecologia
 - [ ]  [1714](https://www.beecrowd.com.br/repository/UOJ_1714.html) - Letras
-- [ ]  [1715](https://www.beecrowd.com.br/repository/UOJ_1715.html) - Handebol
 - [ ]  [1716](https://www.beecrowd.com.br/repository/UOJ_1716.html) - RSA
 - [ ]  [1717](https://www.beecrowd.com.br/repository/UOJ_1717.html) - Corte
 - [ ]  [1718](https://www.beecrowd.com.br/repository/UOJ_1718.html) - Pizza do Vô Pepe
@@ -847,3 +849,12 @@
 - [ ]  [3451](https://www.beecrowd.com.br/repository/UOJ_3451.html) - Impressão Preguiçosa
 - [ ]  [3452](https://www.beecrowd.com.br/repository/UOJ_3452.html) - Labirinto em Parafuso
 - [ ]  [3453](https://www.beecrowd.com.br/repository/UOJ_3453.html) - Carlinhos Adora Problemas
+- [ ]  [3455](https://www.beecrowd.com.br/repository/UOJ_3455.html) - Banco Nacional de Questões
+- [ ]  [3457](https://www.beecrowd.com.br/repository/UOJ_3457.html) - Estimando Pedras no Pote
+- [ ]  [3458](https://www.beecrowd.com.br/repository/UOJ_3458.html) - Fabricação de Proteínas
+- [ ]  [3459](https://www.beecrowd.com.br/repository/UOJ_3459.html) - GoldMagikarp
+- [ ]  [3460](https://www.beecrowd.com.br/repository/UOJ_3460.html) - Hidratação na Ultramaratona
+- [ ]  [3461](https://www.beecrowd.com.br/repository/UOJ_3461.html) - Interferência em Luzes Hexagonais
+- [ ]  [3462](https://www.beecrowd.com.br/repository/UOJ_3462.html) - Jogando Discos de Hanói
+- [ ]  [3463](https://www.beecrowd.com.br/repository/UOJ_3463.html) - Kempner et al. e suas Potências
+- [ ]  [3464](https://www.beecrowd.com.br/repository/UOJ_3464.html) - Latência na Rede

@@ -2390,3 +2390,14 @@
 3451	Impressão Preguiçosa	Ad-Hoc
 3452	Labirinto em Parafuso	Ad-Hoc
 3453	Carlinhos Adora Problemas	Ad-Hoc
+3454	Alice no País do Jogo da Velha	Ad-Hoc
+3455	Banco Nacional de Questões	Ad-Hoc
+3456	Divisibilidade por 7	Ad-Hoc
+3457	Estimando Pedras no Pote	Ad-Hoc
+3458	Fabricação de Proteínas	Ad-Hoc
+3459	GoldMagikarp	Ad-Hoc
+3460	Hidratação na Ultramaratona	Ad-Hoc
+3461	Interferência em Luzes Hexagonais	Ad-Hoc
+3462	Jogando Discos de Hanói	Ad-Hoc
+3463	Kempner et al. e suas Potências	Ad-Hoc
+3464	Latência na Rede	Ad-Hoc

@@ -1,0 +1,6 @@
+n = leia_inteiros(" ")[1]
+cont = para i de 1 até n
+         se leia_inteiros(" ").injete(verdadeiro)((a, b) => a e b > 0) gere
+           1
+       fim.tamanho
+escreva cont

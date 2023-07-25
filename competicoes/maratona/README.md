@@ -1,4 +1,4 @@
-# Maratona de Programação (65 / 414)
+# Maratona de Programação (66 / 414)
 
 
 ## 2022
@@ -260,7 +260,7 @@
 - [ ]  [1712](https://www.beecrowd.com.br/repository/UOJ_1712.html) - Ecologia *Ad-Hoc*
 - [ ]  [1713](https://www.beecrowd.com.br/repository/UOJ_1713.html) - Teletransporte *Grafos*
 - [ ]  [1714](https://www.beecrowd.com.br/repository/UOJ_1714.html) - Letras *Ad-Hoc*
-- [ ]  [1715](https://www.beecrowd.com.br/repository/UOJ_1715.html) - Handebol *Ad-Hoc*
+- [x]  [1715](https://www.beecrowd.com.br/repository/UOJ_1715.html) - [Handebol](https://github.com/potigol/beecrowd/blob/master/src/1700/1715.poti) *Ad-Hoc*
 - [ ]  [1716](https://www.beecrowd.com.br/repository/UOJ_1716.html) - RSA *Ad-Hoc*
 - [ ]  [1717](https://www.beecrowd.com.br/repository/UOJ_1717.html) - Corte *Ad-Hoc*
 - [ ]  [1718](https://www.beecrowd.com.br/repository/UOJ_1718.html) - Pizza do Vô Pepe *Ad-Hoc*

@@ -1,0 +1,8 @@
+linha = leia_texto
+resultado = escolha linha
+  caso "XOX" => "*"
+  caso "XXO" => "Alice"
+  caso "OXX" => "Alice"
+  caso _     => "?"
+fim
+escreva resultado
