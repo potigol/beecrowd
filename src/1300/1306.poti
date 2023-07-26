@@ -1,0 +1,12 @@
+var casos := 0
+var a := leia_inteiros(" ")
+enquanto a <> [0, 0] faça
+  casos := casos + 1
+  sufixos = (a[1] - 1) div a[2]
+  se sufixos <= 26 então
+    escreva "Case {casos}: {sufixos}"
+  senão
+    escreva "Case {casos}: impossible"
+  fim
+  a := leia_inteiros(" ")
+fim

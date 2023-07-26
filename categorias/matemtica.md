@@ -1,4 +1,4 @@
-# Matemática (85 / 269)
+# Matemática (86 / 269)
 
 
 
@@ -23,6 +23,7 @@
 - [x]  [1240](https://www.beecrowd.com.br/repository/UOJ_1240.html) - [Encaixa ou Não I](https://github.com/potigol/beecrowd/blob/master/src/1200/1240.poti)
 - [x]  [1247](https://www.beecrowd.com.br/repository/UOJ_1247.html) - [Guarda Costeira](https://github.com/potigol/beecrowd/blob/master/src/1200/1247.poti)
 - [x]  [1279](https://www.beecrowd.com.br/repository/UOJ_1279.html) - [Ano Bissexto ou Ano não Bissexto](https://github.com/potigol/beecrowd/blob/master/src/1200/1279.poti)
+- [x]  [1306](https://www.beecrowd.com.br/repository/UOJ_1306.html) - [Numerando Estradas](https://github.com/potigol/beecrowd/blob/master/src/1300/1306.poti)
 - [x]  [1308](https://www.beecrowd.com.br/repository/UOJ_1308.html) - [Guerreiros Etruscos Nunca Jogam Xadrez](https://github.com/potigol/beecrowd/blob/master/src/1300/1308.poti)
 - [x]  [1309](https://www.beecrowd.com.br/repository/UOJ_1309.html) - [Formatação Monetária](https://github.com/potigol/beecrowd/blob/master/src/1300/1309.poti)
 - [x]  [1323](https://www.beecrowd.com.br/repository/UOJ_1323.html) - [Feynman](https://github.com/potigol/beecrowd/blob/master/src/1300/1323.poti)
@@ -102,7 +103,6 @@
 - [ ]  [1289](https://www.beecrowd.com.br/repository/UOJ_1289.html) - Qual é a Probabilidade?
 - [ ]  [1297](https://www.beecrowd.com.br/repository/UOJ_1297.html) - Proteção do Meio Ambiente
 - [ ]  [1304](https://www.beecrowd.com.br/repository/UOJ_1304.html) - Velocidade Média
-- [ ]  [1306](https://www.beecrowd.com.br/repository/UOJ_1306.html) - Numerando Estradas
 - [ ]  [1307](https://www.beecrowd.com.br/repository/UOJ_1307.html) - Tudo o que Você Precisa é Amor
 - [ ]  [1324](https://www.beecrowd.com.br/repository/UOJ_1324.html) - Bóson de Higgs
 - [ ]  [1338](https://www.beecrowd.com.br/repository/UOJ_1338.html) - It-Miha
