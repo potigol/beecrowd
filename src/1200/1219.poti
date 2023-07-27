@@ -1,0 +1,21 @@
+area_circulo(raio: Real) = PI * raio ^ 2
+
+resposta(a, b, c: Inteiro)
+  s = (a + b + c) / 2
+  area_triangulo = (s * (s - a) * (s - b) * (s - c)) ^ 0.5
+  raio_circulo_interno = area_triangulo / s
+  raio_circulo_externo = a * b * c / (4 * area_triangulo)
+  rosas = area_circulo(raio_circulo_interno)
+  violetas = area_triangulo - rosas
+  girassois = area_circulo(raio_circulo_externo) - violetas - rosas
+  retorne (girassois, violetas, rosas)
+fim
+
+var entrada := leia_texto
+enquanto nao eof faça
+  en = entrada.divida(" ").mapeie(_.inteiro)
+  a, b, c = en[1], en[2], en[3]
+  r = resposta(a, b, c)
+  escreva "{r.primeiro formato "%.4f"} {r.segundo formato "%.4f"} {r.terceiro formato "%.4f"}"
+  entrada := leia_texto
+fim
