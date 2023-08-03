@@ -1,4 +1,4 @@
-# Ad-Hoc (223 / 851)
+# Ad-Hoc (224 / 851)
 
 
 
@@ -217,6 +217,7 @@
 - [x]  [3315](https://www.beecrowd.com.br/repository/UOJ_3315.html) - [Língua do Computador](https://github.com/potigol/beecrowd/blob/master/src/3300/3315.poti)
 - [x]  [3369](https://www.beecrowd.com.br/repository/UOJ_3369.html) - [KIARA is a Recursive Acronym](https://github.com/potigol/beecrowd/blob/master/src/3300/3369.poti)
 - [x]  [3398](https://www.beecrowd.com.br/repository/UOJ_3398.html) - [Moeda Convertida](https://github.com/potigol/beecrowd/blob/master/src/3300/3398.poti)
+- [x]  [3405](https://www.beecrowd.com.br/repository/UOJ_3405.html) - [Fatorial](https://github.com/potigol/beecrowd/blob/master/src/3400/3405.poti)
 - [x]  [3412](https://www.beecrowd.com.br/repository/UOJ_3412.html) - [Avaliações de Algoritmos](https://github.com/potigol/beecrowd/blob/master/src/3400/3412.poti)
 - [x]  [3416](https://www.beecrowd.com.br/repository/UOJ_3416.html) - [Eu Quero Cafééé](https://github.com/potigol/beecrowd/blob/master/src/3400/3416.poti)
 - [x]  [3422](https://www.beecrowd.com.br/repository/UOJ_3422.html) - [José e a Súmula](https://github.com/potigol/beecrowd/blob/master/src/3400/3422.poti)
@@ -809,7 +810,6 @@
 - [ ]  [3402](https://www.beecrowd.com.br/repository/UOJ_3402.html) - ~~Caminho Mais Curto?~~
 - [ ]  [3403](https://www.beecrowd.com.br/repository/UOJ_3403.html) - Dengoso
 - [ ]  [3404](https://www.beecrowd.com.br/repository/UOJ_3404.html) - Estranho ou Engraçado
-- [ ]  [3405](https://www.beecrowd.com.br/repository/UOJ_3405.html) - Fatorial
 - [ ]  [3406](https://www.beecrowd.com.br/repository/UOJ_3406.html) - Gatas do Lincoln
 - [ ]  [3407](https://www.beecrowd.com.br/repository/UOJ_3407.html) - Hora do Café
 - [ ]  [3408](https://www.beecrowd.com.br/repository/UOJ_3408.html) - Ignore as Letras

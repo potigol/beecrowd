@@ -1,0 +1,7 @@
+var n := leia_inteiro
+var zeros := 0
+enquanto n > 0 faça
+  n := n div 5
+  zeros := zeros + n
+fim
+escreva zeros
