@@ -1,4 +1,4 @@
-# Problemas 3400 (14%)
+# Problemas 3400 (15%)
 
 - [ ]  [3400](https://www.beecrowd.com.br/repository/UOJ_3400.html) - Amigo não tão secreto assim *Ad-Hoc*
 - [ ]  [3401](https://www.beecrowd.com.br/repository/UOJ_3401.html) - Bicho da Goiaba Ataca Novamente *Ad-Hoc*
@@ -65,7 +65,7 @@
 - [ ]  [3462](https://www.beecrowd.com.br/repository/UOJ_3462.html) - Jogando Discos de Hanói *Ad-Hoc*
 - [ ]  [3463](https://www.beecrowd.com.br/repository/UOJ_3463.html) - Kempner et al. e suas Potências *Ad-Hoc*
 - [ ]  [3464](https://www.beecrowd.com.br/repository/UOJ_3464.html) - Latência na Rede *Ad-Hoc*
-- [ ]  [3465](https://www.beecrowd.com.br/repository/UOJ_3465.html) - Cimba *Ad-Hoc*
+- [x]  [3465](https://www.beecrowd.com.br/repository/UOJ_3465.html) - [Cimba](https://github.com/potigol/beecrowd/blob/master/src/3400/3465.poti) *Ad-Hoc*
 - [ ]  [3466](https://www.beecrowd.com.br/repository/UOJ_3466.html) - Dados do Multiverso *Ad-Hoc*
 - [ ]  [3467](https://www.beecrowd.com.br/repository/UOJ_3467.html) - Esse é o meu lugar! *Ad-Hoc*
 - [ ]  [3468](https://www.beecrowd.com.br/repository/UOJ_3468.html) - Faça mais, mas faça melhor! *Ad-Hoc*

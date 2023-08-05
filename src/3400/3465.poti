@@ -1,0 +1,5 @@
+abc = leia_inteiros(" ")
+a, b, c = abc[1], abc[2], abc[3]
+s = (a + b + c) / 2
+area = (s * (s - a) * (s - b) * (s - c)) ^ 0.5
+escreva "{area formato "%.3f"} m2"

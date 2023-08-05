@@ -1,4 +1,4 @@
-# Ad-Hoc (224 / 866)
+# Ad-Hoc (225 / 866)
 
 
 
@@ -228,6 +228,7 @@
 - [x]  [3446](https://www.beecrowd.com.br/repository/UOJ_3446.html) - [Quadrados Vazios](https://github.com/potigol/beecrowd/blob/master/src/3400/3446.poti)
 - [x]  [3454](https://www.beecrowd.com.br/repository/UOJ_3454.html) - [Alice no País do Jogo da Velha](https://github.com/potigol/beecrowd/blob/master/src/3400/3454.poti)
 - [x]  [3456](https://www.beecrowd.com.br/repository/UOJ_3456.html) - [Divisibilidade por 7](https://github.com/potigol/beecrowd/blob/master/src/3400/3456.poti)
+- [x]  [3465](https://www.beecrowd.com.br/repository/UOJ_3465.html) - [Cimba](https://github.com/potigol/beecrowd/blob/master/src/3400/3465.poti)
 
 ## Problemas não resolvidos
 
@@ -858,7 +859,6 @@
 - [ ]  [3462](https://www.beecrowd.com.br/repository/UOJ_3462.html) - Jogando Discos de Hanói
 - [ ]  [3463](https://www.beecrowd.com.br/repository/UOJ_3463.html) - Kempner et al. e suas Potências
 - [ ]  [3464](https://www.beecrowd.com.br/repository/UOJ_3464.html) - Latência na Rede
-- [ ]  [3465](https://www.beecrowd.com.br/repository/UOJ_3465.html) - Cimba
 - [ ]  [3466](https://www.beecrowd.com.br/repository/UOJ_3466.html) - Dados do Multiverso
 - [ ]  [3467](https://www.beecrowd.com.br/repository/UOJ_3467.html) - Esse é o meu lugar!
 - [ ]  [3468](https://www.beecrowd.com.br/repository/UOJ_3468.html) - Faça mais, mas faça melhor!
