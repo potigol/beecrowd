@@ -1,4 +1,4 @@
-# Problemas 3400 (17%)
+# Problemas 3400 (14%)
 
 - [ ]  [3400](https://www.beecrowd.com.br/repository/UOJ_3400.html) - Amigo não tão secreto assim *Ad-Hoc*
 - [ ]  [3401](https://www.beecrowd.com.br/repository/UOJ_3401.html) - Bicho da Goiaba Ataca Novamente *Ad-Hoc*
@@ -65,21 +65,21 @@
 - [ ]  [3462](https://www.beecrowd.com.br/repository/UOJ_3462.html) - Jogando Discos de Hanói *Ad-Hoc*
 - [ ]  [3463](https://www.beecrowd.com.br/repository/UOJ_3463.html) - Kempner et al. e suas Potências *Ad-Hoc*
 - [ ]  [3464](https://www.beecrowd.com.br/repository/UOJ_3464.html) - Latência na Rede *Ad-Hoc*
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
+- [ ]  [3465](https://www.beecrowd.com.br/repository/UOJ_3465.html) - Cimba *Ad-Hoc*
+- [ ]  [3466](https://www.beecrowd.com.br/repository/UOJ_3466.html) - Dados do Multiverso *Ad-Hoc*
+- [ ]  [3467](https://www.beecrowd.com.br/repository/UOJ_3467.html) - Esse é o meu lugar! *Ad-Hoc*
+- [ ]  [3468](https://www.beecrowd.com.br/repository/UOJ_3468.html) - Faça mais, mas faça melhor! *Ad-Hoc*
+- [ ]  [3469](https://www.beecrowd.com.br/repository/UOJ_3469.html) - In Site *Ad-Hoc*
+- [ ]  [3470](https://www.beecrowd.com.br/repository/UOJ_3470.html) - Jogo do 8 *Ad-Hoc*
+- [ ]  [3471](https://www.beecrowd.com.br/repository/UOJ_3471.html) - Kashmir *Ad-Hoc*
+- [ ]  [3472](https://www.beecrowd.com.br/repository/UOJ_3472.html) - Lá em cima do piano *Ad-Hoc*
+- [ ]  [3473](https://www.beecrowd.com.br/repository/UOJ_3473.html) - Alerte o próximo! *Ad-Hoc*
+- [ ]  [3474](https://www.beecrowd.com.br/repository/UOJ_3474.html) - Boa divisão *Ad-Hoc*
+- [ ]  [3475](https://www.beecrowd.com.br/repository/UOJ_3475.html) - Conversor *Ad-Hoc*
+- [ ]  [3476](https://www.beecrowd.com.br/repository/UOJ_3476.html) - A união faz a força! *Ad-Hoc*
+- [ ]  [3477](https://www.beecrowd.com.br/repository/UOJ_3477.html) - Baú Danificado *Ad-Hoc*
+- [ ]  [3478](https://www.beecrowd.com.br/repository/UOJ_3478.html) - Geiapan *Ad-Hoc*
+- [ ]  [3479](https://www.beecrowd.com.br/repository/UOJ_3479.html) - Horo e os copos *Ad-Hoc*
 - [ ] ~~xxxx~~
 - [ ] ~~xxxx~~
 - [ ] ~~xxxx~~

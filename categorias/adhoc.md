@@ -1,4 +1,4 @@
-# Ad-Hoc (224 / 851)
+# Ad-Hoc (224 / 866)
 
 
 
@@ -858,3 +858,18 @@
 - [ ]  [3462](https://www.beecrowd.com.br/repository/UOJ_3462.html) - Jogando Discos de Hanói
 - [ ]  [3463](https://www.beecrowd.com.br/repository/UOJ_3463.html) - Kempner et al. e suas Potências
 - [ ]  [3464](https://www.beecrowd.com.br/repository/UOJ_3464.html) - Latência na Rede
+- [ ]  [3465](https://www.beecrowd.com.br/repository/UOJ_3465.html) - Cimba
+- [ ]  [3466](https://www.beecrowd.com.br/repository/UOJ_3466.html) - Dados do Multiverso
+- [ ]  [3467](https://www.beecrowd.com.br/repository/UOJ_3467.html) - Esse é o meu lugar!
+- [ ]  [3468](https://www.beecrowd.com.br/repository/UOJ_3468.html) - Faça mais, mas faça melhor!
+- [ ]  [3469](https://www.beecrowd.com.br/repository/UOJ_3469.html) - In Site
+- [ ]  [3470](https://www.beecrowd.com.br/repository/UOJ_3470.html) - Jogo do 8
+- [ ]  [3471](https://www.beecrowd.com.br/repository/UOJ_3471.html) - Kashmir
+- [ ]  [3472](https://www.beecrowd.com.br/repository/UOJ_3472.html) - Lá em cima do piano
+- [ ]  [3473](https://www.beecrowd.com.br/repository/UOJ_3473.html) - Alerte o próximo!
+- [ ]  [3474](https://www.beecrowd.com.br/repository/UOJ_3474.html) - Boa divisão
+- [ ]  [3475](https://www.beecrowd.com.br/repository/UOJ_3475.html) - Conversor
+- [ ]  [3476](https://www.beecrowd.com.br/repository/UOJ_3476.html) - A união faz a força!
+- [ ]  [3477](https://www.beecrowd.com.br/repository/UOJ_3477.html) - Baú Danificado
+- [ ]  [3478](https://www.beecrowd.com.br/repository/UOJ_3478.html) - Geiapan
+- [ ]  [3479](https://www.beecrowd.com.br/repository/UOJ_3479.html) - Horo e os copos

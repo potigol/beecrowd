@@ -2401,3 +2401,18 @@
 3462	Jogando Discos de Hanói	Ad-Hoc
 3463	Kempner et al. e suas Potências	Ad-Hoc
 3464	Latência na Rede	Ad-Hoc
+3465	Cimba	Ad-Hoc
+3466	Dados do Multiverso	Ad-Hoc
+3467	Esse é o meu lugar!	Ad-Hoc
+3468	Faça mais, mas faça melhor!	Ad-Hoc
+3469	In Site	Ad-Hoc
+3470	Jogo do 8	Ad-Hoc
+3471	Kashmir	Ad-Hoc
+3472	Lá em cima do piano	Ad-Hoc
+3473	Alerte o próximo!	Ad-Hoc
+3474	Boa divisão	Ad-Hoc
+3475	Conversor	Ad-Hoc
+3476	A união faz a força!	Ad-Hoc
+3477	Baú Danificado	Ad-Hoc
+3478	Geiapan	Ad-Hoc
+3479	Horo e os copos	Ad-Hoc
