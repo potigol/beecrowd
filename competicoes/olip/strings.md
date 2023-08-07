@@ -1,4 +1,4 @@
-# Strings (13 / 19)
+# Strings (14 / 19)
 
 
 
@@ -9,6 +9,7 @@
 - [x]  [1873](https://www.beecrowd.com.br/repository/UOJ_1873.html) - [Pedra-papel-tesoura-lagarto-Spock](https://github.com/potigol/beecrowd/blob/master/src/1800/1873.poti)
 - [x]  [2137](https://www.beecrowd.com.br/repository/UOJ_2137.html) - [A Biblioteca do Senhor Severino](https://github.com/potigol/beecrowd/blob/master/src/2100/2137.poti)
 - [x]  [2150](https://www.beecrowd.com.br/repository/UOJ_2150.html) - [Vogais Alienígenas](https://github.com/potigol/beecrowd/blob/master/src/2100/2150.poti)
+- [x]  [2153](https://www.beecrowd.com.br/repository/UOJ_2153.html) - [Sanduicheiche](https://github.com/potigol/beecrowd/blob/master/src/2100/2153.poti)
 - [x]  [2157](https://www.beecrowd.com.br/repository/UOJ_2157.html) - [Sequência Espelho](https://github.com/potigol/beecrowd/blob/master/src/2100/2157.poti)
 - [x]  [2587](https://www.beecrowd.com.br/repository/UOJ_2587.html) - [Jetiqui](https://github.com/potigol/beecrowd/blob/master/src/2500/2587.poti)
 - [x]  [2591](https://www.beecrowd.com.br/repository/UOJ_2591.html) - [HameKameKa](https://github.com/potigol/beecrowd/blob/master/src/2500/2591.poti)
@@ -20,7 +21,6 @@
 
 ## Problemas não resolvidos
 
-- [ ]  [2153](https://www.beecrowd.com.br/repository/UOJ_2153.html) - Sanduicheiche
 - [ ]  [2583](https://www.beecrowd.com.br/repository/UOJ_2583.html) - Chirrin Chirrion
 - [ ]  [2588](https://www.beecrowd.com.br/repository/UOJ_2588.html) - Jogo dos Palíndromos
 - [ ]  [2954](https://www.beecrowd.com.br/repository/UOJ_2954.html) - O Jogo

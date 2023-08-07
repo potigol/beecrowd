@@ -4,11 +4,11 @@ import java.io.File
 case class Problem(number: Int, name: String, category: String):
   override def toString = s"${number}\t${name}\t${category}"
 
-// Returns the letters of the string in lowercase
+// lowercase letters of a string
 def clean(s: String) = s.toLowerCase.filter(p => p >= 'a' && p <= 'z')
 
 // Checks whether a problem file exists
-def check(extension: String, path: String = "../src")(problem: Int) =
+def exists(extension: String, path: String = "../src")(problem: Int) =
   File(s"${path}/${dir(problem)}/${problem}.${extension}").exists
 
 // Folder of a problem
@@ -69,15 +69,14 @@ def umafase(problems: Map[Int, Problem], c1: String, file: String, title: String
   save(file, s"$title ($solved / $total)", s)
 
 // One line for each problem
-def line(problem: Option[Problem], showCategory: Boolean = true) =
-  problem match
-    case None => s"- [ ] ~~xxxx~~"
-//    case Some(p) if p.category == "SQL" =>
-//      s"- [ ]  ~~${p.number}~~ - *${p.category}*"
-    case Some(p) if (check(extension)(p.number)) =>
-      s"- [x]  [${p.number}](${prefix}${p.number}.html) - [${p.name}](${code}/${dir(p.number)}/${p.number}.${extension}) *${if(showCategory) p.category else " "}*"
-    case Some(p) =>
-      s"- [ ]  [${p.number}](${prefix}${p.number}.html) - ${p.name} *${if(showCategory) p.category else " "}*"
+def line(problem: Option[Problem], showCategory: Boolean = true) = problem match
+  case None => s"- [ ] ~~xxxx~~"
+  //    case Some(p) if p.category == "SQL" =>
+  //      s"- [ ]  ~~${p.number}~~ - *${p.category}*"
+  case Some(p) if (exists(extension)(p.number)) =>
+    s"- [x]  [${p.number}](${prefix}${p.number}.html) - [${p.name}](${code}/${dir(p.number)}/${p.number}.${extension}) *${if(showCategory) p.category else " "}*"
+  case Some(p) =>
+    s"- [ ]  [${p.number}](${prefix}${p.number}.html) - ${p.name} *${if(showCategory) p.category else " "}*"
 
 val config = {
   for l <- io.Source.fromFile("config.txt").getLines()
@@ -108,7 +107,7 @@ def listaCategoria(problems: Map[Int, Problem], path: String = "../categorias/")
     val bd = problemsByCategory(d)
     var count = 0
 
-    val (f, g) = bd.partition(p => check(extension)(p.number))
+    val (f, g) = bd.partition(p => exists(extension)(p.number))
     val resolvidos = f.map {p =>
       s"- [x]  [${p.number}](${prefix}${p.number}.html) - [${p.name}](${code}/${dir(p.number)}/${p.number}.${extension})"
     }.sorted
@@ -143,7 +142,9 @@ def problemList(file: String): Map[Int, Problem] =
   listaCategoria(problems)
   listaCategoria(save(problems, "obi.txt"), "../competicoes/obi/")
   listaCategoria(save(problems, "maratona1.txt", "maratona2.txt"), "../competicoes/maratona/")
+  listaCategoria(save(problems, "olip.txt"), "../competicoes/olip/")
 
   // Lista por competição
   duasfases(problems, "maratona1.txt", "maratona2.txt", "../competicoes/maratona/README.md", "Maratona de Programação")
   umafase(problems, "obi.txt", "../competicoes/obi/README.md", "Olimpíada de Informática")
+  umafase(problems, "olip.txt", "../competicoes/olip/README.md", "Olimpiada IFSULDEMINAS (OLIP)")

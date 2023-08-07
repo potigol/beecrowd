@@ -1,0 +1,14 @@
+var palavra := leia_texto
+enquanto não eof faça
+  var resposta := palavra
+  palavra := palavra.inverta
+  para i de 1 até palavra.tamanho faça
+    a = palavra.pegue(i)
+    b = palavra.descarte(i).pegue(i)
+    se a == b então
+      resposta := palavra.descarte(i).inverta
+    fim
+  fim
+  escreva resposta
+  palavra := leia_texto
+fim

@@ -1,4 +1,4 @@
-# Strings (68 / 148)
+# Strings (69 / 148)
 
 
 
@@ -42,6 +42,7 @@
 - [x]  [2108](https://www.beecrowd.com.br/repository/UOJ_2108.html) - [Contando Caracters](https://github.com/potigol/beecrowd/blob/master/src/2100/2108.poti)
 - [x]  [2137](https://www.beecrowd.com.br/repository/UOJ_2137.html) - [A Biblioteca do Senhor Severino](https://github.com/potigol/beecrowd/blob/master/src/2100/2137.poti)
 - [x]  [2150](https://www.beecrowd.com.br/repository/UOJ_2150.html) - [Vogais Alienígenas](https://github.com/potigol/beecrowd/blob/master/src/2100/2150.poti)
+- [x]  [2153](https://www.beecrowd.com.br/repository/UOJ_2153.html) - [Sanduicheiche](https://github.com/potigol/beecrowd/blob/master/src/2100/2153.poti)
 - [x]  [2157](https://www.beecrowd.com.br/repository/UOJ_2157.html) - [Sequência Espelho](https://github.com/potigol/beecrowd/blob/master/src/2100/2157.poti)
 - [x]  [2174](https://www.beecrowd.com.br/repository/UOJ_2174.html) - [Coleção de Pomekon](https://github.com/potigol/beecrowd/blob/master/src/2100/2174.poti)
 - [x]  [2242](https://www.beecrowd.com.br/repository/UOJ_2242.html) - [Huaauhahhuahau](https://github.com/potigol/beecrowd/blob/master/src/2200/2242.poti)
@@ -123,7 +124,6 @@
 - [ ]  [2093](https://www.beecrowd.com.br/repository/UOJ_2093.html) - Fuja para Escapar
 - [ ]  [2097](https://www.beecrowd.com.br/repository/UOJ_2097.html) - Nome para Número
 - [ ]  [2132](https://www.beecrowd.com.br/repository/UOJ_2132.html) - Não é Mais Um Joguinho Canadense!
-- [ ]  [2153](https://www.beecrowd.com.br/repository/UOJ_2153.html) - Sanduicheiche
 - [ ]  [2292](https://www.beecrowd.com.br/repository/UOJ_2292.html) - Painel LED
 - [ ]  [2314](https://www.beecrowd.com.br/repository/UOJ_2314.html) - Indentador
 - [ ]  [2336](https://www.beecrowd.com.br/repository/UOJ_2336.html) - ABC

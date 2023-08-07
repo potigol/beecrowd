@@ -1,4 +1,4 @@
-# Problemas 2100 (32%)
+# Problemas 2100 (33%)
 
 - [ ]  [2100](https://www.beecrowd.com.br/repository/UOJ_2100.html) - Cinema de Xing Tzen Zu *Matemática*
 - [ ]  [2101](https://www.beecrowd.com.br/repository/UOJ_2101.html) - Combinações de Dias *Matemática*
@@ -53,7 +53,7 @@
 - [x]  [2150](https://www.beecrowd.com.br/repository/UOJ_2150.html) - [Vogais Alienígenas](https://github.com/potigol/beecrowd/blob/master/src/2100/2150.poti) *Strings*
 - [ ]  [2151](https://www.beecrowd.com.br/repository/UOJ_2151.html) - Soco do Rulk *Ad-Hoc*
 - [x]  [2152](https://www.beecrowd.com.br/repository/UOJ_2152.html) - [Pepe, Já Tirei a Vela!](https://github.com/potigol/beecrowd/blob/master/src/2100/2152.poti) *Iniciante*
-- [ ]  [2153](https://www.beecrowd.com.br/repository/UOJ_2153.html) - Sanduicheiche *Strings*
+- [x]  [2153](https://www.beecrowd.com.br/repository/UOJ_2153.html) - [Sanduicheiche](https://github.com/potigol/beecrowd/blob/master/src/2100/2153.poti) *Strings*
 - [ ]  [2154](https://www.beecrowd.com.br/repository/UOJ_2154.html) - Derivada de Polinômios *Matemática*
 - [ ]  [2155](https://www.beecrowd.com.br/repository/UOJ_2155.html) - Os Icosaedros do Lagarto *Grafos*
 - [ ]  [2156](https://www.beecrowd.com.br/repository/UOJ_2156.html) - As Aventuras de Pak-man *Ad-Hoc*
