@@ -142,9 +142,12 @@ def problemList(file: String): Map[Int, Problem] =
   listaCategoria(problems)
   listaCategoria(save(problems, "obi.txt"), "../competicoes/obi/")
   listaCategoria(save(problems, "maratona1.txt", "maratona2.txt"), "../competicoes/maratona/")
-  listaCategoria(save(problems, "olip.txt"), "../competicoes/olip/")
+  listaCategoria(save(problems, "olip.txt"), "../competicoes/outras/olip/")
+  listaCategoria(save(problems, "maratona0.txt"), "../competicoes/outras/fasezero/")
+
 
   // Lista por competição
   duasfases(problems, "maratona1.txt", "maratona2.txt", "../competicoes/maratona/README.md", "Maratona de Programação")
   umafase(problems, "obi.txt", "../competicoes/obi/README.md", "Olimpíada de Informática")
-  umafase(problems, "olip.txt", "../competicoes/olip/README.md", "Olimpiada IFSULDEMINAS (OLIP)")
+  umafase(problems, "olip.txt", "../competicoes/outras/olip/README.md", "Olimpíada IFSULDEMINAS")
+  umafase(problems, "maratona0.txt", "../competicoes/outras/fasezero/README.md", "Fase Zero - Maratona SBC")

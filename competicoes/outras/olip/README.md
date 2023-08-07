@@ -1,4 +1,4 @@
-# Olimpiada IFSULDEMINAS (OLIP) (63 / 143)
+# Olimpíada IFSULDEMINAS (63 / 143)
 
 
 
