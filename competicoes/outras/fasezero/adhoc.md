@@ -1,4 +1,4 @@
-# Ad-Hoc (3 / 12)
+# Ad-Hoc (5 / 24)
 
 
 
@@ -7,6 +7,8 @@
 - [x]  [3412](https://www.beecrowd.com.br/repository/UOJ_3412.html) - [Avaliações de Algoritmos](https://github.com/potigol/beecrowd/blob/master/src/3400/3412.poti)
 - [x]  [3416](https://www.beecrowd.com.br/repository/UOJ_3416.html) - [Eu Quero Cafééé](https://github.com/potigol/beecrowd/blob/master/src/3400/3416.poti)
 - [x]  [3422](https://www.beecrowd.com.br/repository/UOJ_3422.html) - [José e a Súmula](https://github.com/potigol/beecrowd/blob/master/src/3400/3422.poti)
+- [x]  [3454](https://www.beecrowd.com.br/repository/UOJ_3454.html) - [Alice no País do Jogo da Velha](https://github.com/potigol/beecrowd/blob/master/src/3400/3454.poti)
+- [x]  [3456](https://www.beecrowd.com.br/repository/UOJ_3456.html) - [Divisibilidade por 7](https://github.com/potigol/beecrowd/blob/master/src/3400/3456.poti)
 
 ## Problemas não resolvidos
 
@@ -19,3 +21,13 @@
 - [ ]  [3420](https://www.beecrowd.com.br/repository/UOJ_3420.html) - House of Cards
 - [ ]  [3421](https://www.beecrowd.com.br/repository/UOJ_3421.html) - Infinita String de Dígitos
 - [ ]  [3423](https://www.beecrowd.com.br/repository/UOJ_3423.html) - Gostos Peculiares
+- [ ]  [3453](https://www.beecrowd.com.br/repository/UOJ_3453.html) - Carlinhos Adora Problemas
+- [ ]  [3455](https://www.beecrowd.com.br/repository/UOJ_3455.html) - Banco Nacional de Questões
+- [ ]  [3457](https://www.beecrowd.com.br/repository/UOJ_3457.html) - Estimando Pedras no Pote
+- [ ]  [3458](https://www.beecrowd.com.br/repository/UOJ_3458.html) - Fabricação de Proteínas
+- [ ]  [3459](https://www.beecrowd.com.br/repository/UOJ_3459.html) - GoldMagikarp
+- [ ]  [3460](https://www.beecrowd.com.br/repository/UOJ_3460.html) - Hidratação na Ultramaratona
+- [ ]  [3461](https://www.beecrowd.com.br/repository/UOJ_3461.html) - Interferência em Luzes Hexagonais
+- [ ]  [3462](https://www.beecrowd.com.br/repository/UOJ_3462.html) - Jogando Discos de Hanói
+- [ ]  [3463](https://www.beecrowd.com.br/repository/UOJ_3463.html) - Kempner et al. e suas Potências
+- [ ]  [3464](https://www.beecrowd.com.br/repository/UOJ_3464.html) - Latência na Rede
