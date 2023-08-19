@@ -1,4 +1,4 @@
-# Problemas 2100 (34%)
+# Problemas 2100 (35%)
 
 - [ ]  [2100](https://www.beecrowd.com.br/repository/UOJ_2100.html) - Cinema de Xing Tzen Zu *Matemática*
 - [ ]  [2101](https://www.beecrowd.com.br/repository/UOJ_2101.html) - Combinações de Dias *Matemática*
@@ -38,7 +38,7 @@
 - [ ]  [2135](https://www.beecrowd.com.br/repository/UOJ_2135.html) - Recuperação *Matemática*
 - [x]  [2136](https://www.beecrowd.com.br/repository/UOJ_2136.html) - [Amigos do Habay](https://github.com/potigol/beecrowd/blob/master/src/2100/2136.poti) *Estruturas e Bibliotecas*
 - [x]  [2137](https://www.beecrowd.com.br/repository/UOJ_2137.html) - [A Biblioteca do Senhor Severino](https://github.com/potigol/beecrowd/blob/master/src/2100/2137.poti) *Strings*
-- [ ]  [2138](https://www.beecrowd.com.br/repository/UOJ_2138.html) - Dígito Mais Frequente *Ad-Hoc*
+- [x]  [2138](https://www.beecrowd.com.br/repository/UOJ_2138.html) - [Dígito Mais Frequente](https://github.com/potigol/beecrowd/blob/master/src/2100/2138.poti) *Ad-Hoc*
 - [x]  [2139](https://www.beecrowd.com.br/repository/UOJ_2139.html) - [Natal de Pedrinho](https://github.com/potigol/beecrowd/blob/master/src/2100/2139.poti) *Iniciante*
 - [x]  [2140](https://www.beecrowd.com.br/repository/UOJ_2140.html) - [Duas Notas](https://github.com/potigol/beecrowd/blob/master/src/2100/2140.poti) *Iniciante*
 - [ ]  [2141](https://www.beecrowd.com.br/repository/UOJ_2141.html) - P4 Simplificado *Ad-Hoc*

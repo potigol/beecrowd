@@ -1,4 +1,4 @@
-# Ad-Hoc (10 / 53)
+# Ad-Hoc (11 / 53)
 
 
 
@@ -6,6 +6,7 @@
 
 - [x]  [1867](https://www.beecrowd.com.br/repository/UOJ_1867.html) - [Maior Número de Um Algarismo](https://github.com/potigol/beecrowd/blob/master/src/1800/1867.poti)
 - [x]  [1876](https://www.beecrowd.com.br/repository/UOJ_1876.html) - [Rabiola](https://github.com/potigol/beecrowd/blob/master/src/1800/1876.poti)
+- [x]  [2138](https://www.beecrowd.com.br/repository/UOJ_2138.html) - [Dígito Mais Frequente](https://github.com/potigol/beecrowd/blob/master/src/2100/2138.poti)
 - [x]  [2650](https://www.beecrowd.com.br/repository/UOJ_2650.html) - [Construindo Muralhas](https://github.com/potigol/beecrowd/blob/master/src/2600/2650.poti)
 - [x]  [2868](https://www.beecrowd.com.br/repository/UOJ_2868.html) - [Errrou!](https://github.com/potigol/beecrowd/blob/master/src/2800/2868.poti)
 - [x]  [3307](https://www.beecrowd.com.br/repository/UOJ_3307.html) - [Decora o Rolê!](https://github.com/potigol/beecrowd/blob/master/src/3300/3307.poti)
@@ -18,7 +19,6 @@
 ## Problemas não resolvidos
 
 - [ ]  [1870](https://www.beecrowd.com.br/repository/UOJ_1870.html) - Ventiladores e Balões
-- [ ]  [2138](https://www.beecrowd.com.br/repository/UOJ_2138.html) - Dígito Mais Frequente
 - [ ]  [2141](https://www.beecrowd.com.br/repository/UOJ_2141.html) - P4 Simplificado
 - [ ]  [2142](https://www.beecrowd.com.br/repository/UOJ_2142.html) - Pegue o Pombo!
 - [ ]  [2144](https://www.beecrowd.com.br/repository/UOJ_2144.html) - Bodybuilder

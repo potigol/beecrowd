@@ -1,4 +1,4 @@
-# Ad-Hoc (225 / 866)
+# Ad-Hoc (226 / 866)
 
 
 
@@ -86,6 +86,7 @@
 - [x]  [1987](https://www.beecrowd.com.br/repository/UOJ_1987.html) - [Divisibilidade Por 3](https://github.com/potigol/beecrowd/blob/master/src/1900/1987.poti)
 - [x]  [2058](https://www.beecrowd.com.br/repository/UOJ_2058.html) - [Triângulos e Polígonos Regulares](https://github.com/potigol/beecrowd/blob/master/src/2000/2058.poti)
 - [x]  [2116](https://www.beecrowd.com.br/repository/UOJ_2116.html) - [Diversão dos Alunos](https://github.com/potigol/beecrowd/blob/master/src/2100/2116.poti)
+- [x]  [2138](https://www.beecrowd.com.br/repository/UOJ_2138.html) - [Dígito Mais Frequente](https://github.com/potigol/beecrowd/blob/master/src/2100/2138.poti)
 - [x]  [2175](https://www.beecrowd.com.br/repository/UOJ_2175.html) - [Qual o Mais Rápido?](https://github.com/potigol/beecrowd/blob/master/src/2100/2175.poti)
 - [x]  [2187](https://www.beecrowd.com.br/repository/UOJ_2187.html) - [Bits Trocados](https://github.com/potigol/beecrowd/blob/master/src/2100/2187.poti)
 - [x]  [2188](https://www.beecrowd.com.br/repository/UOJ_2188.html) - [Macaco-prego](https://github.com/potigol/beecrowd/blob/master/src/2100/2188.poti)
@@ -412,7 +413,6 @@
 - [ ]  [2123](https://www.beecrowd.com.br/repository/UOJ_2123.html) - A Lei Vai a Cavalo!
 - [ ]  [2125](https://www.beecrowd.com.br/repository/UOJ_2125.html) - Construtores de Totens
 - [ ]  [2134](https://www.beecrowd.com.br/repository/UOJ_2134.html) - Quem Vai Ser Reprovado?
-- [ ]  [2138](https://www.beecrowd.com.br/repository/UOJ_2138.html) - Dígito Mais Frequente
 - [ ]  [2141](https://www.beecrowd.com.br/repository/UOJ_2141.html) - P4 Simplificado
 - [ ]  [2142](https://www.beecrowd.com.br/repository/UOJ_2142.html) - Pegue o Pombo!
 - [ ]  [2144](https://www.beecrowd.com.br/repository/UOJ_2144.html) - Bodybuilder

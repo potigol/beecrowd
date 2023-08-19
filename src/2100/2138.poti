@@ -1,0 +1,7 @@
+var a := leia_texto
+enquanto nao eof faça
+  grupos = a.ordene.divida_quando(_ <> _).ordene(_.tamanho).inverta
+  mais_frequente = grupos.cabeça.cabeça
+  escreva mais_frequente
+  a := leia_texto
+fim
