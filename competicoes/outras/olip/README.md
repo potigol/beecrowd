@@ -1,4 +1,4 @@
-# Olimpíada IFSULDEMINAS (63 / 143)
+# Olimpíada IFSULDEMINAS (64 / 143)
 
 
 
@@ -159,7 +159,7 @@
 - [ ]  [2151](https://www.beecrowd.com.br/repository/UOJ_2151.html) - Soco do Rulk *Ad-Hoc*
 - [x]  [2152](https://www.beecrowd.com.br/repository/UOJ_2152.html) - [Pepe, Já Tirei a Vela!](https://github.com/potigol/beecrowd/blob/master/src/2100/2152.poti) *Iniciante*
 - [x]  [2153](https://www.beecrowd.com.br/repository/UOJ_2153.html) - [Sanduicheiche](https://github.com/potigol/beecrowd/blob/master/src/2100/2153.poti) *Strings*
-- [ ]  [2154](https://www.beecrowd.com.br/repository/UOJ_2154.html) - Derivada de Polinômios *Matemática*
+- [x]  [2154](https://www.beecrowd.com.br/repository/UOJ_2154.html) - [Derivada de Polinômios](https://github.com/potigol/beecrowd/blob/master/src/2100/2154.poti) *Matemática*
 - [ ]  [2155](https://www.beecrowd.com.br/repository/UOJ_2155.html) - Os Icosaedros do Lagarto *Grafos*
 - [ ]  [2156](https://www.beecrowd.com.br/repository/UOJ_2156.html) - As Aventuras de Pak-man *Ad-Hoc*
 - [x]  [2157](https://www.beecrowd.com.br/repository/UOJ_2157.html) - [Sequência Espelho](https://github.com/potigol/beecrowd/blob/master/src/2100/2157.poti) *Strings*
