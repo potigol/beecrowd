@@ -1,0 +1,9 @@
+n = leia_inteiro
+var a := leia_inteiros(" ")
+total = a.injete(0)(_ + _)
+var metade := 0
+enquanto metade < total div 2 faça
+  metade := metade + a.cabeça
+  a := a.cauda
+fim
+escreva n - a.tamanho

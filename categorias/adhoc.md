@@ -1,4 +1,4 @@
-# Ad-Hoc (227 / 866)
+# Ad-Hoc (228 / 866)
 
 
 
@@ -137,6 +137,7 @@
 - [x]  [2416](https://www.beecrowd.com.br/repository/UOJ_2416.html) - [Corrida](https://github.com/potigol/beecrowd/blob/master/src/2400/2416.poti)
 - [x]  [2417](https://www.beecrowd.com.br/repository/UOJ_2417.html) - [Campeonato](https://github.com/potigol/beecrowd/blob/master/src/2400/2417.poti)
 - [x]  [2418](https://www.beecrowd.com.br/repository/UOJ_2418.html) - [Carnaval](https://github.com/potigol/beecrowd/blob/master/src/2400/2418.poti)
+- [x]  [2420](https://www.beecrowd.com.br/repository/UOJ_2420.html) - [Guerra por Território](https://github.com/potigol/beecrowd/blob/master/src/2400/2420.poti)
 - [x]  [2421](https://www.beecrowd.com.br/repository/UOJ_2421.html) - [Álbum de Fotos](https://github.com/potigol/beecrowd/blob/master/src/2400/2421.poti)
 - [x]  [2422](https://www.beecrowd.com.br/repository/UOJ_2422.html) - [Soma das Casas](https://github.com/potigol/beecrowd/blob/master/src/2400/2422.poti)
 - [x]  [2423](https://www.beecrowd.com.br/repository/UOJ_2423.html) - [Receita de Bolo](https://github.com/potigol/beecrowd/blob/master/src/2400/2423.poti)
@@ -541,7 +542,6 @@
 - [ ]  [2407](https://www.beecrowd.com.br/repository/UOJ_2407.html) - Quadrado Mágico
 - [ ]  [2411](https://www.beecrowd.com.br/repository/UOJ_2411.html) - O Tabuleiro Esburacado
 - [ ]  [2415](https://www.beecrowd.com.br/repository/UOJ_2415.html) - Consecutivos
-- [ ]  [2420](https://www.beecrowd.com.br/repository/UOJ_2420.html) - Guerra por Território
 - [ ]  [2425](https://www.beecrowd.com.br/repository/UOJ_2425.html) - Banco
 - [ ]  [2430](https://www.beecrowd.com.br/repository/UOJ_2430.html) - Catálogo de Músicas
 - [ ]  [2431](https://www.beecrowd.com.br/repository/UOJ_2431.html) - Lençol

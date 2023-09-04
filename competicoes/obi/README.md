@@ -1,4 +1,4 @@
-# Olimpíada de Informática (99 / 219)
+# Olimpíada de Informática (100 / 219)
 
 
 
@@ -136,7 +136,7 @@
 - [x]  [2417](https://www.beecrowd.com.br/repository/UOJ_2417.html) - [Campeonato](https://github.com/potigol/beecrowd/blob/master/src/2400/2417.poti) *Ad-Hoc*
 - [x]  [2418](https://www.beecrowd.com.br/repository/UOJ_2418.html) - [Carnaval](https://github.com/potigol/beecrowd/blob/master/src/2400/2418.poti) *Ad-Hoc*
 - [ ]  [2419](https://www.beecrowd.com.br/repository/UOJ_2419.html) - Costa *Grafos*
-- [ ]  [2420](https://www.beecrowd.com.br/repository/UOJ_2420.html) - Guerra por Território *Ad-Hoc*
+- [x]  [2420](https://www.beecrowd.com.br/repository/UOJ_2420.html) - [Guerra por Território](https://github.com/potigol/beecrowd/blob/master/src/2400/2420.poti) *Ad-Hoc*
 - [x]  [2421](https://www.beecrowd.com.br/repository/UOJ_2421.html) - [Álbum de Fotos](https://github.com/potigol/beecrowd/blob/master/src/2400/2421.poti) *Ad-Hoc*
 - [x]  [2422](https://www.beecrowd.com.br/repository/UOJ_2422.html) - [Soma das Casas](https://github.com/potigol/beecrowd/blob/master/src/2400/2422.poti) *Ad-Hoc*
 - [x]  [2423](https://www.beecrowd.com.br/repository/UOJ_2423.html) - [Receita de Bolo](https://github.com/potigol/beecrowd/blob/master/src/2400/2423.poti) *Ad-Hoc*
