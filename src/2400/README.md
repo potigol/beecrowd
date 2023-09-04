@@ -1,4 +1,4 @@
-# Problemas 2400 (42%)
+# Problemas 2400 (43%)
 
 - [ ]  [2400](https://www.beecrowd.com.br/repository/UOJ_2400.html) - Balé *Ad-Hoc*
 - [ ]  [2401](https://www.beecrowd.com.br/repository/UOJ_2401.html) - Calculadora *Ad-Hoc*
@@ -10,7 +10,7 @@
 - [ ]  [2407](https://www.beecrowd.com.br/repository/UOJ_2407.html) - Quadrado Mágico *Ad-Hoc*
 - [x]  [2408](https://www.beecrowd.com.br/repository/UOJ_2408.html) - [Vice-Campeão](https://github.com/potigol/beecrowd/blob/master/src/2400/2408.poti) *Ad-Hoc*
 - [x]  [2409](https://www.beecrowd.com.br/repository/UOJ_2409.html) - [Colchão](https://github.com/potigol/beecrowd/blob/master/src/2400/2409.poti) *Ad-Hoc*
-- [ ]  [2410](https://www.beecrowd.com.br/repository/UOJ_2410.html) - Frequencia na Aula *Ad-Hoc*
+- [x]  [2410](https://www.beecrowd.com.br/repository/UOJ_2410.html) - [Frequencia na Aula](https://github.com/potigol/beecrowd/blob/master/src/2400/2410.poti) *Ad-Hoc*
 - [ ]  [2411](https://www.beecrowd.com.br/repository/UOJ_2411.html) - O Tabuleiro Esburacado *Ad-Hoc*
 - [ ]  [2412](https://www.beecrowd.com.br/repository/UOJ_2412.html) - Tarzan *Grafos*
 - [x]  [2413](https://www.beecrowd.com.br/repository/UOJ_2413.html) - [Busca na Internet](https://github.com/potigol/beecrowd/blob/master/src/2400/2413.poti) *Ad-Hoc*

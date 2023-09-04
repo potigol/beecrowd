@@ -1,4 +1,4 @@
-# Ad-Hoc (79 / 172)
+# Ad-Hoc (80 / 172)
 
 
 
@@ -42,6 +42,7 @@
 - [x]  [2402](https://www.beecrowd.com.br/repository/UOJ_2402.html) - [Selos](https://github.com/potigol/beecrowd/blob/master/src/2400/2402.poti)
 - [x]  [2408](https://www.beecrowd.com.br/repository/UOJ_2408.html) - [Vice-Campeão](https://github.com/potigol/beecrowd/blob/master/src/2400/2408.poti)
 - [x]  [2409](https://www.beecrowd.com.br/repository/UOJ_2409.html) - [Colchão](https://github.com/potigol/beecrowd/blob/master/src/2400/2409.poti)
+- [x]  [2410](https://www.beecrowd.com.br/repository/UOJ_2410.html) - [Frequencia na Aula](https://github.com/potigol/beecrowd/blob/master/src/2400/2410.poti)
 - [x]  [2413](https://www.beecrowd.com.br/repository/UOJ_2413.html) - [Busca na Internet](https://github.com/potigol/beecrowd/blob/master/src/2400/2413.poti)
 - [x]  [2414](https://www.beecrowd.com.br/repository/UOJ_2414.html) - [Desafio do Maior Número](https://github.com/potigol/beecrowd/blob/master/src/2400/2414.poti)
 - [x]  [2416](https://www.beecrowd.com.br/repository/UOJ_2416.html) - [Corrida](https://github.com/potigol/beecrowd/blob/master/src/2400/2416.poti)
@@ -144,7 +145,6 @@
 - [ ]  [2405](https://www.beecrowd.com.br/repository/UOJ_2405.html) - Colorindo
 - [ ]  [2406](https://www.beecrowd.com.br/repository/UOJ_2406.html) - Expressões
 - [ ]  [2407](https://www.beecrowd.com.br/repository/UOJ_2407.html) - Quadrado Mágico
-- [ ]  [2410](https://www.beecrowd.com.br/repository/UOJ_2410.html) - Frequencia na Aula
 - [ ]  [2411](https://www.beecrowd.com.br/repository/UOJ_2411.html) - O Tabuleiro Esburacado
 - [ ]  [2415](https://www.beecrowd.com.br/repository/UOJ_2415.html) - Consecutivos
 - [ ]  [2420](https://www.beecrowd.com.br/repository/UOJ_2420.html) - Guerra por Território
