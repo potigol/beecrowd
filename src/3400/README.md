@@ -1,4 +1,4 @@
-# Problemas 3400 (15%)
+# Problemas 3400 (14%)
 
 - [ ]  [3400](https://www.beecrowd.com.br/repository/UOJ_3400.html) - Amigo não tão secreto assim *Ad-Hoc*
 - [ ]  [3401](https://www.beecrowd.com.br/repository/UOJ_3401.html) - Bicho da Goiaba Ataca Novamente *Ad-Hoc*
@@ -80,19 +80,19 @@
 - [ ]  [3477](https://www.beecrowd.com.br/repository/UOJ_3477.html) - Baú Danificado *Ad-Hoc*
 - [ ]  [3478](https://www.beecrowd.com.br/repository/UOJ_3478.html) - Geiapan *Ad-Hoc*
 - [ ]  [3479](https://www.beecrowd.com.br/repository/UOJ_3479.html) - Horo e os copos *Ad-Hoc*
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
+- [x]  [3480](https://www.beecrowd.com.br/repository/UOJ_3480.html) - [~Altura Mínima~](https://github.com/potigol/beecrowd/blob/master/src/3400/3480.poti) *Ad-Hoc*
+- [ ]  [3481](https://www.beecrowd.com.br/repository/UOJ_3481.html) - ~Baralho Embaralhado~ *Ad-Hoc*
+- [ ]  [3482](https://www.beecrowd.com.br/repository/UOJ_3482.html) - ~Caminhada na Montanha~ *Ad-Hoc*
+- [ ]  [3483](https://www.beecrowd.com.br/repository/UOJ_3483.html) - ~Desvio~ *Ad-Hoc*
+- [ ]  [3484](https://www.beecrowd.com.br/repository/UOJ_3484.html) - ~Extraindo Pólen~ *Ad-Hoc*
+- [ ]  [3485](https://www.beecrowd.com.br/repository/UOJ_3485.html) - ~Férias Cansativas~ *Ad-Hoc*
+- [ ]  [3486](https://www.beecrowd.com.br/repository/UOJ_3486.html) - ~Grande Tratado da Bytelândia~ *Ad-Hoc*
+- [ ]  [3487](https://www.beecrowd.com.br/repository/UOJ_3487.html) - ~Honroso Trabalhador~ *Ad-Hoc*
+- [ ]  [3488](https://www.beecrowd.com.br/repository/UOJ_3488.html) - ~Investigando Zeros e Uns~ *Ad-Hoc*
+- [ ]  [3489](https://www.beecrowd.com.br/repository/UOJ_3489.html) - ~Jogo de Vôlei~ *Ad-Hoc*
+- [ ]  [3490](https://www.beecrowd.com.br/repository/UOJ_3490.html) - ~k pra Mais, k pra Menos~ *Ad-Hoc*
+- [ ]  [3491](https://www.beecrowd.com.br/repository/UOJ_3491.html) - ~Lexicograficamente Agrad´avel~ *Ad-Hoc*
+- [ ]  [3492](https://www.beecrowd.com.br/repository/UOJ_3492.html) - ~Malha A´erea~ *Ad-Hoc*
 - [ ] ~~xxxx~~
 - [ ] ~~xxxx~~
 - [ ] ~~xxxx~~

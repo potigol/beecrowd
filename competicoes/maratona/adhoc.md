@@ -1,4 +1,4 @@
-# Ad-Hoc (19 / 128)
+# Ad-Hoc (20 / 128)
 
 
 
@@ -13,6 +13,7 @@
 - [x]  [1318](https://www.beecrowd.com.br/repository/UOJ_1318.html) - [Bilhetes Falsos](https://github.com/potigol/beecrowd/blob/master/src/1300/1318.poti)
 - [x]  [1379](https://www.beecrowd.com.br/repository/UOJ_1379.html) - [Problema com Mediana e Média](https://github.com/potigol/beecrowd/blob/master/src/1300/1379.poti)
 - [x]  [1387](https://www.beecrowd.com.br/repository/UOJ_1387.html) - [Og](https://github.com/potigol/beecrowd/blob/master/src/1300/1387.poti)
+- [x]  [1410](https://www.beecrowd.com.br/repository/UOJ_1410.html) - [Ele Está Impedido!](https://github.com/potigol/beecrowd/blob/master/src/1400/1410.poti)
 - [x]  [1414](https://www.beecrowd.com.br/repository/UOJ_1414.html) - [Copa do Mundo](https://github.com/potigol/beecrowd/blob/master/src/1400/1414.poti)
 - [x]  [1441](https://www.beecrowd.com.br/repository/UOJ_1441.html) - [Sequências de Granizo](https://github.com/potigol/beecrowd/blob/master/src/1400/1441.poti)
 - [x]  [1743](https://www.beecrowd.com.br/repository/UOJ_1743.html) - [Máquina de Verificação Automatizada](https://github.com/potigol/beecrowd/blob/master/src/1700/1743.poti)
@@ -47,7 +48,6 @@
 - [ ]  [1375](https://www.beecrowd.com.br/repository/UOJ_1375.html) - Painel de Posições
 - [ ]  [1403](https://www.beecrowd.com.br/repository/UOJ_1403.html) - Meu Avô é Famoso
 - [ ]  [1407](https://www.beecrowd.com.br/repository/UOJ_1407.html) - Loteria de Fim de Semana
-- [ ]  [1410](https://www.beecrowd.com.br/repository/UOJ_1410.html) - Ele Está Impedido!
 - [ ]  [1418](https://www.beecrowd.com.br/repository/UOJ_1418.html) - Outra Crise
 - [ ]  [1419](https://www.beecrowd.com.br/repository/UOJ_1419.html) - Bakugan
 - [ ]  [1431](https://www.beecrowd.com.br/repository/UOJ_1431.html) - Níveis de Klingon
