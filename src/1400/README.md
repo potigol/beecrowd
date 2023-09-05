@@ -1,4 +1,4 @@
-# Problemas 1400 (14%)
+# Problemas 1400 (15%)
 
 - [ ]  [1400](https://www.beecrowd.com.br/repository/UOJ_1400.html) - Jogo - Contando *Matemática*
 - [ ]  [1401](https://www.beecrowd.com.br/repository/UOJ_1401.html) - Gerando Permutações Ordenadas Rapidamente *Estruturas e Bibliotecas*
@@ -10,7 +10,7 @@
 - [ ]  [1407](https://www.beecrowd.com.br/repository/UOJ_1407.html) - Loteria de Fim de Semana *Ad-Hoc*
 - [ ]  [1408](https://www.beecrowd.com.br/repository/UOJ_1408.html) - Mário *Paradigmas*
 - [ ]  [1409](https://www.beecrowd.com.br/repository/UOJ_1409.html) - Zak Galou *Grafos*
-- [ ]  [1410](https://www.beecrowd.com.br/repository/UOJ_1410.html) - Ele Está Impedido! *Ad-Hoc*
+- [x]  [1410](https://www.beecrowd.com.br/repository/UOJ_1410.html) - [Ele Está Impedido!](https://github.com/potigol/beecrowd/blob/master/src/1400/1410.poti) *Ad-Hoc*
 - [ ]  [1411](https://www.beecrowd.com.br/repository/UOJ_1411.html) - Encolhendo Polígonos *Geometria Computacional*
 - [ ]  [1412](https://www.beecrowd.com.br/repository/UOJ_1412.html) - Cadeado com Segredo *Paradigmas*
 - [ ]  [1413](https://www.beecrowd.com.br/repository/UOJ_1413.html) - Apresse-se! *Grafos*

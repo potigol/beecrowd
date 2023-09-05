@@ -1,4 +1,4 @@
-# Ad-Hoc (228 / 866)
+# Ad-Hoc (229 / 866)
 
 
 
@@ -37,6 +37,7 @@
 - [x]  [1383](https://www.beecrowd.com.br/repository/UOJ_1383.html) - [Sudoku](https://github.com/potigol/beecrowd/blob/master/src/1300/1383.poti)
 - [x]  [1387](https://www.beecrowd.com.br/repository/UOJ_1387.html) - [Og](https://github.com/potigol/beecrowd/blob/master/src/1300/1387.poti)
 - [x]  [1397](https://www.beecrowd.com.br/repository/UOJ_1397.html) - [Jogo do Maior](https://github.com/potigol/beecrowd/blob/master/src/1300/1397.poti)
+- [x]  [1410](https://www.beecrowd.com.br/repository/UOJ_1410.html) - [Ele Está Impedido!](https://github.com/potigol/beecrowd/blob/master/src/1400/1410.poti)
 - [x]  [1414](https://www.beecrowd.com.br/repository/UOJ_1414.html) - [Copa do Mundo](https://github.com/potigol/beecrowd/blob/master/src/1400/1414.poti)
 - [x]  [1428](https://www.beecrowd.com.br/repository/UOJ_1428.html) - [Procurando Nessy](https://github.com/potigol/beecrowd/blob/master/src/1400/1428.poti)
 - [x]  [1437](https://www.beecrowd.com.br/repository/UOJ_1437.html) - [Esquerda, Volver!](https://github.com/potigol/beecrowd/blob/master/src/1400/1437.poti)
@@ -277,7 +278,6 @@
 - [ ]  [1403](https://www.beecrowd.com.br/repository/UOJ_1403.html) - Meu Avô é Famoso
 - [ ]  [1404](https://www.beecrowd.com.br/repository/UOJ_1404.html) - MegaDamas
 - [ ]  [1407](https://www.beecrowd.com.br/repository/UOJ_1407.html) - Loteria de Fim de Semana
-- [ ]  [1410](https://www.beecrowd.com.br/repository/UOJ_1410.html) - Ele Está Impedido!
 - [ ]  [1418](https://www.beecrowd.com.br/repository/UOJ_1418.html) - Outra Crise
 - [ ]  [1419](https://www.beecrowd.com.br/repository/UOJ_1419.html) - Bakugan
 - [ ]  [1420](https://www.beecrowd.com.br/repository/UOJ_1420.html) - Contando os Segundos

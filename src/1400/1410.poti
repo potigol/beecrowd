@@ -1,0 +1,10 @@
+var ad := leia_inteiro
+enquanto ad > 0 faça
+  atacantes, defensores = leia_inteiros(" ").ordene
+  se atacantes[1] < defensores[2] então
+    escreva "Y"
+  senão
+    escreva "N"
+  fim
+  ad := leia_inteiro
+fim
