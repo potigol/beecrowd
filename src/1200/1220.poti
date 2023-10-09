@@ -1,0 +1,34 @@
+var n := leia_inteiro
+var N := Lista.mutável(1000, 0)
+
+enquanto (n <> 0) faca
+
+    var total := 0.0
+
+    para i de 1 até n faca
+        var numero := leia_textos(".")
+        var inteiro := numero[1].inteiro * 100
+        var decimal := numero[2].inteiro
+        N[i] := decimal + inteiro
+        total := total + N[i]
+    fim
+
+    total := (total / n)
+    var valorMenor := 0.0
+    var valorMaior := 0.0
+
+    para l de 1 até  n faca
+        se N[l] < total entao
+            valorMenor := valorMenor + (total - N[l]).inteiro / 100.0
+        senao
+            valorMaior := valorMaior + (N[l] - total).inteiro / 100.0
+        fim
+    fim
+
+    se (valorMenor > valorMaior) entao
+        escreva "${valorMenor formato "%.2f"}"
+    senao
+        escreva "${valorMaior formato "%.2f"}"
+    fim
+    n := leia_inteiro
+fim
