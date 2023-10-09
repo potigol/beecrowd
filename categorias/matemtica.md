@@ -20,6 +20,7 @@
 - [x]  [1213](https://www.beecrowd.com.br/repository/UOJ_1213.html) - [Ones](https://github.com/potigol/beecrowd/blob/master/src/1200/1213.poti)
 - [x]  [1214](https://www.beecrowd.com.br/repository/UOJ_1214.html) - [Acima da Média](https://github.com/potigol/beecrowd/blob/master/src/1200/1214.poti)
 - [x]  [1219](https://www.beecrowd.com.br/repository/UOJ_1219.html) - [Flores Coloridas](https://github.com/potigol/beecrowd/blob/master/src/1200/1219.poti)
+- [x]  [1220](https://www.beecrowd.com.br/repository/UOJ_1220.html) - [A Viagem](https://github.com/potigol/beecrowd/blob/master/src/1200/1220.poti)
 - [x]  [1221](https://www.beecrowd.com.br/repository/UOJ_1221.html) - [Primo Rápido](https://github.com/potigol/beecrowd/blob/master/src/1200/1221.poti)
 - [x]  [1240](https://www.beecrowd.com.br/repository/UOJ_1240.html) - [Encaixa ou Não I](https://github.com/potigol/beecrowd/blob/master/src/1200/1240.poti)
 - [x]  [1247](https://www.beecrowd.com.br/repository/UOJ_1247.html) - [Guarda Costeira](https://github.com/potigol/beecrowd/blob/master/src/1200/1247.poti)
@@ -95,7 +96,6 @@
 
 ## Problemas não resolvidos
 
-- [ ]  [1220](https://www.beecrowd.com.br/repository/UOJ_1220.html) - A Viagem
 - [ ]  [1230](https://www.beecrowd.com.br/repository/UOJ_1230.html) - Integral
 - [ ]  [1232](https://www.beecrowd.com.br/repository/UOJ_1232.html) - Ciclo de Rubik
 - [ ]  [1233](https://www.beecrowd.com.br/repository/UOJ_1233.html) - Estrela
