@@ -1,4 +1,4 @@
-# Problemas 1200 (44%)
+# Problemas 1200 (46%)
 
 - [x]  [1200](https://www.beecrowd.com.br/repository/UOJ_1200.html) - [Operações em ABP I](https://github.com/potigol/beecrowd/blob/master/src/1200/1200.poti) *Grafos*
 - [ ]  [1201](https://www.beecrowd.com.br/repository/UOJ_1201.html) - Operações em ABP II *Grafos*

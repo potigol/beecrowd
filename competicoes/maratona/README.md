@@ -1,4 +1,4 @@
-# Maratona de Programação (68 / 428)
+# Maratona de Programação (69 / 428)
 
 
 ## 2023
@@ -18,7 +18,11 @@
 - [ ]  [3490](https://www.beecrowd.com.br/repository/UOJ_3490.html) - ~k pra Mais, k pra Menos~ *Ad-Hoc*
 - [ ]  [3491](https://www.beecrowd.com.br/repository/UOJ_3491.html) - ~Lexicograficamente Agrad´avel~ *Ad-Hoc*
 - [ ]  [3492](https://www.beecrowd.com.br/repository/UOJ_3492.html) - ~Malha A´erea~ *Ad-Hoc*
-   
+
+### 2ª Fase
+
+- [ ] ~~xxxx~~
+       
 
 ## 2022
 
@@ -52,7 +56,7 @@
 - [ ]  [3450](https://www.beecrowd.com.br/repository/UOJ_3450.html) - Participando de uma Maratona *Ad-Hoc*
 - [ ]  [3451](https://www.beecrowd.com.br/repository/UOJ_3451.html) - Impressão Preguiçosa *Ad-Hoc*
 - [ ]  [3452](https://www.beecrowd.com.br/repository/UOJ_3452.html) - Labirinto em Parafuso *Ad-Hoc*
-
+       
 
 ## 2021
 
@@ -75,7 +79,7 @@
 - [x]  [3369](https://www.beecrowd.com.br/repository/UOJ_3369.html) - [KIARA is a Recursive Acronym](https://github.com/potigol/beecrowd/blob/master/src/3300/3369.poti) *Ad-Hoc*
 - [ ]  [3370](https://www.beecrowd.com.br/repository/UOJ_3370.html) - Leaving Yharnam *Ad-Hoc*
 - [ ]  [3371](https://www.beecrowd.com.br/repository/UOJ_3371.html) - Most Ordered Way *Ad-Hoc*
-
+       
 
 ## 2020
 
@@ -99,7 +103,7 @@
 - [ ]  [3327](https://www.beecrowd.com.br/repository/UOJ_3327.html) - ~~Lola's Schedule~~ *Ad-Hoc*
 - [ ]  [3328](https://www.beecrowd.com.br/repository/UOJ_3328.html) - ~~May I Add a Letter?~~ *Ad-Hoc*
 - [ ]  [3329](https://www.beecrowd.com.br/repository/UOJ_3329.html) - ~~Non-Integer Donuts~~ *Ad-Hoc*
-
+       
 
 ## 2019
 
@@ -133,7 +137,7 @@
 - [ ]  [3022](https://www.beecrowd.com.br/repository/UOJ_3022.html) - Know your Aliens *Ad-Hoc*
 - [ ]  [3023](https://www.beecrowd.com.br/repository/UOJ_3023.html) - Leverage MDT *Ad-Hoc*
 - [x]  [3024](https://www.beecrowd.com.br/repository/UOJ_3024.html) - [Mountain Ranges](https://github.com/potigol/beecrowd/blob/master/src/3000/3024.poti) *Ad-Hoc*
-
+       
 
 ## 2018
 
@@ -168,7 +172,7 @@
 - [ ]  [2913](https://www.beecrowd.com.br/repository/UOJ_2913.html) - KryptoLocker Ate my Homework *Ad-Hoc*
 - [ ]  [2914](https://www.beecrowd.com.br/repository/UOJ_2914.html) - Looking for the Risk Factor *Ad-Hoc*
 - [ ]  [2915](https://www.beecrowd.com.br/repository/UOJ_2915.html) - Mount Marathon *Ad-Hoc*
-
+       
 
 ## 2017
 
@@ -201,7 +205,7 @@
 - [ ]  [2704](https://www.beecrowd.com.br/repository/UOJ_2704.html) - Sapo Saltador *Ad-Hoc*
 - [ ]  [2705](https://www.beecrowd.com.br/repository/UOJ_2705.html) - Mantenha Coberto *Ad-Hoc*
 - [ ]  [2706](https://www.beecrowd.com.br/repository/UOJ_2706.html) - Linearville *Grafos*
-
+       
 
 ## 2016
 
@@ -234,7 +238,7 @@
 - [ ]  [2352](https://www.beecrowd.com.br/repository/UOJ_2352.html) - Internet Trouble *Ad-Hoc*
 - [ ]  [2353](https://www.beecrowd.com.br/repository/UOJ_2353.html) - Just in Time *Ad-Hoc*
 - [ ]  [2354](https://www.beecrowd.com.br/repository/UOJ_2354.html) - Kill the Werewolf *Ad-Hoc*
-
+       
 
 ## 2015
 
@@ -266,7 +270,7 @@
 - [ ]  [2014](https://www.beecrowd.com.br/repository/UOJ_2014.html) - Grupos Sanguineos *Ad-Hoc*
 - [ ]  [2015](https://www.beecrowd.com.br/repository/UOJ_2015.html) - Fatia do Bolo *Ad-Hoc*
 - [ ]  [2016](https://www.beecrowd.com.br/repository/UOJ_2016.html) - D como em Daedalus *Ad-Hoc*
-
+       
 
 ## 2014
 
@@ -298,7 +302,7 @@
 - [ ]  [1752](https://www.beecrowd.com.br/repository/UOJ_1752.html) - Jornada Pelo Reino *Grafos*
 - [ ]  [1753](https://www.beecrowd.com.br/repository/UOJ_1753.html) - Cavaleiros Da Tàvola Redonda *Ad-Hoc*
 - [x]  [1808](https://www.beecrowd.com.br/repository/UOJ_1808.html) - [O Retorno do Rei](https://github.com/potigol/beecrowd/blob/master/src/1800/1808.poti) *Ad-Hoc*
-
+       
 
 ## 2013
 
@@ -327,13 +331,13 @@
 - [ ]  [1497](https://www.beecrowd.com.br/repository/UOJ_1497.html) - Esconde-Esconde *Geometria Computacional*
 - [ ]  [1498](https://www.beecrowd.com.br/repository/UOJ_1498.html) - Inversão de Huffman *Grafos*
 - [ ]  [1499](https://www.beecrowd.com.br/repository/UOJ_1499.html) - Junte Dois Reinos *Grafos*
-
+       
 
 ## 2012
 
 ### 1ª Fase
 
-- [x]  [1222](https://www.beecrowd.com.br/repository/UOJ_1222.html) - [Concurso de Contos](https://github.com/potigol/beecrowd/blob/master/src/1200/1221.poti) *Strings*
+- [x]  [1222](https://www.beecrowd.com.br/repository/UOJ_1222.html) - [Concurso de Contos](https://github.com/potigol/beecrowd/blob/master/src/1200/1222.poti) *Strings*
 - [ ]  [1223](https://www.beecrowd.com.br/repository/UOJ_1223.html) - Tobogan de Bolinhas *Geometria Computacional*
 - [ ]  [1224](https://www.beecrowd.com.br/repository/UOJ_1224.html) - Cartões *Paradigmas*
 - [x]  [1225](https://www.beecrowd.com.br/repository/UOJ_1225.html) - [Coral Perfeito](https://github.com/potigol/beecrowd/blob/master/src/1200/1225.poti) *Ad-Hoc*
@@ -358,7 +362,7 @@
 - [x]  [1300](https://www.beecrowd.com.br/repository/UOJ_1300.html) - [Horas e Minutos](https://github.com/potigol/beecrowd/blob/master/src/1300/1300.poti) *Ad-Hoc*
 - [ ]  [1301](https://www.beecrowd.com.br/repository/UOJ_1301.html) - Produto do Intervalo *Estruturas e Bibliotecas*
 - [ ]  [1302](https://www.beecrowd.com.br/repository/UOJ_1302.html) - Juntando Casais *Grafos*
-
+       
 
 ## 2011
 
@@ -388,7 +392,7 @@
 - [ ]  [1357](https://www.beecrowd.com.br/repository/UOJ_1357.html) - Em Braille *Ad-Hoc*
 - [ ]  [1419](https://www.beecrowd.com.br/repository/UOJ_1419.html) - Bakugan *Ad-Hoc*
 - [x]  [1441](https://www.beecrowd.com.br/repository/UOJ_1441.html) - [Sequências de Granizo](https://github.com/potigol/beecrowd/blob/master/src/1400/1441.poti) *Ad-Hoc*
-
+       
 
 ## 2010
 
@@ -421,7 +425,7 @@
 - [ ]  [1322](https://www.beecrowd.com.br/repository/UOJ_1322.html) - Desejos das Crianças *Grafos*
 - [x]  [1379](https://www.beecrowd.com.br/repository/UOJ_1379.html) - [Problema com Mediana e Média](https://github.com/potigol/beecrowd/blob/master/src/1300/1379.poti) *Ad-Hoc*
 - [x]  [1429](https://www.beecrowd.com.br/repository/UOJ_1429.html) - [Fatorial de Novo!](https://github.com/potigol/beecrowd/blob/master/src/1400/1429.poti) *Matemática*
-
+       
 
 ## 2009
 
@@ -450,7 +454,7 @@
 - [ ]  [1431](https://www.beecrowd.com.br/repository/UOJ_1431.html) - Níveis de Klingon *Ad-Hoc*
 - [ ]  [1440](https://www.beecrowd.com.br/repository/UOJ_1440.html) - Praça de Alimentação *Ad-Hoc*
 - [ ]  [1460](https://www.beecrowd.com.br/repository/UOJ_1460.html) - Parreiral *Ad-Hoc*
-
+       
 
 ## 2008
 
@@ -480,7 +484,7 @@
 - [ ]  [1391](https://www.beecrowd.com.br/repository/UOJ_1391.html) - Quase Menor Caminho *Grafos*
 - [ ]  [1411](https://www.beecrowd.com.br/repository/UOJ_1411.html) - Encolhendo Polígonos *Geometria Computacional*
 - [ ]  [1439](https://www.beecrowd.com.br/repository/UOJ_1439.html) - Bora Bora *Estruturas e Bibliotecas*
-
+       
 
 ## 2007
 
@@ -509,7 +513,7 @@
 - [ ]  [1415](https://www.beecrowd.com.br/repository/UOJ_1415.html) - Galou Está de Volta! *Grafos*
 - [ ]  [1416](https://www.beecrowd.com.br/repository/UOJ_1416.html) - Placar do ICPC *Paradigmas*
 - [ ]  [1417](https://www.beecrowd.com.br/repository/UOJ_1417.html) - Liga da Justiça *Grafos*
-
+       
 
 ## 2006
 
@@ -536,7 +540,7 @@
 - [x]  [1414](https://www.beecrowd.com.br/repository/UOJ_1414.html) - [Copa do Mundo](https://github.com/potigol/beecrowd/blob/master/src/1400/1414.poti) *Ad-Hoc*
 - [ ]  [1464](https://www.beecrowd.com.br/repository/UOJ_1464.html) - Camadas de Cebola *Geometria Computacional*
 - [ ]  [1485](https://www.beecrowd.com.br/repository/UOJ_1485.html) - Roleta Turca *Paradigmas*
-
+       
 
 ## 2005
 
@@ -559,7 +563,7 @@
 - [ ]  [1271](https://www.beecrowd.com.br/repository/UOJ_1271.html) - Onde estão meus Genes *Ad-Hoc*
 - [ ]  [1274](https://www.beecrowd.com.br/repository/UOJ_1274.html) - P-Networks *Estruturas e Bibliotecas*
 - [ ]  [1275](https://www.beecrowd.com.br/repository/UOJ_1275.html) - Light Up *Grafos*
-
+       
 
 ## 2004
 
@@ -582,7 +586,7 @@
 - [ ]  [1403](https://www.beecrowd.com.br/repository/UOJ_1403.html) - Meu Avô é Famoso *Ad-Hoc*
 - [ ]  [1481](https://www.beecrowd.com.br/repository/UOJ_1481.html) - A Fazenda de Ostras de Zing Zhu *Matemática*
 - [ ]  [1482](https://www.beecrowd.com.br/repository/UOJ_1482.html) - Noite no Museu *Grafos*
-
+       
 
 ## 2003
 
@@ -600,7 +604,7 @@
 - [ ]  [1347](https://www.beecrowd.com.br/repository/UOJ_1347.html) - Mina Kriptonita *Matemática*
 - [ ]  [1348](https://www.beecrowd.com.br/repository/UOJ_1348.html) - X-Mart *Grafos*
 - [ ]  [1433](https://www.beecrowd.com.br/repository/UOJ_1433.html) - O Clube da Divisão *Matemática*
-
+       
 
 ## 2002
 
@@ -621,3 +625,4 @@
 - [ ]  [1351](https://www.beecrowd.com.br/repository/UOJ_1351.html) - Supermercado *Ad-Hoc*
 - [ ]  [1352](https://www.beecrowd.com.br/repository/UOJ_1352.html) - Loteria Quadrada *Matemática*
 - [ ]  [1402](https://www.beecrowd.com.br/repository/UOJ_1402.html) - Será Que Indiana Jones Chega Lá? *Grafos*
+       
