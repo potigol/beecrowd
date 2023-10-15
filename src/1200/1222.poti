@@ -1,0 +1,29 @@
+var input := leia_texto 
+enquanto input <> "" e input <> nulo e input <> "-1" faça
+  var in := input.divida(" ")
+  var n = in[1].inteiro
+  var l = in[2].inteiro
+  var c = in[3].inteiro
+  var paginas := 1 
+  var linhas := 1
+  var texto := leia_texto
+  lista_palavras = texto.divida(" ")
+	var letras := lista_palavras[1].tamanho
+  
+	para i de 2 ate lista_palavras.tamanho faca
+    palavra = lista_palavras[i]
+    x = palavra.tamanho
+    se (letras + x + 1) <= c entao
+      letras := letras + x + 1
+    senao
+      linhas := linhas + 1
+      se linhas > l entao
+        paginas := paginas + 1
+        linhas := 1
+      fim
+      letras := x
+    fim
+  fim
+  escreva paginas
+  input := leia_texto
+fim
