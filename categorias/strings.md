@@ -7,6 +7,7 @@
 - [x]  [1024](https://www.beecrowd.com.br/repository/UOJ_1024.html) - [Criptografia](https://github.com/potigol/beecrowd/blob/master/src/1000/1024.poti)
 - [x]  [1120](https://www.beecrowd.com.br/repository/UOJ_1120.html) - [Revisão de Contrato](https://github.com/potigol/beecrowd/blob/master/src/1100/1120.poti)
 - [x]  [1168](https://www.beecrowd.com.br/repository/UOJ_1168.html) - [LED](https://github.com/potigol/beecrowd/blob/master/src/1100/1168.poti)
+- [x]  [1222](https://www.beecrowd.com.br/repository/UOJ_1222.html) - [Concurso de Contos](https://github.com/potigol/beecrowd/blob/master/src/1200/1221.poti)
 - [x]  [1234](https://www.beecrowd.com.br/repository/UOJ_1234.html) - [Sentença Dançante](https://github.com/potigol/beecrowd/blob/master/src/1200/1234.poti)
 - [x]  [1235](https://www.beecrowd.com.br/repository/UOJ_1235.html) - [De Dentro para Fora](https://github.com/potigol/beecrowd/blob/master/src/1200/1235.poti)
 - [x]  [1237](https://www.beecrowd.com.br/repository/UOJ_1237.html) - [Comparação de Substring](https://github.com/potigol/beecrowd/blob/master/src/1200/1237.poti)
@@ -77,7 +78,6 @@
 ## Problemas não resolvidos
 
 - [ ]  [1141](https://www.beecrowd.com.br/repository/UOJ_1141.html) - Cultivando Strings
-- [ ]  [1222](https://www.beecrowd.com.br/repository/UOJ_1222.html) - Concurso de Contos
 - [ ]  [1243](https://www.beecrowd.com.br/repository/UOJ_1243.html) - O Quão Fácil é...
 - [ ]  [1248](https://www.beecrowd.com.br/repository/UOJ_1248.html) - Plano de Dieta
 - [ ]  [1254](https://www.beecrowd.com.br/repository/UOJ_1254.html) - Substituição de Tag

@@ -333,7 +333,7 @@
 
 ### 1ª Fase
 
-- [ ]  [1222](https://www.beecrowd.com.br/repository/UOJ_1222.html) - Concurso de Contos *Strings*
+- [x]  [1222](https://www.beecrowd.com.br/repository/UOJ_1222.html) - [Concurso de Contos](https://github.com/potigol/beecrowd/blob/master/src/1200/1221.poti) *Strings*
 - [ ]  [1223](https://www.beecrowd.com.br/repository/UOJ_1223.html) - Tobogan de Bolinhas *Geometria Computacional*
 - [ ]  [1224](https://www.beecrowd.com.br/repository/UOJ_1224.html) - Cartões *Paradigmas*
 - [x]  [1225](https://www.beecrowd.com.br/repository/UOJ_1225.html) - [Coral Perfeito](https://github.com/potigol/beecrowd/blob/master/src/1200/1225.poti) *Ad-Hoc*
