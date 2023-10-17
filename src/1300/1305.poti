@@ -1,0 +1,9 @@
+dec(r: Real) = r - r.inteiro
+
+var a := leia_texto
+enquanto não eof faça
+  n = a.real
+  c = leia_real
+  escreva se dec(n) < dec(c) então n.inteiro senão (n+1).inteiro fim
+  a := leia_texto
+fim
