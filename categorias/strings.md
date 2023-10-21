@@ -1,4 +1,4 @@
-# Strings (70 / 148)
+# Strings (71 / 148)
 
 
 
@@ -25,6 +25,7 @@
 - [x]  [1277](https://www.beecrowd.com.br/repository/UOJ_1277.html) - [Pouca Frequência](https://github.com/potigol/beecrowd/blob/master/src/1200/1277.poti)
 - [x]  [1278](https://www.beecrowd.com.br/repository/UOJ_1278.html) - [Justificador II](https://github.com/potigol/beecrowd/blob/master/src/1200/1278.poti)
 - [x]  [1287](https://www.beecrowd.com.br/repository/UOJ_1287.html) - [Processador Amigável de Inteiros](https://github.com/potigol/beecrowd/blob/master/src/1200/1287.poti)
+- [x]  [1305](https://www.beecrowd.com.br/repository/UOJ_1305.html) - [Arredondamento por Valor de Corte](https://github.com/potigol/beecrowd/blob/master/src/1300/1305.poti)
 - [x]  [1332](https://www.beecrowd.com.br/repository/UOJ_1332.html) - [Um-Dois-Três](https://github.com/potigol/beecrowd/blob/master/src/1300/1332.poti)
 - [x]  [1516](https://www.beecrowd.com.br/repository/UOJ_1516.html) - [Imagem](https://github.com/potigol/beecrowd/blob/master/src/1500/1516.poti)
 - [x]  [1551](https://www.beecrowd.com.br/repository/UOJ_1551.html) - [Frase Completa](https://github.com/potigol/beecrowd/blob/master/src/1500/1551.poti)
@@ -82,7 +83,6 @@
 - [ ]  [1248](https://www.beecrowd.com.br/repository/UOJ_1248.html) - Plano de Dieta
 - [ ]  [1254](https://www.beecrowd.com.br/repository/UOJ_1254.html) - Substituição de Tag
 - [ ]  [1284](https://www.beecrowd.com.br/repository/UOJ_1284.html) - Digitando no Telefone Celular
-- [ ]  [1305](https://www.beecrowd.com.br/repository/UOJ_1305.html) - Arredondamento por Valor de Corte
 - [ ]  [1313](https://www.beecrowd.com.br/repository/UOJ_1313.html) - Dicionário Portuñol
 - [ ]  [1335](https://www.beecrowd.com.br/repository/UOJ_1335.html) - Recuperação de Arquivos
 - [ ]  [1341](https://www.beecrowd.com.br/repository/UOJ_1341.html) - Crianças em uma Grade

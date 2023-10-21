@@ -1,11 +1,11 @@
-# Problemas 1300 (15%)
+# Problemas 1300 (16%)
 
 - [x]  [1300](https://www.beecrowd.com.br/repository/UOJ_1300.html) - [Horas e Minutos](https://github.com/potigol/beecrowd/blob/master/src/1300/1300.poti) *Ad-Hoc*
 - [ ]  [1301](https://www.beecrowd.com.br/repository/UOJ_1301.html) - Produto do Intervalo *Estruturas e Bibliotecas*
 - [ ]  [1302](https://www.beecrowd.com.br/repository/UOJ_1302.html) - Juntando Casais *Grafos*
 - [x]  [1303](https://www.beecrowd.com.br/repository/UOJ_1303.html) - [Spurs Rocks](https://github.com/potigol/beecrowd/blob/master/src/1300/1303.poti) *Estruturas e Bibliotecas*
 - [ ]  [1304](https://www.beecrowd.com.br/repository/UOJ_1304.html) - Velocidade Média *Matemática*
-- [ ]  [1305](https://www.beecrowd.com.br/repository/UOJ_1305.html) - Arredondamento por Valor de Corte *Strings*
+- [x]  [1305](https://www.beecrowd.com.br/repository/UOJ_1305.html) - [Arredondamento por Valor de Corte](https://github.com/potigol/beecrowd/blob/master/src/1300/1305.poti) *Strings*
 - [x]  [1306](https://www.beecrowd.com.br/repository/UOJ_1306.html) - [Numerando Estradas](https://github.com/potigol/beecrowd/blob/master/src/1300/1306.poti) *Matemática*
 - [ ]  [1307](https://www.beecrowd.com.br/repository/UOJ_1307.html) - Tudo o que Você Precisa é Amor *Matemática*
 - [x]  [1308](https://www.beecrowd.com.br/repository/UOJ_1308.html) - [Guerreiros Etruscos Nunca Jogam Xadrez](https://github.com/potigol/beecrowd/blob/master/src/1300/1308.poti) *Matemática*

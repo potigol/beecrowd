@@ -1,4 +1,4 @@
-# Ad-Hoc (11 / 53)
+# Ad-Hoc (12 / 53)
 
 
 
@@ -15,6 +15,7 @@
 - [x]  [3398](https://www.beecrowd.com.br/repository/UOJ_3398.html) - [Moeda Convertida](https://github.com/potigol/beecrowd/blob/master/src/3300/3398.poti)
 - [x]  [3405](https://www.beecrowd.com.br/repository/UOJ_3405.html) - [Fatorial](https://github.com/potigol/beecrowd/blob/master/src/3400/3405.poti)
 - [x]  [3465](https://www.beecrowd.com.br/repository/UOJ_3465.html) - [Cimba](https://github.com/potigol/beecrowd/blob/master/src/3400/3465.poti)
+- [x]  [3473](https://www.beecrowd.com.br/repository/UOJ_3473.html) - [Alerte o próximo!](https://github.com/potigol/beecrowd/blob/master/src/3400/3473.poti)
 
 ## Problemas não resolvidos
 
@@ -53,7 +54,6 @@
 - [ ]  [3470](https://www.beecrowd.com.br/repository/UOJ_3470.html) - Jogo do 8
 - [ ]  [3471](https://www.beecrowd.com.br/repository/UOJ_3471.html) - Kashmir
 - [ ]  [3472](https://www.beecrowd.com.br/repository/UOJ_3472.html) - Lá em cima do piano
-- [ ]  [3473](https://www.beecrowd.com.br/repository/UOJ_3473.html) - Alerte o próximo!
 - [ ]  [3474](https://www.beecrowd.com.br/repository/UOJ_3474.html) - Boa divisão
 - [ ]  [3475](https://www.beecrowd.com.br/repository/UOJ_3475.html) - Conversor
 - [ ]  [3476](https://www.beecrowd.com.br/repository/UOJ_3476.html) - A união faz a força!

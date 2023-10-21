@@ -1,4 +1,4 @@
-# Olimpíada IFSULDEMINAS (65 / 143)
+# Olimpíada IFSULDEMINAS (66 / 143)
 
 
 
@@ -12,7 +12,7 @@
 - [ ]  [3470](https://www.beecrowd.com.br/repository/UOJ_3470.html) - Jogo do 8 *Ad-Hoc*
 - [ ]  [3471](https://www.beecrowd.com.br/repository/UOJ_3471.html) - Kashmir *Ad-Hoc*
 - [ ]  [3472](https://www.beecrowd.com.br/repository/UOJ_3472.html) - Lá em cima do piano *Ad-Hoc*
-- [ ]  [3473](https://www.beecrowd.com.br/repository/UOJ_3473.html) - Alerte o próximo! *Ad-Hoc*
+- [x]  [3473](https://www.beecrowd.com.br/repository/UOJ_3473.html) - [Alerte o próximo!](https://github.com/potigol/beecrowd/blob/master/src/3400/3473.poti) *Ad-Hoc*
 - [ ]  [3474](https://www.beecrowd.com.br/repository/UOJ_3474.html) - Boa divisão *Ad-Hoc*
 - [ ]  [3475](https://www.beecrowd.com.br/repository/UOJ_3475.html) - Conversor *Ad-Hoc*
 - [ ]  [3476](https://www.beecrowd.com.br/repository/UOJ_3476.html) - A união faz a força! *Ad-Hoc*

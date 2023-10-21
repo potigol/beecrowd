@@ -2416,3 +2416,16 @@
 3477	Baú Danificado	Ad-Hoc
 3478	Geiapan	Ad-Hoc
 3479	Horo e os copos	Ad-Hoc
+3480	~Altura Mínima~	Ad-Hoc
+3481	~Baralho Embaralhado~	Ad-Hoc
+3482	~Caminhada na Montanha~	Ad-Hoc
+3483	~Desvio~	Ad-Hoc
+3484	~Extraindo Pólen~	Ad-Hoc
+3485	~Férias Cansativas~	Ad-Hoc
+3486	~Grande Tratado da Bytelândia~	Ad-Hoc
+3487	~Honroso Trabalhador~	Ad-Hoc
+3488	~Investigando Zeros e Uns~	Ad-Hoc
+3489	~Jogo de Vôlei~	Ad-Hoc
+3490	~k pra Mais, k pra Menos~	Ad-Hoc
+3491	~Lexicograficamente Agrad´avel~	Ad-Hoc
+3492	~Malha A´erea~	Ad-Hoc

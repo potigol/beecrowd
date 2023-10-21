@@ -5,11 +5,11 @@
 
 ### 1ª Fase
 
-- [x]  [3480](https://www.beecrowd.com.br/repository/UOJ_3480.html) - [~Altura Mínima~](https://github.com/potigol/beecrowd/blob/master/src/3400/3480.poti) *Ad-Hoc*
+- [ ]  [3480](https://www.beecrowd.com.br/repository/UOJ_3480.html) - ~Altura Mínima~ *Ad-Hoc*
 - [ ]  [3481](https://www.beecrowd.com.br/repository/UOJ_3481.html) - ~Baralho Embaralhado~ *Ad-Hoc*
 - [ ]  [3482](https://www.beecrowd.com.br/repository/UOJ_3482.html) - ~Caminhada na Montanha~ *Ad-Hoc*
 - [ ]  [3483](https://www.beecrowd.com.br/repository/UOJ_3483.html) - ~Desvio~ *Ad-Hoc*
-- [ ]  [3484](https://www.beecrowd.com.br/repository/UOJ_3484.html) - ~Extraindo Pólen~ *Ad-Hoc*
+- [x]  [3484](https://www.beecrowd.com.br/repository/UOJ_3484.html) - [~Extraindo Pólen~](https://github.com/potigol/beecrowd/blob/master/src/3400/3484.poti) *Ad-Hoc*
 - [ ]  [3485](https://www.beecrowd.com.br/repository/UOJ_3485.html) - ~Férias Cansativas~ *Ad-Hoc*
 - [ ]  [3486](https://www.beecrowd.com.br/repository/UOJ_3486.html) - ~Grande Tratado da Bytelândia~ *Ad-Hoc*
 - [ ]  [3487](https://www.beecrowd.com.br/repository/UOJ_3487.html) - ~Honroso Trabalhador~ *Ad-Hoc*
