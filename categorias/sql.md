@@ -1,4 +1,4 @@
-# SQL (2 / 46)
+# SQL (2 / 50)
 
 
 
@@ -53,3 +53,7 @@
 - [ ]  [2998](https://www.beecrowd.com.br/repository/UOJ_2998.html) - The Payback
 - [ ]  [2999](https://www.beecrowd.com.br/repository/UOJ_2999.html) - Maior Sálario da Divisão
 - [ ]  [3001](https://www.beecrowd.com.br/repository/UOJ_3001.html) - Update sem Where
+- [ ]  [3480](https://www.beecrowd.com.br/repository/UOJ_3480.html) - Cadeiras adjacentes
+- [ ]  [3481](https://www.beecrowd.com.br/repository/UOJ_3481.html) - Classificando uma Árvore
+- [ ]  [3482](https://www.beecrowd.com.br/repository/UOJ_3482.html) - Seguidores
+- [ ]  [3483](https://www.beecrowd.com.br/repository/UOJ_3483.html) - Segundo Maior e Menor
