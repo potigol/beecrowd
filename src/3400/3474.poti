@@ -1,0 +1,5 @@
+entrada = leia_reais(2)
+valor = entrada[1]
+divisor = entrada[2]
+
+escreva(valor / divisor)
