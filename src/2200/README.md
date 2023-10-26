@@ -1,4 +1,4 @@
-# Problemas 2200 (18%)
+# Problemas 2200 (19%)
 
 - [ ]  [2200](https://www.beecrowd.com.br/repository/UOJ_2200.html) - Mummy Madness *Ad-Hoc*
 - [ ]  [2201](https://www.beecrowd.com.br/repository/UOJ_2201.html) - Pyramids *Ad-Hoc*
