@@ -1,0 +1,7 @@
+ideia = leia_texto
+
+se ideia.minúsculo == "oposicao" ou ideia.minúsculo == "contrariedade" então
+    escreva("mas")
+senão
+    escreva("mais")
+fim
