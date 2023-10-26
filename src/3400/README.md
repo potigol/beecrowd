@@ -1,4 +1,4 @@
-# Problemas 3400 (14%)
+# Problemas 3400 (18%)
 
 - [ ]  [3400](https://www.beecrowd.com.br/repository/UOJ_3400.html) - Amigo não tão secreto assim *Ad-Hoc*
 - [ ]  [3401](https://www.beecrowd.com.br/repository/UOJ_3401.html) - Bicho da Goiaba Ataca Novamente *Ad-Hoc*
@@ -67,14 +67,14 @@
 - [ ]  [3464](https://www.beecrowd.com.br/repository/UOJ_3464.html) - Latência na Rede *Ad-Hoc*
 - [x]  [3465](https://www.beecrowd.com.br/repository/UOJ_3465.html) - [Cimba](https://github.com/potigol/beecrowd/blob/master/src/3400/3465.poti) *Ad-Hoc*
 - [ ]  [3466](https://www.beecrowd.com.br/repository/UOJ_3466.html) - Dados do Multiverso *Ad-Hoc*
-- [ ]  [3467](https://www.beecrowd.com.br/repository/UOJ_3467.html) - Esse é o meu lugar! *Ad-Hoc*
-- [ ]  [3468](https://www.beecrowd.com.br/repository/UOJ_3468.html) - Faça mais, mas faça melhor! *Ad-Hoc*
+- [x]  [3467](https://www.beecrowd.com.br/repository/UOJ_3467.html) - [Esse é o meu lugar!](https://github.com/potigol/beecrowd/blob/master/src/3400/3467.poti) *Ad-Hoc*
+- [x]  [3468](https://www.beecrowd.com.br/repository/UOJ_3468.html) - [Faça mais, mas faça melhor!](https://github.com/potigol/beecrowd/blob/master/src/3400/3468.poti) *Ad-Hoc*
 - [ ]  [3469](https://www.beecrowd.com.br/repository/UOJ_3469.html) - In Site *Ad-Hoc*
 - [ ]  [3470](https://www.beecrowd.com.br/repository/UOJ_3470.html) - Jogo do 8 *Ad-Hoc*
 - [ ]  [3471](https://www.beecrowd.com.br/repository/UOJ_3471.html) - Kashmir *Ad-Hoc*
 - [ ]  [3472](https://www.beecrowd.com.br/repository/UOJ_3472.html) - Lá em cima do piano *Ad-Hoc*
 - [x]  [3473](https://www.beecrowd.com.br/repository/UOJ_3473.html) - [Alerte o próximo!](https://github.com/potigol/beecrowd/blob/master/src/3400/3473.poti) *Ad-Hoc*
-- [ ]  [3474](https://www.beecrowd.com.br/repository/UOJ_3474.html) - Boa divisão *Ad-Hoc*
+- [x]  [3474](https://www.beecrowd.com.br/repository/UOJ_3474.html) - [Boa divisão](https://github.com/potigol/beecrowd/blob/master/src/3400/3474.poti) *Ad-Hoc*
 - [ ]  [3475](https://www.beecrowd.com.br/repository/UOJ_3475.html) - Conversor *Ad-Hoc*
 - [ ]  [3476](https://www.beecrowd.com.br/repository/UOJ_3476.html) - A união faz a força! *Ad-Hoc*
 - [ ]  [3477](https://www.beecrowd.com.br/repository/UOJ_3477.html) - Baú Danificado *Ad-Hoc*
@@ -93,10 +93,10 @@
 - [ ]  [3490](https://www.beecrowd.com.br/repository/UOJ_3490.html) - ~Grande Tratado da Bytelândia~ *Ad-Hoc*
 - [ ]  [3491](https://www.beecrowd.com.br/repository/UOJ_3491.html) - ~Honroso Trabalhador~ *Ad-Hoc*
 - [ ]  [3492](https://www.beecrowd.com.br/repository/UOJ_3492.html) - ~Investigando Zeros e Uns~ *Ad-Hoc*
+- [ ]  [3493](https://www.beecrowd.com.br/repository/UOJ_3493.html) - ~Jogo de Vôlei~ *Ad-Hoc*
+- [ ]  [3494](https://www.beecrowd.com.br/repository/UOJ_3494.html) - ~k pra Mais, k pra Menos~ *Ad-Hoc*
+- [ ]  [3495](https://www.beecrowd.com.br/repository/UOJ_3495.html) - ~Lexicograficamente Agradável~ *Ad-Hoc*
+- [ ]  [3496](https://www.beecrowd.com.br/repository/UOJ_3496.html) - ~Malha Aérea~ *Ad-Hoc*
 - [ ] ~~xxxx~~
-- [ ]  [3494](https://www.beecrowd.com.br/repository/UOJ_3494.html) - ~Jogo de Vôlei~ *Ad-Hoc*
-- [ ]  [3495](https://www.beecrowd.com.br/repository/UOJ_3495.html) - ~k pra Mais, k pra Menos~ *Ad-Hoc*
-- [ ]  [3496](https://www.beecrowd.com.br/repository/UOJ_3496.html) - ~Lexicograficamente Agradável~ *Ad-Hoc*
-- [ ]  [3497](https://www.beecrowd.com.br/repository/UOJ_3497.html) - ~Malha Aérea~ *Ad-Hoc*
 - [ ] ~~xxxx~~
 - [ ] ~~xxxx~~

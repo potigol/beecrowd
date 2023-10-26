@@ -1,4 +1,4 @@
-# Ad-Hoc (231 / 879)
+# Ad-Hoc (234 / 880)
 
 
 
@@ -233,7 +233,10 @@
 - [x]  [3454](https://www.beecrowd.com.br/repository/UOJ_3454.html) - [Alice no País do Jogo da Velha](https://github.com/potigol/beecrowd/blob/master/src/3400/3454.poti)
 - [x]  [3456](https://www.beecrowd.com.br/repository/UOJ_3456.html) - [Divisibilidade por 7](https://github.com/potigol/beecrowd/blob/master/src/3400/3456.poti)
 - [x]  [3465](https://www.beecrowd.com.br/repository/UOJ_3465.html) - [Cimba](https://github.com/potigol/beecrowd/blob/master/src/3400/3465.poti)
+- [x]  [3467](https://www.beecrowd.com.br/repository/UOJ_3467.html) - [Esse é o meu lugar!](https://github.com/potigol/beecrowd/blob/master/src/3400/3467.poti)
+- [x]  [3468](https://www.beecrowd.com.br/repository/UOJ_3468.html) - [Faça mais, mas faça melhor!](https://github.com/potigol/beecrowd/blob/master/src/3400/3468.poti)
 - [x]  [3473](https://www.beecrowd.com.br/repository/UOJ_3473.html) - [Alerte o próximo!](https://github.com/potigol/beecrowd/blob/master/src/3400/3473.poti)
+- [x]  [3474](https://www.beecrowd.com.br/repository/UOJ_3474.html) - [Boa divisão](https://github.com/potigol/beecrowd/blob/master/src/3400/3474.poti)
 - [x]  [3484](https://www.beecrowd.com.br/repository/UOJ_3484.html) - [~Altura Mínima~](https://github.com/potigol/beecrowd/blob/master/src/3400/3484.poti)
 
 ## Problemas não resolvidos
@@ -862,13 +865,10 @@
 - [ ]  [3463](https://www.beecrowd.com.br/repository/UOJ_3463.html) - Kempner et al. e suas Potências
 - [ ]  [3464](https://www.beecrowd.com.br/repository/UOJ_3464.html) - Latência na Rede
 - [ ]  [3466](https://www.beecrowd.com.br/repository/UOJ_3466.html) - Dados do Multiverso
-- [ ]  [3467](https://www.beecrowd.com.br/repository/UOJ_3467.html) - Esse é o meu lugar!
-- [ ]  [3468](https://www.beecrowd.com.br/repository/UOJ_3468.html) - Faça mais, mas faça melhor!
 - [ ]  [3469](https://www.beecrowd.com.br/repository/UOJ_3469.html) - In Site
 - [ ]  [3470](https://www.beecrowd.com.br/repository/UOJ_3470.html) - Jogo do 8
 - [ ]  [3471](https://www.beecrowd.com.br/repository/UOJ_3471.html) - Kashmir
 - [ ]  [3472](https://www.beecrowd.com.br/repository/UOJ_3472.html) - Lá em cima do piano
-- [ ]  [3474](https://www.beecrowd.com.br/repository/UOJ_3474.html) - Boa divisão
 - [ ]  [3475](https://www.beecrowd.com.br/repository/UOJ_3475.html) - Conversor
 - [ ]  [3476](https://www.beecrowd.com.br/repository/UOJ_3476.html) - A união faz a força!
 - [ ]  [3477](https://www.beecrowd.com.br/repository/UOJ_3477.html) - Baú Danificado
@@ -882,7 +882,8 @@
 - [ ]  [3490](https://www.beecrowd.com.br/repository/UOJ_3490.html) - ~Grande Tratado da Bytelândia~
 - [ ]  [3491](https://www.beecrowd.com.br/repository/UOJ_3491.html) - ~Honroso Trabalhador~
 - [ ]  [3492](https://www.beecrowd.com.br/repository/UOJ_3492.html) - ~Investigando Zeros e Uns~
-- [ ]  [3494](https://www.beecrowd.com.br/repository/UOJ_3494.html) - ~Jogo de Vôlei~
-- [ ]  [3495](https://www.beecrowd.com.br/repository/UOJ_3495.html) - ~k pra Mais, k pra Menos~
-- [ ]  [3496](https://www.beecrowd.com.br/repository/UOJ_3496.html) - ~Lexicograficamente Agradável~
-- [ ]  [3497](https://www.beecrowd.com.br/repository/UOJ_3497.html) - ~Malha Aérea~
+- [ ]  [3493](https://www.beecrowd.com.br/repository/UOJ_3493.html) - ~Jogo de Vôlei~
+- [ ]  [3494](https://www.beecrowd.com.br/repository/UOJ_3494.html) - ~k pra Mais, k pra Menos~
+- [ ]  [3495](https://www.beecrowd.com.br/repository/UOJ_3495.html) - ~Lexicograficamente Agradável~
+- [ ]  [3496](https://www.beecrowd.com.br/repository/UOJ_3496.html) - ~Malha Aérea~
+- [ ]  [3500](https://www.beecrowd.com.br/repository/UOJ_3500.html) - ~ ~

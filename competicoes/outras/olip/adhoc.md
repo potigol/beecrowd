@@ -1,4 +1,4 @@
-# Ad-Hoc (12 / 53)
+# Ad-Hoc (15 / 53)
 
 
 
@@ -15,7 +15,10 @@
 - [x]  [3398](https://www.beecrowd.com.br/repository/UOJ_3398.html) - [Moeda Convertida](https://github.com/potigol/beecrowd/blob/master/src/3300/3398.poti)
 - [x]  [3405](https://www.beecrowd.com.br/repository/UOJ_3405.html) - [Fatorial](https://github.com/potigol/beecrowd/blob/master/src/3400/3405.poti)
 - [x]  [3465](https://www.beecrowd.com.br/repository/UOJ_3465.html) - [Cimba](https://github.com/potigol/beecrowd/blob/master/src/3400/3465.poti)
+- [x]  [3467](https://www.beecrowd.com.br/repository/UOJ_3467.html) - [Esse é o meu lugar!](https://github.com/potigol/beecrowd/blob/master/src/3400/3467.poti)
+- [x]  [3468](https://www.beecrowd.com.br/repository/UOJ_3468.html) - [Faça mais, mas faça melhor!](https://github.com/potigol/beecrowd/blob/master/src/3400/3468.poti)
 - [x]  [3473](https://www.beecrowd.com.br/repository/UOJ_3473.html) - [Alerte o próximo!](https://github.com/potigol/beecrowd/blob/master/src/3400/3473.poti)
+- [x]  [3474](https://www.beecrowd.com.br/repository/UOJ_3474.html) - [Boa divisão](https://github.com/potigol/beecrowd/blob/master/src/3400/3474.poti)
 
 ## Problemas não resolvidos
 
@@ -48,13 +51,10 @@
 - [ ]  [3410](https://www.beecrowd.com.br/repository/UOJ_3410.html) - Kebra Cabeça
 - [ ]  [3411](https://www.beecrowd.com.br/repository/UOJ_3411.html) - Lá vai tinta!
 - [ ]  [3466](https://www.beecrowd.com.br/repository/UOJ_3466.html) - Dados do Multiverso
-- [ ]  [3467](https://www.beecrowd.com.br/repository/UOJ_3467.html) - Esse é o meu lugar!
-- [ ]  [3468](https://www.beecrowd.com.br/repository/UOJ_3468.html) - Faça mais, mas faça melhor!
 - [ ]  [3469](https://www.beecrowd.com.br/repository/UOJ_3469.html) - In Site
 - [ ]  [3470](https://www.beecrowd.com.br/repository/UOJ_3470.html) - Jogo do 8
 - [ ]  [3471](https://www.beecrowd.com.br/repository/UOJ_3471.html) - Kashmir
 - [ ]  [3472](https://www.beecrowd.com.br/repository/UOJ_3472.html) - Lá em cima do piano
-- [ ]  [3474](https://www.beecrowd.com.br/repository/UOJ_3474.html) - Boa divisão
 - [ ]  [3475](https://www.beecrowd.com.br/repository/UOJ_3475.html) - Conversor
 - [ ]  [3476](https://www.beecrowd.com.br/repository/UOJ_3476.html) - A união faz a força!
 - [ ]  [3477](https://www.beecrowd.com.br/repository/UOJ_3477.html) - Baú Danificado
