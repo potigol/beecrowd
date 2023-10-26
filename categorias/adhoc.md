@@ -96,6 +96,7 @@
 - [x]  [2247](https://www.beecrowd.com.br/repository/UOJ_2247.html) - [Cofrinhos da Vó Vitória](https://github.com/potigol/beecrowd/blob/master/src/2200/2247.poti)
 - [x]  [2251](https://www.beecrowd.com.br/repository/UOJ_2251.html) - [Torres de Hanói](https://github.com/potigol/beecrowd/blob/master/src/2200/2251.poti)
 - [x]  [2286](https://www.beecrowd.com.br/repository/UOJ_2286.html) - [Par ou Ímpar](https://github.com/potigol/beecrowd/blob/master/src/2200/2286.poti)
+- [x]  [2287](https://www.beecrowd.com.br/repository/UOJ_2287.html) - [Proteja sua Senha](https://github.com/potigol/beecrowd/blob/master/src/2200/2287.poti)
 - [x]  [2293](https://www.beecrowd.com.br/repository/UOJ_2293.html) - [Campo de Minhocas](https://github.com/potigol/beecrowd/blob/master/src/2200/2293.poti)
 - [x]  [2295](https://www.beecrowd.com.br/repository/UOJ_2295.html) - [Frota de Táxi](https://github.com/potigol/beecrowd/blob/master/src/2200/2295.poti)
 - [x]  [2297](https://www.beecrowd.com.br/repository/UOJ_2297.html) - [Bafo](https://github.com/potigol/beecrowd/blob/master/src/2200/2297.poti)
@@ -483,7 +484,6 @@
 - [ ]  [2283](https://www.beecrowd.com.br/repository/UOJ_2283.html) - Keyboarding
 - [ ]  [2284](https://www.beecrowd.com.br/repository/UOJ_2284.html) - Pipe Stream
 - [ ]  [2285](https://www.beecrowd.com.br/repository/UOJ_2285.html) - Palíndrome
-- [ ]  [2287](https://www.beecrowd.com.br/repository/UOJ_2287.html) - Proteja sua Senha
 - [ ]  [2288](https://www.beecrowd.com.br/repository/UOJ_2288.html) - TV da Vovó
 - [ ]  [2289](https://www.beecrowd.com.br/repository/UOJ_2289.html) - Distância Hamming
 - [ ]  [2294](https://www.beecrowd.com.br/repository/UOJ_2294.html) - Duende Perdido
