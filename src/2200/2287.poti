@@ -1,0 +1,63 @@
+var teste := 1
+var n := leia_inteiro
+var nums := Lista(11, Lista(5, Lista(2, 0)))
+var senha := Lista(11, Lista(6, ""))
+
+enquanto n <> 0 faca
+  para i de 1 até n faca
+    entrada = leia_texto.divida(" ")                 
+
+    nums[i][1][1] := entrada[1].inteiro
+    nums[i][1][2] := entrada[2].inteiro
+
+    nums[i][2][1] := entrada[3].inteiro
+    nums[i][2][2] := entrada[4].inteiro
+
+    nums[i][3][1] := entrada[5].inteiro
+    nums[i][3][2] := entrada[6].inteiro
+
+    nums[i][4][1] := entrada[7].inteiro
+    nums[i][4][2] := entrada[8].inteiro
+
+    nums[i][5][1] := entrada[9].inteiro
+    nums[i][5][2] := entrada[10].inteiro
+
+    senha[i][1] := entrada[11]
+    senha[i][2] := entrada[12]
+    senha[i][3] := entrada[13]
+    senha[i][4] := entrada[14]
+    senha[i][5] := entrada[15]
+    senha[i][6] := entrada[16]
+  fim 
+
+  escreva "Teste {teste}"
+  teste := teste + 1
+
+  para k de 1 ate 6 faca
+    ix = (senha[1][k][1] - 'A') + 1
+    nch = nums[1][ix][1]
+    noh = nums[1][ix][2]
+
+    var all := 1
+    para i de 1 ate n faca
+      ixx = (senha[i][k][1] - 'A') + 1
+      se nch <> nums[i][ixx][1] e nch <> nums[i][ixx][2] entao
+        all := 0
+      fim
+    fim
+
+    se k <> 1 entao
+      imprima " "
+    fim
+
+    se all == 1 entao
+      imprima nch
+    senao
+      imprima noh
+    fim 
+  fim 
+  imprima " "
+  escreva ""
+  escreva ""
+  n := leia_inteiro
+fim

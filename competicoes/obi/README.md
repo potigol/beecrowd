@@ -257,7 +257,7 @@
 
 - [ ]  [2285](https://www.beecrowd.com.br/repository/UOJ_2285.html) - Palíndrome *Ad-Hoc*
 - [x]  [2286](https://www.beecrowd.com.br/repository/UOJ_2286.html) - [Par ou Ímpar](https://github.com/potigol/beecrowd/blob/master/src/2200/2286.poti) *Ad-Hoc*
-- [ ]  [2287](https://www.beecrowd.com.br/repository/UOJ_2287.html) - Proteja sua Senha *Ad-Hoc*
+- [x]  [2287](https://www.beecrowd.com.br/repository/UOJ_2287.html) - [Proteja sua Senha](https://github.com/potigol/beecrowd/blob/master/src/2200/2287.poti) *Ad-Hoc*
 - [ ]  [2288](https://www.beecrowd.com.br/repository/UOJ_2288.html) - TV da Vovó *Ad-Hoc*
 
 
