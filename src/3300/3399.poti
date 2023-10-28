@@ -1,0 +1,4 @@
+in = leia_inteiros(" ")
+a, b, c, n = in[1], in[2], in[3], in[4]
+enesimo = (n - 1) * (b - a) + a
+escreva enesimo
