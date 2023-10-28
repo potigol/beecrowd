@@ -1,4 +1,4 @@
-# Olimpíada IFSULDEMINAS (69 / 143)
+# Olimpíada IFSULDEMINAS (72 / 143)
 
 
 
@@ -23,9 +23,9 @@
 
 ## 2022
 
-- [ ]  [3397](https://www.beecrowd.com.br/repository/UOJ_3397.html) - Melhor do Multiverso *Ad-Hoc*
+- [x]  [3397](https://www.beecrowd.com.br/repository/UOJ_3397.html) - [Melhor do Multiverso](https://github.com/potigol/beecrowd/blob/master/src/3300/3397.poti) *Ad-Hoc*
 - [x]  [3398](https://www.beecrowd.com.br/repository/UOJ_3398.html) - [Moeda Convertida](https://github.com/potigol/beecrowd/blob/master/src/3300/3398.poti) *Ad-Hoc*
-- [ ]  [3399](https://www.beecrowd.com.br/repository/UOJ_3399.html) - Meu nome é Enésimo! *Ad-Hoc*
+- [x]  [3399](https://www.beecrowd.com.br/repository/UOJ_3399.html) - [Meu nome é Enésimo!](https://github.com/potigol/beecrowd/blob/master/src/3300/3399.poti) *Ad-Hoc*
 - [ ]  [3400](https://www.beecrowd.com.br/repository/UOJ_3400.html) - Amigo não tão secreto assim *Ad-Hoc*
 - [ ]  [3401](https://www.beecrowd.com.br/repository/UOJ_3401.html) - Bicho da Goiaba Ataca Novamente *Ad-Hoc*
 - [ ]  [3402](https://www.beecrowd.com.br/repository/UOJ_3402.html) - ~~Caminho Mais Curto?~~ *Ad-Hoc*
@@ -33,7 +33,7 @@
 - [ ]  [3404](https://www.beecrowd.com.br/repository/UOJ_3404.html) - Estranho ou Engraçado *Ad-Hoc*
 - [x]  [3405](https://www.beecrowd.com.br/repository/UOJ_3405.html) - [Fatorial](https://github.com/potigol/beecrowd/blob/master/src/3400/3405.poti) *Ad-Hoc*
 - [ ]  [3406](https://www.beecrowd.com.br/repository/UOJ_3406.html) - Gatas do Lincoln *Ad-Hoc*
-- [ ]  [3407](https://www.beecrowd.com.br/repository/UOJ_3407.html) - Hora do Café *Ad-Hoc*
+- [x]  [3407](https://www.beecrowd.com.br/repository/UOJ_3407.html) - [Hora do Café](https://github.com/potigol/beecrowd/blob/master/src/3400/3407.poti) *Ad-Hoc*
 - [ ]  [3408](https://www.beecrowd.com.br/repository/UOJ_3408.html) - Ignore as Letras *Ad-Hoc*
 - [ ]  [3409](https://www.beecrowd.com.br/repository/UOJ_3409.html) - Júnior, como seu tio come? *Ad-Hoc*
 - [ ]  [3410](https://www.beecrowd.com.br/repository/UOJ_3410.html) - Kebra Cabeça *Ad-Hoc*

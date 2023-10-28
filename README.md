@@ -3,7 +3,7 @@
 [![Join the chat at https://gitter.im/potigol/Potigol](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/potigol/Potigol?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Follow us](https://img.shields.io/twitter/follow/potigol.svg?style=social)](http://twitter.com/potigol)
 [![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/potigol/beecrowd)
-[![Soluções](https://img.shields.io/badge/Problemas%20Resolvidos-778-blue)](https://github.com/potigol/beecrowd/commits/master)
+[![Soluções](https://img.shields.io/badge/Problemas%20Resolvidos-787-blue)](https://github.com/potigol/beecrowd/commits/master)
 
 <!-- a href="https://potigol.github.io/docs/hacktoberfest"><img src="https://hacktoberfest.digitalocean.com/_nuxt/img/logo-hacktoberfest-full.f42e3b1.svg" width=250></a -->
 
@@ -34,7 +34,7 @@ Soluções dos problemas do [Beecrowd](https://www.beecrowd.com.br/judge/pt/prob
 [1500 ...](src/1500) [1600 ...](src/1600) [1700 ...](src/1700) [1800 ...](src/1800) [1900 ...](src/1900)
 [2000 ...](src/2000) [2100 ...](src/2100) [2200 ...](src/2200) [2300 ...](src/2300) [2400 ...](src/2400)
 [2500 ...](src/2500) [2600 ...](src/2600) [2700 ...](src/2700) [2800 ...](src/2800) [2900 ...](src/2900)
-[3000 ...](src/3000) [3100 ...](src/3100) [3200 ...](src/3200) [3300 ...](src/3300) [3400 ...](src/3400)
+[3000 ...](src/3000) [3100 ...](src/3100) [3200 ...](src/3200) [3300 ...](src/3300) [3400 ...](src/3400) [3500 ...](src/3500)
 
 ## Verificação das Soluções
 

@@ -1,4 +1,4 @@
-# Problemas 3300 (28%)
+# Problemas 3300 (31%)
 
 - [x]  [3300](https://www.beecrowd.com.br/repository/UOJ_3300.html) - [Números Má Sorte Recarregados](https://github.com/potigol/beecrowd/blob/master/src/3300/3300.poti) *Strings*
 - [x]  [3301](https://www.beecrowd.com.br/repository/UOJ_3301.html) - [Sobrinho do Meio](https://github.com/potigol/beecrowd/blob/master/src/3300/3301.poti) *Iniciante*
@@ -97,6 +97,6 @@
 - [ ]  [3394](https://www.beecrowd.com.br/repository/UOJ_3394.html) - Maça de Newton *Ad-Hoc*
 - [ ]  [3395](https://www.beecrowd.com.br/repository/UOJ_3395.html) - O Relógio Euclidiano *Ad-Hoc*
 - [ ]  [3396](https://www.beecrowd.com.br/repository/UOJ_3396.html) - Chop Ahoy! Revisited! *Ad-Hoc*
-- [ ]  [3397](https://www.beecrowd.com.br/repository/UOJ_3397.html) - Melhor do Multiverso *Ad-Hoc*
+- [x]  [3397](https://www.beecrowd.com.br/repository/UOJ_3397.html) - [Melhor do Multiverso](https://github.com/potigol/beecrowd/blob/master/src/3300/3397.poti) *Ad-Hoc*
 - [x]  [3398](https://www.beecrowd.com.br/repository/UOJ_3398.html) - [Moeda Convertida](https://github.com/potigol/beecrowd/blob/master/src/3300/3398.poti) *Ad-Hoc*
-- [ ]  [3399](https://www.beecrowd.com.br/repository/UOJ_3399.html) - Meu nome é Enésimo! *Ad-Hoc*
+- [x]  [3399](https://www.beecrowd.com.br/repository/UOJ_3399.html) - [Meu nome é Enésimo!](https://github.com/potigol/beecrowd/blob/master/src/3300/3399.poti) *Ad-Hoc*

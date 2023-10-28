@@ -1,4 +1,4 @@
-# Ad-Hoc (235 / 880)
+# Ad-Hoc (238 / 880)
 
 
 
@@ -221,8 +221,11 @@
 - [x]  [3309](https://www.beecrowd.com.br/repository/UOJ_3309.html) - [Felizes são estes Números](https://github.com/potigol/beecrowd/blob/master/src/3300/3309.poti)
 - [x]  [3315](https://www.beecrowd.com.br/repository/UOJ_3315.html) - [Língua do Computador](https://github.com/potigol/beecrowd/blob/master/src/3300/3315.poti)
 - [x]  [3369](https://www.beecrowd.com.br/repository/UOJ_3369.html) - [KIARA is a Recursive Acronym](https://github.com/potigol/beecrowd/blob/master/src/3300/3369.poti)
+- [x]  [3397](https://www.beecrowd.com.br/repository/UOJ_3397.html) - [Melhor do Multiverso](https://github.com/potigol/beecrowd/blob/master/src/3300/3397.poti)
 - [x]  [3398](https://www.beecrowd.com.br/repository/UOJ_3398.html) - [Moeda Convertida](https://github.com/potigol/beecrowd/blob/master/src/3300/3398.poti)
+- [x]  [3399](https://www.beecrowd.com.br/repository/UOJ_3399.html) - [Meu nome é Enésimo!](https://github.com/potigol/beecrowd/blob/master/src/3300/3399.poti)
 - [x]  [3405](https://www.beecrowd.com.br/repository/UOJ_3405.html) - [Fatorial](https://github.com/potigol/beecrowd/blob/master/src/3400/3405.poti)
+- [x]  [3407](https://www.beecrowd.com.br/repository/UOJ_3407.html) - [Hora do Café](https://github.com/potigol/beecrowd/blob/master/src/3400/3407.poti)
 - [x]  [3412](https://www.beecrowd.com.br/repository/UOJ_3412.html) - [Avaliações de Algoritmos](https://github.com/potigol/beecrowd/blob/master/src/3400/3412.poti)
 - [x]  [3416](https://www.beecrowd.com.br/repository/UOJ_3416.html) - [Eu Quero Cafééé](https://github.com/potigol/beecrowd/blob/master/src/3400/3416.poti)
 - [x]  [3422](https://www.beecrowd.com.br/repository/UOJ_3422.html) - [José e a Súmula](https://github.com/potigol/beecrowd/blob/master/src/3400/3422.poti)
@@ -809,15 +812,12 @@
 - [ ]  [3394](https://www.beecrowd.com.br/repository/UOJ_3394.html) - Maça de Newton
 - [ ]  [3395](https://www.beecrowd.com.br/repository/UOJ_3395.html) - O Relógio Euclidiano
 - [ ]  [3396](https://www.beecrowd.com.br/repository/UOJ_3396.html) - Chop Ahoy! Revisited!
-- [ ]  [3397](https://www.beecrowd.com.br/repository/UOJ_3397.html) - Melhor do Multiverso
-- [ ]  [3399](https://www.beecrowd.com.br/repository/UOJ_3399.html) - Meu nome é Enésimo!
 - [ ]  [3400](https://www.beecrowd.com.br/repository/UOJ_3400.html) - Amigo não tão secreto assim
 - [ ]  [3401](https://www.beecrowd.com.br/repository/UOJ_3401.html) - Bicho da Goiaba Ataca Novamente
 - [ ]  [3402](https://www.beecrowd.com.br/repository/UOJ_3402.html) - ~~Caminho Mais Curto?~~
 - [ ]  [3403](https://www.beecrowd.com.br/repository/UOJ_3403.html) - Dengoso
 - [ ]  [3404](https://www.beecrowd.com.br/repository/UOJ_3404.html) - Estranho ou Engraçado
 - [ ]  [3406](https://www.beecrowd.com.br/repository/UOJ_3406.html) - Gatas do Lincoln
-- [ ]  [3407](https://www.beecrowd.com.br/repository/UOJ_3407.html) - Hora do Café
 - [ ]  [3408](https://www.beecrowd.com.br/repository/UOJ_3408.html) - Ignore as Letras
 - [ ]  [3409](https://www.beecrowd.com.br/repository/UOJ_3409.html) - Júnior, como seu tio come?
 - [ ]  [3410](https://www.beecrowd.com.br/repository/UOJ_3410.html) - Kebra Cabeça
