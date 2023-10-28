@@ -1,0 +1,9 @@
+m = leia_inteiros(" ")[2]
+natan, samuel = leia_texto.selecione(_ == '1').tamanho
+se m == natan então
+  escreva "Tudo certo."
+senãose m == samuel então
+  escreva "Pegou de Samuel."
+senão
+  escreva "Pegou de um estranho."
+fim
