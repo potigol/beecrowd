@@ -1,4 +1,4 @@
-# Strings (14 / 19)
+# Strings (15 / 19)
 
 
 
@@ -12,6 +12,7 @@
 - [x]  [2153](https://www.beecrowd.com.br/repository/UOJ_2153.html) - [Sanduicheiche](https://github.com/potigol/beecrowd/blob/master/src/2100/2153.poti)
 - [x]  [2157](https://www.beecrowd.com.br/repository/UOJ_2157.html) - [Sequência Espelho](https://github.com/potigol/beecrowd/blob/master/src/2100/2157.poti)
 - [x]  [2587](https://www.beecrowd.com.br/repository/UOJ_2587.html) - [Jetiqui](https://github.com/potigol/beecrowd/blob/master/src/2500/2587.poti)
+- [x]  [2588](https://www.beecrowd.com.br/repository/UOJ_2588.html) - [Jogo dos Palíndromos](https://github.com/potigol/beecrowd/blob/master/src/2500/2588.poti)
 - [x]  [2591](https://www.beecrowd.com.br/repository/UOJ_2591.html) - [HameKameKa](https://github.com/potigol/beecrowd/blob/master/src/2500/2591.poti)
 - [x]  [2651](https://www.beecrowd.com.br/repository/UOJ_2651.html) - [Link Bolado](https://github.com/potigol/beecrowd/blob/master/src/2600/2651.poti)
 - [x]  [2866](https://www.beecrowd.com.br/repository/UOJ_2866.html) - [Criptotexto](https://github.com/potigol/beecrowd/blob/master/src/2800/2866.poti)
@@ -22,7 +23,6 @@
 ## Problemas não resolvidos
 
 - [ ]  [2583](https://www.beecrowd.com.br/repository/UOJ_2583.html) - Chirrin Chirrion
-- [ ]  [2588](https://www.beecrowd.com.br/repository/UOJ_2588.html) - Jogo dos Palíndromos
 - [ ]  [2954](https://www.beecrowd.com.br/repository/UOJ_2954.html) - O Jogo
 - [ ]  [2960](https://www.beecrowd.com.br/repository/UOJ_2960.html) - Era Uma Vez…
 - [ ]  [3310](https://www.beecrowd.com.br/repository/UOJ_3310.html) - Gravity Boy

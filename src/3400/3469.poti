@@ -1,0 +1,8 @@
+n = leia_inteiro
+p = leia_inteiros(" ").ordene
+mediana = p.descarte((n-1) div 2)
+se n mod 2 == 1 então
+  escreva mediana.cabeça
+senão
+  escreva (mediana[1] + mediana[2]) div 2
+fim

@@ -1,4 +1,4 @@
-# Problemas 1200 (46%)
+# Problemas 1200 (47%)
 
 - [x]  [1200](https://www.beecrowd.com.br/repository/UOJ_1200.html) - [Operações em ABP I](https://github.com/potigol/beecrowd/blob/master/src/1200/1200.poti) *Grafos*
 - [ ]  [1201](https://www.beecrowd.com.br/repository/UOJ_1201.html) - Operações em ABP II *Grafos*
@@ -49,7 +49,7 @@
 - [ ]  [1246](https://www.beecrowd.com.br/repository/UOJ_1246.html) - Estacionamento *Ad-Hoc*
 - [x]  [1247](https://www.beecrowd.com.br/repository/UOJ_1247.html) - [Guarda Costeira](https://github.com/potigol/beecrowd/blob/master/src/1200/1247.poti) *Matemática*
 - [ ]  [1248](https://www.beecrowd.com.br/repository/UOJ_1248.html) - Plano de Dieta *Strings*
-- [ ] ~~xxxx~~
+- [x]  [1249](https://www.beecrowd.com.br/repository/UOJ_1249.html) - [~~Rot13~~](https://github.com/potigol/beecrowd/blob/master/src/1200/1249.poti) *Strings*
 - [x]  [1250](https://www.beecrowd.com.br/repository/UOJ_1250.html) - [KiloMan](https://github.com/potigol/beecrowd/blob/master/src/1200/1250.poti) *Ad-Hoc*
 - [x]  [1251](https://www.beecrowd.com.br/repository/UOJ_1251.html) - [Diga-me a Frequência](https://github.com/potigol/beecrowd/blob/master/src/1200/1251.poti) *Estruturas e Bibliotecas*
 - [ ]  [1252](https://www.beecrowd.com.br/repository/UOJ_1252.html) - Sort! Sort!! e Sort!!! *Estruturas e Bibliotecas*
@@ -92,7 +92,7 @@
 - [ ]  [1289](https://www.beecrowd.com.br/repository/UOJ_1289.html) - Qual é a Probabilidade? *Matemática*
 - [ ]  [1290](https://www.beecrowd.com.br/repository/UOJ_1290.html) - Caixas Muito Especiais *Ad-Hoc*
 - [ ]  [1291](https://www.beecrowd.com.br/repository/UOJ_1291.html) - Será Isso Integração? *Geometria Computacional*
-- [ ] ~~xxxx~~
+- [ ]  [1292](https://www.beecrowd.com.br/repository/UOJ_1292.html) - Problema com um Pentágono *Geometria Computacional*
 - [ ]  [1293](https://www.beecrowd.com.br/repository/UOJ_1293.html) - Romeu e Julieta! *Geometria Computacional*
 - [ ]  [1294](https://www.beecrowd.com.br/repository/UOJ_1294.html) - A Maior e Menor Caixa *Geometria Computacional*
 - [ ]  [1295](https://www.beecrowd.com.br/repository/UOJ_1295.html) - Problema dos Pares Mais Próximos *Geometria Computacional*

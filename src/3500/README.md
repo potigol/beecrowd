@@ -1,6 +1,6 @@
 # Problemas 3500 (0%)
 
-- [ ]  [3500](https://www.beecrowd.com.br/repository/UOJ_3500.html) - ~ ~ *Ad-Hoc*
+- [ ]  [3500](https://www.beecrowd.com.br/repository/UOJ_3500.html) - ~~ ~~ *Ad-Hoc*
 - [ ] ~~xxxx~~
 - [ ] ~~xxxx~~
 - [ ] ~~xxxx~~

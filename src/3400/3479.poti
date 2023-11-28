@@ -1,0 +1,17 @@
+data = leia_texto.divida("/").inverta.junte("")
+signo = escolha data
+  caso d se d <= "0119" => "capricornio"
+  caso d se d <= "0218" => "aquario"
+  caso d se d <= "0320" => "peixes"
+  caso d se d <= "0420" => "aries"
+  caso d se d <= "0520" => "touro"
+  caso d se d <= "0620" => "gemeos"
+  caso d se d <= "0722" => "cancer"
+  caso d se d <= "0822" => "leao"
+  caso d se d <= "0922" => "virgem"
+  caso d se d <= "1022" => "libra"
+  caso d se d <= "1121" => "escorpiao"
+  caso d se d <= "1221" => "sargitario"
+  caso _                => "capricornio"
+fim
+escreva signo

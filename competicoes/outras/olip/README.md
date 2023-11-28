@@ -1,4 +1,4 @@
-# Olimpíada IFSULDEMINAS (72 / 143)
+# Olimpíada IFSULDEMINAS (79 / 143)
 
 
 
@@ -8,17 +8,17 @@
 - [ ]  [3466](https://www.beecrowd.com.br/repository/UOJ_3466.html) - Dados do Multiverso *Ad-Hoc*
 - [x]  [3467](https://www.beecrowd.com.br/repository/UOJ_3467.html) - [Esse é o meu lugar!](https://github.com/potigol/beecrowd/blob/master/src/3400/3467.poti) *Ad-Hoc*
 - [x]  [3468](https://www.beecrowd.com.br/repository/UOJ_3468.html) - [Faça mais, mas faça melhor!](https://github.com/potigol/beecrowd/blob/master/src/3400/3468.poti) *Ad-Hoc*
-- [ ]  [3469](https://www.beecrowd.com.br/repository/UOJ_3469.html) - In Site *Ad-Hoc*
+- [x]  [3469](https://www.beecrowd.com.br/repository/UOJ_3469.html) - [In Site](https://github.com/potigol/beecrowd/blob/master/src/3400/3469.poti) *Ad-Hoc*
 - [ ]  [3470](https://www.beecrowd.com.br/repository/UOJ_3470.html) - Jogo do 8 *Ad-Hoc*
 - [ ]  [3471](https://www.beecrowd.com.br/repository/UOJ_3471.html) - Kashmir *Ad-Hoc*
 - [ ]  [3472](https://www.beecrowd.com.br/repository/UOJ_3472.html) - Lá em cima do piano *Ad-Hoc*
 - [x]  [3473](https://www.beecrowd.com.br/repository/UOJ_3473.html) - [Alerte o próximo!](https://github.com/potigol/beecrowd/blob/master/src/3400/3473.poti) *Ad-Hoc*
 - [x]  [3474](https://www.beecrowd.com.br/repository/UOJ_3474.html) - [Boa divisão](https://github.com/potigol/beecrowd/blob/master/src/3400/3474.poti) *Ad-Hoc*
-- [ ]  [3475](https://www.beecrowd.com.br/repository/UOJ_3475.html) - Conversor *Ad-Hoc*
-- [ ]  [3476](https://www.beecrowd.com.br/repository/UOJ_3476.html) - A união faz a força! *Ad-Hoc*
-- [ ]  [3477](https://www.beecrowd.com.br/repository/UOJ_3477.html) - Baú Danificado *Ad-Hoc*
+- [x]  [3475](https://www.beecrowd.com.br/repository/UOJ_3475.html) - [Conversor](https://github.com/potigol/beecrowd/blob/master/src/3400/3475.poti) *Ad-Hoc*
+- [x]  [3476](https://www.beecrowd.com.br/repository/UOJ_3476.html) - [A união faz a força!](https://github.com/potigol/beecrowd/blob/master/src/3400/3476.poti) *Ad-Hoc*
+- [x]  [3477](https://www.beecrowd.com.br/repository/UOJ_3477.html) - [Baú Danificado](https://github.com/potigol/beecrowd/blob/master/src/3400/3477.poti) *Ad-Hoc*
 - [ ]  [3478](https://www.beecrowd.com.br/repository/UOJ_3478.html) - Geiapan *Ad-Hoc*
-- [ ]  [3479](https://www.beecrowd.com.br/repository/UOJ_3479.html) - Horo e os copos *Ad-Hoc*
+- [x]  [3479](https://www.beecrowd.com.br/repository/UOJ_3479.html) - [Horo e os copos](https://github.com/potigol/beecrowd/blob/master/src/3400/3479.poti) *Ad-Hoc*
 
 
 ## 2022
@@ -34,7 +34,7 @@
 - [x]  [3405](https://www.beecrowd.com.br/repository/UOJ_3405.html) - [Fatorial](https://github.com/potigol/beecrowd/blob/master/src/3400/3405.poti) *Ad-Hoc*
 - [ ]  [3406](https://www.beecrowd.com.br/repository/UOJ_3406.html) - Gatas do Lincoln *Ad-Hoc*
 - [x]  [3407](https://www.beecrowd.com.br/repository/UOJ_3407.html) - [Hora do Café](https://github.com/potigol/beecrowd/blob/master/src/3400/3407.poti) *Ad-Hoc*
-- [ ]  [3408](https://www.beecrowd.com.br/repository/UOJ_3408.html) - Ignore as Letras *Ad-Hoc*
+- [x]  [3408](https://www.beecrowd.com.br/repository/UOJ_3408.html) - [Ignore as Letras](https://github.com/potigol/beecrowd/blob/master/src/3400/3408.poti) *Ad-Hoc*
 - [ ]  [3409](https://www.beecrowd.com.br/repository/UOJ_3409.html) - Júnior, como seu tio come? *Ad-Hoc*
 - [ ]  [3410](https://www.beecrowd.com.br/repository/UOJ_3410.html) - Kebra Cabeça *Ad-Hoc*
 - [ ]  [3411](https://www.beecrowd.com.br/repository/UOJ_3411.html) - Lá vai tinta! *Ad-Hoc*
@@ -124,7 +124,7 @@
 - [ ]  [2585](https://www.beecrowd.com.br/repository/UOJ_2585.html) - Dominó Incompleto *Grafos*
 - [ ]  [2586](https://www.beecrowd.com.br/repository/UOJ_2586.html) - Cubonacci *Ad-Hoc*
 - [x]  [2587](https://www.beecrowd.com.br/repository/UOJ_2587.html) - [Jetiqui](https://github.com/potigol/beecrowd/blob/master/src/2500/2587.poti) *Strings*
-- [ ]  [2588](https://www.beecrowd.com.br/repository/UOJ_2588.html) - Jogo dos Palíndromos *Strings*
+- [x]  [2588](https://www.beecrowd.com.br/repository/UOJ_2588.html) - [Jogo dos Palíndromos](https://github.com/potigol/beecrowd/blob/master/src/2500/2588.poti) *Strings*
 - [ ]  [2589](https://www.beecrowd.com.br/repository/UOJ_2589.html) - Maior Distância Entre Primos Consecutivos *Matemática*
 - [ ]  [2590](https://www.beecrowd.com.br/repository/UOJ_2590.html) - Sete *Ad-Hoc*
 - [x]  [2591](https://www.beecrowd.com.br/repository/UOJ_2591.html) - [HameKameKa](https://github.com/potigol/beecrowd/blob/master/src/2500/2591.poti) *Strings*

@@ -1,4 +1,4 @@
-# Strings (71 / 148)
+# Strings (73 / 149)
 
 
 
@@ -14,6 +14,7 @@
 - [x]  [1238](https://www.beecrowd.com.br/repository/UOJ_1238.html) - [Combinador](https://github.com/potigol/beecrowd/blob/master/src/1200/1238.poti)
 - [x]  [1239](https://www.beecrowd.com.br/repository/UOJ_1239.html) - [Atalhos Bloggo](https://github.com/potigol/beecrowd/blob/master/src/1200/1239.poti)
 - [x]  [1241](https://www.beecrowd.com.br/repository/UOJ_1241.html) - [Encaixa ou Não II](https://github.com/potigol/beecrowd/blob/master/src/1200/1241.poti)
+- [x]  [1249](https://www.beecrowd.com.br/repository/UOJ_1249.html) - [~~Rot13~~](https://github.com/potigol/beecrowd/blob/master/src/1200/1249.poti)
 - [x]  [1253](https://www.beecrowd.com.br/repository/UOJ_1253.html) - [Cifra de César](https://github.com/potigol/beecrowd/blob/master/src/1200/1253.poti)
 - [x]  [1255](https://www.beecrowd.com.br/repository/UOJ_1255.html) - [Frequência de Letras](https://github.com/potigol/beecrowd/blob/master/src/1200/1255.poti)
 - [x]  [1257](https://www.beecrowd.com.br/repository/UOJ_1257.html) - [Array Hash](https://github.com/potigol/beecrowd/blob/master/src/1200/1257.poti)
@@ -53,6 +54,7 @@
 - [x]  [2484](https://www.beecrowd.com.br/repository/UOJ_2484.html) - [Abracadabra](https://github.com/potigol/beecrowd/blob/master/src/2400/2484.poti)
 - [x]  [2557](https://www.beecrowd.com.br/repository/UOJ_2557.html) - [R+L=J](https://github.com/potigol/beecrowd/blob/master/src/2500/2557.poti)
 - [x]  [2587](https://www.beecrowd.com.br/repository/UOJ_2587.html) - [Jetiqui](https://github.com/potigol/beecrowd/blob/master/src/2500/2587.poti)
+- [x]  [2588](https://www.beecrowd.com.br/repository/UOJ_2588.html) - [Jogo dos Palíndromos](https://github.com/potigol/beecrowd/blob/master/src/2500/2588.poti)
 - [x]  [2591](https://www.beecrowd.com.br/repository/UOJ_2591.html) - [HameKameKa](https://github.com/potigol/beecrowd/blob/master/src/2500/2591.poti)
 - [x]  [2651](https://www.beecrowd.com.br/repository/UOJ_2651.html) - [Link Bolado](https://github.com/potigol/beecrowd/blob/master/src/2600/2651.poti)
 - [x]  [2690](https://www.beecrowd.com.br/repository/UOJ_2690.html) - [Nova Senha RA](https://github.com/potigol/beecrowd/blob/master/src/2600/2690.poti)
@@ -132,7 +134,6 @@
 - [ ]  [2535](https://www.beecrowd.com.br/repository/UOJ_2535.html) - Feira de Adoção
 - [ ]  [2549](https://www.beecrowd.com.br/repository/UOJ_2549.html) - Nomes de Usuários
 - [ ]  [2583](https://www.beecrowd.com.br/repository/UOJ_2583.html) - Chirrin Chirrion
-- [ ]  [2588](https://www.beecrowd.com.br/repository/UOJ_2588.html) - Jogo dos Palíndromos
 - [ ]  [2669](https://www.beecrowd.com.br/repository/UOJ_2669.html) - Laboratório de Biotecnologia
 - [ ]  [2678](https://www.beecrowd.com.br/repository/UOJ_2678.html) - Discagem de Voz
 - [ ]  [2692](https://www.beecrowd.com.br/repository/UOJ_2692.html) - Teclado Zoeiro

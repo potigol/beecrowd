@@ -1,0 +1,4 @@
+a = leia_inteiros(" ")
+s, b, c = a[1], a[2], a[3]
+tempo = 1 / (1/s + 1/b + 1/c)
+escreva tempo formato "%.3f"

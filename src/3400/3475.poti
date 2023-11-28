@@ -1,0 +1,10 @@
+numeros = ["zero", "um", "dois", "tres", "quatro",
+           "cinco","seis", "sete", "oito", "nove"]
+a = leia_texto
+p = numeros.posicao(a) - 1
+n = numeros[a.inteiro + 1]
+se p >= 0 então
+  escreva p
+senão
+  escreva n
+fim

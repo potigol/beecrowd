@@ -1,4 +1,4 @@
-# Ad-Hoc (238 / 880)
+# Ad-Hoc (244 / 880)
 
 
 
@@ -226,6 +226,7 @@
 - [x]  [3399](https://www.beecrowd.com.br/repository/UOJ_3399.html) - [Meu nome é Enésimo!](https://github.com/potigol/beecrowd/blob/master/src/3300/3399.poti)
 - [x]  [3405](https://www.beecrowd.com.br/repository/UOJ_3405.html) - [Fatorial](https://github.com/potigol/beecrowd/blob/master/src/3400/3405.poti)
 - [x]  [3407](https://www.beecrowd.com.br/repository/UOJ_3407.html) - [Hora do Café](https://github.com/potigol/beecrowd/blob/master/src/3400/3407.poti)
+- [x]  [3408](https://www.beecrowd.com.br/repository/UOJ_3408.html) - [Ignore as Letras](https://github.com/potigol/beecrowd/blob/master/src/3400/3408.poti)
 - [x]  [3412](https://www.beecrowd.com.br/repository/UOJ_3412.html) - [Avaliações de Algoritmos](https://github.com/potigol/beecrowd/blob/master/src/3400/3412.poti)
 - [x]  [3416](https://www.beecrowd.com.br/repository/UOJ_3416.html) - [Eu Quero Cafééé](https://github.com/potigol/beecrowd/blob/master/src/3400/3416.poti)
 - [x]  [3422](https://www.beecrowd.com.br/repository/UOJ_3422.html) - [José e a Súmula](https://github.com/potigol/beecrowd/blob/master/src/3400/3422.poti)
@@ -239,9 +240,14 @@
 - [x]  [3465](https://www.beecrowd.com.br/repository/UOJ_3465.html) - [Cimba](https://github.com/potigol/beecrowd/blob/master/src/3400/3465.poti)
 - [x]  [3467](https://www.beecrowd.com.br/repository/UOJ_3467.html) - [Esse é o meu lugar!](https://github.com/potigol/beecrowd/blob/master/src/3400/3467.poti)
 - [x]  [3468](https://www.beecrowd.com.br/repository/UOJ_3468.html) - [Faça mais, mas faça melhor!](https://github.com/potigol/beecrowd/blob/master/src/3400/3468.poti)
+- [x]  [3469](https://www.beecrowd.com.br/repository/UOJ_3469.html) - [In Site](https://github.com/potigol/beecrowd/blob/master/src/3400/3469.poti)
 - [x]  [3473](https://www.beecrowd.com.br/repository/UOJ_3473.html) - [Alerte o próximo!](https://github.com/potigol/beecrowd/blob/master/src/3400/3473.poti)
 - [x]  [3474](https://www.beecrowd.com.br/repository/UOJ_3474.html) - [Boa divisão](https://github.com/potigol/beecrowd/blob/master/src/3400/3474.poti)
-- [x]  [3484](https://www.beecrowd.com.br/repository/UOJ_3484.html) - [~Altura Mínima~](https://github.com/potigol/beecrowd/blob/master/src/3400/3484.poti)
+- [x]  [3475](https://www.beecrowd.com.br/repository/UOJ_3475.html) - [Conversor](https://github.com/potigol/beecrowd/blob/master/src/3400/3475.poti)
+- [x]  [3476](https://www.beecrowd.com.br/repository/UOJ_3476.html) - [A união faz a força!](https://github.com/potigol/beecrowd/blob/master/src/3400/3476.poti)
+- [x]  [3477](https://www.beecrowd.com.br/repository/UOJ_3477.html) - [Baú Danificado](https://github.com/potigol/beecrowd/blob/master/src/3400/3477.poti)
+- [x]  [3479](https://www.beecrowd.com.br/repository/UOJ_3479.html) - [Horo e os copos](https://github.com/potigol/beecrowd/blob/master/src/3400/3479.poti)
+- [x]  [3484](https://www.beecrowd.com.br/repository/UOJ_3484.html) - [~~Altura Mínima~~](https://github.com/potigol/beecrowd/blob/master/src/3400/3484.poti)
 
 ## Problemas não resolvidos
 
@@ -818,7 +824,6 @@
 - [ ]  [3403](https://www.beecrowd.com.br/repository/UOJ_3403.html) - Dengoso
 - [ ]  [3404](https://www.beecrowd.com.br/repository/UOJ_3404.html) - Estranho ou Engraçado
 - [ ]  [3406](https://www.beecrowd.com.br/repository/UOJ_3406.html) - Gatas do Lincoln
-- [ ]  [3408](https://www.beecrowd.com.br/repository/UOJ_3408.html) - Ignore as Letras
 - [ ]  [3409](https://www.beecrowd.com.br/repository/UOJ_3409.html) - Júnior, como seu tio come?
 - [ ]  [3410](https://www.beecrowd.com.br/repository/UOJ_3410.html) - Kebra Cabeça
 - [ ]  [3411](https://www.beecrowd.com.br/repository/UOJ_3411.html) - Lá vai tinta!
@@ -865,25 +870,20 @@
 - [ ]  [3463](https://www.beecrowd.com.br/repository/UOJ_3463.html) - Kempner et al. e suas Potências
 - [ ]  [3464](https://www.beecrowd.com.br/repository/UOJ_3464.html) - Latência na Rede
 - [ ]  [3466](https://www.beecrowd.com.br/repository/UOJ_3466.html) - Dados do Multiverso
-- [ ]  [3469](https://www.beecrowd.com.br/repository/UOJ_3469.html) - In Site
 - [ ]  [3470](https://www.beecrowd.com.br/repository/UOJ_3470.html) - Jogo do 8
 - [ ]  [3471](https://www.beecrowd.com.br/repository/UOJ_3471.html) - Kashmir
 - [ ]  [3472](https://www.beecrowd.com.br/repository/UOJ_3472.html) - Lá em cima do piano
-- [ ]  [3475](https://www.beecrowd.com.br/repository/UOJ_3475.html) - Conversor
-- [ ]  [3476](https://www.beecrowd.com.br/repository/UOJ_3476.html) - A união faz a força!
-- [ ]  [3477](https://www.beecrowd.com.br/repository/UOJ_3477.html) - Baú Danificado
 - [ ]  [3478](https://www.beecrowd.com.br/repository/UOJ_3478.html) - Geiapan
-- [ ]  [3479](https://www.beecrowd.com.br/repository/UOJ_3479.html) - Horo e os copos
-- [ ]  [3485](https://www.beecrowd.com.br/repository/UOJ_3485.html) - ~Baralho Embaralhado~
-- [ ]  [3486](https://www.beecrowd.com.br/repository/UOJ_3486.html) - ~Caminhada na Montanha~
-- [ ]  [3487](https://www.beecrowd.com.br/repository/UOJ_3487.html) - ~Desvio~
-- [ ]  [3488](https://www.beecrowd.com.br/repository/UOJ_3488.html) - ~Extraindo Pólen~
-- [ ]  [3489](https://www.beecrowd.com.br/repository/UOJ_3489.html) - ~Férias Cansativas~
-- [ ]  [3490](https://www.beecrowd.com.br/repository/UOJ_3490.html) - ~Grande Tratado da Bytelândia~
-- [ ]  [3491](https://www.beecrowd.com.br/repository/UOJ_3491.html) - ~Honroso Trabalhador~
-- [ ]  [3492](https://www.beecrowd.com.br/repository/UOJ_3492.html) - ~Investigando Zeros e Uns~
-- [ ]  [3493](https://www.beecrowd.com.br/repository/UOJ_3493.html) - ~Jogo de Vôlei~
-- [ ]  [3494](https://www.beecrowd.com.br/repository/UOJ_3494.html) - ~k pra Mais, k pra Menos~
-- [ ]  [3495](https://www.beecrowd.com.br/repository/UOJ_3495.html) - ~Lexicograficamente Agradável~
-- [ ]  [3496](https://www.beecrowd.com.br/repository/UOJ_3496.html) - ~Malha Aérea~
-- [ ]  [3500](https://www.beecrowd.com.br/repository/UOJ_3500.html) - ~ ~
+- [ ]  [3485](https://www.beecrowd.com.br/repository/UOJ_3485.html) - ~~Baralho Embaralhado~~
+- [ ]  [3486](https://www.beecrowd.com.br/repository/UOJ_3486.html) - ~~Caminhada na Montanha~~
+- [ ]  [3487](https://www.beecrowd.com.br/repository/UOJ_3487.html) - ~~Desvio~~
+- [ ]  [3488](https://www.beecrowd.com.br/repository/UOJ_3488.html) - ~~Extraindo Pólen~~
+- [ ]  [3489](https://www.beecrowd.com.br/repository/UOJ_3489.html) - ~~Férias Cansativas~~
+- [ ]  [3490](https://www.beecrowd.com.br/repository/UOJ_3490.html) - ~~Grande Tratado da Bytelândia~~
+- [ ]  [3491](https://www.beecrowd.com.br/repository/UOJ_3491.html) - ~~Honroso Trabalhador~~
+- [ ]  [3492](https://www.beecrowd.com.br/repository/UOJ_3492.html) - ~~Investigando Zeros e Uns~~
+- [ ]  [3493](https://www.beecrowd.com.br/repository/UOJ_3493.html) - ~~Jogo de Vôlei~~
+- [ ]  [3494](https://www.beecrowd.com.br/repository/UOJ_3494.html) - ~~k pra Mais, k pra Menos~~
+- [ ]  [3495](https://www.beecrowd.com.br/repository/UOJ_3495.html) - ~~Lexicograficamente Agradável~~
+- [ ]  [3496](https://www.beecrowd.com.br/repository/UOJ_3496.html) - ~~Malha Aérea~~
+- [ ]  [3500](https://www.beecrowd.com.br/repository/UOJ_3500.html) - ~~ ~~

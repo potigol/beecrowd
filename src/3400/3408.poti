@@ -1,0 +1,8 @@
+so_numeros(s: Texto) =
+  s.selecione(c => c >= '0' e c <= '9').inteiro
+
+n = leia_inteiro
+valores = leia_textos(n)
+numeros = valores.mapeie(so_numeros)
+soma = numeros.injete(0)(_ + _)
+escreva soma

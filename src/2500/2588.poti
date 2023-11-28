@@ -1,0 +1,12 @@
+var s:= leia_texto
+enquanto não eof faça
+  letras = s.ordene
+            .divida_quando(_ <> _)
+            .selecione(a => a.tamanho mod 2 == 1)
+            .tamanho - 1
+  se letras >= 0
+    então escreva letras
+    senão escreva 0
+  fim
+  s:= leia_texto
+fim

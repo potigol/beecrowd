@@ -1,4 +1,4 @@
-# Geometria Computacional (8 / 82)
+# Geometria Computacional (8 / 83)
 
 
 
@@ -24,6 +24,7 @@
 - [ ]  [1223](https://www.beecrowd.com.br/repository/UOJ_1223.html) - Tobogan de Bolinhas
 - [ ]  [1268](https://www.beecrowd.com.br/repository/UOJ_1268.html) - Missão Impossível
 - [ ]  [1291](https://www.beecrowd.com.br/repository/UOJ_1291.html) - Será Isso Integração?
+- [ ]  [1292](https://www.beecrowd.com.br/repository/UOJ_1292.html) - Problema com um Pentágono
 - [ ]  [1293](https://www.beecrowd.com.br/repository/UOJ_1293.html) - Romeu e Julieta!
 - [ ]  [1294](https://www.beecrowd.com.br/repository/UOJ_1294.html) - A Maior e Menor Caixa
 - [ ]  [1295](https://www.beecrowd.com.br/repository/UOJ_1295.html) - Problema dos Pares Mais Próximos
