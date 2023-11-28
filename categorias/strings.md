@@ -1,4 +1,4 @@
-# Strings (74 / 149)
+# Strings (75 / 149)
 
 
 
@@ -14,6 +14,7 @@
 - [x]  [1238](https://www.beecrowd.com.br/repository/UOJ_1238.html) - [Combinador](https://github.com/potigol/beecrowd/blob/master/src/1200/1238.poti)
 - [x]  [1239](https://www.beecrowd.com.br/repository/UOJ_1239.html) - [Atalhos Bloggo](https://github.com/potigol/beecrowd/blob/master/src/1200/1239.poti)
 - [x]  [1241](https://www.beecrowd.com.br/repository/UOJ_1241.html) - [Encaixa ou Não II](https://github.com/potigol/beecrowd/blob/master/src/1200/1241.poti)
+- [x]  [1243](https://www.beecrowd.com.br/repository/UOJ_1243.html) - [O Quão Fácil é...](https://github.com/potigol/beecrowd/blob/master/src/1200/1243.poti)
 - [x]  [1249](https://www.beecrowd.com.br/repository/UOJ_1249.html) - [~~Rot13~~](https://github.com/potigol/beecrowd/blob/master/src/1200/1249.poti)
 - [x]  [1253](https://www.beecrowd.com.br/repository/UOJ_1253.html) - [Cifra de César](https://github.com/potigol/beecrowd/blob/master/src/1200/1253.poti)
 - [x]  [1255](https://www.beecrowd.com.br/repository/UOJ_1255.html) - [Frequência de Letras](https://github.com/potigol/beecrowd/blob/master/src/1200/1255.poti)
@@ -82,7 +83,6 @@
 ## Problemas não resolvidos
 
 - [ ]  [1141](https://www.beecrowd.com.br/repository/UOJ_1141.html) - Cultivando Strings
-- [ ]  [1243](https://www.beecrowd.com.br/repository/UOJ_1243.html) - O Quão Fácil é...
 - [ ]  [1248](https://www.beecrowd.com.br/repository/UOJ_1248.html) - Plano de Dieta
 - [ ]  [1254](https://www.beecrowd.com.br/repository/UOJ_1254.html) - Substituição de Tag
 - [ ]  [1284](https://www.beecrowd.com.br/repository/UOJ_1284.html) - Digitando no Telefone Celular

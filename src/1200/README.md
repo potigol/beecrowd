@@ -1,4 +1,4 @@
-# Problemas 1200 (47%)
+# Problemas 1200 (48%)
 
 - [x]  [1200](https://www.beecrowd.com.br/repository/UOJ_1200.html) - [Operações em ABP I](https://github.com/potigol/beecrowd/blob/master/src/1200/1200.poti) *Grafos*
 - [ ]  [1201](https://www.beecrowd.com.br/repository/UOJ_1201.html) - Operações em ABP II *Grafos*
@@ -43,7 +43,7 @@
 - [x]  [1240](https://www.beecrowd.com.br/repository/UOJ_1240.html) - [Encaixa ou Não I](https://github.com/potigol/beecrowd/blob/master/src/1200/1240.poti) *Matemática*
 - [x]  [1241](https://www.beecrowd.com.br/repository/UOJ_1241.html) - [Encaixa ou Não II](https://github.com/potigol/beecrowd/blob/master/src/1200/1241.poti) *Strings*
 - [ ]  [1242](https://www.beecrowd.com.br/repository/UOJ_1242.html) - Ácido Ribonucleico Alienígena *Estruturas e Bibliotecas*
-- [ ]  [1243](https://www.beecrowd.com.br/repository/UOJ_1243.html) - O Quão Fácil é... *Strings*
+- [x]  [1243](https://www.beecrowd.com.br/repository/UOJ_1243.html) - [O Quão Fácil é...](https://github.com/potigol/beecrowd/blob/master/src/1200/1243.poti) *Strings*
 - [x]  [1244](https://www.beecrowd.com.br/repository/UOJ_1244.html) - [Ordenação por Tamanho](https://github.com/potigol/beecrowd/blob/master/src/1200/1244.poti) *Estruturas e Bibliotecas*
 - [x]  [1245](https://www.beecrowd.com.br/repository/UOJ_1245.html) - [Botas Perdidas](https://github.com/potigol/beecrowd/blob/master/src/1200/1245.poti) *Ad-Hoc*
 - [ ]  [1246](https://www.beecrowd.com.br/repository/UOJ_1246.html) - Estacionamento *Ad-Hoc*

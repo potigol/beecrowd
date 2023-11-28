@@ -1,0 +1,18 @@
+var enunciado := leia_texto
+enquanto nao eof faça
+  palavras = enunciado
+    .divida(" ")
+    .mapeie(p => se p.tamanho > 0 e p[-1] == '.' então p.pegue(p.tamanho - 1) senão p fim)
+    .selecione(p => p.tamanho > 0 e p.ordene[1] >= 'A')
+    .mapeie(_.tamanho)
+  se palavras.tamanho == 0 então
+    escreva 250
+  senão
+    media = palavras.injete(0)(_ + _) / palavras.tamanho
+    se media < 4 então
+      escreva 250  senãose media < 6 então
+      escreva 500  senão
+      escreva 1000 fim
+  fim
+  enunciado := leia_texto
+fim
