@@ -1,4 +1,4 @@
-# Problemas 1400 (15%)
+# Problemas 1400 (16%)
 
 - [ ]  [1400](https://www.beecrowd.com.br/repository/UOJ_1400.html) - Jogo - Contando *Matemática*
 - [ ]  [1401](https://www.beecrowd.com.br/repository/UOJ_1401.html) - Gerando Permutações Ordenadas Rapidamente *Estruturas e Bibliotecas*
@@ -48,7 +48,7 @@
 - [ ]  [1445](https://www.beecrowd.com.br/repository/UOJ_1445.html) - Quem Vai à Festa? *Grafos*
 - [ ]  [1446](https://www.beecrowd.com.br/repository/UOJ_1446.html) - Diagrama de Venn? *Geometria Computacional*
 - [ ]  [1447](https://www.beecrowd.com.br/repository/UOJ_1447.html) - Back to the Future *Grafos*
-- [ ]  [1448](https://www.beecrowd.com.br/repository/UOJ_1448.html) - Telefone Sem Fio *Strings*
+- [x]  [1448](https://www.beecrowd.com.br/repository/UOJ_1448.html) - [Telefone Sem Fio](https://github.com/potigol/beecrowd/blob/master/src/1400/1448.poti) *Strings*
 - [ ]  [1449](https://www.beecrowd.com.br/repository/UOJ_1449.html) - O Fantástico Jaspion *Estruturas e Bibliotecas*
 - [ ]  [1450](https://www.beecrowd.com.br/repository/UOJ_1450.html) - Os Joguinhos de Ramsés *Matemática*
 - [ ]  [1451](https://www.beecrowd.com.br/repository/UOJ_1451.html) - Teclado Quebrado *Estruturas e Bibliotecas*

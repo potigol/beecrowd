@@ -1,4 +1,4 @@
-# Strings (73 / 149)
+# Strings (74 / 149)
 
 
 
@@ -28,6 +28,7 @@
 - [x]  [1287](https://www.beecrowd.com.br/repository/UOJ_1287.html) - [Processador Amigável de Inteiros](https://github.com/potigol/beecrowd/blob/master/src/1200/1287.poti)
 - [x]  [1305](https://www.beecrowd.com.br/repository/UOJ_1305.html) - [Arredondamento por Valor de Corte](https://github.com/potigol/beecrowd/blob/master/src/1300/1305.poti)
 - [x]  [1332](https://www.beecrowd.com.br/repository/UOJ_1332.html) - [Um-Dois-Três](https://github.com/potigol/beecrowd/blob/master/src/1300/1332.poti)
+- [x]  [1448](https://www.beecrowd.com.br/repository/UOJ_1448.html) - [Telefone Sem Fio](https://github.com/potigol/beecrowd/blob/master/src/1400/1448.poti)
 - [x]  [1516](https://www.beecrowd.com.br/repository/UOJ_1516.html) - [Imagem](https://github.com/potigol/beecrowd/blob/master/src/1500/1516.poti)
 - [x]  [1551](https://www.beecrowd.com.br/repository/UOJ_1551.html) - [Frase Completa](https://github.com/potigol/beecrowd/blob/master/src/1500/1551.poti)
 - [x]  [1581](https://www.beecrowd.com.br/repository/UOJ_1581.html) - [Conversa Internacional](https://github.com/potigol/beecrowd/blob/master/src/1500/1581.poti)
@@ -96,7 +97,6 @@
 - [ ]  [1385](https://www.beecrowd.com.br/repository/UOJ_1385.html) - Recuperação de Relatório
 - [ ]  [1386](https://www.beecrowd.com.br/repository/UOJ_1386.html) - Códigos Ambíguos
 - [ ]  [1406](https://www.beecrowd.com.br/repository/UOJ_1406.html) - Jukebox
-- [ ]  [1448](https://www.beecrowd.com.br/repository/UOJ_1448.html) - Telefone Sem Fio
 - [ ]  [1456](https://www.beecrowd.com.br/repository/UOJ_1456.html) - Brainfuck
 - [ ]  [1458](https://www.beecrowd.com.br/repository/UOJ_1458.html) - Campeonato de SMS
 - [ ]  [1491](https://www.beecrowd.com.br/repository/UOJ_1491.html) - Linguagem de Blogger

@@ -1,0 +1,32 @@
+t = leia_inteiro
+para i de 1 até t faça
+  frase, time1, time2 = leia_texto
+  var c1, c2, desempate := 0
+
+  para j de 1 até frase.tamanho faça
+    se frase[j] == time1[j] então
+      c1 := c1 + 1
+      se desempate == 0 e frase[j] <> time2[j] então
+        desempate := 1
+      fim
+    fim
+    se frase[j] == time2[j] então
+      c2 := c2 + 1
+      se desempate == 0 e frase[j] <> time1[j] então
+        desempate := 2
+      fim
+    fim
+  fim
+
+  escreva "Instancia {i}"
+  se c1 == c2 e desempate == 0 então
+    escreva "empate"
+  senãose c1 > c2 então
+    escreva "time 1"
+  senãose c1 < c2 então
+    escreva "time 2"
+  senão
+    escreva "time {desempate}"
+  fim
+  escreva ""
+fim
