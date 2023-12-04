@@ -1,4 +1,4 @@
-# Problemas 1600 (6%)
+# Problemas 1600 (7%)
 
 - [ ]  [1600](https://www.beecrowd.com.br/repository/UOJ_1600.html) - O Gato do Zelador do Armazém *Paradigmas*
 - [ ]  [1601](https://www.beecrowd.com.br/repository/UOJ_1601.html) - Partição do Rebanho *Paradigmas*
@@ -18,7 +18,7 @@
 - [ ]  [1615](https://www.beecrowd.com.br/repository/UOJ_1615.html) - Insatisfação nas Eleições *Ad-Hoc*
 - [ ]  [1616](https://www.beecrowd.com.br/repository/UOJ_1616.html) - Baile de Formatura *Paradigmas*
 - [ ]  [1617](https://www.beecrowd.com.br/repository/UOJ_1617.html) - Caminho Seguro *Grafos*
-- [ ]  [1618](https://www.beecrowd.com.br/repository/UOJ_1618.html) - Colisão *Ad-Hoc*
+- [x]  [1618](https://www.beecrowd.com.br/repository/UOJ_1618.html) - [Colisão](https://github.com/potigol/beecrowd/blob/master/src/1600/1618.poti) *Ad-Hoc*
 - [ ]  [1619](https://www.beecrowd.com.br/repository/UOJ_1619.html) - Diferença entre Datas *Ad-Hoc*
 - [ ]  [1620](https://www.beecrowd.com.br/repository/UOJ_1620.html) - Triangulação de Delaunay *Matemática*
 - [ ]  [1621](https://www.beecrowd.com.br/repository/UOJ_1621.html) - Labirinto *Grafos*

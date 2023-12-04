@@ -1,4 +1,4 @@
-# Problemas 1200 (48%)
+# Problemas 1200 (49%)
 
 - [x]  [1200](https://www.beecrowd.com.br/repository/UOJ_1200.html) - [Operações em ABP I](https://github.com/potigol/beecrowd/blob/master/src/1200/1200.poti) *Grafos*
 - [ ]  [1201](https://www.beecrowd.com.br/repository/UOJ_1201.html) - Operações em ABP II *Grafos*
@@ -28,7 +28,7 @@
 - [x]  [1225](https://www.beecrowd.com.br/repository/UOJ_1225.html) - [Coral Perfeito](https://github.com/potigol/beecrowd/blob/master/src/1200/1225.poti) *Ad-Hoc*
 - [ ]  [1226](https://www.beecrowd.com.br/repository/UOJ_1226.html) - Elevador Espacial *Paradigmas*
 - [ ]  [1227](https://www.beecrowd.com.br/repository/UOJ_1227.html) - Perdido na Noite *Grafos*
-- [ ]  [1228](https://www.beecrowd.com.br/repository/UOJ_1228.html) - Grid de Largada *Ad-Hoc*
+- [x]  [1228](https://www.beecrowd.com.br/repository/UOJ_1228.html) - [Grid de Largada](https://github.com/potigol/beecrowd/blob/master/src/1200/1228.poti) *Ad-Hoc*
 - [ ]  [1229](https://www.beecrowd.com.br/repository/UOJ_1229.html) - Combate ao Câncer *Paradigmas*
 - [ ]  [1230](https://www.beecrowd.com.br/repository/UOJ_1230.html) - Integral *Matemática*
 - [ ]  [1231](https://www.beecrowd.com.br/repository/UOJ_1231.html) - Palavras *Paradigmas*

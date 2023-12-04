@@ -1,0 +1,16 @@
+ultrapassagens(grid, chegada: Lista[Inteiro], total: Inteiro): Inteiro =
+  se grid == [] então
+    total
+  senãose grid.cabeça == chegada.cabeça então
+    ultrapassagens(grid.cauda, chegada.cauda, total)
+  senão
+    a = grid.posição(chegada.cabeça) - 1
+    ultrapassagens(grid - [chegada.cabeça], chegada.cauda, total + a)
+  fim
+
+var n := leia_inteiro
+enquanto n > 0 faça
+  grid, chegada = leia_inteiros(" ")
+  escreva ultrapassagens(grid, chegada, 0)
+  n := leia_inteiro
+fim

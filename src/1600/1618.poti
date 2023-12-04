@@ -1,0 +1,12 @@
+n = leia_inteiro
+para i de 1 até n faça
+  entrada = leia_inteiros(" ")
+  a = entrada.pegue(2)
+  c = entrada.descarte(4).pegue(2)
+  r = entrada.descarte(8).pegue(2)
+
+  resposta =
+    se a[1] <= r[1] e a[2] <= r[2] e c[1] >= r[1] e [2] >= r[2]
+    então 1 senão 0 fim
+  escreva resposta
+fim

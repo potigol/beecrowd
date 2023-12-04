@@ -1,4 +1,4 @@
-# Ad-Hoc (244 / 880)
+# Ad-Hoc (246 / 880)
 
 
 
@@ -25,6 +25,7 @@
 - [x]  [1217](https://www.beecrowd.com.br/repository/UOJ_1217.html) - [Getline Two - Frutas](https://github.com/potigol/beecrowd/blob/master/src/1200/1217.poti)
 - [x]  [1218](https://www.beecrowd.com.br/repository/UOJ_1218.html) - [Getline Three - Calçados](https://github.com/potigol/beecrowd/blob/master/src/1200/1218.poti)
 - [x]  [1225](https://www.beecrowd.com.br/repository/UOJ_1225.html) - [Coral Perfeito](https://github.com/potigol/beecrowd/blob/master/src/1200/1225.poti)
+- [x]  [1228](https://www.beecrowd.com.br/repository/UOJ_1228.html) - [Grid de Largada](https://github.com/potigol/beecrowd/blob/master/src/1200/1228.poti)
 - [x]  [1245](https://www.beecrowd.com.br/repository/UOJ_1245.html) - [Botas Perdidas](https://github.com/potigol/beecrowd/blob/master/src/1200/1245.poti)
 - [x]  [1250](https://www.beecrowd.com.br/repository/UOJ_1250.html) - [KiloMan](https://github.com/potigol/beecrowd/blob/master/src/1200/1250.poti)
 - [x]  [1266](https://www.beecrowd.com.br/repository/UOJ_1266.html) - [Tornado!](https://github.com/potigol/beecrowd/blob/master/src/1200/1266.poti)
@@ -60,6 +61,7 @@
 - [x]  [1573](https://www.beecrowd.com.br/repository/UOJ_1573.html) - [Fábrica de Chocolate](https://github.com/potigol/beecrowd/blob/master/src/1500/1573.poti)
 - [x]  [1574](https://www.beecrowd.com.br/repository/UOJ_1574.html) - [Instruções do Robô](https://github.com/potigol/beecrowd/blob/master/src/1500/1574.poti)
 - [x]  [1609](https://www.beecrowd.com.br/repository/UOJ_1609.html) - [Contando Carneirinhos](https://github.com/potigol/beecrowd/blob/master/src/1600/1609.poti)
+- [x]  [1618](https://www.beecrowd.com.br/repository/UOJ_1618.html) - [Colisão](https://github.com/potigol/beecrowd/blob/master/src/1600/1618.poti)
 - [x]  [1708](https://www.beecrowd.com.br/repository/UOJ_1708.html) - [Volta](https://github.com/potigol/beecrowd/blob/master/src/1700/1708.poti)
 - [x]  [1715](https://www.beecrowd.com.br/repository/UOJ_1715.html) - [Handebol](https://github.com/potigol/beecrowd/blob/master/src/1700/1715.poti)
 - [x]  [1743](https://www.beecrowd.com.br/repository/UOJ_1743.html) - [Máquina de Verificação Automatizada](https://github.com/potigol/beecrowd/blob/master/src/1700/1743.poti)
@@ -264,7 +266,6 @@
 - [ ]  [1147](https://www.beecrowd.com.br/repository/UOJ_1147.html) - Fuga do Cavalo
 - [ ]  [1206](https://www.beecrowd.com.br/repository/UOJ_1206.html) - Desafio de São Petersburgo
 - [ ]  [1209](https://www.beecrowd.com.br/repository/UOJ_1209.html) - Festas de São Petersburgo
-- [ ]  [1228](https://www.beecrowd.com.br/repository/UOJ_1228.html) - Grid de Largada
 - [ ]  [1246](https://www.beecrowd.com.br/repository/UOJ_1246.html) - Estacionamento
 - [ ]  [1271](https://www.beecrowd.com.br/repository/UOJ_1271.html) - Onde estão meus Genes
 - [ ]  [1290](https://www.beecrowd.com.br/repository/UOJ_1290.html) - Caixas Muito Especiais
@@ -324,7 +325,6 @@
 - [ ]  [1593](https://www.beecrowd.com.br/repository/UOJ_1593.html) - Função Binária
 - [ ]  [1612](https://www.beecrowd.com.br/repository/UOJ_1612.html) - Formiguinha
 - [ ]  [1615](https://www.beecrowd.com.br/repository/UOJ_1615.html) - Insatisfação nas Eleições
-- [ ]  [1618](https://www.beecrowd.com.br/repository/UOJ_1618.html) - Colisão
 - [ ]  [1619](https://www.beecrowd.com.br/repository/UOJ_1619.html) - Diferença entre Datas
 - [ ]  [1622](https://www.beecrowd.com.br/repository/UOJ_1622.html) - Lâmpadas
 - [ ]  [1627](https://www.beecrowd.com.br/repository/UOJ_1627.html) - Último Dano
