@@ -1,4 +1,4 @@
-# Strings (75 / 149)
+# Strings (76 / 149)
 
 
 
@@ -52,6 +52,7 @@
 - [x]  [2174](https://www.beecrowd.com.br/repository/UOJ_2174.html) - [Coleção de Pomekon](https://github.com/potigol/beecrowd/blob/master/src/2100/2174.poti)
 - [x]  [2242](https://www.beecrowd.com.br/repository/UOJ_2242.html) - [Huaauhahhuahau](https://github.com/potigol/beecrowd/blob/master/src/2200/2242.poti)
 - [x]  [2253](https://www.beecrowd.com.br/repository/UOJ_2253.html) - [Validador de Senhas](https://github.com/potigol/beecrowd/blob/master/src/2200/2253.poti)
+- [x]  [2336](https://www.beecrowd.com.br/repository/UOJ_2336.html) - [ABC](https://github.com/potigol/beecrowd/blob/master/src/2300/2336.poti)
 - [x]  [2356](https://www.beecrowd.com.br/repository/UOJ_2356.html) - [Bactéria I](https://github.com/potigol/beecrowd/blob/master/src/2300/2356.poti)
 - [x]  [2484](https://www.beecrowd.com.br/repository/UOJ_2484.html) - [Abracadabra](https://github.com/potigol/beecrowd/blob/master/src/2400/2484.poti)
 - [x]  [2557](https://www.beecrowd.com.br/repository/UOJ_2557.html) - [R+L=J](https://github.com/potigol/beecrowd/blob/master/src/2500/2557.poti)
@@ -128,7 +129,6 @@
 - [ ]  [2132](https://www.beecrowd.com.br/repository/UOJ_2132.html) - Não é Mais Um Joguinho Canadense!
 - [ ]  [2292](https://www.beecrowd.com.br/repository/UOJ_2292.html) - Painel LED
 - [ ]  [2314](https://www.beecrowd.com.br/repository/UOJ_2314.html) - Indentador
-- [ ]  [2336](https://www.beecrowd.com.br/repository/UOJ_2336.html) - ABC
 - [ ]  [2358](https://www.beecrowd.com.br/repository/UOJ_2358.html) - Bactéria II
 - [ ]  [2509](https://www.beecrowd.com.br/repository/UOJ_2509.html) - Editor Latex
 - [ ]  [2535](https://www.beecrowd.com.br/repository/UOJ_2535.html) - Feira de Adoção

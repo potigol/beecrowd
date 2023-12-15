@@ -1,4 +1,4 @@
-# Problemas 2300 (37%)
+# Problemas 2300 (38%)
 
 - [ ]  [2300](https://www.beecrowd.com.br/repository/UOJ_2300.html) - Transmissão de Energia *Grafos*
 - [ ]  [2301](https://www.beecrowd.com.br/repository/UOJ_2301.html) - Vivo ou Morto *Ad-Hoc*
@@ -36,7 +36,7 @@
 - [ ]  [2333](https://www.beecrowd.com.br/repository/UOJ_2333.html) - Pizza *Ad-Hoc*
 - [x]  [2334](https://www.beecrowd.com.br/repository/UOJ_2334.html) - [Patinhos](https://github.com/potigol/beecrowd/blob/master/src/2300/2334.poti) *Iniciante*
 - [ ]  [2335](https://www.beecrowd.com.br/repository/UOJ_2335.html) - O Desafio de Arquibaldo *Matemática*
-- [ ]  [2336](https://www.beecrowd.com.br/repository/UOJ_2336.html) - ABC *Strings*
+- [x]  [2336](https://www.beecrowd.com.br/repository/UOJ_2336.html) - [ABC](https://github.com/potigol/beecrowd/blob/master/src/2300/2336.poti) *Strings*
 - [ ]  [2337](https://www.beecrowd.com.br/repository/UOJ_2337.html) - Pro Habilidade *Matemática*
 - [x]  [2338](https://www.beecrowd.com.br/repository/UOJ_2338.html) - [Morse](https://github.com/potigol/beecrowd/blob/master/src/2300/2338.poti) *Estruturas e Bibliotecas*
 - [x]  [2339](https://www.beecrowd.com.br/repository/UOJ_2339.html) - [Aviões de Papel](https://github.com/potigol/beecrowd/blob/master/src/2300/2339.poti) *Ad-Hoc*
