@@ -247,6 +247,7 @@
 1246	Estacionamento	Ad-Hoc
 1247	Guarda Costeira	Matemática
 1248	Plano de Dieta	Strings
+1249	~~Rot13~~	Strings
 1250	KiloMan	Ad-Hoc
 1251	Diga-me a Frequência	Estruturas e Bibliotecas
 1252	Sort! Sort!! e Sort!!!	Estruturas e Bibliotecas
@@ -289,6 +290,7 @@
 1289	Qual é a Probabilidade?	Matemática
 1290	Caixas Muito Especiais	Ad-Hoc
 1291	Será Isso Integração?	Geometria Computacional
+1292	Problema com um Pentágono	Geometria Computacional
 1293	Romeu e Julieta!	Geometria Computacional
 1294	A Maior e Menor Caixa	Geometria Computacional
 1295	Problema dos Pares Mais Próximos	Geometria Computacional
@@ -2416,16 +2418,21 @@
 3477	Baú Danificado	Ad-Hoc
 3478	Geiapan	Ad-Hoc
 3479	Horo e os copos	Ad-Hoc
-3480	~Altura Mínima~	Ad-Hoc
-3481	~Baralho Embaralhado~	Ad-Hoc
-3482	~Caminhada na Montanha~	Ad-Hoc
-3483	~Desvio~	Ad-Hoc
-3484	~Extraindo Pólen~	Ad-Hoc
-3485	~Férias Cansativas~	Ad-Hoc
-3486	~Grande Tratado da Bytelândia~	Ad-Hoc
-3487	~Honroso Trabalhador~	Ad-Hoc
-3488	~Investigando Zeros e Uns~	Ad-Hoc
-3489	~Jogo de Vôlei~	Ad-Hoc
-3490	~k pra Mais, k pra Menos~	Ad-Hoc
-3491	~Lexicograficamente Agrad´avel~	Ad-Hoc
-3492	~Malha A´erea~	Ad-Hoc
+3480	Cadeiras adjacentes	SQL
+3481	Classificando uma Árvore	SQL
+3482	Seguidores	SQL
+3483	Segundo Maior e Menor	SQL
+3484	~~Altura Mínima~~	Ad-Hoc
+3485	~~Baralho Embaralhado~~	Ad-Hoc
+3486	~~Caminhada na Montanha~~	Ad-Hoc
+3487	~~Desvio~~	Ad-Hoc
+3488	~~Extraindo Pólen~~	Ad-Hoc
+3489	~~Férias Cansativas~~	Ad-Hoc
+3490	~~Grande Tratado da Bytelândia~~	Ad-Hoc
+3491	~~Honroso Trabalhador~~	Ad-Hoc
+3492	~~Investigando Zeros e Uns~~	Ad-Hoc
+3493	~~Jogo de Vôlei~~	Ad-Hoc
+3494	~~k pra Mais, k pra Menos~~	Ad-Hoc
+3495	~~Lexicograficamente Agradável~~	Ad-Hoc
+3496	~~Malha Aérea~~	Ad-Hoc
+3500	~~ ~~	Ad-Hoc

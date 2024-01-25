@@ -1,0 +1,20 @@
+tijolos(x: Lista[Lista[Inteiro]])
+  para i de 1 até 9 gere
+    para j de 1 até i gere
+      a = i div 2
+      b = (j + 1) div 2
+      escolha (i mod 2, j mod 2)
+        caso (0, 1) => (x[a][b] + x[a+1][b] - x[a+1][b+1]) div 2
+        caso (0, 0) => (x[a][b] - x[a+1][b] + x[a+1][b+1]) div 2
+        caso (1, 0) => (x[a][b] - x[a+1][b] - x[a+1][b+1]) div 2
+        caso _      => x[a+1][b]
+      fim
+    fim
+  fim
+fim
+
+t = leia_inteiro
+para i de 1 até t faça
+  x = Lista(5, leia_inteiros(" "))
+  escreva tijolos(x).mapeie(_.junte(" ")).junte("\n")
+fim

@@ -1,4 +1,4 @@
-# Ad-Hoc (246 / 880)
+# Ad-Hoc (247 / 880)
 
 
 
@@ -40,6 +40,7 @@
 - [x]  [1397](https://www.beecrowd.com.br/repository/UOJ_1397.html) - [Jogo do Maior](https://github.com/potigol/beecrowd/blob/master/src/1300/1397.poti)
 - [x]  [1410](https://www.beecrowd.com.br/repository/UOJ_1410.html) - [Ele Está Impedido!](https://github.com/potigol/beecrowd/blob/master/src/1400/1410.poti)
 - [x]  [1414](https://www.beecrowd.com.br/repository/UOJ_1414.html) - [Copa do Mundo](https://github.com/potigol/beecrowd/blob/master/src/1400/1414.poti)
+- [x]  [1426](https://www.beecrowd.com.br/repository/UOJ_1426.html) - [Coloque Tijolos na Parede](https://github.com/potigol/beecrowd/blob/master/src/1400/1426.poti)
 - [x]  [1428](https://www.beecrowd.com.br/repository/UOJ_1428.html) - [Procurando Nessy](https://github.com/potigol/beecrowd/blob/master/src/1400/1428.poti)
 - [x]  [1437](https://www.beecrowd.com.br/repository/UOJ_1437.html) - [Esquerda, Volver!](https://github.com/potigol/beecrowd/blob/master/src/1400/1437.poti)
 - [x]  [1441](https://www.beecrowd.com.br/repository/UOJ_1441.html) - [Sequências de Granizo](https://github.com/potigol/beecrowd/blob/master/src/1400/1441.poti)
@@ -298,7 +299,6 @@
 - [ ]  [1419](https://www.beecrowd.com.br/repository/UOJ_1419.html) - Bakugan
 - [ ]  [1420](https://www.beecrowd.com.br/repository/UOJ_1420.html) - Contando os Segundos
 - [ ]  [1421](https://www.beecrowd.com.br/repository/UOJ_1421.html) - Tic-Tac-Toe?
-- [ ]  [1426](https://www.beecrowd.com.br/repository/UOJ_1426.html) - Coloque Tijolos na Parede
 - [ ]  [1431](https://www.beecrowd.com.br/repository/UOJ_1431.html) - Níveis de Klingon
 - [ ]  [1438](https://www.beecrowd.com.br/repository/UOJ_1438.html) - Desempilhando Caixas
 - [ ]  [1440](https://www.beecrowd.com.br/repository/UOJ_1440.html) - Praça de Alimentação

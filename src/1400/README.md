@@ -1,4 +1,4 @@
-# Problemas 1400 (16%)
+# Problemas 1400 (17%)
 
 - [ ]  [1400](https://www.beecrowd.com.br/repository/UOJ_1400.html) - Jogo - Contando *Matemática*
 - [ ]  [1401](https://www.beecrowd.com.br/repository/UOJ_1401.html) - Gerando Permutações Ordenadas Rapidamente *Estruturas e Bibliotecas*
@@ -26,7 +26,7 @@
 - [ ]  [1423](https://www.beecrowd.com.br/repository/UOJ_1423.html) - A aventura de Super Mario *Grafos*
 - [ ]  [1424](https://www.beecrowd.com.br/repository/UOJ_1424.html) - Problema Fácil de Rujia Liu? *Estruturas e Bibliotecas*
 - [ ]  [1425](https://www.beecrowd.com.br/repository/UOJ_1425.html) - Presente?! *Estruturas e Bibliotecas*
-- [ ]  [1426](https://www.beecrowd.com.br/repository/UOJ_1426.html) - Coloque Tijolos na Parede *Ad-Hoc*
+- [x]  [1426](https://www.beecrowd.com.br/repository/UOJ_1426.html) - [Coloque Tijolos na Parede](https://github.com/potigol/beecrowd/blob/master/src/1400/1426.poti) *Ad-Hoc*
 - [ ]  [1427](https://www.beecrowd.com.br/repository/UOJ_1427.html) - O Problema da Scrooge Co. *Grafos*
 - [x]  [1428](https://www.beecrowd.com.br/repository/UOJ_1428.html) - [Procurando Nessy](https://github.com/potigol/beecrowd/blob/master/src/1400/1428.poti) *Ad-Hoc*
 - [x]  [1429](https://www.beecrowd.com.br/repository/UOJ_1429.html) - [Fatorial de Novo!](https://github.com/potigol/beecrowd/blob/master/src/1400/1429.poti) *Matemática*
