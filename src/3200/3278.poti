@@ -1,0 +1,20 @@
+a = leia_inteiros(" ")
+c, n = a[1], a[2]
+
+var i, p:= 0
+enquanto i < n e p >= 0 e p <= c faça
+  b = leia_inteiros(" ")
+  p := p - b[1]
+  se p >= 0 então
+    p := p + b[2]
+    se b[3] > 0 e p <> c então
+      p := -1
+    fim
+  fim
+  i := i + 1
+fim
+se p == 0 então
+  escreva "possible"
+senão
+  escreva "impossible"
+fim

@@ -1,4 +1,4 @@
-# Ad-Hoc (247 / 880)
+# Ad-Hoc (248 / 880)
 
 
 
@@ -220,6 +220,7 @@
 - [x]  [3205](https://www.beecrowd.com.br/repository/UOJ_3205.html) - [Nasty Hacks](https://github.com/potigol/beecrowd/blob/master/src/3200/3205.poti)
 - [x]  [3227](https://www.beecrowd.com.br/repository/UOJ_3227.html) - [Doorman](https://github.com/potigol/beecrowd/blob/master/src/3200/3227.poti)
 - [x]  [3263](https://www.beecrowd.com.br/repository/UOJ_3263.html) - [Apague Com Segurança](https://github.com/potigol/beecrowd/blob/master/src/3200/3263.poti)
+- [x]  [3278](https://www.beecrowd.com.br/repository/UOJ_3278.html) - [Passageiros de Trem](https://github.com/potigol/beecrowd/blob/master/src/3200/3278.poti)
 - [x]  [3307](https://www.beecrowd.com.br/repository/UOJ_3307.html) - [Decora o Rolê!](https://github.com/potigol/beecrowd/blob/master/src/3300/3307.poti)
 - [x]  [3309](https://www.beecrowd.com.br/repository/UOJ_3309.html) - [Felizes são estes Números](https://github.com/potigol/beecrowd/blob/master/src/3300/3309.poti)
 - [x]  [3315](https://www.beecrowd.com.br/repository/UOJ_3315.html) - [Língua do Computador](https://github.com/potigol/beecrowd/blob/master/src/3300/3315.poti)
@@ -763,7 +764,6 @@
 - [ ]  [3228](https://www.beecrowd.com.br/repository/UOJ_3228.html) - Eco-driving
 - [ ]  [3240](https://www.beecrowd.com.br/repository/UOJ_3240.html) - Doodling
 - [ ]  [3254](https://www.beecrowd.com.br/repository/UOJ_3254.html) - Espaço Privado
-- [ ]  [3278](https://www.beecrowd.com.br/repository/UOJ_3278.html) - Passageiros de Trem
 - [ ]  [3305](https://www.beecrowd.com.br/repository/UOJ_3305.html) - Bispos Dominantes
 - [ ]  [3316](https://www.beecrowd.com.br/repository/UOJ_3316.html) - ~~Almost Origami~~
 - [ ]  [3317](https://www.beecrowd.com.br/repository/UOJ_3317.html) - ~~Beautiful Mountains~~

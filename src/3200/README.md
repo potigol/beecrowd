@@ -1,4 +1,4 @@
-# Problemas 3200 (23%)
+# Problemas 3200 (24%)
 
 - [ ]  [3200](https://www.beecrowd.com.br/repository/UOJ_3200.html) - Card Trick *Ad-Hoc*
 - [ ]  [3201](https://www.beecrowd.com.br/repository/UOJ_3201.html) - Traveling Salesman *Estruturas e Bibliotecas*
@@ -78,7 +78,7 @@
 - [ ]  [3275](https://www.beecrowd.com.br/repository/UOJ_3275.html) - Foto de Relógios *Strings*
 - [ ]  [3276](https://www.beecrowd.com.br/repository/UOJ_3276.html) - Quantos Quadrados? *Matemática*
 - [ ]  [3277](https://www.beecrowd.com.br/repository/UOJ_3277.html) - Trabalho na Estrada *Paradigmas*
-- [ ]  [3278](https://www.beecrowd.com.br/repository/UOJ_3278.html) - Passageiros de Trem *Ad-Hoc*
+- [x]  [3278](https://www.beecrowd.com.br/repository/UOJ_3278.html) - [Passageiros de Trem](https://github.com/potigol/beecrowd/blob/master/src/3200/3278.poti) *Ad-Hoc*
 - [ ] ~~xxxx~~
 - [ ] ~~xxxx~~
 - [ ] ~~xxxx~~
