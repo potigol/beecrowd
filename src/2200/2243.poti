@@ -1,0 +1,15 @@
+min(x, y: Inteiro) = se x < y então x senao y fim
+
+n = leia_inteiro
+var a := leia_inteiros(" ").mutável
+var esq := 0
+para i de 1 até n faça
+  esq := min(esq+1, a[i])
+  a[i] := esq
+fim
+var dir, maior:= 0
+para i de n até 1 passo -1 faça
+  dir := min(dir+1, a[i])
+  se dir > maior então maior := dir fim
+fim
+escreva maior

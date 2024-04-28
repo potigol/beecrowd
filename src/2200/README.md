@@ -1,4 +1,4 @@
-# Problemas 2200 (19%)
+# Problemas 2200 (20%)
 
 - [ ]  [2200](https://www.beecrowd.com.br/repository/UOJ_2200.html) - Mummy Madness *Ad-Hoc*
 - [ ]  [2201](https://www.beecrowd.com.br/repository/UOJ_2201.html) - Pyramids *Ad-Hoc*
@@ -43,7 +43,7 @@
 - [ ]  [2240](https://www.beecrowd.com.br/repository/UOJ_2240.html) - Fundindo Árvores *Estruturas e Bibliotecas*
 - [ ]  [2241](https://www.beecrowd.com.br/repository/UOJ_2241.html) - Go-- *Estruturas e Bibliotecas*
 - [x]  [2242](https://www.beecrowd.com.br/repository/UOJ_2242.html) - [Huaauhahhuahau](https://github.com/potigol/beecrowd/blob/master/src/2200/2242.poti) *Strings*
-- [ ]  [2243](https://www.beecrowd.com.br/repository/UOJ_2243.html) - Isósceles *Paradigmas*
+- [x]  [2243](https://www.beecrowd.com.br/repository/UOJ_2243.html) - [Isósceles](https://github.com/potigol/beecrowd/blob/master/src/2200/2243.poti) *Paradigmas*
 - [ ]  [2244](https://www.beecrowd.com.br/repository/UOJ_2244.html) - Jogos Olímpicos *Ad-Hoc*
 - [ ]  [2245](https://www.beecrowd.com.br/repository/UOJ_2245.html) - Kit de Encolhimento de Polígonos *Geometria Computacional*
 - [ ]  [2246](https://www.beecrowd.com.br/repository/UOJ_2246.html) - Ladrilhos *Grafos*

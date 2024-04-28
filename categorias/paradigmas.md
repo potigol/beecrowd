@@ -1,4 +1,4 @@
-# Paradigmas (3 / 215)
+# Paradigmas (4 / 215)
 
 
 
@@ -7,6 +7,7 @@
 - [x]  [1029](https://www.beecrowd.com.br/repository/UOJ_1029.html) - [Fibonacci, Quantas Chamadas?](https://github.com/potigol/beecrowd/blob/master/src/1000/1029.poti)
 - [x]  [1084](https://www.beecrowd.com.br/repository/UOJ_1084.html) - [Apagando e Ganhando](https://github.com/potigol/beecrowd/blob/master/src/1000/1084.poti)
 - [x]  [1166](https://www.beecrowd.com.br/repository/UOJ_1166.html) - [Torre de Hanoi, Novamente!](https://github.com/potigol/beecrowd/blob/master/src/1100/1166.poti)
+- [x]  [2243](https://www.beecrowd.com.br/repository/UOJ_2243.html) - [Isósceles](https://github.com/potigol/beecrowd/blob/master/src/2200/2243.poti)
 
 ## Problemas não resolvidos
 
@@ -153,7 +154,6 @@
 - [ ]  [2224](https://www.beecrowd.com.br/repository/UOJ_2224.html) - Torneio de Pomekon
 - [ ]  [2226](https://www.beecrowd.com.br/repository/UOJ_2226.html) - Fabrica de Balões
 - [ ]  [2236](https://www.beecrowd.com.br/repository/UOJ_2236.html) - Batata Quente
-- [ ]  [2243](https://www.beecrowd.com.br/repository/UOJ_2243.html) - Isósceles
 - [ ]  [2299](https://www.beecrowd.com.br/repository/UOJ_2299.html) - Pedido de Desculpas
 - [ ]  [2360](https://www.beecrowd.com.br/repository/UOJ_2360.html) - Centrais de Controle
 - [ ]  [2361](https://www.beecrowd.com.br/repository/UOJ_2361.html) - Entradas e Saídas
