@@ -1,4 +1,4 @@
-# Problemas 1600 (7%)
+# Problemas 1600 (8%)
 
 - [ ]  [1600](https://www.beecrowd.com.br/repository/UOJ_1600.html) - O Gato do Zelador do Armazém *Paradigmas*
 - [ ]  [1601](https://www.beecrowd.com.br/repository/UOJ_1601.html) - Partição do Rebanho *Paradigmas*
@@ -90,7 +90,7 @@
 - [ ]  [1687](https://www.beecrowd.com.br/repository/UOJ_1687.html) - Destrave o Celular *Paradigmas*
 - [ ]  [1688](https://www.beecrowd.com.br/repository/UOJ_1688.html) - Nim Intergalático *Matemática*
 - [ ]  [1689](https://www.beecrowd.com.br/repository/UOJ_1689.html) - Radares *Paradigmas*
-- [ ]  [1690](https://www.beecrowd.com.br/repository/UOJ_1690.html) - Soma de Sobconjuntos *Paradigmas*
+- [x]  [1690](https://www.beecrowd.com.br/repository/UOJ_1690.html) - [Soma de Sobconjuntos](https://github.com/potigol/beecrowd/blob/master/src/1600/1690.poti) *Paradigmas*
 - [ ]  [1691](https://www.beecrowd.com.br/repository/UOJ_1691.html) - Super Circunferência *Ad-Hoc*
 - [ ]  [1692](https://www.beecrowd.com.br/repository/UOJ_1692.html) - Curo Ataque *Grafos*
 - [ ]  [1693](https://www.beecrowd.com.br/repository/UOJ_1693.html) - Apenas Outro Problema de Física *Geometria Computacional*

@@ -1,4 +1,4 @@
-# Paradigmas (4 / 215)
+# Paradigmas (5 / 215)
 
 
 
@@ -7,6 +7,7 @@
 - [x]  [1029](https://www.beecrowd.com.br/repository/UOJ_1029.html) - [Fibonacci, Quantas Chamadas?](https://github.com/potigol/beecrowd/blob/master/src/1000/1029.poti)
 - [x]  [1084](https://www.beecrowd.com.br/repository/UOJ_1084.html) - [Apagando e Ganhando](https://github.com/potigol/beecrowd/blob/master/src/1000/1084.poti)
 - [x]  [1166](https://www.beecrowd.com.br/repository/UOJ_1166.html) - [Torre de Hanoi, Novamente!](https://github.com/potigol/beecrowd/blob/master/src/1100/1166.poti)
+- [x]  [1690](https://www.beecrowd.com.br/repository/UOJ_1690.html) - [Soma de Sobconjuntos](https://github.com/potigol/beecrowd/blob/master/src/1600/1690.poti)
 - [x]  [2243](https://www.beecrowd.com.br/repository/UOJ_2243.html) - [Isósceles](https://github.com/potigol/beecrowd/blob/master/src/2200/2243.poti)
 
 ## Problemas não resolvidos
@@ -96,7 +97,6 @@
 - [ ]  [1685](https://www.beecrowd.com.br/repository/UOJ_1685.html) - Praça de Daniel
 - [ ]  [1687](https://www.beecrowd.com.br/repository/UOJ_1687.html) - Destrave o Celular
 - [ ]  [1689](https://www.beecrowd.com.br/repository/UOJ_1689.html) - Radares
-- [ ]  [1690](https://www.beecrowd.com.br/repository/UOJ_1690.html) - Soma de Sobconjuntos
 - [ ]  [1700](https://www.beecrowd.com.br/repository/UOJ_1700.html) - Antenas
 - [ ]  [1707](https://www.beecrowd.com.br/repository/UOJ_1707.html) - Jogo com Números
 - [ ]  [1720](https://www.beecrowd.com.br/repository/UOJ_1720.html) - Sonho de Mondriaan
