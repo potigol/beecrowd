@@ -1,0 +1,19 @@
+max(a, b: Inteiro) = se a > b então a senão b fim
+
+lucro_máximo(n, custo_dia: Inteiro, receitas: Lista[Inteiro])
+  var max_atual, max_total := 0
+  para valor em receitas faça
+    max_atual := max(0, max_atual) + valor - custo_dia
+    se max_atual > max_total então max_total := max_atual fim
+  fim
+  retorne max_total
+fim
+
+var n:= leia_inteiro
+enquanto n > 0 faça # EOF
+  custo_dia = leia_inteiro
+  receitas = leia_inteiros(n)
+  resultado = lucro_máximo(n, custo_dia, receitas)
+  escreva resultado
+  n := leia_inteiro
+fim

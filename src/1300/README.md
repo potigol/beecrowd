@@ -1,4 +1,4 @@
-# Problemas 1300 (16%)
+# Problemas 1300 (17%)
 
 - [x]  [1300](https://www.beecrowd.com.br/repository/UOJ_1300.html) - [Horas e Minutos](https://github.com/potigol/beecrowd/blob/master/src/1300/1300.poti) *Ad-Hoc*
 - [ ]  [1301](https://www.beecrowd.com.br/repository/UOJ_1301.html) - Produto do Intervalo *Estruturas e Bibliotecas*
@@ -10,7 +10,7 @@
 - [ ]  [1307](https://www.beecrowd.com.br/repository/UOJ_1307.html) - Tudo o que Você Precisa é Amor *Matemática*
 - [x]  [1308](https://www.beecrowd.com.br/repository/UOJ_1308.html) - [Guerreiros Etruscos Nunca Jogam Xadrez](https://github.com/potigol/beecrowd/blob/master/src/1300/1308.poti) *Matemática*
 - [x]  [1309](https://www.beecrowd.com.br/repository/UOJ_1309.html) - [Formatação Monetária](https://github.com/potigol/beecrowd/blob/master/src/1300/1309.poti) *Matemática*
-- [ ]  [1310](https://www.beecrowd.com.br/repository/UOJ_1310.html) - Lucro *Paradigmas*
+- [x]  [1310](https://www.beecrowd.com.br/repository/UOJ_1310.html) - [Lucro](https://github.com/potigol/beecrowd/blob/master/src/1300/1310.poti) *Paradigmas*
 - [ ]  [1311](https://www.beecrowd.com.br/repository/UOJ_1311.html) - Companheiros de Exército *Ad-Hoc*
 - [ ]  [1312](https://www.beecrowd.com.br/repository/UOJ_1312.html) - Empilhamento de Bolas *Paradigmas*
 - [ ]  [1313](https://www.beecrowd.com.br/repository/UOJ_1313.html) - Dicionário Portuñol *Strings*

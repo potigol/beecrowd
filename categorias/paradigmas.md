@@ -1,4 +1,4 @@
-# Paradigmas (5 / 215)
+# Paradigmas (6 / 215)
 
 
 
@@ -7,6 +7,7 @@
 - [x]  [1029](https://www.beecrowd.com.br/repository/UOJ_1029.html) - [Fibonacci, Quantas Chamadas?](https://github.com/potigol/beecrowd/blob/master/src/1000/1029.poti)
 - [x]  [1084](https://www.beecrowd.com.br/repository/UOJ_1084.html) - [Apagando e Ganhando](https://github.com/potigol/beecrowd/blob/master/src/1000/1084.poti)
 - [x]  [1166](https://www.beecrowd.com.br/repository/UOJ_1166.html) - [Torre de Hanoi, Novamente!](https://github.com/potigol/beecrowd/blob/master/src/1100/1166.poti)
+- [x]  [1310](https://www.beecrowd.com.br/repository/UOJ_1310.html) - [Lucro](https://github.com/potigol/beecrowd/blob/master/src/1300/1310.poti)
 - [x]  [1690](https://www.beecrowd.com.br/repository/UOJ_1690.html) - [Soma de Sobconjuntos](https://github.com/potigol/beecrowd/blob/master/src/1600/1690.poti)
 - [x]  [2243](https://www.beecrowd.com.br/repository/UOJ_2243.html) - [Isósceles](https://github.com/potigol/beecrowd/blob/master/src/2200/2243.poti)
 
@@ -32,7 +33,6 @@
 - [ ]  [1286](https://www.beecrowd.com.br/repository/UOJ_1286.html) - Motoboy
 - [ ]  [1288](https://www.beecrowd.com.br/repository/UOJ_1288.html) - Canhão de Destruição
 - [ ]  [1299](https://www.beecrowd.com.br/repository/UOJ_1299.html) - Jogo de Mosaicos
-- [ ]  [1310](https://www.beecrowd.com.br/repository/UOJ_1310.html) - Lucro
 - [ ]  [1312](https://www.beecrowd.com.br/repository/UOJ_1312.html) - Empilhamento de Bolas
 - [ ]  [1319](https://www.beecrowd.com.br/repository/UOJ_1319.html) - Garota Hiperativa
 - [ ]  [1325](https://www.beecrowd.com.br/repository/UOJ_1325.html) - Mapas Bolha
