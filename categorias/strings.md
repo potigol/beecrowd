@@ -1,4 +1,4 @@
-# Strings (76 / 149)
+# Strings (77 / 149)
 
 
 
@@ -44,6 +44,7 @@
 - [x]  [1898](https://www.beecrowd.com.br/repository/UOJ_1898.html) - [Soma de Propina](https://github.com/potigol/beecrowd/blob/master/src/1800/1898.poti)
 - [x]  [2023](https://www.beecrowd.com.br/repository/UOJ_2023.html) - [A Última Criança Boa](https://github.com/potigol/beecrowd/blob/master/src/2000/2023.poti)
 - [x]  [2062](https://www.beecrowd.com.br/repository/UOJ_2062.html) - [OBI URI](https://github.com/potigol/beecrowd/blob/master/src/2000/2062.poti)
+- [x]  [2087](https://www.beecrowd.com.br/repository/UOJ_2087.html) - [Conjuntos Bons e Ruins](https://github.com/potigol/beecrowd/blob/master/src/2000/2087.poti)
 - [x]  [2108](https://www.beecrowd.com.br/repository/UOJ_2108.html) - [Contando Caracters](https://github.com/potigol/beecrowd/blob/master/src/2100/2108.poti)
 - [x]  [2137](https://www.beecrowd.com.br/repository/UOJ_2137.html) - [A Biblioteca do Senhor Severino](https://github.com/potigol/beecrowd/blob/master/src/2100/2137.poti)
 - [x]  [2150](https://www.beecrowd.com.br/repository/UOJ_2150.html) - [Vogais Alienígenas](https://github.com/potigol/beecrowd/blob/master/src/2100/2150.poti)
@@ -123,7 +124,6 @@
 - [ ]  [2035](https://www.beecrowd.com.br/repository/UOJ_2035.html) - Projetando Camisetas
 - [ ]  [2049](https://www.beecrowd.com.br/repository/UOJ_2049.html) - Números de Ahmoc
 - [ ]  [2055](https://www.beecrowd.com.br/repository/UOJ_2055.html) - Lisp é Melhor que Java, C e C++
-- [ ]  [2087](https://www.beecrowd.com.br/repository/UOJ_2087.html) - Conjuntos Bons e Ruins
 - [ ]  [2093](https://www.beecrowd.com.br/repository/UOJ_2093.html) - Fuja para Escapar
 - [ ]  [2097](https://www.beecrowd.com.br/repository/UOJ_2097.html) - Nome para Número
 - [ ]  [2132](https://www.beecrowd.com.br/repository/UOJ_2132.html) - Não é Mais Um Joguinho Canadense!

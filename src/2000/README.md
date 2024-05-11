@@ -1,4 +1,4 @@
-# Problemas 2000 (17%)
+# Problemas 2000 (18%)
 
 - [ ]  [2000](https://www.beecrowd.com.br/repository/UOJ_2000.html) - Adeildo da Odonto *Strings*
 - [ ]  [2001](https://www.beecrowd.com.br/repository/UOJ_2001.html) - Bile *Matemática*
@@ -87,7 +87,7 @@
 - [x]  [2084](https://www.beecrowd.com.br/repository/UOJ_2084.html) - [Eleições](https://github.com/potigol/beecrowd/blob/master/src/2000/2084.poti) *Matemática*
 - [ ]  [2085](https://www.beecrowd.com.br/repository/UOJ_2085.html) - Chapeuzinho Vermelho *Grafos*
 - [ ]  [2086](https://www.beecrowd.com.br/repository/UOJ_2086.html) - Ciclofaixa *Grafos*
-- [ ]  [2087](https://www.beecrowd.com.br/repository/UOJ_2087.html) - Conjuntos Bons e Ruins *Strings*
+- [x]  [2087](https://www.beecrowd.com.br/repository/UOJ_2087.html) - [Conjuntos Bons e Ruins](https://github.com/potigol/beecrowd/blob/master/src/2000/2087.poti) *Strings*
 - [ ]  [2088](https://www.beecrowd.com.br/repository/UOJ_2088.html) - Combate à Dengue *Grafos*
 - [ ]  [2089](https://www.beecrowd.com.br/repository/UOJ_2089.html) - Lanchonete *Paradigmas*
 - [ ]  [2090](https://www.beecrowd.com.br/repository/UOJ_2090.html) - Fui ao Mercado e Comprei... *Ad-Hoc*
