@@ -1,0 +1,16 @@
+var king := leia_inteiros(" ").ordene
+enquanto king[1] > 0 faca
+  a, b, c = king[1], king[2], king[3]
+
+  resposta = se a == 13          entao "*"
+        senaose a == c           entao "{a+1} {a+1} {a+1}"
+        senaose a < b e b < c    entao "1 1 2"
+        senaose b < c e c == 13  entao "1 {a+1} {a+1}"
+        senaose b < c            entao "{a} {a} {c+1}"
+        senaose a == 12          entao "1 1 1"
+        senaose a + 1 < b        entao "{a+1} {b} {c}"
+                                 senao "{b} {b} {a+2}"
+  fim
+  escreva resposta
+  king := leia_inteiros(" ").ordene
+fim

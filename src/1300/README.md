@@ -1,4 +1,4 @@
-# Problemas 1300 (17%)
+# Problemas 1300 (18%)
 
 - [x]  [1300](https://www.beecrowd.com.br/repository/UOJ_1300.html) - [Horas e Minutos](https://github.com/potigol/beecrowd/blob/master/src/1300/1300.poti) *Ad-Hoc*
 - [ ]  [1301](https://www.beecrowd.com.br/repository/UOJ_1301.html) - Produto do Intervalo *Estruturas e Bibliotecas*
@@ -37,7 +37,7 @@
 - [ ]  [1334](https://www.beecrowd.com.br/repository/UOJ_1334.html) - Poluição Elétrica *Grafos*
 - [ ]  [1335](https://www.beecrowd.com.br/repository/UOJ_1335.html) - Recuperação de Arquivos *Strings*
 - [ ]  [1336](https://www.beecrowd.com.br/repository/UOJ_1336.html) - Cerca do Jardim *Geometria Computacional*
-- [ ]  [1337](https://www.beecrowd.com.br/repository/UOJ_1337.html) - Poker do Rei *Ad-Hoc*
+- [x]  [1337](https://www.beecrowd.com.br/repository/UOJ_1337.html) - [Poker do Rei](https://github.com/potigol/beecrowd/blob/master/src/1300/1337.poti) *Ad-Hoc*
 - [ ]  [1338](https://www.beecrowd.com.br/repository/UOJ_1338.html) - It-Miha *Matemática*
 - [ ]  [1339](https://www.beecrowd.com.br/repository/UOJ_1339.html) - O Cubo Mágico do Avô *Ad-Hoc*
 - [x]  [1340](https://www.beecrowd.com.br/repository/UOJ_1340.html) - [Eu Posso Adivinhar a Estrutura de Dados!](https://github.com/potigol/beecrowd/blob/master/src/1300/1340.poti) *Estruturas e Bibliotecas*

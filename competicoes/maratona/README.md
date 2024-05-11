@@ -1,4 +1,4 @@
-# Maratona de Programação (71 / 428)
+# Maratona de Programação (72 / 428)
 
 
 ## 2023
@@ -387,7 +387,7 @@
 - [ ]  [1334](https://www.beecrowd.com.br/repository/UOJ_1334.html) - Poluição Elétrica *Grafos*
 - [ ]  [1335](https://www.beecrowd.com.br/repository/UOJ_1335.html) - Recuperação de Arquivos *Strings*
 - [ ]  [1336](https://www.beecrowd.com.br/repository/UOJ_1336.html) - Cerca do Jardim *Geometria Computacional*
-- [ ]  [1337](https://www.beecrowd.com.br/repository/UOJ_1337.html) - Poker do Rei *Ad-Hoc*
+- [x]  [1337](https://www.beecrowd.com.br/repository/UOJ_1337.html) - [Poker do Rei](https://github.com/potigol/beecrowd/blob/master/src/1300/1337.poti) *Ad-Hoc*
 - [ ]  [1356](https://www.beecrowd.com.br/repository/UOJ_1356.html) - Júpiter Ataca! *Estruturas e Bibliotecas*
 - [ ]  [1357](https://www.beecrowd.com.br/repository/UOJ_1357.html) - Em Braille *Ad-Hoc*
 - [ ]  [1419](https://www.beecrowd.com.br/repository/UOJ_1419.html) - Bakugan *Ad-Hoc*

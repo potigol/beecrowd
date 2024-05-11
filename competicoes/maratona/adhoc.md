@@ -1,4 +1,4 @@
-# Ad-Hoc (20 / 128)
+# Ad-Hoc (21 / 128)
 
 
 
@@ -11,6 +11,7 @@
 - [x]  [1285](https://www.beecrowd.com.br/repository/UOJ_1285.html) - [Dígitos Diferentes](https://github.com/potigol/beecrowd/blob/master/src/1200/1285.poti)
 - [x]  [1300](https://www.beecrowd.com.br/repository/UOJ_1300.html) - [Horas e Minutos](https://github.com/potigol/beecrowd/blob/master/src/1300/1300.poti)
 - [x]  [1318](https://www.beecrowd.com.br/repository/UOJ_1318.html) - [Bilhetes Falsos](https://github.com/potigol/beecrowd/blob/master/src/1300/1318.poti)
+- [x]  [1337](https://www.beecrowd.com.br/repository/UOJ_1337.html) - [Poker do Rei](https://github.com/potigol/beecrowd/blob/master/src/1300/1337.poti)
 - [x]  [1379](https://www.beecrowd.com.br/repository/UOJ_1379.html) - [Problema com Mediana e Média](https://github.com/potigol/beecrowd/blob/master/src/1300/1379.poti)
 - [x]  [1387](https://www.beecrowd.com.br/repository/UOJ_1387.html) - [Og](https://github.com/potigol/beecrowd/blob/master/src/1300/1387.poti)
 - [x]  [1410](https://www.beecrowd.com.br/repository/UOJ_1410.html) - [Ele Está Impedido!](https://github.com/potigol/beecrowd/blob/master/src/1400/1410.poti)
@@ -33,7 +34,6 @@
 - [ ]  [1320](https://www.beecrowd.com.br/repository/UOJ_1320.html) - Metrô Engenhoso
 - [ ]  [1321](https://www.beecrowd.com.br/repository/UOJ_1321.html) - Jollo
 - [ ]  [1333](https://www.beecrowd.com.br/repository/UOJ_1333.html) - Os Doces de Candy
-- [ ]  [1337](https://www.beecrowd.com.br/repository/UOJ_1337.html) - Poker do Rei
 - [ ]  [1339](https://www.beecrowd.com.br/repository/UOJ_1339.html) - O Cubo Mágico do Avô
 - [ ]  [1342](https://www.beecrowd.com.br/repository/UOJ_1342.html) - Dado
 - [ ]  [1343](https://www.beecrowd.com.br/repository/UOJ_1343.html) - Runner Pawns
