@@ -1,0 +1,11 @@
+var n := leia_inteiro
+enquanto n > 0 faça
+    var pares := 0
+    para i de 1 ate n faça
+        v = leia_inteiros(" ")[2] div 2
+        pares := pares + v
+    fim
+    retangulos = pares div 2
+    escreva retangulos
+    n := leia_inteiro
+fim
