@@ -1,0 +1,26 @@
+var a: Long := 1
+
+num =
+  para i de 1 ate 1000000 gere
+    var j := i
+    enquanto j mod 10 == 0 faça
+      j := j div 10
+    fim
+    a := a * j
+    enquanto a mod 10 == 0 faça
+      a := a div 10
+    fim
+    a := a mod 1000000
+    a mod 10
+  fim.mutável
+
+escreva num.junte("\n")
+var t := 0
+var n := leia_inteiro
+enquanto n > 0 faça
+    t := t + 1
+    escreva "Instancia {t}"
+    escreva num[n]
+    escreva ""
+    n := leia_inteiro
+fim
