@@ -1,4 +1,4 @@
-# Maratona de Programação (72 / 414)
+# Maratona de Programação (73 / 414)
 
 
 ## 2022
@@ -497,7 +497,7 @@
 ### 1ª Fase
 
 - [ ]  [1148](https://www.beecrowd.com.br/repository/UOJ_1148.html) - Países em Guerra *Grafos*
-- [ ]  [1371](https://www.beecrowd.com.br/repository/UOJ_1371.html) - Fechem as Portas! *Matemática*
+- [x]  [1371](https://www.beecrowd.com.br/repository/UOJ_1371.html) - [Fechem as Portas!](https://github.com/potigol/beecrowd/blob/master/src/1300/1371.poti) *Matemática*
 - [ ]  [1404](https://www.beecrowd.com.br/repository/UOJ_1404.html) - MegaDamas *Ad-Hoc*
 - [ ]  [1405](https://www.beecrowd.com.br/repository/UOJ_1405.html) - O Problema da Parada *Estruturas e Bibliotecas*
 - [x]  [1414](https://www.beecrowd.com.br/repository/UOJ_1414.html) - [Copa do Mundo](https://github.com/potigol/beecrowd/blob/master/src/1400/1414.poti) *Ad-Hoc*

@@ -1,4 +1,4 @@
-# Matemática (92 / 269)
+# Matemática (93 / 269)
 
 
 
@@ -30,6 +30,7 @@
 - [x]  [1308](https://www.beecrowd.com.br/repository/UOJ_1308.html) - [Guerreiros Etruscos Nunca Jogam Xadrez](https://github.com/potigol/beecrowd/blob/master/src/1300/1308.poti)
 - [x]  [1309](https://www.beecrowd.com.br/repository/UOJ_1309.html) - [Formatação Monetária](https://github.com/potigol/beecrowd/blob/master/src/1300/1309.poti)
 - [x]  [1323](https://www.beecrowd.com.br/repository/UOJ_1323.html) - [Feynman](https://github.com/potigol/beecrowd/blob/master/src/1300/1323.poti)
+- [x]  [1371](https://www.beecrowd.com.br/repository/UOJ_1371.html) - [Fechem as Portas!](https://github.com/potigol/beecrowd/blob/master/src/1300/1371.poti)
 - [x]  [1393](https://www.beecrowd.com.br/repository/UOJ_1393.html) - [Lajotas Hexagonais](https://github.com/potigol/beecrowd/blob/master/src/1300/1393.poti)
 - [x]  [1429](https://www.beecrowd.com.br/repository/UOJ_1429.html) - [Fatorial de Novo!](https://github.com/potigol/beecrowd/blob/master/src/1400/1429.poti)
 - [x]  [1436](https://www.beecrowd.com.br/repository/UOJ_1436.html) - [Jogo do Tijolo](https://github.com/potigol/beecrowd/blob/master/src/1400/1436.poti)
@@ -113,7 +114,6 @@
 - [ ]  [1347](https://www.beecrowd.com.br/repository/UOJ_1347.html) - Mina Kriptonita
 - [ ]  [1352](https://www.beecrowd.com.br/repository/UOJ_1352.html) - Loteria Quadrada
 - [ ]  [1353](https://www.beecrowd.com.br/repository/UOJ_1353.html) - Super Poker
-- [ ]  [1371](https://www.beecrowd.com.br/repository/UOJ_1371.html) - Fechem as Portas!
 - [ ]  [1376](https://www.beecrowd.com.br/repository/UOJ_1376.html) - Irmãos
 - [ ]  [1380](https://www.beecrowd.com.br/repository/UOJ_1380.html) - Crescimento das Populações de Bacilos
 - [ ]  [1381](https://www.beecrowd.com.br/repository/UOJ_1381.html) - Equações Diofantinas

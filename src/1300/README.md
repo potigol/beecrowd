@@ -1,4 +1,4 @@
-# Problemas 1300 (20%)
+# Problemas 1300 (21%)
 
 - [x]  [1300](https://www.beecrowd.com.br/repository/UOJ_1300.html) - [Horas e Minutos](https://github.com/potigol/beecrowd/blob/master/src/1300/1300.poti) *Ad-Hoc*
 - [ ]  [1301](https://www.beecrowd.com.br/repository/UOJ_1301.html) - Produto do Intervalo *Estruturas e Bibliotecas*
@@ -71,7 +71,7 @@
 - [ ]  [1368](https://www.beecrowd.com.br/repository/UOJ_1368.html) - Cubos Coloridos *Ad-Hoc*
 - [ ]  [1369](https://www.beecrowd.com.br/repository/UOJ_1369.html) - Gerente de Espaço *Ad-Hoc*
 - [ ]  [1370](https://www.beecrowd.com.br/repository/UOJ_1370.html) - Regata de Cientistas *Geometria Computacional*
-- [ ]  [1371](https://www.beecrowd.com.br/repository/UOJ_1371.html) - Fechem as Portas! *Matemática*
+- [x]  [1371](https://www.beecrowd.com.br/repository/UOJ_1371.html) - [Fechem as Portas!](https://github.com/potigol/beecrowd/blob/master/src/1300/1371.poti) *Matemática*
 - [ ]  [1372](https://www.beecrowd.com.br/repository/UOJ_1372.html) - Doces *Paradigmas*
 - [ ]  [1373](https://www.beecrowd.com.br/repository/UOJ_1373.html) - Sequências de DNA *Strings*
 - [ ]  [1374](https://www.beecrowd.com.br/repository/UOJ_1374.html) - Eletricidade *Ad-Hoc*
