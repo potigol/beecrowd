@@ -1,4 +1,4 @@
-# Ad-Hoc (21 / 128)
+# Ad-Hoc (22 / 128)
 
 
 
@@ -12,6 +12,7 @@
 - [x]  [1300](https://www.beecrowd.com.br/repository/UOJ_1300.html) - [Horas e Minutos](https://github.com/potigol/beecrowd/blob/master/src/1300/1300.poti)
 - [x]  [1318](https://www.beecrowd.com.br/repository/UOJ_1318.html) - [Bilhetes Falsos](https://github.com/potigol/beecrowd/blob/master/src/1300/1318.poti)
 - [x]  [1337](https://www.beecrowd.com.br/repository/UOJ_1337.html) - [Poker do Rei](https://github.com/potigol/beecrowd/blob/master/src/1300/1337.poti)
+- [x]  [1366](https://www.beecrowd.com.br/repository/UOJ_1366.html) - [Jogo de Varetas](https://github.com/potigol/beecrowd/blob/master/src/1300/1366.poti)
 - [x]  [1379](https://www.beecrowd.com.br/repository/UOJ_1379.html) - [Problema com Mediana e Média](https://github.com/potigol/beecrowd/blob/master/src/1300/1379.poti)
 - [x]  [1387](https://www.beecrowd.com.br/repository/UOJ_1387.html) - [Og](https://github.com/potigol/beecrowd/blob/master/src/1300/1387.poti)
 - [x]  [1410](https://www.beecrowd.com.br/repository/UOJ_1410.html) - [Ele Está Impedido!](https://github.com/potigol/beecrowd/blob/master/src/1400/1410.poti)
@@ -43,7 +44,6 @@
 - [ ]  [1359](https://www.beecrowd.com.br/repository/UOJ_1359.html) - Taxa de Divisão de Terreno
 - [ ]  [1360](https://www.beecrowd.com.br/repository/UOJ_1360.html) - Truque de Mágica
 - [ ]  [1363](https://www.beecrowd.com.br/repository/UOJ_1363.html) - Competição de Placas de Carros
-- [ ]  [1366](https://www.beecrowd.com.br/repository/UOJ_1366.html) - Jogo de Varetas
 - [ ]  [1374](https://www.beecrowd.com.br/repository/UOJ_1374.html) - Eletricidade
 - [ ]  [1375](https://www.beecrowd.com.br/repository/UOJ_1375.html) - Painel de Posições
 - [ ]  [1403](https://www.beecrowd.com.br/repository/UOJ_1403.html) - Meu Avô é Famoso

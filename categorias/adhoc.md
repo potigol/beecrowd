@@ -1,4 +1,4 @@
-# Ad-Hoc (249 / 880)
+# Ad-Hoc (250 / 880)
 
 
 
@@ -35,6 +35,7 @@
 - [x]  [1318](https://www.beecrowd.com.br/repository/UOJ_1318.html) - [Bilhetes Falsos](https://github.com/potigol/beecrowd/blob/master/src/1300/1318.poti)
 - [x]  [1329](https://www.beecrowd.com.br/repository/UOJ_1329.html) - [Cara ou Coroa](https://github.com/potigol/beecrowd/blob/master/src/1300/1329.poti)
 - [x]  [1337](https://www.beecrowd.com.br/repository/UOJ_1337.html) - [Poker do Rei](https://github.com/potigol/beecrowd/blob/master/src/1300/1337.poti)
+- [x]  [1366](https://www.beecrowd.com.br/repository/UOJ_1366.html) - [Jogo de Varetas](https://github.com/potigol/beecrowd/blob/master/src/1300/1366.poti)
 - [x]  [1379](https://www.beecrowd.com.br/repository/UOJ_1379.html) - [Problema com Mediana e Média](https://github.com/potigol/beecrowd/blob/master/src/1300/1379.poti)
 - [x]  [1383](https://www.beecrowd.com.br/repository/UOJ_1383.html) - [Sudoku](https://github.com/potigol/beecrowd/blob/master/src/1300/1383.poti)
 - [x]  [1387](https://www.beecrowd.com.br/repository/UOJ_1387.html) - [Og](https://github.com/potigol/beecrowd/blob/master/src/1300/1387.poti)
@@ -288,7 +289,6 @@
 - [ ]  [1360](https://www.beecrowd.com.br/repository/UOJ_1360.html) - Truque de Mágica
 - [ ]  [1361](https://www.beecrowd.com.br/repository/UOJ_1361.html) - Desenhando o Edifício
 - [ ]  [1363](https://www.beecrowd.com.br/repository/UOJ_1363.html) - Competição de Placas de Carros
-- [ ]  [1366](https://www.beecrowd.com.br/repository/UOJ_1366.html) - Jogo de Varetas
 - [ ]  [1368](https://www.beecrowd.com.br/repository/UOJ_1368.html) - Cubos Coloridos
 - [ ]  [1369](https://www.beecrowd.com.br/repository/UOJ_1369.html) - Gerente de Espaço
 - [ ]  [1374](https://www.beecrowd.com.br/repository/UOJ_1374.html) - Eletricidade

@@ -1,0 +1,7 @@
+gcd(a, b: Texto) = se a == b entao a senao "1" fim
+
+t = leia_inteiro
+para i de 1 ate t faça
+    ab = leia_textos(" ")
+    escreva gcd(ab[1], ab[2])
+fim
