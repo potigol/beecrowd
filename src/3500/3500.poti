@@ -1,0 +1,9 @@
+a = leia_inteiros(" ")
+E, V = a[1], a[2]
+
+t = (19 + E/V) mod 24
+
+h = (t + 0.001).inteiro
+m = (t - h) * 60
+
+escreva "{h formato "%02d"}:{m formato "%02.0f"}"

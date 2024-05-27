@@ -1,4 +1,4 @@
-# Iniciante (323 / 337)
+# Iniciante (324 / 337)
 
 
 
@@ -327,6 +327,7 @@
 - [x]  [3344](https://www.beecrowd.com.br/repository/UOJ_3344.html) - [Brute](https://github.com/potigol/beecrowd/blob/master/src/3300/3344.poti)
 - [x]  [3346](https://www.beecrowd.com.br/repository/UOJ_3346.html) - [Flutuação do PIB](https://github.com/potigol/beecrowd/blob/master/src/3300/3346.poti)
 - [x]  [3348](https://www.beecrowd.com.br/repository/UOJ_3348.html) - [Jogo das Aranhas](https://github.com/potigol/beecrowd/blob/master/src/3300/3348.poti)
+- [x]  [3497](https://www.beecrowd.com.br/repository/UOJ_3497.html) - [~~Alice e as Canções e Iara~~](https://github.com/potigol/beecrowd/blob/master/src/3400/3497.poti)
 
 ## Problemas não resolvidos
 
@@ -343,4 +344,3 @@
 - [ ]  [3255](https://www.beecrowd.com.br/repository/UOJ_3255.html) - A Vez to Primo
 - [ ]  [3256](https://www.beecrowd.com.br/repository/UOJ_3256.html) - Divisão Inimiga
 - [ ]  [3267](https://www.beecrowd.com.br/repository/UOJ_3267.html) - Passeio no Penhasco
-- [ ]  [3497](https://www.beecrowd.com.br/repository/UOJ_3497.html) - ~~Alice e as Canções e Iara~~

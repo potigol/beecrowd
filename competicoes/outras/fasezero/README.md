@@ -1,13 +1,13 @@
-# Fase Zero - Maratona SBC (5 / 38)
+# Fase Zero - Maratona SBC (7 / 38)
 
 
 
 ## 2024
 
-- [ ]  [3497](https://www.beecrowd.com.br/repository/UOJ_3497.html) - ~~Alice e as Canções e Iara~~ *Iniciante*
+- [x]  [3497](https://www.beecrowd.com.br/repository/UOJ_3497.html) - [~~Alice e as Canções e Iara~~](https://github.com/potigol/beecrowd/blob/master/src/3400/3497.poti) *Iniciante*
 - [ ]  [3498](https://www.beecrowd.com.br/repository/UOJ_3498.html) - ~~Boto e as Festas~~ *Ad-Hoc*
 - [ ]  [3499](https://www.beecrowd.com.br/repository/UOJ_3499.html) - ~~Caboclo-d'Água e o Biscoito Confeitado~~ *Ad-Hoc*
-- [ ]  [3500](https://www.beecrowd.com.br/repository/UOJ_3500.html) - ~~Deus-serpente M'boi as Cataratas do Iguaçu~~ *Ad-Hoc*
+- [x]  [3500](https://www.beecrowd.com.br/repository/UOJ_3500.html) - [~~Deus-serpente M'boi as Cataratas do Iguaçu~~](https://github.com/potigol/beecrowd/blob/master/src/3500/3500.poti) *Ad-Hoc*
 - [ ]  [3501](https://www.beecrowd.com.br/repository/UOJ_3501.html) - ~~Esquecimento e o Mapa do Boitatá~~ *Ad-Hoc*
 - [ ]  [3502](https://www.beecrowd.com.br/repository/UOJ_3502.html) - ~~Folguedo do Boi de Mamão e o Apetite da Bernunça~~ *Ad-Hoc*
 - [ ]  [3503](https://www.beecrowd.com.br/repository/UOJ_3503.html) - ~~Gosto Pelo Tabacoe o Saci Pererê~~ *Ad-Hoc*

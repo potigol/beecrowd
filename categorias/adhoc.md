@@ -1,4 +1,4 @@
-# Ad-Hoc (250 / 892)
+# Ad-Hoc (251 / 892)
 
 
 
@@ -254,6 +254,7 @@
 - [x]  [3477](https://www.beecrowd.com.br/repository/UOJ_3477.html) - [Baú Danificado](https://github.com/potigol/beecrowd/blob/master/src/3400/3477.poti)
 - [x]  [3479](https://www.beecrowd.com.br/repository/UOJ_3479.html) - [Horo e os copos](https://github.com/potigol/beecrowd/blob/master/src/3400/3479.poti)
 - [x]  [3484](https://www.beecrowd.com.br/repository/UOJ_3484.html) - [~~Altura Mínima~~](https://github.com/potigol/beecrowd/blob/master/src/3400/3484.poti)
+- [x]  [3500](https://www.beecrowd.com.br/repository/UOJ_3500.html) - [~~Deus-serpente M'boi as Cataratas do Iguaçu~~](https://github.com/potigol/beecrowd/blob/master/src/3500/3500.poti)
 
 ## Problemas não resolvidos
 
@@ -888,7 +889,6 @@
 - [ ]  [3496](https://www.beecrowd.com.br/repository/UOJ_3496.html) - ~~Malha Aérea~~
 - [ ]  [3498](https://www.beecrowd.com.br/repository/UOJ_3498.html) - ~~Boto e as Festas~~
 - [ ]  [3499](https://www.beecrowd.com.br/repository/UOJ_3499.html) - ~~Caboclo-d'Água e o Biscoito Confeitado~~
-- [ ]  [3500](https://www.beecrowd.com.br/repository/UOJ_3500.html) - ~~Deus-serpente M'boi as Cataratas do Iguaçu~~
 - [ ]  [3501](https://www.beecrowd.com.br/repository/UOJ_3501.html) - ~~Esquecimento e o Mapa do Boitatá~~
 - [ ]  [3502](https://www.beecrowd.com.br/repository/UOJ_3502.html) - ~~Folguedo do Boi de Mamão e o Apetite da Bernunça~~
 - [ ]  [3503](https://www.beecrowd.com.br/repository/UOJ_3503.html) - ~~Gosto Pelo Tabacoe o Saci Pererê~~
