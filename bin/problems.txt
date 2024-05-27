@@ -2435,4 +2435,17 @@
 3494	~~k pra Mais, k pra Menos~~	Ad-Hoc
 3495	~~Lexicograficamente Agradável~~	Ad-Hoc
 3496	~~Malha Aérea~~	Ad-Hoc
-3500	~~ ~~	Ad-Hoc
+3497	~~Alice e as Canções e Iara~~	Iniciante
+3498	~~Boto e as Festas~~	Ad-Hoc
+3499	~~Caboclo-d'Água e o Biscoito Confeitado~~	Ad-Hoc
+3500	~~Deus-serpente M'boi as Cataratas do Iguaçu~~	Ad-Hoc
+3501	~~Esquecimento e o Mapa do Boitatá~~	Ad-Hoc
+3502	~~Folguedo do Boi de Mamão e o Apetite da Bernunça~~	Ad-Hoc
+3503	~~Gosto Pelo Tabacoe o Saci Pererê~~	Ad-Hoc
+3504	~~Homem do Saco e o Teorema de Bachgold~~	Ad-Hoc
+3505	~~Iracema e os Colares Especiais~~	Ad-Hoc
+3506	~~Jogos de Xaxdrez e a Mula sem Cabeça~~	Ad-Hoc
+3507	~~K-ésimo Fator Primoe o Desafio do Pai do Mato~~	Ad-Hoc
+3508	~~Lágrimas Irritantes e a tarefa da Cuca~~	Ad-Hoc
+3509	~~Matinta Pereira e um Prefeito Preguiçoso~~	Ad-Hoc
+3510	~~Negrinho do Pastoreio e a Segurança dos Currais~~	Ad-Hoc

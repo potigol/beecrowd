@@ -1,4 +1,4 @@
-# Iniciante (323 / 336)
+# Iniciante (323 / 337)
 
 
 
@@ -343,3 +343,4 @@
 - [ ]  [3255](https://www.beecrowd.com.br/repository/UOJ_3255.html) - A Vez to Primo
 - [ ]  [3256](https://www.beecrowd.com.br/repository/UOJ_3256.html) - Divisão Inimiga
 - [ ]  [3267](https://www.beecrowd.com.br/repository/UOJ_3267.html) - Passeio no Penhasco
+- [ ]  [3497](https://www.beecrowd.com.br/repository/UOJ_3497.html) - ~~Alice e as Canções e Iara~~

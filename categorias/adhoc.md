@@ -1,4 +1,4 @@
-# Ad-Hoc (250 / 880)
+# Ad-Hoc (250 / 892)
 
 
 
@@ -886,4 +886,16 @@
 - [ ]  [3494](https://www.beecrowd.com.br/repository/UOJ_3494.html) - ~~k pra Mais, k pra Menos~~
 - [ ]  [3495](https://www.beecrowd.com.br/repository/UOJ_3495.html) - ~~Lexicograficamente Agradável~~
 - [ ]  [3496](https://www.beecrowd.com.br/repository/UOJ_3496.html) - ~~Malha Aérea~~
-- [ ]  [3500](https://www.beecrowd.com.br/repository/UOJ_3500.html) - ~~ ~~
+- [ ]  [3498](https://www.beecrowd.com.br/repository/UOJ_3498.html) - ~~Boto e as Festas~~
+- [ ]  [3499](https://www.beecrowd.com.br/repository/UOJ_3499.html) - ~~Caboclo-d'Água e o Biscoito Confeitado~~
+- [ ]  [3500](https://www.beecrowd.com.br/repository/UOJ_3500.html) - ~~Deus-serpente M'boi as Cataratas do Iguaçu~~
+- [ ]  [3501](https://www.beecrowd.com.br/repository/UOJ_3501.html) - ~~Esquecimento e o Mapa do Boitatá~~
+- [ ]  [3502](https://www.beecrowd.com.br/repository/UOJ_3502.html) - ~~Folguedo do Boi de Mamão e o Apetite da Bernunça~~
+- [ ]  [3503](https://www.beecrowd.com.br/repository/UOJ_3503.html) - ~~Gosto Pelo Tabacoe o Saci Pererê~~
+- [ ]  [3504](https://www.beecrowd.com.br/repository/UOJ_3504.html) - ~~Homem do Saco e o Teorema de Bachgold~~
+- [ ]  [3505](https://www.beecrowd.com.br/repository/UOJ_3505.html) - ~~Iracema e os Colares Especiais~~
+- [ ]  [3506](https://www.beecrowd.com.br/repository/UOJ_3506.html) - ~~Jogos de Xaxdrez e a Mula sem Cabeça~~
+- [ ]  [3507](https://www.beecrowd.com.br/repository/UOJ_3507.html) - ~~K-ésimo Fator Primoe o Desafio do Pai do Mato~~
+- [ ]  [3508](https://www.beecrowd.com.br/repository/UOJ_3508.html) - ~~Lágrimas Irritantes e a tarefa da Cuca~~
+- [ ]  [3509](https://www.beecrowd.com.br/repository/UOJ_3509.html) - ~~Matinta Pereira e um Prefeito Preguiçoso~~
+- [ ]  [3510](https://www.beecrowd.com.br/repository/UOJ_3510.html) - ~~Negrinho do Pastoreio e a Segurança dos Currais~~

@@ -1,5 +1,23 @@
-# Fase Zero - Maratona SBC (5 / 24)
+# Fase Zero - Maratona SBC (5 / 38)
 
+
+
+## 2024
+
+- [ ]  [3497](https://www.beecrowd.com.br/repository/UOJ_3497.html) - ~~Alice e as Canções e Iara~~ *Iniciante*
+- [ ]  [3498](https://www.beecrowd.com.br/repository/UOJ_3498.html) - ~~Boto e as Festas~~ *Ad-Hoc*
+- [ ]  [3499](https://www.beecrowd.com.br/repository/UOJ_3499.html) - ~~Caboclo-d'Água e o Biscoito Confeitado~~ *Ad-Hoc*
+- [ ]  [3500](https://www.beecrowd.com.br/repository/UOJ_3500.html) - ~~Deus-serpente M'boi as Cataratas do Iguaçu~~ *Ad-Hoc*
+- [ ]  [3501](https://www.beecrowd.com.br/repository/UOJ_3501.html) - ~~Esquecimento e o Mapa do Boitatá~~ *Ad-Hoc*
+- [ ]  [3502](https://www.beecrowd.com.br/repository/UOJ_3502.html) - ~~Folguedo do Boi de Mamão e o Apetite da Bernunça~~ *Ad-Hoc*
+- [ ]  [3503](https://www.beecrowd.com.br/repository/UOJ_3503.html) - ~~Gosto Pelo Tabacoe o Saci Pererê~~ *Ad-Hoc*
+- [ ]  [3504](https://www.beecrowd.com.br/repository/UOJ_3504.html) - ~~Homem do Saco e o Teorema de Bachgold~~ *Ad-Hoc*
+- [ ]  [3505](https://www.beecrowd.com.br/repository/UOJ_3505.html) - ~~Iracema e os Colares Especiais~~ *Ad-Hoc*
+- [ ]  [3506](https://www.beecrowd.com.br/repository/UOJ_3506.html) - ~~Jogos de Xaxdrez e a Mula sem Cabeça~~ *Ad-Hoc*
+- [ ]  [3507](https://www.beecrowd.com.br/repository/UOJ_3507.html) - ~~K-ésimo Fator Primoe o Desafio do Pai do Mato~~ *Ad-Hoc*
+- [ ]  [3508](https://www.beecrowd.com.br/repository/UOJ_3508.html) - ~~Lágrimas Irritantes e a tarefa da Cuca~~ *Ad-Hoc*
+- [ ]  [3509](https://www.beecrowd.com.br/repository/UOJ_3509.html) - ~~Matinta Pereira e um Prefeito Preguiçoso~~ *Ad-Hoc*
+- [ ]  [3510](https://www.beecrowd.com.br/repository/UOJ_3510.html) - ~~Negrinho do Pastoreio e a Segurança dos Currais~~ *Ad-Hoc*
 
 
 ## 2023
