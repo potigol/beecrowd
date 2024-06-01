@@ -1,4 +1,4 @@
-# Problemas 2500 (33%)
+# Problemas 2500 (34%)
 
 - [ ]  [2500](https://www.beecrowd.com.br/repository/UOJ_2500.html) - William Xorando *Matemática*
 - [ ]  [2501](https://www.beecrowd.com.br/repository/UOJ_2501.html) - Fatores Permitidos *Paradigmas*
@@ -14,7 +14,7 @@
 - [ ]  [2511](https://www.beecrowd.com.br/repository/UOJ_2511.html) - WWW *Ad-Hoc*
 - [ ]  [2512](https://www.beecrowd.com.br/repository/UOJ_2512.html) - O Jogo Reverse *Ad-Hoc*
 - [ ]  [2513](https://www.beecrowd.com.br/repository/UOJ_2513.html) - Xoringan *Ad-Hoc*
-- [ ]  [2514](https://www.beecrowd.com.br/repository/UOJ_2514.html) - Alinhamento Lunar *Matemática*
+- [x]  [2514](https://www.beecrowd.com.br/repository/UOJ_2514.html) - [Alinhamento Lunar](https://github.com/potigol/beecrowd/blob/master/src/2500/2514.poti) *Matemática*
 - [ ]  [2515](https://www.beecrowd.com.br/repository/UOJ_2515.html) - Bolacha *Ad-Hoc*
 - [x]  [2516](https://www.beecrowd.com.br/repository/UOJ_2516.html) - [Corrida](https://github.com/potigol/beecrowd/blob/master/src/2500/2516.poti) *Matemática*
 - [ ]  [2517](https://www.beecrowd.com.br/repository/UOJ_2517.html) - Desafio PoGro *Geometria Computacional*

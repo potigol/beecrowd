@@ -1,0 +1,20 @@
+mmc(x, y: Inteiro) = x * y div mdc(x, y)
+
+mdc(x, y: Inteiro): Inteiro =
+  se y == 0 então x senão mdc(y, x mod y) fim
+
+mmc_triplo(x, y, z: Inteiro) = mmc(x, mmc(y, z))
+
+proximo_alinhamento(m, l1, l2, l3: Inteiro)
+  periodo = mmc_triplo(l1, l2, l3)
+  anos_faltantes = periodo - m
+  retorne anos_faltantes
+fim
+
+var m := leia_inteiro
+enquanto m > 0 faça
+  l = leia_inteiros(" ")
+  anos_faltantes = proximo_alinhamento(m, l[1], l[2], l[3])
+  escreva anos_faltantes
+  m := leia_inteiro
+fim
