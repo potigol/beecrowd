@@ -1,4 +1,4 @@
-# Problemas 2100 (35%)
+# Problemas 2100 (36%)
 
 - [ ]  [2100](https://www.beecrowd.com.br/repository/UOJ_2100.html) - Cinema de Xing Tzen Zu *Matemática*
 - [ ]  [2101](https://www.beecrowd.com.br/repository/UOJ_2101.html) - Combinações de Dias *Matemática*
@@ -29,7 +29,7 @@
 - [x]  [2126](https://www.beecrowd.com.br/repository/UOJ_2126.html) - [Procurando Subsequências](https://github.com/potigol/beecrowd/blob/master/src/2100/2126.poti) *Iniciante*
 - [ ]  [2127](https://www.beecrowd.com.br/repository/UOJ_2127.html) - Sistema Cipoviário *Grafos*
 - [ ]  [2128](https://www.beecrowd.com.br/repository/UOJ_2128.html) - Demonstração de Honestidade! *Grafos*
-- [ ]  [2129](https://www.beecrowd.com.br/repository/UOJ_2129.html) - Fatorial *Matemática*
+- [x]  [2129](https://www.beecrowd.com.br/repository/UOJ_2129.html) - [Fatorial](https://github.com/potigol/beecrowd/blob/master/src/2100/2129.poti) *Matemática*
 - [ ]  [2130](https://www.beecrowd.com.br/repository/UOJ_2130.html) - Final Mundial de 2008 *Grafos*
 - [ ]  [2131](https://www.beecrowd.com.br/repository/UOJ_2131.html) - Mesa da Sra. Montagny! *Grafos*
 - [ ]  [2132](https://www.beecrowd.com.br/repository/UOJ_2132.html) - Não é Mais Um Joguinho Canadense! *Strings*

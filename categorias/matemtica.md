@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Matemática (90 / 269)
+=======
+# Matemática (93 / 269)
+>>>>>>> c139191c31aebab4bf2299325fc52dc3d23b1050
 
 
 
@@ -26,9 +30,11 @@
 - [x]  [1247](https://www.beecrowd.com.br/repository/UOJ_1247.html) - [Guarda Costeira](https://github.com/potigol/beecrowd/blob/master/src/1200/1247.poti)
 - [x]  [1279](https://www.beecrowd.com.br/repository/UOJ_1279.html) - [Ano Bissexto ou Ano não Bissexto](https://github.com/potigol/beecrowd/blob/master/src/1200/1279.poti)
 - [x]  [1306](https://www.beecrowd.com.br/repository/UOJ_1306.html) - [Numerando Estradas](https://github.com/potigol/beecrowd/blob/master/src/1300/1306.poti)
+- [x]  [1307](https://www.beecrowd.com.br/repository/UOJ_1307.html) - [Tudo o que Você Precisa é Amor](https://github.com/potigol/beecrowd/blob/master/src/1300/1307.poti)
 - [x]  [1308](https://www.beecrowd.com.br/repository/UOJ_1308.html) - [Guerreiros Etruscos Nunca Jogam Xadrez](https://github.com/potigol/beecrowd/blob/master/src/1300/1308.poti)
 - [x]  [1309](https://www.beecrowd.com.br/repository/UOJ_1309.html) - [Formatação Monetária](https://github.com/potigol/beecrowd/blob/master/src/1300/1309.poti)
 - [x]  [1323](https://www.beecrowd.com.br/repository/UOJ_1323.html) - [Feynman](https://github.com/potigol/beecrowd/blob/master/src/1300/1323.poti)
+- [x]  [1371](https://www.beecrowd.com.br/repository/UOJ_1371.html) - [Fechem as Portas!](https://github.com/potigol/beecrowd/blob/master/src/1300/1371.poti)
 - [x]  [1393](https://www.beecrowd.com.br/repository/UOJ_1393.html) - [Lajotas Hexagonais](https://github.com/potigol/beecrowd/blob/master/src/1300/1393.poti)
 - [x]  [1429](https://www.beecrowd.com.br/repository/UOJ_1429.html) - [Fatorial de Novo!](https://github.com/potigol/beecrowd/blob/master/src/1400/1429.poti)
 - [x]  [1436](https://www.beecrowd.com.br/repository/UOJ_1436.html) - [Jogo do Tijolo](https://github.com/potigol/beecrowd/blob/master/src/1400/1436.poti)
@@ -55,8 +61,10 @@
 - [x]  [2044](https://www.beecrowd.com.br/repository/UOJ_2044.html) - [Em Dívida](https://github.com/potigol/beecrowd/blob/master/src/2000/2044.poti)
 - [x]  [2066](https://www.beecrowd.com.br/repository/UOJ_2066.html) - [amelborP mU](https://github.com/potigol/beecrowd/blob/master/src/2000/2066.poti)
 - [x]  [2084](https://www.beecrowd.com.br/repository/UOJ_2084.html) - [Eleições](https://github.com/potigol/beecrowd/blob/master/src/2000/2084.poti)
+- [x]  [2129](https://www.beecrowd.com.br/repository/UOJ_2129.html) - [Fatorial](https://github.com/potigol/beecrowd/blob/master/src/2100/2129.poti)
 - [x]  [2154](https://www.beecrowd.com.br/repository/UOJ_2154.html) - [Derivada de Polinômios](https://github.com/potigol/beecrowd/blob/master/src/2100/2154.poti)
 - [x]  [2180](https://www.beecrowd.com.br/repository/UOJ_2180.html) - [Viagem à Marte na Velocidade de Primo](https://github.com/potigol/beecrowd/blob/master/src/2100/2180.poti)
+- [x]  [2204](https://www.beecrowd.com.br/repository/UOJ_2204.html) - [Pare A Bomba!](https://github.com/potigol/beecrowd/blob/master/src/2200/2204.poti)
 - [x]  [2218](https://www.beecrowd.com.br/repository/UOJ_2218.html) - [O Temível Evil-Son](https://github.com/potigol/beecrowd/blob/master/src/2200/2218.poti)
 - [x]  [2232](https://www.beecrowd.com.br/repository/UOJ_2232.html) - [Triângulo de Pascal](https://github.com/potigol/beecrowd/blob/master/src/2200/2232.poti)
 - [x]  [2238](https://www.beecrowd.com.br/repository/UOJ_2238.html) - [Divisores](https://github.com/potigol/beecrowd/blob/master/src/2200/2238.poti)
@@ -105,14 +113,12 @@
 - [ ]  [1289](https://www.beecrowd.com.br/repository/UOJ_1289.html) - Qual é a Probabilidade?
 - [ ]  [1297](https://www.beecrowd.com.br/repository/UOJ_1297.html) - Proteção do Meio Ambiente
 - [ ]  [1304](https://www.beecrowd.com.br/repository/UOJ_1304.html) - Velocidade Média
-- [ ]  [1307](https://www.beecrowd.com.br/repository/UOJ_1307.html) - Tudo o que Você Precisa é Amor
 - [ ]  [1324](https://www.beecrowd.com.br/repository/UOJ_1324.html) - Bóson de Higgs
 - [ ]  [1338](https://www.beecrowd.com.br/repository/UOJ_1338.html) - It-Miha
 - [ ]  [1346](https://www.beecrowd.com.br/repository/UOJ_1346.html) - Brincadeira de Criança
 - [ ]  [1347](https://www.beecrowd.com.br/repository/UOJ_1347.html) - Mina Kriptonita
 - [ ]  [1352](https://www.beecrowd.com.br/repository/UOJ_1352.html) - Loteria Quadrada
 - [ ]  [1353](https://www.beecrowd.com.br/repository/UOJ_1353.html) - Super Poker
-- [ ]  [1371](https://www.beecrowd.com.br/repository/UOJ_1371.html) - Fechem as Portas!
 - [ ]  [1376](https://www.beecrowd.com.br/repository/UOJ_1376.html) - Irmãos
 - [ ]  [1380](https://www.beecrowd.com.br/repository/UOJ_1380.html) - Crescimento das Populações de Bacilos
 - [ ]  [1381](https://www.beecrowd.com.br/repository/UOJ_1381.html) - Equações Diofantinas
@@ -206,7 +212,6 @@
 - [ ]  [2101](https://www.beecrowd.com.br/repository/UOJ_2101.html) - Combinações de Dias
 - [ ]  [2107](https://www.beecrowd.com.br/repository/UOJ_2107.html) - As Pirâmides de Ecaterinburgo
 - [ ]  [2114](https://www.beecrowd.com.br/repository/UOJ_2114.html) - Poker
-- [ ]  [2129](https://www.beecrowd.com.br/repository/UOJ_2129.html) - Fatorial
 - [ ]  [2133](https://www.beecrowd.com.br/repository/UOJ_2133.html) - Números de Dinostratus
 - [ ]  [2135](https://www.beecrowd.com.br/repository/UOJ_2135.html) - Recuperação
 - [ ]  [2145](https://www.beecrowd.com.br/repository/UOJ_2145.html) - A Vida Amorosa dos Números
@@ -214,7 +219,6 @@
 - [ ]  [2149](https://www.beecrowd.com.br/repository/UOJ_2149.html) - Sequência do Tio Phill Bonati
 - [ ]  [2170](https://www.beecrowd.com.br/repository/UOJ_2170.html) - Juros do Projeto
 - [ ]  [2177](https://www.beecrowd.com.br/repository/UOJ_2177.html) - Rio 2016
-- [ ]  [2204](https://www.beecrowd.com.br/repository/UOJ_2204.html) - Pare A Bomba!
 - [ ]  [2222](https://www.beecrowd.com.br/repository/UOJ_2222.html) - Brincando com Conjuntos
 - [ ]  [2291](https://www.beecrowd.com.br/repository/UOJ_2291.html) - Números Divinos
 - [ ]  [2335](https://www.beecrowd.com.br/repository/UOJ_2335.html) - O Desafio de Arquibaldo

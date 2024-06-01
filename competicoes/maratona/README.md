@@ -1,28 +1,5 @@
-# Maratona de Programação (72 / 428)
+# Maratona de Programação (73 / 414)
 
-
-## 2023
-
-### 1ª Fase
-
-- [x]  [3484](https://www.beecrowd.com.br/repository/UOJ_3484.html) - [~~Altura Mínima~~](https://github.com/potigol/beecrowd/blob/master/src/3400/3484.poti) *Ad-Hoc*
-- [ ]  [3485](https://www.beecrowd.com.br/repository/UOJ_3485.html) - ~~Baralho Embaralhado~~ *Ad-Hoc*
-- [ ]  [3486](https://www.beecrowd.com.br/repository/UOJ_3486.html) - ~~Caminhada na Montanha~~ *Ad-Hoc*
-- [ ]  [3487](https://www.beecrowd.com.br/repository/UOJ_3487.html) - ~~Desvio~~ *Ad-Hoc*
-- [ ]  [3488](https://www.beecrowd.com.br/repository/UOJ_3488.html) - ~~Extraindo Pólen~~ *Ad-Hoc*
-- [ ]  [3489](https://www.beecrowd.com.br/repository/UOJ_3489.html) - ~~Férias Cansativas~~ *Ad-Hoc*
-- [ ]  [3490](https://www.beecrowd.com.br/repository/UOJ_3490.html) - ~~Grande Tratado da Bytelândia~~ *Ad-Hoc*
-- [ ]  [3491](https://www.beecrowd.com.br/repository/UOJ_3491.html) - ~~Honroso Trabalhador~~ *Ad-Hoc*
-- [ ]  [3492](https://www.beecrowd.com.br/repository/UOJ_3492.html) - ~~Investigando Zeros e Uns~~ *Ad-Hoc*
-- [ ]  [3493](https://www.beecrowd.com.br/repository/UOJ_3493.html) - ~~Jogo de Vôlei~~ *Ad-Hoc*
-- [ ]  [3494](https://www.beecrowd.com.br/repository/UOJ_3494.html) - ~~k pra Mais, k pra Menos~~ *Ad-Hoc*
-- [ ]  [3495](https://www.beecrowd.com.br/repository/UOJ_3495.html) - ~~Lexicograficamente Agradável~~ *Ad-Hoc*
-- [ ]  [3496](https://www.beecrowd.com.br/repository/UOJ_3496.html) - ~~Malha Aérea~~ *Ad-Hoc*
-
-### 2ª Fase
-
-- [ ] ~~xxxx~~
-       
 
 ## 2022
 
@@ -506,7 +483,7 @@
 - [ ]  [1363](https://www.beecrowd.com.br/repository/UOJ_1363.html) - Competição de Placas de Carros *Ad-Hoc*
 - [ ]  [1364](https://www.beecrowd.com.br/repository/UOJ_1364.html) - Emoticons :-) *Strings*
 - [ ]  [1365](https://www.beecrowd.com.br/repository/UOJ_1365.html) - Procurando Assentos *Paradigmas*
-- [ ]  [1366](https://www.beecrowd.com.br/repository/UOJ_1366.html) - Jogo de Varetas *Ad-Hoc*
+- [x]  [1366](https://www.beecrowd.com.br/repository/UOJ_1366.html) - [Jogo de Varetas](https://github.com/potigol/beecrowd/blob/master/src/1300/1366.poti) *Ad-Hoc*
 - [ ]  [1386](https://www.beecrowd.com.br/repository/UOJ_1386.html) - Códigos Ambíguos *Strings*
 - [x]  [1387](https://www.beecrowd.com.br/repository/UOJ_1387.html) - [Og](https://github.com/potigol/beecrowd/blob/master/src/1300/1387.poti) *Ad-Hoc*
 - [x]  [1410](https://www.beecrowd.com.br/repository/UOJ_1410.html) - [Ele Está Impedido!](https://github.com/potigol/beecrowd/blob/master/src/1400/1410.poti) *Ad-Hoc*
@@ -520,7 +497,7 @@
 ### 1ª Fase
 
 - [ ]  [1148](https://www.beecrowd.com.br/repository/UOJ_1148.html) - Países em Guerra *Grafos*
-- [ ]  [1371](https://www.beecrowd.com.br/repository/UOJ_1371.html) - Fechem as Portas! *Matemática*
+- [x]  [1371](https://www.beecrowd.com.br/repository/UOJ_1371.html) - [Fechem as Portas!](https://github.com/potigol/beecrowd/blob/master/src/1300/1371.poti) *Matemática*
 - [ ]  [1404](https://www.beecrowd.com.br/repository/UOJ_1404.html) - MegaDamas *Ad-Hoc*
 - [ ]  [1405](https://www.beecrowd.com.br/repository/UOJ_1405.html) - O Problema da Parada *Estruturas e Bibliotecas*
 - [x]  [1414](https://www.beecrowd.com.br/repository/UOJ_1414.html) - [Copa do Mundo](https://github.com/potigol/beecrowd/blob/master/src/1400/1414.poti) *Ad-Hoc*

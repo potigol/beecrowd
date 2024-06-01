@@ -1,0 +1,8 @@
+var n := leia_inteiro
+enquanto n > 0 faça
+  portas = para i de 1 até raiz(n).inteiro
+    gere i * i
+  fim
+  escreva portas.junte(" ")
+  n := leia_inteiro
+fim

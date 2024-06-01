@@ -1,4 +1,4 @@
-# Problemas 1300 (18%)
+# Problemas 1300 (21%)
 
 - [x]  [1300](https://www.beecrowd.com.br/repository/UOJ_1300.html) - [Horas e Minutos](https://github.com/potigol/beecrowd/blob/master/src/1300/1300.poti) *Ad-Hoc*
 - [ ]  [1301](https://www.beecrowd.com.br/repository/UOJ_1301.html) - Produto do Intervalo *Estruturas e Bibliotecas*
@@ -7,7 +7,7 @@
 - [ ]  [1304](https://www.beecrowd.com.br/repository/UOJ_1304.html) - Velocidade Média *Matemática*
 - [x]  [1305](https://www.beecrowd.com.br/repository/UOJ_1305.html) - [Arredondamento por Valor de Corte](https://github.com/potigol/beecrowd/blob/master/src/1300/1305.poti) *Strings*
 - [x]  [1306](https://www.beecrowd.com.br/repository/UOJ_1306.html) - [Numerando Estradas](https://github.com/potigol/beecrowd/blob/master/src/1300/1306.poti) *Matemática*
-- [ ]  [1307](https://www.beecrowd.com.br/repository/UOJ_1307.html) - Tudo o que Você Precisa é Amor *Matemática*
+- [x]  [1307](https://www.beecrowd.com.br/repository/UOJ_1307.html) - [Tudo o que Você Precisa é Amor](https://github.com/potigol/beecrowd/blob/master/src/1300/1307.poti) *Matemática*
 - [x]  [1308](https://www.beecrowd.com.br/repository/UOJ_1308.html) - [Guerreiros Etruscos Nunca Jogam Xadrez](https://github.com/potigol/beecrowd/blob/master/src/1300/1308.poti) *Matemática*
 - [x]  [1309](https://www.beecrowd.com.br/repository/UOJ_1309.html) - [Formatação Monetária](https://github.com/potigol/beecrowd/blob/master/src/1300/1309.poti) *Matemática*
 - [x]  [1310](https://www.beecrowd.com.br/repository/UOJ_1310.html) - [Lucro](https://github.com/potigol/beecrowd/blob/master/src/1300/1310.poti) *Paradigmas*
@@ -66,12 +66,12 @@
 - [ ]  [1363](https://www.beecrowd.com.br/repository/UOJ_1363.html) - Competição de Placas de Carros *Ad-Hoc*
 - [ ]  [1364](https://www.beecrowd.com.br/repository/UOJ_1364.html) - Emoticons :-) *Strings*
 - [ ]  [1365](https://www.beecrowd.com.br/repository/UOJ_1365.html) - Procurando Assentos *Paradigmas*
-- [ ]  [1366](https://www.beecrowd.com.br/repository/UOJ_1366.html) - Jogo de Varetas *Ad-Hoc*
+- [x]  [1366](https://www.beecrowd.com.br/repository/UOJ_1366.html) - [Jogo de Varetas](https://github.com/potigol/beecrowd/blob/master/src/1300/1366.poti) *Ad-Hoc*
 - [ ]  [1367](https://www.beecrowd.com.br/repository/UOJ_1367.html) - Ajude! *Strings*
 - [ ]  [1368](https://www.beecrowd.com.br/repository/UOJ_1368.html) - Cubos Coloridos *Ad-Hoc*
 - [ ]  [1369](https://www.beecrowd.com.br/repository/UOJ_1369.html) - Gerente de Espaço *Ad-Hoc*
 - [ ]  [1370](https://www.beecrowd.com.br/repository/UOJ_1370.html) - Regata de Cientistas *Geometria Computacional*
-- [ ]  [1371](https://www.beecrowd.com.br/repository/UOJ_1371.html) - Fechem as Portas! *Matemática*
+- [x]  [1371](https://www.beecrowd.com.br/repository/UOJ_1371.html) - [Fechem as Portas!](https://github.com/potigol/beecrowd/blob/master/src/1300/1371.poti) *Matemática*
 - [ ]  [1372](https://www.beecrowd.com.br/repository/UOJ_1372.html) - Doces *Paradigmas*
 - [ ]  [1373](https://www.beecrowd.com.br/repository/UOJ_1373.html) - Sequências de DNA *Strings*
 - [ ]  [1374](https://www.beecrowd.com.br/repository/UOJ_1374.html) - Eletricidade *Ad-Hoc*

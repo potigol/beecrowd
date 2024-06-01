@@ -1,10 +1,10 @@
-# Problemas 2200 (20%)
+# Problemas 2200 (21%)
 
 - [ ]  [2200](https://www.beecrowd.com.br/repository/UOJ_2200.html) - Mummy Madness *Ad-Hoc*
 - [ ]  [2201](https://www.beecrowd.com.br/repository/UOJ_2201.html) - Pyramids *Ad-Hoc*
 - [ ]  [2202](https://www.beecrowd.com.br/repository/UOJ_2202.html) - Trash Removal *Ad-Hoc*
 - [x]  [2203](https://www.beecrowd.com.br/repository/UOJ_2203.html) - [Tempestade de Corvos](https://github.com/potigol/beecrowd/blob/master/src/2200/2203.poti) *Iniciante*
-- [ ]  [2204](https://www.beecrowd.com.br/repository/UOJ_2204.html) - Pare A Bomba! *Matemática*
+- [x]  [2204](https://www.beecrowd.com.br/repository/UOJ_2204.html) - [Pare A Bomba!](https://github.com/potigol/beecrowd/blob/master/src/2200/2204.poti) *Matemática*
 - [ ]  [2205](https://www.beecrowd.com.br/repository/UOJ_2205.html) - Asteroid Rangers *Ad-Hoc*
 - [ ] ~~xxxx~~
 - [ ]  [2207](https://www.beecrowd.com.br/repository/UOJ_2207.html) - Bus Tour *Ad-Hoc*

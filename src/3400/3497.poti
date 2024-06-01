@@ -1,0 +1,3 @@
+a = leia_inteiros(" ")
+soma = a.injete(0)(_ + _)
+escreva 6 - soma

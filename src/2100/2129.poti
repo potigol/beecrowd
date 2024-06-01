@@ -1,0 +1,23 @@
+remove_zeros(a: Long): Long =
+  se a mod 10 == 0 e a > 0
+    entao remove_zeros(a div 10)
+    senao a
+  fim
+
+var a: Long := 1
+num =
+  para i de 1 ate 1000000 gere
+    var j := remove_zeros(i)
+    a := remove_zeros(a * j) mod 1000000
+    a mod 10
+  fim.mutável
+
+var t := 0
+var n := leia_inteiro
+enquanto n > 0 faça
+    t := t + 1
+    escreva "Instancia {t}"
+    escreva num[n]
+    escreva ""
+    n := leia_inteiro
+fim

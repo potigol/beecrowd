@@ -1,4 +1,4 @@
-# Ad-Hoc (249 / 880)
+# Ad-Hoc (251 / 892)
 
 
 
@@ -35,6 +35,7 @@
 - [x]  [1318](https://www.beecrowd.com.br/repository/UOJ_1318.html) - [Bilhetes Falsos](https://github.com/potigol/beecrowd/blob/master/src/1300/1318.poti)
 - [x]  [1329](https://www.beecrowd.com.br/repository/UOJ_1329.html) - [Cara ou Coroa](https://github.com/potigol/beecrowd/blob/master/src/1300/1329.poti)
 - [x]  [1337](https://www.beecrowd.com.br/repository/UOJ_1337.html) - [Poker do Rei](https://github.com/potigol/beecrowd/blob/master/src/1300/1337.poti)
+- [x]  [1366](https://www.beecrowd.com.br/repository/UOJ_1366.html) - [Jogo de Varetas](https://github.com/potigol/beecrowd/blob/master/src/1300/1366.poti)
 - [x]  [1379](https://www.beecrowd.com.br/repository/UOJ_1379.html) - [Problema com Mediana e Média](https://github.com/potigol/beecrowd/blob/master/src/1300/1379.poti)
 - [x]  [1383](https://www.beecrowd.com.br/repository/UOJ_1383.html) - [Sudoku](https://github.com/potigol/beecrowd/blob/master/src/1300/1383.poti)
 - [x]  [1387](https://www.beecrowd.com.br/repository/UOJ_1387.html) - [Og](https://github.com/potigol/beecrowd/blob/master/src/1300/1387.poti)
@@ -253,6 +254,7 @@
 - [x]  [3477](https://www.beecrowd.com.br/repository/UOJ_3477.html) - [Baú Danificado](https://github.com/potigol/beecrowd/blob/master/src/3400/3477.poti)
 - [x]  [3479](https://www.beecrowd.com.br/repository/UOJ_3479.html) - [Horo e os copos](https://github.com/potigol/beecrowd/blob/master/src/3400/3479.poti)
 - [x]  [3484](https://www.beecrowd.com.br/repository/UOJ_3484.html) - [~~Altura Mínima~~](https://github.com/potigol/beecrowd/blob/master/src/3400/3484.poti)
+- [x]  [3500](https://www.beecrowd.com.br/repository/UOJ_3500.html) - [~~Deus-serpente M'boi as Cataratas do Iguaçu~~](https://github.com/potigol/beecrowd/blob/master/src/3500/3500.poti)
 
 ## Problemas não resolvidos
 
@@ -288,7 +290,6 @@
 - [ ]  [1360](https://www.beecrowd.com.br/repository/UOJ_1360.html) - Truque de Mágica
 - [ ]  [1361](https://www.beecrowd.com.br/repository/UOJ_1361.html) - Desenhando o Edifício
 - [ ]  [1363](https://www.beecrowd.com.br/repository/UOJ_1363.html) - Competição de Placas de Carros
-- [ ]  [1366](https://www.beecrowd.com.br/repository/UOJ_1366.html) - Jogo de Varetas
 - [ ]  [1368](https://www.beecrowd.com.br/repository/UOJ_1368.html) - Cubos Coloridos
 - [ ]  [1369](https://www.beecrowd.com.br/repository/UOJ_1369.html) - Gerente de Espaço
 - [ ]  [1374](https://www.beecrowd.com.br/repository/UOJ_1374.html) - Eletricidade
@@ -886,4 +887,15 @@
 - [ ]  [3494](https://www.beecrowd.com.br/repository/UOJ_3494.html) - ~~k pra Mais, k pra Menos~~
 - [ ]  [3495](https://www.beecrowd.com.br/repository/UOJ_3495.html) - ~~Lexicograficamente Agradável~~
 - [ ]  [3496](https://www.beecrowd.com.br/repository/UOJ_3496.html) - ~~Malha Aérea~~
-- [ ]  [3500](https://www.beecrowd.com.br/repository/UOJ_3500.html) - ~~ ~~
+- [ ]  [3498](https://www.beecrowd.com.br/repository/UOJ_3498.html) - ~~Boto e as Festas~~
+- [ ]  [3499](https://www.beecrowd.com.br/repository/UOJ_3499.html) - ~~Caboclo-d'Água e o Biscoito Confeitado~~
+- [ ]  [3501](https://www.beecrowd.com.br/repository/UOJ_3501.html) - ~~Esquecimento e o Mapa do Boitatá~~
+- [ ]  [3502](https://www.beecrowd.com.br/repository/UOJ_3502.html) - ~~Folguedo do Boi de Mamão e o Apetite da Bernunça~~
+- [ ]  [3503](https://www.beecrowd.com.br/repository/UOJ_3503.html) - ~~Gosto Pelo Tabacoe o Saci Pererê~~
+- [ ]  [3504](https://www.beecrowd.com.br/repository/UOJ_3504.html) - ~~Homem do Saco e o Teorema de Bachgold~~
+- [ ]  [3505](https://www.beecrowd.com.br/repository/UOJ_3505.html) - ~~Iracema e os Colares Especiais~~
+- [ ]  [3506](https://www.beecrowd.com.br/repository/UOJ_3506.html) - ~~Jogos de Xaxdrez e a Mula sem Cabeça~~
+- [ ]  [3507](https://www.beecrowd.com.br/repository/UOJ_3507.html) - ~~K-ésimo Fator Primoe o Desafio do Pai do Mato~~
+- [ ]  [3508](https://www.beecrowd.com.br/repository/UOJ_3508.html) - ~~Lágrimas Irritantes e a tarefa da Cuca~~
+- [ ]  [3509](https://www.beecrowd.com.br/repository/UOJ_3509.html) - ~~Matinta Pereira e um Prefeito Preguiçoso~~
+- [ ]  [3510](https://www.beecrowd.com.br/repository/UOJ_3510.html) - ~~Negrinho do Pastoreio e a Segurança dos Currais~~
