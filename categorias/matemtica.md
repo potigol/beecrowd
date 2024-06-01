@@ -1,9 +1,4 @@
-<<<<<<< HEAD
-# Matemática (90 / 269)
-=======
 # Matemática (93 / 269)
->>>>>>> c139191c31aebab4bf2299325fc52dc3d23b1050
-
 
 
 ## Problemas resolvidos
