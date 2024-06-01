@@ -1,9 +1,10 @@
-# Grafos (8 / 277)
+# Grafos (9 / 277)
 
 
 
 ## Problemas resolvidos
 
+- [x]  [1076](https://www.beecrowd.com.br/repository/UOJ_1076.html) - [Desenhando Labirintos](https://github.com/potigol/beecrowd/blob/master/src/1000/1076.poti)
 - [x]  [1195](https://www.beecrowd.com.br/repository/UOJ_1195.html) - [Árvore Binária de Busca](https://github.com/potigol/beecrowd/blob/master/src/1100/1195.poti)
 - [x]  [1200](https://www.beecrowd.com.br/repository/UOJ_1200.html) - [Operações em ABP I](https://github.com/potigol/beecrowd/blob/master/src/1200/1200.poti)
 - [x]  [1466](https://www.beecrowd.com.br/repository/UOJ_1466.html) - [Percurso em Árvore por Nível](https://github.com/potigol/beecrowd/blob/master/src/1400/1466.poti)
@@ -18,7 +19,6 @@
 - [ ]  [1053](https://www.beecrowd.com.br/repository/UOJ_1053.html) - Desenho Contínuo
 - [ ]  [1056](https://www.beecrowd.com.br/repository/UOJ_1056.html) - Fatores e Múltiplos
 - [ ]  [1057](https://www.beecrowd.com.br/repository/UOJ_1057.html) - Chegando Junto
-- [ ]  [1076](https://www.beecrowd.com.br/repository/UOJ_1076.html) - Desenhando Labirintos
 - [ ]  [1081](https://www.beecrowd.com.br/repository/UOJ_1081.html) - DFSr - Hierarquia de Profundidade
 - [ ]  [1082](https://www.beecrowd.com.br/repository/UOJ_1082.html) - Componentes Conexos
 - [ ]  [1085](https://www.beecrowd.com.br/repository/UOJ_1085.html) - Babel

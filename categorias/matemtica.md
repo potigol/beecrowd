@@ -1,4 +1,5 @@
-# Matemática (93 / 269)
+# Matemática (94 / 269)
+
 
 
 ## Problemas resolvidos

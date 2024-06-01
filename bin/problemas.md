@@ -632,24 +632,6 @@ fim
 ````
 
 
-## 1618 - Colisão
-
-````portugol
-n = leia_inteiro
-para i de 1 até n faça
-  entrada = leia_inteiros(" ")
-  a = entrada.pegue(2)
-  c = entrada.descarte(4).pegue(2)
-  r = entrada.descarte(8).pegue(2)
-
-  resposta =
-    se a[1] <= r[1] e a[2] <= r[2] e c[1] >= r[1] e [2] >= r[2]
-    então 1 senão 0 fim
-  escreva resposta
-fim
-````
-
-
 ## 1305 - Arredondamento por Valor de Corte
 
 ````portugol
@@ -909,6 +891,24 @@ soma = numeros
 media = soma / numeros.selecione(_ > 0).tamanho
 
 escreva media formato "%.2f"
+````
+
+
+## 1618 - Colisão
+
+````portugol
+n = leia_inteiro
+para i de 1 até n faça
+  entrada = leia_inteiros(" ")
+  a = entrada.pegue(2)
+  c = entrada.descarte(4).pegue(2)
+  r = entrada.descarte(8).pegue(2)
+
+  resposta =
+    se a[1] <= r[1] e a[2] <= r[2] e c[1] >= r[1] e [2] >= r[2]
+    então 1 senão 0 fim
+  escreva resposta
+fim
 ````
 
 
@@ -1414,6 +1414,23 @@ enquanto nao eof faca
   fim.junte("")
   escreva mensagem
   entrada := leia_texto
+fim
+````
+
+
+## 1366 - Jogo de Varetas
+
+````portugol
+var n := leia_inteiro
+enquanto n > 0 faça
+    var pares := 0
+    para i de 1 ate n faça
+        v = leia_inteiros(" ")[2] div 2
+        pares := pares + v
+    fim
+    retangulos = pares div 2
+    escreva retangulos
+    n := leia_inteiro
 fim
 ````
 
@@ -3757,6 +3774,19 @@ senaose z < h e h < l ou l < h e h < z entao
   escreva "huguinho"
 senao
   escreva "luisinho"
+fim
+````
+
+
+## 2204 - Pare A Bomba!
+
+````portugol
+gcd(a, b: Texto) = se a == b entao a senao "1" fim
+
+t = leia_inteiro
+para i de 1 ate t faça
+    ab = leia_textos(" ")
+    escreva gcd(ab[1], ab[2])
 fim
 ````
 
@@ -8386,6 +8416,32 @@ fim
 ````
 
 
+## 2514 - Alinhamento Lunar
+
+````portugol
+mmc(x, y: Inteiro) = x * y div mdc(x, y)
+
+mdc(x, y: Inteiro): Inteiro =
+  se y == 0 então x senão mdc(y, x mod y) fim
+
+mmc_triplo(x, y, z: Inteiro) = mmc(x, mmc(y, z))
+
+proximo_alinhamento(m, l1, l2, l3: Inteiro)
+  periodo = mmc_triplo(l1, l2, l3)
+  anos_faltantes = periodo - m
+  retorne anos_faltantes
+fim
+
+var m := leia_inteiro
+enquanto m > 0 faça
+  l = leia_inteiros(" ")
+  anos_faltantes = proximo_alinhamento(m, l[1], l[2], l[3])
+  escreva anos_faltantes
+  m := leia_inteiro
+fim
+````
+
+
 ## 2568 - Ações
 
 ````portugol
@@ -8571,6 +8627,20 @@ linhas = mat.mapeie(x => x.injete(0)(_ + _))
 colunas = mat.injete(zero)(
             (x, y) => para i de 1 ate m gere x[i] + y[i] fim)
 escreva (linhas + colunas).ordene.ultimo
+````
+
+
+## 1371 - Fechem as Portas!
+
+````portugol
+var n := leia_inteiro
+enquanto n > 0 faça
+  portas = para i de 1 até raiz(n).inteiro
+    gere i * i
+  fim
+  escreva portas.junte(" ")
+  n := leia_inteiro
+fim
 ````
 
 
@@ -9145,6 +9215,21 @@ escreva a formato "%.0f"
 ````
 
 
+## 3500 - ~~Deus-serpente M'boi as Cataratas do Iguaçu~~
+
+````portugol
+a = leia_inteiros(" ")
+E, V = a[1], a[2]
+
+t = (19 + E/V) mod 24
+
+h = (t + 0.001).inteiro
+m = (t - h) * 60
+
+escreva "{h formato "%02d"}:{m formato "%02.0f"}"
+````
+
+
 ## 3138 - Aniversário do Tobias
 
 ````portugol
@@ -9262,6 +9347,31 @@ senão
   antes + n + depois
 fim
 escreva amigos.junte(" ")
+````
+
+
+## 1307 - Tudo o que Você Precisa é Amor
+
+````portugol
+bin2dec(s: Texto): Inteiro =
+  para i de 1 ate s.tamanho se s[i] == '1'
+    gere (2 ^ (i - 1)).inteiro
+  fim.injete(0)(_ + _)
+
+mdc(a, b: Inteiro): Inteiro = se b == 0 
+  então a 
+  senão mdc(b, a mod b)
+fim
+
+t = leia_inteiro
+para i de 1 ate t faça
+  a, b = bin2dec(leia_texto.inverta)
+
+  se mdc(a, b) > 1 
+    então escreva "Pair #{i}: All you need is love!"
+    senão escreva "Pair #{i}: Love is not all you need!"
+  fim
+fim
 ````
 
 
@@ -9482,6 +9592,35 @@ enquanto n > 0 faça
   fim
   escreva ""
   n := leia_inteiro
+fim
+````
+
+
+## 2129 - Fatorial
+
+````portugol
+remove_zeros(a: Long): Long =
+  se a mod 10 == 0 e a > 0
+    entao remove_zeros(a div 10)
+    senao a
+  fim
+
+var a: Long := 1
+num =
+  para i de 1 ate 1000000 gere
+    var j := remove_zeros(i)
+    a := remove_zeros(a * j) mod 1000000
+    a mod 10
+  fim.mutável
+
+var t := 0
+var n := leia_inteiro
+enquanto n > 0 faça
+    t := t + 1
+    escreva "Instancia {t}"
+    escreva num[n]
+    escreva ""
+    n := leia_inteiro
 fim
 ````
 
@@ -10443,6 +10582,26 @@ senão
       escreva "minhoca"
     fim
   fim
+fim
+````
+
+
+## 1076 - Desenhando Labirintos
+
+````portugol
+t = leia_inteiro
+
+para i de 1 até t faça
+  n = leia_inteiro
+  va = leia_inteiros(" ")
+  v, a = va[1], va[2]
+  var arestas := [1].cauda
+  para j de 1 até a faça
+    xy = leia_inteiros(" ")
+    x, y = xy[1], xy[2]
+    arestas := (x*v+y)::(y*v+x)::arestas
+  fim
+  escreva arestas.ordene.divida_quando(_ <> _).tamanho
 fim
 ````
 
@@ -13200,6 +13359,15 @@ tempos = para i de 1 ate n gere leia_inteiros(" ").injete(0)(_ + _) fim
 menor = tempos.ordene.cabeca
 ganhador = tempos.posicao(menor)
 escreva ganhador
+````
+
+
+## 3497 - ~~Alice e as Canções e Iara~~
+
+````portugol
+a = leia_inteiros(" ")
+soma = a.injete(0)(_ + _)
+escreva 6 - soma
 ````
 
 

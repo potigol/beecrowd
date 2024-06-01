@@ -1,0 +1,14 @@
+t = leia_inteiro
+
+para i de 1 até t faça
+  n = leia_inteiro
+  va = leia_inteiros(" ")
+  v, a = va[1], va[2]
+  var arestas := [1].cauda
+  para j de 1 até a faça
+    xy = leia_inteiros(" ")
+    x, y = xy[1], xy[2]
+    arestas := (x*v+y)::(y*v+x)::arestas
+  fim
+  escreva arestas.ordene.divida_quando(_ <> _).tamanho
+fim

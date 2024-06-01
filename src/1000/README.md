@@ -1,4 +1,4 @@
-# Problemas 1000 (79%)
+# Problemas 1000 (80%)
 
 - [x]  [1000](https://www.beecrowd.com.br/repository/UOJ_1000.html) - [Hello World!](https://github.com/potigol/beecrowd/blob/master/src/1000/1000.poti) *Iniciante*
 - [x]  [1001](https://www.beecrowd.com.br/repository/UOJ_1001.html) - [Extremamente Básico](https://github.com/potigol/beecrowd/blob/master/src/1000/1001.poti) *Iniciante*
@@ -76,7 +76,7 @@
 - [x]  [1073](https://www.beecrowd.com.br/repository/UOJ_1073.html) - [Quadrado de Pares](https://github.com/potigol/beecrowd/blob/master/src/1000/1073.poti) *Iniciante*
 - [x]  [1074](https://www.beecrowd.com.br/repository/UOJ_1074.html) - [Par ou Ímpar](https://github.com/potigol/beecrowd/blob/master/src/1000/1074.poti) *Iniciante*
 - [x]  [1075](https://www.beecrowd.com.br/repository/UOJ_1075.html) - [Resto 2](https://github.com/potigol/beecrowd/blob/master/src/1000/1075.poti) *Iniciante*
-- [ ]  [1076](https://www.beecrowd.com.br/repository/UOJ_1076.html) - Desenhando Labirintos *Grafos*
+- [x]  [1076](https://www.beecrowd.com.br/repository/UOJ_1076.html) - [Desenhando Labirintos](https://github.com/potigol/beecrowd/blob/master/src/1000/1076.poti) *Grafos*
 - [ ]  [1077](https://www.beecrowd.com.br/repository/UOJ_1077.html) - Infixa para Posfixa *Estruturas e Bibliotecas*
 - [x]  [1078](https://www.beecrowd.com.br/repository/UOJ_1078.html) - [Tabuada](https://github.com/potigol/beecrowd/blob/master/src/1000/1078.poti) *Iniciante*
 - [x]  [1079](https://www.beecrowd.com.br/repository/UOJ_1079.html) - [Médias Ponderadas](https://github.com/potigol/beecrowd/blob/master/src/1000/1079.poti) *Iniciante*
