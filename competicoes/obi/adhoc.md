@@ -1,4 +1,4 @@
-# Ad-Hoc (82 / 172)
+# Ad-Hoc (83 / 172)
 
 
 
@@ -7,6 +7,7 @@
 - [x]  [2187](https://www.beecrowd.com.br/repository/UOJ_2187.html) - [Bits Trocados](https://github.com/potigol/beecrowd/blob/master/src/2100/2187.poti)
 - [x]  [2188](https://www.beecrowd.com.br/repository/UOJ_2188.html) - [Macaco-prego](https://github.com/potigol/beecrowd/blob/master/src/2100/2188.poti)
 - [x]  [2189](https://www.beecrowd.com.br/repository/UOJ_2189.html) - [Quermesse](https://github.com/potigol/beecrowd/blob/master/src/2100/2189.poti)
+- [x]  [2229](https://www.beecrowd.com.br/repository/UOJ_2229.html) - [Dobradura](https://github.com/potigol/beecrowd/blob/master/src/2200/2229.poti)
 - [x]  [2247](https://www.beecrowd.com.br/repository/UOJ_2247.html) - [Cofrinhos da Vó Vitória](https://github.com/potigol/beecrowd/blob/master/src/2200/2247.poti)
 - [x]  [2251](https://www.beecrowd.com.br/repository/UOJ_2251.html) - [Torres de Hanói](https://github.com/potigol/beecrowd/blob/master/src/2200/2251.poti)
 - [x]  [2286](https://www.beecrowd.com.br/repository/UOJ_2286.html) - [Par ou Ímpar](https://github.com/potigol/beecrowd/blob/master/src/2200/2286.poti)
@@ -92,7 +93,6 @@
 - [ ]  [2191](https://www.beecrowd.com.br/repository/UOJ_2191.html) - Saldo de Gols
 - [ ]  [2227](https://www.beecrowd.com.br/repository/UOJ_2227.html) - Aeroporto
 - [ ]  [2228](https://www.beecrowd.com.br/repository/UOJ_2228.html) - Caça ao Tesouro
-- [ ]  [2229](https://www.beecrowd.com.br/repository/UOJ_2229.html) - Dobradura
 - [ ]  [2230](https://www.beecrowd.com.br/repository/UOJ_2230.html) - Pedágio
 - [ ]  [2231](https://www.beecrowd.com.br/repository/UOJ_2231.html) - Temperatura Lunar
 - [ ]  [2248](https://www.beecrowd.com.br/repository/UOJ_2248.html) - Estágio

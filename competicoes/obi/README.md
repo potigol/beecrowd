@@ -1,4 +1,4 @@
-# Olimpíada de Informática (101 / 219)
+# Olimpíada de Informática (102 / 219)
 
 
 
@@ -278,7 +278,7 @@
 
 - [ ]  [2227](https://www.beecrowd.com.br/repository/UOJ_2227.html) - Aeroporto *Ad-Hoc*
 - [ ]  [2228](https://www.beecrowd.com.br/repository/UOJ_2228.html) - Caça ao Tesouro *Ad-Hoc*
-- [ ]  [2229](https://www.beecrowd.com.br/repository/UOJ_2229.html) - Dobradura *Ad-Hoc*
+- [x]  [2229](https://www.beecrowd.com.br/repository/UOJ_2229.html) - [Dobradura](https://github.com/potigol/beecrowd/blob/master/src/2200/2229.poti) *Ad-Hoc*
 - [ ]  [2230](https://www.beecrowd.com.br/repository/UOJ_2230.html) - Pedágio *Ad-Hoc*
 - [ ]  [2231](https://www.beecrowd.com.br/repository/UOJ_2231.html) - Temperatura Lunar *Ad-Hoc*
 
