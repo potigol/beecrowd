@@ -1,0 +1,12 @@
+var t := 1
+var a := leia_texto
+enquanto nao eof faça
+  b = a.divida(" ").mapeie(_.real)
+  x, y = b[1], b[2]
+  juros = (y / x - 1) * 100
+  escreva "Projeto {t}:"
+  escreva "Percentual dos juros da aplicacao: {juros formato "%.2f"} %"
+  escreva ""
+  a := leia_texto
+  t := t + 1
+fim
