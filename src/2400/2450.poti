@@ -1,0 +1,13 @@
+a = leia_inteiros(" ")
+n, m = a[1], a[2]
+var coluna := -1
+var resposta := "S"
+para i de 1 até n se resposta == "S" faça
+  zeros = leia_inteiros(" ").pegue_enquanto(_ == 0).tamanho
+  se zeros > coluna ou zeros == m então
+    coluna := zeros
+  senão
+    resposta := "N"
+  fim
+fim
+escreva resposta
