@@ -1,4 +1,4 @@
-# Problemas 3300 (31%)
+# Problemas 3300 (32%)
 
 - [x]  [3300](https://www.beecrowd.com.br/repository/UOJ_3300.html) - [Números Má Sorte Recarregados](https://github.com/potigol/beecrowd/blob/master/src/3300/3300.poti) *Strings*
 - [x]  [3301](https://www.beecrowd.com.br/repository/UOJ_3301.html) - [Sobrinho do Meio](https://github.com/potigol/beecrowd/blob/master/src/3300/3301.poti) *Iniciante*
@@ -77,7 +77,7 @@
 - [ ]  [3374](https://www.beecrowd.com.br/repository/UOJ_3374.html) - F de a e b até k *Ad-Hoc*
 - [ ]  [3375](https://www.beecrowd.com.br/repository/UOJ_3375.html) - Divisão Longa *Ad-Hoc*
 - [ ]  [3376](https://www.beecrowd.com.br/repository/UOJ_3376.html) - Sobreposição parcial *Ad-Hoc*
-- [ ]  [3377](https://www.beecrowd.com.br/repository/UOJ_3377.html) - Geometria?! Por que não?? *Ad-Hoc*
+- [x]  [3377](https://www.beecrowd.com.br/repository/UOJ_3377.html) - [Geometria?! Por que não??](https://github.com/potigol/beecrowd/blob/master/src/3300/3377.poti) *Ad-Hoc*
 - [ ]  [3378](https://www.beecrowd.com.br/repository/UOJ_3378.html) - Blocos indistinguíveis *Ad-Hoc*
 - [ ]  [3379](https://www.beecrowd.com.br/repository/UOJ_3379.html) - Chop Ahoy! *Ad-Hoc*
 - [ ]  [3380](https://www.beecrowd.com.br/repository/UOJ_3380.html) - Dá um tempo! *Ad-Hoc*

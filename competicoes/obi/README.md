@@ -1,4 +1,4 @@
-# Olimpíada de Informática (102 / 219)
+# Olimpíada de Informática (103 / 219)
 
 
 
@@ -71,7 +71,7 @@
 - [x]  [1929](https://www.beecrowd.com.br/repository/UOJ_1929.html) - [Triângulo](https://github.com/potigol/beecrowd/blob/master/src/1900/1929.poti) *Iniciante*
 - [ ]  [2448](https://www.beecrowd.com.br/repository/UOJ_2448.html) - Carteiro *Ad-Hoc*
 - [x]  [2449](https://www.beecrowd.com.br/repository/UOJ_2449.html) - [Fechadura](https://github.com/potigol/beecrowd/blob/master/src/2400/2449.poti) *Ad-Hoc*
-- [ ]  [2450](https://www.beecrowd.com.br/repository/UOJ_2450.html) - Matriz Escada *Ad-Hoc*
+- [x]  [2450](https://www.beecrowd.com.br/repository/UOJ_2450.html) - [Matriz Escada](https://github.com/potigol/beecrowd/blob/master/src/2400/2450.poti) *Ad-Hoc*
 - [x]  [2451](https://www.beecrowd.com.br/repository/UOJ_2451.html) - [PacMan](https://github.com/potigol/beecrowd/blob/master/src/2400/2451.poti) *Ad-Hoc*
 - [ ]  [2452](https://www.beecrowd.com.br/repository/UOJ_2452.html) - Semente *Ad-Hoc*
 - [x]  [2453](https://www.beecrowd.com.br/repository/UOJ_2453.html) - [Língua do P](https://github.com/potigol/beecrowd/blob/master/src/2400/2453.poti) *Ad-Hoc*

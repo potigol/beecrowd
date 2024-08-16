@@ -1,4 +1,4 @@
-# Ad-Hoc (252 / 892)
+# Ad-Hoc (254 / 892)
 
 
 
@@ -158,6 +158,7 @@
 - [x]  [2443](https://www.beecrowd.com.br/repository/UOJ_2443.html) - [Soma de Frações](https://github.com/potigol/beecrowd/blob/master/src/2400/2443.poti)
 - [x]  [2444](https://www.beecrowd.com.br/repository/UOJ_2444.html) - [Volume da TV](https://github.com/potigol/beecrowd/blob/master/src/2400/2444.poti)
 - [x]  [2449](https://www.beecrowd.com.br/repository/UOJ_2449.html) - [Fechadura](https://github.com/potigol/beecrowd/blob/master/src/2400/2449.poti)
+- [x]  [2450](https://www.beecrowd.com.br/repository/UOJ_2450.html) - [Matriz Escada](https://github.com/potigol/beecrowd/blob/master/src/2400/2450.poti)
 - [x]  [2451](https://www.beecrowd.com.br/repository/UOJ_2451.html) - [PacMan](https://github.com/potigol/beecrowd/blob/master/src/2400/2451.poti)
 - [x]  [2453](https://www.beecrowd.com.br/repository/UOJ_2453.html) - [Língua do P](https://github.com/potigol/beecrowd/blob/master/src/2400/2453.poti)
 - [x]  [2454](https://www.beecrowd.com.br/repository/UOJ_2454.html) - [Flíper](https://github.com/potigol/beecrowd/blob/master/src/2400/2454.poti)
@@ -228,6 +229,7 @@
 - [x]  [3309](https://www.beecrowd.com.br/repository/UOJ_3309.html) - [Felizes são estes Números](https://github.com/potigol/beecrowd/blob/master/src/3300/3309.poti)
 - [x]  [3315](https://www.beecrowd.com.br/repository/UOJ_3315.html) - [Língua do Computador](https://github.com/potigol/beecrowd/blob/master/src/3300/3315.poti)
 - [x]  [3369](https://www.beecrowd.com.br/repository/UOJ_3369.html) - [KIARA is a Recursive Acronym](https://github.com/potigol/beecrowd/blob/master/src/3300/3369.poti)
+- [x]  [3377](https://www.beecrowd.com.br/repository/UOJ_3377.html) - [Geometria?! Por que não??](https://github.com/potigol/beecrowd/blob/master/src/3300/3377.poti)
 - [x]  [3397](https://www.beecrowd.com.br/repository/UOJ_3397.html) - [Melhor do Multiverso](https://github.com/potigol/beecrowd/blob/master/src/3300/3397.poti)
 - [x]  [3398](https://www.beecrowd.com.br/repository/UOJ_3398.html) - [Moeda Convertida](https://github.com/potigol/beecrowd/blob/master/src/3300/3398.poti)
 - [x]  [3399](https://www.beecrowd.com.br/repository/UOJ_3399.html) - [Meu nome é Enésimo!](https://github.com/potigol/beecrowd/blob/master/src/3300/3399.poti)
@@ -570,7 +572,6 @@
 - [ ]  [2445](https://www.beecrowd.com.br/repository/UOJ_2445.html) - Polígono
 - [ ]  [2447](https://www.beecrowd.com.br/repository/UOJ_2447.html) - Torneio
 - [ ]  [2448](https://www.beecrowd.com.br/repository/UOJ_2448.html) - Carteiro
-- [ ]  [2450](https://www.beecrowd.com.br/repository/UOJ_2450.html) - Matriz Escada
 - [ ]  [2452](https://www.beecrowd.com.br/repository/UOJ_2452.html) - Semente
 - [ ]  [2458](https://www.beecrowd.com.br/repository/UOJ_2458.html) - Setas
 - [ ]  [2459](https://www.beecrowd.com.br/repository/UOJ_2459.html) - Copa do Mundo
@@ -799,7 +800,6 @@
 - [ ]  [3374](https://www.beecrowd.com.br/repository/UOJ_3374.html) - F de a e b até k
 - [ ]  [3375](https://www.beecrowd.com.br/repository/UOJ_3375.html) - Divisão Longa
 - [ ]  [3376](https://www.beecrowd.com.br/repository/UOJ_3376.html) - Sobreposição parcial
-- [ ]  [3377](https://www.beecrowd.com.br/repository/UOJ_3377.html) - Geometria?! Por que não??
 - [ ]  [3378](https://www.beecrowd.com.br/repository/UOJ_3378.html) - Blocos indistinguíveis
 - [ ]  [3379](https://www.beecrowd.com.br/repository/UOJ_3379.html) - Chop Ahoy!
 - [ ]  [3380](https://www.beecrowd.com.br/repository/UOJ_3380.html) - Dá um tempo!

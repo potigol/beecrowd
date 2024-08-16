@@ -1,4 +1,4 @@
-# Ad-Hoc (83 / 172)
+# Ad-Hoc (84 / 172)
 
 
 
@@ -63,6 +63,7 @@
 - [x]  [2443](https://www.beecrowd.com.br/repository/UOJ_2443.html) - [Soma de Frações](https://github.com/potigol/beecrowd/blob/master/src/2400/2443.poti)
 - [x]  [2444](https://www.beecrowd.com.br/repository/UOJ_2444.html) - [Volume da TV](https://github.com/potigol/beecrowd/blob/master/src/2400/2444.poti)
 - [x]  [2449](https://www.beecrowd.com.br/repository/UOJ_2449.html) - [Fechadura](https://github.com/potigol/beecrowd/blob/master/src/2400/2449.poti)
+- [x]  [2450](https://www.beecrowd.com.br/repository/UOJ_2450.html) - [Matriz Escada](https://github.com/potigol/beecrowd/blob/master/src/2400/2450.poti)
 - [x]  [2451](https://www.beecrowd.com.br/repository/UOJ_2451.html) - [PacMan](https://github.com/potigol/beecrowd/blob/master/src/2400/2451.poti)
 - [x]  [2453](https://www.beecrowd.com.br/repository/UOJ_2453.html) - [Língua do P](https://github.com/potigol/beecrowd/blob/master/src/2400/2453.poti)
 - [x]  [2454](https://www.beecrowd.com.br/repository/UOJ_2454.html) - [Flíper](https://github.com/potigol/beecrowd/blob/master/src/2400/2454.poti)
@@ -160,7 +161,6 @@
 - [ ]  [2445](https://www.beecrowd.com.br/repository/UOJ_2445.html) - Polígono
 - [ ]  [2447](https://www.beecrowd.com.br/repository/UOJ_2447.html) - Torneio
 - [ ]  [2448](https://www.beecrowd.com.br/repository/UOJ_2448.html) - Carteiro
-- [ ]  [2450](https://www.beecrowd.com.br/repository/UOJ_2450.html) - Matriz Escada
 - [ ]  [2452](https://www.beecrowd.com.br/repository/UOJ_2452.html) - Semente
 - [ ]  [2458](https://www.beecrowd.com.br/repository/UOJ_2458.html) - Setas
 - [ ]  [2459](https://www.beecrowd.com.br/repository/UOJ_2459.html) - Copa do Mundo

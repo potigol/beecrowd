@@ -1,0 +1,29 @@
+var t := 0
+var s := leia_texto
+enquanto s <> "S" faça
+  us = s.selecione(_ == 'U').tamanho
+  rs = s.tamanho - us - 1
+  alfa = us / rs
+  reta(r: Real) = alfa * r
+  var area := 0.0
+  var x, y := 0
+  para i de 1 até s.tamanho-1 faça
+    se s[i] == 'U' então
+      y := y + 1
+    senão
+      x := x + 1
+      delta = se reta(x-1) >= y ou reta(x) <= y então
+        abs(reta(x - 0.5) - y)
+      senão
+        a = (x - y / alfa) / 2
+        a * ()
+        (a - 0.5) * (y - reta(x-1)) +
+        (x - y / alfa) / 2 * (reta(x) - y)
+      fim
+      area := area + delta
+    fim
+  fim
+  t := t + 1
+  escreva "{t}. {area formato "%.3f"}"
+  s := leia_texto
+fim
