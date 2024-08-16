@@ -15,9 +15,7 @@ enquanto s <> "S" faça
       delta = se reta(x-1) >= y ou reta(x) <= y então
         abs(reta(x - 0.5) - y)
       senão
-        a = (x - y / alfa) / 2
-        a * ()
-        (a - 0.5) * (y - reta(x-1)) +
+        (y / alfa - x + 1) / 2 * (y - reta(x-1)) +
         (x - y / alfa) / 2 * (reta(x) - y)
       fim
       area := area + delta
