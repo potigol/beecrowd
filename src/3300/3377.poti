@@ -1,26 +1,32 @@
+quantidade(s: Texto, c: Caractere) = s.selecione(_ == c).tamanho
+
+inclinacao(s: Texto) = quantidade(s, 'U') / quantidade(s, 'R')
+
+tipo Area
+  area: Real
+  x, y: Inteiro
+fim
+
 area(alfa: Real) = (x, y: Inteiro) =>
   se alfa * (x - 1) >= y ou alfa * x <= y então
     abs(alfa * (x - 0.5) - y)
-  senão    # a reta cruza a linha do caminho 
+  senão    # a reta cruza a linha do caminho
     a = (y / alfa - x) / 2
     a * (y - alfa * x) + (a + 0.5) * (y - alfa * (x - 1))
   fim
 
-quantidade(s: Texto, c: Caractere) = s.selecione(_ == c).tamanho
-inclinacao(s: Texto) = quantidade(s, 'U') / quantidade(s, 'R')
+calc_area(d: (Inteiro, Inteiro) => Real) =
+  (a: Area, c: Caractere) => se c == 'R'
+    entao Area(a.area + d(a.x + 1, a.y), a.x + 1, a.y    )
+    senão Area(a.area                  , a.x    , a.y + 1)
+  fim
 
+# programa principal
 var entrada, t := leia_texto, 1
 enquanto entrada <> "S" faça
-  d = area(inclinacao(entrada))
-  var area_total, x, y := 0.0, 0, 0
-  para c em entrada faça
-    se c == 'R' então
-      x := x + 1
-      area_total := area_total + d(x, y)
-    senão
-      y := y + 1
-    fim
-  fim
+  a = area(inclinacao(entrada))
+  inicio = Area(0.0, 0, 0)
+  area_total = entrada.injete(inicio)(calc_area(a)).area
   escreva "{t}. {area_total formato "%.3f"}"
   entrada, t := leia_texto, t + 1
 fim
