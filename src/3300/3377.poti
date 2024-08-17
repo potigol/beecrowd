@@ -1,27 +1,26 @@
-var t := 0
-var s := leia_texto
-enquanto s <> "S" faça
-  us = s.selecione(_ == 'U').tamanho
-  rs = s.tamanho - us - 1
-  alfa = us / rs
-  reta(r: Real) = alfa * r
-  var area := 0.0
-  var x, y := 0
-  para i de 1 até s.tamanho-1 faça
-    se s[i] == 'U' então
-      y := y + 1
-    senão
+area(alfa: Real) = (x, y: Inteiro) =>
+  se alfa * (x - 1) >= y ou alfa * x <= y então
+    abs(alfa * (x - 0.5) - y)
+  senão    # a reta cruza a linha do caminho 
+    a = (y / alfa - x) / 2
+    a * (y - alfa * x) + (a + 0.5) * (y - alfa * (x - 1))
+  fim
+
+quantidade(s: Texto, c: Caractere) = s.selecione(_ == c).tamanho
+inclinacao(s: Texto) = quantidade(s, 'U') / quantidade(s, 'R')
+
+var entrada, t := leia_texto, 1
+enquanto entrada <> "S" faça
+  d = area(inclinacao(entrada))
+  var area_total, x, y := 0.0, 0, 0
+  para c em entrada faça
+    se c == 'R' então
       x := x + 1
-      delta = se reta(x-1) >= y ou reta(x) <= y então
-        abs(reta(x - 0.5) - y)
-      senão
-        (y / alfa - x + 1) / 2 * (y - reta(x-1)) +
-        (x - y / alfa) / 2 * (reta(x) - y)
-      fim
-      area := area + delta
+      area_total := area_total + d(x, y)
+    senão
+      y := y + 1
     fim
   fim
-  t := t + 1
-  escreva "{t}. {area formato "%.3f"}"
-  s := leia_texto
+  escreva "{t}. {area_total formato "%.3f"}"
+  entrada, t := leia_texto, t + 1
 fim
