@@ -22,10 +22,10 @@ calc_area(d: (Inteiro, Inteiro) => Real) =
   fim
 
 # programa principal
+inicio = Area(0.0, 0, 0)
 var entrada, t := leia_texto, 1
 enquanto entrada <> "S" faça
   a = area(inclinacao(entrada))
-  inicio = Area(0.0, 0, 0)
   area_total = entrada.injete(inicio)(calc_area(a)).area
   escreva "{t}. {area_total formato "%.3f"}"
   entrada, t := leia_texto, t + 1
