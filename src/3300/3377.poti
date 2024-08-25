@@ -7,12 +7,12 @@ tipo Area
   x, y: Inteiro
 fim
 
-area(alfa: Real) = (x, y: Inteiro) =>
+area(alfa: Real) = (x, y: Inteiro) =>  # reta = alfa * x
   se alfa * (x - 1) >= y ou alfa * x <= y então
     abs(alfa * (x - 0.5) - y)
   senão    # a reta cruza a linha do caminho
-    a = (y / alfa - x) / 2
-    a * (y - alfa * x) + (a + 0.5) * (y - alfa * (x - 1))
+    xr = (y / alfa - x) / 2
+    xr * (y - alfa * x) + (xr + 0.5) * (y - alfa * (x - 1))
   fim
 
 calc_area(d: (Inteiro, Inteiro) => Real) =
@@ -22,10 +22,10 @@ calc_area(d: (Inteiro, Inteiro) => Real) =
   fim
 
 # programa principal
+inicio = Area(0.0, 0, 0)
 var entrada, t := leia_texto, 1
 enquanto entrada <> "S" faça
   a = area(inclinacao(entrada))
-  inicio = Area(0.0, 0, 0)
   area_total = entrada.injete(inicio)(calc_area(a)).area
   escreva "{t}. {area_total formato "%.3f"}"
   entrada, t := leia_texto, t + 1
