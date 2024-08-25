@@ -1,0 +1,41 @@
+tipo Corredor
+  nums: Lista[Inteiro]
+  t = nums[1]
+  s = nums[2]
+fim
+
+tipo Foto
+  nums: Lista[Inteiro]
+  u = nums[1]
+  a = nums[2]
+  b = nums[3]
+fim
+
+está_na_foto(f: Foto, c: Corredor): Lógico
+  p = (f.u - c.t) * c.s
+  retorne f.u >= c.t e f.a <= p e p <= f.b
+fim
+
+há_corredor_na_foto(foto: Foto, corredores: Lista[Corredor])
+  f(cs: Lista[Corredor]): Lógico =
+    se      cs.tamanho == 0               então falso
+    senãose está_na_foto(foto, cs.cabeça) então verdadeiro
+                                          senão f(cs.cauda)
+    fim
+  retorne f(corredores)
+fim
+
+# programa principal
+corredores = para i de 1 até leia_inteiro gere
+  Corredor(leia_inteiros(" "))
+fim
+
+fotos = para i de 1 até leia_inteiro gere
+  Foto(leia_inteiros(" "))
+fim.selecione(foto => não há_corredor_na_foto(foto, corredores))
+
+para i de 1 até leia_inteiro faça
+  johnny = Corredor(leia_inteiros(" "))
+  descartes = fotos.selecione(foto => não está_na_foto(foto, johnny)).tamanho
+  escreva descartes
+fim

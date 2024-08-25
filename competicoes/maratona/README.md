@@ -1,4 +1,4 @@
-# Maratona de Programação (74 / 428)
+# Maratona de Programação (75 / 428)
 
 
 ## 2023
@@ -53,7 +53,7 @@
 - [ ]  [3447](https://www.beecrowd.com.br/repository/UOJ_3447.html) - Árvore Preferida *Ad-Hoc*
 - [ ]  [3448](https://www.beecrowd.com.br/repository/UOJ_3448.html) - Detector de Ondas Gravitacionais *Ad-Hoc*
 - [ ]  [3449](https://www.beecrowd.com.br/repository/UOJ_3449.html) - Restaurante Italian Calzone & Pasta Corner *Ad-Hoc*
-- [ ]  [3450](https://www.beecrowd.com.br/repository/UOJ_3450.html) - Participando de uma Maratona *Ad-Hoc*
+- [x]  [3450](https://www.beecrowd.com.br/repository/UOJ_3450.html) - [Participando de uma Maratona](https://github.com/potigol/beecrowd/blob/master/src/3400/3450.poti) *Ad-Hoc*
 - [ ]  [3451](https://www.beecrowd.com.br/repository/UOJ_3451.html) - Impressão Preguiçosa *Ad-Hoc*
 - [ ]  [3452](https://www.beecrowd.com.br/repository/UOJ_3452.html) - Labirinto em Parafuso *Ad-Hoc*
        
