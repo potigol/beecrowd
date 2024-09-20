@@ -1,4 +1,4 @@
-# Ad-Hoc (255 / 892)
+# Ad-Hoc (256 / 892)
 
 
 
@@ -242,6 +242,7 @@
 - [x]  [3424](https://www.beecrowd.com.br/repository/UOJ_3424.html) - [Achando os Monótonos Não-Triviais Maximais](https://github.com/potigol/beecrowd/blob/master/src/3400/3424.poti)
 - [x]  [3432](https://www.beecrowd.com.br/repository/UOJ_3432.html) - [Interceptando Informações](https://github.com/potigol/beecrowd/blob/master/src/3400/3432.poti)
 - [x]  [3433](https://www.beecrowd.com.br/repository/UOJ_3433.html) - [Jogando 23](https://github.com/potigol/beecrowd/blob/master/src/3400/3433.poti)
+- [x]  [3444](https://www.beecrowd.com.br/repository/UOJ_3444.html) - [Dobras da Cidade](https://github.com/potigol/beecrowd/blob/master/src/3400/3444.poti)
 - [x]  [3445](https://www.beecrowd.com.br/repository/UOJ_3445.html) - [Passeios cotidianos](https://github.com/potigol/beecrowd/blob/master/src/3400/3445.poti)
 - [x]  [3446](https://www.beecrowd.com.br/repository/UOJ_3446.html) - [Quadrados Vazios](https://github.com/potigol/beecrowd/blob/master/src/3400/3446.poti)
 - [x]  [3450](https://www.beecrowd.com.br/repository/UOJ_3450.html) - [Participando de uma Maratona](https://github.com/potigol/beecrowd/blob/master/src/3400/3450.poti)
@@ -854,7 +855,6 @@
 - [ ]  [3440](https://www.beecrowd.com.br/repository/UOJ_3440.html) - Amigos ou Inimigos?
 - [ ]  [3442](https://www.beecrowd.com.br/repository/UOJ_3442.html) - Pedindo dinheiro
 - [ ]  [3443](https://www.beecrowd.com.br/repository/UOJ_3443.html) - Jogo de tabuleiro
-- [ ]  [3444](https://www.beecrowd.com.br/repository/UOJ_3444.html) - Dobras da Cidade
 - [ ]  [3447](https://www.beecrowd.com.br/repository/UOJ_3447.html) - Árvore Preferida
 - [ ]  [3448](https://www.beecrowd.com.br/repository/UOJ_3448.html) - Detector de Ondas Gravitacionais
 - [ ]  [3449](https://www.beecrowd.com.br/repository/UOJ_3449.html) - Restaurante Italian Calzone & Pasta Corner

@@ -1,4 +1,4 @@
-# Ad-Hoc (23 / 128)
+# Ad-Hoc (24 / 128)
 
 
 
@@ -24,6 +24,7 @@
 - [x]  [2349](https://www.beecrowd.com.br/repository/UOJ_2349.html) - [Farm Robot](https://github.com/potigol/beecrowd/blob/master/src/2300/2349.poti)
 - [x]  [3024](https://www.beecrowd.com.br/repository/UOJ_3024.html) - [Mountain Ranges](https://github.com/potigol/beecrowd/blob/master/src/3000/3024.poti)
 - [x]  [3369](https://www.beecrowd.com.br/repository/UOJ_3369.html) - [KIARA is a Recursive Acronym](https://github.com/potigol/beecrowd/blob/master/src/3300/3369.poti)
+- [x]  [3444](https://www.beecrowd.com.br/repository/UOJ_3444.html) - [Dobras da Cidade](https://github.com/potigol/beecrowd/blob/master/src/3400/3444.poti)
 - [x]  [3445](https://www.beecrowd.com.br/repository/UOJ_3445.html) - [Passeios cotidianos](https://github.com/potigol/beecrowd/blob/master/src/3400/3445.poti)
 - [x]  [3446](https://www.beecrowd.com.br/repository/UOJ_3446.html) - [Quadrados Vazios](https://github.com/potigol/beecrowd/blob/master/src/3400/3446.poti)
 - [x]  [3450](https://www.beecrowd.com.br/repository/UOJ_3450.html) - [Participando de uma Maratona](https://github.com/potigol/beecrowd/blob/master/src/3400/3450.poti)
@@ -129,7 +130,6 @@
 - [ ]  [3371](https://www.beecrowd.com.br/repository/UOJ_3371.html) - Most Ordered Way
 - [ ]  [3442](https://www.beecrowd.com.br/repository/UOJ_3442.html) - Pedindo dinheiro
 - [ ]  [3443](https://www.beecrowd.com.br/repository/UOJ_3443.html) - Jogo de tabuleiro
-- [ ]  [3444](https://www.beecrowd.com.br/repository/UOJ_3444.html) - Dobras da Cidade
 - [ ]  [3447](https://www.beecrowd.com.br/repository/UOJ_3447.html) - Árvore Preferida
 - [ ]  [3448](https://www.beecrowd.com.br/repository/UOJ_3448.html) - Detector de Ondas Gravitacionais
 - [ ]  [3449](https://www.beecrowd.com.br/repository/UOJ_3449.html) - Restaurante Italian Calzone & Pasta Corner

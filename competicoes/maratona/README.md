@@ -1,4 +1,4 @@
-# Maratona de Programação (75 / 428)
+# Maratona de Programação (76 / 428)
 
 
 ## 2023
@@ -47,7 +47,7 @@
 
 - [ ]  [3442](https://www.beecrowd.com.br/repository/UOJ_3442.html) - Pedindo dinheiro *Ad-Hoc*
 - [ ]  [3443](https://www.beecrowd.com.br/repository/UOJ_3443.html) - Jogo de tabuleiro *Ad-Hoc*
-- [ ]  [3444](https://www.beecrowd.com.br/repository/UOJ_3444.html) - Dobras da Cidade *Ad-Hoc*
+- [x]  [3444](https://www.beecrowd.com.br/repository/UOJ_3444.html) - [Dobras da Cidade](https://github.com/potigol/beecrowd/blob/master/src/3400/3444.poti) *Ad-Hoc*
 - [x]  [3445](https://www.beecrowd.com.br/repository/UOJ_3445.html) - [Passeios cotidianos](https://github.com/potigol/beecrowd/blob/master/src/3400/3445.poti) *Ad-Hoc*
 - [x]  [3446](https://www.beecrowd.com.br/repository/UOJ_3446.html) - [Quadrados Vazios](https://github.com/potigol/beecrowd/blob/master/src/3400/3446.poti) *Ad-Hoc*
 - [ ]  [3447](https://www.beecrowd.com.br/repository/UOJ_3447.html) - Árvore Preferida *Ad-Hoc*

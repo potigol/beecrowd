@@ -1,0 +1,31 @@
+pot2(k: Inteiro) = BigInt(2).pow(k)
+
+a = leia_textos(" ")
+n = a[1].inteiro
+var p, h := BigInt(a[2]) - 1 , BigInt(a[3]) - 1
+
+w = para k de n até 1 passo -1 gere
+  c = (h >= pot2(k - 1))
+  se c então h := pot2(k) - 1 - h fim
+  c
+fim
+
+ans = para k de n até 1 passo -1 gere
+  se w[k] então
+    se p < pot2(k-1) então
+      p := pot2(k - 1) - 1 - p
+      'L'
+    senão
+      p := pot2(k) - 1 - p
+      'R'
+    fim
+  senão
+    se p < pot2(k - 1) então
+      'R'
+    senão
+      p := p - pot2(k-1)
+      'L'
+    fim
+  fim
+fim
+escreva ans.junte("")
