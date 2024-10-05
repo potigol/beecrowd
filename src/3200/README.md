@@ -1,4 +1,4 @@
-# Problemas 3200 (24%)
+# Problemas 3200 (26%)
 
 - [ ]  [3200](https://www.beecrowd.com.br/repository/UOJ_3200.html) - Card Trick *Ad-Hoc*
 - [ ]  [3201](https://www.beecrowd.com.br/repository/UOJ_3201.html) - Traveling Salesman *Estruturas e Bibliotecas*
@@ -25,7 +25,7 @@
 - [ ]  [3222](https://www.beecrowd.com.br/repository/UOJ_3222.html) - Cifra Playfair *Ad-Hoc*
 - [ ]  [3223](https://www.beecrowd.com.br/repository/UOJ_3223.html) - Permutações de Código *Matemática*
 - [x]  [3224](https://www.beecrowd.com.br/repository/UOJ_3224.html) - [Aaah!](https://github.com/potigol/beecrowd/blob/master/src/3200/3224.poti) *Iniciante*
-- [ ]  [3225](https://www.beecrowd.com.br/repository/UOJ_3225.html) - Ordenação dos Pães *Ad-Hoc*
+- [x]  [3225](https://www.beecrowd.com.br/repository/UOJ_3225.html) - [Ordenação dos Pães](https://github.com/potigol/beecrowd/blob/master/src/3200/3225.poti) *Ad-Hoc*
 - [ ]  [3226](https://www.beecrowd.com.br/repository/UOJ_3226.html) - Seleção de Biscoito *Ad-Hoc*
 - [x]  [3227](https://www.beecrowd.com.br/repository/UOJ_3227.html) - [Doorman](https://github.com/potigol/beecrowd/blob/master/src/3200/3227.poti) *Ad-Hoc*
 - [ ]  [3228](https://www.beecrowd.com.br/repository/UOJ_3228.html) - Eco-driving *Ad-Hoc*

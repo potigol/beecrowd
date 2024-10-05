@@ -6,18 +6,20 @@ var p, h := BigInt(a[2]) - 1 , BigInt(a[3]) - 1
 
 w = para k de n até 1 passo -1 gere
   c = pot2(k - 1, h) <= -1
-  se c então h := pot2(k, h) fim
+  se c então h := pot2(k, h) fim 
   c
 fim
 
 V, F = verdadeiro, falso
-ans = para k de n até 1 passo -1 gere
+saida = para k de n até 1 passo -1 gere
   pk1 = pot2(k - 1, p)
-  escolha (w[k], pk1 >= 0)
-    caso (V, V) => p := pk1          'L'
-    caso (F, F) => p := -(pk1 + 1)   'L'
-    caso (V, F) => p := pot2(k, p)   'R'
-    caso (F, V) =>                   'R'
+  p := escolha (w[k], pk1 >= 0)
+    caso (V, V) => pk1           # L
+    caso (F, F) => -(pk1 + 1)    # L
+    caso (V, F) => pot2(k, p)    # R
+    caso (F, V) => p             # R
   fim
-fim
-escreva ans.junte("")
+  se w[k] == (pk1 >= 0) então 'L' senão 'R' fim
+fim.junte("")
+
+escreva saida

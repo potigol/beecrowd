@@ -1,4 +1,4 @@
-# Ad-Hoc (256 / 892)
+# Ad-Hoc (257 / 892)
 
 
 
@@ -222,6 +222,7 @@
 - [x]  [3175](https://www.beecrowd.com.br/repository/UOJ_3175.html) - [Os Presentes Do Noel](https://github.com/potigol/beecrowd/blob/master/src/3100/3175.poti)
 - [x]  [3188](https://www.beecrowd.com.br/repository/UOJ_3188.html) - [Phone List](https://github.com/potigol/beecrowd/blob/master/src/3100/3188.poti)
 - [x]  [3205](https://www.beecrowd.com.br/repository/UOJ_3205.html) - [Nasty Hacks](https://github.com/potigol/beecrowd/blob/master/src/3200/3205.poti)
+- [x]  [3225](https://www.beecrowd.com.br/repository/UOJ_3225.html) - [Ordenação dos Pães](https://github.com/potigol/beecrowd/blob/master/src/3200/3225.poti)
 - [x]  [3227](https://www.beecrowd.com.br/repository/UOJ_3227.html) - [Doorman](https://github.com/potigol/beecrowd/blob/master/src/3200/3227.poti)
 - [x]  [3263](https://www.beecrowd.com.br/repository/UOJ_3263.html) - [Apague Com Segurança](https://github.com/potigol/beecrowd/blob/master/src/3200/3263.poti)
 - [x]  [3278](https://www.beecrowd.com.br/repository/UOJ_3278.html) - [Passageiros de Trem](https://github.com/potigol/beecrowd/blob/master/src/3200/3278.poti)
@@ -763,7 +764,6 @@
 - [ ]  [3212](https://www.beecrowd.com.br/repository/UOJ_3212.html) - Decomposição do Colar
 - [ ]  [3219](https://www.beecrowd.com.br/repository/UOJ_3219.html) - Gokigen Naname
 - [ ]  [3222](https://www.beecrowd.com.br/repository/UOJ_3222.html) - Cifra Playfair
-- [ ]  [3225](https://www.beecrowd.com.br/repository/UOJ_3225.html) - Ordenação dos Pães
 - [ ]  [3226](https://www.beecrowd.com.br/repository/UOJ_3226.html) - Seleção de Biscoito
 - [ ]  [3228](https://www.beecrowd.com.br/repository/UOJ_3228.html) - Eco-driving
 - [ ]  [3240](https://www.beecrowd.com.br/repository/UOJ_3240.html) - Doodling
