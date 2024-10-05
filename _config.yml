@@ -1,5 +1,6 @@
 # remote_theme: rundocs/jekyll-rtd-theme
-remote_theme: readthedocs/sphinx_rtd_theme    #just-the-docs/just-the-docs
+#remote_theme: readthedocs/sphinx_rtd_theme    #just-the-docs/just-the-docs
+remote_theme: potigol/jekyll-theme-rtd
 
 readme_index:
   with_frontmatter: true
