@@ -1,0 +1,21 @@
+n = leia_inteiro
+s = leia_texto
+
+var l1, l2, l3, l4, l5, l6 := 0
+para c em s faca
+  escolha c
+    caso '1' => l1 := l1 + 1
+    caso '2' => l2 := l2 + 1
+    caso '3' => l3 := l3 + 1
+    caso '4' => l4 := l4 + 1
+    caso '5' => l5 := l5 + 1
+    caso '6' => l6 := l6 + 1
+    caso  _  =>
+  fim
+fim
+
+mov = [l1, l2, l3, l4, l5, l6]
+m = para lado de 1 ate 6 gere
+  n - mov[lado] + mov[7 - lado]
+fim
+escreva m.ordene.cabeça
