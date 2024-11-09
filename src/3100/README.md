@@ -1,6 +1,6 @@
-# Problemas 3100 (42%)
+# Problemas 3100 (43%)
 
-- [ ]  [3100](https://www.beecrowd.com.br/repository/UOJ_3100.html) - Os Dígitos da Sorte *Strings*
+- [x]  [3100](https://www.beecrowd.com.br/repository/UOJ_3100.html) - [Os Dígitos da Sorte](https://github.com/potigol/beecrowd/blob/master/src/3100/3100.poti) *Strings*
 - [ ]  [3101](https://www.beecrowd.com.br/repository/UOJ_3101.html) - Famílias Poligâmicas *Grafos*
 - [x]  [3102](https://www.beecrowd.com.br/repository/UOJ_3102.html) - [Kikoho](https://github.com/potigol/beecrowd/blob/master/src/3100/3102.poti) *Matemática*
 - [x]  [3103](https://www.beecrowd.com.br/repository/UOJ_3103.html) - [Número da Sorte](https://github.com/potigol/beecrowd/blob/master/src/3100/3103.poti) *Strings*

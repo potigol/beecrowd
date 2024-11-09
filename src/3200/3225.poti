@@ -1,15 +1,15 @@
 n = leia_inteiro
 a, c = leia_inteiros(" ").mutavel
-var b := Lista(n, 0).mutável
 
+var b := Lista(n, 0).mutável
 para i de 1 até n faça
   b[a[i]] := c[i]
 fim
 
 var visto := Lista(n, falso).mutável
-var trocas := n
+var possivel := n mod 2 == 0
 para i de 1 até n se não visto[i] faça
-  trocas := trocas - 1
+  possivel := não possivel
   var j := i
   enquanto não visto[j] faça
     visto[j] := verdadeiro
@@ -17,4 +17,4 @@ para i de 1 até n se não visto[i] faça
   fim
 fim
 
-escreva (se trocas mod 2 == 0 então "Possible" senão "Impossible" fim)
+escreva (se possivel então "Possible" senão "Impossible" fim)

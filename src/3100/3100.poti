@@ -1,0 +1,16 @@
+encontrar_primeiro_sete(s: Texto) = se s.posição('7') > 0
+  então s.posição('7') - 1
+  senão s.tamanho
+fim
+
+ordenar(s: Texto)
+  primeiro_sete  = encontrar_primeiro_sete(s)
+  parte_antes_7 = s.pegue(primeiro_sete).ordene
+  parte_depois_7 = s.descarte(primeiro_sete)
+  sem_5s = parte_depois_7.selecione(_ <> '5')
+  apenas_5s = "5" * (parte_depois_7.tamanho - sem_5s.tamanho)
+  retorne parte_antes_7 + apenas_5s + sem_5s
+fim
+
+s = leia_texto
+escreva ordenar(s)

@@ -1,4 +1,4 @@
-# Problemas 2700 (46%)
+# Problemas 2700 (47%)
 
 - [ ]  [2700](https://www.beecrowd.com.br/repository/UOJ_2700.html) - Angariando Fundos *Estruturas e Bibliotecas*
 - [ ]  [2701](https://www.beecrowd.com.br/repository/UOJ_2701.html) - Portas da Incerteza *Ad-Hoc*
@@ -90,7 +90,7 @@
 - [x]  [2787](https://www.beecrowd.com.br/repository/UOJ_2787.html) - [Xadrez](https://github.com/potigol/beecrowd/blob/master/src/2700/2787.poti) *Iniciante*
 - [ ]  [2788](https://www.beecrowd.com.br/repository/UOJ_2788.html) - Aula *Ad-Hoc*
 - [ ]  [2789](https://www.beecrowd.com.br/repository/UOJ_2789.html) - Crise Hídrica *Ad-Hoc*
-- [ ]  [2790](https://www.beecrowd.com.br/repository/UOJ_2790.html) - Dados *Ad-Hoc*
+- [x]  [2790](https://www.beecrowd.com.br/repository/UOJ_2790.html) - [Dados](https://github.com/potigol/beecrowd/blob/master/src/2700/2790.poti) *Ad-Hoc*
 - [x]  [2791](https://www.beecrowd.com.br/repository/UOJ_2791.html) - [Feijão](https://github.com/potigol/beecrowd/blob/master/src/2700/2791.poti) *Iniciante*
 - [ ]  [2792](https://www.beecrowd.com.br/repository/UOJ_2792.html) - Golnaldinho *Estruturas e Bibliotecas*
 - [ ]  [2793](https://www.beecrowd.com.br/repository/UOJ_2793.html) - HM *Ad-Hoc*

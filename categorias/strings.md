@@ -1,4 +1,4 @@
-# Strings (77 / 149)
+# Strings (78 / 149)
 
 
 
@@ -73,6 +73,7 @@
 - [x]  [2906](https://www.beecrowd.com.br/repository/UOJ_2906.html) - [Database of Clients](https://github.com/potigol/beecrowd/blob/master/src/2900/2906.poti)
 - [x]  [3038](https://www.beecrowd.com.br/repository/UOJ_3038.html) - [Carta de Natal Criptografada](https://github.com/potigol/beecrowd/blob/master/src/3000/3038.poti)
 - [x]  [3088](https://www.beecrowd.com.br/repository/UOJ_3088.html) - [Correção de Texto](https://github.com/potigol/beecrowd/blob/master/src/3000/3088.poti)
+- [x]  [3100](https://www.beecrowd.com.br/repository/UOJ_3100.html) - [Os Dígitos da Sorte](https://github.com/potigol/beecrowd/blob/master/src/3100/3100.poti)
 - [x]  [3103](https://www.beecrowd.com.br/repository/UOJ_3103.html) - [Número da Sorte](https://github.com/potigol/beecrowd/blob/master/src/3100/3103.poti)
 - [x]  [3141](https://www.beecrowd.com.br/repository/UOJ_3141.html) - [Dúvida Etária](https://github.com/potigol/beecrowd/blob/master/src/3100/3141.poti)
 - [x]  [3159](https://www.beecrowd.com.br/repository/UOJ_3159.html) - [Tijolão](https://github.com/potigol/beecrowd/blob/master/src/3100/3159.poti)
@@ -147,7 +148,6 @@
 - [ ]  [2975](https://www.beecrowd.com.br/repository/UOJ_2975.html) - Anel
 - [ ]  [3080](https://www.beecrowd.com.br/repository/UOJ_3080.html) - Proteja os Dados
 - [ ]  [3083](https://www.beecrowd.com.br/repository/UOJ_3083.html) - Emreh, Liug E As Strings
-- [ ]  [3100](https://www.beecrowd.com.br/repository/UOJ_3100.html) - Os Dígitos da Sorte
 - [ ]  [3118](https://www.beecrowd.com.br/repository/UOJ_3118.html) - Bactérias, Suas Loucas!
 - [ ]  [3143](https://www.beecrowd.com.br/repository/UOJ_3143.html) - Fugindo do Celular
 - [ ]  [3180](https://www.beecrowd.com.br/repository/UOJ_3180.html) - Roubo de Código

@@ -1,4 +1,4 @@
-# Ad-Hoc (257 / 892)
+# Ad-Hoc (258 / 892)
 
 
 
@@ -183,6 +183,7 @@
 - [x]  [2601](https://www.beecrowd.com.br/repository/UOJ_2601.html) - [Tustin e Seu Dado Antigo](https://github.com/potigol/beecrowd/blob/master/src/2600/2601.poti)
 - [x]  [2650](https://www.beecrowd.com.br/repository/UOJ_2650.html) - [Construindo Muralhas](https://github.com/potigol/beecrowd/blob/master/src/2600/2650.poti)
 - [x]  [2679](https://www.beecrowd.com.br/repository/UOJ_2679.html) - [Sucessor Par](https://github.com/potigol/beecrowd/blob/master/src/2600/2679.poti)
+- [x]  [2790](https://www.beecrowd.com.br/repository/UOJ_2790.html) - [Dados](https://github.com/potigol/beecrowd/blob/master/src/2700/2790.poti)
 - [x]  [2803](https://www.beecrowd.com.br/repository/UOJ_2803.html) - [Estados do Norte](https://github.com/potigol/beecrowd/blob/master/src/2800/2803.poti)
 - [x]  [2830](https://www.beecrowd.com.br/repository/UOJ_2830.html) - [Copa](https://github.com/potigol/beecrowd/blob/master/src/2800/2830.poti)
 - [x]  [2831](https://www.beecrowd.com.br/repository/UOJ_2831.html) - [Pesos](https://github.com/potigol/beecrowd/blob/master/src/2800/2831.poti)
@@ -643,7 +644,6 @@
 - [ ]  [2776](https://www.beecrowd.com.br/repository/UOJ_2776.html) - Promoções
 - [ ]  [2788](https://www.beecrowd.com.br/repository/UOJ_2788.html) - Aula
 - [ ]  [2789](https://www.beecrowd.com.br/repository/UOJ_2789.html) - Crise Hídrica
-- [ ]  [2790](https://www.beecrowd.com.br/repository/UOJ_2790.html) - Dados
 - [ ]  [2793](https://www.beecrowd.com.br/repository/UOJ_2793.html) - HM
 - [ ]  [2794](https://www.beecrowd.com.br/repository/UOJ_2794.html) - Montes Claros
 - [ ]  [2795](https://www.beecrowd.com.br/repository/UOJ_2795.html) - Palíndromo
