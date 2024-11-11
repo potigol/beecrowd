@@ -4,12 +4,12 @@ encontrar_primeiro_sete(s: Texto) = se s.posição('7') > 0
 fim
 
 ordenar(s: Texto)
-  primeiro_sete  = encontrar_primeiro_sete(s)
-  parte_antes_7 = s.pegue(primeiro_sete).ordene
-  parte_depois_7 = s.descarte(primeiro_sete)
-  sem_5s = parte_depois_7.selecione(_ <> '5')
-  apenas_5s = "5" * (parte_depois_7.tamanho - sem_5s.tamanho)
-  retorne parte_antes_7 + apenas_5s + sem_5s
+  sem_5s = s.selecione(_ <> '5')
+  primeiro_sete  = encontrar_primeiro_sete(sem_5s)
+  parte_antes_7 = sem_5s.pegue(primeiro_sete)
+  parte_depois_7 = sem_5s.descarte(primeiro_sete)
+  apenas_5s = "5" * (s.tamanho - sem_5s.tamanho)
+  retorne parte_antes_7 + apenas_5s + parte_depois_7
 fim
 
 s = leia_texto
