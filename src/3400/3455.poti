@@ -1,0 +1,8 @@
+m = leia_reais(" ")
+a, b, c = m[1], m[2], m[3]
+x = leia_texto[1]
+
+p = [2, 3, 5]
+t = (a * p[1] + b * p[2] + c * p[3]) / p[x - 'A' + 1]
+
+escreva (t - 0.5) formato "%.0f"

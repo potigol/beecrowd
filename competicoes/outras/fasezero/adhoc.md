@@ -1,4 +1,4 @@
-# Ad-Hoc (6 / 37)
+# Ad-Hoc (7 / 37)
 
 
 
@@ -8,6 +8,7 @@
 - [x]  [3416](https://www.beecrowd.com.br/repository/UOJ_3416.html) - [Eu Quero Cafééé](https://github.com/potigol/beecrowd/blob/master/src/3400/3416.poti)
 - [x]  [3422](https://www.beecrowd.com.br/repository/UOJ_3422.html) - [José e a Súmula](https://github.com/potigol/beecrowd/blob/master/src/3400/3422.poti)
 - [x]  [3454](https://www.beecrowd.com.br/repository/UOJ_3454.html) - [Alice no País do Jogo da Velha](https://github.com/potigol/beecrowd/blob/master/src/3400/3454.poti)
+- [x]  [3455](https://www.beecrowd.com.br/repository/UOJ_3455.html) - [Banco Nacional de Questões](https://github.com/potigol/beecrowd/blob/master/src/3400/3455.poti)
 - [x]  [3456](https://www.beecrowd.com.br/repository/UOJ_3456.html) - [Divisibilidade por 7](https://github.com/potigol/beecrowd/blob/master/src/3400/3456.poti)
 - [x]  [3500](https://www.beecrowd.com.br/repository/UOJ_3500.html) - [~~Deus-serpente M'boi as Cataratas do Iguaçu~~](https://github.com/potigol/beecrowd/blob/master/src/3500/3500.poti)
 
@@ -23,7 +24,6 @@
 - [ ]  [3421](https://www.beecrowd.com.br/repository/UOJ_3421.html) - Infinita String de Dígitos
 - [ ]  [3423](https://www.beecrowd.com.br/repository/UOJ_3423.html) - Gostos Peculiares
 - [ ]  [3453](https://www.beecrowd.com.br/repository/UOJ_3453.html) - Carlinhos Adora Problemas
-- [ ]  [3455](https://www.beecrowd.com.br/repository/UOJ_3455.html) - Banco Nacional de Questões
 - [ ]  [3457](https://www.beecrowd.com.br/repository/UOJ_3457.html) - Estimando Pedras no Pote
 - [ ]  [3458](https://www.beecrowd.com.br/repository/UOJ_3458.html) - Fabricação de Proteínas
 - [ ]  [3459](https://www.beecrowd.com.br/repository/UOJ_3459.html) - GoldMagikarp

@@ -1,4 +1,4 @@
-# Problemas 3400 (32%)
+# Problemas 3400 (33%)
 
 - [ ]  [3400](https://www.beecrowd.com.br/repository/UOJ_3400.html) - Amigo não tão secreto assim *Ad-Hoc*
 - [ ]  [3401](https://www.beecrowd.com.br/repository/UOJ_3401.html) - Bicho da Goiaba Ataca Novamente *Ad-Hoc*
@@ -55,7 +55,7 @@
 - [ ]  [3452](https://www.beecrowd.com.br/repository/UOJ_3452.html) - Labirinto em Parafuso *Ad-Hoc*
 - [ ]  [3453](https://www.beecrowd.com.br/repository/UOJ_3453.html) - Carlinhos Adora Problemas *Ad-Hoc*
 - [x]  [3454](https://www.beecrowd.com.br/repository/UOJ_3454.html) - [Alice no País do Jogo da Velha](https://github.com/potigol/beecrowd/blob/master/src/3400/3454.poti) *Ad-Hoc*
-- [ ]  [3455](https://www.beecrowd.com.br/repository/UOJ_3455.html) - Banco Nacional de Questões *Ad-Hoc*
+- [x]  [3455](https://www.beecrowd.com.br/repository/UOJ_3455.html) - [Banco Nacional de Questões](https://github.com/potigol/beecrowd/blob/master/src/3400/3455.poti) *Ad-Hoc*
 - [x]  [3456](https://www.beecrowd.com.br/repository/UOJ_3456.html) - [Divisibilidade por 7](https://github.com/potigol/beecrowd/blob/master/src/3400/3456.poti) *Ad-Hoc*
 - [ ]  [3457](https://www.beecrowd.com.br/repository/UOJ_3457.html) - Estimando Pedras no Pote *Ad-Hoc*
 - [ ]  [3458](https://www.beecrowd.com.br/repository/UOJ_3458.html) - Fabricação de Proteínas *Ad-Hoc*
