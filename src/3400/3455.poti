@@ -2,7 +2,12 @@ m = leia_reais(" ")
 a, b, c = m[1], m[2], m[3]
 x = leia_texto[1]
 
-p = [2, 3, 5]
-t = (a * p[1] + b * p[2] + c * p[3]) / p[x - 'A' + 1]
+d = escolha x
+      caso 'A' => 2
+      caso 'B' => 3
+      caso  _  => 5
+    fim
+
+t = (a * 2 + b * 3 + c * 5) / d
 
 escreva (t - 0.5) formato "%.0f"
