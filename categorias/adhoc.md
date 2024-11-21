@@ -1,4 +1,4 @@
-# Ad-Hoc (259 / 892)
+# Ad-Hoc (260 / 892)
 
 
 
@@ -251,6 +251,7 @@
 - [x]  [3454](https://www.beecrowd.com.br/repository/UOJ_3454.html) - [Alice no País do Jogo da Velha](https://github.com/potigol/beecrowd/blob/master/src/3400/3454.poti)
 - [x]  [3455](https://www.beecrowd.com.br/repository/UOJ_3455.html) - [Banco Nacional de Questões](https://github.com/potigol/beecrowd/blob/master/src/3400/3455.poti)
 - [x]  [3456](https://www.beecrowd.com.br/repository/UOJ_3456.html) - [Divisibilidade por 7](https://github.com/potigol/beecrowd/blob/master/src/3400/3456.poti)
+- [x]  [3464](https://www.beecrowd.com.br/repository/UOJ_3464.html) - [Latência na Rede](https://github.com/potigol/beecrowd/blob/master/src/3400/3464.poti)
 - [x]  [3465](https://www.beecrowd.com.br/repository/UOJ_3465.html) - [Cimba](https://github.com/potigol/beecrowd/blob/master/src/3400/3465.poti)
 - [x]  [3467](https://www.beecrowd.com.br/repository/UOJ_3467.html) - [Esse é o meu lugar!](https://github.com/potigol/beecrowd/blob/master/src/3400/3467.poti)
 - [x]  [3468](https://www.beecrowd.com.br/repository/UOJ_3468.html) - [Faça mais, mas faça melhor!](https://github.com/potigol/beecrowd/blob/master/src/3400/3468.poti)
@@ -869,7 +870,6 @@
 - [ ]  [3461](https://www.beecrowd.com.br/repository/UOJ_3461.html) - Interferência em Luzes Hexagonais
 - [ ]  [3462](https://www.beecrowd.com.br/repository/UOJ_3462.html) - Jogando Discos de Hanói
 - [ ]  [3463](https://www.beecrowd.com.br/repository/UOJ_3463.html) - Kempner et al. e suas Potências
-- [ ]  [3464](https://www.beecrowd.com.br/repository/UOJ_3464.html) - Latência na Rede
 - [ ]  [3466](https://www.beecrowd.com.br/repository/UOJ_3466.html) - Dados do Multiverso
 - [ ]  [3470](https://www.beecrowd.com.br/repository/UOJ_3470.html) - Jogo do 8
 - [ ]  [3471](https://www.beecrowd.com.br/repository/UOJ_3471.html) - Kashmir

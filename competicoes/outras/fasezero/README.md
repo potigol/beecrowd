@@ -1,4 +1,4 @@
-# Fase Zero - Maratona SBC (8 / 38)
+# Fase Zero - Maratona SBC (9 / 38)
 
 
 
@@ -33,7 +33,7 @@
 - [ ]  [3461](https://www.beecrowd.com.br/repository/UOJ_3461.html) - Interferência em Luzes Hexagonais *Ad-Hoc*
 - [ ]  [3462](https://www.beecrowd.com.br/repository/UOJ_3462.html) - Jogando Discos de Hanói *Ad-Hoc*
 - [ ]  [3463](https://www.beecrowd.com.br/repository/UOJ_3463.html) - Kempner et al. e suas Potências *Ad-Hoc*
-- [ ]  [3464](https://www.beecrowd.com.br/repository/UOJ_3464.html) - Latência na Rede *Ad-Hoc*
+- [x]  [3464](https://www.beecrowd.com.br/repository/UOJ_3464.html) - [Latência na Rede](https://github.com/potigol/beecrowd/blob/master/src/3400/3464.poti) *Ad-Hoc*
 
 
 ## 2022

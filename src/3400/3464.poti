@@ -1,0 +1,19 @@
+max(a, b: Inteiro) = se a > b então a senão b fim
+min(a, b: Inteiro) = se a < b então a senão b fim
+
+a = leia_inteiros(" ")
+n, m = a[1], a[2]
+s = leia_inteiro
+
+var area_coberta := 0
+para i de 1 até s faça
+  b = leia_inteiros(" ")
+  x, y, r = b[1], b[2], b[3]
+  xo = max(1, x - r)
+  xi = min(n, x + r)
+  yo = max(1, y - r)
+  yi = min(m, y + r)
+  area_coberta := area_coberta + (xi - xo + 1) * (yi - yo + 1)
+fim
+media = area_coberta / (n * m)
+escreva media.inteiro

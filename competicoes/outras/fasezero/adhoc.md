@@ -1,4 +1,4 @@
-# Ad-Hoc (7 / 37)
+# Ad-Hoc (8 / 37)
 
 
 
@@ -10,6 +10,7 @@
 - [x]  [3454](https://www.beecrowd.com.br/repository/UOJ_3454.html) - [Alice no País do Jogo da Velha](https://github.com/potigol/beecrowd/blob/master/src/3400/3454.poti)
 - [x]  [3455](https://www.beecrowd.com.br/repository/UOJ_3455.html) - [Banco Nacional de Questões](https://github.com/potigol/beecrowd/blob/master/src/3400/3455.poti)
 - [x]  [3456](https://www.beecrowd.com.br/repository/UOJ_3456.html) - [Divisibilidade por 7](https://github.com/potigol/beecrowd/blob/master/src/3400/3456.poti)
+- [x]  [3464](https://www.beecrowd.com.br/repository/UOJ_3464.html) - [Latência na Rede](https://github.com/potigol/beecrowd/blob/master/src/3400/3464.poti)
 - [x]  [3500](https://www.beecrowd.com.br/repository/UOJ_3500.html) - [~~Deus-serpente M'boi as Cataratas do Iguaçu~~](https://github.com/potigol/beecrowd/blob/master/src/3500/3500.poti)
 
 ## Problemas não resolvidos
@@ -31,7 +32,6 @@
 - [ ]  [3461](https://www.beecrowd.com.br/repository/UOJ_3461.html) - Interferência em Luzes Hexagonais
 - [ ]  [3462](https://www.beecrowd.com.br/repository/UOJ_3462.html) - Jogando Discos de Hanói
 - [ ]  [3463](https://www.beecrowd.com.br/repository/UOJ_3463.html) - Kempner et al. e suas Potências
-- [ ]  [3464](https://www.beecrowd.com.br/repository/UOJ_3464.html) - Latência na Rede
 - [ ]  [3498](https://www.beecrowd.com.br/repository/UOJ_3498.html) - ~~Boto e as Festas~~
 - [ ]  [3499](https://www.beecrowd.com.br/repository/UOJ_3499.html) - ~~Caboclo-d'Água e o Biscoito Confeitado~~
 - [ ]  [3501](https://www.beecrowd.com.br/repository/UOJ_3501.html) - ~~Esquecimento e o Mapa do Boitatá~~
