@@ -1,4 +1,4 @@
-# Ad-Hoc (260 / 892)
+# Ad-Hoc (262 / 892)
 
 
 
@@ -77,6 +77,7 @@
 - [x]  [1800](https://www.beecrowd.com.br/repository/UOJ_1800.html) - [Onde Estão Minhas Chaves](https://github.com/potigol/beecrowd/blob/master/src/1800/1800.poti)
 - [x]  [1802](https://www.beecrowd.com.br/repository/UOJ_1802.html) - [Catálogo de Livros](https://github.com/potigol/beecrowd/blob/master/src/1800/1802.poti)
 - [x]  [1808](https://www.beecrowd.com.br/repository/UOJ_1808.html) - [O Retorno do Rei](https://github.com/potigol/beecrowd/blob/master/src/1800/1808.poti)
+- [x]  [1836](https://www.beecrowd.com.br/repository/UOJ_1836.html) - [Pokémon!](https://github.com/potigol/beecrowd/blob/master/src/1800/1836.poti)
 - [x]  [1849](https://www.beecrowd.com.br/repository/UOJ_1849.html) - [Dracarys!](https://github.com/potigol/beecrowd/blob/master/src/1800/1849.poti)
 - [x]  [1867](https://www.beecrowd.com.br/repository/UOJ_1867.html) - [Maior Número de Um Algarismo](https://github.com/potigol/beecrowd/blob/master/src/1800/1867.poti)
 - [x]  [1876](https://www.beecrowd.com.br/repository/UOJ_1876.html) - [Rabiola](https://github.com/potigol/beecrowd/blob/master/src/1800/1876.poti)
@@ -195,6 +196,7 @@
 - [x]  [2868](https://www.beecrowd.com.br/repository/UOJ_2868.html) - [Errrou!](https://github.com/potigol/beecrowd/blob/master/src/2800/2868.poti)
 - [x]  [2922](https://www.beecrowd.com.br/repository/UOJ_2922.html) - [Salas De Aula](https://github.com/potigol/beecrowd/blob/master/src/2900/2922.poti)
 - [x]  [2926](https://www.beecrowd.com.br/repository/UOJ_2926.html) - [Então é Natal!](https://github.com/potigol/beecrowd/blob/master/src/2900/2926.poti)
+- [x]  [2927](https://www.beecrowd.com.br/repository/UOJ_2927.html) - [Imprevistos Natalinos](https://github.com/potigol/beecrowd/blob/master/src/2900/2927.poti)
 - [x]  [2928](https://www.beecrowd.com.br/repository/UOJ_2928.html) - [Cruzando Lagos](https://github.com/potigol/beecrowd/blob/master/src/2900/2928.poti)
 - [x]  [3005](https://www.beecrowd.com.br/repository/UOJ_3005.html) - [Pilhas de Paralelepípedos](https://github.com/potigol/beecrowd/blob/master/src/3000/3005.poti)
 - [x]  [3024](https://www.beecrowd.com.br/repository/UOJ_3024.html) - [Mountain Ranges](https://github.com/potigol/beecrowd/blob/master/src/3000/3024.poti)
@@ -382,7 +384,6 @@
 - [ ]  [1820](https://www.beecrowd.com.br/repository/UOJ_1820.html) - Grupos da Universidade de Sing Pil
 - [ ]  [1824](https://www.beecrowd.com.br/repository/UOJ_1824.html) - Sapos de Tsé-Tsé
 - [ ]  [1832](https://www.beecrowd.com.br/repository/UOJ_1832.html) - EBCDIC
-- [ ]  [1836](https://www.beecrowd.com.br/repository/UOJ_1836.html) - Pokémon!
 - [ ]  [1840](https://www.beecrowd.com.br/repository/UOJ_1840.html) - O Prisioneiro de Azkaban
 - [ ]  [1845](https://www.beecrowd.com.br/repository/UOJ_1845.html) - Efílogo
 - [ ]  [1870](https://www.beecrowd.com.br/repository/UOJ_1870.html) - Ventiladores e Balões
@@ -688,7 +689,6 @@
 - [ ]  [2923](https://www.beecrowd.com.br/repository/UOJ_2923.html) - Birinho
 - [ ]  [2924](https://www.beecrowd.com.br/repository/UOJ_2924.html) - BigInt
 - [ ]  [2925](https://www.beecrowd.com.br/repository/UOJ_2925.html) - Sequência IccanobiF
-- [ ]  [2927](https://www.beecrowd.com.br/repository/UOJ_2927.html) - Imprevistos Natalinos
 - [ ]  [2931](https://www.beecrowd.com.br/repository/UOJ_2931.html) - Presentes Suspeitos
 - [ ]  [2935](https://www.beecrowd.com.br/repository/UOJ_2935.html) - DNA Élfico
 - [ ]  [2938](https://www.beecrowd.com.br/repository/UOJ_2938.html) - Jaçanã

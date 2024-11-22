@@ -1,0 +1,11 @@
+d = leia_inteiros(" ")
+a, c, x, y = d[1], d[2], d[3], d[4]
+
+r = c - x - y - a
+se r > 0 então
+  escreva "Igor feliz!"
+senãose x * 2 > y então
+  escreva "Caio, a culpa eh sua!"
+senão
+  escreva "Igor bolado!"
+fim

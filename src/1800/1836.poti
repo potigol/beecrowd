@@ -1,0 +1,17 @@
+t = leia_inteiro
+para i de 1 até t faça
+  a = leia_textos(" ")
+  n, l = a[1], a[2].inteiro
+
+  escreva "Caso #{i}: {n} nivel {l}"
+  para j de 1 até 4 faça
+    b = leia_inteiros(" ")
+    bs, iv, ev = b[1], b[2], b[3]
+    temp = se j == 1 então
+      (iv + bs + raiz(ev) / 8 + 50) * l / 50 + 10
+    senão
+      (iv + bs + raiz(ev) / 8) * l / 50 + 5
+    fim
+    escreva "{["HP", "AT", "DF", "SP"][j]}: {temp.inteiro}"
+  fim
+fim

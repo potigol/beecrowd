@@ -1,4 +1,4 @@
-# Problemas 1800 (27%)
+# Problemas 1800 (28%)
 
 - [x]  [1800](https://www.beecrowd.com.br/repository/UOJ_1800.html) - [Onde Estão Minhas Chaves](https://github.com/potigol/beecrowd/blob/master/src/1800/1800.poti) *Ad-Hoc*
 - [ ]  [1801](https://www.beecrowd.com.br/repository/UOJ_1801.html) - Brincando com Números *Matemática*
@@ -36,7 +36,7 @@
 - [ ]  [1833](https://www.beecrowd.com.br/repository/UOJ_1833.html) - Decoração Natalina *Paradigmas*
 - [ ]  [1834](https://www.beecrowd.com.br/repository/UOJ_1834.html) - Vogons! *Geometria Computacional*
 - [ ]  [1835](https://www.beecrowd.com.br/repository/UOJ_1835.html) - Promessa de Campanha *Grafos*
-- [ ]  [1836](https://www.beecrowd.com.br/repository/UOJ_1836.html) - Pokémon! *Ad-Hoc*
+- [x]  [1836](https://www.beecrowd.com.br/repository/UOJ_1836.html) - [Pokémon!](https://github.com/potigol/beecrowd/blob/master/src/1800/1836.poti) *Ad-Hoc*
 - [x]  [1837](https://www.beecrowd.com.br/repository/UOJ_1837.html) - [Prefácio](https://github.com/potigol/beecrowd/blob/master/src/1800/1837.poti) *Iniciante*
 - [ ]  [1838](https://www.beecrowd.com.br/repository/UOJ_1838.html) - A Pedra Filosofal *Paradigmas*
 - [ ]  [1839](https://www.beecrowd.com.br/repository/UOJ_1839.html) - A Câmara Secreta *Matemática*
