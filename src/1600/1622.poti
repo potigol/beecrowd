@@ -1,0 +1,19 @@
+var a := leia_inteiros(" ")
+enquanto a <> [0, 0] faça
+  n, q = a[1], a[2]
+  L = leia_texto.lista.mapeie(_ <> 0)
+  para i de 1 até q faça
+    var l := L
+    b = leia_inteiros(" ")
+    var k, m := b[1], b[2]
+    var p := 0
+    m := m mod (2 * n)
+    enquanto m > 0 faça
+      l[p+1] := não l[p+1]
+      p := (p + k) mod n
+      m := m - 1
+    fim
+    escreva l.mapeie(se _ então 'x' senão 'o' fim).junte("")
+  fim
+  a := leia_inteiros(" ")
+fim
