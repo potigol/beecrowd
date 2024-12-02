@@ -1,0 +1,5 @@
+mdc(a, b: Inteiro): Inteiro = se b == 0 então a senão mdc(b, a mod b) fim
+
+n = leia_texto.selecione(_ <> '.').inteiro
+resp = n * 36000 div mdc(n, 36000) div n
+escreva resp
