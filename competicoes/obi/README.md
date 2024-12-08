@@ -1,4 +1,4 @@
-# Olimpíada de Informática (103 / 219)
+# Olimpíada de Informática (104 / 219)
 
 
 
@@ -93,7 +93,7 @@
 - [x]  [2469](https://www.beecrowd.com.br/repository/UOJ_2469.html) - [Notas](https://github.com/potigol/beecrowd/blob/master/src/2400/2469.poti) *Ad-Hoc*
 - [ ]  [2470](https://www.beecrowd.com.br/repository/UOJ_2470.html) - Jogo da Memória *Ad-Hoc*
 - [ ]  [2471](https://www.beecrowd.com.br/repository/UOJ_2471.html) - Quadrado *Ad-Hoc*
-- [ ]  [2472](https://www.beecrowd.com.br/repository/UOJ_2472.html) - Tapetes *Ad-Hoc*
+- [x]  [2472](https://www.beecrowd.com.br/repository/UOJ_2472.html) - [Tapetes](https://github.com/potigol/beecrowd/blob/master/src/2400/2472.poti) *Ad-Hoc*
 - [x]  [2473](https://www.beecrowd.com.br/repository/UOJ_2473.html) - [Loteria](https://github.com/potigol/beecrowd/blob/master/src/2400/2473.poti) *Ad-Hoc*
 
 

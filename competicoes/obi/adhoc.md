@@ -1,4 +1,4 @@
-# Ad-Hoc (84 / 172)
+# Ad-Hoc (85 / 172)
 
 
 
@@ -77,6 +77,7 @@
 - [x]  [2465](https://www.beecrowd.com.br/repository/UOJ_2465.html) - [Passa Bolinha](https://github.com/potigol/beecrowd/blob/master/src/2400/2465.poti)
 - [x]  [2466](https://www.beecrowd.com.br/repository/UOJ_2466.html) - [Sinuca](https://github.com/potigol/beecrowd/blob/master/src/2400/2466.poti)
 - [x]  [2469](https://www.beecrowd.com.br/repository/UOJ_2469.html) - [Notas](https://github.com/potigol/beecrowd/blob/master/src/2400/2469.poti)
+- [x]  [2472](https://www.beecrowd.com.br/repository/UOJ_2472.html) - [Tapetes](https://github.com/potigol/beecrowd/blob/master/src/2400/2472.poti)
 - [x]  [2473](https://www.beecrowd.com.br/repository/UOJ_2473.html) - [Loteria](https://github.com/potigol/beecrowd/blob/master/src/2400/2473.poti)
 - [x]  [2830](https://www.beecrowd.com.br/repository/UOJ_2830.html) - [Copa](https://github.com/potigol/beecrowd/blob/master/src/2800/2830.poti)
 - [x]  [2831](https://www.beecrowd.com.br/repository/UOJ_2831.html) - [Pesos](https://github.com/potigol/beecrowd/blob/master/src/2800/2831.poti)
@@ -169,7 +170,6 @@
 - [ ]  [2468](https://www.beecrowd.com.br/repository/UOJ_2468.html) - Mapa
 - [ ]  [2470](https://www.beecrowd.com.br/repository/UOJ_2470.html) - Jogo da Memória
 - [ ]  [2471](https://www.beecrowd.com.br/repository/UOJ_2471.html) - Quadrado
-- [ ]  [2472](https://www.beecrowd.com.br/repository/UOJ_2472.html) - Tapetes
 - [ ]  [2832](https://www.beecrowd.com.br/repository/UOJ_2832.html) - Cápsulas
 - [ ]  [2834](https://www.beecrowd.com.br/repository/UOJ_2834.html) - Fuga
 - [ ]  [2836](https://www.beecrowd.com.br/repository/UOJ_2836.html) - Wifi

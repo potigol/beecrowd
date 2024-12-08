@@ -1,0 +1,6 @@
+a = leia_inteiros(" ")
+l, n = BigInt(a[1]), BigInt(a[2])
+
+saida = (l - n + 1) * (l - n + 1) + n - 1
+
+escreva saida

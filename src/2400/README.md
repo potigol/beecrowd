@@ -1,4 +1,4 @@
-# Problemas 2400 (45%)
+# Problemas 2400 (46%)
 
 - [ ]  [2400](https://www.beecrowd.com.br/repository/UOJ_2400.html) - Balé *Ad-Hoc*
 - [ ]  [2401](https://www.beecrowd.com.br/repository/UOJ_2401.html) - Calculadora *Ad-Hoc*
@@ -72,7 +72,7 @@
 - [x]  [2469](https://www.beecrowd.com.br/repository/UOJ_2469.html) - [Notas](https://github.com/potigol/beecrowd/blob/master/src/2400/2469.poti) *Ad-Hoc*
 - [ ]  [2470](https://www.beecrowd.com.br/repository/UOJ_2470.html) - Jogo da Memória *Ad-Hoc*
 - [ ]  [2471](https://www.beecrowd.com.br/repository/UOJ_2471.html) - Quadrado *Ad-Hoc*
-- [ ]  [2472](https://www.beecrowd.com.br/repository/UOJ_2472.html) - Tapetes *Ad-Hoc*
+- [x]  [2472](https://www.beecrowd.com.br/repository/UOJ_2472.html) - [Tapetes](https://github.com/potigol/beecrowd/blob/master/src/2400/2472.poti) *Ad-Hoc*
 - [x]  [2473](https://www.beecrowd.com.br/repository/UOJ_2473.html) - [Loteria](https://github.com/potigol/beecrowd/blob/master/src/2400/2473.poti) *Ad-Hoc*
 - [ ]  [2474](https://www.beecrowd.com.br/repository/UOJ_2474.html) - Burlando o Sistema *Matemática*
 - [ ]  [2475](https://www.beecrowd.com.br/repository/UOJ_2475.html) - Confecção de Presentes *Paradigmas*

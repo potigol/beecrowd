@@ -1,4 +1,4 @@
-# Ad-Hoc (262 / 892)
+# Ad-Hoc (264 / 892)
 
 
 
@@ -65,6 +65,7 @@
 - [x]  [1574](https://www.beecrowd.com.br/repository/UOJ_1574.html) - [Instruções do Robô](https://github.com/potigol/beecrowd/blob/master/src/1500/1574.poti)
 - [x]  [1609](https://www.beecrowd.com.br/repository/UOJ_1609.html) - [Contando Carneirinhos](https://github.com/potigol/beecrowd/blob/master/src/1600/1609.poti)
 - [x]  [1618](https://www.beecrowd.com.br/repository/UOJ_1618.html) - [Colisão](https://github.com/potigol/beecrowd/blob/master/src/1600/1618.poti)
+- [x]  [1622](https://www.beecrowd.com.br/repository/UOJ_1622.html) - [Lâmpadas](https://github.com/potigol/beecrowd/blob/master/src/1600/1622.poti)
 - [x]  [1708](https://www.beecrowd.com.br/repository/UOJ_1708.html) - [Volta](https://github.com/potigol/beecrowd/blob/master/src/1700/1708.poti)
 - [x]  [1715](https://www.beecrowd.com.br/repository/UOJ_1715.html) - [Handebol](https://github.com/potigol/beecrowd/blob/master/src/1700/1715.poti)
 - [x]  [1743](https://www.beecrowd.com.br/repository/UOJ_1743.html) - [Máquina de Verificação Automatizada](https://github.com/potigol/beecrowd/blob/master/src/1700/1743.poti)
@@ -173,6 +174,7 @@
 - [x]  [2465](https://www.beecrowd.com.br/repository/UOJ_2465.html) - [Passa Bolinha](https://github.com/potigol/beecrowd/blob/master/src/2400/2465.poti)
 - [x]  [2466](https://www.beecrowd.com.br/repository/UOJ_2466.html) - [Sinuca](https://github.com/potigol/beecrowd/blob/master/src/2400/2466.poti)
 - [x]  [2469](https://www.beecrowd.com.br/repository/UOJ_2469.html) - [Notas](https://github.com/potigol/beecrowd/blob/master/src/2400/2469.poti)
+- [x]  [2472](https://www.beecrowd.com.br/repository/UOJ_2472.html) - [Tapetes](https://github.com/potigol/beecrowd/blob/master/src/2400/2472.poti)
 - [x]  [2473](https://www.beecrowd.com.br/repository/UOJ_2473.html) - [Loteria](https://github.com/potigol/beecrowd/blob/master/src/2400/2473.poti)
 - [x]  [2479](https://www.beecrowd.com.br/repository/UOJ_2479.html) - [Ordenando a Lista de Crianças do Papai Noel](https://github.com/potigol/beecrowd/blob/master/src/2400/2479.poti)
 - [x]  [2530](https://www.beecrowd.com.br/repository/UOJ_2530.html) - [Cola](https://github.com/potigol/beecrowd/blob/master/src/2500/2530.poti)
@@ -339,7 +341,6 @@
 - [ ]  [1612](https://www.beecrowd.com.br/repository/UOJ_1612.html) - Formiguinha
 - [ ]  [1615](https://www.beecrowd.com.br/repository/UOJ_1615.html) - Insatisfação nas Eleições
 - [ ]  [1619](https://www.beecrowd.com.br/repository/UOJ_1619.html) - Diferença entre Datas
-- [ ]  [1622](https://www.beecrowd.com.br/repository/UOJ_1622.html) - Lâmpadas
 - [ ]  [1627](https://www.beecrowd.com.br/repository/UOJ_1627.html) - Último Dano
 - [ ]  [1638](https://www.beecrowd.com.br/repository/UOJ_1638.html) - Tamanho da Porção de Comida
 - [ ]  [1639](https://www.beecrowd.com.br/repository/UOJ_1639.html) - Gerando Números Aleatórios
@@ -587,7 +588,6 @@
 - [ ]  [2468](https://www.beecrowd.com.br/repository/UOJ_2468.html) - Mapa
 - [ ]  [2470](https://www.beecrowd.com.br/repository/UOJ_2470.html) - Jogo da Memória
 - [ ]  [2471](https://www.beecrowd.com.br/repository/UOJ_2471.html) - Quadrado
-- [ ]  [2472](https://www.beecrowd.com.br/repository/UOJ_2472.html) - Tapetes
 - [ ]  [2478](https://www.beecrowd.com.br/repository/UOJ_2478.html) - Acerte o Presente
 - [ ]  [2487](https://www.beecrowd.com.br/repository/UOJ_2487.html) - Do Lado Escuro do Código
 - [ ]  [2504](https://www.beecrowd.com.br/repository/UOJ_2504.html) - Biorritmo

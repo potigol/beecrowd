@@ -1,4 +1,4 @@
-# Maratona de Programação (76 / 428)
+# Maratona de Programação (77 / 428)
 
 
 ## 2023
@@ -159,7 +159,7 @@
 
 ### 2ª Fase
 
-- [ ]  [2903](https://www.beecrowd.com.br/repository/UOJ_2903.html) - A Symmetrical Pizza *Matemática*
+- [x]  [2903](https://www.beecrowd.com.br/repository/UOJ_2903.html) - [A Symmetrical Pizza](https://github.com/potigol/beecrowd/blob/master/src/2900/2903.poti) *Matemática*
 - [ ]  [2904](https://www.beecrowd.com.br/repository/UOJ_2904.html) - Building a Field *Ad-Hoc*
 - [ ]  [2905](https://www.beecrowd.com.br/repository/UOJ_2905.html) - Cheap Trips *Ad-Hoc*
 - [x]  [2906](https://www.beecrowd.com.br/repository/UOJ_2906.html) - [Database of Clients](https://github.com/potigol/beecrowd/blob/master/src/2900/2906.poti) *Strings*

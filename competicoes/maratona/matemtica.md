@@ -1,4 +1,4 @@
-# Matemática (4 / 18)
+# Matemática (5 / 18)
 
 
 
@@ -8,6 +8,7 @@
 - [x]  [1323](https://www.beecrowd.com.br/repository/UOJ_1323.html) - [Feynman](https://github.com/potigol/beecrowd/blob/master/src/1300/1323.poti)
 - [x]  [1393](https://www.beecrowd.com.br/repository/UOJ_1393.html) - [Lajotas Hexagonais](https://github.com/potigol/beecrowd/blob/master/src/1300/1393.poti)
 - [x]  [1429](https://www.beecrowd.com.br/repository/UOJ_1429.html) - [Fatorial de Novo!](https://github.com/potigol/beecrowd/blob/master/src/1400/1429.poti)
+- [x]  [2903](https://www.beecrowd.com.br/repository/UOJ_2903.html) - [A Symmetrical Pizza](https://github.com/potigol/beecrowd/blob/master/src/2900/2903.poti)
 
 ## Problemas não resolvidos
 
@@ -24,4 +25,3 @@
 - [ ]  [1492](https://www.beecrowd.com.br/repository/UOJ_1492.html) - Contando Uns
 - [ ]  [1745](https://www.beecrowd.com.br/repository/UOJ_1745.html) - Contando Substhreengs
 - [ ]  [2007](https://www.beecrowd.com.br/repository/UOJ_2007.html) - Falha Ao Cercar Legumes
-- [ ]  [2903](https://www.beecrowd.com.br/repository/UOJ_2903.html) - A Symmetrical Pizza

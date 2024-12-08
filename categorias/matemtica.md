@@ -1,4 +1,4 @@
-# Matemática (95 / 269)
+# Matemática (96 / 269)
 
 
 
@@ -80,6 +80,7 @@
 - [x]  [2839](https://www.beecrowd.com.br/repository/UOJ_2839.html) - [As Meias de Rangel](https://github.com/potigol/beecrowd/blob/master/src/2800/2839.poti)
 - [x]  [2864](https://www.beecrowd.com.br/repository/UOJ_2864.html) - [Qual é a Altura?](https://github.com/potigol/beecrowd/blob/master/src/2800/2864.poti)
 - [x]  [2869](https://www.beecrowd.com.br/repository/UOJ_2869.html) - [Falando em Divisor...](https://github.com/potigol/beecrowd/blob/master/src/2800/2869.poti)
+- [x]  [2903](https://www.beecrowd.com.br/repository/UOJ_2903.html) - [A Symmetrical Pizza](https://github.com/potigol/beecrowd/blob/master/src/2900/2903.poti)
 - [x]  [2939](https://www.beecrowd.com.br/repository/UOJ_2939.html) - [Casais](https://github.com/potigol/beecrowd/blob/master/src/2900/2939.poti)
 - [x]  [2956](https://www.beecrowd.com.br/repository/UOJ_2956.html) - [Derivada de 13 Variáveis](https://github.com/potigol/beecrowd/blob/master/src/2900/2956.poti)
 - [x]  [2981](https://www.beecrowd.com.br/repository/UOJ_2981.html) - [Vamos Fechar](https://github.com/potigol/beecrowd/blob/master/src/2900/2981.poti)
@@ -246,7 +247,6 @@
 - [ ]  [2886](https://www.beecrowd.com.br/repository/UOJ_2886.html) - Kepler
 - [ ]  [2890](https://www.beecrowd.com.br/repository/UOJ_2890.html) - Colorindo Tetraedros
 - [ ]  [2892](https://www.beecrowd.com.br/repository/UOJ_2892.html) - Treino No Velódromo
-- [ ]  [2903](https://www.beecrowd.com.br/repository/UOJ_2903.html) - A Symmetrical Pizza
 - [ ]  [2937](https://www.beecrowd.com.br/repository/UOJ_2937.html) - Cobra Norato
 - [ ]  [2953](https://www.beecrowd.com.br/repository/UOJ_2953.html) - Mais um Joguinho
 - [ ]  [2955](https://www.beecrowd.com.br/repository/UOJ_2955.html) - Truuuuuco!

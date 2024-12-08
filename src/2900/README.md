@@ -1,9 +1,9 @@
-# Problemas 2900 (22%)
+# Problemas 2900 (23%)
 
 - [ ]  [2900](https://www.beecrowd.com.br/repository/UOJ_2900.html) - Jogo de Varetas *Ad-Hoc*
 - [ ]  [2901](https://www.beecrowd.com.br/repository/UOJ_2901.html) - Vôlei Marciano *Ad-Hoc*
 - [ ]  [2902](https://www.beecrowd.com.br/repository/UOJ_2902.html) - Rouba Monte *Ad-Hoc*
-- [ ]  [2903](https://www.beecrowd.com.br/repository/UOJ_2903.html) - A Symmetrical Pizza *Matemática*
+- [x]  [2903](https://www.beecrowd.com.br/repository/UOJ_2903.html) - [A Symmetrical Pizza](https://github.com/potigol/beecrowd/blob/master/src/2900/2903.poti) *Matemática*
 - [ ]  [2904](https://www.beecrowd.com.br/repository/UOJ_2904.html) - Building a Field *Ad-Hoc*
 - [ ]  [2905](https://www.beecrowd.com.br/repository/UOJ_2905.html) - Cheap Trips *Ad-Hoc*
 - [x]  [2906](https://www.beecrowd.com.br/repository/UOJ_2906.html) - [Database of Clients](https://github.com/potigol/beecrowd/blob/master/src/2900/2906.poti) *Strings*

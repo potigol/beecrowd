@@ -1,4 +1,4 @@
-# Problemas 1600 (8%)
+# Problemas 1600 (9%)
 
 - [ ]  [1600](https://www.beecrowd.com.br/repository/UOJ_1600.html) - O Gato do Zelador do Armazém *Paradigmas*
 - [ ]  [1601](https://www.beecrowd.com.br/repository/UOJ_1601.html) - Partição do Rebanho *Paradigmas*
@@ -22,7 +22,7 @@
 - [ ]  [1619](https://www.beecrowd.com.br/repository/UOJ_1619.html) - Diferença entre Datas *Ad-Hoc*
 - [ ]  [1620](https://www.beecrowd.com.br/repository/UOJ_1620.html) - Triangulação de Delaunay *Matemática*
 - [ ]  [1621](https://www.beecrowd.com.br/repository/UOJ_1621.html) - Labirinto *Grafos*
-- [ ]  [1622](https://www.beecrowd.com.br/repository/UOJ_1622.html) - Lâmpadas *Ad-Hoc*
+- [x]  [1622](https://www.beecrowd.com.br/repository/UOJ_1622.html) - [Lâmpadas](https://github.com/potigol/beecrowd/blob/master/src/1600/1622.poti) *Ad-Hoc*
 - [ ]  [1623](https://www.beecrowd.com.br/repository/UOJ_1623.html) - Linguagem *Matemática*
 - [ ]  [1624](https://www.beecrowd.com.br/repository/UOJ_1624.html) - Promoção *Matemática*
 - [ ]  [1625](https://www.beecrowd.com.br/repository/UOJ_1625.html) - Robocopia *Matemática*
