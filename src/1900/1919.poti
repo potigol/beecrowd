@@ -1,0 +1,22 @@
+comb = para a1 de 0 até 5,    a2 de a1+1 até 6,
+            a3 de a2+1 até 7, a4 de a3+1 até 8,
+            a5 de a4+1 até 9 gere [a1,a2,a3,a4,a5]
+       fim
+z = 24 * 11111
+t = leia_inteiro
+para i de 1 até t faça
+  k = leia_inteiro
+  se k < 10 * z então
+    escreva "impossivel"
+  senão
+    resultado = comb.selecione(c => c.injete(0)(_ + _) * z == k)
+    se resultado == [] então
+      escreva "impossivel"
+    senão
+      para c em resultado faça
+        escreva c.junte("{'{'}", "," ,"{'}'}")
+      fim
+    fim
+  fim
+  escreva ""
+fim
