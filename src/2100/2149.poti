@@ -1,0 +1,13 @@
+vet(x, y: BigInt, n: Inteiro): Lista[BigInt] =
+  se n >= 18 então []
+  senão
+    c = se n mod 2 == 0 então x * y senão x + y fim
+    c :: vet(y, c, n + 1)
+  fim
+
+v = 0 :: 1 :: vet(0, 1, 3)
+var a := leia_inteiro
+enquanto a > 0 faça
+  escreva v[a]
+  a := leia_inteiro
+fim
