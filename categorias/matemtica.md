@@ -1,4 +1,4 @@
-# Matemática (96 / 269)
+# Matemática (97 / 269)
 
 
 
@@ -58,6 +58,7 @@
 - [x]  [2066](https://www.beecrowd.com.br/repository/UOJ_2066.html) - [amelborP mU](https://github.com/potigol/beecrowd/blob/master/src/2000/2066.poti)
 - [x]  [2084](https://www.beecrowd.com.br/repository/UOJ_2084.html) - [Eleições](https://github.com/potigol/beecrowd/blob/master/src/2000/2084.poti)
 - [x]  [2129](https://www.beecrowd.com.br/repository/UOJ_2129.html) - [Fatorial](https://github.com/potigol/beecrowd/blob/master/src/2100/2129.poti)
+- [x]  [2149](https://www.beecrowd.com.br/repository/UOJ_2149.html) - [Sequência do Tio Phill Bonati](https://github.com/potigol/beecrowd/blob/master/src/2100/2149.poti)
 - [x]  [2154](https://www.beecrowd.com.br/repository/UOJ_2154.html) - [Derivada de Polinômios](https://github.com/potigol/beecrowd/blob/master/src/2100/2154.poti)
 - [x]  [2170](https://www.beecrowd.com.br/repository/UOJ_2170.html) - [Juros do Projeto](https://github.com/potigol/beecrowd/blob/master/src/2100/2170.poti)
 - [x]  [2180](https://www.beecrowd.com.br/repository/UOJ_2180.html) - [Viagem à Marte na Velocidade de Primo](https://github.com/potigol/beecrowd/blob/master/src/2100/2180.poti)
@@ -214,7 +215,6 @@
 - [ ]  [2135](https://www.beecrowd.com.br/repository/UOJ_2135.html) - Recuperação
 - [ ]  [2145](https://www.beecrowd.com.br/repository/UOJ_2145.html) - A Vida Amorosa dos Números
 - [ ]  [2148](https://www.beecrowd.com.br/repository/UOJ_2148.html) - Banco de Dados
-- [ ]  [2149](https://www.beecrowd.com.br/repository/UOJ_2149.html) - Sequência do Tio Phill Bonati
 - [ ]  [2177](https://www.beecrowd.com.br/repository/UOJ_2177.html) - Rio 2016
 - [ ]  [2222](https://www.beecrowd.com.br/repository/UOJ_2222.html) - Brincando com Conjuntos
 - [ ]  [2291](https://www.beecrowd.com.br/repository/UOJ_2291.html) - Números Divinos

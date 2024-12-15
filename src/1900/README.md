@@ -1,4 +1,4 @@
-# Problemas 1900 (27%)
+# Problemas 1900 (28%)
 
 - [ ]  [1900](https://www.beecrowd.com.br/repository/UOJ_1900.html) - Sequências Nulas *Paradigmas*
 - [x]  [1901](https://www.beecrowd.com.br/repository/UOJ_1901.html) - [Borboletas](https://github.com/potigol/beecrowd/blob/master/src/1900/1901.poti) *Ad-Hoc*
@@ -19,7 +19,7 @@
 - [ ]  [1916](https://www.beecrowd.com.br/repository/UOJ_1916.html) - Banco de Horas de Jaiminho *Ad-Hoc*
 - [ ]  [1917](https://www.beecrowd.com.br/repository/UOJ_1917.html) - Ajude o Chapolin Colorado! *Ad-Hoc*
 - [ ]  [1918](https://www.beecrowd.com.br/repository/UOJ_1918.html) - Viagem para Acapulco *Ad-Hoc*
-- [ ]  [1919](https://www.beecrowd.com.br/repository/UOJ_1919.html) - Ajude Nhonho *Ad-Hoc*
+- [x]  [1919](https://www.beecrowd.com.br/repository/UOJ_1919.html) - [Ajude Nhonho](https://github.com/potigol/beecrowd/blob/master/src/1900/1919.poti) *Ad-Hoc*
 - [ ]  [1920](https://www.beecrowd.com.br/repository/UOJ_1920.html) - Fonte dos Desejos *Ad-Hoc*
 - [x]  [1921](https://www.beecrowd.com.br/repository/UOJ_1921.html) - [Guilherme e Suas Pipas](https://github.com/potigol/beecrowd/blob/master/src/1900/1921.poti) *Matemática*
 - [ ]  [1922](https://www.beecrowd.com.br/repository/UOJ_1922.html) - Diego e o Jogo do Martelo *Paradigmas*

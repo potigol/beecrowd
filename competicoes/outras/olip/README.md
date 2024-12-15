@@ -1,4 +1,4 @@
-# Olimpíada IFSULDEMINAS (79 / 143)
+# Olimpíada IFSULDEMINAS (80 / 143)
 
 
 
@@ -154,7 +154,7 @@
 - [x]  [2146](https://www.beecrowd.com.br/repository/UOJ_2146.html) - [Senha](https://github.com/potigol/beecrowd/blob/master/src/2100/2146.poti) *Iniciante*
 - [x]  [2147](https://www.beecrowd.com.br/repository/UOJ_2147.html) - [Galopeira](https://github.com/potigol/beecrowd/blob/master/src/2100/2147.poti) *Iniciante*
 - [ ]  [2148](https://www.beecrowd.com.br/repository/UOJ_2148.html) - Banco de Dados *Matemática*
-- [ ]  [2149](https://www.beecrowd.com.br/repository/UOJ_2149.html) - Sequência do Tio Phill Bonati *Matemática*
+- [x]  [2149](https://www.beecrowd.com.br/repository/UOJ_2149.html) - [Sequência do Tio Phill Bonati](https://github.com/potigol/beecrowd/blob/master/src/2100/2149.poti) *Matemática*
 - [x]  [2150](https://www.beecrowd.com.br/repository/UOJ_2150.html) - [Vogais Alienígenas](https://github.com/potigol/beecrowd/blob/master/src/2100/2150.poti) *Strings*
 - [ ]  [2151](https://www.beecrowd.com.br/repository/UOJ_2151.html) - Soco do Rulk *Ad-Hoc*
 - [x]  [2152](https://www.beecrowd.com.br/repository/UOJ_2152.html) - [Pepe, Já Tirei a Vela!](https://github.com/potigol/beecrowd/blob/master/src/2100/2152.poti) *Iniciante*

@@ -1,4 +1,4 @@
-# Ad-Hoc (264 / 892)
+# Ad-Hoc (265 / 892)
 
 
 
@@ -86,6 +86,7 @@
 - [x]  [1890](https://www.beecrowd.com.br/repository/UOJ_1890.html) - [Emplacando os Tuk-tuks](https://github.com/potigol/beecrowd/blob/master/src/1800/1890.poti)
 - [x]  [1893](https://www.beecrowd.com.br/repository/UOJ_1893.html) - [Fases da Lua](https://github.com/potigol/beecrowd/blob/master/src/1800/1893.poti)
 - [x]  [1901](https://www.beecrowd.com.br/repository/UOJ_1901.html) - [Borboletas](https://github.com/potigol/beecrowd/blob/master/src/1900/1901.poti)
+- [x]  [1919](https://www.beecrowd.com.br/repository/UOJ_1919.html) - [Ajude Nhonho](https://github.com/potigol/beecrowd/blob/master/src/1900/1919.poti)
 - [x]  [1936](https://www.beecrowd.com.br/repository/UOJ_1936.html) - [Fatorial](https://github.com/potigol/beecrowd/blob/master/src/1900/1936.poti)
 - [x]  [1943](https://www.beecrowd.com.br/repository/UOJ_1943.html) - [Top N](https://github.com/potigol/beecrowd/blob/master/src/1900/1943.poti)
 - [x]  [1953](https://www.beecrowd.com.br/repository/UOJ_1953.html) - [Roberto e a Sala Desenfreada](https://github.com/potigol/beecrowd/blob/master/src/1900/1953.poti)
@@ -404,7 +405,6 @@
 - [ ]  [1916](https://www.beecrowd.com.br/repository/UOJ_1916.html) - Banco de Horas de Jaiminho
 - [ ]  [1917](https://www.beecrowd.com.br/repository/UOJ_1917.html) - Ajude o Chapolin Colorado!
 - [ ]  [1918](https://www.beecrowd.com.br/repository/UOJ_1918.html) - Viagem para Acapulco
-- [ ]  [1919](https://www.beecrowd.com.br/repository/UOJ_1919.html) - Ajude Nhonho
 - [ ]  [1920](https://www.beecrowd.com.br/repository/UOJ_1920.html) - Fonte dos Desejos
 - [ ]  [1934](https://www.beecrowd.com.br/repository/UOJ_1934.html) - Quebra-cabeça
 - [ ]  [1935](https://www.beecrowd.com.br/repository/UOJ_1935.html) - Espiral

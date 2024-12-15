@@ -2,11 +2,14 @@
 /src/*/*[a-z].poti
 /src/*/*.txt
 /*.poti
+/src/*.poti
+/bin/*.poti
 .metals/
 .metals/*
 .vscode/launch.json
 /*.scala
 /src/*/*.scala
+/src/*.scala
 *.java
 *.py
 /*.sh
@@ -16,3 +19,4 @@
 /null/
 /.vscode/
 *.bak
+.*/
