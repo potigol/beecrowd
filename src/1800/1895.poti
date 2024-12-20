@@ -1,0 +1,20 @@
+a = leia_inteiros(" ")
+var n, t := a[1] - 1, a[2]
+l = a[3]
+var pa, pb := 0
+
+para i de 1 até n faça
+    temp = leia_inteiro
+    value = abs(t - temp)
+
+    se value <= l então
+        se i mod 2 == 0 então 
+            pa := pa + value
+        senão
+            pb := pb + value
+        fim
+        t := temp
+    fim
+fim
+
+escreva "{pa} {pb}"
