@@ -1,4 +1,4 @@
-# Ad-Hoc (265 / 892)
+# Ad-Hoc (266 / 892)
 
 
 
@@ -103,6 +103,7 @@
 - [x]  [2217](https://www.beecrowd.com.br/repository/UOJ_2217.html) - [Nove](https://github.com/potigol/beecrowd/blob/master/src/2200/2217.poti)
 - [x]  [2229](https://www.beecrowd.com.br/repository/UOJ_2229.html) - [Dobradura](https://github.com/potigol/beecrowd/blob/master/src/2200/2229.poti)
 - [x]  [2247](https://www.beecrowd.com.br/repository/UOJ_2247.html) - [Cofrinhos da Vó Vitória](https://github.com/potigol/beecrowd/blob/master/src/2200/2247.poti)
+- [x]  [2248](https://www.beecrowd.com.br/repository/UOJ_2248.html) - [Estágio](https://github.com/potigol/beecrowd/blob/master/src/2200/2248.poti)
 - [x]  [2251](https://www.beecrowd.com.br/repository/UOJ_2251.html) - [Torres de Hanói](https://github.com/potigol/beecrowd/blob/master/src/2200/2251.poti)
 - [x]  [2286](https://www.beecrowd.com.br/repository/UOJ_2286.html) - [Par ou Ímpar](https://github.com/potigol/beecrowd/blob/master/src/2200/2286.poti)
 - [x]  [2287](https://www.beecrowd.com.br/repository/UOJ_2287.html) - [Proteja sua Senha](https://github.com/potigol/beecrowd/blob/master/src/2200/2287.poti)
@@ -480,7 +481,6 @@
 - [ ]  [2233](https://www.beecrowd.com.br/repository/UOJ_2233.html) - Etiquetas Coloridas
 - [ ]  [2237](https://www.beecrowd.com.br/repository/UOJ_2237.html) - Containers
 - [ ]  [2244](https://www.beecrowd.com.br/repository/UOJ_2244.html) - Jogos Olímpicos
-- [ ]  [2248](https://www.beecrowd.com.br/repository/UOJ_2248.html) - Estágio
 - [ ]  [2249](https://www.beecrowd.com.br/repository/UOJ_2249.html) - Número de Erdos
 - [ ]  [2250](https://www.beecrowd.com.br/repository/UOJ_2250.html) - Tetris
 - [ ]  [2252](https://www.beecrowd.com.br/repository/UOJ_2252.html) - Descobrindo Senha

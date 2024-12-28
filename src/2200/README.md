@@ -1,4 +1,4 @@
-# Problemas 2200 (23%)
+# Problemas 2200 (24%)
 
 - [ ]  [2200](https://www.beecrowd.com.br/repository/UOJ_2200.html) - Mummy Madness *Ad-Hoc*
 - [ ]  [2201](https://www.beecrowd.com.br/repository/UOJ_2201.html) - Pyramids *Ad-Hoc*
@@ -48,7 +48,7 @@
 - [ ]  [2245](https://www.beecrowd.com.br/repository/UOJ_2245.html) - Kit de Encolhimento de Polígonos *Geometria Computacional*
 - [ ]  [2246](https://www.beecrowd.com.br/repository/UOJ_2246.html) - Ladrilhos *Grafos*
 - [x]  [2247](https://www.beecrowd.com.br/repository/UOJ_2247.html) - [Cofrinhos da Vó Vitória](https://github.com/potigol/beecrowd/blob/master/src/2200/2247.poti) *Ad-Hoc*
-- [ ]  [2248](https://www.beecrowd.com.br/repository/UOJ_2248.html) - Estágio *Ad-Hoc*
+- [x]  [2248](https://www.beecrowd.com.br/repository/UOJ_2248.html) - [Estágio](https://github.com/potigol/beecrowd/blob/master/src/2200/2248.poti) *Ad-Hoc*
 - [ ]  [2249](https://www.beecrowd.com.br/repository/UOJ_2249.html) - Número de Erdos *Ad-Hoc*
 - [ ]  [2250](https://www.beecrowd.com.br/repository/UOJ_2250.html) - Tetris *Ad-Hoc*
 - [x]  [2251](https://www.beecrowd.com.br/repository/UOJ_2251.html) - [Torres de Hanói](https://github.com/potigol/beecrowd/blob/master/src/2200/2251.poti) *Ad-Hoc*

@@ -1,4 +1,4 @@
-# Olimpíada de Informática (104 / 219)
+# Olimpíada de Informática (105 / 219)
 
 
 
@@ -264,7 +264,7 @@
 ## 2003
 
 - [x]  [2247](https://www.beecrowd.com.br/repository/UOJ_2247.html) - [Cofrinhos da Vó Vitória](https://github.com/potigol/beecrowd/blob/master/src/2200/2247.poti) *Ad-Hoc*
-- [ ]  [2248](https://www.beecrowd.com.br/repository/UOJ_2248.html) - Estágio *Ad-Hoc*
+- [x]  [2248](https://www.beecrowd.com.br/repository/UOJ_2248.html) - [Estágio](https://github.com/potigol/beecrowd/blob/master/src/2200/2248.poti) *Ad-Hoc*
 - [ ]  [2249](https://www.beecrowd.com.br/repository/UOJ_2249.html) - Número de Erdos *Ad-Hoc*
 - [ ]  [2250](https://www.beecrowd.com.br/repository/UOJ_2250.html) - Tetris *Ad-Hoc*
 - [x]  [2251](https://www.beecrowd.com.br/repository/UOJ_2251.html) - [Torres de Hanói](https://github.com/potigol/beecrowd/blob/master/src/2200/2251.poti) *Ad-Hoc*

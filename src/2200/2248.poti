@@ -1,0 +1,21 @@
+var z := 1
+var n := leia_inteiro
+enquanto n > 0 faça
+  var maior := -1
+  var alunos: Lista[Inteiro] = []
+  para i de 1 ate n faça
+   a = leia_inteiros(" ")
+   se a[2] > maior então
+     maior := a[2]
+     alunos := [a[1]]
+   senãose a[2] == maior
+     alunos := a[1] :: alunos
+   fim
+  fim
+  escreva "Turma {z}"
+  imprima alunos.inverta.junte(" ")
+  escreva " "
+  escreva ""
+  z := z + 1
+  n := leia_inteiro
+fim
