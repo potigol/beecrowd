@@ -1,4 +1,4 @@
-# Problemas 2800 (34%)
+# Problemas 2800 (35%)
 
 - [ ]  [2800](https://www.beecrowd.com.br/repository/UOJ_2800.html) - Brincando de Consultas *Estruturas e Bibliotecas*
 - [ ]  [2801](https://www.beecrowd.com.br/repository/UOJ_2801.html) - Cifra Affine *Matemática*
@@ -27,7 +27,7 @@
 - [ ]  [2824](https://www.beecrowd.com.br/repository/UOJ_2824.html) - Pudim *Strings*
 - [ ]  [2825](https://www.beecrowd.com.br/repository/UOJ_2825.html) - L de Atreus!? *Strings*
 - [x]  [2826](https://www.beecrowd.com.br/repository/UOJ_2826.html) - [Léxico](https://github.com/potigol/beecrowd/blob/master/src/2800/2826.poti) *Iniciante*
-- [ ]  [2827](https://www.beecrowd.com.br/repository/UOJ_2827.html) - Contador de Tokens *Strings*
+- [x]  [2827](https://www.beecrowd.com.br/repository/UOJ_2827.html) - [Contador de Tokens](https://github.com/potigol/beecrowd/blob/master/src/2800/2827.poti) *Strings*
 - [ ]  [2828](https://www.beecrowd.com.br/repository/UOJ_2828.html) - Anagramas *Matemática*
 - [ ]  [2829](https://www.beecrowd.com.br/repository/UOJ_2829.html) - Maiúsculas, Por Quê? *Ad-Hoc*
 - [x]  [2830](https://www.beecrowd.com.br/repository/UOJ_2830.html) - [Copa](https://github.com/potigol/beecrowd/blob/master/src/2800/2830.poti) *Ad-Hoc*

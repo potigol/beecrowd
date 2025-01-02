@@ -1,4 +1,4 @@
-# Strings (78 / 149)
+# Strings (79 / 149)
 
 
 
@@ -68,6 +68,7 @@
 - [x]  [2722](https://www.beecrowd.com.br/repository/UOJ_2722.html) - [Pegadinha de Evergreen](https://github.com/potigol/beecrowd/blob/master/src/2700/2722.poti)
 - [x]  [2728](https://www.beecrowd.com.br/repository/UOJ_2728.html) - [Grace Hopper, a Vovó do Cobol](https://github.com/potigol/beecrowd/blob/master/src/2700/2728.poti)
 - [x]  [2815](https://www.beecrowd.com.br/repository/UOJ_2815.html) - [Digitador Gago](https://github.com/potigol/beecrowd/blob/master/src/2800/2815.poti)
+- [x]  [2827](https://www.beecrowd.com.br/repository/UOJ_2827.html) - [Contador de Tokens](https://github.com/potigol/beecrowd/blob/master/src/2800/2827.poti)
 - [x]  [2866](https://www.beecrowd.com.br/repository/UOJ_2866.html) - [Criptotexto](https://github.com/potigol/beecrowd/blob/master/src/2800/2866.poti)
 - [x]  [2880](https://www.beecrowd.com.br/repository/UOJ_2880.html) - [Enigma](https://github.com/potigol/beecrowd/blob/master/src/2800/2880.poti)
 - [x]  [2906](https://www.beecrowd.com.br/repository/UOJ_2906.html) - [Database of Clients](https://github.com/potigol/beecrowd/blob/master/src/2900/2906.poti)
@@ -141,7 +142,6 @@
 - [ ]  [2697](https://www.beecrowd.com.br/repository/UOJ_2697.html) - Sequencia Completa de Naebbirac
 - [ ]  [2824](https://www.beecrowd.com.br/repository/UOJ_2824.html) - Pudim
 - [ ]  [2825](https://www.beecrowd.com.br/repository/UOJ_2825.html) - L de Atreus!?
-- [ ]  [2827](https://www.beecrowd.com.br/repository/UOJ_2827.html) - Contador de Tokens
 - [ ]  [2954](https://www.beecrowd.com.br/repository/UOJ_2954.html) - O Jogo
 - [ ]  [2960](https://www.beecrowd.com.br/repository/UOJ_2960.html) - Era Uma Vez…
 - [ ]  [2974](https://www.beecrowd.com.br/repository/UOJ_2974.html) - Fechadura

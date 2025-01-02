@@ -1,0 +1,14 @@
+s = leia_texto.minúsculo.lista
+tokens = s.zip(s.cauda)
+          .selecione(a => a.primeiro <> ' ' e a.segundo <> ' ')
+          .mapeie(a => "{a.primeiro}{a.segundo}")
+          .ordene
+          .divida_quando(_ <> _)
+          .ordene(_.tamanho)
+          .inverta
+          .divida_quando(_.tamanho <> _.tamanho)
+          .cabeça
+          .ordene(_.cabeça)
+          .cabeça
+
+escreva "{tokens.cabeça}:{tokens.tamanho}"
