@@ -1,0 +1,8 @@
+var a := leia_inteiros(" ")
+enquanto não eof faça
+  m = a[2]
+  v = leia_inteiros(" ")
+  soma = v.ordene.inverta.pegue(m).injete(0)(_ + _)
+  escreva soma
+  a := leia_inteiros(" ")
+fim

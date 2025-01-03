@@ -1,4 +1,4 @@
-# Problemas 2500 (34%)
+# Problemas 2500 (35%)
 
 - [ ]  [2500](https://www.beecrowd.com.br/repository/UOJ_2500.html) - William Xorando *Matemática*
 - [ ]  [2501](https://www.beecrowd.com.br/repository/UOJ_2501.html) - Fatores Permitidos *Paradigmas*
@@ -48,7 +48,7 @@
 - [ ]  [2545](https://www.beecrowd.com.br/repository/UOJ_2545.html) - Manyfile *Grafos*
 - [ ]  [2546](https://www.beecrowd.com.br/repository/UOJ_2546.html) - Mesada *Estruturas e Bibliotecas*
 - [x]  [2547](https://www.beecrowd.com.br/repository/UOJ_2547.html) - [Montanha-Russa](https://github.com/potigol/beecrowd/blob/master/src/2500/2547.poti) *Iniciante*
-- [ ]  [2548](https://www.beecrowd.com.br/repository/UOJ_2548.html) - Museu Virtual 3D *Ad-Hoc*
+- [x]  [2548](https://www.beecrowd.com.br/repository/UOJ_2548.html) - [Museu Virtual 3D](https://github.com/potigol/beecrowd/blob/master/src/2500/2548.poti) *Ad-Hoc*
 - [ ]  [2549](https://www.beecrowd.com.br/repository/UOJ_2549.html) - Nomes de Usuários *Strings*
 - [ ]  [2550](https://www.beecrowd.com.br/repository/UOJ_2550.html) - Novo Campus *Grafos*
 - [x]  [2551](https://www.beecrowd.com.br/repository/UOJ_2551.html) - [Novo Recorde](https://github.com/potigol/beecrowd/blob/master/src/2500/2551.poti) *Iniciante*

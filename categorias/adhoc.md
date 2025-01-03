@@ -1,4 +1,4 @@
-# Ad-Hoc (266 / 892)
+# Ad-Hoc (267 / 892)
 
 
 
@@ -180,6 +180,7 @@
 - [x]  [2473](https://www.beecrowd.com.br/repository/UOJ_2473.html) - [Loteria](https://github.com/potigol/beecrowd/blob/master/src/2400/2473.poti)
 - [x]  [2479](https://www.beecrowd.com.br/repository/UOJ_2479.html) - [Ordenando a Lista de Crianças do Papai Noel](https://github.com/potigol/beecrowd/blob/master/src/2400/2479.poti)
 - [x]  [2530](https://www.beecrowd.com.br/repository/UOJ_2530.html) - [Cola](https://github.com/potigol/beecrowd/blob/master/src/2500/2530.poti)
+- [x]  [2548](https://www.beecrowd.com.br/repository/UOJ_2548.html) - [Museu Virtual 3D](https://github.com/potigol/beecrowd/blob/master/src/2500/2548.poti)
 - [x]  [2556](https://www.beecrowd.com.br/repository/UOJ_2556.html) - [Reinauguração do CEI](https://github.com/potigol/beecrowd/blob/master/src/2500/2556.poti)
 - [x]  [2568](https://www.beecrowd.com.br/repository/UOJ_2568.html) - [Ações](https://github.com/potigol/beecrowd/blob/master/src/2500/2568.poti)
 - [x]  [2569](https://www.beecrowd.com.br/repository/UOJ_2569.html) - [A Bruxa do 7 x 1](https://github.com/potigol/beecrowd/blob/master/src/2500/2569.poti)
@@ -598,7 +599,6 @@
 - [ ]  [2513](https://www.beecrowd.com.br/repository/UOJ_2513.html) - Xoringan
 - [ ]  [2515](https://www.beecrowd.com.br/repository/UOJ_2515.html) - Bolacha
 - [ ]  [2536](https://www.beecrowd.com.br/repository/UOJ_2536.html) - FHBZMIPS
-- [ ]  [2548](https://www.beecrowd.com.br/repository/UOJ_2548.html) - Museu Virtual 3D
 - [ ]  [2564](https://www.beecrowd.com.br/repository/UOJ_2564.html) - Troca ou Não Troca
 - [ ]  [2565](https://www.beecrowd.com.br/repository/UOJ_2565.html) - Tubos de Ensaio
 - [ ]  [2567](https://www.beecrowd.com.br/repository/UOJ_2567.html) - Virus
