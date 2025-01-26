@@ -1,4 +1,4 @@
-# Problemas 1200 (49%)
+# Problemas 1200 (50%)
 
 - [x]  [1200](https://www.beecrowd.com.br/repository/UOJ_1200.html) - [Operações em ABP I](https://github.com/potigol/beecrowd/blob/master/src/1200/1200.poti) *Grafos*
 - [ ]  [1201](https://www.beecrowd.com.br/repository/UOJ_1201.html) - Operações em ABP II *Grafos*
@@ -92,7 +92,7 @@
 - [ ]  [1289](https://www.beecrowd.com.br/repository/UOJ_1289.html) - Qual é a Probabilidade? *Matemática*
 - [ ]  [1290](https://www.beecrowd.com.br/repository/UOJ_1290.html) - Caixas Muito Especiais *Ad-Hoc*
 - [ ]  [1291](https://www.beecrowd.com.br/repository/UOJ_1291.html) - Será Isso Integração? *Geometria Computacional*
-- [ ]  [1292](https://www.beecrowd.com.br/repository/UOJ_1292.html) - Problema com um Pentágono *Geometria Computacional*
+- [x]  [1292](https://www.beecrowd.com.br/repository/UOJ_1292.html) - [Problema com um Pentágono](https://github.com/potigol/beecrowd/blob/master/src/1200/1292.poti) *Geometria Computacional*
 - [ ]  [1293](https://www.beecrowd.com.br/repository/UOJ_1293.html) - Romeu e Julieta! *Geometria Computacional*
 - [ ]  [1294](https://www.beecrowd.com.br/repository/UOJ_1294.html) - A Maior e Menor Caixa *Geometria Computacional*
 - [ ]  [1295](https://www.beecrowd.com.br/repository/UOJ_1295.html) - Problema dos Pares Mais Próximos *Geometria Computacional*

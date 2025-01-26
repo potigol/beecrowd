@@ -1,0 +1,6 @@
+k = sen(108 * PI / 180) / sen(63 * PI / 180)
+var p := leia_texto
+enquanto nao eof faça
+  escreva (k * p.real) formato "%.10f"
+  p := leia_texto
+fim

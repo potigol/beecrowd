@@ -1,4 +1,4 @@
-# Problemas 2900 (23%)
+# Problemas 2900 (24%)
 
 - [ ]  [2900](https://www.beecrowd.com.br/repository/UOJ_2900.html) - Jogo de Varetas *Ad-Hoc*
 - [ ]  [2901](https://www.beecrowd.com.br/repository/UOJ_2901.html) - Vôlei Marciano *Ad-Hoc*
@@ -53,7 +53,7 @@
 - [x]  [2950](https://www.beecrowd.com.br/repository/UOJ_2950.html) - [As Duas Torres](https://github.com/potigol/beecrowd/blob/master/src/2900/2950.poti) *Iniciante*
 - [x]  [2951](https://www.beecrowd.com.br/repository/UOJ_2951.html) - [O Retorno do Rei](https://github.com/potigol/beecrowd/blob/master/src/2900/2951.poti) *Iniciante*
 - [ ]  [2952](https://www.beecrowd.com.br/repository/UOJ_2952.html) - A Vida Sustentável *Estruturas e Bibliotecas*
-- [ ]  [2953](https://www.beecrowd.com.br/repository/UOJ_2953.html) - Mais um Joguinho *Matemática*
+- [x]  [2953](https://www.beecrowd.com.br/repository/UOJ_2953.html) - [Mais um Joguinho](https://github.com/potigol/beecrowd/blob/master/src/2900/2953.poti) *Matemática*
 - [ ]  [2954](https://www.beecrowd.com.br/repository/UOJ_2954.html) - O Jogo *Strings*
 - [ ]  [2955](https://www.beecrowd.com.br/repository/UOJ_2955.html) - Truuuuuco! *Matemática*
 - [x]  [2956](https://www.beecrowd.com.br/repository/UOJ_2956.html) - [Derivada de 13 Variáveis](https://github.com/potigol/beecrowd/blob/master/src/2900/2956.poti) *Matemática*

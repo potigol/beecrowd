@@ -1,10 +1,11 @@
-# Geometria Computacional (8 / 83)
+# Geometria Computacional (9 / 83)
 
 
 
 ## Problemas resolvidos
 
 - [x]  [1039](https://www.beecrowd.com.br/repository/UOJ_1039.html) - [Flores de Fogo](https://github.com/potigol/beecrowd/blob/master/src/1000/1039.poti)
+- [x]  [1292](https://www.beecrowd.com.br/repository/UOJ_1292.html) - [Problema com um Pentágono](https://github.com/potigol/beecrowd/blob/master/src/1200/1292.poti)
 - [x]  [1296](https://www.beecrowd.com.br/repository/UOJ_1296.html) - [Medianas](https://github.com/potigol/beecrowd/blob/master/src/1200/1296.poti)
 - [x]  [1549](https://www.beecrowd.com.br/repository/UOJ_1549.html) - [Dividindo a Coca](https://github.com/potigol/beecrowd/blob/master/src/1500/1549.poti)
 - [x]  [1875](https://www.beecrowd.com.br/repository/UOJ_1875.html) - [Tribol](https://github.com/potigol/beecrowd/blob/master/src/1800/1875.poti)
@@ -24,7 +25,6 @@
 - [ ]  [1223](https://www.beecrowd.com.br/repository/UOJ_1223.html) - Tobogan de Bolinhas
 - [ ]  [1268](https://www.beecrowd.com.br/repository/UOJ_1268.html) - Missão Impossível
 - [ ]  [1291](https://www.beecrowd.com.br/repository/UOJ_1291.html) - Será Isso Integração?
-- [ ]  [1292](https://www.beecrowd.com.br/repository/UOJ_1292.html) - Problema com um Pentágono
 - [ ]  [1293](https://www.beecrowd.com.br/repository/UOJ_1293.html) - Romeu e Julieta!
 - [ ]  [1294](https://www.beecrowd.com.br/repository/UOJ_1294.html) - A Maior e Menor Caixa
 - [ ]  [1295](https://www.beecrowd.com.br/repository/UOJ_1295.html) - Problema dos Pares Mais Próximos

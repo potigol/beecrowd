@@ -1,0 +1,11 @@
+MOD = 1000000007
+
+contar_possibilidades(n, d1, d2, d3: Inteiro): Inteiro =
+  se  n < 1 então
+    d1
+  senão
+    contar_possibilidades(n - 1, (d2 + d3) mod MOD, d1, d2)
+  fim
+
+n = leia_inteiro
+escreva contar_possibilidades(n, 0, 0, 1)

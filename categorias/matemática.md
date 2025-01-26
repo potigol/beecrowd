@@ -1,4 +1,4 @@
-# Matemática (97 / 269)
+# Matemática (98 / 269)
 
 
 
@@ -83,6 +83,7 @@
 - [x]  [2869](https://www.beecrowd.com.br/repository/UOJ_2869.html) - [Falando em Divisor...](https://github.com/potigol/beecrowd/blob/master/src/2800/2869.poti)
 - [x]  [2903](https://www.beecrowd.com.br/repository/UOJ_2903.html) - [A Symmetrical Pizza](https://github.com/potigol/beecrowd/blob/master/src/2900/2903.poti)
 - [x]  [2939](https://www.beecrowd.com.br/repository/UOJ_2939.html) - [Casais](https://github.com/potigol/beecrowd/blob/master/src/2900/2939.poti)
+- [x]  [2953](https://www.beecrowd.com.br/repository/UOJ_2953.html) - [Mais um Joguinho](https://github.com/potigol/beecrowd/blob/master/src/2900/2953.poti)
 - [x]  [2956](https://www.beecrowd.com.br/repository/UOJ_2956.html) - [Derivada de 13 Variáveis](https://github.com/potigol/beecrowd/blob/master/src/2900/2956.poti)
 - [x]  [2981](https://www.beecrowd.com.br/repository/UOJ_2981.html) - [Vamos Fechar](https://github.com/potigol/beecrowd/blob/master/src/2900/2981.poti)
 - [x]  [2983](https://www.beecrowd.com.br/repository/UOJ_2983.html) - [Nem Tudo é Greve](https://github.com/potigol/beecrowd/blob/master/src/2900/2983.poti)
@@ -248,7 +249,6 @@
 - [ ]  [2890](https://www.beecrowd.com.br/repository/UOJ_2890.html) - Colorindo Tetraedros
 - [ ]  [2892](https://www.beecrowd.com.br/repository/UOJ_2892.html) - Treino No Velódromo
 - [ ]  [2937](https://www.beecrowd.com.br/repository/UOJ_2937.html) - Cobra Norato
-- [ ]  [2953](https://www.beecrowd.com.br/repository/UOJ_2953.html) - Mais um Joguinho
 - [ ]  [2955](https://www.beecrowd.com.br/repository/UOJ_2955.html) - Truuuuuco!
 - [ ]  [2978](https://www.beecrowd.com.br/repository/UOJ_2978.html) - Cartão
 - [ ]  [3002](https://www.beecrowd.com.br/repository/UOJ_3002.html) - Salve a Lilly!
