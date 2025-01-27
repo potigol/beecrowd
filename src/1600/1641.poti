@@ -1,0 +1,14 @@
+var pizza := 0
+
+var entrada := leia_texto
+enquanto entrada <> "0" faça
+  dados = entrada.divida(" ").mapeie(_.inteiro)
+  r, w, l = dados[1], dados[2], dados[3]
+  pizza := pizza + 1
+  se 4 * r*r >= w*w + l*l então
+    escreva "Pizza {pizza} fits on the table."
+  senão
+    escreva "Pizza {pizza} does not fit on the table."
+  fim
+  entrada := leia_texto
+fim

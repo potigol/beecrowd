@@ -1,4 +1,4 @@
-# Problemas 1600 (9%)
+# Problemas 1600 (10%)
 
 - [ ]  [1600](https://www.beecrowd.com.br/repository/UOJ_1600.html) - O Gato do Zelador do Armazém *Paradigmas*
 - [ ]  [1601](https://www.beecrowd.com.br/repository/UOJ_1601.html) - Partição do Rebanho *Paradigmas*
@@ -41,7 +41,7 @@
 - [ ]  [1638](https://www.beecrowd.com.br/repository/UOJ_1638.html) - Tamanho da Porção de Comida *Ad-Hoc*
 - [ ]  [1639](https://www.beecrowd.com.br/repository/UOJ_1639.html) - Gerando Números Aleatórios *Ad-Hoc*
 - [ ]  [1640](https://www.beecrowd.com.br/repository/UOJ_1640.html) - Reservando Hotéis *Estruturas e Bibliotecas*
-- [ ]  [1641](https://www.beecrowd.com.br/repository/UOJ_1641.html) - Restaurante e Pizzaria do Alfredo *Matemática*
+- [x]  [1641](https://www.beecrowd.com.br/repository/UOJ_1641.html) - [Restaurante e Pizzaria do Alfredo](https://github.com/potigol/beecrowd/blob/master/src/1600/1641.poti) *Matemática*
 - [ ]  [1642](https://www.beecrowd.com.br/repository/UOJ_1642.html) - Teclado Quebrado *Paradigmas*
 - [ ]  [1643](https://www.beecrowd.com.br/repository/UOJ_1643.html) - Converter Quilômetros para Milhas *Paradigmas*
 - [ ]  [1644](https://www.beecrowd.com.br/repository/UOJ_1644.html) - Decifre o Texto *Matemática*

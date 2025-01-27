@@ -1,4 +1,4 @@
-# Matemática (98 / 269)
+# Matemática (99 / 269)
 
 
 
@@ -44,6 +44,7 @@
 - [x]  [1582](https://www.beecrowd.com.br/repository/UOJ_1582.html) - [O Teorema de Pitágoras](https://github.com/potigol/beecrowd/blob/master/src/1500/1582.poti)
 - [x]  [1585](https://www.beecrowd.com.br/repository/UOJ_1585.html) - [Fazendo Pandorgas](https://github.com/potigol/beecrowd/blob/master/src/1500/1585.poti)
 - [x]  [1630](https://www.beecrowd.com.br/repository/UOJ_1630.html) - [Estacas](https://github.com/potigol/beecrowd/blob/master/src/1600/1630.poti)
+- [x]  [1641](https://www.beecrowd.com.br/repository/UOJ_1641.html) - [Restaurante e Pizzaria do Alfredo](https://github.com/potigol/beecrowd/blob/master/src/1600/1641.poti)
 - [x]  [1647](https://www.beecrowd.com.br/repository/UOJ_1647.html) - [Um Jogo com Bolas de Gude](https://github.com/potigol/beecrowd/blob/master/src/1600/1647.poti)
 - [x]  [1650](https://www.beecrowd.com.br/repository/UOJ_1650.html) - [Pintura Preto e Branco](https://github.com/potigol/beecrowd/blob/master/src/1600/1650.poti)
 - [x]  [1754](https://www.beecrowd.com.br/repository/UOJ_1754.html) - [A Sala do Tempo](https://github.com/potigol/beecrowd/blob/master/src/1700/1754.poti)
@@ -154,7 +155,6 @@
 - [ ]  [1626](https://www.beecrowd.com.br/repository/UOJ_1626.html) - Maratona All FACE
 - [ ]  [1634](https://www.beecrowd.com.br/repository/UOJ_1634.html) - Outra Loteria
 - [ ]  [1635](https://www.beecrowd.com.br/repository/UOJ_1635.html) - Resultado das Eleições
-- [ ]  [1641](https://www.beecrowd.com.br/repository/UOJ_1641.html) - Restaurante e Pizzaria do Alfredo
 - [ ]  [1644](https://www.beecrowd.com.br/repository/UOJ_1644.html) - Decifre o Texto
 - [ ]  [1656](https://www.beecrowd.com.br/repository/UOJ_1656.html) - Doces do Dia das Bruxas
 - [ ]  [1658](https://www.beecrowd.com.br/repository/UOJ_1658.html) - Grupos Diedro
