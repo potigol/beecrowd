@@ -1,0 +1,6 @@
+mdc(a, b: Inteiro): Inteiro = se b == 0 então a senão mdc(b, a mod b) fim
+
+entrada = leia_inteiros(" ")
+a = entrada[1]
+b = entrada[2]
+escreva mdc(a, b)
