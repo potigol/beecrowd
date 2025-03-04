@@ -1,4 +1,4 @@
-# Matemática (99 / 269)
+# Matemática (100 / 269)
 
 
 
@@ -71,6 +71,7 @@
 - [x]  [2514](https://www.beecrowd.com.br/repository/UOJ_2514.html) - [Alinhamento Lunar](https://github.com/potigol/beecrowd/blob/master/src/2500/2514.poti)
 - [x]  [2516](https://www.beecrowd.com.br/repository/UOJ_2516.html) - [Corrida](https://github.com/potigol/beecrowd/blob/master/src/2500/2516.poti)
 - [x]  [2584](https://www.beecrowd.com.br/repository/UOJ_2584.html) - [Pentágono](https://github.com/potigol/beecrowd/blob/master/src/2500/2584.poti)
+- [x]  [2589](https://www.beecrowd.com.br/repository/UOJ_2589.html) - [Maior Distância Entre Primos Consecutivos](https://github.com/potigol/beecrowd/blob/master/src/2500/2589.poti)
 - [x]  [2596](https://www.beecrowd.com.br/repository/UOJ_2596.html) - [Xenlonguinho](https://github.com/potigol/beecrowd/blob/master/src/2500/2596.poti)
 - [x]  [2597](https://www.beecrowd.com.br/repository/UOJ_2597.html) - [Xenlongão](https://github.com/potigol/beecrowd/blob/master/src/2500/2597.poti)
 - [x]  [2598](https://www.beecrowd.com.br/repository/UOJ_2598.html) - [Colocando Radares](https://github.com/potigol/beecrowd/blob/master/src/2500/2598.poti)
@@ -227,7 +228,6 @@
 - [ ]  [2499](https://www.beecrowd.com.br/repository/UOJ_2499.html) - Triângulo Interno
 - [ ]  [2500](https://www.beecrowd.com.br/repository/UOJ_2500.html) - William Xorando
 - [ ]  [2505](https://www.beecrowd.com.br/repository/UOJ_2505.html) - Autopotencial
-- [ ]  [2589](https://www.beecrowd.com.br/repository/UOJ_2589.html) - Maior Distância Entre Primos Consecutivos
 - [ ]  [2636](https://www.beecrowd.com.br/repository/UOJ_2636.html) - 3-RSA
 - [ ]  [2660](https://www.beecrowd.com.br/repository/UOJ_2660.html) - Cigarras Periódicas
 - [ ]  [2668](https://www.beecrowd.com.br/repository/UOJ_2668.html) - K-ésimo

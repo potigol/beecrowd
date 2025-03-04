@@ -1,4 +1,4 @@
-# Problemas 3400 (34%)
+# Problemas 3400 (36%)
 
 - [ ]  [3400](https://www.beecrowd.com.br/repository/UOJ_3400.html) - Amigo não tão secreto assim *Ad-Hoc*
 - [ ]  [3401](https://www.beecrowd.com.br/repository/UOJ_3401.html) - Bicho da Goiaba Ataca Novamente *Ad-Hoc*
@@ -71,7 +71,7 @@
 - [x]  [3468](https://www.beecrowd.com.br/repository/UOJ_3468.html) - [Faça mais, mas faça melhor!](https://github.com/potigol/beecrowd/blob/master/src/3400/3468.poti) *Ad-Hoc*
 - [x]  [3469](https://www.beecrowd.com.br/repository/UOJ_3469.html) - [In Site](https://github.com/potigol/beecrowd/blob/master/src/3400/3469.poti) *Ad-Hoc*
 - [ ]  [3470](https://www.beecrowd.com.br/repository/UOJ_3470.html) - Jogo do 8 *Ad-Hoc*
-- [ ]  [3471](https://www.beecrowd.com.br/repository/UOJ_3471.html) - Kashmir *Ad-Hoc*
+- [x]  [3471](https://www.beecrowd.com.br/repository/UOJ_3471.html) - [Kashmir](https://github.com/potigol/beecrowd/blob/master/src/3400/3471.poti) *Ad-Hoc*
 - [ ]  [3472](https://www.beecrowd.com.br/repository/UOJ_3472.html) - Lá em cima do piano *Ad-Hoc*
 - [x]  [3473](https://www.beecrowd.com.br/repository/UOJ_3473.html) - [Alerte o próximo!](https://github.com/potigol/beecrowd/blob/master/src/3400/3473.poti) *Ad-Hoc*
 - [x]  [3474](https://www.beecrowd.com.br/repository/UOJ_3474.html) - [Boa divisão](https://github.com/potigol/beecrowd/blob/master/src/3400/3474.poti) *Ad-Hoc*

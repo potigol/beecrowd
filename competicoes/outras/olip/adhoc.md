@@ -1,4 +1,4 @@
-# Ad-Hoc (24 / 53)
+# Ad-Hoc (25 / 53)
 
 
 
@@ -22,6 +22,7 @@
 - [x]  [3467](https://www.beecrowd.com.br/repository/UOJ_3467.html) - [Esse é o meu lugar!](https://github.com/potigol/beecrowd/blob/master/src/3400/3467.poti)
 - [x]  [3468](https://www.beecrowd.com.br/repository/UOJ_3468.html) - [Faça mais, mas faça melhor!](https://github.com/potigol/beecrowd/blob/master/src/3400/3468.poti)
 - [x]  [3469](https://www.beecrowd.com.br/repository/UOJ_3469.html) - [In Site](https://github.com/potigol/beecrowd/blob/master/src/3400/3469.poti)
+- [x]  [3471](https://www.beecrowd.com.br/repository/UOJ_3471.html) - [Kashmir](https://github.com/potigol/beecrowd/blob/master/src/3400/3471.poti)
 - [x]  [3473](https://www.beecrowd.com.br/repository/UOJ_3473.html) - [Alerte o próximo!](https://github.com/potigol/beecrowd/blob/master/src/3400/3473.poti)
 - [x]  [3474](https://www.beecrowd.com.br/repository/UOJ_3474.html) - [Boa divisão](https://github.com/potigol/beecrowd/blob/master/src/3400/3474.poti)
 - [x]  [3475](https://www.beecrowd.com.br/repository/UOJ_3475.html) - [Conversor](https://github.com/potigol/beecrowd/blob/master/src/3400/3475.poti)
@@ -57,6 +58,5 @@
 - [ ]  [3411](https://www.beecrowd.com.br/repository/UOJ_3411.html) - Lá vai tinta!
 - [ ]  [3466](https://www.beecrowd.com.br/repository/UOJ_3466.html) - Dados do Multiverso
 - [ ]  [3470](https://www.beecrowd.com.br/repository/UOJ_3470.html) - Jogo do 8
-- [ ]  [3471](https://www.beecrowd.com.br/repository/UOJ_3471.html) - Kashmir
 - [ ]  [3472](https://www.beecrowd.com.br/repository/UOJ_3472.html) - Lá em cima do piano
 - [ ]  [3478](https://www.beecrowd.com.br/repository/UOJ_3478.html) - Geiapan

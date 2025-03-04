@@ -1,0 +1,74 @@
+resultado(n: Int, saida: StringBuilder) =
+  se n >= 436273291 então
+    saida.append("282\n")
+  senãose n >= 387096383 então
+    saida.append("250\n")
+  senãose n >= 191913031 então
+    saida.append("248\n")
+  senãose n >= 189695893 então
+    saida.append("234\n")
+  senãose n >= 122164969 então
+    saida.append("222\n")
+  senãose n >= 47326913 então
+    saida.append("220\n")
+  senãose n >= 20831533 então
+    saida.append("210\n")
+  senãose n >= 17051887 então
+    saida.append("180\n")
+  senãose n >= 4652507 então
+    saida.append("154\n")
+  senãose n >= 2010881 então
+    saida.append("148\n")
+  senãose n >= 1357333 então
+    saida.append("132\n")
+  senãose n >= 1349651 então
+    saida.append("118\n")
+  senãose n >= 492227 então
+    saida.append("114\n")
+  senãose n >= 370373 então
+    saida.append("112\n")
+  senãose n >= 360749 então
+    saida.append("96\n")
+  senãose n >= 156007 então
+    saida.append("86\n")
+  senãose n >= 31469 então
+    saida.append("72\n")
+  senãose n >= 19661 então
+    saida.append("52\n")
+  senãose n >= 15727 então
+    saida.append("44\n")
+  senãose n >= 9587 então
+    saida.append("36\n")
+  senãose n >= 1361 então
+    saida.append("34\n")
+  senãose n >= 1151 então
+    saida.append("22\n")
+  senãose n >= 907 então
+    saida.append("20\n")
+  senãose n >= 541 então
+    saida.append("18\n")
+  senãose n >= 127 então
+    saida.append("14\n")
+  senãose n >= 97 então
+    saida.append("8\n")
+  senãose n >= 29 então
+    saida.append("6\n")
+  senãose n >= 11 então
+    saida.append("4\n")
+  senãose n >= 5 então
+    saida.append("2\n")
+  senãose n >= 3 então
+    saida.append("1\n")
+  senão
+    saida.append("0\n")
+  fim
+
+var a := leia_inteiro
+saida = StringBuilder.newBuilder
+
+enquanto a > 0 faça
+  resultado(a, saida)
+  a := leia_inteiro
+fim
+
+imprima saida

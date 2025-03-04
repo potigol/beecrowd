@@ -1,4 +1,4 @@
-# Problemas 2500 (35%)
+# Problemas 2500 (36%)
 
 - [ ]  [2500](https://www.beecrowd.com.br/repository/UOJ_2500.html) - William Xorando *Matemática*
 - [ ]  [2501](https://www.beecrowd.com.br/repository/UOJ_2501.html) - Fatores Permitidos *Paradigmas*
@@ -89,7 +89,7 @@
 - [ ]  [2586](https://www.beecrowd.com.br/repository/UOJ_2586.html) - Cubonacci *Ad-Hoc*
 - [x]  [2587](https://www.beecrowd.com.br/repository/UOJ_2587.html) - [Jetiqui](https://github.com/potigol/beecrowd/blob/master/src/2500/2587.poti) *Strings*
 - [x]  [2588](https://www.beecrowd.com.br/repository/UOJ_2588.html) - [Jogo dos Palíndromos](https://github.com/potigol/beecrowd/blob/master/src/2500/2588.poti) *Strings*
-- [ ]  [2589](https://www.beecrowd.com.br/repository/UOJ_2589.html) - Maior Distância Entre Primos Consecutivos *Matemática*
+- [x]  [2589](https://www.beecrowd.com.br/repository/UOJ_2589.html) - [Maior Distância Entre Primos Consecutivos](https://github.com/potigol/beecrowd/blob/master/src/2500/2589.poti) *Matemática*
 - [ ]  [2590](https://www.beecrowd.com.br/repository/UOJ_2590.html) - Sete *Ad-Hoc*
 - [x]  [2591](https://www.beecrowd.com.br/repository/UOJ_2591.html) - [HameKameKa](https://github.com/potigol/beecrowd/blob/master/src/2500/2591.poti) *Strings*
 - [ ]  [2592](https://www.beecrowd.com.br/repository/UOJ_2592.html) - VaiNaSort *Ad-Hoc*
