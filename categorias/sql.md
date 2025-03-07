@@ -1,4 +1,4 @@
-# SQL (2 / 50)
+# SQL (8 / 50)
 
 
 
@@ -6,15 +6,15 @@
 
 - [x]  [2602](https://www.beecrowd.com.br/repository/UOJ_2602.html) - [Select Básico](https://github.com/potigol/beecrowd/blob/master/src/2600/2602.poti)
 - [x]  [2603](https://www.beecrowd.com.br/repository/UOJ_2603.html) - [Endereço dos Clientes](https://github.com/potigol/beecrowd/blob/master/src/2600/2603.poti)
+- [x]  [2604](https://www.beecrowd.com.br/repository/UOJ_2604.html) - [Menores que 10 ou Maiores que 100](https://github.com/potigol/beecrowd/blob/master/src/2600/2604.poti)
+- [x]  [2605](https://www.beecrowd.com.br/repository/UOJ_2605.html) - [Representantes Executivos](https://github.com/potigol/beecrowd/blob/master/src/2600/2605.poti)
+- [x]  [2606](https://www.beecrowd.com.br/repository/UOJ_2606.html) - [Categorias](https://github.com/potigol/beecrowd/blob/master/src/2600/2606.poti)
+- [x]  [2607](https://www.beecrowd.com.br/repository/UOJ_2607.html) - [Cidades em Ordem Alfabética](https://github.com/potigol/beecrowd/blob/master/src/2600/2607.poti)
+- [x]  [2608](https://www.beecrowd.com.br/repository/UOJ_2608.html) - [Maior e Menor Preço](https://github.com/potigol/beecrowd/blob/master/src/2600/2608.poti)
+- [x]  [2609](https://www.beecrowd.com.br/repository/UOJ_2609.html) - [Produtos por Categorias](https://github.com/potigol/beecrowd/blob/master/src/2600/2609.poti)
 
 ## Problemas não resolvidos
 
-- [ ]  [2604](https://www.beecrowd.com.br/repository/UOJ_2604.html) - Menores que 10 ou Maiores que 100
-- [ ]  [2605](https://www.beecrowd.com.br/repository/UOJ_2605.html) - Representantes Executivos
-- [ ]  [2606](https://www.beecrowd.com.br/repository/UOJ_2606.html) - Categorias
-- [ ]  [2607](https://www.beecrowd.com.br/repository/UOJ_2607.html) - Cidades em Ordem Alfabética
-- [ ]  [2608](https://www.beecrowd.com.br/repository/UOJ_2608.html) - Maior e Menor Preço
-- [ ]  [2609](https://www.beecrowd.com.br/repository/UOJ_2609.html) - Produtos por Categorias
 - [ ]  [2610](https://www.beecrowd.com.br/repository/UOJ_2610.html) - Valor Médio dos Produtos
 - [ ]  [2611](https://www.beecrowd.com.br/repository/UOJ_2611.html) - Filmes de Ação
 - [ ]  [2613](https://www.beecrowd.com.br/repository/UOJ_2613.html) - Filmes em Promoção

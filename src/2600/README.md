@@ -1,15 +1,15 @@
-# Problemas 2600 (28%)
+# Problemas 2600 (35%)
 
 - [x]  [2600](https://www.beecrowd.com.br/repository/UOJ_2600.html) - [Tustin e Seu Dado Novo](https://github.com/potigol/beecrowd/blob/master/src/2600/2600.poti) *Ad-Hoc*
 - [x]  [2601](https://www.beecrowd.com.br/repository/UOJ_2601.html) - [Tustin e Seu Dado Antigo](https://github.com/potigol/beecrowd/blob/master/src/2600/2601.poti) *Ad-Hoc*
 - [x]  [2602](https://www.beecrowd.com.br/repository/UOJ_2602.html) - [Select Básico](https://github.com/potigol/beecrowd/blob/master/src/2600/2602.poti) *SQL*
 - [x]  [2603](https://www.beecrowd.com.br/repository/UOJ_2603.html) - [Endereço dos Clientes](https://github.com/potigol/beecrowd/blob/master/src/2600/2603.poti) *SQL*
-- [ ]  [2604](https://www.beecrowd.com.br/repository/UOJ_2604.html) - Menores que 10 ou Maiores que 100 *SQL*
-- [ ]  [2605](https://www.beecrowd.com.br/repository/UOJ_2605.html) - Representantes Executivos *SQL*
-- [ ]  [2606](https://www.beecrowd.com.br/repository/UOJ_2606.html) - Categorias *SQL*
-- [ ]  [2607](https://www.beecrowd.com.br/repository/UOJ_2607.html) - Cidades em Ordem Alfabética *SQL*
-- [ ]  [2608](https://www.beecrowd.com.br/repository/UOJ_2608.html) - Maior e Menor Preço *SQL*
-- [ ]  [2609](https://www.beecrowd.com.br/repository/UOJ_2609.html) - Produtos por Categorias *SQL*
+- [x]  [2604](https://www.beecrowd.com.br/repository/UOJ_2604.html) - [Menores que 10 ou Maiores que 100](https://github.com/potigol/beecrowd/blob/master/src/2600/2604.poti) *SQL*
+- [x]  [2605](https://www.beecrowd.com.br/repository/UOJ_2605.html) - [Representantes Executivos](https://github.com/potigol/beecrowd/blob/master/src/2600/2605.poti) *SQL*
+- [x]  [2606](https://www.beecrowd.com.br/repository/UOJ_2606.html) - [Categorias](https://github.com/potigol/beecrowd/blob/master/src/2600/2606.poti) *SQL*
+- [x]  [2607](https://www.beecrowd.com.br/repository/UOJ_2607.html) - [Cidades em Ordem Alfabética](https://github.com/potigol/beecrowd/blob/master/src/2600/2607.poti) *SQL*
+- [x]  [2608](https://www.beecrowd.com.br/repository/UOJ_2608.html) - [Maior e Menor Preço](https://github.com/potigol/beecrowd/blob/master/src/2600/2608.poti) *SQL*
+- [x]  [2609](https://www.beecrowd.com.br/repository/UOJ_2609.html) - [Produtos por Categorias](https://github.com/potigol/beecrowd/blob/master/src/2600/2609.poti) *SQL*
 - [ ]  [2610](https://www.beecrowd.com.br/repository/UOJ_2610.html) - Valor Médio dos Produtos *SQL*
 - [ ]  [2611](https://www.beecrowd.com.br/repository/UOJ_2611.html) - Filmes de Ação *SQL*
 - [ ] ~~xxxx~~
