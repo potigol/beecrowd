@@ -1,0 +1,17 @@
+use sql
+
+tipo Fornecedores: Tabela
+    _tabela = "providers"
+    cidade = campo("city")
+fim
+
+f = Fornecedores()
+
+consulta = Selecionar()
+            .tabela(f)
+            .distinto()
+            .campos([f.cidade])
+            .ordenarPor(f.cidade)
+            .sql
+
+escreva consulta
