@@ -1,0 +1,29 @@
+use sql
+
+tipo Produtos: Tabela
+    _tabela = "products"
+    id = campo("id")
+    id_categoria = campo("id_categories")
+    quantidade = campo("amount")
+fim
+
+tipo Categorias: Tabela
+    _tabela = "categories"
+    id = campo("id")
+    nome = campo("name")
+fim
+
+p = Produtos()
+c = Categorias()
+
+consulta = Selecionar()
+            .tabela(p)
+            .juntar(c, c.id == p.id_categoria)
+            .campos([
+                c.nome,
+                soma(p.quantidade)
+            ])
+            .agruparPor([c.nome])
+            .sql
+
+escreva consulta
