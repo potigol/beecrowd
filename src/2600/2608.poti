@@ -1,0 +1,18 @@
+use sql
+
+tipo Produtos: Tabela
+    _tabela = "products"
+    preco = campo("price")
+fim
+
+p = Produtos()
+
+consulta = Selecionar()
+            .tabela(p)
+            .campos([
+                maximo(p.preco),
+                minimo(p.preco)
+            ])
+            .sql
+
+escreva consulta
