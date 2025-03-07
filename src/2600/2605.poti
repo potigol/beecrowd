@@ -1,0 +1,27 @@
+use sql
+
+tipo Produtos: Tabela
+    _tabela = "products"
+    id = campo("id")
+    nome = campo("name")
+    id_fornecedor = campo("id_providers")
+    id_categoria = campo("id_categories")
+fim
+
+tipo Fornecedores: Tabela
+    _tabela = "providers"
+    id = campo("id")
+    nome = campo("name")
+fim
+
+p = Produtos()
+f = Fornecedores()
+
+consulta = Selecionar()
+            .tabela(p)
+            .juntar(prov, f.id == p.id_fornecedor)
+            .campos([p.nome, f.nome])
+            .onde(p.id_categoria == 6)
+            .sql
+
+escreva consulta
