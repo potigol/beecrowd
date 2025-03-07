@@ -1,0 +1,18 @@
+use sql
+
+tipo Produtos: Tabela
+    _tabela = "products"
+    id = campo("id")
+    nome = campo("name")
+    preco = campo("price")
+fim
+
+p = Produtos()
+
+consulta = Selecionar()
+            .tabela(p)
+            .campos([p.id, p.nome])
+            .onde(p.preco < 10 ou p.preco > 100)
+            .sql
+
+escreva consulta
