@@ -1,0 +1,17 @@
+use sql
+
+tipo Produtos: Tabela
+    _tabela = "products"
+    preco = campo("price")
+fim
+
+p = Produtos()
+
+consulta = Selecionar()
+            .tabela(p)
+            .campos([
+                media(p.preco).arredondar(2)
+            ])
+            .sql
+
+escreva consulta
