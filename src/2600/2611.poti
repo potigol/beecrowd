@@ -1,0 +1,26 @@
+use sql
+
+tipo Filmes: Tabela
+    _tabela = "movies"
+    id = campo("id")
+    nome = campo("name")
+    id_generos = campo("id_genres")
+fim
+
+tipo Generos: Tabela
+    _tabela = "genres"
+    id = campo("id")
+    descricao = campo("description")
+fim
+
+f = Filmes()
+g = Generos()
+
+consulta = Selecionar()
+            .tabela(f)
+            .juntar(g, g.id == f.id_generos)
+            .campos([f.id, f.nome])
+            .onde(g.descricao == "Action")
+            .sql
+
+escreva consulta
