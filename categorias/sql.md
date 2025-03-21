@@ -1,4 +1,4 @@
-# SQL (8 / 50)
+# SQL (10 / 50)
 
 
 
@@ -12,11 +12,11 @@
 - [x]  [2607](https://www.beecrowd.com.br/repository/UOJ_2607.html) - [Cidades em Ordem Alfabética](https://github.com/potigol/beecrowd/blob/master/src/2600/2607.poti)
 - [x]  [2608](https://www.beecrowd.com.br/repository/UOJ_2608.html) - [Maior e Menor Preço](https://github.com/potigol/beecrowd/blob/master/src/2600/2608.poti)
 - [x]  [2609](https://www.beecrowd.com.br/repository/UOJ_2609.html) - [Produtos por Categorias](https://github.com/potigol/beecrowd/blob/master/src/2600/2609.poti)
+- [x]  [2610](https://www.beecrowd.com.br/repository/UOJ_2610.html) - [Valor Médio dos Produtos](https://github.com/potigol/beecrowd/blob/master/src/2600/2610.poti)
+- [x]  [2611](https://www.beecrowd.com.br/repository/UOJ_2611.html) - [Filmes de Ação](https://github.com/potigol/beecrowd/blob/master/src/2600/2611.poti)
 
 ## Problemas não resolvidos
 
-- [ ]  [2610](https://www.beecrowd.com.br/repository/UOJ_2610.html) - Valor Médio dos Produtos
-- [ ]  [2611](https://www.beecrowd.com.br/repository/UOJ_2611.html) - Filmes de Ação
 - [ ]  [2613](https://www.beecrowd.com.br/repository/UOJ_2613.html) - Filmes em Promoção
 - [ ]  [2614](https://www.beecrowd.com.br/repository/UOJ_2614.html) - Locações de Setembro
 - [ ]  [2615](https://www.beecrowd.com.br/repository/UOJ_2615.html) - Expandindo o Negocio

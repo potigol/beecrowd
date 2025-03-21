@@ -1,0 +1,12 @@
+var s := leia_texto
+enquanto não eof faça
+  r = s.divida(" ").mapeie(_.real)
+  t, a, w, c = r[1], r[2], r[3], r[4]
+  percentual = a / t * 100
+  resposta = se      percentual >= c então "critical"
+             senãose percentual >= w então "warning"
+                                     senão "OK"
+             fim
+  escreva resposta
+  s := leia_texto
+fim

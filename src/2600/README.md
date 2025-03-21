@@ -1,4 +1,4 @@
-# Problemas 2600 (35%)
+# Problemas 2600 (37%)
 
 - [x]  [2600](https://www.beecrowd.com.br/repository/UOJ_2600.html) - [Tustin e Seu Dado Novo](https://github.com/potigol/beecrowd/blob/master/src/2600/2600.poti) *Ad-Hoc*
 - [x]  [2601](https://www.beecrowd.com.br/repository/UOJ_2601.html) - [Tustin e Seu Dado Antigo](https://github.com/potigol/beecrowd/blob/master/src/2600/2601.poti) *Ad-Hoc*
@@ -10,8 +10,8 @@
 - [x]  [2607](https://www.beecrowd.com.br/repository/UOJ_2607.html) - [Cidades em Ordem Alfabética](https://github.com/potigol/beecrowd/blob/master/src/2600/2607.poti) *SQL*
 - [x]  [2608](https://www.beecrowd.com.br/repository/UOJ_2608.html) - [Maior e Menor Preço](https://github.com/potigol/beecrowd/blob/master/src/2600/2608.poti) *SQL*
 - [x]  [2609](https://www.beecrowd.com.br/repository/UOJ_2609.html) - [Produtos por Categorias](https://github.com/potigol/beecrowd/blob/master/src/2600/2609.poti) *SQL*
-- [ ]  [2610](https://www.beecrowd.com.br/repository/UOJ_2610.html) - Valor Médio dos Produtos *SQL*
-- [ ]  [2611](https://www.beecrowd.com.br/repository/UOJ_2611.html) - Filmes de Ação *SQL*
+- [x]  [2610](https://www.beecrowd.com.br/repository/UOJ_2610.html) - [Valor Médio dos Produtos](https://github.com/potigol/beecrowd/blob/master/src/2600/2610.poti) *SQL*
+- [x]  [2611](https://www.beecrowd.com.br/repository/UOJ_2611.html) - [Filmes de Ação](https://github.com/potigol/beecrowd/blob/master/src/2600/2611.poti) *SQL*
 - [ ] ~~xxxx~~
 - [ ]  [2613](https://www.beecrowd.com.br/repository/UOJ_2613.html) - Filmes em Promoção *SQL*
 - [ ]  [2614](https://www.beecrowd.com.br/repository/UOJ_2614.html) - Locações de Setembro *SQL*
