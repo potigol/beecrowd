@@ -1,4 +1,4 @@
-# Problemas 2900 (25%)
+# Problemas 2900 (26%)
 
 - [ ]  [2900](https://www.beecrowd.com.br/repository/UOJ_2900.html) - Jogo de Varetas *Ad-Hoc*
 - [ ]  [2901](https://www.beecrowd.com.br/repository/UOJ_2901.html) - Vôlei Marciano *Ad-Hoc*
@@ -24,7 +24,7 @@
 - [ ]  [2921](https://www.beecrowd.com.br/repository/UOJ_2921.html) - Quadros Alienígenas *Paradigmas*
 - [x]  [2922](https://www.beecrowd.com.br/repository/UOJ_2922.html) - [Salas De Aula](https://github.com/potigol/beecrowd/blob/master/src/2900/2922.poti) *Ad-Hoc*
 - [x]  [2923](https://www.beecrowd.com.br/repository/UOJ_2923.html) - [Birinho](https://github.com/potigol/beecrowd/blob/master/src/2900/2923.poti) *Ad-Hoc*
-- [ ]  [2924](https://www.beecrowd.com.br/repository/UOJ_2924.html) - BigInt *Ad-Hoc*
+- [x]  [2924](https://www.beecrowd.com.br/repository/UOJ_2924.html) - [BigInt](https://github.com/potigol/beecrowd/blob/master/src/2900/2924.poti) *Ad-Hoc*
 - [ ]  [2925](https://www.beecrowd.com.br/repository/UOJ_2925.html) - Sequência IccanobiF *Ad-Hoc*
 - [x]  [2926](https://www.beecrowd.com.br/repository/UOJ_2926.html) - [Então é Natal!](https://github.com/potigol/beecrowd/blob/master/src/2900/2926.poti) *Ad-Hoc*
 - [x]  [2927](https://www.beecrowd.com.br/repository/UOJ_2927.html) - [Imprevistos Natalinos](https://github.com/potigol/beecrowd/blob/master/src/2900/2927.poti) *Ad-Hoc*

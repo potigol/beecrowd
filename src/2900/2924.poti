@@ -1,0 +1,28 @@
+tipo Big = Lista[Inteiro]
+
+somar(a, b: Big, p: Inteiro, saida: Big): Big =
+  se a == [] e b == [] então
+    se p == 0 então saida senão 1 :: saida fim
+  senão
+    se b == [] então
+      somar(a, [p], 0, saida)
+    senãose a == [] então
+      somar(b, [p], 0, saida)
+    senão
+      s = a.cabeça + b.cabeça + p
+      somar(a.cauda, b.cauda, s div 10, (s mod 10) :: saida)
+    fim
+fim
+
+#somar(a, b: Big, p: Inteiro, saida: Big): Big = escolha (a, b, p)
+#  caso ([], [], 0) => saida
+#  caso ([], [], 1) => 1 :: saida
+#  caso (a , [], p) => somar(a, [p], 0, saida)
+#  caso ([], b, p)  => somar(b, [p], 0, saida)
+#  caso (a::as, b::bs, p) =>
+#    s = a + b + p
+#    somar(as, bs, s div 10, (s mod 10) :: saida)
+#fim
+
+a, b = leia_texto.inverta.lista.mapeie(_ - '0')
+escreva somar(a,b, 0, []).junte("")

@@ -1,4 +1,4 @@
-# Ad-Hoc (269 / 892)
+# Ad-Hoc (270 / 892)
 
 
 
@@ -201,6 +201,7 @@
 - [x]  [2868](https://www.beecrowd.com.br/repository/UOJ_2868.html) - [Errrou!](https://github.com/potigol/beecrowd/blob/master/src/2800/2868.poti)
 - [x]  [2922](https://www.beecrowd.com.br/repository/UOJ_2922.html) - [Salas De Aula](https://github.com/potigol/beecrowd/blob/master/src/2900/2922.poti)
 - [x]  [2923](https://www.beecrowd.com.br/repository/UOJ_2923.html) - [Birinho](https://github.com/potigol/beecrowd/blob/master/src/2900/2923.poti)
+- [x]  [2924](https://www.beecrowd.com.br/repository/UOJ_2924.html) - [BigInt](https://github.com/potigol/beecrowd/blob/master/src/2900/2924.poti)
 - [x]  [2926](https://www.beecrowd.com.br/repository/UOJ_2926.html) - [Então é Natal!](https://github.com/potigol/beecrowd/blob/master/src/2900/2926.poti)
 - [x]  [2927](https://www.beecrowd.com.br/repository/UOJ_2927.html) - [Imprevistos Natalinos](https://github.com/potigol/beecrowd/blob/master/src/2900/2927.poti)
 - [x]  [2928](https://www.beecrowd.com.br/repository/UOJ_2928.html) - [Cruzando Lagos](https://github.com/potigol/beecrowd/blob/master/src/2900/2928.poti)
@@ -688,7 +689,6 @@
 - [ ]  [2913](https://www.beecrowd.com.br/repository/UOJ_2913.html) - KryptoLocker Ate my Homework
 - [ ]  [2914](https://www.beecrowd.com.br/repository/UOJ_2914.html) - Looking for the Risk Factor
 - [ ]  [2915](https://www.beecrowd.com.br/repository/UOJ_2915.html) - Mount Marathon
-- [ ]  [2924](https://www.beecrowd.com.br/repository/UOJ_2924.html) - BigInt
 - [ ]  [2925](https://www.beecrowd.com.br/repository/UOJ_2925.html) - Sequência IccanobiF
 - [ ]  [2931](https://www.beecrowd.com.br/repository/UOJ_2931.html) - Presentes Suspeitos
 - [ ]  [2935](https://www.beecrowd.com.br/repository/UOJ_2935.html) - DNA Élfico
