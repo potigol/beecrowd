@@ -1,0 +1,92 @@
+---
+title: "Coleção de Soluções em Potigol"
+description: "Mais de 800 problemas do Beecrowd resolvidos com a linguagem Potigol"
+hero_image: "assets/banner.png"
+hide:
+    toc
+layout: home
+features:
+  - icon: ":material-language-kotlin:"
+    title: "Linguagem Potigol"
+    description: "Soluções na linguagem brasileira para aprendizagem de programação"
+  - icon: ":material-check-all:"
+    title: "Verificadas"
+    description: "Todas soluções aceitas pelo juiz online"
+  - icon: ":material-github:"
+    title: "Open Source"
+    description: "Colabore e ajude a comunidade"
+---
+
+<div class="grid cards" markdown>
+
+- :material-star: **Total de Soluções:** [854 problemas resolvidos](https://github.com/potigol/beecrowd/commits/master)
+- :material-account-group: **Comunidade:** [Participe no Gitter](https://gitter.im/potigol/Potigol)
+- :material-twitter: **Siga-nos:** [@potigol](http://twitter.com/potigol)
+- :material-rocket-launch: **Desenvolva online:** [Abrir no Gitpod](https://gitpod.io/#https://github.com/potigol/beecrowd)
+
+</div>
+
+## 📚 Categorias de Problemas
+
+=== "Básicos"
+
+    - [Iniciante](categorias/iniciante.md) - Problemas introdutórios para aprendizagem
+    - [Ad-hoc](categorias/adhoc.md) - Simulações e problemas diversos
+    - [Strings](categorias/strings.md) - Manipulação de texto e algoritmos
+
+=== "Intermediários"
+
+    - [Estruturas de Dados](categorias/estruturasebibliotecas.md) - Filas, pilhas e mapas
+    - [Matemática](categorias/matemática.md) - Teoria dos números e sistemas numéricos
+    - [Paradigmas](categorias/paradigmas.md) - DP, busca binária e backtracking
+
+=== "Avançados"
+
+    - [Grafos](categorias/grafos.md) - Árvores, fluxos e caminhos mínimos
+    - [Geometria](categorias/geometriacomputacional.md) - Algoritmos geométricos
+
+## 🏆 Competições
+
+<div class="grid cards" markdown>
+
+- :material-trophy: **[Maratona SBC](competicoes/maratona)** - Problemas oficiais da competição brasileira
+- :material-puzzle: **[OBI](competicoes/obi)** - Olimpíada Brasileira de Informática
+
+</div>
+
+## 🔍 Navegação por Problemas
+
+<center>
+
+| [1000-1099](problemas/1000) | [1100-1199](problemas/1100) | [1200-1299](problemas/1200) |
+|-----------------------------|-----------------------------|-----------------------------|
+| [1300-1399](problemas/1300) | [1400-1499](problemas/1400) | [1500-1599](problemas/1500) |
+| [1600-1699](problemas/1600) | [1700-1799](problemas/1700) | [1800-1899](problemas/1800) |
+| [1900-1999](problemas/1900) | [2000-2099](problemas/2000) | [2100-2199](problemas/2100) |
+| [2200-2299](problemas/2200) | [2300-2399](problemas/2300) | [2400-2499](problemas/2400) |
+| [2500-2599](problemas/2500) | [2600-2699](problemas/2600) | [2700-2799](problemas/2700) |
+| [2800-2899](problemas/2800) | [2900-2999](problemas/2900) | [3000-3099](problemas/3000) |
+
+</center>
+
+## ✅ Verificação das Soluções
+
+!!! success "Validação Automatizada"
+    Todas as soluções foram submetidas e aceitas usando o [Potigol2Scala](https://github.com/potigol/potigol2scala).
+
+    ```bash
+    ./potigol2scala.sh src/1000/1000.poti
+    ```
+
+## 🤝 Como Contribuir
+
+1. :material-git: Faça um fork do [repositório](https://github.com/potigol/beecrowd)
+2. :material-file-code: Adicione sua solução na pasta `src/xx00/xxxx.poti`
+3. :material-git-pull-request: Envie um Pull Request
+
+!!! tip "Dica"
+    Execute `scala Build.scala` na pasta `bin` para atualizar a lista de problemas resolvidos
+
+<center>
+[![IFRN](https://potigol.github.io/docs/logo_ifrn_40.png)](https://www.ifrn.edu.br)
+</center>
