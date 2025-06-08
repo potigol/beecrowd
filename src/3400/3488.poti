@@ -1,0 +1,8 @@
+n = leia_real
+a = log(n) / log(2)
+b = a.inteiro
+se abs(a-b) < 0.000000001 então
+  escreva "true"
+senão
+  escreva "false"
+fim
