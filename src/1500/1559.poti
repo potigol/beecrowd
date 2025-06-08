@@ -1,26 +1,29 @@
 mov(dir: Texto, b: Boolean) = se b então dir senão "" fim
 
+pode_mover(a, b: Inteiro) = (a == b) <> (b == 0) 
+
 n = leia_inteiro
 para i de 1 até n faça
     linhas = para j de 1 até 4 gere leia_inteiros(" ") fim
     var up, down, left, right := falso
     para x de 1 até 4 faça
-        linhax = linhas[x]
-        colunax = para j de 1 até 4 gere linhas[j][x] fim
+        linha = linhas[x]
+        coluna = para j de 1 até 4 gere linhas[j][x] fim
         para a de 1 até 3 faca
-            xa, xb, ax, bx = linhax[a], linhax[a+1], colunax[a], colunax[a+1]
-            xa0, xb0, xab, abx, ax0, bx0 = xa == 0, xb == 0, xa == xb, ax == bx, ax == 0, bx == 0
-            left  := left  ou (não xb0 e (xa0 ou xab)) 
-            right := right ou (não xa0 e (xb0 ou xab))
-            up    := up    ou (não bx0 e (ax0 ou abx))
-            down  := down  ou (não ax0 e (bx0 ou abx))
+            left  := left  ou pode_mover(linha[a+1], linha[a])
+            right := right ou pode_mover(linha[a], linha[a+1])
+            up    := up    ou pode_mover(coluna[a+1], coluna[a])
+            down  := down  ou pode_mover(coluna[a], coluna[a+1])
         fim
     fim
    
-    jogadas = mov(" DOWN", down) + mov(" LEFT", left) + mov(" RIGHT", right) + mov(" UP", up)
-    se jogadas == "" ou linhas.injete([0])(_ + _).posição(2048) > 0 então
+    jogadas = (mov(" DOWN", down) + mov(" LEFT", left) + mov(" RIGHT", right) + mov(" UP", up)).descarte(1)
+
+    fim_de_jogo = linhas.injete([0])(_ + _).posição(2048) > 0
+
+    se jogadas == "" ou fim_de_jogo então
         escreva "NONE"
     senão
-        escreva jogadas.cauda
+        escreva jogadas
     fim
 fim
