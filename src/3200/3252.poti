@@ -1,0 +1,39 @@
+BASE_YEAR = 2011
+a = leia_inteiros(" ")
+k, n = a[1], a[2]
+
+b = leia_inteiros(" ")
+karl_ano, karl_forca = b[1], b[2]
+
+var maiores := Lista(n, 0).mutável
+var ano := BASE_YEAR
+limite = BASE_YEAR + n
+
+var unknown := falso
+
+para i de 1 até n + k - 2 faça
+    c = leia_inteiros(" ")
+    y, p = c[1], c[2]
+
+    se p > karl_forca então
+        se y <= ano ou y <= karl_ano então
+            ano := ano + 1
+            enquanto ano < limite e maiores[ano - BASE_YEAR + 1] > 0 faça
+                ano := ano + 1
+                se ano >= limite então
+                    unknown := verdadeiro
+                fim
+            fim
+        senão
+            idx = y - BASE_YEAR + 1
+            se 0 < idx e idx <= n então
+                maiores[idx] := maiores[idx] + 1
+            fim
+        fim
+    fim
+fim
+se unknown ou ano >= limite então
+    escreva "unknown"
+senão
+    escreva (se ano > karl_ano então ano senão karl_ano fim)
+fim
