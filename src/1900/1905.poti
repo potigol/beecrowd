@@ -13,7 +13,7 @@ vizinhos(n: Inteiro) =
 leia_labirinto()
   var lista: Lista[Inteiro] = []
   enquanto lista.tamanho < 25 faça
-    a = leia_texto.lista.selecione(c => c == '1' ou c == '0')
+    a = leia_texto.lista.selecione(c => c == '1' ou c == '0').mapeie(_.inteiro)
     lista := lista + a
   fim
   lista

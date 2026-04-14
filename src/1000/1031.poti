@@ -1,6 +1,6 @@
 last(x, m: Inteiro)
   var next := 1
-  var regions = para i de 1 ate x gere i fim
+  var regions := para i de 1 ate x gere i fim
   para tamanho de x-1 ate 1 passo -1 faca
     regions := regions.remova(next)
     next := (next - 2 + m) mod tamanho + 1

@@ -22,7 +22,7 @@ para i de 1 ate t faca
   vogais = s.selecione(é_vogal)
   consoantes = s.selecione(nao é_vogal(_))
   var d_v, d_c := 0
-  posicoes = s.mapeie(c => se é_vogal(c) entao 'a' senao 'b' fim)
+  posicoes = s.lista.mapeie(c => se é_vogal(c) entao 'a' senao 'b' fim).junte("")
   q = leia_inteiro
   para i de 1 ate q faca
     x = leia_texto

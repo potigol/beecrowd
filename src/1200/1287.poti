@@ -1,17 +1,18 @@
 var s := leia_texto
 enquanto nao eof faca
-  x = s.selecione(c => c <> ',' e c <> ' ')
-       .mapeie(c => escolha c
-                      caso 'l' => '1'
-                      caso 'o' => '0'
-                      caso 'O' => '0'
-                      caso  _  => c
-                    fim )
-        .injete("")((a, b) => se a == "0" entao "{b}" senao "{a}{b}" fim)
-
-  erro = x.selecione(c => c < '0' ou c > '9') <> ""
-  se x <> "" e nao erro e (x.tamanho < 10 ou x.tamanho == 10 e x <="2147483647") entao
-    escreva x.inteiro
+  chars = s.selecione(c => c <> ',' e c <> ' ')
+           .lista
+           .mapeie(c => escolha c
+                          caso 'l' => '1'
+                          caso 'o' => '0'
+                          caso 'O' => '0'
+                          caso  _  => c
+                        fim)
+  x = chars.descarte_enquanto(_ == '0').mapeie(_.caractere).junte("")
+  x2 = se x == "" e chars <> [] entao "0" senao x fim
+  erro = chars.selecione(c => c < '0' ou c > '9') <> []
+  se x2 <> "" e nao erro e (x2.tamanho < 10 ou (x2.tamanho == 10 e x2 <= "2147483647")) entao
+    escreva x2.inteiro
   senao
     escreva "error"
   fim

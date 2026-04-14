@@ -1,7 +1,5 @@
 # Utilizando a formula pedida na questão...
-maior(x, y:Inteiro): Inteiro
-	retorne (x+y+abs(x-y)) div 2
-fim
+maior(x, y: Inteiro) = (x + y + abs(x - y)) div 2
 
 numeros = leia_inteiros(3)
 escreva "{maior(numeros[1], maior(numeros[2], numeros[3]))} eh o maior"

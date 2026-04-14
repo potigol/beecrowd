@@ -1,5 +1,5 @@
 a = leia_real
-se a >= 0 e a <= 25
+se a >= 0 e a <= 25 então
 	escreva "Intervalo [0,25]"
 senaose a > 25 e a <= 50
 	escreva "Intervalo (25,50]"

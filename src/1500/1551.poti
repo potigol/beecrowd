@@ -1,6 +1,6 @@
 n = leia_inteiro
 para i de 1 até n faça
-  letras = Lista.mutável(26, 0)
+  var letras := Lista.mutável(26, 0)
   s = leia_texto.selecione(c => c >= 'a' e c <= 'z').lista
   para c em s faça
     letras[c - 'a' + 1] := 1

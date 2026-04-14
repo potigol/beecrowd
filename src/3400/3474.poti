@@ -1,5 +1,3 @@
-entrada = leia_reais(2)
-valor = entrada[1]
-divisor = entrada[2]
-
-escreva(valor / divisor)
+a = leia_reais(" ")
+valor = a[1] / a[2]
+escreva valor formato "%.2f"

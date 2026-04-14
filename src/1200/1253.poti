@@ -3,5 +3,5 @@ para i de 1 ate n faca
   s = leia_texto
   p = leia_inteiro
   d = 'A' + p - 26
-  escreva s.mapeie(c => ((c - d) mod 26 + 'A').caractere)
+  escreva s.lista.mapeie(c => ((c - d) mod 26 + 'A').caractere).junte("")
 fim

@@ -2,7 +2,7 @@ nc = leia_inteiro
 para i de 1 ate nc faca
   entrada = leia_inteiros(" ")
   n, k = entrada[1], entrada[2]
-  escreva "Case {i}: {last(n, k)}"
+  escreva "Case {i}: {last3(n, k)}"
 fim
 
 # Solução 3
