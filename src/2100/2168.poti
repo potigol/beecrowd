@@ -1,5 +1,5 @@
 n = leia_inteiro
-res = Matriz.mutável(n, n, 'S')
+var res := Matriz.mutável(n, n, 'S')
 mat = para i de 1 até n + 1 gere leia_inteiros(" ") fim
 para i de 1 até n, j de 1 até n faça
   se mat[i][j] + mat[i][j+1] + mat[i+1][j] + mat[i+1][j+1] < 2 então

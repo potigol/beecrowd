@@ -1,5 +1,5 @@
 n, m = leia_inteiro
-figurinha = Lista.mutável(n, verdadeiro)
+var figurinha := Lista.mutável(n, verdadeiro)
 var falta := n
 para i de 1 até m faça
   num = leia_inteiro

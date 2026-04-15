@@ -5,7 +5,7 @@ enquanto nao eof faca
   casos := casos + 1
   saida = 0 :: para i de 1 ate n, j de 1 ate i gere i fim
   tamanho = saida.tamanho
-  escreva "Caso {casos}: {tamanho} {se tamanho == 0 entao "numero" senao "numeros" fim}"
+  escreva "Caso {casos}: {tamanho} {se tamanho < 2 entao "numero" senao "numeros" fim}"
   escreva saida.junte(" ")
   escreva ""
   entrada := leia_texto
