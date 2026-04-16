@@ -2487,8 +2487,13 @@
 3487	Firmware - Substring Manipulation	Ad-Hoc
 3488	Binary/Hexadecimal Number Systems	Ad-Hoc
 3489	C++ Templates and STL Containers	Ad-Hoc
-3490  Ache a senha!  Iniciante
-3491  Bilhete codificado  Iniciante
+3490	Ache a senha!  Iniciante
+3491	Bilhete codificado  Iniciante
+3492	Ranking turismo CE	SQL
+3493	Copos empilhados	Iniciante
+3494	Palavras transformadas	Iniciante
+3495	Gianzin Berranteiro Iniciante	
+3496	Promoção imperdível	Paradigmas
 4000	~~Altura Mínima~~	Ad-Hoc
 4001	~~Baralho Embaralhado~~	Ad-Hoc
 4002	~~Caminhada na Montanha~~	Ad-Hoc
