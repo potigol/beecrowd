@@ -14,9 +14,10 @@
 *.py
 /*.sh
 /*.txt
-*.in
-*.out
+# *.in
+# *.out
 /null/
 /.vscode/
 *.bak
 .*/
+cache/*

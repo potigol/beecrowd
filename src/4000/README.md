@@ -1,32 +1,32 @@
-# Problemas 3500 (100%)
+# Problemas 4000 (3/3)
 
-- [x]  [3500](https://www.beecrowd.com.br/repository/UOJ_3500.html) - [~~Deus-serpente M'boi as Cataratas do Iguaçu~~](https://github.com/potigol/beecrowd/blob/master/src/3500/3500.poti) *Ad-Hoc*
-- [ ]  [3501](https://www.beecrowd.com.br/repository/UOJ_3501.html) - ~~Esquecimento e o Mapa do Boitatá~~ *Ad-Hoc*
-- [ ]  [3502](https://www.beecrowd.com.br/repository/UOJ_3502.html) - ~~Folguedo do Boi de Mamão e o Apetite da Bernunça~~ *Ad-Hoc*
-- [ ]  [3503](https://www.beecrowd.com.br/repository/UOJ_3503.html) - ~~Gosto Pelo Tabacoe o Saci Pererê~~ *Ad-Hoc*
-- [ ]  [3504](https://www.beecrowd.com.br/repository/UOJ_3504.html) - ~~Homem do Saco e o Teorema de Bachgold~~ *Ad-Hoc*
-- [ ]  [3505](https://www.beecrowd.com.br/repository/UOJ_3505.html) - ~~Iracema e os Colares Especiais~~ *Ad-Hoc*
-- [ ]  [3506](https://www.beecrowd.com.br/repository/UOJ_3506.html) - ~~Jogos de Xaxdrez e a Mula sem Cabeça~~ *Ad-Hoc*
-- [ ]  [3507](https://www.beecrowd.com.br/repository/UOJ_3507.html) - ~~K-ésimo Fator Primoe o Desafio do Pai do Mato~~ *Ad-Hoc*
-- [ ]  [3508](https://www.beecrowd.com.br/repository/UOJ_3508.html) - ~~Lágrimas Irritantes e a tarefa da Cuca~~ *Ad-Hoc*
-- [ ]  [3509](https://www.beecrowd.com.br/repository/UOJ_3509.html) - ~~Matinta Pereira e um Prefeito Preguiçoso~~ *Ad-Hoc*
-- [ ]  [3510](https://www.beecrowd.com.br/repository/UOJ_3510.html) - ~~Negrinho do Pastoreio e a Segurança dos Currais~~ *Ad-Hoc*
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
+- [x] [4000](https://resources.beecrowd.com/repository/UOJ_4000.html) - [~~Altura Mínima~~](https://github.com/potigol/beecrowd/blob/master/src/4000/4000.poti) *Ad-Hoc*
+- [ ] [4001](https://resources.beecrowd.com/repository/UOJ_4001.html) - ~~Baralho Embaralhado~~ *Ad-Hoc*
+- [ ] [4002](https://resources.beecrowd.com/repository/UOJ_4002.html) - ~~Caminhada na Montanha~~ *Ad-Hoc*
+- [ ] [4003](https://resources.beecrowd.com/repository/UOJ_4003.html) - ~~Desvio~~ *Ad-Hoc*
+- [ ] [4004](https://resources.beecrowd.com/repository/UOJ_4004.html) - ~~Extraindo Pólen~~ *Ad-Hoc*
+- [ ] [4005](https://resources.beecrowd.com/repository/UOJ_4005.html) - ~~Férias Cansativas~~ *Ad-Hoc*
+- [ ] [4006](https://resources.beecrowd.com/repository/UOJ_4006.html) - ~~Grande Tratado da Bytelândia~~ *Ad-Hoc*
+- [ ] [4007](https://resources.beecrowd.com/repository/UOJ_4007.html) - ~~Honroso Trabalhador~~ *Ad-Hoc*
+- [ ] [4008](https://resources.beecrowd.com/repository/UOJ_4008.html) - ~~Investigando Zeros e Uns~~ *Ad-Hoc*
+- [ ] [4009](https://resources.beecrowd.com/repository/UOJ_4009.html) - ~~Jogo de Vôlei~~ *Ad-Hoc*
+- [ ] [4010](https://resources.beecrowd.com/repository/UOJ_4010.html) - ~~k pra Mais, k pra Menos~~ *Ad-Hoc*
+- [ ] [4011](https://resources.beecrowd.com/repository/UOJ_4011.html) - ~~Lexicograficamente Agradável~~ *Ad-Hoc*
+- [ ] [4012](https://resources.beecrowd.com/repository/UOJ_4012.html) - ~~Malha Aérea~~ *Ad-Hoc*
+- [x] [4013](https://resources.beecrowd.com/repository/UOJ_4013.html) - [~~Alice e as Canções e Iara~~](https://github.com/potigol/beecrowd/blob/master/src/4000/4013.poti) *Iniciante*
+- [ ] [4014](https://resources.beecrowd.com/repository/UOJ_4014.html) - ~~Boto e as Festas~~ *Ad-Hoc*
+- [ ] [4015](https://resources.beecrowd.com/repository/UOJ_4015.html) - ~~Caboclo-d'Água e o Biscoito Confeitado~~ *Ad-Hoc*
+- [x] [4016](https://resources.beecrowd.com/repository/UOJ_4016.html) - [~~Deus-serpente M'boi as Cataratas do Iguaçu~~](https://github.com/potigol/beecrowd/blob/master/src/4000/4016.poti) *Ad-Hoc*
+- [ ] [4017](https://resources.beecrowd.com/repository/UOJ_4017.html) - ~~Esquecimento e o Mapa do Boitatá~~ *Ad-Hoc*
+- [ ] [4018](https://resources.beecrowd.com/repository/UOJ_4018.html) - ~~Folguedo do Boi de Mamão e o Apetite da Bernunça~~ *Ad-Hoc*
+- [ ] [4019](https://resources.beecrowd.com/repository/UOJ_4019.html) - ~~Gosto Pelo Tabacoe o Saci Pererê~~ *Ad-Hoc*
+- [ ] [4020](https://resources.beecrowd.com/repository/UOJ_4020.html) - ~~Homem do Saco e o Teorema de Bachgold~~ *Ad-Hoc*
+- [ ] [4021](https://resources.beecrowd.com/repository/UOJ_4021.html) - ~~Iracema e os Colares Especiais~~ *Ad-Hoc*
+- [ ] [4022](https://resources.beecrowd.com/repository/UOJ_4022.html) - ~~Jogos de Xaxdrez e a Mula sem Cabeça~~ *Ad-Hoc*
+- [ ] [4023](https://resources.beecrowd.com/repository/UOJ_4023.html) - ~~K-ésimo Fator Primoe o Desafio do Pai do Mato~~ *Ad-Hoc*
+- [ ] [4024](https://resources.beecrowd.com/repository/UOJ_4024.html) - ~~Lágrimas Irritantes e a tarefa da Cuca~~ *Ad-Hoc*
+- [ ] [4025](https://resources.beecrowd.com/repository/UOJ_4025.html) - ~~Matinta Pereira e um Prefeito Preguiçoso~~ *Ad-Hoc*
+- [ ] [4026](https://resources.beecrowd.com/repository/UOJ_4026.html) - ~~Negrinho do Pastoreio e a Segurança dos Currais~~ *Ad-Hoc*
 - [ ] ~~xxxx~~
 - [ ] ~~xxxx~~
 - [ ] ~~xxxx~~

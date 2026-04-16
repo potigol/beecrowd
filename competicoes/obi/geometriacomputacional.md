@@ -7,4 +7,4 @@
 
 ## Problemas não resolvidos
 
-- [ ]  [3064](https://www.beecrowd.com.br/repository/UOJ_3064.html) - Elástico
+- [ ] [3064](https://resources.beecrowd.com/repository/UOJ_3064.html) - Elástico

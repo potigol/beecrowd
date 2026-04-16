@@ -1,4 +1,4 @@
-# Paradigmas (0 / 2)
+# Paradigmas (0 / 3)
 
 
 
@@ -7,5 +7,6 @@
 
 ## Problemas não resolvidos
 
-- [ ]  [3151](https://www.beecrowd.com.br/repository/UOJ_3151.html) - O Iogurte Divino
-- [ ]  [3153](https://www.beecrowd.com.br/repository/UOJ_3153.html) - Fake News
+- [ ] [3151](https://resources.beecrowd.com/repository/UOJ_3151.html) - O Iogurte Divino
+- [ ] [3153](https://resources.beecrowd.com/repository/UOJ_3153.html) - Fake News
+- [ ] [3496](https://resources.beecrowd.com/repository/UOJ_3496.html) - Promoção imperdível

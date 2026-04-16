@@ -1,224 +1,225 @@
-# Paradigmas (6 / 215)
+# Paradigmas (6 / 216)
 
 
 
 ## Problemas resolvidos
 
-- [x]  [1029](https://www.beecrowd.com.br/repository/UOJ_1029.html) - [Fibonacci, Quantas Chamadas?](https://github.com/potigol/beecrowd/blob/master/src/1000/1029.poti)
-- [x]  [1084](https://www.beecrowd.com.br/repository/UOJ_1084.html) - [Apagando e Ganhando](https://github.com/potigol/beecrowd/blob/master/src/1000/1084.poti)
-- [x]  [1166](https://www.beecrowd.com.br/repository/UOJ_1166.html) - [Torre de Hanoi, Novamente!](https://github.com/potigol/beecrowd/blob/master/src/1100/1166.poti)
-- [x]  [1310](https://www.beecrowd.com.br/repository/UOJ_1310.html) - [Lucro](https://github.com/potigol/beecrowd/blob/master/src/1300/1310.poti)
-- [x]  [1690](https://www.beecrowd.com.br/repository/UOJ_1690.html) - [Soma de Sobconjuntos](https://github.com/potigol/beecrowd/blob/master/src/1600/1690.poti)
-- [x]  [2243](https://www.beecrowd.com.br/repository/UOJ_2243.html) - [Isósceles](https://github.com/potigol/beecrowd/blob/master/src/2200/2243.poti)
+- [x] [1029](https://resources.beecrowd.com/repository/UOJ_1029.html) - [Fibonacci, Quantas Chamadas?](https://github.com/potigol/beecrowd/blob/master/src/1000/1029.poti)
+- [x] [1084](https://resources.beecrowd.com/repository/UOJ_1084.html) - [Apagando e Ganhando](https://github.com/potigol/beecrowd/blob/master/src/1000/1084.poti)
+- [x] [1166](https://resources.beecrowd.com/repository/UOJ_1166.html) - [Torre de Hanoi, Novamente!](https://github.com/potigol/beecrowd/blob/master/src/1100/1166.poti)
+- [x] [1310](https://resources.beecrowd.com/repository/UOJ_1310.html) - [Lucro](https://github.com/potigol/beecrowd/blob/master/src/1300/1310.poti)
+- [x] [1690](https://resources.beecrowd.com/repository/UOJ_1690.html) - [Soma de Sobconjuntos](https://github.com/potigol/beecrowd/blob/master/src/1600/1690.poti)
+- [x] [2243](https://resources.beecrowd.com/repository/UOJ_2243.html) - [Isósceles](https://github.com/potigol/beecrowd/blob/master/src/2200/2243.poti)
 
 ## Problemas não resolvidos
 
-- [ ]  [1027](https://www.beecrowd.com.br/repository/UOJ_1027.html) - Onda Crítica
-- [ ]  [1033](https://www.beecrowd.com.br/repository/UOJ_1033.html) - Quantas Chamadas Recursivas?
-- [ ]  [1034](https://www.beecrowd.com.br/repository/UOJ_1034.html) - Festival de Estátuas de Gelo
-- [ ]  [1054](https://www.beecrowd.com.br/repository/UOJ_1054.html) - Sapo Dinâmico
-- [ ]  [1055](https://www.beecrowd.com.br/repository/UOJ_1055.html) - Soma Permutada Elegante
-- [ ]  [1058](https://www.beecrowd.com.br/repository/UOJ_1058.html) - Zonas de Ataque Independentes
-- [ ]  [1106](https://www.beecrowd.com.br/repository/UOJ_1106.html) - Dragster
-- [ ]  [1203](https://www.beecrowd.com.br/repository/UOJ_1203.html) - Pontes de São Petersburgo
-- [ ]  [1210](https://www.beecrowd.com.br/repository/UOJ_1210.html) - Produção Ótima de Ótima Vodka
-- [ ]  [1224](https://www.beecrowd.com.br/repository/UOJ_1224.html) - Cartões
-- [ ]  [1226](https://www.beecrowd.com.br/repository/UOJ_1226.html) - Elevador Espacial
-- [ ]  [1229](https://www.beecrowd.com.br/repository/UOJ_1229.html) - Combate ao Câncer
-- [ ]  [1231](https://www.beecrowd.com.br/repository/UOJ_1231.html) - Palavras
-- [ ]  [1265](https://www.beecrowd.com.br/repository/UOJ_1265.html) - DJ da Computação
-- [ ]  [1269](https://www.beecrowd.com.br/repository/UOJ_1269.html) - ICPC Ataca Novamente
-- [ ]  [1282](https://www.beecrowd.com.br/repository/UOJ_1282.html) - Organizando Pacotes
-- [ ]  [1283](https://www.beecrowd.com.br/repository/UOJ_1283.html) - Caixas e Pedras
-- [ ]  [1286](https://www.beecrowd.com.br/repository/UOJ_1286.html) - Motoboy
-- [ ]  [1288](https://www.beecrowd.com.br/repository/UOJ_1288.html) - Canhão de Destruição
-- [ ]  [1299](https://www.beecrowd.com.br/repository/UOJ_1299.html) - Jogo de Mosaicos
-- [ ]  [1312](https://www.beecrowd.com.br/repository/UOJ_1312.html) - Empilhamento de Bolas
-- [ ]  [1319](https://www.beecrowd.com.br/repository/UOJ_1319.html) - Garota Hiperativa
-- [ ]  [1325](https://www.beecrowd.com.br/repository/UOJ_1325.html) - Mapas Bolha
-- [ ]  [1350](https://www.beecrowd.com.br/repository/UOJ_1350.html) - Esta Sentença é Falsa
-- [ ]  [1354](https://www.beecrowd.com.br/repository/UOJ_1354.html) - Um Quadrado Grande, Por Favor
-- [ ]  [1365](https://www.beecrowd.com.br/repository/UOJ_1365.html) - Procurando Assentos
-- [ ]  [1372](https://www.beecrowd.com.br/repository/UOJ_1372.html) - Doces
-- [ ]  [1395](https://www.beecrowd.com.br/repository/UOJ_1395.html) - Números e Operações
-- [ ]  [1396](https://www.beecrowd.com.br/repository/UOJ_1396.html) - Hoje tem Prova da Cris!
-- [ ]  [1408](https://www.beecrowd.com.br/repository/UOJ_1408.html) - Mário
-- [ ]  [1412](https://www.beecrowd.com.br/repository/UOJ_1412.html) - Cadeado com Segredo
-- [ ]  [1416](https://www.beecrowd.com.br/repository/UOJ_1416.html) - Placar do ICPC
-- [ ]  [1432](https://www.beecrowd.com.br/repository/UOJ_1432.html) - Strings Binárias Triple-Free
-- [ ]  [1473](https://www.beecrowd.com.br/repository/UOJ_1473.html) - Linhas de Contêiners
-- [ ]  [1474](https://www.beecrowd.com.br/repository/UOJ_1474.html) - Ônibus
-- [ ]  [1475](https://www.beecrowd.com.br/repository/UOJ_1475.html) - Remendo
-- [ ]  [1485](https://www.beecrowd.com.br/repository/UOJ_1485.html) - Roleta Turca
-- [ ]  [1487](https://www.beecrowd.com.br/repository/UOJ_1487.html) - Six Flags
-- [ ]  [1493](https://www.beecrowd.com.br/repository/UOJ_1493.html) - Abastecimento de Água Disjunto
-- [ ]  [1494](https://www.beecrowd.com.br/repository/UOJ_1494.html) - Onze
-- [ ]  [1509](https://www.beecrowd.com.br/repository/UOJ_1509.html) - Contando Ambiguidades
-- [ ]  [1510](https://www.beecrowd.com.br/repository/UOJ_1510.html) - O Passeio Turístico
-- [ ]  [1513](https://www.beecrowd.com.br/repository/UOJ_1513.html) - Cavalo
-- [ ]  [1517](https://www.beecrowd.com.br/repository/UOJ_1517.html) - Maçãs
-- [ ]  [1522](https://www.beecrowd.com.br/repository/UOJ_1522.html) - Jogo das Pilhas
-- [ ]  [1524](https://www.beecrowd.com.br/repository/UOJ_1524.html) - Fila do Bandejão
-- [ ]  [1543](https://www.beecrowd.com.br/repository/UOJ_1543.html) - Quadro Premiado
-- [ ]  [1545](https://www.beecrowd.com.br/repository/UOJ_1545.html) - Cartões II
-- [ ]  [1565](https://www.beecrowd.com.br/repository/UOJ_1565.html) - Ligue os Pontos
-- [ ]  [1579](https://www.beecrowd.com.br/repository/UOJ_1579.html) - Transporte de Painéis Solares
-- [ ]  [1590](https://www.beecrowd.com.br/repository/UOJ_1590.html) - Cuarenta e Dois
-- [ ]  [1595](https://www.beecrowd.com.br/repository/UOJ_1595.html) - Humm.. Andar ou Correr.. Eis a Questão
-- [ ]  [1596](https://www.beecrowd.com.br/repository/UOJ_1596.html) - Torneio de Yusuf II
-- [ ]  [1597](https://www.beecrowd.com.br/repository/UOJ_1597.html) - Desmascarando o Empregado do Sultão
-- [ ]  [1598](https://www.beecrowd.com.br/repository/UOJ_1598.html) - O Verdadeiro Valor dos Tapetes
-- [ ]  [1599](https://www.beecrowd.com.br/repository/UOJ_1599.html) - Picos do Átlas
-- [ ]  [1600](https://www.beecrowd.com.br/repository/UOJ_1600.html) - O Gato do Zelador do Armazém
-- [ ]  [1601](https://www.beecrowd.com.br/repository/UOJ_1601.html) - Partição do Rebanho
-- [ ]  [1602](https://www.beecrowd.com.br/repository/UOJ_1602.html) - Hiperprimos
-- [ ]  [1603](https://www.beecrowd.com.br/repository/UOJ_1603.html) - Canais de Qanat
-- [ ]  [1604](https://www.beecrowd.com.br/repository/UOJ_1604.html) - Pair-voting no Conselho de Gueliz
-- [ ]  [1605](https://www.beecrowd.com.br/repository/UOJ_1605.html) - Montando Sua Própria Cáfila
-- [ ]  [1606](https://www.beecrowd.com.br/repository/UOJ_1606.html) - As Dicas de Ali Babá
-- [ ]  [1608](https://www.beecrowd.com.br/repository/UOJ_1608.html) - Bolos da Maria
-- [ ]  [1611](https://www.beecrowd.com.br/repository/UOJ_1611.html) - Elevador Lotado
-- [ ]  [1614](https://www.beecrowd.com.br/repository/UOJ_1614.html) - Ajude o Turista
-- [ ]  [1616](https://www.beecrowd.com.br/repository/UOJ_1616.html) - Baile de Formatura
-- [ ]  [1636](https://www.beecrowd.com.br/repository/UOJ_1636.html) - Permutações Antimonotônicas Cíclicas
-- [ ]  [1637](https://www.beecrowd.com.br/repository/UOJ_1637.html) - Codificação Gamma de Elias
-- [ ]  [1642](https://www.beecrowd.com.br/repository/UOJ_1642.html) - Teclado Quebrado
-- [ ]  [1643](https://www.beecrowd.com.br/repository/UOJ_1643.html) - Converter Quilômetros para Milhas
-- [ ]  [1645](https://www.beecrowd.com.br/repository/UOJ_1645.html) - El Dorado
-- [ ]  [1648](https://www.beecrowd.com.br/repository/UOJ_1648.html) - Ajude Bob
-- [ ]  [1649](https://www.beecrowd.com.br/repository/UOJ_1649.html) - Ferramenta Irritante de Pintura
-- [ ]  [1654](https://www.beecrowd.com.br/repository/UOJ_1654.html) - Mercearia
-- [ ]  [1659](https://www.beecrowd.com.br/repository/UOJ_1659.html) - Chamadas Econômicas
-- [ ]  [1661](https://www.beecrowd.com.br/repository/UOJ_1661.html) - Comércio de Vinhos na Gergóvia
-- [ ]  [1666](https://www.beecrowd.com.br/repository/UOJ_1666.html) - Qualquer Tolo Consegue
-- [ ]  [1672](https://www.beecrowd.com.br/repository/UOJ_1672.html) - Em Perigo
-- [ ]  [1681](https://www.beecrowd.com.br/repository/UOJ_1681.html) - Dobra
-- [ ]  [1682](https://www.beecrowd.com.br/repository/UOJ_1682.html) - Código Genético
-- [ ]  [1685](https://www.beecrowd.com.br/repository/UOJ_1685.html) - Praça de Daniel
-- [ ]  [1687](https://www.beecrowd.com.br/repository/UOJ_1687.html) - Destrave o Celular
-- [ ]  [1689](https://www.beecrowd.com.br/repository/UOJ_1689.html) - Radares
-- [ ]  [1700](https://www.beecrowd.com.br/repository/UOJ_1700.html) - Antenas
-- [ ]  [1707](https://www.beecrowd.com.br/repository/UOJ_1707.html) - Jogo com Números
-- [ ]  [1720](https://www.beecrowd.com.br/repository/UOJ_1720.html) - Sonho de Mondriaan
-- [ ]  [1727](https://www.beecrowd.com.br/repository/UOJ_1727.html) - Copa Européia 2000
-- [ ]  [1744](https://www.beecrowd.com.br/repository/UOJ_1744.html) - Pedras Pretas e Brancas
-- [ ]  [1767](https://www.beecrowd.com.br/repository/UOJ_1767.html) - Saco do Papai Noel
-- [ ]  [1775](https://www.beecrowd.com.br/repository/UOJ_1775.html) - André e os Mentos
-- [ ]  [1777](https://www.beecrowd.com.br/repository/UOJ_1777.html) - Calçada da Fama
-- [ ]  [1784](https://www.beecrowd.com.br/repository/UOJ_1784.html) - Jacutingas vs Jaburus
-- [ ]  [1788](https://www.beecrowd.com.br/repository/UOJ_1788.html) - Brincando com Números
-- [ ]  [1798](https://www.beecrowd.com.br/repository/UOJ_1798.html) - Cortando Canos
-- [ ]  [1810](https://www.beecrowd.com.br/repository/UOJ_1810.html) - Beverly Hills, Century City
-- [ ]  [1822](https://www.beecrowd.com.br/repository/UOJ_1822.html) - Obras da China
-- [ ]  [1833](https://www.beecrowd.com.br/repository/UOJ_1833.html) - Decoração Natalina
-- [ ]  [1838](https://www.beecrowd.com.br/repository/UOJ_1838.html) - A Pedra Filosofal
-- [ ]  [1843](https://www.beecrowd.com.br/repository/UOJ_1843.html) - O Enigma do Príncipe
-- [ ]  [1852](https://www.beecrowd.com.br/repository/UOJ_1852.html) - Lobos Stark
-- [ ]  [1860](https://www.beecrowd.com.br/repository/UOJ_1860.html) - A Caminhada da Vergonha de Cersei
-- [ ]  [1878](https://www.beecrowd.com.br/repository/UOJ_1878.html) - Torneios em Sequência
-- [ ]  [1892](https://www.beecrowd.com.br/repository/UOJ_1892.html) - Calouro Vence Veterano?
-- [ ]  [1900](https://www.beecrowd.com.br/repository/UOJ_1900.html) - Sequências Nulas
-- [ ]  [1912](https://www.beecrowd.com.br/repository/UOJ_1912.html) - Ajude Seu Madruga
-- [ ]  [1913](https://www.beecrowd.com.br/repository/UOJ_1913.html) - Ajude o Sr. Barriga
-- [ ]  [1922](https://www.beecrowd.com.br/repository/UOJ_1922.html) - Diego e o Jogo do Martelo
-- [ ]  [1927](https://www.beecrowd.com.br/repository/UOJ_1927.html) - Tapioca e a Chuva de Trufas
-- [ ]  [1932](https://www.beecrowd.com.br/repository/UOJ_1932.html) - Bolsa de Valores
-- [ ]  [1970](https://www.beecrowd.com.br/repository/UOJ_1970.html) - Primeiro Contato
-- [ ]  [1976](https://www.beecrowd.com.br/repository/UOJ_1976.html) - Matrizes
-- [ ]  [1978](https://www.beecrowd.com.br/repository/UOJ_1978.html) - Câmeras
-- [ ]  [1996](https://www.beecrowd.com.br/repository/UOJ_1996.html) - Construção de Tendas
-- [ ]  [2024](https://www.beecrowd.com.br/repository/UOJ_2024.html) - Empilhando Presentes
-- [ ]  [2026](https://www.beecrowd.com.br/repository/UOJ_2026.html) - Árvore de Natal
-- [ ]  [2027](https://www.beecrowd.com.br/repository/UOJ_2027.html) - Aposta com Noel
-- [ ]  [2036](https://www.beecrowd.com.br/repository/UOJ_2036.html) - Efeito Dominó
-- [ ]  [2042](https://www.beecrowd.com.br/repository/UOJ_2042.html) - Fofão da Pérsia
-- [ ]  [2050](https://www.beecrowd.com.br/repository/UOJ_2050.html) - Bar do Ramsey
-- [ ]  [2052](https://www.beecrowd.com.br/repository/UOJ_2052.html) - Mapas de Karnaugh II
-- [ ]  [2053](https://www.beecrowd.com.br/repository/UOJ_2053.html) - ET Phone Home
-- [ ]  [2072](https://www.beecrowd.com.br/repository/UOJ_2072.html) - Canhões de Anúbis
-- [ ]  [2080](https://www.beecrowd.com.br/repository/UOJ_2080.html) - Seqüências de Röntgen
-- [ ]  [2089](https://www.beecrowd.com.br/repository/UOJ_2089.html) - Lanchonete
-- [ ]  [2095](https://www.beecrowd.com.br/repository/UOJ_2095.html) - Guerra
-- [ ]  [2099](https://www.beecrowd.com.br/repository/UOJ_2099.html) - Jogando Com Pedras
-- [ ]  [2105](https://www.beecrowd.com.br/repository/UOJ_2105.html) - Monopólio
-- [ ]  [2106](https://www.beecrowd.com.br/repository/UOJ_2106.html) - Montagem
-- [ ]  [2109](https://www.beecrowd.com.br/repository/UOJ_2109.html) - Duelo de Espiões
-- [ ]  [2113](https://www.beecrowd.com.br/repository/UOJ_2113.html) - O Incidente de Sverdlovsk
-- [ ]  [2115](https://www.beecrowd.com.br/repository/UOJ_2115.html) - Produção em Ecaterimburgo
-- [ ]  [2119](https://www.beecrowd.com.br/repository/UOJ_2119.html) - Goão e Escadas
-- [ ]  [2124](https://www.beecrowd.com.br/repository/UOJ_2124.html) - Cardápio da Sra. Montagny!
-- [ ]  [2169](https://www.beecrowd.com.br/repository/UOJ_2169.html) - Ajude o Leonardo!
-- [ ]  [2181](https://www.beecrowd.com.br/repository/UOJ_2181.html) - URI - Uireb Rhom uin Iavas
-- [ ]  [2183](https://www.beecrowd.com.br/repository/UOJ_2183.html) - Batalha Final
-- [ ]  [2220](https://www.beecrowd.com.br/repository/UOJ_2220.html) - Ajudando Gust-Avô
-- [ ]  [2224](https://www.beecrowd.com.br/repository/UOJ_2224.html) - Torneio de Pomekon
-- [ ]  [2226](https://www.beecrowd.com.br/repository/UOJ_2226.html) - Fabrica de Balões
-- [ ]  [2236](https://www.beecrowd.com.br/repository/UOJ_2236.html) - Batata Quente
-- [ ]  [2299](https://www.beecrowd.com.br/repository/UOJ_2299.html) - Pedido de Desculpas
-- [ ]  [2360](https://www.beecrowd.com.br/repository/UOJ_2360.html) - Centrais de Controle
-- [ ]  [2361](https://www.beecrowd.com.br/repository/UOJ_2361.html) - Entradas e Saídas
-- [ ]  [2363](https://www.beecrowd.com.br/repository/UOJ_2363.html) - Brincando com Transformações
-- [ ]  [2364](https://www.beecrowd.com.br/repository/UOJ_2364.html) - Henrique
-- [ ]  [2446](https://www.beecrowd.com.br/repository/UOJ_2446.html) - Troco
-- [ ]  [2475](https://www.beecrowd.com.br/repository/UOJ_2475.html) - Confecção de Presentes
-- [ ]  [2480](https://www.beecrowd.com.br/repository/UOJ_2480.html) - Luzes Vermelhas
-- [ ]  [2481](https://www.beecrowd.com.br/repository/UOJ_2481.html) - É Uma Cilada Bino
-- [ ]  [2491](https://www.beecrowd.com.br/repository/UOJ_2491.html) - Habay e Robfilho – Os Fujões
-- [ ]  [2498](https://www.beecrowd.com.br/repository/UOJ_2498.html) - Ajude Vânia
-- [ ]  [2501](https://www.beecrowd.com.br/repository/UOJ_2501.html) - Fatores Permitidos
-- [ ]  [2524](https://www.beecrowd.com.br/repository/UOJ_2524.html) - Balas de Morango
-- [ ]  [2527](https://www.beecrowd.com.br/repository/UOJ_2527.html) - Cheddar
-- [ ]  [2532](https://www.beecrowd.com.br/repository/UOJ_2532.html) - Demogorgon
-- [ ]  [2553](https://www.beecrowd.com.br/repository/UOJ_2553.html) - Passeio em FdI
-- [ ]  [2555](https://www.beecrowd.com.br/repository/UOJ_2555.html) - Quiz Universitário
-- [ ]  [2563](https://www.beecrowd.com.br/repository/UOJ_2563.html) - Transfira Para o Professor
-- [ ]  [2599](https://www.beecrowd.com.br/repository/UOJ_2599.html) - Contando Radares
-- [ ]  [2664](https://www.beecrowd.com.br/repository/UOJ_2664.html) - Ginástica
-- [ ]  [2677](https://www.beecrowd.com.br/repository/UOJ_2677.html) - Par ou Ímpar
-- [ ]  [2699](https://www.beecrowd.com.br/repository/UOJ_2699.html) - Enigma
-- [ ]  [2713](https://www.beecrowd.com.br/repository/UOJ_2713.html) - O Mago é Implacável!
-- [ ]  [2716](https://www.beecrowd.com.br/repository/UOJ_2716.html) - Dividindo os Trabalhos II
-- [ ]  [2723](https://www.beecrowd.com.br/repository/UOJ_2723.html) - Equilibrando Presentes
-- [ ]  [2778](https://www.beecrowd.com.br/repository/UOJ_2778.html) - Matriz do Dabriel
-- [ ]  [2799](https://www.beecrowd.com.br/repository/UOJ_2799.html) - Coral Nortista
-- [ ]  [2811](https://www.beecrowd.com.br/repository/UOJ_2811.html) - Sibi-Xor
-- [ ]  [2818](https://www.beecrowd.com.br/repository/UOJ_2818.html) - Jogo Divertido
-- [ ]  [2841](https://www.beecrowd.com.br/repository/UOJ_2841.html) - Dabriel e Sua Festa
-- [ ]  [2842](https://www.beecrowd.com.br/repository/UOJ_2842.html) - Dabriel e Suas Strings
-- [ ]  [2856](https://www.beecrowd.com.br/repository/UOJ_2856.html) - Viagem do Pão de Queijo
-- [ ]  [2877](https://www.beecrowd.com.br/repository/UOJ_2877.html) - Bolinhas de Gude
-- [ ]  [2881](https://www.beecrowd.com.br/repository/UOJ_2881.html) - Festival
-- [ ]  [2882](https://www.beecrowd.com.br/repository/UOJ_2882.html) - Gasolina
-- [ ]  [2888](https://www.beecrowd.com.br/repository/UOJ_2888.html) - Modificando SAT
-- [ ]  [2895](https://www.beecrowd.com.br/repository/UOJ_2895.html) - Velhas Balanças
-- [ ]  [2917](https://www.beecrowd.com.br/repository/UOJ_2917.html) - Barbante
-- [ ]  [2918](https://www.beecrowd.com.br/repository/UOJ_2918.html) - Dígitos Inteligentes
-- [ ]  [2919](https://www.beecrowd.com.br/repository/UOJ_2919.html) - Melhor Ordem
-- [ ]  [2920](https://www.beecrowd.com.br/repository/UOJ_2920.html) - Número Pequeno
-- [ ]  [2921](https://www.beecrowd.com.br/repository/UOJ_2921.html) - Quadros Alienígenas
-- [ ]  [2932](https://www.beecrowd.com.br/repository/UOJ_2932.html) - Renas do Papai Noel
-- [ ]  [2934](https://www.beecrowd.com.br/repository/UOJ_2934.html) - Noel e Suas Renas
-- [ ]  [2967](https://www.beecrowd.com.br/repository/UOJ_2967.html) - Florestas em Risco
-- [ ]  [2970](https://www.beecrowd.com.br/repository/UOJ_2970.html) - Keep Calm e Venda Balões
-- [ ]  [2973](https://www.beecrowd.com.br/repository/UOJ_2973.html) - Maratona Brasileira de Comedores de Pipoca
-- [ ]  [2976](https://www.beecrowd.com.br/repository/UOJ_2976.html) - Triângulos
-- [ ]  [3051](https://www.beecrowd.com.br/repository/UOJ_3051.html) - Soma
-- [ ]  [3073](https://www.beecrowd.com.br/repository/UOJ_3073.html) - Vetores
-- [ ]  [3086](https://www.beecrowd.com.br/repository/UOJ_3086.html) - O Cavaleiro Jedi Guilherme
-- [ ]  [3095](https://www.beecrowd.com.br/repository/UOJ_3095.html) - Pudim dos Guerreiros
-- [ ]  [3098](https://www.beecrowd.com.br/repository/UOJ_3098.html) - Plíndromo
-- [ ]  [3107](https://www.beecrowd.com.br/repository/UOJ_3107.html) - Pulo do Sapo
-- [ ]  [3114](https://www.beecrowd.com.br/repository/UOJ_3114.html) - Parkour
-- [ ]  [3116](https://www.beecrowd.com.br/repository/UOJ_3116.html) - Seguidores Impossíveis
-- [ ]  [3151](https://www.beecrowd.com.br/repository/UOJ_3151.html) - O Iogurte Divino
-- [ ]  [3153](https://www.beecrowd.com.br/repository/UOJ_3153.html) - Fake News
-- [ ]  [3178](https://www.beecrowd.com.br/repository/UOJ_3178.html) - Avenida de Álamos
-- [ ]  [3191](https://www.beecrowd.com.br/repository/UOJ_3191.html) - Copying DNA
-- [ ]  [3192](https://www.beecrowd.com.br/repository/UOJ_3192.html) - Circle of Debt
-- [ ]  [3195](https://www.beecrowd.com.br/repository/UOJ_3195.html) - Shopaholic
-- [ ]  [3196](https://www.beecrowd.com.br/repository/UOJ_3196.html) - Moogle
-- [ ]  [3197](https://www.beecrowd.com.br/repository/UOJ_3197.html) - Shoot-out
-- [ ]  [3251](https://www.beecrowd.com.br/repository/UOJ_3251.html) - ls
-- [ ]  [3274](https://www.beecrowd.com.br/repository/UOJ_3274.html) - Excursão
-- [ ]  [3277](https://www.beecrowd.com.br/repository/UOJ_3277.html) - Trabalho na Estrada
-- [ ]  [3349](https://www.beecrowd.com.br/repository/UOJ_3349.html) - Armadura
+- [ ] [1027](https://resources.beecrowd.com/repository/UOJ_1027.html) - Onda Crítica
+- [ ] [1033](https://resources.beecrowd.com/repository/UOJ_1033.html) - Quantas Chamadas Recursivas?
+- [ ] [1034](https://resources.beecrowd.com/repository/UOJ_1034.html) - Festival de Estátuas de Gelo
+- [ ] [1054](https://resources.beecrowd.com/repository/UOJ_1054.html) - Sapo Dinâmico
+- [ ] [1055](https://resources.beecrowd.com/repository/UOJ_1055.html) - Soma Permutada Elegante
+- [ ] [1058](https://resources.beecrowd.com/repository/UOJ_1058.html) - Zonas de Ataque Independentes
+- [ ] [1106](https://resources.beecrowd.com/repository/UOJ_1106.html) - Dragster
+- [ ] [1203](https://resources.beecrowd.com/repository/UOJ_1203.html) - Pontes de São Petersburgo
+- [ ] [1210](https://resources.beecrowd.com/repository/UOJ_1210.html) - Produção Ótima de Ótima Vodka
+- [ ] [1224](https://resources.beecrowd.com/repository/UOJ_1224.html) - Cartões
+- [ ] [1226](https://resources.beecrowd.com/repository/UOJ_1226.html) - Elevador Espacial
+- [ ] [1229](https://resources.beecrowd.com/repository/UOJ_1229.html) - Combate ao Câncer
+- [ ] [1231](https://resources.beecrowd.com/repository/UOJ_1231.html) - Palavras
+- [ ] [1265](https://resources.beecrowd.com/repository/UOJ_1265.html) - DJ da Computação
+- [ ] [1269](https://resources.beecrowd.com/repository/UOJ_1269.html) - ICPC Ataca Novamente
+- [ ] [1282](https://resources.beecrowd.com/repository/UOJ_1282.html) - Organizando Pacotes
+- [ ] [1283](https://resources.beecrowd.com/repository/UOJ_1283.html) - Caixas e Pedras
+- [ ] [1286](https://resources.beecrowd.com/repository/UOJ_1286.html) - Motoboy
+- [ ] [1288](https://resources.beecrowd.com/repository/UOJ_1288.html) - Canhão de Destruição
+- [ ] [1299](https://resources.beecrowd.com/repository/UOJ_1299.html) - Jogo de Mosaicos
+- [ ] [1312](https://resources.beecrowd.com/repository/UOJ_1312.html) - Empilhamento de Bolas
+- [ ] [1319](https://resources.beecrowd.com/repository/UOJ_1319.html) - Garota Hiperativa
+- [ ] [1325](https://resources.beecrowd.com/repository/UOJ_1325.html) - Mapas Bolha
+- [ ] [1350](https://resources.beecrowd.com/repository/UOJ_1350.html) - Esta Sentença é Falsa
+- [ ] [1354](https://resources.beecrowd.com/repository/UOJ_1354.html) - Um Quadrado Grande, Por Favor
+- [ ] [1365](https://resources.beecrowd.com/repository/UOJ_1365.html) - Procurando Assentos
+- [ ] [1372](https://resources.beecrowd.com/repository/UOJ_1372.html) - Doces
+- [ ] [1395](https://resources.beecrowd.com/repository/UOJ_1395.html) - Números e Operações
+- [ ] [1396](https://resources.beecrowd.com/repository/UOJ_1396.html) - Hoje tem Prova da Cris!
+- [ ] [1408](https://resources.beecrowd.com/repository/UOJ_1408.html) - Mário
+- [ ] [1412](https://resources.beecrowd.com/repository/UOJ_1412.html) - Cadeado com Segredo
+- [ ] [1416](https://resources.beecrowd.com/repository/UOJ_1416.html) - Placar do ICPC
+- [ ] [1432](https://resources.beecrowd.com/repository/UOJ_1432.html) - Strings Binárias Triple-Free
+- [ ] [1473](https://resources.beecrowd.com/repository/UOJ_1473.html) - Linhas de Contêiners
+- [ ] [1474](https://resources.beecrowd.com/repository/UOJ_1474.html) - Ônibus
+- [ ] [1475](https://resources.beecrowd.com/repository/UOJ_1475.html) - Remendo
+- [ ] [1485](https://resources.beecrowd.com/repository/UOJ_1485.html) - Roleta Turca
+- [ ] [1487](https://resources.beecrowd.com/repository/UOJ_1487.html) - Six Flags
+- [ ] [1493](https://resources.beecrowd.com/repository/UOJ_1493.html) - Abastecimento de Água Disjunto
+- [ ] [1494](https://resources.beecrowd.com/repository/UOJ_1494.html) - Onze
+- [ ] [1509](https://resources.beecrowd.com/repository/UOJ_1509.html) - Contando Ambiguidades
+- [ ] [1510](https://resources.beecrowd.com/repository/UOJ_1510.html) - O Passeio Turístico
+- [ ] [1513](https://resources.beecrowd.com/repository/UOJ_1513.html) - Cavalo
+- [ ] [1517](https://resources.beecrowd.com/repository/UOJ_1517.html) - Maçãs
+- [ ] [1522](https://resources.beecrowd.com/repository/UOJ_1522.html) - Jogo das Pilhas
+- [ ] [1524](https://resources.beecrowd.com/repository/UOJ_1524.html) - Fila do Bandejão
+- [ ] [1543](https://resources.beecrowd.com/repository/UOJ_1543.html) - Quadro Premiado
+- [ ] [1545](https://resources.beecrowd.com/repository/UOJ_1545.html) - Cartões II
+- [ ] [1565](https://resources.beecrowd.com/repository/UOJ_1565.html) - Ligue os Pontos
+- [ ] [1579](https://resources.beecrowd.com/repository/UOJ_1579.html) - Transporte de Painéis Solares
+- [ ] [1590](https://resources.beecrowd.com/repository/UOJ_1590.html) - Cuarenta e Dois
+- [ ] [1595](https://resources.beecrowd.com/repository/UOJ_1595.html) - Humm.. Andar ou Correr.. Eis a Questão
+- [ ] [1596](https://resources.beecrowd.com/repository/UOJ_1596.html) - Torneio de Yusuf II
+- [ ] [1597](https://resources.beecrowd.com/repository/UOJ_1597.html) - Desmascarando o Empregado do Sultão
+- [ ] [1598](https://resources.beecrowd.com/repository/UOJ_1598.html) - O Verdadeiro Valor dos Tapetes
+- [ ] [1599](https://resources.beecrowd.com/repository/UOJ_1599.html) - Picos do Átlas
+- [ ] [1600](https://resources.beecrowd.com/repository/UOJ_1600.html) - O Gato do Zelador do Armazém
+- [ ] [1601](https://resources.beecrowd.com/repository/UOJ_1601.html) - Partição do Rebanho
+- [ ] [1602](https://resources.beecrowd.com/repository/UOJ_1602.html) - Hiperprimos
+- [ ] [1603](https://resources.beecrowd.com/repository/UOJ_1603.html) - Canais de Qanat
+- [ ] [1604](https://resources.beecrowd.com/repository/UOJ_1604.html) - Pair-voting no Conselho de Gueliz
+- [ ] [1605](https://resources.beecrowd.com/repository/UOJ_1605.html) - Montando Sua Própria Cáfila
+- [ ] [1606](https://resources.beecrowd.com/repository/UOJ_1606.html) - As Dicas de Ali Babá
+- [ ] [1608](https://resources.beecrowd.com/repository/UOJ_1608.html) - Bolos da Maria
+- [ ] [1611](https://resources.beecrowd.com/repository/UOJ_1611.html) - Elevador Lotado
+- [ ] [1614](https://resources.beecrowd.com/repository/UOJ_1614.html) - Ajude o Turista
+- [ ] [1616](https://resources.beecrowd.com/repository/UOJ_1616.html) - Baile de Formatura
+- [ ] [1636](https://resources.beecrowd.com/repository/UOJ_1636.html) - Permutações Antimonotônicas Cíclicas
+- [ ] [1637](https://resources.beecrowd.com/repository/UOJ_1637.html) - Codificação Gamma de Elias
+- [ ] [1642](https://resources.beecrowd.com/repository/UOJ_1642.html) - Teclado Quebrado
+- [ ] [1643](https://resources.beecrowd.com/repository/UOJ_1643.html) - Converter Quilômetros para Milhas
+- [ ] [1645](https://resources.beecrowd.com/repository/UOJ_1645.html) - El Dorado
+- [ ] [1648](https://resources.beecrowd.com/repository/UOJ_1648.html) - Ajude Bob
+- [ ] [1649](https://resources.beecrowd.com/repository/UOJ_1649.html) - Ferramenta Irritante de Pintura
+- [ ] [1654](https://resources.beecrowd.com/repository/UOJ_1654.html) - Mercearia
+- [ ] [1659](https://resources.beecrowd.com/repository/UOJ_1659.html) - Chamadas Econômicas
+- [ ] [1661](https://resources.beecrowd.com/repository/UOJ_1661.html) - Comércio de Vinhos na Gergóvia
+- [ ] [1666](https://resources.beecrowd.com/repository/UOJ_1666.html) - Qualquer Tolo Consegue
+- [ ] [1672](https://resources.beecrowd.com/repository/UOJ_1672.html) - Em Perigo
+- [ ] [1681](https://resources.beecrowd.com/repository/UOJ_1681.html) - Dobra
+- [ ] [1682](https://resources.beecrowd.com/repository/UOJ_1682.html) - Código Genético
+- [ ] [1685](https://resources.beecrowd.com/repository/UOJ_1685.html) - Praça de Daniel
+- [ ] [1687](https://resources.beecrowd.com/repository/UOJ_1687.html) - Destrave o Celular
+- [ ] [1689](https://resources.beecrowd.com/repository/UOJ_1689.html) - Radares
+- [ ] [1700](https://resources.beecrowd.com/repository/UOJ_1700.html) - Antenas
+- [ ] [1707](https://resources.beecrowd.com/repository/UOJ_1707.html) - Jogo com Números
+- [ ] [1720](https://resources.beecrowd.com/repository/UOJ_1720.html) - Sonho de Mondriaan
+- [ ] [1727](https://resources.beecrowd.com/repository/UOJ_1727.html) - Copa Européia 2000
+- [ ] [1744](https://resources.beecrowd.com/repository/UOJ_1744.html) - Pedras Pretas e Brancas
+- [ ] [1767](https://resources.beecrowd.com/repository/UOJ_1767.html) - Saco do Papai Noel
+- [ ] [1775](https://resources.beecrowd.com/repository/UOJ_1775.html) - André e os Mentos
+- [ ] [1777](https://resources.beecrowd.com/repository/UOJ_1777.html) - Calçada da Fama
+- [ ] [1784](https://resources.beecrowd.com/repository/UOJ_1784.html) - Jacutingas vs Jaburus
+- [ ] [1788](https://resources.beecrowd.com/repository/UOJ_1788.html) - Brincando com Números
+- [ ] [1798](https://resources.beecrowd.com/repository/UOJ_1798.html) - Cortando Canos
+- [ ] [1810](https://resources.beecrowd.com/repository/UOJ_1810.html) - Beverly Hills, Century City
+- [ ] [1822](https://resources.beecrowd.com/repository/UOJ_1822.html) - Obras da China
+- [ ] [1833](https://resources.beecrowd.com/repository/UOJ_1833.html) - Decoração Natalina
+- [ ] [1838](https://resources.beecrowd.com/repository/UOJ_1838.html) - A Pedra Filosofal
+- [ ] [1843](https://resources.beecrowd.com/repository/UOJ_1843.html) - O Enigma do Príncipe
+- [ ] [1852](https://resources.beecrowd.com/repository/UOJ_1852.html) - Lobos Stark
+- [ ] [1860](https://resources.beecrowd.com/repository/UOJ_1860.html) - A Caminhada da Vergonha de Cersei
+- [ ] [1878](https://resources.beecrowd.com/repository/UOJ_1878.html) - Torneios em Sequência
+- [ ] [1892](https://resources.beecrowd.com/repository/UOJ_1892.html) - Calouro Vence Veterano?
+- [ ] [1900](https://resources.beecrowd.com/repository/UOJ_1900.html) - Sequências Nulas
+- [ ] [1912](https://resources.beecrowd.com/repository/UOJ_1912.html) - Ajude Seu Madruga
+- [ ] [1913](https://resources.beecrowd.com/repository/UOJ_1913.html) - Ajude o Sr. Barriga
+- [ ] [1922](https://resources.beecrowd.com/repository/UOJ_1922.html) - Diego e o Jogo do Martelo
+- [ ] [1927](https://resources.beecrowd.com/repository/UOJ_1927.html) - Tapioca e a Chuva de Trufas
+- [ ] [1932](https://resources.beecrowd.com/repository/UOJ_1932.html) - Bolsa de Valores
+- [ ] [1970](https://resources.beecrowd.com/repository/UOJ_1970.html) - Primeiro Contato
+- [ ] [1976](https://resources.beecrowd.com/repository/UOJ_1976.html) - Matrizes
+- [ ] [1978](https://resources.beecrowd.com/repository/UOJ_1978.html) - Câmeras
+- [ ] [1996](https://resources.beecrowd.com/repository/UOJ_1996.html) - Construção de Tendas
+- [ ] [2024](https://resources.beecrowd.com/repository/UOJ_2024.html) - Empilhando Presentes
+- [ ] [2026](https://resources.beecrowd.com/repository/UOJ_2026.html) - Árvore de Natal
+- [ ] [2027](https://resources.beecrowd.com/repository/UOJ_2027.html) - Aposta com Noel
+- [ ] [2036](https://resources.beecrowd.com/repository/UOJ_2036.html) - Efeito Dominó
+- [ ] [2042](https://resources.beecrowd.com/repository/UOJ_2042.html) - Fofão da Pérsia
+- [ ] [2050](https://resources.beecrowd.com/repository/UOJ_2050.html) - Bar do Ramsey
+- [ ] [2052](https://resources.beecrowd.com/repository/UOJ_2052.html) - Mapas de Karnaugh II
+- [ ] [2053](https://resources.beecrowd.com/repository/UOJ_2053.html) - ET Phone Home
+- [ ] [2072](https://resources.beecrowd.com/repository/UOJ_2072.html) - Canhões de Anúbis
+- [ ] [2080](https://resources.beecrowd.com/repository/UOJ_2080.html) - Seqüências de Röntgen
+- [ ] [2089](https://resources.beecrowd.com/repository/UOJ_2089.html) - Lanchonete
+- [ ] [2095](https://resources.beecrowd.com/repository/UOJ_2095.html) - Guerra
+- [ ] [2099](https://resources.beecrowd.com/repository/UOJ_2099.html) - Jogando Com Pedras
+- [ ] [2105](https://resources.beecrowd.com/repository/UOJ_2105.html) - Monopólio
+- [ ] [2106](https://resources.beecrowd.com/repository/UOJ_2106.html) - Montagem
+- [ ] [2109](https://resources.beecrowd.com/repository/UOJ_2109.html) - Duelo de Espiões
+- [ ] [2113](https://resources.beecrowd.com/repository/UOJ_2113.html) - O Incidente de Sverdlovsk
+- [ ] [2115](https://resources.beecrowd.com/repository/UOJ_2115.html) - Produção em Ecaterimburgo
+- [ ] [2119](https://resources.beecrowd.com/repository/UOJ_2119.html) - Goão e Escadas
+- [ ] [2124](https://resources.beecrowd.com/repository/UOJ_2124.html) - Cardápio da Sra. Montagny!
+- [ ] [2169](https://resources.beecrowd.com/repository/UOJ_2169.html) - Ajude o Leonardo!
+- [ ] [2181](https://resources.beecrowd.com/repository/UOJ_2181.html) - URI - Uireb Rhom uin Iavas
+- [ ] [2183](https://resources.beecrowd.com/repository/UOJ_2183.html) - Batalha Final
+- [ ] [2220](https://resources.beecrowd.com/repository/UOJ_2220.html) - Ajudando Gust-Avô
+- [ ] [2224](https://resources.beecrowd.com/repository/UOJ_2224.html) - Torneio de Pomekon
+- [ ] [2226](https://resources.beecrowd.com/repository/UOJ_2226.html) - Fabrica de Balões
+- [ ] [2236](https://resources.beecrowd.com/repository/UOJ_2236.html) - Batata Quente
+- [ ] [2299](https://resources.beecrowd.com/repository/UOJ_2299.html) - Pedido de Desculpas
+- [ ] [2360](https://resources.beecrowd.com/repository/UOJ_2360.html) - Centrais de Controle
+- [ ] [2361](https://resources.beecrowd.com/repository/UOJ_2361.html) - Entradas e Saídas
+- [ ] [2363](https://resources.beecrowd.com/repository/UOJ_2363.html) - Brincando com Transformações
+- [ ] [2364](https://resources.beecrowd.com/repository/UOJ_2364.html) - Henrique
+- [ ] [2446](https://resources.beecrowd.com/repository/UOJ_2446.html) - Troco
+- [ ] [2475](https://resources.beecrowd.com/repository/UOJ_2475.html) - Confecção de Presentes
+- [ ] [2480](https://resources.beecrowd.com/repository/UOJ_2480.html) - Luzes Vermelhas
+- [ ] [2481](https://resources.beecrowd.com/repository/UOJ_2481.html) - É Uma Cilada Bino
+- [ ] [2491](https://resources.beecrowd.com/repository/UOJ_2491.html) - Habay e Robfilho – Os Fujões
+- [ ] [2498](https://resources.beecrowd.com/repository/UOJ_2498.html) - Ajude Vânia
+- [ ] [2501](https://resources.beecrowd.com/repository/UOJ_2501.html) - Fatores Permitidos
+- [ ] [2524](https://resources.beecrowd.com/repository/UOJ_2524.html) - Balas de Morango
+- [ ] [2527](https://resources.beecrowd.com/repository/UOJ_2527.html) - Cheddar
+- [ ] [2532](https://resources.beecrowd.com/repository/UOJ_2532.html) - Demogorgon
+- [ ] [2553](https://resources.beecrowd.com/repository/UOJ_2553.html) - Passeio em FdI
+- [ ] [2555](https://resources.beecrowd.com/repository/UOJ_2555.html) - Quiz Universitário
+- [ ] [2563](https://resources.beecrowd.com/repository/UOJ_2563.html) - Transfira Para o Professor
+- [ ] [2599](https://resources.beecrowd.com/repository/UOJ_2599.html) - Contando Radares
+- [ ] [2664](https://resources.beecrowd.com/repository/UOJ_2664.html) - Ginástica
+- [ ] [2677](https://resources.beecrowd.com/repository/UOJ_2677.html) - Par ou Ímpar
+- [ ] [2699](https://resources.beecrowd.com/repository/UOJ_2699.html) - Enigma
+- [ ] [2713](https://resources.beecrowd.com/repository/UOJ_2713.html) - O Mago é Implacável!
+- [ ] [2716](https://resources.beecrowd.com/repository/UOJ_2716.html) - Dividindo os Trabalhos II
+- [ ] [2723](https://resources.beecrowd.com/repository/UOJ_2723.html) - Equilibrando Presentes
+- [ ] [2778](https://resources.beecrowd.com/repository/UOJ_2778.html) - Matriz do Dabriel
+- [ ] [2799](https://resources.beecrowd.com/repository/UOJ_2799.html) - Coral Nortista
+- [ ] [2811](https://resources.beecrowd.com/repository/UOJ_2811.html) - Sibi-Xor
+- [ ] [2818](https://resources.beecrowd.com/repository/UOJ_2818.html) - Jogo Divertido
+- [ ] [2841](https://resources.beecrowd.com/repository/UOJ_2841.html) - Dabriel e Sua Festa
+- [ ] [2842](https://resources.beecrowd.com/repository/UOJ_2842.html) - Dabriel e Suas Strings
+- [ ] [2856](https://resources.beecrowd.com/repository/UOJ_2856.html) - Viagem do Pão de Queijo
+- [ ] [2877](https://resources.beecrowd.com/repository/UOJ_2877.html) - Bolinhas de Gude
+- [ ] [2881](https://resources.beecrowd.com/repository/UOJ_2881.html) - Festival
+- [ ] [2882](https://resources.beecrowd.com/repository/UOJ_2882.html) - Gasolina
+- [ ] [2888](https://resources.beecrowd.com/repository/UOJ_2888.html) - Modificando SAT
+- [ ] [2895](https://resources.beecrowd.com/repository/UOJ_2895.html) - Velhas Balanças
+- [ ] [2917](https://resources.beecrowd.com/repository/UOJ_2917.html) - Barbante
+- [ ] [2918](https://resources.beecrowd.com/repository/UOJ_2918.html) - Dígitos Inteligentes
+- [ ] [2919](https://resources.beecrowd.com/repository/UOJ_2919.html) - Melhor Ordem
+- [ ] [2920](https://resources.beecrowd.com/repository/UOJ_2920.html) - Número Pequeno
+- [ ] [2921](https://resources.beecrowd.com/repository/UOJ_2921.html) - Quadros Alienígenas
+- [ ] [2932](https://resources.beecrowd.com/repository/UOJ_2932.html) - Renas do Papai Noel
+- [ ] [2934](https://resources.beecrowd.com/repository/UOJ_2934.html) - Noel e Suas Renas
+- [ ] [2967](https://resources.beecrowd.com/repository/UOJ_2967.html) - Florestas em Risco
+- [ ] [2970](https://resources.beecrowd.com/repository/UOJ_2970.html) - Keep Calm e Venda Balões
+- [ ] [2973](https://resources.beecrowd.com/repository/UOJ_2973.html) - Maratona Brasileira de Comedores de Pipoca
+- [ ] [2976](https://resources.beecrowd.com/repository/UOJ_2976.html) - Triângulos
+- [ ] [3051](https://resources.beecrowd.com/repository/UOJ_3051.html) - Soma
+- [ ] [3073](https://resources.beecrowd.com/repository/UOJ_3073.html) - Vetores
+- [ ] [3086](https://resources.beecrowd.com/repository/UOJ_3086.html) - O Cavaleiro Jedi Guilherme
+- [ ] [3095](https://resources.beecrowd.com/repository/UOJ_3095.html) - Pudim dos Guerreiros
+- [ ] [3098](https://resources.beecrowd.com/repository/UOJ_3098.html) - Plíndromo
+- [ ] [3107](https://resources.beecrowd.com/repository/UOJ_3107.html) - Pulo do Sapo
+- [ ] [3114](https://resources.beecrowd.com/repository/UOJ_3114.html) - Parkour
+- [ ] [3116](https://resources.beecrowd.com/repository/UOJ_3116.html) - Seguidores Impossíveis
+- [ ] [3151](https://resources.beecrowd.com/repository/UOJ_3151.html) - O Iogurte Divino
+- [ ] [3153](https://resources.beecrowd.com/repository/UOJ_3153.html) - Fake News
+- [ ] [3178](https://resources.beecrowd.com/repository/UOJ_3178.html) - Avenida de Álamos
+- [ ] [3191](https://resources.beecrowd.com/repository/UOJ_3191.html) - Copying DNA
+- [ ] [3192](https://resources.beecrowd.com/repository/UOJ_3192.html) - Circle of Debt
+- [ ] [3195](https://resources.beecrowd.com/repository/UOJ_3195.html) - Shopaholic
+- [ ] [3196](https://resources.beecrowd.com/repository/UOJ_3196.html) - Moogle
+- [ ] [3197](https://resources.beecrowd.com/repository/UOJ_3197.html) - Shoot-out
+- [ ] [3251](https://resources.beecrowd.com/repository/UOJ_3251.html) - ls
+- [ ] [3274](https://resources.beecrowd.com/repository/UOJ_3274.html) - Excursão
+- [ ] [3277](https://resources.beecrowd.com/repository/UOJ_3277.html) - Trabalho na Estrada
+- [ ] [3349](https://resources.beecrowd.com/repository/UOJ_3349.html) - Armadura
+- [ ] [3496](https://resources.beecrowd.com/repository/UOJ_3496.html) - Promoção imperdível
