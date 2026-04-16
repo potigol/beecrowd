@@ -8,8 +8,7 @@ marcar(x, y: Inteiro): Nada
   marcado[x][y] := verdadeiro
   bandeiras := bandeiras + 1
   vizinhos = [(x - 1, y), (x + 1, y), (x, y - 1), (x, y + 1)]
-  para a em vizinhos faça
-    i, j = a.primeiro, a.segundo
+  para (i, j) em vizinhos faça
     se i > 0 e i <= n e j > 0 e j <= n e matriz[x][y] <= matriz[i][j] e não marcado[i][j] então
       marcar(i, j)
     fim
