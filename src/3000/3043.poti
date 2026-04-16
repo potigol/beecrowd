@@ -12,8 +12,8 @@ enquanto n > 0 faca
   fim
   t := t + 1
   r = valores.mapeie(_.tamanho).ordene.ultimo
-  escreva "Teste {t}
-          |{r}
-          |"
+  escreva "Teste {t}"
+  escreva r
+  escreva ""
   n := leia_inteiro
 fim

@@ -1,13 +1,13 @@
 var linha := leia_texto
 enquanto nao eof faca
-  saida = para c em linha gere
+  saida = para c em linha.lista gere
     escolha c
-      caso '@' => 'a'
+      caso  c  se não "@&!*#".contém(c) =>  c
       caso '&' => 'e'
       caso '!' => 'i'
       caso '*' => 'o'
       caso '#' => 'u'
-      caso  c  =>  c
+      caso  _  => 'a'
     fim
   fim
   escreva saida.junte("")

@@ -1,7 +1,15 @@
+corrija(s: Texto): Texto =
+  se s.tamanho < 2 então s
+  senão
+    se s[1] == ' ' e (s[2] == ',' ou s[2] == '.') então
+      "{s[2]}{corrija(s.descarte(2))}"
+    senão
+      "{s[1]}{corrija(s.descarte(1))}"
+    fim
+  fim
+
 var a := leia_texto
 enquanto a <> "" faca
-  s = a.split(" ,").mkString(",")
-       .split(" \\.").mkString(".")
-  escreva s
+  escreva corrija(a)
   a := leia_texto
 fim

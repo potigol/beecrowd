@@ -13,4 +13,4 @@ min_max = se l > h   então (h, h)
             senão          (h, f)
             fim
           fim
-escreva "{min_max.primeiro formato "%.9f"} {min_max.segundo formato "%.9f"}"
+escreva "{min_max.primeiro formato "%.6f"} {min_max.segundo formato "%.6f"}"

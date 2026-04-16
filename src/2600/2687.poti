@@ -1,7 +1,7 @@
 q = leia_inteiro
 para i de 1 até q faça
   l = leia_inteiro
-  grid = para j de 1 até l gere leia_inteiros(" ").mutável fim.mutável
+  var grid := para j de 1 até l gere leia_inteiros(" ").mutável fim.mutável
   var pontos = Lista(0, 0)
   para j de 1 até l faça
     pontos := [100 + j, 100 * l + j, 100 * j + 1, 100 * j + l] + pontos

@@ -1,10 +1,11 @@
-var volume := leia_real
-enquanto volume > 0 faca
+var entrada := leia_texto
+enquanto nao eof faca
+  volume = entrada.real
   diametro = leia_real
   raio = diametro / 2
   area  = 3.14 * raio ^ 2
   altura = volume / area
-  escreva "ALTURA = {altura  formato "%.2f"}"
+  escreva "ALTURA = {altura formato "%.2f"}"
   escreva "AREA = {area formato "%.2f"}"
-  volume := leia_real
+  entrada := leia_texto
 fim

@@ -7,8 +7,8 @@ enquanto r > 0 faça
     saldo := saldo + rodada[1] - rodada[2]
   fim
   t := t + 1
-  escreva "Teste {t}
-          |{se saldo > 0 então "Aldo" senão "Beto" fim}
-          |"
+  escreva "Teste {t}"
+  escreva se saldo > 0 então "Aldo" senão "Beto" fim
+  escreva ""
   r := leia_inteiro
 fim
