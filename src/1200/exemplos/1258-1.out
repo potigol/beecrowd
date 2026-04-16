@@ -1,0 +1,13 @@
+branco P Cezar Torres Mo
+branco P Maria Jose
+branco M JuJu Mentina
+branco G Adabi Finho
+branco G Severina Rigudinha
+vermelho P Amaro Dinha
+vermelho P Baka Lhau
+vermelho P Carlos Chade Losna
+vermelho P Mangojata Mancuda
+
+branco P Maria Joao
+branco P Maria Jose
+vermelho P Marcio Guess
