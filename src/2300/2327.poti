@@ -8,9 +8,9 @@ n = leia_inteiro
 a = para i de 1 até n gere leia_inteiros(" ") fim
 
 s = somar_linha(a, n)
-soma = ( s(i => (i, i)) ::              # diagonal principal
+soma = (s(i => (i, i)) ::              # diagonal principal
          s(i => (i, n - i + 1)) ::      # diagonal secundária
-         para j de 1 ate n gere s(i => (j, i)) fim +
-         para j de 1 ate n gere s(i => (i, j)) fim ).ordene
+         para j de 1 até n gere s(i => (j, i)) fim +
+         para j de 1 até n gere s(i => (i, j)) fim).ordene
 
 escreva se soma[1] == soma[-1] então soma[1] senão -1 fim

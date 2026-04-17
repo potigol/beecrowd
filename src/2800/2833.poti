@@ -4,11 +4,11 @@ confronto(a, b, n: Inteiro) =
 jogadores = leia_inteiros(" ")
 kung = jogadores.posicao(1)
 lu = jogadores.posicao(9)
-se confronto(kung, lu, 16) entao
+se confronto(kung, lu, 16) então
   escreva "final"
-senaose confronto(kung, lu, 8) entao
+senãose confronto(kung, lu, 8) então
   escreva "semifinal"
-senaose confronto(kung, lu, 4) entao
+senãose confronto(kung, lu, 4) então
   escreva "quartas"
 senão
   escreva "oitavas"

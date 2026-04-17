@@ -1,7 +1,7 @@
 b, g = leia_inteiro
 faltam = g div 2 - b
-se faltam > 0 entao
+se faltam > 0 então
   escreva "Faltam {faltam} bolinha(s)"
-senao
+senão
   escreva "Amelia tem todas bolinhas!"
 fim

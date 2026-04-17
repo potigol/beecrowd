@@ -14,7 +14,7 @@ teclas(digito: Caractere): Texto = escolha digito
   fim
 
 n = leia_inteiro
-para i de 1 ate n faca
+para i de 1 até n faça
   linha = leia_texto
   sequencia = linha.lista
                .mapeie(teclas)

@@ -1,8 +1,8 @@
 q = leia_inteiro
 v = leia_inteiros(" ")
 insatisfeitos = v.injete(0)(_ + _)
-se q - insatisfeitos > q div 2 entao
+se q - insatisfeitos > q div 2 então
   escreva "Y"
-senao
+senão
   escreva "N"
 fim

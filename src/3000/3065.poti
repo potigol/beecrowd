@@ -1,6 +1,6 @@
 var m:= leia_inteiro
 var teste := 0
-enquanto m > 0 faca
+enquanto m > 0 faça
   x = leia_textos("+").mapeie(_.divida("-").mapeie(_.inteiro))
   y = x.mapeie(a => a.cauda.injete(a.cabeca)(_ - _)).injete(0)(_ + _)
   teste := teste + 1

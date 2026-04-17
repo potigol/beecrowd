@@ -10,8 +10,8 @@ fim
 
 var n:= leia_inteiro
 enquanto n > 0 faça
-  se primo(n) entao
-    se n.texto - "014689" == n.texto entao
+  se primo(n) então
+    se n.texto - "014689" == n.texto então
       escreva "Super"
     senão
       escreva "Primo"

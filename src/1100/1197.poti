@@ -1,5 +1,5 @@
 var s := leia_inteiros(" ")
-enquanto nao eof faça
+enquanto não eof faça
   v, t = s[1], s[2]
   escreva v * t * 2
   s := leia_inteiros(" ")

@@ -1,5 +1,5 @@
 t = leia_inteiro
-para i de 1 ate t faca
+para i de 1 até t faça
   conversao = leia_texto
   rgb = leia_inteiros(" ")
   r, g, b = rgb[1], rgb[2], rgb[3]

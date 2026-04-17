@@ -1,5 +1,5 @@
 var s := leia_texto
-enquanto nao eof faça
+enquanto não eof faça
   abc = s.lista.mapeie(_ - 'A')
   decimal = abc.injete(BigInt(0))((a,b) => (a * 26 + b) mod 1000000007)
   escreva decimal

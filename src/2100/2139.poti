@@ -1,7 +1,7 @@
 var entrada := leia_texto
 var dias := 0
 
-enquanto nao eof faça
+enquanto não eof faça
   mes, dia = entrada.divida(" ")[1].inteiro, entrada.divida(" ")[2].inteiro
 
   escolha mes
@@ -19,9 +19,9 @@ enquanto nao eof faça
     caso _ => dias := -2
   fim
 
-  se ((mes == 12) e (dia <= 25)) então
+  se (mes == 12) e (dia <= 25) então
     dias := 25 - dia
-  senãose ((mes == 12) e (dia > 25)) então
+  senãose (mes == 12) e (dia > 25) então
     dias := -1
   fim
 

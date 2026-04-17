@@ -1,5 +1,5 @@
 var linha := leia_texto
-enquanto nao eof faca
+enquanto não eof faça
   saida = para c em linha.lista gere
     escolha c
       caso  c  se não "@&!*#".contém(c) =>  c

@@ -1,5 +1,5 @@
 n = leia_inteiro
-para i de 1 ate n faca
+para i de 1 até n faça
   num = leia_inteiros(" ")
   tomadas = num.cauda.injete(0)(_ + _) - num.cabeca + 1
   escreva tomadas

@@ -2,11 +2,11 @@ a = leia_inteiros(" ")
 n, m = a[1], a[2]
 frutas = leia_textos(n).mapeie(_.minusculo)
 linhas = leia_textos(m).mapeie(_.minusculo).junte(" ")
-para fruta em frutas faca
+para fruta em frutas faça
   se linhas.divida(fruta).tamanho > 1 ou
-     linhas.divida(fruta.inverta).tamanho > 1 entao
+     linhas.divida(fruta.inverta).tamanho > 1 então
     escreva "Sheldon come a fruta {fruta}"
-  senao
+  senão
     escreva "Sheldon detesta a fruta {fruta}"
   fim
 fim

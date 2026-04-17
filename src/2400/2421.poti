@@ -1,12 +1,12 @@
-maior(x, y: Inteiro) = se x > y entao x senao y fim
+maior(x, y: Inteiro) = se x > y então x senão y fim
 
 a, b, c = leia_inteiros(" ").ordene
 se b[2]+c[2] <= a[2] e maior(b[1], c[1]) <= a[1] ou
    b[1]+c[2] <= a[2] e maior(b[2], c[1]) <= a[1] ou
    b[2]+c[1] <= a[2] e maior(b[1], c[2]) <= a[1] ou
    b[1]+c[1] <= a[2] e maior(b[2], c[2]) <= a[1] ou
-   b[1]+c[1] <= a[1] e maior(b[2], c[2]) <= a[2] entao
+   b[1]+c[1] <= a[1] e maior(b[2], c[2]) <= a[2] então
   escreva "S"
-senao
+senão
   escreva "N"
 fim

@@ -1,5 +1,5 @@
 n = leia_inteiro
-para i de 1 ate n faca
+para i de 1 até n faça
   a = leia_inteiro
   b = escolha a
     caso 1 => 0

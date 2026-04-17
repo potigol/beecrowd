@@ -1,7 +1,7 @@
 var a := leia_textos(" ")
-enquanto a <> ["0", "0"] faca
+enquanto a <> ["0", "0"] faça
   d, n = a[1][1], a[2]
   v = n.selecione(_ <> d).descarte_enquanto(_ == '0')
-  escreva se v == "" entao 0 senao v fim
+  escreva se v == "" então 0 senão v fim
   a := leia_textos(" ")
 fim

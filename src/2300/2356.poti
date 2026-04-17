@@ -1,16 +1,16 @@
 var d := leia_texto
-enquanto nao eof faca
+enquanto não eof faça
   s = leia_texto
   var i := 0
-  enquanto i < d.tamanho - s.tamanho + 1 faca
-    se d.descarte(i).pegue(s.tamanho) == s entao
+  enquanto i < d.tamanho - s.tamanho + 1 faça
+    se d.descarte(i).pegue(s.tamanho) == s então
       escreva "Resistente"
       i := d.tamanho
-    senao
+    senão
       i := i + 1
     fim
   fim
-  se i < d.tamanho entao
+  se i < d.tamanho então
     escreva "Nao resistente"
   fim
   d := leia_texto

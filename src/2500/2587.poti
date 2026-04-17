@@ -5,6 +5,6 @@ para i de 1 até n faça
   r2 = s2.zip(s3).selecione(_.segundo == '_').mapeie(_.primeiro)
   resp = r1.zip(r2).injete(falso)((a,b) =>
     a ou b.primeiro <> b.segundo e r2.contém(b.primeiro)
-  )
+ )
   escreva se resp então "Y" senão "N" fim
 fim

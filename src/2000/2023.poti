@@ -1,7 +1,7 @@
 var ultima := ""
 var a := leia_texto
-enquanto nao eof faca
-  se a.maiusculo > ultima.maiusculo entao
+enquanto não eof faça
+  se a.maiusculo > ultima.maiusculo então
     ultima := a
   fim
   a := leia_texto

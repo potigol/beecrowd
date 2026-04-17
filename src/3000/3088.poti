@@ -9,7 +9,7 @@ corrija(s: Texto): Texto =
   fim
 
 var a := leia_texto
-enquanto a <> "" faca
+enquanto a <> "" faça
   escreva corrija(a)
   a := leia_texto
 fim

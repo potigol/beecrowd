@@ -1,9 +1,9 @@
 var hora := leia_inteiros(":")
-enquanto nao eof faca
+enquanto não eof faça
   n = hora[1] * 60 + hora[2] - 420
-  se n > 0 entao
+  se n > 0 então
     escreva "Atraso maximo: {n}"
-  senao
+  senão
     escreva "Atraso maximo: 0"
   fim
   hora := leia_inteiros(":")

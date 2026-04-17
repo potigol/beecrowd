@@ -1,4 +1,4 @@
-p(n: Inteiro) = (a: Inteiro) => se n mod (a * 2) div a == 1 então 'o'  senao ' ' fim
+p(n: Inteiro) = (a: Inteiro) => se n mod (a * 2) div a == 1 então 'o'  senão ' ' fim
 
 var horario := leia_inteiros(":")
 enquanto não eof faça

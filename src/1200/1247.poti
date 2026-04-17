@@ -1,10 +1,10 @@
 var a := leia_inteiros(" ")
-enquanto nao eof faca
+enquanto não eof faça
   d, vf, vg = a[1], a[2], a[3]
   c = raiz(144 + d^2) / 12
-  se vg >= vf * c entao
+  se vg >= vf * c então
     escreva "S"
-  senao
+  senão
     escreva "N"
   fim
   a := leia_inteiros(" ")

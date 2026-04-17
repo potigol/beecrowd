@@ -8,16 +8,16 @@ enquanto input <> "" e input <> nulo e input <> "-1" faça
   var linhas := 1
   var texto := leia_texto
   lista_palavras = texto.divida(" ")
-	var letras := lista_palavras[1].tamanho
+  var letras := lista_palavras[1].tamanho
   
-	para i de 2 ate lista_palavras.tamanho faca
+  para i de 2 até lista_palavras.tamanho faça
     palavra = lista_palavras[i]
     x = palavra.tamanho
-    se (letras + x + 1) <= c entao
+    se (letras + x + 1) <= c então
       letras := letras + x + 1
-    senao
+    senão
       linhas := linhas + 1
-      se linhas > l entao
+      se linhas > l então
         paginas := paginas + 1
         linhas := 1
       fim

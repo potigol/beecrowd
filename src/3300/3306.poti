@@ -1,6 +1,6 @@
 mdc(x, y: Inteiro)
   var a, b := x, y
-  enquanto b <> 0 faca
+  enquanto b <> 0 faça
     a, b := b, a mod b
   fim
   retorne a

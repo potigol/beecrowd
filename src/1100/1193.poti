@@ -24,7 +24,7 @@ fim
 
 
 vezes = leia_inteiro
-para i de 1 ate vezes faça
+para i de 1 até vezes faça
     input = leia_textos(" ")
     num,base = input[1], input[2]
 

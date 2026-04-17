@@ -1,7 +1,7 @@
 var m := leia_inteiro
-enquanto m > 0 faca
+enquanto m > 0 faça
   var produto, cargas := 0
-  para i de 1 ate m faca
+  para i de 1 até m faça
     a = leia_inteiros(" ")
     n, c = a[1], a[2]
     produto := produto + n * c

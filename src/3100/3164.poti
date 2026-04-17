@@ -1,6 +1,6 @@
 var in := leia_texto
 #eof = falso
-enquanto nao eof faça
+enquanto não eof faça
   entrada = in.divida(" ").mapeie(_.inteiro)
   n, p = entrada[1], entrada[2]
   k1 =     (n + 1) div 4

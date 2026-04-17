@@ -1,5 +1,5 @@
 t = leia_inteiro
-para i de 1 ate t faca
+para i de 1 até t faça
   n = leia_texto.ordene
   a = n.pegue_enquanto(_ == '0')
   b = n.descarte_enquanto(_ == '0')

@@ -1,6 +1,6 @@
 var bonecos, arquitetos, musicos, desenhistas := 0
 n = leia_inteiro
-para i de 1 ate n faca
+para i de 1 até n faça
   a = leia_textos(" ")
   grupo = a[2]
   horas = a[3].inteiro

@@ -5,10 +5,10 @@ rot13(c: Inteiro) = escolha c
   caso x                        => x.caractere
 fim
 
-rot = para i de 1 ate 255 gere rot13(i) fim
+rot = para i de 1 até 255 gere rot13(i) fim
 
 var entrada := leia_texto
-enquanto nao eof faça
+enquanto não eof faça
   escreva entrada.lista.mapeie(c => rot[c]).junte("")
   entrada := leia_texto
 fim

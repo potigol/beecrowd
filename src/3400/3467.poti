@@ -1,5 +1,5 @@
 var entrada := leia_texto
-enquanto nao eof faça
+enquanto não eof faça
   se entrada == "xxL"
     então escreva "Esse eh o meu lugar"
     senão escreva "Oi, Leonard"

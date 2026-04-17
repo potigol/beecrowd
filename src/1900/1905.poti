@@ -7,7 +7,7 @@ policia(labirinto, caminho: Lista[Inteiro]): Lógico =
   fim
 
 vizinhos(n: Inteiro) =
-  [n + 5, se n mod 5 <> 0 entao n + 1 senao 0 fim,
+  [n + 5, se n mod 5 <> 0 então n + 1 senão 0 fim,
    se n mod 5 <> 1 então n - 1 senão 0 fim, n - 5].selecione(a => a >= 1 e a <= 25)
 
 leia_labirinto()

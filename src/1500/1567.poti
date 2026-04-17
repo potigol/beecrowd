@@ -9,7 +9,7 @@ enquanto não eof faça
 
   s2 = a * (2 * n + 1) div 6
   s3 = bb
-  s4 = (para i de 1 ate n gere i*i*i*i fim).injete(0)(_ + _)
+  s4 = (para i de 1 até n gere i*i*i*i fim).injete(0)(_ + _)
 
   r2 = s3 - s2
   r3 = bbb - s3

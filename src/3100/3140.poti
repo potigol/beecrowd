@@ -1,9 +1,9 @@
 enquanto leia_texto
            .descarte_enquanto(_ == ' ')
-           .pegue(6) <> "<body>" faca
+           .pegue(6) <> "<body>" faça
 fim
 var s := leia_texto
-enquanto s.descarte_enquanto(_ == ' ').pegue(7) <> "</body>" faca
+enquanto s.descarte_enquanto(_ == ' ').pegue(7) <> "</body>" faça
   escreva s
   s := leia_texto
 fim

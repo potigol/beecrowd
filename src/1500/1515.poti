@@ -1,11 +1,11 @@
 var n := leia_inteiro
-enquanto n > 0 faca
-  s = para i de 1 ate n, l em [leia_textos(" ")] gere
+enquanto n > 0 faça
+  s = para i de 1 até n, l em [leia_textos(" ")] gere
         (l[1], l[2].inteiro - l[3].inteiro)
       fim
   r = s.injete((a, b: (Texto, Inteiro)) =>
-        se a.segundo < b.segundo entao a senao b fim
-      )
+        se a.segundo < b.segundo então a senão b fim
+     )
   escreva r.primeiro
   n := leia_inteiro
 fim

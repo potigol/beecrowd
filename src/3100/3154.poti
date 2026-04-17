@@ -3,7 +3,7 @@ d = entrada[1]
 p = entrada[2]
 
 var por := 1.0
-para i de d - p + 1 ate d faca
+para i de d - p + 1 até d faça
   por := por * i / d
 fim
 a = (1-por) * 100

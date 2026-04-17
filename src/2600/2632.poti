@@ -34,7 +34,7 @@ intercessao(cx: Inteiro, cy: Inteiro, raio: Inteiro, rx: Inteiro, ry: Inteiro, l
 fim
 
 t = leia_inteiro
-para i de 1 ate t faca
+para i de 1 até t faça
     posicao = leia_inteiros(" ")
     w, h, x0, y0 = posicao[1], posicao[2], posicao[3], posicao[4]
     ataque = leia_textos(" ")

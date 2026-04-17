@@ -1,9 +1,9 @@
 n = leia_inteiro
-para i de 1 ate n faca
+para i de 1 até n faça
   s = leia_inteiros("+")
-  se s.tamanho == 1 entao
+  se s.tamanho == 1 então
     escreva "skipped"
-  senao
+  senão
     soma = s[1] + s[2]
     escreva soma
   fim

@@ -3,9 +3,9 @@ para i de 1 até 20 faça
   fat[i+1] := fat[i] * i
 fim
 
-enquanto nao eof faça
+enquanto não eof faça
   s = leia_inteiros(" ")
-  se nao eof entao
+  se não eof então
     escreva fat[s[1] + 1] + fat[s[2] + 1]
   fim
 fim

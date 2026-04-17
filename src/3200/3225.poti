@@ -1,5 +1,5 @@
 n = leia_inteiro
-a, c = leia_inteiros(" ").mutavel
+a, c = leia_inteiros(" ").mutável
 
 var b := Lista(n, 0).mutável
 para i de 1 até n faça

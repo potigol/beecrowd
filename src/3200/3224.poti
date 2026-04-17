@@ -1,6 +1,6 @@
 a, b = leia_texto
-se a.tamanho >= b.tamanho entao
+se a.tamanho >= b.tamanho então
   escreva "go"
-senao
+senão
   escreva "no"
 fim

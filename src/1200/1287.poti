@@ -1,5 +1,5 @@
 var s := leia_texto
-enquanto nao eof faca
+enquanto não eof faça
   chars = s.selecione(c => c <> ',' e c <> ' ')
            .lista
            .mapeie(c => escolha c
@@ -9,11 +9,11 @@ enquanto nao eof faca
                           caso  _  => c
                         fim)
   x = chars.descarte_enquanto(_ == '0').mapeie(_.caractere).junte("")
-  x2 = se x == "" e chars <> [] entao "0" senao x fim
+  x2 = se x == "" e chars <> [] então "0" senão x fim
   erro = chars.selecione(c => c < '0' ou c > '9') <> []
-  se x2 <> "" e nao erro e (x2.tamanho < 10 ou (x2.tamanho == 10 e x2 <= "2147483647")) entao
+  se x2 <> "" e não erro e (x2.tamanho < 10 ou (x2.tamanho == 10 e x2 <= "2147483647")) então
     escreva x2.inteiro
-  senao
+  senão
     escreva "error"
   fim
   s := leia_texto

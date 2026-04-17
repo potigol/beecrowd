@@ -1,5 +1,5 @@
 n = leia_inteiro
-para i de 1 ate n faca
+para i de 1 até n faça
   palavras = leia_textos(" ")
   s = palavras.ordene(- _.tamanho).junte(" ")
   escreva s

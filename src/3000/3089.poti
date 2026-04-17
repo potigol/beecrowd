@@ -1,12 +1,12 @@
 var n := leia_inteiro
-enquanto n > 0 faca
+enquanto n > 0 faça
   x = leia_inteiros(" ")
   a = x.ordene
   var menor, maior := a[n] + a[n+1]
-  para i de 1 ate n faca
+  para i de 1 até n faça
     b = a[i] + a[2 * n - i + 1]
-    se b < menor entao menor := b
-    senaose b > maior entao maior := b
+    se b < menor então menor := b
+    senãose b > maior então maior := b
     fim
   fim
   escreva "{maior} {menor}"

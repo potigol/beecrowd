@@ -3,7 +3,7 @@ z = leia_texto
 
 var a, b, c := z == "A", z == "B", z == "C"
 
-para i de 1 ate n faça
+para i de 1 até n faça
   x = leia_inteiro
   escolha x
     caso 1 => a, b := b, a

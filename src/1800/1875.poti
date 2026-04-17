@@ -1,8 +1,8 @@
 c = leia_inteiro
-para i de 1 ate c faca
+para i de 1 até c faça
   p = leia_inteiro
   var r, g, b := 0
-  para k de 1 ate p faca
+  para k de 1 até p faça
     ms = leia_texto
     escolha ms
       caso "R G" => r := r + 2
@@ -13,10 +13,10 @@ para i de 1 ate c faca
       caso _     => b := b + 1
     fim
   fim
-  se    r == g e g == b entao  escreva "trempate"
-  senaose r > g e r > b entao  escreva "red"
-  senaose g > r e g > b entao  escreva "green"
-  senaose b > g e b > r entao  escreva "blue"
-  senao                        escreva "empate"
+  se    r == g e g == b então  escreva "trempate"
+  senãose r > g e r > b então  escreva "red"
+  senãose g > r e g > b então  escreva "green"
+  senãose b > g e b > r então  escreva "blue"
+  senão                        escreva "empate"
   fim
 fim

@@ -1,6 +1,6 @@
 var n := leia_inteiro
 var t := 1
-enquanto n >= 0 faca
+enquanto n >= 0 faça
   a = (2 ^ n + 1) ^ 2
   escreva "Teste {t}"
   escreva a formato "%.0f"

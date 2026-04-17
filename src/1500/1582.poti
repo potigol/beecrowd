@@ -1,19 +1,19 @@
 mdc(a, b: Inteiro): Inteiro =
-  se a > b       entao mdc(b, a - b)
-  senaose a == b entao a
-  senao                mdc(b, a)
+  se a > b       então mdc(b, a - b)
+  senãose a == b então a
+  senão                mdc(b, a)
   fim
 
 var entrada := leia_texto
-enquanto nao eof faca
+enquanto não eof faça
   num = entrada.divida(" ").mapeie(_.inteiro).ordene
   cateto1, cateto2, hipotenusa = num[1], num[2], num[3]
 
-  se cateto1 ^ 2 + cateto2 ^ 2 <> hipotenusa ^ 2 entao
+  se cateto1 ^ 2 + cateto2 ^ 2 <> hipotenusa ^ 2 então
     escreva "tripla"
-  senaose mdc(mdc(num[1], num[2]), num[3]) == 1 entao
+  senãose mdc(mdc(num[1], num[2]), num[3]) == 1 então
     escreva "tripla pitagorica primitiva"
-  senao
+  senão
     escreva "tripla pitagorica"
   fim
   entrada := leia_texto

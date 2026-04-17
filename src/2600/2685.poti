@@ -1,5 +1,5 @@
 var entrada := leia_texto
-enquanto nao eof faça
+enquanto não eof faça
   grau = entrada.real mod 360
   se grau < 90 então
       escreva "Bom Dia!!"

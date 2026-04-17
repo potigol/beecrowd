@@ -11,7 +11,7 @@ fim
 n = leia_inteiro
 para i de 1 até n faça
   x = leia_inteiro
-  se primo(x) entao
+  se primo(x) então
     escreva "Prime"
   senão
     escreva "Not Prime"

@@ -9,4 +9,4 @@ para n de 1 até limite faça
 fim
 escreva combinações
 
-# combinações = para n de 1 ate limite se (n + x) mod (2 * n + 1) == 0 gere 1 fim.tamanho
+# combinações = para n de 1 até limite se (n + x) mod (2 * n + 1) == 0 gere 1 fim.tamanho

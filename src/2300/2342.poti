@@ -6,8 +6,8 @@ valor = escolha c
   caso _   => p.inteiro + q.inteiro
 fim
 
-se valor > n entao
+se valor > n então
   escreva "OVERFLOW"
-senao
+senão
   escreva "OK"
 fim

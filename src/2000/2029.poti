@@ -1,5 +1,5 @@
 var entrada := leia_texto
-enquanto nao eof faca
+enquanto não eof faça
   volume = entrada.real
   diametro = leia_real
   raio = diametro / 2

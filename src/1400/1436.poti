@@ -1,5 +1,5 @@
 t = leia_inteiro
-para i de 1 ate t faca
+para i de 1 até t faça
   entrada = leia_inteiros(" ")
   n = entrada.cabeca
   nums = entrada.cauda

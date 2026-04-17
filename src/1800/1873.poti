@@ -6,13 +6,13 @@ rajesh = [
 empate = ["papel", "pedra", "tesoura", "lagarto", "spock"].mapeie(a => "{a} {a}")
 
 c = leia_inteiro
-para i de 1 ate c faca
+para i de 1 até c faça
   s = leia_texto
-  se rajesh.contem(s) entao
+  se rajesh.contém(s) então
     escreva "rajesh"
-  senaose empate.contem(s) entao
+  senãose empate.contém(s) então
     escreva "empate"
-  senao
+  senão
     escreva "sheldon"
   fim
 fim

@@ -1,5 +1,5 @@
 somar(digitos: Lista[Inteiro], soma: Inteiro): Inteiro =
-  se digitos <> [] entao
+  se digitos <> [] então
     somar(digitos.descarte(2), soma + digitos[1])
   senão
     soma
@@ -20,7 +20,7 @@ var entrada := leia_texto
 enquanto não eof faça
   digitos = entrada.inverta.lista.mapeie(_ - '0')
 
-  se primeiro entao
+  se primeiro então
     primeiro := falso
   senão
     escreva ""

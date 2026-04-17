@@ -9,7 +9,7 @@ para i de 1 até n faça
     para x de 1 até 4 faça
         linha = linhas[x]
         coluna = para j de 1 até 4 gere linhas[j][x] fim
-        para a de 1 até 3 faca
+        para a de 1 até 3 faça
             left  := left  ou pode_mover(linha[a+1], linha[a])
             right := right ou pode_mover(linha[a], linha[a+1])
             up    := up    ou pode_mover(coluna[a+1], coluna[a])

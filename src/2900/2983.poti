@@ -1,5 +1,5 @@
 primo(x: Inteiro) = x == 2 ou (x > 1 e x mod 2 <> 0 e 
-  para i de 3 ate raiz(x + 1).inteiro passo 2 se x mod i == 0 gere i fim.tamanho == 0)
+  para i de 3 até raiz(x + 1).inteiro passo 2 se x mod i == 0 gere i fim.tamanho == 0)
 
 n = leia_inteiro
 x = leia_inteiros(n)

@@ -1,5 +1,5 @@
 nc = leia_inteiro
-para i de 1 ate nc faca
+para i de 1 até nc faça
   entrada = leia_inteiros(" ")
   n, k = entrada[1], entrada[2]
   escreva "Case {i}: {last3(n, k)}"
@@ -9,12 +9,12 @@ fim
 last3(x, m: Inteiro)
   var regions := Lista.mutável(x, verdadeiro) # [verdadeiro,  ...]
   var next := (m - 1) mod x + 1
-  para tamanho de x-1 até 1 passo -1 faca
+  para tamanho de x-1 até 1 passo -1 faça
     regions[next] := falso
     var n := (m-1) mod tamanho + 1
     enquanto n > 0 faça
       next := next mod x + 1
-      se regions[next] entao n := n - 1 fim
+      se regions[next] então n := n - 1 fim
     fim
   fim
   retorne next
@@ -23,7 +23,7 @@ fim
 
 #last(x, m: Inteiro)
 #  var a := (m - 1) mod x + 1
-#  para i de 1 ate x - 1 faca
+#  para i de 1 até x - 1 faça
 #    a := (a + m - 1) mod i + 1
 #  fim
 #  retorne a + 1
@@ -31,8 +31,8 @@ fim
 
 #last2(x, m: Inteiro)
 #  var next := m
-#  var regions = para i de 1 ate x gere i fim.mutável
-#  para tamanho de x-1 ate 1 passo -1 faca
+#  var regions = para i de 1 até x gere i fim.mutável
+#  para tamanho de x-1 até 1 passo -1 faça
 #    regions := regions.remova(next)
 #    next := (next - 2 + m) mod tamanho + 1
 #  fim
@@ -51,7 +51,7 @@ fim
 #
 #  mova(p: Inteiro): Nada
 #    pp = (p-1) mod tamanho + 1
-#    para i de pos até pp-1 faca
+#    para i de pos até pp-1 faça
 #      esquerda := direita.cabeca::esquerda
 #      direita := direita.cauda
 #    fim
@@ -65,7 +65,7 @@ fim
 #  remova()
 #    se direita <> [] então
 #      direita := direita.cauda
-#    senao
+#    senão
 #      esquerda := esquerda.cauda
 #    fim
 #    tamanho := tamanho - 1
@@ -73,10 +73,10 @@ fim
 #fim
 
 #last4(x, m: Inteiro)
-#  var regions = para i de 1 ate x gere i fim
+#  var regions = para i de 1 até x gere i fim
 #  z = Zipper(regions)
 #  z.mova(m)
-#  para i de 1 ate x - 1 faca
+#  para i de 1 até x - 1 faça
 #    z.remova
 #    z.mova(z.pos + m - 1)
 #  fim

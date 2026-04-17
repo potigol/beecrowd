@@ -1,12 +1,12 @@
-montar(posicoes, vogais, consoantes: Texto) = (d_vogais, d_consoantes: Inteiro) => faca
+montar(posicoes, vogais, consoantes: Texto) = (d_vogais, d_consoantes: Inteiro) => faça
   t_vogais, t_consoantes, t = vogais.tamanho, consoantes.tamanho, posicoes.tamanho
-  var a := se t_vogais > 0 entao t_vogais - d_vogais mod t_vogais - 1 senao 0 fim
-  var b := se t_consoantes > 0 entao t_consoantes - d_consoantes mod t_consoantes - 1 senao 0 fim
-  para i de 1 ate t gere
-    se posicoes[i] == 'a' entao
+  var a := se t_vogais > 0 então t_vogais - d_vogais mod t_vogais - 1 senão 0 fim
+  var b := se t_consoantes > 0 então t_consoantes - d_consoantes mod t_consoantes - 1 senão 0 fim
+  para i de 1 até t gere
+    se posicoes[i] == 'a' então
       a := (a + 1) mod t_vogais
       vogais[a + 1]
-    senao
+    senão
       b := (b + 1) mod t_consoantes
       consoantes[b + 1]
     fim
@@ -16,15 +16,15 @@ fim
 é_vogal = (c: Caractere) => c == 'a' ou c == 'e' ou c == 'i' ou c == 'o' ou c == 'u'
 
 t = leia_inteiro
-para i de 1 ate t faca
+para i de 1 até t faça
   escreva "Caso #{i}:"
   s = leia_texto
   vogais = s.selecione(é_vogal)
-  consoantes = s.selecione(nao é_vogal(_))
+  consoantes = s.selecione(não é_vogal(_))
   var d_v, d_c := 0
-  posicoes = s.lista.mapeie(c => se é_vogal(c) entao 'a' senao 'b' fim).junte("")
+  posicoes = s.lista.mapeie(c => se é_vogal(c) então 'a' senão 'b' fim).junte("")
   q = leia_inteiro
-  para i de 1 ate q faca
+  para i de 1 até q faça
     x = leia_texto
     y = x.descarte(2).inteiro
     m = montar(posicoes, vogais, consoantes)

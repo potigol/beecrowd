@@ -5,14 +5,14 @@ sem_repeticao(n: Inteiro)
 fim
 
 var c := 0
-numeros = para i de 1 ate 5001 gere
+numeros = para i de 1 até 5001 gere
   d = c
-  se sem_repeticao(i) entao c:= c + 1 fim
+  se sem_repeticao(i) então c:= c + 1 fim
   d
 fim
 
 var a := leia_texto
-enquanto nao eof faca
+enquanto não eof faça
   z = a.divida(" ")
   n, m = z[1].inteiro, z[2].inteiro
   escreva numeros[m+1] - numeros[n]

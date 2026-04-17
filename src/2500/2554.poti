@@ -1,17 +1,17 @@
 var a := leia_texto
-enquanto nao eof faca
+enquanto não eof faça
   d = a.divida(" ")[2].inteiro
   var i := 0
   var resp := "Pizza antes de FdI"
-  enquanto i < d faca
+  enquanto i < d faça
     l = leia_texto.divida(" ")
     pizza = l.cauda.injete(verdadeiro)((x, y) => x e y == "1")
-    se pizza e resp == "Pizza antes de FdI" entao
+    se pizza e resp == "Pizza antes de FdI" então
       resp := l[1]
     fim
     i := i + 1
   fim
-  se i < 100 entao
+  se i < 100 então
     escreva resp
   fim
   a := leia_texto

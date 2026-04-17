@@ -1,6 +1,6 @@
 var t := leia_inteiro
 enquanto t <> 0 faça
-    para c de 1 ate t faça
+    para c de 1 até t faça
         dados = leia_reais(3)
         escreva "Size #{c}:"
         escreva "Ice Cream Used: {((dados[2] + dados[3]) * 5) / 2 * dados[1] formato "%.2f"} cm2"

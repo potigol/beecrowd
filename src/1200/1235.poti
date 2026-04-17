@@ -1,5 +1,5 @@
 n = leia_inteiro
-para i de 1 ate n faca
+para i de 1 até n faça
   linha = leia_texto
   t = linha.tamanho div 2
   s = linha.pegue(t)

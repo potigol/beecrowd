@@ -15,7 +15,7 @@ enquanto m > 1  faça
 
   var soma := 0
 
-  para i de m ate 1 passo -n faça
+  para i de m até 1 passo -n faça
     soma := soma + v[i].inteiro
   fim
 

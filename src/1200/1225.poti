@@ -1,12 +1,12 @@
 var n := leia_inteiro
-enquanto n > 0 faca
+enquanto n > 0 faça
   notas = leia_inteiros(" ")
   soma = notas.injete(0)(_ + _)
-  se soma mod n == 0 entao
+  se soma mod n == 0 então
     media = soma div n
     resposta = 1 + notas.descarte_enquanto(_ < media).mapeie(_ - media).injete(0)(_ + _)
     escreva resposta
-  senao
+  senão
     escreva -1
   fim
   n := leia_inteiro

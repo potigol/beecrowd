@@ -1,17 +1,17 @@
 var a := leia_texto
-enquanto nao eof faca
-  var letras := para i de 1 ate 255 gere i fim
+enquanto não eof faça
+  var letras := para i de 1 até 255 gere i fim
   c, n = a.divida(" ")[1].inteiro, a.divida(" ")[2].inteiro
   zenit, polar = leia_texto.minúsculo
   ZENIT, POLAR = zenit.maiúsculo, polar.maiúsculo
 
-  para i de 1 ate c faca
+  para i de 1 até c faça
     letras[ZENIT[i]] := POLAR[i]
     letras[POLAR[i]] := ZENIT[i]
     letras[zenit[i]] := polar[i]
     letras[polar[i]] := zenit[i]
   fim
-  para i de 1 ate n faca
+  para i de 1 até n faça
     s = leia_texto.lista.mapeie(letras[_].caractere).junte("")
     escreva s
   fim

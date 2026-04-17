@@ -1,9 +1,9 @@
 h(a: Lista[Inteiro]): Lista[Inteiro] =
-  se a.tamanho < 30 entao h((a.cabeca * 2 + 1) :: a) senao a.inverta fim
+  se a.tamanho < 30 então h((a.cabeca * 2 + 1) :: a) senão a.inverta fim
 hanoi = h([1])
 var t := 0
 var n := leia_inteiro
-enquanto n > 0 faca
+enquanto n > 0 faça
   t := t + 1
   escreva "Teste {t}"
   escreva hanoi[n]

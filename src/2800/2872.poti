@@ -1,5 +1,5 @@
 var n := leia_inteiro
-enquanto n > 0 faca
+enquanto n > 0 faça
   var lista: Lista[Texto] = []
   var linha := leia_texto
   enquanto linha <> "0" faça

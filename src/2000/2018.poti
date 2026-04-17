@@ -16,7 +16,7 @@ fim
 
 var paises: Lista[Pais] := []
 leia_texto
-enquanto nao eof faça
+enquanto não eof faça
   a, b, c = leia_texto
   paises := Pais(a, 1, 0, 0) :: Pais(b, 0, 1, 0) :: Pais(c, 0, 0, 1) :: paises
   leia_texto

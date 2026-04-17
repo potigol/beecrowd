@@ -1,10 +1,10 @@
 var t := leia_inteiro
-enquanto t > 0 faca
-  para i de 1 ate t faca
+enquanto t > 0 faça
+  para i de 1 até t faça
     n = leia_inteiro
-    se n mod 2 == 0 entao
+    se n mod 2 == 0 então
       escreva 2 * n - 2
-    senao
+    senão
       escreva n div 2 * 4 + 1
     fim
   fim

@@ -1,5 +1,5 @@
 var s := leia_textos(" ")
-enquanto nao eof faca
+enquanto não eof faça
   aliteracoes = s.mapeie(_.minusculo[1])
                  .divida_quando((a, b) => a <> b)
                  .selecione(_.tamanho > 1)

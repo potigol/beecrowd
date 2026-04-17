@@ -3,8 +3,8 @@ var n := leia_inteiro
 var nums := Lista(11, Lista(5, Lista(2, 0)))
 var senha := Lista(11, Lista(6, ""))
 
-enquanto n <> 0 faca
-  para i de 1 até n faca
+enquanto n <> 0 faça
+  para i de 1 até n faça
     entrada = leia_texto.divida(" ")                 
 
     nums[i][1][1] := entrada[1].inteiro
@@ -33,26 +33,26 @@ enquanto n <> 0 faca
   escreva "Teste {teste}"
   teste := teste + 1
 
-  para k de 1 ate 6 faca
+  para k de 1 até 6 faça
     ix = (senha[1][k][1] - 'A') + 1
     nch = nums[1][ix][1]
     noh = nums[1][ix][2]
 
     var all := 1
-    para i de 1 ate n faca
+    para i de 1 até n faça
       ixx = (senha[i][k][1] - 'A') + 1
-      se nch <> nums[i][ixx][1] e nch <> nums[i][ixx][2] entao
+      se nch <> nums[i][ixx][1] e nch <> nums[i][ixx][2] então
         all := 0
       fim
     fim
 
-    se k <> 1 entao
+    se k <> 1 então
       imprima " "
     fim
 
-    se all == 1 entao
+    se all == 1 então
       imprima nch
-    senao
+    senão
       imprima noh
     fim 
   fim 

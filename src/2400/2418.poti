@@ -2,18 +2,18 @@ n = leia_reais(" ")
 # soma = n.descarte(1).pegue(3).injete(0)(_ + _)
 
 menor =
-  se n[1] <= n[2] e n[1] <= n[3] e n[1] <= n[4] e n[1] <= n[5] entao n[1]
-  senãose           n[2] <= n[3] e n[2] <= n[4] e n[2] <= n[5] entao n[2]
-  senãose                          n[3] <= n[4] e n[3] <= n[5] entao n[3]
-  senãose                                         n[4] <= n[5] entao n[4]
+  se n[1] <= n[2] e n[1] <= n[3] e n[1] <= n[4] e n[1] <= n[5] então n[1]
+  senãose           n[2] <= n[3] e n[2] <= n[4] e n[2] <= n[5] então n[2]
+  senãose                          n[3] <= n[4] e n[3] <= n[5] então n[3]
+  senãose                                         n[4] <= n[5] então n[4]
   senão                                                              n[5]
   fim
 
 maior =
-  se n[1] >= n[2] e n[1] >= n[3] e n[1] >= n[4] e n[1] >= n[5] entao n[1]
-  senãose           n[2] >= n[3] e n[2] >= n[4] e n[2] >= n[5] entao n[2]
-  senãose                          n[3] >= n[4] e n[3] >= n[5] entao n[3]
-  senãose                                         n[4] >= n[5] entao n[4]
+  se n[1] >= n[2] e n[1] >= n[3] e n[1] >= n[4] e n[1] >= n[5] então n[1]
+  senãose           n[2] >= n[3] e n[2] >= n[4] e n[2] >= n[5] então n[2]
+  senãose                          n[3] >= n[4] e n[3] >= n[5] então n[3]
+  senãose                                         n[4] >= n[5] então n[4]
   senão                                                              n[5]
   fim
 

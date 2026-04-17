@@ -2,7 +2,7 @@ PI = 3.14159
 G = 9.80665
 
 var input := leia_texto
-enquanto input <> nulo e input <> "" faca
+enquanto input <> nulo e input <> "" faça
     var h = input.real
     pares = leia_reais(" ")
     p1, p2 = pares[1], pares[2]

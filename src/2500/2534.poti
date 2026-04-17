@@ -1,8 +1,8 @@
 var a := leia_inteiros(" ")
-enquanto nao eof faca
+enquanto não eof faça
   n, q = a[1], a[2]
   notas = leia_inteiros(n).ordene.inverta
-  para i de 1 ate q faca
+  para i de 1 até q faça
     p = leia_inteiro
     escreva notas[p]
   fim

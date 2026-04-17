@@ -1,5 +1,5 @@
 primo(n: Inteiro): Lógico =
-  n mod 2 > 0 e (para i de 2 ate raiz(n).inteiro se n mod i == 0 gere i fim == [])
+  n mod 2 > 0 e (para i de 2 até raiz(n).inteiro se n mod i == 0 gere i fim == [])
 
 primos(inicio, quantos: Inteiro): Lista[Inteiro] =
   se quantos > 0 então

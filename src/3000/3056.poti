@@ -3,7 +3,7 @@ n = leia_inteiro
 # lado = Lista(n, 1).injete(BigInt(1))((x, _) => 2 * x) + 1
 
 var lado := BigInt(2)
-para i de 1 ate n faca
+para i de 1 até n faça
   lado := 2 * lado - 1
 fim
 escreva lado * lado

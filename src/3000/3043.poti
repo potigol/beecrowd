@@ -1,13 +1,13 @@
 flat(a: Lista[Lista[Lista[Inteiro]]]) = para v em a, y em v gere y fim
 
 var n, t := leia_inteiro, 0
-enquanto n > 0 faca
-  var valores := [para i de 1 ate n gere i fim]
-  para i de 1 ate n faca
+enquanto n > 0 faça
+  var valores := [para i de 1 até n gere i fim]
+  para i de 1 até n faça
     nums = leia_inteiros(" ")
     valores := flat(valores.mapeie(v =>
-      se v - nums == v ou v - [i] == v entao [v]
-      senao [v - [i], v - nums]
+      se v - nums == v ou v - [i] == v então [v]
+      senão [v - [i], v - nums]
       fim))
   fim
   t := t + 1

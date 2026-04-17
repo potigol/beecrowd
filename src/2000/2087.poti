@@ -1,18 +1,18 @@
 var n := leia_inteiro
-enquanto n > 0 faca
-  palavras = leia_textos(n).ordene.mutavel
+enquanto n > 0 faça
+  palavras = leia_textos(n).ordene.mutável
   var bom := verdadeiro
   var i := 1
-  enquanto i < n e bom faca
+  enquanto i < n e bom faça
     se palavras[i].tamanho <= palavras[i+1].tamanho e
-       palavras[i] == palavras[i+1].pegue(palavras[i].tamanho) entao
+       palavras[i] == palavras[i+1].pegue(palavras[i].tamanho) então
       bom := falso
     fim
     i := i + 1
   fim
   se bom
-    entao escreva "Conjunto Bom"
-    senao escreva "Conjunto Ruim"
+    então escreva "Conjunto Bom"
+    senão escreva "Conjunto Ruim"
   fim
   n := leia_inteiro
 fim

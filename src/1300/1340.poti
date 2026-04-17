@@ -1,22 +1,22 @@
 var n := leia_inteiro
-enquanto nao eof faca
+enquanto não eof faça
   var pilha, fila, prioridade := Lista(0, 0)
   var estrutura := Lista(4, 1)
   estrutura[4] := 0
-  para i de 1 ate n faca
+  para i de 1 até n faça
     a = leia_inteiros(" ")
     t, x = a[1], a[2]
-    se t == 1 entao
+    se t == 1 então
       pilha      := x :: pilha
       fila       := x :: fila
       prioridade := x :: prioridade
-    senao # t == 2
+    senão # t == 2
       fila := fila.inverta
       prioridade := prioridade.ordene.inverta
-      se x <> fila.cabeca entao estrutura[1] := 0 fim
-      se x <> pilha.cabeca entao estrutura[2] := 0 fim
-      se x <> prioridade.cabeca entao estrutura[3] := 0 fim
-      se pilha == [] ou x <> fila.cabeca e x <> pilha.cabeca e x <> prioridade.cabeca entao estrutura[4] := 1 fim
+      se x <> fila.cabeca então estrutura[1] := 0 fim
+      se x <> pilha.cabeca então estrutura[2] := 0 fim
+      se x <> prioridade.cabeca então estrutura[3] := 0 fim
+      se pilha == [] ou x <> fila.cabeca e x <> pilha.cabeca e x <> prioridade.cabeca então estrutura[4] := 1 fim
       pilha := pilha.cauda
       fila := fila.cauda.inverta
       prioridade := prioridade.cauda

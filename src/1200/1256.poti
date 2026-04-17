@@ -1,6 +1,6 @@
 tipo Valor chave: Inteiro valor: Texto fim
     
-valores = para j de 0 ate 100 gere Valor(j, "\\") fim
+valores = para j de 0 até 100 gere Valor(j, "\\") fim
 
 n = leia_inteiro
 para i de 1 até n faça

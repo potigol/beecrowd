@@ -1,8 +1,8 @@
 n = leia_inteiro
 var total := n
-para i de 1 ate n faca
+para i de 1 até n faça
   a = " {leia_texto} " 
-  se a.divida("CD").tamanho > 1 entao
+  se a.divida("CD").tamanho > 1 então
     total := total - 1
   fim
 fim

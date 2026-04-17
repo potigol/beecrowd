@@ -1,10 +1,10 @@
 var b := leia_inteiros(" ")
-enquanto nao eof faca
+enquanto não eof faça
   v = b[2] - b[3]
-  se v > 0 entao
+  se v > 0 então
     s = b[1]
     escreva s / v formato "%.2f"
-  senao
+  senão
     escreva "impossivel"
   fim
   b := leia_inteiros(" ")

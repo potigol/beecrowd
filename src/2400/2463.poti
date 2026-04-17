@@ -2,10 +2,10 @@ leia_texto
 var a := leia_inteiros(" ")
 var soma, aux := 0
 var tam := a.tamanho
-enquanto tam > 0 faca
+enquanto tam > 0 faça
   soma := soma + a[1]
-  se soma > aux entao aux := soma fim
-  se soma < 0 entao
+  se soma > aux então aux := soma fim
+  se soma < 0 então
     soma := 0
   fim
   a := a.cauda

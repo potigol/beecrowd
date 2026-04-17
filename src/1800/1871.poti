@@ -1,5 +1,5 @@
 var a := leia_inteiros(" ")
-enquanto a[1] <> 0 faca
+enquanto a[1] <> 0 faça
   m, n = a[1], a[2]
   soma = m + n
   s = soma.texto.selecione(_ <> '0')

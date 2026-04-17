@@ -1,9 +1,9 @@
 a, n = leia_inteiro
 z = 40000000 / a
 var soma := 0
-para i de 1 ate n faca
+para i de 1 até n faça
   f = leia_inteiro
-  se f >= z entao
+  se f >= z então
     soma := soma + 1
   fim
 fim

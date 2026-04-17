@@ -1,15 +1,15 @@
 n = leia_inteiro
 var v := 0
-para i de 1 ate n faca
+para i de 1 até n faça
   a = leia_textos(" ")
-  se a[1] == "G" entao
+  se a[1] == "G" então
     v := v + a[2].inteiro
-  senao
+  senão
     v := v - a[2].inteiro
   fim
 fim
-se v > 0 entao
+se v > 0 então
   escreva "NAO VAI TER CORTE, VAI TER LUTA!"
-senao
+senão
   escreva "A greve vai parar."
 fim

@@ -3,7 +3,7 @@ soma(lista: Lista[Inteiro]) =
   lista.mapeie(a => menor(a, 10)).injete(0)(_ + _)
 
 cartas_disponiveis(lista: Lista[Inteiro]) =
-  (para i de 1 ate 13, j de 1 ate 4 gere i fim - lista)
+  (para i de 1 até 13, j de 1 até 4 gere i fim - lista)
     .ordene.divida_quando(_ <> _).mapeie(_.cabeça)
 
 n = leia_inteiro
@@ -12,7 +12,7 @@ joao  = soma(j + comum)
 maria = soma(m + comum)
 cartas = cartas_disponiveis(j + m + comum)
 var carta := -1
-para c em cartas.inverta faca
+para c em cartas.inverta faça
   se maria + menor(c, 10) == 23 ou
      maria + menor(c, 10) < 23 e joao + menor(c, 10) > 23 então
        carta := c

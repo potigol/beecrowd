@@ -1,10 +1,10 @@
 var s:= leia_texto
-enquanto nao eof faca
+enquanto não eof faça
   r, t = s.maiúsculo, s.minúsculo
   var maiúsculo := verdadeiro
-  para i de 1 ate s.tamanho faca
+  para i de 1 até s.tamanho faça
     maiúsculo := maiúsculo <> (r[i] >= 'A' e r[i] <= 'Z')
-    imprima se maiúsculo entao t[i] senao r[i] fim
+    imprima se maiúsculo então t[i] senão r[i] fim
   fim
   escreva ""
   s:= leia_texto

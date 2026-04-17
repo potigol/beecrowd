@@ -9,23 +9,23 @@ tipo Produto
 fim
 
 total(preços: Lista[Preço], produtos: Lista[Produto]): Real =
-  se produtos == [] entao
+  se produtos == [] então
     0.0
-  senaose preços.cabeça.produto == produtos.cabeça.produto entao
+  senãose preços.cabeça.produto == produtos.cabeça.produto então
     preços.cabeça.valor * produtos.cabeça.quantidade + total(preços.cauda, produtos.cauda)
-  senao
+  senão
     total(preços.cauda, produtos)
   fim
 
 n = leia_inteiro
 para i de 1 até n faça
   m = leia_inteiro
-  preços = para j de 1 ate m gere
+  preços = para j de 1 até m gere
              a = leia_textos(" ")
              Preço(a[1], a[2].real)
            fim.ordene(_.produto)
   p = leia_inteiro
-  produtos = para j de 1 ate p gere
+  produtos = para j de 1 até p gere
                a = leia_textos(" ")
                Produto(a[1], a[2].inteiro)
              fim.ordene(_.produto)

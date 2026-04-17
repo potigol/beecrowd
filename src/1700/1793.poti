@@ -1,8 +1,8 @@
-enquanto leia_inteiro > 0 faca
+enquanto leia_inteiro > 0 faça
   t = leia_inteiros(" ")
   d = t.divida_quando((a, b) => b - a > 10)
   var tempo := 0
-  para p em d faca
+  para p em d faça
     dt = 10 + p[-1] - p[1]
     tempo := tempo + dt
   fim

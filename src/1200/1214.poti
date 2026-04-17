@@ -1,5 +1,5 @@
 c = leia_inteiro
-para i de 1 ate c faca
+para i de 1 até c faça
   entrada = leia_inteiros(" ")
   n = entrada.cabeca
   nums = entrada.cauda
@@ -7,6 +7,6 @@ para i de 1 ate c faca
   media = soma div n
   acima = nums.selecione(_ > media).tamanho * 100 / n
   var s := acima formato "%.3f"
-  se s == "51.563" entao s := "51.562" fim
+  se s == "51.563" então s := "51.562" fim
   escreva "{s}%"
 fim

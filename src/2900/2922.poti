@@ -1,9 +1,9 @@
 var b := leia_inteiros(" ").ordene
-enquanto nao eof faca
+enquanto não eof faça
   x, y = b[1], b[2]
-  se x <> y entao
+  se x <> y então
     escreva y - x - 1
-  senao
+  senão
     escreva 0
   fim
   b := leia_inteiros(" ").ordene

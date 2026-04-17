@@ -1,13 +1,13 @@
 n = leia_inteiro
-para i de 1 ate n faça
+para i de 1 até n faça
   a, b = leia_inteiros(" ")
   se a == b então
     escreva "Penaltis"
-  senaose a[1]+b[3] > a[3]+b[1] então
+  senãose a[1]+b[3] > a[3]+b[1] então
     escreva "Time 1"
-  senaose a[1]+b[3] < a[3]+b[1] então
+  senãose a[1]+b[3] < a[3]+b[1] então
     escreva "Time 2"
-  senaose b[3] > a[3] então
+  senãose b[3] > a[3] então
     escreva "Time 1"
   senão
     escreva "Time 2"

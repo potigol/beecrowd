@@ -1,5 +1,5 @@
 n = leia_inteiro
-para i de 1 ate n faça
+para i de 1 até n faça
   a = leia_inteiros(" ")
   x, y = a[1], a[2]
   rafael =    9 * x * x +      y * y

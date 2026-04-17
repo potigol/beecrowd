@@ -7,11 +7,11 @@ letras = para p em texto gere
   c := c + 1 + p.tamanho
   [p, t]
 fim
-para a em palavras faca
+para a em palavras faça
   b = letras.selecione(p => p[1] == a).mapeie(p => p[2])
-  se b.tamanho > 0 entao
+  se b.tamanho > 0 então
     escreva b.junte(" ")
-  senao
+  senão
     escreva -1
   fim
 fim

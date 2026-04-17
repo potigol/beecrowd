@@ -3,7 +3,7 @@ a = ("00" + n).lista.inverta.pegue(3).mapeie(_ - '0')
 r = "IVXLCDM"
 
 var s := ""
-para i de 3 ate 1 passo -1 faca
+para i de 3 até 1 passo -1 faça
   d = r.descarte(i * 2 - 2).pegue(3)
   s := s + (escolha a[i]
     caso 9          => "{d[1]}{d[3]}"

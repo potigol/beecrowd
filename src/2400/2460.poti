@@ -10,7 +10,7 @@ var fila = a.zip(indice).ordene(_.primeiro)
 
 var resultado := [(0, 0)].cauda
 enquanto m > 0 faça
-  enquanto fila[1].primeiro < b[1] faca
+  enquanto fila[1].primeiro < b[1] faça
     resultado := fila[1] :: resultado
     fila := fila.cauda
   fim

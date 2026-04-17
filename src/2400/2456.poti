@@ -1,10 +1,10 @@
 a = leia_inteiros(" ")
 b = a.ordene
 c = b.inverta
-se a == b entao
+se a == b então
   escreva "C"
-senaose a == c entao
+senãose a == c então
   escreva "D"
-senao
+senão
   escreva "N"
 fim

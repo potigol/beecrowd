@@ -2,26 +2,26 @@ reorganizar(entrada: Lista[Inteiro]) =
   organizar(entrada.inverta, [], entrada.tamanho, 0, entrada.tamanho)
 
 organizar(entrada, pilha: Lista[Inteiro], t_entrada, t_pilha, proximo: Inteiro): Lógico =
-  se t_entrada == 0 e t_pilha == 0 entao
+  se t_entrada == 0 e t_pilha == 0 então
     verdadeiro
-  senaose t_pilha > 0 e pilha.cabeca == proximo entao
+  senãose t_pilha > 0 e pilha.cabeca == proximo então
     organizar(entrada, pilha.cauda, t_entrada, t_pilha - 1, proximo - 1)
-  senaose t_entrada > 0 entao
-    se entrada.cabeca == proximo entao
+  senãose t_entrada > 0 então
+    se entrada.cabeca == proximo então
       organizar(entrada.cauda, pilha, t_entrada - 1, t_pilha, proximo - 1)
-    senao
+    senão
       organizar(entrada.cauda, entrada.cabeca::pilha, t_entrada -1, t_pilha + 1, proximo)
     fim
-  senao
+  senão
     falso
   fim
 
-enquanto leia_inteiro > 0 faca
+enquanto leia_inteiro > 0 faça
   var s := leia_inteiros(" ")
-  enquanto s.cabeca > 0 faca
-    se reorganizar(s) entao
+  enquanto s.cabeca > 0 faça
+    se reorganizar(s) então
       escreva "Yes"
-    senao
+    senão
       escreva "No"
     fim
     s := leia_inteiros(" ")
