@@ -1,4 +1,6 @@
 n = abs(leia_inteiro)
-para i de 1 até n se n mod i  == 0 faça
-  escreva i
+para i de 1 até n faça
+  se n mod i == 0 então
+    escreva i
+  fim
 fim

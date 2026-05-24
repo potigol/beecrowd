@@ -4,4 +4,3 @@ p2 = leia_reais(2)
 x2, y2 = p2[1], p2[2]
 distancia = raiz((x1 - x2) ^ 2 + (y1 - y2) ^ 2)
 escreva distancia formato "%.4f"
-
