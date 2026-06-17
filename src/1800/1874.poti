@@ -1,0 +1,28 @@
+def transposta(matriz: Matriz[Inteiro]): Matriz[Inteiro] = escolha matriz
+  caso []::as => []
+  caso _      => matriz.mapeie(_.cabeça) :: transposta(matriz.mapeie(_.cauda))
+fim
+
+def preencher(pilhas, blocos_novos: Lista[Inteiro], h: Inteiro): Matriz[Inteiro] = escolha pilhas
+  caso a::as => (Lista(a, 1) + blocos_novos.pegue(h-a)) :: preencher(as, blocos_novos.descarte(h-a), h)
+  caso _ => []
+fim
+
+def somar(pilha: Lista[Inteiro]): Inteiro = escolha pilha
+  caso a::as => a + somar(as)
+  caso _     => 0
+fim
+
+var a := leia_inteiros(" ")
+enquanto a <> [0, 0, 0] faça
+  h, p, f = a[1], a[2], a[3]
+  blocos = Lista(h, leia_inteiros(" "))
+  pilhas = transposta(blocos).mapeie(p => somar(p)).inverta
+  blocos_novos = leia_inteiros(" ") + Lista(h*p, 0)
+
+  escreva transposta(preencher(pilhas, blocos_novos, h).inverta)
+            .inverta
+            .mapeie(linha => linha.junte(" "))
+            .junte("\n")
+   a := leia_inteiros(" ")
+fim
