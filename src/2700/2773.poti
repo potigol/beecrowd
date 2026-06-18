@@ -1,0 +1,19 @@
+def int(a: Texto) = a.inteiro
+def hipot(a, b: Real) = raiz(a^2 + b^2)
+
+var saida: Lista[Texto] = []
+
+var entrada := leia_texto
+enquanto nao eof faça
+    a = entrada.divida(" ").mapeie(int)
+    xi, yi, xf, yf, v = a[1], a[2], a[3], a[4], a[5]
+    b = leia_inteiros(" ")
+    xl, yl, xr, yr = b[1], b[2], b[3], b[4]
+    meio = xr - xl
+    p1 = hipot(xl - xi, yl - yi) + hipot(xr - xf, yl - yf)
+    p2 = hipot(xl - xi, yr - yi) + hipot(xr - xf, yr - yf)
+    r = se p1 < p2 então (p1 + meio) / v senão (p2 + meio) / v fim
+    saida := (r formato "%.1f") :: saida
+    entrada := leia_texto
+fim
+escreva saida.inverta.junte("\n")
