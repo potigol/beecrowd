@@ -1,0 +1,14 @@
+def cabe(largura, altura, r1, r2: Real) = 
+    largura >= r1 * 2 e largura >= r2 * 2 e
+    altura  >= r1 * 2 e altura  >= r2 * 2 e
+    raiz((largura - r1 - r2) ^ 2 + (altura - r1 - r2) ^ 2) >= r1 + r2
+
+var entrada := leia_inteiros(" ")
+enquanto entrada <> [0, 0, 0, 0] faça
+    l, c, r1, r2 = entrada[1], entrada[2], entrada[3], entrada[4]
+    se cabe(l, c, r1, r2)
+        então escreva "S"
+        senão escreva "N"
+    fim
+    entrada := leia_inteiros(" ")
+fim
