@@ -1,6 +1,6 @@
 def cabe(largura, altura, r1, r2: Real) = 
-    largura >= r1 * 2 e largura >= r2 * 2 e
-    altura  >= r1 * 2 e altura  >= r2 * 2 e
+    largura >= r1 * 2 e altura >= r1 * 2 e
+    largura >= r2 * 2 e altura >= r2 * 2 e
     raiz((largura - r1 - r2) ^ 2 + (altura - r1 - r2) ^ 2) >= r1 + r2
 
 var entrada := leia_inteiros(" ")
