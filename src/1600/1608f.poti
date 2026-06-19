@@ -1,0 +1,21 @@
+def max(a, b: Inteiro) = se a >= b então a senão b fim
+
+def calcular_custo(precos, dados: Lista[Inteiro]): Inteiro = escolha dados
+    caso [] => 0
+    caso a::as => precos[a + 1] * as.cabeça + calcular_custo(precos, as.cauda)
+fim
+
+def calcular_melhor(dinheiro: Inteiro, precos: Lista[Inteiro]) = 
+    (melhor: Inteiro, bolo: Lista[Inteiro]) => max(melhor, dinheiro div calcular_custo(precos, bolo))
+
+def melhor_bolo(dinheiro: Inteiro, precos: Lista[Inteiro], bolos: Lista[Lista[Inteiro]]) =
+    bolos.injete(0)(calcular_melhor(dinheiro, precos))
+
+t = leia_inteiro
+para i de 1 até t faça
+    a = leia_inteiros(" ")
+    dinheiro, qtd_bolos = a[1], a[3]
+    precos = leia_inteiros(" ")
+    bolos = Lista(qtd_bolos, leia_inteiros(" ").cauda)
+    escreva melhor_bolo(dinheiro, precos, bolos)
+fim

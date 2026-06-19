@@ -1,5 +1,5 @@
 *.poti.scala
-/src/*/*[a-z].poti
+/src/*/*[a-e,g-z].poti
 /src/*/*.txt
 /*.poti
 /src/*.poti
@@ -21,3 +21,4 @@
 *.bak
 .*/
 cache/*
+node_modules/*
