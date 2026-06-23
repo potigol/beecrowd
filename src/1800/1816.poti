@@ -1,0 +1,14 @@
+var instancia := 0
+
+enquanto leia_inteiro > 0 faça
+    numeros = leia_inteiros(" ")
+    var letras := para c de 'A' até 'Z' gere c fim
+    texto = para n em numeros gere
+        letras := letras[n] :: letras.pegue(n-1) + letras.descarte(n)
+        letras.cabeça
+    fim
+    instancia := instancia + 1
+    escreva "Instancia {instancia}"
+    escreva texto.junte("")
+    escreva ""
+fim
