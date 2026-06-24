@@ -1,0 +1,41 @@
+def prec(s: Caractere) = escolha s
+    caso '(' => 1
+    caso '+' => 2
+    caso '-' => 2
+    caso '*' => 3
+    caso '/' => 3
+    caso '^' => 4
+    caso _ => 0
+fim
+
+def alfa_numerico(s: Caractere) = 
+    s >= '0' e s <= '9' ou
+    s >= 'a' e s <= 'z' ou 
+    s >= 'A' e s <= 'Z'
+
+t = leia_inteiro
+para i de 1 até t faça
+    entrada = leia_texto
+    var pilha, resposta: Lista[Caractere] = []
+    para s em entrada faça
+        escolha s
+            caso s se alfa_numerico(s) => resposta := s :: resposta
+            caso '(' => pilha := s :: pilha
+            caso ')' =>
+                enquanto pilha.cabeça <> '(' faça
+                    resposta := pilha.cabeça :: resposta
+                    pilha := pilha.cauda
+                fim
+                pilha := pilha.cauda
+            caso _ =>
+                enquanto pilha <> [] e prec(s) <= prec(pilha.cabeça) faça
+                    resposta := pilha.cabeça :: resposta
+                    pilha := pilha.cauda
+                fim
+                pilha := s :: pilha
+        fim
+    fim
+    escreva resposta.junte("").inverta + pilha.junte("")
+fim
+
+ 
