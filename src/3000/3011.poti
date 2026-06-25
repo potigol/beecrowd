@@ -1,0 +1,32 @@
+def op(simbolo: Caractere) = escolha simbolo
+    caso '+' => (a, b: Inteiro) => a + b
+    caso  _  => (a, b: Inteiro) => a - b
+fim
+
+s = "123456789"
+comb = para i de 1 até 6, a em [s.pegue(i).inteiro],
+            j de i + 1 até 7, b em [s.descarte(i).pegue(j-i).inteiro],
+            k de j + 1 até 8, c em [s.descarte(j).pegue(k-j).inteiro]
+       gere (a, b, c, s.descarte(k).inteiro) fim
+
+expr = para c  em comb,
+            s1 em "+-", op1 em [op(s1)],
+            s2 em "+-", op2 em [op(s2)],
+            s3 em "+-", op3 em [op(s3)] gere
+            (op3(op2(op1(c.primeiro, c.segundo), c.terceiro), c.quarto), "{c.primeiro}{s1}{c.segundo}{s2}{c.terceiro}{s3}{c.quarto}")
+        fim.toMap
+
+def min(a, b: Inteiro) = se a <= b então a senão b fim
+
+limite = 100000
+var m := leia_inteiro
+enquanto m > 0 faça
+    n = min(m, limite)
+    m := m - limite 
+    resp = para i de 1 até n gere
+        d = leia_inteiro
+        ex = expr(d)
+        "{ex} = {d}"
+    fim
+    escreva resp.junte("\n")
+fim
