@@ -1,0 +1,11 @@
+var resp: Lista[Texto] = []
+n = leia_inteiro
+para i de 1 até n faça
+    a, b, c = leia_texto
+    r = se (b + c) - a <> ""
+        então "CHEATER"
+        senão  (a - (b + c)).ordene
+    fim
+    resp := r :: resp
+fim
+escreva resp.inverta.junte("\n")
