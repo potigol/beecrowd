@@ -2164,8 +2164,8 @@
 3163	Controlador de Vôo	Estruturas e Bibliotecas
 3164	Fiscalizando Empresa	Iniciante
 3165	Primos Gêmeos	Matemática
-3166	Procurando Palavras na Diagonal Principal	Iniciante
-3167	Procurando Palavras na Diagonal Secundária	Iniciante
+3166	Procurando Palavras na Diagonal Principal	Strings
+3167	Procurando Palavras na Diagonal Secundária	Strings
 3168	Aposta dos Gnomos	Ad-Hoc
 3169	Batendo em Retirada	Grafos
 3170	Bolinhas de Natal	Iniciante
