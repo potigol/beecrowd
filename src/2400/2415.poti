@@ -1,0 +1,8 @@
+n = leia_inteiro
+valores = leia_inteiros(" ")
+maior = valores
+          .divida_quando(_ <> _)
+          .mapeie(_.tamanho)
+          .ordene(a => -a)
+          .cabeça
+escreva maior
