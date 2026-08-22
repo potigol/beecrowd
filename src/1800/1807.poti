@@ -1,4 +1,4 @@
-def exp(n, md: Long): Long = #, md: int = 2147483647) -> int:
+def exp(n, md: Long): Long =
   se n == 0 então
     1
   senãose n mod 2 == 1 então
