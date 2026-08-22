@@ -1,0 +1,18 @@
+def soma(a, b: Inteiro) = a + b
+
+def min(a, b: Inteiro) = se a <= b então a senão b fim
+
+def distancia(a, b: Caractere)
+  d = abs(a - b)
+  retorne min(d, 26 - d)
+fim
+
+s, t = leia_texto
+
+dist = para i de 1 até s.tamanho
+         gere distancia(s[i], t[i])
+       fim
+         .injete(0)(soma)
+
+escreva dist
+    

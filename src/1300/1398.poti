@@ -1,0 +1,18 @@
+primo = 131071
+
+var entrada := leia_texto
+enquanto não eof faça
+    enquanto entrada.ultimo <> '#' faça
+        entrada := entrada + leia_texto
+    fim
+    entrada := entrada.pegue(entrada.tamanho - 1)
+    var num := 0
+    para d em entrada faça
+        num := (2 * num + (d - '0')) mod primo
+    fim
+    se num == 0 
+        então escreva "YES"
+        senão escreva "NO"
+    fim
+    entrada := leia_texto
+fim

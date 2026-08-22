@@ -4,6 +4,8 @@ delta = b ^ 2 - 4 * a * c
 se a == 0 ou delta < 0 então
   escreva "Impossivel calcular"
 senão
-  escreva "R1 = {((-b) + raiz(delta)) / (2 * a) formato "%.5f"}"
-  escreva "R2 = {((-b) - raiz(delta)) / (2 * a) formato "%.5f"}"
+  r1 = ((-b) + raiz(delta)) / (2 * a)
+  r2 = ((-b) - raiz(delta)) / (2 * a)
+  escreva "R1 = {r1 formato "%.5f"}"
+  escreva "R2 = {r2 formato "%.5f"}"
 fim

@@ -1,0 +1,22 @@
+t = leia_inteiro
+para i de 1 até t faça
+    a = leia_inteiros(" ")
+    dinheiro, ingredientes, bolos = a[1], a[2], a[3]
+    precos = leia_inteiros(" ")
+    var melhor := 0
+    para j de 1 até bolos faça
+        dados = leia_inteiros(" ")
+        var q = dados.cabeça
+        var custo := 0
+        para k de 2 até 2*q passo 2 faça
+            custo := custo + precos[dados[k] + 1] * dados[k+1]
+        fim
+        se custo > 0 então
+            v = dinheiro div custo
+            se v > melhor então
+                melhor := v
+            fim
+        fim
+    fim
+    escreva melhor
+fim
