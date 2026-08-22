@@ -1,0 +1,19 @@
+var distance := 0.0
+var last_time := 0
+var speed := 0.0
+
+var parts := leia_textos(" ")
+enquanto não eof faça
+  hora = parts[1].divida(":").mapeie(_.inteiro)
+  h, m, s = hora[1], hora[2], hora[3]
+  current_time = h * 3600 + m * 60 + s
+  distance := distance + (current_time - last_time) * speed / 3600
+  se parts.tamanho == 2 então
+    speed := parts[2].real
+    last_time := current_time
+  senão
+    escreva "{parts[1]} {distance formato "%.2f"} km"
+    last_time := current_time
+  fim
+  parts := leia_textos(" ")
+fim
