@@ -1,0 +1,13 @@
+def exp(n, md: Long): Long = #, md: int = 2147483647) -> int:
+  se n == 0 então
+    1
+  senãose n mod 2 == 1 então
+    (3 * exp(n - 1, md)) mod md
+  senão
+    valor = exp(n div 2, md)
+    a = (valor * valor) mod md
+    a
+  fim
+
+entrada = leia_inteiro
+escreva exp(entrada, 2147483647)
