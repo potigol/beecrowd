@@ -1,0 +1,55 @@
+tipo Ponto = (Real, Real)
+tipo Pontos = Lista[Ponto]
+
+def cross(a, b, c: Ponto) =
+  (b.primeiro - a.primeiro) * (c.segundo - a.segundo) -
+  (b.segundo - a.segundo) * (c.primeiro - a.primeiro)
+
+def constroi(pontos: Pontos) =
+  pontos.injete([(0.0, 0.0)].cauda) ((h, p) => faça
+    var r := h
+    enquanto r.tamanho >= 2 e cross(r[2], r[1], p) <= 0 faça
+      r := r.cauda
+    fim
+    p :: r
+  fim).inverta
+
+def fecho(pontos: Pontos)
+  p = pontos.ordene
+  baixo = constroi(p)
+  cima = constroi(p.inverta)
+  retorne (baixo.cauda + cima.cauda).inverta
+fim
+
+def area(pontos: Pontos) =
+  soma(pontos, pontos.cabeça, 0.0).abs / 2
+
+def soma(pontos: Pontos, primeiro: Ponto, acumulado: Real): Real =
+  escolha pontos
+    caso [] => acumulado
+    caso [p] =>
+      acumulado +
+      p.primeiro * primeiro.segundo -
+      primeiro.primeiro * p.segundo
+    caso p :: resto =>
+      q = resto.cabeça
+      termo = p.primeiro * q.segundo - q.primeiro * p.segundo
+      soma(resto, primeiro, acumulado + termo)
+  fim
+
+var  n := leia_inteiro 
+enquanto n > 0 faça
+  a = leia_reais(" ")
+  xp, yp, zp = a[1], a[2], a[3]
+
+  pontos = para i de 1 até n gere
+    b = leia_reais(" ")
+    x, y, z = b[1], b[2], b[3]
+    t = zp / (zp - z)
+    c = (xp + (x - xp) * t, yp + (y - yp) * t)
+    c
+  fim
+
+  escreva area(fecho(pontos)) formato "%.2f"
+  n := leia_inteiro 
+fim
