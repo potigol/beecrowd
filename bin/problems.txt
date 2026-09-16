@@ -2499,6 +2499,26 @@
 3500	Inversão de Número	Iniciante
 3501	Maior número na matriz	Ad-Hoc
 3502	Montagem de looks	Matemática
+3503	Jogo dos números	Grafos
+3504	Frase palíndromo	Strings
+3505	Controle de Ingredientes	SQL
+3506	Quantos primos?	Iniciante
+3507	Tigres e Gansos	Iniciante
+3508	Números binários	Strings
+3509	Canos conectados	Estruturas e Bibliotecas
+3510	Sequência Válida	Estruturas e Bibliotecas
+3511	Dígitos Ímpares	Paradigmas
+3512	Ano perfeito	Matemática
+3513	O Militar de Guaxupé	Ad-Hoc
+3514	Sequência colorida	Paradigmas
+3515	Paradoxo dos Microsserviços	Grafos
+3516	Jogo da Multiplicação	Matemática
+3517	Divisores	Matemática
+3518	SEES Operation	Paradigmas
+3519	O Código de Whis	Matemática
+3520	Próximo ímpar	Iniciante
+3521	Maratona de Petiscos	Ad-Hoc
+3522	Desafio dos Subarrays	Ad-Hoc
 4000	~~Altura Mínima~~	Ad-Hoc
 4001	~~Baralho Embaralhado~~	Ad-Hoc
 4002	~~Caminhada na Montanha~~	Ad-Hoc
