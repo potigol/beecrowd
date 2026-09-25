@@ -1,0 +1,34 @@
+tipo T = Inteiro
+tipo Matriz = Lista[Lista[T]]
+
+def fatias(l: Lista[T], tamanho: Inteiro): Matriz =
+  escolha l
+    caso [] => []
+    caso xs => xs.pegue(tamanho) :: fatias(xs.descarte(tamanho), tamanho)
+  fim
+
+def transposta(m: Matriz): Matriz =
+  escolha m
+    caso [] :: xs => []
+    caso xs => xs.mapeie(_.cabeça) :: transposta(m.mapeie(_.cauda))
+  fim
+
+def enumerado(l: Lista[T]): Lista[(T, Inteiro)] =
+  l.zip(para i de 1 até l.tamanho gere i fim)
+
+a = leia_inteiros(" ")
+j, r = a[1], a[2]
+
+jogadores =
+  transposta(fatias(leia_inteiros(" "), j))
+    .mapeie(_.injete(0)(_ + _))
+
+var maior, vencedor := 0
+
+para (pontos, k) em enumerado(jogadores) faça
+  se pontos >= maior então
+    maior, vencedor := pontos, k
+  fim
+fim
+
+escreva vencedor
