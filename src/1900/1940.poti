@@ -1,27 +1,23 @@
-tipo T = Inteiro
-tipo Matriz = Lista[Lista[T]]
+tipo Matriz = Lista[Lista[Inteiro]]
 
-def fatias(l: Lista[T], tamanho: Inteiro): Matriz =
-  escolha l
-    caso [] => []
-    caso xs => xs.pegue(tamanho) :: fatias(xs.descarte(tamanho), tamanho)
-  fim
+def fatias(l: Lista[Inteiro], tamanho: Inteiro): Matriz = escolha l
+  caso [] => []
+  caso xs => xs.pegue(tamanho) :: fatias(xs.descarte(tamanho), tamanho)
+fim
 
-def transposta(m: Matriz): Matriz =
-  escolha m
-    caso [] :: xs => []
-    caso xs => xs.mapeie(_.cabeça) :: transposta(m.mapeie(_.cauda))
-  fim
+def soma_colunas(m: Matriz): Lista[Inteiro] = escolha m
+  caso [] :: xs => []
+  caso xs => soma(xs.mapeie(_.cabeça)) :: soma_colunas(xs.mapeie(_.cauda))
+fim
 
-def enumerado(l: Lista[T]): Lista[(T, Inteiro)] =
+def soma(l: Lista[Inteiro]) = l.injete(0)(_ + _)
+
+def enumerado(l: Lista[Inteiro]): Lista[(Inteiro, Inteiro)] =
   l.zip(para i de 1 até l.tamanho gere i fim)
 
-a = leia_inteiros(" ")
-j, r = a[1], a[2]
+j = leia_inteiros(" ")[1]
 
-jogadores =
-  transposta(fatias(leia_inteiros(" "), j))
-    .mapeie(_.injete(0)(_ + _))
+jogadores = soma_colunas(fatias(leia_inteiros(" "), j))
 
 var maior, vencedor := 0
 
