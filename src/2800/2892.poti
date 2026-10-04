@@ -1,0 +1,47 @@
+def lcm(a, b: Inteiro)
+  var x, y := a, b
+
+  enquanto y > 0 faça
+    x, y := y, x mod y
+  fim
+
+  retorne a div x * b
+fim
+
+def solucoes(t, m: Inteiro): Lista[Inteiro]
+  var resposta : Lista[Inteiro] = []
+  var i := 1
+
+  enquanto i * i <= t faça
+    se t mod i == 0 então
+      var j := t div i
+
+      se lcm(m, i) == t então
+        resposta := i :: resposta
+      fim
+
+      se i <> j e lcm(m, j) == t então
+        resposta := j :: resposta
+      fim
+    fim
+
+    i := i + 1
+  fim
+
+  retorne resposta.ordene
+fim
+
+var entrada := leia_inteiros(" ")
+
+enquanto entrada <> [0, 0, 0] faça
+  var t, a, b := entrada[1], entrada[2], entrada[3]
+  var m := lcm(a, b)
+
+  se t mod m == 0 então
+    escreva solucoes(t, m).junte(" ")
+  senao
+    escreva ""
+  fim
+
+  entrada := leia_inteiros(" ")
+fim
