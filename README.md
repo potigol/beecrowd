@@ -71,6 +71,7 @@ potigol2scala 1234.poti
 ```
 
 O comando `potigol2scala` gera o arquivo Scala ao lado do arquivo Potigol informado e pode ser executado de qualquer diretório.
+Por exemplo, `potigol2scala 1234.poti` gera `1234.poti.scala`. Esse arquivo pode ser enviado ao Beecrowd para testar a solução.
 
 Para executar o arquivo `.poti` aberto no editor, use o botão **Run Code** (ícone de execução no canto superior direito). O editor salva o arquivo antes de executar e abre o terminal integrado.
 
