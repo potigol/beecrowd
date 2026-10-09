@@ -1,0 +1,187 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Testar 1000.poti",
+      "type": "shell",
+      "command": "delegua",
+      "args": ["--dialeto", "potigol", "src/1000/1000.poti"],
+      "group": {
+        "kind": "test",
+        "isDefault": false
+      },
+      "presentation": {
+        "reveal": "always",
+        "panel": "shared",
+        "showReuseMessage": false
+      }
+    },
+    {
+      "label": "Testar 1001.poti",
+      "type": "shell",
+      "command": "delegua",
+      "args": ["--dialeto", "potigol", "src/1000/1001.poti"],
+      "group": {
+        "kind": "test",
+        "isDefault": false
+      },
+      "presentation": {
+        "reveal": "always",
+        "panel": "shared",
+        "showReuseMessage": false
+      }
+    },
+    {
+      "label": "Testar 1002.poti",
+      "type": "shell",
+      "command": "delegua",
+      "args": ["--dialeto", "potigol", "src/1000/1002.poti"],
+      "group": {
+        "kind": "test",
+        "isDefault": false
+      },
+      "presentation": {
+        "reveal": "always",
+        "panel": "shared",
+        "showReuseMessage": false
+      }
+    },
+    {
+      "label": "Testar 1003.poti",
+      "type": "shell",
+      "command": "delegua",
+      "args": ["--dialeto", "potigol", "src/1000/1003.poti"],
+      "group": {
+        "kind": "test",
+        "isDefault": false
+      },
+      "presentation": {
+        "reveal": "always",
+        "panel": "shared",
+        "showReuseMessage": false
+      }
+    },
+    {
+      "label": "Testar 1004.poti",
+      "type": "shell",
+      "command": "delegua",
+      "args": ["--dialeto", "potigol", "src/1000/1004.poti"],
+      "group": {
+        "kind": "test",
+        "isDefault": false
+      },
+      "presentation": {
+        "reveal": "always",
+        "panel": "shared",
+        "showReuseMessage": false
+      }
+    },
+    {
+      "label": "Testar 1005.poti",
+      "type": "shell",
+      "command": "delegua",
+      "args": ["--dialeto", "potigol", "src/1000/1005.poti"],
+      "group": {
+        "kind": "test",
+        "isDefault": false
+      },
+      "presentation": {
+        "reveal": "always",
+        "panel": "shared",
+        "showReuseMessage": false
+      }
+    },
+    {
+      "label": "Testar 1006.poti",
+      "type": "shell",
+      "command": "delegua",
+      "args": ["--dialeto", "potigol", "src/1000/1006.poti"],
+      "group": {
+        "kind": "test",
+        "isDefault": false
+      },
+      "presentation": {
+        "reveal": "always",
+        "panel": "shared",
+        "showReuseMessage": false
+      }
+    },
+    {
+      "label": "Testar 1007.poti",
+      "type": "shell",
+      "command": "delegua",
+      "args": ["--dialeto", "potigol", "src/1000/1007.poti"],
+      "group": {
+        "kind": "test",
+        "isDefault": false
+      },
+      "presentation": {
+        "reveal": "always",
+        "panel": "shared",
+        "showReuseMessage": false
+      }
+    },
+    {
+      "label": "Testar 1008.poti",
+      "type": "shell",
+      "command": "delegua",
+      "args": ["--dialeto", "potigol", "src/1000/1008.poti"],
+      "group": {
+        "kind": "test",
+        "isDefault": false
+      },
+      "presentation": {
+        "reveal": "always",
+        "panel": "shared",
+        "showReuseMessage": false
+      }
+    },
+    {
+      "label": "Testar 1009.poti",
+      "type": "shell",
+      "command": "delegua",
+      "args": ["--dialeto", "potigol", "src/1000/1009.poti"],
+      "group": {
+        "kind": "test",
+        "isDefault": false
+      },
+      "presentation": {
+        "reveal": "always",
+        "panel": "shared",
+        "showReuseMessage": false
+      }
+    },
+    {
+      "label": "Testar todos (1000-1009)",
+      "type": "shell",
+      "command": "bash",
+      "args": ["-c", "for i in {1000..1009}; do echo \"\\n=== Testando $i.poti ===\"  && delegua --dialeto potigol src/1000/$i.poti || echo \"ERRO em $i.poti\"; done"],
+      "group": {
+        "kind": "test",
+        "isDefault": true
+      },
+      "presentation": {
+        "reveal": "always",
+        "panel": "shared",
+        "showReuseMessage": false
+      },
+      "problemMatcher": []
+    },
+    {
+      "label": "Testar src/1000 com exemplos",
+      "type": "shell",
+      "command": "bash",
+      "args": ["bin/testar_src1000_com_exemplos.sh"],
+      "group": {
+        "kind": "test",
+        "isDefault": false
+      },
+      "presentation": {
+        "reveal": "always",
+        "panel": "shared",
+        "showReuseMessage": false
+      },
+      "problemMatcher": []
+    }
+  ]
+}

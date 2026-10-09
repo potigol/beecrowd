@@ -63,6 +63,25 @@
 
 As soluções deste repositório foram submetidas e aceitas no Beecrowd com o script [Potigol2Scala](https://github.com/potigol/potigol2scala).
 
+No GitHub Codespaces, execute um arquivo Potigol pelo terminal com:
+
+```sh
+potigol 1234.poti
+potigol2scala 1234.poti
+```
+
+O comando `potigol2scala` gera o arquivo Scala ao lado do arquivo Potigol informado e pode ser executado de qualquer diretório.
+
+Para executar o arquivo `.poti` aberto no editor, use o botão **Run Code** (ícone de execução no canto superior direito). O editor salva o arquivo antes de executar e abre o terminal integrado.
+
+Para executar todos os casos de teste em `src/*/exemplos`, use:
+
+```sh
+test_potigol
+# Ou teste apenas um problema:
+test_potigol 1001
+```
+
 ## Como contribuir
 
 1. Faça um fork de https://github.com/potigol/beecrowd.

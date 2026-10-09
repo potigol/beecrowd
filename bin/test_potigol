@@ -1,0 +1,77 @@
+#!/usr/bin/env bash
+
+SCRIPT_DIR="$(cd -- "$(dirname -- "${BASH_SOURCE[0]}")" && pwd)"
+REPOSITORY_DIR="$(cd -- "$SCRIPT_DIR/.." && pwd)"
+JAR="$SCRIPT_DIR/potigol.jar"
+
+if (( $# > 1 )) || [[ -n "${1:-}" && ! "$1" =~ ^[0-9]+$ ]]; then
+    echo "Uso: $0 [número-do-problema]" >&2
+    exit 2
+fi
+
+if [[ ! -f "$JAR" ]]; then
+    echo "JAR do Potigol não encontrado: $JAR" >&2
+    exit 1
+fi
+
+shopt -s nullglob
+ALL_INPUTS=("$REPOSITORY_DIR"/src/*/exemplos/*.in)
+INPUTS=()
+for INPUT in "${ALL_INPUTS[@]}"; do
+    EXAMPLE="${INPUT##*/}"
+    if [[ -z "${1:-}" || "$EXAMPLE" == "$1"-*.in ]]; then
+        INPUTS+=("$INPUT")
+    fi
+done
+
+if (( ${#INPUTS[@]} == 0 )); then
+    echo "Nenhum caso de teste encontrado${1:+ para o problema $1}." >&2
+    exit 1
+fi
+
+TEMP_DIR="$(mktemp -d)"
+trap 'rm -rf "$TEMP_DIR"' EXIT
+
+PASSES=0
+FAILURES=0
+
+for INPUT in "${INPUTS[@]}"; do
+    EXAMPLE="${INPUT##*/}"
+    PROBLEM="${EXAMPLE%%-*}"
+    EXPECTED="${INPUT%.in}.out"
+    PROGRAM="${INPUT%/exemplos/*}/$PROBLEM.poti"
+
+    if [[ ! -f "$PROGRAM" ]]; then
+        echo "FAIL $EXAMPLE: programa não encontrado ($PROGRAM)"
+        ((FAILURES += 1))
+        continue
+    fi
+
+    if [[ ! -f "$EXPECTED" ]]; then
+        echo "FAIL $EXAMPLE: saída esperada não encontrada ($EXPECTED)"
+        ((FAILURES += 1))
+        continue
+    fi
+
+    ACTUAL="$TEMP_DIR/actual"
+    STDERR="$TEMP_DIR/stderr"
+    if ! java -jar "$JAR" "$PROGRAM" < "$INPUT" > "$ACTUAL" 2> "$STDERR"; then
+        echo "FAIL $EXAMPLE: erro ao executar $PROGRAM"
+        cat "$STDERR" >&2
+        ((FAILURES += 1))
+        continue
+    fi
+
+    if diff -u "$EXPECTED" "$ACTUAL"; then
+        echo "PASS $EXAMPLE"
+        ((PASSES += 1))
+    else
+        echo "FAIL $EXAMPLE: saída diferente"
+        ((FAILURES += 1))
+    fi
+done
+
+echo
+echo "Resultado: $PASSES passaram; $FAILURES falharam; ${#INPUTS[@]} casos no total."
+
+(( FAILURES == 0 ))
