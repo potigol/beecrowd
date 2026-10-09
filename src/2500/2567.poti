@@ -1,0 +1,13 @@
+def soma(x, y: Inteiro) = x + y
+def dif(x: (Inteiro, Inteiro)) = x.segundo - x.primeiro
+
+var n := leia_inteiro
+enquanto não eof faça
+    a = leia_inteiros(" ").ordene
+    resposta = a.zip(a.inverta)
+                .pegue(n div 2)
+                .mapeie(dif)
+                .injete(0)(soma)
+    escreva resposta
+    n := leia_inteiro
+fim
