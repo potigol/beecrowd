@@ -1,0 +1,26 @@
+var usadas := leia_inteiros(" ")
+
+enquanto usadas <> [0, 0, 0, 0, 0] faça
+  var princesa = usadas.pegue(3).ordene
+  var resposta := -1
+  var z := 1
+
+  enquanto z <= 52 e resposta == -1 faça
+    se não usadas.contém(z) então
+      principe = (z::usadas.descarte(3)).ordene
+      var vitorias := 
+          (se principe[3] > princesa[1] então 1 senão 0 fim) +
+          (se principe[2] > princesa[3] então 1 senão 0 fim) +
+          (se principe[1] > princesa[2] então 1 senão 0 fim)
+
+      se vitorias >= 2 então
+        resposta := z
+      fim
+    fim
+
+    z := z + 1
+  fim
+
+  escreva resposta
+  usadas := leia_inteiros(" ")
+fim
