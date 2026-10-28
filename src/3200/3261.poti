@@ -1,0 +1,21 @@
+def maximo(x, y: Inteiro) = se x > y entao x senao y fim
+
+a = leia_texto
+b = leia_texto
+
+var la, lb := 1
+var ra = a.tamanho
+var rb = b.tamanho
+
+enquanto la < a.tamanho e lb < b.tamanho e a[la] == b[lb] faca
+  la := la + 1
+  lb := lb + 1
+fim
+
+enquanto ra >= la e rb >= lb e a[ra] == b[rb] faca
+  ra := ra - 1
+  rb := rb - 1
+fim
+
+diferenca = maximo(rb - lb + 1, 0)
+escreva diferenca
