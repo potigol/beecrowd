@@ -1,0 +1,25 @@
+var n:= leia_inteiro
+
+enquanto n > 0 faca
+  o, t = leia_textos(" ")
+
+  var trem, resultado: Lista[Texto] := []
+  var j := 1
+
+  para vagao em o faca
+    trem := vagao::trem
+    resultado := "I"::resultado
+    enquanto trem.tamanho > 0 e trem.cabeça == t[j] faca
+      trem := trem.cauda
+      resultado := "R"::resultado
+      j := j + 1
+    fim
+  fim
+
+  se trem.tamanho > 0 entao
+    resultado := " Impossible"::resultado 
+  fim
+  
+  escreva resultado.inverta.junte("")
+  n := leia_inteiro
+fim

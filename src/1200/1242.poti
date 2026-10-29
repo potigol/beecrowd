@@ -1,0 +1,25 @@
+var rna := leia_texto
+
+enquanto não eof faca
+  var pilha: Lista[Caractere] := []
+  var total := 0
+
+  para base em rna faca
+    se pilha == [] entao
+      pilha := base::pilha
+    senao
+      topo = pilha.cabeça
+
+      se (topo == 'B' e base == 'S') ou (topo == 'S' e base == 'B') ou
+         (topo == 'C' e base == 'F') ou (topo == 'F' e base == 'C') entao
+        pilha := pilha.cauda
+        total := total + 1
+      senao
+        pilha := base::pilha
+      fim
+    fim
+  fim
+
+  escreva total
+  rna := leia_texto
+fim
