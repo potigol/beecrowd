@@ -1,0 +1,71 @@
+site_name: "Beecrowd Potigol"
+site_url: "https://potigol.github.io/beecrowd"
+site_description: "Catálogo de soluções para os problemas do Beecrowd utilizando a linguagem Potigol."
+site_author: "Potigol"
+repo_url: "https://github.com/potigol/beecrowd"
+theme:
+  name: material
+  language: pt-BR
+  palette:
+    # Light Mode
+    - scheme: default
+      toggle:
+        icon: material/weather-night
+        name: Light mode
+      primary: blue
+      accent: deep orange
+
+    # Dark Mode
+    - scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Dark mode
+      primary: green
+      accent: deep purple
+  font:
+    text: Roboto
+    code: Source Code Pro
+  features:
+    - navigation.tabs
+#    - navigation.footer
+    - content.code.copy
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/potigol
+    - icon: material/twitter
+      link: https://twitter.com/potigol
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+      use_pygments: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.details
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tilde
+  - codehilite:
+      use_pygments: true
+      pygments_style: material
+      linenums: true
+  - tables
+  - admonition
+  - attr_list
+  - md_in_html
