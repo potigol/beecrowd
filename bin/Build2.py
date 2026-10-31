@@ -144,7 +144,7 @@ def save(problems: dict[int, Problem], *files: str) -> dict[int, Problem]:
 
 
 def lista_categoria(
-    problems: dict[int, Problem], path: str = "../categorias/"
+    problems: dict[int, Problem], path: str = "../docs/categorias/"
 ) -> None:
     grouped_by_category: dict[str, list[Problem]] = {}
     for problem in problems.values():
@@ -238,14 +238,14 @@ def main() -> None:
 
     # Per-category lists
     lista_categoria(problems)
-    lista_categoria(save(problems, "obi.txt"), "../competicoes/obi/")
+    lista_categoria(save(problems, "obi.txt"), "../docs/competicoes/obi/")
     lista_categoria(
         save(problems, "maratona1.txt", "maratona2.txt"),
-        "../competicoes/maratona/",
+        "../docs/competicoes/maratona/",
     )
-    lista_categoria(save(problems, "olip.txt"), "../competicoes/outras/olip/")
+    lista_categoria(save(problems, "olip.txt"), "../docs/competicoes/outras/olip/")
     lista_categoria(
-        save(problems, "maratona0.txt"), "../competicoes/outras/fasezero/"
+        save(problems, "maratona0.txt"), "../docs/competicoes/outras/fasezero/"
     )
 
     # Per-competition chronological lists
@@ -253,25 +253,25 @@ def main() -> None:
         problems,
         "maratona1.txt",
         "maratona2.txt",
-        "../competicoes/maratona/README.md",
+        "../docs/competicoes/maratona/README.md",
         "Maratona de Programação",
     )
     umafase(
         problems,
         "obi.txt",
-        "../competicoes/obi/README.md",
+        "../docs/competicoes/obi/README.md",
         "Olimpíada Brasileira de Informática",
     )
     umafase(
         problems,
         "olip.txt",
-        "../competicoes/outras/olip/README.md",
+        "../docs/competicoes/outras/olip/README.md",
         "Olimpíada IFSULDEMINAS",
     )
     umafase(
         problems,
         "maratona0.txt",
-        "../competicoes/outras/fasezero/README.md",
+        "../docs/competicoes/outras/fasezero/README.md",
         "Fase Zero - Maratona SBC",
     )
 
