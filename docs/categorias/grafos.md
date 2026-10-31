@@ -1,4 +1,4 @@
-# Grafos (9 / 279)
+# Grafos (9 / 281)
 
 
 
@@ -286,3 +286,5 @@
 - [ ] [3340](https://resources.beecrowd.com/repository/UOJ_3340.html) - Estudante De Mestrado
 - [ ] [3350](https://resources.beecrowd.com/repository/UOJ_3350.html) - A Casa das Sete Mulheres
 - [ ] [3356](https://resources.beecrowd.com/repository/UOJ_3356.html) - Reprodução Controlada
+- [ ] [3503](https://resources.beecrowd.com/repository/UOJ_3503.html) - Jogo dos números
+- [ ] [3515](https://resources.beecrowd.com/repository/UOJ_3515.html) - Paradoxo dos Microsserviços

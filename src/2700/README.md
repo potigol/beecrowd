@@ -1,4 +1,4 @@
-# Problemas 2700 (48/99)
+# Problemas 2700 (49/99)
 
 - [ ] [2700](https://resources.beecrowd.com/repository/UOJ_2700.html) - Angariando Fundos *Estruturas e Bibliotecas*
 - [ ] [2701](https://resources.beecrowd.com/repository/UOJ_2701.html) - Portas da Incerteza *Ad-Hoc*
@@ -73,7 +73,7 @@
 - [x] [2770](https://resources.beecrowd.com/repository/UOJ_2770.html) - [Tamanho da Placa](https://github.com/potigol/beecrowd/blob/master/src/2700/2770.poti) *Iniciante*
 - [ ] [2771](https://resources.beecrowd.com/repository/UOJ_2771.html) - Média *Ad-Hoc*
 - [ ] [2772](https://resources.beecrowd.com/repository/UOJ_2772.html) - Plantação *Ad-Hoc*
-- [ ] [2773](https://resources.beecrowd.com/repository/UOJ_2773.html) - Menor Caminho *Geometria Computacional*
+- [x] [2773](https://resources.beecrowd.com/repository/UOJ_2773.html) - [Menor Caminho](https://github.com/potigol/beecrowd/blob/master/src/2700/2773.poti) *Geometria Computacional*
 - [x] [2774](https://resources.beecrowd.com/repository/UOJ_2774.html) - [Precisão do Sensor](https://github.com/potigol/beecrowd/blob/master/src/2700/2774.poti) *Iniciante*
 - [x] [2775](https://resources.beecrowd.com/repository/UOJ_2775.html) - [Preparando a Produção](https://github.com/potigol/beecrowd/blob/master/src/2700/2775.poti) *Iniciante*
 - [ ] [2776](https://resources.beecrowd.com/repository/UOJ_2776.html) - Promoções *Ad-Hoc*

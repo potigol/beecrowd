@@ -1,10 +1,10 @@
-# Problemas 1300 (21/99)
+# Problemas 1300 (24/99)
 
 - [x] [1300](https://resources.beecrowd.com/repository/UOJ_1300.html) - [Horas e Minutos](https://github.com/potigol/beecrowd/blob/master/src/1300/1300.poti) *Ad-Hoc*
 - [ ] [1301](https://resources.beecrowd.com/repository/UOJ_1301.html) - Produto do Intervalo *Estruturas e Bibliotecas*
 - [ ] [1302](https://resources.beecrowd.com/repository/UOJ_1302.html) - Juntando Casais *Grafos*
 - [x] [1303](https://resources.beecrowd.com/repository/UOJ_1303.html) - [Spurs Rocks](https://github.com/potigol/beecrowd/blob/master/src/1300/1303.poti) *Estruturas e Bibliotecas*
-- [ ] [1304](https://resources.beecrowd.com/repository/UOJ_1304.html) - Velocidade Média *Matemática*
+- [x] [1304](https://resources.beecrowd.com/repository/UOJ_1304.html) - [Velocidade Média](https://github.com/potigol/beecrowd/blob/master/src/1300/1304.poti) *Matemática*
 - [x] [1305](https://resources.beecrowd.com/repository/UOJ_1305.html) - [Arredondamento por Valor de Corte](https://github.com/potigol/beecrowd/blob/master/src/1300/1305.poti) *Strings*
 - [x] [1306](https://resources.beecrowd.com/repository/UOJ_1306.html) - [Numerando Estradas](https://github.com/potigol/beecrowd/blob/master/src/1300/1306.poti) *Matemática*
 - [x] [1307](https://resources.beecrowd.com/repository/UOJ_1307.html) - [Tudo o que Você Precisa é Amor](https://github.com/potigol/beecrowd/blob/master/src/1300/1307.poti) *Matemática*
@@ -21,7 +21,7 @@
 - [x] [1318](https://resources.beecrowd.com/repository/UOJ_1318.html) - [Bilhetes Falsos](https://github.com/potigol/beecrowd/blob/master/src/1300/1318.poti) *Ad-Hoc*
 - [ ] [1319](https://resources.beecrowd.com/repository/UOJ_1319.html) - Garota Hiperativa *Paradigmas*
 - [ ] [1320](https://resources.beecrowd.com/repository/UOJ_1320.html) - Metrô Engenhoso *Ad-Hoc*
-- [ ] [1321](https://resources.beecrowd.com/repository/UOJ_1321.html) - Jollo *Ad-Hoc*
+- [x] [1321](https://resources.beecrowd.com/repository/UOJ_1321.html) - [Jollo](https://github.com/potigol/beecrowd/blob/master/src/1300/1321.poti) *Ad-Hoc*
 - [ ] [1322](https://resources.beecrowd.com/repository/UOJ_1322.html) - Desejos das Crianças *Grafos*
 - [x] [1323](https://resources.beecrowd.com/repository/UOJ_1323.html) - [Feynman](https://github.com/potigol/beecrowd/blob/master/src/1300/1323.poti) *Matemática*
 - [ ] [1324](https://resources.beecrowd.com/repository/UOJ_1324.html) - Bóson de Higgs *Matemática*
@@ -98,5 +98,5 @@
 - [ ] [1395](https://resources.beecrowd.com/repository/UOJ_1395.html) - Números e Operações *Paradigmas*
 - [ ] [1396](https://resources.beecrowd.com/repository/UOJ_1396.html) - Hoje tem Prova da Cris! *Paradigmas*
 - [x] [1397](https://resources.beecrowd.com/repository/UOJ_1397.html) - [Jogo do Maior](https://github.com/potigol/beecrowd/blob/master/src/1300/1397.poti) *Ad-Hoc*
-- [ ] [1398](https://resources.beecrowd.com/repository/UOJ_1398.html) - Oceano Profundo! Faça-o Raso!! *Matemática*
+- [x] [1398](https://resources.beecrowd.com/repository/UOJ_1398.html) - [Oceano Profundo! Faça-o Raso!!](https://github.com/potigol/beecrowd/blob/master/src/1300/1398.poti) *Matemática*
 - [ ] [1399](https://resources.beecrowd.com/repository/UOJ_1399.html) - Transformador de Matriz *Matemática*

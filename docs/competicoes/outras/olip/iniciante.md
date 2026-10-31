@@ -1,4 +1,4 @@
-# Iniciante (25 / 30)
+# Iniciante (26 / 31)
 
 
 
@@ -29,11 +29,12 @@
 - [x] [3302](https://resources.beecrowd.com/repository/UOJ_3302.html) - [Resposta Certa](https://github.com/potigol/beecrowd/blob/master/src/3300/3302.poti)
 - [x] [3303](https://resources.beecrowd.com/repository/UOJ_3303.html) - [Palavrão](https://github.com/potigol/beecrowd/blob/master/src/3300/3303.poti)
 - [x] [3306](https://resources.beecrowd.com/repository/UOJ_3306.html) - [Consulta e Alteração](https://github.com/potigol/beecrowd/blob/master/src/3300/3306.poti)
+- [x] [3494](https://resources.beecrowd.com/repository/UOJ_3494.html) - [Palavras transformadas](https://github.com/potigol/beecrowd/blob/master/src/3400/3494.poti)
 
 ## Problemas não resolvidos
 
 - [ ] [3490](https://resources.beecrowd.com/repository/UOJ_3490.html) - Ache a senha!
 - [ ] [3491](https://resources.beecrowd.com/repository/UOJ_3491.html) - Bilhete codificado
 - [ ] [3493](https://resources.beecrowd.com/repository/UOJ_3493.html) - Copos empilhados
-- [ ] [3494](https://resources.beecrowd.com/repository/UOJ_3494.html) - Palavras transformadas
 - [ ] [3495](https://resources.beecrowd.com/repository/UOJ_3495.html) - Gianzin Berranteiro
+- [ ] [3520](https://resources.beecrowd.com/repository/UOJ_3520.html) - Próximo ímpar

@@ -1,4 +1,4 @@
-# Problemas 1800 (28/100)
+# Problemas 1800 (31/100)
 
 - [x] [1800](https://resources.beecrowd.com/repository/UOJ_1800.html) - [Onde Estão Minhas Chaves](https://github.com/potigol/beecrowd/blob/master/src/1800/1800.poti) *Ad-Hoc*
 - [ ] [1801](https://resources.beecrowd.com/repository/UOJ_1801.html) - Brincando com Números *Matemática*
@@ -7,7 +7,7 @@
 - [ ] [1804](https://resources.beecrowd.com/repository/UOJ_1804.html) - Precisa-se de Matemáticos em Marte *Estruturas e Bibliotecas*
 - [x] [1805](https://resources.beecrowd.com/repository/UOJ_1805.html) - [Soma Natural](https://github.com/potigol/beecrowd/blob/master/src/1800/1805.poti) *Matemática*
 - [ ] [1806](https://resources.beecrowd.com/repository/UOJ_1806.html) - Agente 004 *Grafos*
-- [ ] [1807](https://resources.beecrowd.com/repository/UOJ_1807.html) - Triângulo Trinomial, a Vingança *Matemática*
+- [x] [1807](https://resources.beecrowd.com/repository/UOJ_1807.html) - [Triângulo Trinomial, a Vingança](https://github.com/potigol/beecrowd/blob/master/src/1800/1807.poti) *Matemática*
 - [x] [1808](https://resources.beecrowd.com/repository/UOJ_1808.html) - [O Retorno do Rei](https://github.com/potigol/beecrowd/blob/master/src/1800/1808.poti) *Ad-Hoc*
 - [ ] [1809](https://resources.beecrowd.com/repository/UOJ_1809.html) - Agentes Secretos *Ad-Hoc*
 - [ ] [1810](https://resources.beecrowd.com/repository/UOJ_1810.html) - Beverly Hills, Century City *Paradigmas*
@@ -16,7 +16,7 @@
 - [ ] [1813](https://resources.beecrowd.com/repository/UOJ_1813.html) - Anacrônico? *Grafos*
 - [ ] [1814](https://resources.beecrowd.com/repository/UOJ_1814.html) - DNA Storage? *Ad-Hoc*
 - [ ] [1815](https://resources.beecrowd.com/repository/UOJ_1815.html) - Drunk People? *Matemática*
-- [ ] [1816](https://resources.beecrowd.com/repository/UOJ_1816.html) - Vikings em Praga? *Ad-Hoc*
+- [x] [1816](https://resources.beecrowd.com/repository/UOJ_1816.html) - [Vikings em Praga?](https://github.com/potigol/beecrowd/blob/master/src/1800/1816.poti) *Ad-Hoc*
 - [ ] [1817](https://resources.beecrowd.com/repository/UOJ_1817.html) - Arqueólogos de Tsing Ling *Ad-Hoc*
 - [ ] [1818](https://resources.beecrowd.com/repository/UOJ_1818.html) - Centro de Convenções *Geometria Computacional*
 - [ ] [1819](https://resources.beecrowd.com/repository/UOJ_1819.html) - Estimando a Produção *Matemática*
@@ -74,7 +74,7 @@
 - [x] [1871](https://resources.beecrowd.com/repository/UOJ_1871.html) - [Zero vale Zero](https://github.com/potigol/beecrowd/blob/master/src/1800/1871.poti) *Strings*
 - [ ] [1872](https://resources.beecrowd.com/repository/UOJ_1872.html) - Palíndromo Real *Matemática*
 - [x] [1873](https://resources.beecrowd.com/repository/UOJ_1873.html) - [Pedra-papel-tesoura-lagarto-Spock](https://github.com/potigol/beecrowd/blob/master/src/1800/1873.poti) *Strings*
-- [ ] [1874](https://resources.beecrowd.com/repository/UOJ_1874.html) - Empurrando Blocos *Estruturas e Bibliotecas*
+- [x] [1874](https://resources.beecrowd.com/repository/UOJ_1874.html) - [Empurrando Blocos](https://github.com/potigol/beecrowd/blob/master/src/1800/1874.poti) *Estruturas e Bibliotecas*
 - [x] [1875](https://resources.beecrowd.com/repository/UOJ_1875.html) - [Tribol](https://github.com/potigol/beecrowd/blob/master/src/1800/1875.poti) *Geometria Computacional*
 - [x] [1876](https://resources.beecrowd.com/repository/UOJ_1876.html) - [Rabiola](https://github.com/potigol/beecrowd/blob/master/src/1800/1876.poti) *Ad-Hoc*
 - [x] [1877](https://resources.beecrowd.com/repository/UOJ_1877.html) - [O Castelo de Neve de Sansa](https://github.com/potigol/beecrowd/blob/master/src/1800/1877.poti) *Ad-Hoc*

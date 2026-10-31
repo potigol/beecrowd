@@ -1,4 +1,4 @@
-# Problemas 2800 (35/100)
+# Problemas 2800 (36/100)
 
 - [ ] [2800](https://resources.beecrowd.com/repository/UOJ_2800.html) - Brincando de Consultas *Estruturas e Bibliotecas*
 - [ ] [2801](https://resources.beecrowd.com/repository/UOJ_2801.html) - Cifra Affine *Matemática*
@@ -31,7 +31,7 @@
 - [ ] [2828](https://resources.beecrowd.com/repository/UOJ_2828.html) - Anagramas *Matemática*
 - [ ] [2829](https://resources.beecrowd.com/repository/UOJ_2829.html) - Maiúsculas, Por Quê? *Ad-Hoc*
 - [x] [2830](https://resources.beecrowd.com/repository/UOJ_2830.html) - [Copa](https://github.com/potigol/beecrowd/blob/master/src/2800/2830.poti) *Ad-Hoc*
-- [x] [2831](https://resources.beecrowd.com/repository/UOJ_2831.html) - [Pesos](https://github.com/potigol/beecrowd/blob/master/src/2800/2831.poti) *Ad-Hoc*
+- [x] [2831](https://resources.beecrowd.com/repository/UOJ_2831.html) - [~~Pesos~~](https://github.com/potigol/beecrowd/blob/master/src/2800/2831.poti) *Ad-Hoc*
 - [ ] [2832](https://resources.beecrowd.com/repository/UOJ_2832.html) - Cápsulas *Ad-Hoc*
 - [x] [2833](https://resources.beecrowd.com/repository/UOJ_2833.html) - [Campeonato](https://github.com/potigol/beecrowd/blob/master/src/2800/2833.poti) *Ad-Hoc*
 - [ ] [2834](https://resources.beecrowd.com/repository/UOJ_2834.html) - Fuga *Ad-Hoc*
@@ -92,7 +92,7 @@
 - [ ] [2889](https://resources.beecrowd.com/repository/UOJ_2889.html) - O Tasco é Sempre Vice! *Estruturas e Bibliotecas*
 - [ ] [2890](https://resources.beecrowd.com/repository/UOJ_2890.html) - Colorindo Tetraedros *Matemática*
 - [ ] [2891](https://resources.beecrowd.com/repository/UOJ_2891.html) - Um Problema com Final Feliz *Geometria Computacional*
-- [ ] [2892](https://resources.beecrowd.com/repository/UOJ_2892.html) - Treino No Velódromo *Matemática*
+- [x] [2892](https://resources.beecrowd.com/repository/UOJ_2892.html) - [Treino No Velódromo](https://github.com/potigol/beecrowd/blob/master/src/2800/2892.poti) *Matemática*
 - [ ] [2893](https://resources.beecrowd.com/repository/UOJ_2893.html) - Fibonac^{k}i *Estruturas e Bibliotecas*
 - [ ] [2894](https://resources.beecrowd.com/repository/UOJ_2894.html) - Vírus *Grafos*
 - [ ] [2895](https://resources.beecrowd.com/repository/UOJ_2895.html) - Velhas Balanças *Paradigmas*

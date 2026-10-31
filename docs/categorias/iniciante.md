@@ -1,4 +1,4 @@
-# Iniciante (326 / 343)
+# Iniciante (325 / 346)
 
 
 
@@ -303,8 +303,6 @@
 - [x] [3161](https://resources.beecrowd.com/repository/UOJ_3161.html) - [As Frutas Esquecidas](https://github.com/potigol/beecrowd/blob/master/src/3100/3161.poti)
 - [x] [3162](https://resources.beecrowd.com/repository/UOJ_3162.html) - [Comunicação Espacial](https://github.com/potigol/beecrowd/blob/master/src/3100/3162.poti)
 - [x] [3164](https://resources.beecrowd.com/repository/UOJ_3164.html) - [Fiscalizando Empresa](https://github.com/potigol/beecrowd/blob/master/src/3100/3164.poti)
-- [x] [3166](https://resources.beecrowd.com/repository/UOJ_3166.html) - [Procurando Palavras na Diagonal Principal](https://github.com/potigol/beecrowd/blob/master/src/3100/3166.poti)
-- [x] [3167](https://resources.beecrowd.com/repository/UOJ_3167.html) - [Procurando Palavras na Diagonal Secundária](https://github.com/potigol/beecrowd/blob/master/src/3100/3167.poti)
 - [x] [3170](https://resources.beecrowd.com/repository/UOJ_3170.html) - [Bolinhas de Natal](https://github.com/potigol/beecrowd/blob/master/src/3100/3170.poti)
 - [x] [3173](https://resources.beecrowd.com/repository/UOJ_3173.html) - [Estrela de Natal](https://github.com/potigol/beecrowd/blob/master/src/3100/3173.poti)
 - [x] [3174](https://resources.beecrowd.com/repository/UOJ_3174.html) - [Grupo de Trabalho do Noel](https://github.com/potigol/beecrowd/blob/master/src/3100/3174.poti)
@@ -329,6 +327,7 @@
 - [x] [3344](https://resources.beecrowd.com/repository/UOJ_3344.html) - [Brute](https://github.com/potigol/beecrowd/blob/master/src/3300/3344.poti)
 - [x] [3346](https://resources.beecrowd.com/repository/UOJ_3346.html) - [Flutuação do PIB](https://github.com/potigol/beecrowd/blob/master/src/3300/3346.poti)
 - [x] [3348](https://resources.beecrowd.com/repository/UOJ_3348.html) - [Jogo das Aranhas](https://github.com/potigol/beecrowd/blob/master/src/3300/3348.poti)
+- [x] [3494](https://resources.beecrowd.com/repository/UOJ_3494.html) - [Palavras transformadas](https://github.com/potigol/beecrowd/blob/master/src/3400/3494.poti)
 - [x] [4013](https://resources.beecrowd.com/repository/UOJ_4013.html) - [~~Alice e as Canções e Iara~~](https://github.com/potigol/beecrowd/blob/master/src/4000/4013.poti)
 
 ## Problemas não resolvidos
@@ -348,5 +347,9 @@
 - [ ] [3490](https://resources.beecrowd.com/repository/UOJ_3490.html) - Ache a senha!
 - [ ] [3491](https://resources.beecrowd.com/repository/UOJ_3491.html) - Bilhete codificado
 - [ ] [3493](https://resources.beecrowd.com/repository/UOJ_3493.html) - Copos empilhados
-- [ ] [3494](https://resources.beecrowd.com/repository/UOJ_3494.html) - Palavras transformadas
 - [ ] [3495](https://resources.beecrowd.com/repository/UOJ_3495.html) - Gianzin Berranteiro
+- [ ] [3499](https://resources.beecrowd.com/repository/UOJ_3499.html) - Bella, a cachorrinha sapeca
+- [ ] [3500](https://resources.beecrowd.com/repository/UOJ_3500.html) - Inversão de Número
+- [ ] [3506](https://resources.beecrowd.com/repository/UOJ_3506.html) - Quantos primos?
+- [ ] [3507](https://resources.beecrowd.com/repository/UOJ_3507.html) - Tigres e Gansos
+- [ ] [3520](https://resources.beecrowd.com/repository/UOJ_3520.html) - Próximo ímpar

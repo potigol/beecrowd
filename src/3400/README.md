@@ -1,4 +1,4 @@
-# Problemas 3400 (30/93)
+# Problemas 3400 (31/95)
 
 - [ ] [3400](https://resources.beecrowd.com/repository/UOJ_3400.html) - Amigo não tão secreto assim *Ad-Hoc*
 - [ ] [3401](https://resources.beecrowd.com/repository/UOJ_3401.html) - Bicho da Goiaba Ataca Novamente *Ad-Hoc*
@@ -94,9 +94,9 @@
 - [ ] [3491](https://resources.beecrowd.com/repository/UOJ_3491.html) - Bilhete codificado *Iniciante*
 - [ ] [3492](https://resources.beecrowd.com/repository/UOJ_3492.html) - Ranking turismo CE *SQL*
 - [ ] [3493](https://resources.beecrowd.com/repository/UOJ_3493.html) - Copos empilhados *Iniciante*
-- [ ] [3494](https://resources.beecrowd.com/repository/UOJ_3494.html) - Palavras transformadas *Iniciante*
+- [x] [3494](https://resources.beecrowd.com/repository/UOJ_3494.html) - [Palavras transformadas](https://github.com/potigol/beecrowd/blob/master/src/3400/3494.poti) *Iniciante*
 - [ ] [3495](https://resources.beecrowd.com/repository/UOJ_3495.html) - Gianzin Berranteiro *Iniciante*
 - [ ] [3496](https://resources.beecrowd.com/repository/UOJ_3496.html) - Promoção imperdível *Paradigmas*
 - [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
+- [ ] [3498](https://resources.beecrowd.com/repository/UOJ_3498.html) - Pares especiais *Estruturas e Bibliotecas*
+- [ ] [3499](https://resources.beecrowd.com/repository/UOJ_3499.html) - Bella, a cachorrinha sapeca *Iniciante*

@@ -1,4 +1,4 @@
-# Matemática (101 / 270)
+# Matemática (107 / 275)
 
 
 
@@ -25,6 +25,8 @@
 - [x] [1240](https://resources.beecrowd.com/repository/UOJ_1240.html) - [Encaixa ou Não I](https://github.com/potigol/beecrowd/blob/master/src/1200/1240.poti)
 - [x] [1247](https://resources.beecrowd.com/repository/UOJ_1247.html) - [Guarda Costeira](https://github.com/potigol/beecrowd/blob/master/src/1200/1247.poti)
 - [x] [1279](https://resources.beecrowd.com/repository/UOJ_1279.html) - [Ano Bissexto ou Ano não Bissexto](https://github.com/potigol/beecrowd/blob/master/src/1200/1279.poti)
+- [x] [1280](https://resources.beecrowd.com/repository/UOJ_1280.html) - [Amigos](https://github.com/potigol/beecrowd/blob/master/src/1200/1280.poti)
+- [x] [1304](https://resources.beecrowd.com/repository/UOJ_1304.html) - [Velocidade Média](https://github.com/potigol/beecrowd/blob/master/src/1300/1304.poti)
 - [x] [1306](https://resources.beecrowd.com/repository/UOJ_1306.html) - [Numerando Estradas](https://github.com/potigol/beecrowd/blob/master/src/1300/1306.poti)
 - [x] [1307](https://resources.beecrowd.com/repository/UOJ_1307.html) - [Tudo o que Você Precisa é Amor](https://github.com/potigol/beecrowd/blob/master/src/1300/1307.poti)
 - [x] [1308](https://resources.beecrowd.com/repository/UOJ_1308.html) - [Guerreiros Etruscos Nunca Jogam Xadrez](https://github.com/potigol/beecrowd/blob/master/src/1300/1308.poti)
@@ -32,6 +34,7 @@
 - [x] [1323](https://resources.beecrowd.com/repository/UOJ_1323.html) - [Feynman](https://github.com/potigol/beecrowd/blob/master/src/1300/1323.poti)
 - [x] [1371](https://resources.beecrowd.com/repository/UOJ_1371.html) - [Fechem as Portas!](https://github.com/potigol/beecrowd/blob/master/src/1300/1371.poti)
 - [x] [1393](https://resources.beecrowd.com/repository/UOJ_1393.html) - [Lajotas Hexagonais](https://github.com/potigol/beecrowd/blob/master/src/1300/1393.poti)
+- [x] [1398](https://resources.beecrowd.com/repository/UOJ_1398.html) - [Oceano Profundo! Faça-o Raso!!](https://github.com/potigol/beecrowd/blob/master/src/1300/1398.poti)
 - [x] [1429](https://resources.beecrowd.com/repository/UOJ_1429.html) - [Fatorial de Novo!](https://github.com/potigol/beecrowd/blob/master/src/1400/1429.poti)
 - [x] [1436](https://resources.beecrowd.com/repository/UOJ_1436.html) - [Jogo do Tijolo](https://github.com/potigol/beecrowd/blob/master/src/1400/1436.poti)
 - [x] [1444](https://resources.beecrowd.com/repository/UOJ_1444.html) - [Corrida dos Marrecos](https://github.com/potigol/beecrowd/blob/master/src/1400/1444.poti)
@@ -43,6 +46,7 @@
 - [x] [1580](https://resources.beecrowd.com/repository/UOJ_1580.html) - [Quid Est Veritas? Est Vir Qui Adest!](https://github.com/potigol/beecrowd/blob/master/src/1500/1580.poti)
 - [x] [1582](https://resources.beecrowd.com/repository/UOJ_1582.html) - [O Teorema de Pitágoras](https://github.com/potigol/beecrowd/blob/master/src/1500/1582.poti)
 - [x] [1585](https://resources.beecrowd.com/repository/UOJ_1585.html) - [Fazendo Pandorgas](https://github.com/potigol/beecrowd/blob/master/src/1500/1585.poti)
+- [x] [1620](https://resources.beecrowd.com/repository/UOJ_1620.html) - [Triangulação de Delaunay](https://github.com/potigol/beecrowd/blob/master/src/1600/1620.poti)
 - [x] [1630](https://resources.beecrowd.com/repository/UOJ_1630.html) - [Estacas](https://github.com/potigol/beecrowd/blob/master/src/1600/1630.poti)
 - [x] [1641](https://resources.beecrowd.com/repository/UOJ_1641.html) - [Restaurante e Pizzaria do Alfredo](https://github.com/potigol/beecrowd/blob/master/src/1600/1641.poti)
 - [x] [1647](https://resources.beecrowd.com/repository/UOJ_1647.html) - [Um Jogo com Bolas de Gude](https://github.com/potigol/beecrowd/blob/master/src/1600/1647.poti)
@@ -52,6 +56,7 @@
 - [x] [1761](https://resources.beecrowd.com/repository/UOJ_1761.html) - [Decoração Natalina](https://github.com/potigol/beecrowd/blob/master/src/1700/1761.poti)
 - [x] [1795](https://resources.beecrowd.com/repository/UOJ_1795.html) - [Triângulo Trinomial](https://github.com/potigol/beecrowd/blob/master/src/1700/1795.poti)
 - [x] [1805](https://resources.beecrowd.com/repository/UOJ_1805.html) - [Soma Natural](https://github.com/potigol/beecrowd/blob/master/src/1800/1805.poti)
+- [x] [1807](https://resources.beecrowd.com/repository/UOJ_1807.html) - [Triângulo Trinomial, a Vingança](https://github.com/potigol/beecrowd/blob/master/src/1800/1807.poti)
 - [x] [1869](https://resources.beecrowd.com/repository/UOJ_1869.html) - [Base 32](https://github.com/potigol/beecrowd/blob/master/src/1800/1869.poti)
 - [x] [1921](https://resources.beecrowd.com/repository/UOJ_1921.html) - [Guilherme e Suas Pipas](https://github.com/potigol/beecrowd/blob/master/src/1900/1921.poti)
 - [x] [1989](https://resources.beecrowd.com/repository/UOJ_1989.html) - [Fazendo Nada](https://github.com/potigol/beecrowd/blob/master/src/1900/1989.poti)
@@ -84,6 +89,7 @@
 - [x] [2839](https://resources.beecrowd.com/repository/UOJ_2839.html) - [As Meias de Rangel](https://github.com/potigol/beecrowd/blob/master/src/2800/2839.poti)
 - [x] [2864](https://resources.beecrowd.com/repository/UOJ_2864.html) - [Qual é a Altura?](https://github.com/potigol/beecrowd/blob/master/src/2800/2864.poti)
 - [x] [2869](https://resources.beecrowd.com/repository/UOJ_2869.html) - [Falando em Divisor...](https://github.com/potigol/beecrowd/blob/master/src/2800/2869.poti)
+- [x] [2892](https://resources.beecrowd.com/repository/UOJ_2892.html) - [Treino No Velódromo](https://github.com/potigol/beecrowd/blob/master/src/2800/2892.poti)
 - [x] [2903](https://resources.beecrowd.com/repository/UOJ_2903.html) - [A Symmetrical Pizza](https://github.com/potigol/beecrowd/blob/master/src/2900/2903.poti)
 - [x] [2939](https://resources.beecrowd.com/repository/UOJ_2939.html) - [Casais](https://github.com/potigol/beecrowd/blob/master/src/2900/2939.poti)
 - [x] [2953](https://resources.beecrowd.com/repository/UOJ_2953.html) - [Mais um Joguinho](https://github.com/potigol/beecrowd/blob/master/src/2900/2953.poti)
@@ -112,10 +118,8 @@
 - [ ] [1232](https://resources.beecrowd.com/repository/UOJ_1232.html) - Ciclo de Rubik
 - [ ] [1233](https://resources.beecrowd.com/repository/UOJ_1233.html) - Estrela
 - [ ] [1264](https://resources.beecrowd.com/repository/UOJ_1264.html) - Um Problema Fácil!
-- [ ] [1280](https://resources.beecrowd.com/repository/UOJ_1280.html) - Amigos
 - [ ] [1289](https://resources.beecrowd.com/repository/UOJ_1289.html) - Qual é a Probabilidade?
 - [ ] [1297](https://resources.beecrowd.com/repository/UOJ_1297.html) - Proteção do Meio Ambiente
-- [ ] [1304](https://resources.beecrowd.com/repository/UOJ_1304.html) - Velocidade Média
 - [ ] [1316](https://resources.beecrowd.com/repository/UOJ_1316.html) - ~~Compra Livre de Impostos~~
 - [ ] [1324](https://resources.beecrowd.com/repository/UOJ_1324.html) - Bóson de Higgs
 - [ ] [1338](https://resources.beecrowd.com/repository/UOJ_1338.html) - It-Miha
@@ -128,7 +132,6 @@
 - [ ] [1381](https://resources.beecrowd.com/repository/UOJ_1381.html) - Equações Diofantinas
 - [ ] [1390](https://resources.beecrowd.com/repository/UOJ_1390.html) - Bases
 - [ ] [1392](https://resources.beecrowd.com/repository/UOJ_1392.html) - Conta de Luz
-- [ ] [1398](https://resources.beecrowd.com/repository/UOJ_1398.html) - Oceano Profundo! Faça-o Raso!!
 - [ ] [1399](https://resources.beecrowd.com/repository/UOJ_1399.html) - Transformador de Matriz
 - [ ] [1400](https://resources.beecrowd.com/repository/UOJ_1400.html) - Jogo - Contando
 - [ ] [1422](https://resources.beecrowd.com/repository/UOJ_1422.html) - Bactérias
@@ -151,7 +154,6 @@
 - [ ] [1570](https://resources.beecrowd.com/repository/UOJ_1570.html) - Um Dia na Terra da Matemática
 - [ ] [1572](https://resources.beecrowd.com/repository/UOJ_1572.html) - O Torneio Surreal
 - [ ] [1577](https://resources.beecrowd.com/repository/UOJ_1577.html) - Polígonos Regulares Construtíveis
-- [ ] [1620](https://resources.beecrowd.com/repository/UOJ_1620.html) - Triangulação de Delaunay
 - [ ] [1623](https://resources.beecrowd.com/repository/UOJ_1623.html) - Linguagem
 - [ ] [1624](https://resources.beecrowd.com/repository/UOJ_1624.html) - Promoção
 - [ ] [1625](https://resources.beecrowd.com/repository/UOJ_1625.html) - Robocopia
@@ -179,7 +181,6 @@
 - [ ] [1776](https://resources.beecrowd.com/repository/UOJ_1776.html) - Baile de Formatura
 - [ ] [1785](https://resources.beecrowd.com/repository/UOJ_1785.html) - Kaprekar
 - [ ] [1801](https://resources.beecrowd.com/repository/UOJ_1801.html) - Brincando com Números
-- [ ] [1807](https://resources.beecrowd.com/repository/UOJ_1807.html) - Triângulo Trinomial, a Vingança
 - [ ] [1812](https://resources.beecrowd.com/repository/UOJ_1812.html) - Um Cluster Para Evitar Enchentes
 - [ ] [1815](https://resources.beecrowd.com/repository/UOJ_1815.html) - Drunk People?
 - [ ] [1819](https://resources.beecrowd.com/repository/UOJ_1819.html) - Estimando a Produção
@@ -248,7 +249,6 @@
 - [ ] [2878](https://resources.beecrowd.com/repository/UOJ_2878.html) - Cortador de Pizza
 - [ ] [2886](https://resources.beecrowd.com/repository/UOJ_2886.html) - Kepler
 - [ ] [2890](https://resources.beecrowd.com/repository/UOJ_2890.html) - Colorindo Tetraedros
-- [ ] [2892](https://resources.beecrowd.com/repository/UOJ_2892.html) - Treino No Velódromo
 - [ ] [2937](https://resources.beecrowd.com/repository/UOJ_2937.html) - Cobra Norato
 - [ ] [2955](https://resources.beecrowd.com/repository/UOJ_2955.html) - Truuuuuco!
 - [ ] [2978](https://resources.beecrowd.com/repository/UOJ_2978.html) - Cartão
@@ -277,3 +277,8 @@
 - [ ] [3341](https://resources.beecrowd.com/repository/UOJ_3341.html) - Grandmaster do Jogo do Caneco
 - [ ] [3345](https://resources.beecrowd.com/repository/UOJ_3345.html) - O Passatempo de Ferdinacci
 - [ ] [3354](https://resources.beecrowd.com/repository/UOJ_3354.html) - Joãozinho Vem Para o Sul
+- [ ] [3502](https://resources.beecrowd.com/repository/UOJ_3502.html) - Montagem de looks
+- [ ] [3512](https://resources.beecrowd.com/repository/UOJ_3512.html) - Ano perfeito
+- [ ] [3516](https://resources.beecrowd.com/repository/UOJ_3516.html) - Jogo da Multiplicação
+- [ ] [3517](https://resources.beecrowd.com/repository/UOJ_3517.html) - Divisores
+- [ ] [3519](https://resources.beecrowd.com/repository/UOJ_3519.html) - O Código de Whis

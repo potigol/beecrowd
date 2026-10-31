@@ -1,4 +1,4 @@
-# Problemas 2200 (22/91)
+# Problemas 2200 (23/91)
 
 - [ ] [2200](https://resources.beecrowd.com/repository/UOJ_2200.html) - Mummy Madness *Ad-Hoc*
 - [ ] [2201](https://resources.beecrowd.com/repository/UOJ_2201.html) - Pyramids *Ad-Hoc*
@@ -98,5 +98,5 @@
 - [x] [2295](https://resources.beecrowd.com/repository/UOJ_2295.html) - [Frota de Táxi](https://github.com/potigol/beecrowd/blob/master/src/2200/2295.poti) *Ad-Hoc*
 - [ ] [2296](https://resources.beecrowd.com/repository/UOJ_2296.html) - Trilhas *Ad-Hoc*
 - [x] [2297](https://resources.beecrowd.com/repository/UOJ_2297.html) - [Bafo](https://github.com/potigol/beecrowd/blob/master/src/2200/2297.poti) *Ad-Hoc*
-- [ ] [2298](https://resources.beecrowd.com/repository/UOJ_2298.html) - Mini-Poker *Ad-Hoc*
+- [x] [2298](https://resources.beecrowd.com/repository/UOJ_2298.html) - [Mini-Poker](https://github.com/potigol/beecrowd/blob/master/src/2200/2298.poti) *Ad-Hoc*
 - [ ] [2299](https://resources.beecrowd.com/repository/UOJ_2299.html) - Pedido de Desculpas *Paradigmas*

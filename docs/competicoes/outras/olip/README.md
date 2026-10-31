@@ -1,13 +1,29 @@
-# Olimpíada IFSULDEMINAS (83 / 149)
+# Olimpíada IFSULDEMINAS (85 / 162)
 
 
+
+## 2026
+
+- [ ] [3510](https://resources.beecrowd.com/repository/UOJ_3510.html) - Sequência Válida *Estruturas e Bibliotecas*
+- [ ] [3511](https://resources.beecrowd.com/repository/UOJ_3511.html) - Dígitos Ímpares *Paradigmas*
+- [ ] [3512](https://resources.beecrowd.com/repository/UOJ_3512.html) - Ano perfeito *Matemática*
+- [ ] [3513](https://resources.beecrowd.com/repository/UOJ_3513.html) - O Militar de Guaxupé *Ad-Hoc*
+- [ ] [3514](https://resources.beecrowd.com/repository/UOJ_3514.html) - Sequência colorida *Paradigmas*
+- [ ] [3515](https://resources.beecrowd.com/repository/UOJ_3515.html) - Paradoxo dos Microsserviços *Grafos*
+- [ ] [3516](https://resources.beecrowd.com/repository/UOJ_3516.html) - Jogo da Multiplicação *Matemática*
+- [ ] [3517](https://resources.beecrowd.com/repository/UOJ_3517.html) - Divisores *Matemática*
+- [ ] [3518](https://resources.beecrowd.com/repository/UOJ_3518.html) - SEES Operation *Paradigmas*
+- [ ] [3519](https://resources.beecrowd.com/repository/UOJ_3519.html) - O Código de Whis *Matemática*
+- [ ] [3520](https://resources.beecrowd.com/repository/UOJ_3520.html) - Próximo ímpar *Iniciante*
+- [ ] [3521](https://resources.beecrowd.com/repository/UOJ_3521.html) - Maratona de Petiscos *Ad-Hoc*
+- [ ] [3522](https://resources.beecrowd.com/repository/UOJ_3522.html) - Desafio dos Subarrays *Ad-Hoc*
 
 ## 2025
 
 - [ ] [3490](https://resources.beecrowd.com/repository/UOJ_3490.html) - Ache a senha! *Iniciante*
 - [ ] [3491](https://resources.beecrowd.com/repository/UOJ_3491.html) - Bilhete codificado *Iniciante*
 - [ ] [3493](https://resources.beecrowd.com/repository/UOJ_3493.html) - Copos empilhados *Iniciante*
-- [ ] [3494](https://resources.beecrowd.com/repository/UOJ_3494.html) - Palavras transformadas *Iniciante*
+- [x] [3494](https://resources.beecrowd.com/repository/UOJ_3494.html) - [Palavras transformadas](https://github.com/potigol/beecrowd/blob/master/src/3400/3494.poti) *Iniciante*
 - [ ] [3495](https://resources.beecrowd.com/repository/UOJ_3495.html) - Gianzin Berranteiro *Iniciante*
 - [ ] [3496](https://resources.beecrowd.com/repository/UOJ_3496.html) - Promoção imperdível *Paradigmas*
 
@@ -177,6 +193,6 @@
 - [x] [1871](https://resources.beecrowd.com/repository/UOJ_1871.html) - [Zero vale Zero](https://github.com/potigol/beecrowd/blob/master/src/1800/1871.poti) *Strings*
 - [ ] [1872](https://resources.beecrowd.com/repository/UOJ_1872.html) - Palíndromo Real *Matemática*
 - [x] [1873](https://resources.beecrowd.com/repository/UOJ_1873.html) - [Pedra-papel-tesoura-lagarto-Spock](https://github.com/potigol/beecrowd/blob/master/src/1800/1873.poti) *Strings*
-- [ ] [1874](https://resources.beecrowd.com/repository/UOJ_1874.html) - Empurrando Blocos *Estruturas e Bibliotecas*
+- [x] [1874](https://resources.beecrowd.com/repository/UOJ_1874.html) - [Empurrando Blocos](https://github.com/potigol/beecrowd/blob/master/src/1800/1874.poti) *Estruturas e Bibliotecas*
 - [x] [1875](https://resources.beecrowd.com/repository/UOJ_1875.html) - [Tribol](https://github.com/potigol/beecrowd/blob/master/src/1800/1875.poti) *Geometria Computacional*
 - [x] [1876](https://resources.beecrowd.com/repository/UOJ_1876.html) - [Rabiola](https://github.com/potigol/beecrowd/blob/master/src/1800/1876.poti) *Ad-Hoc*

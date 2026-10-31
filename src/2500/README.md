@@ -1,4 +1,4 @@
-# Problemas 2500 (36/100)
+# Problemas 2500 (37/100)
 
 - [ ] [2500](https://resources.beecrowd.com/repository/UOJ_2500.html) - William Xorando *Matemática*
 - [ ] [2501](https://resources.beecrowd.com/repository/UOJ_2501.html) - Fatores Permitidos *Paradigmas*
@@ -67,7 +67,7 @@
 - [ ] [2564](https://resources.beecrowd.com/repository/UOJ_2564.html) - Troca ou Não Troca *Ad-Hoc*
 - [ ] [2565](https://resources.beecrowd.com/repository/UOJ_2565.html) - Tubos de Ensaio *Ad-Hoc*
 - [ ] [2566](https://resources.beecrowd.com/repository/UOJ_2566.html) - Viagem Para BH *Grafos*
-- [ ] [2567](https://resources.beecrowd.com/repository/UOJ_2567.html) - Virus *Ad-Hoc*
+- [x] [2567](https://resources.beecrowd.com/repository/UOJ_2567.html) - [Virus](https://github.com/potigol/beecrowd/blob/master/src/2500/2567.poti) *Ad-Hoc*
 - [x] [2568](https://resources.beecrowd.com/repository/UOJ_2568.html) - [Ações](https://github.com/potigol/beecrowd/blob/master/src/2500/2568.poti) *Ad-Hoc*
 - [x] [2569](https://resources.beecrowd.com/repository/UOJ_2569.html) - [A Bruxa do 7 x 1](https://github.com/potigol/beecrowd/blob/master/src/2500/2569.poti) *Ad-Hoc*
 - [ ] [2570](https://resources.beecrowd.com/repository/UOJ_2570.html) - Californication *Ad-Hoc*

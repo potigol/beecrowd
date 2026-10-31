@@ -1,4 +1,4 @@
-# Estruturas e Bibliotecas (45 / 180)
+# Estruturas e Bibliotecas (50 / 183)
 
 
 
@@ -7,10 +7,14 @@
 - [x] [1022](https://resources.beecrowd.com/repository/UOJ_1022.html) - [TDA Racional](https://github.com/potigol/beecrowd/blob/master/src/1000/1022.poti)
 - [x] [1025](https://resources.beecrowd.com/repository/UOJ_1025.html) - [Onde está o Mármore?](https://github.com/potigol/beecrowd/blob/master/src/1000/1025.poti)
 - [x] [1062](https://resources.beecrowd.com/repository/UOJ_1062.html) - [Trilhos](https://github.com/potigol/beecrowd/blob/master/src/1000/1062.poti)
+- [x] [1063](https://resources.beecrowd.com/repository/UOJ_1063.html) - [Trilhos Novamente... Traçando Movimentos](https://github.com/potigol/beecrowd/blob/master/src/1000/1063.poti)
 - [x] [1068](https://resources.beecrowd.com/repository/UOJ_1068.html) - [Balanço de Parênteses I](https://github.com/potigol/beecrowd/blob/master/src/1000/1068.poti)
 - [x] [1069](https://resources.beecrowd.com/repository/UOJ_1069.html) - [Diamantes e Areia](https://github.com/potigol/beecrowd/blob/master/src/1000/1069.poti)
+- [x] [1077](https://resources.beecrowd.com/repository/UOJ_1077.html) - [Infixa para Posfixa](https://github.com/potigol/beecrowd/blob/master/src/1000/1077.poti)
 - [x] [1110](https://resources.beecrowd.com/repository/UOJ_1110.html) - [Jogando Cartas Fora](https://github.com/potigol/beecrowd/blob/master/src/1100/1110.poti)
 - [x] [1162](https://resources.beecrowd.com/repository/UOJ_1162.html) - [Organizador de Vagões](https://github.com/potigol/beecrowd/blob/master/src/1100/1162.poti)
+- [x] [1211](https://resources.beecrowd.com/repository/UOJ_1211.html) - [Lista Telefônica Econômica](https://github.com/potigol/beecrowd/blob/master/src/1200/1211.poti)
+- [x] [1242](https://resources.beecrowd.com/repository/UOJ_1242.html) - [Ácido Ribonucleico Alienígena](https://github.com/potigol/beecrowd/blob/master/src/1200/1242.poti)
 - [x] [1244](https://resources.beecrowd.com/repository/UOJ_1244.html) - [Ordenação por Tamanho](https://github.com/potigol/beecrowd/blob/master/src/1200/1244.poti)
 - [x] [1251](https://resources.beecrowd.com/repository/UOJ_1251.html) - [Diga-me a Frequência](https://github.com/potigol/beecrowd/blob/master/src/1200/1251.poti)
 - [x] [1256](https://resources.beecrowd.com/repository/UOJ_1256.html) - [Tabelas Hash](https://github.com/potigol/beecrowd/blob/master/src/1200/1256.poti)
@@ -26,6 +30,7 @@
 - [x] [1709](https://resources.beecrowd.com/repository/UOJ_1709.html) - [Baralho Embaralhado](https://github.com/potigol/beecrowd/blob/master/src/1700/1709.poti)
 - [x] [1763](https://resources.beecrowd.com/repository/UOJ_1763.html) - [Tradutor do Papai Noel](https://github.com/potigol/beecrowd/blob/master/src/1700/1763.poti)
 - [x] [1766](https://resources.beecrowd.com/repository/UOJ_1766.html) - [O Elfo das Trevas](https://github.com/potigol/beecrowd/blob/master/src/1700/1766.poti)
+- [x] [1874](https://resources.beecrowd.com/repository/UOJ_1874.html) - [Empurrando Blocos](https://github.com/potigol/beecrowd/blob/master/src/1800/1874.poti)
 - [x] [1944](https://resources.beecrowd.com/repository/UOJ_1944.html) - [BRINDE FACE 2015](https://github.com/potigol/beecrowd/blob/master/src/1900/1944.poti)
 - [x] [2018](https://resources.beecrowd.com/repository/UOJ_2018.html) - [Olimpíadas de Natal](https://github.com/potigol/beecrowd/blob/master/src/2000/2018.poti)
 - [x] [2091](https://resources.beecrowd.com/repository/UOJ_2091.html) - [Número Solitário](https://github.com/potigol/beecrowd/blob/master/src/2000/2091.poti)
@@ -53,17 +58,13 @@
 ## Problemas não resolvidos
 
 - [ ] [1023](https://resources.beecrowd.com/repository/UOJ_1023.html) - Estiagem
-- [ ] [1063](https://resources.beecrowd.com/repository/UOJ_1063.html) - Trilhos Novamente... Traçando Movimentos
-- [ ] [1077](https://resources.beecrowd.com/repository/UOJ_1077.html) - Infixa para Posfixa
 - [ ] [1083](https://resources.beecrowd.com/repository/UOJ_1083.html) - LEXSIM - Avaliador Lexico e Sintático
 - [ ] [1088](https://resources.beecrowd.com/repository/UOJ_1088.html) - Bolhas e Baldes
 - [ ] [1112](https://resources.beecrowd.com/repository/UOJ_1112.html) - Schweisen
 - [ ] [1119](https://resources.beecrowd.com/repository/UOJ_1119.html) - A Fila de Desempregados
 - [ ] [1167](https://resources.beecrowd.com/repository/UOJ_1167.html) - Acampamento de Férias
-- [ ] [1211](https://resources.beecrowd.com/repository/UOJ_1211.html) - Lista Telefônica Econômica
 - [ ] [1215](https://resources.beecrowd.com/repository/UOJ_1215.html) - Primeiro Dicionário de Andy
 - [ ] [1236](https://resources.beecrowd.com/repository/UOJ_1236.html) - Compactação de Nulos e Brancos
-- [ ] [1242](https://resources.beecrowd.com/repository/UOJ_1242.html) - Ácido Ribonucleico Alienígena
 - [ ] [1252](https://resources.beecrowd.com/repository/UOJ_1252.html) - Sort! Sort!! e Sort!!!
 - [ ] [1260](https://resources.beecrowd.com/repository/UOJ_1260.html) - Espécies de Madeira
 - [ ] [1274](https://resources.beecrowd.com/repository/UOJ_1274.html) - P-Networks
@@ -108,7 +109,6 @@
 - [ ] [1856](https://resources.beecrowd.com/repository/UOJ_1856.html) - A Lista da Morte de Arya
 - [ ] [1861](https://resources.beecrowd.com/repository/UOJ_1861.html) - O Hall dos Assassinos
 - [ ] [1863](https://resources.beecrowd.com/repository/UOJ_1863.html) - O Contra-ataque de Ramsay
-- [ ] [1874](https://resources.beecrowd.com/repository/UOJ_1874.html) - Empurrando Blocos
 - [ ] [1897](https://resources.beecrowd.com/repository/UOJ_1897.html) - Jogo Esperto
 - [ ] [1911](https://resources.beecrowd.com/repository/UOJ_1911.html) - Ajude Girafales
 - [ ] [1975](https://resources.beecrowd.com/repository/UOJ_1975.html) - Pérolas
@@ -187,3 +187,6 @@
 - [ ] [3239](https://resources.beecrowd.com/repository/UOJ_3239.html) - Dirty Driving
 - [ ] [3248](https://resources.beecrowd.com/repository/UOJ_3248.html) - Mega Inversões
 - [ ] [3484](https://resources.beecrowd.com/repository/UOJ_3484.html) - Turma Dividida
+- [ ] [3498](https://resources.beecrowd.com/repository/UOJ_3498.html) - Pares especiais
+- [ ] [3509](https://resources.beecrowd.com/repository/UOJ_3509.html) - Canos conectados
+- [ ] [3510](https://resources.beecrowd.com/repository/UOJ_3510.html) - Sequência Válida

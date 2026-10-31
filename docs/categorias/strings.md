@@ -1,4 +1,4 @@
-# Strings (79 / 149)
+# Strings (83 / 153)
 
 
 
@@ -15,6 +15,7 @@
 - [x] [1239](https://resources.beecrowd.com/repository/UOJ_1239.html) - [Atalhos Bloggo](https://github.com/potigol/beecrowd/blob/master/src/1200/1239.poti)
 - [x] [1241](https://resources.beecrowd.com/repository/UOJ_1241.html) - [Encaixa ou Não II](https://github.com/potigol/beecrowd/blob/master/src/1200/1241.poti)
 - [x] [1243](https://resources.beecrowd.com/repository/UOJ_1243.html) - [O Quão Fácil é...](https://github.com/potigol/beecrowd/blob/master/src/1200/1243.poti)
+- [x] [1248](https://resources.beecrowd.com/repository/UOJ_1248.html) - [Plano de Dieta](https://github.com/potigol/beecrowd/blob/master/src/1200/1248.poti)
 - [x] [1249](https://resources.beecrowd.com/repository/UOJ_1249.html) - [~~Rot13~~](https://github.com/potigol/beecrowd/blob/master/src/1200/1249.poti)
 - [x] [1253](https://resources.beecrowd.com/repository/UOJ_1253.html) - [Cifra de César](https://github.com/potigol/beecrowd/blob/master/src/1200/1253.poti)
 - [x] [1255](https://resources.beecrowd.com/repository/UOJ_1255.html) - [Frequência de Letras](https://github.com/potigol/beecrowd/blob/master/src/1200/1255.poti)
@@ -78,6 +79,9 @@
 - [x] [3103](https://resources.beecrowd.com/repository/UOJ_3103.html) - [Número da Sorte](https://github.com/potigol/beecrowd/blob/master/src/3100/3103.poti)
 - [x] [3141](https://resources.beecrowd.com/repository/UOJ_3141.html) - [Dúvida Etária](https://github.com/potigol/beecrowd/blob/master/src/3100/3141.poti)
 - [x] [3159](https://resources.beecrowd.com/repository/UOJ_3159.html) - [Tijolão](https://github.com/potigol/beecrowd/blob/master/src/3100/3159.poti)
+- [x] [3166](https://resources.beecrowd.com/repository/UOJ_3166.html) - [Procurando Palavras na Diagonal Principal](https://github.com/potigol/beecrowd/blob/master/src/3100/3166.poti)
+- [x] [3167](https://resources.beecrowd.com/repository/UOJ_3167.html) - [Procurando Palavras na Diagonal Secundária](https://github.com/potigol/beecrowd/blob/master/src/3100/3167.poti)
+- [x] [3261](https://resources.beecrowd.com/repository/UOJ_3261.html) - [Replicação de Vírus](https://github.com/potigol/beecrowd/blob/master/src/3200/3261.poti)
 - [x] [3262](https://resources.beecrowd.com/repository/UOJ_3262.html) - [Timebomb](https://github.com/potigol/beecrowd/blob/master/src/3200/3262.poti)
 - [x] [3300](https://resources.beecrowd.com/repository/UOJ_3300.html) - [Números Má Sorte Recarregados](https://github.com/potigol/beecrowd/blob/master/src/3300/3300.poti)
 - [x] [3311](https://resources.beecrowd.com/repository/UOJ_3311.html) - [Hudinho e o seu Trabalho](https://github.com/potigol/beecrowd/blob/master/src/3300/3311.poti)
@@ -87,7 +91,6 @@
 ## Problemas não resolvidos
 
 - [ ] [1141](https://resources.beecrowd.com/repository/UOJ_1141.html) - Cultivando Strings
-- [ ] [1248](https://resources.beecrowd.com/repository/UOJ_1248.html) - Plano de Dieta
 - [ ] [1254](https://resources.beecrowd.com/repository/UOJ_1254.html) - Substituição de Tag
 - [ ] [1284](https://resources.beecrowd.com/repository/UOJ_1284.html) - Digitando no Telefone Celular
 - [ ] [1313](https://resources.beecrowd.com/repository/UOJ_1313.html) - Dicionário Portuñol
@@ -151,8 +154,9 @@
 - [ ] [3118](https://resources.beecrowd.com/repository/UOJ_3118.html) - Bactérias, Suas Loucas!
 - [ ] [3143](https://resources.beecrowd.com/repository/UOJ_3143.html) - Fugindo do Celular
 - [ ] [3180](https://resources.beecrowd.com/repository/UOJ_3180.html) - Roubo de Código
-- [ ] [3261](https://resources.beecrowd.com/repository/UOJ_3261.html) - Replicação de Vírus
 - [ ] [3275](https://resources.beecrowd.com/repository/UOJ_3275.html) - Foto de Relógios
 - [ ] [3310](https://resources.beecrowd.com/repository/UOJ_3310.html) - Gravity Boy
 - [ ] [3347](https://resources.beecrowd.com/repository/UOJ_3347.html) - Ancestralidade
 - [ ] [3353](https://resources.beecrowd.com/repository/UOJ_3353.html) - Araucárias e a Gralha Azul de Três Olhos
+- [ ] [3504](https://resources.beecrowd.com/repository/UOJ_3504.html) - Frase palíndromo
+- [ ] [3508](https://resources.beecrowd.com/repository/UOJ_3508.html) - Números binários

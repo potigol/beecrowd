@@ -1,16 +1,21 @@
-# Geometria Computacional (9 / 83)
+# Geometria Computacional (14 / 83)
 
 
 
 ## Problemas resolvidos
 
 - [x] [1039](https://resources.beecrowd.com/repository/UOJ_1039.html) - [Flores de Fogo](https://github.com/potigol/beecrowd/blob/master/src/1000/1039.poti)
+- [x] [1124](https://resources.beecrowd.com/repository/UOJ_1124.html) - [Elevador](https://github.com/potigol/beecrowd/blob/master/src/1100/1124.poti)
+- [x] [1291](https://resources.beecrowd.com/repository/UOJ_1291.html) - [Será Isso Integração?](https://github.com/potigol/beecrowd/blob/master/src/1200/1291.poti)
 - [x] [1292](https://resources.beecrowd.com/repository/UOJ_1292.html) - [Problema com um Pentágono](https://github.com/potigol/beecrowd/blob/master/src/1200/1292.poti)
+- [x] [1294](https://resources.beecrowd.com/repository/UOJ_1294.html) - [A Maior e Menor Caixa](https://github.com/potigol/beecrowd/blob/master/src/1200/1294.poti)
 - [x] [1296](https://resources.beecrowd.com/repository/UOJ_1296.html) - [Medianas](https://github.com/potigol/beecrowd/blob/master/src/1200/1296.poti)
 - [x] [1549](https://resources.beecrowd.com/repository/UOJ_1549.html) - [Dividindo a Coca](https://github.com/potigol/beecrowd/blob/master/src/1500/1549.poti)
 - [x] [1875](https://resources.beecrowd.com/repository/UOJ_1875.html) - [Tribol](https://github.com/potigol/beecrowd/blob/master/src/1800/1875.poti)
+- [x] [2104](https://resources.beecrowd.com/repository/UOJ_2104.html) - [Lasers](https://github.com/potigol/beecrowd/blob/master/src/2100/2104.poti)
 - [x] [2158](https://resources.beecrowd.com/repository/UOJ_2158.html) - [Ajudando o Tio Cláudio](https://github.com/potigol/beecrowd/blob/master/src/2100/2158.poti)
 - [x] [2518](https://resources.beecrowd.com/repository/UOJ_2518.html) - [Escada do DINF](https://github.com/potigol/beecrowd/blob/master/src/2500/2518.poti)
+- [x] [2773](https://resources.beecrowd.com/repository/UOJ_2773.html) - [Menor Caminho](https://github.com/potigol/beecrowd/blob/master/src/2700/2773.poti)
 - [x] [2840](https://resources.beecrowd.com/repository/UOJ_2840.html) - [Balão++](https://github.com/potigol/beecrowd/blob/master/src/2800/2840.poti)
 - [x] [3152](https://resources.beecrowd.com/repository/UOJ_3152.html) - [Samuel, O Cafeicultor](https://github.com/potigol/beecrowd/blob/master/src/3100/3152.poti)
 
@@ -18,15 +23,12 @@
 
 - [ ] [1102](https://resources.beecrowd.com/repository/UOJ_1102.html) - Ataque Fulminante
 - [ ] [1108](https://resources.beecrowd.com/repository/UOJ_1108.html) - Torres de Telefonia Celular
-- [ ] [1124](https://resources.beecrowd.com/repository/UOJ_1124.html) - Elevador
 - [ ] [1126](https://resources.beecrowd.com/repository/UOJ_1126.html) - Guerra nas Estrelas
 - [ ] [1137](https://resources.beecrowd.com/repository/UOJ_1137.html) - Pontos Cocirculares
 - [ ] [1204](https://resources.beecrowd.com/repository/UOJ_1204.html) - Myachowski, o Futebol Russo
 - [ ] [1223](https://resources.beecrowd.com/repository/UOJ_1223.html) - Tobogan de Bolinhas
 - [ ] [1268](https://resources.beecrowd.com/repository/UOJ_1268.html) - Missão Impossível
-- [ ] [1291](https://resources.beecrowd.com/repository/UOJ_1291.html) - Será Isso Integração?
 - [ ] [1293](https://resources.beecrowd.com/repository/UOJ_1293.html) - Romeu e Julieta!
-- [ ] [1294](https://resources.beecrowd.com/repository/UOJ_1294.html) - A Maior e Menor Caixa
 - [ ] [1295](https://resources.beecrowd.com/repository/UOJ_1295.html) - Problema dos Pares Mais Próximos
 - [ ] [1315](https://resources.beecrowd.com/repository/UOJ_1315.html) - Não tão Convexo
 - [ ] [1336](https://resources.beecrowd.com/repository/UOJ_1336.html) - Cerca do Jardim
@@ -68,7 +70,6 @@
 - [ ] [2045](https://resources.beecrowd.com/repository/UOJ_2045.html) - Defendendo Alamo
 - [ ] [2083](https://resources.beecrowd.com/repository/UOJ_2083.html) - Beira da Estrada
 - [ ] [2094](https://resources.beecrowd.com/repository/UOJ_2094.html) - Flores
-- [ ] [2104](https://resources.beecrowd.com/repository/UOJ_2104.html) - Lasers
 - [ ] [2193](https://resources.beecrowd.com/repository/UOJ_2193.html) - Affine Mess
 - [ ] [2245](https://resources.beecrowd.com/repository/UOJ_2245.html) - Kit de Encolhimento de Polígonos
 - [ ] [2362](https://resources.beecrowd.com/repository/UOJ_2362.html) - Invasão Alienígena
@@ -80,7 +81,6 @@
 - [ ] [2640](https://resources.beecrowd.com/repository/UOJ_2640.html) - Missão Improvável
 - [ ] [2665](https://resources.beecrowd.com/repository/UOJ_2665.html) - Hipercampo
 - [ ] [2695](https://resources.beecrowd.com/repository/UOJ_2695.html) - Arrumando Lajotas
-- [ ] [2773](https://resources.beecrowd.com/repository/UOJ_2773.html) - Menor Caminho
 - [ ] [2891](https://resources.beecrowd.com/repository/UOJ_2891.html) - Um Problema com Final Feliz
 - [ ] [3064](https://resources.beecrowd.com/repository/UOJ_3064.html) - Elástico
 - [ ] [3081](https://resources.beecrowd.com/repository/UOJ_3081.html) - Órbita

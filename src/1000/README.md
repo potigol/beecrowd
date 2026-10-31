@@ -1,4 +1,4 @@
-# Problemas 1000 (80/100)
+# Problemas 1000 (82/100)
 
 - [x] [1000](https://resources.beecrowd.com/repository/UOJ_1000.html) - [Hello World!](https://github.com/potigol/beecrowd/blob/master/src/1000/1000.poti) *Iniciante*
 - [x] [1001](https://resources.beecrowd.com/repository/UOJ_1001.html) - [Extremamente Básico](https://github.com/potigol/beecrowd/blob/master/src/1000/1001.poti) *Iniciante*
@@ -63,7 +63,7 @@
 - [x] [1060](https://resources.beecrowd.com/repository/UOJ_1060.html) - [Números Positivos](https://github.com/potigol/beecrowd/blob/master/src/1000/1060.poti) *Iniciante*
 - [x] [1061](https://resources.beecrowd.com/repository/UOJ_1061.html) - [Tempo de um Evento](https://github.com/potigol/beecrowd/blob/master/src/1000/1061.poti) *Iniciante*
 - [x] [1062](https://resources.beecrowd.com/repository/UOJ_1062.html) - [Trilhos](https://github.com/potigol/beecrowd/blob/master/src/1000/1062.poti) *Estruturas e Bibliotecas*
-- [ ] [1063](https://resources.beecrowd.com/repository/UOJ_1063.html) - Trilhos Novamente... Traçando Movimentos *Estruturas e Bibliotecas*
+- [x] [1063](https://resources.beecrowd.com/repository/UOJ_1063.html) - [Trilhos Novamente... Traçando Movimentos](https://github.com/potigol/beecrowd/blob/master/src/1000/1063.poti) *Estruturas e Bibliotecas*
 - [x] [1064](https://resources.beecrowd.com/repository/UOJ_1064.html) - [Positivos e Média](https://github.com/potigol/beecrowd/blob/master/src/1000/1064.poti) *Iniciante*
 - [x] [1065](https://resources.beecrowd.com/repository/UOJ_1065.html) - [Pares entre Cinco Números](https://github.com/potigol/beecrowd/blob/master/src/1000/1065.poti) *Iniciante*
 - [x] [1066](https://resources.beecrowd.com/repository/UOJ_1066.html) - [Pares, Ímpares, Positivos e Negativos](https://github.com/potigol/beecrowd/blob/master/src/1000/1066.poti) *Iniciante*
@@ -77,7 +77,7 @@
 - [x] [1074](https://resources.beecrowd.com/repository/UOJ_1074.html) - [Par ou Ímpar](https://github.com/potigol/beecrowd/blob/master/src/1000/1074.poti) *Iniciante*
 - [x] [1075](https://resources.beecrowd.com/repository/UOJ_1075.html) - [Resto 2](https://github.com/potigol/beecrowd/blob/master/src/1000/1075.poti) *Iniciante*
 - [x] [1076](https://resources.beecrowd.com/repository/UOJ_1076.html) - [Desenhando Labirintos](https://github.com/potigol/beecrowd/blob/master/src/1000/1076.poti) *Grafos*
-- [ ] [1077](https://resources.beecrowd.com/repository/UOJ_1077.html) - Infixa para Posfixa *Estruturas e Bibliotecas*
+- [x] [1077](https://resources.beecrowd.com/repository/UOJ_1077.html) - [Infixa para Posfixa](https://github.com/potigol/beecrowd/blob/master/src/1000/1077.poti) *Estruturas e Bibliotecas*
 - [x] [1078](https://resources.beecrowd.com/repository/UOJ_1078.html) - [Tabuada](https://github.com/potigol/beecrowd/blob/master/src/1000/1078.poti) *Iniciante*
 - [x] [1079](https://resources.beecrowd.com/repository/UOJ_1079.html) - [Médias Ponderadas](https://github.com/potigol/beecrowd/blob/master/src/1000/1079.poti) *Iniciante*
 - [x] [1080](https://resources.beecrowd.com/repository/UOJ_1080.html) - [Maior e Posição](https://github.com/potigol/beecrowd/blob/master/src/1000/1080.poti) *Iniciante*

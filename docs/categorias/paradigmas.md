@@ -1,4 +1,4 @@
-# Paradigmas (6 / 216)
+# Paradigmas (7 / 219)
 
 
 
@@ -8,6 +8,7 @@
 - [x] [1084](https://resources.beecrowd.com/repository/UOJ_1084.html) - [Apagando e Ganhando](https://github.com/potigol/beecrowd/blob/master/src/1000/1084.poti)
 - [x] [1166](https://resources.beecrowd.com/repository/UOJ_1166.html) - [Torre de Hanoi, Novamente!](https://github.com/potigol/beecrowd/blob/master/src/1100/1166.poti)
 - [x] [1310](https://resources.beecrowd.com/repository/UOJ_1310.html) - [Lucro](https://github.com/potigol/beecrowd/blob/master/src/1300/1310.poti)
+- [x] [1608](https://resources.beecrowd.com/repository/UOJ_1608.html) - [Bolos da Maria](https://github.com/potigol/beecrowd/blob/master/src/1600/1608.poti)
 - [x] [1690](https://resources.beecrowd.com/repository/UOJ_1690.html) - [Soma de Sobconjuntos](https://github.com/potigol/beecrowd/blob/master/src/1600/1690.poti)
 - [x] [2243](https://resources.beecrowd.com/repository/UOJ_2243.html) - [Isósceles](https://github.com/potigol/beecrowd/blob/master/src/2200/2243.poti)
 
@@ -76,7 +77,6 @@
 - [ ] [1604](https://resources.beecrowd.com/repository/UOJ_1604.html) - Pair-voting no Conselho de Gueliz
 - [ ] [1605](https://resources.beecrowd.com/repository/UOJ_1605.html) - Montando Sua Própria Cáfila
 - [ ] [1606](https://resources.beecrowd.com/repository/UOJ_1606.html) - As Dicas de Ali Babá
-- [ ] [1608](https://resources.beecrowd.com/repository/UOJ_1608.html) - Bolos da Maria
 - [ ] [1611](https://resources.beecrowd.com/repository/UOJ_1611.html) - Elevador Lotado
 - [ ] [1614](https://resources.beecrowd.com/repository/UOJ_1614.html) - Ajude o Turista
 - [ ] [1616](https://resources.beecrowd.com/repository/UOJ_1616.html) - Baile de Formatura
@@ -223,3 +223,6 @@
 - [ ] [3277](https://resources.beecrowd.com/repository/UOJ_3277.html) - Trabalho na Estrada
 - [ ] [3349](https://resources.beecrowd.com/repository/UOJ_3349.html) - Armadura
 - [ ] [3496](https://resources.beecrowd.com/repository/UOJ_3496.html) - Promoção imperdível
+- [ ] [3511](https://resources.beecrowd.com/repository/UOJ_3511.html) - Dígitos Ímpares
+- [ ] [3514](https://resources.beecrowd.com/repository/UOJ_3514.html) - Sequência colorida
+- [ ] [3518](https://resources.beecrowd.com/repository/UOJ_3518.html) - SEES Operation

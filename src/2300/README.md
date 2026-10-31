@@ -1,4 +1,4 @@
-# Problemas 2300 (38/100)
+# Problemas 2300 (39/100)
 
 - [ ] [2300](https://resources.beecrowd.com/repository/UOJ_2300.html) - Transmissão de Energia *Grafos*
 - [ ] [2301](https://resources.beecrowd.com/repository/UOJ_2301.html) - Vivo ou Morto *Ad-Hoc*
@@ -15,7 +15,7 @@
 - [x] [2312](https://resources.beecrowd.com/repository/UOJ_2312.html) - [Quadro De Medalhas](https://github.com/potigol/beecrowd/blob/master/src/2300/2312.poti) *Ad-Hoc*
 - [x] [2313](https://resources.beecrowd.com/repository/UOJ_2313.html) - [Qual Triângulo](https://github.com/potigol/beecrowd/blob/master/src/2300/2313.poti) *Iniciante*
 - [ ] [2314](https://resources.beecrowd.com/repository/UOJ_2314.html) - Indentador *Strings*
-- [ ] [2315](https://resources.beecrowd.com/repository/UOJ_2315.html) - Diferença Fácil Entre Datas *Ad-Hoc*
+- [x] [2315](https://resources.beecrowd.com/repository/UOJ_2315.html) - [Diferença Fácil Entre Datas](https://github.com/potigol/beecrowd/blob/master/src/2300/2315.poti) *Ad-Hoc*
 - [ ] [2316](https://resources.beecrowd.com/repository/UOJ_2316.html) - Autorama *Ad-Hoc*
 - [ ] [2317](https://resources.beecrowd.com/repository/UOJ_2317.html) - Lobo Mau *Ad-Hoc*
 - [ ] [2318](https://resources.beecrowd.com/repository/UOJ_2318.html) - Quadrado Mágico *Ad-Hoc*

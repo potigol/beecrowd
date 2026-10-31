@@ -1,4 +1,4 @@
-# SQL (10 / 53)
+# SQL (10 / 54)
 
 
 
@@ -60,3 +60,4 @@
 - [ ] [3482](https://resources.beecrowd.com/repository/UOJ_3482.html) - Seguidores
 - [ ] [3483](https://resources.beecrowd.com/repository/UOJ_3483.html) - Segundo Maior e Menor
 - [ ] [3492](https://resources.beecrowd.com/repository/UOJ_3492.html) - Ranking turismo CE
+- [ ] [3505](https://resources.beecrowd.com/repository/UOJ_3505.html) - Controle de Ingredientes

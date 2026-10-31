@@ -1,4 +1,4 @@
-# Problemas 1100 (73/100)
+# Problemas 1100 (74/100)
 
 - [ ] [1100](https://resources.beecrowd.com/repository/UOJ_1100.html) - Movimentos do Cavalo *Grafos*
 - [x] [1101](https://resources.beecrowd.com/repository/UOJ_1101.html) - [Sequência de Números e Soma](https://github.com/potigol/beecrowd/blob/master/src/1100/1101.poti) *Iniciante*
@@ -24,7 +24,7 @@
 - [ ] [1121](https://resources.beecrowd.com/repository/UOJ_1121.html) - Robô Colecionador *Ad-Hoc*
 - [ ] [1122](https://resources.beecrowd.com/repository/UOJ_1122.html) - Livro-Caixa *Ad-Hoc*
 - [ ] [1123](https://resources.beecrowd.com/repository/UOJ_1123.html) - Desvio de Rota *Grafos*
-- [ ] [1124](https://resources.beecrowd.com/repository/UOJ_1124.html) - Elevador *Geometria Computacional*
+- [x] [1124](https://resources.beecrowd.com/repository/UOJ_1124.html) - [Elevador](https://github.com/potigol/beecrowd/blob/master/src/1100/1124.poti) *Geometria Computacional*
 - [ ] [1125](https://resources.beecrowd.com/repository/UOJ_1125.html) - Fórmula 1 *Ad-Hoc*
 - [ ] [1126](https://resources.beecrowd.com/repository/UOJ_1126.html) - Guerra nas Estrelas *Geometria Computacional*
 - [ ] [1127](https://resources.beecrowd.com/repository/UOJ_1127.html) - Plágio Musical *Ad-Hoc*

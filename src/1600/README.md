@@ -1,4 +1,4 @@
-# Problemas 1600 (10/100)
+# Problemas 1600 (12/100)
 
 - [ ] [1600](https://resources.beecrowd.com/repository/UOJ_1600.html) - O Gato do Zelador do Armazém *Paradigmas*
 - [ ] [1601](https://resources.beecrowd.com/repository/UOJ_1601.html) - Partição do Rebanho *Paradigmas*
@@ -8,7 +8,7 @@
 - [ ] [1605](https://resources.beecrowd.com/repository/UOJ_1605.html) - Montando Sua Própria Cáfila *Paradigmas*
 - [ ] [1606](https://resources.beecrowd.com/repository/UOJ_1606.html) - As Dicas de Ali Babá *Paradigmas*
 - [x] [1607](https://resources.beecrowd.com/repository/UOJ_1607.html) - [Avance as Letras](https://github.com/potigol/beecrowd/blob/master/src/1600/1607.poti) *Strings*
-- [ ] [1608](https://resources.beecrowd.com/repository/UOJ_1608.html) - Bolos da Maria *Paradigmas*
+- [x] [1608](https://resources.beecrowd.com/repository/UOJ_1608.html) - [Bolos da Maria](https://github.com/potigol/beecrowd/blob/master/src/1600/1608.poti) *Paradigmas*
 - [x] [1609](https://resources.beecrowd.com/repository/UOJ_1609.html) - [Contando Carneirinhos](https://github.com/potigol/beecrowd/blob/master/src/1600/1609.poti) *Ad-Hoc*
 - [ ] [1610](https://resources.beecrowd.com/repository/UOJ_1610.html) - Dudu Faz Serviço *Grafos*
 - [ ] [1611](https://resources.beecrowd.com/repository/UOJ_1611.html) - Elevador Lotado *Paradigmas*
@@ -20,7 +20,7 @@
 - [ ] [1617](https://resources.beecrowd.com/repository/UOJ_1617.html) - Caminho Seguro *Grafos*
 - [x] [1618](https://resources.beecrowd.com/repository/UOJ_1618.html) - [Colisão](https://github.com/potigol/beecrowd/blob/master/src/1600/1618.poti) *Ad-Hoc*
 - [ ] [1619](https://resources.beecrowd.com/repository/UOJ_1619.html) - Diferença entre Datas *Ad-Hoc*
-- [ ] [1620](https://resources.beecrowd.com/repository/UOJ_1620.html) - Triangulação de Delaunay *Matemática*
+- [x] [1620](https://resources.beecrowd.com/repository/UOJ_1620.html) - [Triangulação de Delaunay](https://github.com/potigol/beecrowd/blob/master/src/1600/1620.poti) *Matemática*
 - [ ] [1621](https://resources.beecrowd.com/repository/UOJ_1621.html) - Labirinto *Grafos*
 - [x] [1622](https://resources.beecrowd.com/repository/UOJ_1622.html) - [Lâmpadas](https://github.com/potigol/beecrowd/blob/master/src/1600/1622.poti) *Ad-Hoc*
 - [ ] [1623](https://resources.beecrowd.com/repository/UOJ_1623.html) - Linguagem *Matemática*

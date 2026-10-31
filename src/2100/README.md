@@ -1,10 +1,10 @@
-# Problemas 2100 (38/98)
+# Problemas 2100 (39/98)
 
 - [ ] [2100](https://resources.beecrowd.com/repository/UOJ_2100.html) - Cinema de Xing Tzen Zu *Matemática*
 - [ ] [2101](https://resources.beecrowd.com/repository/UOJ_2101.html) - Combinações de Dias *Matemática*
 - [ ] [2102](https://resources.beecrowd.com/repository/UOJ_2102.html) - Contando em Chinês *Ad-Hoc*
 - [ ] [2103](https://resources.beecrowd.com/repository/UOJ_2103.html) - Harbin é Muita Grana! *Grafos*
-- [ ] [2104](https://resources.beecrowd.com/repository/UOJ_2104.html) - Lasers *Geometria Computacional*
+- [x] [2104](https://resources.beecrowd.com/repository/UOJ_2104.html) - [Lasers](https://github.com/potigol/beecrowd/blob/master/src/2100/2104.poti) *Geometria Computacional*
 - [ ] [2105](https://resources.beecrowd.com/repository/UOJ_2105.html) - Monopólio *Paradigmas*
 - [ ] [2106](https://resources.beecrowd.com/repository/UOJ_2106.html) - Montagem *Paradigmas*
 - [ ] [2107](https://resources.beecrowd.com/repository/UOJ_2107.html) - As Pirâmides de Ecaterinburgo *Matemática*

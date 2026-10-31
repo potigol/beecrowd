@@ -1,4 +1,4 @@
-# Problemas 1900 (28/100)
+# Problemas 1900 (29/100)
 
 - [ ] [1900](https://resources.beecrowd.com/repository/UOJ_1900.html) - Sequências Nulas *Paradigmas*
 - [x] [1901](https://resources.beecrowd.com/repository/UOJ_1901.html) - [Borboletas](https://github.com/potigol/beecrowd/blob/master/src/1900/1901.poti) *Ad-Hoc*
@@ -40,7 +40,7 @@
 - [ ] [1937](https://resources.beecrowd.com/repository/UOJ_1937.html) - Guardiões Curiosos *Ad-Hoc*
 - [ ] [1938](https://resources.beecrowd.com/repository/UOJ_1938.html) - Praça do Retângulo *Geometria Computacional*
 - [ ] [1939](https://resources.beecrowd.com/repository/UOJ_1939.html) - Ominobox *Ad-Hoc*
-- [ ] [1940](https://resources.beecrowd.com/repository/UOJ_1940.html) - Jogo da Estratégia *Ad-Hoc*
+- [x] [1940](https://resources.beecrowd.com/repository/UOJ_1940.html) - [Jogo da Estratégia](https://github.com/potigol/beecrowd/blob/master/src/1900/1940.poti) *Ad-Hoc*
 - [ ] [1941](https://resources.beecrowd.com/repository/UOJ_1941.html) - Palíndromo *Strings*
 - [ ] [1942](https://resources.beecrowd.com/repository/UOJ_1942.html) - Loteria *Ad-Hoc*
 - [x] [1943](https://resources.beecrowd.com/repository/UOJ_1943.html) - [Top N](https://github.com/potigol/beecrowd/blob/master/src/1900/1943.poti) *Ad-Hoc*

@@ -1,4 +1,4 @@
-# Matemática (12 / 19)
+# Matemática (12 / 23)
 
 
 
@@ -26,3 +26,7 @@
 - [ ] [2955](https://resources.beecrowd.com/repository/UOJ_2955.html) - Truuuuuco!
 - [ ] [3002](https://resources.beecrowd.com/repository/UOJ_3002.html) - Salve a Lilly!
 - [ ] [3304](https://resources.beecrowd.com/repository/UOJ_3304.html) - Alguma Sorte!
+- [ ] [3512](https://resources.beecrowd.com/repository/UOJ_3512.html) - Ano perfeito
+- [ ] [3516](https://resources.beecrowd.com/repository/UOJ_3516.html) - Jogo da Multiplicação
+- [ ] [3517](https://resources.beecrowd.com/repository/UOJ_3517.html) - Divisores
+- [ ] [3519](https://resources.beecrowd.com/repository/UOJ_3519.html) - O Código de Whis

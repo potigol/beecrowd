@@ -1,15 +1,15 @@
-# Geometria Computacional (0 / 22)
+# Geometria Computacional (1 / 22)
 
 
 
 ## Problemas resolvidos
 
+- [x] [1124](https://resources.beecrowd.com/repository/UOJ_1124.html) - [Elevador](https://github.com/potigol/beecrowd/blob/master/src/1100/1124.poti)
 
 ## Problemas não resolvidos
 
 - [ ] [1102](https://resources.beecrowd.com/repository/UOJ_1102.html) - Ataque Fulminante
 - [ ] [1108](https://resources.beecrowd.com/repository/UOJ_1108.html) - Torres de Telefonia Celular
-- [ ] [1124](https://resources.beecrowd.com/repository/UOJ_1124.html) - Elevador
 - [ ] [1126](https://resources.beecrowd.com/repository/UOJ_1126.html) - Guerra nas Estrelas
 - [ ] [1137](https://resources.beecrowd.com/repository/UOJ_1137.html) - Pontos Cocirculares
 - [ ] [1223](https://resources.beecrowd.com/repository/UOJ_1223.html) - Tobogan de Bolinhas

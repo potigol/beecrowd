@@ -1,16 +1,16 @@
-# Estruturas e Bibliotecas (2 / 19)
+# Estruturas e Bibliotecas (3 / 19)
 
 
 
 ## Problemas resolvidos
 
+- [x] [1242](https://resources.beecrowd.com/repository/UOJ_1242.html) - [Ácido Ribonucleico Alienígena](https://github.com/potigol/beecrowd/blob/master/src/1200/1242.poti)
 - [x] [1430](https://resources.beecrowd.com/repository/UOJ_1430.html) - [Composição de Jingles](https://github.com/potigol/beecrowd/blob/master/src/1400/1430.poti)
 - [x] [1709](https://resources.beecrowd.com/repository/UOJ_1709.html) - [Baralho Embaralhado](https://github.com/potigol/beecrowd/blob/master/src/1700/1709.poti)
 
 ## Problemas não resolvidos
 
 - [ ] [1088](https://resources.beecrowd.com/repository/UOJ_1088.html) - Bolhas e Baldes
-- [ ] [1242](https://resources.beecrowd.com/repository/UOJ_1242.html) - Ácido Ribonucleico Alienígena
 - [ ] [1274](https://resources.beecrowd.com/repository/UOJ_1274.html) - P-Networks
 - [ ] [1301](https://resources.beecrowd.com/repository/UOJ_1301.html) - Produto do Intervalo
 - [ ] [1326](https://resources.beecrowd.com/repository/UOJ_1326.html) - Química

@@ -1,4 +1,4 @@
-# Maratona de Programação (77 / 428)
+# Maratona de Programação (81 / 428)
 
 
 ## 2023
@@ -253,7 +253,7 @@
 - [ ] [1937](https://resources.beecrowd.com/repository/UOJ_1937.html) - Guardiões Curiosos *Ad-Hoc*
 - [ ] [1938](https://resources.beecrowd.com/repository/UOJ_1938.html) - Praça do Retângulo *Geometria Computacional*
 - [ ] [1939](https://resources.beecrowd.com/repository/UOJ_1939.html) - Ominobox *Ad-Hoc*
-- [ ] [1940](https://resources.beecrowd.com/repository/UOJ_1940.html) - Jogo da Estratégia *Ad-Hoc*
+- [x] [1940](https://resources.beecrowd.com/repository/UOJ_1940.html) - [Jogo da Estratégia](https://github.com/potigol/beecrowd/blob/master/src/1900/1940.poti) *Ad-Hoc*
 - [ ] [1941](https://resources.beecrowd.com/repository/UOJ_1941.html) - Palíndromo *Strings*
 - [ ] [1942](https://resources.beecrowd.com/repository/UOJ_1942.html) - Loteria *Ad-Hoc*
 
@@ -368,7 +368,7 @@
 
 ### 1ª Fase
 
-- [ ] [1242](https://resources.beecrowd.com/repository/UOJ_1242.html) - Ácido Ribonucleico Alienígena *Estruturas e Bibliotecas*
+- [x] [1242](https://resources.beecrowd.com/repository/UOJ_1242.html) - [Ácido Ribonucleico Alienígena](https://github.com/potigol/beecrowd/blob/master/src/1200/1242.poti) *Estruturas e Bibliotecas*
 - [x] [1245](https://resources.beecrowd.com/repository/UOJ_1245.html) - [Botas Perdidas](https://github.com/potigol/beecrowd/blob/master/src/1200/1245.poti) *Ad-Hoc*
 - [ ] [1458](https://resources.beecrowd.com/repository/UOJ_1458.html) - Campeonato de SMS *Strings*
 - [ ] [1442](https://resources.beecrowd.com/repository/UOJ_1442.html) - Desvio de Rua *Grafos*
@@ -402,7 +402,7 @@
 - [ ] [1121](https://resources.beecrowd.com/repository/UOJ_1121.html) - Robô Colecionador *Ad-Hoc*
 - [ ] [1122](https://resources.beecrowd.com/repository/UOJ_1122.html) - Livro-Caixa *Ad-Hoc*
 - [ ] [1123](https://resources.beecrowd.com/repository/UOJ_1123.html) - Desvio de Rota *Grafos*
-- [ ] [1124](https://resources.beecrowd.com/repository/UOJ_1124.html) - Elevador *Geometria Computacional*
+- [x] [1124](https://resources.beecrowd.com/repository/UOJ_1124.html) - [Elevador](https://github.com/potigol/beecrowd/blob/master/src/1100/1124.poti) *Geometria Computacional*
 - [ ] [1125](https://resources.beecrowd.com/repository/UOJ_1125.html) - Fórmula 1 *Ad-Hoc*
 - [ ] [1126](https://resources.beecrowd.com/repository/UOJ_1126.html) - Guerra nas Estrelas *Geometria Computacional*
 - [ ] [1127](https://resources.beecrowd.com/repository/UOJ_1127.html) - Plágio Musical *Ad-Hoc*
@@ -421,7 +421,7 @@
 - [ ] [1141](https://resources.beecrowd.com/repository/UOJ_1141.html) - Cultivando Strings *Strings*
 - [ ] [1319](https://resources.beecrowd.com/repository/UOJ_1319.html) - Garota Hiperativa *Paradigmas*
 - [ ] [1320](https://resources.beecrowd.com/repository/UOJ_1320.html) - Metrô Engenhoso *Ad-Hoc*
-- [ ] [1321](https://resources.beecrowd.com/repository/UOJ_1321.html) - Jollo *Ad-Hoc*
+- [x] [1321](https://resources.beecrowd.com/repository/UOJ_1321.html) - [Jollo](https://github.com/potigol/beecrowd/blob/master/src/1300/1321.poti) *Ad-Hoc*
 - [ ] [1322](https://resources.beecrowd.com/repository/UOJ_1322.html) - Desejos das Crianças *Grafos*
 - [x] [1379](https://resources.beecrowd.com/repository/UOJ_1379.html) - [Problema com Mediana e Média](https://github.com/potigol/beecrowd/blob/master/src/1300/1379.poti) *Ad-Hoc*
 - [x] [1429](https://resources.beecrowd.com/repository/UOJ_1429.html) - [Fatorial de Novo!](https://github.com/potigol/beecrowd/blob/master/src/1400/1429.poti) *Matemática*

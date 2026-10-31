@@ -1,4 +1,4 @@
-# Problemas 3200 (20/73)
+# Problemas 3200 (21/73)
 
 - [ ] [3200](https://resources.beecrowd.com/repository/UOJ_3200.html) - Card Trick *Ad-Hoc*
 - [ ] [3201](https://resources.beecrowd.com/repository/UOJ_3201.html) - Traveling Salesman *Estruturas e Bibliotecas*
@@ -61,7 +61,7 @@
 - [x] [3258](https://resources.beecrowd.com/repository/UOJ_3258.html) - [Fervendo Vegetais](https://github.com/potigol/beecrowd/blob/master/src/3200/3258.poti) *Iniciante*
 - [ ] [3259](https://resources.beecrowd.com/repository/UOJ_3259.html) - Truque Numérico *Matemática*
 - [ ] [3260](https://resources.beecrowd.com/repository/UOJ_3260.html) - Robert Hood *Geometria Computacional*
-- [ ] [3261](https://resources.beecrowd.com/repository/UOJ_3261.html) - Replicação de Vírus *Strings*
+- [x] [3261](https://resources.beecrowd.com/repository/UOJ_3261.html) - [Replicação de Vírus](https://github.com/potigol/beecrowd/blob/master/src/3200/3261.poti) *Strings*
 - [x] [3262](https://resources.beecrowd.com/repository/UOJ_3262.html) - [Timebomb](https://github.com/potigol/beecrowd/blob/master/src/3200/3262.poti) *Strings*
 - [x] [3263](https://resources.beecrowd.com/repository/UOJ_3263.html) - [Apague Com Segurança](https://github.com/potigol/beecrowd/blob/master/src/3200/3263.poti) *Ad-Hoc*
 - [ ] [3264](https://resources.beecrowd.com/repository/UOJ_3264.html) - Pinball *Grafos*

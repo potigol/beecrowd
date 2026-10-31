@@ -1,4 +1,4 @@
-# Problemas 3000 (33/98)
+# Problemas 3000 (34/98)
 
 - [ ] [3000](https://resources.beecrowd.com/repository/UOJ_3000.html) - ~~Maiores Salários do Departamento~~ *SQL*
 - [ ] [3001](https://resources.beecrowd.com/repository/UOJ_3001.html) - Update sem Where *SQL*
@@ -11,7 +11,7 @@
 - [ ] [3008](https://resources.beecrowd.com/repository/UOJ_3008.html) - Numeração com Fósforos *Ad-Hoc*
 - [ ] [3009](https://resources.beecrowd.com/repository/UOJ_3009.html) - Dominós *Ad-Hoc*
 - [ ] [3010](https://resources.beecrowd.com/repository/UOJ_3010.html) - Binários Ambíguos *Ad-Hoc*
-- [ ] [3011](https://resources.beecrowd.com/repository/UOJ_3011.html) - Quebra-Cabeça Algébrico *Ad-Hoc*
+- [x] [3011](https://resources.beecrowd.com/repository/UOJ_3011.html) - [Quebra-Cabeça Algébrico](https://github.com/potigol/beecrowd/blob/master/src/3000/3011.poti) *Ad-Hoc*
 - [ ] [3012](https://resources.beecrowd.com/repository/UOJ_3012.html) - Algorithm Teaching *Ad-Hoc*
 - [ ] [3013](https://resources.beecrowd.com/repository/UOJ_3013.html) - Build the Perfect House *Ad-Hoc*
 - [ ] [3014](https://resources.beecrowd.com/repository/UOJ_3014.html) - Cut Inequality Down *Ad-Hoc*

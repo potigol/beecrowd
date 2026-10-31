@@ -1,4 +1,4 @@
-# Ad-Hoc (46 / 225)
+# Ad-Hoc (48 / 225)
 
 
 
@@ -22,6 +22,7 @@
 - [x] [1285](https://resources.beecrowd.com/repository/UOJ_1285.html) - [Dígitos Diferentes](https://github.com/potigol/beecrowd/blob/master/src/1200/1285.poti)
 - [x] [1300](https://resources.beecrowd.com/repository/UOJ_1300.html) - [Horas e Minutos](https://github.com/potigol/beecrowd/blob/master/src/1300/1300.poti)
 - [x] [1318](https://resources.beecrowd.com/repository/UOJ_1318.html) - [Bilhetes Falsos](https://github.com/potigol/beecrowd/blob/master/src/1300/1318.poti)
+- [x] [1321](https://resources.beecrowd.com/repository/UOJ_1321.html) - [Jollo](https://github.com/potigol/beecrowd/blob/master/src/1300/1321.poti)
 - [x] [1329](https://resources.beecrowd.com/repository/UOJ_1329.html) - [Cara ou Coroa](https://github.com/potigol/beecrowd/blob/master/src/1300/1329.poti)
 - [x] [1337](https://resources.beecrowd.com/repository/UOJ_1337.html) - [Poker do Rei](https://github.com/potigol/beecrowd/blob/master/src/1300/1337.poti)
 - [x] [1366](https://resources.beecrowd.com/repository/UOJ_1366.html) - [Jogo de Varetas](https://github.com/potigol/beecrowd/blob/master/src/1300/1366.poti)
@@ -38,6 +39,7 @@
 - [x] [1743](https://resources.beecrowd.com/repository/UOJ_1743.html) - [Máquina de Verificação Automatizada](https://github.com/potigol/beecrowd/blob/master/src/1700/1743.poti)
 - [x] [1808](https://resources.beecrowd.com/repository/UOJ_1808.html) - [O Retorno do Rei](https://github.com/potigol/beecrowd/blob/master/src/1800/1808.poti)
 - [x] [1936](https://resources.beecrowd.com/repository/UOJ_1936.html) - [Fatorial](https://github.com/potigol/beecrowd/blob/master/src/1900/1936.poti)
+- [x] [1940](https://resources.beecrowd.com/repository/UOJ_1940.html) - [Jogo da Estratégia](https://github.com/potigol/beecrowd/blob/master/src/1900/1940.poti)
 - [x] [2345](https://resources.beecrowd.com/repository/UOJ_2345.html) - [Assigning Teams](https://github.com/potigol/beecrowd/blob/master/src/2300/2345.poti)
 - [x] [2349](https://resources.beecrowd.com/repository/UOJ_2349.html) - [Farm Robot](https://github.com/potigol/beecrowd/blob/master/src/2300/2349.poti)
 - [x] [3024](https://resources.beecrowd.com/repository/UOJ_3024.html) - [Mountain Ranges](https://github.com/potigol/beecrowd/blob/master/src/3000/3024.poti)
@@ -67,7 +69,6 @@
 - [ ] [1290](https://resources.beecrowd.com/repository/UOJ_1290.html) - Caixas Muito Especiais
 - [ ] [1311](https://resources.beecrowd.com/repository/UOJ_1311.html) - Companheiros de Exército
 - [ ] [1320](https://resources.beecrowd.com/repository/UOJ_1320.html) - Metrô Engenhoso
-- [ ] [1321](https://resources.beecrowd.com/repository/UOJ_1321.html) - Jollo
 - [ ] [1327](https://resources.beecrowd.com/repository/UOJ_1327.html) - Drop Out
 - [ ] [1333](https://resources.beecrowd.com/repository/UOJ_1333.html) - Os Doces de Candy
 - [ ] [1339](https://resources.beecrowd.com/repository/UOJ_1339.html) - O Cubo Mágico do Avô
@@ -111,7 +112,6 @@
 - [ ] [1935](https://resources.beecrowd.com/repository/UOJ_1935.html) - Espiral
 - [ ] [1937](https://resources.beecrowd.com/repository/UOJ_1937.html) - Guardiões Curiosos
 - [ ] [1939](https://resources.beecrowd.com/repository/UOJ_1939.html) - Ominobox
-- [ ] [1940](https://resources.beecrowd.com/repository/UOJ_1940.html) - Jogo da Estratégia
 - [ ] [1942](https://resources.beecrowd.com/repository/UOJ_1942.html) - Loteria
 - [ ] [2008](https://resources.beecrowd.com/repository/UOJ_2008.html) - Expondo a Corrupção
 - [ ] [2009](https://resources.beecrowd.com/repository/UOJ_2009.html) - Apenas um Pouco Classificadas

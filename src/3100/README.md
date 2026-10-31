@@ -66,8 +66,8 @@
 - [x] [3163](https://resources.beecrowd.com/repository/UOJ_3163.html) - [Controlador de Vôo](https://github.com/potigol/beecrowd/blob/master/src/3100/3163.poti) *Estruturas e Bibliotecas*
 - [x] [3164](https://resources.beecrowd.com/repository/UOJ_3164.html) - [Fiscalizando Empresa](https://github.com/potigol/beecrowd/blob/master/src/3100/3164.poti) *Iniciante*
 - [x] [3165](https://resources.beecrowd.com/repository/UOJ_3165.html) - [Primos Gêmeos](https://github.com/potigol/beecrowd/blob/master/src/3100/3165.poti) *Matemática*
-- [x] [3166](https://resources.beecrowd.com/repository/UOJ_3166.html) - [Procurando Palavras na Diagonal Principal](https://github.com/potigol/beecrowd/blob/master/src/3100/3166.poti) *Iniciante*
-- [x] [3167](https://resources.beecrowd.com/repository/UOJ_3167.html) - [Procurando Palavras na Diagonal Secundária](https://github.com/potigol/beecrowd/blob/master/src/3100/3167.poti) *Iniciante*
+- [x] [3166](https://resources.beecrowd.com/repository/UOJ_3166.html) - [Procurando Palavras na Diagonal Principal](https://github.com/potigol/beecrowd/blob/master/src/3100/3166.poti) *Strings*
+- [x] [3167](https://resources.beecrowd.com/repository/UOJ_3167.html) - [Procurando Palavras na Diagonal Secundária](https://github.com/potigol/beecrowd/blob/master/src/3100/3167.poti) *Strings*
 - [ ] [3168](https://resources.beecrowd.com/repository/UOJ_3168.html) - Aposta dos Gnomos *Ad-Hoc*
 - [ ] [3169](https://resources.beecrowd.com/repository/UOJ_3169.html) - Batendo em Retirada *Grafos*
 - [x] [3170](https://resources.beecrowd.com/repository/UOJ_3170.html) - [Bolinhas de Natal](https://github.com/potigol/beecrowd/blob/master/src/3100/3170.poti) *Iniciante*

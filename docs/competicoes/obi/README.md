@@ -1,4 +1,4 @@
-# Olimpíada Brasileira de Informática (105 / 219)
+# Olimpíada Brasileira de Informática (107 / 219)
 
 
 
@@ -51,7 +51,7 @@
 - [x] [2786](https://resources.beecrowd.com/repository/UOJ_2786.html) - [Piso da Escola](https://github.com/potigol/beecrowd/blob/master/src/2700/2786.poti) *Iniciante*
 - [x] [2787](https://resources.beecrowd.com/repository/UOJ_2787.html) - [Xadrez](https://github.com/potigol/beecrowd/blob/master/src/2700/2787.poti) *Iniciante*
 - [x] [2830](https://resources.beecrowd.com/repository/UOJ_2830.html) - [Copa](https://github.com/potigol/beecrowd/blob/master/src/2800/2830.poti) *Ad-Hoc*
-- [x] [2831](https://resources.beecrowd.com/repository/UOJ_2831.html) - [Pesos](https://github.com/potigol/beecrowd/blob/master/src/2800/2831.poti) *Ad-Hoc*
+- [x] [2831](https://resources.beecrowd.com/repository/UOJ_2831.html) - [~~Pesos~~](https://github.com/potigol/beecrowd/blob/master/src/2800/2831.poti) *Ad-Hoc*
 - [ ] [2832](https://resources.beecrowd.com/repository/UOJ_2832.html) - Cápsulas *Ad-Hoc*
 - [x] [2833](https://resources.beecrowd.com/repository/UOJ_2833.html) - [Campeonato](https://github.com/potigol/beecrowd/blob/master/src/2800/2833.poti) *Ad-Hoc*
 - [ ] [2834](https://resources.beecrowd.com/repository/UOJ_2834.html) - Fuga *Ad-Hoc*
@@ -123,7 +123,7 @@
 - [ ] [2412](https://resources.beecrowd.com/repository/UOJ_2412.html) - Tarzan *Grafos*
 - [x] [2413](https://resources.beecrowd.com/repository/UOJ_2413.html) - [Busca na Internet](https://github.com/potigol/beecrowd/blob/master/src/2400/2413.poti) *Ad-Hoc*
 - [x] [2414](https://resources.beecrowd.com/repository/UOJ_2414.html) - [Desafio do Maior Número](https://github.com/potigol/beecrowd/blob/master/src/2400/2414.poti) *Ad-Hoc*
-- [ ] [2415](https://resources.beecrowd.com/repository/UOJ_2415.html) - Consecutivos *Ad-Hoc*
+- [x] [2415](https://resources.beecrowd.com/repository/UOJ_2415.html) - [Consecutivos](https://github.com/potigol/beecrowd/blob/master/src/2400/2415.poti) *Ad-Hoc*
 - [x] [2416](https://resources.beecrowd.com/repository/UOJ_2416.html) - [Corrida](https://github.com/potigol/beecrowd/blob/master/src/2400/2416.poti) *Ad-Hoc*
 - [x] [2417](https://resources.beecrowd.com/repository/UOJ_2417.html) - [Campeonato](https://github.com/potigol/beecrowd/blob/master/src/2400/2417.poti) *Ad-Hoc*
 - [x] [2418](https://resources.beecrowd.com/repository/UOJ_2418.html) - [Carnaval](https://github.com/potigol/beecrowd/blob/master/src/2400/2418.poti) *Ad-Hoc*
@@ -233,7 +233,7 @@
 - [x] [2295](https://resources.beecrowd.com/repository/UOJ_2295.html) - [Frota de Táxi](https://github.com/potigol/beecrowd/blob/master/src/2200/2295.poti) *Ad-Hoc*
 - [ ] [2296](https://resources.beecrowd.com/repository/UOJ_2296.html) - Trilhas *Ad-Hoc*
 - [x] [2297](https://resources.beecrowd.com/repository/UOJ_2297.html) - [Bafo](https://github.com/potigol/beecrowd/blob/master/src/2200/2297.poti) *Ad-Hoc*
-- [ ] [2298](https://resources.beecrowd.com/repository/UOJ_2298.html) - Mini-Poker *Ad-Hoc*
+- [x] [2298](https://resources.beecrowd.com/repository/UOJ_2298.html) - [Mini-Poker](https://github.com/potigol/beecrowd/blob/master/src/2200/2298.poti) *Ad-Hoc*
 - [ ] [2299](https://resources.beecrowd.com/repository/UOJ_2299.html) - Pedido de Desculpas *Paradigmas*
 - [ ] [2300](https://resources.beecrowd.com/repository/UOJ_2300.html) - Transmissão de Energia *Grafos*
 - [ ] [2301](https://resources.beecrowd.com/repository/UOJ_2301.html) - Vivo ou Morto *Ad-Hoc*
