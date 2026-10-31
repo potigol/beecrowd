@@ -1,0 +1,10 @@
+dias = [31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31]
+
+data1, data2 = leia_inteiros(" ")
+d1, m1 = data1[1], data1[2]
+d2, m2 = data2[1], data2[2]
+
+dias1 = d1 + dias.pegue(m1 - 1).injete(0)(_ + _)
+dias2 = d2 + dias.pegue(m2 - 1).injete(0)(_ + _)
+
+escreva dias2 - dias1

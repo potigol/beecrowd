@@ -1,0 +1,2 @@
+COPS
+ROBBERS

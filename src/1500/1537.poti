@@ -1,5 +1,5 @@
 var anterior := 1.toLong
-f = 0 :: 0 :: 1 :: para i de 4 ate 100000 gere
+f = 0 :: 0 :: 1 :: para i de 4 até 100000 gere
   anterior := i * anterior mod 1000000009
   anterior.toInt
 fim

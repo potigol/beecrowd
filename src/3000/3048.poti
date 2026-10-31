@@ -1,8 +1,8 @@
 n = leia_inteiro
 var a, s := 0
-para i de 1 ate n faca
+para i de 1 até n faça
   v = leia_inteiro
-  se v <> a entao
+  se v <> a então
     a := v
     s := s + 1
   fim

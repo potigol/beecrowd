@@ -1,0 +1,20 @@
+var n := leia_inteiro
+enquanto não eof faça
+    var a := Lista(n, leia_texto).ordene
+    var t1 := a.cabeça
+    a := a.cauda
+    tam = t1.tamanho
+    var quantidade := 0
+    enquanto a <> [] faça
+        t2 = a.cabeça
+        var j := 1
+        enquanto j <= tam e t1[j] == t2[j] faça
+            quantidade := quantidade + 1
+            j := j + 1
+        fim
+        t1 := t2
+        a := a.cauda
+    fim
+    escreva quantidade
+    n := leia_inteiro
+fim

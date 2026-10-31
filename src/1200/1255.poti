@@ -3,10 +3,10 @@ para i de 1 até n faça
   s = leia_texto.minúsculo.selecione(c => c >= 'a' e c <= 'z')
   var letras := Lista(26, 0)
   var mais := 0
-  para c em s faca
+  para c em s faça
     letras[c - 96] := letras[c - 96] + 1
-    se letras[c - 96] > mais entao mais := letras[c - 96] fim
+    se letras[c - 96] > mais então mais := letras[c - 96] fim
   fim
-  saida = para c de 'a' ate 'z' se letras[c - 96] == mais gere c fim
+  saida = para c de 'a' até 'z' se letras[c - 96] == mais gere c fim
   escreva saida.junte("")
 fim

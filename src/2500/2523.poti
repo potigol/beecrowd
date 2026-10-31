@@ -1,6 +1,6 @@
 loop(): Nada
   s = leia_texto
-  se nao eof entao
+  se não eof então
     n = leia_inteiro
     nums = leia_inteiros(" ")
     escreva nums.mapeie(a => s[a]).junte("")

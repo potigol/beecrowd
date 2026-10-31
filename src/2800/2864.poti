@@ -1,5 +1,5 @@
 t = leia_inteiro
-para i de 1 ate t faca
+para i de 1 até t faça
   in = leia_inteiros(" ")
   a, b, c = in[1], in[2], in[3]
   x = - b / (2 * a)

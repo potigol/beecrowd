@@ -1,0 +1,3 @@
+#!/bin/sh
+
+exec java -jar /workspaces/beecrowd/bin/potigol.jar -w -c "$@"

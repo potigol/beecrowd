@@ -1,12 +1,12 @@
 var s := leia_texto
-enquanto nao eof faca
-  se s == "1 0 0" ou s == "0 1 1" entao
+enquanto não eof faça
+  se s == "1 0 0" ou s == "0 1 1" então
     escreva "A"
-  senaose s == "0 1 0" ou s == "1 0 1" entao
+  senãose s == "0 1 0" ou s == "1 0 1" então
     escreva "B"
-  senaose s == "0 0 1" ou s == "1 1 0" entao
+  senãose s == "0 0 1" ou s == "1 1 0" então
     escreva "C"
-  senao
+  senão
     escreva "*"
   fim
   s := leia_texto

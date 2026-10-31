@@ -1,9 +1,9 @@
 s = leia_inteiros(" ")
 farinha, ovos, leite = s[1] div 2, s[2] div 3, s[3] div 5
-se farinha <= ovos e farinha <= leite entao
+se farinha <= ovos e farinha <= leite então
   escreva farinha
-senaose ovos <= leite entao
+senãose ovos <= leite então
   escreva ovos
-senao
+senão
   escreva leite
 fim

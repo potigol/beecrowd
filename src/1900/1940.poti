@@ -1,0 +1,30 @@
+tipo Matriz = Lista[Lista[Inteiro]]
+
+def fatias(l: Lista[Inteiro], tamanho: Inteiro): Matriz = escolha l
+  caso [] => []
+  caso xs => xs.pegue(tamanho) :: fatias(xs.descarte(tamanho), tamanho)
+fim
+
+def soma_colunas(m: Matriz): Lista[Inteiro] = escolha m
+  caso [] :: xs => []
+  caso xs => soma(xs.mapeie(_.cabeça)) :: soma_colunas(xs.mapeie(_.cauda))
+fim
+
+def soma(l: Lista[Inteiro]) = l.injete(0)(_ + _)
+
+def enumerado(l: Lista[Inteiro]): Lista[(Inteiro, Inteiro)] =
+  l.zip(para i de 1 até l.tamanho gere i fim)
+
+j = leia_inteiros(" ")[1]
+
+jogadores = soma_colunas(fatias(leia_inteiros(" "), j))
+
+var maior, vencedor := 0
+
+para (pontos, k) em enumerado(jogadores) faça
+  se pontos >= maior então
+    maior, vencedor := pontos, k
+  fim
+fim
+
+escreva vencedor

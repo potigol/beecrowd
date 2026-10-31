@@ -1,5 +1,5 @@
 var a := leia_inteiros(" ")
-enquanto nao eof faca
+enquanto não eof faça
   hora   = a[1] div 30
   minuto = a[2] div 6
   escreva "{hora formato "%02d"}:{minuto formato "%02d"}"

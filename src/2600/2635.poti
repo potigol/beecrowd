@@ -1,14 +1,14 @@
 n = leia_inteiro
 palavras = Lista(n, 0).mapeie(a => leia_texto)
 q = leia_inteiro
-para i de 1 ate q faca
+para i de 1 até q faça
   s = leia_texto
   t = s.tamanho
   c = palavras.selecione(palavra => palavra.pegue(t) == s)
-  maior = c.injete(-1)((a, b) => se b.tamanho > a entao b.tamanho senao a fim)
-  se c.tamanho > 0 entao
+  maior = c.injete(-1)((a, b) => se b.tamanho > a então b.tamanho senão a fim)
+  se c.tamanho > 0 então
     escreva "{c.tamanho} {maior}"
-  senao
+  senão
     escreva -1
   fim
 fim

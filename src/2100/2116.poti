@@ -7,7 +7,7 @@ crivo(nums: Lista[Inteiro]): Lista[Inteiro] = escolha nums
     c = num.cabeca
     c :: crivo(num.selecione(x => x mod c <> 0))
 fim
-ints = para i de 2 ate m gere i fim
+ints = para i de 2 até m gere i fim
 primos = crivo(ints).inverta
 
 p1 = primos.descarte_enquanto(_ > n).cabeca

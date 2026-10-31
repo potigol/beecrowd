@@ -2,12 +2,12 @@ var n := leia_inteiro
 enquanto n <> 0 faça
     var zero, soma, inicio, postes = 0
     para numero em leia_texto.selecione(_ <> ' ') faça
-        se numero == '0' entao
+        se numero == '0' então
             se inicio == 0 então
                 zero := zero + 1
             fim
             postes := postes + 1
-        senao
+        senão
             inicio := 1
             soma := soma + postes div 2
             postes := 0

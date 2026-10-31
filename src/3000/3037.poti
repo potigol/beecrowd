@@ -1,8 +1,8 @@
 n = leia_inteiro
-pontos() = para j de 1 ate 3 gere
+pontos() = para j de 1 até 3 gere
              leia_inteiros(" ").injete(1)(_ * _)
            fim.injete(0)(_ + _)
-para i de 1 ate n faca
+para i de 1 até n faça
   joao, maria = pontos
-  escreva se joao > maria entao "JOAO" senao "MARIA" fim
+  escreva se joao > maria então "JOAO" senão "MARIA" fim
 fim

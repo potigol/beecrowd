@@ -1,15 +1,15 @@
 var entrada := leia_texto
-enquanto nao eof faca
+enquanto não eof faça
   a = entrada.divida(" ").mapeie(_.inteiro)
   n, m = a[1], a[2]
   var x1, y1, x2, y2 := 0
-  para i de 1 ate n faca
+  para i de 1 até n faça
     linha = leia_inteiros(" ")
-    para j de 1 ate m faca
-      se linha[j] == 1 entao
+    para j de 1 até m faça
+      se linha[j] == 1 então
         x1, y1 := i, j
       fim
-      se linha[j] == 2 entao
+      se linha[j] == 2 então
         x2, y2 := i, j
       fim
     fim

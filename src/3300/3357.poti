@@ -3,7 +3,7 @@ n = entrada[1].inteiro
 l, q = (entrada[2] * 10).arredonde, (entrada[3] * 10).arredonde
 participantes = leia_textos(" ")
 r = l mod (n * q)
-se r mod q == 0 entao
+se r mod q == 0 então
   agua = q / 10
   rei = (l - 1) mod (n * q) div q + 1
   escreva "{participantes[rei]} {agua formato "%.1f"}"

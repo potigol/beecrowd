@@ -1,12 +1,12 @@
 tipo Pais = (Texto, Inteiro, Inteiro, Inteiro)
 comparar = (a, b: Pais) =>
-  se a.segundo <> b.segundo entao
+  se a.segundo <> b.segundo então
     a.segundo > b.segundo
-  senaose a.terceiro <> b.terceiro entao
+  senãose a.terceiro <> b.terceiro então
     a.terceiro > b.terceiro
-  senaose a.quarto <> b.quarto entao
+  senãose a.quarto <> b.quarto então
     a.quarto > b.quarto
-  senao
+  senão
     a.primeiro < b.primeiro
   fim
 

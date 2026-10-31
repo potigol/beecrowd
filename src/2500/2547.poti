@@ -1,5 +1,5 @@
 var entrada := leia_texto
-enquanto nao eof faca
+enquanto não eof faça
   a = entrada.divida(" ").mapeie(_.inteiro)
   n, min, max = a[1], a[2], a[3]
   visitantes = leia_inteiros(n)

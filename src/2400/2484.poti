@@ -1,7 +1,7 @@
 var s := leia_texto
-enquanto nao eof faca
+enquanto não eof faça
   t = s.tamanho
-  para i de 0 ate t - 1 faca
+  para i de 0 até t - 1 faça
     escreva " " * i + s.pegue(t - i).junte(" ")
   fim
   escreva ""

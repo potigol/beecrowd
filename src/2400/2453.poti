@@ -1,5 +1,5 @@
 decifrar(p: Texto) =
-  para i de 2 ate p.tamanho passo 2 gere p[i] fim.junte("")
+  para i de 2 até p.tamanho passo 2 gere p[i] fim.junte("")
 
 palavras = leia_textos(" ")
 mensagem = palavras.mapeie(decifrar).junte(" ")

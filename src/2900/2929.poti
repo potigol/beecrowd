@@ -1,7 +1,7 @@
 n = leia_inteiro
 var pilha:= [0].cauda
 var tamanho := 0
-para i de 1 ate n faca
+para i de 1 até n faça
   entrada = leia_texto
   valor = entrada.descarte(5).inteiro
   escolha entrada[2]
@@ -9,7 +9,7 @@ para i de 1 ate n faca
       pilha := valor :: pilha
       tamanho := 1
     caso 'U' =>
-      menor = se valor < pilha.cabeca entao valor senao pilha.cabeca fim
+      menor = se valor < pilha.cabeca então valor senão pilha.cabeca fim
       pilha := menor :: pilha
      tamanho := tamanho + 1
     caso 'I' se tamanho > 0 =>

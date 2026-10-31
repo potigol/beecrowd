@@ -1,19 +1,19 @@
 n = leia_inteiro
-var x = leia_inteiros(" ").mutavel
+var x = leia_inteiros(" ").mutável
 var total := x.injete(BigInt(0))(_ + _)
-var atacadas = Lista.mutavel(n, falso)
+var atacadas = Lista.mutável(n, falso)
 var i := 1
 
-enquanto i > 0 e i <= n faca
+enquanto i > 0 e i <= n faça
   lado = x[i] mod 2 <> 0
-  se x[i] > 0 entao
+  se x[i] > 0 então
     x[i] := x[i] - 1
     atacadas[i] := verdadeiro
     total := total - 1
   fim
-  se lado entao
+  se lado então
     i := i + 1
-  senao
+  senão
     i := i - 1
   fim
 fim

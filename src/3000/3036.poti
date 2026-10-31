@@ -1,6 +1,6 @@
 v = leia_inteiro
 c = 300000000
-λ = (700.0 * (c - v) / raiz( 1.0 * c * c - 1.0 * v * v)).arredonde
+λ = (700.0 * (c - v) / raiz(1.0 * c * c - 1.0 * v * v)).arredonde
 cor = se λ < 400 ou λ >= 750 então "invisivel"
       senãose        λ < 425 então "violeta"
       senãose        λ < 445 então "anil"

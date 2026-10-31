@@ -1,0 +1,11 @@
+def leia_notacao_cientifica()
+    entrada = leia_texto +"e0"
+    entrada.real * 10 ^ entrada.descarte_enquanto(_ <> 'e').cauda.inteiro
+fim
+
+var l := leia_notacao_cientifica
+enquanto l > 0 faça
+    x = 1 - 3 / l
+    escreva x formato "%.6f"
+    l := leia_notacao_cientifica
+fim

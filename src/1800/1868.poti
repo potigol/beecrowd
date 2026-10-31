@@ -23,7 +23,7 @@ mover(iter : Inteiro, dir : Inteiro)
         nx = x + dx[dir]
         ny = y + dy[dir]
 
-        se ((nx >= 1) e (nx <= tm) e (ny >= 1) e (ny <= tm)) então
+        se (nx >= 1) e (nx <= tm) e (ny >= 1) e (ny <= tm) então
             g[x][y] := "O"
             x := nx
             y := ny

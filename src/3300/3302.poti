@@ -1,7 +1,7 @@
 var n := leia_inteiro
-enquanto n > 0 faca
+enquanto n > 0 faça
   numeros = leia_inteiros(n)
-  para i de 1 ate n faca
+  para i de 1 até n faça
     escreva "resposta {i}: {numeros[i]}"
   fim
   n := leia_inteiro

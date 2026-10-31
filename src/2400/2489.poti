@@ -1,0 +1,8 @@
+var s := leia_texto
+enquanto não eof faça
+  x = s.divida(" ").mapeie(_.real)
+  a, d, r = x[1], x[2], x[3]
+  h = a - d / tg(r * PI / 180)
+  escreva h formato "%.4f"
+  s := leia_texto
+fim

@@ -1,7 +1,14 @@
 n = leia_inteiro
 a, b = leia_texto
-c = se n mod 2 == 0 entao b senao b.mapeie(c => se c == '1' então '0' senão '1' fim) fim
-se a == c então
+var ok := verdadeiro
+para i de 1 até a.tamanho faça
+    se n mod 2 == 0 então
+        se a[i] <> b[i] então ok := falso fim
+    senão
+        se a[i] == b[i] então ok := falso fim
+    fim
+fim
+se ok então
     escreva "Deletion succeeded"
 senão
     escreva "Deletion failed"

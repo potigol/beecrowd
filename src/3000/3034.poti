@@ -1,6 +1,6 @@
 primo(a: Inteiro)
   var resposta = verdadeiro
-  para i de 3 ate raiz(a).inteiro passo 2 faca
+  para i de 3 até raiz(a).inteiro passo 2 faça
     se a mod i == 0 então
       resposta := falso
     fim
@@ -9,11 +9,11 @@ primo(a: Inteiro)
 fim
 
 n = leia_inteiro
-para i de 1 ate n faça
+para i de 1 até n faça
   num = leia_inteiro + 1
   se num mod 2 == 1 e num mod 7 == 0 e primo(num + 2) então
     escreva "Yes"
-  senao
+  senão
     escreva "No"
   fim
 fim

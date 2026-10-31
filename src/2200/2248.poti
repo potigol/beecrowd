@@ -3,7 +3,7 @@ var n := leia_inteiro
 enquanto n > 0 faça
   var maior := -1
   var alunos: Lista[Inteiro] = []
-  para i de 1 ate n faça
+  para i de 1 até n faça
    a = leia_inteiros(" ")
    se a[2] > maior então
      maior := a[2]

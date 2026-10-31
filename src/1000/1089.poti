@@ -1,12 +1,12 @@
 picos(pontos: Lista[Inteiro], soma: Inteiro): Inteiro =
-  se pontos.tamanho > 2 entao
+  se pontos.tamanho > 2 então
     r1, r2 = pontos[2] - pontos[1], pontos[3] - pontos[2]
-    se r1> 0 e r2 < 0 ou r1 < 0 e r2 > 0 entao
+    se r1> 0 e r2 < 0 ou r1 < 0 e r2 > 0 então
       picos(pontos.cauda, soma + 1)
-    senao
+    senão
       picos(pontos.cauda, soma)
     fim
-  senao
+  senão
     soma
   fim
 

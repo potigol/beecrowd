@@ -1,0 +1,18 @@
+r1_a = 1 - PI / 6.0 - raiz(3) / 4.0 
+r2_a = 1 - PI / 4.0
+
+var saida: Lista[Texto] := []
+
+var entrada := leia_texto
+enquanto não eof faça
+    lado = entrada.real
+    area_quadrado = lado * lado
+
+    r1 = area_quadrado * r1_a
+    r2 = area_quadrado * r2_a - 2.0 * r1
+    r3 = area_quadrado - 4.0 * (r1 + r2)
+    saida := "{r3 formato "%.3f"} {(4 * r2) formato "%.3f"} {(4 * r1) formato "%.3f"}" :: saida
+    entrada := leia_texto
+fim
+
+escreva saida.inverta.junte("\n")

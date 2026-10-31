@@ -1,8 +1,8 @@
 ent = leia_inteiros(" ")
 heax = ent[1] + ent[2] + ent[3] + ent[6]
 ow = ent[4] + ent[5]
-se heax >= ow entao
+se heax >= ow então
   escreva "Middle-earth is safe."
-senao
+senão
   escreva "Sauron has returned."
 fim

@@ -1,102 +1,102 @@
-# Problemas 1900 (28%)
+# Problemas 1900 (28/100)
 
-- [ ]  [1900](https://www.beecrowd.com.br/repository/UOJ_1900.html) - Sequências Nulas *Paradigmas*
-- [x]  [1901](https://www.beecrowd.com.br/repository/UOJ_1901.html) - [Borboletas](https://github.com/potigol/beecrowd/blob/master/src/1900/1901.poti) *Ad-Hoc*
-- [ ]  [1902](https://www.beecrowd.com.br/repository/UOJ_1902.html) - Sociedade Brasileira Casamenteira *Grafos*
-- [ ]  [1903](https://www.beecrowd.com.br/repository/UOJ_1903.html) - Cadeia Alimentar *Grafos*
-- [ ]  [1904](https://www.beecrowd.com.br/repository/UOJ_1904.html) - Par ou Ímpar 2.0 *Matemática*
-- [x]  [1905](https://www.beecrowd.com.br/repository/UOJ_1905.html) - [Polícia e Ladrão](https://github.com/potigol/beecrowd/blob/master/src/1900/1905.poti) *Grafos*
-- [ ]  [1906](https://www.beecrowd.com.br/repository/UOJ_1906.html) - Senhas de Collatz *Grafos*
-- [ ]  [1907](https://www.beecrowd.com.br/repository/UOJ_1907.html) - Coloração de Cenários de Jogos *Grafos*
-- [ ]  [1908](https://www.beecrowd.com.br/repository/UOJ_1908.html) - UFFS Multicampi *Grafos*
-- [ ]  [1909](https://www.beecrowd.com.br/repository/UOJ_1909.html) - Ajude Kiko *Matemática*
-- [ ]  [1910](https://www.beecrowd.com.br/repository/UOJ_1910.html) - Ajude Clotilde *Grafos*
-- [ ]  [1911](https://www.beecrowd.com.br/repository/UOJ_1911.html) - Ajude Girafales *Estruturas e Bibliotecas*
-- [ ]  [1912](https://www.beecrowd.com.br/repository/UOJ_1912.html) - Ajude Seu Madruga *Paradigmas*
-- [ ]  [1913](https://www.beecrowd.com.br/repository/UOJ_1913.html) - Ajude o Sr. Barriga *Paradigmas*
-- [x]  [1914](https://www.beecrowd.com.br/repository/UOJ_1914.html) - [De Quem é a Vez?](https://github.com/potigol/beecrowd/blob/master/src/1900/1914.poti) *Iniciante*
-- [ ]  [1915](https://www.beecrowd.com.br/repository/UOJ_1915.html) - Ajude Chaves *Grafos*
-- [ ]  [1916](https://www.beecrowd.com.br/repository/UOJ_1916.html) - Banco de Horas de Jaiminho *Ad-Hoc*
-- [ ]  [1917](https://www.beecrowd.com.br/repository/UOJ_1917.html) - Ajude o Chapolin Colorado! *Ad-Hoc*
-- [ ]  [1918](https://www.beecrowd.com.br/repository/UOJ_1918.html) - Viagem para Acapulco *Ad-Hoc*
-- [x]  [1919](https://www.beecrowd.com.br/repository/UOJ_1919.html) - [Ajude Nhonho](https://github.com/potigol/beecrowd/blob/master/src/1900/1919.poti) *Ad-Hoc*
-- [ ]  [1920](https://www.beecrowd.com.br/repository/UOJ_1920.html) - Fonte dos Desejos *Ad-Hoc*
-- [x]  [1921](https://www.beecrowd.com.br/repository/UOJ_1921.html) - [Guilherme e Suas Pipas](https://github.com/potigol/beecrowd/blob/master/src/1900/1921.poti) *Matemática*
-- [ ]  [1922](https://www.beecrowd.com.br/repository/UOJ_1922.html) - Diego e o Jogo do Martelo *Paradigmas*
-- [ ]  [1923](https://www.beecrowd.com.br/repository/UOJ_1923.html) - Rerisson e o Churrasco *Grafos*
-- [x]  [1924](https://www.beecrowd.com.br/repository/UOJ_1924.html) - [Vitória e a Indecisão](https://github.com/potigol/beecrowd/blob/master/src/1900/1924.poti) *Iniciante*
-- [ ]  [1925](https://www.beecrowd.com.br/repository/UOJ_1925.html) - Ordan e as Novinhas *Grafos*
-- [ ]  [1926](https://www.beecrowd.com.br/repository/UOJ_1926.html) - Marianne e os Primos Gêmeos *Matemática*
-- [ ]  [1927](https://www.beecrowd.com.br/repository/UOJ_1927.html) - Tapioca e a Chuva de Trufas *Paradigmas*
-- [ ]  [1928](https://www.beecrowd.com.br/repository/UOJ_1928.html) - Jogo da Memória *Grafos*
-- [x]  [1929](https://www.beecrowd.com.br/repository/UOJ_1929.html) - [Triângulo](https://github.com/potigol/beecrowd/blob/master/src/1900/1929.poti) *Iniciante*
-- [x]  [1930](https://www.beecrowd.com.br/repository/UOJ_1930.html) - [Tomadas](https://github.com/potigol/beecrowd/blob/master/src/1900/1930.poti) *Iniciante*
-- [ ]  [1931](https://www.beecrowd.com.br/repository/UOJ_1931.html) - Mania de Par *Grafos*
-- [ ]  [1932](https://www.beecrowd.com.br/repository/UOJ_1932.html) - Bolsa de Valores *Paradigmas*
-- [x]  [1933](https://www.beecrowd.com.br/repository/UOJ_1933.html) - [Tri-du](https://github.com/potigol/beecrowd/blob/master/src/1900/1933.poti) *Iniciante*
-- [ ]  [1934](https://www.beecrowd.com.br/repository/UOJ_1934.html) - Quebra-cabeça *Ad-Hoc*
-- [ ]  [1935](https://www.beecrowd.com.br/repository/UOJ_1935.html) - Espiral *Ad-Hoc*
-- [x]  [1936](https://www.beecrowd.com.br/repository/UOJ_1936.html) - [Fatorial](https://github.com/potigol/beecrowd/blob/master/src/1900/1936.poti) *Ad-Hoc*
-- [ ]  [1937](https://www.beecrowd.com.br/repository/UOJ_1937.html) - Guardiões Curiosos *Ad-Hoc*
-- [ ]  [1938](https://www.beecrowd.com.br/repository/UOJ_1938.html) - Praça do Retângulo *Geometria Computacional*
-- [ ]  [1939](https://www.beecrowd.com.br/repository/UOJ_1939.html) - Ominobox *Ad-Hoc*
-- [ ]  [1940](https://www.beecrowd.com.br/repository/UOJ_1940.html) - Jogo da Estratégia *Ad-Hoc*
-- [ ]  [1941](https://www.beecrowd.com.br/repository/UOJ_1941.html) - Palíndromo *Strings*
-- [ ]  [1942](https://www.beecrowd.com.br/repository/UOJ_1942.html) - Loteria *Ad-Hoc*
-- [x]  [1943](https://www.beecrowd.com.br/repository/UOJ_1943.html) - [Top N](https://github.com/potigol/beecrowd/blob/master/src/1900/1943.poti) *Ad-Hoc*
-- [x]  [1944](https://www.beecrowd.com.br/repository/UOJ_1944.html) - [BRINDE FACE 2015](https://github.com/potigol/beecrowd/blob/master/src/1900/1944.poti) *Estruturas e Bibliotecas*
-- [ ]  [1945](https://www.beecrowd.com.br/repository/UOJ_1945.html) - Simulador *Ad-Hoc*
-- [ ]  [1946](https://www.beecrowd.com.br/repository/UOJ_1946.html) - Pirâmide da Sorte *Matemática*
-- [ ]  [1947](https://www.beecrowd.com.br/repository/UOJ_1947.html) - Rota do Taxista *Grafos*
-- [ ]  [1948](https://www.beecrowd.com.br/repository/UOJ_1948.html) - Compilador *Grafos*
-- [ ]  [1949](https://www.beecrowd.com.br/repository/UOJ_1949.html) - Registrador de Deslocamento *Matemática*
-- [ ]  [1950](https://www.beecrowd.com.br/repository/UOJ_1950.html) - Spöhndriger *Grafos*
-- [ ]  [1951](https://www.beecrowd.com.br/repository/UOJ_1951.html) - Validador de Circuitos *Grafos*
-- [ ]  [1952](https://www.beecrowd.com.br/repository/UOJ_1952.html) - O Cavalo no Xadrez 3D *Grafos*
-- [x]  [1953](https://www.beecrowd.com.br/repository/UOJ_1953.html) - [Roberto e a Sala Desenfreada](https://github.com/potigol/beecrowd/blob/master/src/1900/1953.poti) *Ad-Hoc*
-- [ ]  [1954](https://www.beecrowd.com.br/repository/UOJ_1954.html) - Caminhos Evolucionários Possíveis *Grafos*
-- [ ]  [1955](https://www.beecrowd.com.br/repository/UOJ_1955.html) - See World *Grafos*
-- [ ]  [1956](https://www.beecrowd.com.br/repository/UOJ_1956.html) - Acácias *Grafos*
-- [x]  [1957](https://www.beecrowd.com.br/repository/UOJ_1957.html) - [Converter para Hexadecimal](https://github.com/potigol/beecrowd/blob/master/src/1900/1957.poti) *Iniciante*
-- [x]  [1958](https://www.beecrowd.com.br/repository/UOJ_1958.html) - [Notação Científica](https://github.com/potigol/beecrowd/blob/master/src/1900/1958.poti) *Iniciante*
-- [x]  [1959](https://www.beecrowd.com.br/repository/UOJ_1959.html) - [Polígonos Regulares Simples](https://github.com/potigol/beecrowd/blob/master/src/1900/1959.poti) *Iniciante*
-- [x]  [1960](https://www.beecrowd.com.br/repository/UOJ_1960.html) - [Numeração Romana para Números de Página](https://github.com/potigol/beecrowd/blob/master/src/1900/1960.poti) *Iniciante*
-- [x]  [1961](https://www.beecrowd.com.br/repository/UOJ_1961.html) - [Pula Sapo](https://github.com/potigol/beecrowd/blob/master/src/1900/1961.poti) *Iniciante*
-- [x]  [1962](https://www.beecrowd.com.br/repository/UOJ_1962.html) - [Há Muito, Muito Tempo Atrás](https://github.com/potigol/beecrowd/blob/master/src/1900/1962.poti) *Iniciante*
-- [x]  [1963](https://www.beecrowd.com.br/repository/UOJ_1963.html) - [O Filme](https://github.com/potigol/beecrowd/blob/master/src/1900/1963.poti) *Iniciante*
-- [ ]  [1964](https://www.beecrowd.com.br/repository/UOJ_1964.html) - A Ira de Khan *Ad-Hoc*
-- [ ]  [1965](https://www.beecrowd.com.br/repository/UOJ_1965.html) - A Procura por Spock *Ad-Hoc*
-- [ ]  [1966](https://www.beecrowd.com.br/repository/UOJ_1966.html) - A Volta para Casa *Ad-Hoc*
-- [ ]  [1967](https://www.beecrowd.com.br/repository/UOJ_1967.html) - A Fronteira Final *Matemática*
-- [ ]  [1968](https://www.beecrowd.com.br/repository/UOJ_1968.html) - A Terra Desconhecida *Matemática*
-- [ ]  [1969](https://www.beecrowd.com.br/repository/UOJ_1969.html) - Generations *Matemática*
-- [ ]  [1970](https://www.beecrowd.com.br/repository/UOJ_1970.html) - Primeiro Contato *Paradigmas*
-- [ ]  [1971](https://www.beecrowd.com.br/repository/UOJ_1971.html) - Insurreição *Geometria Computacional*
-- [ ]  [1972](https://www.beecrowd.com.br/repository/UOJ_1972.html) - Nêmesis *Grafos*
-- [x]  [1973](https://www.beecrowd.com.br/repository/UOJ_1973.html) - [Jornada nas Estrelas](https://github.com/potigol/beecrowd/blob/master/src/1900/1973.poti) *Iniciante*
-- [ ]  [1974](https://www.beecrowd.com.br/repository/UOJ_1974.html) - Além da Escuridão *Grafos*
-- [ ]  [1975](https://www.beecrowd.com.br/repository/UOJ_1975.html) - Pérolas *Estruturas e Bibliotecas*
-- [ ]  [1976](https://www.beecrowd.com.br/repository/UOJ_1976.html) - Matrizes *Paradigmas*
-- [ ]  [1977](https://www.beecrowd.com.br/repository/UOJ_1977.html) - Não Posso me Atrasar *Grafos*
-- [ ]  [1978](https://www.beecrowd.com.br/repository/UOJ_1978.html) - Câmeras *Paradigmas*
-- [ ]  [1979](https://www.beecrowd.com.br/repository/UOJ_1979.html) - Salas Separadas *Grafos*
-- [x]  [1980](https://www.beecrowd.com.br/repository/UOJ_1980.html) - [Embaralhando](https://github.com/potigol/beecrowd/blob/master/src/1900/1980.poti) *Ad-Hoc*
-- [ ]  [1981](https://www.beecrowd.com.br/repository/UOJ_1981.html) - Embaralhando de Novo *Matemática*
-- [ ]  [1982](https://www.beecrowd.com.br/repository/UOJ_1982.html) - Novos Computadores *Geometria Computacional*
-- [x]  [1983](https://www.beecrowd.com.br/repository/UOJ_1983.html) - [O Escolhido](https://github.com/potigol/beecrowd/blob/master/src/1900/1983.poti) *Iniciante*
-- [x]  [1984](https://www.beecrowd.com.br/repository/UOJ_1984.html) - [O Enigma do Pronalândia](https://github.com/potigol/beecrowd/blob/master/src/1900/1984.poti) *Iniciante*
-- [x]  [1985](https://www.beecrowd.com.br/repository/UOJ_1985.html) - [MacPRONALTS](https://github.com/potigol/beecrowd/blob/master/src/1900/1985.poti) *Iniciante*
-- [x]  [1986](https://www.beecrowd.com.br/repository/UOJ_1986.html) - [Perdido em Marte](https://github.com/potigol/beecrowd/blob/master/src/1900/1986.poti) *Ad-Hoc*
-- [x]  [1987](https://www.beecrowd.com.br/repository/UOJ_1987.html) - [Divisibilidade Por 3](https://github.com/potigol/beecrowd/blob/master/src/1900/1987.poti) *Ad-Hoc*
-- [ ]  [1988](https://www.beecrowd.com.br/repository/UOJ_1988.html) - Circuitos Turísticos *Grafos*
-- [x]  [1989](https://www.beecrowd.com.br/repository/UOJ_1989.html) - [Fazendo Nada](https://github.com/potigol/beecrowd/blob/master/src/1900/1989.poti) *Matemática*
-- [ ]  [1990](https://www.beecrowd.com.br/repository/UOJ_1990.html) - Equilíbrio *Matemática*
-- [ ]  [1991](https://www.beecrowd.com.br/repository/UOJ_1991.html) - Fábrica de Pontes *Geometria Computacional*
-- [ ]  [1992](https://www.beecrowd.com.br/repository/UOJ_1992.html) - Ganhando Tempo *Matemática*
-- [ ]  [1993](https://www.beecrowd.com.br/repository/UOJ_1993.html) - Ele é Preguiçoso *Grafos*
-- [ ]  [1994](https://www.beecrowd.com.br/repository/UOJ_1994.html) - Imperialismo *Grafos*
-- [ ]  [1995](https://www.beecrowd.com.br/repository/UOJ_1995.html) - Game, Set e Match *Matemática*
-- [ ]  [1996](https://www.beecrowd.com.br/repository/UOJ_1996.html) - Construção de Tendas *Paradigmas*
-- [ ]  [1997](https://www.beecrowd.com.br/repository/UOJ_1997.html) - Branco e Preto *Ad-Hoc*
-- [ ]  [1998](https://www.beecrowd.com.br/repository/UOJ_1998.html) - Awari 2.0 *Ad-Hoc*
-- [ ]  [1999](https://www.beecrowd.com.br/repository/UOJ_1999.html) - Baile de Reconciliação *Matemática*
+- [ ] [1900](https://resources.beecrowd.com/repository/UOJ_1900.html) - Sequências Nulas *Paradigmas*
+- [x] [1901](https://resources.beecrowd.com/repository/UOJ_1901.html) - [Borboletas](https://github.com/potigol/beecrowd/blob/master/src/1900/1901.poti) *Ad-Hoc*
+- [ ] [1902](https://resources.beecrowd.com/repository/UOJ_1902.html) - Sociedade Brasileira Casamenteira *Grafos*
+- [ ] [1903](https://resources.beecrowd.com/repository/UOJ_1903.html) - Cadeia Alimentar *Grafos*
+- [ ] [1904](https://resources.beecrowd.com/repository/UOJ_1904.html) - Par ou Ímpar 2.0 *Matemática*
+- [x] [1905](https://resources.beecrowd.com/repository/UOJ_1905.html) - [Polícia e Ladrão](https://github.com/potigol/beecrowd/blob/master/src/1900/1905.poti) *Grafos*
+- [ ] [1906](https://resources.beecrowd.com/repository/UOJ_1906.html) - Senhas de Collatz *Grafos*
+- [ ] [1907](https://resources.beecrowd.com/repository/UOJ_1907.html) - Coloração de Cenários de Jogos *Grafos*
+- [ ] [1908](https://resources.beecrowd.com/repository/UOJ_1908.html) - UFFS Multicampi *Grafos*
+- [ ] [1909](https://resources.beecrowd.com/repository/UOJ_1909.html) - Ajude Kiko *Matemática*
+- [ ] [1910](https://resources.beecrowd.com/repository/UOJ_1910.html) - Ajude Clotilde *Grafos*
+- [ ] [1911](https://resources.beecrowd.com/repository/UOJ_1911.html) - Ajude Girafales *Estruturas e Bibliotecas*
+- [ ] [1912](https://resources.beecrowd.com/repository/UOJ_1912.html) - Ajude Seu Madruga *Paradigmas*
+- [ ] [1913](https://resources.beecrowd.com/repository/UOJ_1913.html) - Ajude o Sr. Barriga *Paradigmas*
+- [x] [1914](https://resources.beecrowd.com/repository/UOJ_1914.html) - [De Quem é a Vez?](https://github.com/potigol/beecrowd/blob/master/src/1900/1914.poti) *Iniciante*
+- [ ] [1915](https://resources.beecrowd.com/repository/UOJ_1915.html) - Ajude Chaves *Grafos*
+- [ ] [1916](https://resources.beecrowd.com/repository/UOJ_1916.html) - Banco de Horas de Jaiminho *Ad-Hoc*
+- [ ] [1917](https://resources.beecrowd.com/repository/UOJ_1917.html) - Ajude o Chapolin Colorado! *Ad-Hoc*
+- [ ] [1918](https://resources.beecrowd.com/repository/UOJ_1918.html) - Viagem para Acapulco *Ad-Hoc*
+- [x] [1919](https://resources.beecrowd.com/repository/UOJ_1919.html) - [Ajude Nhonho](https://github.com/potigol/beecrowd/blob/master/src/1900/1919.poti) *Ad-Hoc*
+- [ ] [1920](https://resources.beecrowd.com/repository/UOJ_1920.html) - Fonte dos Desejos *Ad-Hoc*
+- [x] [1921](https://resources.beecrowd.com/repository/UOJ_1921.html) - [Guilherme e Suas Pipas](https://github.com/potigol/beecrowd/blob/master/src/1900/1921.poti) *Matemática*
+- [ ] [1922](https://resources.beecrowd.com/repository/UOJ_1922.html) - Diego e o Jogo do Martelo *Paradigmas*
+- [ ] [1923](https://resources.beecrowd.com/repository/UOJ_1923.html) - Rerisson e o Churrasco *Grafos*
+- [x] [1924](https://resources.beecrowd.com/repository/UOJ_1924.html) - [Vitória e a Indecisão](https://github.com/potigol/beecrowd/blob/master/src/1900/1924.poti) *Iniciante*
+- [ ] [1925](https://resources.beecrowd.com/repository/UOJ_1925.html) - Ordan e as Novinhas *Grafos*
+- [ ] [1926](https://resources.beecrowd.com/repository/UOJ_1926.html) - Marianne e os Primos Gêmeos *Matemática*
+- [ ] [1927](https://resources.beecrowd.com/repository/UOJ_1927.html) - Tapioca e a Chuva de Trufas *Paradigmas*
+- [ ] [1928](https://resources.beecrowd.com/repository/UOJ_1928.html) - Jogo da Memória *Grafos*
+- [x] [1929](https://resources.beecrowd.com/repository/UOJ_1929.html) - [Triângulo](https://github.com/potigol/beecrowd/blob/master/src/1900/1929.poti) *Iniciante*
+- [x] [1930](https://resources.beecrowd.com/repository/UOJ_1930.html) - [Tomadas](https://github.com/potigol/beecrowd/blob/master/src/1900/1930.poti) *Iniciante*
+- [ ] [1931](https://resources.beecrowd.com/repository/UOJ_1931.html) - Mania de Par *Grafos*
+- [ ] [1932](https://resources.beecrowd.com/repository/UOJ_1932.html) - Bolsa de Valores *Paradigmas*
+- [x] [1933](https://resources.beecrowd.com/repository/UOJ_1933.html) - [Tri-du](https://github.com/potigol/beecrowd/blob/master/src/1900/1933.poti) *Iniciante*
+- [ ] [1934](https://resources.beecrowd.com/repository/UOJ_1934.html) - Quebra-cabeça *Ad-Hoc*
+- [ ] [1935](https://resources.beecrowd.com/repository/UOJ_1935.html) - Espiral *Ad-Hoc*
+- [x] [1936](https://resources.beecrowd.com/repository/UOJ_1936.html) - [Fatorial](https://github.com/potigol/beecrowd/blob/master/src/1900/1936.poti) *Ad-Hoc*
+- [ ] [1937](https://resources.beecrowd.com/repository/UOJ_1937.html) - Guardiões Curiosos *Ad-Hoc*
+- [ ] [1938](https://resources.beecrowd.com/repository/UOJ_1938.html) - Praça do Retângulo *Geometria Computacional*
+- [ ] [1939](https://resources.beecrowd.com/repository/UOJ_1939.html) - Ominobox *Ad-Hoc*
+- [ ] [1940](https://resources.beecrowd.com/repository/UOJ_1940.html) - Jogo da Estratégia *Ad-Hoc*
+- [ ] [1941](https://resources.beecrowd.com/repository/UOJ_1941.html) - Palíndromo *Strings*
+- [ ] [1942](https://resources.beecrowd.com/repository/UOJ_1942.html) - Loteria *Ad-Hoc*
+- [x] [1943](https://resources.beecrowd.com/repository/UOJ_1943.html) - [Top N](https://github.com/potigol/beecrowd/blob/master/src/1900/1943.poti) *Ad-Hoc*
+- [x] [1944](https://resources.beecrowd.com/repository/UOJ_1944.html) - [BRINDE FACE 2015](https://github.com/potigol/beecrowd/blob/master/src/1900/1944.poti) *Estruturas e Bibliotecas*
+- [ ] [1945](https://resources.beecrowd.com/repository/UOJ_1945.html) - Simulador *Ad-Hoc*
+- [ ] [1946](https://resources.beecrowd.com/repository/UOJ_1946.html) - Pirâmide da Sorte *Matemática*
+- [ ] [1947](https://resources.beecrowd.com/repository/UOJ_1947.html) - Rota do Taxista *Grafos*
+- [ ] [1948](https://resources.beecrowd.com/repository/UOJ_1948.html) - Compilador *Grafos*
+- [ ] [1949](https://resources.beecrowd.com/repository/UOJ_1949.html) - Registrador de Deslocamento *Matemática*
+- [ ] [1950](https://resources.beecrowd.com/repository/UOJ_1950.html) - Spöhndriger *Grafos*
+- [ ] [1951](https://resources.beecrowd.com/repository/UOJ_1951.html) - Validador de Circuitos *Grafos*
+- [ ] [1952](https://resources.beecrowd.com/repository/UOJ_1952.html) - O Cavalo no Xadrez 3D *Grafos*
+- [x] [1953](https://resources.beecrowd.com/repository/UOJ_1953.html) - [Roberto e a Sala Desenfreada](https://github.com/potigol/beecrowd/blob/master/src/1900/1953.poti) *Ad-Hoc*
+- [ ] [1954](https://resources.beecrowd.com/repository/UOJ_1954.html) - Caminhos Evolucionários Possíveis *Grafos*
+- [ ] [1955](https://resources.beecrowd.com/repository/UOJ_1955.html) - See World *Grafos*
+- [ ] [1956](https://resources.beecrowd.com/repository/UOJ_1956.html) - Acácias *Grafos*
+- [x] [1957](https://resources.beecrowd.com/repository/UOJ_1957.html) - [Converter para Hexadecimal](https://github.com/potigol/beecrowd/blob/master/src/1900/1957.poti) *Iniciante*
+- [x] [1958](https://resources.beecrowd.com/repository/UOJ_1958.html) - [Notação Científica](https://github.com/potigol/beecrowd/blob/master/src/1900/1958.poti) *Iniciante*
+- [x] [1959](https://resources.beecrowd.com/repository/UOJ_1959.html) - [Polígonos Regulares Simples](https://github.com/potigol/beecrowd/blob/master/src/1900/1959.poti) *Iniciante*
+- [x] [1960](https://resources.beecrowd.com/repository/UOJ_1960.html) - [Numeração Romana para Números de Página](https://github.com/potigol/beecrowd/blob/master/src/1900/1960.poti) *Iniciante*
+- [x] [1961](https://resources.beecrowd.com/repository/UOJ_1961.html) - [Pula Sapo](https://github.com/potigol/beecrowd/blob/master/src/1900/1961.poti) *Iniciante*
+- [x] [1962](https://resources.beecrowd.com/repository/UOJ_1962.html) - [Há Muito, Muito Tempo Atrás](https://github.com/potigol/beecrowd/blob/master/src/1900/1962.poti) *Iniciante*
+- [x] [1963](https://resources.beecrowd.com/repository/UOJ_1963.html) - [O Filme](https://github.com/potigol/beecrowd/blob/master/src/1900/1963.poti) *Iniciante*
+- [ ] [1964](https://resources.beecrowd.com/repository/UOJ_1964.html) - A Ira de Khan *Ad-Hoc*
+- [ ] [1965](https://resources.beecrowd.com/repository/UOJ_1965.html) - A Procura por Spock *Ad-Hoc*
+- [ ] [1966](https://resources.beecrowd.com/repository/UOJ_1966.html) - A Volta para Casa *Ad-Hoc*
+- [ ] [1967](https://resources.beecrowd.com/repository/UOJ_1967.html) - A Fronteira Final *Matemática*
+- [ ] [1968](https://resources.beecrowd.com/repository/UOJ_1968.html) - A Terra Desconhecida *Matemática*
+- [ ] [1969](https://resources.beecrowd.com/repository/UOJ_1969.html) - Generations *Matemática*
+- [ ] [1970](https://resources.beecrowd.com/repository/UOJ_1970.html) - Primeiro Contato *Paradigmas*
+- [ ] [1971](https://resources.beecrowd.com/repository/UOJ_1971.html) - Insurreição *Geometria Computacional*
+- [ ] [1972](https://resources.beecrowd.com/repository/UOJ_1972.html) - Nêmesis *Grafos*
+- [x] [1973](https://resources.beecrowd.com/repository/UOJ_1973.html) - [Jornada nas Estrelas](https://github.com/potigol/beecrowd/blob/master/src/1900/1973.poti) *Iniciante*
+- [ ] [1974](https://resources.beecrowd.com/repository/UOJ_1974.html) - Além da Escuridão *Grafos*
+- [ ] [1975](https://resources.beecrowd.com/repository/UOJ_1975.html) - Pérolas *Estruturas e Bibliotecas*
+- [ ] [1976](https://resources.beecrowd.com/repository/UOJ_1976.html) - Matrizes *Paradigmas*
+- [ ] [1977](https://resources.beecrowd.com/repository/UOJ_1977.html) - Não Posso me Atrasar *Grafos*
+- [ ] [1978](https://resources.beecrowd.com/repository/UOJ_1978.html) - Câmeras *Paradigmas*
+- [ ] [1979](https://resources.beecrowd.com/repository/UOJ_1979.html) - Salas Separadas *Grafos*
+- [x] [1980](https://resources.beecrowd.com/repository/UOJ_1980.html) - [Embaralhando](https://github.com/potigol/beecrowd/blob/master/src/1900/1980.poti) *Ad-Hoc*
+- [ ] [1981](https://resources.beecrowd.com/repository/UOJ_1981.html) - Embaralhando de Novo *Matemática*
+- [ ] [1982](https://resources.beecrowd.com/repository/UOJ_1982.html) - Novos Computadores *Geometria Computacional*
+- [x] [1983](https://resources.beecrowd.com/repository/UOJ_1983.html) - [O Escolhido](https://github.com/potigol/beecrowd/blob/master/src/1900/1983.poti) *Iniciante*
+- [x] [1984](https://resources.beecrowd.com/repository/UOJ_1984.html) - [O Enigma do Pronalândia](https://github.com/potigol/beecrowd/blob/master/src/1900/1984.poti) *Iniciante*
+- [x] [1985](https://resources.beecrowd.com/repository/UOJ_1985.html) - [MacPRONALTS](https://github.com/potigol/beecrowd/blob/master/src/1900/1985.poti) *Iniciante*
+- [x] [1986](https://resources.beecrowd.com/repository/UOJ_1986.html) - [Perdido em Marte](https://github.com/potigol/beecrowd/blob/master/src/1900/1986.poti) *Ad-Hoc*
+- [x] [1987](https://resources.beecrowd.com/repository/UOJ_1987.html) - [Divisibilidade Por 3](https://github.com/potigol/beecrowd/blob/master/src/1900/1987.poti) *Ad-Hoc*
+- [ ] [1988](https://resources.beecrowd.com/repository/UOJ_1988.html) - Circuitos Turísticos *Grafos*
+- [x] [1989](https://resources.beecrowd.com/repository/UOJ_1989.html) - [Fazendo Nada](https://github.com/potigol/beecrowd/blob/master/src/1900/1989.poti) *Matemática*
+- [ ] [1990](https://resources.beecrowd.com/repository/UOJ_1990.html) - Equilíbrio *Matemática*
+- [ ] [1991](https://resources.beecrowd.com/repository/UOJ_1991.html) - Fábrica de Pontes *Geometria Computacional*
+- [ ] [1992](https://resources.beecrowd.com/repository/UOJ_1992.html) - Ganhando Tempo *Matemática*
+- [ ] [1993](https://resources.beecrowd.com/repository/UOJ_1993.html) - Ele é Preguiçoso *Grafos*
+- [ ] [1994](https://resources.beecrowd.com/repository/UOJ_1994.html) - Imperialismo *Grafos*
+- [ ] [1995](https://resources.beecrowd.com/repository/UOJ_1995.html) - Game, Set e Match *Matemática*
+- [ ] [1996](https://resources.beecrowd.com/repository/UOJ_1996.html) - Construção de Tendas *Paradigmas*
+- [ ] [1997](https://resources.beecrowd.com/repository/UOJ_1997.html) - Branco e Preto *Ad-Hoc*
+- [ ] [1998](https://resources.beecrowd.com/repository/UOJ_1998.html) - Awari 2.0 *Ad-Hoc*
+- [ ] [1999](https://resources.beecrowd.com/repository/UOJ_1999.html) - Baile de Reconciliação *Matemática*

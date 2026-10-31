@@ -2,7 +2,7 @@ diferenca(lista: Lista[Inteiro], soma, total: Long): Long =
   se soma + lista.cabeça > total div 2 então
     x = (soma + lista.cabeça) * 2 - total
     y = total - soma * 2
-    se x < y entao x senao y fim
+    se x < y então x senão y fim
   senão
     diferenca(lista.cauda, soma + lista.cabeça, total)
   fim
@@ -11,7 +11,7 @@ adição(x: Long, y: Int) = x + y
 
 zero = 0.toLong
 var n := leia_inteiro
-enquanto nao eof faça
+enquanto não eof faça
   a = leia_inteiros(" ")
   soma = a.injete(zero)(adição)
   dif = diferenca(a, zero, soma)

@@ -17,7 +17,7 @@ area(alfa: Real) = (x, y: Inteiro) =>  # reta = alfa * x
 
 calc_area(d: (Inteiro, Inteiro) => Real) =
   (a: Area, c: Caractere) => se c == 'R'
-    entao Area(a.area + d(a.x + 1, a.y), a.x + 1, a.y    )
+    então Area(a.area + d(a.x + 1, a.y), a.x + 1, a.y   )
     senão Area(a.area                  , a.x    , a.y + 1)
   fim
 

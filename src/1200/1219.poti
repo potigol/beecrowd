@@ -12,7 +12,7 @@ resposta(a, b, c: Inteiro)
 fim
 
 var entrada := leia_texto
-enquanto nao eof faça
+enquanto não eof faça
   en = entrada.divida(" ").mapeie(_.inteiro)
   a, b, c = en[1], en[2], en[3]
   r = resposta(a, b, c)

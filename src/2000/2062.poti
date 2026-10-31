@@ -2,9 +2,9 @@ n = leia_inteiro
 palavras = leia_textos(" ")
 a = para palavra em palavras gere
       ini = palavra.pegue(2)
-      se palavra.tamanho <> 3 ou (ini <> "OB" e ini <> "UR") entao
+      se palavra.tamanho <> 3 ou (ini <> "OB" e ini <> "UR") então
         palavra
-      senao
+      senão
         ini + "I"
       fim
     fim

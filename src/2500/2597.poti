@@ -1,5 +1,5 @@
 c = leia_inteiro
-para i de 1 ate c faca
+para i de 1 até c faça
   n = leia_inteiro
   r = raiz(n).inteiro
   a = n - r

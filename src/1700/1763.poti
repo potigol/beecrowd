@@ -26,11 +26,11 @@ natal = [
 ]
 
 var pais := leia_texto
-enquanto nao eof faca
+enquanto não eof faça
   x = natal.selecione(a => a.primeiro == pais)
   escolha x
-    caso a :: as => escreva a.segundo
-    caso _       => escreva "--- NOT FOUND ---"
+    caso (_, b) :: as => escreva b
+    caso _            => escreva "--- NOT FOUND ---"
   fim
   pais := leia_texto
 fim

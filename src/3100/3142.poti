@@ -1,11 +1,11 @@
 var s := leia_texto
-enquanto nao eof faca
+enquanto não eof faça
   x = "@@" + s
   se s.tamanho < 4 e x.inverta.pegue(3).inverta <= "XFD"
     a = x.lista.mapeie(_ - '@')
     n = a[-3] * 676 + a[-2] * 26 + a[-1]
     escreva n
-  senao
+  senão
     escreva "Essa coluna nao existe Tobias!"
   fim
   s := leia_texto

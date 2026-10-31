@@ -1,4 +1,4 @@
-feliz(n: Inteiro): Logico
+feliz(n: Inteiro): Lógico
   s = n.texto.lista.mapeie(_.inteiro - '0').mapeie(c => c * c).injete(0)(_ + _)
   retorne n == 1 ou n == 7 ou (n > 9 e feliz(s))
 fim

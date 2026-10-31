@@ -1,9 +1,9 @@
 t = leia_inteiro
-para i de 1 ate t faca
+para i de 1 até t faça
   n = leia_inteiro
-  se n < 2 entao
+  se n < 2 então
     escreva 2
-  senao
+  senão
     escreva n * (n + 1) div 2 + 1
   fim
 fim

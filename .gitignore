@@ -1,5 +1,5 @@
 *.poti.scala
-/src/*/*[a-z].poti
+/src/*/*[a-e,g-z].poti
 /src/*/*.txt
 /*.poti
 /src/*.poti
@@ -13,11 +13,20 @@
 *.java
 /*.sh
 /*.txt
-*.in
-*.out
+# *.in
+# *.out
 /null/
 /.vscode/
 *.bak
 .*/
+cache/*
+node_modules/*
+!.devcontainer/
+!.devcontainer/**
+!.vscode/
+!.vscode/settings.json
+!/bin/
+!/bin/test_potigol.sh
 /site/*
 /__pycache__/
+

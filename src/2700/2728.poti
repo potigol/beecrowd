@@ -1,5 +1,5 @@
 var s := leia_texto
-enquanto nao eof faca
+enquanto não eof faça
   a = s.minusculo.divida("-")
   cobol = (a[1][1] == 'c' ou a[1][-1] == 'c') e
           (a[2][1] == 'o' ou a[2][-1] == 'o') e

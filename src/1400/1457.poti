@@ -1,8 +1,8 @@
 kfat(n, k: Inteiro, total: BigInt): BigInt =
-  se n > 1 entao kfat(n - k, k, total * n) senao total fim
+  se n > 1 então kfat(n - k, k, total * n) senão total fim
 
 t = leia_inteiro
-para i de 1 ate t faca
+para i de 1 até t faça
   s = leia_texto
   n = s.inteiro
   k = s.descarte_enquanto(_ <> '!').tamanho

@@ -1,7 +1,7 @@
 n = leia_inteiro
 nums = leia_inteiros(" ")
 
-op = se nums[1] > nums[2] entao
+op = se nums[1] > nums[2] então
   (a, b: Inteiro) => a <= b
 senão
   (a, b: Inteiro) => a >= b

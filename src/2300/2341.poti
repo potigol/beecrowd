@@ -3,7 +3,7 @@ n, k = entrada[1], entrada[2]
 xs = leia_inteiros(" ")
 
 var envelopes = Lista.mutável(k, 0)
-para x em xs faca
+para x em xs faça
   envelopes[x] := envelopes[x] + 1
 fim
 

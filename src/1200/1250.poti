@@ -4,8 +4,8 @@ para i de 1 até n faça
   tiros = leia_inteiros(" ")
   ações = leia_texto
   atingido = 
-    para a em tiros.zip(ações)
-      se a.primeiro < 3 e a.segundo == 'S' ou
-         a.primeiro > 2 e a.segundo == 'J' gere 1 fim
+    para (a, b) em tiros.zip(ações)
+      se a < 3 e b == 'S' ou
+         a > 2 e b == 'J' gere 1 fim
   escreva atingido.tamanho
 fim

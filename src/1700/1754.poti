@@ -1,5 +1,5 @@
 n = leia_inteiro
-para i de 1 ate n faça
+para i de 1 até n faça
   xy = leia_textos(" ")
   x, y = BigInt(xy[1]), xy[2].inteiro
   k = (x + y - 1) div y

@@ -1,9 +1,9 @@
-enquanto leia_inteiro > 0 faca
+enquanto leia_inteiro > 0 faça
   p = leia_inteiros(" ")
   var soma, d := 0
-  para a em p faca
+  para a em p faça
     soma := (soma + a) mod 100
-    se soma == 0 entao d := d + 1 fim
+    se soma == 0 então d := d + 1 fim
   fim
   escreva d
 fim

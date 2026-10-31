@@ -1,0 +1,10 @@
+{
+  "code-runner.executorMapByFileExtension": {
+    ".poti": "potigol \"$fullFileName\""
+  },
+  "code-runner.fileDirectoryAsCwd": true,
+  "code-runner.runInTerminal": true,
+  "code-runner.saveFileBeforeRun": true,
+  "code-runner.showRunIconInEditorTitleMenu": true,
+  "code-runner.enableAppInsights": false
+}

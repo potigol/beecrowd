@@ -1,11 +1,11 @@
 var n := leia_inteiro
-enquanto n > 0 faca
-  para i de 1 ate n faca
+enquanto n > 0 faça
+  para i de 1 até n faça
     respostas = leia_inteiros(" ").mapeie(_ <= 127)
     pretos = respostas.selecione(_ == verdadeiro).tamanho
-    se pretos == 1 entao
+    se pretos == 1 então
       escreva "ABCDE"[respostas.posicao(verdadeiro)]
-    senao
+    senão
       escreva "*"
     fim
   fim

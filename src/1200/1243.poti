@@ -1,5 +1,5 @@
 var enunciado := leia_texto
-enquanto nao eof faça
+enquanto não eof faça
   palavras = enunciado
     .divida(" ")
     .mapeie(p => se p.tamanho > 0 e p[-1] == '.' então p.pegue(p.tamanho - 1) senão p fim)

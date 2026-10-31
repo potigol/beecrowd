@@ -1,10 +1,10 @@
 var entrada := leia_texto
-enquanto nao eof faca
-  se entrada.tamanho > 11 entao
+enquanto não eof faça
+  se entrada.tamanho > 11 então
     s = entrada.divida(" ").mapeie(BigInt(_))
     a, b = s[1], s[2]
     escreva (b - a).abs
-  senao
+  senão
     s = entrada.divida(" ").mapeie(_.inteiro)
     a, b = s[1], s[2]
     escreva (b - a).abs

@@ -1,0 +1,21 @@
+var s := leia_texto
+parte = leia_texto
+tam = parte.tamanho
+var achou := verdadeiro
+enquanto achou faça
+  var i := 0
+  achou := falso
+  enquanto (i <= s.tamanho - tam) e não achou faça
+    se s.descarte(i).pegue(tam) == parte então
+      s := s.pegue(i) + s.descarte(i + tam)
+      achou := verdadeiro
+    fim
+    i := i + 1
+  fim
+fim
+
+se s <> "" então
+  escreva s
+senão
+  escreva "null value"
+fim

@@ -1,5 +1,5 @@
 n = leia_inteiro
 t = leia_inteiros(" ").ordene(_ > _)
 var festa := 0
-t.injete(2)((a, b) => se b + a > festa então festa := a + b a + 1 senao a + 1 fim)
+t.injete(2)((a, b) => se b + a > festa então festa := a + b a + 1 senão a + 1 fim)
 escreva festa

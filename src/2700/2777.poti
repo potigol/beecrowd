@@ -9,14 +9,19 @@ matrixMult(a, b: Mat): Mat
   retorne result
 fim
 
-matrixPow(a: Mat, n: BigInt): Mat =
-  se n == 1 então
-    a
-  senão
-    b = matrixPow(a, n div 2)
-    c = matrixMult(b, b)
-    se n mod 2 == 0 então c senão matrixMult(a, c) fim
+matrixPow(a: Mat, n: BigInt): Mat
+  var exp := n
+  var base := a
+  var resp: Mat = [[1, 0, 0], [0, 1, 0], [0, 0, 1]]
+  enquanto exp > 0 faça
+    se exp mod 2 == 1 então
+      resp := matrixMult(resp, base)
+    fim
+    base := matrixMult(base, base)
+    exp := exp div 2
   fim
+  retorne resp
+fim
 
 dabriel(n: BigInt): BigInt
   x0: Mat = [[1, 2, 2]]
@@ -26,11 +31,15 @@ dabriel(n: BigInt): BigInt
 fim
 
 var n := leia_texto
-enquanto não eof faça
+enquanto n <> "" faça
   se n == "0" então
     escreva 1
   senão
     escreva dabriel(BigInt(n))
   fim
-  n := leia_texto
+  se eof então
+    n := ""
+  senão
+    n := leia_texto
+  fim
 fim

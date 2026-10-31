@@ -1,9 +1,9 @@
 var t := leia_inteiro
-enquanto t > 0 faca
+enquanto t > 0 faça
   var melhor := leia_real
-  para i de 2 ate t faca
+  para i de 2 até t faça
     tempo = leia_real
-    se tempo < melhor entao
+    se tempo < melhor então
       melhor := tempo
     fim
   fim

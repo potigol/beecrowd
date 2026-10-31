@@ -1,5 +1,5 @@
 var n := leia_inteiro
-enquanto nao eof faca
+enquanto não eof faça
   list = leia_textos(n)
            .mapeie(_.divida(" "))
            .mapeie(a => (a[1], a[2].inteiro))

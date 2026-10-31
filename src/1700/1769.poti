@@ -10,16 +10,16 @@ verificadores(digitos: Lista[Inteiro])
 fim
 
 var entrada := leia_texto
-enquanto nao eof faça
+enquanto não eof faça
     a123 = entrada.pegue(3)
     a456 = entrada.descarte(4).pegue(3)
     a789 = entrada.descarte(8).pegue(3)
     digitos = "{a123}{a456}{a789}".lista.mapeie(_ - '0')
     v = verificadores(digitos)
     b12 = "{v.primeiro}{v.segundo}"
-    se b12 == entrada.descarte(12) entao
+    se b12 == entrada.descarte(12) então
       escreva "CPF valido"
-    senao
+    senão
       escreva "CPF invalido"
     fim
     entrada := leia_texto

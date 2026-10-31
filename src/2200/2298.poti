@@ -1,0 +1,23 @@
+n = leia_inteiro
+
+para t de 1 até n faça
+    cartas = leia_inteiros(" ")                             # [12, 3, 10, 3, 12]
+               .ordene                                      # [3, 3, 10, 12, 12]
+               .divida_quando(_ <> _)                       # [[3, 3], [10], [12, 12]]
+               .ordene(c => c.tamanho * (-100) + c.cabeça)  # [[3, 3], [12, 12], 10]
+               .mapeie(a => (a.cabeça, a.tamanho))          # [(3, 2), (12, 2), (10, 1)]
+
+    pontos = escolha cartas
+        caso [(a,1), _, _, _, (b,1)] se b == a + 4 => a + 200
+        caso [(a,4), _]                            => a + 180
+        caso [(a,3), (b,2)]                        => a + 160
+        caso [(a,3), _, _]                         => a + 140
+        caso [(a,2), (b,2), _]                     => 3 * b + 2 * a + 20
+        caso [(a,2), _, _, _]                      => a
+        caso _                                     => 0
+    fim
+
+    escreva "Teste " + t
+    escreva pontos
+    escreva ""
+fim 

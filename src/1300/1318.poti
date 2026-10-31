@@ -1,5 +1,5 @@
 var a := leia_inteiro
-enquanto a > 0 faca
+enquanto a > 0 faça
   t = leia_inteiros(" ").ordene.divida_quando((x, y) => x <> y)
   escreva t.selecione(_.tamanho > 1).tamanho
   a := leia_inteiro

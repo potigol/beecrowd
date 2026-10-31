@@ -7,7 +7,7 @@ enquanto linha.tamanho > 1 faça
   fim
 fim
 
-escolha linha[1]
-  caso -1 => escreva "branca"
-  caso  1 => escreva "preta"
+se linha[1] < 0
+  então escreva "branca"
+  senão escreva "preta"
 fim

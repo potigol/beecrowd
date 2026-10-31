@@ -18,7 +18,7 @@ enquanto não achou e i <= n faça
 fim
 linhas := linhas.ordene(_.tamanho)
 acro := "ABCDEFGHIJKLMNOPQRSTUVWXYZ" - acro
-enquanto linhas <> [] e nao achou faça
+enquanto linhas <> [] e não achou faça
   achou := acro - linhas.cabeça == acro
   linhas := linhas.cauda
 fim

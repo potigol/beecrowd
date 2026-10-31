@@ -1,5 +1,5 @@
 p = para i de 1 até 2 gere
-  v = leia(" ")
+  v = leia_textos(" ")
   v[2].inteiro * v[3].real
 fim
 valor = p[1] + p[2]

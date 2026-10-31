@@ -1,0 +1,17 @@
+valido(a, b: Caractere) =
+  ((a == '1' ou a == '3') e (b == '4' ou b == '5')) ou
+  ((a == '4' ou a == '6') e (b == '2' ou b == '3')) ou
+  ((a == '5' ou a == '7') e (b == '8')) ou
+  ((a == '8') e (b == '6' ou b == '7'))
+
+validar(s: Texto, n: Inteiro): Lógico =
+  n == 1 ou valido(s[n-1], s[n]) e validar(s, n - 1)
+
+var i := 1
+var a := leia_texto
+enquanto a <> "0" faça
+  v = a[1] == '1' e a[-1] == '2' e validar(a, a.tamanho)
+  escreva "{i}. {se v então "VALID" senão "NOT" fim}"
+  i := i + 1
+  a := leia_texto
+fim

@@ -1,14 +1,14 @@
 entrada = leia_inteiros(" ")
 n, m = entrada[1], entrada[2]
-var d := leia_inteiros(" ").mutavel
+var d := leia_inteiros(" ").mutável
 var falta := m - n
 var soma := d.injete(0)(_ + _)
 var i := 0
-enquanto falta > 0 faca
-  se d.divida_quando(_ <> _).tamanho == 1 entao
+enquanto falta > 0 faça
+  se d.divida_quando(_ <> _).tamanho == 1 então
     i := i + (falta / d.cabeca).teto.inteiro
     falta := 0
-  senao
+  senão
     proximo = (soma / 30).teto.inteiro
     soma := soma - d.cabeca + proximo
     falta := falta - proximo

@@ -1,7 +1,0 @@
-h = leia_inteiros(" ")[2]
-a = leia_inteiros(" ")
-var brinquedos := 0
-para x em a se x <= h faça
-  brinquedos := brinquedos + 1
-fim
-escreva brinquedos

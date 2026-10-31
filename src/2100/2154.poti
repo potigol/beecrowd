@@ -1,10 +1,10 @@
-expoente(n: Inteiro) = se n > 1 entao n.texto senao "" fim
+expoente(n: Inteiro) = se n > 1 então n.texto senão "" fim
 
 var t := leia_inteiro
 enquanto t > 0 faça
   polinomio = leia_textos(" +").selecione(_ <> "").mapeie(termo =>
                 termo.divida("x").mapeie(_.inteiro)
-              )
+             )
   derivada = polinomio.mapeie(termo => (termo[1] * termo[2], termo[2] - 1))
   resposta = derivada.mapeie(termo => "{termo.primeiro}x{expoente(termo.segundo)}").junte(" + ")
   escreva resposta

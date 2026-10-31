@@ -1,6 +1,6 @@
 pedacos(lado: Inteiro): Inteiro =
-  se lado < 2 entao 1
-  senao
+  se lado < 2 então 1
+  senão
     a = lado div 2
     4 * pedacos(a)
   fim

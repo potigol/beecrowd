@@ -12,8 +12,8 @@ codigos(linhas: Lista[Texto]) =
 num = codigos(numeros)
 entrada = codigos(leia_textos(5))
 beer = para a em entrada gere num.posição(a) - 1 fim.mapeie(_.texto).junte("")
-se beer.contem('-') ou beer.inteiro mod 6 <> 0 então
+se beer.contém('-') ou beer.inteiro mod 6 <> 0 então
   escreva "BOOM!!"
-senao
+senão
   escreva "BEER!!"
 fim

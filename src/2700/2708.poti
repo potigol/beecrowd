@@ -1,11 +1,11 @@
 var entrada := leia_textos(" ")
 var turistas, jipes := 0
-enquanto entrada[1] <> "ABEND" faca
+enquanto entrada[1] <> "ABEND" faça
   j, t = entrada[1], entrada[2].inteiro
-  se j == "SALIDA" entao
+  se j == "SALIDA" então
     jipes := jipes + 1
     turistas := turistas + t
-  senao
+  senão
     jipes := jipes - 1
     turistas := turistas - t
   fim

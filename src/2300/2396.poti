@@ -1,5 +1,5 @@
 n  = leia_inteiro
-tempos = para i de 1 ate n gere leia_inteiros(" ").injete(0)(_ + _) fim
+tempos = para i de 1 até n gere leia_inteiros(" ").injete(0)(_ + _) fim
 primeiros = tempos.ordene
 escreva tempos.posicao(primeiros[1])
 escreva tempos.posicao(primeiros[2])

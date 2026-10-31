@@ -6,9 +6,8 @@ trapezio = (a + b) / 2 * c
 quadrado = b * b
 retangulo = a * b
 
-escreva "TRIANGULO: {triangulo formato "%.3f"}
-        |CIRCULO: {circulo formato "%.3f"}
-        |TRAPEZIO: {trapezio formato "%.3f"}
-        |QUADRADO: {quadrado formato "%.3f"}
-        |RETANGULO: {retangulo formato "%.3f"}"
-
+escreva "TRIANGULO: {triangulo formato "%.3f"}"
+escreva "CIRCULO: {circulo formato "%.3f"}"
+escreva "TRAPEZIO: {trapezio formato "%.3f"}"
+escreva "QUADRADO: {quadrado formato "%.3f"}"
+escreva "RETANGULO: {retangulo formato "%.3f"}"

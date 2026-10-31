@@ -1,15 +1,15 @@
 lados = leia_inteiros(" ").ordene
 a, b, c = lados[1], lados[2], lados[3]
-se a + b > c entao
+se a + b > c então
   imprima "Valido-"
-  escreva se a == c entao
+  escreva se a == c então
     "Equilatero"
-  senaose a == b ou b == c entao
+  senãose a == b ou b == c então
     "Isoceles"
-  senao
+  senão
     "Escaleno"
   fim
-  escreva "Retangulo: {se a * a + b * b == c * c entao "S" senao "N" fim}"
-senao
+  escreva "Retangulo: {se a * a + b * b == c * c então "S" senão "N" fim}"
+senão
   escreva "Invalido"
 fim

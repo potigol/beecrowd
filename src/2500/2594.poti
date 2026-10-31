@@ -1,5 +1,5 @@
 n = leia_inteiro
-para i de 1 ate n faca
+para i de 1 até n faça
   texto = leia_textos(" ")
   palavra = leia_texto
   var c := 0
@@ -9,9 +9,9 @@ para i de 1 ate n faca
     [p, t]
   fim
   b = letras.selecione(p => p[1] == palavra).mapeie(p => p[2])
-  se b.tamanho > 0 entao
+  se b.tamanho > 0 então
     escreva b.junte(" ")
-  senao
+  senão
     escreva -1
   fim
 fim

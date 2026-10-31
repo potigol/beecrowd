@@ -4,13 +4,13 @@ limpe(lista: Lista[Texto]) =
 var yes, no := Lista(0, "")
 var amigo := ""
 var entrada := leia_textos(" ")
-enquanto entrada[1] <> "FIM" faca
-  se entrada[2] == "YES" entao
+enquanto entrada[1] <> "FIM" faça
+  se entrada[2] == "YES" então
     yes := entrada[1] :: yes
-    se entrada[1].tamanho > amigo.tamanho entao
+    se entrada[1].tamanho > amigo.tamanho então
       amigo := entrada[1]
     fim
-  senao
+  senão
     no := entrada[1] :: no
   fim
   entrada := leia_textos(" ")

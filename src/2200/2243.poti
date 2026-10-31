@@ -1,4 +1,4 @@
-min(x, y: Inteiro) = se x < y então x senao y fim
+min(x, y: Inteiro) = se x < y então x senão y fim
 
 n = leia_inteiro
 var a := leia_inteiros(" ").mutável

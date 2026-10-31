@@ -10,7 +10,7 @@ verificadores(digitos: Lista[Inteiro])
 fim
 
 var entrada := leia_texto
-enquanto nao eof faça
+enquanto não eof faça
     digitos = entrada.lista.mapeie(_ - '0')
     v = verificadores(digitos)
     a123 = entrada.pegue(3)

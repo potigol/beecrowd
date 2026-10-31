@@ -6,7 +6,7 @@ para i de 1 até n faça
   var p, i, diff := 0, 0, 100
   para x em nums faça
     i := i + 1
-    se (s - x).abs < diff entao
+    se (s - x).abs < diff então
       p := i
       diff := (s - x).abs
     fim

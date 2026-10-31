@@ -1,6 +1,5 @@
 n = leia_inteiro
-c = Lista.mutável(n, 0)
-para i de 1 até n faça c[i] := leia_inteiro fim
+c = Lista.mutável(n, leia_inteiro)
 
 k = leia_inteiro
 
@@ -13,6 +12,6 @@ enquanto min < max faça
     min := min + 1
   senão
     escreva "{c[min]} {c[max]}"
-    min := max # terminar
+    min := max
   fim
 fim

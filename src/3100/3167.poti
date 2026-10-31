@@ -1,4 +1,4 @@
-contem(texto, palavra: Texto) =
+contém(texto, palavra: Texto) =
     texto.contains(palavra) ou texto.contains(palavra.inverta)
   
 entrada = leia_inteiros(" ")
@@ -6,18 +6,18 @@ n, m, p = entrada[1], entrada[2], entrada[3]
 palavras = leia_textos(n).mapeie(_.minusculo)
 letras = leia_textos(m).mapeie(_.minusculo).junte("")
 
-secundaria = para i de 1 ate m gere letras[i * (m - 1) + 1] fim.junte("")
-superior = para i de 1 ate m-6 gere para j de 1 ate m-i gere letras[j * (m - 1) - i + 1] fim.junte("") fim.junte("|")
-inferior = para i de 1 ate m-6 gere para j de 1 ate m-i gere letras[(m - j) * m + i + j] fim.junte("") fim.junte("|")
+secundaria = para i de 1 até m gere letras[i * (m - 1) + 1] fim.junte("")
+superior = para i de 1 até m-6 gere para j de 1 até m-i gere letras[j * (m - 1) - i + 1] fim.junte("") fim.junte("|")
+inferior = para i de 1 até m-6 gere para j de 1 até m-i gere letras[(m - j) * m + i + j] fim.junte("") fim.junte("|")
 
-para p em palavras faca
-    se contem(secundaria, p) entao
+para p em palavras faça
+    se contém(secundaria, p) então
         escreva "1 Palavra {'"'}{p}{'"'} na diagonal secundaria"
-    senaose contem(superior, p) entao
+    senãose contém(superior, p) então
         escreva "2 Palavra {'"'}{p}{'"'} acima da diagonal secundaria"
-    senaose contem(inferior, p) entao
+    senãose contém(inferior, p) então
         escreva "3 Palavra {'"'}{p}{'"'} abaixo da diagonal secundaria"
-    senao
+    senão
         escreva "4 Palavra {'"'}{p}{'"'} inexistente"
     fim
 fim

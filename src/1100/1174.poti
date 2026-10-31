@@ -1,4 +1,6 @@
 a = leia_reais(100)
-para i de 1 até 100 se a[i] <= 10.0   faça
-  escreva "A[{i-1}] = {a[i] formato "%.1f"}"
+para i de 1 até 100 faça
+  se a[i] <= 10.0 então
+    escreva "A[{i-1}] = {a[i] formato "%.1f"}"
+  fim
 fim

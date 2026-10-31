@@ -1,5 +1,5 @@
 bin2dec(s: Texto): Inteiro =
-  para i de 1 ate s.tamanho se s[i] == '1'
+  para i de 1 até s.tamanho se s[i] == '1'
     gere (2 ^ (i - 1)).inteiro
   fim.injete(0)(_ + _)
 
@@ -9,7 +9,7 @@ mdc(a, b: Inteiro): Inteiro = se b == 0
 fim
 
 t = leia_inteiro
-para i de 1 ate t faça
+para i de 1 até t faça
   a, b = bin2dec(leia_texto.inverta)
 
   se mdc(a, b) > 1 

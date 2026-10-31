@@ -1,16 +1,16 @@
-sal = leia_real
-var novosal := 0.0
-se sal > 0
-	novosal := sal * 1.15
-senaose sal > 400
-	novosal := sal * 1.12
-senaose sal > 800
-	novosal := sal * 1.10
-senaose sal > 1200
-	novosal := sal * 1.07
-senaose sal > 2000
-	novosal := sal * 1.04
+salario = leia_real
+
+percentual = escolha salario
+  caso s se s <=  400.00 => 15
+  caso s se s <=  800.00 => 12
+  caso s se s <= 1200.00 => 10
+  caso s se s <= 2000.00 =>  7
+  caso _                 =>  4
 fim
-escreva ("Novo salario: {novosal formato "%.2f"}")
-escreva ("Reajuste ganho: {novosal-sal formato "%.2f"}")
-escreva ("'Em percentual: {(novosal/sal-1)*100 formato "%.2f"} %")
+
+reajuste = salario * percentual / 100
+novo_salario = salario + reajuste
+
+escreva "Novo salario: {novo_salario formato "%.2f"}"
+escreva "Reajuste ganho: {reajuste formato "%.2f"}"
+escreva "Em percentual: {percentual} %"

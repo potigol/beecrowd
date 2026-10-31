@@ -1,5 +1,5 @@
 var a := leia_texto
-enquanto nao eof faça
+enquanto não eof faça
   escolha a[1]
     caso 'e' => escreva "ingles"
     caso 'd' => escreva "frances"

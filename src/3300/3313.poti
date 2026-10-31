@@ -1,16 +1,16 @@
-rot(a: Texto, f: Logico)
+rot(a: Texto, f: Lógico)
   tam = a.tamanho
   var x := a + a
   var valor := x.pegue(tam)
-  enquanto x.tamanho >= tam faca
+  enquanto x.tamanho >= tam faça
     m = x.pegue(tam)
-    se f e m < valor ou nao f e m > valor entao
+    se f e m < valor ou não f e m > valor então
       valor := m
     fim
     primeiro = valor[1]
-    se f entao
+    se f então
       x := x.cauda.descarte_enquanto(_ > primeiro)
-    senao
+    senão
       x := x.cauda.descarte_enquanto(_ < primeiro)
     fim
   fim
@@ -19,7 +19,7 @@ fim
 
 var n := 0
 var s := leia_texto
-enquanto s <> "*" faca
+enquanto s <> "*" faça
   menor = rot(s, verdadeiro)
   maior = rot(s, falso)
   n := n + 1

@@ -1,15 +1,15 @@
 var entrada := leia_texto
-enquanto nao eof faca
+enquanto não eof faça
   a = entrada.divida(" ").mapeie(_.inteiro)
   n, m = a[1], a[2]
   tabuleiro = para i de 1 até n gere leia_inteiros(" ") fim
-  para i de 1 ate n faca
-    para j de 1 ate m faca
-      soma = se tabuleiro[i][j] == 1 entao 9 senão
-        (se i > 1 entao tabuleiro[i-1][j] senao 0 fim) +
-        (se j > 1 entao tabuleiro[i][j-1] senao 0 fim) +
-        (se i < n entao tabuleiro[i+1][j] senao 0 fim) +
-        (se j < m entao tabuleiro[i][j+1] senao 0 fim)
+  para i de 1 até n faça
+    para j de 1 até m faça
+      soma = se tabuleiro[i][j] == 1 então 9 senão
+        (se i > 1 então tabuleiro[i-1][j] senão 0 fim) +
+        (se j > 1 então tabuleiro[i][j-1] senão 0 fim) +
+        (se i < n então tabuleiro[i+1][j] senão 0 fim) +
+        (se j < m então tabuleiro[i][j+1] senão 0 fim)
       fim
       imprima soma
     fim

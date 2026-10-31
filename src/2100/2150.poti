@@ -1,8 +1,8 @@
 var vogais, entrada := leia_texto
-enquanto nao eof faca
+enquanto não eof faça
   var linha := entrada
   var diff := linha - vogais
-  enquanto diff <> linha faca
+  enquanto diff <> linha faça
     linha := linha - vogais
     diff := linha - vogais
   fim

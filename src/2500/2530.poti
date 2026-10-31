@@ -10,7 +10,7 @@ cola(n, m: Inteiro, juan, ricardinho: Lista[Inteiro]): Lógico =
   fim
 
 var nm := leia_texto
-enquanto nao eof faça
+enquanto não eof faça
   n = nm.divida(" ")[1].inteiro
   m = nm.divida(" ")[2].inteiro
   juan, ricardinho = leia_inteiros(" ")

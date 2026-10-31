@@ -1,0 +1,19 @@
+def bin2dec(bin: Lista[Caractere]) =
+  bin.injete(0)((dec, c) => 2 * dec + (c - '0'))
+
+def sub(s: Lista[Caractere], n, k: Inteiro, res: Lista[Inteiro]): Lista[Inteiro] =
+  se n >= 0
+      então sub(s.cauda, n - 1, k, bin2dec(s.pegue(k)) :: res)
+      senão res
+  fim
+
+distintos(s: Lista[Inteiro]) = Lista(s._lista.distinct)
+
+def resolver(s: Lista[Caractere], n, k: Inteiro): Inteiro =
+    se distintos(sub(s, n - k, k, [])).tamanho < 2 ^ k
+        então k
+        senão resolver(s, n, k + 1)
+    fim
+
+s = leia_texto
+escreva resolver(s.lista, s.tamanho, 1)

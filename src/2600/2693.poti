@@ -1,14 +1,14 @@
 f = (a, b: (Texto, Texto, Inteiro)) =>
-  se a.terceiro <> b.terceiro entao
+  se a.terceiro <> b.terceiro então
     a.terceiro < b.terceiro
-  senaose a.segundo <> b.segundo entao
+  senãose a.segundo <> b.segundo então
     a.segundo < b.segundo
-  senao
+  senão
     a.primeiro < b. primeiro
   fim
 
 var q := leia_inteiro
-enquanto q > 0 faca
+enquanto q > 0 faça
   alunos = Lista(q, leia_textos(" "))
              .mapeie(a => (a[1], a[2], a[3].inteiro))
   ordem = alunos.ordene(f)

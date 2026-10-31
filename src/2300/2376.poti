@@ -1,22 +1,22 @@
-jogos = para i de 1 ate 15 gere
+jogos = para i de 1 até 15 gere
   a = leia_inteiros(" ")
   a[1] > a[2]
 fim
 
 jogo1 =
-  se jogos[15] entao
-    se jogos[13] entao
-      se jogos[9] entao 1 senao 2 fim
-    senao
-      se jogos[10] entao 3 senao 4 fim
+  se jogos[15] então
+    se jogos[13] então
+      se jogos[9] então 1 senão 2 fim
+    senão
+      se jogos[10] então 3 senão 4 fim
     fim
-  senao
-    se jogos[14] entao
-      se jogos[11] entao 5 senao 6 fim
-    senao
-      se jogos[12] entao 7 senao 8 fim
+  senão
+    se jogos[14] então
+      se jogos[11] então 5 senão 6 fim
+    senão
+      se jogos[12] então 7 senão 8 fim
     fim
   fim
 
-campeao = se jogos[jogo1] entao jogo1 * 2 - 1 senao jogo1 * 2 fim
+campeao = se jogos[jogo1] então jogo1 * 2 - 1 senão jogo1 * 2 fim
 escreva "ABCDEFGHIJKLMNOP"[campeao]

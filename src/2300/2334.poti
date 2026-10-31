@@ -1,8 +1,8 @@
 var entrada := leia_texto
-enquanto entrada <> "-1" faca
-  se entrada == "0" entao
+enquanto entrada <> "-1" faça
+  se entrada == "0" então
     escreva 0
-  senao
+  senão
     escreva BigInt(entrada) - 1
   fim
   entrada := leia_texto

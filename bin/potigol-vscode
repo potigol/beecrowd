@@ -1,0 +1,41 @@
+#!/usr/bin/env bash
+
+file="$1"
+output=$(potigol "$file" 2>&1)
+status=$?
+
+printf '%s\n' "$output"
+
+line=$(printf '%s\n' "$output" |
+    sed -nE 's/^[[:space:]]*linha:[[:space:]]*([0-9]+)[[:space:]]*$/\1/p' |
+    tail -n 1)
+
+if [[ -n "$line" ]]; then
+    message=$(printf '%s\n' "$output" | awk '
+        /^[[:space:]]*linha:[[:space:]]*[0-9]+[[:space:]]*$/ {
+            for (i = 1; i <= count; i++) {
+                if (i > 1) printf " "
+                printf "%s", block[i]
+            }
+            exit
+        }
+        /^[[:space:]]*$/ {
+            delete block
+            count = 0
+            next
+        }
+        {
+            text = $0
+            sub(/^[[:space:]]+/, "", text)
+            sub(/[[:space:]]+$/, "", text)
+            if (length(text)) block[++count] = text
+        }
+    ')
+    if [[ -z "$message" ]]; then
+        message="Falha de compilação Potigol"
+    fi
+    printf '%s:%s: error: %s\n' "$file" "$line" "$message"
+    exit 1
+fi
+
+exit "$status"

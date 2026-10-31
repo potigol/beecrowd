@@ -1,0 +1,19 @@
+pot2(n, r: BigInt): BigInt = 
+    se n < 1
+        então r
+        senão pot2(n - 1, 2 * r)
+    fim
+
+def ack(m, n: BigInt): BigInt = 
+    se      m <= 1 então n + m + 1
+    senãose m == 2 então 2 * n + 3
+    senãose m == 3 então 8 * (pot2(n, 1) - 1) + 5
+    senãose n == 0 então ack(m - 1, 1)
+                   senão ack(m - 1, ack(m, n - 1))
+    fim
+
+t = leia_inteiro
+para i de 1 até t faça
+    a = leia_inteiros(" ")
+    escreva ack(a[1], a[2])
+fim

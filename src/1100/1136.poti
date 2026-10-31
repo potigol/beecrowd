@@ -1,25 +1,25 @@
 var a := leia_inteiros(" ")
-enquanto a[1] > 0 faca
+enquanto a[1] > 0 faça
   n, b = a[1], a[2]
-  var p := Lista(n, 0) #.mutavel
+  var p := Lista(n, 0) #.mutável
   var cont := 0
   nums = leia_inteiros(" ").ordene
   var i, j := 1, nums.tamanho
-  enquanto cont < n e i < nums.tamanho faca
+  enquanto cont < n e i < nums.tamanho faça
     x = nums[j] - nums[i]
-    se p[x] == 0 entao
+    se p[x] == 0 então
       p[x] := 1
       cont := cont + 1
     fim
     j := j - 1
-    se j == i entao
+    se j == i então
       i := i + 1
       j := nums.tamanho
     fim
   fim
-  se cont == n entao
+  se cont == n então
     escreva "Y"
-  senao
+  senão
     escreva "N"
   fim
   a := leia_inteiros(" ")

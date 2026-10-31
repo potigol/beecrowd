@@ -1,5 +1,5 @@
 c = leia_inteiro
-para i de 1 ate c faca
+para i de 1 até c faça
   s = leia_texto
   p = s.posicao('m')
   a = p - 2

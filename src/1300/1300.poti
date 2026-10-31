@@ -1,8 +1,8 @@
 var angulo := leia_inteiro
-enquanto nao eof faça
-  se angulo mod 6 == 0 entao
+enquanto não eof faça
+  se angulo mod 6 == 0 então
     escreva "Y"
-  senao
+  senão
     escreva "N"
   fim
   angulo := leia_inteiro

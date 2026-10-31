@@ -1,8 +1,8 @@
 n = leia_inteiro
-para i de 1 ate n faca
+para i de 1 até n faça
   s = leia_textos(" ")
   a, b = s[1], s[2]
-  se a.descarte(a.tamanho - b.tamanho) == b entao
+  se a.descarte(a.tamanho - b.tamanho) == b então
     escreva "encaixa"
   senão
     escreva "nao encaixa"

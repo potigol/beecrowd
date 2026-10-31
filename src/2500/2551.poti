@@ -1,10 +1,10 @@
 var n := leia_inteiro
-enquanto n > 0 faca
+enquanto n > 0 faça
   var maior := 0.0
-  para i de 1 ate n faca
+  para i de 1 até n faça
     a = leia_inteiros(" ")
     t, d = a[1], a[2]
-    se d / t > maior entao
+    se d / t > maior então
       escreva i
       maior := d / t
     fim

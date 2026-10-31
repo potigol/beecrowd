@@ -3,10 +3,10 @@ n, c = a[1], a[2]
 var excedida := "N"
 var pessoas := 0
 var i := 0
-enquanto i < n faca
+enquanto i < n faça
   b = leia_inteiros(" ")
   pessoas := pessoas + b[2] - b[1]
-  se pessoas > c entao
+  se pessoas > c então
     excedida := "S"
     i := n
   fim

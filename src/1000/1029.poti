@@ -1,4 +1,3 @@
-
 var fib := [1, 1]
 enquanto fib.tamanho < 38 faça
   fib := (fib[1] + fib[2]) :: fib

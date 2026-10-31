@@ -1,0 +1,16 @@
+def quantidade_de_prefixos_comuns(linhas: Lista[Texto]): Inteiro = escolha linhas
+    caso [] => 0
+    caso [a] => 0
+    caso t1::as =>
+      t2 = as.cabeça.lista
+      quantidade_de_prefixos_comuns(as) +
+          t1.lista.zip(t2).pegue_enquanto(a => a.primeiro == a.segundo).tamanho
+fim
+
+var n := leia_inteiro
+enquanto não eof faça
+    a = Lista(n, leia_texto).ordene
+    quantidade = quantidade_de_prefixos_comuns(a)
+    escreva quantidade
+    n := leia_inteiro
+fim

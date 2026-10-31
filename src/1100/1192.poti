@@ -1,12 +1,12 @@
 n = leia_inteiro
-para i de 1 ate n faca
+para i de 1 até n faça
   a = leia_texto
   x = a[1] - '0'
   y = a[3] - '0'
   c = a[2]
-  se x == y entao
+  se x == y então
     escreva x * x
-  senaose c >= 'a' e c <= 'z' entao
+  senãose c >= 'a' e c <= 'z' então
     escreva x + y
   senão
     escreva y - x

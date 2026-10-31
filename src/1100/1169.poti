@@ -1,8 +1,8 @@
 n = leia_inteiro
-para i de 1 ate n faca
+para i de 1 até n faça
   x = leia_inteiro
   var trigo := BigInt(1)
-  para j de 1 ate x faca
+  para j de 1 até x faça
     trigo := trigo * 2
   fim
   escreva "{trigo div 12000} kg"
