@@ -11,6 +11,7 @@
 /src/*/*.scala
 /src/*.scala
 *.java
+!/bin/Build2.py
 /*.sh
 /*.txt
 # *.in

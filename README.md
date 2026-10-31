@@ -31,7 +31,7 @@
 - Soluções reais e aceitas no Beecrowd.
 - Estrutura simples para estudar e localizar exemplos rapidamente.
 - Organização por categoria, faixa e competição.
-- Geração automática dos índices com scripts em Scala.
+- Geração automática dos índices com scripts em Scala e Python.
 
 ## Problemas por categoria
 
@@ -89,5 +89,5 @@ test_potigol 1001
 2. Escolha um problema ainda não resolvido.
 3. Adicione sua solução em src/xx00/xxxx.poti.
 4. Opcional: teste localmente com ./potigol2scala.sh ../src/1000/1000.poti.
-5. Opcional: atualize os índices com scala Build.scala na pasta bin.
+5. Opcional: atualize os índices com `scala Build.scala` ou `python3 Build2.py` na pasta `bin`.
 6. Abra um pull request.
