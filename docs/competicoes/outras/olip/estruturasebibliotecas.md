@@ -4,11 +4,11 @@
 
 ## Problemas resolvidos
 
-- [x] [1874](https://resources.beecrowd.com/repository/UOJ_1874.html) - [Empurrando Blocos](https://github.com/potigol/beecrowd/blob/master/src/1800/1874.poti)
-- [x] [2136](https://resources.beecrowd.com/repository/UOJ_2136.html) - [Amigos do Habay](https://github.com/potigol/beecrowd/blob/master/src/2100/2136.poti)
-- [x] [2654](https://resources.beecrowd.com/repository/UOJ_2654.html) - [Godofor](https://github.com/potigol/beecrowd/blob/master/src/2600/2654.poti)
-- [x] [2872](https://resources.beecrowd.com/repository/UOJ_2872.html) - [Protocolo TCP/IP](https://github.com/potigol/beecrowd/blob/master/src/2800/2872.poti)
-- [x] [2958](https://resources.beecrowd.com/repository/UOJ_2958.html) - [O Rolê Bad Vibes](https://github.com/potigol/beecrowd/blob/master/src/2900/2958.poti)
+- [x] [1874](https://resources.beecrowd.com/repository/UOJ_1874.html) - [Empurrando Blocos](https://potigol.github.io/beecrowd/problemas/1800/#1874-empurrando-blocos)
+- [x] [2136](https://resources.beecrowd.com/repository/UOJ_2136.html) - [Amigos do Habay](https://potigol.github.io/beecrowd/problemas/2100/#2136-amigos-do-habay)
+- [x] [2654](https://resources.beecrowd.com/repository/UOJ_2654.html) - [Godofor](https://potigol.github.io/beecrowd/problemas/2600/#2654-godofor)
+- [x] [2872](https://resources.beecrowd.com/repository/UOJ_2872.html) - [Protocolo TCP/IP](https://potigol.github.io/beecrowd/problemas/2800/#2872-protocolo-tcpip)
+- [x] [2958](https://resources.beecrowd.com/repository/UOJ_2958.html) - [O Rolê Bad Vibes](https://potigol.github.io/beecrowd/problemas/2900/#2958-o-role-bad-vibes)
 
 ## Problemas não resolvidos
 

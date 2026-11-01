@@ -4,9 +4,9 @@
 
 ## Problemas resolvidos
 
-- [x] [1242](https://resources.beecrowd.com/repository/UOJ_1242.html) - [Ácido Ribonucleico Alienígena](https://github.com/potigol/beecrowd/blob/master/src/1200/1242.poti)
-- [x] [1430](https://resources.beecrowd.com/repository/UOJ_1430.html) - [Composição de Jingles](https://github.com/potigol/beecrowd/blob/master/src/1400/1430.poti)
-- [x] [1709](https://resources.beecrowd.com/repository/UOJ_1709.html) - [Baralho Embaralhado](https://github.com/potigol/beecrowd/blob/master/src/1700/1709.poti)
+- [x] [1242](https://resources.beecrowd.com/repository/UOJ_1242.html) - [Ácido Ribonucleico Alienígena](https://potigol.github.io/beecrowd/problemas/1200/#1242-acido-ribonucleico-alienigena)
+- [x] [1430](https://resources.beecrowd.com/repository/UOJ_1430.html) - [Composição de Jingles](https://potigol.github.io/beecrowd/problemas/1400/#1430-composicao-de-jingles)
+- [x] [1709](https://resources.beecrowd.com/repository/UOJ_1709.html) - [Baralho Embaralhado](https://potigol.github.io/beecrowd/problemas/1700/#1709-baralho-embaralhado)
 
 ## Problemas não resolvidos
 

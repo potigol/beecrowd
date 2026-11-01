@@ -4,10 +4,10 @@
 
 ## 2024
 
-- [x] [4013](https://resources.beecrowd.com/repository/UOJ_4013.html) - [~~Alice e as Canções e Iara~~](https://github.com/potigol/beecrowd/blob/master/src/4000/4013.poti) *Iniciante*
+- [x] [4013](https://resources.beecrowd.com/repository/UOJ_4013.html) - [~~Alice e as Canções e Iara~~](https://potigol.github.io/beecrowd/problemas/4000/#4013-alice-e-as-cancoes-e-iara) *Iniciante*
 - [ ] [4014](https://resources.beecrowd.com/repository/UOJ_4014.html) - ~~Boto e as Festas~~ *Ad-Hoc*
 - [ ] [4015](https://resources.beecrowd.com/repository/UOJ_4015.html) - ~~Caboclo-d'Água e o Biscoito Confeitado~~ *Ad-Hoc*
-- [x] [4016](https://resources.beecrowd.com/repository/UOJ_4016.html) - [~~Deus-serpente M'boi as Cataratas do Iguaçu~~](https://github.com/potigol/beecrowd/blob/master/src/4000/4016.poti) *Ad-Hoc*
+- [x] [4016](https://resources.beecrowd.com/repository/UOJ_4016.html) - [~~Deus-serpente M'boi as Cataratas do Iguaçu~~](https://potigol.github.io/beecrowd/problemas/4000/#4016-deus-serpente-mboi-as-cataratas-do-iguacu) *Ad-Hoc*
 - [ ] [4017](https://resources.beecrowd.com/repository/UOJ_4017.html) - ~~Esquecimento e o Mapa do Boitatá~~ *Ad-Hoc*
 - [ ] [4018](https://resources.beecrowd.com/repository/UOJ_4018.html) - ~~Folguedo do Boi de Mamão e o Apetite da Bernunça~~ *Ad-Hoc*
 - [ ] [4019](https://resources.beecrowd.com/repository/UOJ_4019.html) - ~~Gosto Pelo Tabacoe o Saci Pererê~~ *Ad-Hoc*
@@ -22,9 +22,9 @@
 ## 2023
 
 - [ ] [3453](https://resources.beecrowd.com/repository/UOJ_3453.html) - Carlinhos Adora Problemas *Ad-Hoc*
-- [x] [3454](https://resources.beecrowd.com/repository/UOJ_3454.html) - [Alice no País do Jogo da Velha](https://github.com/potigol/beecrowd/blob/master/src/3400/3454.poti) *Ad-Hoc*
-- [x] [3455](https://resources.beecrowd.com/repository/UOJ_3455.html) - [Banco Nacional de Questões](https://github.com/potigol/beecrowd/blob/master/src/3400/3455.poti) *Ad-Hoc*
-- [x] [3456](https://resources.beecrowd.com/repository/UOJ_3456.html) - [Divisibilidade por 7](https://github.com/potigol/beecrowd/blob/master/src/3400/3456.poti) *Ad-Hoc*
+- [x] [3454](https://resources.beecrowd.com/repository/UOJ_3454.html) - [Alice no País do Jogo da Velha](https://potigol.github.io/beecrowd/problemas/3400/#3454-alice-no-pais-do-jogo-da-velha) *Ad-Hoc*
+- [x] [3455](https://resources.beecrowd.com/repository/UOJ_3455.html) - [Banco Nacional de Questões](https://potigol.github.io/beecrowd/problemas/3400/#3455-banco-nacional-de-questoes) *Ad-Hoc*
+- [x] [3456](https://resources.beecrowd.com/repository/UOJ_3456.html) - [Divisibilidade por 7](https://potigol.github.io/beecrowd/problemas/3400/#3456-divisibilidade-por-7) *Ad-Hoc*
 - [ ] [3457](https://resources.beecrowd.com/repository/UOJ_3457.html) - Estimando Pedras no Pote *Ad-Hoc*
 - [ ] [3458](https://resources.beecrowd.com/repository/UOJ_3458.html) - Fabricação de Proteínas *Ad-Hoc*
 - [ ] [3459](https://resources.beecrowd.com/repository/UOJ_3459.html) - GoldMagikarp *Ad-Hoc*
@@ -32,19 +32,19 @@
 - [ ] [3461](https://resources.beecrowd.com/repository/UOJ_3461.html) - Interferência em Luzes Hexagonais *Ad-Hoc*
 - [ ] [3462](https://resources.beecrowd.com/repository/UOJ_3462.html) - Jogando Discos de Hanói *Ad-Hoc*
 - [ ] [3463](https://resources.beecrowd.com/repository/UOJ_3463.html) - Kempner et al. e suas Potências *Ad-Hoc*
-- [x] [3464](https://resources.beecrowd.com/repository/UOJ_3464.html) - [Latência na Rede](https://github.com/potigol/beecrowd/blob/master/src/3400/3464.poti) *Ad-Hoc*
+- [x] [3464](https://resources.beecrowd.com/repository/UOJ_3464.html) - [Latência na Rede](https://potigol.github.io/beecrowd/problemas/3400/#3464-latencia-na-rede) *Ad-Hoc*
 
 ## 2022
 
-- [x] [3412](https://resources.beecrowd.com/repository/UOJ_3412.html) - [Avaliações de Algoritmos](https://github.com/potigol/beecrowd/blob/master/src/3400/3412.poti) *Ad-Hoc*
+- [x] [3412](https://resources.beecrowd.com/repository/UOJ_3412.html) - [Avaliações de Algoritmos](https://potigol.github.io/beecrowd/problemas/3400/#3412-avaliacoes-de-algoritmos) *Ad-Hoc*
 - [ ] [3413](https://resources.beecrowd.com/repository/UOJ_3413.html) - Baita Desafio Complexo *Ad-Hoc*
 - [ ] [3414](https://resources.beecrowd.com/repository/UOJ_3414.html) - Chimambu *Ad-Hoc*
 - [ ] [3415](https://resources.beecrowd.com/repository/UOJ_3415.html) - Ditados *Ad-Hoc*
-- [x] [3416](https://resources.beecrowd.com/repository/UOJ_3416.html) - [Eu Quero Cafééé](https://github.com/potigol/beecrowd/blob/master/src/3400/3416.poti) *Ad-Hoc*
+- [x] [3416](https://resources.beecrowd.com/repository/UOJ_3416.html) - [Eu Quero Cafééé](https://potigol.github.io/beecrowd/problemas/3400/#3416-eu-quero-cafeee) *Ad-Hoc*
 - [ ] [3417](https://resources.beecrowd.com/repository/UOJ_3417.html) - Falcatrua *Ad-Hoc*
 - [ ] [3418](https://resources.beecrowd.com/repository/UOJ_3418.html) - La Chaleur *Ad-Hoc*
 - [ ] [3419](https://resources.beecrowd.com/repository/UOJ_3419.html) - Kimi Räikkönen *Ad-Hoc*
 - [ ] [3420](https://resources.beecrowd.com/repository/UOJ_3420.html) - House of Cards *Ad-Hoc*
 - [ ] [3421](https://resources.beecrowd.com/repository/UOJ_3421.html) - Infinita String de Dígitos *Ad-Hoc*
-- [x] [3422](https://resources.beecrowd.com/repository/UOJ_3422.html) - [José e a Súmula](https://github.com/potigol/beecrowd/blob/master/src/3400/3422.poti) *Ad-Hoc*
+- [x] [3422](https://resources.beecrowd.com/repository/UOJ_3422.html) - [José e a Súmula](https://potigol.github.io/beecrowd/problemas/3400/#3422-jose-e-a-sumula) *Ad-Hoc*
 - [ ] [3423](https://resources.beecrowd.com/repository/UOJ_3423.html) - Gostos Peculiares *Ad-Hoc*

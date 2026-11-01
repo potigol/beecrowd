@@ -3,10 +3,10 @@
 - [ ] [2000](https://resources.beecrowd.com/repository/UOJ_2000.html) - Adeildo da Odonto *Strings*
 - [ ] [2001](https://resources.beecrowd.com/repository/UOJ_2001.html) - Bile *Matemática*
 - [ ] [2002](https://resources.beecrowd.com/repository/UOJ_2002.html) - Casa de Rogério *Grafos*
-- [x] [2003](https://resources.beecrowd.com/repository/UOJ_2003.html) - [Domingo de Manhã](https://github.com/potigol/beecrowd/blob/master/src/2000/2003.poti) *Iniciante*
+- [x] [2003](https://resources.beecrowd.com/repository/UOJ_2003.html) - [Domingo de Manhã](https://potigol.github.io/beecrowd/problemas/2000/#2003-domingo-de-manha) *Iniciante*
 - [ ] [2004](https://resources.beecrowd.com/repository/UOJ_2004.html) - Enisvaldo Com Fome *Ad-Hoc*
 - [ ] [2005](https://resources.beecrowd.com/repository/UOJ_2005.html) - Fracil Bolado *Ad-Hoc*
-- [x] [2006](https://resources.beecrowd.com/repository/UOJ_2006.html) - [Identificando o Chá](https://github.com/potigol/beecrowd/blob/master/src/2000/2006.poti) *Iniciante*
+- [x] [2006](https://resources.beecrowd.com/repository/UOJ_2006.html) - [Identificando o Chá](https://potigol.github.io/beecrowd/problemas/2000/#2006-identificando-o-cha) *Iniciante*
 - [ ] [2007](https://resources.beecrowd.com/repository/UOJ_2007.html) - Falha Ao Cercar Legumes *Matemática*
 - [ ] [2008](https://resources.beecrowd.com/repository/UOJ_2008.html) - Expondo a Corrupção *Ad-Hoc*
 - [ ] [2009](https://resources.beecrowd.com/repository/UOJ_2009.html) - Apenas um Pouco Classificadas *Ad-Hoc*
@@ -18,20 +18,20 @@
 - [ ] [2015](https://resources.beecrowd.com/repository/UOJ_2015.html) - Fatia do Bolo *Ad-Hoc*
 - [ ] [2016](https://resources.beecrowd.com/repository/UOJ_2016.html) - D como em Daedalus *Ad-Hoc*
 - [ ] [2017](https://resources.beecrowd.com/repository/UOJ_2017.html) - Seis Strings *Strings*
-- [x] [2018](https://resources.beecrowd.com/repository/UOJ_2018.html) - [Olimpíadas de Natal](https://github.com/potigol/beecrowd/blob/master/src/2000/2018.poti) *Estruturas e Bibliotecas*
+- [x] [2018](https://resources.beecrowd.com/repository/UOJ_2018.html) - [Olimpíadas de Natal](https://potigol.github.io/beecrowd/problemas/2000/#2018-olimpiadas-de-natal) *Estruturas e Bibliotecas*
 - [ ] [2019](https://resources.beecrowd.com/repository/UOJ_2019.html) - Cici, Cini e Cino *Ad-Hoc*
 - [ ] [2020](https://resources.beecrowd.com/repository/UOJ_2020.html) - Elfos e seus Códigos *Estruturas e Bibliotecas*
 - [ ] [2021](https://resources.beecrowd.com/repository/UOJ_2021.html) - Luzes de Natal *Ad-Hoc*
 - [ ] [2022](https://resources.beecrowd.com/repository/UOJ_2022.html) - Presentes de Natal *Estruturas e Bibliotecas*
-- [x] [2023](https://resources.beecrowd.com/repository/UOJ_2023.html) - [A Última Criança Boa](https://github.com/potigol/beecrowd/blob/master/src/2000/2023.poti) *Strings*
+- [x] [2023](https://resources.beecrowd.com/repository/UOJ_2023.html) - [A Última Criança Boa](https://potigol.github.io/beecrowd/problemas/2000/#2023-a-ultima-crianca-boa) *Strings*
 - [ ] [2024](https://resources.beecrowd.com/repository/UOJ_2024.html) - Empilhando Presentes *Paradigmas*
 - [ ] [2025](https://resources.beecrowd.com/repository/UOJ_2025.html) - Joulupukki *Strings*
 - [ ] [2026](https://resources.beecrowd.com/repository/UOJ_2026.html) - Árvore de Natal *Paradigmas*
 - [ ] [2027](https://resources.beecrowd.com/repository/UOJ_2027.html) - Aposta com Noel *Paradigmas*
-- [x] [2028](https://resources.beecrowd.com/repository/UOJ_2028.html) - [Sequência de Sequência](https://github.com/potigol/beecrowd/blob/master/src/2000/2028.poti) *Iniciante*
-- [x] [2029](https://resources.beecrowd.com/repository/UOJ_2029.html) - [Reservatório de Mel](https://github.com/potigol/beecrowd/blob/master/src/2000/2029.poti) *Iniciante*
+- [x] [2028](https://resources.beecrowd.com/repository/UOJ_2028.html) - [Sequência de Sequência](https://potigol.github.io/beecrowd/problemas/2000/#2028-sequencia-de-sequencia) *Iniciante*
+- [x] [2029](https://resources.beecrowd.com/repository/UOJ_2029.html) - [Reservatório de Mel](https://potigol.github.io/beecrowd/problemas/2000/#2029-reservatorio-de-mel) *Iniciante*
 - [ ] [2030](https://resources.beecrowd.com/repository/UOJ_2030.html) - Pit Stop *Ad-Hoc*
-- [x] [2031](https://resources.beecrowd.com/repository/UOJ_2031.html) - [Pedra, Papel, Ataque Aéreo](https://github.com/potigol/beecrowd/blob/master/src/2000/2031.poti) *Iniciante*
+- [x] [2031](https://resources.beecrowd.com/repository/UOJ_2031.html) - [Pedra, Papel, Ataque Aéreo](https://potigol.github.io/beecrowd/problemas/2000/#2031-pedra-papel-ataque-aereo) *Iniciante*
 - [ ] [2032](https://resources.beecrowd.com/repository/UOJ_2032.html) - Jogo dos Oito *Grafos*
 - [ ] [2033](https://resources.beecrowd.com/repository/UOJ_2033.html) - Juros Sobre o Empréstimo *Matemática*
 - [ ] [2034](https://resources.beecrowd.com/repository/UOJ_2034.html) - Cantor *Matemática*
@@ -44,7 +44,7 @@
 - [ ] [2041](https://resources.beecrowd.com/repository/UOJ_2041.html) - Sequência de Gödelito *Ad-Hoc*
 - [ ] [2042](https://resources.beecrowd.com/repository/UOJ_2042.html) - Fofão da Pérsia *Paradigmas*
 - [ ] [2043](https://resources.beecrowd.com/repository/UOJ_2043.html) - Montanha Alta *Geometria Computacional*
-- [x] [2044](https://resources.beecrowd.com/repository/UOJ_2044.html) - [Em Dívida](https://github.com/potigol/beecrowd/blob/master/src/2000/2044.poti) *Matemática*
+- [x] [2044](https://resources.beecrowd.com/repository/UOJ_2044.html) - [Em Dívida](https://potigol.github.io/beecrowd/problemas/2000/#2044-em-divida) *Matemática*
 - [ ] [2045](https://resources.beecrowd.com/repository/UOJ_2045.html) - Defendendo Alamo *Geometria Computacional*
 - [ ] [2046](https://resources.beecrowd.com/repository/UOJ_2046.html) - Entregadores de Steak *Grafos*
 - [ ] [2047](https://resources.beecrowd.com/repository/UOJ_2047.html) - Fly By Night *Estruturas e Bibliotecas*
@@ -57,16 +57,16 @@
 - [ ] [2054](https://resources.beecrowd.com/repository/UOJ_2054.html) - Last Year at Marienbad *Ad-Hoc*
 - [ ] [2055](https://resources.beecrowd.com/repository/UOJ_2055.html) - Lisp é Melhor que Java, C e C++ *Strings*
 - [ ] [2056](https://resources.beecrowd.com/repository/UOJ_2056.html) - O Cubo *Grafos*
-- [x] [2057](https://resources.beecrowd.com/repository/UOJ_2057.html) - [Fuso Horário](https://github.com/potigol/beecrowd/blob/master/src/2000/2057.poti) *Iniciante*
-- [x] [2058](https://resources.beecrowd.com/repository/UOJ_2058.html) - [Triângulos e Polígonos Regulares](https://github.com/potigol/beecrowd/blob/master/src/2000/2058.poti) *Ad-Hoc*
-- [x] [2059](https://resources.beecrowd.com/repository/UOJ_2059.html) - [Ímpar, Par ou Roubo](https://github.com/potigol/beecrowd/blob/master/src/2000/2059.poti) *Iniciante*
-- [x] [2060](https://resources.beecrowd.com/repository/UOJ_2060.html) - [Desafio de Bino](https://github.com/potigol/beecrowd/blob/master/src/2000/2060.poti) *Iniciante*
-- [x] [2061](https://resources.beecrowd.com/repository/UOJ_2061.html) - [As Abas de Péricles](https://github.com/potigol/beecrowd/blob/master/src/2000/2061.poti) *Iniciante*
-- [x] [2062](https://resources.beecrowd.com/repository/UOJ_2062.html) - [OBI URI](https://github.com/potigol/beecrowd/blob/master/src/2000/2062.poti) *Strings*
+- [x] [2057](https://resources.beecrowd.com/repository/UOJ_2057.html) - [Fuso Horário](https://potigol.github.io/beecrowd/problemas/2000/#2057-fuso-horario) *Iniciante*
+- [x] [2058](https://resources.beecrowd.com/repository/UOJ_2058.html) - [Triângulos e Polígonos Regulares](https://potigol.github.io/beecrowd/problemas/2000/#2058-triangulos-e-poligonos-regulares) *Ad-Hoc*
+- [x] [2059](https://resources.beecrowd.com/repository/UOJ_2059.html) - [Ímpar, Par ou Roubo](https://potigol.github.io/beecrowd/problemas/2000/#2059-impar-par-ou-roubo) *Iniciante*
+- [x] [2060](https://resources.beecrowd.com/repository/UOJ_2060.html) - [Desafio de Bino](https://potigol.github.io/beecrowd/problemas/2000/#2060-desafio-de-bino) *Iniciante*
+- [x] [2061](https://resources.beecrowd.com/repository/UOJ_2061.html) - [As Abas de Péricles](https://potigol.github.io/beecrowd/problemas/2000/#2061-as-abas-de-pericles) *Iniciante*
+- [x] [2062](https://resources.beecrowd.com/repository/UOJ_2062.html) - [OBI URI](https://potigol.github.io/beecrowd/problemas/2000/#2062-obi-uri) *Strings*
 - [ ] [2063](https://resources.beecrowd.com/repository/UOJ_2063.html) - Caçando Digletts *Matemática*
 - [ ] [2064](https://resources.beecrowd.com/repository/UOJ_2064.html) - Prant e a Indecisão *Estruturas e Bibliotecas*
 - [ ] [2065](https://resources.beecrowd.com/repository/UOJ_2065.html) - Fila do Supermercado *Estruturas e Bibliotecas*
-- [x] [2066](https://resources.beecrowd.com/repository/UOJ_2066.html) - [amelborP mU](https://github.com/potigol/beecrowd/blob/master/src/2000/2066.poti) *Matemática*
+- [x] [2066](https://resources.beecrowd.com/repository/UOJ_2066.html) - [amelborP mU](https://potigol.github.io/beecrowd/problemas/2000/#2066-amelborp-mu) *Matemática*
 - [ ] [2067](https://resources.beecrowd.com/repository/UOJ_2067.html) - Jogo do Quadrado *Estruturas e Bibliotecas*
 - [ ] [2068](https://resources.beecrowd.com/repository/UOJ_2068.html) - Marcando um Encontro *Matemática*
 - [ ] [2069](https://resources.beecrowd.com/repository/UOJ_2069.html) - A Mesa Quadrada de Inês Venezuela *Matemática*
@@ -84,14 +84,14 @@
 - [ ] [2081](https://resources.beecrowd.com/repository/UOJ_2081.html) - Sonhos, Acredite Neles! *Grafos*
 - [ ] [2082](https://resources.beecrowd.com/repository/UOJ_2082.html) - Viagens no Tempo *Grafos*
 - [ ] [2083](https://resources.beecrowd.com/repository/UOJ_2083.html) - Beira da Estrada *Geometria Computacional*
-- [x] [2084](https://resources.beecrowd.com/repository/UOJ_2084.html) - [Eleições](https://github.com/potigol/beecrowd/blob/master/src/2000/2084.poti) *Matemática*
+- [x] [2084](https://resources.beecrowd.com/repository/UOJ_2084.html) - [Eleições](https://potigol.github.io/beecrowd/problemas/2000/#2084-eleicoes) *Matemática*
 - [ ] [2085](https://resources.beecrowd.com/repository/UOJ_2085.html) - Chapeuzinho Vermelho *Grafos*
 - [ ] [2086](https://resources.beecrowd.com/repository/UOJ_2086.html) - Ciclofaixa *Grafos*
-- [x] [2087](https://resources.beecrowd.com/repository/UOJ_2087.html) - [Conjuntos Bons e Ruins](https://github.com/potigol/beecrowd/blob/master/src/2000/2087.poti) *Strings*
+- [x] [2087](https://resources.beecrowd.com/repository/UOJ_2087.html) - [Conjuntos Bons e Ruins](https://potigol.github.io/beecrowd/problemas/2000/#2087-conjuntos-bons-e-ruins) *Strings*
 - [ ] [2088](https://resources.beecrowd.com/repository/UOJ_2088.html) - Combate à Dengue *Grafos*
 - [ ] [2089](https://resources.beecrowd.com/repository/UOJ_2089.html) - Lanchonete *Paradigmas*
 - [ ] [2090](https://resources.beecrowd.com/repository/UOJ_2090.html) - Fui ao Mercado e Comprei... *Ad-Hoc*
-- [x] [2091](https://resources.beecrowd.com/repository/UOJ_2091.html) - [Número Solitário](https://github.com/potigol/beecrowd/blob/master/src/2000/2091.poti) *Estruturas e Bibliotecas*
+- [x] [2091](https://resources.beecrowd.com/repository/UOJ_2091.html) - [Número Solitário](https://potigol.github.io/beecrowd/problemas/2000/#2091-numero-solitario) *Estruturas e Bibliotecas*
 - [ ] [2092](https://resources.beecrowd.com/repository/UOJ_2092.html) - Assistindo o Jogo *Estruturas e Bibliotecas*
 - [ ] [2093](https://resources.beecrowd.com/repository/UOJ_2093.html) - Fuja para Escapar *Strings*
 - [ ] [2094](https://resources.beecrowd.com/repository/UOJ_2094.html) - Flores *Geometria Computacional*

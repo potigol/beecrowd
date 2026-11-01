@@ -4,7 +4,7 @@
 
 ## Problemas resolvidos
 
-- [x] [1124](https://resources.beecrowd.com/repository/UOJ_1124.html) - [Elevador](https://github.com/potigol/beecrowd/blob/master/src/1100/1124.poti)
+- [x] [1124](https://resources.beecrowd.com/repository/UOJ_1124.html) - [Elevador](https://potigol.github.io/beecrowd/problemas/1100/#1124-elevador)
 
 ## Problemas não resolvidos
 

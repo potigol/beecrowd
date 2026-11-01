@@ -1,6 +1,6 @@
 # Problemas 4000 (3/3)
 
-- [x] [4000](https://resources.beecrowd.com/repository/UOJ_4000.html) - [~~Altura Mínima~~](https://github.com/potigol/beecrowd/blob/master/src/4000/4000.poti) *Ad-Hoc*
+- [x] [4000](https://resources.beecrowd.com/repository/UOJ_4000.html) - [~~Altura Mínima~~](https://potigol.github.io/beecrowd/problemas/4000/#4000-altura-minima) *Ad-Hoc*
 - [ ] [4001](https://resources.beecrowd.com/repository/UOJ_4001.html) - ~~Baralho Embaralhado~~ *Ad-Hoc*
 - [ ] [4002](https://resources.beecrowd.com/repository/UOJ_4002.html) - ~~Caminhada na Montanha~~ *Ad-Hoc*
 - [ ] [4003](https://resources.beecrowd.com/repository/UOJ_4003.html) - ~~Desvio~~ *Ad-Hoc*
@@ -13,10 +13,10 @@
 - [ ] [4010](https://resources.beecrowd.com/repository/UOJ_4010.html) - ~~k pra Mais, k pra Menos~~ *Ad-Hoc*
 - [ ] [4011](https://resources.beecrowd.com/repository/UOJ_4011.html) - ~~Lexicograficamente Agradável~~ *Ad-Hoc*
 - [ ] [4012](https://resources.beecrowd.com/repository/UOJ_4012.html) - ~~Malha Aérea~~ *Ad-Hoc*
-- [x] [4013](https://resources.beecrowd.com/repository/UOJ_4013.html) - [~~Alice e as Canções e Iara~~](https://github.com/potigol/beecrowd/blob/master/src/4000/4013.poti) *Iniciante*
+- [x] [4013](https://resources.beecrowd.com/repository/UOJ_4013.html) - [~~Alice e as Canções e Iara~~](https://potigol.github.io/beecrowd/problemas/4000/#4013-alice-e-as-cancoes-e-iara) *Iniciante*
 - [ ] [4014](https://resources.beecrowd.com/repository/UOJ_4014.html) - ~~Boto e as Festas~~ *Ad-Hoc*
 - [ ] [4015](https://resources.beecrowd.com/repository/UOJ_4015.html) - ~~Caboclo-d'Água e o Biscoito Confeitado~~ *Ad-Hoc*
-- [x] [4016](https://resources.beecrowd.com/repository/UOJ_4016.html) - [~~Deus-serpente M'boi as Cataratas do Iguaçu~~](https://github.com/potigol/beecrowd/blob/master/src/4000/4016.poti) *Ad-Hoc*
+- [x] [4016](https://resources.beecrowd.com/repository/UOJ_4016.html) - [~~Deus-serpente M'boi as Cataratas do Iguaçu~~](https://potigol.github.io/beecrowd/problemas/4000/#4016-deus-serpente-mboi-as-cataratas-do-iguacu) *Ad-Hoc*
 - [ ] [4017](https://resources.beecrowd.com/repository/UOJ_4017.html) - ~~Esquecimento e o Mapa do Boitatá~~ *Ad-Hoc*
 - [ ] [4018](https://resources.beecrowd.com/repository/UOJ_4018.html) - ~~Folguedo do Boi de Mamão e o Apetite da Bernunça~~ *Ad-Hoc*
 - [ ] [4019](https://resources.beecrowd.com/repository/UOJ_4019.html) - ~~Gosto Pelo Tabacoe o Saci Pererê~~ *Ad-Hoc*

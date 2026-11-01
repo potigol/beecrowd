@@ -4,16 +4,16 @@
 
 ## Problemas resolvidos
 
-- [x] [2602](https://resources.beecrowd.com/repository/UOJ_2602.html) - [Select Básico](https://github.com/potigol/beecrowd/blob/master/src/2600/2602.poti)
-- [x] [2603](https://resources.beecrowd.com/repository/UOJ_2603.html) - [Endereço dos Clientes](https://github.com/potigol/beecrowd/blob/master/src/2600/2603.poti)
-- [x] [2604](https://resources.beecrowd.com/repository/UOJ_2604.html) - [Menores que 10 ou Maiores que 100](https://github.com/potigol/beecrowd/blob/master/src/2600/2604.poti)
-- [x] [2605](https://resources.beecrowd.com/repository/UOJ_2605.html) - [Representantes Executivos](https://github.com/potigol/beecrowd/blob/master/src/2600/2605.poti)
-- [x] [2606](https://resources.beecrowd.com/repository/UOJ_2606.html) - [Categorias](https://github.com/potigol/beecrowd/blob/master/src/2600/2606.poti)
-- [x] [2607](https://resources.beecrowd.com/repository/UOJ_2607.html) - [Cidades em Ordem Alfabética](https://github.com/potigol/beecrowd/blob/master/src/2600/2607.poti)
-- [x] [2608](https://resources.beecrowd.com/repository/UOJ_2608.html) - [Maior e Menor Preço](https://github.com/potigol/beecrowd/blob/master/src/2600/2608.poti)
-- [x] [2609](https://resources.beecrowd.com/repository/UOJ_2609.html) - [Produtos por Categorias](https://github.com/potigol/beecrowd/blob/master/src/2600/2609.poti)
-- [x] [2610](https://resources.beecrowd.com/repository/UOJ_2610.html) - [Valor Médio dos Produtos](https://github.com/potigol/beecrowd/blob/master/src/2600/2610.poti)
-- [x] [2611](https://resources.beecrowd.com/repository/UOJ_2611.html) - [Filmes de Ação](https://github.com/potigol/beecrowd/blob/master/src/2600/2611.poti)
+- [x] [2602](https://resources.beecrowd.com/repository/UOJ_2602.html) - [Select Básico](https://potigol.github.io/beecrowd/problemas/2600/#2602-select-basico)
+- [x] [2603](https://resources.beecrowd.com/repository/UOJ_2603.html) - [Endereço dos Clientes](https://potigol.github.io/beecrowd/problemas/2600/#2603-endereco-dos-clientes)
+- [x] [2604](https://resources.beecrowd.com/repository/UOJ_2604.html) - [Menores que 10 ou Maiores que 100](https://potigol.github.io/beecrowd/problemas/2600/#2604-menores-que-10-ou-maiores-que-100)
+- [x] [2605](https://resources.beecrowd.com/repository/UOJ_2605.html) - [Representantes Executivos](https://potigol.github.io/beecrowd/problemas/2600/#2605-representantes-executivos)
+- [x] [2606](https://resources.beecrowd.com/repository/UOJ_2606.html) - [Categorias](https://potigol.github.io/beecrowd/problemas/2600/#2606-categorias)
+- [x] [2607](https://resources.beecrowd.com/repository/UOJ_2607.html) - [Cidades em Ordem Alfabética](https://potigol.github.io/beecrowd/problemas/2600/#2607-cidades-em-ordem-alfabetica)
+- [x] [2608](https://resources.beecrowd.com/repository/UOJ_2608.html) - [Maior e Menor Preço](https://potigol.github.io/beecrowd/problemas/2600/#2608-maior-e-menor-preco)
+- [x] [2609](https://resources.beecrowd.com/repository/UOJ_2609.html) - [Produtos por Categorias](https://potigol.github.io/beecrowd/problemas/2600/#2609-produtos-por-categorias)
+- [x] [2610](https://resources.beecrowd.com/repository/UOJ_2610.html) - [Valor Médio dos Produtos](https://potigol.github.io/beecrowd/problemas/2600/#2610-valor-medio-dos-produtos)
+- [x] [2611](https://resources.beecrowd.com/repository/UOJ_2611.html) - [Filmes de Ação](https://potigol.github.io/beecrowd/problemas/2600/#2611-filmes-de-acao)
 
 ## Problemas não resolvidos
 

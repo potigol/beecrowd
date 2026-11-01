@@ -4,15 +4,15 @@
 
 ## Problemas resolvidos
 
-- [x] [1076](https://resources.beecrowd.com/repository/UOJ_1076.html) - [Desenhando Labirintos](https://github.com/potigol/beecrowd/blob/master/src/1000/1076.poti)
-- [x] [1195](https://resources.beecrowd.com/repository/UOJ_1195.html) - [Árvore Binária de Busca](https://github.com/potigol/beecrowd/blob/master/src/1100/1195.poti)
-- [x] [1200](https://resources.beecrowd.com/repository/UOJ_1200.html) - [Operações em ABP I](https://github.com/potigol/beecrowd/blob/master/src/1200/1200.poti)
-- [x] [1466](https://resources.beecrowd.com/repository/UOJ_1466.html) - [Percurso em Árvore por Nível](https://github.com/potigol/beecrowd/blob/master/src/1400/1466.poti)
-- [x] [1855](https://resources.beecrowd.com/repository/UOJ_1855.html) - [Mapa do Meistre](https://github.com/potigol/beecrowd/blob/master/src/1800/1855.poti)
-- [x] [1905](https://resources.beecrowd.com/repository/UOJ_1905.html) - [Polícia e Ladrão](https://github.com/potigol/beecrowd/blob/master/src/1900/1905.poti)
-- [x] [2428](https://resources.beecrowd.com/repository/UOJ_2428.html) - [Capital](https://github.com/potigol/beecrowd/blob/master/src/2400/2428.poti)
-- [x] [2687](https://resources.beecrowd.com/repository/UOJ_2687.html) - [Dominação Bacteriana](https://github.com/potigol/beecrowd/blob/master/src/2600/2687.poti)
-- [x] [3043](https://resources.beecrowd.com/repository/UOJ_3043.html) - [Festa Junina](https://github.com/potigol/beecrowd/blob/master/src/3000/3043.poti)
+- [x] [1076](https://resources.beecrowd.com/repository/UOJ_1076.html) - [Desenhando Labirintos](https://potigol.github.io/beecrowd/problemas/1000/#1076-desenhando-labirintos)
+- [x] [1195](https://resources.beecrowd.com/repository/UOJ_1195.html) - [Árvore Binária de Busca](https://potigol.github.io/beecrowd/problemas/1100/#1195-arvore-binaria-de-busca)
+- [x] [1200](https://resources.beecrowd.com/repository/UOJ_1200.html) - [Operações em ABP I](https://potigol.github.io/beecrowd/problemas/1200/#1200-operacoes-em-abp-i)
+- [x] [1466](https://resources.beecrowd.com/repository/UOJ_1466.html) - [Percurso em Árvore por Nível](https://potigol.github.io/beecrowd/problemas/1400/#1466-percurso-em-arvore-por-nivel)
+- [x] [1855](https://resources.beecrowd.com/repository/UOJ_1855.html) - [Mapa do Meistre](https://potigol.github.io/beecrowd/problemas/1800/#1855-mapa-do-meistre)
+- [x] [1905](https://resources.beecrowd.com/repository/UOJ_1905.html) - [Polícia e Ladrão](https://potigol.github.io/beecrowd/problemas/1900/#1905-policia-e-ladrao)
+- [x] [2428](https://resources.beecrowd.com/repository/UOJ_2428.html) - [Capital](https://potigol.github.io/beecrowd/problemas/2400/#2428-capital)
+- [x] [2687](https://resources.beecrowd.com/repository/UOJ_2687.html) - [Dominação Bacteriana](https://potigol.github.io/beecrowd/problemas/2600/#2687-dominacao-bacteriana)
+- [x] [3043](https://resources.beecrowd.com/repository/UOJ_3043.html) - [Festa Junina](https://potigol.github.io/beecrowd/problemas/3000/#3043-festa-junina)
 
 ## Problemas não resolvidos
 

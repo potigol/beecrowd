@@ -4,8 +4,8 @@
 
 ## Problemas resolvidos
 
-- [x] [2428](https://resources.beecrowd.com/repository/UOJ_2428.html) - [Capital](https://github.com/potigol/beecrowd/blob/master/src/2400/2428.poti)
-- [x] [3043](https://resources.beecrowd.com/repository/UOJ_3043.html) - [Festa Junina](https://github.com/potigol/beecrowd/blob/master/src/3000/3043.poti)
+- [x] [2428](https://resources.beecrowd.com/repository/UOJ_2428.html) - [Capital](https://potigol.github.io/beecrowd/problemas/2400/#2428-capital)
+- [x] [3043](https://resources.beecrowd.com/repository/UOJ_3043.html) - [Festa Junina](https://potigol.github.io/beecrowd/problemas/3000/#3043-festa-junina)
 
 ## Problemas não resolvidos
 

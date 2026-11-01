@@ -10,11 +10,11 @@
 - [ ] [1407](https://resources.beecrowd.com/repository/UOJ_1407.html) - Loteria de Fim de Semana *Ad-Hoc*
 - [ ] [1408](https://resources.beecrowd.com/repository/UOJ_1408.html) - Mário *Paradigmas*
 - [ ] [1409](https://resources.beecrowd.com/repository/UOJ_1409.html) - Zak Galou *Grafos*
-- [x] [1410](https://resources.beecrowd.com/repository/UOJ_1410.html) - [Ele Está Impedido!](https://github.com/potigol/beecrowd/blob/master/src/1400/1410.poti) *Ad-Hoc*
+- [x] [1410](https://resources.beecrowd.com/repository/UOJ_1410.html) - [Ele Está Impedido!](https://potigol.github.io/beecrowd/problemas/1400/#1410-ele-esta-impedido) *Ad-Hoc*
 - [ ] [1411](https://resources.beecrowd.com/repository/UOJ_1411.html) - Encolhendo Polígonos *Geometria Computacional*
 - [ ] [1412](https://resources.beecrowd.com/repository/UOJ_1412.html) - Cadeado com Segredo *Paradigmas*
 - [ ] [1413](https://resources.beecrowd.com/repository/UOJ_1413.html) - Apresse-se! *Grafos*
-- [x] [1414](https://resources.beecrowd.com/repository/UOJ_1414.html) - [Copa do Mundo](https://github.com/potigol/beecrowd/blob/master/src/1400/1414.poti) *Ad-Hoc*
+- [x] [1414](https://resources.beecrowd.com/repository/UOJ_1414.html) - [Copa do Mundo](https://potigol.github.io/beecrowd/problemas/1400/#1414-copa-do-mundo) *Ad-Hoc*
 - [ ] [1415](https://resources.beecrowd.com/repository/UOJ_1415.html) - Galou Está de Volta! *Grafos*
 - [ ] [1416](https://resources.beecrowd.com/repository/UOJ_1416.html) - Placar do ICPC *Paradigmas*
 - [ ] [1417](https://resources.beecrowd.com/repository/UOJ_1417.html) - Liga da Justiça *Grafos*
@@ -26,29 +26,29 @@
 - [ ] [1423](https://resources.beecrowd.com/repository/UOJ_1423.html) - A aventura de Super Mario *Grafos*
 - [ ] [1424](https://resources.beecrowd.com/repository/UOJ_1424.html) - Problema Fácil de Rujia Liu? *Estruturas e Bibliotecas*
 - [ ] [1425](https://resources.beecrowd.com/repository/UOJ_1425.html) - Presente?! *Estruturas e Bibliotecas*
-- [x] [1426](https://resources.beecrowd.com/repository/UOJ_1426.html) - [Coloque Tijolos na Parede](https://github.com/potigol/beecrowd/blob/master/src/1400/1426.poti) *Ad-Hoc*
+- [x] [1426](https://resources.beecrowd.com/repository/UOJ_1426.html) - [Coloque Tijolos na Parede](https://potigol.github.io/beecrowd/problemas/1400/#1426-coloque-tijolos-na-parede) *Ad-Hoc*
 - [ ] [1427](https://resources.beecrowd.com/repository/UOJ_1427.html) - O Problema da Scrooge Co. *Grafos*
-- [x] [1428](https://resources.beecrowd.com/repository/UOJ_1428.html) - [Procurando Nessy](https://github.com/potigol/beecrowd/blob/master/src/1400/1428.poti) *Ad-Hoc*
-- [x] [1429](https://resources.beecrowd.com/repository/UOJ_1429.html) - [Fatorial de Novo!](https://github.com/potigol/beecrowd/blob/master/src/1400/1429.poti) *Matemática*
-- [x] [1430](https://resources.beecrowd.com/repository/UOJ_1430.html) - [Composição de Jingles](https://github.com/potigol/beecrowd/blob/master/src/1400/1430.poti) *Estruturas e Bibliotecas*
+- [x] [1428](https://resources.beecrowd.com/repository/UOJ_1428.html) - [Procurando Nessy](https://potigol.github.io/beecrowd/problemas/1400/#1428-procurando-nessy) *Ad-Hoc*
+- [x] [1429](https://resources.beecrowd.com/repository/UOJ_1429.html) - [Fatorial de Novo!](https://potigol.github.io/beecrowd/problemas/1400/#1429-fatorial-de-novo) *Matemática*
+- [x] [1430](https://resources.beecrowd.com/repository/UOJ_1430.html) - [Composição de Jingles](https://potigol.github.io/beecrowd/problemas/1400/#1430-composicao-de-jingles) *Estruturas e Bibliotecas*
 - [ ] [1431](https://resources.beecrowd.com/repository/UOJ_1431.html) - Níveis de Klingon *Ad-Hoc*
 - [ ] [1432](https://resources.beecrowd.com/repository/UOJ_1432.html) - Strings Binárias Triple-Free *Paradigmas*
 - [ ] [1433](https://resources.beecrowd.com/repository/UOJ_1433.html) - O Clube da Divisão *Matemática*
 - [ ] [1434](https://resources.beecrowd.com/repository/UOJ_1434.html) - Patrulheiros Romanos *Matemática*
-- [x] [1435](https://resources.beecrowd.com/repository/UOJ_1435.html) - [Matriz Quadrada I](https://github.com/potigol/beecrowd/blob/master/src/1400/1435.poti) *Iniciante*
-- [x] [1436](https://resources.beecrowd.com/repository/UOJ_1436.html) - [Jogo do Tijolo](https://github.com/potigol/beecrowd/blob/master/src/1400/1436.poti) *Matemática*
-- [x] [1437](https://resources.beecrowd.com/repository/UOJ_1437.html) - [Esquerda, Volver!](https://github.com/potigol/beecrowd/blob/master/src/1400/1437.poti) *Ad-Hoc*
+- [x] [1435](https://resources.beecrowd.com/repository/UOJ_1435.html) - [Matriz Quadrada I](https://potigol.github.io/beecrowd/problemas/1400/#1435-matriz-quadrada-i) *Iniciante*
+- [x] [1436](https://resources.beecrowd.com/repository/UOJ_1436.html) - [Jogo do Tijolo](https://potigol.github.io/beecrowd/problemas/1400/#1436-jogo-do-tijolo) *Matemática*
+- [x] [1437](https://resources.beecrowd.com/repository/UOJ_1437.html) - [Esquerda, Volver!](https://potigol.github.io/beecrowd/problemas/1400/#1437-esquerda-volver) *Ad-Hoc*
 - [ ] [1438](https://resources.beecrowd.com/repository/UOJ_1438.html) - Desempilhando Caixas *Ad-Hoc*
 - [ ] [1439](https://resources.beecrowd.com/repository/UOJ_1439.html) - Bora Bora *Estruturas e Bibliotecas*
 - [ ] [1440](https://resources.beecrowd.com/repository/UOJ_1440.html) - Praça de Alimentação *Ad-Hoc*
-- [x] [1441](https://resources.beecrowd.com/repository/UOJ_1441.html) - [Sequências de Granizo](https://github.com/potigol/beecrowd/blob/master/src/1400/1441.poti) *Ad-Hoc*
+- [x] [1441](https://resources.beecrowd.com/repository/UOJ_1441.html) - [Sequências de Granizo](https://potigol.github.io/beecrowd/problemas/1400/#1441-sequencias-de-granizo) *Ad-Hoc*
 - [ ] [1442](https://resources.beecrowd.com/repository/UOJ_1442.html) - Desvio de Rua *Grafos*
 - [ ] [1443](https://resources.beecrowd.com/repository/UOJ_1443.html) - Engarrafamento *Ad-Hoc*
-- [x] [1444](https://resources.beecrowd.com/repository/UOJ_1444.html) - [Corrida dos Marrecos](https://github.com/potigol/beecrowd/blob/master/src/1400/1444.poti) *Matemática*
+- [x] [1444](https://resources.beecrowd.com/repository/UOJ_1444.html) - [Corrida dos Marrecos](https://potigol.github.io/beecrowd/problemas/1400/#1444-corrida-dos-marrecos) *Matemática*
 - [ ] [1445](https://resources.beecrowd.com/repository/UOJ_1445.html) - Quem Vai à Festa? *Grafos*
 - [ ] [1446](https://resources.beecrowd.com/repository/UOJ_1446.html) - Diagrama de Venn? *Geometria Computacional*
 - [ ] [1447](https://resources.beecrowd.com/repository/UOJ_1447.html) - Back to the Future *Grafos*
-- [x] [1448](https://resources.beecrowd.com/repository/UOJ_1448.html) - [Telefone Sem Fio](https://github.com/potigol/beecrowd/blob/master/src/1400/1448.poti) *Strings*
+- [x] [1448](https://resources.beecrowd.com/repository/UOJ_1448.html) - [Telefone Sem Fio](https://potigol.github.io/beecrowd/problemas/1400/#1448-telefone-sem-fio) *Strings*
 - [ ] [1449](https://resources.beecrowd.com/repository/UOJ_1449.html) - O Fantástico Jaspion *Estruturas e Bibliotecas*
 - [ ] [1450](https://resources.beecrowd.com/repository/UOJ_1450.html) - Os Joguinhos de Ramsés *Matemática*
 - [ ] [1451](https://resources.beecrowd.com/repository/UOJ_1451.html) - Teclado Quebrado *Estruturas e Bibliotecas*
@@ -57,7 +57,7 @@
 - [ ] [1454](https://resources.beecrowd.com/repository/UOJ_1454.html) - O País das Bicicletas *Grafos*
 - [ ] [1455](https://resources.beecrowd.com/repository/UOJ_1455.html) - Final do ICPC *Geometria Computacional*
 - [ ] [1456](https://resources.beecrowd.com/repository/UOJ_1456.html) - Brainfuck *Strings*
-- [x] [1457](https://resources.beecrowd.com/repository/UOJ_1457.html) - [Oráculo de Alexandria](https://github.com/potigol/beecrowd/blob/master/src/1400/1457.poti) *Matemática*
+- [x] [1457](https://resources.beecrowd.com/repository/UOJ_1457.html) - [Oráculo de Alexandria](https://potigol.github.io/beecrowd/problemas/1400/#1457-oraculo-de-alexandria) *Matemática*
 - [ ] [1458](https://resources.beecrowd.com/repository/UOJ_1458.html) - Campeonato de SMS *Strings*
 - [ ] [1459](https://resources.beecrowd.com/repository/UOJ_1459.html) - Foco *Ad-Hoc*
 - [ ] [1460](https://resources.beecrowd.com/repository/UOJ_1460.html) - Parreiral *Ad-Hoc*
@@ -66,19 +66,19 @@
 - [ ] [1463](https://resources.beecrowd.com/repository/UOJ_1463.html) - Árvore Binária de Expressão *Grafos*
 - [ ] [1464](https://resources.beecrowd.com/repository/UOJ_1464.html) - Camadas de Cebola *Geometria Computacional*
 - [ ] [1465](https://resources.beecrowd.com/repository/UOJ_1465.html) - Complexo, Difícil e Complicado *Matemática*
-- [x] [1466](https://resources.beecrowd.com/repository/UOJ_1466.html) - [Percurso em Árvore por Nível](https://github.com/potigol/beecrowd/blob/master/src/1400/1466.poti) *Grafos*
-- [x] [1467](https://resources.beecrowd.com/repository/UOJ_1467.html) - [Zerinho ou Um](https://github.com/potigol/beecrowd/blob/master/src/1400/1467.poti) *Ad-Hoc*
+- [x] [1466](https://resources.beecrowd.com/repository/UOJ_1466.html) - [Percurso em Árvore por Nível](https://potigol.github.io/beecrowd/problemas/1400/#1466-percurso-em-arvore-por-nivel) *Grafos*
+- [x] [1467](https://resources.beecrowd.com/repository/UOJ_1467.html) - [Zerinho ou Um](https://potigol.github.io/beecrowd/problemas/1400/#1467-zerinho-ou-um) *Ad-Hoc*
 - [ ] [1468](https://resources.beecrowd.com/repository/UOJ_1468.html) - Balão *Geometria Computacional*
 - [ ] [1469](https://resources.beecrowd.com/repository/UOJ_1469.html) - Chefe *Grafos*
 - [ ] [1470](https://resources.beecrowd.com/repository/UOJ_1470.html) - Máquina Dobradora *Ad-Hoc*
-- [x] [1471](https://resources.beecrowd.com/repository/UOJ_1471.html) - [Mergulho](https://github.com/potigol/beecrowd/blob/master/src/1400/1471.poti) *Ad-Hoc*
+- [x] [1471](https://resources.beecrowd.com/repository/UOJ_1471.html) - [Mergulho](https://potigol.github.io/beecrowd/problemas/1400/#1471-mergulho) *Ad-Hoc*
 - [ ] [1472](https://resources.beecrowd.com/repository/UOJ_1472.html) - Triângulos *Ad-Hoc*
 - [ ] [1473](https://resources.beecrowd.com/repository/UOJ_1473.html) - Linhas de Contêiners *Paradigmas*
 - [ ] [1474](https://resources.beecrowd.com/repository/UOJ_1474.html) - Ônibus *Paradigmas*
 - [ ] [1475](https://resources.beecrowd.com/repository/UOJ_1475.html) - Remendo *Paradigmas*
 - [ ] [1476](https://resources.beecrowd.com/repository/UOJ_1476.html) - Caminhão *Grafos*
 - [ ] [1477](https://resources.beecrowd.com/repository/UOJ_1477.html) - Homem, Elefante e Rato *Estruturas e Bibliotecas*
-- [x] [1478](https://resources.beecrowd.com/repository/UOJ_1478.html) - [Matriz Quadrada II](https://github.com/potigol/beecrowd/blob/master/src/1400/1478.poti) *Iniciante*
+- [x] [1478](https://resources.beecrowd.com/repository/UOJ_1478.html) - [Matriz Quadrada II](https://potigol.github.io/beecrowd/problemas/1400/#1478-matriz-quadrada-ii) *Iniciante*
 - [ ] [1479](https://resources.beecrowd.com/repository/UOJ_1479.html) - Ajude seu General *Grafos*
 - [ ] [1480](https://resources.beecrowd.com/repository/UOJ_1480.html) - O Famoso Campo Minado *Ad-Hoc*
 - [ ] [1481](https://resources.beecrowd.com/repository/UOJ_1481.html) - A Fazenda de Ostras de Zing Zhu *Matemática*

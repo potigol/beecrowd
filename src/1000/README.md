@@ -1,102 +1,102 @@
 # Problemas 1000 (82/100)
 
-- [x] [1000](https://resources.beecrowd.com/repository/UOJ_1000.html) - [Hello World!](https://github.com/potigol/beecrowd/blob/master/src/1000/1000.poti) *Iniciante*
-- [x] [1001](https://resources.beecrowd.com/repository/UOJ_1001.html) - [Extremamente Básico](https://github.com/potigol/beecrowd/blob/master/src/1000/1001.poti) *Iniciante*
-- [x] [1002](https://resources.beecrowd.com/repository/UOJ_1002.html) - [Área do Círculo](https://github.com/potigol/beecrowd/blob/master/src/1000/1002.poti) *Iniciante*
-- [x] [1003](https://resources.beecrowd.com/repository/UOJ_1003.html) - [Soma Simples](https://github.com/potigol/beecrowd/blob/master/src/1000/1003.poti) *Iniciante*
-- [x] [1004](https://resources.beecrowd.com/repository/UOJ_1004.html) - [Produto Simples](https://github.com/potigol/beecrowd/blob/master/src/1000/1004.poti) *Iniciante*
-- [x] [1005](https://resources.beecrowd.com/repository/UOJ_1005.html) - [Média 1](https://github.com/potigol/beecrowd/blob/master/src/1000/1005.poti) *Iniciante*
-- [x] [1006](https://resources.beecrowd.com/repository/UOJ_1006.html) - [Média 2](https://github.com/potigol/beecrowd/blob/master/src/1000/1006.poti) *Iniciante*
-- [x] [1007](https://resources.beecrowd.com/repository/UOJ_1007.html) - [Diferença](https://github.com/potigol/beecrowd/blob/master/src/1000/1007.poti) *Iniciante*
-- [x] [1008](https://resources.beecrowd.com/repository/UOJ_1008.html) - [Salário](https://github.com/potigol/beecrowd/blob/master/src/1000/1008.poti) *Iniciante*
-- [x] [1009](https://resources.beecrowd.com/repository/UOJ_1009.html) - [Salário com Bônus](https://github.com/potigol/beecrowd/blob/master/src/1000/1009.poti) *Iniciante*
-- [x] [1010](https://resources.beecrowd.com/repository/UOJ_1010.html) - [Cálculo Simples](https://github.com/potigol/beecrowd/blob/master/src/1000/1010.poti) *Iniciante*
-- [x] [1011](https://resources.beecrowd.com/repository/UOJ_1011.html) - [Esfera](https://github.com/potigol/beecrowd/blob/master/src/1000/1011.poti) *Iniciante*
-- [x] [1012](https://resources.beecrowd.com/repository/UOJ_1012.html) - [Área](https://github.com/potigol/beecrowd/blob/master/src/1000/1012.poti) *Iniciante*
-- [x] [1013](https://resources.beecrowd.com/repository/UOJ_1013.html) - [O Maior](https://github.com/potigol/beecrowd/blob/master/src/1000/1013.poti) *Iniciante*
-- [x] [1014](https://resources.beecrowd.com/repository/UOJ_1014.html) - [Consumo](https://github.com/potigol/beecrowd/blob/master/src/1000/1014.poti) *Iniciante*
-- [x] [1015](https://resources.beecrowd.com/repository/UOJ_1015.html) - [Distância Entre Dois Pontos](https://github.com/potigol/beecrowd/blob/master/src/1000/1015.poti) *Iniciante*
-- [x] [1016](https://resources.beecrowd.com/repository/UOJ_1016.html) - [Distância](https://github.com/potigol/beecrowd/blob/master/src/1000/1016.poti) *Iniciante*
-- [x] [1017](https://resources.beecrowd.com/repository/UOJ_1017.html) - [Gasto de Combustível](https://github.com/potigol/beecrowd/blob/master/src/1000/1017.poti) *Iniciante*
-- [x] [1018](https://resources.beecrowd.com/repository/UOJ_1018.html) - [Cédulas](https://github.com/potigol/beecrowd/blob/master/src/1000/1018.poti) *Iniciante*
-- [x] [1019](https://resources.beecrowd.com/repository/UOJ_1019.html) - [Conversão de Tempo](https://github.com/potigol/beecrowd/blob/master/src/1000/1019.poti) *Iniciante*
-- [x] [1020](https://resources.beecrowd.com/repository/UOJ_1020.html) - [Idade em Dias](https://github.com/potigol/beecrowd/blob/master/src/1000/1020.poti) *Iniciante*
-- [x] [1021](https://resources.beecrowd.com/repository/UOJ_1021.html) - [Notas e Moedas](https://github.com/potigol/beecrowd/blob/master/src/1000/1021.poti) *Iniciante*
-- [x] [1022](https://resources.beecrowd.com/repository/UOJ_1022.html) - [TDA Racional](https://github.com/potigol/beecrowd/blob/master/src/1000/1022.poti) *Estruturas e Bibliotecas*
+- [x] [1000](https://resources.beecrowd.com/repository/UOJ_1000.html) - [Hello World!](https://potigol.github.io/beecrowd/problemas/1000/#1000-hello-world) *Iniciante*
+- [x] [1001](https://resources.beecrowd.com/repository/UOJ_1001.html) - [Extremamente Básico](https://potigol.github.io/beecrowd/problemas/1000/#1001-extremamente-basico) *Iniciante*
+- [x] [1002](https://resources.beecrowd.com/repository/UOJ_1002.html) - [Área do Círculo](https://potigol.github.io/beecrowd/problemas/1000/#1002-area-do-circulo) *Iniciante*
+- [x] [1003](https://resources.beecrowd.com/repository/UOJ_1003.html) - [Soma Simples](https://potigol.github.io/beecrowd/problemas/1000/#1003-soma-simples) *Iniciante*
+- [x] [1004](https://resources.beecrowd.com/repository/UOJ_1004.html) - [Produto Simples](https://potigol.github.io/beecrowd/problemas/1000/#1004-produto-simples) *Iniciante*
+- [x] [1005](https://resources.beecrowd.com/repository/UOJ_1005.html) - [Média 1](https://potigol.github.io/beecrowd/problemas/1000/#1005-media-1) *Iniciante*
+- [x] [1006](https://resources.beecrowd.com/repository/UOJ_1006.html) - [Média 2](https://potigol.github.io/beecrowd/problemas/1000/#1006-media-2) *Iniciante*
+- [x] [1007](https://resources.beecrowd.com/repository/UOJ_1007.html) - [Diferença](https://potigol.github.io/beecrowd/problemas/1000/#1007-diferenca) *Iniciante*
+- [x] [1008](https://resources.beecrowd.com/repository/UOJ_1008.html) - [Salário](https://potigol.github.io/beecrowd/problemas/1000/#1008-salario) *Iniciante*
+- [x] [1009](https://resources.beecrowd.com/repository/UOJ_1009.html) - [Salário com Bônus](https://potigol.github.io/beecrowd/problemas/1000/#1009-salario-com-bonus) *Iniciante*
+- [x] [1010](https://resources.beecrowd.com/repository/UOJ_1010.html) - [Cálculo Simples](https://potigol.github.io/beecrowd/problemas/1000/#1010-calculo-simples) *Iniciante*
+- [x] [1011](https://resources.beecrowd.com/repository/UOJ_1011.html) - [Esfera](https://potigol.github.io/beecrowd/problemas/1000/#1011-esfera) *Iniciante*
+- [x] [1012](https://resources.beecrowd.com/repository/UOJ_1012.html) - [Área](https://potigol.github.io/beecrowd/problemas/1000/#1012-area) *Iniciante*
+- [x] [1013](https://resources.beecrowd.com/repository/UOJ_1013.html) - [O Maior](https://potigol.github.io/beecrowd/problemas/1000/#1013-o-maior) *Iniciante*
+- [x] [1014](https://resources.beecrowd.com/repository/UOJ_1014.html) - [Consumo](https://potigol.github.io/beecrowd/problemas/1000/#1014-consumo) *Iniciante*
+- [x] [1015](https://resources.beecrowd.com/repository/UOJ_1015.html) - [Distância Entre Dois Pontos](https://potigol.github.io/beecrowd/problemas/1000/#1015-distancia-entre-dois-pontos) *Iniciante*
+- [x] [1016](https://resources.beecrowd.com/repository/UOJ_1016.html) - [Distância](https://potigol.github.io/beecrowd/problemas/1000/#1016-distancia) *Iniciante*
+- [x] [1017](https://resources.beecrowd.com/repository/UOJ_1017.html) - [Gasto de Combustível](https://potigol.github.io/beecrowd/problemas/1000/#1017-gasto-de-combustivel) *Iniciante*
+- [x] [1018](https://resources.beecrowd.com/repository/UOJ_1018.html) - [Cédulas](https://potigol.github.io/beecrowd/problemas/1000/#1018-cedulas) *Iniciante*
+- [x] [1019](https://resources.beecrowd.com/repository/UOJ_1019.html) - [Conversão de Tempo](https://potigol.github.io/beecrowd/problemas/1000/#1019-conversao-de-tempo) *Iniciante*
+- [x] [1020](https://resources.beecrowd.com/repository/UOJ_1020.html) - [Idade em Dias](https://potigol.github.io/beecrowd/problemas/1000/#1020-idade-em-dias) *Iniciante*
+- [x] [1021](https://resources.beecrowd.com/repository/UOJ_1021.html) - [Notas e Moedas](https://potigol.github.io/beecrowd/problemas/1000/#1021-notas-e-moedas) *Iniciante*
+- [x] [1022](https://resources.beecrowd.com/repository/UOJ_1022.html) - [TDA Racional](https://potigol.github.io/beecrowd/problemas/1000/#1022-tda-racional) *Estruturas e Bibliotecas*
 - [ ] [1023](https://resources.beecrowd.com/repository/UOJ_1023.html) - Estiagem *Estruturas e Bibliotecas*
-- [x] [1024](https://resources.beecrowd.com/repository/UOJ_1024.html) - [Criptografia](https://github.com/potigol/beecrowd/blob/master/src/1000/1024.poti) *Strings*
-- [x] [1025](https://resources.beecrowd.com/repository/UOJ_1025.html) - [Onde está o Mármore?](https://github.com/potigol/beecrowd/blob/master/src/1000/1025.poti) *Estruturas e Bibliotecas*
-- [x] [1026](https://resources.beecrowd.com/repository/UOJ_1026.html) - [Carrega ou não Carrega?](https://github.com/potigol/beecrowd/blob/master/src/1000/1026.poti) *Ad-Hoc*
+- [x] [1024](https://resources.beecrowd.com/repository/UOJ_1024.html) - [Criptografia](https://potigol.github.io/beecrowd/problemas/1000/#1024-criptografia) *Strings*
+- [x] [1025](https://resources.beecrowd.com/repository/UOJ_1025.html) - [Onde está o Mármore?](https://potigol.github.io/beecrowd/problemas/1000/#1025-onde-esta-o-marmore) *Estruturas e Bibliotecas*
+- [x] [1026](https://resources.beecrowd.com/repository/UOJ_1026.html) - [Carrega ou não Carrega?](https://potigol.github.io/beecrowd/problemas/1000/#1026-carrega-ou-nao-carrega) *Ad-Hoc*
 - [ ] [1027](https://resources.beecrowd.com/repository/UOJ_1027.html) - Onda Crítica *Paradigmas*
-- [x] [1028](https://resources.beecrowd.com/repository/UOJ_1028.html) - [Figurinhas](https://github.com/potigol/beecrowd/blob/master/src/1000/1028.poti) *Matemática*
-- [x] [1029](https://resources.beecrowd.com/repository/UOJ_1029.html) - [Fibonacci, Quantas Chamadas?](https://github.com/potigol/beecrowd/blob/master/src/1000/1029.poti) *Paradigmas*
-- [x] [1030](https://resources.beecrowd.com/repository/UOJ_1030.html) - [A Lenda de Flavious Josephus](https://github.com/potigol/beecrowd/blob/master/src/1000/1030.poti) *Ad-Hoc*
-- [x] [1031](https://resources.beecrowd.com/repository/UOJ_1031.html) - [Crise de Energia](https://github.com/potigol/beecrowd/blob/master/src/1000/1031.poti) *Ad-Hoc*
-- [x] [1032](https://resources.beecrowd.com/repository/UOJ_1032.html) - [O Primo de Josephus](https://github.com/potigol/beecrowd/blob/master/src/1000/1032.poti) *Ad-Hoc*
+- [x] [1028](https://resources.beecrowd.com/repository/UOJ_1028.html) - [Figurinhas](https://potigol.github.io/beecrowd/problemas/1000/#1028-figurinhas) *Matemática*
+- [x] [1029](https://resources.beecrowd.com/repository/UOJ_1029.html) - [Fibonacci, Quantas Chamadas?](https://potigol.github.io/beecrowd/problemas/1000/#1029-fibonacci-quantas-chamadas) *Paradigmas*
+- [x] [1030](https://resources.beecrowd.com/repository/UOJ_1030.html) - [A Lenda de Flavious Josephus](https://potigol.github.io/beecrowd/problemas/1000/#1030-a-lenda-de-flavious-josephus) *Ad-Hoc*
+- [x] [1031](https://resources.beecrowd.com/repository/UOJ_1031.html) - [Crise de Energia](https://potigol.github.io/beecrowd/problemas/1000/#1031-crise-de-energia) *Ad-Hoc*
+- [x] [1032](https://resources.beecrowd.com/repository/UOJ_1032.html) - [O Primo de Josephus](https://potigol.github.io/beecrowd/problemas/1000/#1032-o-primo-de-josephus) *Ad-Hoc*
 - [ ] [1033](https://resources.beecrowd.com/repository/UOJ_1033.html) - Quantas Chamadas Recursivas? *Paradigmas*
 - [ ] [1034](https://resources.beecrowd.com/repository/UOJ_1034.html) - Festival de Estátuas de Gelo *Paradigmas*
-- [x] [1035](https://resources.beecrowd.com/repository/UOJ_1035.html) - [Teste de Seleção 1](https://github.com/potigol/beecrowd/blob/master/src/1000/1035.poti) *Iniciante*
-- [x] [1036](https://resources.beecrowd.com/repository/UOJ_1036.html) - [Fórmula de Bhaskara](https://github.com/potigol/beecrowd/blob/master/src/1000/1036.poti) *Iniciante*
-- [x] [1037](https://resources.beecrowd.com/repository/UOJ_1037.html) - [Intervalo](https://github.com/potigol/beecrowd/blob/master/src/1000/1037.poti) *Iniciante*
-- [x] [1038](https://resources.beecrowd.com/repository/UOJ_1038.html) - [Lanche](https://github.com/potigol/beecrowd/blob/master/src/1000/1038.poti) *Iniciante*
-- [x] [1039](https://resources.beecrowd.com/repository/UOJ_1039.html) - [Flores de Fogo](https://github.com/potigol/beecrowd/blob/master/src/1000/1039.poti) *Geometria Computacional*
-- [x] [1040](https://resources.beecrowd.com/repository/UOJ_1040.html) - [Média 3](https://github.com/potigol/beecrowd/blob/master/src/1000/1040.poti) *Iniciante*
-- [x] [1041](https://resources.beecrowd.com/repository/UOJ_1041.html) - [Coordenadas de um Ponto](https://github.com/potigol/beecrowd/blob/master/src/1000/1041.poti) *Iniciante*
-- [x] [1042](https://resources.beecrowd.com/repository/UOJ_1042.html) - [Sort Simples](https://github.com/potigol/beecrowd/blob/master/src/1000/1042.poti) *Iniciante*
-- [x] [1043](https://resources.beecrowd.com/repository/UOJ_1043.html) - [Triângulo](https://github.com/potigol/beecrowd/blob/master/src/1000/1043.poti) *Iniciante*
-- [x] [1044](https://resources.beecrowd.com/repository/UOJ_1044.html) - [Múltiplos](https://github.com/potigol/beecrowd/blob/master/src/1000/1044.poti) *Iniciante*
-- [x] [1045](https://resources.beecrowd.com/repository/UOJ_1045.html) - [Tipos de Triângulos](https://github.com/potigol/beecrowd/blob/master/src/1000/1045.poti) *Iniciante*
-- [x] [1046](https://resources.beecrowd.com/repository/UOJ_1046.html) - [Tempo de Jogo](https://github.com/potigol/beecrowd/blob/master/src/1000/1046.poti) *Iniciante*
-- [x] [1047](https://resources.beecrowd.com/repository/UOJ_1047.html) - [Tempo de Jogo com Minutos](https://github.com/potigol/beecrowd/blob/master/src/1000/1047.poti) *Iniciante*
-- [x] [1048](https://resources.beecrowd.com/repository/UOJ_1048.html) - [Aumento de Salário](https://github.com/potigol/beecrowd/blob/master/src/1000/1048.poti) *Iniciante*
-- [x] [1049](https://resources.beecrowd.com/repository/UOJ_1049.html) - [Animal](https://github.com/potigol/beecrowd/blob/master/src/1000/1049.poti) *Iniciante*
-- [x] [1050](https://resources.beecrowd.com/repository/UOJ_1050.html) - [DDD](https://github.com/potigol/beecrowd/blob/master/src/1000/1050.poti) *Iniciante*
-- [x] [1051](https://resources.beecrowd.com/repository/UOJ_1051.html) - [Imposto de Renda](https://github.com/potigol/beecrowd/blob/master/src/1000/1051.poti) *Iniciante*
-- [x] [1052](https://resources.beecrowd.com/repository/UOJ_1052.html) - [Mês](https://github.com/potigol/beecrowd/blob/master/src/1000/1052.poti) *Iniciante*
+- [x] [1035](https://resources.beecrowd.com/repository/UOJ_1035.html) - [Teste de Seleção 1](https://potigol.github.io/beecrowd/problemas/1000/#1035-teste-de-selecao-1) *Iniciante*
+- [x] [1036](https://resources.beecrowd.com/repository/UOJ_1036.html) - [Fórmula de Bhaskara](https://potigol.github.io/beecrowd/problemas/1000/#1036-formula-de-bhaskara) *Iniciante*
+- [x] [1037](https://resources.beecrowd.com/repository/UOJ_1037.html) - [Intervalo](https://potigol.github.io/beecrowd/problemas/1000/#1037-intervalo) *Iniciante*
+- [x] [1038](https://resources.beecrowd.com/repository/UOJ_1038.html) - [Lanche](https://potigol.github.io/beecrowd/problemas/1000/#1038-lanche) *Iniciante*
+- [x] [1039](https://resources.beecrowd.com/repository/UOJ_1039.html) - [Flores de Fogo](https://potigol.github.io/beecrowd/problemas/1000/#1039-flores-de-fogo) *Geometria Computacional*
+- [x] [1040](https://resources.beecrowd.com/repository/UOJ_1040.html) - [Média 3](https://potigol.github.io/beecrowd/problemas/1000/#1040-media-3) *Iniciante*
+- [x] [1041](https://resources.beecrowd.com/repository/UOJ_1041.html) - [Coordenadas de um Ponto](https://potigol.github.io/beecrowd/problemas/1000/#1041-coordenadas-de-um-ponto) *Iniciante*
+- [x] [1042](https://resources.beecrowd.com/repository/UOJ_1042.html) - [Sort Simples](https://potigol.github.io/beecrowd/problemas/1000/#1042-sort-simples) *Iniciante*
+- [x] [1043](https://resources.beecrowd.com/repository/UOJ_1043.html) - [Triângulo](https://potigol.github.io/beecrowd/problemas/1000/#1043-triangulo) *Iniciante*
+- [x] [1044](https://resources.beecrowd.com/repository/UOJ_1044.html) - [Múltiplos](https://potigol.github.io/beecrowd/problemas/1000/#1044-multiplos) *Iniciante*
+- [x] [1045](https://resources.beecrowd.com/repository/UOJ_1045.html) - [Tipos de Triângulos](https://potigol.github.io/beecrowd/problemas/1000/#1045-tipos-de-triangulos) *Iniciante*
+- [x] [1046](https://resources.beecrowd.com/repository/UOJ_1046.html) - [Tempo de Jogo](https://potigol.github.io/beecrowd/problemas/1000/#1046-tempo-de-jogo) *Iniciante*
+- [x] [1047](https://resources.beecrowd.com/repository/UOJ_1047.html) - [Tempo de Jogo com Minutos](https://potigol.github.io/beecrowd/problemas/1000/#1047-tempo-de-jogo-com-minutos) *Iniciante*
+- [x] [1048](https://resources.beecrowd.com/repository/UOJ_1048.html) - [Aumento de Salário](https://potigol.github.io/beecrowd/problemas/1000/#1048-aumento-de-salario) *Iniciante*
+- [x] [1049](https://resources.beecrowd.com/repository/UOJ_1049.html) - [Animal](https://potigol.github.io/beecrowd/problemas/1000/#1049-animal) *Iniciante*
+- [x] [1050](https://resources.beecrowd.com/repository/UOJ_1050.html) - [DDD](https://potigol.github.io/beecrowd/problemas/1000/#1050-ddd) *Iniciante*
+- [x] [1051](https://resources.beecrowd.com/repository/UOJ_1051.html) - [Imposto de Renda](https://potigol.github.io/beecrowd/problemas/1000/#1051-imposto-de-renda) *Iniciante*
+- [x] [1052](https://resources.beecrowd.com/repository/UOJ_1052.html) - [Mês](https://potigol.github.io/beecrowd/problemas/1000/#1052-mes) *Iniciante*
 - [ ] [1053](https://resources.beecrowd.com/repository/UOJ_1053.html) - Desenho Contínuo *Grafos*
 - [ ] [1054](https://resources.beecrowd.com/repository/UOJ_1054.html) - Sapo Dinâmico *Paradigmas*
 - [ ] [1055](https://resources.beecrowd.com/repository/UOJ_1055.html) - Soma Permutada Elegante *Paradigmas*
 - [ ] [1056](https://resources.beecrowd.com/repository/UOJ_1056.html) - Fatores e Múltiplos *Grafos*
 - [ ] [1057](https://resources.beecrowd.com/repository/UOJ_1057.html) - Chegando Junto *Grafos*
 - [ ] [1058](https://resources.beecrowd.com/repository/UOJ_1058.html) - Zonas de Ataque Independentes *Paradigmas*
-- [x] [1059](https://resources.beecrowd.com/repository/UOJ_1059.html) - [Números Pares](https://github.com/potigol/beecrowd/blob/master/src/1000/1059.poti) *Iniciante*
-- [x] [1060](https://resources.beecrowd.com/repository/UOJ_1060.html) - [Números Positivos](https://github.com/potigol/beecrowd/blob/master/src/1000/1060.poti) *Iniciante*
-- [x] [1061](https://resources.beecrowd.com/repository/UOJ_1061.html) - [Tempo de um Evento](https://github.com/potigol/beecrowd/blob/master/src/1000/1061.poti) *Iniciante*
-- [x] [1062](https://resources.beecrowd.com/repository/UOJ_1062.html) - [Trilhos](https://github.com/potigol/beecrowd/blob/master/src/1000/1062.poti) *Estruturas e Bibliotecas*
-- [x] [1063](https://resources.beecrowd.com/repository/UOJ_1063.html) - [Trilhos Novamente... Traçando Movimentos](https://github.com/potigol/beecrowd/blob/master/src/1000/1063.poti) *Estruturas e Bibliotecas*
-- [x] [1064](https://resources.beecrowd.com/repository/UOJ_1064.html) - [Positivos e Média](https://github.com/potigol/beecrowd/blob/master/src/1000/1064.poti) *Iniciante*
-- [x] [1065](https://resources.beecrowd.com/repository/UOJ_1065.html) - [Pares entre Cinco Números](https://github.com/potigol/beecrowd/blob/master/src/1000/1065.poti) *Iniciante*
-- [x] [1066](https://resources.beecrowd.com/repository/UOJ_1066.html) - [Pares, Ímpares, Positivos e Negativos](https://github.com/potigol/beecrowd/blob/master/src/1000/1066.poti) *Iniciante*
-- [x] [1067](https://resources.beecrowd.com/repository/UOJ_1067.html) - [Números Ímpares](https://github.com/potigol/beecrowd/blob/master/src/1000/1067.poti) *Iniciante*
-- [x] [1068](https://resources.beecrowd.com/repository/UOJ_1068.html) - [Balanço de Parênteses I](https://github.com/potigol/beecrowd/blob/master/src/1000/1068.poti) *Estruturas e Bibliotecas*
-- [x] [1069](https://resources.beecrowd.com/repository/UOJ_1069.html) - [Diamantes e Areia](https://github.com/potigol/beecrowd/blob/master/src/1000/1069.poti) *Estruturas e Bibliotecas*
-- [x] [1070](https://resources.beecrowd.com/repository/UOJ_1070.html) - [Seis Números Ímpares](https://github.com/potigol/beecrowd/blob/master/src/1000/1070.poti) *Iniciante*
-- [x] [1071](https://resources.beecrowd.com/repository/UOJ_1071.html) - [Soma de Impares Consecutivos I](https://github.com/potigol/beecrowd/blob/master/src/1000/1071.poti) *Iniciante*
-- [x] [1072](https://resources.beecrowd.com/repository/UOJ_1072.html) - [Intervalo 2](https://github.com/potigol/beecrowd/blob/master/src/1000/1072.poti) *Iniciante*
-- [x] [1073](https://resources.beecrowd.com/repository/UOJ_1073.html) - [Quadrado de Pares](https://github.com/potigol/beecrowd/blob/master/src/1000/1073.poti) *Iniciante*
-- [x] [1074](https://resources.beecrowd.com/repository/UOJ_1074.html) - [Par ou Ímpar](https://github.com/potigol/beecrowd/blob/master/src/1000/1074.poti) *Iniciante*
-- [x] [1075](https://resources.beecrowd.com/repository/UOJ_1075.html) - [Resto 2](https://github.com/potigol/beecrowd/blob/master/src/1000/1075.poti) *Iniciante*
-- [x] [1076](https://resources.beecrowd.com/repository/UOJ_1076.html) - [Desenhando Labirintos](https://github.com/potigol/beecrowd/blob/master/src/1000/1076.poti) *Grafos*
-- [x] [1077](https://resources.beecrowd.com/repository/UOJ_1077.html) - [Infixa para Posfixa](https://github.com/potigol/beecrowd/blob/master/src/1000/1077.poti) *Estruturas e Bibliotecas*
-- [x] [1078](https://resources.beecrowd.com/repository/UOJ_1078.html) - [Tabuada](https://github.com/potigol/beecrowd/blob/master/src/1000/1078.poti) *Iniciante*
-- [x] [1079](https://resources.beecrowd.com/repository/UOJ_1079.html) - [Médias Ponderadas](https://github.com/potigol/beecrowd/blob/master/src/1000/1079.poti) *Iniciante*
-- [x] [1080](https://resources.beecrowd.com/repository/UOJ_1080.html) - [Maior e Posição](https://github.com/potigol/beecrowd/blob/master/src/1000/1080.poti) *Iniciante*
+- [x] [1059](https://resources.beecrowd.com/repository/UOJ_1059.html) - [Números Pares](https://potigol.github.io/beecrowd/problemas/1000/#1059-numeros-pares) *Iniciante*
+- [x] [1060](https://resources.beecrowd.com/repository/UOJ_1060.html) - [Números Positivos](https://potigol.github.io/beecrowd/problemas/1000/#1060-numeros-positivos) *Iniciante*
+- [x] [1061](https://resources.beecrowd.com/repository/UOJ_1061.html) - [Tempo de um Evento](https://potigol.github.io/beecrowd/problemas/1000/#1061-tempo-de-um-evento) *Iniciante*
+- [x] [1062](https://resources.beecrowd.com/repository/UOJ_1062.html) - [Trilhos](https://potigol.github.io/beecrowd/problemas/1000/#1062-trilhos) *Estruturas e Bibliotecas*
+- [x] [1063](https://resources.beecrowd.com/repository/UOJ_1063.html) - [Trilhos Novamente... Traçando Movimentos](https://potigol.github.io/beecrowd/problemas/1000/#1063-trilhos-novamente-tracando-movimentos) *Estruturas e Bibliotecas*
+- [x] [1064](https://resources.beecrowd.com/repository/UOJ_1064.html) - [Positivos e Média](https://potigol.github.io/beecrowd/problemas/1000/#1064-positivos-e-media) *Iniciante*
+- [x] [1065](https://resources.beecrowd.com/repository/UOJ_1065.html) - [Pares entre Cinco Números](https://potigol.github.io/beecrowd/problemas/1000/#1065-pares-entre-cinco-numeros) *Iniciante*
+- [x] [1066](https://resources.beecrowd.com/repository/UOJ_1066.html) - [Pares, Ímpares, Positivos e Negativos](https://potigol.github.io/beecrowd/problemas/1000/#1066-pares-impares-positivos-e-negativos) *Iniciante*
+- [x] [1067](https://resources.beecrowd.com/repository/UOJ_1067.html) - [Números Ímpares](https://potigol.github.io/beecrowd/problemas/1000/#1067-numeros-impares) *Iniciante*
+- [x] [1068](https://resources.beecrowd.com/repository/UOJ_1068.html) - [Balanço de Parênteses I](https://potigol.github.io/beecrowd/problemas/1000/#1068-balanco-de-parenteses-i) *Estruturas e Bibliotecas*
+- [x] [1069](https://resources.beecrowd.com/repository/UOJ_1069.html) - [Diamantes e Areia](https://potigol.github.io/beecrowd/problemas/1000/#1069-diamantes-e-areia) *Estruturas e Bibliotecas*
+- [x] [1070](https://resources.beecrowd.com/repository/UOJ_1070.html) - [Seis Números Ímpares](https://potigol.github.io/beecrowd/problemas/1000/#1070-seis-numeros-impares) *Iniciante*
+- [x] [1071](https://resources.beecrowd.com/repository/UOJ_1071.html) - [Soma de Impares Consecutivos I](https://potigol.github.io/beecrowd/problemas/1000/#1071-soma-de-impares-consecutivos-i) *Iniciante*
+- [x] [1072](https://resources.beecrowd.com/repository/UOJ_1072.html) - [Intervalo 2](https://potigol.github.io/beecrowd/problemas/1000/#1072-intervalo-2) *Iniciante*
+- [x] [1073](https://resources.beecrowd.com/repository/UOJ_1073.html) - [Quadrado de Pares](https://potigol.github.io/beecrowd/problemas/1000/#1073-quadrado-de-pares) *Iniciante*
+- [x] [1074](https://resources.beecrowd.com/repository/UOJ_1074.html) - [Par ou Ímpar](https://potigol.github.io/beecrowd/problemas/1000/#1074-par-ou-impar) *Iniciante*
+- [x] [1075](https://resources.beecrowd.com/repository/UOJ_1075.html) - [Resto 2](https://potigol.github.io/beecrowd/problemas/1000/#1075-resto-2) *Iniciante*
+- [x] [1076](https://resources.beecrowd.com/repository/UOJ_1076.html) - [Desenhando Labirintos](https://potigol.github.io/beecrowd/problemas/1000/#1076-desenhando-labirintos) *Grafos*
+- [x] [1077](https://resources.beecrowd.com/repository/UOJ_1077.html) - [Infixa para Posfixa](https://potigol.github.io/beecrowd/problemas/1000/#1077-infixa-para-posfixa) *Estruturas e Bibliotecas*
+- [x] [1078](https://resources.beecrowd.com/repository/UOJ_1078.html) - [Tabuada](https://potigol.github.io/beecrowd/problemas/1000/#1078-tabuada) *Iniciante*
+- [x] [1079](https://resources.beecrowd.com/repository/UOJ_1079.html) - [Médias Ponderadas](https://potigol.github.io/beecrowd/problemas/1000/#1079-medias-ponderadas) *Iniciante*
+- [x] [1080](https://resources.beecrowd.com/repository/UOJ_1080.html) - [Maior e Posição](https://potigol.github.io/beecrowd/problemas/1000/#1080-maior-e-posicao) *Iniciante*
 - [ ] [1081](https://resources.beecrowd.com/repository/UOJ_1081.html) - DFSr - Hierarquia de Profundidade *Grafos*
 - [ ] [1082](https://resources.beecrowd.com/repository/UOJ_1082.html) - Componentes Conexos *Grafos*
 - [ ] [1083](https://resources.beecrowd.com/repository/UOJ_1083.html) - LEXSIM - Avaliador Lexico e Sintático *Estruturas e Bibliotecas*
-- [x] [1084](https://resources.beecrowd.com/repository/UOJ_1084.html) - [Apagando e Ganhando](https://github.com/potigol/beecrowd/blob/master/src/1000/1084.poti) *Paradigmas*
+- [x] [1084](https://resources.beecrowd.com/repository/UOJ_1084.html) - [Apagando e Ganhando](https://potigol.github.io/beecrowd/problemas/1000/#1084-apagando-e-ganhando) *Paradigmas*
 - [ ] [1085](https://resources.beecrowd.com/repository/UOJ_1085.html) - Babel *Grafos*
 - [ ] [1086](https://resources.beecrowd.com/repository/UOJ_1086.html) - O Salão do Clube *Ad-Hoc*
-- [x] [1087](https://resources.beecrowd.com/repository/UOJ_1087.html) - [Dama](https://github.com/potigol/beecrowd/blob/master/src/1000/1087.poti) *Ad-Hoc*
+- [x] [1087](https://resources.beecrowd.com/repository/UOJ_1087.html) - [Dama](https://potigol.github.io/beecrowd/problemas/1000/#1087-dama) *Ad-Hoc*
 - [ ] [1088](https://resources.beecrowd.com/repository/UOJ_1088.html) - Bolhas e Baldes *Estruturas e Bibliotecas*
-- [x] [1089](https://resources.beecrowd.com/repository/UOJ_1089.html) - [Loop Musical](https://github.com/potigol/beecrowd/blob/master/src/1000/1089.poti) *Ad-Hoc*
+- [x] [1089](https://resources.beecrowd.com/repository/UOJ_1089.html) - [Loop Musical](https://potigol.github.io/beecrowd/problemas/1000/#1089-loop-musical) *Ad-Hoc*
 - [ ] [1090](https://resources.beecrowd.com/repository/UOJ_1090.html) - Set *Ad-Hoc*
-- [x] [1091](https://resources.beecrowd.com/repository/UOJ_1091.html) - [Divisão da Nlogônia](https://github.com/potigol/beecrowd/blob/master/src/1000/1091.poti) *Ad-Hoc*
+- [x] [1091](https://resources.beecrowd.com/repository/UOJ_1091.html) - [Divisão da Nlogônia](https://potigol.github.io/beecrowd/problemas/1000/#1091-divisao-da-nlogonia) *Ad-Hoc*
 - [ ] [1092](https://resources.beecrowd.com/repository/UOJ_1092.html) - Maior Subseqüência Crescente *Ad-Hoc*
-- [x] [1093](https://resources.beecrowd.com/repository/UOJ_1093.html) - [Vampiros](https://github.com/potigol/beecrowd/blob/master/src/1000/1093.poti) *Matemática*
-- [x] [1094](https://resources.beecrowd.com/repository/UOJ_1094.html) - [Experiências](https://github.com/potigol/beecrowd/blob/master/src/1000/1094.poti) *Iniciante*
-- [x] [1095](https://resources.beecrowd.com/repository/UOJ_1095.html) - [Sequencia IJ 1](https://github.com/potigol/beecrowd/blob/master/src/1000/1095.poti) *Iniciante*
-- [x] [1096](https://resources.beecrowd.com/repository/UOJ_1096.html) - [Sequencia IJ 2](https://github.com/potigol/beecrowd/blob/master/src/1000/1096.poti) *Iniciante*
-- [x] [1097](https://resources.beecrowd.com/repository/UOJ_1097.html) - [Sequencia IJ 3](https://github.com/potigol/beecrowd/blob/master/src/1000/1097.poti) *Iniciante*
-- [x] [1098](https://resources.beecrowd.com/repository/UOJ_1098.html) - [Sequencia IJ 4](https://github.com/potigol/beecrowd/blob/master/src/1000/1098.poti) *Iniciante*
-- [x] [1099](https://resources.beecrowd.com/repository/UOJ_1099.html) - [Soma de Ímpares Consecutivos II](https://github.com/potigol/beecrowd/blob/master/src/1000/1099.poti) *Iniciante*
+- [x] [1093](https://resources.beecrowd.com/repository/UOJ_1093.html) - [Vampiros](https://potigol.github.io/beecrowd/problemas/1000/#1093-vampiros) *Matemática*
+- [x] [1094](https://resources.beecrowd.com/repository/UOJ_1094.html) - [Experiências](https://potigol.github.io/beecrowd/problemas/1000/#1094-experiencias) *Iniciante*
+- [x] [1095](https://resources.beecrowd.com/repository/UOJ_1095.html) - [Sequencia IJ 1](https://potigol.github.io/beecrowd/problemas/1000/#1095-sequencia-ij-1) *Iniciante*
+- [x] [1096](https://resources.beecrowd.com/repository/UOJ_1096.html) - [Sequencia IJ 2](https://potigol.github.io/beecrowd/problemas/1000/#1096-sequencia-ij-2) *Iniciante*
+- [x] [1097](https://resources.beecrowd.com/repository/UOJ_1097.html) - [Sequencia IJ 3](https://potigol.github.io/beecrowd/problemas/1000/#1097-sequencia-ij-3) *Iniciante*
+- [x] [1098](https://resources.beecrowd.com/repository/UOJ_1098.html) - [Sequencia IJ 4](https://potigol.github.io/beecrowd/problemas/1000/#1098-sequencia-ij-4) *Iniciante*
+- [x] [1099](https://resources.beecrowd.com/repository/UOJ_1099.html) - [Soma de Ímpares Consecutivos II](https://potigol.github.io/beecrowd/problemas/1000/#1099-soma-de-impares-consecutivos-ii) *Iniciante*

@@ -4,14 +4,14 @@
 
 ## Problemas resolvidos
 
-- [x] [3412](https://resources.beecrowd.com/repository/UOJ_3412.html) - [Avaliações de Algoritmos](https://github.com/potigol/beecrowd/blob/master/src/3400/3412.poti)
-- [x] [3416](https://resources.beecrowd.com/repository/UOJ_3416.html) - [Eu Quero Cafééé](https://github.com/potigol/beecrowd/blob/master/src/3400/3416.poti)
-- [x] [3422](https://resources.beecrowd.com/repository/UOJ_3422.html) - [José e a Súmula](https://github.com/potigol/beecrowd/blob/master/src/3400/3422.poti)
-- [x] [3454](https://resources.beecrowd.com/repository/UOJ_3454.html) - [Alice no País do Jogo da Velha](https://github.com/potigol/beecrowd/blob/master/src/3400/3454.poti)
-- [x] [3455](https://resources.beecrowd.com/repository/UOJ_3455.html) - [Banco Nacional de Questões](https://github.com/potigol/beecrowd/blob/master/src/3400/3455.poti)
-- [x] [3456](https://resources.beecrowd.com/repository/UOJ_3456.html) - [Divisibilidade por 7](https://github.com/potigol/beecrowd/blob/master/src/3400/3456.poti)
-- [x] [3464](https://resources.beecrowd.com/repository/UOJ_3464.html) - [Latência na Rede](https://github.com/potigol/beecrowd/blob/master/src/3400/3464.poti)
-- [x] [4016](https://resources.beecrowd.com/repository/UOJ_4016.html) - [~~Deus-serpente M'boi as Cataratas do Iguaçu~~](https://github.com/potigol/beecrowd/blob/master/src/4000/4016.poti)
+- [x] [3412](https://resources.beecrowd.com/repository/UOJ_3412.html) - [Avaliações de Algoritmos](https://potigol.github.io/beecrowd/problemas/3400/#3412-avaliacoes-de-algoritmos)
+- [x] [3416](https://resources.beecrowd.com/repository/UOJ_3416.html) - [Eu Quero Cafééé](https://potigol.github.io/beecrowd/problemas/3400/#3416-eu-quero-cafeee)
+- [x] [3422](https://resources.beecrowd.com/repository/UOJ_3422.html) - [José e a Súmula](https://potigol.github.io/beecrowd/problemas/3400/#3422-jose-e-a-sumula)
+- [x] [3454](https://resources.beecrowd.com/repository/UOJ_3454.html) - [Alice no País do Jogo da Velha](https://potigol.github.io/beecrowd/problemas/3400/#3454-alice-no-pais-do-jogo-da-velha)
+- [x] [3455](https://resources.beecrowd.com/repository/UOJ_3455.html) - [Banco Nacional de Questões](https://potigol.github.io/beecrowd/problemas/3400/#3455-banco-nacional-de-questoes)
+- [x] [3456](https://resources.beecrowd.com/repository/UOJ_3456.html) - [Divisibilidade por 7](https://potigol.github.io/beecrowd/problemas/3400/#3456-divisibilidade-por-7)
+- [x] [3464](https://resources.beecrowd.com/repository/UOJ_3464.html) - [Latência na Rede](https://potigol.github.io/beecrowd/problemas/3400/#3464-latencia-na-rede)
+- [x] [4016](https://resources.beecrowd.com/repository/UOJ_4016.html) - [~~Deus-serpente M'boi as Cataratas do Iguaçu~~](https://potigol.github.io/beecrowd/problemas/4000/#4016-deus-serpente-mboi-as-cataratas-do-iguacu)
 
 ## Problemas não resolvidos
 

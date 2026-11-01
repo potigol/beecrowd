@@ -4,20 +4,20 @@
 
 ## Problemas resolvidos
 
-- [x] [1039](https://resources.beecrowd.com/repository/UOJ_1039.html) - [Flores de Fogo](https://github.com/potigol/beecrowd/blob/master/src/1000/1039.poti)
-- [x] [1124](https://resources.beecrowd.com/repository/UOJ_1124.html) - [Elevador](https://github.com/potigol/beecrowd/blob/master/src/1100/1124.poti)
-- [x] [1291](https://resources.beecrowd.com/repository/UOJ_1291.html) - [Será Isso Integração?](https://github.com/potigol/beecrowd/blob/master/src/1200/1291.poti)
-- [x] [1292](https://resources.beecrowd.com/repository/UOJ_1292.html) - [Problema com um Pentágono](https://github.com/potigol/beecrowd/blob/master/src/1200/1292.poti)
-- [x] [1294](https://resources.beecrowd.com/repository/UOJ_1294.html) - [A Maior e Menor Caixa](https://github.com/potigol/beecrowd/blob/master/src/1200/1294.poti)
-- [x] [1296](https://resources.beecrowd.com/repository/UOJ_1296.html) - [Medianas](https://github.com/potigol/beecrowd/blob/master/src/1200/1296.poti)
-- [x] [1549](https://resources.beecrowd.com/repository/UOJ_1549.html) - [Dividindo a Coca](https://github.com/potigol/beecrowd/blob/master/src/1500/1549.poti)
-- [x] [1875](https://resources.beecrowd.com/repository/UOJ_1875.html) - [Tribol](https://github.com/potigol/beecrowd/blob/master/src/1800/1875.poti)
-- [x] [2104](https://resources.beecrowd.com/repository/UOJ_2104.html) - [Lasers](https://github.com/potigol/beecrowd/blob/master/src/2100/2104.poti)
-- [x] [2158](https://resources.beecrowd.com/repository/UOJ_2158.html) - [Ajudando o Tio Cláudio](https://github.com/potigol/beecrowd/blob/master/src/2100/2158.poti)
-- [x] [2518](https://resources.beecrowd.com/repository/UOJ_2518.html) - [Escada do DINF](https://github.com/potigol/beecrowd/blob/master/src/2500/2518.poti)
-- [x] [2773](https://resources.beecrowd.com/repository/UOJ_2773.html) - [Menor Caminho](https://github.com/potigol/beecrowd/blob/master/src/2700/2773.poti)
-- [x] [2840](https://resources.beecrowd.com/repository/UOJ_2840.html) - [Balão++](https://github.com/potigol/beecrowd/blob/master/src/2800/2840.poti)
-- [x] [3152](https://resources.beecrowd.com/repository/UOJ_3152.html) - [Samuel, O Cafeicultor](https://github.com/potigol/beecrowd/blob/master/src/3100/3152.poti)
+- [x] [1039](https://resources.beecrowd.com/repository/UOJ_1039.html) - [Flores de Fogo](https://potigol.github.io/beecrowd/problemas/1000/#1039-flores-de-fogo)
+- [x] [1124](https://resources.beecrowd.com/repository/UOJ_1124.html) - [Elevador](https://potigol.github.io/beecrowd/problemas/1100/#1124-elevador)
+- [x] [1291](https://resources.beecrowd.com/repository/UOJ_1291.html) - [Será Isso Integração?](https://potigol.github.io/beecrowd/problemas/1200/#1291-sera-isso-integracao)
+- [x] [1292](https://resources.beecrowd.com/repository/UOJ_1292.html) - [Problema com um Pentágono](https://potigol.github.io/beecrowd/problemas/1200/#1292-problema-com-um-pentagono)
+- [x] [1294](https://resources.beecrowd.com/repository/UOJ_1294.html) - [A Maior e Menor Caixa](https://potigol.github.io/beecrowd/problemas/1200/#1294-a-maior-e-menor-caixa)
+- [x] [1296](https://resources.beecrowd.com/repository/UOJ_1296.html) - [Medianas](https://potigol.github.io/beecrowd/problemas/1200/#1296-medianas)
+- [x] [1549](https://resources.beecrowd.com/repository/UOJ_1549.html) - [Dividindo a Coca](https://potigol.github.io/beecrowd/problemas/1500/#1549-dividindo-a-coca)
+- [x] [1875](https://resources.beecrowd.com/repository/UOJ_1875.html) - [Tribol](https://potigol.github.io/beecrowd/problemas/1800/#1875-tribol)
+- [x] [2104](https://resources.beecrowd.com/repository/UOJ_2104.html) - [Lasers](https://potigol.github.io/beecrowd/problemas/2100/#2104-lasers)
+- [x] [2158](https://resources.beecrowd.com/repository/UOJ_2158.html) - [Ajudando o Tio Cláudio](https://potigol.github.io/beecrowd/problemas/2100/#2158-ajudando-o-tio-claudio)
+- [x] [2518](https://resources.beecrowd.com/repository/UOJ_2518.html) - [Escada do DINF](https://potigol.github.io/beecrowd/problemas/2500/#2518-escada-do-dinf)
+- [x] [2773](https://resources.beecrowd.com/repository/UOJ_2773.html) - [Menor Caminho](https://potigol.github.io/beecrowd/problemas/2700/#2773-menor-caminho)
+- [x] [2840](https://resources.beecrowd.com/repository/UOJ_2840.html) - [Balão++](https://potigol.github.io/beecrowd/problemas/2800/#2840-balao)
+- [x] [3152](https://resources.beecrowd.com/repository/UOJ_3152.html) - [Samuel, O Cafeicultor](https://potigol.github.io/beecrowd/problemas/3100/#3152-samuel-o-cafeicultor)
 
 ## Problemas não resolvidos
 

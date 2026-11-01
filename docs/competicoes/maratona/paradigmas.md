@@ -4,8 +4,8 @@
 
 ## Problemas resolvidos
 
-- [x] [1084](https://resources.beecrowd.com/repository/UOJ_1084.html) - [Apagando e Ganhando](https://github.com/potigol/beecrowd/blob/master/src/1000/1084.poti)
-- [x] [2243](https://resources.beecrowd.com/repository/UOJ_2243.html) - [Isósceles](https://github.com/potigol/beecrowd/blob/master/src/2200/2243.poti)
+- [x] [1084](https://resources.beecrowd.com/repository/UOJ_1084.html) - [Apagando e Ganhando](https://potigol.github.io/beecrowd/problemas/1000/#1084-apagando-e-ganhando)
+- [x] [2243](https://resources.beecrowd.com/repository/UOJ_2243.html) - [Isósceles](https://potigol.github.io/beecrowd/problemas/2200/#2243-isosceles)
 
 ## Problemas não resolvidos
 

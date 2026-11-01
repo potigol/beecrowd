@@ -4,8 +4,8 @@
 
 ## Problemas resolvidos
 
-- [x] [1875](https://resources.beecrowd.com/repository/UOJ_1875.html) - [Tribol](https://github.com/potigol/beecrowd/blob/master/src/1800/1875.poti)
-- [x] [3152](https://resources.beecrowd.com/repository/UOJ_3152.html) - [Samuel, O Cafeicultor](https://github.com/potigol/beecrowd/blob/master/src/3100/3152.poti)
+- [x] [1875](https://resources.beecrowd.com/repository/UOJ_1875.html) - [Tribol](https://potigol.github.io/beecrowd/problemas/1800/#1875-tribol)
+- [x] [3152](https://resources.beecrowd.com/repository/UOJ_3152.html) - [Samuel, O Cafeicultor](https://potigol.github.io/beecrowd/problemas/3100/#3152-samuel-o-cafeicultor)
 
 ## Problemas não resolvidos
 

@@ -4,17 +4,17 @@
 
 ## Problemas resolvidos
 
-- [x] [1093](https://resources.beecrowd.com/repository/UOJ_1093.html) - [Vampiros](https://github.com/potigol/beecrowd/blob/master/src/1000/1093.poti)
-- [x] [1138](https://resources.beecrowd.com/repository/UOJ_1138.html) - [Contagem de Dígitos](https://github.com/potigol/beecrowd/blob/master/src/1100/1138.poti)
-- [x] [1247](https://resources.beecrowd.com/repository/UOJ_1247.html) - [Guarda Costeira](https://github.com/potigol/beecrowd/blob/master/src/1200/1247.poti)
-- [x] [1323](https://resources.beecrowd.com/repository/UOJ_1323.html) - [Feynman](https://github.com/potigol/beecrowd/blob/master/src/1300/1323.poti)
-- [x] [1371](https://resources.beecrowd.com/repository/UOJ_1371.html) - [Fechem as Portas!](https://github.com/potigol/beecrowd/blob/master/src/1300/1371.poti)
-- [x] [1393](https://resources.beecrowd.com/repository/UOJ_1393.html) - [Lajotas Hexagonais](https://github.com/potigol/beecrowd/blob/master/src/1300/1393.poti)
-- [x] [1429](https://resources.beecrowd.com/repository/UOJ_1429.html) - [Fatorial de Novo!](https://github.com/potigol/beecrowd/blob/master/src/1400/1429.poti)
-- [x] [2238](https://resources.beecrowd.com/repository/UOJ_2238.html) - [Divisores](https://github.com/potigol/beecrowd/blob/master/src/2200/2238.poti)
-- [x] [2661](https://resources.beecrowd.com/repository/UOJ_2661.html) - [Despojados](https://github.com/potigol/beecrowd/blob/master/src/2600/2661.poti)
-- [x] [2667](https://resources.beecrowd.com/repository/UOJ_2667.html) - [Jogo de Boca](https://github.com/potigol/beecrowd/blob/master/src/2600/2667.poti)
-- [x] [2903](https://resources.beecrowd.com/repository/UOJ_2903.html) - [A Symmetrical Pizza](https://github.com/potigol/beecrowd/blob/master/src/2900/2903.poti)
+- [x] [1093](https://resources.beecrowd.com/repository/UOJ_1093.html) - [Vampiros](https://potigol.github.io/beecrowd/problemas/1000/#1093-vampiros)
+- [x] [1138](https://resources.beecrowd.com/repository/UOJ_1138.html) - [Contagem de Dígitos](https://potigol.github.io/beecrowd/problemas/1100/#1138-contagem-de-digitos)
+- [x] [1247](https://resources.beecrowd.com/repository/UOJ_1247.html) - [Guarda Costeira](https://potigol.github.io/beecrowd/problemas/1200/#1247-guarda-costeira)
+- [x] [1323](https://resources.beecrowd.com/repository/UOJ_1323.html) - [Feynman](https://potigol.github.io/beecrowd/problemas/1300/#1323-feynman)
+- [x] [1371](https://resources.beecrowd.com/repository/UOJ_1371.html) - [Fechem as Portas!](https://potigol.github.io/beecrowd/problemas/1300/#1371-fechem-as-portas)
+- [x] [1393](https://resources.beecrowd.com/repository/UOJ_1393.html) - [Lajotas Hexagonais](https://potigol.github.io/beecrowd/problemas/1300/#1393-lajotas-hexagonais)
+- [x] [1429](https://resources.beecrowd.com/repository/UOJ_1429.html) - [Fatorial de Novo!](https://potigol.github.io/beecrowd/problemas/1400/#1429-fatorial-de-novo)
+- [x] [2238](https://resources.beecrowd.com/repository/UOJ_2238.html) - [Divisores](https://potigol.github.io/beecrowd/problemas/2200/#2238-divisores)
+- [x] [2661](https://resources.beecrowd.com/repository/UOJ_2661.html) - [Despojados](https://potigol.github.io/beecrowd/problemas/2600/#2661-despojados)
+- [x] [2667](https://resources.beecrowd.com/repository/UOJ_2667.html) - [Jogo de Boca](https://potigol.github.io/beecrowd/problemas/2600/#2667-jogo-de-boca)
+- [x] [2903](https://resources.beecrowd.com/repository/UOJ_2903.html) - [A Symmetrical Pizza](https://potigol.github.io/beecrowd/problemas/2900/#2903-a-symmetrical-pizza)
 
 ## Problemas não resolvidos
 

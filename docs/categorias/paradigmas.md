@@ -4,13 +4,13 @@
 
 ## Problemas resolvidos
 
-- [x] [1029](https://resources.beecrowd.com/repository/UOJ_1029.html) - [Fibonacci, Quantas Chamadas?](https://github.com/potigol/beecrowd/blob/master/src/1000/1029.poti)
-- [x] [1084](https://resources.beecrowd.com/repository/UOJ_1084.html) - [Apagando e Ganhando](https://github.com/potigol/beecrowd/blob/master/src/1000/1084.poti)
-- [x] [1166](https://resources.beecrowd.com/repository/UOJ_1166.html) - [Torre de Hanoi, Novamente!](https://github.com/potigol/beecrowd/blob/master/src/1100/1166.poti)
-- [x] [1310](https://resources.beecrowd.com/repository/UOJ_1310.html) - [Lucro](https://github.com/potigol/beecrowd/blob/master/src/1300/1310.poti)
-- [x] [1608](https://resources.beecrowd.com/repository/UOJ_1608.html) - [Bolos da Maria](https://github.com/potigol/beecrowd/blob/master/src/1600/1608.poti)
-- [x] [1690](https://resources.beecrowd.com/repository/UOJ_1690.html) - [Soma de Sobconjuntos](https://github.com/potigol/beecrowd/blob/master/src/1600/1690.poti)
-- [x] [2243](https://resources.beecrowd.com/repository/UOJ_2243.html) - [Isósceles](https://github.com/potigol/beecrowd/blob/master/src/2200/2243.poti)
+- [x] [1029](https://resources.beecrowd.com/repository/UOJ_1029.html) - [Fibonacci, Quantas Chamadas?](https://potigol.github.io/beecrowd/problemas/1000/#1029-fibonacci-quantas-chamadas)
+- [x] [1084](https://resources.beecrowd.com/repository/UOJ_1084.html) - [Apagando e Ganhando](https://potigol.github.io/beecrowd/problemas/1000/#1084-apagando-e-ganhando)
+- [x] [1166](https://resources.beecrowd.com/repository/UOJ_1166.html) - [Torre de Hanoi, Novamente!](https://potigol.github.io/beecrowd/problemas/1100/#1166-torre-de-hanoi-novamente)
+- [x] [1310](https://resources.beecrowd.com/repository/UOJ_1310.html) - [Lucro](https://potigol.github.io/beecrowd/problemas/1300/#1310-lucro)
+- [x] [1608](https://resources.beecrowd.com/repository/UOJ_1608.html) - [Bolos da Maria](https://potigol.github.io/beecrowd/problemas/1600/#1608-bolos-da-maria)
+- [x] [1690](https://resources.beecrowd.com/repository/UOJ_1690.html) - [Soma de Sobconjuntos](https://potigol.github.io/beecrowd/problemas/1600/#1690-soma-de-sobconjuntos)
+- [x] [2243](https://resources.beecrowd.com/repository/UOJ_2243.html) - [Isósceles](https://potigol.github.io/beecrowd/problemas/2200/#2243-isosceles)
 
 ## Problemas não resolvidos
 

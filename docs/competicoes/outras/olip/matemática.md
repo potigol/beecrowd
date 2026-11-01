@@ -4,18 +4,18 @@
 
 ## Problemas resolvidos
 
-- [x] [1869](https://resources.beecrowd.com/repository/UOJ_1869.html) - [Base 32](https://github.com/potigol/beecrowd/blob/master/src/1800/1869.poti)
-- [x] [2149](https://resources.beecrowd.com/repository/UOJ_2149.html) - [Sequência do Tio Phill Bonati](https://github.com/potigol/beecrowd/blob/master/src/2100/2149.poti)
-- [x] [2154](https://resources.beecrowd.com/repository/UOJ_2154.html) - [Derivada de Polinômios](https://github.com/potigol/beecrowd/blob/master/src/2100/2154.poti)
-- [x] [2584](https://resources.beecrowd.com/repository/UOJ_2584.html) - [Pentágono](https://github.com/potigol/beecrowd/blob/master/src/2500/2584.poti)
-- [x] [2589](https://resources.beecrowd.com/repository/UOJ_2589.html) - [Maior Distância Entre Primos Consecutivos](https://github.com/potigol/beecrowd/blob/master/src/2500/2589.poti)
-- [x] [2864](https://resources.beecrowd.com/repository/UOJ_2864.html) - [Qual é a Altura?](https://github.com/potigol/beecrowd/blob/master/src/2800/2864.poti)
-- [x] [2869](https://resources.beecrowd.com/repository/UOJ_2869.html) - [Falando em Divisor...](https://github.com/potigol/beecrowd/blob/master/src/2800/2869.poti)
-- [x] [2953](https://resources.beecrowd.com/repository/UOJ_2953.html) - [Mais um Joguinho](https://github.com/potigol/beecrowd/blob/master/src/2900/2953.poti)
-- [x] [2956](https://resources.beecrowd.com/repository/UOJ_2956.html) - [Derivada de 13 Variáveis](https://github.com/potigol/beecrowd/blob/master/src/2900/2956.poti)
-- [x] [3154](https://resources.beecrowd.com/repository/UOJ_3154.html) - [A Grande Festa](https://github.com/potigol/beecrowd/blob/master/src/3100/3154.poti)
-- [x] [3308](https://resources.beecrowd.com/repository/UOJ_3308.html) - [Elevador](https://github.com/potigol/beecrowd/blob/master/src/3300/3308.poti)
-- [x] [3312](https://resources.beecrowd.com/repository/UOJ_3312.html) - [Imberbe Matemático](https://github.com/potigol/beecrowd/blob/master/src/3300/3312.poti)
+- [x] [1869](https://resources.beecrowd.com/repository/UOJ_1869.html) - [Base 32](https://potigol.github.io/beecrowd/problemas/1800/#1869-base-32)
+- [x] [2149](https://resources.beecrowd.com/repository/UOJ_2149.html) - [Sequência do Tio Phill Bonati](https://potigol.github.io/beecrowd/problemas/2100/#2149-sequencia-do-tio-phill-bonati)
+- [x] [2154](https://resources.beecrowd.com/repository/UOJ_2154.html) - [Derivada de Polinômios](https://potigol.github.io/beecrowd/problemas/2100/#2154-derivada-de-polinomios)
+- [x] [2584](https://resources.beecrowd.com/repository/UOJ_2584.html) - [Pentágono](https://potigol.github.io/beecrowd/problemas/2500/#2584-pentagono)
+- [x] [2589](https://resources.beecrowd.com/repository/UOJ_2589.html) - [Maior Distância Entre Primos Consecutivos](https://potigol.github.io/beecrowd/problemas/2500/#2589-maior-distancia-entre-primos-consecutivos)
+- [x] [2864](https://resources.beecrowd.com/repository/UOJ_2864.html) - [Qual é a Altura?](https://potigol.github.io/beecrowd/problemas/2800/#2864-qual-e-a-altura)
+- [x] [2869](https://resources.beecrowd.com/repository/UOJ_2869.html) - [Falando em Divisor...](https://potigol.github.io/beecrowd/problemas/2800/#2869-falando-em-divisor)
+- [x] [2953](https://resources.beecrowd.com/repository/UOJ_2953.html) - [Mais um Joguinho](https://potigol.github.io/beecrowd/problemas/2900/#2953-mais-um-joguinho)
+- [x] [2956](https://resources.beecrowd.com/repository/UOJ_2956.html) - [Derivada de 13 Variáveis](https://potigol.github.io/beecrowd/problemas/2900/#2956-derivada-de-13-variaveis)
+- [x] [3154](https://resources.beecrowd.com/repository/UOJ_3154.html) - [A Grande Festa](https://potigol.github.io/beecrowd/problemas/3100/#3154-a-grande-festa)
+- [x] [3308](https://resources.beecrowd.com/repository/UOJ_3308.html) - [Elevador](https://potigol.github.io/beecrowd/problemas/3300/#3308-elevador)
+- [x] [3312](https://resources.beecrowd.com/repository/UOJ_3312.html) - [Imberbe Matemático](https://potigol.github.io/beecrowd/problemas/3300/#3312-imberbe-matematico)
 
 ## Problemas não resolvidos
 
