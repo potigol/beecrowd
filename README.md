@@ -2,7 +2,7 @@
 
 > Mais de 800 problemas do Beecrowd resolvidos em Potigol, com navegação por faixa, categoria e competições.
 
-[![Problemas Resolvidos](https://img.shields.io/badge/Problemas%20Resolvidos-849-blue)](https://github.com/potigol/beecrowd/commits/master)
+[![Problemas Resolvidos](https://img.shields.io/badge/Problemas%20Resolvidos-886-blue)](https://github.com/potigol/beecrowd/commits/master)
 [![Follow us](https://img.shields.io/twitter/follow/potigol.svg?style=social)](http://twitter.com/potigol)
 
 [![Execute no GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/potigol/beecrowd?quickstart=1)
