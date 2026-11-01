@@ -1,4 +1,5 @@
 import os
+import re
 from pathlib import Path
 import yaml  # Requer PyYAML (pip install pyyaml)
 
@@ -19,6 +20,51 @@ def carregar_titulos_problemas(caminho='bin/problems.txt'):
         print(f"⚠️ Arquivo {caminho} não encontrado. Nomes de problemas não serão adicionados.")
     return titulos, dificuldades
 
+SITE = 'https://potigol.github.io/beecrowd'
+
+# arquivo em bin/ -> (nome, ícone do Material for MkDocs, caminho no site)
+COMPETICOES = [
+    ('maratona1.txt', 'Maratona SBC (1ª fase)', ':material-trophy:', 'competicoes/maratona'),
+    ('maratona2.txt', 'Maratona SBC (2ª fase)', ':material-trophy:', 'competicoes/maratona'),
+    ('obi.txt', 'OBI', ':material-medal:', 'competicoes/obi'),
+    ('olip.txt', 'Olimpíada IFSULDEMINAS', ':material-school:', 'competicoes/outras/olip'),
+    ('maratona0.txt', 'Fase Zero - Maratona SBC', ':material-flag-checkered:', 'competicoes/outras/fasezero'),
+]
+
+def limpar_categoria(categoria):
+    """Nome do arquivo/URL da categoria (apenas letras minúsculas)."""
+    return ''.join(c for c in categoria.lower() if c.isalpha())
+
+def carregar_competicoes(pasta='bin'):
+    """Retorna {numero: [(nome, icone, caminho, ano), ...]} dos problemas em competições."""
+    resultado = {}
+    for arquivo, nome, icone, caminho in COMPETICOES:
+        try:
+            with open(os.path.join(pasta, arquivo), 'r', encoding='utf-8') as f:
+                linhas = f.read().splitlines()
+        except FileNotFoundError:
+            print(f"⚠️ Arquivo {arquivo} não encontrado. Competição ignorada.")
+            continue
+        for linha in linhas:
+            partes = linha.split(' ')
+            if len(partes) < 2:
+                continue
+            ano = partes[0]
+            for faixa in partes[1].split(','):
+                inicio, fim = int(faixa[:4]), int(faixa[-4:])
+                for n in range(inicio, fim + 1):
+                    resultado.setdefault(str(n), []).append((nome, icone, caminho, ano))
+    return resultado
+
+def linha_classificacao(categoria, competicoes):
+    """Linha em Markdown com a categoria e as competições do problema."""
+    partes = []
+    if categoria:
+        partes.append(f"Categoria: [{categoria}]({SITE}/categorias/{limpar_categoria(categoria)}/)")
+    for nome, icone, caminho, ano in competicoes:
+        partes.append(f"{icone} [{nome} {ano}]({SITE}/{caminho}/)")
+    return ' · '.join(partes)
+
 def gerar_nav_item(grupo, arquivos):
     """Gera um item de navegação para o mkdocs.yml."""
     if grupo == '.':
@@ -33,6 +79,7 @@ def gerar_nav_item(grupo, arquivos):
 def agrupar_arquivos_poti(src_dir='src', dest_dir='docs/problemas'):
     """Agrupa arquivos .poti em arquivos Markdown otimizados para MkDocs Material."""
     titulos, dificuldades = carregar_titulos_problemas()
+    competicoes = carregar_competicoes()
     nav_items = []
     
     Path(dest_dir).mkdir(parents=True, exist_ok=True)
@@ -60,6 +107,7 @@ def agrupar_arquivos_poti(src_dir='src', dest_dir='docs/problemas'):
                         'arquivo': file,
                         'titulo': titulo,
                         'dificuldade': dificuldade,
+                        'competicoes': competicoes.get(numero, []),
                         'conteudo': conteudo
                     })
                 except Exception as e:
@@ -110,6 +158,10 @@ def agrupar_arquivos_poti(src_dir='src', dest_dir='docs/problemas'):
                     # Seção do problema com âncora
                     f.write(f"## {p['numero']} - {p['titulo']}\n\n")
                     f.write(f"Descrição do Problema: [{p['numero']} - {p['titulo']}](https://resources.beecrowd.com/repository/UOJ_{p['numero']}.html)\n\n")
+
+                    classificacao = linha_classificacao(p['dificuldade'], p['competicoes'])
+                    if classificacao:
+                        f.write(f"{classificacao}\n\n")
                     
                     # Admonition com metadados
                 #    if p['dificuldade']:

@@ -1,3 +1,4 @@
 prefix=https://resources.beecrowd.com/repository/UOJ_
 code=https://github.com/potigol/beecrowd/blob/master/src
 extension=poti
+site=https://potigol.github.io/beecrowd/problemas

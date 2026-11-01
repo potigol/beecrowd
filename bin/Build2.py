@@ -1,3 +1,5 @@
+import re
+import unicodedata
 from dataclasses import dataclass, field
 from pathlib import Path
 
@@ -50,11 +52,22 @@ class Text:
         category = f" *{problem.category}*" if show_category else ""
         return (
             f"- [x] [{problem.number}]({CONFIG['prefix']}{problem.number}.html) - "
-            f"[{problem.name}]({CONFIG['code']}/{dir(problem.number)}/"
-            f"{problem.number}.{CONFIG['extension']}){category}"
+            f"[{problem.name}]({CONFIG['site']}/{dir(problem.number)}/"
+            f"#{anchor(problem)}){category}"
         )
 
     absent = "- [ ] ~~xxxx~~"
+
+
+def slugify(value: str) -> str:
+    # Mesmo algoritmo do slugify padrão do toc (Python-Markdown/MkDocs)
+    value = unicodedata.normalize("NFKD", value).encode("ascii", "ignore").decode("ascii")
+    value = re.sub(r"[^\w\s-]", "", value).strip().lower()
+    return re.sub(r"[-\s]+", "-", value)
+
+
+def anchor(problem: Problem) -> str:
+    return slugify(f"{problem.number} - {problem.name}")
 
 
 def clean(value: str) -> str:
