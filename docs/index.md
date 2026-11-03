@@ -20,22 +20,22 @@
 
 ## Competições de programação
 
-- [Maratona de Programação da SBC/ACM](competicoes/maratona/README.md)
-- [Olimpíada Brasileira de Informática (OBI)](competicoes/obi/README.md)
-- [Olimpíada Interna de Programação do IFSULDEMINAS (OLIP)](competicoes/outras/olip/README.md)
-- [Fase Zero da Mratona de Programação da SBC](competicoes/outras/fasezero/README.md)
+- [Maratona de Programação da SBC/ACM](competicoes/maratona/)
+- [Olimpíada Brasileira de Informática (OBI)](competicoes/obi/)
+- [Olimpíada Interna de Programação do IFSULDEMINAS (OLIP)](competicoes/outras/olip/)
+- [Fase Zero da Mratona de Programação da SBC](competicoes/outras/fasezero/)
 
 ## Problemas por faixa
 
-[1000](problemas/1000/README.md), [1100](problemas/1100/README.md), [1200](problemas/1200/README.md),
-[1300](problemas/1300/README.md), [1400](problemas/1400/README.md), [1500](problemas/1500/README.md),
-[1600](problemas/1600/README.md), [1700](problemas/1700/README.md), [1800](problemas/1800/README.md),
-[1900](problemas/1900/README.md), [2000](problemas/2000/README.md), [2100](problemas/2100/README.md),
-[2200](problemas/2200/README.md), [2300](problemas/2300/README.md), [2400](problemas/2400/README.md),
-[2500](problemas/2500/README.md), [2600](problemas/2600/README.md), [2700](problemas/2700/README.md),
-[2800](problemas/2800/README.md), [2900](problemas/2900/README.md), [3000](problemas/3000/README.md),
-[3100](problemas/3100/README.md), [3200](problemas/3200/README.md), [3300](problemas/3300/README.md),
-[3400](problemas/3400/README.md), [3500](problemas/3500/README.md), [4000](problemas/4000/README.md)
+[1000](problemas/1000/), [1100](problemas/1100/), [1200](problemas/1200/),
+[1300](problemas/1300/), [1400](problemas/1400/), [1500](problemas/1500/),
+[1600](problemas/1600/), [1700](problemas/1700/), [1800](problemas/1800/),
+[1900](problemas/1900/), [2000](problemas/2000/), [2100](problemas/2100/),
+[2200](problemas/2200/), [2300](problemas/2300/), [2400](problemas/2400/),
+[2500](problemas/2500/), [2600](problemas/2600/), [2700](problemas/2700/),
+[2800](problemas/2800/), [2900](problemas/2900/), [3000](problemas/3000/),
+[3100](problemas/3100/), [3200](problemas/3200/), [3300](problemas/3300/),
+[3400](problemas/3400/), [3500](problemas/3500/), [4000](problemas/4000/)
 
 ## Verificação das soluções
 
