@@ -2483,6 +2483,7 @@
 3482	Seguidores	SQL
 3483	Segundo Maior e Menor	SQL
 3484	Turma Dividida	Estruturas e Bibliotecas
+3485	~~Terra Media~~	Ad-Hoc
 3486	Registro de exibição	Ad-Hoc
 3487	Firmware - Substring Manipulation	Ad-Hoc
 3488	Binary/Hexadecimal Number Systems	Ad-Hoc
@@ -2494,6 +2495,7 @@
 3494	Palavras transformadas	Iniciante
 3495	Gianzin Berranteiro	Iniciante	
 3496	Promoção imperdível	Paradigmas
+3497	~~Segurança dos Currais~~	Ad-Hoc
 3498	Pares especiais	Estruturas e Bibliotecas
 3499	Bella, a cachorrinha sapeca	Iniciante
 3500	Inversão de Número	Iniciante

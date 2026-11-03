@@ -85,7 +85,7 @@
 - [ ] [3482](https://resources.beecrowd.com/repository/UOJ_3482.html) - Seguidores *SQL*
 - [ ] [3483](https://resources.beecrowd.com/repository/UOJ_3483.html) - Segundo Maior e Menor *SQL*
 - [ ] [3484](https://resources.beecrowd.com/repository/UOJ_3484.html) - Turma Dividida *Estruturas e Bibliotecas*
-- [ ] ~~xxxx~~
+- [ ] [3485](https://resources.beecrowd.com/repository/UOJ_3485.html) - ~~Terra Media~~ *Ad-Hoc*
 - [ ] [3486](https://resources.beecrowd.com/repository/UOJ_3486.html) - Registro de exibição *Ad-Hoc*
 - [x] [3487](https://resources.beecrowd.com/repository/UOJ_3487.html) - [Firmware - Substring Manipulation](https://potigol.github.io/beecrowd/problemas/3400/#3487-firmware-substring-manipulation) *Ad-Hoc*
 - [x] [3488](https://resources.beecrowd.com/repository/UOJ_3488.html) - [Binary/Hexadecimal Number Systems](https://potigol.github.io/beecrowd/problemas/3400/#3488-binaryhexadecimal-number-systems) *Ad-Hoc*
@@ -97,6 +97,6 @@
 - [x] [3494](https://resources.beecrowd.com/repository/UOJ_3494.html) - [Palavras transformadas](https://potigol.github.io/beecrowd/problemas/3400/#3494-palavras-transformadas) *Iniciante*
 - [ ] [3495](https://resources.beecrowd.com/repository/UOJ_3495.html) - Gianzin Berranteiro *Iniciante*
 - [ ] [3496](https://resources.beecrowd.com/repository/UOJ_3496.html) - Promoção imperdível *Paradigmas*
-- [ ] ~~xxxx~~
+- [ ] [3497](https://resources.beecrowd.com/repository/UOJ_3497.html) - ~~Segurança dos Currais~~ *Ad-Hoc*
 - [ ] [3498](https://resources.beecrowd.com/repository/UOJ_3498.html) - Pares especiais *Estruturas e Bibliotecas*
 - [ ] [3499](https://resources.beecrowd.com/repository/UOJ_3499.html) - Bella, a cachorrinha sapeca *Iniciante*

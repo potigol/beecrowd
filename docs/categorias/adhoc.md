@@ -1,4 +1,4 @@
-# Ad-Hoc (282 / 954)
+# Ad-Hoc (282 / 956)
 
 
 
@@ -931,8 +931,10 @@
 - [ ] [3470](https://resources.beecrowd.com/repository/UOJ_3470.html) - Jogo do 8
 - [ ] [3472](https://resources.beecrowd.com/repository/UOJ_3472.html) - Lá em cima do piano
 - [ ] [3478](https://resources.beecrowd.com/repository/UOJ_3478.html) - Geiapan
+- [ ] [3485](https://resources.beecrowd.com/repository/UOJ_3485.html) - ~~Terra Media~~
 - [ ] [3486](https://resources.beecrowd.com/repository/UOJ_3486.html) - Registro de exibição
 - [ ] [3489](https://resources.beecrowd.com/repository/UOJ_3489.html) - C++ Templates and STL Containers
+- [ ] [3497](https://resources.beecrowd.com/repository/UOJ_3497.html) - ~~Segurança dos Currais~~
 - [ ] [3501](https://resources.beecrowd.com/repository/UOJ_3501.html) - Maior número na matriz
 - [ ] [3513](https://resources.beecrowd.com/repository/UOJ_3513.html) - O Militar de Guaxupé
 - [ ] [3521](https://resources.beecrowd.com/repository/UOJ_3521.html) - Maratona de Petiscos
