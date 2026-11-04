@@ -1,9 +1,6 @@
 # Geometria Computacional (0 / 1)
 
-
-
 ## Problemas resolvidos
-
 
 ## Problemas não resolvidos
 

@@ -1,7 +1,5 @@
 # Estruturas e Bibliotecas (5 / 13)
 
-
-
 ## Problemas resolvidos
 
 - [x] [1874](https://resources.beecrowd.com/repository/UOJ_1874.html) - [Empurrando Blocos](https://potigol.github.io/beecrowd/problemas/1800/#1874-empurrando-blocos)

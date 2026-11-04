@@ -1,7 +1,5 @@
 # Grafos (2 / 18)
 
-
-
 ## Problemas resolvidos
 
 - [x] [2428](https://resources.beecrowd.com/repository/UOJ_2428.html) - [Capital](https://potigol.github.io/beecrowd/problemas/2400/#2428-capital)

@@ -1,7 +1,5 @@
 # Olimpíada IFSULDEMINAS (85 / 162)
 
-
-
 ## 2026
 
 - [ ] [3510](https://resources.beecrowd.com/repository/UOJ_3510.html) - Sequência Válida *Estruturas e Bibliotecas*

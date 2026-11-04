@@ -1,7 +1,5 @@
 # Ad-Hoc (25 / 56)
 
-
-
 ## Problemas resolvidos
 
 - [x] [1867](https://resources.beecrowd.com/repository/UOJ_1867.html) - [Maior Número de Um Algarismo](https://potigol.github.io/beecrowd/problemas/1800/#1867-maior-numero-de-um-algarismo)

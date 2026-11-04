@@ -1,7 +1,5 @@
 # Iniciante (16 / 16)
 
-
-
 ## Problemas resolvidos
 
 - [x] [1929](https://resources.beecrowd.com/repository/UOJ_1929.html) - [Triângulo](https://potigol.github.io/beecrowd/problemas/1900/#1929-triangulo)

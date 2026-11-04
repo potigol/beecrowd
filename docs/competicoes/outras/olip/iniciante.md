@@ -1,7 +1,5 @@
 # Iniciante (26 / 31)
 
-
-
 ## Problemas resolvidos
 
 - [x] [1865](https://resources.beecrowd.com/repository/UOJ_1865.html) - [Mjölnir](https://potigol.github.io/beecrowd/problemas/1800/#1865-mjolnir)

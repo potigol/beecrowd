@@ -1,7 +1,5 @@
 # Fase Zero - Maratona SBC (9 / 38)
 
-
-
 ## 2024
 
 - [x] [4013](https://resources.beecrowd.com/repository/UOJ_4013.html) - [~~Alice e as Canções e Iara~~](https://potigol.github.io/beecrowd/problemas/4000/#4013-alice-e-as-cancoes-e-iara) *Iniciante*

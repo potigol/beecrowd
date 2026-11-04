@@ -1,7 +1,5 @@
 # Olimpíada Brasileira de Informática (107 / 215)
 
-
-
 ## 2019
 
 - [x] [3046](https://resources.beecrowd.com/repository/UOJ_3046.html) - [Dominó](https://potigol.github.io/beecrowd/problemas/3000/#3046-domino) *Iniciante*
