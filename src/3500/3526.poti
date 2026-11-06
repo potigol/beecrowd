@@ -1,0 +1,6 @@
+entrada = leia_inteiros(" ")
+s, p, n = entrada[1], entrada[2], entrada[3]
+se s >= p * (n + 1)
+    então escreva "SIM"
+    senão escreva "NÃO"
+fim

@@ -1,4 +1,4 @@
-# Iniciante (309 / 327)
+# Iniciante (310 / 327)
 
 
 
@@ -313,6 +313,7 @@
 - [x] [3346](https://resources.beecrowd.com/repository/UOJ_3346.html) - [Flutuação do PIB](https://potigol.github.io/beecrowd/problemas/3300/#3346-flutuacao-do-pib)
 - [x] [3348](https://resources.beecrowd.com/repository/UOJ_3348.html) - [Jogo das Aranhas](https://potigol.github.io/beecrowd/problemas/3300/#3348-jogo-das-aranhas)
 - [x] [3494](https://resources.beecrowd.com/repository/UOJ_3494.html) - [Palavras transformadas](https://potigol.github.io/beecrowd/problemas/3400/#3494-palavras-transformadas)
+- [x] [3526](https://resources.beecrowd.com/repository/UOJ_3526.html) - [Delgado Quer Salgado](https://potigol.github.io/beecrowd/problemas/3500/#3526-delgado-quer-salgado)
 
 ## Problemas não resolvidos
 
@@ -332,5 +333,4 @@
 - [ ] [3506](https://resources.beecrowd.com/repository/UOJ_3506.html) - Quantos primos?
 - [ ] [3507](https://resources.beecrowd.com/repository/UOJ_3507.html) - Tigres e Gansos
 - [ ] [3520](https://resources.beecrowd.com/repository/UOJ_3520.html) - Próximo ímpar
-- [ ] [3526](https://resources.beecrowd.com/repository/UOJ_3526.html) - Delgado Quer Salgado
 - [ ] [3527](https://resources.beecrowd.com/repository/UOJ_3527.html) - Fumo das Sete

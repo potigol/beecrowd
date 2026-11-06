@@ -1,4 +1,4 @@
-# Problemas 3500 (0/30)
+# Problemas 3500 (1/30)
 
 - [ ] [3500](https://resources.beecrowd.com/repository/UOJ_3500.html) - Inversão de Número *Iniciante*
 - [ ] [3501](https://resources.beecrowd.com/repository/UOJ_3501.html) - Maior número na matriz *Ad-Hoc*
@@ -26,7 +26,7 @@
 - [ ] [3523](https://resources.beecrowd.com/repository/UOJ_3523.html) - Catraca *Matemática*
 - [ ] [3524](https://resources.beecrowd.com/repository/UOJ_3524.html) - Lâmpadas *Ad-Hoc*
 - [ ] [3525](https://resources.beecrowd.com/repository/UOJ_3525.html) - Condenado a Ser Livre *Grafos*
-- [ ] [3526](https://resources.beecrowd.com/repository/UOJ_3526.html) - Delgado Quer Salgado *Iniciante*
+- [x] [3526](https://resources.beecrowd.com/repository/UOJ_3526.html) - [Delgado Quer Salgado](https://potigol.github.io/beecrowd/problemas/3500/#3526-delgado-quer-salgado) *Iniciante*
 - [ ] [3527](https://resources.beecrowd.com/repository/UOJ_3527.html) - Fumo das Sete *Iniciante*
 - [ ] [3528](https://resources.beecrowd.com/repository/UOJ_3528.html) - A Hora da Estrela *Grafos*
 - [ ] [3529](https://resources.beecrowd.com/repository/UOJ_3529.html) - Cursos de Verão *Paradigmas*
