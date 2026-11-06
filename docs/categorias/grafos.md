@@ -1,4 +1,4 @@
-# Grafos (9 / 281)
+# Grafos (10 / 285)
 
 
 
@@ -13,6 +13,7 @@
 - [x] [2428](https://resources.beecrowd.com/repository/UOJ_2428.html) - [Capital](https://potigol.github.io/beecrowd/problemas/2400/#2428-capital)
 - [x] [2687](https://resources.beecrowd.com/repository/UOJ_2687.html) - [Dominação Bacteriana](https://potigol.github.io/beecrowd/problemas/2600/#2687-dominacao-bacteriana)
 - [x] [3043](https://resources.beecrowd.com/repository/UOJ_3043.html) - [Festa Junina](https://potigol.github.io/beecrowd/problemas/3000/#3043-festa-junina)
+- [x] [3204](https://resources.beecrowd.com/repository/UOJ_3204.html) - [Honeycomb Walk](https://potigol.github.io/beecrowd/problemas/3200/#3204-honeycomb-walk)
 
 ## Problemas não resolvidos
 
@@ -184,7 +185,6 @@
 - [ ] [2130](https://resources.beecrowd.com/repository/UOJ_2130.html) - Final Mundial de 2008
 - [ ] [2131](https://resources.beecrowd.com/repository/UOJ_2131.html) - Mesa da Sra. Montagny!
 - [ ] [2155](https://resources.beecrowd.com/repository/UOJ_2155.html) - Os Icosaedros do Lagarto
-- [ ] [2173](https://resources.beecrowd.com/repository/UOJ_2173.html) - ~~Caixa Dois~~
 - [ ] [2182](https://resources.beecrowd.com/repository/UOJ_2182.html) - Luciano e a Bicicletinha
 - [ ] [2184](https://resources.beecrowd.com/repository/UOJ_2184.html) - Pomekons
 - [ ] [2190](https://resources.beecrowd.com/repository/UOJ_2190.html) - Rede Ótica
@@ -255,7 +255,6 @@
 - [ ] [3031](https://resources.beecrowd.com/repository/UOJ_3031.html) - Xor Spanning Tree
 - [ ] [3044](https://resources.beecrowd.com/repository/UOJ_3044.html) - Manutenção
 - [ ] [3061](https://resources.beecrowd.com/repository/UOJ_3061.html) - Manchas de Pele
-- [ ] [3066](https://resources.beecrowd.com/repository/UOJ_3066.html) - ~~Dengue~~
 - [ ] [3067](https://resources.beecrowd.com/repository/UOJ_3067.html) - Dominó
 - [ ] [3070](https://resources.beecrowd.com/repository/UOJ_3070.html) - Autoestradas HyperspaceTM
 - [ ] [3072](https://resources.beecrowd.com/repository/UOJ_3072.html) - Namoro
@@ -269,6 +268,7 @@
 - [ ] [3150](https://resources.beecrowd.com/repository/UOJ_3150.html) - O Esconderijo do Rambo
 - [ ] [3158](https://resources.beecrowd.com/repository/UOJ_3158.html) - O Bom Presidente
 - [ ] [3169](https://resources.beecrowd.com/repository/UOJ_3169.html) - Batendo em Retirada
+- [ ] [3181](https://resources.beecrowd.com/repository/UOJ_3181.html) - Jantar
 - [ ] [3193](https://resources.beecrowd.com/repository/UOJ_3193.html) - Full Tank?
 - [ ] [3194](https://resources.beecrowd.com/repository/UOJ_3194.html) - Nested Dolls
 - [ ] [3211](https://resources.beecrowd.com/repository/UOJ_3211.html) - Reino
@@ -276,10 +276,12 @@
 - [ ] [3218](https://resources.beecrowd.com/repository/UOJ_3218.html) - Fuga Rápida
 - [ ] [3220](https://resources.beecrowd.com/repository/UOJ_3220.html) - Planejamento de Vôo
 - [ ] [3221](https://resources.beecrowd.com/repository/UOJ_3221.html) - Faróis
+- [ ] [3229](https://resources.beecrowd.com/repository/UOJ_3229.html) - Resenhas de Comida
 - [ ] [3236](https://resources.beecrowd.com/repository/UOJ_3236.html) - Sucessão
 - [ ] [3237](https://resources.beecrowd.com/repository/UOJ_3237.html) - Conectar
 - [ ] [3247](https://resources.beecrowd.com/repository/UOJ_3247.html) - Robôs em uma Grade
 - [ ] [3264](https://resources.beecrowd.com/repository/UOJ_3264.html) - Pinball
+- [ ] [3267](https://resources.beecrowd.com/repository/UOJ_3267.html) - Passeio no Penhasco
 - [ ] [3268](https://resources.beecrowd.com/repository/UOJ_3268.html) - Lounges da Amanda
 - [ ] [3269](https://resources.beecrowd.com/repository/UOJ_3269.html) - Vigilância de Basin City
 - [ ] [3314](https://resources.beecrowd.com/repository/UOJ_3314.html) - Konfusa, a Colmeia!
@@ -288,3 +290,5 @@
 - [ ] [3356](https://resources.beecrowd.com/repository/UOJ_3356.html) - Reprodução Controlada
 - [ ] [3503](https://resources.beecrowd.com/repository/UOJ_3503.html) - Jogo dos números
 - [ ] [3515](https://resources.beecrowd.com/repository/UOJ_3515.html) - Paradoxo dos Microsserviços
+- [ ] [3525](https://resources.beecrowd.com/repository/UOJ_3525.html) - Condenado a Ser Livre
+- [ ] [3528](https://resources.beecrowd.com/repository/UOJ_3528.html) - A Hora da Estrela

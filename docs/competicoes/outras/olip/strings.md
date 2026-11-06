@@ -1,5 +1,7 @@
 # Strings (15 / 19)
 
+
+
 ## Problemas resolvidos
 
 - [x] [1868](https://resources.beecrowd.com/repository/UOJ_1868.html) - [Espiral Quadrada](https://potigol.github.io/beecrowd/problemas/1800/#1868-espiral-quadrada)

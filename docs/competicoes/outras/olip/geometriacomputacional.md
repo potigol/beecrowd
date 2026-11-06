@@ -1,5 +1,7 @@
 # Geometria Computacional (2 / 3)
 
+
+
 ## Problemas resolvidos
 
 - [x] [1875](https://resources.beecrowd.com/repository/UOJ_1875.html) - [Tribol](https://potigol.github.io/beecrowd/problemas/1800/#1875-tribol)

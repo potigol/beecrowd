@@ -1,4 +1,4 @@
-# Paradigmas (7 / 219)
+# Paradigmas (9 / 222)
 
 
 
@@ -11,6 +11,8 @@
 - [x] [1608](https://resources.beecrowd.com/repository/UOJ_1608.html) - [Bolos da Maria](https://potigol.github.io/beecrowd/problemas/1600/#1608-bolos-da-maria)
 - [x] [1690](https://resources.beecrowd.com/repository/UOJ_1690.html) - [Soma de Sobconjuntos](https://potigol.github.io/beecrowd/problemas/1600/#1690-soma-de-sobconjuntos)
 - [x] [2243](https://resources.beecrowd.com/repository/UOJ_2243.html) - [Isósceles](https://potigol.github.io/beecrowd/problemas/2200/#2243-isosceles)
+- [x] [2769](https://resources.beecrowd.com/repository/UOJ_2769.html) - [Linha de Montagem](https://potigol.github.io/beecrowd/problemas/2700/#2769-linha-de-montagem)
+- [x] [3042](https://resources.beecrowd.com/repository/UOJ_3042.html) - [Desviando de Árvores de Natal](https://potigol.github.io/beecrowd/problemas/3000/#3042-desviando-de-arvores-de-natal)
 
 ## Problemas não resolvidos
 
@@ -226,3 +228,4 @@
 - [ ] [3511](https://resources.beecrowd.com/repository/UOJ_3511.html) - Dígitos Ímpares
 - [ ] [3514](https://resources.beecrowd.com/repository/UOJ_3514.html) - Sequência colorida
 - [ ] [3518](https://resources.beecrowd.com/repository/UOJ_3518.html) - SEES Operation
+- [ ] [3529](https://resources.beecrowd.com/repository/UOJ_3529.html) - Cursos de Verão

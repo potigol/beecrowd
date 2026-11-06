@@ -1,4 +1,6 @@
-# Ad-Hoc (88 / 172)
+# Ad-Hoc (87 / 171)
+
+
 
 ## Problemas resolvidos
 
@@ -81,7 +83,6 @@
 - [x] [2472](https://resources.beecrowd.com/repository/UOJ_2472.html) - [Tapetes](https://potigol.github.io/beecrowd/problemas/2400/#2472-tapetes)
 - [x] [2473](https://resources.beecrowd.com/repository/UOJ_2473.html) - [Loteria](https://potigol.github.io/beecrowd/problemas/2400/#2473-loteria)
 - [x] [2830](https://resources.beecrowd.com/repository/UOJ_2830.html) - [Copa](https://potigol.github.io/beecrowd/problemas/2800/#2830-copa)
-- [x] [2831](https://resources.beecrowd.com/repository/UOJ_2831.html) - [~~Pesos~~](https://potigol.github.io/beecrowd/problemas/2800/#2831-pesos)
 - [x] [2833](https://resources.beecrowd.com/repository/UOJ_2833.html) - [Campeonato](https://potigol.github.io/beecrowd/problemas/2800/#2833-campeonato)
 - [x] [2835](https://resources.beecrowd.com/repository/UOJ_2835.html) - [Elevador](https://potigol.github.io/beecrowd/problemas/2800/#2835-elevador)
 - [x] [3048](https://resources.beecrowd.com/repository/UOJ_3048.html) - [Sequência Secreta](https://potigol.github.io/beecrowd/problemas/3000/#3048-sequencia-secreta)

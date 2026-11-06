@@ -16,7 +16,7 @@
 - [ ] [1313](https://resources.beecrowd.com/repository/UOJ_1313.html) - Dicionário Portuñol *Strings*
 - [ ] [1314](https://resources.beecrowd.com/repository/UOJ_1314.html) - Labirintos de Cerca Viva *Grafos*
 - [ ] [1315](https://resources.beecrowd.com/repository/UOJ_1315.html) - Não tão Convexo *Geometria Computacional*
-- [ ] [1316](https://resources.beecrowd.com/repository/UOJ_1316.html) - ~~Compra Livre de Impostos~~ *Matemática*
+- [ ] [1316](https://resources.beecrowd.com/repository/UOJ_1316.html) - ~~Compra Livre de Impostos~~ *Excluído*
 - [ ] [1317](https://resources.beecrowd.com/repository/UOJ_1317.html) - Eu Odeio SPAM, Mas Algumas Pessoas Amam *Grafos*
 - [x] [1318](https://resources.beecrowd.com/repository/UOJ_1318.html) - [Bilhetes Falsos](https://potigol.github.io/beecrowd/problemas/1300/#1318-bilhetes-falsos) *Ad-Hoc*
 - [ ] [1319](https://resources.beecrowd.com/repository/UOJ_1319.html) - Garota Hiperativa *Paradigmas*

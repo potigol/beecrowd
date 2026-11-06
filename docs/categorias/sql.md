@@ -1,4 +1,4 @@
-# SQL (10 / 54)
+# SQL (10 / 52)
 
 
 
@@ -17,7 +17,6 @@
 
 ## Problemas não resolvidos
 
-- [ ] [2612](https://resources.beecrowd.com/repository/UOJ_2612.html) - ~~Os Atores Silva~~
 - [ ] [2613](https://resources.beecrowd.com/repository/UOJ_2613.html) - Filmes em Promoção
 - [ ] [2614](https://resources.beecrowd.com/repository/UOJ_2614.html) - Locações de Setembro
 - [ ] [2615](https://resources.beecrowd.com/repository/UOJ_2615.html) - Expandindo o Negocio
@@ -53,7 +52,6 @@
 - [ ] [2997](https://resources.beecrowd.com/repository/UOJ_2997.html) - Pagamento dos Empregados
 - [ ] [2998](https://resources.beecrowd.com/repository/UOJ_2998.html) - The Payback
 - [ ] [2999](https://resources.beecrowd.com/repository/UOJ_2999.html) - Maior Sálario da Divisão
-- [ ] [3000](https://resources.beecrowd.com/repository/UOJ_3000.html) - ~~Maiores Salários do Departamento~~
 - [ ] [3001](https://resources.beecrowd.com/repository/UOJ_3001.html) - Update sem Where
 - [ ] [3480](https://resources.beecrowd.com/repository/UOJ_3480.html) - Cadeiras adjacentes
 - [ ] [3481](https://resources.beecrowd.com/repository/UOJ_3481.html) - Classificando uma Árvore

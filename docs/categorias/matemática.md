@@ -1,4 +1,4 @@
-# Matemática (107 / 275)
+# Matemática (110 / 279)
 
 
 
@@ -104,8 +104,11 @@
 - [x] [3104](https://resources.beecrowd.com/repository/UOJ_3104.html) - [Resto 2.0](https://potigol.github.io/beecrowd/problemas/3100/#3104-resto-20)
 - [x] [3138](https://resources.beecrowd.com/repository/UOJ_3138.html) - [Aniversário do Tobias](https://potigol.github.io/beecrowd/problemas/3100/#3138-aniversario-do-tobias)
 - [x] [3154](https://resources.beecrowd.com/repository/UOJ_3154.html) - [A Grande Festa](https://potigol.github.io/beecrowd/problemas/3100/#3154-a-grande-festa)
+- [x] [3164](https://resources.beecrowd.com/repository/UOJ_3164.html) - [Fiscalizando Empresa](https://potigol.github.io/beecrowd/problemas/3100/#3164-fiscalizando-empresa)
 - [x] [3165](https://resources.beecrowd.com/repository/UOJ_3165.html) - [Primos Gêmeos](https://potigol.github.io/beecrowd/problemas/3100/#3165-primos-gemeos)
 - [x] [3182](https://resources.beecrowd.com/repository/UOJ_3182.html) - [Planejamento de Evento](https://potigol.github.io/beecrowd/problemas/3100/#3182-planejamento-de-evento)
+- [x] [3208](https://resources.beecrowd.com/repository/UOJ_3208.html) - [O Criptógrafo Envergonhado](https://potigol.github.io/beecrowd/problemas/3200/#3208-o-criptografo-envergonhado)
+- [x] [3217](https://resources.beecrowd.com/repository/UOJ_3217.html) - [Chuva Caindo](https://potigol.github.io/beecrowd/problemas/3200/#3217-chuva-caindo)
 - [x] [3257](https://resources.beecrowd.com/repository/UOJ_3257.html) - [Plantando Árvores](https://potigol.github.io/beecrowd/problemas/3200/#3257-plantando-arvores)
 - [x] [3271](https://resources.beecrowd.com/repository/UOJ_3271.html) - [Jogo de Dados](https://potigol.github.io/beecrowd/problemas/3200/#3271-jogo-de-dados)
 - [x] [3308](https://resources.beecrowd.com/repository/UOJ_3308.html) - [Elevador](https://potigol.github.io/beecrowd/problemas/3300/#3308-elevador)
@@ -120,7 +123,6 @@
 - [ ] [1264](https://resources.beecrowd.com/repository/UOJ_1264.html) - Um Problema Fácil!
 - [ ] [1289](https://resources.beecrowd.com/repository/UOJ_1289.html) - Qual é a Probabilidade?
 - [ ] [1297](https://resources.beecrowd.com/repository/UOJ_1297.html) - Proteção do Meio Ambiente
-- [ ] [1316](https://resources.beecrowd.com/repository/UOJ_1316.html) - ~~Compra Livre de Impostos~~
 - [ ] [1324](https://resources.beecrowd.com/repository/UOJ_1324.html) - Bóson de Higgs
 - [ ] [1338](https://resources.beecrowd.com/repository/UOJ_1338.html) - It-Miha
 - [ ] [1346](https://resources.beecrowd.com/repository/UOJ_1346.html) - Brincadeira de Criança
@@ -267,6 +269,7 @@
 - [ ] [3187](https://resources.beecrowd.com/repository/UOJ_3187.html) - Apenas Mais Alguns Triângulos!
 - [ ] [3216](https://resources.beecrowd.com/repository/UOJ_3216.html) - Teste Alérgico
 - [ ] [3223](https://resources.beecrowd.com/repository/UOJ_3223.html) - Permutações de Código
+- [ ] [3255](https://resources.beecrowd.com/repository/UOJ_3255.html) - A Vez to Primo
 - [ ] [3259](https://resources.beecrowd.com/repository/UOJ_3259.html) - Truque Numérico
 - [ ] [3265](https://resources.beecrowd.com/repository/UOJ_3265.html) - Reconstrução de Dança
 - [ ] [3266](https://resources.beecrowd.com/repository/UOJ_3266.html) - Dartboard
@@ -282,3 +285,4 @@
 - [ ] [3516](https://resources.beecrowd.com/repository/UOJ_3516.html) - Jogo da Multiplicação
 - [ ] [3517](https://resources.beecrowd.com/repository/UOJ_3517.html) - Divisores
 - [ ] [3519](https://resources.beecrowd.com/repository/UOJ_3519.html) - O Código de Whis
+- [ ] [3523](https://resources.beecrowd.com/repository/UOJ_3523.html) - Catraca

@@ -2,7 +2,7 @@
 
 - [ ] [2500](https://resources.beecrowd.com/repository/UOJ_2500.html) - William Xorando *Matemática*
 - [ ] [2501](https://resources.beecrowd.com/repository/UOJ_2501.html) - Fatores Permitidos *Paradigmas*
-- [x] [2502](https://resources.beecrowd.com/repository/UOJ_2502.html) - [Decifrando a Carta Criptografada](https://potigol.github.io/beecrowd/problemas/2500/#2502-decifrando-a-carta-criptografada) *Iniciante*
+- [x] [2502](https://resources.beecrowd.com/repository/UOJ_2502.html) - [Decifrando a Carta Criptografada](https://potigol.github.io/beecrowd/problemas/2500/#2502-decifrando-a-carta-criptografada) *Strings*
 - [ ] [2503](https://resources.beecrowd.com/repository/UOJ_2503.html) - Corrida de Regularidade *Estruturas e Bibliotecas*
 - [ ] [2504](https://resources.beecrowd.com/repository/UOJ_2504.html) - Biorritmo *Ad-Hoc*
 - [ ] [2505](https://resources.beecrowd.com/repository/UOJ_2505.html) - Autopotencial *Matemática*

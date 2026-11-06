@@ -15,7 +15,7 @@
 - [ ] [3431](https://resources.beecrowd.com/repository/UOJ_3431.html) - Habilitando a Movimentação *Ad-Hoc*
 - [x] [3432](https://resources.beecrowd.com/repository/UOJ_3432.html) - [Interceptando Informações](https://potigol.github.io/beecrowd/problemas/3400/#3432-interceptando-informacoes) *Ad-Hoc*
 - [x] [3433](https://resources.beecrowd.com/repository/UOJ_3433.html) - [Jogando 23](https://potigol.github.io/beecrowd/problemas/3400/#3433-jogando-23) *Ad-Hoc*
-- [ ] [3434](https://resources.beecrowd.com/repository/UOJ_3434.html) - ~~Kalel, o Sapo Saltador~~ *Ad-Hoc*
+- [ ] [3434](https://resources.beecrowd.com/repository/UOJ_3434.html) - ~~Kalel, o Sapo Saltador~~ *Excluído*
 - [ ] [3435](https://resources.beecrowd.com/repository/UOJ_3435.html) - Listando Caminhos Tediosos *Ad-Hoc*
 - [ ] [3436](https://resources.beecrowd.com/repository/UOJ_3436.html) - Maratona de Amarelinha *Ad-Hoc*
 - [ ] [3437](https://resources.beecrowd.com/repository/UOJ_3437.html) - Números Virados *Ad-Hoc*
@@ -66,20 +66,20 @@
 
 ### 2ª Fase
 
-- [ ] [3316](https://resources.beecrowd.com/repository/UOJ_3316.html) - ~~Almost Origami~~ *Ad-Hoc*
-- [ ] [3317](https://resources.beecrowd.com/repository/UOJ_3317.html) - ~~Beautiful Mountains~~ *Ad-Hoc*
-- [ ] [3318](https://resources.beecrowd.com/repository/UOJ_3318.html) - ~~Crisis at the Wedding~~ *Ad-Hoc*
-- [ ] [3319](https://resources.beecrowd.com/repository/UOJ_3319.html) - ~~Dividing Candy~~ *Ad-Hoc*
-- [ ] [3320](https://resources.beecrowd.com/repository/UOJ_3320.html) - ~~Excellent Views~~ *Ad-Hoc*
-- [ ] [3321](https://resources.beecrowd.com/repository/UOJ_3321.html) - ~~Fascinating Partitions~~ *Ad-Hoc*
-- [ ] [3322](https://resources.beecrowd.com/repository/UOJ_3322.html) - ~~Game of Slots~~ *Ad-Hoc*
-- [ ] [3323](https://resources.beecrowd.com/repository/UOJ_3323.html) - ~~Halting Wolf~~ *Ad-Hoc*
-- [ ] [3324](https://resources.beecrowd.com/repository/UOJ_3324.html) - ~~Impenetrable Wall~~ *Ad-Hoc*
-- [ ] [3325](https://resources.beecrowd.com/repository/UOJ_3325.html) - ~~Job Allocator~~ *Ad-Hoc*
-- [ ] [3326](https://resources.beecrowd.com/repository/UOJ_3326.html) - ~~Keylogger~~ *Ad-Hoc*
-- [ ] [3327](https://resources.beecrowd.com/repository/UOJ_3327.html) - ~~Lola's Schedule~~ *Ad-Hoc*
-- [ ] [3328](https://resources.beecrowd.com/repository/UOJ_3328.html) - ~~May I Add a Letter?~~ *Ad-Hoc*
-- [ ] [3329](https://resources.beecrowd.com/repository/UOJ_3329.html) - ~~Non-Integer Donuts~~ *Ad-Hoc*
+- [ ] [3316](https://resources.beecrowd.com/repository/UOJ_3316.html) - ~~Almost Origami~~ *Excluído*
+- [ ] [3317](https://resources.beecrowd.com/repository/UOJ_3317.html) - ~~Beautiful Mountains~~ *Excluído*
+- [ ] [3318](https://resources.beecrowd.com/repository/UOJ_3318.html) - ~~Crisis at the Wedding~~ *Excluído*
+- [ ] [3319](https://resources.beecrowd.com/repository/UOJ_3319.html) - ~~Dividing Candy~~ *Excluído*
+- [ ] [3320](https://resources.beecrowd.com/repository/UOJ_3320.html) - ~~Excellent Views~~ *Excluído*
+- [ ] [3321](https://resources.beecrowd.com/repository/UOJ_3321.html) - ~~Fascinating Partitions~~ *Excluído*
+- [ ] [3322](https://resources.beecrowd.com/repository/UOJ_3322.html) - ~~Game of Slots~~ *Excluído*
+- [ ] [3323](https://resources.beecrowd.com/repository/UOJ_3323.html) - ~~Halting Wolf~~ *Excluído*
+- [ ] [3324](https://resources.beecrowd.com/repository/UOJ_3324.html) - ~~Impenetrable Wall~~ *Excluído*
+- [ ] [3325](https://resources.beecrowd.com/repository/UOJ_3325.html) - ~~Job Allocator~~ *Excluído*
+- [ ] [3326](https://resources.beecrowd.com/repository/UOJ_3326.html) - ~~Keylogger~~ *Excluído*
+- [ ] [3327](https://resources.beecrowd.com/repository/UOJ_3327.html) - ~~Lola's Schedule~~ *Excluído*
+- [ ] [3328](https://resources.beecrowd.com/repository/UOJ_3328.html) - ~~May I Add a Letter?~~ *Excluído*
+- [ ] [3329](https://resources.beecrowd.com/repository/UOJ_3329.html) - ~~Non-Integer Donuts~~ *Excluído*
        
 
 ## 2019
@@ -591,7 +591,7 @@
 ### 2ª Fase
 
 - [ ] [1315](https://resources.beecrowd.com/repository/UOJ_1315.html) - Não tão Convexo *Geometria Computacional*
-- [ ] [1316](https://resources.beecrowd.com/repository/UOJ_1316.html) - ~~Compra Livre de Impostos~~ *Matemática*
+- [ ] [1316](https://resources.beecrowd.com/repository/UOJ_1316.html) - ~~Compra Livre de Impostos~~ *Excluído*
 - [ ] [1317](https://resources.beecrowd.com/repository/UOJ_1317.html) - Eu Odeio SPAM, Mas Algumas Pessoas Amam *Grafos*
 - [x] [1318](https://resources.beecrowd.com/repository/UOJ_1318.html) - [Bilhetes Falsos](https://potigol.github.io/beecrowd/problemas/1300/#1318-bilhetes-falsos) *Ad-Hoc*
 - [ ] [1330](https://resources.beecrowd.com/repository/UOJ_1330.html) - A Terra Herdada por Tio Tom *Grafos*

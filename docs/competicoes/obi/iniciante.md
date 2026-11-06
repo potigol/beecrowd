@@ -1,4 +1,6 @@
-# Iniciante (16 / 16)
+# Iniciante (15 / 15)
+
+
 
 ## Problemas resolvidos
 
@@ -17,6 +19,5 @@
 - [x] [3053](https://resources.beecrowd.com/repository/UOJ_3053.html) - [Jogo Dos Copos](https://potigol.github.io/beecrowd/problemas/3000/#3053-jogo-dos-copos)
 - [x] [3055](https://resources.beecrowd.com/repository/UOJ_3055.html) - [Nota Esquecida](https://potigol.github.io/beecrowd/problemas/3000/#3055-nota-esquecida)
 - [x] [3065](https://resources.beecrowd.com/repository/UOJ_3065.html) - [Calculando](https://potigol.github.io/beecrowd/problemas/3000/#3065-calculando)
-- [x] [3068](https://resources.beecrowd.com/repository/UOJ_3068.html) - [Meteoros](https://potigol.github.io/beecrowd/problemas/3000/#3068-meteoros)
 
 ## Problemas não resolvidos

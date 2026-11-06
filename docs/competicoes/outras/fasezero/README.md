@@ -1,21 +1,23 @@
 # Fase Zero - Maratona SBC (9 / 38)
 
+
+
 ## 2024
 
-- [x] [4013](https://resources.beecrowd.com/repository/UOJ_4013.html) - [~~Alice e as Canções e Iara~~](https://potigol.github.io/beecrowd/problemas/4000/#4013-alice-e-as-cancoes-e-iara) *Iniciante*
-- [ ] [4014](https://resources.beecrowd.com/repository/UOJ_4014.html) - ~~Boto e as Festas~~ *Ad-Hoc*
-- [ ] [4015](https://resources.beecrowd.com/repository/UOJ_4015.html) - ~~Caboclo-d'Água e o Biscoito Confeitado~~ *Ad-Hoc*
-- [x] [4016](https://resources.beecrowd.com/repository/UOJ_4016.html) - [~~Deus-serpente M'boi as Cataratas do Iguaçu~~](https://potigol.github.io/beecrowd/problemas/4000/#4016-deus-serpente-mboi-as-cataratas-do-iguacu) *Ad-Hoc*
-- [ ] [4017](https://resources.beecrowd.com/repository/UOJ_4017.html) - ~~Esquecimento e o Mapa do Boitatá~~ *Ad-Hoc*
-- [ ] [4018](https://resources.beecrowd.com/repository/UOJ_4018.html) - ~~Folguedo do Boi de Mamão e o Apetite da Bernunça~~ *Ad-Hoc*
-- [ ] [4019](https://resources.beecrowd.com/repository/UOJ_4019.html) - ~~Gosto Pelo Tabacoe o Saci Pererê~~ *Ad-Hoc*
-- [ ] [4020](https://resources.beecrowd.com/repository/UOJ_4020.html) - ~~Homem do Saco e o Teorema de Bachgold~~ *Ad-Hoc*
-- [ ] [4021](https://resources.beecrowd.com/repository/UOJ_4021.html) - ~~Iracema e os Colares Especiais~~ *Ad-Hoc*
-- [ ] [4022](https://resources.beecrowd.com/repository/UOJ_4022.html) - ~~Jogos de Xaxdrez e a Mula sem Cabeça~~ *Ad-Hoc*
-- [ ] [4023](https://resources.beecrowd.com/repository/UOJ_4023.html) - ~~K-ésimo Fator Primoe o Desafio do Pai do Mato~~ *Ad-Hoc*
-- [ ] [4024](https://resources.beecrowd.com/repository/UOJ_4024.html) - ~~Lágrimas Irritantes e a tarefa da Cuca~~ *Ad-Hoc*
-- [ ] [4025](https://resources.beecrowd.com/repository/UOJ_4025.html) - ~~Matinta Pereira e um Prefeito Preguiçoso~~ *Ad-Hoc*
-- [ ] [4026](https://resources.beecrowd.com/repository/UOJ_4026.html) - ~~Negrinho do Pastoreio e a Segurança dos Currais~~ *Ad-Hoc*
+- [x] [4013](https://resources.beecrowd.com/repository/UOJ_4013.html) - [~~Alice e as Canções e Iara~~](https://potigol.github.io/beecrowd/problemas/4000/#4013-alice-e-as-cancoes-e-iara) *Excluído*
+- [ ] [4014](https://resources.beecrowd.com/repository/UOJ_4014.html) - ~~Boto e as Festas~~ *Excluído*
+- [ ] [4015](https://resources.beecrowd.com/repository/UOJ_4015.html) - ~~Caboclo-d'Água e o Biscoito Confeitado~~ *Excluído*
+- [x] [4016](https://resources.beecrowd.com/repository/UOJ_4016.html) - [~~Deus-serpente M'boi as Cataratas do Iguaçu~~](https://potigol.github.io/beecrowd/problemas/4000/#4016-deus-serpente-mboi-as-cataratas-do-iguacu) *Excluído*
+- [ ] [4017](https://resources.beecrowd.com/repository/UOJ_4017.html) - ~~Esquecimento e o Mapa do Boitatá~~ *Excluído*
+- [ ] [4018](https://resources.beecrowd.com/repository/UOJ_4018.html) - ~~Folguedo do Boi de Mamão e o Apetite da Bernunça~~ *Excluído*
+- [ ] [4019](https://resources.beecrowd.com/repository/UOJ_4019.html) - ~~Gosto Pelo Tabacoe o Saci Pererê~~ *Excluído*
+- [ ] [4020](https://resources.beecrowd.com/repository/UOJ_4020.html) - ~~Homem do Saco e o Teorema de Bachgold~~ *Excluído*
+- [ ] [4021](https://resources.beecrowd.com/repository/UOJ_4021.html) - ~~Iracema e os Colares Especiais~~ *Excluído*
+- [ ] [4022](https://resources.beecrowd.com/repository/UOJ_4022.html) - ~~Jogos de Xaxdrez e a Mula sem Cabeça~~ *Excluído*
+- [ ] [4023](https://resources.beecrowd.com/repository/UOJ_4023.html) - ~~K-ésimo Fator Primoe o Desafio do Pai do Mato~~ *Excluído*
+- [ ] [4024](https://resources.beecrowd.com/repository/UOJ_4024.html) - ~~Lágrimas Irritantes e a tarefa da Cuca~~ *Excluído*
+- [ ] [4025](https://resources.beecrowd.com/repository/UOJ_4025.html) - ~~Matinta Pereira e um Prefeito Preguiçoso~~ *Excluído*
+- [ ] [4026](https://resources.beecrowd.com/repository/UOJ_4026.html) - ~~Negrinho do Pastoreio e a Segurança dos Currais~~ *Excluído*
 
 ## 2023
 

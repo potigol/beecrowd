@@ -1,4 +1,4 @@
-# Estruturas e Bibliotecas (50 / 183)
+# Estruturas e Bibliotecas (51 / 184)
 
 
 
@@ -53,6 +53,7 @@
 - [x] [3163](https://resources.beecrowd.com/repository/UOJ_3163.html) - [Controlador de Vôo](https://potigol.github.io/beecrowd/problemas/3100/#3163-controlador-de-voo)
 - [x] [3171](https://resources.beecrowd.com/repository/UOJ_3171.html) - [Cordão de Led](https://potigol.github.io/beecrowd/problemas/3100/#3171-cordao-de-led)
 - [x] [3176](https://resources.beecrowd.com/repository/UOJ_3176.html) - [Time de Duendes](https://potigol.github.io/beecrowd/problemas/3100/#3176-time-de-duendes)
+- [x] [3306](https://resources.beecrowd.com/repository/UOJ_3306.html) - [Consulta e Alteração](https://potigol.github.io/beecrowd/problemas/3300/#3306-consulta-e-alteracao)
 - [x] [3357](https://resources.beecrowd.com/repository/UOJ_3357.html) - [Rico do Mate](https://potigol.github.io/beecrowd/problemas/3300/#3357-rico-do-mate)
 
 ## Problemas não resolvidos

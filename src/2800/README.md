@@ -31,7 +31,7 @@
 - [ ] [2828](https://resources.beecrowd.com/repository/UOJ_2828.html) - Anagramas *Matemática*
 - [ ] [2829](https://resources.beecrowd.com/repository/UOJ_2829.html) - Maiúsculas, Por Quê? *Ad-Hoc*
 - [x] [2830](https://resources.beecrowd.com/repository/UOJ_2830.html) - [Copa](https://potigol.github.io/beecrowd/problemas/2800/#2830-copa) *Ad-Hoc*
-- [x] [2831](https://resources.beecrowd.com/repository/UOJ_2831.html) - [~~Pesos~~](https://potigol.github.io/beecrowd/problemas/2800/#2831-pesos) *Ad-Hoc*
+- [x] [2831](https://resources.beecrowd.com/repository/UOJ_2831.html) - [~~Pesos~~](https://potigol.github.io/beecrowd/problemas/2800/#2831-pesos) *Excluído*
 - [ ] [2832](https://resources.beecrowd.com/repository/UOJ_2832.html) - Cápsulas *Ad-Hoc*
 - [x] [2833](https://resources.beecrowd.com/repository/UOJ_2833.html) - [Campeonato](https://potigol.github.io/beecrowd/problemas/2800/#2833-campeonato) *Ad-Hoc*
 - [ ] [2834](https://resources.beecrowd.com/repository/UOJ_2834.html) - Fuga *Ad-Hoc*
@@ -52,7 +52,7 @@
 - [ ] [2849](https://resources.beecrowd.com/repository/UOJ_2849.html) - Rangel e o Jogo do Vetor II *Estruturas e Bibliotecas*
 - [x] [2850](https://resources.beecrowd.com/repository/UOJ_2850.html) - [Papagaio Poliglota](https://potigol.github.io/beecrowd/problemas/2800/#2850-papagaio-poliglota) *Iniciante*
 - [x] [2851](https://resources.beecrowd.com/repository/UOJ_2851.html) - [Desafio de Rangel](https://potigol.github.io/beecrowd/problemas/2800/#2851-desafio-de-rangel) *Ad-Hoc*
-- [x] [2852](https://resources.beecrowd.com/repository/UOJ_2852.html) - [Troca de Mensagens](https://potigol.github.io/beecrowd/problemas/2800/#2852-troca-de-mensagens) *Iniciante*
+- [x] [2852](https://resources.beecrowd.com/repository/UOJ_2852.html) - [Troca de Mensagens](https://potigol.github.io/beecrowd/problemas/2800/#2852-troca-de-mensagens) *Strings*
 - [ ] [2853](https://resources.beecrowd.com/repository/UOJ_2853.html) - Invenções de Bibika *Ad-Hoc*
 - [ ] [2854](https://resources.beecrowd.com/repository/UOJ_2854.html) - Árvore Genealógica *Grafos*
 - [ ] [2855](https://resources.beecrowd.com/repository/UOJ_2855.html) - Números de Sorte *Estruturas e Bibliotecas*

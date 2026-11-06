@@ -1,4 +1,4 @@
-# Geometria Computacional (14 / 83)
+# Geometria Computacional (15 / 85)
 
 
 
@@ -17,6 +17,7 @@
 - [x] [2518](https://resources.beecrowd.com/repository/UOJ_2518.html) - [Escada do DINF](https://potigol.github.io/beecrowd/problemas/2500/#2518-escada-do-dinf)
 - [x] [2773](https://resources.beecrowd.com/repository/UOJ_2773.html) - [Menor Caminho](https://potigol.github.io/beecrowd/problemas/2700/#2773-menor-caminho)
 - [x] [2840](https://resources.beecrowd.com/repository/UOJ_2840.html) - [Balão++](https://potigol.github.io/beecrowd/problemas/2800/#2840-balao)
+- [x] [3068](https://resources.beecrowd.com/repository/UOJ_3068.html) - [Meteoros](https://potigol.github.io/beecrowd/problemas/3000/#3068-meteoros)
 - [x] [3152](https://resources.beecrowd.com/repository/UOJ_3152.html) - [Samuel, O Cafeicultor](https://potigol.github.io/beecrowd/problemas/3100/#3152-samuel-o-cafeicultor)
 
 ## Problemas não resolvidos
@@ -88,5 +89,6 @@
 - [ ] [3156](https://resources.beecrowd.com/repository/UOJ_3156.html) - Xadrez Galático
 - [ ] [3184](https://resources.beecrowd.com/repository/UOJ_3184.html) - Obtendo Ouro
 - [ ] [3213](https://resources.beecrowd.com/repository/UOJ_3213.html) - Parque Infantil
+- [ ] [3230](https://resources.beecrowd.com/repository/UOJ_3230.html) - Senhores da Guerra Galácticos
 - [ ] [3260](https://resources.beecrowd.com/repository/UOJ_3260.html) - Robert Hood
 - [ ] [3352](https://resources.beecrowd.com/repository/UOJ_3352.html) - Fuja comigo, Galileu!

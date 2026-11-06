@@ -1,4 +1,6 @@
-# Estruturas e Bibliotecas (5 / 13)
+# Estruturas e Bibliotecas (6 / 14)
+
+
 
 ## Problemas resolvidos
 
@@ -7,6 +9,7 @@
 - [x] [2654](https://resources.beecrowd.com/repository/UOJ_2654.html) - [Godofor](https://potigol.github.io/beecrowd/problemas/2600/#2654-godofor)
 - [x] [2872](https://resources.beecrowd.com/repository/UOJ_2872.html) - [Protocolo TCP/IP](https://potigol.github.io/beecrowd/problemas/2800/#2872-protocolo-tcpip)
 - [x] [2958](https://resources.beecrowd.com/repository/UOJ_2958.html) - [O Rolê Bad Vibes](https://potigol.github.io/beecrowd/problemas/2900/#2958-o-role-bad-vibes)
+- [x] [3306](https://resources.beecrowd.com/repository/UOJ_3306.html) - [Consulta e Alteração](https://potigol.github.io/beecrowd/problemas/3300/#3306-consulta-e-alteracao)
 
 ## Problemas não resolvidos
 

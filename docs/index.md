@@ -7,8 +7,7 @@
 [![Follow us](https://img.shields.io/twitter/follow/potigol.svg?style=social)](http://twitter.com/potigol)
 [![Problemas Resolvidos](https://img.shields.io/badge/Problemas%20Resolvidos-886-blue)](https://github.com/potigol/beecrowd/commits/master)
 
-
-## Problemas por número
+## Soluções por número
 
 [1000+](problemas/1000.md), [1100+](problemas/1100.md), [1200+](problemas/1200.md),
 [1300+](problemas/1300.md), [1400+](problemas/1400.md), [1500+](problemas/1500.md),
@@ -31,7 +30,7 @@
 - [Grafos](categorias/grafos.md): flood fill, MST, SSSP, DAG, fluxo máximo e árvores.
 - [Geometria Computacional](categorias/geometriacomputacional.md): pontos, linhas e polígonos.
 
-## Competições de programação
+## Problemas de Competições de Programação
 
 - [Maratona de Programação da SBC/ACM](competicoes/maratona/README.md)
 - [Olimpíada Brasileira de Informática (OBI)](competicoes/obi/README.md)

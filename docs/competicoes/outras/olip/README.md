@@ -1,5 +1,7 @@
 # Olimpíada IFSULDEMINAS (85 / 162)
 
+
+
 ## 2026
 
 - [ ] [3510](https://resources.beecrowd.com/repository/UOJ_3510.html) - Sequência Válida *Estruturas e Bibliotecas*
@@ -50,7 +52,7 @@
 - [x] [3399](https://resources.beecrowd.com/repository/UOJ_3399.html) - [Meu nome é Enésimo!](https://potigol.github.io/beecrowd/problemas/3300/#3399-meu-nome-e-enesimo) *Ad-Hoc*
 - [ ] [3400](https://resources.beecrowd.com/repository/UOJ_3400.html) - Amigo não tão secreto assim *Ad-Hoc*
 - [ ] [3401](https://resources.beecrowd.com/repository/UOJ_3401.html) - Bicho da Goiaba Ataca Novamente *Ad-Hoc*
-- [ ] [3402](https://resources.beecrowd.com/repository/UOJ_3402.html) - ~~Caminho Mais Curto?~~ *Ad-Hoc*
+- [ ] [3402](https://resources.beecrowd.com/repository/UOJ_3402.html) - ~~Caminho Mais Curto?~~ *Excluído*
 - [ ] [3403](https://resources.beecrowd.com/repository/UOJ_3403.html) - Dengoso *Ad-Hoc*
 - [ ] [3404](https://resources.beecrowd.com/repository/UOJ_3404.html) - Estranho ou Engraçado *Ad-Hoc*
 - [x] [3405](https://resources.beecrowd.com/repository/UOJ_3405.html) - [Fatorial](https://potigol.github.io/beecrowd/problemas/3400/#3405-fatorial) *Ad-Hoc*
@@ -68,7 +70,7 @@
 - [x] [3303](https://resources.beecrowd.com/repository/UOJ_3303.html) - [Palavrão](https://potigol.github.io/beecrowd/problemas/3300/#3303-palavrao) *Iniciante*
 - [ ] [3304](https://resources.beecrowd.com/repository/UOJ_3304.html) - Alguma Sorte! *Matemática*
 - [ ] [3305](https://resources.beecrowd.com/repository/UOJ_3305.html) - Bispos Dominantes *Ad-Hoc*
-- [x] [3306](https://resources.beecrowd.com/repository/UOJ_3306.html) - [Consulta e Alteração](https://potigol.github.io/beecrowd/problemas/3300/#3306-consulta-e-alteracao) *Iniciante*
+- [x] [3306](https://resources.beecrowd.com/repository/UOJ_3306.html) - [Consulta e Alteração](https://potigol.github.io/beecrowd/problemas/3300/#3306-consulta-e-alteracao) *Estruturas e Bibliotecas*
 - [x] [3307](https://resources.beecrowd.com/repository/UOJ_3307.html) - [Decora o Rolê!](https://potigol.github.io/beecrowd/problemas/3300/#3307-decora-o-role) *Ad-Hoc*
 - [x] [3308](https://resources.beecrowd.com/repository/UOJ_3308.html) - [Elevador](https://potigol.github.io/beecrowd/problemas/3300/#3308-elevador) *Matemática*
 - [x] [3309](https://resources.beecrowd.com/repository/UOJ_3309.html) - [Felizes são estes Números](https://potigol.github.io/beecrowd/problemas/3300/#3309-felizes-sao-estes-numeros) *Ad-Hoc*

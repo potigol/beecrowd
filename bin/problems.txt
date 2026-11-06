@@ -247,7 +247,7 @@
 1246	Estacionamento	Ad-Hoc
 1247	Guarda Costeira	Matemática
 1248	Plano de Dieta	Strings
-1249	~~Rot13~~	Strings
+1249	~~Rot13~~	Excluído
 1250	KiloMan	Ad-Hoc
 1251	Diga-me a Frequência	Estruturas e Bibliotecas
 1252	Sort! Sort!! e Sort!!!	Estruturas e Bibliotecas
@@ -314,7 +314,7 @@
 1313	Dicionário Portuñol	Strings
 1314	Labirintos de Cerca Viva	Grafos
 1315	Não tão Convexo	Geometria Computacional
-1316	~~Compra Livre de Impostos~~	Matemática
+1316	~~Compra Livre de Impostos~~	Excluído
 1317	Eu Odeio SPAM, Mas Algumas Pessoas Amam	Grafos
 1318	Bilhetes Falsos	Ad-Hoc
 1319	Garota Hiperativa	Paradigmas
@@ -451,7 +451,7 @@
 1450	Os Joguinhos de Ramsés	Matemática
 1451	Teclado Quebrado	Estruturas e Bibliotecas
 1452	Gloud Computing	Estruturas e Bibliotecas
-1453	~~Palavras-Cruzadas Sem Palavras~~	Ad-Hoc
+1453	~~Palavras-Cruzadas Sem Palavras~~	Excluído
 1454	O País das Bicicletas	Grafos
 1455	Final do ICPC	Geometria Computacional
 1456	Brainfuck	Strings
@@ -1171,7 +1171,7 @@
 2170	Juros do Projeto	Matemática
 2171	Dividindo com Fink	Ad-Hoc
 2172	Evento	Iniciante
-2173	~~Caixa Dois~~	Grafos
+2173	~~Caixa Dois~~	Excluído
 2174	Coleção de Pomekon	Strings
 2175	Qual o Mais Rápido?	Ad-Hoc
 2176	Paridade	Iniciante
@@ -1196,7 +1196,7 @@
 2195	Chips Challenge	Ad-Hoc
 2196	Coffee Central	Ad-Hoc
 2197	Machine Works	Ad-Hoc
-2198	~~Magic Sticks~~	Ad-Hoc
+2198	~~Magic Sticks~~	Excluído
 2199	Mining Your Own Business	Ad-Hoc
 2200	Mummy Madness	Ad-Hoc
 2201	Pyramids	Ad-Hoc
@@ -1204,7 +1204,7 @@
 2203	Tempestade de Corvos	Iniciante
 2204	Pare A Bomba!	Matemática
 2205	Asteroid Rangers	Ad-Hoc
-2206	~~Curvy Little Bottles~~	Ad-Hoc
+2206	~~Curvy Little Bottles~~	Excluído
 2207	Bus Tour	Ad-Hoc
 2208	Fibonacci Words	Ad-Hoc
 2209	Infiltration	Ad-Hoc
@@ -1254,7 +1254,7 @@
 2253	Validador de Senhas	Strings
 2254	Bem-me-quer, Malmequer Japonês	Ad-Hoc
 2255	Self-Assembly	Ad-Hoc
-2256	~~Hey, Better Bettor~~	Ad-Hoc
+2256	~~Hey, Better Bettor~~	Excluído
 2257	Surely You Congest	Ad-Hoc
 2258	Factors	Ad-Hoc
 2259	Harvard	Ad-Hoc
@@ -1262,20 +1262,20 @@
 2261	Map Tiles	Ad-Hoc
 2262	Matryoshka	Ad-Hoc
 2263	Pirate Chest	Ad-Hoc
-2264	~~Pollution Solution~~	Ad-Hoc
+2264	~~Pollution Solution~~	Excluído
 2265	Up a Tree	Ad-Hoc
 2266	Baggage	Ad-Hoc
-2267	~~Buffed Buffet~~	Ad-Hoc
+2267	~~Buffed Buffet~~	Excluído
 2268	Crane Balancing	Ad-Hoc
-2269	~~Game Strategy~~	Ad-Hoc
+2269	~~Game Strategy~~	Excluído
 2270	Maze Reduction	Ad-Hoc
-2271	~~Messenger~~	Ad-Hoc
+2271	~~Messenger~~	Excluído
 2272	Metal Processing Plant	Ad-Hoc
-2273	~~Pachinko~~	Ad-Hoc
-2274	~~Sensor Network~~	Ad-Hoc
+2273	~~Pachinko~~	Excluído
+2274	~~Sensor Network~~	Excluído
 2275	Skiing	Ad-Hoc
 2276	Surveillance	Ad-Hoc
-2277	~~Wire Crossing~~	Ad-Hoc
+2277	~~Wire Crossing~~	Excluído
 2278	Amalgamated Artichokes	Ad-Hoc
 2279	Asteroids	Ad-Hoc
 2280	Catering	Ad-Hoc
@@ -1500,7 +1500,7 @@
 2499	Triângulo Interno	Matemática
 2500	William Xorando	Matemática
 2501	Fatores Permitidos	Paradigmas
-2502	Decifrando a Carta Criptografada	Iniciante
+2502	Decifrando a Carta Criptografada	Strings
 2503	Corrida de Regularidade	Estruturas e Bibliotecas
 2504	Biorritmo	Ad-Hoc
 2505	Autopotencial	Matemática
@@ -1610,7 +1610,7 @@
 2609	Produtos por Categorias	SQL
 2610	Valor Médio dos Produtos	SQL
 2611	Filmes de Ação	SQL
-2612	~~Os Atores Silva~~	SQL
+2612	~~Os Atores Silva~~	Excluído
 2613	Filmes em Promoção	SQL
 2614	Locações de Setembro	SQL
 2615	Expandindo o Negocio	SQL
@@ -1633,21 +1633,21 @@
 2632	Magic and Sword	Iniciante
 2633	Churras no Yuri	Estruturas e Bibliotecas
 2634	Em Prol da Ciência	Ad-Hoc
-2635	Navegador Web	Iniciante
+2635	Navegador Web	Strings
 2636	3-RSA	Matemática
 2637	Casa do Batera	Grafos
-2638	~~Construção de um Aeroporto~~	Ad-Hoc
+2638	~~Construção de um Aeroporto~~	Excluído
 2639	Cluedo	Ad-Hoc
 2640	Missão Improvável	Geometria Computacional
 2641	Dinheiro por Nada	Ad-Hoc
-2642	~~Necessidade por Velocidade~~	Ad-Hoc
+2642	~~Necessidade por Velocidade~~	Excluído
 2643	Posterizar	Ad-Hoc
 2644	Replicate Replicate Rfplicbte	Ad-Hoc
 2645	Scenery	Ad-Hoc
 2646	Secret Chamber at Mount Rushmore	Grafos
-2647	~~Son of Pipe Stream~~	Ad-Hoc
+2647	~~Son of Pipe Stream~~	Excluído
 2648	Tarot Sham Boast	Ad-Hoc
-2649	~~Visual Python++~~	Ad-Hoc
+2649	~~Visual Python++~~	Excluído
 2650	Construindo Muralhas	Ad-Hoc
 2651	Link Bolado	Strings
 2652	Quantas Árvores?	Grafos
@@ -1694,7 +1694,7 @@
 2693	Van	Estruturas e Bibliotecas
 2694	Problema com a Calculadora	Strings
 2695	Arrumando Lajotas	Geometria Computacional
-2696	~~ICPC Bugado~~	Ad-Hoc
+2696	~~ICPC Bugado~~	Excluído
 2697	Sequencia Completa de Naebbirac	Strings
 2698	Dispositivo Assombrado	Estruturas e Bibliotecas
 2699	Enigma	Paradigmas
@@ -1705,7 +1705,7 @@
 2704	Sapo Saltador	Ad-Hoc
 2705	Mantenha Coberto	Ad-Hoc
 2706	Linearville	Grafos
-2707	~~Marblecoin~~	Ad-Hoc
+2707	~~Marblecoin~~	Excluído
 2708	Turistas no Parque Huacachina	Iniciante
 2709	As Moedas de Robbie	Iniciante
 2710	Jogo da Matriz	Ad-Hoc
@@ -1722,7 +1722,7 @@
 2721	Indecisão das Renas	Iniciante
 2722	Pegadinha de Evergreen	Strings
 2723	Equilibrando Presentes	Paradigmas
-2724	Ajude Patatatitu	Iniciante
+2724	Ajude Patatatitu	Strings
 2725	Vila Natalina	Grafos
 2726	Trenó Lotado	Matemática
 2727	Código Secreto	Iniciante
@@ -1749,7 +1749,7 @@
 2748	Saída 2	Iniciante
 2749	Saída 3	Iniciante
 2750	Saída 4	Iniciante
-2751	~~Saída 5~~	Iniciante
+2751	~~Saída 5~~	Excluído
 2752	Saída 6	Iniciante
 2753	Saída 7	Iniciante
 2754	Saída 8	Iniciante
@@ -1767,7 +1767,7 @@
 2766	Entrada e Saída Lendo e Pulando Nomes	Iniciante
 2767	Festa	Matemática
 2768	Grafo do Dabriel	Grafos
-2769	Linha de Montagem	Iniciante
+2769	Linha de Montagem	Paradigmas
 2770	Tamanho da Placa	Iniciante
 2771	Média	Ad-Hoc
 2772	Plantação	Ad-Hoc
@@ -1829,7 +1829,7 @@
 2828	Anagramas	Matemática
 2829	Maiúsculas, Por Quê?	Ad-Hoc
 2830	Copa	Ad-Hoc
-2831	~~Pesos~~	Ad-Hoc
+2831	~~Pesos~~	Excluído
 2832	Cápsulas	Ad-Hoc
 2833	Campeonato	Ad-Hoc
 2834	Fuga	Ad-Hoc
@@ -1850,7 +1850,7 @@
 2849	Rangel e o Jogo do Vetor II	Estruturas e Bibliotecas
 2850	Papagaio Poliglota	Iniciante
 2851	Desafio de Rangel	Ad-Hoc
-2852	Troca de Mensagens	Iniciante
+2852	Troca de Mensagens	Strings
 2853	Invenções de Bibika	Ad-Hoc
 2854	Árvore Genealógica	Grafos
 2855	Números de Sorte	Estruturas e Bibliotecas
@@ -1998,7 +1998,7 @@
 2997	Pagamento dos Empregados	SQL
 2998	The Payback	SQL
 2999	Maior Sálario da Divisão	SQL
-3000	~~Maiores Salários do Departamento~~	SQL
+3000	~~Maiores Salários do Departamento~~	Excluído
 3001	Update sem Where	SQL
 3002	Salve a Lilly!	Matemática
 3003	O Grupinho	Grafos
@@ -2040,7 +2040,7 @@
 3039	Brinquedos do Papai Noel	Iniciante
 3040	A Árvore de Natal	Iniciante
 3041	Distribuição de Artigos	Ad-Hoc
-3042	Desviando de Árvores de Natal	Iniciante
+3042	Desviando de Árvores de Natal	Paradigmas
 3043	Festa Junina	Grafos
 3044	Manutenção	Grafos
 3045	Parque Jurássico	Estruturas e Bibliotecas
@@ -2064,9 +2064,9 @@
 3063	Linhas de Ônibus	Ad-Hoc
 3064	Elástico	Geometria Computacional
 3065	Calculando	Iniciante
-3066	~~Dengue~~	Grafos
+3066	~~Dengue~~	Excluído
 3067	Dominó	Grafos
-3068	Meteoros	Iniciante
+3068	Meteoros	Geometria Computacional
 3069	Sorvete	Estruturas e Bibliotecas
 3070	Autoestradas HyperspaceTM	Grafos
 3071	Melhor Ranking	Ad-Hoc
@@ -2162,7 +2162,7 @@
 3161	As Frutas Esquecidas	Iniciante
 3162	Comunicação Espacial	Iniciante
 3163	Controlador de Vôo	Estruturas e Bibliotecas
-3164	Fiscalizando Empresa	Iniciante
+3164	Fiscalizando Empresa	Matemática
 3165	Primos Gêmeos	Matemática
 3166	Procurando Palavras na Diagonal Principal	Strings
 3167	Procurando Palavras na Diagonal Secundária	Strings
@@ -2171,7 +2171,7 @@
 3170	Bolinhas de Natal	Iniciante
 3171	Cordão de Led	Estruturas e Bibliotecas
 3172	Dali e Dila	Ad-Hoc
-3173	Estrela de Natal	Iniciante
+3173	Estrela de Natal	Ad-Hoc
 3174	Grupo de Trabalho do Noel	Iniciante
 3175	Os Presentes Do Noel	Ad-Hoc
 3176	Time de Duendes	Estruturas e Bibliotecas
@@ -2179,7 +2179,7 @@
 3178	Avenida de Álamos	Paradigmas
 3179	Melhor Compressão de Todas	Matemática
 3180	Roubo de Código	Strings
-3181	Jantar	Iniciante
+3181	Jantar	Grafos
 3182	Planejamento de Evento	Matemática
 3183	Corrigindo os Bugs	Matemática
 3184	Obtendo Ouro	Geometria Computacional
@@ -2202,12 +2202,12 @@
 3201	Traveling Salesman	Estruturas e Bibliotecas
 3202	Whac-a-Mole	Ad-Hoc
 3203	Random Walking	Ad-Hoc
-3204	Honeycomb Walk	Iniciante
+3204	Honeycomb Walk	Grafos
 3205	Nasty Hacks	Ad-Hoc
 3206	Batida de Robos	Ad-Hoc
 3207	Jogos Divertidos	Estruturas e Bibliotecas
-3208	O Criptógrafo Envergonhado	Iniciante
-3209	Tomadas Elétricas	Iniciante
+3208	O Criptógrafo Envergonhado	Matemática
+3209	Tomadas Elétricas	Ad-Hoc
 3210	O Pior Clima de Todos	Estruturas e Bibliotecas
 3211	Reino	Grafos
 3212	Decomposição do Colar	Ad-Hoc
@@ -2215,7 +2215,7 @@
 3214	Refrigerante	Iniciante
 3215	Dinheiro Importa	Grafos
 3216	Teste Alérgico	Matemática
-3217	Chuva Caindo	Iniciante
+3217	Chuva Caindo	Matemática
 3218	Fuga Rápida	Grafos
 3219	Gokigen Naname	Ad-Hoc
 3220	Planejamento de Vôo	Grafos
@@ -2227,8 +2227,8 @@
 3226	Seleção de Biscoito	Ad-Hoc
 3227	Doorman	Ad-Hoc
 3228	Eco-driving	Ad-Hoc
-3229	Resenhas de Comida	Iniciante
-3230	Senhores da Guerra Galácticos	Iniciante
+3229	Resenhas de Comida	Grafos
+3230	Senhores da Guerra Galácticos	Geometria Computacional
 3231	Horror List	Iniciante
 3232	Infiltration	Iniciante
 3233	Suco	Iniciante
@@ -2236,15 +2236,15 @@
 3235	Luggage	Iniciante
 3236	Sucessão	Grafos
 3237	Conectar	Grafos
-3238	~~Borg Boogie~~	Ad-Hoc
+3238	~~Borg Boogie~~	Excluído
 3239	Dirty Driving	Estruturas e Bibliotecas
 3240	Doodling	Ad-Hoc
 3241	Ajude um Candidato a PhD!	Iniciante
-3242	~~Great Geek Game-show 3000!~~	Ad-Hoc
-3243	~~Poderes de Poliminó~~	Ad-Hoc
-3244	~~Estatísticos(as)~~	Ad-Hoc
-3245	~~Horizonte~~	Ad-Hoc
-3246	~~Em Torno da Pista~~	Ad-Hoc
+3242	~~Great Geek Game-show 3000!~~	Excluído
+3243	~~Poderes de Poliminó~~	Excluído
+3244	~~Estatísticos(as)~~	Excluído
+3245	~~Horizonte~~	Excluído
+3246	~~Em Torno da Pista~~	Excluído
 3247	Robôs em uma Grade	Grafos
 3248	Mega Inversões	Estruturas e Bibliotecas
 3249	Death Knight Hero	Iniciante
@@ -2253,7 +2253,7 @@
 3252	Reus da Floresta	Iniciante
 3253	Problemas com o Carro	Iniciante
 3254	Espaço Privado	Ad-Hoc
-3255	A Vez to Primo	Iniciante
+3255	A Vez to Primo	Matemática
 3256	Divisão Inimiga	Iniciante
 3257	Plantando Árvores	Matemática
 3258	Fervendo Vegetais	Iniciante
@@ -2265,38 +2265,38 @@
 3264	Pinball	Grafos
 3265	Reconstrução de Dança	Matemática
 3266	Dartboard	Matemática
-3267	Passeio no Penhasco	Iniciante
+3267	Passeio no Penhasco	Grafos
 3268	Lounges da Amanda	Grafos
 3269	Vigilância de Basin City	Grafos
 3270	Praça Catalã	Matemática
 3271	Jogo de Dados	Matemática
 3272	Cerimônia de Abertura	Matemática
-3273	~~Troca de Partículas~~	Ad-Hoc
+3273	~~Troca de Partículas~~	Excluído
 3274	Excursão	Paradigmas
 3275	Foto de Relógios	Strings
 3276	Quantos Quadrados?	Matemática
 3277	Trabalho na Estrada	Paradigmas
 3278	Passageiros de Trem	Ad-Hoc
-3279	~~Animais do Alfabeto~~	Ad-Hoc
-3280	~~Construindo Limites~~	Ad-Hoc
-3281	~~Coalizão Cacau~~	Ad-Hoc
-3282	~~Eeny Meeny~~	Ad-Hoc
-3283	~~Flow Finder~~	Ad-Hoc
-3284	~~Jogo dos Gnomos~~	Ad-Hoc
-3285	~~Caminhada Quente~~	Ad-Hoc
-3286	~~Indução Incremental~~	Ad-Hoc
-3287	~~Jovens Ciumentos~~	Ad-Hoc
-3288	~~Keep it Cool~~	Ad-Hoc
-3289	~~Anfíbios Altruístas~~	Ad-Hoc
-3290	~~Mordidas de Bebê~~	Ad-Hoc
-3291	~~Limpeza de Código~~	Ad-Hoc
-3292	~~Entregas Atrasadas~~	Ad-Hoc
-3293	~~Exploração de Explosão~~	Ad-Hoc
-3294	~~Disparando o Phaser~~	Ad-Hoc
-3295	~~Cronograma de Jogo~~	Ad-Hoc
-3296	~~Corda Confusa~~	Ad-Hoc
-3297	~~Cores do Rei~~	Ad-Hoc
-3298	~~Casa Lawn~~	Ad-Hoc
+3279	~~Animais do Alfabeto~~	Excluído
+3280	~~Construindo Limites~~	Excluído
+3281	~~Coalizão Cacau~~	Excluído
+3282	~~Eeny Meeny~~	Excluído
+3283	~~Flow Finder~~	Excluído
+3284	~~Jogo dos Gnomos~~	Excluído
+3285	~~Caminhada Quente~~	Excluído
+3286	~~Indução Incremental~~	Excluído
+3287	~~Jovens Ciumentos~~	Excluído
+3288	~~Keep it Cool~~	Excluído
+3289	~~Anfíbios Altruístas~~	Excluído
+3290	~~Mordidas de Bebê~~	Excluído
+3291	~~Limpeza de Código~~	Excluído
+3292	~~Entregas Atrasadas~~	Excluído
+3293	~~Exploração de Explosão~~	Excluído
+3294	~~Disparando o Phaser~~	Excluído
+3295	~~Cronograma de Jogo~~	Excluído
+3296	~~Corda Confusa~~	Excluído
+3297	~~Cores do Rei~~	Excluído
+3298	~~Casa Lawn~~	Excluído
 3299	Números Má Sorte Pequenos	Iniciante
 3300	Números Má Sorte Recarregados	Strings
 3301	Sobrinho do Meio	Iniciante
@@ -2304,7 +2304,7 @@
 3303	Palavrão	Iniciante
 3304	Alguma Sorte!	Matemática
 3305	Bispos Dominantes	Ad-Hoc
-3306	Consulta e Alteração	Iniciante
+3306	Consulta e Alteração	Estruturas e Bibliotecas
 3307	Decora o Rolê!	Ad-Hoc
 3308	Elevador	Matemática
 3309	Felizes são estes Números	Ad-Hoc
@@ -2314,29 +2314,29 @@
 3313	Jogo de Palavras	Strings
 3314	Konfusa, a Colmeia!	Grafos
 3315	Língua do Computador	Ad-Hoc
-3316	~~Almost Origami~~	Ad-Hoc
-3317	~~Beautiful Mountains~~	Ad-Hoc
-3318	~~Crisis at the Wedding~~	Ad-Hoc
-3319	~~Dividing Candy~~	Ad-Hoc
-3320	~~Excellent Views~~	Ad-Hoc
-3321	~~Fascinating Partitions~~	Ad-Hoc
-3322	~~Game of Slots~~	Ad-Hoc
-3323	~~Halting Wolf~~	Ad-Hoc
-3324	~~Impenetrable Wall~~	Ad-Hoc
-3325	~~Job Allocator~~	Ad-Hoc
-3326	~~Keylogger~~	Ad-Hoc
-3327	~~Lola's Schedule~~	Ad-Hoc
-3328	~~May I Add a Letter?~~	Ad-Hoc
-3329	~~Non-Integer Donuts~~	Ad-Hoc
-3330	~~Adedonha~~	Ad-Hoc
-3331	~~O Circuito Digital de Joãozinho~~	Ad-Hoc
-3332	~~Dados Malucos~~	Ad-Hoc
-3333	~~Fiscalização do Clube~~	Ad-Hoc
-3334	~~Atrasado pra Aula~~	Ad-Hoc
-3335	~~Entregas~~	Ad-Hoc
-3336	~~Blocos da Diversão~~	Ad-Hoc
-3337	~~Triângulos~~	Ad-Hoc
-3338	~~Jogo de Páscoa~~	Ad-Hoc
+3316	~~Almost Origami~~	Excluído
+3317	~~Beautiful Mountains~~	Excluído
+3318	~~Crisis at the Wedding~~	Excluído
+3319	~~Dividing Candy~~	Excluído
+3320	~~Excellent Views~~	Excluído
+3321	~~Fascinating Partitions~~	Excluído
+3322	~~Game of Slots~~	Excluído
+3323	~~Halting Wolf~~	Excluído
+3324	~~Impenetrable Wall~~	Excluído
+3325	~~Job Allocator~~	Excluído
+3326	~~Keylogger~~	Excluído
+3327	~~Lola's Schedule~~	Excluído
+3328	~~May I Add a Letter?~~	Excluído
+3329	~~Non-Integer Donuts~~	Excluído
+3330	~~Adedonha~~	Excluído
+3331	~~O Circuito Digital de Joãozinho~~	Excluído
+3332	~~Dados Malucos~~	Excluído
+3333	~~Fiscalização do Clube~~	Excluído
+3334	~~Atrasado pra Aula~~	Excluído
+3335	~~Entregas~~	Excluído
+3336	~~Blocos da Diversão~~	Excluído
+3337	~~Triângulos~~	Excluído
+3338	~~Jogo de Páscoa~~	Excluído
 3339	Carina	Matemática
 3340	Estudante De Mestrado	Grafos
 3341	Grandmaster do Jogo do Caneco	Matemática
@@ -2400,7 +2400,7 @@
 3399	Meu nome é Enésimo!	Ad-Hoc
 3400	Amigo não tão secreto assim	Ad-Hoc
 3401	Bicho da Goiaba Ataca Novamente	Ad-Hoc
-3402	~~Caminho Mais Curto?~~	Ad-Hoc
+3402	~~Caminho Mais Curto?~~	Excluído
 3403	Dengoso	Ad-Hoc
 3404	Estranho ou Engraçado	Ad-Hoc
 3405	Fatorial	Ad-Hoc
@@ -2432,14 +2432,14 @@
 3431	Habilitando a Movimentação	Ad-Hoc
 3432	Interceptando Informações	Ad-Hoc
 3433	Jogando 23	Ad-Hoc
-3434	~~Kalel, o Sapo Saltador~~	Ad-Hoc
+3434	~~Kalel, o Sapo Saltador~~	Excluído
 3435	Listando Caminhos Tediosos	Ad-Hoc
 3436	Maratona de Amarelinha	Ad-Hoc
 3437	Números Virados	Ad-Hoc
 3438	Energia × Tempo	Ad-Hoc
 3439	Rota Crítica	Ad-Hoc
 3440	Amigos ou Inimigos?	Ad-Hoc
-3441	~~O Problema do 7 x 1~~	Ad-Hoc
+3441	~~O Problema do 7 x 1~~	Excluído
 3442	Pedindo dinheiro	Ad-Hoc
 3443	Jogo de tabuleiro	Ad-Hoc
 3444	Dobras da Cidade	Ad-Hoc
@@ -2483,7 +2483,7 @@
 3482	Seguidores	SQL
 3483	Segundo Maior e Menor	SQL
 3484	Turma Dividida	Estruturas e Bibliotecas
-3485	~~Terra Media~~	Ad-Hoc
+3485	~~Terra Media~~	Excluído
 3486	Registro de exibição	Ad-Hoc
 3487	Firmware - Substring Manipulation	Ad-Hoc
 3488	Binary/Hexadecimal Number Systems	Ad-Hoc
@@ -2495,7 +2495,7 @@
 3494	Palavras transformadas	Iniciante
 3495	Gianzin Berranteiro	Iniciante	
 3496	Promoção imperdível	Paradigmas
-3497	~~Segurança dos Currais~~	Ad-Hoc
+3497	~~Segurança dos Currais~~	Excluído
 3498	Pares especiais	Estruturas e Bibliotecas
 3499	Bella, a cachorrinha sapeca	Iniciante
 3500	Inversão de Número	Iniciante
@@ -2521,30 +2521,37 @@
 3520	Próximo ímpar	Iniciante
 3521	Maratona de Petiscos	Ad-Hoc
 3522	Desafio dos Subarrays	Ad-Hoc
-4000	~~Altura Mínima~~	Ad-Hoc
-4001	~~Baralho Embaralhado~~	Ad-Hoc
-4002	~~Caminhada na Montanha~~	Ad-Hoc
-4003	~~Desvio~~	Ad-Hoc
-4004	~~Extraindo Pólen~~	Ad-Hoc
-4005	~~Férias Cansativas~~	Ad-Hoc
-4006	~~Grande Tratado da Bytelândia~~	Ad-Hoc
-4007	~~Honroso Trabalhador~~	Ad-Hoc
-4008	~~Investigando Zeros e Uns~~	Ad-Hoc
-4009	~~Jogo de Vôlei~~	Ad-Hoc
-4010	~~k pra Mais, k pra Menos~~	Ad-Hoc
-4011	~~Lexicograficamente Agradável~~	Ad-Hoc
-4012	~~Malha Aérea~~	Ad-Hoc
-4013	~~Alice e as Canções e Iara~~	Iniciante
-4014	~~Boto e as Festas~~	Ad-Hoc
-4015	~~Caboclo-d'Água e o Biscoito Confeitado~~	Ad-Hoc
-4016	~~Deus-serpente M'boi as Cataratas do Iguaçu~~	Ad-Hoc
-4017	~~Esquecimento e o Mapa do Boitatá~~	Ad-Hoc
-4018	~~Folguedo do Boi de Mamão e o Apetite da Bernunça~~	Ad-Hoc
-4019	~~Gosto Pelo Tabacoe o Saci Pererê~~	Ad-Hoc
-4020	~~Homem do Saco e o Teorema de Bachgold~~	Ad-Hoc
-4021	~~Iracema e os Colares Especiais~~	Ad-Hoc
-4022	~~Jogos de Xaxdrez e a Mula sem Cabeça~~	Ad-Hoc
-4023	~~K-ésimo Fator Primoe o Desafio do Pai do Mato~~	Ad-Hoc
-4024	~~Lágrimas Irritantes e a tarefa da Cuca~~	Ad-Hoc
-4025	~~Matinta Pereira e um Prefeito Preguiçoso~~	Ad-Hoc
-4026	~~Negrinho do Pastoreio e a Segurança dos Currais~~	Ad-Hoc
+3523	Catraca	Matemática
+3524	Lâmpadas	Ad-Hoc
+3525	Condenado a Ser Livre	Grafos
+3526	Delgado Quer Salgado	Iniciante
+3527	Fumo das Sete	Iniciante
+3528	A Hora da Estrela	Grafos
+3529	Cursos de Verão	Paradigmas
+4000	~~Altura Mínima~~	Excluído
+4001	~~Baralho Embaralhado~~	Excluído
+4002	~~Caminhada na Montanha~~	Excluído
+4003	~~Desvio~~	Excluído
+4004	~~Extraindo Pólen~~	Excluído
+4005	~~Férias Cansativas~~	Excluído
+4006	~~Grande Tratado da Bytelândia~~	Excluído
+4007	~~Honroso Trabalhador~~	Excluído
+4008	~~Investigando Zeros e Uns~~	Excluído
+4009	~~Jogo de Vôlei~~	Excluído
+4010	~~k pra Mais, k pra Menos~~	Excluído
+4011	~~Lexicograficamente Agradável~~	Excluído
+4012	~~Malha Aérea~~	Excluído
+4013	~~Alice e as Canções e Iara~~	Excluído
+4014	~~Boto e as Festas~~	Excluído
+4015	~~Caboclo-d'Água e o Biscoito Confeitado~~	Excluído
+4016	~~Deus-serpente M'boi as Cataratas do Iguaçu~~	Excluído
+4017	~~Esquecimento e o Mapa do Boitatá~~	Excluído
+4018	~~Folguedo do Boi de Mamão e o Apetite da Bernunça~~	Excluído
+4019	~~Gosto Pelo Tabacoe o Saci Pererê~~	Excluído
+4020	~~Homem do Saco e o Teorema de Bachgold~~	Excluído
+4021	~~Iracema e os Colares Especiais~~	Excluído
+4022	~~Jogos de Xaxdrez e a Mula sem Cabeça~~	Excluído
+4023	~~K-ésimo Fator Primoe o Desafio do Pai do Mato~~	Excluído
+4024	~~Lágrimas Irritantes e a tarefa da Cuca~~	Excluído
+4025	~~Matinta Pereira e um Prefeito Preguiçoso~~	Excluído
+4026	~~Negrinho do Pastoreio e a Segurança dos Currais~~	Excluído

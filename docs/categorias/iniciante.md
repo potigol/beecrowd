@@ -1,4 +1,4 @@
-# Iniciante (325 / 346)
+# Iniciante (309 / 327)
 
 
 
@@ -187,7 +187,6 @@
 - [x] [2483](https://resources.beecrowd.com/repository/UOJ_2483.html) - [Feliz Nataaal!](https://potigol.github.io/beecrowd/problemas/2400/#2483-feliz-nataaal)
 - [x] [2486](https://resources.beecrowd.com/repository/UOJ_2486.html) - [C Mais ou Menos?](https://potigol.github.io/beecrowd/problemas/2400/#2486-c-mais-ou-menos)
 - [x] [2493](https://resources.beecrowd.com/repository/UOJ_2493.html) - [Jogo do Operador](https://potigol.github.io/beecrowd/problemas/2400/#2493-jogo-do-operador)
-- [x] [2502](https://resources.beecrowd.com/repository/UOJ_2502.html) - [Decifrando a Carta Criptografada](https://potigol.github.io/beecrowd/problemas/2500/#2502-decifrando-a-carta-criptografada)
 - [x] [2510](https://resources.beecrowd.com/repository/UOJ_2510.html) - [Batmain](https://potigol.github.io/beecrowd/problemas/2500/#2510-batmain)
 - [x] [2520](https://resources.beecrowd.com/repository/UOJ_2520.html) - [O Último Analógimôn](https://potigol.github.io/beecrowd/problemas/2500/#2520-o-ultimo-analogimon)
 - [x] [2523](https://resources.beecrowd.com/repository/UOJ_2523.html) - [A Mensagem de Will](https://potigol.github.io/beecrowd/problemas/2500/#2523-a-mensagem-de-will)
@@ -206,7 +205,6 @@
 - [x] [2626](https://resources.beecrowd.com/repository/UOJ_2626.html) - [Turma do JB6](https://potigol.github.io/beecrowd/problemas/2600/#2626-turma-do-jb6)
 - [x] [2630](https://resources.beecrowd.com/repository/UOJ_2630.html) - [Escala de Cinza](https://potigol.github.io/beecrowd/problemas/2600/#2630-escala-de-cinza)
 - [x] [2632](https://resources.beecrowd.com/repository/UOJ_2632.html) - [Magic and Sword](https://potigol.github.io/beecrowd/problemas/2600/#2632-magic-and-sword)
-- [x] [2635](https://resources.beecrowd.com/repository/UOJ_2635.html) - [Navegador Web](https://potigol.github.io/beecrowd/problemas/2600/#2635-navegador-web)
 - [x] [2653](https://resources.beecrowd.com/repository/UOJ_2653.html) - [Dijkstra](https://potigol.github.io/beecrowd/problemas/2600/#2653-dijkstra)
 - [x] [2663](https://resources.beecrowd.com/repository/UOJ_2663.html) - [Fase](https://potigol.github.io/beecrowd/problemas/2600/#2663-fase)
 - [x] [2670](https://resources.beecrowd.com/repository/UOJ_2670.html) - [Máquina de Café](https://potigol.github.io/beecrowd/problemas/2600/#2670-maquina-de-cafe)
@@ -220,13 +218,11 @@
 - [x] [2717](https://resources.beecrowd.com/repository/UOJ_2717.html) - [Tempo do Duende](https://potigol.github.io/beecrowd/problemas/2700/#2717-tempo-do-duende)
 - [x] [2718](https://resources.beecrowd.com/repository/UOJ_2718.html) - [Luzes de Natal](https://potigol.github.io/beecrowd/problemas/2700/#2718-luzes-de-natal)
 - [x] [2721](https://resources.beecrowd.com/repository/UOJ_2721.html) - [Indecisão das Renas](https://potigol.github.io/beecrowd/problemas/2700/#2721-indecisao-das-renas)
-- [x] [2724](https://resources.beecrowd.com/repository/UOJ_2724.html) - [Ajude Patatatitu](https://potigol.github.io/beecrowd/problemas/2700/#2724-ajude-patatatitu)
 - [x] [2727](https://resources.beecrowd.com/repository/UOJ_2727.html) - [Código Secreto](https://potigol.github.io/beecrowd/problemas/2700/#2727-codigo-secreto)
 - [x] [2747](https://resources.beecrowd.com/repository/UOJ_2747.html) - [Saída 1](https://potigol.github.io/beecrowd/problemas/2700/#2747-saida-1)
 - [x] [2748](https://resources.beecrowd.com/repository/UOJ_2748.html) - [Saída 2](https://potigol.github.io/beecrowd/problemas/2700/#2748-saida-2)
 - [x] [2749](https://resources.beecrowd.com/repository/UOJ_2749.html) - [Saída 3](https://potigol.github.io/beecrowd/problemas/2700/#2749-saida-3)
 - [x] [2750](https://resources.beecrowd.com/repository/UOJ_2750.html) - [Saída 4](https://potigol.github.io/beecrowd/problemas/2700/#2750-saida-4)
-- [x] [2751](https://resources.beecrowd.com/repository/UOJ_2751.html) - [~~Saída 5~~](https://potigol.github.io/beecrowd/problemas/2700/#2751-saida-5)
 - [x] [2752](https://resources.beecrowd.com/repository/UOJ_2752.html) - [Saída 6](https://potigol.github.io/beecrowd/problemas/2700/#2752-saida-6)
 - [x] [2753](https://resources.beecrowd.com/repository/UOJ_2753.html) - [Saída 7](https://potigol.github.io/beecrowd/problemas/2700/#2753-saida-7)
 - [x] [2754](https://resources.beecrowd.com/repository/UOJ_2754.html) - [Saída 8](https://potigol.github.io/beecrowd/problemas/2700/#2754-saida-8)
@@ -242,7 +238,6 @@
 - [x] [2764](https://resources.beecrowd.com/repository/UOJ_2764.html) - [Entrada e Saída de Data](https://potigol.github.io/beecrowd/problemas/2700/#2764-entrada-e-saida-de-data)
 - [x] [2765](https://resources.beecrowd.com/repository/UOJ_2765.html) - [Entrada e Saída com Virgula](https://potigol.github.io/beecrowd/problemas/2700/#2765-entrada-e-saida-com-virgula)
 - [x] [2766](https://resources.beecrowd.com/repository/UOJ_2766.html) - [Entrada e Saída Lendo e Pulando Nomes](https://potigol.github.io/beecrowd/problemas/2700/#2766-entrada-e-saida-lendo-e-pulando-nomes)
-- [x] [2769](https://resources.beecrowd.com/repository/UOJ_2769.html) - [Linha de Montagem](https://potigol.github.io/beecrowd/problemas/2700/#2769-linha-de-montagem)
 - [x] [2770](https://resources.beecrowd.com/repository/UOJ_2770.html) - [Tamanho da Placa](https://potigol.github.io/beecrowd/problemas/2700/#2770-tamanho-da-placa)
 - [x] [2774](https://resources.beecrowd.com/repository/UOJ_2774.html) - [Precisão do Sensor](https://potigol.github.io/beecrowd/problemas/2700/#2774-precisao-do-sensor)
 - [x] [2775](https://resources.beecrowd.com/repository/UOJ_2775.html) - [Preparando a Produção](https://potigol.github.io/beecrowd/problemas/2700/#2775-preparando-a-producao)
@@ -264,7 +259,6 @@
 - [x] [2845](https://resources.beecrowd.com/repository/UOJ_2845.html) - [Festa no Polo Norte](https://potigol.github.io/beecrowd/problemas/2800/#2845-festa-no-polo-norte)
 - [x] [2846](https://resources.beecrowd.com/repository/UOJ_2846.html) - [Fibonot](https://potigol.github.io/beecrowd/problemas/2800/#2846-fibonot)
 - [x] [2850](https://resources.beecrowd.com/repository/UOJ_2850.html) - [Papagaio Poliglota](https://potigol.github.io/beecrowd/problemas/2800/#2850-papagaio-poliglota)
-- [x] [2852](https://resources.beecrowd.com/repository/UOJ_2852.html) - [Troca de Mensagens](https://potigol.github.io/beecrowd/problemas/2800/#2852-troca-de-mensagens)
 - [x] [2861](https://resources.beecrowd.com/repository/UOJ_2861.html) - [A Saída](https://potigol.github.io/beecrowd/problemas/2800/#2861-a-saida)
 - [x] [2862](https://resources.beecrowd.com/repository/UOJ_2862.html) - [Inseto!](https://potigol.github.io/beecrowd/problemas/2800/#2862-inseto)
 - [x] [2863](https://resources.beecrowd.com/repository/UOJ_2863.html) - [Umil Bolt](https://potigol.github.io/beecrowd/problemas/2800/#2863-umil-bolt)
@@ -283,13 +277,11 @@
 - [x] [3037](https://resources.beecrowd.com/repository/UOJ_3037.html) - [Jogando Dardos Por Distância](https://potigol.github.io/beecrowd/problemas/3000/#3037-jogando-dardos-por-distancia)
 - [x] [3039](https://resources.beecrowd.com/repository/UOJ_3039.html) - [Brinquedos do Papai Noel](https://potigol.github.io/beecrowd/problemas/3000/#3039-brinquedos-do-papai-noel)
 - [x] [3040](https://resources.beecrowd.com/repository/UOJ_3040.html) - [A Árvore de Natal](https://potigol.github.io/beecrowd/problemas/3000/#3040-a-arvore-de-natal)
-- [x] [3042](https://resources.beecrowd.com/repository/UOJ_3042.html) - [Desviando de Árvores de Natal](https://potigol.github.io/beecrowd/problemas/3000/#3042-desviando-de-arvores-de-natal)
 - [x] [3046](https://resources.beecrowd.com/repository/UOJ_3046.html) - [Dominó](https://potigol.github.io/beecrowd/problemas/3000/#3046-domino)
 - [x] [3047](https://resources.beecrowd.com/repository/UOJ_3047.html) - [A idade de Dona Mônica](https://potigol.github.io/beecrowd/problemas/3000/#3047-a-idade-de-dona-monica)
 - [x] [3053](https://resources.beecrowd.com/repository/UOJ_3053.html) - [Jogo Dos Copos](https://potigol.github.io/beecrowd/problemas/3000/#3053-jogo-dos-copos)
 - [x] [3055](https://resources.beecrowd.com/repository/UOJ_3055.html) - [Nota Esquecida](https://potigol.github.io/beecrowd/problemas/3000/#3055-nota-esquecida)
 - [x] [3065](https://resources.beecrowd.com/repository/UOJ_3065.html) - [Calculando](https://potigol.github.io/beecrowd/problemas/3000/#3065-calculando)
-- [x] [3068](https://resources.beecrowd.com/repository/UOJ_3068.html) - [Meteoros](https://potigol.github.io/beecrowd/problemas/3000/#3068-meteoros)
 - [x] [3076](https://resources.beecrowd.com/repository/UOJ_3076.html) - [Exercício de História](https://potigol.github.io/beecrowd/problemas/3000/#3076-exercicio-de-historia)
 - [x] [3084](https://resources.beecrowd.com/repository/UOJ_3084.html) - [Relógio Antigo](https://potigol.github.io/beecrowd/problemas/3000/#3084-relogio-antigo)
 - [x] [3089](https://resources.beecrowd.com/repository/UOJ_3089.html) - [Presentes de Natal](https://potigol.github.io/beecrowd/problemas/3000/#3089-presentes-de-natal)
@@ -302,15 +294,9 @@
 - [x] [3157](https://resources.beecrowd.com/repository/UOJ_3157.html) - [Viva a Ciência!](https://potigol.github.io/beecrowd/problemas/3100/#3157-viva-a-ciencia)
 - [x] [3161](https://resources.beecrowd.com/repository/UOJ_3161.html) - [As Frutas Esquecidas](https://potigol.github.io/beecrowd/problemas/3100/#3161-as-frutas-esquecidas)
 - [x] [3162](https://resources.beecrowd.com/repository/UOJ_3162.html) - [Comunicação Espacial](https://potigol.github.io/beecrowd/problemas/3100/#3162-comunicacao-espacial)
-- [x] [3164](https://resources.beecrowd.com/repository/UOJ_3164.html) - [Fiscalizando Empresa](https://potigol.github.io/beecrowd/problemas/3100/#3164-fiscalizando-empresa)
 - [x] [3170](https://resources.beecrowd.com/repository/UOJ_3170.html) - [Bolinhas de Natal](https://potigol.github.io/beecrowd/problemas/3100/#3170-bolinhas-de-natal)
-- [x] [3173](https://resources.beecrowd.com/repository/UOJ_3173.html) - [Estrela de Natal](https://potigol.github.io/beecrowd/problemas/3100/#3173-estrela-de-natal)
 - [x] [3174](https://resources.beecrowd.com/repository/UOJ_3174.html) - [Grupo de Trabalho do Noel](https://potigol.github.io/beecrowd/problemas/3100/#3174-grupo-de-trabalho-do-noel)
-- [x] [3204](https://resources.beecrowd.com/repository/UOJ_3204.html) - [Honeycomb Walk](https://potigol.github.io/beecrowd/problemas/3200/#3204-honeycomb-walk)
-- [x] [3208](https://resources.beecrowd.com/repository/UOJ_3208.html) - [O Criptógrafo Envergonhado](https://potigol.github.io/beecrowd/problemas/3200/#3208-o-criptografo-envergonhado)
-- [x] [3209](https://resources.beecrowd.com/repository/UOJ_3209.html) - [Tomadas Elétricas](https://potigol.github.io/beecrowd/problemas/3200/#3209-tomadas-eletricas)
 - [x] [3214](https://resources.beecrowd.com/repository/UOJ_3214.html) - [Refrigerante](https://potigol.github.io/beecrowd/problemas/3200/#3214-refrigerante)
-- [x] [3217](https://resources.beecrowd.com/repository/UOJ_3217.html) - [Chuva Caindo](https://potigol.github.io/beecrowd/problemas/3200/#3217-chuva-caindo)
 - [x] [3224](https://resources.beecrowd.com/repository/UOJ_3224.html) - [Aaah!](https://potigol.github.io/beecrowd/problemas/3200/#3224-aaah)
 - [x] [3241](https://resources.beecrowd.com/repository/UOJ_3241.html) - [Ajude um Candidato a PhD!](https://potigol.github.io/beecrowd/problemas/3200/#3241-ajude-um-candidato-a-phd)
 - [x] [3249](https://resources.beecrowd.com/repository/UOJ_3249.html) - [Death Knight Hero](https://potigol.github.io/beecrowd/problemas/3200/#3249-death-knight-hero)
@@ -321,29 +307,22 @@
 - [x] [3301](https://resources.beecrowd.com/repository/UOJ_3301.html) - [Sobrinho do Meio](https://potigol.github.io/beecrowd/problemas/3300/#3301-sobrinho-do-meio)
 - [x] [3302](https://resources.beecrowd.com/repository/UOJ_3302.html) - [Resposta Certa](https://potigol.github.io/beecrowd/problemas/3300/#3302-resposta-certa)
 - [x] [3303](https://resources.beecrowd.com/repository/UOJ_3303.html) - [Palavrão](https://potigol.github.io/beecrowd/problemas/3300/#3303-palavrao)
-- [x] [3306](https://resources.beecrowd.com/repository/UOJ_3306.html) - [Consulta e Alteração](https://potigol.github.io/beecrowd/problemas/3300/#3306-consulta-e-alteracao)
 - [x] [3342](https://resources.beecrowd.com/repository/UOJ_3342.html) - [Keanu](https://potigol.github.io/beecrowd/problemas/3300/#3342-keanu)
 - [x] [3343](https://resources.beecrowd.com/repository/UOJ_3343.html) - [Attack On Gasparini](https://potigol.github.io/beecrowd/problemas/3300/#3343-attack-on-gasparini)
 - [x] [3344](https://resources.beecrowd.com/repository/UOJ_3344.html) - [Brute](https://potigol.github.io/beecrowd/problemas/3300/#3344-brute)
 - [x] [3346](https://resources.beecrowd.com/repository/UOJ_3346.html) - [Flutuação do PIB](https://potigol.github.io/beecrowd/problemas/3300/#3346-flutuacao-do-pib)
 - [x] [3348](https://resources.beecrowd.com/repository/UOJ_3348.html) - [Jogo das Aranhas](https://potigol.github.io/beecrowd/problemas/3300/#3348-jogo-das-aranhas)
 - [x] [3494](https://resources.beecrowd.com/repository/UOJ_3494.html) - [Palavras transformadas](https://potigol.github.io/beecrowd/problemas/3400/#3494-palavras-transformadas)
-- [x] [4013](https://resources.beecrowd.com/repository/UOJ_4013.html) - [~~Alice e as Canções e Iara~~](https://potigol.github.io/beecrowd/problemas/4000/#4013-alice-e-as-cancoes-e-iara)
 
 ## Problemas não resolvidos
 
-- [ ] [3181](https://resources.beecrowd.com/repository/UOJ_3181.html) - Jantar
-- [ ] [3229](https://resources.beecrowd.com/repository/UOJ_3229.html) - Resenhas de Comida
-- [ ] [3230](https://resources.beecrowd.com/repository/UOJ_3230.html) - Senhores da Guerra Galácticos
 - [ ] [3231](https://resources.beecrowd.com/repository/UOJ_3231.html) - Horror List
 - [ ] [3232](https://resources.beecrowd.com/repository/UOJ_3232.html) - Infiltration
 - [ ] [3233](https://resources.beecrowd.com/repository/UOJ_3233.html) - Suco
 - [ ] [3234](https://resources.beecrowd.com/repository/UOJ_3234.html) - Kindergarten
 - [ ] [3235](https://resources.beecrowd.com/repository/UOJ_3235.html) - Luggage
 - [ ] [3253](https://resources.beecrowd.com/repository/UOJ_3253.html) - Problemas com o Carro
-- [ ] [3255](https://resources.beecrowd.com/repository/UOJ_3255.html) - A Vez to Primo
 - [ ] [3256](https://resources.beecrowd.com/repository/UOJ_3256.html) - Divisão Inimiga
-- [ ] [3267](https://resources.beecrowd.com/repository/UOJ_3267.html) - Passeio no Penhasco
 - [ ] [3490](https://resources.beecrowd.com/repository/UOJ_3490.html) - Ache a senha!
 - [ ] [3491](https://resources.beecrowd.com/repository/UOJ_3491.html) - Bilhete codificado
 - [ ] [3493](https://resources.beecrowd.com/repository/UOJ_3493.html) - Copos empilhados
@@ -353,3 +332,5 @@
 - [ ] [3506](https://resources.beecrowd.com/repository/UOJ_3506.html) - Quantos primos?
 - [ ] [3507](https://resources.beecrowd.com/repository/UOJ_3507.html) - Tigres e Gansos
 - [ ] [3520](https://resources.beecrowd.com/repository/UOJ_3520.html) - Próximo ímpar
+- [ ] [3526](https://resources.beecrowd.com/repository/UOJ_3526.html) - Delgado Quer Salgado
+- [ ] [3527](https://resources.beecrowd.com/repository/UOJ_3527.html) - Fumo das Sete

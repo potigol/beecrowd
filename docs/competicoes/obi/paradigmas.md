@@ -1,6 +1,9 @@
 # Paradigmas (0 / 3)
 
+
+
 ## Problemas resolvidos
+
 
 ## Problemas não resolvidos
 

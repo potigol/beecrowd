@@ -1,5 +1,7 @@
 # Matemática (12 / 23)
 
+
+
 ## Problemas resolvidos
 
 - [x] [1869](https://resources.beecrowd.com/repository/UOJ_1869.html) - [Base 32](https://potigol.github.io/beecrowd/problemas/1800/#1869-base-32)

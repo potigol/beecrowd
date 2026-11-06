@@ -1,4 +1,6 @@
-# Iniciante (26 / 31)
+# Iniciante (25 / 30)
+
+
 
 ## Problemas resolvidos
 
@@ -26,7 +28,6 @@
 - [x] [3301](https://resources.beecrowd.com/repository/UOJ_3301.html) - [Sobrinho do Meio](https://potigol.github.io/beecrowd/problemas/3300/#3301-sobrinho-do-meio)
 - [x] [3302](https://resources.beecrowd.com/repository/UOJ_3302.html) - [Resposta Certa](https://potigol.github.io/beecrowd/problemas/3300/#3302-resposta-certa)
 - [x] [3303](https://resources.beecrowd.com/repository/UOJ_3303.html) - [Palavrão](https://potigol.github.io/beecrowd/problemas/3300/#3303-palavrao)
-- [x] [3306](https://resources.beecrowd.com/repository/UOJ_3306.html) - [Consulta e Alteração](https://potigol.github.io/beecrowd/problemas/3300/#3306-consulta-e-alteracao)
 - [x] [3494](https://resources.beecrowd.com/repository/UOJ_3494.html) - [Palavras transformadas](https://potigol.github.io/beecrowd/problemas/3400/#3494-palavras-transformadas)
 
 ## Problemas não resolvidos

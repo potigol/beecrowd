@@ -1,6 +1,6 @@
 # Problemas 3000 (34/98)
 
-- [ ] [3000](https://resources.beecrowd.com/repository/UOJ_3000.html) - ~~Maiores Salários do Departamento~~ *SQL*
+- [ ] [3000](https://resources.beecrowd.com/repository/UOJ_3000.html) - ~~Maiores Salários do Departamento~~ *Excluído*
 - [ ] [3001](https://resources.beecrowd.com/repository/UOJ_3001.html) - Update sem Where *SQL*
 - [ ] [3002](https://resources.beecrowd.com/repository/UOJ_3002.html) - Salve a Lilly! *Matemática*
 - [ ] [3003](https://resources.beecrowd.com/repository/UOJ_3003.html) - O Grupinho *Grafos*
@@ -42,7 +42,7 @@
 - [x] [3039](https://resources.beecrowd.com/repository/UOJ_3039.html) - [Brinquedos do Papai Noel](https://potigol.github.io/beecrowd/problemas/3000/#3039-brinquedos-do-papai-noel) *Iniciante*
 - [x] [3040](https://resources.beecrowd.com/repository/UOJ_3040.html) - [A Árvore de Natal](https://potigol.github.io/beecrowd/problemas/3000/#3040-a-arvore-de-natal) *Iniciante*
 - [ ] [3041](https://resources.beecrowd.com/repository/UOJ_3041.html) - Distribuição de Artigos *Ad-Hoc*
-- [x] [3042](https://resources.beecrowd.com/repository/UOJ_3042.html) - [Desviando de Árvores de Natal](https://potigol.github.io/beecrowd/problemas/3000/#3042-desviando-de-arvores-de-natal) *Iniciante*
+- [x] [3042](https://resources.beecrowd.com/repository/UOJ_3042.html) - [Desviando de Árvores de Natal](https://potigol.github.io/beecrowd/problemas/3000/#3042-desviando-de-arvores-de-natal) *Paradigmas*
 - [x] [3043](https://resources.beecrowd.com/repository/UOJ_3043.html) - [Festa Junina](https://potigol.github.io/beecrowd/problemas/3000/#3043-festa-junina) *Grafos*
 - [ ] [3044](https://resources.beecrowd.com/repository/UOJ_3044.html) - Manutenção *Grafos*
 - [ ] [3045](https://resources.beecrowd.com/repository/UOJ_3045.html) - Parque Jurássico *Estruturas e Bibliotecas*
@@ -66,9 +66,9 @@
 - [ ] [3063](https://resources.beecrowd.com/repository/UOJ_3063.html) - Linhas de Ônibus *Ad-Hoc*
 - [ ] [3064](https://resources.beecrowd.com/repository/UOJ_3064.html) - Elástico *Geometria Computacional*
 - [x] [3065](https://resources.beecrowd.com/repository/UOJ_3065.html) - [Calculando](https://potigol.github.io/beecrowd/problemas/3000/#3065-calculando) *Iniciante*
-- [ ] [3066](https://resources.beecrowd.com/repository/UOJ_3066.html) - ~~Dengue~~ *Grafos*
+- [ ] [3066](https://resources.beecrowd.com/repository/UOJ_3066.html) - ~~Dengue~~ *Excluído*
 - [ ] [3067](https://resources.beecrowd.com/repository/UOJ_3067.html) - Dominó *Grafos*
-- [x] [3068](https://resources.beecrowd.com/repository/UOJ_3068.html) - [Meteoros](https://potigol.github.io/beecrowd/problemas/3000/#3068-meteoros) *Iniciante*
+- [x] [3068](https://resources.beecrowd.com/repository/UOJ_3068.html) - [Meteoros](https://potigol.github.io/beecrowd/problemas/3000/#3068-meteoros) *Geometria Computacional*
 - [ ] [3069](https://resources.beecrowd.com/repository/UOJ_3069.html) - Sorvete *Estruturas e Bibliotecas*
 - [ ] [3070](https://resources.beecrowd.com/repository/UOJ_3070.html) - Autoestradas HyperspaceTM *Grafos*
 - [ ] [3071](https://resources.beecrowd.com/repository/UOJ_3071.html) - Melhor Ranking *Ad-Hoc*

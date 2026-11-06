@@ -1,4 +1,6 @@
-# Ad-Hoc (25 / 56)
+# Ad-Hoc (25 / 55)
+
+
 
 ## Problemas resolvidos
 
@@ -47,7 +49,6 @@
 - [ ] [3305](https://resources.beecrowd.com/repository/UOJ_3305.html) - Bispos Dominantes
 - [ ] [3400](https://resources.beecrowd.com/repository/UOJ_3400.html) - Amigo não tão secreto assim
 - [ ] [3401](https://resources.beecrowd.com/repository/UOJ_3401.html) - Bicho da Goiaba Ataca Novamente
-- [ ] [3402](https://resources.beecrowd.com/repository/UOJ_3402.html) - ~~Caminho Mais Curto?~~
 - [ ] [3403](https://resources.beecrowd.com/repository/UOJ_3403.html) - Dengoso
 - [ ] [3404](https://resources.beecrowd.com/repository/UOJ_3404.html) - Estranho ou Engraçado
 - [ ] [3406](https://resources.beecrowd.com/repository/UOJ_3406.html) - Gatas do Lincoln

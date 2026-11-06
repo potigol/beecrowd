@@ -1,4 +1,4 @@
-# Matemática (11 / 35)
+# Matemática (11 / 34)
 
 
 
@@ -22,7 +22,6 @@
 - [ ] [1232](https://resources.beecrowd.com/repository/UOJ_1232.html) - Ciclo de Rubik
 - [ ] [1233](https://resources.beecrowd.com/repository/UOJ_1233.html) - Estrela
 - [ ] [1297](https://resources.beecrowd.com/repository/UOJ_1297.html) - Proteção do Meio Ambiente
-- [ ] [1316](https://resources.beecrowd.com/repository/UOJ_1316.html) - ~~Compra Livre de Impostos~~
 - [ ] [1324](https://resources.beecrowd.com/repository/UOJ_1324.html) - Bóson de Higgs
 - [ ] [1346](https://resources.beecrowd.com/repository/UOJ_1346.html) - Brincadeira de Criança
 - [ ] [1347](https://resources.beecrowd.com/repository/UOJ_1347.html) - Mina Kriptonita

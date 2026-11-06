@@ -1,4 +1,4 @@
-# Problemas 3500 (0/23)
+# Problemas 3500 (0/30)
 
 - [ ] [3500](https://resources.beecrowd.com/repository/UOJ_3500.html) - Inversão de Número *Iniciante*
 - [ ] [3501](https://resources.beecrowd.com/repository/UOJ_3501.html) - Maior número na matriz *Ad-Hoc*
@@ -23,3 +23,80 @@
 - [ ] [3520](https://resources.beecrowd.com/repository/UOJ_3520.html) - Próximo ímpar *Iniciante*
 - [ ] [3521](https://resources.beecrowd.com/repository/UOJ_3521.html) - Maratona de Petiscos *Ad-Hoc*
 - [ ] [3522](https://resources.beecrowd.com/repository/UOJ_3522.html) - Desafio dos Subarrays *Ad-Hoc*
+- [ ] [3523](https://resources.beecrowd.com/repository/UOJ_3523.html) - Catraca *Matemática*
+- [ ] [3524](https://resources.beecrowd.com/repository/UOJ_3524.html) - Lâmpadas *Ad-Hoc*
+- [ ] [3525](https://resources.beecrowd.com/repository/UOJ_3525.html) - Condenado a Ser Livre *Grafos*
+- [ ] [3526](https://resources.beecrowd.com/repository/UOJ_3526.html) - Delgado Quer Salgado *Iniciante*
+- [ ] [3527](https://resources.beecrowd.com/repository/UOJ_3527.html) - Fumo das Sete *Iniciante*
+- [ ] [3528](https://resources.beecrowd.com/repository/UOJ_3528.html) - A Hora da Estrela *Grafos*
+- [ ] [3529](https://resources.beecrowd.com/repository/UOJ_3529.html) - Cursos de Verão *Paradigmas*
+- [ ] ~~xxxx~~
+- [ ] ~~xxxx~~
+- [ ] ~~xxxx~~
+- [ ] ~~xxxx~~
+- [ ] ~~xxxx~~
+- [ ] ~~xxxx~~
+- [ ] ~~xxxx~~
+- [ ] ~~xxxx~~
+- [ ] ~~xxxx~~
+- [ ] ~~xxxx~~
+- [ ] ~~xxxx~~
+- [ ] ~~xxxx~~
+- [ ] ~~xxxx~~
+- [ ] ~~xxxx~~
+- [ ] ~~xxxx~~
+- [ ] ~~xxxx~~
+- [ ] ~~xxxx~~
+- [ ] ~~xxxx~~
+- [ ] ~~xxxx~~
+- [ ] ~~xxxx~~
+- [ ] ~~xxxx~~
+- [ ] ~~xxxx~~
+- [ ] ~~xxxx~~
+- [ ] ~~xxxx~~
+- [ ] ~~xxxx~~
+- [ ] ~~xxxx~~
+- [ ] ~~xxxx~~
+- [ ] ~~xxxx~~
+- [ ] ~~xxxx~~
+- [ ] ~~xxxx~~
+- [ ] ~~xxxx~~
+- [ ] ~~xxxx~~
+- [ ] ~~xxxx~~
+- [ ] ~~xxxx~~
+- [ ] ~~xxxx~~
+- [ ] ~~xxxx~~
+- [ ] ~~xxxx~~
+- [ ] ~~xxxx~~
+- [ ] ~~xxxx~~
+- [ ] ~~xxxx~~
+- [ ] ~~xxxx~~
+- [ ] ~~xxxx~~
+- [ ] ~~xxxx~~
+- [ ] ~~xxxx~~
+- [ ] ~~xxxx~~
+- [ ] ~~xxxx~~
+- [ ] ~~xxxx~~
+- [ ] ~~xxxx~~
+- [ ] ~~xxxx~~
+- [ ] ~~xxxx~~
+- [ ] ~~xxxx~~
+- [ ] ~~xxxx~~
+- [ ] ~~xxxx~~
+- [ ] ~~xxxx~~
+- [ ] ~~xxxx~~
+- [ ] ~~xxxx~~
+- [ ] ~~xxxx~~
+- [ ] ~~xxxx~~
+- [ ] ~~xxxx~~
+- [ ] ~~xxxx~~
+- [ ] ~~xxxx~~
+- [ ] ~~xxxx~~
+- [ ] ~~xxxx~~
+- [ ] ~~xxxx~~
+- [ ] ~~xxxx~~
+- [ ] ~~xxxx~~
+- [ ] ~~xxxx~~
+- [ ] ~~xxxx~~
+- [ ] ~~xxxx~~
+- [ ] ~~xxxx~~

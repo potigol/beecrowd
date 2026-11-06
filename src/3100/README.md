@@ -64,7 +64,7 @@
 - [x] [3161](https://resources.beecrowd.com/repository/UOJ_3161.html) - [As Frutas Esquecidas](https://potigol.github.io/beecrowd/problemas/3100/#3161-as-frutas-esquecidas) *Iniciante*
 - [x] [3162](https://resources.beecrowd.com/repository/UOJ_3162.html) - [Comunicação Espacial](https://potigol.github.io/beecrowd/problemas/3100/#3162-comunicacao-espacial) *Iniciante*
 - [x] [3163](https://resources.beecrowd.com/repository/UOJ_3163.html) - [Controlador de Vôo](https://potigol.github.io/beecrowd/problemas/3100/#3163-controlador-de-voo) *Estruturas e Bibliotecas*
-- [x] [3164](https://resources.beecrowd.com/repository/UOJ_3164.html) - [Fiscalizando Empresa](https://potigol.github.io/beecrowd/problemas/3100/#3164-fiscalizando-empresa) *Iniciante*
+- [x] [3164](https://resources.beecrowd.com/repository/UOJ_3164.html) - [Fiscalizando Empresa](https://potigol.github.io/beecrowd/problemas/3100/#3164-fiscalizando-empresa) *Matemática*
 - [x] [3165](https://resources.beecrowd.com/repository/UOJ_3165.html) - [Primos Gêmeos](https://potigol.github.io/beecrowd/problemas/3100/#3165-primos-gemeos) *Matemática*
 - [x] [3166](https://resources.beecrowd.com/repository/UOJ_3166.html) - [Procurando Palavras na Diagonal Principal](https://potigol.github.io/beecrowd/problemas/3100/#3166-procurando-palavras-na-diagonal-principal) *Strings*
 - [x] [3167](https://resources.beecrowd.com/repository/UOJ_3167.html) - [Procurando Palavras na Diagonal Secundária](https://potigol.github.io/beecrowd/problemas/3100/#3167-procurando-palavras-na-diagonal-secundaria) *Strings*
@@ -73,7 +73,7 @@
 - [x] [3170](https://resources.beecrowd.com/repository/UOJ_3170.html) - [Bolinhas de Natal](https://potigol.github.io/beecrowd/problemas/3100/#3170-bolinhas-de-natal) *Iniciante*
 - [x] [3171](https://resources.beecrowd.com/repository/UOJ_3171.html) - [Cordão de Led](https://potigol.github.io/beecrowd/problemas/3100/#3171-cordao-de-led) *Estruturas e Bibliotecas*
 - [ ] [3172](https://resources.beecrowd.com/repository/UOJ_3172.html) - Dali e Dila *Ad-Hoc*
-- [x] [3173](https://resources.beecrowd.com/repository/UOJ_3173.html) - [Estrela de Natal](https://potigol.github.io/beecrowd/problemas/3100/#3173-estrela-de-natal) *Iniciante*
+- [x] [3173](https://resources.beecrowd.com/repository/UOJ_3173.html) - [Estrela de Natal](https://potigol.github.io/beecrowd/problemas/3100/#3173-estrela-de-natal) *Ad-Hoc*
 - [x] [3174](https://resources.beecrowd.com/repository/UOJ_3174.html) - [Grupo de Trabalho do Noel](https://potigol.github.io/beecrowd/problemas/3100/#3174-grupo-de-trabalho-do-noel) *Iniciante*
 - [x] [3175](https://resources.beecrowd.com/repository/UOJ_3175.html) - [Os Presentes Do Noel](https://potigol.github.io/beecrowd/problemas/3100/#3175-os-presentes-do-noel) *Ad-Hoc*
 - [x] [3176](https://resources.beecrowd.com/repository/UOJ_3176.html) - [Time de Duendes](https://potigol.github.io/beecrowd/problemas/3100/#3176-time-de-duendes) *Estruturas e Bibliotecas*
@@ -81,7 +81,7 @@
 - [ ] [3178](https://resources.beecrowd.com/repository/UOJ_3178.html) - Avenida de Álamos *Paradigmas*
 - [ ] [3179](https://resources.beecrowd.com/repository/UOJ_3179.html) - Melhor Compressão de Todas *Matemática*
 - [ ] [3180](https://resources.beecrowd.com/repository/UOJ_3180.html) - Roubo de Código *Strings*
-- [ ] [3181](https://resources.beecrowd.com/repository/UOJ_3181.html) - Jantar *Iniciante*
+- [ ] [3181](https://resources.beecrowd.com/repository/UOJ_3181.html) - Jantar *Grafos*
 - [x] [3182](https://resources.beecrowd.com/repository/UOJ_3182.html) - [Planejamento de Evento](https://potigol.github.io/beecrowd/problemas/3100/#3182-planejamento-de-evento) *Matemática*
 - [ ] [3183](https://resources.beecrowd.com/repository/UOJ_3183.html) - Corrigindo os Bugs *Matemática*
 - [ ] [3184](https://resources.beecrowd.com/repository/UOJ_3184.html) - Obtendo Ouro *Geometria Computacional*

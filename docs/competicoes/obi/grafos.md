@@ -1,4 +1,6 @@
-# Grafos (2 / 18)
+# Grafos (2 / 17)
+
+
 
 ## Problemas resolvidos
 
@@ -21,5 +23,4 @@
 - [ ] [2784](https://resources.beecrowd.com/repository/UOJ_2784.html) - Ilhas
 - [ ] [3044](https://resources.beecrowd.com/repository/UOJ_3044.html) - Manutenção
 - [ ] [3061](https://resources.beecrowd.com/repository/UOJ_3061.html) - Manchas de Pele
-- [ ] [3066](https://resources.beecrowd.com/repository/UOJ_3066.html) - ~~Dengue~~
 - [ ] [3067](https://resources.beecrowd.com/repository/UOJ_3067.html) - Dominó
