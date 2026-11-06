@@ -113,6 +113,16 @@ def agrupar_arquivos_poti(src_dir='src', dest_dir='docs/problemas'):
                 except Exception as e:
                     print(f"❌ Erro em {file}: {str(e)}")
 
+    # Encontrar problemas não resolvidos por faixa
+    problemas_nao_resolvidos = {}
+    for rel_path in conteudos_por_pasta.keys():
+        if rel_path != '.' and rel_path.isdigit():
+            inicio = int(rel_path)
+            fim = inicio + 99
+            numeros_resolvidos = set(p['numero'] for p in conteudos_por_pasta[rel_path])
+            nao_resolvidos = [n for n in range(inicio, fim + 1) if str(n) not in numeros_resolvidos]
+            problemas_nao_resolvidos[rel_path] = nao_resolvidos
+
     # Geração dos arquivos
     for grupo, problemas in conteudos_por_pasta.items():
         nav_items.append(gerar_nav_item(grupo, problemas))
@@ -141,7 +151,17 @@ def agrupar_arquivos_poti(src_dir='src', dest_dir='docs/problemas'):
                 
                 if grupo != '.' and grupo.isdigit():
                     f.write(f"!!! info \"Faixa de problemas: {grupo}-{int(grupo)+99}\"\n")
-                    f.write(f"    Total: {len(problemas)} problemas\n\n")
+                    f.write(f"    Total resolvido: {len(problemas)} de 100 problemas\n\n")
+
+                    # Adicionar lista de problemas não resolvidos
+                    nao_resolvidos = problemas_nao_resolvidos.get(grupo, [])
+                    if nao_resolvidos:
+                        f.write(f"!!! warning \"Problemas não resolvidos ({len(nao_resolvidos)})\"\n")
+                        links = ', '.join(
+                            f"[{n}](https://judge.beecrowd.com/pt/problems/view/{n})"
+                            for n in nao_resolvidos
+                        )
+                        f.write(f"    {links}\n\n")
                 
                 # Tabs container para alternar entre visualizações
             #    f.write("=== \"Lista de Problemas\"\n")

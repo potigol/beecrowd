@@ -1,6 +1,6 @@
 site_name: "Beecrowd Potigol"
 site_url: "https://potigol.github.io/beecrowd"
-site_description: "Catálogo de soluções para os problemas do Beecrowd utilizando a linguagem Potigol."
+site_description: "Soluções para os problemas da Beecrowd utilizando a linguagem Potigol."
 site_author: "Potigol"
 repo_url: "https://github.com/potigol/beecrowd"
 theme:
