@@ -41,7 +41,11 @@ CONFIG: dict[str, str] = {}
 class Text:
     @staticmethod
     def unsolved(problem: Problem, show_category: bool = True) -> str:
-        category = f" *{problem.category}*" if show_category else ""
+        category = (
+            f" *{problem.category}*"
+            if show_category and not is_excluded_category(problem.category)
+            else ""
+        )
         return (
             f"- [ ] [{problem.number}]({CONFIG['prefix']}{problem.number}.html) - "
             f"{problem.name}{category}"
@@ -49,7 +53,11 @@ class Text:
 
     @staticmethod
     def solved(problem: Problem, show_category: bool = True) -> str:
-        category = f" *{problem.category}*" if show_category else ""
+        category = (
+            f" *{problem.category}*"
+            if show_category and not is_excluded_category(problem.category)
+            else ""
+        )
         return (
             f"- [x] [{problem.number}]({CONFIG['prefix']}{problem.number}.html) - "
             f"[{problem.name}]({CONFIG['site']}/{dir(problem.number)}/"
@@ -64,6 +72,10 @@ def slugify(value: str) -> str:
     value = unicodedata.normalize("NFKD", value).encode("ascii", "ignore").decode("ascii")
     value = re.sub(r"[^\w\s-]", "", value).strip().lower()
     return re.sub(r"[-\s]+", "-", value)
+
+
+def is_excluded_category(category: str) -> bool:
+    return slugify(category) == "excluido"
 
 
 def anchor(problem: Problem) -> str:
@@ -161,6 +173,8 @@ def lista_categoria(
 ) -> None:
     grouped_by_category: dict[str, list[Problem]] = {}
     for problem in problems.values():
+        if is_excluded_category(problem.category):
+            continue
         grouped_by_category.setdefault(problem.category, []).append(problem)
 
     for category, problem_list in grouped_by_category.items():
