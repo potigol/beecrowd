@@ -38,15 +38,15 @@
 - [ ] [3235](https://resources.beecrowd.com/repository/UOJ_3235.html) - Luggage *Iniciante*
 - [ ] [3236](https://resources.beecrowd.com/repository/UOJ_3236.html) - Sucessão *Grafos*
 - [ ] [3237](https://resources.beecrowd.com/repository/UOJ_3237.html) - Conectar *Grafos*
-- [ ] [3238](https://resources.beecrowd.com/repository/UOJ_3238.html) - ~~Borg Boogie~~ *Excluído*
+- [ ] [3238](https://resources.beecrowd.com/repository/UOJ_3238.html) - ~~Borg Boogie~~
 - [ ] [3239](https://resources.beecrowd.com/repository/UOJ_3239.html) - Dirty Driving *Estruturas e Bibliotecas*
 - [ ] [3240](https://resources.beecrowd.com/repository/UOJ_3240.html) - Doodling *Ad-Hoc*
 - [x] [3241](https://resources.beecrowd.com/repository/UOJ_3241.html) - [Ajude um Candidato a PhD!](https://potigol.github.io/beecrowd/problemas/3200/#3241-ajude-um-candidato-a-phd) *Iniciante*
-- [ ] [3242](https://resources.beecrowd.com/repository/UOJ_3242.html) - ~~Great Geek Game-show 3000!~~ *Excluído*
-- [ ] [3243](https://resources.beecrowd.com/repository/UOJ_3243.html) - ~~Poderes de Poliminó~~ *Excluído*
-- [ ] [3244](https://resources.beecrowd.com/repository/UOJ_3244.html) - ~~Estatísticos(as)~~ *Excluído*
-- [ ] [3245](https://resources.beecrowd.com/repository/UOJ_3245.html) - ~~Horizonte~~ *Excluído*
-- [ ] [3246](https://resources.beecrowd.com/repository/UOJ_3246.html) - ~~Em Torno da Pista~~ *Excluído*
+- [ ] [3242](https://resources.beecrowd.com/repository/UOJ_3242.html) - ~~Great Geek Game-show 3000!~~
+- [ ] [3243](https://resources.beecrowd.com/repository/UOJ_3243.html) - ~~Poderes de Poliminó~~
+- [ ] [3244](https://resources.beecrowd.com/repository/UOJ_3244.html) - ~~Estatísticos(as)~~
+- [ ] [3245](https://resources.beecrowd.com/repository/UOJ_3245.html) - ~~Horizonte~~
+- [ ] [3246](https://resources.beecrowd.com/repository/UOJ_3246.html) - ~~Em Torno da Pista~~
 - [ ] [3247](https://resources.beecrowd.com/repository/UOJ_3247.html) - Robôs em uma Grade *Grafos*
 - [ ] [3248](https://resources.beecrowd.com/repository/UOJ_3248.html) - Mega Inversões *Estruturas e Bibliotecas*
 - [x] [3249](https://resources.beecrowd.com/repository/UOJ_3249.html) - [Death Knight Hero](https://potigol.github.io/beecrowd/problemas/3200/#3249-death-knight-hero) *Iniciante*
@@ -73,30 +73,30 @@
 - [ ] [3270](https://resources.beecrowd.com/repository/UOJ_3270.html) - Praça Catalã *Matemática*
 - [x] [3271](https://resources.beecrowd.com/repository/UOJ_3271.html) - [Jogo de Dados](https://potigol.github.io/beecrowd/problemas/3200/#3271-jogo-de-dados) *Matemática*
 - [ ] [3272](https://resources.beecrowd.com/repository/UOJ_3272.html) - Cerimônia de Abertura *Matemática*
-- [ ] [3273](https://resources.beecrowd.com/repository/UOJ_3273.html) - ~~Troca de Partículas~~ *Excluído*
+- [ ] [3273](https://resources.beecrowd.com/repository/UOJ_3273.html) - ~~Troca de Partículas~~
 - [ ] [3274](https://resources.beecrowd.com/repository/UOJ_3274.html) - Excursão *Paradigmas*
 - [ ] [3275](https://resources.beecrowd.com/repository/UOJ_3275.html) - Foto de Relógios *Strings*
 - [ ] [3276](https://resources.beecrowd.com/repository/UOJ_3276.html) - Quantos Quadrados? *Matemática*
 - [ ] [3277](https://resources.beecrowd.com/repository/UOJ_3277.html) - Trabalho na Estrada *Paradigmas*
 - [x] [3278](https://resources.beecrowd.com/repository/UOJ_3278.html) - [Passageiros de Trem](https://potigol.github.io/beecrowd/problemas/3200/#3278-passageiros-de-trem) *Ad-Hoc*
-- [ ] [3279](https://resources.beecrowd.com/repository/UOJ_3279.html) - ~~Animais do Alfabeto~~ *Excluído*
-- [ ] [3280](https://resources.beecrowd.com/repository/UOJ_3280.html) - ~~Construindo Limites~~ *Excluído*
-- [ ] [3281](https://resources.beecrowd.com/repository/UOJ_3281.html) - ~~Coalizão Cacau~~ *Excluído*
-- [ ] [3282](https://resources.beecrowd.com/repository/UOJ_3282.html) - ~~Eeny Meeny~~ *Excluído*
-- [ ] [3283](https://resources.beecrowd.com/repository/UOJ_3283.html) - ~~Flow Finder~~ *Excluído*
-- [ ] [3284](https://resources.beecrowd.com/repository/UOJ_3284.html) - ~~Jogo dos Gnomos~~ *Excluído*
-- [ ] [3285](https://resources.beecrowd.com/repository/UOJ_3285.html) - ~~Caminhada Quente~~ *Excluído*
-- [ ] [3286](https://resources.beecrowd.com/repository/UOJ_3286.html) - ~~Indução Incremental~~ *Excluído*
-- [ ] [3287](https://resources.beecrowd.com/repository/UOJ_3287.html) - ~~Jovens Ciumentos~~ *Excluído*
-- [ ] [3288](https://resources.beecrowd.com/repository/UOJ_3288.html) - ~~Keep it Cool~~ *Excluído*
-- [ ] [3289](https://resources.beecrowd.com/repository/UOJ_3289.html) - ~~Anfíbios Altruístas~~ *Excluído*
-- [ ] [3290](https://resources.beecrowd.com/repository/UOJ_3290.html) - ~~Mordidas de Bebê~~ *Excluído*
-- [ ] [3291](https://resources.beecrowd.com/repository/UOJ_3291.html) - ~~Limpeza de Código~~ *Excluído*
-- [ ] [3292](https://resources.beecrowd.com/repository/UOJ_3292.html) - ~~Entregas Atrasadas~~ *Excluído*
-- [ ] [3293](https://resources.beecrowd.com/repository/UOJ_3293.html) - ~~Exploração de Explosão~~ *Excluído*
-- [ ] [3294](https://resources.beecrowd.com/repository/UOJ_3294.html) - ~~Disparando o Phaser~~ *Excluído*
-- [ ] [3295](https://resources.beecrowd.com/repository/UOJ_3295.html) - ~~Cronograma de Jogo~~ *Excluído*
-- [ ] [3296](https://resources.beecrowd.com/repository/UOJ_3296.html) - ~~Corda Confusa~~ *Excluído*
-- [ ] [3297](https://resources.beecrowd.com/repository/UOJ_3297.html) - ~~Cores do Rei~~ *Excluído*
-- [ ] [3298](https://resources.beecrowd.com/repository/UOJ_3298.html) - ~~Casa Lawn~~ *Excluído*
+- [ ] [3279](https://resources.beecrowd.com/repository/UOJ_3279.html) - ~~Animais do Alfabeto~~
+- [ ] [3280](https://resources.beecrowd.com/repository/UOJ_3280.html) - ~~Construindo Limites~~
+- [ ] [3281](https://resources.beecrowd.com/repository/UOJ_3281.html) - ~~Coalizão Cacau~~
+- [ ] [3282](https://resources.beecrowd.com/repository/UOJ_3282.html) - ~~Eeny Meeny~~
+- [ ] [3283](https://resources.beecrowd.com/repository/UOJ_3283.html) - ~~Flow Finder~~
+- [ ] [3284](https://resources.beecrowd.com/repository/UOJ_3284.html) - ~~Jogo dos Gnomos~~
+- [ ] [3285](https://resources.beecrowd.com/repository/UOJ_3285.html) - ~~Caminhada Quente~~
+- [ ] [3286](https://resources.beecrowd.com/repository/UOJ_3286.html) - ~~Indução Incremental~~
+- [ ] [3287](https://resources.beecrowd.com/repository/UOJ_3287.html) - ~~Jovens Ciumentos~~
+- [ ] [3288](https://resources.beecrowd.com/repository/UOJ_3288.html) - ~~Keep it Cool~~
+- [ ] [3289](https://resources.beecrowd.com/repository/UOJ_3289.html) - ~~Anfíbios Altruístas~~
+- [ ] [3290](https://resources.beecrowd.com/repository/UOJ_3290.html) - ~~Mordidas de Bebê~~
+- [ ] [3291](https://resources.beecrowd.com/repository/UOJ_3291.html) - ~~Limpeza de Código~~
+- [ ] [3292](https://resources.beecrowd.com/repository/UOJ_3292.html) - ~~Entregas Atrasadas~~
+- [ ] [3293](https://resources.beecrowd.com/repository/UOJ_3293.html) - ~~Exploração de Explosão~~
+- [ ] [3294](https://resources.beecrowd.com/repository/UOJ_3294.html) - ~~Disparando o Phaser~~
+- [ ] [3295](https://resources.beecrowd.com/repository/UOJ_3295.html) - ~~Cronograma de Jogo~~
+- [ ] [3296](https://resources.beecrowd.com/repository/UOJ_3296.html) - ~~Corda Confusa~~
+- [ ] [3297](https://resources.beecrowd.com/repository/UOJ_3297.html) - ~~Cores do Rei~~
+- [ ] [3298](https://resources.beecrowd.com/repository/UOJ_3298.html) - ~~Casa Lawn~~
 - [x] [3299](https://resources.beecrowd.com/repository/UOJ_3299.html) - [Números Má Sorte Pequenos](https://potigol.github.io/beecrowd/problemas/3200/#3299-numeros-ma-sorte-pequenos) *Iniciante*

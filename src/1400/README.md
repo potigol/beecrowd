@@ -53,7 +53,7 @@
 - [ ] [1450](https://resources.beecrowd.com/repository/UOJ_1450.html) - Os Joguinhos de Ramsés *Matemática*
 - [ ] [1451](https://resources.beecrowd.com/repository/UOJ_1451.html) - Teclado Quebrado *Estruturas e Bibliotecas*
 - [ ] [1452](https://resources.beecrowd.com/repository/UOJ_1452.html) - Gloud Computing *Estruturas e Bibliotecas*
-- [ ] [1453](https://resources.beecrowd.com/repository/UOJ_1453.html) - ~~Palavras-Cruzadas Sem Palavras~~ *Excluído*
+- [ ] [1453](https://resources.beecrowd.com/repository/UOJ_1453.html) - ~~Palavras-Cruzadas Sem Palavras~~
 - [ ] [1454](https://resources.beecrowd.com/repository/UOJ_1454.html) - O País das Bicicletas *Grafos*
 - [ ] [1455](https://resources.beecrowd.com/repository/UOJ_1455.html) - Final do ICPC *Geometria Computacional*
 - [ ] [1456](https://resources.beecrowd.com/repository/UOJ_1456.html) - Brainfuck *Strings*

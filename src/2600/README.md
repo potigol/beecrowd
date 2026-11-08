@@ -12,7 +12,7 @@
 - [x] [2609](https://resources.beecrowd.com/repository/UOJ_2609.html) - [Produtos por Categorias](https://potigol.github.io/beecrowd/problemas/2600/#2609-produtos-por-categorias) *SQL*
 - [x] [2610](https://resources.beecrowd.com/repository/UOJ_2610.html) - [Valor Médio dos Produtos](https://potigol.github.io/beecrowd/problemas/2600/#2610-valor-medio-dos-produtos) *SQL*
 - [x] [2611](https://resources.beecrowd.com/repository/UOJ_2611.html) - [Filmes de Ação](https://potigol.github.io/beecrowd/problemas/2600/#2611-filmes-de-acao) *SQL*
-- [ ] [2612](https://resources.beecrowd.com/repository/UOJ_2612.html) - ~~Os Atores Silva~~ *Excluído*
+- [ ] [2612](https://resources.beecrowd.com/repository/UOJ_2612.html) - ~~Os Atores Silva~~
 - [ ] [2613](https://resources.beecrowd.com/repository/UOJ_2613.html) - Filmes em Promoção *SQL*
 - [ ] [2614](https://resources.beecrowd.com/repository/UOJ_2614.html) - Locações de Setembro *SQL*
 - [ ] [2615](https://resources.beecrowd.com/repository/UOJ_2615.html) - Expandindo o Negocio *SQL*
@@ -38,18 +38,18 @@
 - [x] [2635](https://resources.beecrowd.com/repository/UOJ_2635.html) - [Navegador Web](https://potigol.github.io/beecrowd/problemas/2600/#2635-navegador-web) *Strings*
 - [ ] [2636](https://resources.beecrowd.com/repository/UOJ_2636.html) - 3-RSA *Matemática*
 - [ ] [2637](https://resources.beecrowd.com/repository/UOJ_2637.html) - Casa do Batera *Grafos*
-- [ ] [2638](https://resources.beecrowd.com/repository/UOJ_2638.html) - ~~Construção de um Aeroporto~~ *Excluído*
+- [ ] [2638](https://resources.beecrowd.com/repository/UOJ_2638.html) - ~~Construção de um Aeroporto~~
 - [ ] [2639](https://resources.beecrowd.com/repository/UOJ_2639.html) - Cluedo *Ad-Hoc*
 - [ ] [2640](https://resources.beecrowd.com/repository/UOJ_2640.html) - Missão Improvável *Geometria Computacional*
 - [ ] [2641](https://resources.beecrowd.com/repository/UOJ_2641.html) - Dinheiro por Nada *Ad-Hoc*
-- [ ] [2642](https://resources.beecrowd.com/repository/UOJ_2642.html) - ~~Necessidade por Velocidade~~ *Excluído*
+- [ ] [2642](https://resources.beecrowd.com/repository/UOJ_2642.html) - ~~Necessidade por Velocidade~~
 - [ ] [2643](https://resources.beecrowd.com/repository/UOJ_2643.html) - Posterizar *Ad-Hoc*
 - [ ] [2644](https://resources.beecrowd.com/repository/UOJ_2644.html) - Replicate Replicate Rfplicbte *Ad-Hoc*
 - [ ] [2645](https://resources.beecrowd.com/repository/UOJ_2645.html) - Scenery *Ad-Hoc*
 - [ ] [2646](https://resources.beecrowd.com/repository/UOJ_2646.html) - Secret Chamber at Mount Rushmore *Grafos*
-- [ ] [2647](https://resources.beecrowd.com/repository/UOJ_2647.html) - ~~Son of Pipe Stream~~ *Excluído*
+- [ ] [2647](https://resources.beecrowd.com/repository/UOJ_2647.html) - ~~Son of Pipe Stream~~
 - [ ] [2648](https://resources.beecrowd.com/repository/UOJ_2648.html) - Tarot Sham Boast *Ad-Hoc*
-- [ ] [2649](https://resources.beecrowd.com/repository/UOJ_2649.html) - ~~Visual Python++~~ *Excluído*
+- [ ] [2649](https://resources.beecrowd.com/repository/UOJ_2649.html) - ~~Visual Python++~~
 - [x] [2650](https://resources.beecrowd.com/repository/UOJ_2650.html) - [Construindo Muralhas](https://potigol.github.io/beecrowd/problemas/2600/#2650-construindo-muralhas) *Ad-Hoc*
 - [x] [2651](https://resources.beecrowd.com/repository/UOJ_2651.html) - [Link Bolado](https://potigol.github.io/beecrowd/problemas/2600/#2651-link-bolado) *Strings*
 - [ ] [2652](https://resources.beecrowd.com/repository/UOJ_2652.html) - Quantas Árvores? *Grafos*
@@ -96,7 +96,7 @@
 - [x] [2693](https://resources.beecrowd.com/repository/UOJ_2693.html) - [Van](https://potigol.github.io/beecrowd/problemas/2600/#2693-van) *Estruturas e Bibliotecas*
 - [x] [2694](https://resources.beecrowd.com/repository/UOJ_2694.html) - [Problema com a Calculadora](https://potigol.github.io/beecrowd/problemas/2600/#2694-problema-com-a-calculadora) *Strings*
 - [ ] [2695](https://resources.beecrowd.com/repository/UOJ_2695.html) - Arrumando Lajotas *Geometria Computacional*
-- [ ] [2696](https://resources.beecrowd.com/repository/UOJ_2696.html) - ~~ICPC Bugado~~ *Excluído*
+- [ ] [2696](https://resources.beecrowd.com/repository/UOJ_2696.html) - ~~ICPC Bugado~~
 - [ ] [2697](https://resources.beecrowd.com/repository/UOJ_2697.html) - Sequencia Completa de Naebbirac *Strings*
 - [ ] [2698](https://resources.beecrowd.com/repository/UOJ_2698.html) - Dispositivo Assombrado *Estruturas e Bibliotecas*
 - [ ] [2699](https://resources.beecrowd.com/repository/UOJ_2699.html) - Enigma *Paradigmas*

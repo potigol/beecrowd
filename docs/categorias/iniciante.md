@@ -1,4 +1,4 @@
-# Iniciante (310 / 327)
+# Iniciante (310 / 330)
 
 
 
@@ -334,3 +334,6 @@
 - [ ] [3507](https://resources.beecrowd.com/repository/UOJ_3507.html) - Tigres e Gansos
 - [ ] [3520](https://resources.beecrowd.com/repository/UOJ_3520.html) - Próximo ímpar
 - [ ] [3527](https://resources.beecrowd.com/repository/UOJ_3527.html) - Fumo das Sete
+- [ ] [3534](https://resources.beecrowd.com/repository/UOJ_3534.html) - Cris, falta muito?
+- [ ] [3535](https://resources.beecrowd.com/repository/UOJ_3535.html) - Goiabinhas da Dona Conceição
+- [ ] [3536](https://resources.beecrowd.com/repository/UOJ_3536.html) - Itens do baú

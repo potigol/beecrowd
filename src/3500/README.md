@@ -1,4 +1,4 @@
-# Problemas 3500 (1/30)
+# Problemas 3500 (1/37)
 
 - [ ] [3500](https://resources.beecrowd.com/repository/UOJ_3500.html) - Inversão de Número *Iniciante*
 - [ ] [3501](https://resources.beecrowd.com/repository/UOJ_3501.html) - Maior número na matriz *Ad-Hoc*
@@ -30,13 +30,13 @@
 - [ ] [3527](https://resources.beecrowd.com/repository/UOJ_3527.html) - Fumo das Sete *Iniciante*
 - [ ] [3528](https://resources.beecrowd.com/repository/UOJ_3528.html) - A Hora da Estrela *Grafos*
 - [ ] [3529](https://resources.beecrowd.com/repository/UOJ_3529.html) - Cursos de Verão *Paradigmas*
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
+- [ ] [3530](https://resources.beecrowd.com/repository/UOJ_3530.html) - Miguel Dormiu *Ad-Hoc*
+- [ ] [3531](https://resources.beecrowd.com/repository/UOJ_3531.html) - Grade *Ad-Hoc*
+- [ ] [3532](https://resources.beecrowd.com/repository/UOJ_3532.html) - O H da Luana *Strings*
+- [ ] [3533](https://resources.beecrowd.com/repository/UOJ_3533.html) - As Cobrinhas Querem Brincar *Grafos*
+- [ ] [3534](https://resources.beecrowd.com/repository/UOJ_3534.html) - Cris, falta muito? *Iniciante*
+- [ ] [3535](https://resources.beecrowd.com/repository/UOJ_3535.html) - Goiabinhas da Dona Conceição *Iniciante*
+- [ ] [3536](https://resources.beecrowd.com/repository/UOJ_3536.html) - Itens do baú *Iniciante*
 - [ ] ~~xxxx~~
 - [ ] ~~xxxx~~
 - [ ] ~~xxxx~~

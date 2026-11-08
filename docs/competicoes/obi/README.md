@@ -35,7 +35,7 @@
 - [x] [2786](https://resources.beecrowd.com/repository/UOJ_2786.html) - [Piso da Escola](https://potigol.github.io/beecrowd/problemas/2700/#2786-piso-da-escola) *Iniciante*
 - [x] [2787](https://resources.beecrowd.com/repository/UOJ_2787.html) - [Xadrez](https://potigol.github.io/beecrowd/problemas/2700/#2787-xadrez) *Iniciante*
 - [x] [2830](https://resources.beecrowd.com/repository/UOJ_2830.html) - [Copa](https://potigol.github.io/beecrowd/problemas/2800/#2830-copa) *Ad-Hoc*
-- [x] [2831](https://resources.beecrowd.com/repository/UOJ_2831.html) - [~~Pesos~~](https://potigol.github.io/beecrowd/problemas/2800/#2831-pesos) *Excluído*
+- [x] [2831](https://resources.beecrowd.com/repository/UOJ_2831.html) - [~~Pesos~~](https://potigol.github.io/beecrowd/problemas/2800/#2831-pesos)
 - [ ] [2832](https://resources.beecrowd.com/repository/UOJ_2832.html) - Cápsulas *Ad-Hoc*
 - [x] [2833](https://resources.beecrowd.com/repository/UOJ_2833.html) - [Campeonato](https://potigol.github.io/beecrowd/problemas/2800/#2833-campeonato) *Ad-Hoc*
 - [ ] [2834](https://resources.beecrowd.com/repository/UOJ_2834.html) - Fuga *Ad-Hoc*
@@ -252,7 +252,7 @@
 ## 2001
 
 - [x] [3065](https://resources.beecrowd.com/repository/UOJ_3065.html) - [Calculando](https://potigol.github.io/beecrowd/problemas/3000/#3065-calculando) *Iniciante*
-- [ ] [3066](https://resources.beecrowd.com/repository/UOJ_3066.html) - ~~Dengue~~ *Excluído*
+- [ ] [3066](https://resources.beecrowd.com/repository/UOJ_3066.html) - ~~Dengue~~
 - [ ] [3067](https://resources.beecrowd.com/repository/UOJ_3067.html) - Dominó *Grafos*
 - [x] [3068](https://resources.beecrowd.com/repository/UOJ_3068.html) - [Meteoros](https://potigol.github.io/beecrowd/problemas/3000/#3068-meteoros) *Geometria Computacional*
 - [ ] [3069](https://resources.beecrowd.com/repository/UOJ_3069.html) - Sorvete *Estruturas e Bibliotecas*

@@ -6,7 +6,7 @@
 - [x] [2203](https://resources.beecrowd.com/repository/UOJ_2203.html) - [Tempestade de Corvos](https://potigol.github.io/beecrowd/problemas/2200/#2203-tempestade-de-corvos) *Iniciante*
 - [x] [2204](https://resources.beecrowd.com/repository/UOJ_2204.html) - [Pare A Bomba!](https://potigol.github.io/beecrowd/problemas/2200/#2204-pare-a-bomba) *Matemática*
 - [ ] [2205](https://resources.beecrowd.com/repository/UOJ_2205.html) - Asteroid Rangers *Ad-Hoc*
-- [ ] [2206](https://resources.beecrowd.com/repository/UOJ_2206.html) - ~~Curvy Little Bottles~~ *Excluído*
+- [ ] [2206](https://resources.beecrowd.com/repository/UOJ_2206.html) - ~~Curvy Little Bottles~~
 - [ ] [2207](https://resources.beecrowd.com/repository/UOJ_2207.html) - Bus Tour *Ad-Hoc*
 - [ ] [2208](https://resources.beecrowd.com/repository/UOJ_2208.html) - Fibonacci Words *Ad-Hoc*
 - [ ] [2209](https://resources.beecrowd.com/repository/UOJ_2209.html) - Infiltration *Ad-Hoc*
@@ -56,7 +56,7 @@
 - [x] [2253](https://resources.beecrowd.com/repository/UOJ_2253.html) - [Validador de Senhas](https://potigol.github.io/beecrowd/problemas/2200/#2253-validador-de-senhas) *Strings*
 - [ ] [2254](https://resources.beecrowd.com/repository/UOJ_2254.html) - Bem-me-quer, Malmequer Japonês *Ad-Hoc*
 - [ ] [2255](https://resources.beecrowd.com/repository/UOJ_2255.html) - Self-Assembly *Ad-Hoc*
-- [ ] [2256](https://resources.beecrowd.com/repository/UOJ_2256.html) - ~~Hey, Better Bettor~~ *Excluído*
+- [ ] [2256](https://resources.beecrowd.com/repository/UOJ_2256.html) - ~~Hey, Better Bettor~~
 - [ ] [2257](https://resources.beecrowd.com/repository/UOJ_2257.html) - Surely You Congest *Ad-Hoc*
 - [ ] [2258](https://resources.beecrowd.com/repository/UOJ_2258.html) - Factors *Ad-Hoc*
 - [ ] [2259](https://resources.beecrowd.com/repository/UOJ_2259.html) - Harvard *Ad-Hoc*
@@ -64,20 +64,20 @@
 - [ ] [2261](https://resources.beecrowd.com/repository/UOJ_2261.html) - Map Tiles *Ad-Hoc*
 - [ ] [2262](https://resources.beecrowd.com/repository/UOJ_2262.html) - Matryoshka *Ad-Hoc*
 - [ ] [2263](https://resources.beecrowd.com/repository/UOJ_2263.html) - Pirate Chest *Ad-Hoc*
-- [ ] [2264](https://resources.beecrowd.com/repository/UOJ_2264.html) - ~~Pollution Solution~~ *Excluído*
+- [ ] [2264](https://resources.beecrowd.com/repository/UOJ_2264.html) - ~~Pollution Solution~~
 - [ ] [2265](https://resources.beecrowd.com/repository/UOJ_2265.html) - Up a Tree *Ad-Hoc*
 - [ ] [2266](https://resources.beecrowd.com/repository/UOJ_2266.html) - Baggage *Ad-Hoc*
-- [ ] [2267](https://resources.beecrowd.com/repository/UOJ_2267.html) - ~~Buffed Buffet~~ *Excluído*
+- [ ] [2267](https://resources.beecrowd.com/repository/UOJ_2267.html) - ~~Buffed Buffet~~
 - [ ] [2268](https://resources.beecrowd.com/repository/UOJ_2268.html) - Crane Balancing *Ad-Hoc*
-- [ ] [2269](https://resources.beecrowd.com/repository/UOJ_2269.html) - ~~Game Strategy~~ *Excluído*
+- [ ] [2269](https://resources.beecrowd.com/repository/UOJ_2269.html) - ~~Game Strategy~~
 - [ ] [2270](https://resources.beecrowd.com/repository/UOJ_2270.html) - Maze Reduction *Ad-Hoc*
-- [ ] [2271](https://resources.beecrowd.com/repository/UOJ_2271.html) - ~~Messenger~~ *Excluído*
+- [ ] [2271](https://resources.beecrowd.com/repository/UOJ_2271.html) - ~~Messenger~~
 - [ ] [2272](https://resources.beecrowd.com/repository/UOJ_2272.html) - Metal Processing Plant *Ad-Hoc*
-- [ ] [2273](https://resources.beecrowd.com/repository/UOJ_2273.html) - ~~Pachinko~~ *Excluído*
-- [ ] [2274](https://resources.beecrowd.com/repository/UOJ_2274.html) - ~~Sensor Network~~ *Excluído*
+- [ ] [2273](https://resources.beecrowd.com/repository/UOJ_2273.html) - ~~Pachinko~~
+- [ ] [2274](https://resources.beecrowd.com/repository/UOJ_2274.html) - ~~Sensor Network~~
 - [ ] [2275](https://resources.beecrowd.com/repository/UOJ_2275.html) - Skiing *Ad-Hoc*
 - [ ] [2276](https://resources.beecrowd.com/repository/UOJ_2276.html) - Surveillance *Ad-Hoc*
-- [ ] [2277](https://resources.beecrowd.com/repository/UOJ_2277.html) - ~~Wire Crossing~~ *Excluído*
+- [ ] [2277](https://resources.beecrowd.com/repository/UOJ_2277.html) - ~~Wire Crossing~~
 - [ ] [2278](https://resources.beecrowd.com/repository/UOJ_2278.html) - Amalgamated Artichokes *Ad-Hoc*
 - [ ] [2279](https://resources.beecrowd.com/repository/UOJ_2279.html) - Asteroids *Ad-Hoc*
 - [ ] [2280](https://resources.beecrowd.com/repository/UOJ_2280.html) - Catering *Ad-Hoc*

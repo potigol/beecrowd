@@ -52,7 +52,7 @@
 - [x] [3399](https://resources.beecrowd.com/repository/UOJ_3399.html) - [Meu nome é Enésimo!](https://potigol.github.io/beecrowd/problemas/3300/#3399-meu-nome-e-enesimo) *Ad-Hoc*
 - [ ] [3400](https://resources.beecrowd.com/repository/UOJ_3400.html) - Amigo não tão secreto assim *Ad-Hoc*
 - [ ] [3401](https://resources.beecrowd.com/repository/UOJ_3401.html) - Bicho da Goiaba Ataca Novamente *Ad-Hoc*
-- [ ] [3402](https://resources.beecrowd.com/repository/UOJ_3402.html) - ~~Caminho Mais Curto?~~ *Excluído*
+- [ ] [3402](https://resources.beecrowd.com/repository/UOJ_3402.html) - ~~Caminho Mais Curto?~~
 - [ ] [3403](https://resources.beecrowd.com/repository/UOJ_3403.html) - Dengoso *Ad-Hoc*
 - [ ] [3404](https://resources.beecrowd.com/repository/UOJ_3404.html) - Estranho ou Engraçado *Ad-Hoc*
 - [x] [3405](https://resources.beecrowd.com/repository/UOJ_3405.html) - [Fatorial](https://potigol.github.io/beecrowd/problemas/3400/#3405-fatorial) *Ad-Hoc*

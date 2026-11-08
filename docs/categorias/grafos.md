@@ -1,4 +1,4 @@
-# Grafos (10 / 285)
+# Grafos (10 / 286)
 
 
 
@@ -292,3 +292,4 @@
 - [ ] [3515](https://resources.beecrowd.com/repository/UOJ_3515.html) - Paradoxo dos Microsserviços
 - [ ] [3525](https://resources.beecrowd.com/repository/UOJ_3525.html) - Condenado a Ser Livre
 - [ ] [3528](https://resources.beecrowd.com/repository/UOJ_3528.html) - A Hora da Estrela
+- [ ] [3533](https://resources.beecrowd.com/repository/UOJ_3533.html) - As Cobrinhas Querem Brincar

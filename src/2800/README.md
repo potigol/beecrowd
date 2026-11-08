@@ -31,7 +31,7 @@
 - [ ] [2828](https://resources.beecrowd.com/repository/UOJ_2828.html) - Anagramas *Matemática*
 - [ ] [2829](https://resources.beecrowd.com/repository/UOJ_2829.html) - Maiúsculas, Por Quê? *Ad-Hoc*
 - [x] [2830](https://resources.beecrowd.com/repository/UOJ_2830.html) - [Copa](https://potigol.github.io/beecrowd/problemas/2800/#2830-copa) *Ad-Hoc*
-- [x] [2831](https://resources.beecrowd.com/repository/UOJ_2831.html) - [~~Pesos~~](https://potigol.github.io/beecrowd/problemas/2800/#2831-pesos) *Excluído*
+- [x] [2831](https://resources.beecrowd.com/repository/UOJ_2831.html) - [~~Pesos~~](https://potigol.github.io/beecrowd/problemas/2800/#2831-pesos)
 - [ ] [2832](https://resources.beecrowd.com/repository/UOJ_2832.html) - Cápsulas *Ad-Hoc*
 - [x] [2833](https://resources.beecrowd.com/repository/UOJ_2833.html) - [Campeonato](https://potigol.github.io/beecrowd/problemas/2800/#2833-campeonato) *Ad-Hoc*
 - [ ] [2834](https://resources.beecrowd.com/repository/UOJ_2834.html) - Fuga *Ad-Hoc*

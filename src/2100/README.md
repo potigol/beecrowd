@@ -73,7 +73,7 @@
 - [x] [2170](https://resources.beecrowd.com/repository/UOJ_2170.html) - [Juros do Projeto](https://potigol.github.io/beecrowd/problemas/2100/#2170-juros-do-projeto) *Matemática*
 - [ ] [2171](https://resources.beecrowd.com/repository/UOJ_2171.html) - Dividindo com Fink *Ad-Hoc*
 - [x] [2172](https://resources.beecrowd.com/repository/UOJ_2172.html) - [Evento](https://potigol.github.io/beecrowd/problemas/2100/#2172-evento) *Iniciante*
-- [ ] [2173](https://resources.beecrowd.com/repository/UOJ_2173.html) - ~~Caixa Dois~~ *Excluído*
+- [ ] [2173](https://resources.beecrowd.com/repository/UOJ_2173.html) - ~~Caixa Dois~~
 - [x] [2174](https://resources.beecrowd.com/repository/UOJ_2174.html) - [Coleção de Pomekon](https://potigol.github.io/beecrowd/problemas/2100/#2174-colecao-de-pomekon) *Strings*
 - [x] [2175](https://resources.beecrowd.com/repository/UOJ_2175.html) - [Qual o Mais Rápido?](https://potigol.github.io/beecrowd/problemas/2100/#2175-qual-o-mais-rapido) *Ad-Hoc*
 - [x] [2176](https://resources.beecrowd.com/repository/UOJ_2176.html) - [Paridade](https://potigol.github.io/beecrowd/problemas/2100/#2176-paridade) *Iniciante*
@@ -98,5 +98,5 @@
 - [ ] [2195](https://resources.beecrowd.com/repository/UOJ_2195.html) - Chips Challenge *Ad-Hoc*
 - [ ] [2196](https://resources.beecrowd.com/repository/UOJ_2196.html) - Coffee Central *Ad-Hoc*
 - [ ] [2197](https://resources.beecrowd.com/repository/UOJ_2197.html) - Machine Works *Ad-Hoc*
-- [ ] [2198](https://resources.beecrowd.com/repository/UOJ_2198.html) - ~~Magic Sticks~~ *Excluído*
+- [ ] [2198](https://resources.beecrowd.com/repository/UOJ_2198.html) - ~~Magic Sticks~~
 - [ ] [2199](https://resources.beecrowd.com/repository/UOJ_2199.html) - Mining Your Own Business *Ad-Hoc*

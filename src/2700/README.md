@@ -7,7 +7,7 @@
 - [ ] [2704](https://resources.beecrowd.com/repository/UOJ_2704.html) - Sapo Saltador *Ad-Hoc*
 - [ ] [2705](https://resources.beecrowd.com/repository/UOJ_2705.html) - Mantenha Coberto *Ad-Hoc*
 - [ ] [2706](https://resources.beecrowd.com/repository/UOJ_2706.html) - Linearville *Grafos*
-- [ ] [2707](https://resources.beecrowd.com/repository/UOJ_2707.html) - ~~Marblecoin~~ *Excluído*
+- [ ] [2707](https://resources.beecrowd.com/repository/UOJ_2707.html) - ~~Marblecoin~~
 - [x] [2708](https://resources.beecrowd.com/repository/UOJ_2708.html) - [Turistas no Parque Huacachina](https://potigol.github.io/beecrowd/problemas/2700/#2708-turistas-no-parque-huacachina) *Iniciante*
 - [x] [2709](https://resources.beecrowd.com/repository/UOJ_2709.html) - [As Moedas de Robbie](https://potigol.github.io/beecrowd/problemas/2700/#2709-as-moedas-de-robbie) *Iniciante*
 - [ ] [2710](https://resources.beecrowd.com/repository/UOJ_2710.html) - Jogo da Matriz *Ad-Hoc*
@@ -51,7 +51,7 @@
 - [x] [2748](https://resources.beecrowd.com/repository/UOJ_2748.html) - [Saída 2](https://potigol.github.io/beecrowd/problemas/2700/#2748-saida-2) *Iniciante*
 - [x] [2749](https://resources.beecrowd.com/repository/UOJ_2749.html) - [Saída 3](https://potigol.github.io/beecrowd/problemas/2700/#2749-saida-3) *Iniciante*
 - [x] [2750](https://resources.beecrowd.com/repository/UOJ_2750.html) - [Saída 4](https://potigol.github.io/beecrowd/problemas/2700/#2750-saida-4) *Iniciante*
-- [x] [2751](https://resources.beecrowd.com/repository/UOJ_2751.html) - [~~Saída 5~~](https://potigol.github.io/beecrowd/problemas/2700/#2751-saida-5) *Excluído*
+- [x] [2751](https://resources.beecrowd.com/repository/UOJ_2751.html) - [~~Saída 5~~](https://potigol.github.io/beecrowd/problemas/2700/#2751-saida-5)
 - [x] [2752](https://resources.beecrowd.com/repository/UOJ_2752.html) - [Saída 6](https://potigol.github.io/beecrowd/problemas/2700/#2752-saida-6) *Iniciante*
 - [x] [2753](https://resources.beecrowd.com/repository/UOJ_2753.html) - [Saída 7](https://potigol.github.io/beecrowd/problemas/2700/#2753-saida-7) *Iniciante*
 - [x] [2754](https://resources.beecrowd.com/repository/UOJ_2754.html) - [Saída 8](https://potigol.github.io/beecrowd/problemas/2700/#2754-saida-8) *Iniciante*

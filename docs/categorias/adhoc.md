@@ -1,4 +1,4 @@
-# Ad-Hoc (280 / 860)
+# Ad-Hoc (280 / 862)
 
 
 
@@ -867,3 +867,5 @@
 - [ ] [3521](https://resources.beecrowd.com/repository/UOJ_3521.html) - Maratona de Petiscos
 - [ ] [3522](https://resources.beecrowd.com/repository/UOJ_3522.html) - Desafio dos Subarrays
 - [ ] [3524](https://resources.beecrowd.com/repository/UOJ_3524.html) - Lâmpadas
+- [ ] [3530](https://resources.beecrowd.com/repository/UOJ_3530.html) - Miguel Dormiu
+- [ ] [3531](https://resources.beecrowd.com/repository/UOJ_3531.html) - Grade

@@ -2528,6 +2528,13 @@
 3527	Fumo das Sete	Iniciante
 3528	A Hora da Estrela	Grafos
 3529	Cursos de Verão	Paradigmas
+3530	Miguel Dormiu	Ad-Hoc
+3531	Grade	Ad-Hoc
+3532	O H da Luana	Strings
+3533	As Cobrinhas Querem Brincar	Grafos
+3534	Cris, falta muito?	Iniciante
+3535	Goiabinhas da Dona Conceição	Iniciante
+3536	Itens do baú	Iniciante
 4000	~~Altura Mínima~~	Excluído
 4001	~~Baralho Embaralhado~~	Excluído
 4002	~~Caminhada na Montanha~~	Excluído
