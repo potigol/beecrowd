@@ -64,7 +64,7 @@ class Text:
             f"#{anchor(problem)}){category}"
         )
 
-    absent = "- [ ] ~~xxxx~~"
+    absent = "" # "- [ ] ~~xxxx~~"
 
 
 def slugify(value: str) -> str:
@@ -194,10 +194,10 @@ def lista_categoria(
             Text.unsolved(problem, show_category=False) for problem in unsolved
         )
         content = "\n".join(
-            ["\n\n## Problemas resolvidos\n", *resolved_lines]
+            ["## Problemas resolvidos\n", *resolved_lines]
         ) + "\n".join(
             ["\n\n## Problemas não resolvidos\n", *unresolved_lines]
-        )
+        ) + "\n"
         save_to_file(
             f"{path}{clean(category)}.md",
             f"{category} ({len(resolved_lines)} / {len(problem_list)})",

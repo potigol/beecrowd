@@ -1343,16 +1343,16 @@
 2342	Overflow	Ad-Hoc
 2343	Caçadores de Mitos	Ad-Hoc
 2344	Notas da Prova	Iniciante
-2345	Assigning Teams	Ad-Hoc
-2346	Back to the Future	Ad-Hoc
-2347	Counting Self-Rotating Subsets	Ad-Hoc
-2348	Dating On-Line	Ad-Hoc
-2349	Farm Robot	Ad-Hoc
-2350	Game of Matchings	Ad-Hoc
-2351	Hotel Rewards	Ad-Hoc
-2352	Internet Trouble	Ad-Hoc
-2353	Just in Time	Ad-Hoc
-2354	Kill the Werewolf	Ad-Hoc
+2345	Atribuindo Equipes	Ad-Hoc
+2346	De Volta para o Futuro	Ad-Hoc
+2347	Contando Subconjuntos Autorrotativos	Ad-Hoc
+2348	Encontros On-Line	Ad-Hoc
+2349	Robô Fazendeiro	Ad-Hoc
+2350	Jogo das Combinações	Ad-Hoc
+2351	Recompensas de Hotel	Ad-Hoc
+2352	Problema com a Internet	Ad-Hoc
+2353	Bem na Hora	Ad-Hoc
+2354	Mate o Lobisomem	Ad-Hoc
 2355	Brasil e Alemanha	Ad-Hoc
 2356	Bactéria I	Strings
 2357	Violência em Sildávia	Grafos
@@ -1901,19 +1901,19 @@
 2900	Jogo de Varetas	Ad-Hoc
 2901	Vôlei Marciano	Ad-Hoc
 2902	Rouba Monte	Ad-Hoc
-2903	A Symmetrical Pizza	Matemática
-2904	Building a Field	Ad-Hoc
-2905	Cheap Trips	Ad-Hoc
-2906	Database of Clients	Strings
-2907	Escape, Polygon!	Ad-Hoc
-2908	Fantastic Beasts	Ad-Hoc
-2909	Gathering Red-Black Fruits	Ad-Hoc
-2910	Highway Decommission	Ad-Hoc
-2911	Ink Colors	Ad-Hoc
-2912	Jeopardized Election	Ad-Hoc
-2913	KryptoLocker Ate my Homework	Ad-Hoc
-2914	Looking for the Risk Factor	Ad-Hoc
-2915	Mount Marathon	Ad-Hoc
+2903	Uma Pizza Simétrica	Matemática
+2904	Construindo um Campo	Ad-Hoc
+2905	Viagens Baratas	Ad-Hoc
+2906	Banco de Dados de Clientes	Strings
+2907	Fuja, Polígono!	Ad-Hoc
+2908	Animais Fantásticos	Ad-Hoc
+2909	Coletando Frutos Rubro-Negros	Ad-Hoc
+2910	Desativação de Rodovias	Ad-Hoc
+2911	Cores de Tinta	Ad-Hoc
+2912	Eleição Comprometida	Ad-Hoc
+2913	KryptoLocker Comeu meu Trabalho de Casa	Ad-Hoc
+2914	Procurando pelo Fator de Risco	Ad-Hoc
+2915	Monte Maratona	Ad-Hoc
 2916	A Nota	Estruturas e Bibliotecas
 2917	Barbante	Paradigmas
 2918	Dígitos Inteligentes	Paradigmas
@@ -2010,19 +2010,19 @@
 3009	Dominós	Ad-Hoc
 3010	Binários Ambíguos	Ad-Hoc
 3011	Quebra-Cabeça Algébrico	Ad-Hoc
-3012	Algorithm Teaching	Ad-Hoc
-3013	Build the Perfect House	Ad-Hoc
-3014	Cut Inequality Down	Ad-Hoc
-3015	Dazzling Stars	Ad-Hoc
-3016	Eggfruit Cake	Ad-Hoc
-3017	Fabricating Sculptures	Ad-Hoc
-3018	Gluing Pictures	Ad-Hoc
-3019	Hold or Continue?	Ad-Hoc
-3020	Improve SPAM	Ad-Hoc
-3021	Jumping Grasshopper	Ad-Hoc
-3022	Know your Aliens	Ad-Hoc
-3023	Leverage MDT	Ad-Hoc
-3024	Mountain Ranges	Ad-Hoc
+3012	Ensinando Algoritmos	Ad-Hoc
+3013	Construir a Casa Perfeita	Ad-Hoc
+3014	Reduzir a Desigualdade	Ad-Hoc
+3015	Estrelas Deslumbrantes	Ad-Hoc
+3016	Bolo de Fruta-Ovo	Ad-Hoc
+3017	Fabricando Esculturas	Ad-Hoc
+3018	Colando Fotos	Ad-Hoc
+3019	Manter ou Continuar?	Ad-Hoc
+3020	Melhore o SPAM	Ad-Hoc
+3021	Gafanhoto Saltitante	Ad-Hoc
+3022	Conheça seus Aliens	Ad-Hoc
+3023	Alavancar MDT	Ad-Hoc
+3024	Cordilheiras	Ad-Hoc
 3025	Coletor	Ad-Hoc
 3026	Número Inteiro Periódico	Matemática
 3027	Plano de Treino	Grafos
@@ -2314,20 +2314,20 @@
 3313	Jogo de Palavras	Strings
 3314	Konfusa, a Colmeia!	Grafos
 3315	Língua do Computador	Ad-Hoc
-3316	Almost Origami	Excluído
-3317	Beautiful Mountains	Excluído
-3318	Crisis at the Wedding	Excluído
-3319	Dividing Candy	Excluído
-3320	Excellent Views	Excluído
-3321	Fascinating Partitions	Excluído
-3322	Game of Slots	Excluído
-3323	Halting Wolf	Excluído
-3324	Impenetrable Wall	Excluído
-3325	Job Allocator	Excluído
-3326	Keylogger	Excluído
-3327	Lola's Schedule	Excluído
-3328	May I Add a Letter?	Excluído
-3329	Non-Integer Donuts	Excluído
+3316	Quase Origami	Excluído
+3317	Montanhas Belíssimas	Excluído
+3318	Crise no Casamento	Excluído
+3319	Dividindo Doces	Excluído
+3320	Vistas Excelentes	Excluído
+3321	Partições Fascinantes	Excluído
+3322	Jogo dos Caça-Níqueis	Excluído
+3323	Lobo em Parada	Excluído
+3324	Muralha Impenetrável	Excluído
+3325	Alocador de Tarefas	Excluído
+3326	Registrador de Teclas	Excluído
+3327	Agenda de Lola	Excluído
+3328	Posso Adicionar uma Letra?	Excluído
+3329	Rosquinhas Não Inteiras	Excluído
 3330	Adedonha	Excluído
 3331	O Circuito Digital de Joãozinho	Excluído
 3332	Dados Malucos	Excluído
@@ -2357,19 +2357,19 @@
 3356	Reprodução Controlada	Grafos
 3357	Rico do Mate	Estruturas e Bibliotecas
 3358	Sobrenome Não é Fácil	Strings
-3359	Ancient Towers	Ad-Hoc
-3360	Because, Art!	Ad-Hoc
-3361	Cyclists versus Clouds	Ad-Hoc
-3362	Daily Turnovers	Ad-Hoc
-3363	Expedition Plans	Ad-Hoc
-3364	Fields Division	Ad-Hoc
-3365	Generator Tree	Ad-Hoc
+3359	Torres Antigas	Ad-Hoc
+3360	Porque, Arte!	Ad-Hoc
+3361	Ciclistas contra Nuvens	Ad-Hoc
+3362	Faturamentos Diários	Ad-Hoc
+3363	Planos de Expedição	Ad-Hoc
+3364	Divisão de Campos	Ad-Hoc
+3365	Árvore Geradora	Ad-Hoc
 3366	Hamilton - The Musical	Ad-Hoc
-3367	Invested Money	Ad-Hoc
-3368	Joining Pairs	Ad-Hoc
-3369	KIARA is a Recursive Acronym	Ad-Hoc
-3370	Leaving Yharnam	Ad-Hoc
-3371	Most Ordered Way	Ad-Hoc
+3367	Dinheiro Investido	Ad-Hoc
+3368	Unindo Pares	Ad-Hoc
+3369	KIARA é um Acrônimo Recursivo	Ad-Hoc
+3370	Saindo de Yharnam	Ad-Hoc
+3371	Caminho Mais Ordenado	Ad-Hoc
 3372	Sudoku	Ad-Hoc
 3373	Criptografia Da Vinci’s	Ad-Hoc
 3374	F de a e b até k	Ad-Hoc
@@ -2562,3 +2562,107 @@
 4024	Lágrimas Irritantes e a tarefa da Cuca	Excluído
 4025	Matinta Pereira e um Prefeito Preguiçoso	Excluído
 4026	Negrinho do Pastoreio e a Segurança dos Currais	Excluído
+4027	Analisando Contratos	Excluído
+4028	Jogo de Tabuleiro	Excluído
+4029	Corrida dos Doces	Excluído
+4030	Decifrando o WordWhiz	Excluído
+4031	Lucros Elevados	Excluído
+4032	Para Frente e Para Trás	Excluído
+4033	GPS em uma Terra Plana	Excluído
+4034	Saúde em Perigo	Excluído
+4035	Inversões	Excluído
+4036	Jornada do Ladrão	Excluído
+4037	Apaixonado pela Ordem	Excluído
+4038	Latam++	Excluído
+4039	Ponto de Encontro	Excluído
+4040	Album de Figurinhas	Excluído
+4041	Batalha Naval	Excluído
+4042	Concatenando Times	Excluído
+4043	Dança da Divisibilidade	Excluído
+4044	Empresa de Festas	Excluído
+4045	Fastminton	Excluído
+4046	Game Show!	Excluído
+4047	Hangar do SBC	Excluído
+4048	Interatividade	Excluído
+4049	Juntando Dados	Excluído
+4050	Ká entre Nós	Excluído
+4051	Lavaspar	Excluído
+4052	Metralhadora	Excluído
+4053	Números Multiplicados	Excluído
+4054	Ônibus Venusiano	Excluído
+4055	Alocação de Prêmios	Excluído
+4056	Belas Palavras	Excluído
+4057	Criando Múltiplos	Excluído
+4058	Dividindo o Reino	Excluído
+4059	Escada Rolante	Excluído
+4060	Fuga da Prisão	Excluído
+4061	Garantindo o Treino	Excluído
+4062	Haja Ordenação	Excluído
+4063	Invertendo Ferrovias	Excluído
+4064	Jogo Duro	Excluído
+4065	Katmandu	Excluído
+4066	Lembre sua Senha	Excluído
+4067	Monarquia em Vertigem	Excluído
+4068	Na Trave!	Excluído
+4069	Atenção à Reunião	Excluído
+4070	Bacon Number	Excluído
+4071	Casal do BipBop	Excluído
+4072	Desafio do Chefão	Excluído
+4073	Estojo de Joias	Excluído
+4074	Frações Contínuas	Excluído
+4075	Geografia dos Rios	Excluído
+4076	Harmônicos Interferentes	Excluído
+4077	Ingredientes Alergênicos	Excluído
+4078	Jornada Colorida	Excluído
+4079	Karamell	Excluído
+4080	Lexicograficamente Máximo	Excluído
+4081	Acrescente e Entre em Pânico!	Excluído
+4082	Pista Cíclica de Biketopia	Excluído
+4083	Desafio de Natal da Cindy	Excluído
+4084	Camisetas Diversificadas	Excluído
+4085	Expedição Evereth	Excluído
+4086	Encontrando Privacidade	Excluído
+4087	Grande Corrida da Glória	Excluído
+4088	Heraclosuras	Excluído
+4089	Perspicácia sobre Inversões	Excluído
+4090	Quebra-cabeça das Sombras	Excluído
+4091	Cordas Legais	Excluído
+4092	Quadrados Latinos	Excluído
+4093	Ambíguo Gato de Schrödinger	Excluído
+4094	Busca Periódica	Excluído
+4095	Circuitos Lógicos Matriciais	Excluído
+4096	Decoerência Quântica	Excluído
+4097	Energização de Partículas	Excluído
+4098	Feynman Decorando Números	Excluído
+4099	Grover e Seus Caminhos Especiais	Excluído
+4100	Harmonia Palíndromica Binária	Excluído
+4101	Inspecionando o Emaranhamento	Excluído
+4102	Jornada das Partículas	Excluído
+4103	K Elementos Perdidos	Excluído
+4104	Linha de Produção de qPhones	Excluído
+4105	Movimentação Assustadora à Distância	Excluído
+4106	Alimentação Saudável	Excluído
+4107	Baralho Alho	Excluído
+4108	Collatz Polinomial	Excluído
+4109	Dominós	Excluído
+4110	Expansão Rodoviária	Excluído
+4111	Frangolino ali na Mesa	Excluído
+4112	Gerador Universal	Excluído
+4113	Habilidades especiais	Excluído
+4114	Investigação Cósmica	Excluído
+4115	João João	Excluído
+4116	Knockout, suiço e outros formatos de torneio	Excluído
+4117	LLMs	Excluído
+4118	Muralhas reforçadas	Excluído
+4119	Torta de Maçã	Excluído
+4120	Balões Equilibrados	Excluído
+4121	Ruas Limpas	Excluído
+4122	Exibindo Decimais	Excluído
+4123	Rações de Emergência	Excluído
+4124	Fatoração Imprecisa	Excluído
+4125	Medidor de Energia de Gridoland	Excluído
+4126	Horizontes Mais Difíceis	Excluído
+4127	Rota de Infiltração	Excluído
+4128	Multidão Julgadora	Excluído
+4129	Conquista dos Reis	Excluído
+4130	Criaturas Solitárias	Excluído
