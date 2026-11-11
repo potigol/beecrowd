@@ -1,7 +1,5 @@
 # Strings (86 / 157)
 
-
-
 ## Problemas resolvidos
 
 - [x] [1024](https://resources.beecrowd.com/repository/UOJ_1024.html) - [Criptografia](https://potigol.github.io/beecrowd/problemas/1000/#1024-criptografia)
@@ -75,7 +73,7 @@
 - [x] [2852](https://resources.beecrowd.com/repository/UOJ_2852.html) - [Troca de Mensagens](https://potigol.github.io/beecrowd/problemas/2800/#2852-troca-de-mensagens)
 - [x] [2866](https://resources.beecrowd.com/repository/UOJ_2866.html) - [Criptotexto](https://potigol.github.io/beecrowd/problemas/2800/#2866-criptotexto)
 - [x] [2880](https://resources.beecrowd.com/repository/UOJ_2880.html) - [Enigma](https://potigol.github.io/beecrowd/problemas/2800/#2880-enigma)
-- [x] [2906](https://resources.beecrowd.com/repository/UOJ_2906.html) - [Database of Clients](https://potigol.github.io/beecrowd/problemas/2900/#2906-database-of-clients)
+- [x] [2906](https://resources.beecrowd.com/repository/UOJ_2906.html) - [Banco de Dados de Clientes](https://potigol.github.io/beecrowd/problemas/2900/#2906-banco-de-dados-de-clientes)
 - [x] [3038](https://resources.beecrowd.com/repository/UOJ_3038.html) - [Carta de Natal Criptografada](https://potigol.github.io/beecrowd/problemas/3000/#3038-carta-de-natal-criptografada)
 - [x] [3088](https://resources.beecrowd.com/repository/UOJ_3088.html) - [Correção de Texto](https://potigol.github.io/beecrowd/problemas/3000/#3088-correcao-de-texto)
 - [x] [3100](https://resources.beecrowd.com/repository/UOJ_3100.html) - [Os Dígitos da Sorte](https://potigol.github.io/beecrowd/problemas/3100/#3100-os-digitos-da-sorte)

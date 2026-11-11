@@ -1,7 +1,5 @@
 # Matemática (11 / 34)
 
-
-
 ## Problemas resolvidos
 
 - [x] [1093](https://resources.beecrowd.com/repository/UOJ_1093.html) - [Vampiros](https://potigol.github.io/beecrowd/problemas/1000/#1093-vampiros)
@@ -14,7 +12,7 @@
 - [x] [2238](https://resources.beecrowd.com/repository/UOJ_2238.html) - [Divisores](https://potigol.github.io/beecrowd/problemas/2200/#2238-divisores)
 - [x] [2661](https://resources.beecrowd.com/repository/UOJ_2661.html) - [Despojados](https://potigol.github.io/beecrowd/problemas/2600/#2661-despojados)
 - [x] [2667](https://resources.beecrowd.com/repository/UOJ_2667.html) - [Jogo de Boca](https://potigol.github.io/beecrowd/problemas/2600/#2667-jogo-de-boca)
-- [x] [2903](https://resources.beecrowd.com/repository/UOJ_2903.html) - [A Symmetrical Pizza](https://potigol.github.io/beecrowd/problemas/2900/#2903-a-symmetrical-pizza)
+- [x] [2903](https://resources.beecrowd.com/repository/UOJ_2903.html) - [Uma Pizza Simétrica](https://potigol.github.io/beecrowd/problemas/2900/#2903-uma-pizza-simetrica)
 
 ## Problemas não resolvidos
 

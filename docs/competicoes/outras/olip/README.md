@@ -1,4 +1,4 @@
-# Olimpíada IFSULDEMINAS (85 / 162)
+# Olimpíada IFSULDEMINAS (85 / 171)
 
 
 
@@ -26,6 +26,15 @@
 - [x] [3494](https://resources.beecrowd.com/repository/UOJ_3494.html) - [Palavras transformadas](https://potigol.github.io/beecrowd/problemas/3400/#3494-palavras-transformadas) *Iniciante*
 - [ ] [3495](https://resources.beecrowd.com/repository/UOJ_3495.html) - Gianzin Berranteiro *Iniciante*
 - [ ] [3496](https://resources.beecrowd.com/repository/UOJ_3496.html) - Promoção imperdível *Paradigmas*
+- [ ] [3498](https://resources.beecrowd.com/repository/UOJ_3498.html) - Pares especiais *Estruturas e Bibliotecas*
+- [ ] [3499](https://resources.beecrowd.com/repository/UOJ_3499.html) - Bella, a cachorrinha sapeca *Iniciante*
+- [ ] [3501](https://resources.beecrowd.com/repository/UOJ_3501.html) - Maior número na matriz *Ad-Hoc*
+- [ ] [3502](https://resources.beecrowd.com/repository/UOJ_3502.html) - Montagem de looks *Matemática*
+- [ ] [3503](https://resources.beecrowd.com/repository/UOJ_3503.html) - Jogo dos números *Grafos*
+- [ ] [3506](https://resources.beecrowd.com/repository/UOJ_3506.html) - Quantos primos? *Iniciante*
+- [ ] [3507](https://resources.beecrowd.com/repository/UOJ_3507.html) - Tigres e Gansos *Iniciante*
+- [ ] [3508](https://resources.beecrowd.com/repository/UOJ_3508.html) - Números binários *Strings*
+- [ ] [3509](https://resources.beecrowd.com/repository/UOJ_3509.html) - Canos conectados *Estruturas e Bibliotecas*
 
 ## 2023
 
@@ -52,7 +61,7 @@
 - [x] [3399](https://resources.beecrowd.com/repository/UOJ_3399.html) - [Meu nome é Enésimo!](https://potigol.github.io/beecrowd/problemas/3300/#3399-meu-nome-e-enesimo) *Ad-Hoc*
 - [ ] [3400](https://resources.beecrowd.com/repository/UOJ_3400.html) - Amigo não tão secreto assim *Ad-Hoc*
 - [ ] [3401](https://resources.beecrowd.com/repository/UOJ_3401.html) - Bicho da Goiaba Ataca Novamente *Ad-Hoc*
-- [ ] [3402](https://resources.beecrowd.com/repository/UOJ_3402.html) - ~~Caminho Mais Curto?~~
+- [ ] [3402](https://resources.beecrowd.com/repository/UOJ_3402.html) - Caminho Mais Curto?
 - [ ] [3403](https://resources.beecrowd.com/repository/UOJ_3403.html) - Dengoso *Ad-Hoc*
 - [ ] [3404](https://resources.beecrowd.com/repository/UOJ_3404.html) - Estranho ou Engraçado *Ad-Hoc*
 - [x] [3405](https://resources.beecrowd.com/repository/UOJ_3405.html) - [Fatorial](https://potigol.github.io/beecrowd/problemas/3400/#3405-fatorial) *Ad-Hoc*

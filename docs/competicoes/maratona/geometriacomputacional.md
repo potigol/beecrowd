@@ -1,7 +1,5 @@
 # Geometria Computacional (1 / 22)
 
-
-
 ## Problemas resolvidos
 
 - [x] [1124](https://resources.beecrowd.com/repository/UOJ_1124.html) - [Elevador](https://potigol.github.io/beecrowd/problemas/1100/#1124-elevador)

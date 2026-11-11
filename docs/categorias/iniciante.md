@@ -1,7 +1,5 @@
 # Iniciante (310 / 330)
 
-
-
 ## Problemas resolvidos
 
 - [x] [1000](https://resources.beecrowd.com/repository/UOJ_1000.html) - [Hello World!](https://potigol.github.io/beecrowd/problemas/1000/#1000-hello-world)

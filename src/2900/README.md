@@ -3,19 +3,19 @@
 - [ ] [2900](https://resources.beecrowd.com/repository/UOJ_2900.html) - Jogo de Varetas *Ad-Hoc*
 - [ ] [2901](https://resources.beecrowd.com/repository/UOJ_2901.html) - Vôlei Marciano *Ad-Hoc*
 - [ ] [2902](https://resources.beecrowd.com/repository/UOJ_2902.html) - Rouba Monte *Ad-Hoc*
-- [x] [2903](https://resources.beecrowd.com/repository/UOJ_2903.html) - [A Symmetrical Pizza](https://potigol.github.io/beecrowd/problemas/2900/#2903-a-symmetrical-pizza) *Matemática*
-- [ ] [2904](https://resources.beecrowd.com/repository/UOJ_2904.html) - Building a Field *Ad-Hoc*
-- [ ] [2905](https://resources.beecrowd.com/repository/UOJ_2905.html) - Cheap Trips *Ad-Hoc*
-- [x] [2906](https://resources.beecrowd.com/repository/UOJ_2906.html) - [Database of Clients](https://potigol.github.io/beecrowd/problemas/2900/#2906-database-of-clients) *Strings*
-- [ ] [2907](https://resources.beecrowd.com/repository/UOJ_2907.html) - Escape, Polygon! *Ad-Hoc*
-- [ ] [2908](https://resources.beecrowd.com/repository/UOJ_2908.html) - Fantastic Beasts *Ad-Hoc*
-- [ ] [2909](https://resources.beecrowd.com/repository/UOJ_2909.html) - Gathering Red-Black Fruits *Ad-Hoc*
-- [ ] [2910](https://resources.beecrowd.com/repository/UOJ_2910.html) - Highway Decommission *Ad-Hoc*
-- [ ] [2911](https://resources.beecrowd.com/repository/UOJ_2911.html) - Ink Colors *Ad-Hoc*
-- [ ] [2912](https://resources.beecrowd.com/repository/UOJ_2912.html) - Jeopardized Election *Ad-Hoc*
-- [ ] [2913](https://resources.beecrowd.com/repository/UOJ_2913.html) - KryptoLocker Ate my Homework *Ad-Hoc*
-- [ ] [2914](https://resources.beecrowd.com/repository/UOJ_2914.html) - Looking for the Risk Factor *Ad-Hoc*
-- [ ] [2915](https://resources.beecrowd.com/repository/UOJ_2915.html) - Mount Marathon *Ad-Hoc*
+- [x] [2903](https://resources.beecrowd.com/repository/UOJ_2903.html) - [Uma Pizza Simétrica](https://potigol.github.io/beecrowd/problemas/2900/#2903-uma-pizza-simetrica) *Matemática*
+- [ ] [2904](https://resources.beecrowd.com/repository/UOJ_2904.html) - Construindo um Campo *Ad-Hoc*
+- [ ] [2905](https://resources.beecrowd.com/repository/UOJ_2905.html) - Viagens Baratas *Ad-Hoc*
+- [x] [2906](https://resources.beecrowd.com/repository/UOJ_2906.html) - [Banco de Dados de Clientes](https://potigol.github.io/beecrowd/problemas/2900/#2906-banco-de-dados-de-clientes) *Strings*
+- [ ] [2907](https://resources.beecrowd.com/repository/UOJ_2907.html) - Fuja, Polígono! *Ad-Hoc*
+- [ ] [2908](https://resources.beecrowd.com/repository/UOJ_2908.html) - Animais Fantásticos *Ad-Hoc*
+- [ ] [2909](https://resources.beecrowd.com/repository/UOJ_2909.html) - Coletando Frutos Rubro-Negros *Ad-Hoc*
+- [ ] [2910](https://resources.beecrowd.com/repository/UOJ_2910.html) - Desativação de Rodovias *Ad-Hoc*
+- [ ] [2911](https://resources.beecrowd.com/repository/UOJ_2911.html) - Cores de Tinta *Ad-Hoc*
+- [ ] [2912](https://resources.beecrowd.com/repository/UOJ_2912.html) - Eleição Comprometida *Ad-Hoc*
+- [ ] [2913](https://resources.beecrowd.com/repository/UOJ_2913.html) - KryptoLocker Comeu meu Trabalho de Casa *Ad-Hoc*
+- [ ] [2914](https://resources.beecrowd.com/repository/UOJ_2914.html) - Procurando pelo Fator de Risco *Ad-Hoc*
+- [ ] [2915](https://resources.beecrowd.com/repository/UOJ_2915.html) - Monte Maratona *Ad-Hoc*
 - [ ] [2916](https://resources.beecrowd.com/repository/UOJ_2916.html) - A Nota *Estruturas e Bibliotecas*
 - [ ] [2917](https://resources.beecrowd.com/repository/UOJ_2917.html) - Barbante *Paradigmas*
 - [ ] [2918](https://resources.beecrowd.com/repository/UOJ_2918.html) - Dígitos Inteligentes *Paradigmas*

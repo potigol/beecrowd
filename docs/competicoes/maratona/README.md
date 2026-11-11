@@ -1,27 +1,106 @@
-# Maratona de Programação (80 / 427)
+# Maratona de Programação (80 / 513)
 
+
+## 2025
+
+### 1ª Fase
+
+- [ ] [4106](https://resources.beecrowd.com/repository/UOJ_4106.html) - Alimentação Saudável
+- [ ] [4107](https://resources.beecrowd.com/repository/UOJ_4107.html) - Baralho Alho
+- [ ] [4108](https://resources.beecrowd.com/repository/UOJ_4108.html) - Collatz Polinomial
+- [ ] [4109](https://resources.beecrowd.com/repository/UOJ_4109.html) - Dominós
+- [ ] [4110](https://resources.beecrowd.com/repository/UOJ_4110.html) - Expansão Rodoviária
+- [ ] [4111](https://resources.beecrowd.com/repository/UOJ_4111.html) - Frangolino ali na Mesa
+- [ ] [4112](https://resources.beecrowd.com/repository/UOJ_4112.html) - Gerador Universal
+- [ ] [4113](https://resources.beecrowd.com/repository/UOJ_4113.html) - Habilidades especiais
+- [ ] [4114](https://resources.beecrowd.com/repository/UOJ_4114.html) - Investigação Cósmica
+- [ ] [4115](https://resources.beecrowd.com/repository/UOJ_4115.html) - João João
+- [ ] [4116](https://resources.beecrowd.com/repository/UOJ_4116.html) - Knockout, suiço e outros formatos de torneio
+- [ ] [4117](https://resources.beecrowd.com/repository/UOJ_4117.html) - LLMs
+- [ ] [4118](https://resources.beecrowd.com/repository/UOJ_4118.html) - Muralhas reforçadas
+
+### 2ª Fase
+
+- [ ] [4119](https://resources.beecrowd.com/repository/UOJ_4119.html) - Torta de Maçã
+- [ ] [4120](https://resources.beecrowd.com/repository/UOJ_4120.html) - Balões Equilibrados
+- [ ] [4121](https://resources.beecrowd.com/repository/UOJ_4121.html) - Ruas Limpas
+- [ ] [4122](https://resources.beecrowd.com/repository/UOJ_4122.html) - Exibindo Decimais
+- [ ] [4123](https://resources.beecrowd.com/repository/UOJ_4123.html) - Rações de Emergência
+- [ ] [4124](https://resources.beecrowd.com/repository/UOJ_4124.html) - Fatoração Imprecisa
+- [ ] [4125](https://resources.beecrowd.com/repository/UOJ_4125.html) - Medidor de Energia de Gridoland
+- [ ] [4126](https://resources.beecrowd.com/repository/UOJ_4126.html) - Horizontes Mais Difíceis
+- [ ] [4127](https://resources.beecrowd.com/repository/UOJ_4127.html) - Rota de Infiltração
+- [ ] [4128](https://resources.beecrowd.com/repository/UOJ_4128.html) - Multidão Julgadora
+- [ ] [4129](https://resources.beecrowd.com/repository/UOJ_4129.html) - Conquista dos Reis
+- [ ] [4130](https://resources.beecrowd.com/repository/UOJ_4130.html) - Criaturas Solitárias
+       
+
+## 2024
+
+### 1ª Fase
+
+- [ ] [4069](https://resources.beecrowd.com/repository/UOJ_4069.html) - Atenção à Reunião
+- [ ] [4070](https://resources.beecrowd.com/repository/UOJ_4070.html) - Bacon Number
+- [ ] [4071](https://resources.beecrowd.com/repository/UOJ_4071.html) - Casal do BipBop
+- [ ] [4072](https://resources.beecrowd.com/repository/UOJ_4072.html) - Desafio do Chefão
+- [ ] [4073](https://resources.beecrowd.com/repository/UOJ_4073.html) - Estojo de Joias
+- [ ] [4074](https://resources.beecrowd.com/repository/UOJ_4074.html) - Frações Contínuas
+- [ ] [4075](https://resources.beecrowd.com/repository/UOJ_4075.html) - Geografia dos Rios
+- [ ] [4076](https://resources.beecrowd.com/repository/UOJ_4076.html) - Harmônicos Interferentes
+- [ ] [4077](https://resources.beecrowd.com/repository/UOJ_4077.html) - Ingredientes Alergênicos
+- [ ] [4078](https://resources.beecrowd.com/repository/UOJ_4078.html) - Jornada Colorida
+- [ ] [4079](https://resources.beecrowd.com/repository/UOJ_4079.html) - Karamell
+- [ ] [4080](https://resources.beecrowd.com/repository/UOJ_4080.html) - Lexicograficamente Máximo
+
+### 2ª Fase
+
+- [ ] [4081](https://resources.beecrowd.com/repository/UOJ_4081.html) - Acrescente e Entre em Pânico!
+- [ ] [4082](https://resources.beecrowd.com/repository/UOJ_4082.html) - Pista Cíclica de Biketopia
+- [ ] [4083](https://resources.beecrowd.com/repository/UOJ_4083.html) - Desafio de Natal da Cindy
+- [ ] [4084](https://resources.beecrowd.com/repository/UOJ_4084.html) - Camisetas Diversificadas
+- [ ] [4085](https://resources.beecrowd.com/repository/UOJ_4085.html) - Expedição Evereth
+- [ ] [4086](https://resources.beecrowd.com/repository/UOJ_4086.html) - Encontrando Privacidade
+- [ ] [4087](https://resources.beecrowd.com/repository/UOJ_4087.html) - Grande Corrida da Glória
+- [ ] [4088](https://resources.beecrowd.com/repository/UOJ_4088.html) - Heraclosuras
+- [ ] [4089](https://resources.beecrowd.com/repository/UOJ_4089.html) - Perspicácia sobre Inversões
+- [ ] [4090](https://resources.beecrowd.com/repository/UOJ_4090.html) - Quebra-cabeça das Sombras
+- [ ] [4091](https://resources.beecrowd.com/repository/UOJ_4091.html) - Cordas Legais
+- [ ] [4092](https://resources.beecrowd.com/repository/UOJ_4092.html) - Quadrados Latinos
+       
 
 ## 2023
 
 ### 1ª Fase
 
-- [x] [4000](https://resources.beecrowd.com/repository/UOJ_4000.html) - [~~Altura Mínima~~](https://potigol.github.io/beecrowd/problemas/4000/#4000-altura-minima)
-- [ ] [4001](https://resources.beecrowd.com/repository/UOJ_4001.html) - ~~Baralho Embaralhado~~
-- [ ] [4002](https://resources.beecrowd.com/repository/UOJ_4002.html) - ~~Caminhada na Montanha~~
-- [ ] [4003](https://resources.beecrowd.com/repository/UOJ_4003.html) - ~~Desvio~~
-- [ ] [4004](https://resources.beecrowd.com/repository/UOJ_4004.html) - ~~Extraindo Pólen~~
-- [ ] [4005](https://resources.beecrowd.com/repository/UOJ_4005.html) - ~~Férias Cansativas~~
-- [ ] [4006](https://resources.beecrowd.com/repository/UOJ_4006.html) - ~~Grande Tratado da Bytelândia~~
-- [ ] [4007](https://resources.beecrowd.com/repository/UOJ_4007.html) - ~~Honroso Trabalhador~~
-- [ ] [4008](https://resources.beecrowd.com/repository/UOJ_4008.html) - ~~Investigando Zeros e Uns~~
-- [ ] [4009](https://resources.beecrowd.com/repository/UOJ_4009.html) - ~~Jogo de Vôlei~~
-- [ ] [4010](https://resources.beecrowd.com/repository/UOJ_4010.html) - ~~k pra Mais, k pra Menos~~
-- [ ] [4011](https://resources.beecrowd.com/repository/UOJ_4011.html) - ~~Lexicograficamente Agradável~~
-- [ ] [4012](https://resources.beecrowd.com/repository/UOJ_4012.html) - ~~Malha Aérea~~
+- [x] [4000](https://resources.beecrowd.com/repository/UOJ_4000.html) - [Altura Mínima](https://potigol.github.io/beecrowd/problemas/4000/#4000-altura-minima)
+- [ ] [4001](https://resources.beecrowd.com/repository/UOJ_4001.html) - Baralho Embaralhado
+- [ ] [4002](https://resources.beecrowd.com/repository/UOJ_4002.html) - Caminhada na Montanha
+- [ ] [4003](https://resources.beecrowd.com/repository/UOJ_4003.html) - Desvio
+- [ ] [4004](https://resources.beecrowd.com/repository/UOJ_4004.html) - Extraindo Pólen
+- [ ] [4005](https://resources.beecrowd.com/repository/UOJ_4005.html) - Férias Cansativas
+- [ ] [4006](https://resources.beecrowd.com/repository/UOJ_4006.html) - Grande Tratado da Bytelândia
+- [ ] [4007](https://resources.beecrowd.com/repository/UOJ_4007.html) - Honroso Trabalhador
+- [ ] [4008](https://resources.beecrowd.com/repository/UOJ_4008.html) - Investigando Zeros e Uns
+- [ ] [4009](https://resources.beecrowd.com/repository/UOJ_4009.html) - Jogo de Vôlei
+- [ ] [4010](https://resources.beecrowd.com/repository/UOJ_4010.html) - k pra Mais, k pra Menos
+- [ ] [4011](https://resources.beecrowd.com/repository/UOJ_4011.html) - Lexicograficamente Agradável
+- [ ] [4012](https://resources.beecrowd.com/repository/UOJ_4012.html) - Malha Aérea
 
 ### 2ª Fase
 
-- [ ] ~~xxxx~~
+- [ ] [4027](https://resources.beecrowd.com/repository/UOJ_4027.html) - Analisando Contratos
+- [ ] [4028](https://resources.beecrowd.com/repository/UOJ_4028.html) - Jogo de Tabuleiro
+- [ ] [4029](https://resources.beecrowd.com/repository/UOJ_4029.html) - Corrida dos Doces
+- [ ] [4030](https://resources.beecrowd.com/repository/UOJ_4030.html) - Decifrando o WordWhiz
+- [ ] [4031](https://resources.beecrowd.com/repository/UOJ_4031.html) - Lucros Elevados
+- [ ] [4032](https://resources.beecrowd.com/repository/UOJ_4032.html) - Para Frente e Para Trás
+- [ ] [4033](https://resources.beecrowd.com/repository/UOJ_4033.html) - GPS em uma Terra Plana
+- [ ] [4034](https://resources.beecrowd.com/repository/UOJ_4034.html) - Saúde em Perigo
+- [ ] [4035](https://resources.beecrowd.com/repository/UOJ_4035.html) - Inversões
+- [ ] [4036](https://resources.beecrowd.com/repository/UOJ_4036.html) - Jornada do Ladrão
+- [ ] [4037](https://resources.beecrowd.com/repository/UOJ_4037.html) - Apaixonado pela Ordem
+- [ ] [4038](https://resources.beecrowd.com/repository/UOJ_4038.html) - Latam++
+- [ ] [4039](https://resources.beecrowd.com/repository/UOJ_4039.html) - Ponto de Encontro
        
 
 ## 2022
@@ -38,7 +117,7 @@
 - [ ] [3431](https://resources.beecrowd.com/repository/UOJ_3431.html) - Habilitando a Movimentação *Ad-Hoc*
 - [x] [3432](https://resources.beecrowd.com/repository/UOJ_3432.html) - [Interceptando Informações](https://potigol.github.io/beecrowd/problemas/3400/#3432-interceptando-informacoes) *Ad-Hoc*
 - [x] [3433](https://resources.beecrowd.com/repository/UOJ_3433.html) - [Jogando 23](https://potigol.github.io/beecrowd/problemas/3400/#3433-jogando-23) *Ad-Hoc*
-- [ ] [3434](https://resources.beecrowd.com/repository/UOJ_3434.html) - ~~Kalel, o Sapo Saltador~~
+- [ ] [3434](https://resources.beecrowd.com/repository/UOJ_3434.html) - Kalel, o Sapo Saltador
 - [ ] [3435](https://resources.beecrowd.com/repository/UOJ_3435.html) - Listando Caminhos Tediosos *Ad-Hoc*
 - [ ] [3436](https://resources.beecrowd.com/repository/UOJ_3436.html) - Maratona de Amarelinha *Ad-Hoc*
 - [ ] [3437](https://resources.beecrowd.com/repository/UOJ_3437.html) - Números Virados *Ad-Hoc*
@@ -62,47 +141,74 @@
 
 ### 1ª Fase
 
-- [ ] ~~xxxx~~
+- [ ] [4055](https://resources.beecrowd.com/repository/UOJ_4055.html) - Alocação de Prêmios
+- [ ] [4056](https://resources.beecrowd.com/repository/UOJ_4056.html) - Belas Palavras
+- [ ] [4057](https://resources.beecrowd.com/repository/UOJ_4057.html) - Criando Múltiplos
+- [ ] [4058](https://resources.beecrowd.com/repository/UOJ_4058.html) - Dividindo o Reino
+- [ ] [4059](https://resources.beecrowd.com/repository/UOJ_4059.html) - Escada Rolante
+- [ ] [4060](https://resources.beecrowd.com/repository/UOJ_4060.html) - Fuga da Prisão
+- [ ] [4061](https://resources.beecrowd.com/repository/UOJ_4061.html) - Garantindo o Treino
+- [ ] [4062](https://resources.beecrowd.com/repository/UOJ_4062.html) - Haja Ordenação
+- [ ] [4063](https://resources.beecrowd.com/repository/UOJ_4063.html) - Invertendo Ferrovias
+- [ ] [4064](https://resources.beecrowd.com/repository/UOJ_4064.html) - Jogo Duro
+- [ ] [4065](https://resources.beecrowd.com/repository/UOJ_4065.html) - Katmandu
+- [ ] [4066](https://resources.beecrowd.com/repository/UOJ_4066.html) - Lembre sua Senha
+- [ ] [4067](https://resources.beecrowd.com/repository/UOJ_4067.html) - Monarquia em Vertigem
+- [ ] [4068](https://resources.beecrowd.com/repository/UOJ_4068.html) - Na Trave!
 
 ### 2ª Fase
 
-- [ ] [3359](https://resources.beecrowd.com/repository/UOJ_3359.html) - Ancient Towers *Ad-Hoc*
-- [ ] [3360](https://resources.beecrowd.com/repository/UOJ_3360.html) - Because, Art! *Ad-Hoc*
-- [ ] [3361](https://resources.beecrowd.com/repository/UOJ_3361.html) - Cyclists versus Clouds *Ad-Hoc*
-- [ ] [3362](https://resources.beecrowd.com/repository/UOJ_3362.html) - Daily Turnovers *Ad-Hoc*
-- [ ] [3363](https://resources.beecrowd.com/repository/UOJ_3363.html) - Expedition Plans *Ad-Hoc*
-- [ ] [3364](https://resources.beecrowd.com/repository/UOJ_3364.html) - Fields Division *Ad-Hoc*
-- [ ] [3365](https://resources.beecrowd.com/repository/UOJ_3365.html) - Generator Tree *Ad-Hoc*
+- [ ] [3359](https://resources.beecrowd.com/repository/UOJ_3359.html) - Torres Antigas *Ad-Hoc*
+- [ ] [3360](https://resources.beecrowd.com/repository/UOJ_3360.html) - Porque, Arte! *Ad-Hoc*
+- [ ] [3361](https://resources.beecrowd.com/repository/UOJ_3361.html) - Ciclistas contra Nuvens *Ad-Hoc*
+- [ ] [3362](https://resources.beecrowd.com/repository/UOJ_3362.html) - Faturamentos Diários *Ad-Hoc*
+- [ ] [3363](https://resources.beecrowd.com/repository/UOJ_3363.html) - Planos de Expedição *Ad-Hoc*
+- [ ] [3364](https://resources.beecrowd.com/repository/UOJ_3364.html) - Divisão de Campos *Ad-Hoc*
+- [ ] [3365](https://resources.beecrowd.com/repository/UOJ_3365.html) - Árvore Geradora *Ad-Hoc*
 - [ ] [3366](https://resources.beecrowd.com/repository/UOJ_3366.html) - Hamilton - The Musical *Ad-Hoc*
-- [ ] [3367](https://resources.beecrowd.com/repository/UOJ_3367.html) - Invested Money *Ad-Hoc*
-- [ ] [3368](https://resources.beecrowd.com/repository/UOJ_3368.html) - Joining Pairs *Ad-Hoc*
-- [x] [3369](https://resources.beecrowd.com/repository/UOJ_3369.html) - [KIARA is a Recursive Acronym](https://potigol.github.io/beecrowd/problemas/3300/#3369-kiara-is-a-recursive-acronym) *Ad-Hoc*
-- [ ] [3370](https://resources.beecrowd.com/repository/UOJ_3370.html) - Leaving Yharnam *Ad-Hoc*
-- [ ] [3371](https://resources.beecrowd.com/repository/UOJ_3371.html) - Most Ordered Way *Ad-Hoc*
+- [ ] [3367](https://resources.beecrowd.com/repository/UOJ_3367.html) - Dinheiro Investido *Ad-Hoc*
+- [ ] [3368](https://resources.beecrowd.com/repository/UOJ_3368.html) - Unindo Pares *Ad-Hoc*
+- [x] [3369](https://resources.beecrowd.com/repository/UOJ_3369.html) - [KIARA é um Acrônimo Recursivo](https://potigol.github.io/beecrowd/problemas/3300/#3369-kiara-e-um-acronimo-recursivo) *Ad-Hoc*
+- [ ] [3370](https://resources.beecrowd.com/repository/UOJ_3370.html) - Saindo de Yharnam *Ad-Hoc*
+- [ ] [3371](https://resources.beecrowd.com/repository/UOJ_3371.html) - Caminho Mais Ordenado *Ad-Hoc*
        
 
 ## 2020
 
 ### 1ª Fase
 
-- [ ] ~~xxxx~~
+- [ ] [4040](https://resources.beecrowd.com/repository/UOJ_4040.html) - Album de Figurinhas
+- [ ] [4041](https://resources.beecrowd.com/repository/UOJ_4041.html) - Batalha Naval
+- [ ] [4042](https://resources.beecrowd.com/repository/UOJ_4042.html) - Concatenando Times
+- [ ] [4043](https://resources.beecrowd.com/repository/UOJ_4043.html) - Dança da Divisibilidade
+- [ ] [4044](https://resources.beecrowd.com/repository/UOJ_4044.html) - Empresa de Festas
+- [ ] [4045](https://resources.beecrowd.com/repository/UOJ_4045.html) - Fastminton
+- [ ] [4046](https://resources.beecrowd.com/repository/UOJ_4046.html) - Game Show!
+- [ ] [4047](https://resources.beecrowd.com/repository/UOJ_4047.html) - Hangar do SBC
+- [ ] [4048](https://resources.beecrowd.com/repository/UOJ_4048.html) - Interatividade
+- [ ] [4049](https://resources.beecrowd.com/repository/UOJ_4049.html) - Juntando Dados
+- [ ] [4050](https://resources.beecrowd.com/repository/UOJ_4050.html) - Ká entre Nós
+- [ ] [4051](https://resources.beecrowd.com/repository/UOJ_4051.html) - Lavaspar
+- [ ] [4052](https://resources.beecrowd.com/repository/UOJ_4052.html) - Metralhadora
+- [ ] [4053](https://resources.beecrowd.com/repository/UOJ_4053.html) - Números Multiplicados
+- [ ] [4054](https://resources.beecrowd.com/repository/UOJ_4054.html) - Ônibus Venusiano
 
 ### 2ª Fase
 
-- [ ] [3316](https://resources.beecrowd.com/repository/UOJ_3316.html) - ~~Almost Origami~~
-- [ ] [3317](https://resources.beecrowd.com/repository/UOJ_3317.html) - ~~Beautiful Mountains~~
-- [ ] [3318](https://resources.beecrowd.com/repository/UOJ_3318.html) - ~~Crisis at the Wedding~~
-- [ ] [3319](https://resources.beecrowd.com/repository/UOJ_3319.html) - ~~Dividing Candy~~
-- [ ] [3320](https://resources.beecrowd.com/repository/UOJ_3320.html) - ~~Excellent Views~~
-- [ ] [3321](https://resources.beecrowd.com/repository/UOJ_3321.html) - ~~Fascinating Partitions~~
-- [ ] [3322](https://resources.beecrowd.com/repository/UOJ_3322.html) - ~~Game of Slots~~
-- [ ] [3323](https://resources.beecrowd.com/repository/UOJ_3323.html) - ~~Halting Wolf~~
-- [ ] [3324](https://resources.beecrowd.com/repository/UOJ_3324.html) - ~~Impenetrable Wall~~
-- [ ] [3325](https://resources.beecrowd.com/repository/UOJ_3325.html) - ~~Job Allocator~~
-- [ ] [3326](https://resources.beecrowd.com/repository/UOJ_3326.html) - ~~Keylogger~~
-- [ ] [3327](https://resources.beecrowd.com/repository/UOJ_3327.html) - ~~Lola's Schedule~~
-- [ ] [3328](https://resources.beecrowd.com/repository/UOJ_3328.html) - ~~May I Add a Letter?~~
-- [ ] [3329](https://resources.beecrowd.com/repository/UOJ_3329.html) - ~~Non-Integer Donuts~~
+- [ ] [3316](https://resources.beecrowd.com/repository/UOJ_3316.html) - Quase Origami
+- [ ] [3317](https://resources.beecrowd.com/repository/UOJ_3317.html) - Montanhas Belíssimas
+- [ ] [3318](https://resources.beecrowd.com/repository/UOJ_3318.html) - Crise no Casamento
+- [ ] [3319](https://resources.beecrowd.com/repository/UOJ_3319.html) - Dividindo Doces
+- [ ] [3320](https://resources.beecrowd.com/repository/UOJ_3320.html) - Vistas Excelentes
+- [ ] [3321](https://resources.beecrowd.com/repository/UOJ_3321.html) - Partições Fascinantes
+- [ ] [3322](https://resources.beecrowd.com/repository/UOJ_3322.html) - Jogo dos Caça-Níqueis
+- [ ] [3323](https://resources.beecrowd.com/repository/UOJ_3323.html) - Lobo em Parada
+- [ ] [3324](https://resources.beecrowd.com/repository/UOJ_3324.html) - Muralha Impenetrável
+- [ ] [3325](https://resources.beecrowd.com/repository/UOJ_3325.html) - Alocador de Tarefas
+- [ ] [3326](https://resources.beecrowd.com/repository/UOJ_3326.html) - Registrador de Teclas
+- [ ] [3327](https://resources.beecrowd.com/repository/UOJ_3327.html) - Agenda de Lola
+- [ ] [3328](https://resources.beecrowd.com/repository/UOJ_3328.html) - Posso Adicionar uma Letra?
+- [ ] [3329](https://resources.beecrowd.com/repository/UOJ_3329.html) - Rosquinhas Não Inteiras
        
 
 ## 2019
@@ -124,19 +230,19 @@
 
 ### 2ª Fase
 
-- [ ] [3012](https://resources.beecrowd.com/repository/UOJ_3012.html) - Algorithm Teaching *Ad-Hoc*
-- [ ] [3013](https://resources.beecrowd.com/repository/UOJ_3013.html) - Build the Perfect House *Ad-Hoc*
-- [ ] [3014](https://resources.beecrowd.com/repository/UOJ_3014.html) - Cut Inequality Down *Ad-Hoc*
-- [ ] [3015](https://resources.beecrowd.com/repository/UOJ_3015.html) - Dazzling Stars *Ad-Hoc*
-- [ ] [3016](https://resources.beecrowd.com/repository/UOJ_3016.html) - Eggfruit Cake *Ad-Hoc*
-- [ ] [3017](https://resources.beecrowd.com/repository/UOJ_3017.html) - Fabricating Sculptures *Ad-Hoc*
-- [ ] [3018](https://resources.beecrowd.com/repository/UOJ_3018.html) - Gluing Pictures *Ad-Hoc*
-- [ ] [3019](https://resources.beecrowd.com/repository/UOJ_3019.html) - Hold or Continue? *Ad-Hoc*
-- [ ] [3020](https://resources.beecrowd.com/repository/UOJ_3020.html) - Improve SPAM *Ad-Hoc*
-- [ ] [3021](https://resources.beecrowd.com/repository/UOJ_3021.html) - Jumping Grasshopper *Ad-Hoc*
-- [ ] [3022](https://resources.beecrowd.com/repository/UOJ_3022.html) - Know your Aliens *Ad-Hoc*
-- [ ] [3023](https://resources.beecrowd.com/repository/UOJ_3023.html) - Leverage MDT *Ad-Hoc*
-- [x] [3024](https://resources.beecrowd.com/repository/UOJ_3024.html) - [Mountain Ranges](https://potigol.github.io/beecrowd/problemas/3000/#3024-mountain-ranges) *Ad-Hoc*
+- [ ] [3012](https://resources.beecrowd.com/repository/UOJ_3012.html) - Ensinando Algoritmos *Ad-Hoc*
+- [ ] [3013](https://resources.beecrowd.com/repository/UOJ_3013.html) - Construir a Casa Perfeita *Ad-Hoc*
+- [ ] [3014](https://resources.beecrowd.com/repository/UOJ_3014.html) - Reduzir a Desigualdade *Ad-Hoc*
+- [ ] [3015](https://resources.beecrowd.com/repository/UOJ_3015.html) - Estrelas Deslumbrantes *Ad-Hoc*
+- [ ] [3016](https://resources.beecrowd.com/repository/UOJ_3016.html) - Bolo de Fruta-Ovo *Ad-Hoc*
+- [ ] [3017](https://resources.beecrowd.com/repository/UOJ_3017.html) - Fabricando Esculturas *Ad-Hoc*
+- [ ] [3018](https://resources.beecrowd.com/repository/UOJ_3018.html) - Colando Fotos *Ad-Hoc*
+- [ ] [3019](https://resources.beecrowd.com/repository/UOJ_3019.html) - Manter ou Continuar? *Ad-Hoc*
+- [ ] [3020](https://resources.beecrowd.com/repository/UOJ_3020.html) - Melhore o SPAM *Ad-Hoc*
+- [ ] [3021](https://resources.beecrowd.com/repository/UOJ_3021.html) - Gafanhoto Saltitante *Ad-Hoc*
+- [ ] [3022](https://resources.beecrowd.com/repository/UOJ_3022.html) - Conheça seus Aliens *Ad-Hoc*
+- [ ] [3023](https://resources.beecrowd.com/repository/UOJ_3023.html) - Alavancar MDT *Ad-Hoc*
+- [x] [3024](https://resources.beecrowd.com/repository/UOJ_3024.html) - [Cordilheiras](https://potigol.github.io/beecrowd/problemas/3000/#3024-cordilheiras) *Ad-Hoc*
        
 
 ## 2018
@@ -159,19 +265,19 @@
 
 ### 2ª Fase
 
-- [x] [2903](https://resources.beecrowd.com/repository/UOJ_2903.html) - [A Symmetrical Pizza](https://potigol.github.io/beecrowd/problemas/2900/#2903-a-symmetrical-pizza) *Matemática*
-- [ ] [2904](https://resources.beecrowd.com/repository/UOJ_2904.html) - Building a Field *Ad-Hoc*
-- [ ] [2905](https://resources.beecrowd.com/repository/UOJ_2905.html) - Cheap Trips *Ad-Hoc*
-- [x] [2906](https://resources.beecrowd.com/repository/UOJ_2906.html) - [Database of Clients](https://potigol.github.io/beecrowd/problemas/2900/#2906-database-of-clients) *Strings*
-- [ ] [2907](https://resources.beecrowd.com/repository/UOJ_2907.html) - Escape, Polygon! *Ad-Hoc*
-- [ ] [2908](https://resources.beecrowd.com/repository/UOJ_2908.html) - Fantastic Beasts *Ad-Hoc*
-- [ ] [2909](https://resources.beecrowd.com/repository/UOJ_2909.html) - Gathering Red-Black Fruits *Ad-Hoc*
-- [ ] [2910](https://resources.beecrowd.com/repository/UOJ_2910.html) - Highway Decommission *Ad-Hoc*
-- [ ] [2911](https://resources.beecrowd.com/repository/UOJ_2911.html) - Ink Colors *Ad-Hoc*
-- [ ] [2912](https://resources.beecrowd.com/repository/UOJ_2912.html) - Jeopardized Election *Ad-Hoc*
-- [ ] [2913](https://resources.beecrowd.com/repository/UOJ_2913.html) - KryptoLocker Ate my Homework *Ad-Hoc*
-- [ ] [2914](https://resources.beecrowd.com/repository/UOJ_2914.html) - Looking for the Risk Factor *Ad-Hoc*
-- [ ] [2915](https://resources.beecrowd.com/repository/UOJ_2915.html) - Mount Marathon *Ad-Hoc*
+- [x] [2903](https://resources.beecrowd.com/repository/UOJ_2903.html) - [Uma Pizza Simétrica](https://potigol.github.io/beecrowd/problemas/2900/#2903-uma-pizza-simetrica) *Matemática*
+- [ ] [2904](https://resources.beecrowd.com/repository/UOJ_2904.html) - Construindo um Campo *Ad-Hoc*
+- [ ] [2905](https://resources.beecrowd.com/repository/UOJ_2905.html) - Viagens Baratas *Ad-Hoc*
+- [x] [2906](https://resources.beecrowd.com/repository/UOJ_2906.html) - [Banco de Dados de Clientes](https://potigol.github.io/beecrowd/problemas/2900/#2906-banco-de-dados-de-clientes) *Strings*
+- [ ] [2907](https://resources.beecrowd.com/repository/UOJ_2907.html) - Fuja, Polígono! *Ad-Hoc*
+- [ ] [2908](https://resources.beecrowd.com/repository/UOJ_2908.html) - Animais Fantásticos *Ad-Hoc*
+- [ ] [2909](https://resources.beecrowd.com/repository/UOJ_2909.html) - Coletando Frutos Rubro-Negros *Ad-Hoc*
+- [ ] [2910](https://resources.beecrowd.com/repository/UOJ_2910.html) - Desativação de Rodovias *Ad-Hoc*
+- [ ] [2911](https://resources.beecrowd.com/repository/UOJ_2911.html) - Cores de Tinta *Ad-Hoc*
+- [ ] [2912](https://resources.beecrowd.com/repository/UOJ_2912.html) - Eleição Comprometida *Ad-Hoc*
+- [ ] [2913](https://resources.beecrowd.com/repository/UOJ_2913.html) - KryptoLocker Comeu meu Trabalho de Casa *Ad-Hoc*
+- [ ] [2914](https://resources.beecrowd.com/repository/UOJ_2914.html) - Procurando pelo Fator de Risco *Ad-Hoc*
+- [ ] [2915](https://resources.beecrowd.com/repository/UOJ_2915.html) - Monte Maratona *Ad-Hoc*
        
 
 ## 2017
@@ -228,16 +334,16 @@
 
 ### 2ª Fase
 
-- [x] [2345](https://resources.beecrowd.com/repository/UOJ_2345.html) - [Assigning Teams](https://potigol.github.io/beecrowd/problemas/2300/#2345-assigning-teams) *Ad-Hoc*
-- [ ] [2346](https://resources.beecrowd.com/repository/UOJ_2346.html) - Back to the Future *Ad-Hoc*
-- [ ] [2347](https://resources.beecrowd.com/repository/UOJ_2347.html) - Counting Self-Rotating Subsets *Ad-Hoc*
-- [ ] [2348](https://resources.beecrowd.com/repository/UOJ_2348.html) - Dating On-Line *Ad-Hoc*
-- [x] [2349](https://resources.beecrowd.com/repository/UOJ_2349.html) - [Farm Robot](https://potigol.github.io/beecrowd/problemas/2300/#2349-farm-robot) *Ad-Hoc*
-- [ ] [2350](https://resources.beecrowd.com/repository/UOJ_2350.html) - Game of Matchings *Ad-Hoc*
-- [ ] [2351](https://resources.beecrowd.com/repository/UOJ_2351.html) - Hotel Rewards *Ad-Hoc*
-- [ ] [2352](https://resources.beecrowd.com/repository/UOJ_2352.html) - Internet Trouble *Ad-Hoc*
-- [ ] [2353](https://resources.beecrowd.com/repository/UOJ_2353.html) - Just in Time *Ad-Hoc*
-- [ ] [2354](https://resources.beecrowd.com/repository/UOJ_2354.html) - Kill the Werewolf *Ad-Hoc*
+- [x] [2345](https://resources.beecrowd.com/repository/UOJ_2345.html) - [Atribuindo Equipes](https://potigol.github.io/beecrowd/problemas/2300/#2345-atribuindo-equipes) *Ad-Hoc*
+- [ ] [2346](https://resources.beecrowd.com/repository/UOJ_2346.html) - De Volta para o Futuro *Ad-Hoc*
+- [ ] [2347](https://resources.beecrowd.com/repository/UOJ_2347.html) - Contando Subconjuntos Autorrotativos *Ad-Hoc*
+- [ ] [2348](https://resources.beecrowd.com/repository/UOJ_2348.html) - Encontros On-Line *Ad-Hoc*
+- [x] [2349](https://resources.beecrowd.com/repository/UOJ_2349.html) - [Robô Fazendeiro](https://potigol.github.io/beecrowd/problemas/2300/#2349-robo-fazendeiro) *Ad-Hoc*
+- [ ] [2350](https://resources.beecrowd.com/repository/UOJ_2350.html) - Jogo das Combinações *Ad-Hoc*
+- [ ] [2351](https://resources.beecrowd.com/repository/UOJ_2351.html) - Recompensas de Hotel *Ad-Hoc*
+- [ ] [2352](https://resources.beecrowd.com/repository/UOJ_2352.html) - Problema com a Internet *Ad-Hoc*
+- [ ] [2353](https://resources.beecrowd.com/repository/UOJ_2353.html) - Bem na Hora *Ad-Hoc*
+- [ ] [2354](https://resources.beecrowd.com/repository/UOJ_2354.html) - Mate o Lobisomem *Ad-Hoc*
        
 
 ## 2015
@@ -591,7 +697,7 @@
 
 ### 1ª Fase
 
-- [ ] ~~xxxx~~
+
 
 ### 2ª Fase
 
@@ -609,12 +715,12 @@
 
 ### 1ª Fase
 
-- [ ] ~~xxxx~~
+
 
 ### 2ª Fase
 
 - [ ] [1315](https://resources.beecrowd.com/repository/UOJ_1315.html) - Não tão Convexo *Geometria Computacional*
-- [ ] [1316](https://resources.beecrowd.com/repository/UOJ_1316.html) - ~~Compra Livre de Impostos~~
+- [ ] [1316](https://resources.beecrowd.com/repository/UOJ_1316.html) - Compra Livre de Impostos
 - [ ] [1317](https://resources.beecrowd.com/repository/UOJ_1317.html) - Eu Odeio SPAM, Mas Algumas Pessoas Amam *Grafos*
 - [x] [1318](https://resources.beecrowd.com/repository/UOJ_1318.html) - [Bilhetes Falsos](https://potigol.github.io/beecrowd/problemas/1300/#1318-bilhetes-falsos) *Ad-Hoc*
 - [ ] [1330](https://resources.beecrowd.com/repository/UOJ_1330.html) - A Terra Herdada por Tio Tom *Grafos*

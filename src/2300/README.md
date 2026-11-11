@@ -45,16 +45,16 @@
 - [x] [2342](https://resources.beecrowd.com/repository/UOJ_2342.html) - [Overflow](https://potigol.github.io/beecrowd/problemas/2300/#2342-overflow) *Ad-Hoc*
 - [ ] [2343](https://resources.beecrowd.com/repository/UOJ_2343.html) - Caçadores de Mitos *Ad-Hoc*
 - [x] [2344](https://resources.beecrowd.com/repository/UOJ_2344.html) - [Notas da Prova](https://potigol.github.io/beecrowd/problemas/2300/#2344-notas-da-prova) *Iniciante*
-- [x] [2345](https://resources.beecrowd.com/repository/UOJ_2345.html) - [Assigning Teams](https://potigol.github.io/beecrowd/problemas/2300/#2345-assigning-teams) *Ad-Hoc*
-- [ ] [2346](https://resources.beecrowd.com/repository/UOJ_2346.html) - Back to the Future *Ad-Hoc*
-- [ ] [2347](https://resources.beecrowd.com/repository/UOJ_2347.html) - Counting Self-Rotating Subsets *Ad-Hoc*
-- [ ] [2348](https://resources.beecrowd.com/repository/UOJ_2348.html) - Dating On-Line *Ad-Hoc*
-- [x] [2349](https://resources.beecrowd.com/repository/UOJ_2349.html) - [Farm Robot](https://potigol.github.io/beecrowd/problemas/2300/#2349-farm-robot) *Ad-Hoc*
-- [ ] [2350](https://resources.beecrowd.com/repository/UOJ_2350.html) - Game of Matchings *Ad-Hoc*
-- [ ] [2351](https://resources.beecrowd.com/repository/UOJ_2351.html) - Hotel Rewards *Ad-Hoc*
-- [ ] [2352](https://resources.beecrowd.com/repository/UOJ_2352.html) - Internet Trouble *Ad-Hoc*
-- [ ] [2353](https://resources.beecrowd.com/repository/UOJ_2353.html) - Just in Time *Ad-Hoc*
-- [ ] [2354](https://resources.beecrowd.com/repository/UOJ_2354.html) - Kill the Werewolf *Ad-Hoc*
+- [x] [2345](https://resources.beecrowd.com/repository/UOJ_2345.html) - [Atribuindo Equipes](https://potigol.github.io/beecrowd/problemas/2300/#2345-atribuindo-equipes) *Ad-Hoc*
+- [ ] [2346](https://resources.beecrowd.com/repository/UOJ_2346.html) - De Volta para o Futuro *Ad-Hoc*
+- [ ] [2347](https://resources.beecrowd.com/repository/UOJ_2347.html) - Contando Subconjuntos Autorrotativos *Ad-Hoc*
+- [ ] [2348](https://resources.beecrowd.com/repository/UOJ_2348.html) - Encontros On-Line *Ad-Hoc*
+- [x] [2349](https://resources.beecrowd.com/repository/UOJ_2349.html) - [Robô Fazendeiro](https://potigol.github.io/beecrowd/problemas/2300/#2349-robo-fazendeiro) *Ad-Hoc*
+- [ ] [2350](https://resources.beecrowd.com/repository/UOJ_2350.html) - Jogo das Combinações *Ad-Hoc*
+- [ ] [2351](https://resources.beecrowd.com/repository/UOJ_2351.html) - Recompensas de Hotel *Ad-Hoc*
+- [ ] [2352](https://resources.beecrowd.com/repository/UOJ_2352.html) - Problema com a Internet *Ad-Hoc*
+- [ ] [2353](https://resources.beecrowd.com/repository/UOJ_2353.html) - Bem na Hora *Ad-Hoc*
+- [ ] [2354](https://resources.beecrowd.com/repository/UOJ_2354.html) - Mate o Lobisomem *Ad-Hoc*
 - [x] [2355](https://resources.beecrowd.com/repository/UOJ_2355.html) - [Brasil e Alemanha](https://potigol.github.io/beecrowd/problemas/2300/#2355-brasil-e-alemanha) *Ad-Hoc*
 - [x] [2356](https://resources.beecrowd.com/repository/UOJ_2356.html) - [Bactéria I](https://potigol.github.io/beecrowd/problemas/2300/#2356-bacteria-i) *Strings*
 - [ ] [2357](https://resources.beecrowd.com/repository/UOJ_2357.html) - Violência em Sildávia *Grafos*

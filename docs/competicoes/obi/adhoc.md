@@ -1,7 +1,5 @@
 # Ad-Hoc (87 / 171)
 
-
-
 ## Problemas resolvidos
 
 - [x] [2187](https://resources.beecrowd.com/repository/UOJ_2187.html) - [Bits Trocados](https://potigol.github.io/beecrowd/problemas/2100/#2187-bits-trocados)

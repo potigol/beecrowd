@@ -1,7 +1,5 @@
 # Paradigmas (9 / 222)
 
-
-
 ## Problemas resolvidos
 
 - [x] [1029](https://resources.beecrowd.com/repository/UOJ_1029.html) - [Fibonacci, Quantas Chamadas?](https://potigol.github.io/beecrowd/problemas/1000/#1029-fibonacci-quantas-chamadas)

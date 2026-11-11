@@ -49,7 +49,7 @@
 - [ ] [1246](https://resources.beecrowd.com/repository/UOJ_1246.html) - Estacionamento *Ad-Hoc*
 - [x] [1247](https://resources.beecrowd.com/repository/UOJ_1247.html) - [Guarda Costeira](https://potigol.github.io/beecrowd/problemas/1200/#1247-guarda-costeira) *Matemática*
 - [x] [1248](https://resources.beecrowd.com/repository/UOJ_1248.html) - [Plano de Dieta](https://potigol.github.io/beecrowd/problemas/1200/#1248-plano-de-dieta) *Strings*
-- [x] [1249](https://resources.beecrowd.com/repository/UOJ_1249.html) - [~~Rot13~~](https://potigol.github.io/beecrowd/problemas/1200/#1249-rot13)
+- [x] [1249](https://resources.beecrowd.com/repository/UOJ_1249.html) - [Rot13](https://potigol.github.io/beecrowd/problemas/1200/#1249-rot13)
 - [x] [1250](https://resources.beecrowd.com/repository/UOJ_1250.html) - [KiloMan](https://potigol.github.io/beecrowd/problemas/1200/#1250-kiloman) *Ad-Hoc*
 - [x] [1251](https://resources.beecrowd.com/repository/UOJ_1251.html) - [Diga-me a Frequência](https://potigol.github.io/beecrowd/problemas/1200/#1251-diga-me-a-frequencia) *Estruturas e Bibliotecas*
 - [ ] [1252](https://resources.beecrowd.com/repository/UOJ_1252.html) - Sort! Sort!! e Sort!!! *Estruturas e Bibliotecas*

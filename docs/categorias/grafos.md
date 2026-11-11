@@ -1,7 +1,5 @@
 # Grafos (10 / 286)
 
-
-
 ## Problemas resolvidos
 
 - [x] [1076](https://resources.beecrowd.com/repository/UOJ_1076.html) - [Desenhando Labirintos](https://potigol.github.io/beecrowd/problemas/1000/#1076-desenhando-labirintos)

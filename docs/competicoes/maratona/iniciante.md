@@ -1,7 +1,5 @@
 # Iniciante (10 / 10)
 
-
-
 ## Problemas resolvidos
 
 - [x] [1933](https://resources.beecrowd.com/repository/UOJ_1933.html) - [Tri-du](https://potigol.github.io/beecrowd/problemas/1900/#1933-tri-du)
@@ -16,3 +14,4 @@
 - [x] [2968](https://resources.beecrowd.com/repository/UOJ_2968.html) - [Hora da Corrida](https://potigol.github.io/beecrowd/problemas/2900/#2968-hora-da-corrida)
 
 ## Problemas não resolvidos
+

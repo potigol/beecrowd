@@ -1,6 +1,4 @@
-# Iniciante (25 / 30)
-
-
+# Iniciante (25 / 33)
 
 ## Problemas resolvidos
 
@@ -36,4 +34,7 @@
 - [ ] [3491](https://resources.beecrowd.com/repository/UOJ_3491.html) - Bilhete codificado
 - [ ] [3493](https://resources.beecrowd.com/repository/UOJ_3493.html) - Copos empilhados
 - [ ] [3495](https://resources.beecrowd.com/repository/UOJ_3495.html) - Gianzin Berranteiro
+- [ ] [3499](https://resources.beecrowd.com/repository/UOJ_3499.html) - Bella, a cachorrinha sapeca
+- [ ] [3506](https://resources.beecrowd.com/repository/UOJ_3506.html) - Quantos primos?
+- [ ] [3507](https://resources.beecrowd.com/repository/UOJ_3507.html) - Tigres e Gansos
 - [ ] [3520](https://resources.beecrowd.com/repository/UOJ_3520.html) - Próximo ímpar

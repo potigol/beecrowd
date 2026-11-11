@@ -1,7 +1,5 @@
 # Paradigmas (0 / 3)
 
-
-
 ## Problemas resolvidos
 
 

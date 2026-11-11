@@ -1,8 +1,8 @@
-# Problemas 3400 (31/95)
+# Problemas 3400 (31/100)
 
 - [ ] [3400](https://resources.beecrowd.com/repository/UOJ_3400.html) - Amigo não tão secreto assim *Ad-Hoc*
 - [ ] [3401](https://resources.beecrowd.com/repository/UOJ_3401.html) - Bicho da Goiaba Ataca Novamente *Ad-Hoc*
-- [ ] [3402](https://resources.beecrowd.com/repository/UOJ_3402.html) - ~~Caminho Mais Curto?~~
+- [ ] [3402](https://resources.beecrowd.com/repository/UOJ_3402.html) - Caminho Mais Curto?
 - [ ] [3403](https://resources.beecrowd.com/repository/UOJ_3403.html) - Dengoso *Ad-Hoc*
 - [ ] [3404](https://resources.beecrowd.com/repository/UOJ_3404.html) - Estranho ou Engraçado *Ad-Hoc*
 - [x] [3405](https://resources.beecrowd.com/repository/UOJ_3405.html) - [Fatorial](https://potigol.github.io/beecrowd/problemas/3400/#3405-fatorial) *Ad-Hoc*
@@ -34,14 +34,14 @@
 - [ ] [3431](https://resources.beecrowd.com/repository/UOJ_3431.html) - Habilitando a Movimentação *Ad-Hoc*
 - [x] [3432](https://resources.beecrowd.com/repository/UOJ_3432.html) - [Interceptando Informações](https://potigol.github.io/beecrowd/problemas/3400/#3432-interceptando-informacoes) *Ad-Hoc*
 - [x] [3433](https://resources.beecrowd.com/repository/UOJ_3433.html) - [Jogando 23](https://potigol.github.io/beecrowd/problemas/3400/#3433-jogando-23) *Ad-Hoc*
-- [ ] [3434](https://resources.beecrowd.com/repository/UOJ_3434.html) - ~~Kalel, o Sapo Saltador~~
+- [ ] [3434](https://resources.beecrowd.com/repository/UOJ_3434.html) - Kalel, o Sapo Saltador
 - [ ] [3435](https://resources.beecrowd.com/repository/UOJ_3435.html) - Listando Caminhos Tediosos *Ad-Hoc*
 - [ ] [3436](https://resources.beecrowd.com/repository/UOJ_3436.html) - Maratona de Amarelinha *Ad-Hoc*
 - [ ] [3437](https://resources.beecrowd.com/repository/UOJ_3437.html) - Números Virados *Ad-Hoc*
 - [ ] [3438](https://resources.beecrowd.com/repository/UOJ_3438.html) - Energia × Tempo *Ad-Hoc*
 - [ ] [3439](https://resources.beecrowd.com/repository/UOJ_3439.html) - Rota Crítica *Ad-Hoc*
 - [ ] [3440](https://resources.beecrowd.com/repository/UOJ_3440.html) - Amigos ou Inimigos? *Ad-Hoc*
-- [ ] [3441](https://resources.beecrowd.com/repository/UOJ_3441.html) - ~~O Problema do 7 x 1~~
+- [ ] [3441](https://resources.beecrowd.com/repository/UOJ_3441.html) - O Problema do 7 x 1
 - [ ] [3442](https://resources.beecrowd.com/repository/UOJ_3442.html) - Pedindo dinheiro *Ad-Hoc*
 - [ ] [3443](https://resources.beecrowd.com/repository/UOJ_3443.html) - Jogo de tabuleiro *Ad-Hoc*
 - [x] [3444](https://resources.beecrowd.com/repository/UOJ_3444.html) - [Dobras da Cidade](https://potigol.github.io/beecrowd/problemas/3400/#3444-dobras-da-cidade) *Ad-Hoc*
@@ -85,7 +85,7 @@
 - [ ] [3482](https://resources.beecrowd.com/repository/UOJ_3482.html) - Seguidores *SQL*
 - [ ] [3483](https://resources.beecrowd.com/repository/UOJ_3483.html) - Segundo Maior e Menor *SQL*
 - [ ] [3484](https://resources.beecrowd.com/repository/UOJ_3484.html) - Turma Dividida *Estruturas e Bibliotecas*
-- [ ] [3485](https://resources.beecrowd.com/repository/UOJ_3485.html) - ~~Terra Media~~
+- [ ] [3485](https://resources.beecrowd.com/repository/UOJ_3485.html) - Terra Media
 - [ ] [3486](https://resources.beecrowd.com/repository/UOJ_3486.html) - Registro de exibição *Ad-Hoc*
 - [x] [3487](https://resources.beecrowd.com/repository/UOJ_3487.html) - [Firmware - Substring Manipulation](https://potigol.github.io/beecrowd/problemas/3400/#3487-firmware-substring-manipulation) *Ad-Hoc*
 - [x] [3488](https://resources.beecrowd.com/repository/UOJ_3488.html) - [Binary/Hexadecimal Number Systems](https://potigol.github.io/beecrowd/problemas/3400/#3488-binaryhexadecimal-number-systems) *Ad-Hoc*
@@ -97,6 +97,6 @@
 - [x] [3494](https://resources.beecrowd.com/repository/UOJ_3494.html) - [Palavras transformadas](https://potigol.github.io/beecrowd/problemas/3400/#3494-palavras-transformadas) *Iniciante*
 - [ ] [3495](https://resources.beecrowd.com/repository/UOJ_3495.html) - Gianzin Berranteiro *Iniciante*
 - [ ] [3496](https://resources.beecrowd.com/repository/UOJ_3496.html) - Promoção imperdível *Paradigmas*
-- [ ] [3497](https://resources.beecrowd.com/repository/UOJ_3497.html) - ~~Segurança dos Currais~~
+- [ ] [3497](https://resources.beecrowd.com/repository/UOJ_3497.html) - Segurança dos Currais
 - [ ] [3498](https://resources.beecrowd.com/repository/UOJ_3498.html) - Pares especiais *Estruturas e Bibliotecas*
 - [ ] [3499](https://resources.beecrowd.com/repository/UOJ_3499.html) - Bella, a cachorrinha sapeca *Iniciante*

@@ -1,7 +1,5 @@
 # Paradigmas (2 / 39)
 
-
-
 ## Problemas resolvidos
 
 - [x] [1084](https://resources.beecrowd.com/repository/UOJ_1084.html) - [Apagando e Ganhando](https://potigol.github.io/beecrowd/problemas/1000/#1084-apagando-e-ganhando)

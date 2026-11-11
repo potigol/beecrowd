@@ -1,7 +1,5 @@
 # Estruturas e Bibliotecas (3 / 19)
 
-
-
 ## Problemas resolvidos
 
 - [x] [1242](https://resources.beecrowd.com/repository/UOJ_1242.html) - [Ácido Ribonucleico Alienígena](https://potigol.github.io/beecrowd/problemas/1200/#1242-acido-ribonucleico-alienigena)

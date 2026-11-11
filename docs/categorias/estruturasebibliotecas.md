@@ -1,7 +1,5 @@
 # Estruturas e Bibliotecas (51 / 184)
 
-
-
 ## Problemas resolvidos
 
 - [x] [1022](https://resources.beecrowd.com/repository/UOJ_1022.html) - [TDA Racional](https://potigol.github.io/beecrowd/problemas/1000/#1022-tda-racional)

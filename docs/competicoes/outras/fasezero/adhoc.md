@@ -1,7 +1,5 @@
 # Ad-Hoc (7 / 24)
 
-
-
 ## Problemas resolvidos
 
 - [x] [3412](https://resources.beecrowd.com/repository/UOJ_3412.html) - [Avaliações de Algoritmos](https://potigol.github.io/beecrowd/problemas/3400/#3412-avaliacoes-de-algoritmos)

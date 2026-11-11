@@ -1,6 +1,4 @@
-# Matemática (12 / 23)
-
-
+# Matemática (12 / 24)
 
 ## Problemas resolvidos
 
@@ -26,6 +24,7 @@
 - [ ] [2955](https://resources.beecrowd.com/repository/UOJ_2955.html) - Truuuuuco!
 - [ ] [3002](https://resources.beecrowd.com/repository/UOJ_3002.html) - Salve a Lilly!
 - [ ] [3304](https://resources.beecrowd.com/repository/UOJ_3304.html) - Alguma Sorte!
+- [ ] [3502](https://resources.beecrowd.com/repository/UOJ_3502.html) - Montagem de looks
 - [ ] [3512](https://resources.beecrowd.com/repository/UOJ_3512.html) - Ano perfeito
 - [ ] [3516](https://resources.beecrowd.com/repository/UOJ_3516.html) - Jogo da Multiplicação
 - [ ] [3517](https://resources.beecrowd.com/repository/UOJ_3517.html) - Divisores

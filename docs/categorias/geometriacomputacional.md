@@ -1,7 +1,5 @@
 # Geometria Computacional (15 / 85)
 
-
-
 ## Problemas resolvidos
 
 - [x] [1039](https://resources.beecrowd.com/repository/UOJ_1039.html) - [Flores de Fogo](https://potigol.github.io/beecrowd/problemas/1000/#1039-flores-de-fogo)

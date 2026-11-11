@@ -1,6 +1,6 @@
-# Problemas 3000 (34/98)
+# Problemas 3000 (34/100)
 
-- [ ] [3000](https://resources.beecrowd.com/repository/UOJ_3000.html) - ~~Maiores Salários do Departamento~~
+- [ ] [3000](https://resources.beecrowd.com/repository/UOJ_3000.html) - Maiores Salários do Departamento
 - [ ] [3001](https://resources.beecrowd.com/repository/UOJ_3001.html) - Update sem Where *SQL*
 - [ ] [3002](https://resources.beecrowd.com/repository/UOJ_3002.html) - Salve a Lilly! *Matemática*
 - [ ] [3003](https://resources.beecrowd.com/repository/UOJ_3003.html) - O Grupinho *Grafos*
@@ -12,19 +12,19 @@
 - [ ] [3009](https://resources.beecrowd.com/repository/UOJ_3009.html) - Dominós *Ad-Hoc*
 - [ ] [3010](https://resources.beecrowd.com/repository/UOJ_3010.html) - Binários Ambíguos *Ad-Hoc*
 - [x] [3011](https://resources.beecrowd.com/repository/UOJ_3011.html) - [Quebra-Cabeça Algébrico](https://potigol.github.io/beecrowd/problemas/3000/#3011-quebra-cabeca-algebrico) *Ad-Hoc*
-- [ ] [3012](https://resources.beecrowd.com/repository/UOJ_3012.html) - Algorithm Teaching *Ad-Hoc*
-- [ ] [3013](https://resources.beecrowd.com/repository/UOJ_3013.html) - Build the Perfect House *Ad-Hoc*
-- [ ] [3014](https://resources.beecrowd.com/repository/UOJ_3014.html) - Cut Inequality Down *Ad-Hoc*
-- [ ] [3015](https://resources.beecrowd.com/repository/UOJ_3015.html) - Dazzling Stars *Ad-Hoc*
-- [ ] [3016](https://resources.beecrowd.com/repository/UOJ_3016.html) - Eggfruit Cake *Ad-Hoc*
-- [ ] [3017](https://resources.beecrowd.com/repository/UOJ_3017.html) - Fabricating Sculptures *Ad-Hoc*
-- [ ] [3018](https://resources.beecrowd.com/repository/UOJ_3018.html) - Gluing Pictures *Ad-Hoc*
-- [ ] [3019](https://resources.beecrowd.com/repository/UOJ_3019.html) - Hold or Continue? *Ad-Hoc*
-- [ ] [3020](https://resources.beecrowd.com/repository/UOJ_3020.html) - Improve SPAM *Ad-Hoc*
-- [ ] [3021](https://resources.beecrowd.com/repository/UOJ_3021.html) - Jumping Grasshopper *Ad-Hoc*
-- [ ] [3022](https://resources.beecrowd.com/repository/UOJ_3022.html) - Know your Aliens *Ad-Hoc*
-- [ ] [3023](https://resources.beecrowd.com/repository/UOJ_3023.html) - Leverage MDT *Ad-Hoc*
-- [x] [3024](https://resources.beecrowd.com/repository/UOJ_3024.html) - [Mountain Ranges](https://potigol.github.io/beecrowd/problemas/3000/#3024-mountain-ranges) *Ad-Hoc*
+- [ ] [3012](https://resources.beecrowd.com/repository/UOJ_3012.html) - Ensinando Algoritmos *Ad-Hoc*
+- [ ] [3013](https://resources.beecrowd.com/repository/UOJ_3013.html) - Construir a Casa Perfeita *Ad-Hoc*
+- [ ] [3014](https://resources.beecrowd.com/repository/UOJ_3014.html) - Reduzir a Desigualdade *Ad-Hoc*
+- [ ] [3015](https://resources.beecrowd.com/repository/UOJ_3015.html) - Estrelas Deslumbrantes *Ad-Hoc*
+- [ ] [3016](https://resources.beecrowd.com/repository/UOJ_3016.html) - Bolo de Fruta-Ovo *Ad-Hoc*
+- [ ] [3017](https://resources.beecrowd.com/repository/UOJ_3017.html) - Fabricando Esculturas *Ad-Hoc*
+- [ ] [3018](https://resources.beecrowd.com/repository/UOJ_3018.html) - Colando Fotos *Ad-Hoc*
+- [ ] [3019](https://resources.beecrowd.com/repository/UOJ_3019.html) - Manter ou Continuar? *Ad-Hoc*
+- [ ] [3020](https://resources.beecrowd.com/repository/UOJ_3020.html) - Melhore o SPAM *Ad-Hoc*
+- [ ] [3021](https://resources.beecrowd.com/repository/UOJ_3021.html) - Gafanhoto Saltitante *Ad-Hoc*
+- [ ] [3022](https://resources.beecrowd.com/repository/UOJ_3022.html) - Conheça seus Aliens *Ad-Hoc*
+- [ ] [3023](https://resources.beecrowd.com/repository/UOJ_3023.html) - Alavancar MDT *Ad-Hoc*
+- [x] [3024](https://resources.beecrowd.com/repository/UOJ_3024.html) - [Cordilheiras](https://potigol.github.io/beecrowd/problemas/3000/#3024-cordilheiras) *Ad-Hoc*
 - [ ] [3025](https://resources.beecrowd.com/repository/UOJ_3025.html) - Coletor *Ad-Hoc*
 - [ ] [3026](https://resources.beecrowd.com/repository/UOJ_3026.html) - Número Inteiro Periódico *Matemática*
 - [ ] [3027](https://resources.beecrowd.com/repository/UOJ_3027.html) - Plano de Treino *Grafos*
@@ -66,7 +66,7 @@
 - [ ] [3063](https://resources.beecrowd.com/repository/UOJ_3063.html) - Linhas de Ônibus *Ad-Hoc*
 - [ ] [3064](https://resources.beecrowd.com/repository/UOJ_3064.html) - Elástico *Geometria Computacional*
 - [x] [3065](https://resources.beecrowd.com/repository/UOJ_3065.html) - [Calculando](https://potigol.github.io/beecrowd/problemas/3000/#3065-calculando) *Iniciante*
-- [ ] [3066](https://resources.beecrowd.com/repository/UOJ_3066.html) - ~~Dengue~~
+- [ ] [3066](https://resources.beecrowd.com/repository/UOJ_3066.html) - Dengue
 - [ ] [3067](https://resources.beecrowd.com/repository/UOJ_3067.html) - Dominó *Grafos*
 - [x] [3068](https://resources.beecrowd.com/repository/UOJ_3068.html) - [Meteoros](https://potigol.github.io/beecrowd/problemas/3000/#3068-meteoros) *Geometria Computacional*
 - [ ] [3069](https://resources.beecrowd.com/repository/UOJ_3069.html) - Sorvete *Estruturas e Bibliotecas*

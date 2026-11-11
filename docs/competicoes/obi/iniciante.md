@@ -1,7 +1,5 @@
 # Iniciante (15 / 15)
 
-
-
 ## Problemas resolvidos
 
 - [x] [1929](https://resources.beecrowd.com/repository/UOJ_1929.html) - [Triângulo](https://potigol.github.io/beecrowd/problemas/1900/#1929-triangulo)
@@ -21,3 +19,4 @@
 - [x] [3065](https://resources.beecrowd.com/repository/UOJ_3065.html) - [Calculando](https://potigol.github.io/beecrowd/problemas/3000/#3065-calculando)
 
 ## Problemas não resolvidos
+

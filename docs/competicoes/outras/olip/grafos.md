@@ -1,6 +1,4 @@
-# Grafos (0 / 11)
-
-
+# Grafos (0 / 12)
 
 ## Problemas resolvidos
 
@@ -17,4 +15,5 @@
 - [ ] [3150](https://resources.beecrowd.com/repository/UOJ_3150.html) - O Esconderijo do Rambo
 - [ ] [3158](https://resources.beecrowd.com/repository/UOJ_3158.html) - O Bom Presidente
 - [ ] [3314](https://resources.beecrowd.com/repository/UOJ_3314.html) - Konfusa, a Colmeia!
+- [ ] [3503](https://resources.beecrowd.com/repository/UOJ_3503.html) - Jogo dos números
 - [ ] [3515](https://resources.beecrowd.com/repository/UOJ_3515.html) - Paradoxo dos Microsserviços

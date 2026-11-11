@@ -1,102 +1,102 @@
-# Problemas 4000 (3/3)
+# Problemas 4000 (3/100)
 
-- [x] [4000](https://resources.beecrowd.com/repository/UOJ_4000.html) - [~~Altura Mínima~~](https://potigol.github.io/beecrowd/problemas/4000/#4000-altura-minima)
-- [ ] [4001](https://resources.beecrowd.com/repository/UOJ_4001.html) - ~~Baralho Embaralhado~~
-- [ ] [4002](https://resources.beecrowd.com/repository/UOJ_4002.html) - ~~Caminhada na Montanha~~
-- [ ] [4003](https://resources.beecrowd.com/repository/UOJ_4003.html) - ~~Desvio~~
-- [ ] [4004](https://resources.beecrowd.com/repository/UOJ_4004.html) - ~~Extraindo Pólen~~
-- [ ] [4005](https://resources.beecrowd.com/repository/UOJ_4005.html) - ~~Férias Cansativas~~
-- [ ] [4006](https://resources.beecrowd.com/repository/UOJ_4006.html) - ~~Grande Tratado da Bytelândia~~
-- [ ] [4007](https://resources.beecrowd.com/repository/UOJ_4007.html) - ~~Honroso Trabalhador~~
-- [ ] [4008](https://resources.beecrowd.com/repository/UOJ_4008.html) - ~~Investigando Zeros e Uns~~
-- [ ] [4009](https://resources.beecrowd.com/repository/UOJ_4009.html) - ~~Jogo de Vôlei~~
-- [ ] [4010](https://resources.beecrowd.com/repository/UOJ_4010.html) - ~~k pra Mais, k pra Menos~~
-- [ ] [4011](https://resources.beecrowd.com/repository/UOJ_4011.html) - ~~Lexicograficamente Agradável~~
-- [ ] [4012](https://resources.beecrowd.com/repository/UOJ_4012.html) - ~~Malha Aérea~~
-- [x] [4013](https://resources.beecrowd.com/repository/UOJ_4013.html) - [~~Alice e as Canções e Iara~~](https://potigol.github.io/beecrowd/problemas/4000/#4013-alice-e-as-cancoes-e-iara)
-- [ ] [4014](https://resources.beecrowd.com/repository/UOJ_4014.html) - ~~Boto e as Festas~~
-- [ ] [4015](https://resources.beecrowd.com/repository/UOJ_4015.html) - ~~Caboclo-d'Água e o Biscoito Confeitado~~
-- [x] [4016](https://resources.beecrowd.com/repository/UOJ_4016.html) - [~~Deus-serpente M'boi as Cataratas do Iguaçu~~](https://potigol.github.io/beecrowd/problemas/4000/#4016-deus-serpente-mboi-as-cataratas-do-iguacu)
-- [ ] [4017](https://resources.beecrowd.com/repository/UOJ_4017.html) - ~~Esquecimento e o Mapa do Boitatá~~
-- [ ] [4018](https://resources.beecrowd.com/repository/UOJ_4018.html) - ~~Folguedo do Boi de Mamão e o Apetite da Bernunça~~
-- [ ] [4019](https://resources.beecrowd.com/repository/UOJ_4019.html) - ~~Gosto Pelo Tabacoe o Saci Pererê~~
-- [ ] [4020](https://resources.beecrowd.com/repository/UOJ_4020.html) - ~~Homem do Saco e o Teorema de Bachgold~~
-- [ ] [4021](https://resources.beecrowd.com/repository/UOJ_4021.html) - ~~Iracema e os Colares Especiais~~
-- [ ] [4022](https://resources.beecrowd.com/repository/UOJ_4022.html) - ~~Jogos de Xaxdrez e a Mula sem Cabeça~~
-- [ ] [4023](https://resources.beecrowd.com/repository/UOJ_4023.html) - ~~K-ésimo Fator Primoe o Desafio do Pai do Mato~~
-- [ ] [4024](https://resources.beecrowd.com/repository/UOJ_4024.html) - ~~Lágrimas Irritantes e a tarefa da Cuca~~
-- [ ] [4025](https://resources.beecrowd.com/repository/UOJ_4025.html) - ~~Matinta Pereira e um Prefeito Preguiçoso~~
-- [ ] [4026](https://resources.beecrowd.com/repository/UOJ_4026.html) - ~~Negrinho do Pastoreio e a Segurança dos Currais~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
-- [ ] ~~xxxx~~
+- [x] [4000](https://resources.beecrowd.com/repository/UOJ_4000.html) - [Altura Mínima](https://potigol.github.io/beecrowd/problemas/4000/#4000-altura-minima)
+- [ ] [4001](https://resources.beecrowd.com/repository/UOJ_4001.html) - Baralho Embaralhado
+- [ ] [4002](https://resources.beecrowd.com/repository/UOJ_4002.html) - Caminhada na Montanha
+- [ ] [4003](https://resources.beecrowd.com/repository/UOJ_4003.html) - Desvio
+- [ ] [4004](https://resources.beecrowd.com/repository/UOJ_4004.html) - Extraindo Pólen
+- [ ] [4005](https://resources.beecrowd.com/repository/UOJ_4005.html) - Férias Cansativas
+- [ ] [4006](https://resources.beecrowd.com/repository/UOJ_4006.html) - Grande Tratado da Bytelândia
+- [ ] [4007](https://resources.beecrowd.com/repository/UOJ_4007.html) - Honroso Trabalhador
+- [ ] [4008](https://resources.beecrowd.com/repository/UOJ_4008.html) - Investigando Zeros e Uns
+- [ ] [4009](https://resources.beecrowd.com/repository/UOJ_4009.html) - Jogo de Vôlei
+- [ ] [4010](https://resources.beecrowd.com/repository/UOJ_4010.html) - k pra Mais, k pra Menos
+- [ ] [4011](https://resources.beecrowd.com/repository/UOJ_4011.html) - Lexicograficamente Agradável
+- [ ] [4012](https://resources.beecrowd.com/repository/UOJ_4012.html) - Malha Aérea
+- [x] [4013](https://resources.beecrowd.com/repository/UOJ_4013.html) - [Alice e as Canções e Iara](https://potigol.github.io/beecrowd/problemas/4000/#4013-alice-e-as-cancoes-e-iara)
+- [ ] [4014](https://resources.beecrowd.com/repository/UOJ_4014.html) - Boto e as Festas
+- [ ] [4015](https://resources.beecrowd.com/repository/UOJ_4015.html) - Caboclo-d'Água e o Biscoito Confeitado
+- [x] [4016](https://resources.beecrowd.com/repository/UOJ_4016.html) - [Deus-serpente M'boi as Cataratas do Iguaçu](https://potigol.github.io/beecrowd/problemas/4000/#4016-deus-serpente-mboi-as-cataratas-do-iguacu)
+- [ ] [4017](https://resources.beecrowd.com/repository/UOJ_4017.html) - Esquecimento e o Mapa do Boitatá
+- [ ] [4018](https://resources.beecrowd.com/repository/UOJ_4018.html) - Folguedo do Boi de Mamão e o Apetite da Bernunça
+- [ ] [4019](https://resources.beecrowd.com/repository/UOJ_4019.html) - Gosto Pelo Tabacoe o Saci Pererê
+- [ ] [4020](https://resources.beecrowd.com/repository/UOJ_4020.html) - Homem do Saco e o Teorema de Bachgold
+- [ ] [4021](https://resources.beecrowd.com/repository/UOJ_4021.html) - Iracema e os Colares Especiais
+- [ ] [4022](https://resources.beecrowd.com/repository/UOJ_4022.html) - Jogos de Xaxdrez e a Mula sem Cabeça
+- [ ] [4023](https://resources.beecrowd.com/repository/UOJ_4023.html) - K-ésimo Fator Primoe o Desafio do Pai do Mato
+- [ ] [4024](https://resources.beecrowd.com/repository/UOJ_4024.html) - Lágrimas Irritantes e a tarefa da Cuca
+- [ ] [4025](https://resources.beecrowd.com/repository/UOJ_4025.html) - Matinta Pereira e um Prefeito Preguiçoso
+- [ ] [4026](https://resources.beecrowd.com/repository/UOJ_4026.html) - Negrinho do Pastoreio e a Segurança dos Currais
+- [ ] [4027](https://resources.beecrowd.com/repository/UOJ_4027.html) - Analisando Contratos
+- [ ] [4028](https://resources.beecrowd.com/repository/UOJ_4028.html) - Jogo de Tabuleiro
+- [ ] [4029](https://resources.beecrowd.com/repository/UOJ_4029.html) - Corrida dos Doces
+- [ ] [4030](https://resources.beecrowd.com/repository/UOJ_4030.html) - Decifrando o WordWhiz
+- [ ] [4031](https://resources.beecrowd.com/repository/UOJ_4031.html) - Lucros Elevados
+- [ ] [4032](https://resources.beecrowd.com/repository/UOJ_4032.html) - Para Frente e Para Trás
+- [ ] [4033](https://resources.beecrowd.com/repository/UOJ_4033.html) - GPS em uma Terra Plana
+- [ ] [4034](https://resources.beecrowd.com/repository/UOJ_4034.html) - Saúde em Perigo
+- [ ] [4035](https://resources.beecrowd.com/repository/UOJ_4035.html) - Inversões
+- [ ] [4036](https://resources.beecrowd.com/repository/UOJ_4036.html) - Jornada do Ladrão
+- [ ] [4037](https://resources.beecrowd.com/repository/UOJ_4037.html) - Apaixonado pela Ordem
+- [ ] [4038](https://resources.beecrowd.com/repository/UOJ_4038.html) - Latam++
+- [ ] [4039](https://resources.beecrowd.com/repository/UOJ_4039.html) - Ponto de Encontro
+- [ ] [4040](https://resources.beecrowd.com/repository/UOJ_4040.html) - Album de Figurinhas
+- [ ] [4041](https://resources.beecrowd.com/repository/UOJ_4041.html) - Batalha Naval
+- [ ] [4042](https://resources.beecrowd.com/repository/UOJ_4042.html) - Concatenando Times
+- [ ] [4043](https://resources.beecrowd.com/repository/UOJ_4043.html) - Dança da Divisibilidade
+- [ ] [4044](https://resources.beecrowd.com/repository/UOJ_4044.html) - Empresa de Festas
+- [ ] [4045](https://resources.beecrowd.com/repository/UOJ_4045.html) - Fastminton
+- [ ] [4046](https://resources.beecrowd.com/repository/UOJ_4046.html) - Game Show!
+- [ ] [4047](https://resources.beecrowd.com/repository/UOJ_4047.html) - Hangar do SBC
+- [ ] [4048](https://resources.beecrowd.com/repository/UOJ_4048.html) - Interatividade
+- [ ] [4049](https://resources.beecrowd.com/repository/UOJ_4049.html) - Juntando Dados
+- [ ] [4050](https://resources.beecrowd.com/repository/UOJ_4050.html) - Ká entre Nós
+- [ ] [4051](https://resources.beecrowd.com/repository/UOJ_4051.html) - Lavaspar
+- [ ] [4052](https://resources.beecrowd.com/repository/UOJ_4052.html) - Metralhadora
+- [ ] [4053](https://resources.beecrowd.com/repository/UOJ_4053.html) - Números Multiplicados
+- [ ] [4054](https://resources.beecrowd.com/repository/UOJ_4054.html) - Ônibus Venusiano
+- [ ] [4055](https://resources.beecrowd.com/repository/UOJ_4055.html) - Alocação de Prêmios
+- [ ] [4056](https://resources.beecrowd.com/repository/UOJ_4056.html) - Belas Palavras
+- [ ] [4057](https://resources.beecrowd.com/repository/UOJ_4057.html) - Criando Múltiplos
+- [ ] [4058](https://resources.beecrowd.com/repository/UOJ_4058.html) - Dividindo o Reino
+- [ ] [4059](https://resources.beecrowd.com/repository/UOJ_4059.html) - Escada Rolante
+- [ ] [4060](https://resources.beecrowd.com/repository/UOJ_4060.html) - Fuga da Prisão
+- [ ] [4061](https://resources.beecrowd.com/repository/UOJ_4061.html) - Garantindo o Treino
+- [ ] [4062](https://resources.beecrowd.com/repository/UOJ_4062.html) - Haja Ordenação
+- [ ] [4063](https://resources.beecrowd.com/repository/UOJ_4063.html) - Invertendo Ferrovias
+- [ ] [4064](https://resources.beecrowd.com/repository/UOJ_4064.html) - Jogo Duro
+- [ ] [4065](https://resources.beecrowd.com/repository/UOJ_4065.html) - Katmandu
+- [ ] [4066](https://resources.beecrowd.com/repository/UOJ_4066.html) - Lembre sua Senha
+- [ ] [4067](https://resources.beecrowd.com/repository/UOJ_4067.html) - Monarquia em Vertigem
+- [ ] [4068](https://resources.beecrowd.com/repository/UOJ_4068.html) - Na Trave!
+- [ ] [4069](https://resources.beecrowd.com/repository/UOJ_4069.html) - Atenção à Reunião
+- [ ] [4070](https://resources.beecrowd.com/repository/UOJ_4070.html) - Bacon Number
+- [ ] [4071](https://resources.beecrowd.com/repository/UOJ_4071.html) - Casal do BipBop
+- [ ] [4072](https://resources.beecrowd.com/repository/UOJ_4072.html) - Desafio do Chefão
+- [ ] [4073](https://resources.beecrowd.com/repository/UOJ_4073.html) - Estojo de Joias
+- [ ] [4074](https://resources.beecrowd.com/repository/UOJ_4074.html) - Frações Contínuas
+- [ ] [4075](https://resources.beecrowd.com/repository/UOJ_4075.html) - Geografia dos Rios
+- [ ] [4076](https://resources.beecrowd.com/repository/UOJ_4076.html) - Harmônicos Interferentes
+- [ ] [4077](https://resources.beecrowd.com/repository/UOJ_4077.html) - Ingredientes Alergênicos
+- [ ] [4078](https://resources.beecrowd.com/repository/UOJ_4078.html) - Jornada Colorida
+- [ ] [4079](https://resources.beecrowd.com/repository/UOJ_4079.html) - Karamell
+- [ ] [4080](https://resources.beecrowd.com/repository/UOJ_4080.html) - Lexicograficamente Máximo
+- [ ] [4081](https://resources.beecrowd.com/repository/UOJ_4081.html) - Acrescente e Entre em Pânico!
+- [ ] [4082](https://resources.beecrowd.com/repository/UOJ_4082.html) - Pista Cíclica de Biketopia
+- [ ] [4083](https://resources.beecrowd.com/repository/UOJ_4083.html) - Desafio de Natal da Cindy
+- [ ] [4084](https://resources.beecrowd.com/repository/UOJ_4084.html) - Camisetas Diversificadas
+- [ ] [4085](https://resources.beecrowd.com/repository/UOJ_4085.html) - Expedição Evereth
+- [ ] [4086](https://resources.beecrowd.com/repository/UOJ_4086.html) - Encontrando Privacidade
+- [ ] [4087](https://resources.beecrowd.com/repository/UOJ_4087.html) - Grande Corrida da Glória
+- [ ] [4088](https://resources.beecrowd.com/repository/UOJ_4088.html) - Heraclosuras
+- [ ] [4089](https://resources.beecrowd.com/repository/UOJ_4089.html) - Perspicácia sobre Inversões
+- [ ] [4090](https://resources.beecrowd.com/repository/UOJ_4090.html) - Quebra-cabeça das Sombras
+- [ ] [4091](https://resources.beecrowd.com/repository/UOJ_4091.html) - Cordas Legais
+- [ ] [4092](https://resources.beecrowd.com/repository/UOJ_4092.html) - Quadrados Latinos
+- [ ] [4093](https://resources.beecrowd.com/repository/UOJ_4093.html) - Ambíguo Gato de Schrödinger
+- [ ] [4094](https://resources.beecrowd.com/repository/UOJ_4094.html) - Busca Periódica
+- [ ] [4095](https://resources.beecrowd.com/repository/UOJ_4095.html) - Circuitos Lógicos Matriciais
+- [ ] [4096](https://resources.beecrowd.com/repository/UOJ_4096.html) - Decoerência Quântica
+- [ ] [4097](https://resources.beecrowd.com/repository/UOJ_4097.html) - Energização de Partículas
+- [ ] [4098](https://resources.beecrowd.com/repository/UOJ_4098.html) - Feynman Decorando Números
+- [ ] [4099](https://resources.beecrowd.com/repository/UOJ_4099.html) - Grover e Seus Caminhos Especiais

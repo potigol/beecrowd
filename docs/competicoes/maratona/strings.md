@@ -1,14 +1,12 @@
 # Strings (5 / 21)
 
-
-
 ## Problemas resolvidos
 
 - [x] [1120](https://resources.beecrowd.com/repository/UOJ_1120.html) - [Revisão de Contrato](https://potigol.github.io/beecrowd/problemas/1100/#1120-revisao-de-contrato)
 - [x] [1222](https://resources.beecrowd.com/repository/UOJ_1222.html) - [Concurso de Contos](https://potigol.github.io/beecrowd/problemas/1200/#1222-concurso-de-contos)
 - [x] [2242](https://resources.beecrowd.com/repository/UOJ_2242.html) - [Huaauhahhuahau](https://potigol.github.io/beecrowd/problemas/2200/#2242-huaauhahhuahau)
 - [x] [2880](https://resources.beecrowd.com/repository/UOJ_2880.html) - [Enigma](https://potigol.github.io/beecrowd/problemas/2800/#2880-enigma)
-- [x] [2906](https://resources.beecrowd.com/repository/UOJ_2906.html) - [Database of Clients](https://potigol.github.io/beecrowd/problemas/2900/#2906-database-of-clients)
+- [x] [2906](https://resources.beecrowd.com/repository/UOJ_2906.html) - [Banco de Dados de Clientes](https://potigol.github.io/beecrowd/problemas/2900/#2906-banco-de-dados-de-clientes)
 
 ## Problemas não resolvidos
 

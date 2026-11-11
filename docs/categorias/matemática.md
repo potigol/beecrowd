@@ -1,7 +1,5 @@
 # Matemática (110 / 279)
 
-
-
 ## Problemas resolvidos
 
 - [x] [1028](https://resources.beecrowd.com/repository/UOJ_1028.html) - [Figurinhas](https://potigol.github.io/beecrowd/problemas/1000/#1028-figurinhas)
@@ -90,7 +88,7 @@
 - [x] [2864](https://resources.beecrowd.com/repository/UOJ_2864.html) - [Qual é a Altura?](https://potigol.github.io/beecrowd/problemas/2800/#2864-qual-e-a-altura)
 - [x] [2869](https://resources.beecrowd.com/repository/UOJ_2869.html) - [Falando em Divisor...](https://potigol.github.io/beecrowd/problemas/2800/#2869-falando-em-divisor)
 - [x] [2892](https://resources.beecrowd.com/repository/UOJ_2892.html) - [Treino No Velódromo](https://potigol.github.io/beecrowd/problemas/2800/#2892-treino-no-velodromo)
-- [x] [2903](https://resources.beecrowd.com/repository/UOJ_2903.html) - [A Symmetrical Pizza](https://potigol.github.io/beecrowd/problemas/2900/#2903-a-symmetrical-pizza)
+- [x] [2903](https://resources.beecrowd.com/repository/UOJ_2903.html) - [Uma Pizza Simétrica](https://potigol.github.io/beecrowd/problemas/2900/#2903-uma-pizza-simetrica)
 - [x] [2939](https://resources.beecrowd.com/repository/UOJ_2939.html) - [Casais](https://potigol.github.io/beecrowd/problemas/2900/#2939-casais)
 - [x] [2953](https://resources.beecrowd.com/repository/UOJ_2953.html) - [Mais um Joguinho](https://potigol.github.io/beecrowd/problemas/2900/#2953-mais-um-joguinho)
 - [x] [2956](https://resources.beecrowd.com/repository/UOJ_2956.html) - [Derivada de 13 Variáveis](https://potigol.github.io/beecrowd/problemas/2900/#2956-derivada-de-13-variaveis)

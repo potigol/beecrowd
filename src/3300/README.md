@@ -1,4 +1,4 @@
-# Problemas 3300 (27/78)
+# Problemas 3300 (27/100)
 
 - [x] [3300](https://resources.beecrowd.com/repository/UOJ_3300.html) - [Números Má Sorte Recarregados](https://potigol.github.io/beecrowd/problemas/3300/#3300-numeros-ma-sorte-recarregados) *Strings*
 - [x] [3301](https://resources.beecrowd.com/repository/UOJ_3301.html) - [Sobrinho do Meio](https://potigol.github.io/beecrowd/problemas/3300/#3301-sobrinho-do-meio) *Iniciante*
@@ -16,29 +16,29 @@
 - [x] [3313](https://resources.beecrowd.com/repository/UOJ_3313.html) - [Jogo de Palavras](https://potigol.github.io/beecrowd/problemas/3300/#3313-jogo-de-palavras) *Strings*
 - [ ] [3314](https://resources.beecrowd.com/repository/UOJ_3314.html) - Konfusa, a Colmeia! *Grafos*
 - [x] [3315](https://resources.beecrowd.com/repository/UOJ_3315.html) - [Língua do Computador](https://potigol.github.io/beecrowd/problemas/3300/#3315-lingua-do-computador) *Ad-Hoc*
-- [ ] [3316](https://resources.beecrowd.com/repository/UOJ_3316.html) - ~~Almost Origami~~
-- [ ] [3317](https://resources.beecrowd.com/repository/UOJ_3317.html) - ~~Beautiful Mountains~~
-- [ ] [3318](https://resources.beecrowd.com/repository/UOJ_3318.html) - ~~Crisis at the Wedding~~
-- [ ] [3319](https://resources.beecrowd.com/repository/UOJ_3319.html) - ~~Dividing Candy~~
-- [ ] [3320](https://resources.beecrowd.com/repository/UOJ_3320.html) - ~~Excellent Views~~
-- [ ] [3321](https://resources.beecrowd.com/repository/UOJ_3321.html) - ~~Fascinating Partitions~~
-- [ ] [3322](https://resources.beecrowd.com/repository/UOJ_3322.html) - ~~Game of Slots~~
-- [ ] [3323](https://resources.beecrowd.com/repository/UOJ_3323.html) - ~~Halting Wolf~~
-- [ ] [3324](https://resources.beecrowd.com/repository/UOJ_3324.html) - ~~Impenetrable Wall~~
-- [ ] [3325](https://resources.beecrowd.com/repository/UOJ_3325.html) - ~~Job Allocator~~
-- [ ] [3326](https://resources.beecrowd.com/repository/UOJ_3326.html) - ~~Keylogger~~
-- [ ] [3327](https://resources.beecrowd.com/repository/UOJ_3327.html) - ~~Lola's Schedule~~
-- [ ] [3328](https://resources.beecrowd.com/repository/UOJ_3328.html) - ~~May I Add a Letter?~~
-- [ ] [3329](https://resources.beecrowd.com/repository/UOJ_3329.html) - ~~Non-Integer Donuts~~
-- [ ] [3330](https://resources.beecrowd.com/repository/UOJ_3330.html) - ~~Adedonha~~
-- [ ] [3331](https://resources.beecrowd.com/repository/UOJ_3331.html) - ~~O Circuito Digital de Joãozinho~~
-- [ ] [3332](https://resources.beecrowd.com/repository/UOJ_3332.html) - ~~Dados Malucos~~
-- [ ] [3333](https://resources.beecrowd.com/repository/UOJ_3333.html) - ~~Fiscalização do Clube~~
-- [ ] [3334](https://resources.beecrowd.com/repository/UOJ_3334.html) - ~~Atrasado pra Aula~~
-- [ ] [3335](https://resources.beecrowd.com/repository/UOJ_3335.html) - ~~Entregas~~
-- [ ] [3336](https://resources.beecrowd.com/repository/UOJ_3336.html) - ~~Blocos da Diversão~~
-- [ ] [3337](https://resources.beecrowd.com/repository/UOJ_3337.html) - ~~Triângulos~~
-- [x] [3338](https://resources.beecrowd.com/repository/UOJ_3338.html) - [~~Jogo de Páscoa~~](https://potigol.github.io/beecrowd/problemas/3300/#3338-jogo-de-pascoa)
+- [ ] [3316](https://resources.beecrowd.com/repository/UOJ_3316.html) - Quase Origami
+- [ ] [3317](https://resources.beecrowd.com/repository/UOJ_3317.html) - Montanhas Belíssimas
+- [ ] [3318](https://resources.beecrowd.com/repository/UOJ_3318.html) - Crise no Casamento
+- [ ] [3319](https://resources.beecrowd.com/repository/UOJ_3319.html) - Dividindo Doces
+- [ ] [3320](https://resources.beecrowd.com/repository/UOJ_3320.html) - Vistas Excelentes
+- [ ] [3321](https://resources.beecrowd.com/repository/UOJ_3321.html) - Partições Fascinantes
+- [ ] [3322](https://resources.beecrowd.com/repository/UOJ_3322.html) - Jogo dos Caça-Níqueis
+- [ ] [3323](https://resources.beecrowd.com/repository/UOJ_3323.html) - Lobo em Parada
+- [ ] [3324](https://resources.beecrowd.com/repository/UOJ_3324.html) - Muralha Impenetrável
+- [ ] [3325](https://resources.beecrowd.com/repository/UOJ_3325.html) - Alocador de Tarefas
+- [ ] [3326](https://resources.beecrowd.com/repository/UOJ_3326.html) - Registrador de Teclas
+- [ ] [3327](https://resources.beecrowd.com/repository/UOJ_3327.html) - Agenda de Lola
+- [ ] [3328](https://resources.beecrowd.com/repository/UOJ_3328.html) - Posso Adicionar uma Letra?
+- [ ] [3329](https://resources.beecrowd.com/repository/UOJ_3329.html) - Rosquinhas Não Inteiras
+- [ ] [3330](https://resources.beecrowd.com/repository/UOJ_3330.html) - Adedonha
+- [ ] [3331](https://resources.beecrowd.com/repository/UOJ_3331.html) - O Circuito Digital de Joãozinho
+- [ ] [3332](https://resources.beecrowd.com/repository/UOJ_3332.html) - Dados Malucos
+- [ ] [3333](https://resources.beecrowd.com/repository/UOJ_3333.html) - Fiscalização do Clube
+- [ ] [3334](https://resources.beecrowd.com/repository/UOJ_3334.html) - Atrasado pra Aula
+- [ ] [3335](https://resources.beecrowd.com/repository/UOJ_3335.html) - Entregas
+- [ ] [3336](https://resources.beecrowd.com/repository/UOJ_3336.html) - Blocos da Diversão
+- [ ] [3337](https://resources.beecrowd.com/repository/UOJ_3337.html) - Triângulos
+- [x] [3338](https://resources.beecrowd.com/repository/UOJ_3338.html) - [Jogo de Páscoa](https://potigol.github.io/beecrowd/problemas/3300/#3338-jogo-de-pascoa)
 - [x] [3339](https://resources.beecrowd.com/repository/UOJ_3339.html) - [Carina](https://potigol.github.io/beecrowd/problemas/3300/#3339-carina) *Matemática*
 - [ ] [3340](https://resources.beecrowd.com/repository/UOJ_3340.html) - Estudante De Mestrado *Grafos*
 - [ ] [3341](https://resources.beecrowd.com/repository/UOJ_3341.html) - Grandmaster do Jogo do Caneco *Matemática*
@@ -59,19 +59,19 @@
 - [ ] [3356](https://resources.beecrowd.com/repository/UOJ_3356.html) - Reprodução Controlada *Grafos*
 - [x] [3357](https://resources.beecrowd.com/repository/UOJ_3357.html) - [Rico do Mate](https://potigol.github.io/beecrowd/problemas/3300/#3357-rico-do-mate) *Estruturas e Bibliotecas*
 - [x] [3358](https://resources.beecrowd.com/repository/UOJ_3358.html) - [Sobrenome Não é Fácil](https://potigol.github.io/beecrowd/problemas/3300/#3358-sobrenome-nao-e-facil) *Strings*
-- [ ] [3359](https://resources.beecrowd.com/repository/UOJ_3359.html) - Ancient Towers *Ad-Hoc*
-- [ ] [3360](https://resources.beecrowd.com/repository/UOJ_3360.html) - Because, Art! *Ad-Hoc*
-- [ ] [3361](https://resources.beecrowd.com/repository/UOJ_3361.html) - Cyclists versus Clouds *Ad-Hoc*
-- [ ] [3362](https://resources.beecrowd.com/repository/UOJ_3362.html) - Daily Turnovers *Ad-Hoc*
-- [ ] [3363](https://resources.beecrowd.com/repository/UOJ_3363.html) - Expedition Plans *Ad-Hoc*
-- [ ] [3364](https://resources.beecrowd.com/repository/UOJ_3364.html) - Fields Division *Ad-Hoc*
-- [ ] [3365](https://resources.beecrowd.com/repository/UOJ_3365.html) - Generator Tree *Ad-Hoc*
+- [ ] [3359](https://resources.beecrowd.com/repository/UOJ_3359.html) - Torres Antigas *Ad-Hoc*
+- [ ] [3360](https://resources.beecrowd.com/repository/UOJ_3360.html) - Porque, Arte! *Ad-Hoc*
+- [ ] [3361](https://resources.beecrowd.com/repository/UOJ_3361.html) - Ciclistas contra Nuvens *Ad-Hoc*
+- [ ] [3362](https://resources.beecrowd.com/repository/UOJ_3362.html) - Faturamentos Diários *Ad-Hoc*
+- [ ] [3363](https://resources.beecrowd.com/repository/UOJ_3363.html) - Planos de Expedição *Ad-Hoc*
+- [ ] [3364](https://resources.beecrowd.com/repository/UOJ_3364.html) - Divisão de Campos *Ad-Hoc*
+- [ ] [3365](https://resources.beecrowd.com/repository/UOJ_3365.html) - Árvore Geradora *Ad-Hoc*
 - [ ] [3366](https://resources.beecrowd.com/repository/UOJ_3366.html) - Hamilton - The Musical *Ad-Hoc*
-- [ ] [3367](https://resources.beecrowd.com/repository/UOJ_3367.html) - Invested Money *Ad-Hoc*
-- [ ] [3368](https://resources.beecrowd.com/repository/UOJ_3368.html) - Joining Pairs *Ad-Hoc*
-- [x] [3369](https://resources.beecrowd.com/repository/UOJ_3369.html) - [KIARA is a Recursive Acronym](https://potigol.github.io/beecrowd/problemas/3300/#3369-kiara-is-a-recursive-acronym) *Ad-Hoc*
-- [ ] [3370](https://resources.beecrowd.com/repository/UOJ_3370.html) - Leaving Yharnam *Ad-Hoc*
-- [ ] [3371](https://resources.beecrowd.com/repository/UOJ_3371.html) - Most Ordered Way *Ad-Hoc*
+- [ ] [3367](https://resources.beecrowd.com/repository/UOJ_3367.html) - Dinheiro Investido *Ad-Hoc*
+- [ ] [3368](https://resources.beecrowd.com/repository/UOJ_3368.html) - Unindo Pares *Ad-Hoc*
+- [x] [3369](https://resources.beecrowd.com/repository/UOJ_3369.html) - [KIARA é um Acrônimo Recursivo](https://potigol.github.io/beecrowd/problemas/3300/#3369-kiara-e-um-acronimo-recursivo) *Ad-Hoc*
+- [ ] [3370](https://resources.beecrowd.com/repository/UOJ_3370.html) - Saindo de Yharnam *Ad-Hoc*
+- [ ] [3371](https://resources.beecrowd.com/repository/UOJ_3371.html) - Caminho Mais Ordenado *Ad-Hoc*
 - [ ] [3372](https://resources.beecrowd.com/repository/UOJ_3372.html) - Sudoku *Ad-Hoc*
 - [ ] [3373](https://resources.beecrowd.com/repository/UOJ_3373.html) - Criptografia Da Vinci’s *Ad-Hoc*
 - [ ] [3374](https://resources.beecrowd.com/repository/UOJ_3374.html) - F de a e b até k *Ad-Hoc*
