@@ -1,5 +1,15 @@
 # Maratona de Programação (80 / 513)
 
+## Categorias
+
+[Iniciante](iniciante.md) -
+[Ad-hoc](adhoc.md) -
+[Strings](strings.md) -
+[Estruturas e Bibliotecas](estruturasebibliotecas.md) -
+[Matemática](matemática.md) -
+[Paradigmas](paradigmas.md) -
+[Grafos](grafos.md) -
+[Geometria Computacional](geometriacomputacional.md)
 
 ## 2025
 
@@ -34,7 +44,6 @@
 - [ ] [4129](https://resources.beecrowd.com/repository/UOJ_4129.html) - Conquista dos Reis
 - [ ] [4130](https://resources.beecrowd.com/repository/UOJ_4130.html) - Criaturas Solitárias
        
-
 ## 2024
 
 ### 1ª Fase

@@ -12,6 +12,3 @@
 - [x] [2879](https://resources.beecrowd.com/repository/UOJ_2879.html) - [Desvendando Monty Hall](https://potigol.github.io/beecrowd/problemas/2800/#2879-desvendando-monty-hall)
 - [x] [2963](https://resources.beecrowd.com/repository/UOJ_2963.html) - [Bobo da Corte](https://potigol.github.io/beecrowd/problemas/2900/#2963-bobo-da-corte)
 - [x] [2968](https://resources.beecrowd.com/repository/UOJ_2968.html) - [Hora da Corrida](https://potigol.github.io/beecrowd/problemas/2900/#2968-hora-da-corrida)
-
-## Problemas não resolvidos
-

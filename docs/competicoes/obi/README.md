@@ -1,6 +1,15 @@
 # Olimpíada Brasileira de Informática (107 / 215)
 
+## Categorias
 
+[Iniciante](iniciante.md) -
+[Ad-hoc](adhoc.md) -
+[Strings](strings.md) -
+[Estruturas e Bibliotecas](estruturasebibliotecas.md) -
+[Matemática](matemática.md) -
+[Paradigmas](paradigmas.md) -
+[Grafos](grafos.md) -
+[Geometria Computacional](geometriacomputacional.md)
 
 ## 2019
 
