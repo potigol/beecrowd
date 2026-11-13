@@ -2,23 +2,18 @@
 
 ## Categorias
 
-[Iniciante](iniciante.md) -
-[Ad-hoc](adhoc.md) -
-[Strings](strings.md) -
-[Estruturas e Bibliotecas](estruturasebibliotecas.md) -
-[Matemática](matemática.md) -
-[Paradigmas](paradigmas.md) -
-[Grafos](grafos.md) -
+[Iniciante](iniciante.md) ·
+[Ad-hoc](adhoc.md) ·
+[Strings](strings.md) ·
+[Estruturas e Bibliotecas](estruturasebibliotecas.md) ·
+[Matemática](matemática.md) ·
+[Paradigmas](paradigmas.md) ·
+[Grafos](grafos.md) ·
 [Geometria Computacional](geometriacomputacional.md)
 
 
 ## 2025
 
-- [ ] [sbc24f2h](https://resources.beecrowd.com/repository/UOJ_sbc24f2h.html) - Harmonia Palíndromica Binária
-- [ ] [sbc24f2i](https://resources.beecrowd.com/repository/UOJ_sbc24f2i.html) - Inspecionando o Emaranhamento
-- [ ] [sbc24f2j](https://resources.beecrowd.com/repository/UOJ_sbc24f2j.html) - Jornada das Partículas
-- [ ] [sbc24f2k](https://resources.beecrowd.com/repository/UOJ_sbc24f2k.html) - K Elementos Perdidos
-- [ ] [sbc24f2l](https://resources.beecrowd.com/repository/UOJ_sbc24f2l.html) - Linha de Produção de qPhones
 - [ ] [sbc25f0a](https://resources.beecrowd.com/repository/UOJ_sbc25f0a.html) - Ambíguo Gato de Schrödinger
 - [ ] [sbc25f0b](https://resources.beecrowd.com/repository/UOJ_sbc25f0b.html) - Busca Periódica
 - [ ] [sbc25f0c](https://resources.beecrowd.com/repository/UOJ_sbc25f0c.html) - Circuitos Lógicos Matriciais
@@ -26,6 +21,11 @@
 - [ ] [sbc25f0e](https://resources.beecrowd.com/repository/UOJ_sbc25f0e.html) - Energização de Partículas
 - [ ] [sbc25f0f](https://resources.beecrowd.com/repository/UOJ_sbc25f0f.html) - Feynman Decorando Números
 - [ ] [sbc25f0g](https://resources.beecrowd.com/repository/UOJ_sbc25f0g.html) - Grover e Seus Caminhos Especiais
+- [ ] [sbc25f0h](https://resources.beecrowd.com/repository/UOJ_sbc25f0h.html) - Harmonia Palíndromica Binária
+- [ ] [sbc25f0i](https://resources.beecrowd.com/repository/UOJ_sbc25f0i.html) - Inspecionando o Emaranhamento
+- [ ] [sbc25f0j](https://resources.beecrowd.com/repository/UOJ_sbc25f0j.html) - Jornada das Partículas
+- [ ] [sbc25f0k](https://resources.beecrowd.com/repository/UOJ_sbc25f0k.html) - K Elementos Perdidos
+- [ ] [sbc25f0l](https://resources.beecrowd.com/repository/UOJ_sbc25f0l.html) - Linha de Produção de qPhones
 - [ ] [sbc25f0m](https://resources.beecrowd.com/repository/UOJ_sbc25f0m.html) - Movimentação Assustadora à Distância
 
 ## 2024

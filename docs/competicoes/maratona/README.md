@@ -2,13 +2,13 @@
 
 ## Categorias
 
-[Iniciante](iniciante.md) -
-[Ad-hoc](adhoc.md) -
-[Strings](strings.md) -
-[Estruturas e Bibliotecas](estruturasebibliotecas.md) -
-[Matemática](matemática.md) -
-[Paradigmas](paradigmas.md) -
-[Grafos](grafos.md) -
+[Iniciante](iniciante.md) ·
+[Ad-hoc](adhoc.md) ·
+[Strings](strings.md) ·
+[Estruturas e Bibliotecas](estruturasebibliotecas.md) ·
+[Matemática](matemática.md) ·
+[Paradigmas](paradigmas.md) ·
+[Grafos](grafos.md) ·
 [Geometria Computacional](geometriacomputacional.md)
 
 ## 2026
@@ -108,11 +108,11 @@
 - [ ] [sbc24f2e](https://resources.beecrowd.com/repository/UOJ_sbc24f2e.html) - Expedição Evereth
 - [ ] [sbc24f2f](https://resources.beecrowd.com/repository/UOJ_sbc24f2f.html) - Encontrando Privacidade
 - [ ] [sbc24f2g](https://resources.beecrowd.com/repository/UOJ_sbc24f2g.html) - Grande Corrida da Glória
-- [ ] [sbc24f2h](https://resources.beecrowd.com/repository/UOJ_sbc24f2h.html) - Harmonia Palíndromica Binária
-- [ ] [sbc24f2i](https://resources.beecrowd.com/repository/UOJ_sbc24f2i.html) - Inspecionando o Emaranhamento
-- [ ] [sbc24f2j](https://resources.beecrowd.com/repository/UOJ_sbc24f2j.html) - Jornada das Partículas
-- [ ] [sbc24f2k](https://resources.beecrowd.com/repository/UOJ_sbc24f2k.html) - K Elementos Perdidos
-- [ ] [sbc24f2l](https://resources.beecrowd.com/repository/UOJ_sbc24f2l.html) - Linha de Produção de qPhones
+- [ ] [sbc24f2h](https://resources.beecrowd.com/repository/UOJ_sbc24f2h.html) - Heraclosuras
+- [ ] [sbc24f2i](https://resources.beecrowd.com/repository/UOJ_sbc24f2i.html) - Perspicácia sobre Inversões
+- [ ] [sbc24f2j](https://resources.beecrowd.com/repository/UOJ_sbc24f2j.html) - Quebra-cabeça das Sombras
+- [ ] [sbc24f2k](https://resources.beecrowd.com/repository/UOJ_sbc24f2k.html) - Cordas Legais
+- [ ] [sbc24f2l](https://resources.beecrowd.com/repository/UOJ_sbc24f2l.html) - Quadrados Latinos
        
 ## 2023
 
