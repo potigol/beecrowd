@@ -213,12 +213,12 @@ def duasfases(
     sections = []
     for year in sorted(contest2, reverse=True):
         phase1 = (
-            f"\n### 1ª Fase\n\n{list_contest(contest1, year, problems)}"
+            f"\n### {year} 1ª Fase\n\n{list_contest(contest1, year, problems)}\n"
             if year in contest1
             else ""
         )
         sections.append(
-            f"\n## {year}\n{phase1}\n\n### 2ª Fase\n\n"
+            f"## {year}\n{phase1}\n\n### {year} 2ª Fase\n\n"
             f"{list_contest(contest2, year, problems)}\n       "
         )
     content = "\n".join(sections)
