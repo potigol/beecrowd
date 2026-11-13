@@ -37,11 +37,23 @@
          <lastmod>2026-11-13</lastmod>
     </url>
     <url>
+         <loc>https://potigol.github.io/beecrowd/categorias/sql/</loc>
+         <lastmod>2026-11-13</lastmod>
+    </url>
+    <url>
          <loc>https://potigol.github.io/beecrowd/categorias/strings/</loc>
          <lastmod>2026-11-13</lastmod>
     </url>
     <url>
          <loc>https://potigol.github.io/beecrowd/competicoes/</loc>
+         <lastmod>2026-11-13</lastmod>
+    </url>
+    <url>
+         <loc>https://potigol.github.io/beecrowd/competicoes/fasezero/</loc>
+         <lastmod>2026-11-13</lastmod>
+    </url>
+    <url>
+         <loc>https://potigol.github.io/beecrowd/competicoes/fasezero/adhoc/</loc>
          <lastmod>2026-11-13</lastmod>
     </url>
     <url>
@@ -113,83 +125,43 @@
          <lastmod>2026-11-13</lastmod>
     </url>
     <url>
-         <loc>https://potigol.github.io/beecrowd/competicoes/obi/strings/</loc>
+         <loc>https://potigol.github.io/beecrowd/competicoes/olip/</loc>
+         <lastmod>2026-11-13</lastmod>
+    </url>
+    <url>
+         <loc>https://potigol.github.io/beecrowd/competicoes/olip/adhoc/</loc>
+         <lastmod>2026-11-13</lastmod>
+    </url>
+    <url>
+         <loc>https://potigol.github.io/beecrowd/competicoes/olip/estruturasebibliotecas/</loc>
+         <lastmod>2026-11-13</lastmod>
+    </url>
+    <url>
+         <loc>https://potigol.github.io/beecrowd/competicoes/olip/geometriacomputacional/</loc>
+         <lastmod>2026-11-13</lastmod>
+    </url>
+    <url>
+         <loc>https://potigol.github.io/beecrowd/competicoes/olip/grafos/</loc>
+         <lastmod>2026-11-13</lastmod>
+    </url>
+    <url>
+         <loc>https://potigol.github.io/beecrowd/competicoes/olip/iniciante/</loc>
+         <lastmod>2026-11-13</lastmod>
+    </url>
+    <url>
+         <loc>https://potigol.github.io/beecrowd/competicoes/olip/matem%C3%A1tica/</loc>
+         <lastmod>2026-11-13</lastmod>
+    </url>
+    <url>
+         <loc>https://potigol.github.io/beecrowd/competicoes/olip/paradigmas/</loc>
+         <lastmod>2026-11-13</lastmod>
+    </url>
+    <url>
+         <loc>https://potigol.github.io/beecrowd/competicoes/olip/strings/</loc>
          <lastmod>2026-11-13</lastmod>
     </url>
     <url>
          <loc>https://potigol.github.io/beecrowd/competicoes/outras/</loc>
-         <lastmod>2026-11-13</lastmod>
-    </url>
-    <url>
-         <loc>https://potigol.github.io/beecrowd/competicoes/outras/fasezero/</loc>
-         <lastmod>2026-11-13</lastmod>
-    </url>
-    <url>
-         <loc>https://potigol.github.io/beecrowd/competicoes/outras/fasezero/adhoc/</loc>
-         <lastmod>2026-11-13</lastmod>
-    </url>
-    <url>
-         <loc>https://potigol.github.io/beecrowd/competicoes/outras/fasezero/estruturasebibliotecas/</loc>
-         <lastmod>2026-11-13</lastmod>
-    </url>
-    <url>
-         <loc>https://potigol.github.io/beecrowd/competicoes/outras/fasezero/geometriacomputacional/</loc>
-         <lastmod>2026-11-13</lastmod>
-    </url>
-    <url>
-         <loc>https://potigol.github.io/beecrowd/competicoes/outras/fasezero/grafos/</loc>
-         <lastmod>2026-11-13</lastmod>
-    </url>
-    <url>
-         <loc>https://potigol.github.io/beecrowd/competicoes/outras/fasezero/iniciante/</loc>
-         <lastmod>2026-11-13</lastmod>
-    </url>
-    <url>
-         <loc>https://potigol.github.io/beecrowd/competicoes/outras/fasezero/matem%C3%A1tica/</loc>
-         <lastmod>2026-11-13</lastmod>
-    </url>
-    <url>
-         <loc>https://potigol.github.io/beecrowd/competicoes/outras/fasezero/paradigmas/</loc>
-         <lastmod>2026-11-13</lastmod>
-    </url>
-    <url>
-         <loc>https://potigol.github.io/beecrowd/competicoes/outras/fasezero/strings/</loc>
-         <lastmod>2026-11-13</lastmod>
-    </url>
-    <url>
-         <loc>https://potigol.github.io/beecrowd/competicoes/outras/olip/</loc>
-         <lastmod>2026-11-13</lastmod>
-    </url>
-    <url>
-         <loc>https://potigol.github.io/beecrowd/competicoes/outras/olip/adhoc/</loc>
-         <lastmod>2026-11-13</lastmod>
-    </url>
-    <url>
-         <loc>https://potigol.github.io/beecrowd/competicoes/outras/olip/estruturasebibliotecas/</loc>
-         <lastmod>2026-11-13</lastmod>
-    </url>
-    <url>
-         <loc>https://potigol.github.io/beecrowd/competicoes/outras/olip/geometriacomputacional/</loc>
-         <lastmod>2026-11-13</lastmod>
-    </url>
-    <url>
-         <loc>https://potigol.github.io/beecrowd/competicoes/outras/olip/grafos/</loc>
-         <lastmod>2026-11-13</lastmod>
-    </url>
-    <url>
-         <loc>https://potigol.github.io/beecrowd/competicoes/outras/olip/iniciante/</loc>
-         <lastmod>2026-11-13</lastmod>
-    </url>
-    <url>
-         <loc>https://potigol.github.io/beecrowd/competicoes/outras/olip/matem%C3%A1tica/</loc>
-         <lastmod>2026-11-13</lastmod>
-    </url>
-    <url>
-         <loc>https://potigol.github.io/beecrowd/competicoes/outras/olip/paradigmas/</loc>
-         <lastmod>2026-11-13</lastmod>
-    </url>
-    <url>
-         <loc>https://potigol.github.io/beecrowd/competicoes/outras/olip/strings/</loc>
          <lastmod>2026-11-13</lastmod>
     </url>
     <url>
