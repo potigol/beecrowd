@@ -31,3 +31,4 @@ node_modules/*
 /site/*
 /__pycache__/
 
+docs/categorias/sql.md

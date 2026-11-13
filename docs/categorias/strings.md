@@ -159,6 +159,6 @@
 - [ ] [3310](https://resources.beecrowd.com/repository/UOJ_3310.html) - Gravity Boy
 - [ ] [3347](https://resources.beecrowd.com/repository/UOJ_3347.html) - Ancestralidade
 - [ ] [3353](https://resources.beecrowd.com/repository/UOJ_3353.html) - Araucárias e a Gralha Azul de Três Olhos
-- [ ] [3504](https://resources.beecrowd.com/repository/UOJ_3504.html) - Frase palíndromo
-- [ ] [3508](https://resources.beecrowd.com/repository/UOJ_3508.html) - Números binários
-- [ ] [3532](https://resources.beecrowd.com/repository/UOJ_3532.html) - O H da Luana
+- [ ] [3504](https://judge.beecrowd.com/pt/problems/fullscreen/3504) - Frase palíndromo
+- [ ] [3508](https://judge.beecrowd.com/pt/problems/fullscreen/3508) - Números binários
+- [ ] [3532](https://judge.beecrowd.com/pt/problems/fullscreen/3532) - O H da Luana

@@ -1,9 +1,8 @@
-# Grafos (2 / 17)
+# Grafos (1 / 15)
 
 ## Problemas resolvidos
 
 - [x] [2428](https://resources.beecrowd.com/repository/UOJ_2428.html) - [Capital](https://potigol.github.io/beecrowd/problemas/2400/#2428-capital)
-- [x] [3043](https://resources.beecrowd.com/repository/UOJ_3043.html) - [Festa Junina](https://potigol.github.io/beecrowd/problemas/3000/#3043-festa-junina)
 
 ## Problemas não resolvidos
 
@@ -19,6 +18,5 @@
 - [ ] [2440](https://resources.beecrowd.com/repository/UOJ_2440.html) - Famílias de Troia
 - [ ] [2781](https://resources.beecrowd.com/repository/UOJ_2781.html) - Câmara de Compensação
 - [ ] [2784](https://resources.beecrowd.com/repository/UOJ_2784.html) - Ilhas
-- [ ] [3044](https://resources.beecrowd.com/repository/UOJ_3044.html) - Manutenção
 - [ ] [3061](https://resources.beecrowd.com/repository/UOJ_3061.html) - Manchas de Pele
 - [ ] [3067](https://resources.beecrowd.com/repository/UOJ_3067.html) - Dominó

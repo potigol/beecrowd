@@ -11,38 +11,39 @@
 [Grafos](grafos.md) -
 [Geometria Computacional](geometriacomputacional.md)
 
+
 ## 2025
 
-- [ ] [4093](https://resources.beecrowd.com/repository/UOJ_4093.html) - Ambíguo Gato de Schrödinger
-- [ ] [4094](https://resources.beecrowd.com/repository/UOJ_4094.html) - Busca Periódica
-- [ ] [4095](https://resources.beecrowd.com/repository/UOJ_4095.html) - Circuitos Lógicos Matriciais
-- [ ] [4096](https://resources.beecrowd.com/repository/UOJ_4096.html) - Decoerência Quântica
-- [ ] [4097](https://resources.beecrowd.com/repository/UOJ_4097.html) - Energização de Partículas
-- [ ] [4098](https://resources.beecrowd.com/repository/UOJ_4098.html) - Feynman Decorando Números
-- [ ] [4099](https://resources.beecrowd.com/repository/UOJ_4099.html) - Grover e Seus Caminhos Especiais
-- [ ] [4100](https://resources.beecrowd.com/repository/UOJ_4100.html) - Harmonia Palíndromica Binária
-- [ ] [4101](https://resources.beecrowd.com/repository/UOJ_4101.html) - Inspecionando o Emaranhamento
-- [ ] [4102](https://resources.beecrowd.com/repository/UOJ_4102.html) - Jornada das Partículas
-- [ ] [4103](https://resources.beecrowd.com/repository/UOJ_4103.html) - K Elementos Perdidos
-- [ ] [4104](https://resources.beecrowd.com/repository/UOJ_4104.html) - Linha de Produção de qPhones
-- [ ] [4105](https://resources.beecrowd.com/repository/UOJ_4105.html) - Movimentação Assustadora à Distância
+- [ ] [sbc24f2h](https://resources.beecrowd.com/repository/UOJ_sbc24f2h.html) - Harmonia Palíndromica Binária
+- [ ] [sbc24f2i](https://resources.beecrowd.com/repository/UOJ_sbc24f2i.html) - Inspecionando o Emaranhamento
+- [ ] [sbc24f2j](https://resources.beecrowd.com/repository/UOJ_sbc24f2j.html) - Jornada das Partículas
+- [ ] [sbc24f2k](https://resources.beecrowd.com/repository/UOJ_sbc24f2k.html) - K Elementos Perdidos
+- [ ] [sbc24f2l](https://resources.beecrowd.com/repository/UOJ_sbc24f2l.html) - Linha de Produção de qPhones
+- [ ] [sbc25f0a](https://resources.beecrowd.com/repository/UOJ_sbc25f0a.html) - Ambíguo Gato de Schrödinger
+- [ ] [sbc25f0b](https://resources.beecrowd.com/repository/UOJ_sbc25f0b.html) - Busca Periódica
+- [ ] [sbc25f0c](https://resources.beecrowd.com/repository/UOJ_sbc25f0c.html) - Circuitos Lógicos Matriciais
+- [ ] [sbc25f0d](https://resources.beecrowd.com/repository/UOJ_sbc25f0d.html) - Decoerência Quântica
+- [ ] [sbc25f0e](https://resources.beecrowd.com/repository/UOJ_sbc25f0e.html) - Energização de Partículas
+- [ ] [sbc25f0f](https://resources.beecrowd.com/repository/UOJ_sbc25f0f.html) - Feynman Decorando Números
+- [ ] [sbc25f0g](https://resources.beecrowd.com/repository/UOJ_sbc25f0g.html) - Grover e Seus Caminhos Especiais
+- [ ] [sbc25f0m](https://resources.beecrowd.com/repository/UOJ_sbc25f0m.html) - Movimentação Assustadora à Distância
 
 ## 2024
 
-- [x] [4013](https://resources.beecrowd.com/repository/UOJ_4013.html) - [Alice e as Canções e Iara](https://potigol.github.io/beecrowd/problemas/4000/#4013-alice-e-as-cancoes-e-iara)
-- [ ] [4014](https://resources.beecrowd.com/repository/UOJ_4014.html) - Boto e as Festas
-- [ ] [4015](https://resources.beecrowd.com/repository/UOJ_4015.html) - Caboclo-d'Água e o Biscoito Confeitado
-- [x] [4016](https://resources.beecrowd.com/repository/UOJ_4016.html) - [Deus-serpente M'boi as Cataratas do Iguaçu](https://potigol.github.io/beecrowd/problemas/4000/#4016-deus-serpente-mboi-as-cataratas-do-iguacu)
-- [ ] [4017](https://resources.beecrowd.com/repository/UOJ_4017.html) - Esquecimento e o Mapa do Boitatá
-- [ ] [4018](https://resources.beecrowd.com/repository/UOJ_4018.html) - Folguedo do Boi de Mamão e o Apetite da Bernunça
-- [ ] [4019](https://resources.beecrowd.com/repository/UOJ_4019.html) - Gosto Pelo Tabacoe o Saci Pererê
-- [ ] [4020](https://resources.beecrowd.com/repository/UOJ_4020.html) - Homem do Saco e o Teorema de Bachgold
-- [ ] [4021](https://resources.beecrowd.com/repository/UOJ_4021.html) - Iracema e os Colares Especiais
-- [ ] [4022](https://resources.beecrowd.com/repository/UOJ_4022.html) - Jogos de Xaxdrez e a Mula sem Cabeça
-- [ ] [4023](https://resources.beecrowd.com/repository/UOJ_4023.html) - K-ésimo Fator Primoe o Desafio do Pai do Mato
-- [ ] [4024](https://resources.beecrowd.com/repository/UOJ_4024.html) - Lágrimas Irritantes e a tarefa da Cuca
-- [ ] [4025](https://resources.beecrowd.com/repository/UOJ_4025.html) - Matinta Pereira e um Prefeito Preguiçoso
-- [ ] [4026](https://resources.beecrowd.com/repository/UOJ_4026.html) - Negrinho do Pastoreio e a Segurança dos Currais
+- [x] [sbc24f0a](https://potigol.github.io/beecrowd/problemas/externos/zero/2024/#sbc24f0a-alice-e-as-cancoes-e-iara) - [Alice e as Canções e Iara](https://potigol.github.io/beecrowd/problemas/externos/zero/2024/#sbc24f0a-alice-e-as-cancoes-e-iara)
+- [ ] [sbc24f0b](https://resources.beecrowd.com/repository/UOJ_sbc24f0b.html) - Boto e as Festas
+- [ ] [sbc24f0c](https://resources.beecrowd.com/repository/UOJ_sbc24f0c.html) - Caboclo-d'Água e o Biscoito Confeitado
+- [x] [sbc24f0d](https://potigol.github.io/beecrowd/problemas/externos/zero/2024/#sbc24f0d-deus-serpente-mboi-as-cataratas-do-iguacu) - [Deus-serpente M'boi as Cataratas do Iguaçu](https://potigol.github.io/beecrowd/problemas/externos/zero/2024/#sbc24f0d-deus-serpente-mboi-as-cataratas-do-iguacu)
+- [ ] [sbc24f0e](https://resources.beecrowd.com/repository/UOJ_sbc24f0e.html) - Esquecimento e o Mapa do Boitatá
+- [ ] [sbc24f0f](https://resources.beecrowd.com/repository/UOJ_sbc24f0f.html) - Folguedo do Boi de Mamão e o Apetite da Bernunça
+- [ ] [sbc24f0g](https://resources.beecrowd.com/repository/UOJ_sbc24f0g.html) - Gosto Pelo Tabacoe o Saci Pererê
+- [ ] [sbc24f0h](https://resources.beecrowd.com/repository/UOJ_sbc24f0h.html) - Homem do Saco e o Teorema de Bachgold
+- [ ] [sbc24f0i](https://resources.beecrowd.com/repository/UOJ_sbc24f0i.html) - Iracema e os Colares Especiais
+- [ ] [sbc24f0j](https://resources.beecrowd.com/repository/UOJ_sbc24f0j.html) - Jogos de Xaxdrez e a Mula sem Cabeça
+- [ ] [sbc24f0k](https://resources.beecrowd.com/repository/UOJ_sbc24f0k.html) - K-ésimo Fator Primoe o Desafio do Pai do Mato
+- [ ] [sbc24f0l](https://resources.beecrowd.com/repository/UOJ_sbc24f0l.html) - Lágrimas Irritantes e a tarefa da Cuca
+- [ ] [sbc24f0m](https://resources.beecrowd.com/repository/UOJ_sbc24f0m.html) - Matinta Pereira e um Prefeito Preguiçoso
+- [ ] [sbc24f0n](https://resources.beecrowd.com/repository/UOJ_sbc24f0n.html) - Negrinho do Pastoreio e a Segurança dos Currais
 
 ## 2023
 

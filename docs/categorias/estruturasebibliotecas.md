@@ -186,6 +186,6 @@
 - [ ] [3239](https://resources.beecrowd.com/repository/UOJ_3239.html) - Dirty Driving
 - [ ] [3248](https://resources.beecrowd.com/repository/UOJ_3248.html) - Mega Inversões
 - [ ] [3484](https://resources.beecrowd.com/repository/UOJ_3484.html) - Turma Dividida
-- [ ] [3498](https://resources.beecrowd.com/repository/UOJ_3498.html) - Pares especiais
-- [ ] [3509](https://resources.beecrowd.com/repository/UOJ_3509.html) - Canos conectados
-- [ ] [3510](https://resources.beecrowd.com/repository/UOJ_3510.html) - Sequência Válida
+- [ ] [3498](https://judge.beecrowd.com/pt/problems/fullscreen/3498) - Pares especiais
+- [ ] [3509](https://judge.beecrowd.com/pt/problems/fullscreen/3509) - Canos conectados
+- [ ] [3510](https://judge.beecrowd.com/pt/problems/fullscreen/3510) - Sequência Válida

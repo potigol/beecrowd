@@ -28292,7 +28292,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2014
+        "year": 2014,
+        "stage": "2",
+        "turn": null,
+        "levels": [
+          "1"
+        ]
       }
     ]
   },
@@ -28323,7 +28328,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2014
+        "year": 2014,
+        "stage": "1",
+        "turn": null,
+        "levels": [
+          "1"
+        ]
       }
     ]
   },
@@ -28354,7 +28364,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2013
+        "year": 2013,
+        "stage": "1",
+        "turn": null,
+        "levels": [
+          "Júnior"
+        ]
       }
     ]
   },
@@ -36123,7 +36138,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2000
+        "year": 2000,
+        "stage": "Única",
+        "turn": null,
+        "levels": [
+          "Não especificado"
+        ]
       }
     ]
   },
@@ -36154,7 +36174,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2000
+        "year": 2000,
+        "stage": "Única",
+        "turn": null,
+        "levels": [
+          "Não especificado"
+        ]
       }
     ]
   },
@@ -36185,7 +36210,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2000
+        "year": 2000,
+        "stage": "Única",
+        "turn": null,
+        "levels": [
+          "Não especificado"
+        ]
       }
     ]
   },
@@ -36216,7 +36246,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2000
+        "year": 2000,
+        "stage": "Única",
+        "turn": null,
+        "levels": [
+          "Não especificado"
+        ]
       }
     ]
   },
@@ -36247,7 +36282,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2000
+        "year": 2000,
+        "stage": "Única",
+        "turn": null,
+        "levels": [
+          "Não especificado"
+        ]
       }
     ]
   },
@@ -37304,7 +37344,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2002
+        "year": 2002,
+        "stage": "Única",
+        "turn": null,
+        "levels": [
+          "Não especificado"
+        ]
       }
     ]
   },
@@ -37335,7 +37380,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2002
+        "year": 2002,
+        "stage": "Única",
+        "turn": null,
+        "levels": [
+          "Não especificado"
+        ]
       }
     ]
   },
@@ -37366,7 +37416,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2002
+        "year": 2002,
+        "stage": "Única",
+        "turn": null,
+        "levels": [
+          "Não especificado"
+        ]
       }
     ]
   },
@@ -37397,7 +37452,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2002
+        "year": 2002,
+        "stage": "Única",
+        "turn": null,
+        "levels": [
+          "Não especificado"
+        ]
       }
     ]
   },
@@ -37428,7 +37488,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2002
+        "year": 2002,
+        "stage": "Única",
+        "turn": null,
+        "levels": [
+          "Não especificado"
+        ]
       }
     ]
   },
@@ -37937,7 +38002,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2003
+        "year": 2003,
+        "stage": "Única",
+        "turn": null,
+        "levels": [
+          "Não especificado"
+        ]
       }
     ]
   },
@@ -37968,7 +38038,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2003
+        "year": 2003,
+        "stage": "Única",
+        "turn": null,
+        "levels": [
+          "Não especificado"
+        ]
       }
     ]
   },
@@ -37999,7 +38074,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2003
+        "year": 2003,
+        "stage": "Única",
+        "turn": null,
+        "levels": [
+          "Não especificado"
+        ]
       }
     ]
   },
@@ -38030,7 +38110,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2003
+        "year": 2003,
+        "stage": "Única",
+        "turn": null,
+        "levels": [
+          "Não especificado"
+        ]
       }
     ]
   },
@@ -38061,7 +38146,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2003
+        "year": 2003,
+        "stage": "Única",
+        "turn": null,
+        "levels": [
+          "Não especificado"
+        ]
       }
     ]
   },
@@ -38986,7 +39076,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2004
+        "year": 2004,
+        "stage": "Única",
+        "turn": null,
+        "levels": [
+          "Não especificado"
+        ]
       }
     ]
   },
@@ -39017,7 +39112,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2004
+        "year": 2004,
+        "stage": "Única",
+        "turn": null,
+        "levels": [
+          "Não especificado"
+        ]
       }
     ]
   },
@@ -39048,7 +39148,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2004
+        "year": 2004,
+        "stage": "Única",
+        "turn": null,
+        "levels": [
+          "Não especificado"
+        ]
       }
     ]
   },
@@ -39079,7 +39184,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2004
+        "year": 2004,
+        "stage": "Única",
+        "turn": null,
+        "levels": [
+          "Não especificado"
+        ]
       }
     ]
   },
@@ -39230,7 +39340,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2005
+        "year": 2005,
+        "stage": "Única",
+        "turn": null,
+        "levels": [
+          "1"
+        ]
       }
     ]
   },
@@ -39261,7 +39376,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2005
+        "year": 2005,
+        "stage": "Única",
+        "turn": null,
+        "levels": [
+          "1"
+        ]
       }
     ]
   },
@@ -39292,7 +39412,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2005
+        "year": 2005,
+        "stage": "Única",
+        "turn": null,
+        "levels": [
+          "1"
+        ]
       }
     ]
   },
@@ -39323,7 +39448,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2005
+        "year": 2005,
+        "stage": "Única",
+        "turn": null,
+        "levels": [
+          "1"
+        ]
       }
     ]
   },
@@ -39354,7 +39484,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2005
+        "year": 2005,
+        "stage": "Única",
+        "turn": null,
+        "levels": [
+          "2"
+        ]
       }
     ]
   },
@@ -39385,7 +39520,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2005
+        "year": 2005,
+        "stage": "Única",
+        "turn": null,
+        "levels": [
+          "2"
+        ]
       }
     ]
   },
@@ -39416,7 +39556,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2005
+        "year": 2005,
+        "stage": "Única",
+        "turn": null,
+        "levels": [
+          "2"
+        ]
       }
     ]
   },
@@ -39447,7 +39592,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2005
+        "year": 2005,
+        "stage": "Única",
+        "turn": null,
+        "levels": [
+          "2"
+        ]
       }
     ]
   },
@@ -39478,7 +39628,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2005
+        "year": 2005,
+        "stage": "Única",
+        "turn": null,
+        "levels": [
+          "2"
+        ]
       }
     ]
   },
@@ -39509,7 +39664,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2006
+        "year": 2006,
+        "stage": "1",
+        "turn": null,
+        "levels": [
+          "1"
+        ]
       }
     ]
   },
@@ -39540,7 +39700,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2006
+        "year": 2006,
+        "stage": "1",
+        "turn": null,
+        "levels": [
+          "1"
+        ]
       }
     ]
   },
@@ -39571,7 +39736,13 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2006
+        "year": 2006,
+        "stage": "1",
+        "turn": null,
+        "levels": [
+          "1"
+        ]
+
       }
     ]
   },
@@ -39602,7 +39773,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2006
+        "year": 2006,
+        "stage": "1",
+        "turn": null,
+        "levels": [
+          "2"
+        ]
       }
     ]
   },
@@ -39633,7 +39809,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2006
+        "year": 2006,
+        "stage": "1",
+        "turn": null,
+        "levels": [
+          "2"
+        ]
       }
     ]
   },
@@ -39664,7 +39845,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2006
+        "year": 2006,
+        "stage": "1",
+        "turn": null,
+        "levels": [
+          "2"
+        ]
       }
     ]
   },
@@ -39695,7 +39881,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2006
+        "year": 2006,
+        "stage": "1",
+        "turn": null,
+        "levels": [
+          "2"
+        ]
       }
     ]
   },
@@ -39726,7 +39917,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2006
+        "year": 2006,
+        "stage": "1",
+        "turn": null,
+        "levels": [
+          "2"
+        ]
       }
     ]
   },
@@ -39937,7 +40133,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2006
+        "year": 2006,
+        "stage": "2",
+        "turn": null,
+        "levels": [
+          "1"
+        ]
       }
     ]
   },
@@ -39968,7 +40169,13 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2006
+        "year": 2006,
+        "stage": "2",
+        "turn": null,
+        "levels": [
+          "1",
+          "2"
+        ]
       }
     ]
   },
@@ -39999,7 +40206,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2006
+        "year": 2006,
+        "stage": "2",
+        "turn": null,
+        "levels": [
+          "1"
+        ]
       }
     ]
   },
@@ -40030,7 +40242,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2006
+        "year": 2006,
+        "stage": "2",
+        "turn": null,
+        "levels": [
+          "2"
+        ]
       }
     ]
   },
@@ -40061,7 +40278,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2006
+        "year": 2006,
+        "stage": "2",
+        "turn": null,
+        "levels": [
+          "2"
+        ]
       }
     ]
   },
@@ -40092,7 +40314,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2007
+        "year": 2007,
+        "stage": "1",
+        "turn": null,
+        "levels": [
+          "1"
+        ]
       }
     ]
   },
@@ -40123,7 +40350,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2007
+        "year": 2007,
+        "stage": "1",
+        "turn": null,
+        "levels": [
+          "1"
+        ]
       }
     ]
   },
@@ -40154,7 +40386,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2007
+        "year": 2007,
+        "stage": "1",
+        "turn": null,
+        "levels": [
+          "2"
+        ]
       }
     ]
   },
@@ -40185,7 +40422,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2007
+        "year": 2007,
+        "stage": "1",
+        "turn": null,
+        "levels": [
+          "2"
+        ]
       }
     ]
   },
@@ -40216,7 +40458,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2007
+        "year": 2007,
+        "stage": "1",
+        "turn": null,
+        "levels": [
+          "2"
+        ]
       }
     ]
   },
@@ -40247,7 +40494,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2007
+        "year": 2007,
+        "stage": "1",
+        "turn": null,
+        "levels": [
+          "2"
+        ]
       }
     ]
   },
@@ -40278,7 +40530,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2007
+        "year": 2007,
+        "stage": "1",
+        "turn": null,
+        "levels": [
+          "1"
+        ]
       }
     ]
   },
@@ -40309,7 +40566,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2007
+        "year": 2007,
+        "stage": "1",
+        "turn": null,
+        "levels": [
+          "2"
+        ]
       }
     ]
   },
@@ -40340,7 +40602,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2007
+        "year": 2007,
+        "stage": "2",
+        "turn": null,
+        "levels": [
+          "1"
+        ]
       }
     ]
   },
@@ -40371,7 +40638,13 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2007
+        "year": 2007,
+        "stage": "2",
+        "turn": null,
+        "levels": [
+          "1",
+          "2"
+        ]
       }
     ]
   },
@@ -40402,7 +40675,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2007
+        "year": 2007,
+        "stage": "2",
+        "turn": null,
+        "levels": [
+          "1"
+        ]
       }
     ]
   },
@@ -40433,7 +40711,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2007
+        "year": 2007,
+        "stage": "2",
+        "turn": null,
+        "levels": [
+          "2"
+        ]
       }
     ]
   },
@@ -40464,7 +40747,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2007
+        "year": 2007,
+        "stage": "2",
+        "turn": null,
+        "levels": [
+          "2"
+        ]
       }
     ]
   },
@@ -40645,7 +40933,13 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2009
+        "year": 2009,
+        "stage": "1",
+        "turn": null,
+        "levels": [
+          "Júnior",
+          "1"
+        ]
       }
     ]
   },
@@ -40676,7 +40970,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2009
+        "year": 2009,
+        "stage": "1",
+        "turn": null,
+        "levels": [
+          "1"
+        ]
       }
     ]
   },
@@ -40707,7 +41006,13 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2009
+        "year": 2009,
+        "stage": "1",
+        "turn": null,
+        "levels": [
+          "Júnior",
+          "1"
+        ]
       }
     ]
   },
@@ -40738,7 +41043,13 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2009
+        "year": 2009,
+        "stage": "1",
+        "turn": null,
+        "levels": [
+          "Júnior",
+          "1"
+        ]
       }
     ]
   },
@@ -40769,7 +41080,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2009
+        "year": 2009,
+        "stage": "1",
+        "turn": null,
+        "levels": [
+          "2"
+        ]
       }
     ]
   },
@@ -40800,7 +41116,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2009
+        "year": 2009,
+        "stage": "1",
+        "turn": null,
+        "levels": [
+          "2"
+        ]
       }
     ]
   },
@@ -41481,7 +41802,13 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2009
+        "year": 2009,
+        "stage": "2",
+        "turn": null,
+        "levels": [
+          "Júnior",
+          "1"
+        ]
       }
     ]
   },
@@ -41512,7 +41839,14 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2009
+        "year": 2009,
+        "stage": "2",
+        "turn": null,
+        "levels": [
+          "Júnior",
+          "1",
+          "2"
+        ]
       }
     ]
   },
@@ -41543,7 +41877,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2009
+        "year": 2009,
+        "stage": "2",
+        "turn": null,
+        "levels": [
+          "2"
+        ]
       }
     ]
   },
@@ -41574,7 +41913,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2010
+        "year": 2010,
+        "stage": "1",
+        "turn": null,
+        "levels": [
+          "1"
+        ]
       }
     ]
   },
@@ -41605,7 +41949,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2010
+        "year": 2010,
+        "stage": "1",
+        "turn": null,
+        "levels": [
+          "1"
+        ]
       }
     ]
   },
@@ -41636,7 +41985,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2010
+        "year": 2010,
+        "stage": "1",
+        "turn": null,
+        "levels": [
+          "2"
+        ]
       }
     ]
   },
@@ -41667,7 +42021,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2010
+        "year": 2010,
+        "stage": "1",
+        "turn": null,
+        "levels": [
+          "2"
+        ]
       }
     ]
   },
@@ -41698,7 +42057,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2010
+        "year": 2010,
+        "stage": "1",
+        "turn": null,
+        "levels": [
+          "Júnior"
+        ]
       }
     ]
   },
@@ -41729,7 +42093,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2010
+        "year": 2010,
+        "stage": "1",
+        "turn": null,
+        "levels": [
+          "Júnior"
+        ]
       }
     ]
   },
@@ -41760,7 +42129,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2010
+        "year": 2010,
+        "stage": "1",
+        "turn": null,
+        "levels": [
+          "Júnior"
+        ]
       }
     ]
   },
@@ -41791,7 +42165,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2010
+        "year": 2010,
+        "stage": "1",
+        "turn": null,
+        "levels": [
+          "1"
+        ]
       }
     ]
   },
@@ -41822,7 +42201,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2010
+        "year": 2010,
+        "stage": "1",
+        "turn": null,
+        "levels": [
+          "1"
+        ]
       }
     ]
   },
@@ -41853,7 +42237,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2010
+        "year": 2010,
+        "stage": "1",
+        "turn": null,
+        "levels": [
+          "2"
+        ]
       }
     ]
   },
@@ -41884,7 +42273,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2010
+        "year": 2010,
+        "stage": "2",
+        "turn": null,
+        "levels": [
+          "1"
+        ]
       }
     ]
   },
@@ -41915,7 +42309,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2010
+        "year": 2010,
+        "stage": "2",
+        "turn": null,
+        "levels": [
+          "1"
+        ]
       }
     ]
   },
@@ -41946,7 +42345,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2010
+        "year": 2010,
+        "stage": "2",
+        "turn": null,
+        "levels": [
+          "1"
+        ]
       }
     ]
   },
@@ -41977,7 +42381,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2010
+        "year": 2010,
+        "stage": "2",
+        "turn": null,
+        "levels": [
+          "1"
+        ]
       }
     ]
   },
@@ -42008,7 +42417,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2010
+        "year": 2010,
+        "stage": "2",
+        "turn": null,
+        "levels": [
+          "2"
+        ]
       }
     ]
   },
@@ -42039,7 +42453,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2010
+        "year": 2010,
+        "stage": "2",
+        "turn": null,
+        "levels": [
+          "2"
+        ]
       }
     ]
   },
@@ -42070,7 +42489,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2010
+        "year": 2010,
+        "stage": "2",
+        "turn": null,
+        "levels": [
+          "2"
+        ]
       }
     ]
   },
@@ -42101,7 +42525,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2010
+        "year": 2010,
+        "stage": "2",
+        "turn": null,
+        "levels": [
+          "2"
+        ]
       }
     ]
   },
@@ -42132,7 +42561,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2010
+        "year": 2010,
+        "stage": "2",
+        "turn": null,
+        "levels": [
+          "Júnior"
+        ]
       }
     ]
   },
@@ -42163,7 +42597,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2010
+        "year": 2010,
+        "stage": "2",
+        "turn": null,
+        "levels": [
+          "Júnior"
+        ]
       }
     ]
   },
@@ -42194,7 +42633,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2010
+        "year": 2010,
+        "stage": "2",
+        "turn": null,
+        "levels": [
+          "2"
+        ]
       }
     ]
   },
@@ -42225,7 +42669,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2010
+        "year": 2010,
+        "stage": "2",
+        "turn": null,
+        "levels": [
+          "Júnior"
+        ]
       }
     ]
   },
@@ -42256,7 +42705,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2011
+        "year": 2011,
+        "stage": "1",
+        "turn": null,
+        "levels": [
+          "1"
+        ]
       }
     ]
   },
@@ -42287,7 +42741,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2011
+        "year": 2011,
+        "stage": "1",
+        "turn": null,
+        "levels": [
+          "1"
+        ]
       }
     ]
   },
@@ -42318,7 +42777,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2011
+        "year": 2011,
+        "stage": "1",
+        "turn": null,
+        "levels": [
+          "2"
+        ]
       }
     ]
   },
@@ -42349,7 +42813,13 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2011
+        "year": 2011,
+        "stage": "1",
+        "turn": null,
+        "levels": [
+          "Júnior",
+          "1"
+        ]
       }
     ]
   },
@@ -42380,7 +42850,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2011
+        "year": 2011,
+        "stage": "1",
+        "turn": null,
+        "levels": [
+          "Júnior"
+        ]
       }
     ]
   },
@@ -42411,7 +42886,13 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2011
+        "year": 2011,
+        "stage": "1",
+        "turn": null,
+        "levels": [
+          "Júnior",
+          "1"
+        ]
       }
     ]
   },
@@ -42442,7 +42923,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2011
+        "year": 2011,
+        "stage": "1",
+        "turn": null,
+        "levels": [
+          "1"
+        ]
       }
     ]
   },
@@ -42473,7 +42959,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2011
+        "year": 2011,
+        "stage": "1",
+        "turn": null,
+        "levels": [
+          "2"
+        ]
       }
     ]
   },
@@ -42504,7 +42995,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2011
+        "year": 2011,
+        "stage": "1",
+        "turn": null,
+        "levels": [
+          "Júnior"
+        ]
       }
     ]
   },
@@ -42535,7 +43031,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2011
+        "year": 2011,
+        "stage": "2",
+        "turn": null,
+        "levels": [
+          "1"
+        ]
       }
     ]
   },
@@ -42566,7 +43067,13 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2011
+        "year": 2011,
+        "stage": "2",
+        "turn": null,
+        "levels": [
+          "Júnior",
+          "1"
+        ]
       }
     ]
   },
@@ -42597,7 +43104,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2011
+        "year": 2011,
+        "stage": "2",
+        "turn": null,
+        "levels": [
+          "1"
+        ]
       }
     ]
   },
@@ -42628,7 +43140,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2011
+        "year": 2011,
+        "stage": "2",
+        "turn": null,
+        "levels": [
+          "2"
+        ]
       }
     ]
   },
@@ -42659,7 +43176,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2011
+        "year": 2011,
+        "stage": "2",
+        "turn": null,
+        "levels": [
+          "2"
+        ]
       }
     ]
   },
@@ -42690,7 +43212,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2011
+        "year": 2011,
+        "stage": "2",
+        "turn": null,
+        "levels": [
+          "1"
+        ]
       }
     ]
   },
@@ -42721,7 +43248,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2011
+        "year": 2011,
+        "stage": "2",
+        "turn": null,
+        "levels": [
+          "2"
+        ]
       }
     ]
   },
@@ -42752,7 +43284,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2011
+        "year": 2011,
+        "stage": "2",
+        "turn": null,
+        "levels": [
+          "2"
+        ]
       }
     ]
   },
@@ -42783,7 +43320,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2012
+        "year": 2012,
+        "stage": "1",
+        "turn": null,
+        "levels": [
+          "1"
+        ]
       }
     ]
   },
@@ -42814,7 +43356,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2012
+        "year": 2012,
+        "stage": "1",
+        "turn": null,
+        "levels": [
+          "2"
+        ]
       }
     ]
   },
@@ -42845,7 +43392,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2012
+        "year": 2012,
+        "stage": "1",
+        "turn": null,
+        "levels": [
+          "2"
+        ]
       }
     ]
   },
@@ -42876,7 +43428,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2012
+        "year": 2012,
+        "stage": "1",
+        "turn": null,
+        "levels": [
+          "2"
+        ]
       }
     ]
   },
@@ -42907,7 +43464,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2012
+        "year": 2012,
+        "stage": "1",
+        "turn": null,
+        "levels": [
+          "2"
+        ]
       }
     ]
   },
@@ -42938,7 +43500,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2012
+        "year": 2012,
+        "stage": "1",
+        "turn": null,
+        "levels": [
+          "Júnior"
+        ]
       }
     ]
   },
@@ -42969,7 +43536,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2012
+        "year": 2012,
+        "stage": "1",
+        "turn": null,
+        "levels": [
+          "Júnior"
+        ]
       }
     ]
   },
@@ -43000,7 +43572,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2012
+        "year": 2012,
+        "stage": "1",
+        "turn": null,
+        "levels": [
+          "1"
+        ]
       }
     ]
   },
@@ -43031,7 +43608,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2012
+        "year": 2012,
+        "stage": "1",
+        "turn": null,
+        "levels": [
+          "1"
+        ]
       }
     ]
   },
@@ -43062,7 +43644,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2012
+        "year": 2012,
+        "stage": "1",
+        "turn": null,
+        "levels": [
+          "Júnior"
+        ]
       }
     ]
   },
@@ -43093,7 +43680,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2012
+        "year": 2012,
+        "stage": "2",
+        "turn": null,
+        "levels": [
+          "1"
+        ]
       }
     ]
   },
@@ -43124,7 +43716,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2012
+        "year": 2012,
+        "stage": "2",
+        "turn": null,
+        "levels": [
+          "1"
+        ]
       }
     ]
   },
@@ -43155,7 +43752,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2012
+        "year": 2012,
+        "stage": "2",
+        "turn": null,
+        "levels": [
+          "1"
+        ]
       }
     ]
   },
@@ -43186,7 +43788,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2012
+        "year": 2012,
+        "stage": "2",
+        "turn": null,
+        "levels": [
+          "2"
+        ]
       }
     ]
   },
@@ -43217,7 +43824,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2012
+        "year": 2012,
+        "stage": "2",
+        "turn": null,
+        "levels": [
+          "2"
+        ]
       }
     ]
   },
@@ -43248,7 +43860,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2012
+        "year": 2012,
+        "stage": "2",
+        "turn": null,
+        "levels": [
+          "Júnior"
+        ]
       }
     ]
   },
@@ -43279,7 +43896,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2012
+        "year": 2012,
+        "stage": "2",
+        "turn": null,
+        "levels": [
+          "Júnior"
+        ]
       }
     ]
   },
@@ -43310,7 +43932,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2012
+        "year": 2012,
+        "stage": "2",
+        "turn": null,
+        "levels": [
+          "2"
+        ]
       }
     ]
   },
@@ -43341,7 +43968,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2012
+        "year": 2012,
+        "stage": "2",
+        "turn": null,
+        "levels": [
+          "2"
+        ]
       }
     ]
   },
@@ -43372,7 +44004,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2012
+        "year": 2012,
+        "stage": "2",
+        "turn": null,
+        "levels": [
+          "Júnior"
+        ]
       }
     ]
   },
@@ -43403,7 +44040,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2013
+        "year": 2013,
+        "stage": "1",
+        "turn": null,
+        "levels": [
+          "1"
+        ]
       }
     ]
   },
@@ -43434,7 +44076,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2013
+        "year": 2013,
+        "stage": "1",
+        "turn": null,
+        "levels": [
+          "1"
+        ]
       }
     ]
   },
@@ -43465,7 +44112,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2013
+        "year": 2013,
+        "stage": "1",
+        "turn": null,
+        "levels": [
+          "2"
+        ]
       }
     ]
   },
@@ -43496,7 +44148,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2013
+        "year": 2013,
+        "stage": "1",
+        "turn": null,
+        "levels": [
+          "2"
+        ]
       }
     ]
   },
@@ -43527,7 +44184,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2013
+        "year": 2013,
+        "stage": "1",
+        "turn": null,
+        "levels": [
+          "2"
+        ]
       }
     ]
   },
@@ -43558,7 +44220,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2013
+        "year": 2013,
+        "stage": "1",
+        "turn": null,
+        "levels": [
+          "2"
+        ]
       }
     ]
   },
@@ -43589,7 +44256,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2013
+        "year": 2013,
+        "stage": "1",
+        "turn": null,
+        "levels": [
+          "Júnior"
+        ]
       }
     ]
   },
@@ -43620,7 +44292,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2013
+        "year": 2013,
+        "stage": "1",
+        "turn": null,
+        "levels": [
+          "1"
+        ]
       }
     ]
   },
@@ -43651,7 +44328,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2013
+        "year": 2013,
+        "stage": "1",
+        "turn": null,
+        "levels": [
+          "1"
+        ]
       }
     ]
   },
@@ -43682,7 +44364,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2013
+        "year": 2013,
+        "stage": "2",
+        "turn": null,
+        "levels": [
+          "1"
+        ]
       }
     ]
   },
@@ -43713,7 +44400,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2013
+        "year": 2013,
+        "stage": "2",
+        "turn": null,
+        "levels": [
+          "1"
+        ]
       }
     ]
   },
@@ -43744,7 +44436,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2013
+        "year": 2013,
+        "stage": "2",
+        "turn": null,
+        "levels": [
+          "2"
+        ]
       }
     ]
   },
@@ -43775,7 +44472,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2013
+        "year": 2013,
+        "stage": "2",
+        "turn": null,
+        "levels": [
+          "2"
+        ]
       }
     ]
   },
@@ -43806,7 +44508,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2013
+        "year": 2013,
+        "stage": "2",
+        "turn": null,
+        "levels": [
+          "2"
+        ]
       }
     ]
   },
@@ -43837,7 +44544,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2013
+        "year": 2013,
+        "stage": "2",
+        "turn": null,
+        "levels": [
+          "Júnior"
+        ]
       }
     ]
   },
@@ -43868,7 +44580,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2013
+        "year": 2013,
+        "stage": "2",
+        "turn": null,
+        "levels": [
+          "Júnior"
+        ]
       }
     ]
   },
@@ -43899,7 +44616,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2013
+        "year": 2013,
+        "stage": "2",
+        "turn": null,
+        "levels": [
+          "Júnior"
+        ]
       }
     ]
   },
@@ -43930,7 +44652,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2013
+        "year": 2013,
+        "stage": "2",
+        "turn": null,
+        "levels": [
+          "1"
+        ]
       }
     ]
   },
@@ -43961,7 +44688,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2013
+        "year": 2013,
+        "stage": "2",
+        "turn": null,
+        "levels": [
+          "1"
+        ]
       }
     ]
   },
@@ -43992,7 +44724,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2013
+        "year": 2013,
+        "stage": "2",
+        "turn": null,
+        "levels": [
+          "2"
+        ]
       }
     ]
   },
@@ -44023,7 +44760,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2014
+        "year": 2014,
+        "stage": "1",
+        "turn": null,
+        "levels": [
+          "Sênior"
+        ]
       }
     ]
   },
@@ -44054,7 +44796,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2014
+        "year": 2014,
+        "stage": "1",
+        "turn": null,
+        "levels": [
+          "2"
+        ]
       }
     ]
   },
@@ -44085,7 +44832,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2014
+        "year": 2014,
+        "stage": "1",
+        "turn": null,
+        "levels": [
+          "2"
+        ]
       }
     ]
   },
@@ -44116,7 +44868,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2014
+        "year": 2014,
+        "stage": "1",
+        "turn": null,
+        "levels": [
+          "2"
+        ]
       }
     ]
   },
@@ -44147,7 +44904,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2014
+        "year": 2014,
+        "stage": "1",
+        "turn": null,
+        "levels": [
+          "1"
+        ]
       }
     ]
   },
@@ -44178,7 +44940,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2014
+        "year": 2014,
+        "stage": "1",
+        "turn": null,
+        "levels": [
+          "2"
+        ]
       }
     ]
   },
@@ -44209,7 +44976,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2014
+        "year": 2014,
+        "stage": "1",
+        "turn": null,
+        "levels": [
+          "Júnior"
+        ]
       }
     ]
   },
@@ -44240,7 +45012,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2014
+        "year": 2014,
+        "stage": "1",
+        "turn": null,
+        "levels": [
+          "Júnior"
+        ]
       }
     ]
   },
@@ -44271,7 +45048,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2014
+        "year": 2014,
+        "stage": "1",
+        "turn": null,
+        "levels": [
+          "Sênior"
+        ]
       }
     ]
   },
@@ -44302,7 +45084,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2014
+        "year": 2014,
+        "stage": "1",
+        "turn": null,
+        "levels": [
+          "1"
+        ]
       }
     ]
   },
@@ -44333,7 +45120,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2014
+        "year": 2014,
+        "stage": "1",
+        "turn": null,
+        "levels": [
+          "1"
+        ]
       }
     ]
   },
@@ -44364,7 +45156,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2014
+        "year": 2014,
+        "stage": "1",
+        "turn": null,
+        "levels": [
+          "2"
+        ]
       }
     ]
   },
@@ -44395,7 +45192,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2014
+        "year": 2014,
+        "stage": "1",
+        "turn": null,
+        "levels": [
+          "Júnior"
+        ]
       }
     ]
   },
@@ -44426,7 +45228,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2014
+        "year": 2014,
+        "stage": "2",
+        "turn": null,
+        "levels": [
+          "2"
+        ]
       }
     ]
   },
@@ -44457,7 +45264,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2014
+        "year": 2014,
+        "stage": "2",
+        "turn": null,
+        "levels": [
+          "Sênior"
+        ]
       }
     ]
   },
@@ -44488,7 +45300,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2014
+        "year": 2014,
+        "stage": "2",
+        "turn": null,
+        "levels": [
+          "1"
+        ]
       }
     ]
   },
@@ -44519,7 +45336,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2014
+        "year": 2014,
+        "stage": "2",
+        "turn": null,
+        "levels": [
+          "1"
+        ]
       }
     ]
   },
@@ -44550,7 +45372,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2014
+        "year": 2014,
+        "stage": "2",
+        "turn": null,
+        "levels": [
+          "Júnior"
+        ]
       }
     ]
   },
@@ -44581,7 +45408,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2014
+        "year": 2014,
+        "stage": "2",
+        "turn": null,
+        "levels": [
+          "Júnior"
+        ]
       }
     ]
   },
@@ -44612,7 +45444,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2014
+        "year": 2014,
+        "stage": "2",
+        "turn": null,
+        "levels": [
+          "2"
+        ]
       }
     ]
   },
@@ -44643,7 +45480,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2014
+        "year": 2014,
+        "stage": "2",
+        "turn": null,
+        "levels": [
+          "2"
+        ]
       }
     ]
   },
@@ -44674,7 +45516,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2014
+        "year": 2014,
+        "stage": "2",
+        "turn": null,
+        "levels": [
+          "2"
+        ]
       }
     ]
   },
@@ -44705,7 +45552,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2014
+        "year": 2014,
+        "stage": "2",
+        "turn": null,
+        "levels": [
+          "1"
+        ]
       }
     ]
   },
@@ -44736,7 +45588,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2014
+        "year": 2014,
+        "stage": "2",
+        "turn": null,
+        "levels": [
+          "1"
+        ]
       }
     ]
   },
@@ -44767,7 +45624,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2014
+        "year": 2014,
+        "stage": "2",
+        "turn": null,
+        "levels": [
+          "2"
+        ]
       }
     ]
   },
@@ -44798,7 +45660,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2014
+        "year": 2014,
+        "stage": "2",
+        "turn": null,
+        "levels": [
+          "Júnior"
+        ]
       }
     ]
   },
@@ -53951,7 +54818,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2018
+        "year": 2018,
+        "stage": "1",
+        "turn": null,
+        "levels": [
+          "Júnior"
+        ]
       }
     ]
   },
@@ -53982,7 +54854,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2018
+        "year": 2018,
+        "stage": "1",
+        "turn": null,
+        "levels": [
+          "Júnior"
+        ]
       }
     ]
   },
@@ -54013,7 +54890,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2018
+        "year": 2018,
+        "stage": "1",
+        "turn": null,
+        "levels": [
+          "2"
+        ]
       }
     ]
   },
@@ -54044,7 +54926,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2018
+        "year": 2018,
+        "stage": "1",
+        "turn": null,
+        "levels": [
+          "1"
+        ]
       }
     ]
   },
@@ -54075,7 +54962,13 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2018
+        "year": 2018,
+        "stage": "1",
+        "turn": null,
+        "levels": [
+          "2",
+          "Sênior"
+        ]
       }
     ]
   },
@@ -54106,7 +54999,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2018
+        "year": 2018,
+        "stage": "1",
+        "turn": null,
+        "levels": [
+          "Sênior"
+        ]
       }
     ]
   },
@@ -54137,7 +55035,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2018
+        "year": 2018,
+        "stage": "1",
+        "turn": null,
+        "levels": [
+          "1"
+        ]
       }
     ]
   },
@@ -54168,7 +55071,13 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2018
+        "year": 2018,
+        "stage": "1",
+        "turn": null,
+        "levels": [
+          "2",
+          "Sênior"
+        ]
       }
     ]
   },
@@ -54199,7 +55108,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2018
+        "year": 2018,
+        "stage": "1",
+        "turn": null,
+        "levels": [
+          "1"
+        ]
       }
     ]
   },
@@ -55490,7 +56404,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2018
+        "year": 2018,
+        "stage": "2",
+        "turn": null,
+        "levels": [
+          "Júnior"
+        ]
       }
     ]
   },
@@ -55509,7 +56428,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2018
+        "year": 2018,
+        "stage": "2",
+        "turn": null,
+        "levels": [
+          "Júnior"
+        ]
       }
     ]
   },
@@ -55540,7 +56464,13 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2018
+        "year": 2018,
+        "stage": "2",
+        "turn": null,
+        "levels": [
+          "Júnior",
+          "1"
+        ]
       }
     ]
   },
@@ -55571,7 +56501,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2018
+        "year": 2018,
+        "stage": "2",
+        "turn": null,
+        "levels": [
+          "1"
+        ]
       }
     ]
   },
@@ -55602,7 +56537,13 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2018
+        "year": 2018,
+        "stage": "2",
+        "turn": null,
+        "levels": [
+          "2",
+          "Sênior"
+        ]
       }
     ]
   },
@@ -55633,7 +56574,13 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2018
+        "year": 2018,
+        "stage": "2",
+        "turn": null,
+        "levels": [
+          "2",
+          "Sênior"
+        ]
       }
     ]
   },
@@ -55664,7 +56611,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2018
+        "year": 2018,
+        "stage": "2",
+        "turn": null,
+        "levels": [
+          "2"
+        ]
       }
     ]
   },
@@ -55695,7 +56647,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2018
+        "year": 2018,
+        "stage": "2",
+        "turn": null,
+        "levels": [
+          "Sênior"
+        ]
       }
     ]
   },
@@ -62005,9 +62962,8 @@
     ],
     "origins": [
       {
-        "type": "competition",
-        "name": "OBI",
-        "year": 2003
+        "type": "platform",
+        "name": "Beecrowd"
       }
     ]
   },
@@ -62036,9 +62992,8 @@
     ],
     "origins": [
       {
-        "type": "competition",
-        "name": "OBI",
-        "year": 2003
+        "type": "platform",
+        "name": "Beecrowd"
       }
     ]
   },
@@ -62067,9 +63022,8 @@
     ],
     "origins": [
       {
-        "type": "competition",
-        "name": "OBI",
-        "year": 2003
+        "type": "platform",
+        "name": "Beecrowd"
       }
     ]
   },
@@ -62100,7 +63054,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2019
+        "year": 2019,
+        "stage": "1",
+        "turn": null,
+        "levels": [
+          "Júnior"
+        ]
       }
     ]
   },
@@ -62131,7 +63090,15 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2019
+        "year": 2019,
+        "stage": "1",
+        "turn": null,
+        "levels": [
+          "Júnior",
+          "1",
+          "2",
+          "Sênior"
+        ]
       }
     ]
   },
@@ -62162,7 +63129,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2019
+        "year": 2019,
+        "stage": "1",
+        "turn": null,
+        "levels": [
+          "Júnior"
+        ]
       }
     ]
   },
@@ -62193,7 +63165,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2019
+        "year": 2019,
+        "stage": "1",
+        "turn": null,
+        "levels": [
+          "1"
+        ]
       }
     ]
   },
@@ -62224,7 +63201,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2019
+        "year": 2019,
+        "stage": "1",
+        "turn": null,
+        "levels": [
+          "1"
+        ]
       }
     ]
   },
@@ -62255,7 +63237,13 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2019
+        "year": 2019,
+        "stage": "1",
+        "turn": null,
+        "levels": [
+          "2",
+          "Sênior"
+        ]
       }
     ]
   },
@@ -62286,7 +63274,13 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2019
+        "year": 2019,
+        "stage": "1",
+        "turn": null,
+        "levels": [
+          "2",
+          "Sênior"
+        ]
       }
     ]
   },
@@ -62317,7 +63311,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2019
+        "year": 2019,
+        "stage": "2",
+        "turn": null,
+        "levels": [
+          "Júnior"
+        ]
       }
     ]
   },
@@ -62348,7 +63347,14 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2019
+        "year": 2019,
+        "stage": "2",
+        "turn": null,
+        "levels": [
+          "1",
+          "2",
+          "Sênior"
+        ]
       }
     ]
   },
@@ -62379,7 +63385,13 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2019
+        "year": 2019,
+        "stage": "2",
+        "turn": null,
+        "levels": [
+          "Júnior",
+          "1"
+        ]
       }
     ]
   },
@@ -62410,7 +63422,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2019
+        "year": 2019,
+        "stage": "2",
+        "turn": null,
+        "levels": [
+          "1"
+        ]
       }
     ]
   },
@@ -62441,7 +63458,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2019
+        "year": 2019,
+        "stage": "2",
+        "turn": null,
+        "levels": [
+          "2"
+        ]
       }
     ]
   },
@@ -62472,7 +63494,13 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2019
+        "year": 2019,
+        "stage": "2",
+        "turn": null,
+        "levels": [
+          "2",
+          "Sênior"
+        ]
       }
     ]
   },
@@ -62503,7 +63531,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2019
+        "year": 2019,
+        "stage": "3",
+        "turn": null,
+        "levels": [
+          "Júnior"
+        ]
       }
     ]
   },
@@ -62534,7 +63567,13 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2019
+        "year": 2019,
+        "stage": "3",
+        "turn": null,
+        "levels": [
+          "Júnior",
+          "1"
+        ]
       }
     ]
   },
@@ -62565,7 +63604,13 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2019
+        "year": 2019,
+        "stage": "3",
+        "turn": null,
+        "levels": [
+          "Júnior",
+          "1"
+        ]
       }
     ]
   },
@@ -62596,7 +63641,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2019
+        "year": 2019,
+        "stage": "3",
+        "turn": null,
+        "levels": [
+          "1"
+        ]
       }
     ]
   },
@@ -62627,7 +63677,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2019
+        "year": 2019,
+        "stage": "3",
+        "turn": null,
+        "levels": [
+          "1"
+        ]
       }
     ]
   },
@@ -62656,9 +63711,8 @@
     ],
     "origins": [
       {
-        "type": "competition",
-        "name": "OBI",
-        "year": 2003
+        "type": "platform",
+        "name": "Beecrowd"
       }
     ]
   },
@@ -62689,7 +63743,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2001
+        "year": 2001,
+        "stage": "Única",
+        "turn": null,
+        "levels": [
+          "Não especificado"
+        ]
       }
     ]
   },
@@ -62708,7 +63767,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2001
+        "year": 2001,
+        "stage": "Única",
+        "turn": null,
+        "levels": [
+          "Não especificado"
+        ]
       }
     ]
   },
@@ -62739,7 +63803,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2001
+        "year": 2001,
+        "stage": "Única",
+        "turn": null,
+        "levels": [
+          "Não especificado"
+        ]
       }
     ]
   },
@@ -62770,7 +63839,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2001
+        "year": 2001,
+        "stage": "Única",
+        "turn": null,
+        "levels": [
+          "Não especificado"
+        ]
       }
     ]
   },
@@ -62801,7 +63875,12 @@
       {
         "type": "competition",
         "name": "OBI",
-        "year": 2001
+        "year": 2001,
+        "stage": "Única",
+        "turn": null,
+        "levels": [
+          "Não especificado"
+        ]
       }
     ]
   },
@@ -78348,6 +79427,30 @@
         "name": "Maratona SBC",
         "year": 2026,
         "stage": "Segunda Fase"
+      }
+    ]
+  },
+  {
+    "id": "obi03f1a",
+    "title": "Supermercado",
+    "category": "Ad-Hoc",
+    "statements": [
+      {
+        "provider": "OBI",
+        "url": "https://olimpiada.ic.unicamp.br/static/extras/obi2003/provas/ProvaOBI2003_f0p0.pdf#page=10",
+        "requires_login": false
+      }
+    ],
+    "origins": [
+      {
+        "type": "competition",
+        "name": "OBI",
+        "year": 2003,
+        "stage": "Única",
+        "turn": null,
+        "levels": [
+          "Não especificado"
+        ]
       }
     ]
   }

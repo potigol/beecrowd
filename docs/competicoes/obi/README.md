@@ -1,4 +1,4 @@
-# Olimpíada Brasileira de Informática (107 / 215)
+# Olimpíada Brasileira de Informática (106 / 212)
 
 ## Categorias
 
@@ -10,6 +10,7 @@
 [Paradigmas](paradigmas.md) -
 [Grafos](grafos.md) -
 [Geometria Computacional](geometriacomputacional.md)
+
 
 ## 2019
 
@@ -245,10 +246,7 @@
 - [ ] [2249](https://resources.beecrowd.com/repository/UOJ_2249.html) - Número de Erdos *Ad-Hoc*
 - [ ] [2250](https://resources.beecrowd.com/repository/UOJ_2250.html) - Tetris *Ad-Hoc*
 - [x] [2251](https://resources.beecrowd.com/repository/UOJ_2251.html) - [Torres de Hanói](https://potigol.github.io/beecrowd/problemas/2200/#2251-torres-de-hanoi) *Ad-Hoc*
-- [x] [3043](https://resources.beecrowd.com/repository/UOJ_3043.html) - [Festa Junina](https://potigol.github.io/beecrowd/problemas/3000/#3043-festa-junina) *Grafos*
-- [ ] [3044](https://resources.beecrowd.com/repository/UOJ_3044.html) - Manutenção *Grafos*
-- [ ] [3045](https://resources.beecrowd.com/repository/UOJ_3045.html) - Parque Jurássico *Estruturas e Bibliotecas*
-- [ ] [3064](https://resources.beecrowd.com/repository/UOJ_3064.html) - Elástico *Geometria Computacional*
+- [ ] [obi03f1a](https://olimpiada.ic.unicamp.br/static/extras/obi2003/provas/ProvaOBI2003_f0p0.pdf#page=10) - Supermercado *Ad-Hoc*
 
 ## 2002
 

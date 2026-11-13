@@ -24,4 +24,4 @@
 - [ ] [2954](https://resources.beecrowd.com/repository/UOJ_2954.html) - O Jogo
 - [ ] [2960](https://resources.beecrowd.com/repository/UOJ_2960.html) - Era Uma Vez…
 - [ ] [3310](https://resources.beecrowd.com/repository/UOJ_3310.html) - Gravity Boy
-- [ ] [3508](https://resources.beecrowd.com/repository/UOJ_3508.html) - Números binários
+- [ ] [3508](https://judge.beecrowd.com/pt/problems/fullscreen/3508) - Números binários

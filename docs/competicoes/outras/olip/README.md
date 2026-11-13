@@ -11,39 +11,40 @@
 [Grafos](grafos.md) -
 [Geometria Computacional](geometriacomputacional.md)
 
+
 ## 2026
 
-- [ ] [3510](https://resources.beecrowd.com/repository/UOJ_3510.html) - Sequência Válida *Estruturas e Bibliotecas*
-- [ ] [3511](https://resources.beecrowd.com/repository/UOJ_3511.html) - Dígitos Ímpares *Paradigmas*
-- [ ] [3512](https://resources.beecrowd.com/repository/UOJ_3512.html) - Ano perfeito *Matemática*
-- [ ] [3513](https://resources.beecrowd.com/repository/UOJ_3513.html) - O Militar de Guaxupé *Ad-Hoc*
-- [ ] [3514](https://resources.beecrowd.com/repository/UOJ_3514.html) - Sequência colorida *Paradigmas*
-- [ ] [3515](https://resources.beecrowd.com/repository/UOJ_3515.html) - Paradoxo dos Microsserviços *Grafos*
-- [ ] [3516](https://resources.beecrowd.com/repository/UOJ_3516.html) - Jogo da Multiplicação *Matemática*
-- [ ] [3517](https://resources.beecrowd.com/repository/UOJ_3517.html) - Divisores *Matemática*
-- [ ] [3518](https://resources.beecrowd.com/repository/UOJ_3518.html) - SEES Operation *Paradigmas*
-- [ ] [3519](https://resources.beecrowd.com/repository/UOJ_3519.html) - O Código de Whis *Matemática*
-- [ ] [3520](https://resources.beecrowd.com/repository/UOJ_3520.html) - Próximo ímpar *Iniciante*
-- [ ] [3521](https://resources.beecrowd.com/repository/UOJ_3521.html) - Maratona de Petiscos *Ad-Hoc*
-- [ ] [3522](https://resources.beecrowd.com/repository/UOJ_3522.html) - Desafio dos Subarrays *Ad-Hoc*
+- [ ] [3510](https://judge.beecrowd.com/pt/problems/fullscreen/3510) - Sequência Válida *Estruturas e Bibliotecas*
+- [ ] [3511](https://judge.beecrowd.com/pt/problems/fullscreen/3511) - Dígitos Ímpares *Paradigmas*
+- [ ] [3512](https://judge.beecrowd.com/pt/problems/fullscreen/3512) - Ano perfeito *Matemática*
+- [ ] [3513](https://judge.beecrowd.com/pt/problems/fullscreen/3513) - O Militar de Guaxupé *Ad-Hoc*
+- [ ] [3514](https://judge.beecrowd.com/pt/problems/fullscreen/3514) - Sequência colorida *Paradigmas*
+- [ ] [3515](https://judge.beecrowd.com/pt/problems/fullscreen/3515) - Paradoxo dos Microsserviços *Grafos*
+- [ ] [3516](https://judge.beecrowd.com/pt/problems/fullscreen/3516) - Jogo da Multiplicação *Matemática*
+- [ ] [3517](https://judge.beecrowd.com/pt/problems/fullscreen/3517) - Divisores *Matemática*
+- [ ] [3518](https://judge.beecrowd.com/pt/problems/fullscreen/3518) - SEES Operation *Paradigmas*
+- [ ] [3519](https://judge.beecrowd.com/pt/problems/fullscreen/3519) - O Código de Whis *Matemática*
+- [ ] [3520](https://judge.beecrowd.com/pt/problems/fullscreen/3520) - Próximo ímpar *Iniciante*
+- [ ] [3521](https://judge.beecrowd.com/pt/problems/fullscreen/3521) - Maratona de Petiscos *Ad-Hoc*
+- [ ] [3522](https://judge.beecrowd.com/pt/problems/fullscreen/3522) - Desafio dos Subarrays *Ad-Hoc*
 
 ## 2025
 
-- [ ] [3490](https://resources.beecrowd.com/repository/UOJ_3490.html) - Ache a senha! *Iniciante*
-- [ ] [3491](https://resources.beecrowd.com/repository/UOJ_3491.html) - Bilhete codificado *Iniciante*
-- [ ] [3493](https://resources.beecrowd.com/repository/UOJ_3493.html) - Copos empilhados *Iniciante*
-- [x] [3494](https://resources.beecrowd.com/repository/UOJ_3494.html) - [Palavras transformadas](https://potigol.github.io/beecrowd/problemas/3400/#3494-palavras-transformadas) *Iniciante*
-- [ ] [3495](https://resources.beecrowd.com/repository/UOJ_3495.html) - Gianzin Berranteiro *Iniciante*
-- [ ] [3496](https://resources.beecrowd.com/repository/UOJ_3496.html) - Promoção imperdível *Paradigmas*
-- [ ] [3498](https://resources.beecrowd.com/repository/UOJ_3498.html) - Pares especiais *Estruturas e Bibliotecas*
-- [ ] [3499](https://resources.beecrowd.com/repository/UOJ_3499.html) - Bella, a cachorrinha sapeca *Iniciante*
-- [ ] [3501](https://resources.beecrowd.com/repository/UOJ_3501.html) - Maior número na matriz *Ad-Hoc*
-- [ ] [3502](https://resources.beecrowd.com/repository/UOJ_3502.html) - Montagem de looks *Matemática*
-- [ ] [3503](https://resources.beecrowd.com/repository/UOJ_3503.html) - Jogo dos números *Grafos*
-- [ ] [3506](https://resources.beecrowd.com/repository/UOJ_3506.html) - Quantos primos? *Iniciante*
-- [ ] [3507](https://resources.beecrowd.com/repository/UOJ_3507.html) - Tigres e Gansos *Iniciante*
-- [ ] [3508](https://resources.beecrowd.com/repository/UOJ_3508.html) - Números binários *Strings*
-- [ ] [3509](https://resources.beecrowd.com/repository/UOJ_3509.html) - Canos conectados *Estruturas e Bibliotecas*
+- [ ] [3490](https://judge.beecrowd.com/pt/problems/fullscreen/3490) - Ache a senha! *Iniciante*
+- [ ] [3491](https://judge.beecrowd.com/pt/problems/fullscreen/3491) - Bilhete codificado *Iniciante*
+- [ ] [3493](https://judge.beecrowd.com/pt/problems/fullscreen/3493) - Copos empilhados *Iniciante*
+- [x] [3494](https://judge.beecrowd.com/pt/problems/fullscreen/3494) - [Palavras transformadas](https://potigol.github.io/beecrowd/problemas/3400/#3494-palavras-transformadas) *Iniciante*
+- [ ] [3495](https://judge.beecrowd.com/pt/problems/fullscreen/3495) - Gianzin Berranteiro *Iniciante*
+- [ ] [3496](https://judge.beecrowd.com/pt/problems/fullscreen/3496) - Promoção imperdível *Paradigmas*
+- [ ] [3498](https://judge.beecrowd.com/pt/problems/fullscreen/3498) - Pares especiais *Estruturas e Bibliotecas*
+- [ ] [3499](https://judge.beecrowd.com/pt/problems/fullscreen/3499) - Bella, a cachorrinha sapeca *Iniciante*
+- [ ] [3501](https://judge.beecrowd.com/pt/problems/fullscreen/3501) - Maior número na matriz *Ad-Hoc*
+- [ ] [3502](https://judge.beecrowd.com/pt/problems/fullscreen/3502) - Montagem de looks *Matemática*
+- [ ] [3503](https://judge.beecrowd.com/pt/problems/fullscreen/3503) - Jogo dos números *Grafos*
+- [ ] [3506](https://judge.beecrowd.com/pt/problems/fullscreen/3506) - Quantos primos? *Iniciante*
+- [ ] [3507](https://judge.beecrowd.com/pt/problems/fullscreen/3507) - Tigres e Gansos *Iniciante*
+- [ ] [3508](https://judge.beecrowd.com/pt/problems/fullscreen/3508) - Números binários *Strings*
+- [ ] [3509](https://judge.beecrowd.com/pt/problems/fullscreen/3509) - Canos conectados *Estruturas e Bibliotecas*
 
 ## 2023
 

@@ -1,4 +1,4 @@
-# Ad-Hoc (280 / 862)
+# Ad-Hoc (280 / 863)
 
 ## Problemas resolvidos
 
@@ -280,8 +280,8 @@
 - [x] [3476](https://resources.beecrowd.com/repository/UOJ_3476.html) - [A união faz a força!](https://potigol.github.io/beecrowd/problemas/3400/#3476-a-uniao-faz-a-forca)
 - [x] [3477](https://resources.beecrowd.com/repository/UOJ_3477.html) - [Baú Danificado](https://potigol.github.io/beecrowd/problemas/3400/#3477-bau-danificado)
 - [x] [3479](https://resources.beecrowd.com/repository/UOJ_3479.html) - [Horo e os copos](https://potigol.github.io/beecrowd/problemas/3400/#3479-horo-e-os-copos)
-- [x] [3487](https://resources.beecrowd.com/repository/UOJ_3487.html) - [Firmware - Substring Manipulation](https://potigol.github.io/beecrowd/problemas/3400/#3487-firmware-substring-manipulation)
-- [x] [3488](https://resources.beecrowd.com/repository/UOJ_3488.html) - [Binary/Hexadecimal Number Systems](https://potigol.github.io/beecrowd/problemas/3400/#3488-binaryhexadecimal-number-systems)
+- [x] [3487](https://judge.beecrowd.com/pt/problems/fullscreen/3487) - [Firmware - Substring Manipulation](https://potigol.github.io/beecrowd/problemas/3400/#3487-firmware-substring-manipulation)
+- [x] [3488](https://judge.beecrowd.com/pt/problems/fullscreen/3488) - [Binary/Hexadecimal Number Systems](https://potigol.github.io/beecrowd/problemas/3400/#3488-binaryhexadecimal-number-systems)
 
 ## Problemas não resolvidos
 
@@ -858,12 +858,13 @@
 - [ ] [3470](https://resources.beecrowd.com/repository/UOJ_3470.html) - Jogo do 8
 - [ ] [3472](https://resources.beecrowd.com/repository/UOJ_3472.html) - Lá em cima do piano
 - [ ] [3478](https://resources.beecrowd.com/repository/UOJ_3478.html) - Geiapan
-- [ ] [3486](https://resources.beecrowd.com/repository/UOJ_3486.html) - Registro de exibição
-- [ ] [3489](https://resources.beecrowd.com/repository/UOJ_3489.html) - C++ Templates and STL Containers
-- [ ] [3501](https://resources.beecrowd.com/repository/UOJ_3501.html) - Maior número na matriz
-- [ ] [3513](https://resources.beecrowd.com/repository/UOJ_3513.html) - O Militar de Guaxupé
-- [ ] [3521](https://resources.beecrowd.com/repository/UOJ_3521.html) - Maratona de Petiscos
-- [ ] [3522](https://resources.beecrowd.com/repository/UOJ_3522.html) - Desafio dos Subarrays
-- [ ] [3524](https://resources.beecrowd.com/repository/UOJ_3524.html) - Lâmpadas
-- [ ] [3530](https://resources.beecrowd.com/repository/UOJ_3530.html) - Miguel Dormiu
-- [ ] [3531](https://resources.beecrowd.com/repository/UOJ_3531.html) - Grade
+- [ ] [3486](https://judge.beecrowd.com/pt/problems/fullscreen/3486) - Registro de exibição
+- [ ] [3489](https://judge.beecrowd.com/pt/problems/fullscreen/3489) - C++ Templates and STL Containers
+- [ ] [3501](https://judge.beecrowd.com/pt/problems/fullscreen/3501) - Maior número na matriz
+- [ ] [3513](https://judge.beecrowd.com/pt/problems/fullscreen/3513) - O Militar de Guaxupé
+- [ ] [3521](https://judge.beecrowd.com/pt/problems/fullscreen/3521) - Maratona de Petiscos
+- [ ] [3522](https://judge.beecrowd.com/pt/problems/fullscreen/3522) - Desafio dos Subarrays
+- [ ] [3524](https://judge.beecrowd.com/pt/problems/fullscreen/3524) - Lâmpadas
+- [ ] [3530](https://judge.beecrowd.com/pt/problems/fullscreen/3530) - Miguel Dormiu
+- [ ] [3531](https://judge.beecrowd.com/pt/problems/fullscreen/3531) - Grade
+- [ ] [obi03f1a](https://olimpiada.ic.unicamp.br/static/extras/obi2003/provas/ProvaOBI2003_f0p0.pdf#page=10) - Supermercado

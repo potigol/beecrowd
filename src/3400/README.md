@@ -86,17 +86,17 @@
 - [ ] [3483](https://resources.beecrowd.com/repository/UOJ_3483.html) - Segundo Maior e Menor *SQL*
 - [ ] [3484](https://resources.beecrowd.com/repository/UOJ_3484.html) - Turma Dividida *Estruturas e Bibliotecas*
 - [ ] [3485](https://resources.beecrowd.com/repository/UOJ_3485.html) - Terra Media
-- [ ] [3486](https://resources.beecrowd.com/repository/UOJ_3486.html) - Registro de exibição *Ad-Hoc*
-- [x] [3487](https://resources.beecrowd.com/repository/UOJ_3487.html) - [Firmware - Substring Manipulation](https://potigol.github.io/beecrowd/problemas/3400/#3487-firmware-substring-manipulation) *Ad-Hoc*
-- [x] [3488](https://resources.beecrowd.com/repository/UOJ_3488.html) - [Binary/Hexadecimal Number Systems](https://potigol.github.io/beecrowd/problemas/3400/#3488-binaryhexadecimal-number-systems) *Ad-Hoc*
-- [ ] [3489](https://resources.beecrowd.com/repository/UOJ_3489.html) - C++ Templates and STL Containers *Ad-Hoc*
-- [ ] [3490](https://resources.beecrowd.com/repository/UOJ_3490.html) - Ache a senha! *Iniciante*
-- [ ] [3491](https://resources.beecrowd.com/repository/UOJ_3491.html) - Bilhete codificado *Iniciante*
-- [ ] [3492](https://resources.beecrowd.com/repository/UOJ_3492.html) - Ranking turismo CE *SQL*
-- [ ] [3493](https://resources.beecrowd.com/repository/UOJ_3493.html) - Copos empilhados *Iniciante*
-- [x] [3494](https://resources.beecrowd.com/repository/UOJ_3494.html) - [Palavras transformadas](https://potigol.github.io/beecrowd/problemas/3400/#3494-palavras-transformadas) *Iniciante*
-- [ ] [3495](https://resources.beecrowd.com/repository/UOJ_3495.html) - Gianzin Berranteiro *Iniciante*
-- [ ] [3496](https://resources.beecrowd.com/repository/UOJ_3496.html) - Promoção imperdível *Paradigmas*
+- [ ] [3486](https://judge.beecrowd.com/pt/problems/fullscreen/3486) - Registro de exibição *Ad-Hoc*
+- [x] [3487](https://judge.beecrowd.com/pt/problems/fullscreen/3487) - [Firmware - Substring Manipulation](https://potigol.github.io/beecrowd/problemas/3400/#3487-firmware-substring-manipulation) *Ad-Hoc*
+- [x] [3488](https://judge.beecrowd.com/pt/problems/fullscreen/3488) - [Binary/Hexadecimal Number Systems](https://potigol.github.io/beecrowd/problemas/3400/#3488-binaryhexadecimal-number-systems) *Ad-Hoc*
+- [ ] [3489](https://judge.beecrowd.com/pt/problems/fullscreen/3489) - C++ Templates and STL Containers *Ad-Hoc*
+- [ ] [3490](https://judge.beecrowd.com/pt/problems/fullscreen/3490) - Ache a senha! *Iniciante*
+- [ ] [3491](https://judge.beecrowd.com/pt/problems/fullscreen/3491) - Bilhete codificado *Iniciante*
+- [ ] [3492](https://judge.beecrowd.com/pt/problems/fullscreen/3492) - Ranking turismo CE *SQL*
+- [ ] [3493](https://judge.beecrowd.com/pt/problems/fullscreen/3493) - Copos empilhados *Iniciante*
+- [x] [3494](https://judge.beecrowd.com/pt/problems/fullscreen/3494) - [Palavras transformadas](https://potigol.github.io/beecrowd/problemas/3400/#3494-palavras-transformadas) *Iniciante*
+- [ ] [3495](https://judge.beecrowd.com/pt/problems/fullscreen/3495) - Gianzin Berranteiro *Iniciante*
+- [ ] [3496](https://judge.beecrowd.com/pt/problems/fullscreen/3496) - Promoção imperdível *Paradigmas*
 - [ ] [3497](https://resources.beecrowd.com/repository/UOJ_3497.html) - Segurança dos Currais
-- [ ] [3498](https://resources.beecrowd.com/repository/UOJ_3498.html) - Pares especiais *Estruturas e Bibliotecas*
-- [ ] [3499](https://resources.beecrowd.com/repository/UOJ_3499.html) - Bella, a cachorrinha sapeca *Iniciante*
+- [ ] [3498](https://judge.beecrowd.com/pt/problems/fullscreen/3498) - Pares especiais *Estruturas e Bibliotecas*
+- [ ] [3499](https://judge.beecrowd.com/pt/problems/fullscreen/3499) - Bella, a cachorrinha sapeca *Iniciante*

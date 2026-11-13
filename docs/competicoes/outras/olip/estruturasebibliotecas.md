@@ -18,6 +18,6 @@
 - [ ] [3148](https://resources.beecrowd.com/repository/UOJ_3148.html) - O Jardim
 - [ ] [3149](https://resources.beecrowd.com/repository/UOJ_3149.html) - A Noiva do Trevo
 - [ ] [3155](https://resources.beecrowd.com/repository/UOJ_3155.html) - Sócrates e suas Perguntas
-- [ ] [3498](https://resources.beecrowd.com/repository/UOJ_3498.html) - Pares especiais
-- [ ] [3509](https://resources.beecrowd.com/repository/UOJ_3509.html) - Canos conectados
-- [ ] [3510](https://resources.beecrowd.com/repository/UOJ_3510.html) - Sequência Válida
+- [ ] [3498](https://judge.beecrowd.com/pt/problems/fullscreen/3498) - Pares especiais
+- [ ] [3509](https://judge.beecrowd.com/pt/problems/fullscreen/3509) - Canos conectados
+- [ ] [3510](https://judge.beecrowd.com/pt/problems/fullscreen/3510) - Sequência Válida

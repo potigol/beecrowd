@@ -278,9 +278,9 @@
 - [ ] [3341](https://resources.beecrowd.com/repository/UOJ_3341.html) - Grandmaster do Jogo do Caneco
 - [ ] [3345](https://resources.beecrowd.com/repository/UOJ_3345.html) - O Passatempo de Ferdinacci
 - [ ] [3354](https://resources.beecrowd.com/repository/UOJ_3354.html) - Joãozinho Vem Para o Sul
-- [ ] [3502](https://resources.beecrowd.com/repository/UOJ_3502.html) - Montagem de looks
-- [ ] [3512](https://resources.beecrowd.com/repository/UOJ_3512.html) - Ano perfeito
-- [ ] [3516](https://resources.beecrowd.com/repository/UOJ_3516.html) - Jogo da Multiplicação
-- [ ] [3517](https://resources.beecrowd.com/repository/UOJ_3517.html) - Divisores
-- [ ] [3519](https://resources.beecrowd.com/repository/UOJ_3519.html) - O Código de Whis
-- [ ] [3523](https://resources.beecrowd.com/repository/UOJ_3523.html) - Catraca
+- [ ] [3502](https://judge.beecrowd.com/pt/problems/fullscreen/3502) - Montagem de looks
+- [ ] [3512](https://judge.beecrowd.com/pt/problems/fullscreen/3512) - Ano perfeito
+- [ ] [3516](https://judge.beecrowd.com/pt/problems/fullscreen/3516) - Jogo da Multiplicação
+- [ ] [3517](https://judge.beecrowd.com/pt/problems/fullscreen/3517) - Divisores
+- [ ] [3519](https://judge.beecrowd.com/pt/problems/fullscreen/3519) - O Código de Whis
+- [ ] [3523](https://judge.beecrowd.com/pt/problems/fullscreen/3523) - Catraca

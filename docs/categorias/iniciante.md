@@ -310,8 +310,8 @@
 - [x] [3344](https://resources.beecrowd.com/repository/UOJ_3344.html) - [Brute](https://potigol.github.io/beecrowd/problemas/3300/#3344-brute)
 - [x] [3346](https://resources.beecrowd.com/repository/UOJ_3346.html) - [Flutuação do PIB](https://potigol.github.io/beecrowd/problemas/3300/#3346-flutuacao-do-pib)
 - [x] [3348](https://resources.beecrowd.com/repository/UOJ_3348.html) - [Jogo das Aranhas](https://potigol.github.io/beecrowd/problemas/3300/#3348-jogo-das-aranhas)
-- [x] [3494](https://resources.beecrowd.com/repository/UOJ_3494.html) - [Palavras transformadas](https://potigol.github.io/beecrowd/problemas/3400/#3494-palavras-transformadas)
-- [x] [3526](https://resources.beecrowd.com/repository/UOJ_3526.html) - [Delgado Quer Salgado](https://potigol.github.io/beecrowd/problemas/3500/#3526-delgado-quer-salgado)
+- [x] [3494](https://judge.beecrowd.com/pt/problems/fullscreen/3494) - [Palavras transformadas](https://potigol.github.io/beecrowd/problemas/3400/#3494-palavras-transformadas)
+- [x] [3526](https://judge.beecrowd.com/pt/problems/fullscreen/3526) - [Delgado Quer Salgado](https://potigol.github.io/beecrowd/problemas/3500/#3526-delgado-quer-salgado)
 
 ## Problemas não resolvidos
 
@@ -322,16 +322,16 @@
 - [ ] [3235](https://resources.beecrowd.com/repository/UOJ_3235.html) - Luggage
 - [ ] [3253](https://resources.beecrowd.com/repository/UOJ_3253.html) - Problemas com o Carro
 - [ ] [3256](https://resources.beecrowd.com/repository/UOJ_3256.html) - Divisão Inimiga
-- [ ] [3490](https://resources.beecrowd.com/repository/UOJ_3490.html) - Ache a senha!
-- [ ] [3491](https://resources.beecrowd.com/repository/UOJ_3491.html) - Bilhete codificado
-- [ ] [3493](https://resources.beecrowd.com/repository/UOJ_3493.html) - Copos empilhados
-- [ ] [3495](https://resources.beecrowd.com/repository/UOJ_3495.html) - Gianzin Berranteiro
-- [ ] [3499](https://resources.beecrowd.com/repository/UOJ_3499.html) - Bella, a cachorrinha sapeca
-- [ ] [3500](https://resources.beecrowd.com/repository/UOJ_3500.html) - Inversão de Número
-- [ ] [3506](https://resources.beecrowd.com/repository/UOJ_3506.html) - Quantos primos?
-- [ ] [3507](https://resources.beecrowd.com/repository/UOJ_3507.html) - Tigres e Gansos
-- [ ] [3520](https://resources.beecrowd.com/repository/UOJ_3520.html) - Próximo ímpar
-- [ ] [3527](https://resources.beecrowd.com/repository/UOJ_3527.html) - Fumo das Sete
-- [ ] [3534](https://resources.beecrowd.com/repository/UOJ_3534.html) - Cris, falta muito?
-- [ ] [3535](https://resources.beecrowd.com/repository/UOJ_3535.html) - Goiabinhas da Dona Conceição
-- [ ] [3536](https://resources.beecrowd.com/repository/UOJ_3536.html) - Itens do baú
+- [ ] [3490](https://judge.beecrowd.com/pt/problems/fullscreen/3490) - Ache a senha!
+- [ ] [3491](https://judge.beecrowd.com/pt/problems/fullscreen/3491) - Bilhete codificado
+- [ ] [3493](https://judge.beecrowd.com/pt/problems/fullscreen/3493) - Copos empilhados
+- [ ] [3495](https://judge.beecrowd.com/pt/problems/fullscreen/3495) - Gianzin Berranteiro
+- [ ] [3499](https://judge.beecrowd.com/pt/problems/fullscreen/3499) - Bella, a cachorrinha sapeca
+- [ ] [3500](https://judge.beecrowd.com/pt/problems/fullscreen/3500) - Inversão de Número
+- [ ] [3506](https://judge.beecrowd.com/pt/problems/fullscreen/3506) - Quantos primos?
+- [ ] [3507](https://judge.beecrowd.com/pt/problems/fullscreen/3507) - Tigres e Gansos
+- [ ] [3520](https://judge.beecrowd.com/pt/problems/fullscreen/3520) - Próximo ímpar
+- [ ] [3527](https://judge.beecrowd.com/pt/problems/fullscreen/3527) - Fumo das Sete
+- [ ] [3534](https://judge.beecrowd.com/pt/problems/fullscreen/3534) - Cris, falta muito?
+- [ ] [3535](https://judge.beecrowd.com/pt/problems/fullscreen/3535) - Goiabinhas da Dona Conceição
+- [ ] [3536](https://judge.beecrowd.com/pt/problems/fullscreen/3536) - Itens do baú

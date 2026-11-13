@@ -26,15 +26,15 @@
 - [x] [3301](https://resources.beecrowd.com/repository/UOJ_3301.html) - [Sobrinho do Meio](https://potigol.github.io/beecrowd/problemas/3300/#3301-sobrinho-do-meio)
 - [x] [3302](https://resources.beecrowd.com/repository/UOJ_3302.html) - [Resposta Certa](https://potigol.github.io/beecrowd/problemas/3300/#3302-resposta-certa)
 - [x] [3303](https://resources.beecrowd.com/repository/UOJ_3303.html) - [Palavrão](https://potigol.github.io/beecrowd/problemas/3300/#3303-palavrao)
-- [x] [3494](https://resources.beecrowd.com/repository/UOJ_3494.html) - [Palavras transformadas](https://potigol.github.io/beecrowd/problemas/3400/#3494-palavras-transformadas)
+- [x] [3494](https://judge.beecrowd.com/pt/problems/fullscreen/3494) - [Palavras transformadas](https://potigol.github.io/beecrowd/problemas/3400/#3494-palavras-transformadas)
 
 ## Problemas não resolvidos
 
-- [ ] [3490](https://resources.beecrowd.com/repository/UOJ_3490.html) - Ache a senha!
-- [ ] [3491](https://resources.beecrowd.com/repository/UOJ_3491.html) - Bilhete codificado
-- [ ] [3493](https://resources.beecrowd.com/repository/UOJ_3493.html) - Copos empilhados
-- [ ] [3495](https://resources.beecrowd.com/repository/UOJ_3495.html) - Gianzin Berranteiro
-- [ ] [3499](https://resources.beecrowd.com/repository/UOJ_3499.html) - Bella, a cachorrinha sapeca
-- [ ] [3506](https://resources.beecrowd.com/repository/UOJ_3506.html) - Quantos primos?
-- [ ] [3507](https://resources.beecrowd.com/repository/UOJ_3507.html) - Tigres e Gansos
-- [ ] [3520](https://resources.beecrowd.com/repository/UOJ_3520.html) - Próximo ímpar
+- [ ] [3490](https://judge.beecrowd.com/pt/problems/fullscreen/3490) - Ache a senha!
+- [ ] [3491](https://judge.beecrowd.com/pt/problems/fullscreen/3491) - Bilhete codificado
+- [ ] [3493](https://judge.beecrowd.com/pt/problems/fullscreen/3493) - Copos empilhados
+- [ ] [3495](https://judge.beecrowd.com/pt/problems/fullscreen/3495) - Gianzin Berranteiro
+- [ ] [3499](https://judge.beecrowd.com/pt/problems/fullscreen/3499) - Bella, a cachorrinha sapeca
+- [ ] [3506](https://judge.beecrowd.com/pt/problems/fullscreen/3506) - Quantos primos?
+- [ ] [3507](https://judge.beecrowd.com/pt/problems/fullscreen/3507) - Tigres e Gansos
+- [ ] [3520](https://judge.beecrowd.com/pt/problems/fullscreen/3520) - Próximo ímpar

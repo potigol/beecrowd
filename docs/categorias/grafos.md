@@ -286,8 +286,8 @@
 - [ ] [3340](https://resources.beecrowd.com/repository/UOJ_3340.html) - Estudante De Mestrado
 - [ ] [3350](https://resources.beecrowd.com/repository/UOJ_3350.html) - A Casa das Sete Mulheres
 - [ ] [3356](https://resources.beecrowd.com/repository/UOJ_3356.html) - Reprodução Controlada
-- [ ] [3503](https://resources.beecrowd.com/repository/UOJ_3503.html) - Jogo dos números
-- [ ] [3515](https://resources.beecrowd.com/repository/UOJ_3515.html) - Paradoxo dos Microsserviços
-- [ ] [3525](https://resources.beecrowd.com/repository/UOJ_3525.html) - Condenado a Ser Livre
-- [ ] [3528](https://resources.beecrowd.com/repository/UOJ_3528.html) - A Hora da Estrela
-- [ ] [3533](https://resources.beecrowd.com/repository/UOJ_3533.html) - As Cobrinhas Querem Brincar
+- [ ] [3503](https://judge.beecrowd.com/pt/problems/fullscreen/3503) - Jogo dos números
+- [ ] [3515](https://judge.beecrowd.com/pt/problems/fullscreen/3515) - Paradoxo dos Microsserviços
+- [ ] [3525](https://judge.beecrowd.com/pt/problems/fullscreen/3525) - Condenado a Ser Livre
+- [ ] [3528](https://judge.beecrowd.com/pt/problems/fullscreen/3528) - A Hora da Estrela
+- [ ] [3533](https://judge.beecrowd.com/pt/problems/fullscreen/3533) - As Cobrinhas Querem Brincar

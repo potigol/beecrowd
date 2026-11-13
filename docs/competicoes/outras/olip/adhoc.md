@@ -57,7 +57,7 @@
 - [ ] [3470](https://resources.beecrowd.com/repository/UOJ_3470.html) - Jogo do 8
 - [ ] [3472](https://resources.beecrowd.com/repository/UOJ_3472.html) - Lá em cima do piano
 - [ ] [3478](https://resources.beecrowd.com/repository/UOJ_3478.html) - Geiapan
-- [ ] [3501](https://resources.beecrowd.com/repository/UOJ_3501.html) - Maior número na matriz
-- [ ] [3513](https://resources.beecrowd.com/repository/UOJ_3513.html) - O Militar de Guaxupé
-- [ ] [3521](https://resources.beecrowd.com/repository/UOJ_3521.html) - Maratona de Petiscos
-- [ ] [3522](https://resources.beecrowd.com/repository/UOJ_3522.html) - Desafio dos Subarrays
+- [ ] [3501](https://judge.beecrowd.com/pt/problems/fullscreen/3501) - Maior número na matriz
+- [ ] [3513](https://judge.beecrowd.com/pt/problems/fullscreen/3513) - O Militar de Guaxupé
+- [ ] [3521](https://judge.beecrowd.com/pt/problems/fullscreen/3521) - Maratona de Petiscos
+- [ ] [3522](https://judge.beecrowd.com/pt/problems/fullscreen/3522) - Desafio dos Subarrays

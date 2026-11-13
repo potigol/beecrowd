@@ -1,42 +1,42 @@
 # Problemas 3500 (1/37)
 
-- [ ] [3500](https://resources.beecrowd.com/repository/UOJ_3500.html) - Inversão de Número *Iniciante*
-- [ ] [3501](https://resources.beecrowd.com/repository/UOJ_3501.html) - Maior número na matriz *Ad-Hoc*
-- [ ] [3502](https://resources.beecrowd.com/repository/UOJ_3502.html) - Montagem de looks *Matemática*
-- [ ] [3503](https://resources.beecrowd.com/repository/UOJ_3503.html) - Jogo dos números *Grafos*
-- [ ] [3504](https://resources.beecrowd.com/repository/UOJ_3504.html) - Frase palíndromo *Strings*
-- [ ] [3505](https://resources.beecrowd.com/repository/UOJ_3505.html) - Controle de Ingredientes *SQL*
-- [ ] [3506](https://resources.beecrowd.com/repository/UOJ_3506.html) - Quantos primos? *Iniciante*
-- [ ] [3507](https://resources.beecrowd.com/repository/UOJ_3507.html) - Tigres e Gansos *Iniciante*
-- [ ] [3508](https://resources.beecrowd.com/repository/UOJ_3508.html) - Números binários *Strings*
-- [ ] [3509](https://resources.beecrowd.com/repository/UOJ_3509.html) - Canos conectados *Estruturas e Bibliotecas*
-- [ ] [3510](https://resources.beecrowd.com/repository/UOJ_3510.html) - Sequência Válida *Estruturas e Bibliotecas*
-- [ ] [3511](https://resources.beecrowd.com/repository/UOJ_3511.html) - Dígitos Ímpares *Paradigmas*
-- [ ] [3512](https://resources.beecrowd.com/repository/UOJ_3512.html) - Ano perfeito *Matemática*
-- [ ] [3513](https://resources.beecrowd.com/repository/UOJ_3513.html) - O Militar de Guaxupé *Ad-Hoc*
-- [ ] [3514](https://resources.beecrowd.com/repository/UOJ_3514.html) - Sequência colorida *Paradigmas*
-- [ ] [3515](https://resources.beecrowd.com/repository/UOJ_3515.html) - Paradoxo dos Microsserviços *Grafos*
-- [ ] [3516](https://resources.beecrowd.com/repository/UOJ_3516.html) - Jogo da Multiplicação *Matemática*
-- [ ] [3517](https://resources.beecrowd.com/repository/UOJ_3517.html) - Divisores *Matemática*
-- [ ] [3518](https://resources.beecrowd.com/repository/UOJ_3518.html) - SEES Operation *Paradigmas*
-- [ ] [3519](https://resources.beecrowd.com/repository/UOJ_3519.html) - O Código de Whis *Matemática*
-- [ ] [3520](https://resources.beecrowd.com/repository/UOJ_3520.html) - Próximo ímpar *Iniciante*
-- [ ] [3521](https://resources.beecrowd.com/repository/UOJ_3521.html) - Maratona de Petiscos *Ad-Hoc*
-- [ ] [3522](https://resources.beecrowd.com/repository/UOJ_3522.html) - Desafio dos Subarrays *Ad-Hoc*
-- [ ] [3523](https://resources.beecrowd.com/repository/UOJ_3523.html) - Catraca *Matemática*
-- [ ] [3524](https://resources.beecrowd.com/repository/UOJ_3524.html) - Lâmpadas *Ad-Hoc*
-- [ ] [3525](https://resources.beecrowd.com/repository/UOJ_3525.html) - Condenado a Ser Livre *Grafos*
-- [x] [3526](https://resources.beecrowd.com/repository/UOJ_3526.html) - [Delgado Quer Salgado](https://potigol.github.io/beecrowd/problemas/3500/#3526-delgado-quer-salgado) *Iniciante*
-- [ ] [3527](https://resources.beecrowd.com/repository/UOJ_3527.html) - Fumo das Sete *Iniciante*
-- [ ] [3528](https://resources.beecrowd.com/repository/UOJ_3528.html) - A Hora da Estrela *Grafos*
-- [ ] [3529](https://resources.beecrowd.com/repository/UOJ_3529.html) - Cursos de Verão *Paradigmas*
-- [ ] [3530](https://resources.beecrowd.com/repository/UOJ_3530.html) - Miguel Dormiu *Ad-Hoc*
-- [ ] [3531](https://resources.beecrowd.com/repository/UOJ_3531.html) - Grade *Ad-Hoc*
-- [ ] [3532](https://resources.beecrowd.com/repository/UOJ_3532.html) - O H da Luana *Strings*
-- [ ] [3533](https://resources.beecrowd.com/repository/UOJ_3533.html) - As Cobrinhas Querem Brincar *Grafos*
-- [ ] [3534](https://resources.beecrowd.com/repository/UOJ_3534.html) - Cris, falta muito? *Iniciante*
-- [ ] [3535](https://resources.beecrowd.com/repository/UOJ_3535.html) - Goiabinhas da Dona Conceição *Iniciante*
-- [ ] [3536](https://resources.beecrowd.com/repository/UOJ_3536.html) - Itens do baú *Iniciante*
+- [ ] [3500](https://judge.beecrowd.com/pt/problems/fullscreen/3500) - Inversão de Número *Iniciante*
+- [ ] [3501](https://judge.beecrowd.com/pt/problems/fullscreen/3501) - Maior número na matriz *Ad-Hoc*
+- [ ] [3502](https://judge.beecrowd.com/pt/problems/fullscreen/3502) - Montagem de looks *Matemática*
+- [ ] [3503](https://judge.beecrowd.com/pt/problems/fullscreen/3503) - Jogo dos números *Grafos*
+- [ ] [3504](https://judge.beecrowd.com/pt/problems/fullscreen/3504) - Frase palíndromo *Strings*
+- [ ] [3505](https://judge.beecrowd.com/pt/problems/fullscreen/3505) - Controle de Ingredientes *SQL*
+- [ ] [3506](https://judge.beecrowd.com/pt/problems/fullscreen/3506) - Quantos primos? *Iniciante*
+- [ ] [3507](https://judge.beecrowd.com/pt/problems/fullscreen/3507) - Tigres e Gansos *Iniciante*
+- [ ] [3508](https://judge.beecrowd.com/pt/problems/fullscreen/3508) - Números binários *Strings*
+- [ ] [3509](https://judge.beecrowd.com/pt/problems/fullscreen/3509) - Canos conectados *Estruturas e Bibliotecas*
+- [ ] [3510](https://judge.beecrowd.com/pt/problems/fullscreen/3510) - Sequência Válida *Estruturas e Bibliotecas*
+- [ ] [3511](https://judge.beecrowd.com/pt/problems/fullscreen/3511) - Dígitos Ímpares *Paradigmas*
+- [ ] [3512](https://judge.beecrowd.com/pt/problems/fullscreen/3512) - Ano perfeito *Matemática*
+- [ ] [3513](https://judge.beecrowd.com/pt/problems/fullscreen/3513) - O Militar de Guaxupé *Ad-Hoc*
+- [ ] [3514](https://judge.beecrowd.com/pt/problems/fullscreen/3514) - Sequência colorida *Paradigmas*
+- [ ] [3515](https://judge.beecrowd.com/pt/problems/fullscreen/3515) - Paradoxo dos Microsserviços *Grafos*
+- [ ] [3516](https://judge.beecrowd.com/pt/problems/fullscreen/3516) - Jogo da Multiplicação *Matemática*
+- [ ] [3517](https://judge.beecrowd.com/pt/problems/fullscreen/3517) - Divisores *Matemática*
+- [ ] [3518](https://judge.beecrowd.com/pt/problems/fullscreen/3518) - SEES Operation *Paradigmas*
+- [ ] [3519](https://judge.beecrowd.com/pt/problems/fullscreen/3519) - O Código de Whis *Matemática*
+- [ ] [3520](https://judge.beecrowd.com/pt/problems/fullscreen/3520) - Próximo ímpar *Iniciante*
+- [ ] [3521](https://judge.beecrowd.com/pt/problems/fullscreen/3521) - Maratona de Petiscos *Ad-Hoc*
+- [ ] [3522](https://judge.beecrowd.com/pt/problems/fullscreen/3522) - Desafio dos Subarrays *Ad-Hoc*
+- [ ] [3523](https://judge.beecrowd.com/pt/problems/fullscreen/3523) - Catraca *Matemática*
+- [ ] [3524](https://judge.beecrowd.com/pt/problems/fullscreen/3524) - Lâmpadas *Ad-Hoc*
+- [ ] [3525](https://judge.beecrowd.com/pt/problems/fullscreen/3525) - Condenado a Ser Livre *Grafos*
+- [x] [3526](https://judge.beecrowd.com/pt/problems/fullscreen/3526) - [Delgado Quer Salgado](https://potigol.github.io/beecrowd/problemas/3500/#3526-delgado-quer-salgado) *Iniciante*
+- [ ] [3527](https://judge.beecrowd.com/pt/problems/fullscreen/3527) - Fumo das Sete *Iniciante*
+- [ ] [3528](https://judge.beecrowd.com/pt/problems/fullscreen/3528) - A Hora da Estrela *Grafos*
+- [ ] [3529](https://judge.beecrowd.com/pt/problems/fullscreen/3529) - Cursos de Verão *Paradigmas*
+- [ ] [3530](https://judge.beecrowd.com/pt/problems/fullscreen/3530) - Miguel Dormiu *Ad-Hoc*
+- [ ] [3531](https://judge.beecrowd.com/pt/problems/fullscreen/3531) - Grade *Ad-Hoc*
+- [ ] [3532](https://judge.beecrowd.com/pt/problems/fullscreen/3532) - O H da Luana *Strings*
+- [ ] [3533](https://judge.beecrowd.com/pt/problems/fullscreen/3533) - As Cobrinhas Querem Brincar *Grafos*
+- [ ] [3534](https://judge.beecrowd.com/pt/problems/fullscreen/3534) - Cris, falta muito? *Iniciante*
+- [ ] [3535](https://judge.beecrowd.com/pt/problems/fullscreen/3535) - Goiabinhas da Dona Conceição *Iniciante*
+- [ ] [3536](https://judge.beecrowd.com/pt/problems/fullscreen/3536) - Itens do baú *Iniciante*
 
 
 

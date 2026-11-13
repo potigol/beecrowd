@@ -1,4 +1,4 @@
-# Ad-Hoc (87 / 171)
+# Ad-Hoc (87 / 172)
 
 ## Problemas resolvidos
 
@@ -176,3 +176,4 @@
 - [ ] [3057](https://resources.beecrowd.com/repository/UOJ_3057.html) - Detetive
 - [ ] [3062](https://resources.beecrowd.com/repository/UOJ_3062.html) - Coleção de Upas
 - [ ] [3063](https://resources.beecrowd.com/repository/UOJ_3063.html) - Linhas de Ônibus
+- [ ] [obi03f1a](https://olimpiada.ic.unicamp.br/static/extras/obi2003/provas/ProvaOBI2003_f0p0.pdf#page=10) - Supermercado
