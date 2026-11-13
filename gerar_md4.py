@@ -1,60 +1,72 @@
 import os
+import json
 import re
 from pathlib import Path
 import yaml  # Requer PyYAML (pip install pyyaml)
 
-def carregar_titulos_problemas(caminho='bin/problems.txt'):
-    """Carrega os títulos e metadados dos problemas."""
+def carregar_problemas_json(caminho='bin/problems.json'):
+    """Carrega os problemas do JSON com títulos e categorias."""
     titulos = {}
     dificuldades = {}
+    competicoes = {}
+    
     try:
         with open(caminho, 'r', encoding='utf-8') as f:
-            for linha in f:
-                partes = linha.strip().split('\t')
-                if len(partes) >= 2:
-                    numero = partes[0].strip()
-                    titulos[numero] = partes[1].strip()
-                    if len(partes) >= 3:
-                        dificuldades[numero] = partes[2].strip()
+            data = json.load(f)
+        
+        for problema in data:
+            numero = problema.get('id', '')
+            titulo = problema.get('title', '')
+            categoria = problema.get('category', '')
+            origins = problema.get('origins', [])
+            
+            if numero:
+                titulos[numero] = titulo
+                if categoria != 'Excluído':
+                    dificuldades[numero] = categoria
+                
+                # Extrair competições
+                for origin in origins:
+                    if origin.get('type') == 'competition':
+                        nome_comp = origin.get('name', '')
+                        ano = origin.get('year', '')
+                        stage = origin.get('stage', '')
+                        
+                        # Mapear nome da competição
+                        if 'Maratona' in nome_comp:
+                            if stage == 'Primeira Fase':
+                                comp_nome = 'Maratona SBC (1ª fase)'
+                            elif stage == 'Segunda Fase':
+                                comp_nome = 'Maratona SBC (2ª fase)'
+                            else:
+                                comp_nome = nome_comp
+                            icone = ':material-trophy:'
+                        elif 'OBI' in nome_comp:
+                            comp_nome = 'OBI'
+                            icone = ':material-medal:'
+                        elif 'OLIP' in nome_comp or 'IFSULDEMINAS' in nome_comp:
+                            comp_nome = 'Olimpíada IFSULDEMINAS'
+                            icone = ':material-school:'
+                        else:
+                            comp_nome = nome_comp
+                            icone = ':material-star:'
+                        
+                        caminho = 'competicoes/maratona' if 'Maratona' in nome_comp else f'competicoes/{nome_comp.lower()}'
+                        
+                        competicoes.setdefault(numero, []).append((comp_nome, icone, caminho, str(ano)))
+    
     except FileNotFoundError:
         print(f"⚠️ Arquivo {caminho} não encontrado. Nomes de problemas não serão adicionados.")
-    return titulos, dificuldades
+    except json.JSONDecodeError:
+        print(f"⚠️ Erro ao decodificar JSON em {caminho}.")
+    
+    return titulos, dificuldades, competicoes
 
 SITE = 'https://potigol.github.io/beecrowd'
-
-# arquivo em bin/ -> (nome, ícone do Material for MkDocs, caminho no site)
-COMPETICOES = [
-    ('maratona1.txt', 'Maratona SBC (1ª fase)', ':material-trophy:', 'competicoes/maratona'),
-    ('maratona2.txt', 'Maratona SBC (2ª fase)', ':material-trophy:', 'competicoes/maratona'),
-    ('obi.txt', 'OBI', ':material-medal:', 'competicoes/obi'),
-    ('olip.txt', 'Olimpíada IFSULDEMINAS', ':material-school:', 'competicoes/outras/olip'),
-    ('maratona0.txt', 'Fase Zero - Maratona SBC', ':material-flag-checkered:', 'competicoes/outras/fasezero'),
-]
 
 def limpar_categoria(categoria):
     """Nome do arquivo/URL da categoria (apenas letras minúsculas)."""
     return ''.join(c for c in categoria.lower() if c.isalpha())
-
-def carregar_competicoes(pasta='bin'):
-    """Retorna {numero: [(nome, icone, caminho, ano), ...]} dos problemas em competições."""
-    resultado = {}
-    for arquivo, nome, icone, caminho in COMPETICOES:
-        try:
-            with open(os.path.join(pasta, arquivo), 'r', encoding='utf-8') as f:
-                linhas = f.read().splitlines()
-        except FileNotFoundError:
-            print(f"⚠️ Arquivo {arquivo} não encontrado. Competição ignorada.")
-            continue
-        for linha in linhas:
-            partes = linha.split(' ')
-            if len(partes) < 2:
-                continue
-            ano = partes[0]
-            for faixa in partes[1].split(','):
-                inicio, fim = int(faixa[:4]), int(faixa[-4:])
-                for n in range(inicio, fim + 1):
-                    resultado.setdefault(str(n), []).append((nome, icone, caminho, ano))
-    return resultado
 
 def linha_classificacao(categoria, competicoes):
     """Linha em Markdown com a categoria e as competições do problema."""
@@ -65,21 +77,9 @@ def linha_classificacao(categoria, competicoes):
         partes.append(f"{icone} [{nome} {ano}]({SITE}/{caminho}/)")
     return ' · '.join(partes)
 
-def gerar_nav_item(grupo, arquivos):
-    """Gera um item de navegação para o mkdocs.yml."""
-    if grupo == '.':
-        return {'Geral': 'problemas/geral.md'}
-    
-    try:
-        faixa = f"{grupo}-{int(grupo)+99}"
-        return {f"Problemas {faixa}": f"problemas/{grupo}.md"}
-    except ValueError:
-        return {grupo: f"problemas/{grupo}.md"}
-
 def agrupar_arquivos_poti(src_dir='src', dest_dir='docs/problemas'):
     """Agrupa arquivos .poti em arquivos Markdown otimizados para MkDocs Material."""
-    titulos, dificuldades = carregar_titulos_problemas()
-    competicoes = carregar_competicoes()
+    titulos, dificuldades, competicoes = carregar_problemas_json()
     nav_items = []
     
     Path(dest_dir).mkdir(parents=True, exist_ok=True)
@@ -125,7 +125,15 @@ def agrupar_arquivos_poti(src_dir='src', dest_dir='docs/problemas'):
 
     # Geração dos arquivos
     for grupo, problemas in conteudos_por_pasta.items():
-        nav_items.append(gerar_nav_item(grupo, problemas))
+        # Gerar item de navegação
+        if grupo == '.':
+            nav_items.append({'Geral': 'problemas/geral.md'})
+        else:
+            try:
+                faixa = f"{grupo}-{int(grupo)+99}"
+                nav_items.append({f"Problemas {faixa}": f"problemas/{grupo}.md"})
+            except ValueError:
+                nav_items.append({grupo: f"problemas/{grupo}.md"})
         
         md_file = 'geral.md' if grupo == '.' else f"{grupo}.md"
         md_path = os.path.join(dest_dir, md_file)
