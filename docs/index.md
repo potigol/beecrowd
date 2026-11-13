@@ -17,7 +17,7 @@ Mais de 800 problemas da plataforma [Beecrowd](https://beecrowd.com) resolvidos 
 [2500–2599](problemas/2500.md), [2600–2699](problemas/2600.md), [2700–2799](problemas/2700.md),
 [2800–2899](problemas/2800.md), [2900–2999](problemas/2900.md), [3000–3099](problemas/3000.md),
 [3100–3199](problemas/3100.md), [3200–3299](problemas/3200.md), [3300–3399](problemas/3300.md),
-[3400–3499](problemas/3400.md), [3500–3599](problemas/3500.md), [4000-4099](problemas/4000.md)
+[3400–3499](problemas/3400.md), [3500–3599](problemas/3500.md)
 
 ## Problemas por categoria
 

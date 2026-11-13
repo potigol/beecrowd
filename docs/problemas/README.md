@@ -26,4 +26,3 @@
 - [Problemas 3300–3399](3300.md)
 - [Problemas 3400–3499](3400.md)
 - [Problemas 3500–3599](3500.md)
-- [Problemas 4000+](4000.md)
