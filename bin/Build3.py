@@ -11,6 +11,7 @@ class Problem:
     name: str
     category: str
     url: str | None = None
+    levels: list[str] = field(default_factory=list)
 
 
 @dataclass
@@ -39,6 +40,46 @@ class Round:
 
 CONFIG: dict[str, str] = {}
 
+LEVEL_ORDER = "mj12su"
+LEVEL_ICONS = {
+    "m": "alpha-m-circle-outline",
+    "j": "alpha-j-circle-outline",
+    "1": "numeric-1-circle-outline",
+    "2": "numeric-2-circle-outline",
+    "s": "alpha-s-circle-outline",
+    "u": "alpha-u-circle-outline",
+    "x": "circle-outline",
+}
+
+
+def normalize_level(value: str) -> str:
+    cleaned = unicodedata.normalize("NFKD", value).encode("ascii", "ignore").decode("ascii")
+    cleaned = cleaned.strip().lower().replace("-", " ")
+    aliases = {
+        "mirim": "m",
+        "junior": "j",
+        "senior": "s",
+        "universitario": "u",
+        "universitário": "u",
+        "não especificado": "x",
+        "nao especificado": "x",
+    }
+    return aliases.get(cleaned, cleaned)
+
+
+def problem_levels(problem: Problem) -> str:
+    seen: set[str] = set()
+    for level in problem.levels:
+        key = normalize_level(str(level))
+        if key in LEVEL_ICONS:
+            seen.add(key)
+
+    ordered = []
+    for key in LEVEL_ORDER:
+        if key in seen:
+            ordered.append(f":material-{LEVEL_ICONS[key]}:")
+    return " ".join(ordered)
+
 
 class Text:
     @staticmethod
@@ -48,11 +89,12 @@ class Text:
             if show_category and not is_excluded_category(problem.category)
             else ""
         )
+        level_icons = problem_levels(problem)
         # Use URL from problem if available, otherwise construct default link
         link = problem.url if problem.url else f"{CONFIG['prefix']}{problem.number}.html"
         return (
             f"- [ ] [{problem.number}]({link}) - "
-            f"{problem.name}{category}"
+            f"{problem.name}{category}{f' {level_icons}' if level_icons else ''}"
         )
 
     @staticmethod
@@ -62,12 +104,13 @@ class Text:
             if show_category and not is_excluded_category(problem.category)
             else ""
         )
+        level_icons = problem_levels(problem)
         # Use URL from problem if available, otherwise construct default link
         link = problem.url if problem.url else f"{CONFIG['site']}/{dir(problem.number)}/#{anchor(problem)}"
         return (
             f"- [x] [{problem.number}]({link}) - "
             f"[{problem.name}]({CONFIG['site']}/{dir(problem.number)}/"
-            f"#{anchor(problem)}){category}"
+            f"#{anchor(problem)}){category}{f' {level_icons}' if level_icons else ''}"
         )
 
     absent = "" # "- [ ] ~~xxxx~~"
@@ -376,7 +419,12 @@ def problem_list(file: str) -> dict[int | str, Problem]:
             problem_id = item['id']
             title = item.get('title', '')
             category = item.get('category', '')
-            
+            levels: list[str] = []
+            for origin in item.get('origins', []):
+                for level in origin.get('levels', []):
+                    if level and level not in levels:
+                        levels.append(str(level))
+
             # Extract URL from statements, preferring URLs with requires_login=false
             url = None
             statements = item.get('statements', [])
@@ -397,7 +445,7 @@ def problem_list(file: str) -> dict[int | str, Problem]:
             except ValueError:
                 pass
             
-            problem = Problem(problem_id, title, category, url)
+            problem = Problem(problem_id, title, category, url, levels)
             problems[problem.number] = problem
         except KeyError:
             continue
