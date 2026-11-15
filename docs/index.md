@@ -34,8 +34,8 @@ Mais de 800 problemas da plataforma [Beecrowd](https://beecrowd.com) resolvidos 
 
 - [Maratona de Programação da SBC/ACM](competicoes/maratona/README.md)
 - [Olimpíada Brasileira de Informática (OBI)](competicoes/obi/README.md)
-- [Olimpíada Interna de Programação do IFSULDEMINAS (OLIP)](competicoes/outras/olip/README.md)
-- [Fase Zero da Mratona de Programação da SBC](competicoes/outras/fasezero/README.md)
+- [Olimpíada Interna de Programação do IFSULDEMINAS (OLIP)](competicoes/olip/README.md)
+- [Fase Zero da Mratona de Programação da SBC](competicoes/fasezero/README.md)
 
 ## Verificação das soluções
 
