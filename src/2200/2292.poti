@@ -1,0 +1,20 @@
+t = leia_inteiro
+
+para j de 1 até t faça
+    entrada = leia_textos(" ")
+    s, qt = entrada[1], entrada[2]
+    var letras := s.lista
+    var q := BigInt(qt)
+
+    para i de 1 até letras.tamanho faça
+        se q mod 2 == 1 então
+            q := q div 2
+            letras[i] := (se letras[i] == 'X' então 'O' senão 'X' fim)
+            q := q + (se letras[i] == 'X' então 1 senão 0 fim)
+        senão
+            q := q div 2
+        fim
+    fim
+
+    escreva letras.junte("")
+fim
