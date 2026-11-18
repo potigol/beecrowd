@@ -1,0 +1,19 @@
+t = leia_inteiro
+
+para i de 1 até t faça
+    s = leia_texto
+    q = leia_inteiro
+
+    para j de 1 até q faça
+        subsequencia = leia_texto
+        var x := 1
+
+        para c em s faça
+            se x <= subsequencia.tamanho e c == subsequencia[x] então
+                x := x + 1
+            fim
+        fim
+
+        escreva (se x > subsequencia.tamanho então "Yes" senão "No" fim)
+    fim
+fim

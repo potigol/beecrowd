@@ -1,0 +1,13 @@
+var entrada := leia_inteiros(" ")
+
+enquanto não eof faça
+    n, k = entrada[1], entrada[2]
+    numeros = 0::leia_inteiros(" ")
+    pares = numeros.zip(numeros.cauda)
+    resposta = para (a,b) em pares gere b - a fim
+        .ordene(- _)
+        .descarte(k-1)
+        .injete(0)(_ + _)
+    escreva resposta
+    entrada := leia_inteiros(" ")
+fim
