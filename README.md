@@ -1,37 +1,23 @@
-# Beecrowd em Potigol
+# Soluções da Beecrowd em Potigol
 
-> Mais de 800 problemas do Beecrowd resolvidos em Potigol, com navegação por faixa, categoria e competições.
-
-[![Problemas Resolvidos](https://img.shields.io/badge/Problemas%20Resolvidos-886-blue)](https://github.com/potigol/beecrowd/commits/master)
-[![Follow us](https://img.shields.io/twitter/follow/potigol.svg?style=social)](http://twitter.com/potigol)
+Mais de 800 problemas da plataforma [Beecrowd](https://beecrowd.com) resolvidos na linguagem [Potigol](https://potigol.github.io/beecrowd)
 
 [![Execute no GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/potigol/beecrowd?quickstart=1)
 
-[Explorar problemas](src) • [Ver categorias](categorias) • [Contribuir agora](#como-contribuir)
+[![Follow us](https://img.shields.io/twitter/follow/potigol.svg?style=social)](http://twitter.com/potigol)
+[![Problemas Resolvidos](https://img.shields.io/badge/Problemas%20Resolvidos-880-blue)](https://github.com/potigol/beecrowd/commits/master)
 
-## Navegação rápida
+## Soluções
 
-| Quero... | Ir para |
-| --- | --- |
-| Resolver problemas básicos | [Iniciante](categorias/iniciante.md) |
-| Praticar grafos e algoritmos clássicos | [Grafos](categorias/grafos.md) |
-| Treinar com histórico de provas | [Maratona SBC/ACM](competicoes/maratona) |
-| Ver toda a base de soluções | [Pasta src](src) |
-
-## Índice
-
-- [Por que este repositório](#por-que-este-repositório)
-- [Problemas por categoria](#problemas-por-categoria)
-- [Competições de programação](#competições-de-programação)
-- [Problemas por faixa](#problemas-por-faixa)
-- [Como contribuir](#como-contribuir)
-
-## Por que este repositório
-
-- Soluções reais e aceitas no Beecrowd.
-- Estrutura simples para estudar e localizar exemplos rapidamente.
-- Organização por categoria, faixa e competição.
-- Geração automática dos índices com scripts em Scala e Python.
+[1000–1099](problemas/1000.md), [1100–1199](problemas/1100.md), [1200–1299](problemas/1200.md),
+[1300–1399](problemas/1300.md), [1400–1499](problemas/1400.md), [1500–1599](problemas/1500.md),
+[1600–1699](problemas/1600.md), [1700–1799](problemas/1700.md), [1800–1899](problemas/1800.md),
+[1900–1999](problemas/1900.md), [2000–2099](problemas/2000.md), [2100–2199](problemas/2100.md),
+[2200–2299](problemas/2200.md), [2300–2399](problemas/2300.md), [2400–2499](problemas/2400.md),
+[2500–2599](problemas/2500.md), [2600–2699](problemas/2600.md), [2700–2799](problemas/2700.md),
+[2800–2899](problemas/2800.md), [2900–2999](problemas/2900.md), [3000–3099](problemas/3000.md),
+[3100–3199](problemas/3100.md), [3200–3299](problemas/3200.md), [3300–3399](problemas/3300.md),
+[3400–3499](problemas/3400.md), [3500–3599](problemas/3500.md)
 
 ## Problemas por categoria
 
@@ -44,24 +30,18 @@
 - [Grafos](categorias/grafos.md): flood fill, MST, SSSP, DAG, fluxo máximo e árvores.
 - [Geometria Computacional](categorias/geometriacomputacional.md): pontos, linhas e polígonos.
 
-## Competições de programação
+## Problemas de Competições de Programação
 
-- [Maratona de Programação da SBC/ACM](competicoes/maratona)
-- [Olimpíada Brasileira de Informática (OBI)](competicoes/obi)
-
-## Problemas por faixa
-
-| Faixa | Pastas |
-| --- | --- |
-| 1000-1499 | [src/1000](src/1000), [src/1100](src/1100), [src/1200](src/1200), [src/1300](src/1300), [src/1400](src/1400) |
-| 1500-1999 | [src/1500](src/1500), [src/1600](src/1600), [src/1700](src/1700), [src/1800](src/1800), [src/1900](src/1900) |
-| 2000-2499 | [src/2000](src/2000), [src/2100](src/2100), [src/2200](src/2200), [src/2300](src/2300), [src/2400](src/2400) |
-| 2500-2999 | [src/2500](src/2500), [src/2600](src/2600), [src/2700](src/2700), [src/2800](src/2800), [src/2900](src/2900) |
-| 3000-3599 | [src/3000](src/3000), [src/3100](src/3100), [src/3200](src/3200), [src/3300](src/3300), [src/3400](src/3400) |
+- [Maratona de Programação da SBC/ACM](competicoes/maratona/README.md)
+- [Olimpíada Brasileira de Informática (OBI)](competicoes/obi/README.md)
+- [Olimpíada Interna de Programação do IFSULDEMINAS (OLIP)](competicoes/olip/README.md)
+- [Fase Zero da Mratona de Programação da SBC](competicoes/fasezero/README.md)
 
 ## Verificação das soluções
 
-As soluções deste repositório foram submetidas e aceitas no Beecrowd com o script [Potigol2Scala](https://github.com/potigol/potigol2scala).
+Todas as soluções apresentadas neste repositório foram aceitas na plataforma Beecrowd. Embora originalmente escritas em Potigol, elas foram traduzidas automaticamente para Scala por meio do transpilador [Potigol2Scala](https://github.com/potigol/potigol2scala). A submissão e a validação das soluções na plataforma foram realizadas utilizando o código Scala gerado pelo transpilador.
+
+## Codespace
 
 No GitHub Codespaces, execute um arquivo Potigol pelo terminal com:
 
@@ -85,9 +65,8 @@ test_potigol 1001
 
 ## Como contribuir
 
-1. Faça um fork de https://github.com/potigol/beecrowd.
+1. Use o [editor online de Potigol](https://codespaces.new/potigol/beecrowd?quickstart=1) ou faça um fork de [potigol/beecrowd](https://github.com/potigol/beecrowd).
 2. Escolha um problema ainda não resolvido.
 3. Adicione sua solução em src/xx00/xxxx.poti.
-4. Opcional: teste localmente com ./potigol2scala.sh ../src/1000/1000.poti.
-5. Opcional: atualize os índices com `scala Build.scala` ou `python3 Build2.py` na pasta `bin`.
-6. Abra um pull request.
+4. Opcional: teste localmente com potigol xxxx.poti.
+5. Abra um pull request.

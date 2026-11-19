@@ -1,4 +1,4 @@
-# Problemas 1500 (33/100)
+# Problemas 1500 (35/100)
 
 - [ ] [1500](https://resources.beecrowd.com/repository/UOJ_1500.html) - Consultas Horríveis *Estruturas e Bibliotecas*
 - [ ] [1501](https://resources.beecrowd.com/repository/UOJ_1501.html) - Quantos Zeros e Quantos Dígitos? *Matemática*
@@ -7,7 +7,7 @@
 - [ ] [1504](https://resources.beecrowd.com/repository/UOJ_1504.html) - Curo Railroad *Geometria Computacional*
 - [ ] [1505](https://resources.beecrowd.com/repository/UOJ_1505.html) - Curo Factories *Matemática*
 - [ ] [1506](https://resources.beecrowd.com/repository/UOJ_1506.html) - Rabito e Bones *Grafos*
-- [ ] [1507](https://resources.beecrowd.com/repository/UOJ_1507.html) - Subsequências *Estruturas e Bibliotecas*
+- [x] [1507](https://resources.beecrowd.com/repository/UOJ_1507.html) - [Subsequências](https://potigol.github.io/beecrowd/problemas/1500/#1507-subsequencias) *Estruturas e Bibliotecas*
 - [ ] [1508](https://resources.beecrowd.com/repository/UOJ_1508.html) - Raio Laser *Ad-Hoc*
 - [ ] [1509](https://resources.beecrowd.com/repository/UOJ_1509.html) - Contando Ambiguidades *Paradigmas*
 - [ ] [1510](https://resources.beecrowd.com/repository/UOJ_1510.html) - O Passeio Turístico *Paradigmas*
@@ -24,7 +24,7 @@
 - [x] [1521](https://resources.beecrowd.com/repository/UOJ_1521.html) - [O Culpado](https://potigol.github.io/beecrowd/problemas/1500/#1521-o-culpado) *Ad-Hoc*
 - [ ] [1522](https://resources.beecrowd.com/repository/UOJ_1522.html) - Jogo das Pilhas *Paradigmas*
 - [ ] [1523](https://resources.beecrowd.com/repository/UOJ_1523.html) - Estacionamento Linear *Estruturas e Bibliotecas*
-- [ ] [1524](https://resources.beecrowd.com/repository/UOJ_1524.html) - Fila do Bandejão *Paradigmas*
+- [x] [1524](https://resources.beecrowd.com/repository/UOJ_1524.html) - [Fila do Bandejão](https://potigol.github.io/beecrowd/problemas/1500/#1524-fila-do-bandejao) *Paradigmas*
 - [ ] [1525](https://resources.beecrowd.com/repository/UOJ_1525.html) - Gruntz *Grafos*
 - [ ] [1526](https://resources.beecrowd.com/repository/UOJ_1526.html) - Transportando Lanches *Matemática*
 - [ ] [1527](https://resources.beecrowd.com/repository/UOJ_1527.html) - Guildas *Estruturas e Bibliotecas*

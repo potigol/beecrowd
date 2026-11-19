@@ -5,7 +5,7 @@ Mais de 800 problemas da plataforma [Beecrowd](https://beecrowd.com) resolvidos 
 [![Execute no GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/potigol/beecrowd?quickstart=1)
 
 [![Follow us](https://img.shields.io/twitter/follow/potigol.svg?style=social)](http://twitter.com/potigol)
-[![Problemas Resolvidos](https://img.shields.io/badge/Problemas%20Resolvidos-878-blue)](https://github.com/potigol/beecrowd/commits/master)
+[![Problemas Resolvidos](https://img.shields.io/badge/Problemas%20Resolvidos-880-blue)](https://github.com/potigol/beecrowd/commits/master)
 
 ## Soluções
 

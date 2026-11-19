@@ -1,4 +1,4 @@
-# Paradigmas (9 / 222)
+# Paradigmas (10 / 222)
 
 ## Problemas resolvidos
 
@@ -6,6 +6,7 @@
 - [x] [1084](https://resources.beecrowd.com/repository/UOJ_1084.html) - [Apagando e Ganhando](https://potigol.github.io/beecrowd/problemas/1000/#1084-apagando-e-ganhando)
 - [x] [1166](https://resources.beecrowd.com/repository/UOJ_1166.html) - [Torre de Hanoi, Novamente!](https://potigol.github.io/beecrowd/problemas/1100/#1166-torre-de-hanoi-novamente)
 - [x] [1310](https://resources.beecrowd.com/repository/UOJ_1310.html) - [Lucro](https://potigol.github.io/beecrowd/problemas/1300/#1310-lucro)
+- [x] [1524](https://resources.beecrowd.com/repository/UOJ_1524.html) - [Fila do Bandejão](https://potigol.github.io/beecrowd/problemas/1500/#1524-fila-do-bandejao)
 - [x] [1608](https://resources.beecrowd.com/repository/UOJ_1608.html) - [Bolos da Maria](https://potigol.github.io/beecrowd/problemas/1600/#1608-bolos-da-maria)
 - [x] [1690](https://resources.beecrowd.com/repository/UOJ_1690.html) - [Soma de Sobconjuntos](https://potigol.github.io/beecrowd/problemas/1600/#1690-soma-de-sobconjuntos)
 - [x] [2243](https://resources.beecrowd.com/repository/UOJ_2243.html) - [Isósceles](https://potigol.github.io/beecrowd/problemas/2200/#2243-isosceles)
@@ -59,7 +60,6 @@
 - [ ] [1513](https://resources.beecrowd.com/repository/UOJ_1513.html) - Cavalo
 - [ ] [1517](https://resources.beecrowd.com/repository/UOJ_1517.html) - Maçãs
 - [ ] [1522](https://resources.beecrowd.com/repository/UOJ_1522.html) - Jogo das Pilhas
-- [ ] [1524](https://resources.beecrowd.com/repository/UOJ_1524.html) - Fila do Bandejão
 - [ ] [1543](https://resources.beecrowd.com/repository/UOJ_1543.html) - Quadro Premiado
 - [ ] [1545](https://resources.beecrowd.com/repository/UOJ_1545.html) - Cartões II
 - [ ] [1565](https://resources.beecrowd.com/repository/UOJ_1565.html) - Ligue os Pontos
@@ -154,12 +154,12 @@
 - [ ] [2224](https://resources.beecrowd.com/repository/UOJ_2224.html) - Torneio de Pomekon
 - [ ] [2226](https://resources.beecrowd.com/repository/UOJ_2226.html) - Fabrica de Balões
 - [ ] [2236](https://resources.beecrowd.com/repository/UOJ_2236.html) - Batata Quente
-- [ ] [2299](https://resources.beecrowd.com/repository/UOJ_2299.html) - Pedido de Desculpas
+- [ ] [2299](https://resources.beecrowd.com/repository/UOJ_2299.html) - Pedido de Desculpas :material-numeric-2-circle-outline:
 - [ ] [2360](https://resources.beecrowd.com/repository/UOJ_2360.html) - Centrais de Controle
 - [ ] [2361](https://resources.beecrowd.com/repository/UOJ_2361.html) - Entradas e Saídas
 - [ ] [2363](https://resources.beecrowd.com/repository/UOJ_2363.html) - Brincando com Transformações
 - [ ] [2364](https://resources.beecrowd.com/repository/UOJ_2364.html) - Henrique
-- [ ] [2446](https://resources.beecrowd.com/repository/UOJ_2446.html) - Troco
+- [ ] [2446](https://resources.beecrowd.com/repository/UOJ_2446.html) - Troco :material-numeric-1-circle-outline:
 - [ ] [2475](https://resources.beecrowd.com/repository/UOJ_2475.html) - Confecção de Presentes
 - [ ] [2480](https://resources.beecrowd.com/repository/UOJ_2480.html) - Luzes Vermelhas
 - [ ] [2481](https://resources.beecrowd.com/repository/UOJ_2481.html) - É Uma Cilada Bino
@@ -202,7 +202,7 @@
 - [ ] [2970](https://resources.beecrowd.com/repository/UOJ_2970.html) - Keep Calm e Venda Balões
 - [ ] [2973](https://resources.beecrowd.com/repository/UOJ_2973.html) - Maratona Brasileira de Comedores de Pipoca
 - [ ] [2976](https://resources.beecrowd.com/repository/UOJ_2976.html) - Triângulos
-- [ ] [3051](https://resources.beecrowd.com/repository/UOJ_3051.html) - Soma
+- [ ] [3051](https://resources.beecrowd.com/repository/UOJ_3051.html) - Soma :material-numeric-2-circle-outline: :material-alpha-s-circle-outline:
 - [ ] [3073](https://resources.beecrowd.com/repository/UOJ_3073.html) - Vetores
 - [ ] [3086](https://resources.beecrowd.com/repository/UOJ_3086.html) - O Cavaleiro Jedi Guilherme
 - [ ] [3095](https://resources.beecrowd.com/repository/UOJ_3095.html) - Pudim dos Guerreiros

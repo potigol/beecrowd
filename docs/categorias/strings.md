@@ -1,4 +1,4 @@
-# Strings (86 / 157)
+# Strings (87 / 157)
 
 ## Problemas resolvidos
 
@@ -51,6 +51,7 @@
 - [x] [2174](https://resources.beecrowd.com/repository/UOJ_2174.html) - [Coleção de Pomekon](https://potigol.github.io/beecrowd/problemas/2100/#2174-colecao-de-pomekon)
 - [x] [2242](https://resources.beecrowd.com/repository/UOJ_2242.html) - [Huaauhahhuahau](https://potigol.github.io/beecrowd/problemas/2200/#2242-huaauhahhuahau)
 - [x] [2253](https://resources.beecrowd.com/repository/UOJ_2253.html) - [Validador de Senhas](https://potigol.github.io/beecrowd/problemas/2200/#2253-validador-de-senhas)
+- [x] [2292](https://resources.beecrowd.com/repository/UOJ_2292.html) - [Painel LED](https://potigol.github.io/beecrowd/problemas/2200/#2292-painel-led)
 - [x] [2336](https://resources.beecrowd.com/repository/UOJ_2336.html) - [ABC](https://potigol.github.io/beecrowd/problemas/2300/#2336-abc)
 - [x] [2356](https://resources.beecrowd.com/repository/UOJ_2356.html) - [Bactéria I](https://potigol.github.io/beecrowd/problemas/2300/#2356-bacteria-i)
 - [x] [2484](https://resources.beecrowd.com/repository/UOJ_2484.html) - [Abracadabra](https://potigol.github.io/beecrowd/problemas/2400/#2484-abracadabra)
@@ -133,7 +134,6 @@
 - [ ] [2093](https://resources.beecrowd.com/repository/UOJ_2093.html) - Fuja para Escapar
 - [ ] [2097](https://resources.beecrowd.com/repository/UOJ_2097.html) - Nome para Número
 - [ ] [2132](https://resources.beecrowd.com/repository/UOJ_2132.html) - Não é Mais Um Joguinho Canadense!
-- [ ] [2292](https://resources.beecrowd.com/repository/UOJ_2292.html) - Painel LED
 - [ ] [2314](https://resources.beecrowd.com/repository/UOJ_2314.html) - Indentador
 - [ ] [2358](https://resources.beecrowd.com/repository/UOJ_2358.html) - Bactéria II
 - [ ] [2509](https://resources.beecrowd.com/repository/UOJ_2509.html) - Editor Latex

@@ -1,4 +1,4 @@
-# Estruturas e Bibliotecas (51 / 184)
+# Estruturas e Bibliotecas (52 / 184)
 
 ## Problemas resolvidos
 
@@ -23,6 +23,7 @@
 - [x] [1303](https://resources.beecrowd.com/repository/UOJ_1303.html) - [Spurs Rocks](https://potigol.github.io/beecrowd/problemas/1300/#1303-spurs-rocks)
 - [x] [1340](https://resources.beecrowd.com/repository/UOJ_1340.html) - [Eu Posso Adivinhar a Estrutura de Dados!](https://potigol.github.io/beecrowd/problemas/1300/#1340-eu-posso-adivinhar-a-estrutura-de-dados)
 - [x] [1430](https://resources.beecrowd.com/repository/UOJ_1430.html) - [Composição de Jingles](https://potigol.github.io/beecrowd/problemas/1400/#1430-composicao-de-jingles)
+- [x] [1507](https://resources.beecrowd.com/repository/UOJ_1507.html) - [Subsequências](https://potigol.github.io/beecrowd/problemas/1500/#1507-subsequencias)
 - [x] [1548](https://resources.beecrowd.com/repository/UOJ_1548.html) - [Fila do Recreio](https://potigol.github.io/beecrowd/problemas/1500/#1548-fila-do-recreio)
 - [x] [1566](https://resources.beecrowd.com/repository/UOJ_1566.html) - [Altura](https://potigol.github.io/beecrowd/problemas/1500/#1566-altura)
 - [x] [1709](https://resources.beecrowd.com/repository/UOJ_1709.html) - [Baralho Embaralhado](https://potigol.github.io/beecrowd/problemas/1700/#1709-baralho-embaralhado)
@@ -82,7 +83,6 @@
 - [ ] [1452](https://resources.beecrowd.com/repository/UOJ_1452.html) - Gloud Computing
 - [ ] [1477](https://resources.beecrowd.com/repository/UOJ_1477.html) - Homem, Elefante e Rato
 - [ ] [1500](https://resources.beecrowd.com/repository/UOJ_1500.html) - Consultas Horríveis
-- [ ] [1507](https://resources.beecrowd.com/repository/UOJ_1507.html) - Subsequências
 - [ ] [1511](https://resources.beecrowd.com/repository/UOJ_1511.html) - Tabuleiro GCD
 - [ ] [1520](https://resources.beecrowd.com/repository/UOJ_1520.html) - Parafusos e Porcas
 - [ ] [1523](https://resources.beecrowd.com/repository/UOJ_1523.html) - Estacionamento Linear
@@ -133,8 +133,8 @@
 - [ ] [2239](https://resources.beecrowd.com/repository/UOJ_2239.html) - Estatística Hexa
 - [ ] [2240](https://resources.beecrowd.com/repository/UOJ_2240.html) - Fundindo Árvores
 - [ ] [2241](https://resources.beecrowd.com/repository/UOJ_2241.html) - Go--
-- [ ] [2370](https://resources.beecrowd.com/repository/UOJ_2370.html) - Times
-- [ ] [2380](https://resources.beecrowd.com/repository/UOJ_2380.html) - Fusões
+- [ ] [2370](https://resources.beecrowd.com/repository/UOJ_2370.html) - Times :material-numeric-1-circle-outline:
+- [ ] [2380](https://resources.beecrowd.com/repository/UOJ_2380.html) - Fusões :material-numeric-1-circle-outline:
 - [ ] [2482](https://resources.beecrowd.com/repository/UOJ_2482.html) - Etiquetas de Noel
 - [ ] [2488](https://resources.beecrowd.com/repository/UOJ_2488.html) - É Na Batida do Cavalo!
 - [ ] [2492](https://resources.beecrowd.com/repository/UOJ_2492.html) - Ilhas Isoladas

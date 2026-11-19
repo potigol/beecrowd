@@ -1,4 +1,4 @@
-# Problemas 2200 (23/100)
+# Problemas 2200 (24/100)
 
 - [ ] [2200](https://resources.beecrowd.com/repository/UOJ_2200.html) - Mummy Madness *Ad-Hoc*
 - [ ] [2201](https://resources.beecrowd.com/repository/UOJ_2201.html) - Pyramids *Ad-Hoc*
@@ -92,11 +92,11 @@
 - [ ] [2289](https://resources.beecrowd.com/repository/UOJ_2289.html) - Distância Hamming *Ad-Hoc*
 - [x] [2290](https://resources.beecrowd.com/repository/UOJ_2290.html) - [Números Apaixornados](https://potigol.github.io/beecrowd/problemas/2200/#2290-numeros-apaixornados) *Estruturas e Bibliotecas*
 - [ ] [2291](https://resources.beecrowd.com/repository/UOJ_2291.html) - Números Divinos *Matemática*
-- [ ] [2292](https://resources.beecrowd.com/repository/UOJ_2292.html) - Painel LED *Strings*
-- [x] [2293](https://resources.beecrowd.com/repository/UOJ_2293.html) - [Campo de Minhocas](https://potigol.github.io/beecrowd/problemas/2200/#2293-campo-de-minhocas) *Ad-Hoc*
-- [ ] [2294](https://resources.beecrowd.com/repository/UOJ_2294.html) - Duende Perdido *Ad-Hoc*
-- [x] [2295](https://resources.beecrowd.com/repository/UOJ_2295.html) - [Frota de Táxi](https://potigol.github.io/beecrowd/problemas/2200/#2295-frota-de-taxi) *Ad-Hoc*
-- [ ] [2296](https://resources.beecrowd.com/repository/UOJ_2296.html) - Trilhas *Ad-Hoc*
-- [x] [2297](https://resources.beecrowd.com/repository/UOJ_2297.html) - [Bafo](https://potigol.github.io/beecrowd/problemas/2200/#2297-bafo) *Ad-Hoc*
-- [x] [2298](https://resources.beecrowd.com/repository/UOJ_2298.html) - [Mini-Poker](https://potigol.github.io/beecrowd/problemas/2200/#2298-mini-poker) *Ad-Hoc*
-- [ ] [2299](https://resources.beecrowd.com/repository/UOJ_2299.html) - Pedido de Desculpas *Paradigmas*
+- [x] [2292](https://resources.beecrowd.com/repository/UOJ_2292.html) - [Painel LED](https://potigol.github.io/beecrowd/problemas/2200/#2292-painel-led) *Strings*
+- [x] [2293](https://resources.beecrowd.com/repository/UOJ_2293.html) - [Campo de Minhocas](https://potigol.github.io/beecrowd/problemas/2200/#2293-campo-de-minhocas) *Ad-Hoc* :material-numeric-1-circle-outline:
+- [ ] [2294](https://resources.beecrowd.com/repository/UOJ_2294.html) - Duende Perdido *Ad-Hoc* :material-numeric-1-circle-outline:
+- [x] [2295](https://resources.beecrowd.com/repository/UOJ_2295.html) - [Frota de Táxi](https://potigol.github.io/beecrowd/problemas/2200/#2295-frota-de-taxi) *Ad-Hoc* :material-numeric-1-circle-outline:
+- [ ] [2296](https://resources.beecrowd.com/repository/UOJ_2296.html) - Trilhas *Ad-Hoc* :material-numeric-1-circle-outline:
+- [x] [2297](https://resources.beecrowd.com/repository/UOJ_2297.html) - [Bafo](https://potigol.github.io/beecrowd/problemas/2200/#2297-bafo) *Ad-Hoc* :material-numeric-2-circle-outline:
+- [x] [2298](https://resources.beecrowd.com/repository/UOJ_2298.html) - [Mini-Poker](https://potigol.github.io/beecrowd/problemas/2200/#2298-mini-poker) *Ad-Hoc* :material-numeric-2-circle-outline:
+- [ ] [2299](https://resources.beecrowd.com/repository/UOJ_2299.html) - Pedido de Desculpas *Paradigmas* :material-numeric-2-circle-outline:
