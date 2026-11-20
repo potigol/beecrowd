@@ -79,15 +79,15 @@
 - [ ] [2776](https://resources.beecrowd.com/repository/UOJ_2776.html) - Promoções *Ad-Hoc*
 - [x] [2777](https://resources.beecrowd.com/repository/UOJ_2777.html) - [Subsets do Dabriel](https://potigol.github.io/beecrowd/problemas/2700/#2777-subsets-do-dabriel) *Matemática*
 - [ ] [2778](https://resources.beecrowd.com/repository/UOJ_2778.html) - Matriz do Dabriel *Paradigmas*
-- [x] [2779](https://resources.beecrowd.com/repository/UOJ_2779.html) - [Álbum da Copa](https://potigol.github.io/beecrowd/problemas/2700/#2779-album-da-copa) *Iniciante*
-- [x] [2780](https://resources.beecrowd.com/repository/UOJ_2780.html) - [Basquete de Robôs](https://potigol.github.io/beecrowd/problemas/2700/#2780-basquete-de-robos) *Iniciante*
-- [ ] [2781](https://resources.beecrowd.com/repository/UOJ_2781.html) - Câmara de Compensação *Grafos*
-- [x] [2782](https://resources.beecrowd.com/repository/UOJ_2782.html) - [Escadinha](https://potigol.github.io/beecrowd/problemas/2700/#2782-escadinha) *Iniciante*
-- [x] [2783](https://resources.beecrowd.com/repository/UOJ_2783.html) - [Figurinhas da Copa](https://potigol.github.io/beecrowd/problemas/2700/#2783-figurinhas-da-copa) *Iniciante*
-- [ ] [2784](https://resources.beecrowd.com/repository/UOJ_2784.html) - Ilhas *Grafos*
-- [x] [2785](https://resources.beecrowd.com/repository/UOJ_2785.html) - [Pirâmide](https://potigol.github.io/beecrowd/problemas/2700/#2785-piramide) *Iniciante*
-- [x] [2786](https://resources.beecrowd.com/repository/UOJ_2786.html) - [Piso da Escola](https://potigol.github.io/beecrowd/problemas/2700/#2786-piso-da-escola) *Iniciante*
-- [x] [2787](https://resources.beecrowd.com/repository/UOJ_2787.html) - [Xadrez](https://potigol.github.io/beecrowd/problemas/2700/#2787-xadrez) *Iniciante*
+- [x] [2779](https://resources.beecrowd.com/repository/UOJ_2779.html) - [Álbum da Copa](https://potigol.github.io/beecrowd/problemas/2700/#2779-album-da-copa) *Iniciante* :material-alpha-j-circle-outline:
+- [x] [2780](https://resources.beecrowd.com/repository/UOJ_2780.html) - [Basquete de Robôs](https://potigol.github.io/beecrowd/problemas/2700/#2780-basquete-de-robos) *Iniciante* :material-alpha-j-circle-outline:
+- [ ] [2781](https://resources.beecrowd.com/repository/UOJ_2781.html) - Câmara de Compensação *Grafos* :material-numeric-2-circle-outline:
+- [x] [2782](https://resources.beecrowd.com/repository/UOJ_2782.html) - [Escadinha](https://potigol.github.io/beecrowd/problemas/2700/#2782-escadinha) *Iniciante* :material-numeric-1-circle-outline:
+- [x] [2783](https://resources.beecrowd.com/repository/UOJ_2783.html) - [Figurinhas da Copa](https://potigol.github.io/beecrowd/problemas/2700/#2783-figurinhas-da-copa) *Iniciante* :material-numeric-2-circle-outline: :material-alpha-s-circle-outline:
+- [ ] [2784](https://resources.beecrowd.com/repository/UOJ_2784.html) - Ilhas *Grafos* :material-alpha-s-circle-outline:
+- [x] [2785](https://resources.beecrowd.com/repository/UOJ_2785.html) - [Pirâmide](https://potigol.github.io/beecrowd/problemas/2700/#2785-piramide) *Iniciante* :material-numeric-1-circle-outline:
+- [x] [2786](https://resources.beecrowd.com/repository/UOJ_2786.html) - [Piso da Escola](https://potigol.github.io/beecrowd/problemas/2700/#2786-piso-da-escola) *Iniciante* :material-numeric-2-circle-outline: :material-alpha-s-circle-outline:
+- [x] [2787](https://resources.beecrowd.com/repository/UOJ_2787.html) - [Xadrez](https://potigol.github.io/beecrowd/problemas/2700/#2787-xadrez) *Iniciante* :material-numeric-1-circle-outline:
 - [ ] [2788](https://resources.beecrowd.com/repository/UOJ_2788.html) - Aula *Ad-Hoc*
 - [ ] [2789](https://resources.beecrowd.com/repository/UOJ_2789.html) - Crise Hídrica *Ad-Hoc*
 - [x] [2790](https://resources.beecrowd.com/repository/UOJ_2790.html) - [Dados](https://potigol.github.io/beecrowd/problemas/2700/#2790-dados) *Ad-Hoc*

@@ -8,7 +8,7 @@
 - [x] [1466](https://resources.beecrowd.com/repository/UOJ_1466.html) - [Percurso em Árvore por Nível](https://potigol.github.io/beecrowd/problemas/1400/#1466-percurso-em-arvore-por-nivel)
 - [x] [1855](https://resources.beecrowd.com/repository/UOJ_1855.html) - [Mapa do Meistre](https://potigol.github.io/beecrowd/problemas/1800/#1855-mapa-do-meistre)
 - [x] [1905](https://resources.beecrowd.com/repository/UOJ_1905.html) - [Polícia e Ladrão](https://potigol.github.io/beecrowd/problemas/1900/#1905-policia-e-ladrao)
-- [x] [2428](https://resources.beecrowd.com/repository/UOJ_2428.html) - [Capital](https://potigol.github.io/beecrowd/problemas/2400/#2428-capital)
+- [x] [2428](https://resources.beecrowd.com/repository/UOJ_2428.html) - [Capital](https://potigol.github.io/beecrowd/problemas/2400/#2428-capital) :material-numeric-1-circle-outline:
 - [x] [2687](https://resources.beecrowd.com/repository/UOJ_2687.html) - [Dominação Bacteriana](https://potigol.github.io/beecrowd/problemas/2600/#2687-dominacao-bacteriana)
 - [x] [3043](https://resources.beecrowd.com/repository/UOJ_3043.html) - [Festa Junina](https://potigol.github.io/beecrowd/problemas/3000/#3043-festa-junina)
 - [x] [3204](https://resources.beecrowd.com/repository/UOJ_3204.html) - [Honeycomb Walk](https://potigol.github.io/beecrowd/problemas/3200/#3204-honeycomb-walk)
@@ -141,7 +141,7 @@
 - [ ] [1915](https://resources.beecrowd.com/repository/UOJ_1915.html) - Ajude Chaves
 - [ ] [1923](https://resources.beecrowd.com/repository/UOJ_1923.html) - Rerisson e o Churrasco
 - [ ] [1925](https://resources.beecrowd.com/repository/UOJ_1925.html) - Ordan e as Novinhas
-- [ ] [1928](https://resources.beecrowd.com/repository/UOJ_1928.html) - Jogo da Memória
+- [ ] [1928](https://resources.beecrowd.com/repository/UOJ_1928.html) - Jogo da Memória :material-numeric-1-circle-outline:
 - [ ] [1931](https://resources.beecrowd.com/repository/UOJ_1931.html) - Mania de Par
 - [ ] [1947](https://resources.beecrowd.com/repository/UOJ_1947.html) - Rota do Taxista
 - [ ] [1948](https://resources.beecrowd.com/repository/UOJ_1948.html) - Compilador
@@ -188,16 +188,16 @@
 - [ ] [2190](https://resources.beecrowd.com/repository/UOJ_2190.html) - Rede Ótica
 - [ ] [2225](https://resources.beecrowd.com/repository/UOJ_2225.html) - Penalização
 - [ ] [2246](https://resources.beecrowd.com/repository/UOJ_2246.html) - Ladrilhos
-- [ ] [2300](https://resources.beecrowd.com/repository/UOJ_2300.html) - Transmissão de Energia
+- [ ] [2300](https://resources.beecrowd.com/repository/UOJ_2300.html) - Transmissão de Energia :material-numeric-2-circle-outline:
 - [ ] [2357](https://resources.beecrowd.com/repository/UOJ_2357.html) - Violência em Sildávia
 - [ ] [2359](https://resources.beecrowd.com/repository/UOJ_2359.html) - Alocando Ambulâncias
-- [ ] [2372](https://resources.beecrowd.com/repository/UOJ_2372.html) - Reunião
-- [ ] [2404](https://resources.beecrowd.com/repository/UOJ_2404.html) - Reduzindo Detalhes em um Mapa
-- [ ] [2412](https://resources.beecrowd.com/repository/UOJ_2412.html) - Tarzan
-- [ ] [2419](https://resources.beecrowd.com/repository/UOJ_2419.html) - Costa
-- [ ] [2426](https://resources.beecrowd.com/repository/UOJ_2426.html) - Bomba
-- [ ] [2429](https://resources.beecrowd.com/repository/UOJ_2429.html) - Rodovia
-- [ ] [2440](https://resources.beecrowd.com/repository/UOJ_2440.html) - Famílias de Troia
+- [ ] [2372](https://resources.beecrowd.com/repository/UOJ_2372.html) - Reunião :material-numeric-2-circle-outline:
+- [ ] [2404](https://resources.beecrowd.com/repository/UOJ_2404.html) - Reduzindo Detalhes em um Mapa :material-numeric-2-circle-outline:
+- [ ] [2412](https://resources.beecrowd.com/repository/UOJ_2412.html) - Tarzan :material-numeric-2-circle-outline:
+- [ ] [2419](https://resources.beecrowd.com/repository/UOJ_2419.html) - Costa :material-numeric-1-circle-outline:
+- [ ] [2426](https://resources.beecrowd.com/repository/UOJ_2426.html) - Bomba :material-numeric-2-circle-outline:
+- [ ] [2429](https://resources.beecrowd.com/repository/UOJ_2429.html) - Rodovia :material-numeric-1-circle-outline:
+- [ ] [2440](https://resources.beecrowd.com/repository/UOJ_2440.html) - Famílias de Troia :material-numeric-2-circle-outline:
 - [ ] [2476](https://resources.beecrowd.com/repository/UOJ_2476.html) - Entregas do Noel
 - [ ] [2477](https://resources.beecrowd.com/repository/UOJ_2477.html) - Rede de Distribuição
 - [ ] [2485](https://resources.beecrowd.com/repository/UOJ_2485.html) - Bicho da Goiaba
@@ -226,8 +226,8 @@
 - [ ] [2731](https://resources.beecrowd.com/repository/UOJ_2731.html) - Programação de Viagem
 - [ ] [2732](https://resources.beecrowd.com/repository/UOJ_2732.html) - Reino De Alice
 - [ ] [2768](https://resources.beecrowd.com/repository/UOJ_2768.html) - Grafo do Dabriel
-- [ ] [2781](https://resources.beecrowd.com/repository/UOJ_2781.html) - Câmara de Compensação
-- [ ] [2784](https://resources.beecrowd.com/repository/UOJ_2784.html) - Ilhas
+- [ ] [2781](https://resources.beecrowd.com/repository/UOJ_2781.html) - Câmara de Compensação :material-numeric-2-circle-outline:
+- [ ] [2784](https://resources.beecrowd.com/repository/UOJ_2784.html) - Ilhas :material-alpha-s-circle-outline:
 - [ ] [2804](https://resources.beecrowd.com/repository/UOJ_2804.html) - Ferrovias
 - [ ] [2809](https://resources.beecrowd.com/repository/UOJ_2809.html) - K-ésimo Caminho
 - [ ] [2810](https://resources.beecrowd.com/repository/UOJ_2810.html) - Combate à Dengue 2.0
@@ -252,7 +252,7 @@
 - [ ] [3028](https://resources.beecrowd.com/repository/UOJ_3028.html) - Bubble Reactor
 - [ ] [3031](https://resources.beecrowd.com/repository/UOJ_3031.html) - Xor Spanning Tree
 - [ ] [3044](https://resources.beecrowd.com/repository/UOJ_3044.html) - Manutenção
-- [ ] [3061](https://resources.beecrowd.com/repository/UOJ_3061.html) - Manchas de Pele
+- [ ] [3061](https://resources.beecrowd.com/repository/UOJ_3061.html) - Manchas de Pele :material-alpha-j-circle-outline: :material-numeric-1-circle-outline:
 - [ ] [3067](https://resources.beecrowd.com/repository/UOJ_3067.html) - Dominó
 - [ ] [3070](https://resources.beecrowd.com/repository/UOJ_3070.html) - Autoestradas HyperspaceTM
 - [ ] [3072](https://resources.beecrowd.com/repository/UOJ_3072.html) - Namoro

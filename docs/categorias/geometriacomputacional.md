@@ -1,4 +1,4 @@
-# Geometria Computacional (15 / 85)
+# Geometria Computacional (16 / 85)
 
 ## Problemas resolvidos
 
@@ -6,6 +6,7 @@
 - [x] [1124](https://resources.beecrowd.com/repository/UOJ_1124.html) - [Elevador](https://potigol.github.io/beecrowd/problemas/1100/#1124-elevador)
 - [x] [1291](https://resources.beecrowd.com/repository/UOJ_1291.html) - [Será Isso Integração?](https://potigol.github.io/beecrowd/problemas/1200/#1291-sera-isso-integracao)
 - [x] [1292](https://resources.beecrowd.com/repository/UOJ_1292.html) - [Problema com um Pentágono](https://potigol.github.io/beecrowd/problemas/1200/#1292-problema-com-um-pentagono)
+- [x] [1293](https://resources.beecrowd.com/repository/UOJ_1293.html) - [Romeu e Julieta!](https://potigol.github.io/beecrowd/problemas/1200/#1293-romeu-e-julieta)
 - [x] [1294](https://resources.beecrowd.com/repository/UOJ_1294.html) - [A Maior e Menor Caixa](https://potigol.github.io/beecrowd/problemas/1200/#1294-a-maior-e-menor-caixa)
 - [x] [1296](https://resources.beecrowd.com/repository/UOJ_1296.html) - [Medianas](https://potigol.github.io/beecrowd/problemas/1200/#1296-medianas)
 - [x] [1549](https://resources.beecrowd.com/repository/UOJ_1549.html) - [Dividindo a Coca](https://potigol.github.io/beecrowd/problemas/1500/#1549-dividindo-a-coca)
@@ -27,7 +28,6 @@
 - [ ] [1204](https://resources.beecrowd.com/repository/UOJ_1204.html) - Myachowski, o Futebol Russo
 - [ ] [1223](https://resources.beecrowd.com/repository/UOJ_1223.html) - Tobogan de Bolinhas
 - [ ] [1268](https://resources.beecrowd.com/repository/UOJ_1268.html) - Missão Impossível
-- [ ] [1293](https://resources.beecrowd.com/repository/UOJ_1293.html) - Romeu e Julieta!
 - [ ] [1295](https://resources.beecrowd.com/repository/UOJ_1295.html) - Problema dos Pares Mais Próximos
 - [ ] [1315](https://resources.beecrowd.com/repository/UOJ_1315.html) - Não tão Convexo
 - [ ] [1336](https://resources.beecrowd.com/repository/UOJ_1336.html) - Cerca do Jardim

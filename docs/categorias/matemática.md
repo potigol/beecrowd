@@ -97,7 +97,7 @@
 - [x] [2986](https://resources.beecrowd.com/repository/UOJ_2986.html) - [Nem Tudo é Greve Versão Hard](https://potigol.github.io/beecrowd/problemas/2900/#2986-nem-tudo-e-greve-versao-hard)
 - [x] [3004](https://resources.beecrowd.com/repository/UOJ_3004.html) - [Envelopes](https://potigol.github.io/beecrowd/problemas/3000/#3004-envelopes)
 - [x] [3036](https://resources.beecrowd.com/repository/UOJ_3036.html) - [Cor da Camisa](https://potigol.github.io/beecrowd/problemas/3000/#3036-cor-da-camisa)
-- [x] [3049](https://resources.beecrowd.com/repository/UOJ_3049.html) - [Nota Cortada](https://potigol.github.io/beecrowd/problemas/3000/#3049-nota-cortada)
+- [x] [3049](https://resources.beecrowd.com/repository/UOJ_3049.html) - [Nota Cortada](https://potigol.github.io/beecrowd/problemas/3000/#3049-nota-cortada) :material-numeric-1-circle-outline:
 - [x] [3102](https://resources.beecrowd.com/repository/UOJ_3102.html) - [Kikoho](https://potigol.github.io/beecrowd/problemas/3100/#3102-kikoho)
 - [x] [3104](https://resources.beecrowd.com/repository/UOJ_3104.html) - [Resto 2.0](https://potigol.github.io/beecrowd/problemas/3100/#3104-resto-20)
 - [x] [3138](https://resources.beecrowd.com/repository/UOJ_3138.html) - [Aniversário do Tobias](https://potigol.github.io/beecrowd/problemas/3100/#3138-aniversario-do-tobias)

@@ -1,50 +1,50 @@
 # Problemas 2300 (39/100)
 
-- [ ] [2300](https://resources.beecrowd.com/repository/UOJ_2300.html) - Transmissão de Energia *Grafos*
-- [ ] [2301](https://resources.beecrowd.com/repository/UOJ_2301.html) - Vivo ou Morto *Ad-Hoc*
-- [ ] [2302](https://resources.beecrowd.com/repository/UOJ_2302.html) - Conversa não tão Secreta *Ad-Hoc*
-- [ ] [2303](https://resources.beecrowd.com/repository/UOJ_2303.html) - Margaridas *Ad-Hoc*
-- [ ] [2304](https://resources.beecrowd.com/repository/UOJ_2304.html) - Banco Imobiliário *Ad-Hoc*
-- [ ] [2305](https://resources.beecrowd.com/repository/UOJ_2305.html) - Colheita de Caju *Ad-Hoc*
-- [x] [2306](https://resources.beecrowd.com/repository/UOJ_2306.html) - [Escada Perfeita](https://potigol.github.io/beecrowd/problemas/2300/#2306-escada-perfeita) *Ad-Hoc*
-- [ ] [2307](https://resources.beecrowd.com/repository/UOJ_2307.html) - Jogo de Cartas *Ad-Hoc*
-- [ ] [2308](https://resources.beecrowd.com/repository/UOJ_2308.html) - Museu *Ad-Hoc*
-- [ ] [2309](https://resources.beecrowd.com/repository/UOJ_2309.html) - Truco *Ad-Hoc*
+- [ ] [2300](https://resources.beecrowd.com/repository/UOJ_2300.html) - Transmissão de Energia *Grafos* :material-numeric-2-circle-outline:
+- [ ] [2301](https://resources.beecrowd.com/repository/UOJ_2301.html) - Vivo ou Morto *Ad-Hoc* :material-numeric-2-circle-outline:
+- [ ] [2302](https://resources.beecrowd.com/repository/UOJ_2302.html) - Conversa não tão Secreta *Ad-Hoc* :material-numeric-1-circle-outline:
+- [ ] [2303](https://resources.beecrowd.com/repository/UOJ_2303.html) - Margaridas *Ad-Hoc* :material-numeric-1-circle-outline:
+- [ ] [2304](https://resources.beecrowd.com/repository/UOJ_2304.html) - Banco Imobiliário *Ad-Hoc* :material-numeric-1-circle-outline:
+- [ ] [2305](https://resources.beecrowd.com/repository/UOJ_2305.html) - Colheita de Caju *Ad-Hoc* :material-numeric-2-circle-outline:
+- [x] [2306](https://resources.beecrowd.com/repository/UOJ_2306.html) - [Escada Perfeita](https://potigol.github.io/beecrowd/problemas/2300/#2306-escada-perfeita) *Ad-Hoc* :material-numeric-2-circle-outline:
+- [ ] [2307](https://resources.beecrowd.com/repository/UOJ_2307.html) - Jogo de Cartas *Ad-Hoc* :material-numeric-2-circle-outline:
+- [ ] [2308](https://resources.beecrowd.com/repository/UOJ_2308.html) - Museu *Ad-Hoc* :material-numeric-2-circle-outline:
+- [ ] [2309](https://resources.beecrowd.com/repository/UOJ_2309.html) - Truco *Ad-Hoc* :material-numeric-2-circle-outline:
 - [x] [2310](https://resources.beecrowd.com/repository/UOJ_2310.html) - [Voleibol](https://potigol.github.io/beecrowd/problemas/2300/#2310-voleibol) *Iniciante*
 - [x] [2311](https://resources.beecrowd.com/repository/UOJ_2311.html) - [Saltos Ornamentais](https://potigol.github.io/beecrowd/problemas/2300/#2311-saltos-ornamentais) *Iniciante*
 - [x] [2312](https://resources.beecrowd.com/repository/UOJ_2312.html) - [Quadro De Medalhas](https://potigol.github.io/beecrowd/problemas/2300/#2312-quadro-de-medalhas) *Ad-Hoc*
 - [x] [2313](https://resources.beecrowd.com/repository/UOJ_2313.html) - [Qual Triângulo](https://potigol.github.io/beecrowd/problemas/2300/#2313-qual-triangulo) *Iniciante*
 - [ ] [2314](https://resources.beecrowd.com/repository/UOJ_2314.html) - Indentador *Strings*
 - [x] [2315](https://resources.beecrowd.com/repository/UOJ_2315.html) - [Diferença Fácil Entre Datas](https://potigol.github.io/beecrowd/problemas/2300/#2315-diferenca-facil-entre-datas) *Ad-Hoc*
-- [ ] [2316](https://resources.beecrowd.com/repository/UOJ_2316.html) - Autorama *Ad-Hoc*
-- [ ] [2317](https://resources.beecrowd.com/repository/UOJ_2317.html) - Lobo Mau *Ad-Hoc*
-- [ ] [2318](https://resources.beecrowd.com/repository/UOJ_2318.html) - Quadrado Mágico *Ad-Hoc*
-- [ ] [2319](https://resources.beecrowd.com/repository/UOJ_2319.html) - Penalidade Mínima *Ad-Hoc*
-- [ ] [2320](https://resources.beecrowd.com/repository/UOJ_2320.html) - Subsequência *Ad-Hoc*
-- [ ] [2321](https://resources.beecrowd.com/repository/UOJ_2321.html) - Detectando Colisões *Ad-Hoc*
-- [x] [2322](https://resources.beecrowd.com/repository/UOJ_2322.html) - [Peça Perdida](https://potigol.github.io/beecrowd/problemas/2300/#2322-peca-perdida) *Ad-Hoc*
-- [ ] [2323](https://resources.beecrowd.com/repository/UOJ_2323.html) - Móbile *Ad-Hoc*
-- [ ] [2324](https://resources.beecrowd.com/repository/UOJ_2324.html) - Pastas *Ad-Hoc*
-- [ ] [2325](https://resources.beecrowd.com/repository/UOJ_2325.html) - Repositórios *Ad-Hoc*
-- [ ] [2326](https://resources.beecrowd.com/repository/UOJ_2326.html) - Sacoleiro *Ad-Hoc*
-- [x] [2327](https://resources.beecrowd.com/repository/UOJ_2327.html) - [Quadrados](https://potigol.github.io/beecrowd/problemas/2300/#2327-quadrados) *Ad-Hoc*
-- [x] [2328](https://resources.beecrowd.com/repository/UOJ_2328.html) - [Chocolate](https://potigol.github.io/beecrowd/problemas/2300/#2328-chocolate) *Ad-Hoc*
-- [ ] [2329](https://resources.beecrowd.com/repository/UOJ_2329.html) - Pão a Metro *Ad-Hoc*
-- [ ] [2330](https://resources.beecrowd.com/repository/UOJ_2330.html) - Telemarketing *Ad-Hoc*
-- [ ] [2331](https://resources.beecrowd.com/repository/UOJ_2331.html) - Uiquipédia *Ad-Hoc*
-- [ ] [2332](https://resources.beecrowd.com/repository/UOJ_2332.html) - Jogo do Labirinto *Ad-Hoc*
-- [ ] [2333](https://resources.beecrowd.com/repository/UOJ_2333.html) - Pizza *Ad-Hoc*
+- [ ] [2316](https://resources.beecrowd.com/repository/UOJ_2316.html) - Autorama *Ad-Hoc* :material-numeric-1-circle-outline:
+- [ ] [2317](https://resources.beecrowd.com/repository/UOJ_2317.html) - Lobo Mau *Ad-Hoc* :material-numeric-1-circle-outline: :material-numeric-2-circle-outline:
+- [ ] [2318](https://resources.beecrowd.com/repository/UOJ_2318.html) - Quadrado Mágico *Ad-Hoc* :material-numeric-1-circle-outline:
+- [ ] [2319](https://resources.beecrowd.com/repository/UOJ_2319.html) - Penalidade Mínima *Ad-Hoc* :material-numeric-2-circle-outline:
+- [ ] [2320](https://resources.beecrowd.com/repository/UOJ_2320.html) - Subsequência *Ad-Hoc* :material-numeric-2-circle-outline:
+- [ ] [2321](https://resources.beecrowd.com/repository/UOJ_2321.html) - Detectando Colisões *Ad-Hoc* :material-numeric-1-circle-outline:
+- [x] [2322](https://resources.beecrowd.com/repository/UOJ_2322.html) - [Peça Perdida](https://potigol.github.io/beecrowd/problemas/2300/#2322-peca-perdida) *Ad-Hoc* :material-numeric-1-circle-outline:
+- [ ] [2323](https://resources.beecrowd.com/repository/UOJ_2323.html) - Móbile *Ad-Hoc* :material-numeric-2-circle-outline:
+- [ ] [2324](https://resources.beecrowd.com/repository/UOJ_2324.html) - Pastas *Ad-Hoc* :material-numeric-2-circle-outline:
+- [ ] [2325](https://resources.beecrowd.com/repository/UOJ_2325.html) - Repositórios *Ad-Hoc* :material-numeric-2-circle-outline:
+- [ ] [2326](https://resources.beecrowd.com/repository/UOJ_2326.html) - Sacoleiro *Ad-Hoc* :material-numeric-2-circle-outline:
+- [x] [2327](https://resources.beecrowd.com/repository/UOJ_2327.html) - [Quadrados](https://potigol.github.io/beecrowd/problemas/2300/#2327-quadrados) *Ad-Hoc* :material-numeric-1-circle-outline:
+- [x] [2328](https://resources.beecrowd.com/repository/UOJ_2328.html) - [Chocolate](https://potigol.github.io/beecrowd/problemas/2300/#2328-chocolate) *Ad-Hoc* :material-numeric-2-circle-outline:
+- [ ] [2329](https://resources.beecrowd.com/repository/UOJ_2329.html) - Pão a Metro *Ad-Hoc* :material-numeric-1-circle-outline:
+- [ ] [2330](https://resources.beecrowd.com/repository/UOJ_2330.html) - Telemarketing *Ad-Hoc* :material-numeric-1-circle-outline: :material-numeric-2-circle-outline:
+- [ ] [2331](https://resources.beecrowd.com/repository/UOJ_2331.html) - Uiquipédia *Ad-Hoc* :material-numeric-1-circle-outline:
+- [ ] [2332](https://resources.beecrowd.com/repository/UOJ_2332.html) - Jogo do Labirinto *Ad-Hoc* :material-numeric-2-circle-outline:
+- [ ] [2333](https://resources.beecrowd.com/repository/UOJ_2333.html) - Pizza *Ad-Hoc* :material-numeric-2-circle-outline:
 - [x] [2334](https://resources.beecrowd.com/repository/UOJ_2334.html) - [Patinhos](https://potigol.github.io/beecrowd/problemas/2300/#2334-patinhos) *Iniciante*
 - [ ] [2335](https://resources.beecrowd.com/repository/UOJ_2335.html) - O Desafio de Arquibaldo *Matemática*
 - [x] [2336](https://resources.beecrowd.com/repository/UOJ_2336.html) - [ABC](https://potigol.github.io/beecrowd/problemas/2300/#2336-abc) *Strings*
 - [ ] [2337](https://resources.beecrowd.com/repository/UOJ_2337.html) - Pro Habilidade *Matemática*
 - [x] [2338](https://resources.beecrowd.com/repository/UOJ_2338.html) - [Morse](https://potigol.github.io/beecrowd/problemas/2300/#2338-morse) *Estruturas e Bibliotecas*
-- [x] [2339](https://resources.beecrowd.com/repository/UOJ_2339.html) - [Aviões de Papel](https://potigol.github.io/beecrowd/problemas/2300/#2339-avioes-de-papel) *Ad-Hoc*
-- [ ] [2340](https://resources.beecrowd.com/repository/UOJ_2340.html) - Feira de Bactérias *Ad-Hoc*
-- [x] [2341](https://resources.beecrowd.com/repository/UOJ_2341.html) - [Número de Envelopes](https://potigol.github.io/beecrowd/problemas/2300/#2341-numero-de-envelopes) *Ad-Hoc*
-- [x] [2342](https://resources.beecrowd.com/repository/UOJ_2342.html) - [Overflow](https://potigol.github.io/beecrowd/problemas/2300/#2342-overflow) *Ad-Hoc*
-- [ ] [2343](https://resources.beecrowd.com/repository/UOJ_2343.html) - Caçadores de Mitos *Ad-Hoc*
-- [x] [2344](https://resources.beecrowd.com/repository/UOJ_2344.html) - [Notas da Prova](https://potigol.github.io/beecrowd/problemas/2300/#2344-notas-da-prova) *Iniciante*
+- [x] [2339](https://resources.beecrowd.com/repository/UOJ_2339.html) - [Aviões de Papel](https://potigol.github.io/beecrowd/problemas/2300/#2339-avioes-de-papel) *Ad-Hoc* :material-alpha-j-circle-outline: :material-numeric-1-circle-outline:
+- [ ] [2340](https://resources.beecrowd.com/repository/UOJ_2340.html) - Feira de Bactérias *Ad-Hoc* :material-numeric-1-circle-outline:
+- [x] [2341](https://resources.beecrowd.com/repository/UOJ_2341.html) - [Número de Envelopes](https://potigol.github.io/beecrowd/problemas/2300/#2341-numero-de-envelopes) *Ad-Hoc* :material-alpha-j-circle-outline: :material-numeric-1-circle-outline:
+- [x] [2342](https://resources.beecrowd.com/repository/UOJ_2342.html) - [Overflow](https://potigol.github.io/beecrowd/problemas/2300/#2342-overflow) *Ad-Hoc* :material-alpha-j-circle-outline: :material-numeric-1-circle-outline:
+- [ ] [2343](https://resources.beecrowd.com/repository/UOJ_2343.html) - Caçadores de Mitos *Ad-Hoc* :material-numeric-2-circle-outline:
+- [x] [2344](https://resources.beecrowd.com/repository/UOJ_2344.html) - [Notas da Prova](https://potigol.github.io/beecrowd/problemas/2300/#2344-notas-da-prova) *Iniciante* :material-numeric-2-circle-outline:
 - [x] [2345](https://resources.beecrowd.com/repository/UOJ_2345.html) - [Atribuindo Equipes](https://potigol.github.io/beecrowd/problemas/2300/#2345-atribuindo-equipes) *Ad-Hoc*
 - [ ] [2346](https://resources.beecrowd.com/repository/UOJ_2346.html) - De Volta para o Futuro *Ad-Hoc*
 - [ ] [2347](https://resources.beecrowd.com/repository/UOJ_2347.html) - Contando Subconjuntos Autorrotativos *Ad-Hoc*
@@ -66,37 +66,37 @@
 - [ ] [2363](https://resources.beecrowd.com/repository/UOJ_2363.html) - Brincando com Transformações *Paradigmas*
 - [ ] [2364](https://resources.beecrowd.com/repository/UOJ_2364.html) - Henrique *Paradigmas*
 - [ ] [2365](https://resources.beecrowd.com/repository/UOJ_2365.html) - Bolão do Brasileirão *Ad-Hoc*
-- [ ] [2366](https://resources.beecrowd.com/repository/UOJ_2366.html) - Maratona *Ad-Hoc*
-- [ ] [2367](https://resources.beecrowd.com/repository/UOJ_2367.html) - Competição de Chocolate *Ad-Hoc*
-- [ ] [2368](https://resources.beecrowd.com/repository/UOJ_2368.html) - Simulador *Ad-Hoc*
-- [x] [2369](https://resources.beecrowd.com/repository/UOJ_2369.html) - [Conta de Água](https://potigol.github.io/beecrowd/problemas/2300/#2369-conta-de-agua) *Ad-Hoc*
-- [ ] [2370](https://resources.beecrowd.com/repository/UOJ_2370.html) - Times *Estruturas e Bibliotecas*
-- [ ] [2371](https://resources.beecrowd.com/repository/UOJ_2371.html) - Batalha Naval *Ad-Hoc*
-- [ ] [2372](https://resources.beecrowd.com/repository/UOJ_2372.html) - Reunião *Grafos*
-- [x] [2373](https://resources.beecrowd.com/repository/UOJ_2373.html) - [Garçom](https://potigol.github.io/beecrowd/problemas/2300/#2373-garcom) *Ad-Hoc*
-- [x] [2374](https://resources.beecrowd.com/repository/UOJ_2374.html) - [Pneu](https://potigol.github.io/beecrowd/problemas/2300/#2374-pneu) *Ad-Hoc*
-- [x] [2375](https://resources.beecrowd.com/repository/UOJ_2375.html) - [Sedex](https://potigol.github.io/beecrowd/problemas/2300/#2375-sedex) *Ad-Hoc*
-- [x] [2376](https://resources.beecrowd.com/repository/UOJ_2376.html) - [Copa do Mundo](https://potigol.github.io/beecrowd/problemas/2300/#2376-copa-do-mundo) *Ad-Hoc*
-- [x] [2377](https://resources.beecrowd.com/repository/UOJ_2377.html) - [Pedágio](https://potigol.github.io/beecrowd/problemas/2300/#2377-pedagio) *Ad-Hoc*
-- [x] [2378](https://resources.beecrowd.com/repository/UOJ_2378.html) - [Elevador](https://potigol.github.io/beecrowd/problemas/2300/#2378-elevador) *Ad-Hoc*
-- [ ] [2379](https://resources.beecrowd.com/repository/UOJ_2379.html) - Dança Indígena *Ad-Hoc*
-- [ ] [2380](https://resources.beecrowd.com/repository/UOJ_2380.html) - Fusões *Estruturas e Bibliotecas*
-- [x] [2381](https://resources.beecrowd.com/repository/UOJ_2381.html) - [Lista de Chamada](https://potigol.github.io/beecrowd/problemas/2300/#2381-lista-de-chamada) *Ad-Hoc*
-- [x] [2382](https://resources.beecrowd.com/repository/UOJ_2382.html) - [Sedex Marciano](https://potigol.github.io/beecrowd/problemas/2300/#2382-sedex-marciano) *Ad-Hoc*
-- [ ] [2383](https://resources.beecrowd.com/repository/UOJ_2383.html) - Altas Aventuras *Ad-Hoc*
-- [ ] [2384](https://resources.beecrowd.com/repository/UOJ_2384.html) - Tradutor Alienígena *Ad-Hoc*
-- [ ] [2385](https://resources.beecrowd.com/repository/UOJ_2385.html) - Multiplicação de Matrizes *Ad-Hoc*
-- [x] [2386](https://resources.beecrowd.com/repository/UOJ_2386.html) - [Telescópio](https://potigol.github.io/beecrowd/problemas/2300/#2386-telescopio) *Ad-Hoc*
-- [ ] [2387](https://resources.beecrowd.com/repository/UOJ_2387.html) - Dentista *Ad-Hoc*
-- [x] [2388](https://resources.beecrowd.com/repository/UOJ_2388.html) - [Tacógrafo](https://potigol.github.io/beecrowd/problemas/2300/#2388-tacografo) *Ad-Hoc*
-- [x] [2389](https://resources.beecrowd.com/repository/UOJ_2389.html) - [Floresta](https://potigol.github.io/beecrowd/problemas/2300/#2389-floresta) *Ad-Hoc*
-- [x] [2390](https://resources.beecrowd.com/repository/UOJ_2390.html) - [Escada Rolante](https://potigol.github.io/beecrowd/problemas/2300/#2390-escada-rolante) *Ad-Hoc*
-- [x] [2391](https://resources.beecrowd.com/repository/UOJ_2391.html) - [Progressões Aritméticas](https://potigol.github.io/beecrowd/problemas/2300/#2391-progressoes-aritmeticas) *Ad-Hoc*
-- [ ] [2392](https://resources.beecrowd.com/repository/UOJ_2392.html) - Pulo do Sapo *Ad-Hoc*
-- [ ] [2393](https://resources.beecrowd.com/repository/UOJ_2393.html) - O Mar não está para Peixe *Ad-Hoc*
-- [x] [2394](https://resources.beecrowd.com/repository/UOJ_2394.html) - [Corrida 1](https://potigol.github.io/beecrowd/problemas/2300/#2394-corrida-1) *Ad-Hoc*
-- [x] [2395](https://resources.beecrowd.com/repository/UOJ_2395.html) - [Transporte de Contêineres](https://potigol.github.io/beecrowd/problemas/2300/#2395-transporte-de-conteineres) *Ad-Hoc*
-- [x] [2396](https://resources.beecrowd.com/repository/UOJ_2396.html) - [Corrida](https://potigol.github.io/beecrowd/problemas/2300/#2396-corrida) *Ad-Hoc*
-- [x] [2397](https://resources.beecrowd.com/repository/UOJ_2397.html) - [Triângulos](https://potigol.github.io/beecrowd/problemas/2300/#2397-triangulos) *Ad-Hoc*
-- [ ] [2398](https://resources.beecrowd.com/repository/UOJ_2398.html) - Caça ao Tesouro *Ad-Hoc*
-- [x] [2399](https://resources.beecrowd.com/repository/UOJ_2399.html) - [Campo Minado](https://potigol.github.io/beecrowd/problemas/2300/#2399-campo-minado) *Ad-Hoc*
+- [ ] [2366](https://resources.beecrowd.com/repository/UOJ_2366.html) - Maratona *Ad-Hoc* :material-alpha-j-circle-outline: :material-numeric-1-circle-outline:
+- [ ] [2367](https://resources.beecrowd.com/repository/UOJ_2367.html) - Competição de Chocolate *Ad-Hoc* :material-alpha-j-circle-outline: :material-numeric-1-circle-outline: :material-numeric-2-circle-outline:
+- [ ] [2368](https://resources.beecrowd.com/repository/UOJ_2368.html) - Simulador *Ad-Hoc* :material-numeric-2-circle-outline:
+- [x] [2369](https://resources.beecrowd.com/repository/UOJ_2369.html) - [Conta de Água](https://potigol.github.io/beecrowd/problemas/2300/#2369-conta-de-agua) *Ad-Hoc* :material-numeric-1-circle-outline:
+- [ ] [2370](https://resources.beecrowd.com/repository/UOJ_2370.html) - Times *Estruturas e Bibliotecas* :material-numeric-1-circle-outline:
+- [ ] [2371](https://resources.beecrowd.com/repository/UOJ_2371.html) - Batalha Naval *Ad-Hoc* :material-numeric-2-circle-outline:
+- [ ] [2372](https://resources.beecrowd.com/repository/UOJ_2372.html) - Reunião *Grafos* :material-numeric-2-circle-outline:
+- [x] [2373](https://resources.beecrowd.com/repository/UOJ_2373.html) - [Garçom](https://potigol.github.io/beecrowd/problemas/2300/#2373-garcom) *Ad-Hoc* :material-alpha-j-circle-outline:
+- [x] [2374](https://resources.beecrowd.com/repository/UOJ_2374.html) - [Pneu](https://potigol.github.io/beecrowd/problemas/2300/#2374-pneu) *Ad-Hoc* :material-alpha-j-circle-outline:
+- [x] [2375](https://resources.beecrowd.com/repository/UOJ_2375.html) - [Sedex](https://potigol.github.io/beecrowd/problemas/2300/#2375-sedex) *Ad-Hoc* :material-alpha-j-circle-outline:
+- [x] [2376](https://resources.beecrowd.com/repository/UOJ_2376.html) - [Copa do Mundo](https://potigol.github.io/beecrowd/problemas/2300/#2376-copa-do-mundo) *Ad-Hoc* :material-numeric-1-circle-outline:
+- [x] [2377](https://resources.beecrowd.com/repository/UOJ_2377.html) - [Pedágio](https://potigol.github.io/beecrowd/problemas/2300/#2377-pedagio) *Ad-Hoc* :material-numeric-1-circle-outline:
+- [x] [2378](https://resources.beecrowd.com/repository/UOJ_2378.html) - [Elevador](https://potigol.github.io/beecrowd/problemas/2300/#2378-elevador) *Ad-Hoc* :material-numeric-2-circle-outline:
+- [ ] [2379](https://resources.beecrowd.com/repository/UOJ_2379.html) - Dança Indígena *Ad-Hoc* :material-numeric-1-circle-outline:
+- [ ] [2380](https://resources.beecrowd.com/repository/UOJ_2380.html) - Fusões *Estruturas e Bibliotecas* :material-numeric-1-circle-outline:
+- [x] [2381](https://resources.beecrowd.com/repository/UOJ_2381.html) - [Lista de Chamada](https://potigol.github.io/beecrowd/problemas/2300/#2381-lista-de-chamada) *Ad-Hoc* :material-numeric-1-circle-outline:
+- [x] [2382](https://resources.beecrowd.com/repository/UOJ_2382.html) - [Sedex Marciano](https://potigol.github.io/beecrowd/problemas/2300/#2382-sedex-marciano) *Ad-Hoc* :material-numeric-1-circle-outline:
+- [ ] [2383](https://resources.beecrowd.com/repository/UOJ_2383.html) - Altas Aventuras *Ad-Hoc* :material-numeric-2-circle-outline:
+- [ ] [2384](https://resources.beecrowd.com/repository/UOJ_2384.html) - Tradutor Alienígena *Ad-Hoc* :material-numeric-2-circle-outline:
+- [ ] [2385](https://resources.beecrowd.com/repository/UOJ_2385.html) - Multiplicação de Matrizes *Ad-Hoc* :material-numeric-2-circle-outline:
+- [x] [2386](https://resources.beecrowd.com/repository/UOJ_2386.html) - [Telescópio](https://potigol.github.io/beecrowd/problemas/2300/#2386-telescopio) *Ad-Hoc* :material-numeric-2-circle-outline:
+- [ ] [2387](https://resources.beecrowd.com/repository/UOJ_2387.html) - Dentista *Ad-Hoc* :material-alpha-j-circle-outline:
+- [x] [2388](https://resources.beecrowd.com/repository/UOJ_2388.html) - [Tacógrafo](https://potigol.github.io/beecrowd/problemas/2300/#2388-tacografo) *Ad-Hoc* :material-alpha-j-circle-outline:
+- [x] [2389](https://resources.beecrowd.com/repository/UOJ_2389.html) - [Floresta](https://potigol.github.io/beecrowd/problemas/2300/#2389-floresta) *Ad-Hoc* :material-numeric-2-circle-outline:
+- [x] [2390](https://resources.beecrowd.com/repository/UOJ_2390.html) - [Escada Rolante](https://potigol.github.io/beecrowd/problemas/2300/#2390-escada-rolante) *Ad-Hoc* :material-alpha-j-circle-outline:
+- [x] [2391](https://resources.beecrowd.com/repository/UOJ_2391.html) - [Progressões Aritméticas](https://potigol.github.io/beecrowd/problemas/2300/#2391-progressoes-aritmeticas) *Ad-Hoc* :material-numeric-1-circle-outline:
+- [ ] [2392](https://resources.beecrowd.com/repository/UOJ_2392.html) - Pulo do Sapo *Ad-Hoc* :material-numeric-1-circle-outline:
+- [ ] [2393](https://resources.beecrowd.com/repository/UOJ_2393.html) - O Mar não está para Peixe *Ad-Hoc* :material-numeric-2-circle-outline:
+- [x] [2394](https://resources.beecrowd.com/repository/UOJ_2394.html) - [Corrida 1](https://potigol.github.io/beecrowd/problemas/2300/#2394-corrida-1) *Ad-Hoc* :material-alpha-j-circle-outline: :material-numeric-1-circle-outline:
+- [x] [2395](https://resources.beecrowd.com/repository/UOJ_2395.html) - [Transporte de Contêineres](https://potigol.github.io/beecrowd/problemas/2300/#2395-transporte-de-conteineres) *Ad-Hoc* :material-alpha-j-circle-outline:
+- [x] [2396](https://resources.beecrowd.com/repository/UOJ_2396.html) - [Corrida](https://potigol.github.io/beecrowd/problemas/2300/#2396-corrida) *Ad-Hoc* :material-alpha-j-circle-outline: :material-numeric-1-circle-outline:
+- [x] [2397](https://resources.beecrowd.com/repository/UOJ_2397.html) - [Triângulos](https://potigol.github.io/beecrowd/problemas/2300/#2397-triangulos) *Ad-Hoc* :material-numeric-1-circle-outline:
+- [ ] [2398](https://resources.beecrowd.com/repository/UOJ_2398.html) - Caça ao Tesouro *Ad-Hoc* :material-numeric-2-circle-outline:
+- [x] [2399](https://resources.beecrowd.com/repository/UOJ_2399.html) - [Campo Minado](https://potigol.github.io/beecrowd/problemas/2300/#2399-campo-minado) *Ad-Hoc* :material-alpha-j-circle-outline:

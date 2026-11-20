@@ -1,4 +1,4 @@
-# Problemas 1200 (56/100)
+# Problemas 1200 (57/100)
 
 - [x] [1200](https://resources.beecrowd.com/repository/UOJ_1200.html) - [Operações em ABP I](https://potigol.github.io/beecrowd/problemas/1200/#1200-operacoes-em-abp-i) *Grafos*
 - [ ] [1201](https://resources.beecrowd.com/repository/UOJ_1201.html) - Operações em ABP II *Grafos*
@@ -93,7 +93,7 @@
 - [ ] [1290](https://resources.beecrowd.com/repository/UOJ_1290.html) - Caixas Muito Especiais *Ad-Hoc*
 - [x] [1291](https://resources.beecrowd.com/repository/UOJ_1291.html) - [Será Isso Integração?](https://potigol.github.io/beecrowd/problemas/1200/#1291-sera-isso-integracao) *Geometria Computacional*
 - [x] [1292](https://resources.beecrowd.com/repository/UOJ_1292.html) - [Problema com um Pentágono](https://potigol.github.io/beecrowd/problemas/1200/#1292-problema-com-um-pentagono) *Geometria Computacional*
-- [ ] [1293](https://resources.beecrowd.com/repository/UOJ_1293.html) - Romeu e Julieta! *Geometria Computacional*
+- [x] [1293](https://resources.beecrowd.com/repository/UOJ_1293.html) - [Romeu e Julieta!](https://potigol.github.io/beecrowd/problemas/1200/#1293-romeu-e-julieta) *Geometria Computacional*
 - [x] [1294](https://resources.beecrowd.com/repository/UOJ_1294.html) - [A Maior e Menor Caixa](https://potigol.github.io/beecrowd/problemas/1200/#1294-a-maior-e-menor-caixa) *Geometria Computacional*
 - [ ] [1295](https://resources.beecrowd.com/repository/UOJ_1295.html) - Problema dos Pares Mais Próximos *Geometria Computacional*
 - [x] [1296](https://resources.beecrowd.com/repository/UOJ_1296.html) - [Medianas](https://potigol.github.io/beecrowd/problemas/1200/#1296-medianas) *Geometria Computacional*

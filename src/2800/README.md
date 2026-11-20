@@ -30,14 +30,14 @@
 - [x] [2827](https://resources.beecrowd.com/repository/UOJ_2827.html) - [Contador de Tokens](https://potigol.github.io/beecrowd/problemas/2800/#2827-contador-de-tokens) *Strings*
 - [ ] [2828](https://resources.beecrowd.com/repository/UOJ_2828.html) - Anagramas *Matemática*
 - [ ] [2829](https://resources.beecrowd.com/repository/UOJ_2829.html) - Maiúsculas, Por Quê? *Ad-Hoc*
-- [x] [2830](https://resources.beecrowd.com/repository/UOJ_2830.html) - [Copa](https://potigol.github.io/beecrowd/problemas/2800/#2830-copa) *Ad-Hoc*
-- [x] [2831](https://resources.beecrowd.com/repository/UOJ_2831.html) - [Pesos](https://potigol.github.io/beecrowd/problemas/2800/#2831-pesos)
-- [ ] [2832](https://resources.beecrowd.com/repository/UOJ_2832.html) - Cápsulas *Ad-Hoc*
-- [x] [2833](https://resources.beecrowd.com/repository/UOJ_2833.html) - [Campeonato](https://potigol.github.io/beecrowd/problemas/2800/#2833-campeonato) *Ad-Hoc*
-- [ ] [2834](https://resources.beecrowd.com/repository/UOJ_2834.html) - Fuga *Ad-Hoc*
-- [x] [2835](https://resources.beecrowd.com/repository/UOJ_2835.html) - [Elevador](https://potigol.github.io/beecrowd/problemas/2800/#2835-elevador) *Ad-Hoc*
-- [ ] [2836](https://resources.beecrowd.com/repository/UOJ_2836.html) - Wifi *Ad-Hoc*
-- [ ] [2837](https://resources.beecrowd.com/repository/UOJ_2837.html) - Sequência *Ad-Hoc*
+- [x] [2830](https://resources.beecrowd.com/repository/UOJ_2830.html) - [Copa](https://potigol.github.io/beecrowd/problemas/2800/#2830-copa) *Ad-Hoc* :material-alpha-j-circle-outline:
+- [x] [2831](https://resources.beecrowd.com/repository/UOJ_2831.html) - [Pesos](https://potigol.github.io/beecrowd/problemas/2800/#2831-pesos) :material-alpha-j-circle-outline:
+- [ ] [2832](https://resources.beecrowd.com/repository/UOJ_2832.html) - Cápsulas *Ad-Hoc* :material-alpha-j-circle-outline: :material-numeric-1-circle-outline:
+- [x] [2833](https://resources.beecrowd.com/repository/UOJ_2833.html) - [Campeonato](https://potigol.github.io/beecrowd/problemas/2800/#2833-campeonato) *Ad-Hoc* :material-numeric-1-circle-outline:
+- [ ] [2834](https://resources.beecrowd.com/repository/UOJ_2834.html) - Fuga *Ad-Hoc* :material-numeric-2-circle-outline: :material-alpha-s-circle-outline:
+- [x] [2835](https://resources.beecrowd.com/repository/UOJ_2835.html) - [Elevador](https://potigol.github.io/beecrowd/problemas/2800/#2835-elevador) *Ad-Hoc* :material-numeric-2-circle-outline: :material-alpha-s-circle-outline:
+- [ ] [2836](https://resources.beecrowd.com/repository/UOJ_2836.html) - Wifi *Ad-Hoc* :material-numeric-2-circle-outline:
+- [ ] [2837](https://resources.beecrowd.com/repository/UOJ_2837.html) - Sequência *Ad-Hoc* :material-alpha-s-circle-outline:
 - [ ] [2838](https://resources.beecrowd.com/repository/UOJ_2838.html) - As Jóias do Infinito *Grafos*
 - [x] [2839](https://resources.beecrowd.com/repository/UOJ_2839.html) - [As Meias de Rangel](https://potigol.github.io/beecrowd/problemas/2800/#2839-as-meias-de-rangel) *Matemática*
 - [x] [2840](https://resources.beecrowd.com/repository/UOJ_2840.html) - [Balão++](https://potigol.github.io/beecrowd/problemas/2800/#2840-balao) *Geometria Computacional*

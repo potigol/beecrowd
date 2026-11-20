@@ -28,9 +28,9 @@
 - [ ] [1925](https://resources.beecrowd.com/repository/UOJ_1925.html) - Ordan e as Novinhas *Grafos*
 - [ ] [1926](https://resources.beecrowd.com/repository/UOJ_1926.html) - Marianne e os Primos Gêmeos *Matemática*
 - [ ] [1927](https://resources.beecrowd.com/repository/UOJ_1927.html) - Tapioca e a Chuva de Trufas *Paradigmas*
-- [ ] [1928](https://resources.beecrowd.com/repository/UOJ_1928.html) - Jogo da Memória *Grafos*
-- [x] [1929](https://resources.beecrowd.com/repository/UOJ_1929.html) - [Triângulo](https://potigol.github.io/beecrowd/problemas/1900/#1929-triangulo) *Iniciante*
-- [x] [1930](https://resources.beecrowd.com/repository/UOJ_1930.html) - [Tomadas](https://potigol.github.io/beecrowd/problemas/1900/#1930-tomadas) *Iniciante*
+- [ ] [1928](https://resources.beecrowd.com/repository/UOJ_1928.html) - Jogo da Memória *Grafos* :material-numeric-1-circle-outline:
+- [x] [1929](https://resources.beecrowd.com/repository/UOJ_1929.html) - [Triângulo](https://potigol.github.io/beecrowd/problemas/1900/#1929-triangulo) *Iniciante* :material-numeric-1-circle-outline:
+- [x] [1930](https://resources.beecrowd.com/repository/UOJ_1930.html) - [Tomadas](https://potigol.github.io/beecrowd/problemas/1900/#1930-tomadas) *Iniciante* :material-alpha-j-circle-outline:
 - [ ] [1931](https://resources.beecrowd.com/repository/UOJ_1931.html) - Mania de Par *Grafos*
 - [ ] [1932](https://resources.beecrowd.com/repository/UOJ_1932.html) - Bolsa de Valores *Paradigmas*
 - [x] [1933](https://resources.beecrowd.com/repository/UOJ_1933.html) - [Tri-du](https://potigol.github.io/beecrowd/problemas/1900/#1933-tri-du) *Iniciante*

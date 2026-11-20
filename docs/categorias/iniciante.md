@@ -131,8 +131,8 @@
 - [x] [1866](https://resources.beecrowd.com/repository/UOJ_1866.html) - [Conta](https://potigol.github.io/beecrowd/problemas/1800/#1866-conta)
 - [x] [1914](https://resources.beecrowd.com/repository/UOJ_1914.html) - [De Quem é a Vez?](https://potigol.github.io/beecrowd/problemas/1900/#1914-de-quem-e-a-vez)
 - [x] [1924](https://resources.beecrowd.com/repository/UOJ_1924.html) - [Vitória e a Indecisão](https://potigol.github.io/beecrowd/problemas/1900/#1924-vitoria-e-a-indecisao)
-- [x] [1929](https://resources.beecrowd.com/repository/UOJ_1929.html) - [Triângulo](https://potigol.github.io/beecrowd/problemas/1900/#1929-triangulo)
-- [x] [1930](https://resources.beecrowd.com/repository/UOJ_1930.html) - [Tomadas](https://potigol.github.io/beecrowd/problemas/1900/#1930-tomadas)
+- [x] [1929](https://resources.beecrowd.com/repository/UOJ_1929.html) - [Triângulo](https://potigol.github.io/beecrowd/problemas/1900/#1929-triangulo) :material-numeric-1-circle-outline:
+- [x] [1930](https://resources.beecrowd.com/repository/UOJ_1930.html) - [Tomadas](https://potigol.github.io/beecrowd/problemas/1900/#1930-tomadas) :material-alpha-j-circle-outline:
 - [x] [1933](https://resources.beecrowd.com/repository/UOJ_1933.html) - [Tri-du](https://potigol.github.io/beecrowd/problemas/1900/#1933-tri-du)
 - [x] [1957](https://resources.beecrowd.com/repository/UOJ_1957.html) - [Converter para Hexadecimal](https://potigol.github.io/beecrowd/problemas/1900/#1957-converter-para-hexadecimal)
 - [x] [1958](https://resources.beecrowd.com/repository/UOJ_1958.html) - [Notação Científica](https://potigol.github.io/beecrowd/problemas/1900/#1958-notacao-cientifica)
@@ -181,7 +181,7 @@
 - [x] [2311](https://resources.beecrowd.com/repository/UOJ_2311.html) - [Saltos Ornamentais](https://potigol.github.io/beecrowd/problemas/2300/#2311-saltos-ornamentais)
 - [x] [2313](https://resources.beecrowd.com/repository/UOJ_2313.html) - [Qual Triângulo](https://potigol.github.io/beecrowd/problemas/2300/#2313-qual-triangulo)
 - [x] [2334](https://resources.beecrowd.com/repository/UOJ_2334.html) - [Patinhos](https://potigol.github.io/beecrowd/problemas/2300/#2334-patinhos)
-- [x] [2344](https://resources.beecrowd.com/repository/UOJ_2344.html) - [Notas da Prova](https://potigol.github.io/beecrowd/problemas/2300/#2344-notas-da-prova)
+- [x] [2344](https://resources.beecrowd.com/repository/UOJ_2344.html) - [Notas da Prova](https://potigol.github.io/beecrowd/problemas/2300/#2344-notas-da-prova) :material-numeric-2-circle-outline:
 - [x] [2483](https://resources.beecrowd.com/repository/UOJ_2483.html) - [Feliz Nataaal!](https://potigol.github.io/beecrowd/problemas/2400/#2483-feliz-nataaal)
 - [x] [2486](https://resources.beecrowd.com/repository/UOJ_2486.html) - [C Mais ou Menos?](https://potigol.github.io/beecrowd/problemas/2400/#2486-c-mais-ou-menos)
 - [x] [2493](https://resources.beecrowd.com/repository/UOJ_2493.html) - [Jogo do Operador](https://potigol.github.io/beecrowd/problemas/2400/#2493-jogo-do-operador)
@@ -239,13 +239,13 @@
 - [x] [2770](https://resources.beecrowd.com/repository/UOJ_2770.html) - [Tamanho da Placa](https://potigol.github.io/beecrowd/problemas/2700/#2770-tamanho-da-placa)
 - [x] [2774](https://resources.beecrowd.com/repository/UOJ_2774.html) - [Precisão do Sensor](https://potigol.github.io/beecrowd/problemas/2700/#2774-precisao-do-sensor)
 - [x] [2775](https://resources.beecrowd.com/repository/UOJ_2775.html) - [Preparando a Produção](https://potigol.github.io/beecrowd/problemas/2700/#2775-preparando-a-producao)
-- [x] [2779](https://resources.beecrowd.com/repository/UOJ_2779.html) - [Álbum da Copa](https://potigol.github.io/beecrowd/problemas/2700/#2779-album-da-copa)
-- [x] [2780](https://resources.beecrowd.com/repository/UOJ_2780.html) - [Basquete de Robôs](https://potigol.github.io/beecrowd/problemas/2700/#2780-basquete-de-robos)
-- [x] [2782](https://resources.beecrowd.com/repository/UOJ_2782.html) - [Escadinha](https://potigol.github.io/beecrowd/problemas/2700/#2782-escadinha)
-- [x] [2783](https://resources.beecrowd.com/repository/UOJ_2783.html) - [Figurinhas da Copa](https://potigol.github.io/beecrowd/problemas/2700/#2783-figurinhas-da-copa)
-- [x] [2785](https://resources.beecrowd.com/repository/UOJ_2785.html) - [Pirâmide](https://potigol.github.io/beecrowd/problemas/2700/#2785-piramide)
-- [x] [2786](https://resources.beecrowd.com/repository/UOJ_2786.html) - [Piso da Escola](https://potigol.github.io/beecrowd/problemas/2700/#2786-piso-da-escola)
-- [x] [2787](https://resources.beecrowd.com/repository/UOJ_2787.html) - [Xadrez](https://potigol.github.io/beecrowd/problemas/2700/#2787-xadrez)
+- [x] [2779](https://resources.beecrowd.com/repository/UOJ_2779.html) - [Álbum da Copa](https://potigol.github.io/beecrowd/problemas/2700/#2779-album-da-copa) :material-alpha-j-circle-outline:
+- [x] [2780](https://resources.beecrowd.com/repository/UOJ_2780.html) - [Basquete de Robôs](https://potigol.github.io/beecrowd/problemas/2700/#2780-basquete-de-robos) :material-alpha-j-circle-outline:
+- [x] [2782](https://resources.beecrowd.com/repository/UOJ_2782.html) - [Escadinha](https://potigol.github.io/beecrowd/problemas/2700/#2782-escadinha) :material-numeric-1-circle-outline:
+- [x] [2783](https://resources.beecrowd.com/repository/UOJ_2783.html) - [Figurinhas da Copa](https://potigol.github.io/beecrowd/problemas/2700/#2783-figurinhas-da-copa) :material-numeric-2-circle-outline: :material-alpha-s-circle-outline:
+- [x] [2785](https://resources.beecrowd.com/repository/UOJ_2785.html) - [Pirâmide](https://potigol.github.io/beecrowd/problemas/2700/#2785-piramide) :material-numeric-1-circle-outline:
+- [x] [2786](https://resources.beecrowd.com/repository/UOJ_2786.html) - [Piso da Escola](https://potigol.github.io/beecrowd/problemas/2700/#2786-piso-da-escola) :material-numeric-2-circle-outline: :material-alpha-s-circle-outline:
+- [x] [2787](https://resources.beecrowd.com/repository/UOJ_2787.html) - [Xadrez](https://potigol.github.io/beecrowd/problemas/2700/#2787-xadrez) :material-numeric-1-circle-outline:
 - [x] [2791](https://resources.beecrowd.com/repository/UOJ_2791.html) - [Feijão](https://potigol.github.io/beecrowd/problemas/2700/#2791-feijao)
 - [x] [2802](https://resources.beecrowd.com/repository/UOJ_2802.html) - [Dividindo Círculos](https://potigol.github.io/beecrowd/problemas/2800/#2802-dividindo-circulos)
 - [x] [2807](https://resources.beecrowd.com/repository/UOJ_2807.html) - [Iccanobif](https://potigol.github.io/beecrowd/problemas/2800/#2807-iccanobif)
@@ -275,10 +275,10 @@
 - [x] [3037](https://resources.beecrowd.com/repository/UOJ_3037.html) - [Jogando Dardos Por Distância](https://potigol.github.io/beecrowd/problemas/3000/#3037-jogando-dardos-por-distancia)
 - [x] [3039](https://resources.beecrowd.com/repository/UOJ_3039.html) - [Brinquedos do Papai Noel](https://potigol.github.io/beecrowd/problemas/3000/#3039-brinquedos-do-papai-noel)
 - [x] [3040](https://resources.beecrowd.com/repository/UOJ_3040.html) - [A Árvore de Natal](https://potigol.github.io/beecrowd/problemas/3000/#3040-a-arvore-de-natal)
-- [x] [3046](https://resources.beecrowd.com/repository/UOJ_3046.html) - [Dominó](https://potigol.github.io/beecrowd/problemas/3000/#3046-domino)
-- [x] [3047](https://resources.beecrowd.com/repository/UOJ_3047.html) - [A idade de Dona Mônica](https://potigol.github.io/beecrowd/problemas/3000/#3047-a-idade-de-dona-monica)
-- [x] [3053](https://resources.beecrowd.com/repository/UOJ_3053.html) - [Jogo Dos Copos](https://potigol.github.io/beecrowd/problemas/3000/#3053-jogo-dos-copos)
-- [x] [3055](https://resources.beecrowd.com/repository/UOJ_3055.html) - [Nota Esquecida](https://potigol.github.io/beecrowd/problemas/3000/#3055-nota-esquecida)
+- [x] [3046](https://resources.beecrowd.com/repository/UOJ_3046.html) - [Dominó](https://potigol.github.io/beecrowd/problemas/3000/#3046-domino) :material-alpha-j-circle-outline:
+- [x] [3047](https://resources.beecrowd.com/repository/UOJ_3047.html) - [A idade de Dona Mônica](https://potigol.github.io/beecrowd/problemas/3000/#3047-a-idade-de-dona-monica) :material-alpha-j-circle-outline: :material-numeric-1-circle-outline: :material-numeric-2-circle-outline: :material-alpha-s-circle-outline:
+- [x] [3053](https://resources.beecrowd.com/repository/UOJ_3053.html) - [Jogo Dos Copos](https://potigol.github.io/beecrowd/problemas/3000/#3053-jogo-dos-copos) :material-alpha-j-circle-outline:
+- [x] [3055](https://resources.beecrowd.com/repository/UOJ_3055.html) - [Nota Esquecida](https://potigol.github.io/beecrowd/problemas/3000/#3055-nota-esquecida) :material-alpha-j-circle-outline: :material-numeric-1-circle-outline:
 - [x] [3065](https://resources.beecrowd.com/repository/UOJ_3065.html) - [Calculando](https://potigol.github.io/beecrowd/problemas/3000/#3065-calculando)
 - [x] [3076](https://resources.beecrowd.com/repository/UOJ_3076.html) - [Exercício de História](https://potigol.github.io/beecrowd/problemas/3000/#3076-exercicio-de-historia)
 - [x] [3084](https://resources.beecrowd.com/repository/UOJ_3084.html) - [Relógio Antigo](https://potigol.github.io/beecrowd/problemas/3000/#3084-relogio-antigo)

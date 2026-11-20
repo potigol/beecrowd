@@ -46,24 +46,24 @@
 - [x] [3043](https://resources.beecrowd.com/repository/UOJ_3043.html) - [Festa Junina](https://potigol.github.io/beecrowd/problemas/3000/#3043-festa-junina) *Grafos*
 - [ ] [3044](https://resources.beecrowd.com/repository/UOJ_3044.html) - Manutenção *Grafos*
 - [ ] [3045](https://resources.beecrowd.com/repository/UOJ_3045.html) - Parque Jurássico *Estruturas e Bibliotecas*
-- [x] [3046](https://resources.beecrowd.com/repository/UOJ_3046.html) - [Dominó](https://potigol.github.io/beecrowd/problemas/3000/#3046-domino) *Iniciante*
-- [x] [3047](https://resources.beecrowd.com/repository/UOJ_3047.html) - [A idade de Dona Mônica](https://potigol.github.io/beecrowd/problemas/3000/#3047-a-idade-de-dona-monica) *Iniciante*
-- [x] [3048](https://resources.beecrowd.com/repository/UOJ_3048.html) - [Sequência Secreta](https://potigol.github.io/beecrowd/problemas/3000/#3048-sequencia-secreta) *Ad-Hoc*
-- [x] [3049](https://resources.beecrowd.com/repository/UOJ_3049.html) - [Nota Cortada](https://potigol.github.io/beecrowd/problemas/3000/#3049-nota-cortada) *Matemática*
-- [x] [3050](https://resources.beecrowd.com/repository/UOJ_3050.html) - [Distância Entre Amigos](https://potigol.github.io/beecrowd/problemas/3000/#3050-distancia-entre-amigos) *Ad-Hoc*
-- [ ] [3051](https://resources.beecrowd.com/repository/UOJ_3051.html) - Soma *Paradigmas*
-- [ ] [3052](https://resources.beecrowd.com/repository/UOJ_3052.html) - Chuva *Ad-Hoc*
-- [x] [3053](https://resources.beecrowd.com/repository/UOJ_3053.html) - [Jogo Dos Copos](https://potigol.github.io/beecrowd/problemas/3000/#3053-jogo-dos-copos) *Iniciante*
-- [ ] [3054](https://resources.beecrowd.com/repository/UOJ_3054.html) - Matriz Super-legal *Ad-Hoc*
-- [x] [3055](https://resources.beecrowd.com/repository/UOJ_3055.html) - [Nota Esquecida](https://potigol.github.io/beecrowd/problemas/3000/#3055-nota-esquecida) *Iniciante*
-- [x] [3056](https://resources.beecrowd.com/repository/UOJ_3056.html) - [Ponto do Meio](https://potigol.github.io/beecrowd/problemas/3000/#3056-ponto-do-meio) *Ad-Hoc*
-- [ ] [3057](https://resources.beecrowd.com/repository/UOJ_3057.html) - Detetive *Ad-Hoc*
-- [x] [3058](https://resources.beecrowd.com/repository/UOJ_3058.html) - [Supermercado](https://potigol.github.io/beecrowd/problemas/3000/#3058-supermercado) *Ad-Hoc*
-- [x] [3059](https://resources.beecrowd.com/repository/UOJ_3059.html) - [Pares de Números](https://potigol.github.io/beecrowd/problemas/3000/#3059-pares-de-numeros) *Ad-Hoc*
-- [x] [3060](https://resources.beecrowd.com/repository/UOJ_3060.html) - [Parcelamento Sem Juros](https://potigol.github.io/beecrowd/problemas/3000/#3060-parcelamento-sem-juros) *Ad-Hoc*
-- [ ] [3061](https://resources.beecrowd.com/repository/UOJ_3061.html) - Manchas de Pele *Grafos*
-- [ ] [3062](https://resources.beecrowd.com/repository/UOJ_3062.html) - Coleção de Upas *Ad-Hoc*
-- [ ] [3063](https://resources.beecrowd.com/repository/UOJ_3063.html) - Linhas de Ônibus *Ad-Hoc*
+- [x] [3046](https://resources.beecrowd.com/repository/UOJ_3046.html) - [Dominó](https://potigol.github.io/beecrowd/problemas/3000/#3046-domino) *Iniciante* :material-alpha-j-circle-outline:
+- [x] [3047](https://resources.beecrowd.com/repository/UOJ_3047.html) - [A idade de Dona Mônica](https://potigol.github.io/beecrowd/problemas/3000/#3047-a-idade-de-dona-monica) *Iniciante* :material-alpha-j-circle-outline: :material-numeric-1-circle-outline: :material-numeric-2-circle-outline: :material-alpha-s-circle-outline:
+- [x] [3048](https://resources.beecrowd.com/repository/UOJ_3048.html) - [Sequência Secreta](https://potigol.github.io/beecrowd/problemas/3000/#3048-sequencia-secreta) *Ad-Hoc* :material-alpha-j-circle-outline:
+- [x] [3049](https://resources.beecrowd.com/repository/UOJ_3049.html) - [Nota Cortada](https://potigol.github.io/beecrowd/problemas/3000/#3049-nota-cortada) *Matemática* :material-numeric-1-circle-outline:
+- [x] [3050](https://resources.beecrowd.com/repository/UOJ_3050.html) - [Distância Entre Amigos](https://potigol.github.io/beecrowd/problemas/3000/#3050-distancia-entre-amigos) *Ad-Hoc* :material-numeric-1-circle-outline:
+- [ ] [3051](https://resources.beecrowd.com/repository/UOJ_3051.html) - Soma *Paradigmas* :material-numeric-2-circle-outline: :material-alpha-s-circle-outline:
+- [ ] [3052](https://resources.beecrowd.com/repository/UOJ_3052.html) - Chuva *Ad-Hoc* :material-numeric-2-circle-outline: :material-alpha-s-circle-outline:
+- [x] [3053](https://resources.beecrowd.com/repository/UOJ_3053.html) - [Jogo Dos Copos](https://potigol.github.io/beecrowd/problemas/3000/#3053-jogo-dos-copos) *Iniciante* :material-alpha-j-circle-outline:
+- [ ] [3054](https://resources.beecrowd.com/repository/UOJ_3054.html) - Matriz Super-legal *Ad-Hoc* :material-numeric-1-circle-outline: :material-numeric-2-circle-outline: :material-alpha-s-circle-outline:
+- [x] [3055](https://resources.beecrowd.com/repository/UOJ_3055.html) - [Nota Esquecida](https://potigol.github.io/beecrowd/problemas/3000/#3055-nota-esquecida) *Iniciante* :material-alpha-j-circle-outline: :material-numeric-1-circle-outline:
+- [x] [3056](https://resources.beecrowd.com/repository/UOJ_3056.html) - [Ponto do Meio](https://potigol.github.io/beecrowd/problemas/3000/#3056-ponto-do-meio) *Ad-Hoc* :material-numeric-1-circle-outline:
+- [ ] [3057](https://resources.beecrowd.com/repository/UOJ_3057.html) - Detetive *Ad-Hoc* :material-numeric-2-circle-outline:
+- [x] [3058](https://resources.beecrowd.com/repository/UOJ_3058.html) - [Supermercado](https://potigol.github.io/beecrowd/problemas/3000/#3058-supermercado) *Ad-Hoc* :material-numeric-2-circle-outline: :material-alpha-s-circle-outline:
+- [x] [3059](https://resources.beecrowd.com/repository/UOJ_3059.html) - [Pares de Números](https://potigol.github.io/beecrowd/problemas/3000/#3059-pares-de-numeros) *Ad-Hoc* :material-alpha-j-circle-outline:
+- [x] [3060](https://resources.beecrowd.com/repository/UOJ_3060.html) - [Parcelamento Sem Juros](https://potigol.github.io/beecrowd/problemas/3000/#3060-parcelamento-sem-juros) *Ad-Hoc* :material-alpha-j-circle-outline: :material-numeric-1-circle-outline:
+- [ ] [3061](https://resources.beecrowd.com/repository/UOJ_3061.html) - Manchas de Pele *Grafos* :material-alpha-j-circle-outline: :material-numeric-1-circle-outline:
+- [ ] [3062](https://resources.beecrowd.com/repository/UOJ_3062.html) - Coleção de Upas *Ad-Hoc* :material-numeric-1-circle-outline:
+- [ ] [3063](https://resources.beecrowd.com/repository/UOJ_3063.html) - Linhas de Ônibus *Ad-Hoc* :material-numeric-1-circle-outline:
 - [ ] [3064](https://resources.beecrowd.com/repository/UOJ_3064.html) - Elástico *Geometria Computacional*
 - [x] [3065](https://resources.beecrowd.com/repository/UOJ_3065.html) - [Calculando](https://potigol.github.io/beecrowd/problemas/3000/#3065-calculando) *Iniciante*
 - [ ] [3066](https://resources.beecrowd.com/repository/UOJ_3066.html) - Dengue
