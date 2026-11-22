@@ -1,4 +1,4 @@
-# Problemas 3400 (31/100)
+# Problemas 3400 (32/100)
 
 - [ ] [3400](https://resources.beecrowd.com/repository/UOJ_3400.html) - Amigo não tão secreto assim *Ad-Hoc*
 - [ ] [3401](https://resources.beecrowd.com/repository/UOJ_3401.html) - Bicho da Goiaba Ataca Novamente *Ad-Hoc*
@@ -53,7 +53,7 @@
 - [x] [3450](https://resources.beecrowd.com/repository/UOJ_3450.html) - [Participando de uma Maratona](https://potigol.github.io/beecrowd/problemas/3400/#3450-participando-de-uma-maratona) *Ad-Hoc*
 - [ ] [3451](https://resources.beecrowd.com/repository/UOJ_3451.html) - Impressão Preguiçosa *Ad-Hoc*
 - [ ] [3452](https://resources.beecrowd.com/repository/UOJ_3452.html) - Labirinto em Parafuso *Ad-Hoc*
-- [ ] [3453](https://resources.beecrowd.com/repository/UOJ_3453.html) - Carlinhos Adora Problemas *Ad-Hoc*
+- [x] [3453](https://resources.beecrowd.com/repository/UOJ_3453.html) - [Carlinhos Adora Problemas](https://potigol.github.io/beecrowd/problemas/3400/#3453-carlinhos-adora-problemas) *Ad-Hoc*
 - [x] [3454](https://resources.beecrowd.com/repository/UOJ_3454.html) - [Alice no País do Jogo da Velha](https://potigol.github.io/beecrowd/problemas/3400/#3454-alice-no-pais-do-jogo-da-velha) *Ad-Hoc*
 - [x] [3455](https://resources.beecrowd.com/repository/UOJ_3455.html) - [Banco Nacional de Questões](https://potigol.github.io/beecrowd/problemas/3400/#3455-banco-nacional-de-questoes) *Ad-Hoc*
 - [x] [3456](https://resources.beecrowd.com/repository/UOJ_3456.html) - [Divisibilidade por 7](https://potigol.github.io/beecrowd/problemas/3400/#3456-divisibilidade-por-7) *Ad-Hoc*

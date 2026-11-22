@@ -1,4 +1,4 @@
-# Ad-Hoc (280 / 863)
+# Ad-Hoc (281 / 863)
 
 ## Problemas resolvidos
 
@@ -265,6 +265,7 @@
 - [x] [3445](https://resources.beecrowd.com/repository/UOJ_3445.html) - [Passeios cotidianos](https://potigol.github.io/beecrowd/problemas/3400/#3445-passeios-cotidianos)
 - [x] [3446](https://resources.beecrowd.com/repository/UOJ_3446.html) - [Quadrados Vazios](https://potigol.github.io/beecrowd/problemas/3400/#3446-quadrados-vazios)
 - [x] [3450](https://resources.beecrowd.com/repository/UOJ_3450.html) - [Participando de uma Maratona](https://potigol.github.io/beecrowd/problemas/3400/#3450-participando-de-uma-maratona)
+- [x] [3453](https://resources.beecrowd.com/repository/UOJ_3453.html) - [Carlinhos Adora Problemas](https://potigol.github.io/beecrowd/problemas/3400/#3453-carlinhos-adora-problemas)
 - [x] [3454](https://resources.beecrowd.com/repository/UOJ_3454.html) - [Alice no País do Jogo da Velha](https://potigol.github.io/beecrowd/problemas/3400/#3454-alice-no-pais-do-jogo-da-velha)
 - [x] [3455](https://resources.beecrowd.com/repository/UOJ_3455.html) - [Banco Nacional de Questões](https://potigol.github.io/beecrowd/problemas/3400/#3455-banco-nacional-de-questoes)
 - [x] [3456](https://resources.beecrowd.com/repository/UOJ_3456.html) - [Divisibilidade por 7](https://potigol.github.io/beecrowd/problemas/3400/#3456-divisibilidade-por-7)
@@ -846,7 +847,6 @@
 - [ ] [3449](https://resources.beecrowd.com/repository/UOJ_3449.html) - Restaurante Italian Calzone & Pasta Corner
 - [ ] [3451](https://resources.beecrowd.com/repository/UOJ_3451.html) - Impressão Preguiçosa
 - [ ] [3452](https://resources.beecrowd.com/repository/UOJ_3452.html) - Labirinto em Parafuso
-- [ ] [3453](https://resources.beecrowd.com/repository/UOJ_3453.html) - Carlinhos Adora Problemas
 - [ ] [3457](https://resources.beecrowd.com/repository/UOJ_3457.html) - Estimando Pedras no Pote
 - [ ] [3458](https://resources.beecrowd.com/repository/UOJ_3458.html) - Fabricação de Proteínas
 - [ ] [3459](https://resources.beecrowd.com/repository/UOJ_3459.html) - GoldMagikarp

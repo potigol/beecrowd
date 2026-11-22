@@ -5,7 +5,18 @@ Mais de 800 problemas da plataforma [Beecrowd](https://beecrowd.com) resolvidos 
 [![Execute no GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/potigol/beecrowd?quickstart=1)
 
 [![Follow us](https://img.shields.io/twitter/follow/potigol.svg?style=social)](http://twitter.com/potigol)
-[![Problemas Resolvidos](https://img.shields.io/badge/Problemas%20Resolvidos-880-blue)](https://github.com/potigol/beecrowd/commits/master)
+[![Problemas Resolvidos](https://img.shields.io/badge/Problemas%20Resolvidos-882-blue)](https://github.com/potigol/beecrowd/commits/master)
+
+## Problemas por categoria
+
+- [Iniciante](categorias/iniciante.md): fundamentos de entrada, saída e lógica.
+- [Ad-hoc](categorias/adhoc.md): simulação, datas e problemas gerais.
+- [Strings](categorias/strings.md): palíndromos, frequência, LCS e manipulação de texto.
+- [Estruturas e Bibliotecas](categorias/estruturasebibliotecas.md): filas, pilhas, ordenação e mapas.
+- [Matemática](categorias/matemática.md): sistemas numéricos, primos e BigInteger.
+- [Paradigmas](categorias/paradigmas.md): programação dinâmica, busca binária, gulosos e backtracking.
+- [Grafos](categorias/grafos.md): flood fill, MST, SSSP, DAG, fluxo máximo e árvores.
+- [Geometria Computacional](categorias/geometriacomputacional.md): pontos, linhas e polígonos.
 
 ## Soluções
 
@@ -18,17 +29,6 @@ Mais de 800 problemas da plataforma [Beecrowd](https://beecrowd.com) resolvidos 
 [2800–2899](problemas/2800.md), [2900–2999](problemas/2900.md), [3000–3099](problemas/3000.md),
 [3100–3199](problemas/3100.md), [3200–3299](problemas/3200.md), [3300–3399](problemas/3300.md),
 [3400–3499](problemas/3400.md), [3500–3599](problemas/3500.md)
-
-## Problemas por categoria
-
-- [Iniciante](categorias/iniciante.md): fundamentos de entrada, saída e lógica.
-- [Ad-hoc](categorias/adhoc.md): simulação, datas e problemas gerais.
-- [Strings](categorias/strings.md): palíndromos, frequência, LCS e manipulação de texto.
-- [Estruturas e Bibliotecas](categorias/estruturasebibliotecas.md): filas, pilhas, ordenação e mapas.
-- [Matemática](categorias/matemática.md): sistemas numéricos, primos e BigInteger.
-- [Paradigmas](categorias/paradigmas.md): programação dinâmica, busca binária, gulosos e backtracking.
-- [Grafos](categorias/grafos.md): flood fill, MST, SSSP, DAG, fluxo máximo e árvores.
-- [Geometria Computacional](categorias/geometriacomputacional.md): pontos, linhas e polígonos.
 
 ## Problemas de Competições de Programação
 
