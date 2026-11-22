@@ -1,0 +1,16 @@
+a = leia_textos(" ")
+n = a[1].inteiro
+k = BigInt(a[2])
+
+limite = 2 * n + 1
+var i := 2 * n
+
+enquanto i > 0 faça
+    quadrado = BigInt(i) * i
+    se quadrado <> k e (quadrado - k) mod limite == 0 então
+        escreva quadrado
+        i := 0
+    senão
+        i := i - 1
+    fim
+fim
