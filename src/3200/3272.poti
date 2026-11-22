@@ -1,0 +1,11 @@
+def menor(a, b: Inteiro) = se a < b então a senão b fim
+
+n = leia_inteiro
+alturas = leia_inteiros(" ")
+
+resposta = alturas
+            .ordene(a => -a)
+            .zip(para i de 0 até n-1 gere i fim)
+            .injete(n)((a, b) => menor(a, b.primeiro + b.segundo))
+            
+escreva resposta
