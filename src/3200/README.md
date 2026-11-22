@@ -1,4 +1,4 @@
-# Problemas 3200 (21/100)
+# Problemas 3200 (22/100)
 
 - [ ] [3200](https://resources.beecrowd.com/repository/UOJ_3200.html) - Card Trick *Ad-Hoc*
 - [ ] [3201](https://resources.beecrowd.com/repository/UOJ_3201.html) - Traveling Salesman *Estruturas e Bibliotecas*
@@ -72,7 +72,7 @@
 - [ ] [3269](https://resources.beecrowd.com/repository/UOJ_3269.html) - Vigilância de Basin City *Grafos*
 - [ ] [3270](https://resources.beecrowd.com/repository/UOJ_3270.html) - Praça Catalã *Matemática*
 - [x] [3271](https://resources.beecrowd.com/repository/UOJ_3271.html) - [Jogo de Dados](https://potigol.github.io/beecrowd/problemas/3200/#3271-jogo-de-dados) *Matemática*
-- [ ] [3272](https://resources.beecrowd.com/repository/UOJ_3272.html) - Cerimônia de Abertura *Matemática*
+- [x] [3272](https://resources.beecrowd.com/repository/UOJ_3272.html) - [Cerimônia de Abertura](https://potigol.github.io/beecrowd/problemas/3200/#3272-cerimonia-de-abertura) *Matemática*
 - [ ] [3273](https://resources.beecrowd.com/repository/UOJ_3273.html) - Troca de Partículas
 - [ ] [3274](https://resources.beecrowd.com/repository/UOJ_3274.html) - Excursão *Paradigmas*
 - [ ] [3275](https://resources.beecrowd.com/repository/UOJ_3275.html) - Foto de Relógios *Strings*

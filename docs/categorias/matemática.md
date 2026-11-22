@@ -1,4 +1,4 @@
-# Matemática (110 / 279)
+# Matemática (111 / 279)
 
 ## Problemas resolvidos
 
@@ -109,6 +109,7 @@
 - [x] [3217](https://resources.beecrowd.com/repository/UOJ_3217.html) - [Chuva Caindo](https://potigol.github.io/beecrowd/problemas/3200/#3217-chuva-caindo)
 - [x] [3257](https://resources.beecrowd.com/repository/UOJ_3257.html) - [Plantando Árvores](https://potigol.github.io/beecrowd/problemas/3200/#3257-plantando-arvores)
 - [x] [3271](https://resources.beecrowd.com/repository/UOJ_3271.html) - [Jogo de Dados](https://potigol.github.io/beecrowd/problemas/3200/#3271-jogo-de-dados)
+- [x] [3272](https://resources.beecrowd.com/repository/UOJ_3272.html) - [Cerimônia de Abertura](https://potigol.github.io/beecrowd/problemas/3200/#3272-cerimonia-de-abertura)
 - [x] [3308](https://resources.beecrowd.com/repository/UOJ_3308.html) - [Elevador](https://potigol.github.io/beecrowd/problemas/3300/#3308-elevador)
 - [x] [3312](https://resources.beecrowd.com/repository/UOJ_3312.html) - [Imberbe Matemático](https://potigol.github.io/beecrowd/problemas/3300/#3312-imberbe-matematico)
 - [x] [3339](https://resources.beecrowd.com/repository/UOJ_3339.html) - [Carina](https://potigol.github.io/beecrowd/problemas/3300/#3339-carina)
@@ -272,7 +273,6 @@
 - [ ] [3265](https://resources.beecrowd.com/repository/UOJ_3265.html) - Reconstrução de Dança
 - [ ] [3266](https://resources.beecrowd.com/repository/UOJ_3266.html) - Dartboard
 - [ ] [3270](https://resources.beecrowd.com/repository/UOJ_3270.html) - Praça Catalã
-- [ ] [3272](https://resources.beecrowd.com/repository/UOJ_3272.html) - Cerimônia de Abertura
 - [ ] [3276](https://resources.beecrowd.com/repository/UOJ_3276.html) - Quantos Quadrados?
 - [ ] [3304](https://resources.beecrowd.com/repository/UOJ_3304.html) - Alguma Sorte!
 - [ ] [3341](https://resources.beecrowd.com/repository/UOJ_3341.html) - Grandmaster do Jogo do Caneco
