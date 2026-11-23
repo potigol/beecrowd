@@ -1,4 +1,4 @@
-# Problemas 3400 (32/100)
+# Problemas 3400 (33/100)
 
 - [ ] [3400](https://resources.beecrowd.com/repository/UOJ_3400.html) - Amigo não tão secreto assim *Ad-Hoc*
 - [ ] [3401](https://resources.beecrowd.com/repository/UOJ_3401.html) - Bicho da Goiaba Ataca Novamente *Ad-Hoc*
@@ -20,7 +20,7 @@
 - [ ] [3417](https://resources.beecrowd.com/repository/UOJ_3417.html) - Falcatrua *Ad-Hoc*
 - [ ] [3418](https://resources.beecrowd.com/repository/UOJ_3418.html) - La Chaleur *Ad-Hoc*
 - [ ] [3419](https://resources.beecrowd.com/repository/UOJ_3419.html) - Kimi Räikkönen *Ad-Hoc*
-- [ ] [3420](https://resources.beecrowd.com/repository/UOJ_3420.html) - House of Cards *Ad-Hoc*
+- [x] [3420](https://resources.beecrowd.com/repository/UOJ_3420.html) - [House of Cards](https://potigol.github.io/beecrowd/problemas/3400/#3420-house-of-cards) *Ad-Hoc*
 - [ ] [3421](https://resources.beecrowd.com/repository/UOJ_3421.html) - Infinita String de Dígitos *Ad-Hoc*
 - [x] [3422](https://resources.beecrowd.com/repository/UOJ_3422.html) - [José e a Súmula](https://potigol.github.io/beecrowd/problemas/3400/#3422-jose-e-a-sumula) *Ad-Hoc*
 - [ ] [3423](https://resources.beecrowd.com/repository/UOJ_3423.html) - Gostos Peculiares *Ad-Hoc*

@@ -11,7 +11,6 @@
 [Grafos](grafos.md) ·
 [Geometria Computacional](geometriacomputacional.md)
 
-
 ## 2026
 
 - [ ] [3510](https://judge.beecrowd.com/pt/problems/fullscreen/3510) - Sequência Válida *Estruturas e Bibliotecas*

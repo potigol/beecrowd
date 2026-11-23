@@ -1,4 +1,4 @@
-# Fase Zero - Maratona SBC (9 / 51)
+# Fase Zero - Maratona SBC (11 / 51)
 
 ## Categorias
 
@@ -10,7 +10,6 @@
 [Paradigmas](paradigmas.md) ·
 [Grafos](grafos.md) ·
 [Geometria Computacional](geometriacomputacional.md)
-
 
 ## 2025
 
@@ -47,7 +46,7 @@
 
 ## 2023
 
-- [ ] [3453](https://resources.beecrowd.com/repository/UOJ_3453.html) - Carlinhos Adora Problemas *Ad-Hoc*
+- [x] [3453](https://resources.beecrowd.com/repository/UOJ_3453.html) - [Carlinhos Adora Problemas](https://potigol.github.io/beecrowd/problemas/3400/#3453-carlinhos-adora-problemas) *Ad-Hoc*
 - [x] [3454](https://resources.beecrowd.com/repository/UOJ_3454.html) - [Alice no País do Jogo da Velha](https://potigol.github.io/beecrowd/problemas/3400/#3454-alice-no-pais-do-jogo-da-velha) *Ad-Hoc*
 - [x] [3455](https://resources.beecrowd.com/repository/UOJ_3455.html) - [Banco Nacional de Questões](https://potigol.github.io/beecrowd/problemas/3400/#3455-banco-nacional-de-questoes) *Ad-Hoc*
 - [x] [3456](https://resources.beecrowd.com/repository/UOJ_3456.html) - [Divisibilidade por 7](https://potigol.github.io/beecrowd/problemas/3400/#3456-divisibilidade-por-7) *Ad-Hoc*
@@ -70,7 +69,7 @@
 - [ ] [3417](https://resources.beecrowd.com/repository/UOJ_3417.html) - Falcatrua *Ad-Hoc*
 - [ ] [3418](https://resources.beecrowd.com/repository/UOJ_3418.html) - La Chaleur *Ad-Hoc*
 - [ ] [3419](https://resources.beecrowd.com/repository/UOJ_3419.html) - Kimi Räikkönen *Ad-Hoc*
-- [ ] [3420](https://resources.beecrowd.com/repository/UOJ_3420.html) - House of Cards *Ad-Hoc*
+- [x] [3420](https://resources.beecrowd.com/repository/UOJ_3420.html) - [House of Cards](https://potigol.github.io/beecrowd/problemas/3400/#3420-house-of-cards) *Ad-Hoc*
 - [ ] [3421](https://resources.beecrowd.com/repository/UOJ_3421.html) - Infinita String de Dígitos *Ad-Hoc*
 - [x] [3422](https://resources.beecrowd.com/repository/UOJ_3422.html) - [José e a Súmula](https://potigol.github.io/beecrowd/problemas/3400/#3422-jose-e-a-sumula) *Ad-Hoc*
 - [ ] [3423](https://resources.beecrowd.com/repository/UOJ_3423.html) - Gostos Peculiares *Ad-Hoc*

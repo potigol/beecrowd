@@ -1,4 +1,4 @@
-# Ad-Hoc (281 / 863)
+# Ad-Hoc (282 / 863)
 
 ## Problemas resolvidos
 
@@ -257,6 +257,7 @@
 - [x] [3408](https://resources.beecrowd.com/repository/UOJ_3408.html) - [Ignore as Letras](https://potigol.github.io/beecrowd/problemas/3400/#3408-ignore-as-letras)
 - [x] [3412](https://resources.beecrowd.com/repository/UOJ_3412.html) - [Avaliações de Algoritmos](https://potigol.github.io/beecrowd/problemas/3400/#3412-avaliacoes-de-algoritmos)
 - [x] [3416](https://resources.beecrowd.com/repository/UOJ_3416.html) - [Eu Quero Cafééé](https://potigol.github.io/beecrowd/problemas/3400/#3416-eu-quero-cafeee)
+- [x] [3420](https://resources.beecrowd.com/repository/UOJ_3420.html) - [House of Cards](https://potigol.github.io/beecrowd/problemas/3400/#3420-house-of-cards)
 - [x] [3422](https://resources.beecrowd.com/repository/UOJ_3422.html) - [José e a Súmula](https://potigol.github.io/beecrowd/problemas/3400/#3422-jose-e-a-sumula)
 - [x] [3424](https://resources.beecrowd.com/repository/UOJ_3424.html) - [Achando os Monótonos Não-Triviais Maximais](https://potigol.github.io/beecrowd/problemas/3400/#3424-achando-os-monotonos-nao-triviais-maximais)
 - [x] [3432](https://resources.beecrowd.com/repository/UOJ_3432.html) - [Interceptando Informações](https://potigol.github.io/beecrowd/problemas/3400/#3432-interceptando-informacoes)
@@ -824,7 +825,6 @@
 - [ ] [3417](https://resources.beecrowd.com/repository/UOJ_3417.html) - Falcatrua
 - [ ] [3418](https://resources.beecrowd.com/repository/UOJ_3418.html) - La Chaleur
 - [ ] [3419](https://resources.beecrowd.com/repository/UOJ_3419.html) - Kimi Räikkönen
-- [ ] [3420](https://resources.beecrowd.com/repository/UOJ_3420.html) - House of Cards
 - [ ] [3421](https://resources.beecrowd.com/repository/UOJ_3421.html) - Infinita String de Dígitos
 - [ ] [3423](https://resources.beecrowd.com/repository/UOJ_3423.html) - Gostos Peculiares
 - [ ] [3425](https://resources.beecrowd.com/repository/UOJ_3425.html) - Brincando com Pedras
