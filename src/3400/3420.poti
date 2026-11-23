@@ -1,0 +1,13 @@
+t = leia_inteiro
+
+para i de 1 até t faça
+    c = leia_real
+
+    var res := (1 / 6 + raiz(1 / 36 + 2 * c / 3)).piso
+
+    se res * (3 * res + 1) / 2 > c então
+        res := res - 1
+    fim
+
+    escreva res formato "%.0f"
+fim
