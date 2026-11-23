@@ -9,33 +9,33 @@ Mais de 800 problemas da plataforma [Beecrowd](https://beecrowd.com) resolvidos 
 
 ## Problemas por categoria
 
-- [Iniciante](categorias/iniciante.md): fundamentos de entrada, saída e lógica.
-- [Ad-hoc](categorias/adhoc.md): simulação, datas e problemas gerais.
-- [Strings](categorias/strings.md): palíndromos, frequência, LCS e manipulação de texto.
-- [Estruturas e Bibliotecas](categorias/estruturasebibliotecas.md): filas, pilhas, ordenação e mapas.
-- [Matemática](categorias/matemática.md): sistemas numéricos, primos e BigInteger.
-- [Paradigmas](categorias/paradigmas.md): programação dinâmica, busca binária, gulosos e backtracking.
-- [Grafos](categorias/grafos.md): flood fill, MST, SSSP, DAG, fluxo máximo e árvores.
-- [Geometria Computacional](categorias/geometriacomputacional.md): pontos, linhas e polígonos.
+- [Iniciante](docs/categorias/iniciante.md): fundamentos de entrada, saída e lógica.
+- [Ad-hoc](docs/categorias/adhoc.md): simulação, datas e problemas gerais.
+- [Strings](docs/categorias/strings.md): palíndromos, frequência, LCS e manipulação de texto.
+- [Estruturas e Bibliotecas](docs/categorias/estruturasebibliotecas.md): filas, pilhas, ordenação e mapas.
+- [Matemática](docs/categorias/matemática.md): sistemas numéricos, primos e BigInteger.
+- [Paradigmas](docs/categorias/paradigmas.md): programação dinâmica, busca binária, gulosos e backtracking.
+- [Grafos](docs/categorias/grafos.md): flood fill, MST, SSSP, DAG, fluxo máximo e árvores.
+- [Geometria Computacional](docs/categorias/geometriacomputacional.md): pontos, linhas e polígonos.
 
 ## Soluções
 
-[1000–1099](problemas/1000.md), [1100–1199](problemas/1100.md), [1200–1299](problemas/1200.md),
-[1300–1399](problemas/1300.md), [1400–1499](problemas/1400.md), [1500–1599](problemas/1500.md),
-[1600–1699](problemas/1600.md), [1700–1799](problemas/1700.md), [1800–1899](problemas/1800.md),
-[1900–1999](problemas/1900.md), [2000–2099](problemas/2000.md), [2100–2199](problemas/2100.md),
-[2200–2299](problemas/2200.md), [2300–2399](problemas/2300.md), [2400–2499](problemas/2400.md),
-[2500–2599](problemas/2500.md), [2600–2699](problemas/2600.md), [2700–2799](problemas/2700.md),
-[2800–2899](problemas/2800.md), [2900–2999](problemas/2900.md), [3000–3099](problemas/3000.md),
-[3100–3199](problemas/3100.md), [3200–3299](problemas/3200.md), [3300–3399](problemas/3300.md),
-[3400–3499](problemas/3400.md), [3500–3599](problemas/3500.md)
+[1000–1099](src/1000.md), [1100–1199](src/1100.md), [1200–1299](src/1200.md),
+[1300–1399](src/1300.md), [1400–1499](src/1400.md), [1500–1599](src/1500.md),
+[1600–1699](src/1600.md), [1700–1799](src/1700.md), [1800–1899](src/1800.md),
+[1900–1999](src/1900.md), [2000–2099](src/2000.md), [2100–2199](src/2100.md),
+[2200–2299](src/2200.md), [2300–2399](src/2300.md), [2400–2499](src/2400.md),
+[2500–2599](src/2500.md), [2600–2699](src/2600.md), [2700–2799](src/2700.md),
+[2800–2899](src/2800.md), [2900–2999](src/2900.md), [3000–3099](src/3000.md),
+[3100–3199](src/3100.md), [3200–3299](src/3200.md), [3300–3399](src/3300.md),
+[3400–3499](src/3400.md), [3500–3599](src/3500.md)
 
 ## Problemas de Competições de Programação
 
-- [Maratona de Programação da SBC/ACM](competicoes/maratona/README.md)
-- [Olimpíada Brasileira de Informática (OBI)](competicoes/obi/README.md)
-- [Olimpíada Interna de Programação do IFSULDEMINAS (OLIP)](competicoes/olip/README.md)
-- [Fase Zero da Mratona de Programação da SBC](competicoes/fasezero/README.md)
+- [Maratona de Programação da SBC/ACM](docs/competicoes/maratona/README.md)
+- [Olimpíada Brasileira de Informática (OBI)](docs/competicoes/obi/README.md)
+- [Olimpíada Interna de Programação do IFSULDEMINAS (OLIP)](docs/competicoes/olip/README.md)
+- [Fase Zero da Mratona de Programação da SBC](docs/competicoes/fasezero/README.md)
 
 ## Verificação das soluções
 
